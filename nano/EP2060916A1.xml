@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FLUORESCENT SEMICONDUCTOR MICROPARTICLE ASSEMBLY, FLUORESCENT LABELING AGENT ASSEMBLY FOR BIOLOGICAL SUBSTANCE, AND BIOIMAGING METHOD AND BIOLOGICAL SUBSTANCE ANALYSIS METHOD USING THE ASSEMBLIES
+</Title>
+<PublicationNumber>
+EP2060916A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TSUKADA KAZUYA [JP]
+</Name>
+<Name>
+OKADA HISATAKE [JP]
+</Name>
+<Name>
+HOSHINO HIDEKI [JP]
+</Name>
+<Name>
+TSUKADA, KAZUYA
+</Name>
+<Name>
+OKADA, HISATAKE
+</Name>
+<Name>
+HOSHINO, HIDEKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONICA MINOLTA MED &amp; GRAPHIC [JP]
+</Name>
+<Name>
+KONICA MINOLTA MEDICAL &amp; GRAPHIC, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2060916
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070792854
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP66256
+</PriorityNumber>
+<PriorityDate>
+2007-08-22
+</PriorityDate>
+<PriorityNumber>
+JP20060249208
+</PriorityNumber>
+<PriorityDate>
+2006-09-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12Q1/02
+</Class>
+<Class>
+G01N21/64
+</Class>
+<Class>
+G01N21/78
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/545
+</Class>
+<Class>
+G01N33/553
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N21/64S
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/58J
+</Class>
+</NCL>
+<Abstract>
+Disclosed is a fluorescent semiconductor microparticle assembly comprising at least three kinds of fluorescent semiconductor microparticles with an average particle size of from 1 to 10 nm, having the same chemical composition, a different average particle size and a different emission maximum wavelength in the emission spectra, wherein a standard deviation of emission intensity in each of the at least three kinds of fluorescent semiconductor microparticles is not more than 15%.
+</Abstract>
+<Claims>
+<P>
+1. A fluorescent semiconductor microparticle assembly comprising at least three kinds of fluorescent semiconductor microparticles with a particle size of from 1 to 10 nm, having the same chemical composition, a different particle size and a different emission maximum wavelength in the emission spectra, characterized in that a standard deviation of emission intensity in each of the at least three kinds of fluorescent semiconductor microparticles is not more than 15%.
+</P>
+<P>
+2. The fluorescent semiconductor microparticle assembly of claim 1, characterized in that the wavelength of emission maximum in the emission spectra is in the range of from 380 to 800 nm.
+</P>
+<P>
+3. The fluorescent semiconductor microparticle assembly of claim 1 or 2, characterized in that the at least three kinds of fluorescent semiconductor microparticles having a different emission maximum wavelength in the emission spectra emit light on irradiation with one kind of excitation light.
+</P>
+<P>
+4. A method of manufacturing the fluorescent semiconductor microparticle assembly of any one of claims 1 through 3, characterized in that the fluorescent semiconductor microparticles are manufactured according to a liquid phase method.
+</P>
+<P>
+5. A fluorescent labeling agent assembly for a biological substance, characterized in that the fluorescent semiconductor microparticles, constituting the fluorescent semiconductor microparticle assembly of any one of claims 1 through 4, have on the surface a surface-modifying compound having a functional group through which is associated with a biological substance and a functional group through which is associated with the fluorescent semiconductor microparticle surface.
+</P>
+<P>
+6. The fluorescent labeling agent assembly for a biological substance of claim 5, characterized in that the fluorescent semiconductor microparticles having a different particle size, constituting the fluorescent semiconductor microparticle assembly of any one of claims 1 through 4, have on the surface a different surface-modifying compound suitable for a different biological substance.
+</P>
+<P>
+7. A bioimaging method characterized in that fluorescent dynamic imaging of at least three kinds of target or trace substances is simultaneously carried out, employing the fluorescent labeling agent assembly for a biological substance of claim 5 or 6.
+</P>
+<P>
+8. A biological substance analysis method characterized in that multi-flow cytometry of a biological substance is carried out, employing polymer beads in which the fluorescent semiconductor microparticle assembly of any one of claims 1 through 3 is buried.
+</P>
+</Claims>
+<Also_published_as>
+EP2060916A4;US2010041017A1;US8110407B2;WO2008032534A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR HIGH DENSITY DATA STORAGE AND IMAGING
+</Title>
+<PublicationNumber>
+EP1994078A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HEDRICK JAMES LUPTON [US]
+</Name>
+<Name>
+FROMMER JANE ELIZABETH [US]
+</Name>
+<Name>
+WINDELN JOHANNES [DE]
+</Name>
+<Name>
+DUERIG URS [CH]
+</Name>
+<Name>
+LEE VICTOR YEE-WAY [US]
+</Name>
+<Name>
+GOTSMANN BERND [CH]
+</Name>
+<Name>
+MILLER ROBERT DENNIS [US]
+</Name>
+<Name>
+HAGBERG ERIK [US]
+</Name>
+<Name>
+MAGBITANG TEDDIE [US]
+</Name>
+<Name>
+KNOLL ARMIN [CH]
+</Name>
+<Name>
+PRATT RUSSELL CLAYTON [US]
+</Name>
+<Name>
+WADE CHARLES [US]
+</Name>
+<Name>
+HEDRICK, JAMES LUPTON
+</Name>
+<Name>
+FROMMER, JANE ELIZABETH
+</Name>
+<Name>
+WINDELN, JOHANNES
+</Name>
+<Name>
+DUERIG, URS
+</Name>
+<Name>
+LEE, VICTOR YEE-WAY
+</Name>
+<Name>
+GOTSMANN, BERND
+</Name>
+<Name>
+MILLER, ROBERT DENNIS
+</Name>
+<Name>
+HAGBERG, ERIK
+</Name>
+<Name>
+MAGBITANG, TEDDIE
+</Name>
+<Name>
+KNOLL, ARMIN
+</Name>
+<Name>
+PRATT, RUSSELL CLAYTON
+</Name>
+<Name>
+WADE, CHARLES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBM [US]
+</Name>
+<Name>
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1994078
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070726443
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP51622
+</PriorityNumber>
+<PriorityDate>
+2007-02-20
+</PriorityDate>
+<PriorityNumber>
+US20060358774
+</PriorityNumber>
+<PriorityDate>
+2006-02-21
+</PriorityDate>
+<PriorityNumber>
+US20070626431
+</PriorityNumber>
+<PriorityDate>
+2007-01-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C08G73/12
+</Class>
+<Class>
+G11B9/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B9/14M2B4
+</Class>
+<Class>
+G11B9/14R4
+</Class>
+</NCL>
+<Abstract>
+An approach is presented for designing a polymeric layer for nanometer scale thermo-mechanical storage devices. Cross-linked polyimide oligomers are used as the recording layers in atomic force data storage device, giving significantly improved performance when compared to previously reported cross-linked and linear polymers. The cross-linking of the polyimide oligomers may be tuned to match thermal and force parameters required in read-write-erase cycles. Additionally, the cross-linked polyimide oligomers are suitable for use in nano-scale imaging.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method, comprising:
+</P>
+<P>
+heating a probe to at least 100[deg.] C.;
+</P>
+<P>
+pushing said heated probe into a cross-linked resin layer of polyimide oligomers; and
+</P>
+<P>
+removing said probe from said resin layer, resulting in formation of a deformed region in said resin layer.
+</P>
+<P>
+2. The method of claim 1,
+</P>
+<P>
+wherein said polyimide oligomers have the structure:
+</P>
+<P>
+EMI39.0
+</P>
+<P>
+wherein R&apos; is selected from the group consisting of
+</P>
+<P>
+EMI40.0
+</P>
+<P>
+wherein R&apos;&apos; is selected from the group consisting of
+</P>
+<P>
+EMI41.0
+</P>
+<P>
+wherein n is an integer from about 5 to about 50.
+</P>
+<P>
+3. The method of claim 2, wherein said layer of polyimide oligomers includes a reactive diluent, said reactive diluent selected from the group consisting of:
+</P>
+<P>
+EMI42.0
+</P>
+<P>
+where R1, R2 and R3 are each independently selected from the group consisting of hydrogen, alkyl groups, aryl groups, cycloalkyl groups, alkoxy groups, aryloxy groups, alkylamino groups, arylamino groups, alkylarylamino groups, arylthio, alkylthio groups and
+</P>
+<P>
+EMI43.0
+</P>
+<P>
+wherein said polyimide oligomers are cross-linked by reactive diluent groups derived from said reactive diluent during said curing.
+</P>
+<P>
+4. The method of claim 3, wherein a glass transition temperature of said resin layer with said reactive diluent groups is within about 50[deg.] C. of a glass transition temperature of an otherwise identical resin layer formed without said reactive diluent groups.
+</P>
+<P>
+5. The method of claim 1:
+</P>
+<P>
+wherein said polyimide oligomers have the structure:
+</P>
+<P>
+E-R&amp;lt;1&amp;gt; &amp;#xe8a0;A1-A2-A3- . . . -AN&amp;#xe8a0;R&amp;lt;2&amp;gt; -R&amp;lt;1&amp;gt; -E;
+</P>
+<P>
+wherein E is
+</P>
+<P>
+EMI44.0
+</P>
+<P>
+wherein each of A1, A2, A3 . . . AN is independently selected from the group consisting of:
+</P>
+<P>
+EMI45.0
+</P>
+<P>
+wherein R&amp;lt;1 &amp;gt; is selected from the group consisting of
+</P>
+<P>
+EMI46.0
+</P>
+<P>
+wherein R&amp;lt;2 &amp;gt; is selected from the group consisting of
+</P>
+<P>
+EMI47.0
+</P>
+<P>
+wherein R&amp;lt;3 &amp;gt; is
+</P>
+<P>
+EMI48.0
+</P>
+<P>
+wherein N is an integer greater than or equal to 2;
+</P>
+<P>
+wherein at least one of A1, A2, A3 . . . AN is
+</P>
+<P>
+EMI49.0
+</P>
+<P>
+wherein at least one of A1, A2, A3 . . . AN is
+</P>
+<P>
+EMI50.0
+</P>
+<P>
+6. The method of claim 1, wherein after said curing, said resin layer is cross-linked by said reactive endgroups of said polyimide oligomers.
+</P>
+<P>
+7. The method of claim 1, wherein said polyimide oligomers include reactive pendent groups attached along backbones of said polyimide oligomers and after said curing, said resin layer is cross-linked by said reactive pendent groups.
+</P>
+<P>
+8. The method of claim 1, wherein a glass transition temperature of said resin layer is less than about 250[deg.] C.
+</P>
+<P>
+9. The method of claim 1, wherein a modulus of said resin layer above a glass transition temperature of said resin layer is between about 1.5 and about 3.0 decades lower than a modulus of said resin layer below said glass transition temperature of said resin layer.
+</P>
+<P>
+10. The method of claim 1, wherein said resin layer is thermally and oxidatively stable to at least 400[deg.] C.
+</P>
+<P>
+11. The method of claim 1, further including:
+</P>
+<P>
+removing said resin layer in said deformed region to form an exposed region of a substrate and a region of substrate protected by said resin layer; and
+</P>
+<P>
+modifying at least a portion of said exposed region of substrate.
+</P>
+<P>
+12. The method of claim 1, further including:
+</P>
+<P>
+dragging said probe in a direction parallel to a top surface of said resin layer while heating and pushing said probe, resulting in formation of a trough in said resin layer.
+</P>
+<P>
+13. The method of claim 1, wherein said cross-linked resin layer has a thickness between about 10 nm and about 500 nm and a thickness variation of less than about 1.0 nm across said cross-linked resin layer.
+</P>
+<P>
+14. A method, comprising:
+</P>
+<P>
+bringing a thermal-mechanical probe into proximity with a resin layer multiple times to induce deformed regions at points in said resin layer, said resin layer comprising cross-linked polyimide oligomers, said thermal mechanical probe heating said points in said resin layer above about 100[deg.] C. and thereby writing information in said resin layer.
+</P>
+<P>
+15. The method of claim 14, further including:
+</P>
+<P>
+bringing a thermal-mechanical probe into proximity with said points to read said information.
+</P>
+<P>
+16. The method of claim 15, further including:
+</P>
+<P>
+bringing a thermal-mechanical probe into proximity with one or more of said deformed regions in said resin layer, said thermal mechanical point heating said one or more of said deformed regions to above about 100[deg.] C., thereby deforming said one or more of said deformed regions in such a way as to eliminate said one or more deformed regions, thereby erasing said information.
+</P>
+<P>
+17. The method of claim 16, further including:
+</P>
+<P>
+repeatedly writing, reading and erasing information at points in said resin layer.
+</P>
+<P>
+18. The method of claim 14,
+</P>
+<P>
+wherein said polyimide oligomers have the structure:
+</P>
+<P>
+EMI51.0
+</P>
+<P>
+wherein R&apos; is selected from the group consisting of
+</P>
+<P>
+EMI52.0
+</P>
+<P>
+wherein R&apos;&apos; is selected from the group consisting of
+</P>
+<P>
+EMI53.0
+</P>
+<P>
+wherein n is an integer from about 5 to about 50.
+</P>
+<P>
+19. The method of claim 18, said resin layer further including reactive diluent groups, said polyimide oligomers cross-linked by said reactive diluent groups, said reactive diluent groups derived from reactive diluents selected from the group consisting of:
+</P>
+<P>
+EMI54.0
+</P>
+<P>
+where R1, R2 and R3 are each independently selected from the group consisting of hydrogen, alkyl groups, aryl groups, cycloalkyl groups, alkoxy groups, aryloxy groups, alkylamino groups, arylamino groups, alkylarylamino groups, arylthio, alkylthio groups and
+</P>
+<P>
+EMI55.0
+</P>
+<P>
+20. The method of claim 19, wherein a glass transition temperature of said resin layer with said reactive diluent groups is within about 50[deg.] C. of a glass transition temperature of an otherwise identical resin layer formed without said reactive diluent.
+</P>
+<P>
+21. The method of claim 14,
+</P>
+<P>
+wherein said polyimide oligomers have the structure:
+</P>
+<P>
+E-R&amp;lt;1&amp;gt; &amp;#xe8a0;A1-A2-A3- . . . -AN&amp;#xe8a0;R&amp;lt;2&amp;gt; -R&amp;lt;1&amp;gt; -E;
+</P>
+<P>
+wherein E is
+</P>
+<P>
+EMI56.0
+</P>
+<P>
+wherein each of A1, A2, A3 . . . AN is independently selected from the group consisting of:
+</P>
+<P>
+EMI57.0
+</P>
+<P>
+wherein R&amp;lt;1 &amp;gt; is selected from the group consisting of
+</P>
+<P>
+EMI58.0
+</P>
+<P>
+wherein R&amp;lt;2 &amp;gt; is selected from the group consisting of
+</P>
+<P>
+EMI59.0
+</P>
+<P>
+wherein R&amp;lt;3 &amp;gt; is
+</P>
+<P>
+EMI60.0
+</P>
+<P>
+wherein N is an integer greater than or equal to 2;
+</P>
+<P>
+wherein at least one of A1, A2, A3 . . . AN is
+</P>
+<P>
+EMI61.0
+</P>
+<P>
+wherein at least one of A1, A2, A3 . . . AN is
+</P>
+<P>
+EMI62.0
+</P>
+<P>
+22. The method of claim 14, wherein said resin layer is cross-linked by said reactive endgroups of said polyimide oligomers.
+</P>
+<P>
+23. The method of claim 14, wherein said polyimide oligomers include reactive pendent groups attached along backbones of said polyimide oligomers and after said curing, said resin layer is cross-linked by said reactive pendent groups.
+</P>
+<P>
+24. The method of claim 14, wherein a glass transition temperature of said resin layer is between about 120[deg.] C. and about 250[deg.] C.
+</P>
+<P>
+25. The method of claim 14, wherein a modulus of said resin layer above a glass transition temperature of said resin layer is between about 1.5 and about 3.0 decades lower than a modulus of said resin layer below said glass transition temperature of said resin layer.
+</P>
+<P>
+26. The method of claim 14, wherein said cross-linked resin layer has a thickness between about 10 nm and about 500 nm and a thickness variation of less than about 1.0 nm across a writeable region of said cross-linked resin layer.
+</P>
+<P>
+27. A data storage device, comprising:
+</P>
+<P>
+a recording medium comprising a resin layer overlying a substrate, in which topographical states of said resin layer represent data, said resin layer comprising cross-linked polyimide oligomers; and
+</P>
+<P>
+a read-write head having one or more thermo-mechanical probes, each of said thermo-mechanical probes including a resistive region locally heating a tip of said thermo-mechanical probe in response to electrical current being applied to said thermo-mechanical probe; and
+</P>
+<P>
+a scanning system for scanning said read-write head across a surface of said recording medium.
+</P>
+<P>
+28. The data storage device of claim 27,
+</P>
+<P>
+wherein said polyimide oligomers have the structure:
+</P>
+<P>
+EMI63.0
+</P>
+<P>
+wherein R&apos; is selected from the group consisting of
+</P>
+<P>
+EMI64.0
+</P>
+<P>
+wherein R&apos;&apos; is selected from the group consisting of
+</P>
+<P>
+EMI65.0
+</P>
+<P>
+wherein n is an integer from about 5 to about 50.
+</P>
+<P>
+29. The data storage device of claim 28, said resin layer further including reactive diluent groups, said polyimide oligomers cross-linked by said reactive diluent groups, said reactive diluent groups derived from reactive diluents selected from the group consisting of:
+</P>
+<P>
+EMI66.0
+</P>
+<P>
+where R1, R2 and R3 are each independently selected from the group consisting of hydrogen, alkyl groups, aryl groups, cycloalkyl groups, alkoxy groups, aryloxy groups, alkylamino groups, arylamino groups, alkylarylamino groups, arylthio, alkylthio groups and
+</P>
+<P>
+EMI67.0
+</P>
+<P>
+30. The data storage device of claim 29, wherein a glass transition temperature of said resin layer with said reactive diluent groups is within about 50[deg.] C. of a glass transition temperature of an otherwise identical resin layer formed without said reactive diluent.
+</P>
+<P>
+31. The data storage device of claim 27,
+</P>
+<P>
+wherein said polyimide oligomers have the structure
+</P>
+<P>
+E-R&amp;lt;1&amp;gt; &amp;#xe8a0;A1-A2-A3- . . . -AN&amp;#xe8a0;R&amp;lt;2&amp;gt; -R&amp;lt;1&amp;gt; -E;
+</P>
+<P>
+wherein E is
+</P>
+<P>
+EMI68.0
+</P>
+<P>
+wherein each of A1, A2, A3 . . . AN is independently selected from the group consisting of:
+</P>
+<P>
+EMI69.0
+</P>
+<P>
+wherein R&amp;lt;1 &amp;gt; is selected from the group consisting of
+</P>
+<P>
+EMI70.0
+</P>
+<P>
+wherein R&amp;lt;2 &amp;gt; is selected from the group consisting of
+</P>
+<P>
+EMI71.0
+</P>
+<P>
+wherein R&amp;lt;3 &amp;gt; is
+</P>
+<P>
+EMI72.0
+</P>
+<P>
+wherein N is an integer greater than or equal to 2;
+</P>
+<P>
+wherein at least one of A1, A2, A3 . . . AN is
+</P>
+<P>
+EMI73.0
+</P>
+<P>
+wherein at least one of A1, A2, A3 . . . AN is
+</P>
+<P>
+EMI74.0
+</P>
+<P>
+32. The data storage device of claim 27, wherein said resin layer is cross-linked by said reactive endgroups of said polyimide oligomers.
+</P>
+<P>
+33. The data storage device of claim 27, wherein said polyimide oligomers include reactive pendent groups attached along backbones of said polyimide oligomers and after said curing, said resin layer is cross-linked by said reactive pendent groups.
+</P>
+<P>
+34. The data storage device of claim 27, wherein a glass transition temperature of said resin layer is between about 120[deg.] C. and about 250[deg.] C.
+</P>
+<P>
+35. The data storage device of claim 27, wherein a modulus of said resin layer above a glass transition temperature of said resin layer is between about 1.5 and about 3.0 decades lower than a modulus of said resin layer below said glass transition temperature of said resin layer.
+</P>
+<P>
+36. The data storage device of claim 27, comprising:
+</P>
+<P>
+wherein said one or more thermal-mechanical probes are arranged in a two dimensional array; and
+</P>
+<P>
+a heat control circuit for independently applying said electrical current to each of same one or more thermo-mechanical probes;
+</P>
+<P>
+a write control circuit and for independently controlling heating of each of said one or more thermo-mechanical probes by said heat control circuit to write data bits to said recording medium;
+</P>
+<P>
+an erase control circuit for independently controlling heating of each of said one or more thermo-mechanical probes by said heat control circuit to erase data bits from said recording medium; and
+</P>
+<P>
+a read control circuit for independently reading data bits from said recording medium with each of said one or more thermo-mechanical probe.
+</P>
+<P>
+37. The data storage device of claim 27, further including:
+</P>
+<P>
+a contact mechanism for contacting said recording medium with respective tips of said one or more thermo-mechanical probes.
+</P>
+<P>
+38. The data storage device of claim 27, wherein said cross-linked resin layer has a thickness between about 10 nm and about 500 nm and a thickness variation of less than about 1.0 nm across a writeable region of said cross-linked resin layer.
+</P>
+</Claims>
+<Also_published_as>
+EP1994078B1;US2007195682A1;US2012155242A1;US2012034383A1;US2012033539A1;US2007196645A1;US8102753B2;US2008219135A1;US8129496B2;CN101384644A;CN101384644B;AT435255T
+</Also_published_as>
+</BiblioData>

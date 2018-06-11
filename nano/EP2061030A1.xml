@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INFORMATION RECORDING MEDIUM ON WHICH INFORMATION IS RECORDED AS CONVEXES/CONCAVES AND ITS MANUFACTURING METHOD
+</Title>
+<PublicationNumber>
+EP2061030A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ONOE ATSUSHI [JP]
+</Name>
+<Name>
+MAEDA TAKANORI [JP]
+</Name>
+<Name>
+ONOE, ATSUSHI
+</Name>
+<Name>
+MAEDA, TAKANORI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PIONEER CORP [JP]
+</Name>
+<Name>
+PIONEER CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2061030
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070828176
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP67183
+</PriorityNumber>
+<PriorityDate>
+2007-09-04
+</PriorityDate>
+<PriorityNumber>
+JP20060241819
+</PriorityNumber>
+<PriorityDate>
+2006-09-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B9/00
+</Class>
+<Class>
+G11B9/02
+</Class>
+<Class>
+G11B9/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B5/74A
+</Class>
+<Class>
+G11B5/74A2
+</Class>
+<Class>
+G11B9/02
+</Class>
+<Class>
+G11B9/06R2
+</Class>
+<Class>
+G11B9/14R2
+</Class>
+<Class>
+G11B9/14R2B
+</Class>
+</NCL>
+<Abstract>
+A ferroelectric thin film (11) is formed by using ferroelectric bodies having different etching rates in accordance with polarization direction and the ferroelectric thin film (11) is etched so as to form a pit (14) having a maximum length value of 1 nm to 30 nm in the orientation direction. Moreover, the depth of the pit (14) is set so that it is possible to distinguish the electrostatic capacity based on the polarization direction of the ferroelectric thin film (11) from the electrostatic capacity based on the pit (14).
+</Abstract>
+<Claims>
+<P>
+1. An information recording medium comprising:
+</P>
+<P>
+a ferroelectric thin film;
+</P>
+<P>
+an electrode layer disposed under said ferroelectric thin film; and
+</P>
+<P>
+a plurality of concave portions or a plurality of convex portions formed on an upper surface of said ferroelectric thin film,
+</P>
+<P>
+said plurality of concave portions or said plurality of convex portions being arranged so as to correspond to a bit arrangement of digital data,
+</P>
+<P>
+a minimum value of length in an arrangement direction per 1 bit of each of said concave portions or said convex portions being 1 nm or more but not exceeding 30 nm.
+</P>
+<P>
+2. The information recording medium according to claim 1, wherein said ferroelectric thin film is formed of a LiTa1-xNbxO3 (0&amp;lt;=x&amp;lt;=1) single-crystal Z-cut substrate.
+</P>
+<P>
+3. The information recording medium according to claim 1, wherein said ferroelectric thin film is less than or equal to 100 nm thick.
+</P>
+<P>
+4. The information recording medium according to claim 1, wherein a depth of each of said concave portions or a height of each of said convex portions is set such that amount of change in capacitance of said ferroelectric thin film based on a polarization direction of said ferroelectric thin film is greater than that based on presence or absence of said concave portions or said convex portions.
+</P>
+<P>
+5. The information recording medium according to claim 1, wherein a depth of each of said concave portions or a height of each of said convex portions is greater than or equal to 15 nm.
+</P>
+<P>
+6. The information recording medium according to claim 1, wherein
+</P>
+<P>
+said ferroelectric thin film is formed of a ferroelectric substance whose etching rate varies depending on a difference in a polarization direction,
+</P>
+<P>
+the upper surface of said ferroelectric thin film crosses the polarization direction of the ferroelectric substance, and
+</P>
+<P>
+said concave portions or said convex portions are formed by bringing a tip of a probe close to or into contact with the upper surface of said ferroelectric thin film, by applying a voltage between the tip of the probe and said electrode layer to thereby locally change the polarization direction of the ferroelectric substance, and then by bringing the upper surface of said ferroelectric thin film into contact with an etchant to thereby etch the upper surface.
+</P>
+<P>
+7. An information recording medium comprising:
+</P>
+<P>
+a ferroelectric thin film;
+</P>
+<P>
+an electrode layer disposed under said ferroelectric thin film; and
+</P>
+<P>
+a plurality of concave portions or a plurality of convex portions formed on an upper surface of said ferroelectric thin film,
+</P>
+<P>
+said plurality of concave portions or said plurality of convex portions being arranged so as to correspond to a bit arrangement of digital data,
+</P>
+<P>
+a depth of each of said concave portions or a height of each of said convex portions being set such that amount of change in capacitance of said ferroelectric thin film based on a polarization direction of said ferroelectric thin film is greater than that based on presence or absence of said concave portions or said convex portions.
+</P>
+<P>
+8. The information recording medium according to claim 7, wherein a depth of each of said concave portions or a height of each of said convex portions is greater than or equal to 15 nm.
+</P>
+<P>
+9. A method of manufacturing an information recording medium in which information is recorded as physical concave portions or convex portions in a medium material, said method comprising:
+</P>
+<P>
+a voltage applying process of locally changing a polarization direction of a ferroelectric substance by preparing the medium material, which has a ferroelectric thin film and an electrode layer, the ferroelectric thin film being formed of the ferroelectric substance whose etching rate varies depending on a difference in the polarization direction and having an upper surface crossing the polarization direction of the ferroelectric substance, the electrode layer being jointed to a lower surface of the ferroelectric thin film, by bringing a tip of a probe close to or into contact with the upper surface, and by applying a voltage between the tip of the probe and the electrode layer; and
+</P>
+<P>
+an etching process of etching the upper surface by bringing the upper surface of the ferroelectric thin film of the medium material after said voltage applying process into contact with an etchant to thereby etch the upper surface.
+</P>
+<P>
+10. The method of manufacturing according to claim 9, wherein the ferroelectric thin film is formed of a LiTa1-xNbxO3 (0&amp;lt;=x&amp;lt;=1) single-crystal Z-cut substrate.
+</P>
+<P>
+11. The method of manufacturing according to claim 9, wherein said ferroelectric thin film is less than or equal to 100 nm thick.
+</P>
+<P>
+12. The method of manufacturing according to claim 9, wherein in said voltage applying process, tips of a plurality of probes disposed in a probe array are brought close to or into contact with the upper surface of the ferroelectric thin film, and a voltage is applied between the tip of each of the probes and the electrode layer.
+</P>
+</Claims>
+<Also_published_as>
+EP2061030A4;US2010003461A1;JP4530374B2;WO2008029787A1
+</Also_published_as>
+</BiblioData>

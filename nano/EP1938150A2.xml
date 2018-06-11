@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+COLLECTOR FOR LIGHTING SYSTEMS WITH A WAVELENGTH &amp;lt;/= 193 NM
+</Title>
+<PublicationNumber>
+EP1938150A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HAINZ JOACHIM [DE]
+</Name>
+<Name>
+ENDRES MARTIN [DE]
+</Name>
+<Name>
+SINGER WOLFGANG [DE]
+</Name>
+<Name>
+KLEEMANN BERND [DE]
+</Name>
+<Name>
+BADER DIETER [DE]
+</Name>
+<Name>
+HAINZ, JOACHIM
+</Name>
+<Name>
+ENDRES, MARTIN
+</Name>
+<Name>
+SINGER, WOLFGANG
+</Name>
+<Name>
+KLEEMANN, BERND
+</Name>
+<Name>
+BADER, DIETER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ZEISS CARL SMT AG [DE]
+</Name>
+<Name>
+CARL ZEISS SMT AG
+</Name>
+<Name>
+CARL ZEISS SMT GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1938150
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060806336
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006EP10004
+</PriorityNumber>
+<PriorityDate>
+2006-10-17
+</PriorityDate>
+<PriorityNumber>
+US20050727892P
+</PriorityNumber>
+<PriorityDate>
+2005-10-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70D16D
+</Class>
+<Class>
+G03F7/70D16F
+</Class>
+<Class>
+G03F7/70D20
+</Class>
+<Class>
+G03F7/70F4
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a collector for lighting systems with a wavelength of = 193 nm, preferably = 126 nm, particularly preferred EUV radiation, comprising: a first mirror shell (1212.1) and a second mirror shell (1212.2), the first mirror shell (1212.1) being placed inside the second mirror shell (1212.2), and the first mirror shell (1212.1) and/or the second mirror shell (1212.2) have/has a rotationally symmetric and a non-rotationally symmetric portion.
+</Abstract>
+<Claims>
+<P>
+Patentansprüche
+</P>
+<P>
+1. Kollektor für Beleuchtungssysteme für eine Wellenlänge &amp;lt; 193 nm, bevorzugt &amp;lt; 126 nm, besonders bevorzugt EUV-Strahlung umfassend: eine erste Spiegelschale (1212.1) und eine zweite Spiegelschale (1212.2), wobei die erste Spiegelschale (1212.1) innerhalb der zweiten Spiegelschale (1212.2) angeordnet ist, und die erste Spiegelschale (1212.1) und/oder die zweite Spiegelschale (1212.2) eine geschlossene Spiegelfläche ist, die einen rotationssymmetrischen Anteil und einen nicht rotationssymmetrischen Anteil umfasst.
+</P>
+<P>
+2. Kollektor gemäss Anspruch 1 , wobei die erste (1212.1) und/oder die zweite Spiegelschale (1212.2) ein erstes Segment mit einer ersten optischen Fläche und ein zweites Segment mit einer zweiten optischen Fläche umfasst.
+</P>
+<P>
+3. Kollektor gemäss Anspruch 2, wobei das erste Segment ein Rotationshyperboloid (800) ist und das zweite Segment ein Rotationsellipsoid (802) ist, wobei der nicht rotationssymmetrischer Anteil zu dem Rotationshyperboloiden und/oder Rotationsellipsoiden hinzuaddiert oder abgezogen wird.
+</P>
+<P>
+4. Kollektor gemäss einem der Ansprüche 1 bis 3, wobei wenigstens die erste Spiegelschale (1212.1) und/oder die zweite Spiegelschale (1212.2) eine Symmetrieachse aufweisen.
+</P>
+<P>
+5. Kollektor gemäss Anspruch 4, wobei die Symmetrieachse eine gemeinsame Symmetrieachse für die erste Spiegelschale (1212.1) und die zweite Spiegelschale (1212.2) sind.
+</P>
+<P>
+6. Kollektor gemäss Anspruch 4 oder 5, wobei die erste und/oder die zweite Spiegelschale eine n-zählige Symmetrie um die Symmetrieachse aufweisen, wobei n eine natürliche ganze Zahl ist.
+</P>
+<P>
+7. Kollektor gemäss Anspruch 6, wobei die Symmetrie um die Symmetrieachse eine der nachfolgenden
+</P>
+<P>
+Symmetrien ist:
+</P>
+<P>
+- eine zweizählige Symmetrie,
+</P>
+<P>
+- eine dreizählige Symmetrie,
+</P>
+<P>
+- eine vierzählige Symmetrie, - eine fünfzählige Symmetrie
+</P>
+<P>
+- eine sechszählige Symmetrie
+</P>
+<P>
+- eine siebenzählige Symmetrie
+</P>
+<P>
+- eine achtzählige Symmetrie
+</P>
+<P>
+8. Kollektor gemäss einem der Ansprüche 1 bis 7, wobei der Kollektor Licht einer Lichtquelle aufnimmt und in eine Ebene, die im Lichtweg hinter dem Kollektor liegt, leitet, wobei der nicht rotationssymmetrische Anteil der geschlossenen Spiegelschale derart gewählt ist, dass in der Ebene eine Ausleuchtung im Wesentlichen in rechteckiger Form vorliegt.
+</P>
+<P>
+9. Kollektor gemäss einem der Ansprüche 1 bis 8, wobei der Kollektor im
+</P>
+<P>
+Inneren der Spiegelschale die am nächsten zur Achse angeordnet ist, eine Blende aufweist.
+</P>
+<P>
+10. Kollektor gemäss einem der Ansprüche 1 bis 9, wobei wenigstens die erste Spiegelschale (1212.1) und eine zweite Spiegelschale (1212.2) Licht in eine Ebene leiten, die in einem
+</P>
+<P>
+Lichtweg hinter dem Kollektor zum Liegen kommt, so dass in dieser Ebene eine erste Ausleuchtung (A6.1) und eine zweite Ausleuchtung (A6.2) ausgebildet wird, und erste und zweite Ausleuchtung
+</P>
+<P>
+(A6.1 , A6.2) einen Abstand zueinander aufweisen.
+</P>
+<P>
+11. Kollektor nach Anspruch 10, dadurch gekennzeichnet, dass der Abstand der ersten und der zweiten Ausleuchtung (A6.1 , A6.2) derart gewählt ist, dass bei einer thermalen Deformation der ersten oder der zweiten Spiegelschale oder bei einer Veränderung der Lichtquelle in Form oder Abstrahlcharakteristik die erste und die zweite Ausleuchtung (A6.1 , A6.2) in der Ebene nicht überlappen.
+</P>
+<P>
+12. Kollektor nach Anspruch 11 , dadurch gekennzeichnet, dass der Abstand grösser ist als 1 mm, bevorzugt grösser ist als 5 mm.
+</P>
+<P>
+13. Kollektor nach einem der Ansprüche 10 bis 12, wobei in der Ebene eine Vielzahl von Rasterelementen in einer Anordnung mit einer Form zur Verfügung gestellt wird und die erste und/oder zweite Ausleuchtung (A6.1 , A6.2) eine geometrische Form aufweist, die im Wesentlichen der Form der Anordnung der Vielzahl von Rasterelementen entspricht.
+</P>
+<P>
+14. Kollektor nach einem der Ansprüche 10 bis 13, wobei die Ausleuchtung im Wesentlichen eine rechteckige Form, insbesondere eine quadratische Form aufweist.
+</P>
+<P>
+15. Kollektor für Beleuchtungssysteme für eine Wellenlänge &amp;lt;= 193 nm, bevorzugt &amp;lt; 126 nm, besonders bevorzugt EUV-Wellenlängen umfassend: wenigstens eine erste Spiegelschale (1212.1) oder ein erstes Schalensegment und eine zweite Spiegelschale (1212.2) oder ein zweites Schalensegment zur Aufnahme von Licht einer Lichtquelle, wobei die erste Spiegelschale oder das erste Schalensegment und die zweite Schale oder das zweite Schalensegment das Licht aufnimmt und in eine Ebene, die in einem Lichtweg hinter dem Kollektor zum Liegen kommt, leitet, so dass in der Ebene eine erste Ausleuchtung (A6.1) und eine zweite
+</P>
+<P>
+Ausleuchtung (A6.2) ausgebildet wird, und erste und zweite Ausleuchtung (A6.1 , A6.2) einen Abstand zueinander aufweisen.
+</P>
+<P>
+16. Kollektor nach Anspruch 15, dadurch gekennzeichnet, dass der Abstand der ersten und der zweiten Ausleuchtung (A6.1 , A6.2) derart gewählt ist, dass bei einer thermalen Deformation der ersten oder der zweiten Spiegelschale oder des ersten oder des zweiten Schalensegments oder bei einer Veränderung der Lichtquelle in Form oder
+</P>
+<P>
+Abstrahlcharakteristik die erste und die zweite Ausleuchtung (A6.1 , A6.2) in der Ebene nicht überlappen.
+</P>
+<P>
+17. Kollektor nach Anspruch 15 oder 16, dadurch gekennzeichnet, dass der Abstand grösser ist als 1 mm, bevorzugt grösser ist als 5 mm.
+</P>
+<P>
+18. Kollektor nach einem der Ansprüche 15 bis 17, wobei in der Ebene eine Vielzahl von Rasterelement in einer Form angeordnet sind und die erste und/oder zweite Ausleuchtung (A6.1 , A6.2) eine geometrische Form aufweist, die im Wesentlichen der Form der Anordnung der Vielzahl von
+</P>
+<P>
+Rasterelementen in der Ebene entspricht.
+</P>
+<P>
+19. Kollektor nach einem der Ansprüche 15 bis 18, wobei die erste und die zweite Ausleuchtung im Wesentlichen eine rechteckige Form, insbesondere eine quadratische Form aufweist.
+</P>
+<P>
+20. Kollektor nach einem der Ansprüche 15 bis 19, wobei die erste Schale und die zweite Schale geschlossene Flächen sind, die rotationssymmetrisch um eine Rotationsachse sind.
+</P>
+<P>
+21. Beleuchtungssystem für eine Wellenlänge &amp;lt; 193 nm, bevorzugt &amp;lt; 126 nm, insbesondere im EUV-Wellenlängenbereich umfassend einen Kollektor (3), gemäss einem der Ansprüche 1 bis 20, wobei der Kollektor (3) im Lichtweg von einer Lichtquelle (1) zu einer Ebene (103, 1103), in der eine Ausleuchtung vorliegt, zwischen der Lichtquelle (1) und der Ebene (103,
+</P>
+<P>
+1103) angeordnet ist und in oder nahe der Ebene (103) ein facettiertes optisches Element (102) zur Verfügung gestellt wird.
+</P>
+<P>
+22. Beleuchtungssystem nach Anspruch 21 , wobei das facettierte optische Element (102) eine Vielzahl von Feldrasterelementen (402, 502, 1300) umfasst.
+</P>
+<P>
+23. Beleuchtungssystem nach Anspruch 22, wobei die Feldrasterelemente
+</P>
+<P>
+(1300) des facettierten optischen Elementes derart angeordnet sind, dass sie in der Ebene (1103) im Wesentlichen im Bereich der Ausleuchtung (A6.1 , A6.2, A6.3) angeordnet sind.
+</P>
+<P>
+24. Beleuchtungssystem nach einem der Ansprüche 20 bis 23, wobei das Beleuchtungssystem eine Austrittspupillenebene (140) und/oder eine Pupillenebene aufweist und das facettierte optische Element derart ausgebildet ist, dass unabhängig von einer Form Ausleuchtung in der Ebene (103) Lichtquellenbilder in eine Austrittspupillenebene (140) und/oder eine Pupillenebene (105) weitgehend objekttreu abgebildet werden.
+</P>
+<P>
+25. Beleuchtungssystem gemäss Anspruch 24, wobei das facettierte optische Element Feldrasterelemente aufweist und die Feldrasterelemente eine optische Wirkung und eine Aspharizität aufweisen.
+</P>
+<P>
+26. Beleuchtungssystem gemäss Anspruch 25, wobei die Aspharizität unterschiedlicher Feldrasterelemente verschieden ist.
+</P>
+<P>
+27. Beleuchtungssystem nach einem der Ansprüche 21 bis 26, wobei das
+</P>
+<P>
+Beleuchtungssystem eine Pupillenebene (105) und ein weiteres facettiertes optisches Element (104) aufweist, wobei das weitere facettierte optische Element (104) in oder nahe der Pupillenebene (105) angeordnet ist.
+</P>
+<P>
+28. Beleuchtungssystem nach Anspruch 27, wobei das weitere optische Element eine Vielzahl von Pupillenrasterelementen umfasst.
+</P>
+<P>
+29. Beleuchtungssystem nach Anspruch 28, wobei je einem einer Vielzahl von Feldrasterelementen ein Pupillenrasterelement gemäss einer ersten Zuordnung zugeordnet ist und je einem einer zweiten Vielzahl von Feldrasterelementen ein Pupillenrasterelement gemäss einer zweiten Zuordnung zugeordnet ist.
+</P>
+<P>
+30. Beleuchtungssystem nach Anspruch 29, wobei wenigstens das erste Schalensegment (1500.1 , 1500.2, 1500.3, 1500.4) und/oder das zweite Schalensegement in eine erste Position und in eine zweite Position (1500.2B) verbracht werden kann und in der ersten Position (1500.2A) die erste Vielzahl von Feldrasterelementen und in der zweiten Position die zweite Vielzahl von Feldrasterelementen ausgeleuchtet wird.
+</P>
+<P>
+31. Beleuchtungssystem nach Anspruch 29, wobei im Lichtweg nach dem Kollektor und vor dem facettierten optischen Element (102) ein optisches
+</P>
+<P>
+Einstellelement (10000) angeordnet ist, wobei das optische Einstellelement (10000) in einer ersten Position eine erste Vielzahl von Feldrasterelementen und in einer zweiten Position eine zweite Vielzahl von Feldrasterelementen ausleuchtet.
+</P>
+<P>
+32. Beleuchtungssystem nach Anspruch 31 , wobei in der ersten Position des optischen Einstellelementes (10000) ein erster Spiegel (8000) in den Lichtweg von der Lichtquelle zum facettierten optischen Element verbracht wird und in einer zweiten Position ein zweiter Spiegel (8002) in den Lichtweg von der Lichtquelle zum facettierten optischen Element verbracht wird.
+</P>
+<P>
+33. Beleuchtungssystem nach Anspruch 29, wobei in den Lichtweg nach dem Kollektor und vor dem facettierten optischen Element unterschiedliche optische Elemente zur Ausleuchtung einer unterschiedlichen Vielzahl von
+</P>
+<P>
+Feldrasterelementen eingebracht werden.
+</P>
+<P>
+34. Beleuchtungssystem nach Anspruch 33, wobei die unterschiedlichen optischen Elemente unterschiedliche Spiegel sind.
+</P>
+<P>
+35. Beleuchtungssystem nach Anspruch 34, wobei die unterschiedlichen Spiegel auf einem um eine Achse drehbaren Spiegelträger angeordnet sind.
+</P>
+<P>
+36. Beleuchtungssystem nach einem der Ansprüche 21 bis 35, wobei die Pupillenebene (105) eine konjugierte Ebene zu einer Austrittspupillenebene (140) des Beleuchtungssystems ist.
+</P>
+<P>
+37. Beleuchtungssystem nach einem der Ansprüche 29 bis 37, wobei die erste Zuordnung einer erste Ausleuchtung in einer Austrittspupillenebene (140) und die zweite Zuordnung einer zweite Ausleuchtung in der Austrittspupillenebene (140) entspricht, wobei die erste Ausleuchtung verschieden von der zweiten Ausleuchtung ist.
+</P>
+<P>
+38. Projektionsbelichtungsanlage für die Mikrolithographie mit Wellenlängen &amp;lt; 193 nm, umfassend eine Lichtquelle (1); ein Beleuchtungssystem gemäss einem der Ansprüche 21 bis 37 zur Ausleuchtung eines Feldes in einer Feldebene(114) und einem Projektionsobjektiv (128) um ein Objekt in der Feldebene (114) in ein Bild in einer Bildebene (124) des Projektionsobjektives (128) abzubilden.
+</P>
+<P>
+39. Verfahren zur Herstellung mikroelektronischer Bauteile, umfassend die nachfolgenden Schritte: es wird mit Hilfe einer Projektionsbelichtungsanlage gemäss Anspruch 38 eine strukturierte Maske auf eine lichtempfindliche Schicht, die sich in der Bildebene (124) des Projektionsobjektives befindet, abgebildet; die strukturierte Maske wird entwickelt, ergebend einen Teil des mikroelektronische Bauteils oder das mikroelektronische Bauteil selbst.
+</P>
+<P>
+40. Beleuchtungssystem für Wellenlängen &amp;lt; 193 nm, bevorzugt &amp;lt;= 126 nm, besonders bevorzugt EUV-Wellenlängen, umfassend eine Lichtquelle (1000), eine erste Ebene(1003) sowie eine im Lichtweg von der Lichtquelle (1000) zur ersten Ebene nach der ersten Ebene (1005) angeordnete zweite Ebene (1103), wobei in der ersten Ebene im Wesentlichen eine ringoder kreisförmige Ausleuchtung zur Verfügung gestellt wird und wobei das Beleuchtungssystem wenigstens ein optisches Element (1105, 1302, 103) aufweist, das im Lichtweg nach der ersten Ebene angeordnet und derart ausgestaltet ist, dass die im Wesentlichen ringoder kreisförmige Ausleuchtung in der ersten Ebene (1005) in eine im Wesentlichen nicht ringoder kreisförmige Ausleuchtung, insbesondere eine im Wesentlichen rechteckige, insbesondere im Wesentlichen quadratische Ausleuchtung in der zweiten Ebene (1103) transformiert wird.
+</P>
+<P>
+41. Beleuchtungssystem nach Anspruch 40, wobei in oder nahe der zweiten Ebene ein facettiertes optisches Element (102) angeordnet ist.
+</P>
+<P>
+42. Beleuchtungssystem nach Anspruch 41, wobei das facettierte optische Element (102) wenigstens ein Rasterelement aufweist.
+</P>
+<P>
+43. Beleuchtungssystem nach Anspruch 42, wobei das Rasterelement im Wesentlichen eine rechteckige Gestalt aufweist.
+</P>
+<P>
+44. Beleuchtungssystem nach Anspruch 42, wobei das Rasterelement im Wesentlichen eine bogenförmige Gestalt aufweist.
+</P>
+<P>
+45. Beleuchtungssystem nach einem der Ansprüche 41 bis 44, wobei das Beleuchtungssystem eine Austrittspupillenebene (140) und/oder eine Pupillenebene (105) aufweist und das facettierte optische Element derart ausgebildet ist, dass unabhängig von der im wesentlichen quadratischen
+</P>
+<P>
+Ausleuchtung in der zweiten Ebene (1103) Lichtquellenbilder in die Austrittspupillenebene (140) und/oder Pupillenebene (105) weitgehend objekttreu abgebildet werden.
+</P>
+<P>
+46. Beleuchtungssystem gemäss Anspruch 45, wobei das facettierte optische Element Feldrasterelement aufweist und die Feldrasterelemente eine optische Wirkung und eine Asphähzität aufweisen.
+</P>
+<P>
+47. Beleuchtungssystem gemäss Anspruch 46, wobei die Asphärizität unterschiedlicher Feldrasterelemente verschieden ist.
+</P>
+<P>
+48. Beleuchtungssystem gemäss einem der Ansprüche 40 bis 47, wobei im Lichtweg nach der Lichtquelle und vor dem optische Element (103) ein
+</P>
+<P>
+Kollektor angeordnet ist, der das Licht der Lichtquelle aufnimmt und in der ersten Ebene eine im wesentlichen ringoder kreisförmige Ausleuchtung zur Verfügung stellt.
+</P>
+<P>
+49. Beleuchtungssystem gemäss Anspruch 48, wobei der Kollektor wenigstens eine geschlossene Spiegelfläche umfasst.
+</P>
+<P>
+50. Beleuchtungssystem nach Anspruch 49, wobei die geschlossene
+</P>
+<P>
+Spiegelfläche eine Spiegelschale ist, wobei die Spiegelschale um eine Achse (HA) rotationssymmetrisch angeordnet ist.
+</P>
+<P>
+51. Beleuchtungssystem nach einem der Ansprüche 40 bis 50, wobei das optische Element ein Spiegel mit einer asphärischen Spiegelfläche (1105) ist.
+</P>
+<P>
+52. Beleuchtungssystem bei einem der Ansprüche 40 bis 50, wobei das optische Element ein Gitterelement (1302) ist, wobei das Gitterelement (1302) eine optische Wirkung aufweist.
+</P>
+<P>
+53. Projektionsbelichtungsanlage für die Mikrolithographie mit Wellenlängen &amp;lt; 193 nm, umfassend eine Lichtquelle; ein Beleuchtungssystem gemäss einem der Ansprüche 40 bis 52, die ein Feld in einer Feldebene (114) ausleuchtet und ein Projektionsobjektiv (128), das ein Objekt in der Feldebene in ein Bild in einer Bildebene des Projektionsobjektives abbildet.
+</P>
+<P>
+54. Verfahren zur Herstellung mikroelektronischer Bauteile, umfassend die nachfolgenden Schritte: es wird mit Hilfe einer Projektionsbelichtungsanlage gemäss Anspruch 53, eine strukturierte Maske auf eine lichtempfindliche Schicht, die sich in der Bildebene des Projektionsobjektives befindet, abgebildet; die strukturierte Maske wird vermittelt, ergebend einen Teil des mikroelektronischen Bauteils oder des mikroelektronischen Bauteils selbst.
+</P>
+<P>
+55. Beleuchtungssystem für Wellenlängen &amp;lt; 193 nm umfassend eine Lichtquelle ein erstes optisches Element sowie ein erstes optisches Element, das eine Vielzahl von Rasterelementen (1300) umfasst, die in einer Ebene in mindestens einem ersten Bereich angeordnet sind, wobei das erste optische Element in einem Lichtweg von der Lichtquelle zum zweiten optischen Element nach der Lichtquelle angeordnet ist und das erste optische Element derart ausgebildet ist, dass es das Licht der Lichtquelle aufnimmt und einen zweiten Bereich (A6.1) in der Ebene (1103) ausleuchtet, wobei der zweite Bereich den ersten Bereich weitgehend überdeckt.
+</P>
+<P>
+56. Beleuchtungssystem nach Anspruch 55, wobei die Rasterelemente in dem ersten Bereich (1310) in einer ersten Fläche B angeordnet sind und der ausgeleuchtete zweite Bereich (A6.1) eine zweite Fläche A aufweist und die Fläche A grösser als Fläche B ist.
+</P>
+<P>
+57. Beleuchtungssystem nach Anspruch 56, wobei für die Fläche A des ausgeleuchteten Bereiches in Abhängigkeit von der Fläche B, in der die Rasterelemente angeordnet sind, gilt:
+</P>
+<P>
+B &amp;lt; A &amp;lt; 1 ,2&quot;B, insbesondere 1 ,05&quot;B &amp;lt;= A &amp;lt; 1 ,1&quot;B
+</P>
+<P>
+58. Beleuchtungssystem nach einem der Ansprüche 1 bis 57, wobei die
+</P>
+<P>
+Lichtquelle eine im Wesentlichen isotrope Abstrahlcharakteristik aufweist.
+</P>
+<P>
+59. Beleuchtungssystem für Wellenlängen &amp;lt; 193 nm umfassend wenigstens ein facettiertes optisches Element mit einer Vielzahl von Rasterelement, wobei die Rasterelemente des facettierten optischen Elementes in wenigstens zwei Blöcken angeordnet sind.
+</P>
+<P>
+60. Beleuchtungssystem gemäss Anspruch 59, wobei die Rasterelemente Facettenspiegel sind.
+</P>
+<P>
+61. Beleuchtungssystem gemäss Anspruch 60, wobei ein Feld in einer Feldebene ausgeleuchtet wird und die Rasterelemente im Wesentlichen die Form des Feldes aufweisen.
+</P>
+<P>
+62. Beleuchtungssystem nach Anspruch 61, wobei die Rasterelemente bogenförmig sind.
+</P>
+<P>
+63. Projektionsbelichtungsanlage für die Mikrolithographie mit Wellenlängen &amp;lt;=
+</P>
+<P>
+193 nm, umfassend ein Beleuchtungssystem gemäss einem der Ansprüche 55 bis 62, das ein
+</P>
+<P>
+Feld in einer Feldebene (114) ausleuchtet und ein Projektionsobjektiv (128), das ein Objekt in der Feldebene in ein Bild in einer Bildebene des Projektionsobjektives abbildet.
+</P>
+<P>
+64. Verfahren zur Herstellung mikroelektronischer Bauteile, umfassend die nachfolgenden Schritte: es wird mit Hilfe einer Projektionsbelichtungsanlage gemäss Anspruch 63, eine strukturierte Maske auf eine lichtempfindliche Schicht, die sich in der Bildebene des Projektionsobjektives befindet, abgebildet; die strukturierte Maske wird vermittelt, ergebend einen Teil des mikroelektronischen Bauteils oder des mikroelektronischen Bauteils selbst.
+</P>
+<P>
+65. Kollektor für Beleuchtungssysteme für eine Wellenlänge &amp;lt; 193 nm, bevorzugt &amp;lt; 126 nm, besonders bevorzugt EUV-Strahlung umfassend: wenigstens eine erste Fläche (850.1) und eine zweite Fläche (850.2), wobei die erste Fläche (850.1) beabstandet zur zweiten Fläche (850.2) ist, und die erste Fläche (850.1) einer ersten Achse (854.1) zugeordnet ist und die zweite Fläche (850.2) einer zweiten Achse (854.2) zugeordnet ist und wenigstens eine Flächenfunktion K1 der ersten Fläche und/oder eine Flächenfunktion K2 der zweiten Fläche eine Flächenfunktion K(z,[Phi]) ist, die durch die Lage entlang der zugeordneten Achse (z) und dem zugeordneten
+</P>
+<P>
+Azimutwinkel ([Phi]) in einer Ebene (856.1, 856.2) senkrecht auf der zugeordneten Achse (z), definiert ist, wobei wenigstens eine Flächenfunktion K(z,[Phi]) bezüglich einer zugeordneten Achse einen rotationssymmetrischen Anteil und einen nicht rotationssymmetrischen Anteil umfasst.
+</P>
+<P>
+66. Kollektor gemäss Anspruch 65, wobei der Azimutwinkel [Phi] alle Werte zwischen 0 und 2[pi] annimmt.
+</P>
+<P>
+67. Kollektor gemäss Anspruch 65, wobei der Azimutwinkel [Phi] Werte aus dem Bereich zwischen 0 und 2 [pi] annimmt.
+</P>
+<P>
+68. Kollektor gemäss einem der Ansprüche 65 bis 67, wobei die erste Achse (856.1 ) und die zweite Achse (856.2) einen Winkel [delta] einschliessen.
+</P>
+<P>
+69. Kollektor gemäss einem der Ansprüche 65 bis 68, wobei die Flächenfunktion K (z,[Phi]) stetig in z und/oder [Phi] ist.
+</P>
+<P>
+70. Kollektor gemäss einem der Ansprüche 65 bis 68, wobei die Flächenfunktion K (z,[Phi]) unstetig in z und/oder [Phi] ist.
+</P>
+<P>
+71. Kollektor gemäss Anspruch 70, wobei die Flächenfunktion eine mehrstückige Fläche ist
+</P>
+<P>
+72. Kollektor gemäss Anspruch 69, wobei die Flächefunktion eine einstückige Fläche ist
+</P>
+<P>
+73. Kollektor nach Anspruch 72, wobei die einstückige Flächenfunktion aus mehreren Flächensegmenten zusammengefügt ist.
+</P>
+<P>
+74. Beleuchtungssystem für eine Wellenlänge &amp;lt;= 193 nm, bevorzugt &amp;lt; 126 nm, insbesondere im EUV-Wellenlängenbereich umfassend einen Kollektor (3), gemäss einem der Ansprüche 65 bis 73, wobei der Kollektor (852) im Lichtweg von einer Lichtquelle (1) zu einer Ebene (103, 1103), in der eine Ausleuchtung vorliegt, zwischen der Lichtquelle (1) und der Ebene (103,
+</P>
+<P>
+1103) angeordnet ist und in oder nahe der Ebene (103) ein facettiertes optisches Element (102) zur Verfügung gestellt wird und in der Ebene eine Ausleuchtung zur Verfügung stellt.
+</P>
+<P>
+75. Beleuchtungssystem nach Anspruch 74, wobei das facettierte optische Element (102) eine Vielzahl von Feldrasterelementen (402, 502, 1300) umfasst.
+</P>
+<P>
+76. Beleuchtungssystem nach Anspruch 75, wobei die Feldrasterelemente (1300) des facettierten optischen Elementes derart angeordnet sind, dass sie in der Ebene (1103) im Wesentlichen im Bereich der Ausleuchtung angeordnet sind.
+</P>
+<P>
+77. Beleuchtungssystem nach einem der Ansprüche 74 bis 76, wobei das Beleuchtungssystem eine Austrittspupillenebene (140) und/oder eine Pupillenebene aufweist und das facettierte optische Element derart ausgebildet ist, dass unabhängig von einer Form Ausleuchtung in der Ebene (103) Lichtquellenbilder in eine Austrittspupillenebene (140) und/oder eine Pupillenebene (105) weitgehend objekttreu abgebildet werden.
+</P>
+<P>
+78. Beleuchtungssystem gemäss Anspruch 77, wobei das facettierte optische Element Feldrasterelemente aufweist und die Feldrasterelemente eine optische Wirkung und eine Aspharizität aufweisen.
+</P>
+<P>
+79. Beleuchtungssystem gemäss Anspruch 78, wobei die Aspharizität unterschiedlicher Feldrasterelemente verschieden ist.
+</P>
+<P>
+80. Beleuchtungssystem nach einem der Ansprüche 75 bis 79, wobei das Beleuchtungssystem eine Pupillenebene (105) und ein weiteres facettiertes optisches Element (104) aufweist, wobei das weitere facettierte optische Element (104) in oder nahe der Pupillenebene (105) angeordnet ist.
+</P>
+<P>
+81. Beleuchtungssystem nach Anspruch 80, wobei das weitere optische Element eine Vielzahl von Pupillenrasterelementen umfasst.
+</P>
+<P>
+82. Beleuchtungssystem nach Anspruch 81 , wobei je einem einer Vielzahl von Feldrasterelementen ein Pupillenrasterelement gemäss einer ersten
+</P>
+<P>
+Zuordnung zugeordnet ist und je einem einer zweiten Vielzahl von Feldrasterelementen ein Pupillenrasterelement gemäss einer zweiten Zuordnung zugeordnet ist.
+</P>
+<P>
+83. Beleuchtungssystem nach Anspruch 82, wobei wenigstens die erste Fläche und/oder die zweite Fläche in eine erste Position und in eine zweite Position verbracht werden kann und in der ersten Position die erste Vielzahl von Feldrasterelementen und in der zweiten Position die zweite Vielzahl von Feldrasterelementen ausgeleuchtet wird.
+</P>
+<P>
+84. Beleuchtungssystem nach Anspruch 82, wobei im Lichtweg nach dem Kollektor und vor dem facettierten optischen Element (102) ein optisches
+</P>
+<P>
+Einstellelement (10000) angeordnet ist, wobei das optische Einstellelement (10000) in einer ersten Position eine erste Vielzahl von Feldrasterelementen und in einer zweiten Position eine zweite Vielzahl von Feldrasterelementen ausleuchtet.
+</P>
+<P>
+85. Beleuchtungssystem nach Anspruch 84, wobei in der ersten Position des optischen Einstellelementes (10000) ein erster Spiegel (8000) in den Lichtweg von der Lichtquelle zum facettierten optischen Element verbracht wird und in einer zweiten Position ein zweiter Spiegel (8002) in den Lichtweg von der Lichtquelle zum facettierten optischen Element verbracht wird.
+</P>
+<P>
+86. Beleuchtungssystem nach Anspruch 82, wobei in den Lichtweg nach dem Kollektor und vor dem facettierten optischen Element unterschiedliche optische Elemente zur Ausleuchtung einer unterschiedlichen Vielzahl von
+</P>
+<P>
+Feldrasterelementen eingebracht werden.
+</P>
+<P>
+87. Beleuchtungssystem nach Anspruch 86, wobei die unterschiedlichen optischen Elemente unterschiedliche Spiegel sind.
+</P>
+<P>
+88. Beleuchtungssystem nach Anspruch 87, wobei die unterschiedlichen Spiegel auf einem um eine Achse drehbaren Spiegelträger angeordnet sind.
+</P>
+<P>
+89. Beleuchtungssystem nach einem der Ansprüche 82 bis 88 , wobei die erste Zuordnung einer erste Ausleuchtung in einer Austrittspupillenebene (140) und die zweite Zuordnung einer zweite Ausleuchtung in der Austrittspupillenebene (140) entspricht, wobei die erste Ausleuchtung verschieden von der zweiten Ausleuchtung ist.
+</P>
+<P>
+90. Projektionsbelichtungsanlage für die Mikrolithographie mit Wellenlängen &amp;lt;= 193 nm, umfassend eine Lichtquelle (1); ein Beleuchtungssystem gemäss einem der Ansprüche 74 bis 89 zur Ausleuchtung eines Feldes in einer Feldebene(114) und einem Projektionsobjektiv (128) um ein Objekt in der Feldebene (114) in ein Bild in einer Bildebene (124) des Projektionsobjektives (128) abzubilden.
+</P>
+<P>
+91. Verfahren zur Herstellung mikroelektronischer Bauteile, umfassend die nachfolgenden Schritte: es wird mit Hilfe einer Projektionsbelichtungsanlage gemäss Anspruch 90 eine strukturierte Maske auf eine lichtempfindliche Schicht, die sich in der
+</P>
+<P>
+Bildebene (124) des Projektionsobjektives befindet, abgebildet; die strukturierte Maske wird entwickelt, ergebend einen Teil des mikroelektronische Bauteils oder das mikroelektronische Bauteil selbst.
+</P>
+<P>
+92. Facettiertes optisches Element für ein Beleuchtungssystem für
+</P>
+<P>
+Wellenlängen &amp;lt; 193 nm, insbesondere &amp;lt; 126 nm, besonders bevorzugt EUV-Wellenlängen umfassend: ein erste Rasterelement mit einer ersten Asphärizität und ein zweites Rasterelement mit einer zweiten Asphärizität , wobei die erste Asphärizität verschieden von der zweiten Asphärizität ist.
+</P>
+<P>
+93. Facettiertes optisches Element gemäss Anspruch 92, wobei das erste und das zweite Rasterelement asphärische Spiegelflächen sind.
+</P>
+</Claims>
+<Also_published_as>
+EP1938150B1;WO2007045434A2;WO2007045434A3;US2008225387A1;JP2009512223A
+</Also_published_as>
+</BiblioData>

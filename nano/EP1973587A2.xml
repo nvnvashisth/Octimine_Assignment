@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHODS AND SYSTEMS FOR PREPARING ANTIMICROBIAL FILMS AND COATINGS
+</Title>
+<PublicationNumber>
+EP1973587A2
+</PublicationNumber>
+<Inventor>
+<Name>
+WHITEFORD JEFFERY A [US]
+</Name>
+<Name>
+FREEMAN WILLIAM P [US]
+</Name>
+<Name>
+WHITEFORD, JEFFERY, A
+</Name>
+<Name>
+FREEMAN, WILLIAM, P
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ALLACCEM INC [US]
+</Name>
+<Name>
+ALLACCEM, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1973587
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060846576
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US61936
+</PriorityNumber>
+<PriorityDate>
+2006-12-12
+</PriorityDate>
+<PriorityNumber>
+US20050749540P
+</PriorityNumber>
+<PriorityDate>
+2005-12-12
+</PriorityDate>
+<PriorityNumber>
+US20050755292P
+</PriorityNumber>
+<PriorityDate>
+2005-12-30
+</PriorityDate>
+<PriorityNumber>
+US20060756401P
+</PriorityNumber>
+<PriorityDate>
+2006-01-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61L33/00
+</Class>
+<Class>
+B05D3/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+A01N43/90
+</Class>
+<Class>
+A61K8/81K4
+</Class>
+<Class>
+A61L29/08B
+</Class>
+<Class>
+A61L29/16
+</Class>
+<Class>
+A61L31/10
+</Class>
+<Class>
+A61L31/16
+</Class>
+<Class>
+A61Q11/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C08K5/00P7
+</Class>
+</NCL>
+<Abstract>
+An antimicrobial coating system and method are described. In some embodiments, a system may include a composition. The composition may include one or more bridged polycyclic compounds. At least one of the bridged polycyclic compounds may include at least two cyclic groups, and at least two of the cyclic groups may include quaternary ammonium moieties. In some embodiments, a method may include applying an antimicrobial coating to an oral surface, a surface of a construction substrate, a surface of a marine substrate, a surface of a medical device, or a surface of a personal care device. The protective coating may be antimicrobial. A protective coating may include antimicrobial bridged polycyclic compounds. Bridged polycyclic compounds may include quaternary ammonium compounds.;  Bridged polycyclic compounds based coating systems may impart self-cleaning properties to a surface (e.g., a tooth surface).
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method of coating a surface, comprising: applying a composition to a surface, the composition comprising one or more bridged polycyclic compounds, at least one of the bridged polycyclic compounds comprising at least two cyclic groups, wherein at least two cyclic groups are defined in part by quaternary ammonium moieties; and forming an antimicrobial coating over at least a portion of the surface.
+</P>
+<P>
+2. The method of any one of the above claims, wherein at least one of the bridge polycyclic compounds comprises at least four quaternary ammonium moieties which define at least two of the cyclic groups forming the bridged polycyclic compounds.
+</P>
+<P>
+3. The method of any one of the above claims, wherein at least one of the bridge polycyclic compounds comprises at least two phenol moieties which define at least two of the cyclic groups forming the bridged polycyclic compounds.
+</P>
+<P>
+4. The method of any one of the above claims, wherein at least one of the quaternary ammonium moieties defining at least one of the cyclic groups further comprises an alkyl group, a substituted alkyl group, an aryl group, a heterocycle group, a substituted heterocycle group, or a substituted aryl group.
+</P>
+<P>
+5. The method of any one of the above claims, wherein at least one of the quaternary ammonium moieties defining at least one of the cyclic groups further comprises an alkyl group, a substituted alkyl group, an aryl group, or a substituted aryl group and an alkyl group, a substituted alkyl group, an aryl group, or a substituted aryl group.
+</P>
+<P>
+6. The method of any one of the above claims, wherein at least one of the quaternary ammonium moieties defining at least one of the cyclic groups further comprises a C6 alkyl group or a C6 substituted alkyl group and a methyl group or a benzyl group.
+</P>
+<P>
+7. The method of any one of the above claims, wherein the bridge polycyclic compound has a general structure 0):
+</P>
+<P>
+wherein each R&amp;lt;1&amp;gt; is independently an alkyl-aryl group, a substituted alkyl-aryl group, an alkyl group, a substituted alkyl group, an aryl group, a substituted aryl group, N, N&amp;lt;+&amp;gt;R&amp;lt;3&amp;gt;, a heterocycle group, or a substituted heterocycle group; wherein each R&amp;lt;2&amp;gt; is independently an alkyl-aryl group, a substituted alkyl-aryl group, an alkyl group, a substituted alkyl group, an aryl group, a substituted aryl group, a heterocycle group, a substituted heterocycle group, a covalent bond, or an alkene; wherein each R&amp;lt;3&amp;gt; is independently an alkyl-aryl group, a substituted alkyl-aryl group, an alkyl group, a substituted alkyl group, an aryl group, a substituted aryl group, a heterocycle group, a substituted heterocycle group, an alkene, an ether, a PEG, or a PEI; wherein each R&amp;lt;4&amp;gt; is independently an alkyl-aryl group, a substituted alkyl-aryl group, an alkyl group, a substituted alkyl group, an aryl group, a substituted aryl group, a heterocycle group, a substituted heterocycle group, an ether, an amide, an alcohol, an ester, a sulfonamide, a sulfanilamide, or an alkene; wherein Z comprises at least one bridge, wherein at least one of the bridges is - R&amp;lt;2&amp;gt; - N&amp;lt;+&amp;gt;R&amp;lt;3&amp;gt;2 - R&amp;lt;4&amp;gt; - N&amp;lt;+&amp;gt;R&amp;lt;3&amp;gt;2- R&amp;lt;2&amp;gt; -, - R&amp;lt;2&amp;gt; - NR&amp;lt;3&amp;gt; - R&amp;lt;4&amp;gt;- N&amp;lt;+&amp;gt;R&amp;lt;3&amp;gt;2- R&amp;lt;2&amp;gt; -, - R&amp;lt;2&amp;gt;- NR&amp;lt;3&amp;gt; - R&amp;lt;4&amp;gt; - NR&amp;lt;3&amp;gt;- R&amp;lt;2&amp;gt; -, or- R&amp;lt;2&amp;gt; -N = R&amp;lt;4&amp;gt; = N- R&amp;lt;2&amp;gt; -, and wherein each bridge independently couples R&amp;lt;1&amp;gt; to R&amp;lt;1&amp;gt;; and wherein X comprises one or more negatively charged counter ions.
+</P>
+<P>
+8. The method of any one of the above claims, wherein at least one X is an anion.
+</P>
+<P>
+9. The method of any one of the above claims, wherein at least one X is a polymer.
+</P>
+<P>
+10. The method of any one of the above claims, wherein at least one X is a monomer.
+</P>
+<P>
+11. The method of any one of the above claims, wherein at least one X is a halogen.
+</P>
+<P>
+12. The method of any one of the above claims, wherein at least one X is iodine.
+</P>
+<P>
+13. The method of any one of the above claims, wherein at least one X is bromine.
+</P>
+<P>
+14. The method of any one of the above claims, wherein at least one X is chlorine.
+</P>
+<P>
+15. The method of any one of the above claims, wherein at least one X contains boron.
+</P>
+<P>
+16. The method of any one of the above claims, wherein at least one X is a borate.
+</P>
+<P>
+17. The method of any one of the above claims, wherein at least one X tetrafluoroborate.
+</P>
+<P>
+18. The method of any one of the above claims, wherein at least one X contains nitrogen.
+</P>
+<P>
+19. The method of any one of the above claims, wherein at least one X is a nitrate.
+</P>
+<P>
+20. The method of any one of the above claims, wherein at least one X is PY[beta], wherein Y is a halogen
+</P>
+<P>
+21. The method of any one of the above claims, wherein at least one X is hexafluorophosphate.
+</P>
+<P>
+22. The method of any one of the above claims, wherein at least one X is NTf2, and wherein Tf is bis(ttfluoromethanesulfonyl)imide.
+</P>
+<P>
+23. The method of any one of the above claims, wherein the bridge polycyclic compound has a general structure (IV):
+</P>
+<P>
+(IV); wherein at least one R&amp;lt;3&amp;gt; is a methyl group, wherein at least one R&amp;lt;3&amp;gt; is a C5-C7 alkyl group or a C5-C7 substituted alkyl group, and wherein at least one R4 is an aryl group or a substituted aryl group.
+</P>
+<P>
+24. The method of any one of the above claims, wherein the bridge polycyclic compound has a general structure (IVa):
+</P>
+<P>
+; wherein at least one R&amp;lt;3&amp;gt; is a methyl group, wherein at least one R&amp;lt;3&amp;gt; is a C5-C7 alkyl group or a C5-C7 substituted alkyl group; wherein at least one R4 is an aryl group or a substituted aryl group, and wherein M comprises one or more guest molecules associated with one or more portions of compound (IVa).
+</P>
+<P>
+25. The method of any one of the above claims, further comprising curing the composition such that at least a portion of the composition bonds to the surface.
+</P>
+<P>
+26. The method of any one of the above claims, wherein the composition comprises a polymerizable compound.
+</P>
+<P>
+27. The method of any one of the above claims, wherein the composition comprises a polymerizable compound, and wherein the polymerizable compound comprises polymerizable amides, esters, olefins, acrylates, methacrylates, urethanes, vinyl esters, epoxy-based materials, styrene, styrene acrylonitrile, sulfones, acetals, carbonates, phenylene ethers, ureas, or phenylene sulfides.
+</P>
+<P>
+28. The method of any one of the above claims, wherein the composition comprises a polymerizable compound, and wherein the polymerizable compound comprises 2,2&apos; -bis [4-(3-methacryloxy-2-hydroxy propoxy)-phenyl]- propane, dipentaerythritol pentaacrylate, pentaerythritol dimethacrylate, the condensation product of ethoxylated bisphenol A and glycidyl methacrylate, the condensation product of 2 parts hydroxymethylmethacrylate and 1 part triethylene glycol bis(chloroformate), or polyurethane dimethacrylates.
+</P>
+<P>
+29. The method of any one of the above claims, wherein the composition comprises a polymerizable compound, and wherein the polymerizable compound comprises hydroxyalkl methacrylates, 2-hydroxyethyl methacrylate, 1,6- hexanediol dimethacrylate, 2-hydroxypropyl methacrylate, glyceryl dimethacrylate, ethyleneglycolmethacrylates, ethyleneglycol methacrylate, diethyleneglycol methacrylate, or triethyleneglycol methacrylate.
+</P>
+<P>
+30. The method of any one of the above claims, wherein the composition comprises a polymerizable compound, and wherein the polymerizable compound comprises methacrylic acid, maleic acid p-vinylbenzoic acid, 11- methacryloyloxy-l,l-undecanedicarboxylic acid, 1,4-dimethacryloyloxyethylpyromellitic acid, [delta]methacryloyloxyethylnaphthalene-l^j[omicron]-tricarboxylic acid, 4-methacryloyloxymethyltrimellitic acid and the anhydride thereof, 4-methacryloyloxyethyltrimellitic acid and an anhydride thereof, 4-(2-hydroxy-3- methacryloyloxy)bultytrimellitic acid and an anhydride thereof, 2,3-bis(3,4-dicarboxybenzoyloxy)propyl methacrylate, methacryloyloxytyrosine, N-methacryloyloxytyrosine, N-methacryloyloxyphenylalanine, methacryloyl-p-aminobenzoic acid, the adduct of 2-hydroxyethyl methacrylate with pyromellitic dianhydride, the adduct of 2-hydroxyethyl methacrylate with maleic anhydride, the adduct of 2-hydroxyethyl methacrylate with 3,3&apos;,4,4&apos;-benzophenonetetracarboxylic dianhydride, the adduct of 2-hydroxyethyl methacrylale with 3,3&apos;,4,4&apos;- biphenyltetracarboxylic dianhydride, the adduct of an aromatic dianhydride with an excess of 2-HEMA, the adduct of 2-HEMA with ethylene glycol bistrimellitate dianhydride, the adduct of 3,3&apos;,4,4&apos;-diphenylsulfone tetracarboxylic dianhydide and 2-HEMA, the adduct of pyromellitic dianhydride with glycerol dimethacrylate, 2- methacryloyloxyethyl acidophosphate, 2-methacryloyloxypropyl acidophosphate, 4-methacryloyloxybutyl acidophosphate, 8-methacryloyloxyoctyl acidophosphate, 10-methacryloyloxydecyl acidophosphate, bis(2- methacryloyloxyethyl)acidophos[rho]hate, 2-methacryloyloxyethylphenyl acidophosphate, 2-sulfoethyl methacrylate, 3- sulfo-2-butyl methaclylate, 3-bromro-2-sulfo-2-propyl methacrylate, 3-methoxy-l-sulfo-2-propyl mathacrylate, or 1 , 1 -dimethyl-2-sulf oethyl methacrylamide.
+</P>
+<P>
+31. The method of any one of the above claims, further comprising: an initiator comprising benzil diketones, DL-camphorquinone, peroxides, lauryl peroxide, tributyl hydroperoxide, cumene hydroperoxide, 1,1 &apos;-azobis (cyclohexanecarbonitrile), or benzoyl peroxide; and an accelerator comprising tertiary amines, dimethylaminoethyl methacrylate, diethyl aminoethyl methacrylate, aromatic tertiary amines, 4-(N,N-dimethyl)aminobenzoate, dimethyl-p-toluidine, and dihydroxyethyl- p-toluidine.
+</P>
+<P>
+32. The method of any one of the above claims, further comprising one or more of ultra-violet light absorbers, anti-oxidants, stabilizers, fillers, pigments, opacif[iota]ers, gelators, or handling agents.
+</P>
+<P>
+33. The method of any one of the above claims, further comprising a filler comprising amorphous silica, spherical silica, colloidal silica, barium glasses, quartz, ceramic fillers, silicate glass, hydroxyapatite, calcium carbonate, fluoroaluminosilicate, barium sulfate, quartz, barium silicate, strontium silicate, barium borosilicate, barium boroaluminosilicate, strontium borosilicate, strontium boroaluminosilicate, glass fibers, lithium silicate, ammoniated calcium phosphate, deammo[pi]iated calcium phosphate, alumina, zirconia, tin oxide, polymer powders, polymethyl methacrylate, polystyrene, or polyvinyl chloride, titania.
+</P>
+<P>
+34. The method of any one of the above claims, further comprising a solvent.
+</P>
+<P>
+35. The method of any one of the above claims, wherein the composition comprises a chelating agent.
+</P>
+<P>
+36. The method of any one of the above claims, wherein the composition comprises a chelating agent, and wherein the chelating agent comprises EDTA.
+</P>
+<P>
+37. The method of any one of the above claims, wherein the composition comprises a boric acid compound.
+</P>
+<P>
+38. The method of any one of the above claims, wherein at least one X comprises tetrafluoroborate.
+</P>
+<P>
+39. The method of any one of the above claims, wherein the composition comprises sodium tetrafluoroborate.
+</P>
+<P>
+40. The method of any one of the above claims, wherein the compound comprises a shape with a substantially curved surface.
+</P>
+<P>
+41. The method of any one of the above claims, wherein the coating is self-cleaning.
+</P>
+<P>
+42. The method of any one of the above claims, wherein the coating inhibits microbial adhesion.
+</P>
+<P>
+43. The method of any one of the above claims, wherein the compound has a minimum inhibitory concentration of less than 0.1 mg/mL.
+</P>
+<P>
+44. The method of any one of the above claims, wherein the composition has a minimum inhibitory concentration of less than 0.05 mg/riiL
+</P>
+<P>
+45. The method of any one of the above claims, wherein at least one R&amp;lt;1&amp;gt; is N&amp;lt;+&amp;gt;R&amp;lt;3&amp;gt;.
+</P>
+<P>
+&amp;lt;R&amp;gt; &quot;N&amp;lt;+&amp;gt;^N&amp;lt;+&apos;R3&amp;gt;
+</P>
+<P>
+46. The method of any one of the above claims, wherein at least one R&amp;lt;1&amp;gt; is R&amp;lt;3&amp;gt;
+</P>
+<P>
+47. The method of any one of the above claims, wherein at least one R&amp;lt;3&amp;gt; is hydrophilic.
+</P>
+<P>
+48. The method of any one of the above claims, wherein at least one R&amp;lt;3&amp;gt; is a polymer.
+</P>
+<P>
+4.9. The method of any one of the above claims, wherein at least one R&amp;lt;3&amp;gt; is an oxazoline polymer.
+</P>
+<P>
+50. The method of any one of the above claims, wherein at least one R&amp;lt;3&amp;gt; is hydrophobic.
+</P>
+<P>
+51. The method of any one of the above claims, wherein at least one
+</P>
+<P>
+52. The method of any one of the above claims, further comprising at least one metal (M) coordinated to at least a portion of the compound.
+</P>
+<P>
+53. The method of any one of the above claims, further comprising at least one metal (M) coordinated to at least a portion of the compound, wherein at least one M comprise a cation.
+</P>
+<P>
+54. The method of any one of the above claims, further comprising at least one metal (M) coordinated to at least a portion of the compound, wherein at least one M is positioned inside a space defined by R&amp;lt;2&amp;gt; and R&amp;lt;4&amp;gt;, and wherein at least one M is coordinated to one or more N&amp;lt;+&amp;gt;R&amp;lt;3&amp;gt;I&amp;lt;1&amp;gt;S.
+</P>
+<P>
+55. The method of any one of the above claims, wherein at least one X comprises a halogen ion.
+</P>
+<P>
+56. The method of any one of the above claims, wherein at least one X comprises one or more elements with antimicrobial activity.
+</P>
+<P>
+57. The method of any one of the above claims, wherein at least one X comprises one or more elements with antiinflammatory activity
+</P>
+<P>
+58. The method of any one of the above claims, wherein at least one X comprises boron.
+</P>
+<P>
+59. The method of any one of the above claims, wherein the composition comprises one or more metals and/or metal ions with antimicrobial properties.
+</P>
+<P>
+60. The method of any one of the above claims, wherein the composition comprises one or more metals and/or metal ions with antiinflammatory properties.
+</P>
+<P>
+61. The method of any one of the above claims, wherein the composition comprises one or more metals and/or metal ions, and wherein one or more of the metals are light activated such that activating the metal with light increases the antimicrobial activity of the metal.
+</P>
+<P>
+62. The method of any one of the above claims, wherein the composition comprises one or more metals and/or metal ions, and wherein at least one metals and/or metal ions is silver.
+</P>
+<P>
+63. The method of claim 1 , wherein the composition comprises one or more metals and/or metal ions, and wherein at least one metals and/or metal ions is zinc, copper, gold, or cesium.
+</P>
+<P>
+64. The method of any one of the above claims, wherein the composition comprises one or more metals and/or metal ions, and wherein at least one metals and/or metal ions is silver, zinc, copper, gold, calcium, nickel, cobalt, barium, strontium, lead, lanthanum, iron, manganese, cadmium, magnesium, Y, La, Ce, Pr, Nd, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Ce, or alkaline earth metals.
+</P>
+<P>
+65. The method of any one of the above claims, further comprising pretreating the surface such that the treated surface reacts with the composition.
+</P>
+<P>
+66. The method of any one of the above claims, further comprising pretreating the surface such that the treated surface reacts with the composition by coupling an amide precursor electrophile to the surface.
+</P>
+<P>
+67. The method of any one of the above claims, further comprising pretreating the surface such that the treated surface reacts with the composition by coupling maleic anhydride and/or a maleic anhydride derivative to the surface.
+</P>
+<P>
+68. The method of any one of the above claims, wherein the composition further comprises a metal oxide coated bridged polycyclic compound.
+</P>
+<P>
+69. The method of any one of the above claims, wherein the composition further comprises metal oxide coated compounds, and wherein the metal oxide comprises titanium oxide.
+</P>
+<P>
+70. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the metal oxide comprises zirconium oxide.
+</P>
+<P>
+71. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the metal oxide comprises hafnium oxide.
+</P>
+<P>
+72. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the metal oxide comprises boron.
+</P>
+<P>
+73. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the metal oxide comprises zinc.
+</P>
+<P>
+74. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the metal oxide comprises tantalum.
+</P>
+<P>
+75. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the metal oxide comprises titanium oxide, zirconium oxide, hafnium oxide, tungsten oxide, boron, zinc, vanadium, silicon, calcium, bismuth, V, Si, CaBi2O4, barium, or tantalum
+</P>
+<P>
+76. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the composition comprise stabilizers.
+</P>
+<P>
+77. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the composition comprise stabilizers configured to increase the solubility of the compound.
+</P>
+<P>
+78. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the composition comprises stabilizers configured to increase the solubility of the compound in hydrophobic solvents.
+</P>
+<P>
+79. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the composition configured to increase the solubility of the compound in hydrophilic solvents.
+</P>
+<P>
+80. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the metal oxide coated bridged polycyclic compound is light activated.
+</P>
+<P>
+81. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the metal oxide coated bridged polycyclic compound is light activated such (hat activating the metal oxide coated bridged polycyclic compound with light increases the antimicrobial activity of the metal oxide coated bridged polycyclic compound.
+</P>
+<P>
+82. The method of any one of the above claims, wherein the composition further comprises metal oxide coated bridged polycyclic compound, and wherein the metal oxide coated bridged polycyclic compound is ultraviolet light activated such that activating the metal oxide coated bridged polycyclic compound with light increases the antimicrobial activity of the metal oxide coated bridged polycyclic compound.
+</P>
+<P>
+83. The method of any one of the above claims, further comprising a matrix.
+</P>
+<P>
+84. The method of any one of the above claims, further comprising thermoplastic polymers.
+</P>
+<P>
+85. The method of any one of the above claims, further comprising thermosetting polymers.
+</P>
+<P>
+86. The method of any one of the above claims, further comprising engineering plastics.
+</P>
+<P>
+87. The method of any one of the above claims, further comprising liquid crystal polymers.
+</P>
+<P>
+88. The method of any one of the above claims, further comprising aminoacrylic resins.
+</P>
+<P>
+89. The method of any one of the above claims, further comprising epoxy resins.
+</P>
+<P>
+90. The method of any one of the above claims, further comprising polyurethane resins.
+</P>
+<P>
+91. The method of any one of the above claims, further comprising a cross-linking reagent.
+</P>
+<P>
+92. The method of any one of the above claims, further comprising a polymerization catalyst.
+</P>
+<P>
+93. The method of any one of the above claims, further comprising a stabilizer.
+</P>
+<P>
+94. The method of any one of the above claims, further comprising a delustering agent.
+</P>
+<P>
+95. The method of any one of the above claims, further comprising an optical whitening agent.
+</P>
+<P>
+96. The method of any one of the above claims, further comprising an organic pigment.
+</P>
+<P>
+97. The method of any one of the above claims, further comprising an inorganic pigment.
+</P>
+<P>
+98. The method of any one of the above claims, further comprising an inorganic filler.
+</P>
+<P>
+99. The method of any one of the above claims, further comprising a plasticizer.
+</P>
+<P>
+100. The method of any one of the above claims, further comprising a surfactant.
+</P>
+<P>
+101. The method of any one of the above claims, further comprising polyvinyl alcohol
+</P>
+<P>
+102. The method of any one of the above claims, further comprising polymethyl methacrylate
+</P>
+<P>
+103. The method of any one of the above claims, further comprising polymethyl-co-polybutyi methacrylate
+</P>
+<P>
+104. A method of coating a building substrate as described in any one of the above claims.
+</P>
+<P>
+105. The method of any one of the above claims, wherein the composition comprises a coalescing solvent.
+</P>
+<P>
+106. The method of any one of the above claims, wherein the building substrate comprises at least a portion of an interior and/or exterior wall.
+</P>
+<P>
+107. The method of any one of the above claims, wherein the building substrate comprises one or more structural supports of a building.
+</P>
+<P>
+108. The method of any one of the above claims, wherein the building substrate comprises at least a portion of a roof and/or ceiling.
+</P>
+<P>
+109. The method of any one of the above claims, further comprising using the composition as a primer for the surface.
+</P>
+<P>
+110. The method of any one of the above claims, further comprising using the composition as a sealant for the surface.
+</P>
+<P>
+111. The method of any one of the above claims, wherein the composition comprises a pigment and the method further comprising using the composition as a paint for the surface.
+</P>
+<P>
+112. The method of any one of the above claims, wherein the composition comprises a chelating agent.
+</P>
+<P>
+113. The method of any one of the above claims, wherein the composition comprises a chelating agent, and wherein the chelating agent comprises EDTA.
+</P>
+<P>
+114. The method of any one of the above claims, wherein the composition comprises a boric acid compound.
+</P>
+<P>
+115. The method of any one of the above claims, wherein at least one X comprises tetrafluoroborate.
+</P>
+<P>
+116. The method of any one of the above claims, wherein the composition comprises sodium tetrafluoroborate.
+</P>
+<P>
+117. The method of any one of the above claims, wherein the composition comprises potassium tetrafluoroborate.
+</P>
+<P>
+118. A method of coating a marine substrate as described in any one of the above claims.
+</P>
+<P>
+119. The method of any one of the above claims, wherein the composition comprises a coalescing solvent.
+</P>
+<P>
+120. The method of any one of the above claims, further comprising inhibiting the growth of bacteria on the surface.
+</P>
+<P>
+121. The method of any one of the above claims, wherein the marine substrate comprises at least a portion of a boat.
+</P>
+<P>
+122. The method of any one of the above claims, wherein the marine substrate comprises at least a portion of an outer hull of a bo at.
+</P>
+<P>
+123. The method of any one of the above claims, wherein the marine substrate comprises at least a portion of a pier.
+</P>
+<P>
+124. The method of any one of the above claims, wherein the marine substrate comprises at least a portion of a boat dock.
+</P>
+<P>
+125. The method of any one of the above claims, wherein the marine substrate comprises at least a portion of an outer hull of a submersible vessel.
+</P>
+<P>
+126. The method of any one of the above claims, wherein the marine substrate comprises at least a portion of a surf board.
+</P>
+<P>
+127. The method of any one of the above claims, wherein the marine substrate comprises at least a portion of a offshore oil and/or gas rig.
+</P>
+<P>
+128. A method of inhibiting growth of mollusks on a marine substrate as described in any one of the above claims.
+</P>
+<P>
+129. The method of any one of the above claims, further comprising inhibiting growth of algae on a marine substrate.
+</P>
+<P>
+130. A method of coating an oral surface as described in any one of the above claims.
+</P>
+<P>
+131. The method of any one of the above claims, wherein the oral surface comprises at least a portion of a tooth surface.
+</P>
+<P>
+132. The method of any one of the above claims, wherein the oral surface comprises at least a portion of a gum.
+</P>
+<P>
+133. The method of any one of the above claims, wherein the oral surface comprises at least a portion of soft tissue.
+</P>
+<P>
+134. The method of any one of the above claims, wherein the oral surface comprises at least a portion of a dental fixture.
+</P>
+<P>
+135. The method of any one of the above claims, wherein the oral surface comprises at least a portion of a dental fixture, wherein a dental fixture comprises a filling.
+</P>
+<P>
+136. The method of any one of the above claims, wherein the oral surface comprises at least a portion of a dental fixture, wherein a dental fixture comprises at least a portion of a bridge.
+</P>
+<P>
+137. The method of any one of the above claims, wherein the oral surface comprises at least a portion of a dental fixture, wherein a dental fixture comprises at least a portion of a denture.
+</P>
+<P>
+138. The method of any one of the above claims, wherein the composition comprises a gel.
+</P>
+<P>
+139. The method of any one of the above claims, wherein the composition comprises a coalescing solvent.
+</P>
+<P>
+140. The method of any one of the above claims, further comprising using the composition as a bonding agent.
+</P>
+<P>
+141. The method of any one of the above claims, further comprising using the composition as a resin cement.
+</P>
+<P>
+142. The method of any one of the above claims, further comprising using the composition as a sealant.
+</P>
+<P>
+143. The method of any one of the above claims, further comprising using the composition as a varnish.
+</P>
+<P>
+144. The method of any one of the above claims, further comprising using the composition as a resin.
+</P>
+<P>
+145. A method of coating a medical device as described in any one of the above claims.
+</P>
+<P>
+146. The method of any one of the above claims, wherein the composition comprises a coalescing solvent.
+</P>
+<P>
+147. The method of any one of the above claims, wherein the medical device comprises at least a portion of a stent.
+</P>
+<P>
+148. The method of any one of the above claims, wherein the medical device comprises at least a portion of a catheter.
+</P>
+<P>
+149. The method of any one of the above claims, wherein the medical device comprises at least a portion of a cannulae.
+</P>
+<P>
+150. The method of any one of the above claims, wherein the medical device comprises at least a portion of a contact lenses.
+</P>
+<P>
+151. The method of any one of the above claims, wherein the medical device comprises at least a portion of a feeding tube.
+</P>
+<P>
+152. The method of any one of the above claims, wherein the composition is included as part of an application kit for coating at least a portion of the medical device.
+</P>
+<P>
+153. A method of coating at least a portion of a personal care device as described in any one of the above claims.
+</P>
+<P>
+154. The method of any one of the above claims, wherein the composition comprises a coalescing solvent.
+</P>
+<P>
+155. The method of any one of the above claims, wherein the composition is included as part of an application kit for coating at least a portion of the personal care device.
+</P>
+<P>
+156. The method of any one of the above claims, wherein the personal care device comprises a foot bath.
+</P>
+<P>
+157. The method of any one of the above claims, wherein the personal care device comprises a pedicure bath system.
+</P>
+<P>
+158. The method of any one of the above claims, wherein the personal care device comprises a pedicure bath system.
+</P>
+<P>
+159. The method of any one of the above claims, wherein the personal care device comprises one or more pedicure instruments.
+</P>
+<P>
+160. A coated surface, comprising a chemical composition, wherein at least a portion of the chemical composition forms an antimicrobial coating over at least a portion of a surface wherein the chemical composition is as described in any one of the above claims.
+</P>
+<P>
+161. A chemical composition as described in any one of the above claims.
+</P>
+<P>
+162. A method of making a compound as described in any one of the above claims, wherein a coupling to form a bridged polycyclic compound is conducted in a green solvent.
+</P>
+<P>
+163. The method of any one of the above claims, wherein the green solvent is an alcohol based solvnet.
+</P>
+<P>
+164. The method of any one of the above claims, wherein the green solvent is ethanol.
+</P>
+<P>
+165. The method of any one of the above claims, wherein the green solvent is water.
+</P>
+<P>
+166. The method of any one of the above claims, further comprising using a catalyst in the coupling reaction.
+</P>
+<P>
+167. The method of any one of the above claims, wherein the catalyst comprises analine.
+</P>
+</Claims>
+<Also_published_as>
+WO2007070801A2;WO2007070801A3;US2008021212A1;US8067403B2;US2008020127A1;US2008207581A1;US7713955B2;US2011015300A1;US2007202342A1;US8067402B2;NZ569756A;CA2647325A1;AU2006325820A1
+</Also_published_as>
+</BiblioData>

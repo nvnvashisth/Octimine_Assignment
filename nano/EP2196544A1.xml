@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Kit for ligation detection assays using codeable labels
+</Title>
+<PublicationNumber>
+EP2196544A1
+</PublicationNumber>
+<Inventor>
+<Name>
+VANN CHARLES S [US]
+</Name>
+<Name>
+LAO KAI QIN [US]
+</Name>
+<Name>
+REED MARK [US]
+</Name>
+<Name>
+VANN, CHARLES S
+</Name>
+<Name>
+LAO, KAI, QIN
+</Name>
+<Name>
+REED, MARK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+APPLIED BIOSYSTEMS LLC [US]
+</Name>
+<Name>
+APPLIED BIOSYSTEMS, LLC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2196544
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090016057
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2002-11-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20020797138
+</PriorityNumber>
+<PriorityDate>
+2002-11-21
+</PriorityDate>
+<PriorityNumber>
+US20010332519P
+</PriorityNumber>
+<PriorityDate>
+2001-11-21
+</PriorityDate>
+<PriorityNumber>
+US20020384731P
+</PriorityNumber>
+<PriorityDate>
+2002-05-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C07H21/02
+</Class>
+<Class>
+C12N9/22
+</Class>
+<Class>
+C12P19/34
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N33/50
+</Class>
+<Class>
+G01N33/53
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/566
+</Class>
+<Class>
+A61K
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C12Q1/68B2
+</Class>
+<Class>
+C12Q1/68B6
+</Class>
+</NCL>
+<Abstract>
+The invention relates to kits for the detection of targets in a sample. In certain embodiments, methods for quantitating a target are provided. In certain embodiments, the methods comprise forming a reaction mixture comprising: a sample possibly containing the target;  a codeable label;  one or more target-specific probes, wherein each target-specific probe binds specifically to the target under selective binding conditions;  and a separating moiety. In certain embodiments, the methods further comprise treating the reaction mixture with a ligase under reaction conditions such that a detectable complex is produced when the target is present, and such that a detectable complex is not produced when the target is absent, and wherein the detectable complex comprises the codeable label, the target-specific probe, and the separating moiety. In certain embodiments, the methods further comprise separating the detectable complex from codeable labels that are not included in the detectable complex, and quantitating the target by counting the number of codeable labels.
+</Abstract>
+<Claims>
+<P>
+1. A kit for detecting target nucleic acid sequences in a sample comprising:
+</P>
+<P>
+a different bead set specific for each of the target nucleic acid sequences, the bead set comprising
+</P>
+<P>
+(a) at least one separating bead, comprising a magnetic particle, a first codeable label comprising two or more labels, and a first target-specific probe, wherein the first codeable label is specific for the first target-specific probe, and
+</P>
+<P>
+(b) at least one detecting bead, comprising a second codeable label comprising a set of two or more labels, and a second target-specific probe, wherein the second codeable label is specific for the second target-specific probe; wherein the first codeable label is detectably different from the second codeable label; and wherein the target-specific probes in each set are suitable for ligation together when hybridized adjacent to one another on a complementary target sequence.
+</P>
+<P>
+2. The kit of claim 1, further comprising a ligation agent.
+</P>
+<P>
+3. The kit of claim 2, wherein the ligation agent is a ligase.
+</P>
+<P>
+4. The kit of claim 2, wherein the ligation agent is a thermostable ligase.
+</P>
+<P>
+5. The kit of claim 4, wherein the thermostable ligase is selected from at least one of Tth ligase, Taq ligase, and Pfu ligase.
+</P>
+<P>
+6. The kit of claim 1, further comprising a detecting vessel comprising a groove on one surface of the detecting vessel near a magnetic source, wherein the separating bead fits in the groove, the detecting bead does not fit in the groove.
+</P>
+</Claims>
+<Also_published_as>
+WO03045310A2;WO03045310A3;WO03045310A8;WO03045310A9;US2010167293A1;US2005118589A1;US2003165935A1;JP2009229468A;JP2005517900A;EP1448800A2;EP1448800A4;CN1608139A;CN100360722C;CA2466821A1;AU2002362013A1;AU2002362013B2
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOPARTICLES
+</Title>
+<PublicationNumber>
+EP2019848A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KOCH MATTHIAS [DE]
+</Name>
+<Name>
+JONSCHKER GERHARD [DE]
+</Name>
+<Name>
+RENKER SABINE [DE]
+</Name>
+<Name>
+KOCH, MATTHIAS
+</Name>
+<Name>
+JONSCHKER, GERHARD
+</Name>
+<Name>
+RENKER, SABINE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MERCK PATENT GMBH [DE]
+</Name>
+<Name>
+MERCK PATENT GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2019848
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070724958
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP04034
+</PriorityNumber>
+<PriorityDate>
+2007-05-08
+</PriorityDate>
+<PriorityNumber>
+DE200610024288
+</PriorityNumber>
+<PriorityDate>
+2006-05-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C08K9/04
+</Class>
+<Class>
+C09C3/08
+</Class>
+<Class>
+C09D7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C08K9/04
+</Class>
+<Class>
+C09C1/04B
+</Class>
+<Class>
+C09C3/06B
+</Class>
+<Class>
+C09C3/12
+</Class>
+<Class>
+C09D7/12D2B
+</Class>
+<Class>
+C09D7/12N1
+</Class>
+</NCL>
+<Abstract>
+Die Erfindung betrifft oberflächenmodifizierte Nanopartikel mit einer mittleren Partikelgrösse, bestimmt mittels Partikelkorrelationsspektroskopie (PCS) bzw. Transmissionselektronenmikroskop im Bereich von 3 bis 50 nm, dadurch gekennzeichnet, dass sie erhältlich sind durch ein Verfahren, bei dem ein oder mehrere Precursoren für die Nanopartikel in einem organischen Lösungsmittel mit einer Verbindung M3-x[O3-xSiR1+x] zu den Nanopartikeln umgesetzt werden, wobei x steht für eine ganze Zahl, ausgewählt aus 0, 1 oder 2, M steht für H, Li, Na oder K und alle R jeweils unabhängig voneinander stehen für einen verzweigten oder unverzweigten, gesättigten oder ungesättigten Kohlenwasserstoffrest mit 1 bis 28 C-Atomen, in dem ein oder mehrere C-Atome durch O ersetzt sein können, sowie ihre Verwendung zum UV-Schutz in Polymeren.
+</Abstract>
+<Claims>
+<P>
+1. Oberflächenmodifizierte Nanopartikel mit einer mittleren Partikelgrösse bestimmt mittels Partikelkorrelationsspektroskopie (PCS) bzw. Transmissionselektronenmikroskop im Bereich von 3 bis 50 nm, dadurch gekennzeichnet, dass sie erhältlich sind durch ein Verfahren, bei dem ein oder mehrere Precursoren für die Nanopartikel in einem organischen Lösungsmittel mit einer Verbindung M3-x[O3-xSiR1+x] zu den Nanopartikeln umgesetzt werden, wobei x steht für eine ganze Zahl ausgewählt aus 0, 1 oder 2, M steht für H, Li, Na oder K und alle R jeweils unabhängig voneinander stehen für einen verzweigten oder unverzweigten, gesättigten oder ungesättigten Kohlenwasserstoffrest mit 1 bis 28 C-Atomen in dem ein oder mehrere C-Atome durch O ersetzt sein können.
+</P>
+<P>
+2. Nanopartikel nach Anspruch 1, dadurch gekennzeichnet, dass es sich bei den Nanopartikeln um Partikel im wesentlichen bestehend aus Oxiden bzw. Hydroxiden von Silicium-, Cer-, Cobalt-, Chrom-, Nickel-, Zink-, Titan-, Eisen-, Yttrium-, Zirconium- oder Mischungen davon handelt, wobei es sich bei den Partikeln vorzugsweise um Zinkoxid- oder Ceroxid-Partikel bzw. Mischoxid-Partikel enthaltend mindestens einen dieser Bestandteile handelt.
+</P>
+<P>
+3. Nanopartikel nach einem oder mehreren der vorstehenden Ansprüche, dadurch gekennzeichnet, dass die Partikel eine mittlere Teilchengrösse bestimmt mittels Partikelkorrelationsspektroskopie (PCS) bzw. Transmissionselektronenmikroskop von 5 bis 20 nm, vorzugsweise von 7 bis 15 nm aufweisen und die Teilchengrössenverteilung vorzugsweise eng ist.
+</P>
+<P>
+4. Nanopartikel nach einem oder mehreren der vorstehenden Ansprüche, dadurch gekennzeichnet, dass die Absorptionskante einer Dispersion mit 0,001 Gew.-% der Nanopartikel im Bereich 300-500 nm, vorzugsweise im Bereich bis 300-400 nm und insbesondere bevorzugt im Bereich 320 bis 380 nm liegt und die Transmission dieser Suspension bei 320 nm geringer als 10% und bei 440 nm grösser als 90% ist.
+</P>
+<P>
+5. Nanopartikel nach einem oder mehreren der vorstehenden Ansprüche, dadurch gekennzeichnet, dass die ein oder mehreren Precursoren ausgewählt werden aus wasserlöslichen Metall-Verbindungen, vorzugsweise Silicium-, Cer-, Cobalt-, Chrom-, Nickel-, Zink-, Titan-, Eisen-, Yttrium- oder Zirconium-Verbindungen.
+</P>
+<P>
+6. Nanopartikel nach einem oder mehreren der vorstehenden Ansprüche, dadurch gekennzeichnet, dass in der Verbindung M3-x[O3-xSiR1+x], x steht für 2, alle R jeweils unabhängig voneinander stehen für Methyl oder Ethyl, vorzugsweise Methyl, und M vorzugsweise steht für K.
+</P>
+<P>
+7. Nanopartikel nach einem oder mehreren der vorstehenden Ansprüche, dadurch gekennzeichnet, dass in der Verbindung M3-x[O3-xSiR1+x], mindestens ein R steht für einen Alkoxyrest mit 1 bis 27 C-Atomen, vorzugsweise einen Methoxy- oder Ethoxyrest.
+</P>
+<P>
+8. Nanopartikel nach einem oder mehreren der vorstehenden Ansprüche, dadurch gekennzeichnet, dass die Partikel eine weitere Oberflächenmodifikation aufweisen, bei der es sich vorzugsweise um eine Silica-Beschichtung und/oder eine hydrophobe Modifizierung handelt.
+</P>
+<P>
+9. Nanopartikel nach Anspruch 8, dadurch gekennzeichnet, dass es sich bei dem Modifikator zur Erzeugung der Silica-Beschichtung um ein Trialkoxysilan oder ein Tetraalkoxysilan handelt, wobei Alkoxy vorzugsweise steht für Methoxy oder Ethoxy, insbesondere bevorzugt für Methoxy.
+</P>
+<P>
+10. Nanopartikel nach einem oder mehreren der vorstehenden Ansprüche, dadurch gekennzeichnet, dass die Partikel eine Silica-Beschichtung und zusätzlich mit mindestens einem weiteren Oberflächenmodifizierungsmittel ausgewählt aus der Gruppe umfassend organofunktionelle Silane, quartäre Ammoniumverbindungen, Phosphonate, Phosphonium- und Sulfoniumverbindungen oder Gemische hieraus, vorzugsweise einem organofunktionellen Silan modifiziert ist.
+</P>
+<P>
+11. Nanopartikel nach Anspruch 10, dadurch gekennzeichnet, dass es sich bei dem Silan um ein amphiphiles Silan gemäss der allgemeinen Formel (R)3Si-SP-Ahp-Bhb, wobei die Reste R gleich oder verschieden sein können und hydrolytisch abspaltbare Reste darstellen, SP entweder -O- oder geradkettiges oder verzweigtes Alkyl mit 1-18 C-Atomen, geradkettiges oder verzweigtes Alkenyl mit 2-18 C-Atomen und einer oder mehreren Doppelbindungen, geradkettiges oder verzweigtes Alkinyl mit 2-18 C-Atomen und einer oder mehreren Dreifachbindungen, gesättigtes, teilweise oder vollständig ungesättigtes Cycloalkyl mit 3-7 C-Atomen, das mit Alkylgruppen mit 1-6 C-Atomen substituiert sein kann bedeutet, Ahp einen hydrophilen Block bedeutet, Bhb einen hydrophoben Block bedeutet und wobei vorzugsweise mindestens eine reaktive funktionelle Gruppe an Ahp und/oder Bhb gebunden vorliegt handelt, wobei es sich insbesondere bevorzugt um ((3-Trimethoxysilanylpropyl)-carbaminsäure-2-(2-hexy-ethoxy)-ethyl-ester) handelt.
+</P>
+<P>
+12. Dispersion enthaltend Nanopartikel nach mindestens einem der Ansprüche 1 bis 11 sowie ein Polymer oder Lösungsmittel als Dispergiermedium.
+</P>
+<P>
+13. Dispersion nach Anspruch 12, dadurch gekennzeichnet, dass es sich bei der Dispersion um einen Lack oder eine Lackzubereitung handelt.
+</P>
+<P>
+14. Verfahren zur Herstellung modifizierter Nanopartikel mit einer mittleren Partikelgrösse im Bereich von 3 bis 50 nm, dadurch gekennzeichnet, dass ein oder mehrere Precursoren für die Nanopartikel in einem organischen Lösungsmittel mit einer Verbindung M3-x[O3-xSiR1+x] zu den Nanopartikeln umgesetzt werden, wobei x steht für eine ganze Zahl ausgewählt aus 0, 1 oder 2, M&amp;lt;I&amp;gt; steht für H, Li, Na oder K und alle R jeweils unabhängig voneinander stehen für einen verzweigten oder unverzweigten, gesättigten oder ungesättigten Kohlenwasserstoffrest mit 1 bis 28 C-Atomen in dem ein oder mehrere C-Atome durch O ersetzt sein können.
+</P>
+<P>
+15. Verfahren nach Anspruch 14, dadurch gekennzeichnet, dass die ein oder mehreren Precursoren ausgewählt werden aus wasserlöslichen Metall-Verbindungen, vorzugsweise Silicium-, Cer-, Cobalt-, Chrom-, Nickel-, Zink-, Titan-, Eisen-, Yttrium- oder Zirconium-Verbindungen, vorzugsweise aus den Zinksalzen der Carbonsäuren bzw. Halogenide, vorzugsweise aus Zinkformiat, Zinkacetat, Zinkpropionat und Zinkchlorid, wobei Zinkacetat insbesondere bevorzugt ist.
+</P>
+<P>
+16. Verfahren nach einem oder mehreren der vorstehenden Ansprüche, dadurch gekennzeichnet, dass in der Verbindung M3-x[O3-xSiR1+x] alle R jeweils unabhängig voneinander stehen für Methyl, Ethyl, Methoxy oder Ethoxy und M vorzugsweise steht für K.
+</P>
+<P>
+17. Verfahren nach einem oder mehreren der vorstehenden Ansprüche, dadurch gekennzeichnet, dass in einem weiteren Reaktionsschritt mindestens ein Oberflächenmodifikator zugegeben wird, wobei es sich bei dem Modifikator vorzugsweise um organofunktionelle Silane, quartäre Ammoniumverbindungen, Phosphonate, Phosphonium- und Sulfoniumverbindungen, insbesondere bevorzugt um ein Trialkoxysilan oder ein Tetraalkoxysilan handelt, wobei Alkoxy vorzugsweise steht für Methoxy oder Ethoxy, insbesondere bevorzugt für Methoxy.
+</P>
+<P>
+18. Verfahren nach einem oder mehreren der vorstehenden Ansprüche, dadurch gekennzeichnet, dass das organische Lösungsmittel gewählt ist aus den Alkoholen und Ethern, wobei es vorzugsweise ausgewählt ist aus Methanol, Ethanol, Diethylether, Tetrahydrofuran und Dioxan.
+</P>
+<P>
+19. Verfahren nach einem oder mehreren der vorstehenden Ansprüche, dadurch gekennzeichnet, dass ein Emulgator, vorzugsweise ein nicht-ionisches Tensid eingesetzt wird.
+</P>
+<P>
+20. Verwendung von Nanopartikeln nach mindestens einem der Ansprüche 1 bis 11 bzw. einer Dispersion nach mindestens einem der Ansprüche 12 oder 13 zur UV-Stabilisierung von Polymeren.
+</P>
+<P>
+21. UV-stabilisierte Polymerzubereitung im wesentlichen bestehend aus mindestens einem Polymeren, dadurch gekennzeichnet, dass das Polymere Nanopartikel nach mindestens einem der Ansprüche 1 bis 11 enthält.
+</P>
+<P>
+22. Polymer nach Anspruch 21, dadurch gekennzeichnet, dass es sich bei den Polymeren um Polycarbonat (PC), Polyethylenterephthalat (PETP), Polyimid (PI), Polystyrol (PS), Polymethylmethacrylat (PMMA) oder um Copolymere, die mindestens einen Anteil eines der genannten Polymere enthalten.
+</P>
+<P>
+23. Verfahren zur Herstellung UV-Stabilisierter Polymerzubereitungen, dadurch gekennzeichnet, dass das Polymermaterial mit Nanopartikeln gemäss mindestens einem der Ansprüche 1 bis 11 bzw. einer Dispersion nach mindestens einem der Ansprüche 12 oder 13, vorzugsweise in einem Extruder oder einem Kneter, vermischt wird.
+</P>
+</Claims>
+<Also_published_as>
+DE102006024288A1;US2010092761A1;JP2009537445A;WO2007134712A1;CN101495558A
+</Also_published_as>
+</BiblioData>

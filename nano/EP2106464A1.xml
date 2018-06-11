@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PROCESS FOR THE SYNTHESIS OF NANOSIZE METAL- CONTAINING NANOPARTICLES AND NANOPARTICLE DISPERSIONS
+</Title>
+<PublicationNumber>
+EP2106464A1
+</PublicationNumber>
+<Inventor>
+<Name>
+RAUSCHER FRANK [DE]
+</Name>
+<Name>
+HAVERKAMP VERENA [DE]
+</Name>
+<Name>
+HENNINGER BJOERN [DE]
+</Name>
+<Name>
+MLECZKO LESLAW [DE]
+</Name>
+<Name>
+RAUSCHER, FRANK
+</Name>
+<Name>
+HAVERKAMP, VERENA
+</Name>
+<Name>
+HENNINGER, BJOERN
+</Name>
+<Name>
+MLECZKO, LESLAW
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BAYER TECHNOLOGY SERVICES GMBH [DE]
+</Name>
+<Name>
+BAYER TECHNOLOGY SERVICES GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2106464
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070819686
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP09677
+</PriorityNumber>
+<PriorityDate>
+2007-11-08
+</PriorityDate>
+<PriorityNumber>
+DE200610055218
+</PriorityNumber>
+<PriorityDate>
+2006-11-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C30B29/40
+</Class>
+<Class>
+C30B29/46
+</Class>
+<Class>
+C30B29/60
+</Class>
+<Class>
+C30B7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B19/00P
+</Class>
+<Class>
+C01B25/08D
+</Class>
+<Class>
+C30B29/40
+</Class>
+<Class>
+C30B29/46
+</Class>
+<Class>
+C30B29/60
+</Class>
+<Class>
+C30B7/00
+</Class>
+</NCL>
+<Abstract>
+Gegenstand der Erfindung ist ein kontinuierliches Verfahren zur Herstellung morphologisch einheitlicher und nahezu monodispers verteilter metallhaltiger Nanopartikel, dadurch gekennzeichnet, dass durch eine Regelung der Temperatur und Volumenströme eine zeitliche und örtliche Trennung der Keimbildungs- und Wachstumsprozesse erreicht wird, wobei die Reaktion und Partikelbildung vorzugsweise in einem geeigneten mikrostrukturierten modularen Reaktorsystem initiiert und durchgeführt wird. Die Modularisierung der Mikroreaktionstechnikanlage (Mikrowärmtauscher, Reaktor, Mikromischer etc.) erlaubt eine optimale Einstellung der jeweiligen chemischen und verfahrenstechnischen Prozessparameter und somit die Herstellung von nahezu monodispers verteilten und morphologisch einheitlichen Nanopartikeln.
+</Abstract>
+<Claims>
+<P>
+1. Nasschemisches Verfahren zur Herstellung von metallhaltigen Nanopartikeln und/oder Nanopartikeldispersionen in einem Reaktor dadurch gekennzeichnet, dass durch eine Regelung der Temperatur und Volumenströme eine zeitliche und örtliche Trennung der Keimbildungs- und Wachstumsprozesse erreicht wird.
+</P>
+<P>
+2. Verfahren nach Anspruch 1 dadurch gekennzeichnet, dass das Verfahren in einer Mikroreaktionstechnikanlage durchgeführt wird.
+</P>
+<P>
+3. Nasschemisches Verfahren zur Herstellung von metallhaltigen Nanopartikeln und/oder Nanopartikeldispersionen in einem Mikroreaktor, durch folgende Schritte gekennzeichnet:
+</P>
+<P>
+a) Injektion bzw. Förderung einer Precursorlösung die mindestens einen Precursor und mindestens ein Tensid beinhaltet in bzw. durch den Mikroreaktor mit durchgesetzten Volumenströmen vorzugsweise von 0,05 ml/min bis 500 ml/min,
+</P>
+<P>
+b) gegebenenfalls Injektion bzw. Förderung einer weiteren Precursorlösung die mindestens einen weiteren Precursor und ein Tensid beinhaltet, und Mischung der Precursorlösungen a) und b) über ein geeignetes Mischelement zu einer Reaktionslösung,
+</P>
+<P>
+c) Initiierung von chemischer Reaktion insbesondere Keimbildung durch schnelles Aufheizen der Reaktionslösung auf eine Temperatur bei der Reaktion und Keimbildung in signifikantem Masse stattfinden, üblicherweise über 200 deg. C,
+</P>
+<P>
+d) kontrolliertes Wachstum der Nanopartikel durch Temperieren/Heizen der Reaktionslösung in einem Reaktor auf eine Temperatur von mehr als 150 deg. C, wobei die Temperatur niedriger als die benötigte Temperatur für die Keimbildung sein muss.
+</P>
+<P>
+4. Verfahren nach Anspruch 3, dadurch gekennzeichnet, dass in einem Schritt e) das Partikelwachstum durch Abkühlung der Reaktionslösung angehalten wird, wobei die Abkühlungstemperatur niedriger als die Temperatur der Keimbildung und die Wachstumstemperatur ist.
+</P>
+<P>
+5. Verfahren nach einem der Ansprüche 1 bis 4, das kontinuierlich betrieben wird.
+</P>
+<P>
+6. Verfahren nach einem der Ansprüche 3 bis 5, dadurch gekennzeichnet, dass in einem Mikrowärmetauscher die Temperaturerhöhung für den Schritt c) mit Hilfe eines Verhältnisses von Wärmeübertragungsfläche zu Reaktionsvolumen von mindestens 20.000 l/m erreicht wird.
+</P>
+<P>
+7. Verfahren nach einem der Ansprüche 3 bis 6, dadurch gekennzeichnet, dass in dem mikrostrukturierten Reaktor die Temperatur für den Schritt d) mit Hilfe eines AN-Verhältnisses von mindestens 1000 l/m gehalten wird und dessen Verweilzeitverteilung durch den Einsatz statischer Mischer deutlich enger ist als in einem Rohr oder einer Kapillare ist.
+</P>
+<P>
+8. Verfahren nach einem der Ansprüche 3 bis 7, dadurch gekennzeichnet, dass in einem Mikrowärmetauscher im Schritt e) das Partikelwachstum mit einem A/V-Verhältnis von mindestens 20.000 l/m durch abrupte Absenkung der Temperatur gestoppt wird.
+</P>
+<P>
+9. Verfahren nach einem der Ansprüche 3 bis 8 zur Synthese von Kern-Schale Nanoteilchen, dotierten Nanopartikeln, Nanostäbchen, Nanoplättchen, Nanotetrapods oder mehrfach verzweigten Nanostrukturen, dadurch gekennzeichnet, dass in einem beliebig oft wiederholbaren Schritt f) frische Precursorlösung zudosiert wird und Schritt d) wiederholt wird.
+</P>
+<P>
+10. Verfahren nach einem der Ansprüche 1 bis 9, dadurch gekennzeichnet, dass die hergestellten Nanopartikel eine charakteristische mittlere Partikelgrösse bis zu 40 nm und eine 0D-, 1D-, 2D- oder 3D-Strukturen aufweisen.
+</P>
+<P>
+11. Verfahren nach einem der Ansprüche 1 bis 10, dadurch gekennzeichnet, dass die Partikelgrössenverteilung eine Standardabweichung von maximal +- 10 nm aufweist bzw. eine Eigenschaftsverteilung eine Standardabweichung von +- 20 % nicht überschreitet.
+</P>
+</Claims>
+<Also_published_as>
+DE102006055218A1;US2009295005A1;US7833506B2;TW200839042A;KR20090082288A;JP2010510056A;WO2008061632A1;CN101589181A;CA2669883A1
+</Also_published_as>
+</BiblioData>

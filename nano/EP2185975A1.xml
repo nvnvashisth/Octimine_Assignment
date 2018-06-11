@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INDEPENDENTLY- ADDRESSABLE, SELF- CORRECTING INKING FOR CANTILEVER ARRAYS
+</Title>
+<PublicationNumber>
+EP2185975A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MIRKIN CHAD A [US]
+</Name>
+<Name>
+WANG YUHANG [US]
+</Name>
+<Name>
+GIAM LOUISE R [US]
+</Name>
+<Name>
+PARK MATTHEW [US]
+</Name>
+<Name>
+MIRKIN, CHAD, A
+</Name>
+<Name>
+WANG, YUHANG
+</Name>
+<Name>
+GIAM, LOUISE, R
+</Name>
+<Name>
+PARK, MATTHEW
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV NORTHWESTERN [US]
+</Name>
+<Name>
+NORTHWESTERN UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2185975
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080795169
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-08-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US09559
+</PriorityNumber>
+<PriorityDate>
+2008-08-08
+</PriorityDate>
+<PriorityNumber>
+US20070954732P
+</PriorityNumber>
+<PriorityDate>
+2007-08-08
+</PriorityDate>
+<PriorityNumber>
+US20080047630P
+</PriorityNumber>
+<PriorityDate>
+2008-04-24
+</PriorityDate>
+<PriorityNumber>
+US20080055028P
+</PriorityNumber>
+<PriorityDate>
+2008-05-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01Q70/06
+</Class>
+<Class>
+G01Q80/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01L3/02D2T
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q80/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+An improved method of loading tips and other surfaces with patterning compositions or inks for use in deposition. A method of patterning is described, the method comprising: (i) providing at least one array of tips;  (ii) providing a plurality of patterning compositions;  (iii) ink jet printing at least some of the patterning compositions onto some of the tips;  and (iv) depositing at least some of the patterning compositions onto a substrate surface;  wherein the ink jet printing is adapted to prevent substantial cross-contamination of the patterning composition on the tips. Good printing reproducibility and control of printing rate can be achieved. The surfaces subjected to ink jet printing can be treated to encourage localization of the ink at the tip. The method is particularly important for high density arrays.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method comprising: providing at least one array of tips; providing at least two patterning compositions different from each other; ink jet printing at least two of the different patterning compositions onto at least some of the tips; and depositing at least some of the ink jet printed patterning compositions onto a substrate surface; wherein the array of tips and the ink jet printing are adapted to prevent substantial cross-contamination of the patterning composition on the tips.
+</P>
+<P>
+2. The method of claim 1, wherein the tips are present with a tip density of at least 1,000 per square centimeter.
+</P>
+<P>
+3. The method of claim 1, wherein the array of tips is adapted by controlling the spacing of the tips.
+</P>
+<P>
+4. The method of claim 1, wherein the array of tips is a two dimensional array of tips and is adapted by controlling the spacing of the tips in each dimension.
+</P>
+<P>
+5. The method of claim 1 , wherein the ink jet printing is adapted by controlling the registration of the ink jet printer with respect to the array.
+</P>
+<P>
+6. The method of claim 1, wherein the ink jet printing is adapted by controlling the amount of patterning composition which is ink jet printed onto the tips.
+</P>
+<P>
+7. The method of claim 1, wherein the prevention of cross-contamination is sufficient that the amount of cross-contamination is less than about 5% by weight.
+</P>
+<P>
+8. The method of claim 1, wherein the prevention of substantial cross-contamination is measured by microscopy.
+</P>
+<P>
+9. The method of claim 1, wherein the array of tips are disposed on cantilevers, and the tips and cantilevers are surface adapted to encourage localization of the ink composition in a tip area. 10. The method of claim 1, wherein the array of tips is a two-dimensional array.
+</P>
+<P>
+11. The method of claim 1 , wherein the array of tips further comprises a plurality of cantilevers onto which the tips are disposed.
+</P>
+<P>
+12. The method of claim 1, wherein the array of tips is characterized by a tip spacing of less than about 150 microns.
+</P>
+<P>
+13. The method of claim 1, wherein the array is a two-dimensional array and is characterized by a tip-to-tip spacing of less than about 90 microns along a row of tips in one dimension and of less than about 90 microns between the rows of tips in another dimension.
+</P>
+<P>
+14. The method of claim 1, wherein the tips are scanning probe microscope tips.
+</P>
+<P>
+15. The method of claim 1, wherein the tips are atomic force microscope tips.
+</P>
+<P>
+16. The method of claim 1, wherein the amount of the patterning composition being ink jet printed onto a tip is smaller than about 500 pL.
+</P>
+<P>
+17. The method of claim 1, wherein depositing is carried out with simultaneously depositing at least two different ink compositions.
+</P>
+<P>
+18. The method of claim 1, wherein the tips are coated to encourage localization of the patterning composition on the tip.
+</P>
+<P>
+19. The method of claim 1, wherein the ink jet printing is controlled so that the tip is uniformly coated.
+</P>
+<P>
+20. The method of claim 1, wherein ink jet printing comprises ejecting at least one droplet to be disposed on the entire surface of the tip, followed by contraction of the droplet by drying to localize on the tip.
+</P>
+<P>
+21. A method comprising: ink jet printing at least one patterning composition onto at least one tip; and depositing the ink jet printed patterning composition onto a substrate surface at a deposition rate; wherein the conditions for ink jet printing are adapted to control the rate of deposition. 22. The method of claim 21 , wherein the conditions adapted include the amount of patterning composition ink jet printed onto the tip.
+</P>
+<P>
+23. The method of claim 21, wherein the conditions adapted include the number of ink drops which are ink jetted onto the tip.
+</P>
+<P>
+24. The method of claim 21, wherein the conditions adapted include increasing the number of ink drops sufficiently to provide a uniform tip coating.
+</P>
+<P>
+25. The method of claim 21, wherein the conditions adapted include the concentration of patterning composition.
+</P>
+<P>
+26. The method of claim 21 , wherein the ink jet printing and depositing are carried out to produce a direct relationship between the amount of patterning composition on the tip and the transport rate.
+</P>
+<P>
+27. The method of claim 21 , wherein the tip is disposed on a cantilever.
+</P>
+<P>
+28. The method of claim 21 , wherein the tip is one of an array of tips.
+</P>
+<P>
+29. The method of claim 21 , wherein the tip is an AFM tip.
+</P>
+<P>
+30. The method of claim 21, wherein the tip is a scanning probe tip.
+</P>
+<P>
+31. The method of claim 21 , wherein the tip is a nanoscopic tip.
+</P>
+<P>
+32. The method of claim 21 , wherein the tip is a solid tip.
+</P>
+<P>
+33. The method of claim 21, wherein the tip is disposed on a cantilever.
+</P>
+<P>
+34. The method of claim 21 , wherein the tip after ink j et printing has a shelf-life of at least about 30 days.
+</P>
+<P>
+35. The method of claim 21, wherein the ink jet printing is performed with at least one piezoelectric-controlled nozzle. 36. The method of claim 21 , wherein the tip is disposed on a cantilever to form a structure, and the structure is treated to encourage localization of the ink onto the tip.
+</P>
+<P>
+37. The method of claim 21 , wherein the tip is disposed on a cantilever to form a structure, and the structure is treated to provide at least two regions of different hydrophilicity to encourage localization of the ink onto the tip.
+</P>
+<P>
+38. The method of claim 21 , wherein the tip is disposed on a cantilever to form a structure, and the structure is surface treated with a monolayer to provide at least two regions of different hydrophilicity to encourage localization of the ink onto the tip.
+</P>
+<P>
+39. The method of claim 21 , wherein at least part of the tip is rendered hydrophilic or hydrophobic.
+</P>
+<P>
+40. The method of claim 21, wherein the tip is functionalized to have different hydrophilicities in different portion of the tip.
+</P>
+<P>
+41. A method comprising: ink jet printing at least one patterning composition onto at least one array of tips comprising at least two tips; and depositing the patterning composition from the tips onto a substrate surface to form a plurality of features; wherein the conditions for ink jet printing are adapted to control the variability of deposition rate in the array of tips.
+</P>
+<P>
+42. The method of claim 41, wherein the array is a one-dimensional array.
+</P>
+<P>
+43. The method of claim 41, wherein the array is a two-dimensional array.
+</P>
+<P>
+44. The method of claim 41, wherein the array further comprises at least one cantilever.
+</P>
+<P>
+45. The method of claim 41, wherein at least some of the tips are disposed on cantilevers.
+</P>
+<P>
+46. The method of claim 41 , wherein the patterning composition which is ink jet printed on the tips is disposed on the tips in substantially the same amount. 47. The method of claim 41 , wherein the patterning composition which is ink jet printed on the tips is deposited from the tips at substantially the same diffusion rates.
+</P>
+<P>
+48. The method of claim 41, wherein the tips after ink jet printing have a shelf-life of at least about one month.
+</P>
+<P>
+49. The method of claim 41, wherein the tips are scanning probe microscope tips.
+</P>
+<P>
+50. The method of claim 41, wherein the tips are atomic force microscope tips.
+</P>
+<P>
+51. The method of claim 41 , wherein the tip comprises a surface which has not been modified by an organic material.
+</P>
+<P>
+52. The method of claim 41, wherein the patterning compositions on the tips provide substantially the same diffusion rates upon deposition.
+</P>
+<P>
+53. The method of claim 41, wherein the patterning compositions on the tips have a standard variation in the diffusion rates less than about 10 %.
+</P>
+<P>
+54. The method of claim 41, wherein the features are about 100 run to about 10 microns.
+</P>
+<P>
+55. The method of claim 41, wherein the features are 10 nm to about one micron.
+</P>
+<P>
+56. The method of claim 41, wherein the sizes of the features have a standard variation less than about 10 %.
+</P>
+<P>
+57. The method of claim 41 , wherein the patterning composition diffusion is controlled by functionalization of the tips.
+</P>
+<P>
+58. The method of claim 41 , wherein the tips have been treated to encourage localization of the ink jet printed composition.
+</P>
+<P>
+59. The method of claim 41 , wherein the tips have been treated to become more hydrophilic or more hydrophobic.
+</P>
+<P>
+60. The method of claim 41, wherein the tips are disposed on cantilevers and both the tips and the cantilevers have been treated to encourage localization of the ink jet printed composition on the tips. 61. A method comprising:
+</P>
+<P>
+ink jet printing at least one patterning composition onto at least one tip in at least one array, wherein the tip has been treated to encourage localization of the patterning composition on the tip.
+</P>
+<P>
+62. The method of claim 61, wherein tip has been treated to become more hydrophilic or more hydrophobic.
+</P>
+<P>
+63. The method of claim 61, wherein the tip is disposed on a cantilever.
+</P>
+<P>
+64. The method of claim 61, wherein the tip is disposed on a cantilever, and the cantilever and the tip are treated to encourage localization of the patterning composition on the tip.
+</P>
+<P>
+65. The method of claim 61, wherein the tip is treated with a monolayer.
+</P>
+<P>
+66. The method of claim 61, wherein the tip is substantially more hydrophilic than area surrounding the tip.
+</P>
+<P>
+67. The method of claim 61, wherein the tip is substantially less hydrophilic than area surrounding the tip.
+</P>
+<P>
+68. The method of claim 61 , wherein the tip is disposed on a cantilever, and the cantilever is more hydrophilic than the tip.
+</P>
+<P>
+69. The method of claim 61, wherein the tip is disposed on a cantilever, and the cantilever is more hydrophobic than the tip.
+</P>
+<P>
+70. The method of claim 61, wherein the treatments which provide for different hydrophilicities is created by anisotropic functionalization.
+</P>
+<P>
+71. The method of claim 61 , wherein the tip has been treated by methods which include lithography.
+</P>
+<P>
+72. The method of claim 61 , wherein the tip has been treated by methods which include coating the tip with a film.
+</P>
+<P>
+73. The method of claim 61 , wherein the tip is disposed on a cantilever and a backside of the cantilever is further functionalized. 74. The method of claim 61, wherein the tip is an atomic force microscope tip.
+</P>
+<P>
+75. The method of claim 61, wherein the tip is a nanoscopic tip.
+</P>
+<P>
+76. The method of claim 61, wherein the array is a one-dimensional or a two-dimensional array.
+</P>
+<P>
+77. The method of claim 61 , wherein the ink jet printing is performed by a nozzle with a diameter of about 100 microns or less.
+</P>
+<P>
+78. The method of claim 61, wherein an array of tips used and the ink jet printing are adapted to prevent substantial cross-contamination of a plurality of patterning composition on the tips.
+</P>
+<P>
+79. The method of claim 61, wherein an array of tips is used adapted by controlling the spacing of the tips to prevent substantial cross-contamination.
+</P>
+<P>
+80. The method of claim 61, wherein the ink jet printing is adapted by controlling the registration of the ink jet printer.
+</P>
+<P>
+81. A method comprising: providing a contact printer surface, disposing at least one patterning composition onto the contact printer surface; and depositing at least some of the disposed patterning composition from the contact printer surface to a substrate; wherein the contact printer surface is treated so as to encourage the localization of the patterning composition to a desired location on the surface.
+</P>
+<P>
+82. The method of claim 81, wherein the disposing step is carried out by inkjet printing.
+</P>
+<P>
+83. The method of claim 81 , wherein the contact printer surface is adapted for a soft lithography method.
+</P>
+<P>
+84. The method of claim 81, wherein the contact printer surface is a stamp surface for microcontact printing 85. The method of claim 81 , wherein the contact printer surface is a tip for direct write deposition.
+</P>
+<P>
+86. The method of claim 81, wherein the contact printer surface comprises an array of cantilevers.
+</P>
+<P>
+87. The method of claim 81 , wherein the contact printer surface comprises an array of cantilevers, the cantilevers comprising tips thereon.
+</P>
+<P>
+88. The method of claim 81, wherein the contact printer surface comprises an array of cantilevers, the cantilevers comprising AFM tips thereon.
+</P>
+<P>
+89. The method of claim 81, wherein the contact printer surface is a nanoscopic tip.
+</P>
+<P>
+90. The method of claim 81, wherein the contact printer surface is a scanning probe tip.
+</P>
+<P>
+91. The method of claim 81 , wherein the contact printer surface comprises an aperture.
+</P>
+<P>
+92. The method of claim 81 , wherein the contact printer surface comprises an elongated beam comprising an aperture.
+</P>
+<P>
+93. The method of claim 81, wherein the contact printer surface is a solid tip.
+</P>
+<P>
+94. The method of claim 81, wherein the contact printer surface is an AFM tip.
+</P>
+<P>
+95. The method of claim 81, wherein the contact printer surface encourages localization by a boundary line between two regions with different hydrophilicities.
+</P>
+<P>
+96. The method of claim 81 , wherein the contact printer surface comprises a tip which has been treated to encourage localization of the patterning composition on the tip.
+</P>
+<P>
+97. The method of claim 81, wherein the contact printer surface comprises a two- dimensional array of tips.
+</P>
+<P>
+98. The method of claim 81 , wherein the contact printer surface comprises a two- dimensional array of tips having a tip density of at least 3,000 tips per square centimeter.
+</P>
+<P>
+99. The method of claim 81 , wherein the disposing step is an ink jet printing step and the contact printer surface comprises an array of cantilevers with AFM tips thereon. 100. The method of claim 81, wherein the disposing step is an ink jet printing step and the contact printer surface comprises an array of cantilevers with AFM tips thereon, and the array has a tip spacing of less than about 100 microns.
+</P>
+<P>
+101. A device comprising an array of cantilevers, the cantilevers having a tip thereon, wherein the cantilevers and tip are adapted to encourage localization of a deposited ink jet drop onto the tip.
+</P>
+<P>
+102. The device of claim 101, wherein the localization is encouraged with use of a hydrophilic-hydrophobic boundary.
+</P>
+<P>
+103. The device of claim 101, wherein the tips are AFM tips.
+</P>
+<P>
+104. The device of claim 101, wherein the array is a two-dimensional array.
+</P>
+<P>
+105. The device of claim 101, wherein the array has a cantilever spacing adapted to prevent cross-contamination of patterning compositions which are deposited by ink jet printing.
+</P>
+<P>
+106. The device of claim 101, wherein the tips are elastomeric tips.
+</P>
+<P>
+107. The device of claim 101, wherein the tips are solid tips.
+</P>
+<P>
+108. The device of claim 101, wherein the tips are fountain pen tips.
+</P>
+<P>
+109. A method comprising: providing an ink well, disposing at least one patterning composition onto the ink well surface; and wherein the ink well surface is treated so as to encourage the localization of the patterning composition to a desired location on the surface.
+</P>
+</Claims>
+<Also_published_as>
+WO2009020658A1;US2009133169A1;US7954166B2;KR20100056453A;JP2010536033A;CA2690723A1;AU2008284284A1
+</Also_published_as>
+</BiblioData>

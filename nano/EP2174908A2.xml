@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Device and use thereof
+</Title>
+<PublicationNumber>
+EP2174908A2
+</PublicationNumber>
+<Inventor>
+<Name>
+KARLSSON ANDERS [SE]
+</Name>
+<Name>
+KARLSSON ROGER [SE]
+</Name>
+<Name>
+PIHL JOHAN [SE]
+</Name>
+<Name>
+KARLSSON MATTIAS [SE]
+</Name>
+<Name>
+ORWAR OWE [SE]
+</Name>
+<Name>
+LOBOVKINA TATIANA [SE]
+</Name>
+<Name>
+JESORKA ALDO [SE]
+</Name>
+<Name>
+DAVIDSON MAX [SE]
+</Name>
+<Name>
+KARLSSON, ANDERS
+</Name>
+<Name>
+KARLSSON, ROGER
+</Name>
+<Name>
+PIHL, JOHAN
+</Name>
+<Name>
+KARLSSON, MATTIAS
+</Name>
+<Name>
+ORWAR, OWE
+</Name>
+<Name>
+LOBOVKINA, TATIANA
+</Name>
+<Name>
+JESORKA, ALDO
+</Name>
+<Name>
+DAVIDSON, MAX
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOXIS AB [SE]
+</Name>
+<Name>
+NANOXIS AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2174908
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090179284
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2005-12-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20050819755
+</PriorityNumber>
+<PriorityDate>
+2005-12-23
+</PriorityDate>
+<PriorityNumber>
+SE20040003139
+</PriorityNumber>
+<PriorityDate>
+2004-12-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B03C5/00
+</Class>
+<Class>
+B81C1/00
+</Class>
+<Class>
+G01N27/447
+</Class>
+<Class>
+G01N30/92
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/554
+</Class>
+<Class>
+G01N33/68
+</Class>
+<Class>
+B01L
+</Class>
+</IPC>
+<NCL>
+<Class>
+B03C5/00B
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N27/447B5
+</Class>
+<Class>
+G01N30/92
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/554
+</Class>
+<Class>
+G01N33/68A
+</Class>
+</NCL>
+<Abstract>
+Disclosed herein is a device comprising at least one supporting solid surface comprising at least one membraneophilic region;  a covering layer that is at least partially immobilized to the membraneophilic region, said covering layer consisting of (i) a surfactant membrane, (ii) a lipid mimicking polymer, (iii) a surfactant or emulsion system or (iv) a liquid crystal;  and a substance included in or bound to, connected to or associated with the covering layer. Also disclosed are methods wherein the device is used and use of the device. The methods relate to the identification of a substance e.g. proteons / peptides of the mobile fraction in a membrane preparation.
+</Abstract>
+<Claims>
+<P>
+1. A method for identification of a substance, which substance is included in or bound to, connected to or associated with a covering layer in a device, said device comprising:
+</P>
+<P>
+at least one supporting solid surface comprising at least one membraneophilic region;
+</P>
+<P>
+a covering layer that is at least partially adhered to the membraneophilic region, said covering layer consisting of (i) a surfactant membrane, (ii) a lipid mimicking polymer, (iii) a surfactant or emulsion system or (iv) a liquid crystal; and
+</P>
+<P>
+a substance included in or bound to, connected to or associated with the covering layer,
+</P>
+<P>
+said method comprising a first step (i) wherein the device is contacted with at least one digestive agent or cleavage agent, which carry out controlled cleaving of parts the substance, after which the substance consists of a substantially mobile fraction and an immobile fraction, which is still included in or bound to, connected to or associated with the covering layer; and a second step (ii) wherein the substantially mobile fraction is detected or analyzed.
+</P>
+<P>
+2. The method according to claim 1, wherein the digestive agent is an enzyme or a mixture of different digestive or cleavage agents.
+</P>
+<P>
+3. The method according to claim 1 or 2, wherein different digestive or cleavage agents are used sequentially, or in parallel.
+</P>
+<P>
+4. The method according to any one of the claims 1-3, further comprising an additional step wherein the device is contacted with at least one disruptive agent, which disrupt the structure of the covering layer carrying the remaining immobile fraction of the substance included in or bound to, connected to or associated with the covering layer, after which it is comprised of its basic elements, which are substantially mobile; and another step wherein the remaining fraction of the substance included in or bound to, connected to or associated with the covering layer, which is released from the covering layer, is detected or analyzed.
+</P>
+<P>
+5. The method according to claim 4, wherein the disruptive agent is a detergent or organic solvent.
+</P>
+<P>
+6. The method according to any one of the claims 1-5, wherein one of or both the steps of detection or analysis (ii and/or iv) is/are preceded by a separation step.
+</P>
+<P>
+7. The method according to claim 6, wherein the separation is selected from Capillary Electrophoresis (CE) Liquid Chromatography (LC), gel-chromatography and gel-electrophoresis.
+</P>
+<P>
+8. The method according to any one of the claims 1-7, wherein the detection or analysis is carried out by mass spectrometry, for example, MALDI MS, MALDI-TOF and MALDI-TOF-TOF, Electrospray Ionization (ESI MS-MS).
+</P>
+<P>
+9. The method according to any one of the claims 1-7, wherein the detection or analysis is carried out by surface plasmon resonance (SPR), quartz crystal microbalance (QCM) or a fluorescence-based technique.
+</P>
+<P>
+10. The method according to claim 1, wherein the device further comprises an aqueous layer trapped between the supporting solid surface and the covering layer.
+</P>
+<P>
+11. The method according to claim 1, wherein the device further comprises an aqueous solution covering the covering layer.
+</P>
+<P>
+12. The method according to claims 1, wherein the device further comprises a metal film on the supporting solid surface.
+</P>
+<P>
+13. The method according to any one of the claims 1-9, wherein the membraneophilic region is a surface made of silicon dioxide, glass, metal oxides, for example, aluminum oxide, metal, for example, gold, Mica or a polymer, or any combinations thereof.
+</P>
+<P>
+14. The method according to any one of the claims 1-13, wherein the covering layer is constituted by a surfactant membrane.
+</P>
+<P>
+15. The method according to claim 14, wherein the surfactant membrane is selected from the group consisting of lipid bilayer membranes, cell membranes, intact cells, lipid vesicles, proteovesicles, lipid nanotubes, lipid monolayers, cell fragments, organelles and any combinations thereof.
+</P>
+<P>
+16. The method according to any one of the claims 1-15, wherein the substance included in or bound to, connected to or associated with the covering layer is selected from the group consisting of peripheral and integral membrane proteins, glycosylphosphatidylinositol(GPI)-anchored proteins, phospholipids, sphingolipids, drugs, amphiphilic agents, lipophilic agents, sterols, sugars, oligonucleotides, polymers and DNA.
+</P>
+<P>
+17. The method according to any one of the claims 1-15, wherein the device further comprises at least one inlet and at least one outlet connection for creation of a flow of the liquid or the aqueous solution covering the covering layer, said flow making an exchange of additional membrane, protein-lipid mixtures, washing solutions, staining solutions, blocking solutions, digestive solutions and other solutions or suspensions around the covering layer.
+</P>
+</Claims>
+<Also_published_as>
+EP2174908A3;WO2006068619A1;US2011091864A1;KR20070119611A;JP2008525797A;EP2366659A2;EP1828049A1;CN101163638A;CA2592097A1;BRPI0516384A;AU2005319755A1
+</Also_published_as>
+</BiblioData>

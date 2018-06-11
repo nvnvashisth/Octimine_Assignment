@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PHOTOVOLTAIC CELL WITH SILOLE- CONTAINING POLYMER
+</Title>
+<PublicationNumber>
+EP2082437A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GAUDIANA RUSSELL [US]
+</Name>
+<Name>
+KINGSBOROUGH RICHARD [US]
+</Name>
+<Name>
+SHI XIAOBO [US]
+</Name>
+<Name>
+WALLER DAVID [US]
+</Name>
+<Name>
+ZHU ZHENGGUO [US]
+</Name>
+<Name>
+GAUDIANA, RUSSELL
+</Name>
+<Name>
+KINGSBOROUGH, RICHARD
+</Name>
+<Name>
+SHI, XIAOBO
+</Name>
+<Name>
+WALLER, DAVID
+</Name>
+<Name>
+ZHU, ZHENGGUO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONARKA TECHNOLOGIES INC [US]
+</Name>
+<Name>
+KONARKA TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2082437
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070872313
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-10-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US80053
+</PriorityNumber>
+<PriorityDate>
+2007-10-01
+</PriorityDate>
+<PriorityNumber>
+US20060850963P
+</PriorityNumber>
+<PriorityDate>
+2006-10-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L27/30
+</Class>
+<Class>
+H01L31/068
+</Class>
+<Class>
+H01L51/44
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00M16
+</Class>
+<Class>
+H01L51/00M2B2
+</Class>
+</NCL>
+<Abstract>
+Photovoltaic cells with silole-containing polymers, as well as related systems, methods and components are disclosed.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. An article, comprising: a first electrode; a second electrode; and a photoactive material disposed between the first and second electrodes, the photoactive material comprising a polymer including a first comonomer repeat unit and a second comonomer repeat unit different from the first comonomer repeat unit; wherein the first comonomer repeat unit comprises a silacyclopentadithiophene moiety of formula (1):
+</P>
+<P>
+in which each of Ri, R2, R3, and R4, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, C3-C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, or SO2R; R being H, Ci-C20 alkyl, Ci-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or Ci-C20 heterocycloalkyl; the second comonomer repeat unit comprises a silacyclopentadithiophene moiety of formula (I), a benzothiadiazole moiety, a thiadiazoloquinoxaline moiety, a cyclopentadithiophene moiety, a cyclopentadithiophene oxide moiety, a benzoisothiazole moiety, a benzothiazole moiety, a thiophene oxide moiety, a thienothiophene moiety, a thienothiophene oxide moiety, a dithienothiophene moiety, a dithienothiophene oxide moiety, a tetrahydroisoindole moiety, a fluorene moiety, a fluorenone moiety, a thiazole moiety, a selenophene moiety, a silole moiety, a thiazolothiazole moiety, a cyclopentadithiazole moiety, a naphthothiadiazole moiety, a thienopyrazine moiety, an oxazole moiety, an imidazole moiety, a pyrimidine moiety, a benzoxazole moiety, or a benzimidazole moiety; and the article is configured as a photovoltaic cell.
+</P>
+<P>
+2. The article of claim 1, wherein each of Ri and R2, independently, is C1- C20 alkyl.
+</P>
+<P>
+3. The article of claim 1, wherein each of Ri and R2 is hexyl.
+</P>
+<P>
+4. The article of claim 1 , wherein the second comonomer repeat unit comprises a benzothiadiazole moiety of formula (2), a thiadiazoloquinoxaline moiety of formula (3), a cyclopentadithiophene dioxide moiety of formula (4), a cyclopentadithiophene monoxide moiety of formula (5), a benzoisothiazole moiety of formula (6), a benzothiazole moiety of formula (7), a thiophene dioxide moiety of formula (8), a cyclopentadithiophene dioxide moiety of formula (9), a cyclopentadithiophene tetraoxide moiety of formula (10), a thienothiophene moiety of formula (11), a thienothiophene tetraoxide moiety of formula (12), a dithienothiophene moiety of formula (13), a dithienothiophene dioxide moiety of formula (14), a dithienothiophene tetraoxide moiety of formula (15), a tetrahydroisoindole moiety of formula (16), a thienothiophene dioxide moiety of formula (17), a dithienothiophene dioxide moiety of formula (18), a fluorene moiety of formula (19), a silole moiety of formula (20), a cyclopentadithiophene moiety of formula (21), a fluorenone moiety of formula (22), a thiazole moiety of formula (23), a selenophene moiety of formula (24), a thiazolothiazole moiety of formula (25), a cyclopentadithiazole moiety of formula (26), a naphthothiadiazole moiety of formula (27), a thienopyrazine moiety of formula (28), an oxazole moiety of formula (29), an imidazole moiety of formula (30), a pyrimidine moiety of formula (31), a benzoxazole moiety of formula (32), or a benzimidazole moiety of formula (33):
+</P>
+<P>
+wherein each of X and Y, independently, is CH2, O, or S; each of R5 and R6, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, C3-C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, or SO2R, in which R is H, C1-C20 alkyl, C1-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or C 1-C20 heterocycloalkyl; and each OfR7 and Rg, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, aryl, heteroaryl, C3-C2O cycloalkyl, or C3-C20heterocycloalkyl.
+</P>
+<P>
+5. The article of claim 4, wherein the second comonomer repeat unit comprises a benzothiadiazole moiety of formula (2), in which each of R5 and R6 is H.
+</P>
+<P>
+6. The article of claim 4, wherein the second comonomer repeat unit comprises a thiazole moiety of formula (23), in which R5 is hexyl.
+</P>
+<P>
+7. The article of claim 1 , wherein the polymer further comprises a third comonomer repeat unit different from the first and second comonomer repeat units.
+</P>
+<P>
+8. The article of claim 7, wherein the third comonomer repeat unit comprises a thiophene moiety.
+</P>
+<P>
+9. The article of claim 8, wherein the thiophene moiety is unsubstituted or substituted with hexyl.
+</P>
+<P>
+10. An article, comprising: a first electrode; a second electrode; and a photoactive material disposed between the first and second electrodes, in which the photoactive material comprising a polymer including a first comonomer repeat unit and a second comonomer repeat unit different from the first comonomer repeat unit; wherein the first comonomer repeat unit comprises a silacyclopentadithiophene moiety of formula (1):
+</P>
+<P>
+in which each of Ri, R2, R3, and R4, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, C3-C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, or SO2R; R being H, Ci-C20 alkyl, Ci-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or Ci-C20 heterocycloalkyl; the second comonomer repeat unit comprises a thiophene moiety substituted with Ci-C20 alkyl, Ci-C20 alkoxy, C3-C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR&apos;, C(O)R&apos;, C(O)OR&apos;, or SO2R&apos;; or a thiophene moiety fused with a 1,4-dioxane moiety; R&apos; being H, Ci-C20 alkyl, Ci-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or Ci-C20 heterocycloalkyl; and the article is configured as a photovoltaic cell.
+</P>
+<P>
+11. The article of claim 10, wherein each of Ri and R2, independently, is Ci-C20 alkyl.
+</P>
+<P>
+12. The article of claim 11, wherein each of Ri and R2 is hexyl.
+</P>
+<P>
+13. The article of claim 10, wherein the second comonomer repeat unit comprises a thiophene moiety substituted with Ci-C20 alkyl.
+</P>
+<P>
+14. The article of claim 13, wherein the second comonomer repeat unit comprises a thiophene moiety substituted with hexyl.
+</P>
+<P>
+15. An article, comprising : a first electrode; a second electrode; and a photoactive material disposed between the first and second electrodes, in which the photoactive material comprising a polymer including a first comonomer repeat unit and a second comonomer repeat unit different from the first comonomer repeat unit; wherein the first comonomer repeat unit comprises a silacyclopentadithiophene moiety of formula (1):
+</P>
+<P>
+in which each of Ri, R2, R3, and R4, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, C3-C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, or SO2R; R being H, Ci-C20 alkyl, Ci-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or Ci-C20 heterocycloalkyl; the second comonomer repeat unit is not an unsubstituted thiophene moiety; and the article is configured as a photovoltaic cell.
+</P>
+<P>
+16. A polymer, comprising : a first comonomer repeat unit comprising a silacyclopentadithiophene moiety of formula (1):
+</P>
+<P>
+in which each of Ri, R2, R3, and R4, independently, is H, Ci-C20 alkyl, Ci-C20 alkoxy, C3-C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, or SO2R; R being H, Ci-C20 alkyl, Ci-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or Ci-C20 heterocycloalkyl; and a second comonomer repeat unit comprising a silacyclopentadithiophene moiety of formula (I), a benzothiadiazole moiety, a thiadiazoloquinoxaline moiety, a cyclopentadithiophene moiety, a cyclopentadithiophene oxide moiety, a benzoisothiazole moiety, a benzothiazole moiety, a thiophene oxide moiety, a thienothiophene moiety, a thienothiophene oxide moiety, a dithienothiophene moiety, a dithienothiophene oxide moiety, a tetrahydroisoindole moiety, a fluorene moiety, a fluorenone moiety, a thiazole moiety, a selenophene moiety, a silole moiety, a thiazolothiazole moiety, a cyclopentadithiazole moiety, a naphthothiadiazole moiety, a thienopyrazine moiety, an oxazole moiety, an imidazole moiety, a pyrimidine moiety, a benzoxazole moiety, or a benzimidazole moiety.
+</P>
+<P>
+17. The polymer of claim 16, wherein each of Ri and R2, independently, is Ci-C20 alkyl.
+</P>
+<P>
+18. The polymer of claim 16, wherein each of Ri and R2 is hexyl.
+</P>
+<P>
+19. The polymer of claim 16, wherein the second comonomer repeat unit comprises a benzothiadiazole moiety of formula (2), a thiadiazoloquinoxaline moiety of formula (3), a cyclopentadithiophene dioxide moiety of formula (4), a cyclopentadithiophene monoxide moiety of formula (5), a benzoisothiazole moiety of formula (6), a benzothiazole moiety of formula (7), a thiophene dioxide moiety of formula (8), a cyclopentadithiophene dioxide moiety of formula (9), a cyclopentadithiophene tetraoxide moiety of formula (10), a thienothiophene moiety of formula (11), a thienothiophene tetraoxide moiety of formula (12), a dithienothiophene moiety of formula (13), a dithienothiophene dioxide moiety of formula (14), a dithienothiophene tetraoxide moiety of formula (15), a tetrahydroisoindole moiety of formula (16), a thienothiophene dioxide moiety of formula (17), a dithienothiophene dioxide moiety of formula (18), a fluorene moiety of formula (19), a silole moiety of formula (20), a cyclopentadithiophene moiety of formula (21), a fluorenone moiety of formula (22), a thiazole moiety of formula (23), a selenophene moiety of formula (24), a thiazolothiazole moiety of formula (25), a cyclopentadithiazole moiety of formula (26), a naphthothiadiazole moiety of formula (27), a thienopyrazine moiety of formula (28), an oxazole moiety of formula (29), an imidazole moiety of formula (30), a pyrimidine moiety of formula (31), a benzoxazole moiety of formula (32), or a benzimidazole moiety of formula (33):
+</P>
+<P>
+wherein each of X and Y, independently, is CH2, O, or S; each of R5 and R6, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, C3-C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, or SO2R, in which R is H, C1-C20 alkyl, C1-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or C1-C20 heterocycloalkyl; and each OfR7 and Rs, independently, is H, Ci-C2O alkyl, Ci-C2O alkoxy, aryl, heteroaryl, C3-C2o cycloalkyl, or C3-C2o heterocycloalkyl.
+</P>
+<P>
+20. The polymer of claim 19, wherein the second comonomer repeat unit comprises a benzothiadiazole moiety of formula (2), in which each of R5 and R6 is H.
+</P>
+<P>
+21. The polymer of claim 19, wherein the second comonomer repeat unit comprises a thiazole moiety of formula (23), in which R5 is hexyl.
+</P>
+<P>
+22. The polymer of claim 16, wherein the polymer further comprises a third comonomer repeat unit different from the first and second comonomer repeat units.
+</P>
+<P>
+23. The polymer of claim 22, wherein the third comonomer repeat unit comprises a thiophene moiety.
+</P>
+<P>
+24. The polymer of claim 23, wherein the thiophene moiety is unsubstituted or substituted with hexyl.
+</P>
+<P>
+25. A polymer, comprising: a first comonomer repeat unit comprising a silacyclopentadithiophene moiety of formula (1):
+</P>
+<P>
+in which each of Ri, R2, R3, and R4, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, C3-C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, or SO2R; R being H, Ci-C20 alkyl, Ci-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or Ci-C20 heterocycloalkyl; and a second comonomer repeat unit comprising a thiophene moiety substituted with Ci-C20 alkyl, Ci-C20 alkoxy, C3-C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR&apos;, C(O)R&apos;, C(O)OR&apos;, or SO2R&apos;; or a thiophene moiety fused with a 1,4-dioxane moiety; R&apos; being H, Ci-C20 alkyl, Ci-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or Ci-C20 heterocycloalkyl.
+</P>
+<P>
+26. The polymer of claim 25, wherein each of Ri and R2, independently, is Ci-C20 alkyl.
+</P>
+<P>
+27. The polymer of claim 26, wherein each of Ri and R2 is hexyl.
+</P>
+<P>
+28. The polymer of claim 25, wherein the second comonomer repeat unit comprises a thiophene moiety substituted with C1-C20 alkyl.
+</P>
+<P>
+29. The polymer of claim 28, wherein the second comonomer repeat unit comprises a thiophene moiety substituted with hexyl.
+</P>
+<P>
+30. A polymer, comprising: a first comonomer repeat unit comprising a silacyclopentadithiophene moiety of formula (1):
+</P>
+<P>
+in which each of Ri, R2, R3, and R4, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, C3-C20 cycloalkyl, C1-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, or SO2R; R being H, Ci-C20 alkyl, Ci-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or Ci-C20 heterocycloalkyl; and a second comonomer repeat unit that is not an unsubstituted thiophene moiety.
+</P>
+</Claims>
+<Also_published_as>
+EP2082437A4;WO2008088595A2;WO2008088595A3;JP2010507233A
+</Also_published_as>
+</BiblioData>

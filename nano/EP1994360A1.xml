@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOINDENTER
+</Title>
+<PublicationNumber>
+EP1994360A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BONILLA FLAVIO ALEJANDRO [US]
+</Name>
+<Name>
+PROKSCH ROGER [US]
+</Name>
+<Name>
+CLEVELAND JASON [US]
+</Name>
+<Name>
+SAUTER TIM [US]
+</Name>
+<Name>
+BONILLA, FLAVIO, ALEJANDRO
+</Name>
+<Name>
+PROKSCH, ROGER
+</Name>
+<Name>
+CLEVELAND, JASON
+</Name>
+<Name>
+SAUTER, TIM
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASYLUM RES CORP [US]
+</Name>
+<Name>
+ASYLUM RESEARCH CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1994360
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070852352
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US06379
+</PriorityNumber>
+<PriorityDate>
+2007-03-13
+</PriorityDate>
+<PriorityNumber>
+US20060782072P
+</PriorityNumber>
+<PriorityDate>
+2006-03-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01B5/28
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01N3/317
+</Class>
+<Class>
+G01Q60/36D
+</Class>
+</NCL>
+<Abstract>
+A new type of indenter is described. This device combines certain sensing and structural elements of atomic force microscopy with a module designed for the use of indentation probes, conventional diamond and otherwise, as well as unconventional designs, to produce high resolution and otherwise superior indentation measurements.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A nanoindenter, comprising
+</P>
+<P>
+a module installed in an atomic force microscope which includes an actuator that may be used to actuate the indenter probe and an optical lever detection system that may be used to measure the motion of the flexure controlling the indenter probe;
+</P>
+<P>
+an indenter probe attached to the central shaft of a monolithic three-dimensional leaf spring flexure which constrains the motion of such probe to the axis perpendicular to the sample; and
+</P>
+<P>
+a mechanical converter assembly which converts the z-axis motion of such central shaft to an angular change which may be measured by such optical lever detection system.
+</P>
+</Claims>
+<Also_published_as>
+EP1994360A4;US2007227236A1;US7685869B2;WO2008042009A1;US2010180356A1;US8196458B2;KR20090047387A;JP2009531656A
+</Also_published_as>
+</BiblioData>

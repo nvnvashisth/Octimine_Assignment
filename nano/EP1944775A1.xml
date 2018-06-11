@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Production of electronic devices
+</Title>
+<PublicationNumber>
+EP1944775A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CAIN PAUL [GB]
+</Name>
+<Name>
+MENON ANOOP [GB]
+</Name>
+<Name>
+SIRRINGHAUS HENNING [GB]
+</Name>
+<Name>
+WATTS JAMES D [GB]
+</Name>
+<Name>
+WERNE TIM VON [GB]
+</Name>
+<Name>
+BROWN THOMAS M [GB]
+</Name>
+<Name>
+CAIN, PAUL
+</Name>
+<Name>
+MENON, ANOOP
+</Name>
+<Name>
+SIRRINGHAUS, HENNING
+</Name>
+<Name>
+WATTS, JAMES D
+</Name>
+<Name>
+WERNE, TIM VON
+</Name>
+<Name>
+BROWN, THOMAS, M
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PLASTIC LOGIC LTD [GB]
+</Name>
+<Name>
+PLASTIC LOGIC LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1944775
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070075228
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-09-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040768301
+</PriorityNumber>
+<PriorityDate>
+2004-09-02
+</PriorityDate>
+<PriorityNumber>
+GB20030020491
+</PriorityNumber>
+<PriorityDate>
+2003-09-02
+</PriorityDate>
+<PriorityNumber>
+GB20030029740
+</PriorityNumber>
+<PriorityDate>
+2003-12-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B22F3/00
+</Class>
+<Class>
+H01B1/22
+</Class>
+<Class>
+H01L21/311
+</Class>
+<Class>
+H01L21/60
+</Class>
+<Class>
+H01L21/768
+</Class>
+<Class>
+H01L51/40
+</Class>
+<Class>
+H01L51/52
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01L51/00A2B2
+</Class>
+<Class>
+H01L51/00A2F
+</Class>
+<Class>
+H01L51/00A8
+</Class>
+<Class>
+H01L51/05B2B2
+</Class>
+<Class>
+H01L51/05B2B4
+</Class>
+<Class>
+H01L51/05B2B6
+</Class>
+</NCL>
+<Abstract>
+A method of producing an element of an electronic device, including the steps of providing a substrate;  depositing on said substrate a layer of a switchable material, which changes its physical or chemical properties upon irradiation with light or heating causing a change of its surface energy properties;  irradiatively inducing at selected regions of a layer of switchable material a change in physical or chemical properties that alters the surface energy of said selected regions and thereby forming a surface energy pattern on its surface;  and without removing said layer of switchable material in either irradiated selected regions or non-irradiated regions from the substrate depositing over the surface energy pattern produced in step a material for forming an element of the electronic device such that the surface energy pattern controls the deposition of said material.
+</Abstract>
+<Claims>
+<P>
+1. A method of producing an element of an electronic device, including the steps of: (a) providing a substrate; (b) depositing on said substrate a layer of a switchable material, which changes its physical or chemical properties upon irradiation with light or heating causing a change of its surface energy properties; (c) irradiatively inducing at selected regions of a layer of switchable material a change in physical or chemical properties that alters the surface energy of said selected regions and thereby forming a surface energy pattern on its surface; and (d) without removing said layer of switchable material in either irradiated selected regions or non-irradiated regions from the substrate depositing over the surface energy pattern produced in step (c) a material for forming an element of the electronic device such that the surface energy pattern controls the deposition of said material.
+</P>
+<P>
+2. A method according to claim 1, wherein said substrate includes a light absorbing material, and irradiating said light absorbing material so as to induce a physical or chemical change within said selected regions of the layer of switchable material.
+</P>
+<P>
+3. A method according to claim 1 or claim 2, wherein the chemical change is selected from the group of chemical reactions consisting a deprotection, decomposition, cross-linking, curing, dehydrogenation and elimination reaction.
+</P>
+<P>
+4. A method according to claim 3, including the step of providing in contact with the surface of the substrate a material with which the substrate reacts upon irradiation.
+</P>
+<P>
+5. A method according to claim 2, wherein said light-absorbing material is mixed into said layer of switchable material.
+</P>
+<P>
+6. A method according to claim 2, wherein said light-absorbing material is incorporated into another layer of the substrate.
+</P>
+<P>
+7. A method according to claim 2, wherein said light-absorbing material is a dye molecule.
+</P>
+<P>
+8. A method according to claim 6, wherein said light-absorbing material forms part of a metallic electrode of the electronic device causing said surface energy pattern to be aligned with the metallic electrode.
+</P>
+<P>
+9. A method according to claim 2, wherein said light-absorbing material locally generates heat for inducing the chemical change in the layer of switchable material, or generates a reactive species for inducing the chemical change in the layer of switchable material.
+</P>
+<P>
+10. A method according to claim 9, wherein the reactive species is a radical.
+</P>
+<P>
+11. A method according claim 9, wherein the layer of switchable material contains a photoacid generator.
+</P>
+<P>
+12. A method according to claim, wherein the light absorbing material has an optical density of higher than 0.3, preferably higher than 0.5.
+</P>
+<P>
+13. A method according to claim 1, wherein the layer of switchable material includes poly(tert-butoxycarbonyloxy)styrene or poly(tert-butylmethacrylate).
+</P>
+<P>
+14. A method according to claim 1, wherein the layer of switchable material incorporates a polymer having an acid anhydride backbone.
+</P>
+<P>
+15. A method according to claim 1, wherein the layer of switchable material forms at least part of one or more dielectric regions of a field effect transistor device.
+</P>
+<P>
+16. A method according to any of claims 1 to 15, wherein infra-red light is used, preferably infra-red light at a wavelength of about 830nm or 1064nm.
+</P>
+<P>
+17. A method according to any of claims 1 to 15, wherein the light is of ultraviolet wavelength.
+</P>
+<P>
+18. A method according to claim 1, wherein the substrate includes an underlying thermally sensitive element of the electronic device separated from the layer of switchable material by a thermal barrier layer having a thermal conductivity of less than 0.1 W/cm.K
+</P>
+<P>
+19. A method according to claim 18, wherein said thermal barrier layer includes a dielectric polymer.
+</P>
+<P>
+20. A method as claimed in claim 19, where said dielectric polymer is poly(tert-bulylmetbacrylate).
+</P>
+<P>
+21. A method according to any of claims 1 to 20 wherein at least step (c) is carried out in an inert atmosphere.
+</P>
+<P>
+22. A method of producing an element of an electronic device, including the steps of: (a) providing a substrate; (b) irradiatively inducing at selected regions of a surface of the substrate a chemical change that alters the surface energy of said selected regions and thereby form a surface energy pattern at said surface; and (c) depositing over the surface energy pattern produced in step (b) a material for forming an element of the electronic device such that the surface energy pattern controls the deposition of said material.
+</P>
+<P>
+23. A method of producing an electronic device, wherein at least one of the elements of the electronic device is produced by forming a surface modification layer (SML) over a substrate; removing selected portions of the SML by a selective irradiation technique; and using the resulting surface energy pattern to control the deposition of liquid materials onto the substrate; wherein the thickness of the SML is less than 50 nm and the product of the optical density and the reciprocal of the thickness of the SML is at least 0.006 nm
+</P>
+<P>
+24. A method according to claim 23, wherein the device includes an active channel region below the SML, and wherein the composition of the SML is selected in relation to said liquid materials such that the desired deposition control of said liquid materials can be achieved without irradiating any portions of the SML directly overlying said active channel region.
+</P>
+<P>
+25. A method according to claim 23, wherein the SML includes a polymer binder material for enhancing the film forming properties of the SML.
+</P>
+<P>
+26. A method according to claim 23, wherein the SML includes a self-assembled monolayer of molecules each including a head group that is relatively good at binding to a functional group on the substrate, and a tail group that is relatively good at generating heat from the radiation.
+</P>
+<P>
+27. A method according to claim 23, wherein the electronic device includes an active channel region below the SML, and wherein the selective irradiation technique uses light of a wavelength at which the material of the active channel region does not have an absorption peak.
+</P>
+<P>
+28. A method of producing a metal element of an electronic device on a substrate, including the steps of: forming a mixture of a material comprising metal atoms with a liquid, depositing the material from the liquid mixture onto a substrate, and then irradiating at least part of the deposited material with light to increase the electrical conductivity of the deposited material.
+</P>
+<P>
+29. A method according to claim 27, wherein said material is a chemical precursor to said metal.
+</P>
+<P>
+30. A method according to claim 29, wherein the step of irradiating at least part of the deposited material causes the removal of organic groups, and the chemical conversion of the material into a more highly conductive form.
+</P>
+<P>
+31. A method according to claim 28, wherein said material comprises nanoparticles of said metal.
+</P>
+<P>
+32. A method according to claim 31, wherein the average diameter of the nanoparticles is less than 20 nm.
+</P>
+<P>
+33. A method according to claim 31 or 32, wherein the step of irradiating at least part of the deposited material causes sintering of the nanoparticles.
+</P>
+<P>
+34. A method according to any of claims 28 to 33 wherein said light is of infrared wavelength.
+</P>
+<P>
+35. A method according to any of claims 28 to 34, wherein the step of irradiating the deposited material with light causes the irradiated material to become insoluble in said liquid.
+</P>
+<P>
+36. A method according to any of claims 28 to 35 including the step of irradiating only a selected region of the deposited material with light so as to convert only said selected region into a more highly conductive form and leave one or more adjacent regions of the deposited material in a low conductivity form
+</P>
+<P>
+37. A method according to claim 36, wherein the conductivity of the deposited material in the irradiated regions is higher than 1000 S/cm, and the conductivity in the non-irradiated regions is less than 0.1 S/cm.
+</P>
+<P>
+38. A method according to claim 36 or 37, wherein said material is deposited onto the substrate as a line by a printing step, and wherein a focussed laser beam is used to irradiate a selected portion of the printed line so as to produce a metal line having a linewidth less than that of the printed line.
+</P>
+<P>
+39. A method according to claims 36 to 38 as dependent on claim 35, comprising the additional step of removing the deposited material in the regions that are not irradiated by light by contacting the substrate with a liquid in which the non-irradiated material is soluble.
+</P>
+<P>
+40. A method according to any of claims 28 to 39 wherein the substrate onto which the material is deposited includes a thermally sensitive element of an electronic device.
+</P>
+<P>
+41. A method according to claim 40, wherein said thermally sensitive element is an active semiconductor layer of the electronic device.
+</P>
+<P>
+42. A method according to claim 40 or 41, wherein the substrate also contains a thermal barrier layer having a thermal conductivity of less than 0.1W/cm.K in between said thermally sensitive element, and said deposited material.
+</P>
+<P>
+43. A method according to claim 42, wherein the thermal barrier layer also forms a dielectric region of an electronic device.
+</P>
+<P>
+44. A method according to claim 42 to 43, wherein the thermal barrier layer comprises poly(methylmethacrylate).
+</P>
+<P>
+45. A method according to any of claims 28 to 44, wherein the irradiation is carried out in pulses.
+</P>
+<P>
+46. A method according to claim 45, wherein each pulse has a duration of no more than 1 microsecond.
+</P>
+<P>
+47. A method according to claim 45 or claim 46, wherein the irradiation is carried out using a shuttered continuous wave laser.
+</P>
+<P>
+48. A method according to any of claims 28 to 47, wherein the irradiation is carried out using infrared light at a wavelength of about 1064nm or 830nm.
+</P>
+<P>
+49. A method according to any of claims 28 to 48, wherein said metal element forms an electrode or interconnect of the electronic device.
+</P>
+<P>
+50. A method according to claim 49, wherein said metal element forms a source, drain or gate electrode of an electronic switching device.
+</P>
+<P>
+51. A method according to claim 36, wherein the substrate includes one or more opaque elements of the electronic device, that block the passage of the light, and using said one or more opaque elements as a self-aligned mask in the step of irradiating the deposited material.
+</P>
+<P>
+52. A method according to claim 51, wherein said one or more opaque elements of the electronic device are formed prior to the deposition of said deposited material.
+</P>
+<P>
+53. A method according to claim 51, wherein said one or more opaque elements of the electronic device are formed after the deposition of said deposited material.
+</P>
+<P>
+54. A method according to any of claims 51 to 53, wherein said one or more opaque elements form the source-drain electrodes of an electronic switching device, and the deposited material forms a gate electrode of the electronic switching device.
+</P>
+<P>
+55. A method according to any of claims 51 to 53, wherein said one or more opaque elements forms the gate electrode of an electronic switching device, and the deposited material forms the source-drain electrodes of the electronic switching device.
+</P>
+<P>
+56. A method according to any of claims 51 to 55, wherein the deposited material is removed in the regions shadowed from the light exposure by the one or more opaque elements, by contacting the substrate with a liquid in which the non-irradiated material is soluble.
+</P>
+<P>
+57. A method of producing one or more elements of an electronic device, including the steps of: providing a substrate including one or more underlying elements of the electronic device and a thermally patternable layer overlying said one or more underlying elements; and using said one or more underlying elements to locally generate heat and thereby selectively induce a change in corresponding portions of said thermally patternable layer; and wherein either the change selectively induced in said corresponding portions directly results in the definition of one or more elements of the electronic device in a position determined by that of said one or more underlying elements, or alternatively including the additional step of using the change selectively induced in said one or more corresponding portions to facilitate the formation of one or more elements of the electronic device in a position determined by that of said one or more underlying elements.
+</P>
+<P>
+58. A method according to claim 57, wherein the change selectively induced in said corresponding portions results in a surface energy pattern on the surface of the substrate, and including the additional step of using the surface energy pattern to control the deposition of a material for forming said one or more elements of the electronic device.
+</P>
+<P>
+59. A method according to claim 58, wherein the material for forming said one or more elements is deposited by a liquid-based printing technique.
+</P>
+<P>
+60. A method according to claim 57, wherein the change selectively induced in said corresponding portions includes a change in the solubility of those portions, and including the additional step of removing regions of the thermally patternable layer by bringing the layer into contact with a liquid in which said regions of the thermally patternable layer are soluble.
+</P>
+<P>
+61. A method according to any of claims 57 to 60 for producing the source and drain electrodes of a transistor, and wherein the one or more underlying elements includes the gate electrode of the transistor.
+</P>
+<P>
+62. A method according to any of claims 57 to 60 for producing the gate electrodes of a transistor, and wherein the one or more underlying elements includes the source-drain electrode of the transistor.
+</P>
+<P>
+63. A method according to any of claims 57 to 62, including the step of irradiating said one or more underlying elements with infrared light to induce said local heat generation.
+</P>
+<P>
+64. A method according to any of claims 57 to 63, wherein the patternable layer comprises a novolac-based photoresist or a mixture of a novolac-based photoresist and a silsesquioxane resin.
+</P>
+<P>
+65. A method according to any of claim 57 to 64, wherein said thermally patternable layer is a dielectric material that when heated forms a 3-dimensional crosslinked network structure.
+</P>
+<P>
+66. A method according to claim 57, wherein said one or more underlying elements comprises a gate electrode, and the pattemable layer comprises a material that is converted upon heating into a semiconducting form so as to form the semiconducting channel of the transistor in a position determined by the gate electrode.
+</P>
+<P>
+67. A method according to claim 66, wherein the pattemable layer comprises a material that is converted into a more conjugated form upon heating.
+</P>
+<P>
+68. A method according to claim 66, wherein the patternable layer also becomes relatively insoluble upon heating, and further including the steps of removing the remaining relatively soluble regions of the patternable layer and using the resulting surface energy pattern to form source and drain electrodes also in a position determined by the gate electrode.
+</P>
+<P>
+69. A method according to claim 61 or 62, wherein the local heat generation is controlled such that edges of the source and drain electrodes are aligned with respective edges of the gate electrode to within a lateral distance smaller than 20 microns.
+</P>
+<P>
+70. A method according to claim 69, wherein the edges of the source and drain electrodes are aligned with respective edges of the gate electrode to within a lateral distance smaller than 5 microns.
+</P>
+<P>
+71. A method according to claim 69, wherein the edges of the source and drain electrodes are aligned with respective edges of the gate electrode to within a lateral distance smaller than 1 micron.
+</P>
+<P>
+72. A method according to any of claims 57 to 71, wherein said underlying one or more elements of the electronic device are included between the pattemable layer and one or more semiconductive or conductive layers, and wherein the substrate further includes a thermal barrier layer between said underlying elements and the semiconductive or conductive layers, the thermal barrier layer having a thermal conductivity of less than 0.1 W /cm.K.
+</P>
+</Claims>
+</BiblioData>

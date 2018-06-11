@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ASSEMBLY OF NANOSCALED FIELD EFFECT TRANSISTORS
+</Title>
+<PublicationNumber>
+EP2064744A2
+</PublicationNumber>
+<Inventor>
+<Name>
+WERNERSSON LARS-ERIK [SE]
+</Name>
+<Name>
+LIND ERIK [SE]
+</Name>
+<Name>
+BRYLLERT TOMAS [SE]
+</Name>
+<Name>
+OHLSSON JONAS [SE]
+</Name>
+<Name>
+LOEWGREN TRULS [SE]
+</Name>
+<Name>
+SAMUELSON LARS [SE]
+</Name>
+<Name>
+THELANDER CLAES [SE]
+</Name>
+<Name>
+WERNERSSON, LARS-ERIK
+</Name>
+<Name>
+LIND, ERIK
+</Name>
+<Name>
+BRYLLERT, TOMAS
+</Name>
+<Name>
+OHLSSON, JONAS
+</Name>
+<Name>
+LOEWGREN, TRULS
+</Name>
+<Name>
+SAMUELSON, LARS
+</Name>
+<Name>
+THELANDER, CLAES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+QUNANO AB [SE]
+</Name>
+<Name>
+QUNANO AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2064744
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070820358
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-19
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP59914
+</PriorityNumber>
+<PriorityDate>
+2007-09-19
+</PriorityDate>
+<PriorityNumber>
+SE20060001998
+</PriorityNumber>
+<PriorityDate>
+2006-09-19
+</PriorityDate>
+<PriorityNumber>
+SE20070001884
+</PriorityNumber>
+<PriorityDate>
+2007-08-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L27/088
+</Class>
+<Class>
+H01L29/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L27/088D
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+<Class>
+H01L29/06C6W6
+</Class>
+<Class>
+H01L29/20
+</Class>
+<Class>
+H01L29/775
+</Class>
+<Class>
+H01L29/78C2
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to vertical nanowire transistors with a wrap-gated geometry. The threshold voltage of the vertical nanowire transistors is controlled by the diameter of the nanowire, the doping of the nanowire, the introduction of segments of heterostructures in the nanowire, the doping in shell-structures surrounding the nanowire, tailoring the work function of the gate stack, by strain engineering, by control of the dielectrica or the choice of nanowire material. Transistors with varying threshold voltages are provided on the same substrate, which enables the design of advanced circuits utilizing the shifts in the threshold voltages, similar to the directly coupled field logic.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A semiconductor device comprising at least two vertical nanowire wrap insulating gate field effect transistors (101, 102), characterized in that each transistor comprises a massive nanowire (105) which comprises the channel of the transistor, and by that one of the transistors differ in the threshold voltage from the other transistor.
+</P>
+<P>
+2. The semiconductor device according to claim 1, wherein the nanowire transistors are grouped into at least two individually addressable sets that each consist of nanowires with the same threshold voltage .
+</P>
+<P>
+3. The semiconductor device according to claim 2, characterized by a first set (405) of transistors comprising nanowires each of a first diameter giving a first threshold voltage, and a second set (406) of transistor comprising nanowires each of a second diameter giving a second threshold voltage.
+</P>
+<P>
+4. The semiconductor device according to claim 3, wherein the first set of transistors are of enhancement type and the second set of transistors are of depletion type and the diameter of the nanowires in the first set (405) is smaller than the diameter of the nanowires in the second set (406) .
+</P>
+<P>
+5. The semiconductor device according to claim 4, wherein the diameter of the nanowires in the first
+</P>
+<P>
+27 set of transistors is below 20 nm.
+</P>
+<P>
+6. The semiconductor device according to claim 2, characterized by a first set of transistors comprising nanowires each with a first doping level giving a first threshold voltage, and a second set of transistor comprising nanowires each with a second doping level giving a second threshold voltage .
+</P>
+<P>
+7. The semiconductor device according to claim 6, wherein the first set of transistors are of enhancement type and the second set of transistors are of depletion type and the doping level of the nanowires in the first set is lower than the doping level of the nanowires in the second set.
+</P>
+<P>
+8. The semiconductor device according to claim 7, wherein the doping levels are in the interval 10&amp;lt;16&amp;gt;- 10&amp;lt;18&amp;gt; cm&amp;lt;&quot;3&amp;gt;.
+</P>
+<P>
+9. The semiconductor device according to claim 2, wherein each of the transistors comprises a gate stack comprising a gate contact (160) enclosing a portion of the nanowire (105), and a dielectric layer (170) between the gate contact (160) and the nanowire (105), characterized by a first set of transistors comprising nanowires each with a first gate stack exhibiting a first work function giving a first threshold voltage, and a second set of transistor comprising nanowires each with a second gate stack exhibiting a second work function giving a second threshold voltage.
+</P>
+<P>
+28
+</P>
+<P>
+10. The semiconductor device according to claim 9, wherein the first set of transistors are of enhancement type and the second set of transistors are of depletion type and the first gate stacks have a larger work function than the second gate stacks.
+</P>
+<P>
+11. The semiconductor device according to claim 10, wherein the first gate stack comprises a gate contact of a first metal or metal combination and the second gate stack comprises a gate contact of a second metal or metal combination, and wherein the first metal or metal combination has a larger work function than the second metal or metal combination.
+</P>
+<P>
+12. The semiconductor device according to claim 10, wherein the first gate stack comprises a doped layer with a first doping level giving a first work function and the second gate stack comprises a doped layer with a second doping layer different from the first doping layer giving a second work function.
+</P>
+<P>
+13. The semiconductor device according to claim 2, wherein the transistors comprises a gate contact
+</P>
+<P>
+(160) enclosing a portion of the nanowire (105), the enclosed portion defining a gate region (107), characterized by a first set of transistors comprising nanowires (105) each with a first heterostructure in the gate region (107) giving a first threshold voltage, and a second set of transistor comprising nanowires each with a second heterostructure or no heterostructure in the gate region (107) giving a second threshold voltage.
+</P>
+<P>
+29
+</P>
+<P>
+14. The semiconductor device according to claim 13, wherein the first set of transistors are of enhancement type and the second set of transistors are of depletion type and the heterostructure in the nanowires of the first set of transistors forms a larger barrier than the heterostructure in the nanowires of the second set of transistors.
+</P>
+<P>
+15. The semiconductor device according to claim 2, wherein the nanowires (105) are at least partly enclosed by a doped shell layer (1010) and a first set of transistors each provided with a first shell layer (107) providing a first carrier concentration to the enclosed nanowire giving a first threshold voltage, and a second set of transistor each provided with a second shell layer (107) providing a second carrier concentration, different from the first carrier concentration, to the enclosed nanowire giving a second threshold voltage.
+</P>
+<P>
+16. The semiconductor device according to claim 15, wherein the first and second doped shell layer differ in thickness.
+</P>
+<P>
+17. The semiconductor device according to claim 15 or 16, wherein the first and second doped shell layer differ in doping level.
+</P>
+<P>
+18. The semiconductor device according to claim 2, wherein a first set of transistors each arranged according to a structure resulting in a first strain in the nanowire giving a first threshold voltage, and a second set of transistor each arranged
+</P>
+<P>
+30 according to a structure resulting in a second strain in the nanowire giving a second threshold voltage .
+</P>
+<P>
+19. The semiconductor device according to claim 18, wherein the transistor in the first set has a first core/shell-structure and the transistors in the second set has a different core/shell structure.
+</P>
+<P>
+20. The semiconductor device according to claim 2, wherein each of the transistors comprises a gate stack comprising a gate contact (160) enclosing a portion of the nanowire (105), and a dielectric layer (170) between the gate contact (160) and the nanowire (105), characterized by a first set of transistors comprising a first gate stack with a first dielectric layer, and a second set of transistor comprising a second gate stack with a second dielectric layer, wherein the first and second dielectric layer differ in thickness or in permittivity.
+</P>
+<P>
+21. The semiconductor device according to claim 20, wherein the first set of transistors are of enhancement type and the second set of transistors are of depletion type and the first dielectric layer is thinner or has a higher permittivity than the second dielectric layer.
+</P>
+<P>
+22. The semiconductor device according to claim 2, characterized by a first set of transistors comprising nanowires of a first material and a second set of transistor comprising nanowires of a
+</P>
+<P>
+31 second material wherein the materials differ in bandgap .
+</P>
+<P>
+23. The semiconductor device according to claim 22, wherein the first set of transistors are of enhancement type and the second set of transistors are of depletion type and the first material has a larger bandgap than the second material.
+</P>
+<P>
+24. The semiconductor device according to any of the above claims, wherein the transistors with different threshold voltages are formed in the same nanowire .
+</P>
+<P>
+25. The semiconductor device according to any of claims 1-23, characterized by that the transistors with different threshold voltages are formed during one growth run.
+</P>
+<P>
+26. The semiconductor device according to any of the above claims, wherein the transistors are of both n-type and p-type.
+</P>
+<P>
+27. The semiconductor device according to any of the claims 1-25, wherein the transistors are of both n-type and p-type.
+</P>
+<P>
+28. A method of fabricating a semiconductor device comprising a plurality of nanowires, characterized by the steps of:
+</P>
+<P>
+-growing in a first growth run nanowires with first characteristics at at least one first confined area
+</P>
+<P>
+32 of a substrate, forming a first set of nanowires; -growing in a second growth run nanowires with second characteristics at at least one second confined area of a substrate, forming a second set of nanowires; and
+</P>
+<P>
+-contacting the first and second set of nanowires so that the sets are individually addressable.
+</P>
+<P>
+29. The method according to claim 28, wherein the sets of nanowires are characterized by a first and second threshold value.
+</P>
+<P>
+30. The method according to claim 29, comprising the steps of:
+</P>
+<P>
+-depositing catalytic particles of a first size in at least one first confined area of a substrate; -depositing catalytic particles of a second size in at least one second confined area of the substrate; -growing simultaneously nanowires from both first and second catalytic particle sizes, thereby forming a first set of nanowires with a first diameter and a second set of nanowires with a second diameter, relating respectively to a first and second threshold value; and
+</P>
+<P>
+-contacting the first and second set of nanowires so that the sets are individually addressable.
+</P>
+<P>
+31. The method according to claim 29, comprising the steps of:
+</P>
+<P>
+-providing a growth mask with apertures of a first diameter in at least one first confined area of a substrate;
+</P>
+<P>
+- providing a growth mask with apertures of a second
+</P>
+<P>
+33 diameter in at least one second confined area of the substrate;
+</P>
+<P>
+-growing simultaneously nanowires from apertures of first and second diameters, thereby forming a first set of nanowires with a first diameter and a second set of nanowires with a second diameter, relating respectively to a first and second threshold value; and
+</P>
+<P>
+-contacting the first and second set of nanowires so that the sets are individually addressable.
+</P>
+<P>
+34
+</P>
+</Claims>
+<Also_published_as>
+WO2008034850A2;WO2008034850A3;US2010176459A1;US8063450B2;KR20090075819A;JP2010503981A
+</Also_published_as>
+</BiblioData>

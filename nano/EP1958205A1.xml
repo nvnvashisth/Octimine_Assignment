@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOSTRUCTURED DEVICE
+</Title>
+<PublicationNumber>
+EP1958205A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MUR PIERRE [FR]
+</Name>
+<Name>
+OILLIC CECILE [FR]
+</Name>
+<Name>
+MUR, PIERRE
+</Name>
+<Name>
+OILLIC, CECILE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE - CEA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1958205
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060818815
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-24
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006EP11300
+</PriorityNumber>
+<PriorityDate>
+2006-11-24
+</PriorityDate>
+<PriorityNumber>
+FR20050011986
+</PriorityNumber>
+<PriorityDate>
+2005-11-25
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C12Q1/00
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/552
+</Class>
+<Class>
+G01N33/553
+</Class>
+<Class>
+G11C13/00
+</Class>
+<Class>
+G11C13/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C12Q1/00B
+</Class>
+<Class>
+G01N33/543K
+</Class>
+<Class>
+G11C13/00R5
+</Class>
+<Class>
+G11C13/00R5C
+</Class>
+<Class>
+G11C13/00R5C4
+</Class>
+</NCL>
+<Abstract>
+La présente invention a pour objet un dispositif nanostructuré (100) comprenant un substrat (101), une couche intermédiaire (102), une zone (103) consistant d&apos;une pluralité des sites nanostructurés tridimensionnels (104) en un matériau semiconducteur, présentant des espèces chimiques (106) accrochés à la surface des lesdites sites nanostructurés tridimensionnels (104). Le dispositif selon l&apos;invention est utilisable pour la fabrication d&apos;une biopuce et d&apos;une mémoire électronique. La présente invention a également pour objet un procédé pour la formation d&apos;une mémoire électronique.
+</Abstract>
+<Claims>
+<P>
+Revendications
+</P>
+<P>
+1. Dispositif nanostructuré (100) caractérisé en ce qu&apos;il comprend un substrat (101), une 5 couche intermédiaire (102), une zone (103) consistant d&apos;une pluralité des sites nanostructurés tridimensionnels (104).
+</P>
+<P>
+2. Dispositif selon la revendication 1, caractérisée en ce que les surfaces des sites nanostructurés tridimensionnels (104) sont pourvues d&apos;une couche d&apos;accrochage (204).
+</P>
+<P>
+3. Dispositif selon l&apos;une des revendications précédentes, caractérisée en ce que la couche d&apos;accrochage (204) est poreux.
+</P>
+<P>
+4. Dispositif selon la revendication 2 ou 3, caractérisée en ce que la surface de la couche 15 d&apos;accrochage (204) est pourvu des fonctions chimiques de couplage.
+</P>
+<P>
+5. Dispositif selon l&apos;une des revendications 1 à 4, caractérisée en ce que le substrat (101) est en un matériau comprenant du silicium, germanium, quartz et mélanges de lesdites matériaux.
+</P>
+<P>
+6. Dispositif selon la revendication 5, caractérisée en ce que la couche intermédiaire (102) est en matériau diélectrique ou isolant.
+</P>
+<P>
+7. Dispositif selon la revendication 6, caractérisée en ce que le matériau diélectrique est 25 choisi parmi les oxydes, nitrures, oxydonitrures, carbures, oxydocarbures et silicates de Si, Al, Hf, Zr, Ti.
+</P>
+<P>
+8. Dispositif selon l&apos;une des revendications précédentes, caractérisée en ce que les sites nanostructurés tridimensionnels (104) sont séparés l&apos;un de l&apos;autre.
+</P>
+<P>
+9. Dispositif selon la revendication 8, caractérisée en ce que les sites nanostructurés tridimensionnels (104) sont des grains d&apos;une forme hémisphérique ou sphérique.
+</P>
+<P>
+10. Dispositif selon la revendication 9, caractérisée en ce que les grains ont un diamètre 35 entre 2 et 150 nm. 10 20 30 Stolmâr &amp;#8226; Scheele &amp;#8226; Hinkelmann.11.2005 32904-CEA-P-FR - 23 -
+</P>
+<P>
+11. Dispositif selon la revendication 10, caractérisée en ce que la densité des grains sur la couche intermédiaire (102) est comprise dans la plage entre 106 et 1012 cm-2.
+</P>
+<P>
+12. Dispositif selon l&apos;une des revendications 8 à 11, caractérisée en ce que les grains sont poreux.
+</P>
+<P>
+13. Dispositif selon l&apos;une des revendications précédentes, caractérisée en ce que les espèces chimiques 106 sont choisies parmi les acides nucléiques, les peptides, les protéines, les enzymes, les anticorps, les lipides, leurs partenaires biologiques, les composés ayant des propriétés redox comme les métallocènes, les métalloporphyrines, les polyoxométallates.
+</P>
+<P>
+14. Biopuce comportant une pluralité des dispositifs selon l&apos;une des revendications précédentes 1 à 13.
+</P>
+<P>
+15. Dispositif selon l&apos;une des revendications précédentes 1 à 13, caractérisée en ce que les espèces chimiques sont couvertes d&apos;une couche diélectrique.
+</P>
+<P>
+16. Dispositif selon la revendication 15, caractérisée en ce que une couche en un matériau conducteur est situé au dessus de la couche diélectrique.
+</P>
+<P>
+17. Mémoire électronique comprenant une pluralité des dispositifs selon la revendication 16 qui sont interconnectés.
+</P>
+<P>
+18. Mémoire électronique selon la revendication 17, caractérisée en ce que la pluralité des dispositifs forme une grille de commande.
+</P>
+<P>
+19. Mémoire électronique selon la revendication 18 comprenant une source et un drain.
+</P>
+<P>
+20. Mémoire électronique selon la revendication 19 présentant une couche d&apos;enrobage qui est en matériau conducteur électronique ou en matériau isolant électrique. 30 Stolmâr &amp;#8226; Scheele &amp;#8226; Hinkelmann.11.2005 32904-CEA-P-FR - 24 -
+</P>
+<P>
+21. Procédé de fabrication d&apos;un dispositif selon l&apos;une des revendications 1 à 13, le procédé comportant les étapes successives suivantes : a) se munir d&apos;un substrat (101) b) former une couche intermédiaire (102) sur la surface du substrat (101) c) déposer des sites nanostructurés tridimensionnels (104) sur la couche intermédiaire (102) d) accrocher des espèces chimiques (106, 413) sur la surface des sites nanostructurés tridimensionnels (104-412)
+</P>
+<P>
+22. Procédé selon la revendication 21, caractérisée en ce que une couche d&apos;accrochage (204) est déposée sur chaque site nanostructuré (104).
+</P>
+<P>
+23. Procédé selon la revendication 22, caractérisée en ce que la couche d&apos;accrochage est activée par un traitement avec un composé ayant des groupes fonctionnels aptes à fixer des espèces chimiques par une liaison covalente.
+</P>
+<P>
+24. Procédé selon la revendication 23, caractérisée en ce que les espèces chimiques 106 sont choisies parmi les acides nucléiques, les peptides, les protéines, les enzymes, les anticorps, les lipides, leurs partenaires biologiques, les composés ayant des propriétés redox comme les métallocènes, les métalloporphyrines, les polyoxométallates.
+</P>
+<P>
+25. Procédé selon l&apos;une des revendications 21 à 24 pour la fabrication d&apos;une mémoire électronique (400) selon l&apos;une des revendications 17 à 20, caractérisé en ce que le substrat (101) est en silicium (401) et comporte des zones de grille sacrificielle (402, 403, 404, 405, 406), une source (407), un drain (408), une zone siliciurée (409) et une couche d&apos;enrobage (410).
+</P>
+<P>
+26. Procédé selon la revendication 25, le procédé comportant avant l&apos;étape b) l&apos;étape suivante : b1) éliminer la grille factice délimitée par la zone (405) jusqu&apos;à surface du substrat (401) pour former un puits (420) de taille définie Stolmâr &amp;#8226; Scheele &amp;#8226; Hinkelmann.11.2005 32904-CEA-P-FR - 25 -
+</P>
+<P>
+27. Procédé selon la revendication 26, caractérisée en ce que les étapes b) et c) sont réalisées par : b) former une couche d&apos;isolant (411) sur la surface du substrat (401) obtenue dans l&apos;étape bl c) déposer des sites nanostructurés (412) sur la couche d&apos;isolant (411) au fond du puits (420)
+</P>
+<P>
+28. Procédé selon la revendication 27, caractérisé par les étapes additionnelles suivantes : e) appliquer une couche d&apos;un diélectrique de contrôle (414) sur les espèces chimiques accrochées f) déposer une couche en un matériau conducteur (415) sur la couche de diélectreque de contrôle (414)
+</P>
+<P>
+29. Procédé selon l&apos;une des revendications précédentes 25 à 28, caractérisée en ce que 20 l&apos;élimination de la grille factice s&apos;effectuera par gravure successive des couches 402, 403, 404.
+</P>
+<P>
+30. Procédé selon la revendication 29, caractérisée en ce que la formation de la couche d&apos;isolant s&apos;effectuera par oxydation du substrat (401).
+</P>
+<P>
+31. Procédé selon la revendication 30, caractérisée en ce que le dépôt des sites nanostructurés (412) s&apos;effectuera par une méthode choisie parmi CVD, LPCVD et inoculation/recuisson. 30
+</P>
+<P>
+32. Procédé selon l&apos;une des revendications 25 à 31, caractérisée en ce qu&apos;une couche d&apos;accrochage (414) est déposée sur chaque site nanostructuré (412). 15 25 Stolmâr &amp;#8226; Scheele &amp;#8226; Hinkelmann.11.2005 32904-CEA-P-FR - 26 -
+</P>
+<P>
+33. Procédé selon la revendication 32, caractérisée en ce que la couche d&apos;accrochage (414) est activée par un traitement avec un composé ayant des groupes fonctionnels aptes à fixer des espèces chimiques par une liaison covalente.
+</P>
+<P>
+34. Procédé selon l&apos;une des revendications 25 à 33, caractérisée en ce que les espèces chimiques sont des molécules ayant au moins deux états d&apos;oxydation stables.
+</P>
+<P>
+35. Procédé selon la revendication 34, caractérisée en ce que la couche d&apos;un diélectrique de contrôle (414) est formée par dépôt à basse température ou par addition d&apos;un gel d&apos;électrolyte.
+</P>
+</Claims>
+<Also_published_as>
+FR2893934A1;US2009221447A1;JP2009517640A;WO2007059996A1
+</Also_published_as>
+</BiblioData>

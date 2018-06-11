@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Exposure mirror and exposure apparatus having same
+</Title>
+<PublicationNumber>
+EP2068326A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KOTOKU MASASHI [JP]
+</Name>
+<Name>
+ITO JUN [JP]
+</Name>
+<Name>
+MASAKI FUMITARO [JP]
+</Name>
+<Name>
+MIYAKE AKIRA [JP]
+</Name>
+<Name>
+MATSUMOTO SEIKEN [JP]
+</Name>
+<Name>
+KOTOKU, MASASHI
+</Name>
+<Name>
+ITO, JUN
+</Name>
+<Name>
+MASAKI, FUMITARO
+</Name>
+<Name>
+MIYAKE, AKIRA
+</Name>
+<Name>
+MATSUMOTO, SEIKEN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2068326
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080020076
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-11-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070316802
+</PriorityNumber>
+<PriorityDate>
+2007-12-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/20
+</Class>
+<Class>
+G21K1/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F1/24
+</Class>
+<Class>
+G03F1/84
+</Class>
+<Class>
+G03F7/70F20
+</Class>
+<Class>
+G03F7/70F4
+</Class>
+<Class>
+G03F7/70L6
+</Class>
+<Class>
+G03F7/70P10B
+</Class>
+<Class>
+G03F7/70P8H
+</Class>
+<Class>
+G21K1/06
+</Class>
+</NCL>
+<Abstract>
+An exposure mirror includes a substrate (11) and an effective region (13) for EUV light including an aperiodic multilayer film formed on the substrate (11). The exposure mirror is provided with a first evaluation region (14) composed of a periodic multilayer film formed in a region different from the effective region (13) on the substrate (11).
+</Abstract>
+<Claims>
+<P>
+1. An exposure mirror comprising:
+</P>
+<P>
+a substrate (11);
+</P>
+<P>
+an effective region (13) formed on the substrate and including a multilayer film in which layers of a first material and layers of a second material having a refractive index different from that of the first material are alternately deposited; and
+</P>
+<P>
+a first region (14) formed in a region different from the effective region on the substrate and composed of a multilayer film in which layers of the first material and layers of the second material are alternately deposited,wherein thickness of the layers of the first material and thickness of the layers of the second material in the effective region are aperiodic, and
+</P>
+<P>
+thickness of the layers of the first material and thickness of the layers of the second material in the first region are periodic.
+</P>
+<P>
+2. The exposure mirror according to Claim 1, wherein the number of the layers of the first material in the effective region is equal to the number of the layers of the first material in the first region, and the number of the layers of the second material in the effective region is equal to the number of the layers of the second material in the first region.
+</P>
+<P>
+3. The exposure mirror according to Claim 1, wherein the layers of the first material and the layers of the second material in the first region each have uniform thickness.
+</P>
+<P>
+4. The exposure mirror according to Claim 1, further comprising a second region (15) formed in a region different from the effective region and the first region on the substrate and composed of a multilayer film in which layers of the first material are deposited, wherein total thickness of the layers of the first material in the second region is equal to the difference between total thickness of the layers of the first material deposited in the effective region and total thickness of the layers of the first material deposited in the first region.
+</P>
+<P>
+5. The exposure mirror according to Claim 4, further comprising a third region (16) formed in a region different from the effective region, the first region, and the second region on the substrate and composed of a multilayer film in which layers of the second material are deposited, wherein total thickness of the layers of the second material in the third region is equal to the difference between total thickness of the layers of the second material deposited in the effective region and total thickness of the layers of the second material deposited in the first region.
+</P>
+<P>
+6. The exposure mirror according to Claim 1, wherein the layers of the first material in the effective region include layers having a plurality of kinds of thicknesses including a first thickness, the layers of the second material in the effective region include layers having a plurality of kinds of thicknesses including a second thickness, and in the multilayer film of the first region, the layers of the first material having the first thickness and the layers of the second material having the second thickness are alternately deposited.
+</P>
+<P>
+7. The exposure mirror according to Claim 6, wherein the layers of the first material in the effective region include layers having a plurality of kinds of thicknesses including a third thickness different from the first thickness, the layers of the second material in the effective region include layers having a plurality of kinds of thicknesses including a fourth thickness different from the second thickness, and further comprising a second region (15) composed of a periodic multilayer film in which layers of the first material having the third thickness and layers of the second material having the fourth thickness are alternately deposited.
+</P>
+<P>
+8. The exposure mirror according to Claim 6, further comprising a second region (15) composed only of a layer of the first material having the same thickness as total thickness of the layers of the first material that constitute the aperiodic multilayer film included in the effective region and that have thicknesses other than the first thickness, and a third region (16) composed only of a layer of the second material having the same thickness as total thickness of the layers of the second material that constitute the aperiodic multilayer film included in the effective region and that have thicknesses other than the second thickness.
+</P>
+<P>
+9. The exposure mirror according to Claim 1, wherein the first material is molybdenum, and the second material is silicon.
+</P>
+<P>
+10. The exposure mirror according to Claim 1, wherein the surface of the substrate where the effective region and the first region are formed is rotationally symmetric, and the first region is formed in such a shape that the film thickness distribution in the radial direction of the effective region can be evaluated.
+</P>
+<P>
+11. The exposure mirror according to Claim 1, wherein the multilayer film of the effective region includes layers of a third material serving as anti-diffusion layers between the layers of the first material and the layers of the second material deposited alternately.
+</P>
+<P>
+12. The exposure mirror according to Claim 1, wherein the effective region includes a reflective layer (911) composed of an aperiodic multilayer film and a stress relaxation layer (910), and the first region is a region for evaluating the reflective layer.
+</P>
+<P>
+13. The exposure mirror according to Claim 12, wherein the stress relaxation layer is composed of a periodic multilayer film, and further comprising a region (907) that is located in a region different from the effective region and the first region on the substrate, that is composed of a multilayer film having the same structure as the stress relaxation layer, and that is used for evaluating the stress relaxation layer.
+</P>
+<P>
+14. An exposure apparatus comprising:
+</P>
+<P>
+an illumination optical system that illuminates a reticle; and
+</P>
+<P>
+a projection optical system that projects a pattern formed on the reticle onto a wafer,wherein at least one of the illumination optical system and the projection optical system has the exposure mirror according to Claim 1.
+</P>
+<P>
+15. A method for manufacturing an exposure mirror, comprising:
+</P>
+<P>
+forming, on a substrate (11), an effective region (13) including a multilayer film in which layers of a first material and layers of a second material having a refractive index different from that of the first material are alternately deposited;
+</P>
+<P>
+forming, in a region different from the effective region on the substrate, a first region (14) composed of a multilayer film in which layers of the first material and layers of the second material are alternately deposited,wherein thickness of the layers of the first material and thickness of the layers of the second material in the effective region are aperiodic, and
+</P>
+<P>
+thickness of the layers of the first material and thickness of the layers of the second material in the first region are periodic;
+</P>
+<P>
+measuring thickness of the multilayer film formed in the first region; and
+</P>
+<P>
+estimating and evaluating the thickness of the multilayer film formed in the effective region based on the thickness of the multilayer film formed in the first region measured in the measuring step.
+</P>
+<P>
+16. The method according to Claim 15, wherein each layer of the first material in the effective region and each layer of the first material in the first region are formed at the same time, and each layer of the second material in the effective region and each layer of the second material in the first region are formed at the same time.
+</P>
+</Claims>
+<Also_published_as>
+EP2068326B1;US2009147364A1;TW200941148A;KR20090060177A;JP2009141177A;AT469425T
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ELECTRONIC GRADE METAL NANOSTRUCTURES
+</Title>
+<PublicationNumber>
+EP1928651A2
+</PublicationNumber>
+<Inventor>
+<Name>
+RANGANATHAN SRIKANTH [US]
+</Name>
+<Name>
+BERNATIS PAUL [US]
+</Name>
+<Name>
+GAMORAS JOEL [US]
+</Name>
+<Name>
+LIU CHAO [US]
+</Name>
+<Name>
+PARCE J WALLACE [US]
+</Name>
+<Name>
+RANGANATHAN, SRIKANTH
+</Name>
+<Name>
+BERNATIS, PAUL
+</Name>
+<Name>
+GAMORAS, JOEL
+</Name>
+<Name>
+LIU, CHAO
+</Name>
+<Name>
+PARCE, J., WALLACE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOSYS INC [US]
+</Name>
+<Name>
+NANOSYS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1928651
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060801858
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-08-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US32345
+</PriorityNumber>
+<PriorityDate>
+2006-08-18
+</PriorityDate>
+<PriorityNumber>
+US20050709561P
+</PriorityNumber>
+<PriorityDate>
+2005-08-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B32B3/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B22F1/00A2B4
+</Class>
+<Class>
+B22F1/00A2B4F
+</Class>
+<Class>
+B22F9/24
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+</NCL>
+<Abstract>
+Methods for producing electronic grade metal nanostructures having low levels of contaminants are provided. Monolayer arrays, populations, and devices including such electronic grade nanostructures are described. In addition, novel methods and compositions for production of Group 10 metal nanostructures and for production of ruthenium nanostructures are provided, along with methods for recovering nanostructures from suspension.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A population of metal nanostructures, which nanostractures comprise a metal atom, wherein in the nanostructures a ratio of the metal atom to each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 1,000:1.
+</P>
+<P>
+2. The population of claim 1, wherein the metal atom is other than Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, or K.
+</P>
+<P>
+3. The population of claim 1, wherein the metal atom is selected from the group consisting of W, Ta, Ru, Co, Mo, Ir, Re, Rh, Hf, and Nb.
+</P>
+<P>
+4. The population of claim 3, wherein the metal atom is Ru.
+</P>
+<P>
+5. The population of claim 1, wherein the metal atom is selected from the group consisting of Pd, Pt, and Ni.
+</P>
+<P>
+6. The population of claim 5, wherein the metal atom is Pd.
+</P>
+<P>
+7. The population of claim 6, wherein in the nanostructures a ratio of Pd to Ni is greater than 1,000:1, greater than 5,000:1, greater than 10,000:1, greater than 50,000:1, or greater than 100,000:1.
+</P>
+<P>
+8. The population of claim 1, wherein in the nanostructures the ratio of the metal atom to each of two or more, three or more, four or more, five or more, six or more, seven or more, or eight or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 1,000:1.
+</P>
+<P>
+9. The population of claim 1, wherein in the nanostructures the ratio of the metal atom to each of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 1,000:1.
+</P>
+<P>
+10. The population of claim 1, wherein in the nanostructures the ratio of the metal atom to each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 5,000: 1.
+</P>
+<P>
+11. The population of claim 10, wherein in the nanostructures the ratio of the metal atom to each of two or more, three or more, four or more, five or more, six or more, seven or more, or eight or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 5,000: 1.
+</P>
+<P>
+12. The population of claim 10, wherein in the nanostructures the ratio of the metal atom to each of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 5,000:1.
+</P>
+<P>
+13. The population of claim 1, wherein in the nanostructures the ratio of the metal atom to each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 10,000:1.
+</P>
+<P>
+14. The population of claim 13, wherein in the nanostructures the ratio of the metal atom to each of two or more, three or more, four or more, five or more, six or more, seven or more, or eight or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 10,000:1.
+</P>
+<P>
+15. The population of claim 13, wherein in the nanostructures the ratio of the metal atom to each of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 10,000:1.
+</P>
+<P>
+16. The population of claim 1, wherein in the nanostructures the ratio of the metal atom to each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 100,000:1.
+</P>
+<P>
+17. The population of claim 16, wherein in the nanostructures the ratio of the metal atom to each of two or more, three or more, four or more, five or more, six or more, seven or more, or eight or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 100,000:1.
+</P>
+<P>
+18. The population of claim 16, wherein in the nanostructures the ratio of the metal atom to each of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 100,000:1.
+</P>
+<P>
+19. The population of claim 16, wherein in the nanostructures the ratio of the metal atom to Cu is greater than 100,000:1 and the ratio of the metal atom to Fe is greater than 100,000:1.
+</P>
+<P>
+20. The population of claim 16, wherein in the nanostructures the ratio of the metal atom to Na is greater than 100,000:1.
+</P>
+<P>
+21. The population of claim 16, wherein in the nanostructures the ratio of the metal atom to K is greater than 100,000:1.
+</P>
+<P>
+22. The population of claim 1, wherein in the nanostructures the ratio of the metal atom to Fe is greater than 10,000:1, the ratio of the metal atom to Zn is greater than 10,000:1, the ratio of the metal atom to Cu is greater than 50,000:1, and the ratio of the metal atom to K is greater than 50,000:1.
+</P>
+<P>
+23. The population of claim 1, wherein the nanostructures comprise substantially spherical nanocrystals or quantum dots.
+</P>
+<P>
+24. A device comprising the population of claim 1.
+</P>
+<P>
+25. The device of claim 24, wherein the device comprises a charge storage device, a memory device, or a photovoltaic device.
+</P>
+<P>
+26. A monolayer array of metal nanostructures, which nanostructures comprise a metal atom, wherein a density of the metal atom in the array is greater than 1 x 10&amp;lt;15&amp;gt; atoms/cm&amp;lt;2&amp;gt;, and wherein a density in the array of each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is less than 1 x 10&amp;lt;11&amp;gt; atoms/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+27. The monolayer array of claim 26, wherein the metal atom is other than Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, or K.
+</P>
+<P>
+28. The monolayer array of claim 26, wherein the metal atom is selected from the group consisting of W, Ta, Ru, Co, Mo, Ir, Re, Rh, Hf, and Nb.
+</P>
+<P>
+29. The monolayer array of claim 28, wherein the metal atom is Ru.
+</P>
+<P>
+30. The monolayer array of claim 26, wherein the metal atom is selected from the group consisting of Pd, Pt, and Ni.
+</P>
+<P>
+31. The monolayer array of claim 30, wherein the metal atom is Pd.
+</P>
+<P>
+32. The monolayer array of claim 31, wherein a density of Ni atoms in the array is less than 1 x 10&amp;lt;11&amp;gt; atoms/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+33. The monolayer array of claim 26, wherein the density in the array of each of two or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is less than 1 x 10&amp;lt;11&amp;gt; atoms/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+34. The monolayer array of claim 26, wherein the density in the array of each of three or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is less than 1 x 10&amp;lt;n&amp;gt; atoms/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+35. The monolayer array of claim 26, wherein the density in the array of each of four or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is less than 1 x 10&amp;lt;11&amp;gt; atoms/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+36. The monolayer array of claim 26, wherein the density in the array of each of five or more, six or more, seven or more, or eight or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is less than 1 x 10&amp;lt;11&amp;gt; atoms/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+37. The monolayer array of claim 26, wherein the density in the array of each of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is less than 1 x 10&amp;lt;11&amp;gt; atoms/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+38. The monolayer array of claim 26, wherein the one or more atoms having a density in the array of less than 1 x 10&amp;lt;11&amp;gt; atoms/cm&amp;lt;2&amp;gt; comprise Cu and Fe.
+</P>
+<P>
+39. The monolayer array of claim 26, wherein the one or more atoms having a density in the array of less than 1 x 10&amp;lt;11&amp;gt; atoms/cm&amp;lt;2&amp;gt; comprise Na.
+</P>
+<P>
+40. The monolayer array of claim 26, wherein Cu has a density in the array of less than 1 x 10&amp;lt;11&amp;gt; atoms/cm&amp;lt;2&amp;gt; and wherein K has a density in the array of less than 1 x 10&amp;lt;11&amp;gt; atoms/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+41. The monolayer array of claim 26, wherein the density in the array of each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is less than 1 x 10&amp;lt;10&amp;gt; atoms/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+42. The monolayer array of claim 26, wherein the nanostructures comprise substantially spherical nanocrystals or quantum dots.
+</P>
+<P>
+43. The monolayer array of claim 26, wherein the array has a density greater than about 1 x 10&amp;lt;11&amp;gt; nanostructures/cm&amp;lt;2&amp;gt; or greater than about 1 x 10&amp;lt;12&amp;gt; nanostructures/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+44. A device comprising the monolayer array of claim 26.
+</P>
+<P>
+45. The device of claim 44, wherein the device comprises a charge storage device, a memory device, or a photovoltaic device.
+</P>
+<P>
+46. A method for production of metal nanostructures, the method comprising: providing a precursor, the precursor comprising a metal atom; and reacting the precursor to produce the nanostructures, wherein in the nanostructures a ratio of the metal atom to each of one or more atoms selected from the group consisting of
+</P>
+<P>
+Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 1,000:1.
+</P>
+<P>
+47. The method of claim 46, wherein the metal atom is other than Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, or K.
+</P>
+<P>
+48. The method of claim 46, wherein the metal atom is selected from the group consisting of W, Ta, Ru, Co, Mo, Ir, Re, Rh, Hf, and Nb.
+</P>
+<P>
+49. The method of claim 46, wherein the metal atom is a Group 10 atom selected from the group consisting of Pd, Pt, and Ni.
+</P>
+<P>
+50. The method of claim 49, wherein the metal atom is Pd.
+</P>
+<P>
+51. The method of claim 50, wherein in the nanostructures a ratio of Pd to Ni is greater than 1,000:1, greater than 5,000:1, greater than 10,000:1, greater than 50,000:1, or greater than 100,000:1.
+</P>
+<P>
+52. The method of claim 49, wherein in the precursor the Group 10 atom has an oxidation state of + 2.
+</P>
+<P>
+53. The method of claim 52, wherein in the precursor the Group 10 atom is bonded to one or more oxygen atoms.
+</P>
+<P>
+54. The method of claim 53, wherein in the precursor the Group 10 atom is bonded to one or more carboxylate or beta diketone moieties.
+</P>
+<P>
+55. The method of claim 54, wherein in the precursor the Group 10 atom is bonded to one or more acetate, butyrate, or oxanilate moieties.
+</P>
+<P>
+56. The method of claim 55, wherein the precursor is palladium (II) acetate.
+</P>
+<P>
+57. The method of claim 46, wherein the metal atom is Ru.
+</P>
+<P>
+58. The method of claim 57, wherein the precursor is ruthenium (III) acetylacetonate or ruthenium chloride.
+</P>
+<P>
+59. The method of claim 57, wherein reacting the precursor to produce the nanostructures comprises reacting the precursor in the presence of an oxidizing agent, a base, a carboxylate, or an acetate to produce the nanostructures.
+</P>
+<P>
+60. The method of claim 59, wherein the precursor is reacted in the presence of ammonium nitrate, nitric acid, hydrogen peroxide, ammonium acetate, tetramethylammonium acetate, ammonium hydroxide, or tetramethylammonium hydroxide.
+</P>
+<P>
+61. The method of claim 46, wherein in the nanostructures the ratio of the metal atom to each of two or more, three or more, four or more, five or more, six or more, seven or more, or eight or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 1,000:1.
+</P>
+<P>
+62. The method of claim 46, wherein in the nanostructures the ratio of the metal atom to each of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 1,000:1.
+</P>
+<P>
+63. The method of claim 46, wherein in the nanostructures the ratio of the metal atom to each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 5,000:1.
+</P>
+<P>
+64. The method of claim 63, wherein in the nanostructures the ratio of the metal atom to each of two or more, three or more, four or more, five or more, six or more, seven or more, or eight or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 5,000: 1.
+</P>
+<P>
+65. The method of claim 63, wherein in the nanostructures the ratio of the metal atom to each of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 5,000:1.
+</P>
+<P>
+66. The method of claim 46, wherein in the nanostructures the ratio of the metal atom to each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 10,000:1.
+</P>
+<P>
+67. The method of claim 66, wherein in the nanostructures the ratio of the metal atom to each of two or more, three or more, four or more, five or more, six or more, seven or more, or eight or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 10,000:1.
+</P>
+<P>
+68. The method of claim 66, wherein in the nanostructures the ratio of the metal atom to each of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 10,000:1.
+</P>
+<P>
+69. The method of claim 46, wherein in the nanostructures the ratio of the metal atom to each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 100,000:1.
+</P>
+<P>
+70. The method of claim 69, wherein in the nanostructures the ratio of the metal atom to each of two or more, three or more, four or more, five or more, six or more, seven or more, or eight or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 100,000:1.
+</P>
+<P>
+71. The method of claim 69, wherein in the nanostructures the ratio of the metal atom to each of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 100,000:1.
+</P>
+<P>
+72. The method of claim 69, wherein in the nanostructures the ratio of the metal atom to Cu is greater than 100,000:1 and the ratio of the metal atom to Fe is greater than 100,000:1.
+</P>
+<P>
+73. The method of claim 69, wherein in the nanostructures the ratio of the metal atom to Na is greater than 100,000:1.
+</P>
+<P>
+74. The method of claim 69, wherein in the nanostructures the ratio of the metal atom to K is greater than 100,000:1.
+</P>
+<P>
+75. The method of claim 46, wherein in the nanostructures the ratio of the metal atom to Fe is greater than 10,000:1, the ratio of the metal atom to Zn is greater than 10,000:1, the ratio of the metal atom to Cu is greater than 50,000: 1, and the ratio of the metal atom to K is greater than 50,000:1.
+</P>
+<P>
+76. The method of claim 46, wherein the nanostructures comprise substantially spherical nanocrystals or quantum dots. ,
+</P>
+<P>
+77. The method of claim 46, wherein reacting the precursor to produce the nanostructures comprises reacting the precursor in the presence of a surfactant.
+</P>
+<P>
+78. The method of claim 77, wherein the surfactant comprises a phosphine or a thiol.
+</P>
+<P>
+79. The method of claim 46, wherein reacting the precursor to produce the nanostructures comprises reacting the precursor in the presence of a non-coordinating solvent.
+</P>
+<P>
+80. The method of claim 79, wherein the non-coordinating solvent comprises an alkane.
+</P>
+<P>
+81. The method of claim 46, the method comprising determining an amount of one or more of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K present in the precursor, in a surfactant, and/or in a non-coordinating solvent.
+</P>
+<P>
+82. The method of claim 46, the method comprising determining an amount of one or more of the metal atom, Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K present in the nanostructures.
+</P>
+<P>
+83. The method of claim 46, wherein reacting the precursor to produce the nanostructures comprises reacting the precursor in at least one reaction vessel, the method comprising treating the reaction vessel to minimize the amount of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and/or K present in the reaction vessel prior to reacting the precursor in the reaction vessel.
+</P>
+<P>
+84. The method of claim 83, wherein the at least one reaction vessel comprises quartz glass.
+</P>
+<P>
+85. The method of claim 83, wherein treating the reaction vessel comprises washing the reaction vessel with acid.
+</P>
+<P>
+86. A method for production of metal nanostructures, the method comprising: providing a precursor, the precursor comprising a metal atom, and the precursor comprising less than 1 ppm of each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K; providing a surfactant, the surfactant comprising less than 1 ppm of each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K; and reacting the precursor in the presence of the surfactant to produce the nanostructures.
+</P>
+<P>
+87. The method of claim 86, wherein the metal atom is selected from the group consisting of Pd, Pt, Ni, W, Ta, Ru, Co, Mo, Ir, Re, Rh, Hf, and Nb.
+</P>
+<P>
+88. The method of claim 86, wherein the precursor comprises less than 1 ppm of each of two or more, three or more, four or more, five or more, six or more, seven or more, or eight or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K.
+</P>
+<P>
+89. The method of claim 86, wherein the precursor comprises less than 1 ppm of each of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K.
+</P>
+<P>
+90. The method of claim 86, the method comprising providing a non-coordinating solvent, the non-coordinating solvent comprising less than 100 ppb of each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K; wherein reacting the precursor in the presence of the surfactant to produce the nanostructures comprises reacting the precursor in the presence of the surfactant and the non-coordinating solvent to produce the nanostructures.
+</P>
+<P>
+91. The method of claim 86, wherein reacting the precursor to produce the nanostructures comprises reacting the precursor in at least one reaction vessel, the method comprising treating the reaction vessel to minimize the amount of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and/or K present in the reaction vessel prior to reacting the precursor in the reaction vessel.
+</P>
+<P>
+92. The method of claim 91, wherein the at least one reaction vessel comprises quartz glass.
+</P>
+<P>
+93. The method of claim 91, wherein treating the reaction vessel comprises washing the reaction vessel with acid.
+</P>
+<P>
+94. The method of claim 86, the method comprising washing the nanostructures with at least one solvent, the at least one solvent comprising less than 100 ppb of each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K.
+</P>
+<P>
+95. The method of claim 86, the method comprising determining an amount of one or more of the metal atom, Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K present in the nanostructures.
+</P>
+<P>
+96. A method for production of Group 10 metal nanostructures, the method comprising: providing a precursor, the precursor comprising a Group 10 atom selected from the group consisting of Pd, Pt, and Ni, wherein the Group 10 atom has an oxidation state of + 2 and is bonded to one or more oxygen atoms; and reacting the precursor in the presence of a surfactant and a non-coordinating solvent to produce the nanostructures.
+</P>
+<P>
+97. The method of claim 96, wherein reacting the precursor in the presence of a surfactant and a non-coordinating solvent to produce the nanostructures comprises combining the precursor and the surfactant, and then combining the precursor and the surfactant with the non-coordinating solvent.
+</P>
+<P>
+98. The method of claim 96, wherein the surfactant comprises a phosphine or a thiol.
+</P>
+<P>
+99. The method of claim 98, wherein the surfactant comprises a tri-n-alkylphosphine or an alkyl thiol.
+</P>
+<P>
+100. The method of claim 96, wherein the non-coordinating solvent comprises an alkane.
+</P>
+<P>
+101. The method of claim 96, wherein a volume of the non-coordinating solvent is about ten or more times greater than a volume of the surfactant.
+</P>
+<P>
+102. The method of claim 96, wherein the Group 10 atom is Pd.
+</P>
+<P>
+103. The method of claim 96, wherein the nanostructures comprise substantially spherical nanocrystals or quantum dots.
+</P>
+<P>
+104. The method of claim 96, wherein in the precursor the Group 10 atom is bonded to two oxygen atoms.
+</P>
+<P>
+105. The method of claim 96, wherein in the precursor the Group 10 atom is bonded to one or more carboxylate or beta diketone moieties.
+</P>
+<P>
+106. The method of claim 105, wherein in the precursor the Group 10 atom is bonded to one or more acetate, butyrate, or oxanilate moieties.
+</P>
+<P>
+107. The method of claim 106, wherein the precursor is palladium (II) acetate.
+</P>
+<P>
+108. The method of claim 96, the method comprising determining an amount of one or more of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K present in the precursor, in the surfactant, and/or in the non-coordinating solvent.
+</P>
+<P>
+109. The method of claim 96, the method comprising determining an amount of one or more of Pd, Pt, Ni, Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K present in the nanostructures.
+</P>
+<P>
+110. The method of claim 96, wherein in the nanostructures a ratio of the Group 10 atom to each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 1,000:1.
+</P>
+<P>
+111. The method of claim 96, wherein reacting the precursor to produce the nanostructures comprises reacting the precursor in at least one reaction vessel, the method comprising treating the reaction vessel to minimize the amount of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K present in the reaction vessel prior to reacting the precursor in the reaction vessel.
+</P>
+<P>
+112. A composition comprising: a precursor, the precursor comprising a Group 10 atom selected from the group consisting of Pd, Pt, and Ni, wherein the Group 10 atom has an oxidation state of + 2 and is bonded to one or more oxygen atoms; a surfactant; and a non-coordinating solvent.
+</P>
+<P>
+113. The composition of claim 112, wherein the surfactant comprises a phosphine or a thiol.
+</P>
+<P>
+114. The composition of claim 113, wherein the surfactant comprises a tri-n- alkylphosphine or an alkyl thiol.
+</P>
+<P>
+115. The composition of claim 112, wherein the non-coordinating solvent comprises an alkane.
+</P>
+<P>
+116. The composition of claim 112, wherein a volume of the non-coordinating solvent is about ten or more times greater than a volume of the surfactant.
+</P>
+<P>
+117. The composition of claim 112, wherein the Group 10 atom is Pd.
+</P>
+<P>
+118. The composition of claim 112, wherein in the precursor the Group 10 atom is bonded to two oxygen atoms.
+</P>
+<P>
+119. The composition of claim 112, wherein in the precursor the Group 10 atom is bonded to one or more carboxylate or beta diketone moieties.
+</P>
+<P>
+120. The composition of claim 119, wherein in the precursor the Group 10 atom is bonded to one or more acetate, butyrate, or oxanilate moieties.
+</P>
+<P>
+121. The composition of claim 120, wherein the precursor is palladium (II) acetate.
+</P>
+<P>
+122. The composition of claim 112, comprising one or more Group 10 metal nanostructures.
+</P>
+<P>
+123. The composition of claim 122, wherein the nanostructures comprise substantially spherical nanocrystals or quantum dots.
+</P>
+<P>
+124. The composition of claim 122, wherein in the nanostructures a ratio of the Group 10 atom to each of one or more atoms selected from the group consisting of Cu, Fe, Cr, Zn, Ti, Mn, Au, Na, and K is greater than 1,000: 1.
+</P>
+<P>
+125. A method for production of ruthenium nanostructures, the method comprising: providing ruthenium (III) acetylacetonate; and reacting the ruthenium (III) acetylacetonate to produce the nanostructures.
+</P>
+<P>
+126. The method of claim 125, the method comprising providing an additive selected from the group consisting of: an oxidizing agent, a carboxylate, an acetate, and a base; wherein reacting the ruthenium (III) acetylacetonate to produce the nanostructures comprises reacting the ruthenium (III) acetylacetonate in the presence of the additive to produce the nanostructures.
+</P>
+<P>
+127. The method of claim 126, wherein the additive is selected from the group consisting of: ammonium nitrate, nitric acid, hydrogen peroxide, ammonium acetate, tetramethylammonium acetate, ammonium hydroxide, and tetramethylammonium hydroxide.
+</P>
+<P>
+128. A composition comprising: ruthenium (III) acetylacetonate; and one or more ruthenium nanostructures.
+</P>
+<P>
+129. A composition comprising a population of ruthenium nanostructures, wherein the population exhibits a standard deviation in diameter of the nanostructures which is less than 30% of an average diameter of the nanostructures, and wherein the ruthenium nanostructures are substantially free of sodium.
+</P>
+<P>
+130. The composition of claim 129, wherein the standard deviation is less than 20% of the average diameter.
+</P>
+<P>
+131. The composition of claim 129, wherein the nanostructures are quantum dots.
+</P>
+<P>
+132. A method of recovering nanostructures from suspension, the method comprising: a) providing a first solution, which first solution comprises the nanostructures suspended in a solvent; b) adding a salt to the first solution to produce a second solution, in which second solution the salt is dissolved in the solvent; and c) separating the nanostructures from the solvent.
+</P>
+<P>
+133. The method of claim 132, wherein separating the nanostructures from the solvent comprises centrifuging the second solution at a selected acceleration factor for a selected time.
+</P>
+<P>
+134. The method of claim 133, wherein at most 5% of the nanostructures remain in the solvent following centrifugation of the second solution at the selected acceleration factor for the selected time.
+</P>
+<P>
+135. The method of claim 133, wherein at least 60% of the nanostructures remain in the solvent following centrifugation of the first solution at the selected acceleration factor for the selected time.
+</P>
+<P>
+136. The method of claim 132, wherein the solvent comprises methanol.
+</P>
+<P>
+137. The method of claim 132, wherein the salt comprises a cation selected from the group consisting of: NH4&amp;lt;+&amp;gt;, Cs&amp;lt;+&amp;gt;, K&amp;lt;+&amp;gt;, Na&amp;lt;+&amp;gt;, Li&amp;lt;+&amp;gt;, Mg&amp;lt;+&amp;gt;, Ca&amp;lt;+&amp;gt;, and Ba&amp;lt;+&amp;gt;.
+</P>
+<P>
+138. The method of claim 132, wherein the salt comprises an anion selected from the group consisting of: citrate, phosphate, sulfate, acetate, chloride, nitrate, thiocyanate, and carbonate.
+</P>
+<P>
+139. The method of claim 132, wherein the salt comprises ammonium carbonate, ammonium acetate or ammonium chloride.
+</P>
+<P>
+140. The method of claim 132, wherein the salt is a volatile salt.
+</P>
+<P>
+141. The method of claim 132, comprising resuspending the nanostructures in fresh solvent and repeating steps a-c.
+</P>
+<P>
+142. The method of claim 132, comprising, after step c, removing at least a portion of any salt remaining associated with the nanostructures.
+</P>
+</Claims>
+<Also_published_as>
+WO2007024697A2;WO2007024697A3;US2011251295A1;US2011150695A1;US7976646B1;KR20080035685A;JP2009507998A;CA2618883A1;AU2006283514A1;AU2006283514B2
+</Also_published_as>
+</BiblioData>

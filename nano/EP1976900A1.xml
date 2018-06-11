@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+EPOXY FORMULATIONS FOR USE IN LITHOGRAPHY TECHNIQUES
+</Title>
+<PublicationNumber>
+EP1976900A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHEN WEI [US]
+</Name>
+<Name>
+HARKNESS BRIAN ROBERT [US]
+</Name>
+<Name>
+MAGHSOODI SINA [US]
+</Name>
+<Name>
+TONGE JAMES STEVEN [US]
+</Name>
+<Name>
+CHEN, WEI
+</Name>
+<Name>
+HARKNESS, BRIAN, ROBERT
+</Name>
+<Name>
+MAGHSOODI, SINA
+</Name>
+<Name>
+TONGE, JAMES, STEVEN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+DOW CORNING [US]
+</Name>
+<Name>
+DOW CORNING CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1976900
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070717006
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US02034
+</PriorityNumber>
+<PriorityDate>
+2007-01-23
+</PriorityDate>
+<PriorityNumber>
+US20060762185P
+</PriorityNumber>
+<PriorityDate>
+2006-01-25
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B29C35/08
+</Class>
+<Class>
+C08G59/22
+</Class>
+<Class>
+C08G59/38
+</Class>
+<Class>
+C08G59/68
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F7/038
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C08G59/22
+</Class>
+<Class>
+C08G59/38
+</Class>
+<Class>
+C08G59/68
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G03F7/038
+</Class>
+</NCL>
+<Abstract>
+A method for preparing a patterned feature includes the steps of I) casting a curable silicone composition against a master, II) curing the curable silicone composition to form a silicone mold, II) separating the master and the silicone mold, IV) filling a silicone mold having a patterned surface with a curable epoxy formulation;  V) curing the curable epoxy formulation to form a patterned feature;  VI) separating the silicone mold and the patterned feature;  optionally VIII) etching the patterned feature;  optionally IX) cleaning the silicone mold;  and optionally X) repeating steps IV) to IX) reusing the silicone mold.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method comprising:
+</P>
+<P>
+I) filling a silicone mold with a curable epoxy formulation having a viscosity less than 400 centiPoise at 25 &amp;lt;0&amp;gt;C, II) curing the curable epoxy formulation to form a patterned feature,
+</P>
+<P>
+III) separating the silicone mold and the patterned feature, optionally IV) etching the patterned feature, optionally V) cleaning the silicone mold, and optionally VI) repeating steps I) to V) reusing the silicone mold.
+</P>
+<P>
+2. The method of claim 1, further comprising before step I): i) casting a curable silicone composition against a master, ii) curing the curable silicone composition to form the silicone mold having a patterned surface, and iii) separating the master and the silicone mold; where the curable silicone composition is prepared by combining ingredients comprising:
+</P>
+<P>
+(A) 25 to 90 %, based on total weight of the curable silicone composition, of a polyorganosiloxane fluid having an average of at least two unsaturated organic groups per molecule, (B) 0.4 to 20%, based on total weight of the curable silicone composition, of an organohydrogenpolysiloxane having an average of at least two silicon-bonded hydrogen atoms per molecule,
+</P>
+<P>
+(C) a hydrosilylation catalyst in an amount sufficient to provide 0.1 to 1000 ppm of a platinum group metal based on total weight of the curable silicone composition, (D) 0.0025 to 0.05 %, based on total weight of the curable silicone composition, of an inhibitor, and optionally (E) a mold release agent.
+</P>
+<P>
+3. The method of claim 1, where the curable epoxy formulation comprises: (a) an epoxy-functional compound, and
+</P>
+<P>
+(b) a photoacid generator, a photosensitizer, or a combination thereof.
+</P>
+<P>
+4. The method of claim 3, where component (a) comprises an epoxy-fimctional alkoxysilane having formula RlaSi(OR.2)(4_a), where a is 1, 2, or 3, each Rl is independently a monovalent hydrocarbon group or an epoxy-functional organic group with the proviso that an average of at least one R* per molecule is an epoxy-functional organic group, and each R^ is independently a hydrocarbon group.
+</P>
+<P>
+5. The method of claim 3, where component (a) comprises glycidoxytrimethoxysilane, . glycidoxypropyltrimethoxysilane, glycidoxypropyltriethoxysilane, (epoxycyclohexyl)ethyldimethoxysilane, (epoxycyclohexyl)ethyldiethoxysilane, or a combination thereof.
+</P>
+<P>
+6. The method of claim 3, where component (a) comprises (i) an epoxy-functional compound having two epoxy-functional groups per molecule, (H) an epoxy-functional crosslinking agent, or a combination thereof.
+</P>
+<P>
+7. The method of claim 5, where component (i) comprises an epoxy-functional alkane, a difunctional glycidyl ether, or a combination thereof.
+</P>
+<P>
+8. The method of claim 7, where component (i) comprises a difunctional glycidyl ether of formula:
+</P>
+<P>
+, where R&amp;lt;3&amp;gt; is a divalent organic group.
+</P>
+<P>
+9. The method of claim 6,. where component (H) comprises a trifunctional glycidyl ether of formula:
+</P>
+<P>
+where each R&amp;lt;4&amp;gt;, each R&amp;lt;5&amp;gt;, and each R&amp;lt;6&amp;gt; are independently selected from divalent hydrocarbon groups, and subscripts o, p, and q have values-sufficient to give the ether a viscosity of 50 to 400 centiPoise at 25 &amp;lt;0&amp;gt;C.
+</P>
+<P>
+10. The method of claim 3, where component (b) is selected from the group consisting of diaryliodonium salts, iodonium salts containing [SbFg ]&quot; counterions, triarylsulfonium salts, dialkylphenacylsulfonium salts, dialkyl-4-hydroxyphenylsulfonium salts, and triaryl sulfonium hexafluoroantimonate salts.
+</P>
+<P>
+11. The method of claim 3, where the curable epoxy formulation further comprises one or more components selected from the group consisting of (c) an antioxidant, (d) a fluorescent dye, (e) a reactive diluent, (f) a monofunctional (meth)acrylate, (h) a wetting agent, (i) a silane, (j) a release agent, (k) a radical initiator, and a combination thereof.
+</P>
+<P>
+12. The method of claim 11 , where the reactive diluent is present and comprises a monofunctional epoxy compound of formula
+</P>
+<P>
+, where R is a monovalent hydrocarbon group.
+</P>
+<P>
+13. The method of any one of claims 1 to 12, where the method is used in a lithography technique selected from the group consisting of: imprint molding, step and flash imprint molding, solvent assisted micromolding, microtransfer molding, and micromolding in capillaries.
+</P>
+<P>
+14. A patterned feature prepared by the method of claim 13.
+</P>
+<P>
+15. The method of any one of claims 1 to 12 used in preparation of a device selected from the group consisting of a display device, a photodetector, a transistor, an optical waveguide, a coupler, and an interferometer, and a light emitting diode.
+</P>
+<P>
+16. A formulation comprising: (a) an organic epoxy functional compound selected from the group consisting of (i) a difunctional glycidyl ether of formula
+</P>
+<P>
+, where R&amp;lt;3&amp;gt; is a divalent organic group; optionally (H) a crosslinker having an average of at least three epoxy groups per molecule of formula
+</P>
+<P>
+where each R&amp;lt;4&amp;gt;, each R&amp;lt;5&amp;gt;, and each R&amp;lt;6&amp;gt; are independently selected from divalent hydrocarbon groups, and subscripts o, p, and q have values sufficient to give the ether a viscosity of 50 to 400 centiPoise at 25 &amp;lt;0&amp;gt;C; and (Hi) a combination thereof; and
+</P>
+<P>
+(b) a photoacid generator, a photosensitizer, or a combination thereof.
+</P>
+<P>
+17. The formulation of claim 16, where component (b) is selected from diaryliodonium salts, iodonium salts containing [SbFg ]- counterions, triarylsulfonium salts, dialkylphenacylsulfonium salts, dialkyl-4-hydroxyphenylsulfonium salts, and triaryl sulfonium hexafluoroantimonate salts.
+</P>
+<P>
+18. The formulation of claim 16, further comprising one or more components selected from (c) an antioxidant, (d) a fluorescent dye, (e) a reactive diluent, (f) a monofunctional (meth)acrylate, (h) a wetting agent, (i) a silane, (j) a release agent, (k) a radical initiator, or a combination thereof.
+</P>
+<P>
+19. The formulation of claim 18, where the reactive diluent is present and has formula
+</P>
+<P>
+&amp;lt;^&amp;gt;R
+</P>
+<P>
+, where R&amp;lt;8&amp;gt; is a monovalent hydrocarbon group.
+</P>
+</Claims>
+<Also_published_as>
+WO2007087399A1;WO2007087399B1;US2009102089A1;KR20080085895A;JP2009524936A;CN101374880A;CN101374880B
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOTUBE DEVICE AND METHOD OF FABRICATION
+</Title>
+<PublicationNumber>
+EP2171132A2
+</PublicationNumber>
+<Inventor>
+<Name>
+FARROW REGINALD C [US]
+</Name>
+<Name>
+IQBAL ZAFAR [US]
+</Name>
+<Name>
+GOYAL AMIT [US]
+</Name>
+<Name>
+LIU SHENG [US]
+</Name>
+<Name>
+FARROW, REGINALD, C
+</Name>
+<Name>
+IQBAL, ZAFAR
+</Name>
+<Name>
+GOYAL, AMIT
+</Name>
+<Name>
+LIU, SHENG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NEW JERSEY TECH INST [US]
+</Name>
+<Name>
+NEW JERSEY INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2171132
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080826831
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US67604
+</PriorityNumber>
+<PriorityDate>
+2008-06-20
+</PriorityDate>
+<PriorityNumber>
+US20070765735
+</PriorityNumber>
+<PriorityDate>
+2007-06-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+C25D13/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C25D13/04
+</Class>
+<Class>
+C25D13/20
+</Class>
+<Class>
+G01N27/414
+</Class>
+</NCL>
+<Abstract>
+A nanotube device and a method of depositing nanotubes for device fabrication are disclosed. The method relates to electrophoretic deposition of nanotubes, and allows a control of the number of deposited nanotubes and positioning within a defined region.
+</Abstract>
+<Claims>
+<P>
+1. A method of depositing nanotubes, comprising:
+</P>
+<P>
+(a) defining a region on a structure by an aperture;
+</P>
+<P>
+(b) configuring the aperture to control a number of nanotubes to be deposited by electrophoresis in the region; and
+</P>
+<P>
+(c) depositing the number of nanotubes in the region by electrophoresis.
+</P>
+<P>
+2. The method of claim 1, wherein step (b) further comprises:
+</P>
+<P>
+configuring the aperture to control at least one of a pattern and spacing of nanotubes to be deposited in the region.
+</P>
+<P>
+3. The method of claim 1, wherein step (b) further comprises:
+</P>
+<P>
+providing the aperture with a combination of length, width and depth to control the number of nanotubes to be deposited.
+</P>
+<P>
+4. The method of claim 1, wherein step (b) further comprises:
+</P>
+<P>
+providing the aperture with a lateral dimension to allow only one nanotube to be deposited in the region by electrophoresis.
+</P>
+<P>
+5. The method of claim 4, wherein the lateral dimension of the aperture is less than about 100 nm.
+</P>
+<P>
+6. The method of claim 1, wherein the aperture is configured as a slot having a width of less than about 100 nm, and a length sufficiently large to allow deposition of at least two nanotubes along a direction of the length.
+</P>
+<P>
+7. The method of claim 1, wherein step (b) further comprises:
+</P>
+<P>
+(b1) performing finite element analysis as a function of at least one parameter of the aperture to obtain an electric field distribution in proximity of the aperture; and
+</P>
+<P>
+(b2) selecting a configuration of the aperture suitable for depositing the number of nanotubes in the region.
+</P>
+<P>
+8. The method of claim 7, wherein at least one parameter for the nanotubes to be deposited is included in the finite element analysis.
+</P>
+<P>
+9. The method of claim 1, wherein the nanotube is a carbon nanotube.
+</P>
+<P>
+10. The method of claim 1, wherein: step (a) further comprises:
+</P>
+<P>
+(a1) providing the structure with an insulating layer over a metal layer; and
+</P>
+<P>
+(a2) forming the aperture through the insulating layer to define the region at the metal layer.
+</P>
+<P>
+11. The method of claim 10, wherein step (c) further comprises:
+</P>
+<P>
+(c1) exposing the structure to an electrolytic fluid containing nanotubes;
+</P>
+<P>
+(c2) applying a bias voltage to the metal layer; and
+</P>
+<P>
+(c3) depositing the number of nanotubes in a vertical orientation to contact the metal layer inside the aperture.
+</P>
+<P>
+12. The method of claim 11, wherein the number of nanotubes is one.
+</P>
+<P>
+13. The method of claim 12, wherein the nanotube is deposited to be substantially centered inside the aperture.
+</P>
+<P>
+14. The method of claim 11, wherein step (c) further comprises:
+</P>
+<P>
+(c4) providing a metal electrode in the electrolytic fluid; and
+</P>
+<P>
+(c5) providing a positive bias to the metal electrode relative to the metal layer.
+</P>
+<P>
+15. The method of claim 14, further comprising:
+</P>
+<P>
+controlling orientations of the nanotubes inside the aperture by adjusting an orientation of the metal electrode relative to the metal layer.
+</P>
+<P>
+16. The method of claim 1, wherein the aperture has a height to width ratio of at least about 0.18.
+</P>
+<P>
+17. A nanotube-based sensor, comprising:
+</P>
+<P>
+an insulating layer over a metal contact formed on a substrate;
+</P>
+<P>
+an aperture formed in the insulating layer, the aperture extending to the metal contact and defining a region at the metal contact;
+</P>
+<P>
+a nanotube disposed inside the aperture and having a first end contacting the region at substantially a center of the region, and a second end coupled to a molecule having a functional group for interacting with a sample.
+</P>
+<P>
+18. The device of claim 17, being one of a chemical sensor or a biosensor.
+</P>
+<P>
+19. The device of claim 17, wherein the nanotube is a carbon nanotube.
+</P>
+<P>
+20. The device of claim 17, wherein the sensor further comprises an insulating layer surrounding the nanotube.
+</P>
+<P>
+21. A method of forming a carbon nanotube-based device, comprising:
+</P>
+<P>
+providing a substrate with an insulating layer formed on a conductive layer;
+</P>
+<P>
+forming an aperture through the insulating layer to expose a region of the conductive layer;
+</P>
+<P>
+immersing the substrate in an electrolytic fluid containing carbon nanotubes;
+</P>
+<P>
+providing a metal electrode in the electrolytic fluid;
+</P>
+<P>
+applying a bias voltage across the conductive layer and the metal electrode; and
+</P>
+<P>
+depositing at least one carbon nanotube in a substantially perpendicular orientation with respect to the region, wherein one end of the carbon nanotube contacts the region proximate a center of the region.
+</P>
+<P>
+22. The method of claim 21, further comprising:
+</P>
+<P>
+providing the substrate with the at least one deposited carbon nanotube to a plasma process system for further processing;
+</P>
+<P>
+re-aligning the at least one deposited carbon nanotube to a desired orientation by applying an electric field between the conductive layer and an electrode in the plasma process system.
+</P>
+</Claims>
+<Also_published_as>
+US2008317631A1;US7964143B2;US2011240480A1;WO2009017898A2;WO2009017898A3;KR20100047845A;JP2010532717A
+</Also_published_as>
+</BiblioData>

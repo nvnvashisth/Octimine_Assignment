@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Quantum dot semiconductor device
+</Title>
+<PublicationNumber>
+EP1976076A2
+</PublicationNumber>
+<Inventor>
+<Name>
+EBE HIROJI [JP]
+</Name>
+<Name>
+KAWAGUCHI KENICHI [JP]
+</Name>
+<Name>
+MORITO KEN [JP]
+</Name>
+<Name>
+ARAKAWA YASUHIKO [JP]
+</Name>
+<Name>
+EBE, HIROJI
+</Name>
+<Name>
+KAWAGUCHI, KENICHI
+</Name>
+<Name>
+MORITO, KEN
+</Name>
+<Name>
+ARAKAWA, YASUHIKO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FUJITSU LTD [JP]
+</Name>
+<Name>
+UNIV TOKYO [JP]
+</Name>
+<Name>
+FUJITSU LTD
+</Name>
+<Name>
+THE UNIVERSITY OF TOKYO
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1976076
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080152938
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070084129
+</PriorityNumber>
+<PriorityDate>
+2007-03-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/34
+</Class>
+<Class>
+H01S5/50
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/34F
+</Class>
+</NCL>
+<Abstract>
+Aquantumdot semiconductor device is disclosedwhich prevents variation of the gain in an operation wavelength even if the temperature varies. The quantum dot semiconductor device includes an active layer (11) having a plurality of quantum dot layers (4A, 4B) each including a composite quantum dot (2) formed by stacking a plurality of quantum dots (1) and a side barrier layer (3) formed in contact with a side face of the composite quantum dot (2). The stack number of the quantum dots (1) and the magnitude of strain of the side barrier layer (3) from which each of the quantum dot layers (4A, 4B) is formed is set so that a gain spectrum of the active layer (11) has a flat gain bandwidth corresponding to a shift amount of the gain spectrum within a desired operation temperature range.
+</Abstract>
+<Claims>
+<P>
+1. A quantum dot semiconductor device, comprising:
+</P>
+<P>
+an active layer having a plurality of quantum dot layers each including a composite quantum dot formed by stacking a plurality of quantum dots and a side barrier layer formed in contact with a side face of said composite quantum dot;
+</P>
+<P>
+the stack number of said quantum dots and the magnitude of strain of said side barrier layer from which each of said quantum dot layers is formed being set so that a gain spectrum of said active layer has a flat gain bandwidth corresponding to a shift amount of the gain spectrum within a desired operation temperature range.
+</P>
+<P>
+2. The quantum dot semiconductor device as set forth in claim 1, wherein the stack numbers of said quantum dots from which said quantum dot layers are formed are different from each other.
+</P>
+<P>
+3. The quantum dot semiconductor device as set forth in claim 1 or 2, wherein the magnitudes of strain of the side barrier layers from which each of said quantum dot layers is formed are different from each other.
+</P>
+<P>
+4. The quantum dot semiconductor device as set forth in any one of claims 1 to 3, wherein the stack number of said quantum dots and the magnitude of the strain of said side barrier layer from which each of said quantum dot layers is formed are set so that the difference between the energy gap in a heavy hole band and the energy gap in a light hole band is within a desired range.
+</P>
+<P>
+5. The quantum dot semiconductor device as set forth in any one of claims 1 to 4, further comprising a barrier layer provided between said quantum dot layers, and
+</P>
+<P>
+said quantum dot layers are stacked through said barrier layer.
+</P>
+<P>
+6. The quantum dot semiconductor device as set forth in claim 5, wherein said active layer formed from said quantum dot layers and said barrier layer partly contain p-type impurity.
+</P>
+<P>
+7. The quantum dot semiconductor device as set forth in any one of claims 1 to 6, wherein semiconductor crystal which forms said quantum dot layers is group III-V compound semiconductor crystal containing In and Ga.
+</P>
+<P>
+8. The quantum dot semiconductor device as set forth in claim 7, wherein each of said quantum dots is made of InAs, and
+</P>
+<P>
+said side barrier layer is made of InGaAsP semiconductor mixed crystal.
+</P>
+<P>
+9. The quantum dot semiconductor device as set forth in any one of claims 5 to 8, wherein semiconductor crystal which forms said barrier layer is group III-V compound semiconductor mixed crystal containing In and Ga.
+</P>
+<P>
+10. The quantum dot semiconductor device as set forth in claim 9, wherein said barrier layer is made of InGaAsP semiconductor mixed crystal.
+</P>
+<P>
+11. The quantum dot semiconductor device as set forth in any one of claims 1 to 10, wherein said side barrier layer includes a wetting layer.
+</P>
+</Claims>
+<Also_published_as>
+EP1976076A3;US2008308788A1;US7829880B2;JP2008244235A
+</Also_published_as>
+</BiblioData>

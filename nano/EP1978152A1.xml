@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method of dyeing aramid fibres
+</Title>
+<PublicationNumber>
+EP1978152A1
+</PublicationNumber>
+<Inventor>
+<Name>
+RACCURT OLIVIER [FR]
+</Name>
+<Name>
+DIOP BOCARD NOEL [FR]
+</Name>
+<Name>
+ROUX STEPHANE [FR]
+</Name>
+<Name>
+TILLEMENT OLIVIER [FR]
+</Name>
+<Name>
+RACCURT, OLIVIER
+</Name>
+<Name>
+DIOP BOCARD, NOEL
+</Name>
+<Name>
+ROUX, STEPHANE
+</Name>
+<Name>
+TILLEMENT, OLIVIER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+UNIV CLAUDE BERNARD LYON [FR]
+</Name>
+<Name>
+CENTRE NAT RECH SCIENT [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+<Name>
+UNIVERSITE CLAUDE BERNARD - LYON 1
+</Name>
+<Name>
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1978152
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080153913
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+FR20070054244
+</PriorityNumber>
+<PriorityDate>
+2007-04-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+D06M23/08
+</Class>
+<Class>
+D06M23/12
+</Class>
+<Class>
+D06P3/24
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+D06M23/08
+</Class>
+<Class>
+D06M23/12
+</Class>
+<Class>
+D06P1/00A4
+</Class>
+<Class>
+D06P1/673S
+</Class>
+<Class>
+D06P3/24
+</Class>
+</NCL>
+<Abstract>
+Modifying aramid fibers to improve their ability to be dyed, comprises treating the fibers to lower the glass transition temperature (Tg) of the fibers at value Tg1 which is less than Tg;  and contacting the fibers thus treated with a solution comprising nanoparticles at a temperature of &amp;gt;= Tg1. An independent claim is included for a dyeing of aramid fibers comprising carrying out to modify aramid fibers and optionally contacting the fibers with dye, preferably when the nanoparticles not containing dye.
+</Abstract>
+<Claims>
+<P>
+1. Procédé de modification de fibres d&apos;aramide, en vue d&apos;améliorer leur aptitude à être teintes comprenant les étapes suivantes :
+</P>
+<P>
+a)une étape de traitement desdites fibres de façon à abaisser la température de transition vitreuse Tg de celles-ci à une valeur Tg1, Tg1 étant inférieure à Tg ;
+</P>
+<P>
+b)une étape de mise en contact desdites fibres ainsi traitées avec une solution comprenant des nanoparticules à une température supérieure ou égale à Tg1.
+</P>
+<P>
+2. Procédé selon la revendication 1, dans lequel les étapes a) et b) sont mises en oeuvre simultanément.
+</P>
+<P>
+3. Procédé selon la revendication 1 ou 2, dans lequel l&apos;étape de traitement a) consiste à mettre en contact lesdites fibres avec un solvant choisi parmi l&apos;alcool benzylique, la cyclohexanone, le diméthylformamide, le diméthylacétamide, le diméthylsulfoxyde, l&apos;acétophénone, le benzaldéhyde et les mélanges de ceux-ci.
+</P>
+<P>
+4. Procédé selon l&apos;une quelconque des revendications précédentes, dans lequel les nanoparticules ne comportent pas de colorant, et présentent des groupes aptes à se lier à la surface des fibres d&apos;aramide.
+</P>
+<P>
+5. Procédé selon l&apos;une quelconque des revendications précédentes, dans lequel les nanoparticules sont poreuses.
+</P>
+<P>
+6. Procédé selon la revendication 4, dans lequel les nanoparticules comportent des groupes aptes à se lier par liaison ionique ou par des liaisons faibles à des colorants ou à des particules contenant ces colorants.
+</P>
+<P>
+7. Procédé selon la revendication 6, dans lequel les nanoparticules sont des nanoparticules de SiO2 comportant à leur surface des fonctions -OH.
+</P>
+<P>
+8. Procédé selon l&apos;une quelconque des revendications 1 à 3, dans lequel les nanoparticules comprennent un colorant.
+</P>
+<P>
+9. Procédé selon la revendication 8, dans lequel les nanoparticules comprenant un colorant comprennent une enveloppe en SiO2 et un coeur constitué du colorant.
+</P>
+<P>
+10. Procédé selon l&apos;une quelconque des revendications précédentes, dans lequel les nanoparticules sont préparées par voie sol-gel.
+</P>
+<P>
+11. Procédé selon l&apos;une quelconque des revendications précédentes, comprenant, après l&apos;étape b), une étape c) d&apos;abaissement de la température des fibres à une valeur inférieure à Tg1.
+</P>
+<P>
+12. Procédé selon la revendication 11, comprenant, en outre, simultanément ou après l&apos;étape c), une étape d) de rinçage des fibres.
+</P>
+<P>
+13. Procédé de teinture de fibres d&apos;aramide comprenant :
+</P>
+<P>
+- une étape de mise en oeuvre du procédé de modification de fibres d&apos;aramide tel que défini selon l&apos;une quelconque des revendications 1 à 12 ;
+</P>
+<P>
+- éventuellement une étape de mise en contact desdites fibres avec un colorant, en particulier, lorsque les nanoparticules ne contiennent pas de colorant.
+</P>
+<P>
+14. Procédé de teinture selon la revendication 13, dans lequel le colorant est fixé sur les nanoparticules par voie sol-gel, soit directement soit par le biais de particules comprenant ledit colorant.
+</P>
+<P>
+1. Procédé de modification de fibres d&apos;aramide, en vue d&apos;améliorer leur aptitude à être teintes comprenant les étapes suivantes :
+</P>
+<P>
+a)une étape de traitement desdites fibres de façon à abaisser la température de transition vitreuse Tg de celles-ci à une valeur Tg1, Tg1 étant inférieure à Tg ;
+</P>
+<P>
+b)une étape de mise en contact desdites fibres ainsi traitées avec une solution comprenant des nanoparticules à une température supérieure ou égale à Tg1.
+</P>
+<P>
+2. Procédé selon la revendication 1, dans lequel les étapes a) et b) sont mises en oeuvre simultanément.
+</P>
+<P>
+3. Procédé selon la revendication 1 ou 2, dans lequel l&apos;étape de traitement a) consiste à mettre en contact lesdites fibres avec un solvant choisi parmi l&apos;alcool benzylique, la cyclohexanone, le diméthylformamide, le diméthylacétamide, le diméthylsulfoxyde, l&apos;acétophénone, le benzaldéhyde et les mélanges de ceux-ci.
+</P>
+<P>
+4. Procédé selon l&apos;une quelconque des revendications précédentes, dans lequel les nanoparticules ne comportent pas de colorant, et présentent des groupes aptes à se lier à la surface des fibres d&apos;aramide.
+</P>
+<P>
+5. Procédé selon l&apos;une quelconque des revendications précédentes, dans lequel les nanoparticules sont poreuses.
+</P>
+<P>
+6. Procédé selon la revendication 4, dans lequel les nanoparticules comportent des groupes aptes à se lier par liaison ionique ou par des liaisons faibles à des colorants ou à des particules contenant ces colorants.
+</P>
+<P>
+7. Procédé selon la revendication 6, dans lequel les nanoparticules sont des nanoparticules de SiO2 comportant à leur surface des fonctions -OH.
+</P>
+<P>
+8. Procédé selon l&apos;une quelconque des revendications 1 à 3, dans lequel les nanoparticules comprennent un colorant.
+</P>
+<P>
+9. Procédé selon la revendication 8, dans lequel les nanoparticules comprenant un colorant comprennent une enveloppe en SiO2 et un coeur constitué du colorant.
+</P>
+<P>
+10. Procédé selon l&apos;une quelconque des revendications précédentes, dans lequel les nanoparticules sont préparées par voie sol-gel.
+</P>
+<P>
+11. Procédé selon l&apos;une quelconque des revendications précédentes, comprenant, après l&apos;étape b), une étape c) d&apos;abaissement de la température des fibres à une valeur inférieure à Tg1.
+</P>
+<P>
+12. Procédé selon la revendication 11, comprenant, en outre, simultanément ou après l&apos;étape c), une étape d) de rinçage des fibres.
+</P>
+<P>
+13. Procédé de teinture de fibres d&apos;aramide comprenant :
+</P>
+<P>
+- une étape de mise en oeuvre du procédé de modification de fibres d&apos;aramide tel que défini selon l&apos;une quelconque des revendications 1 à 12 ;
+</P>
+<P>
+- éventuellement une étape de mise en contact desdites fibres avec un colorant, en particulier, lorsque les nanoparticules ne contiennent pas de colorant.
+</P>
+<P>
+14. Procédé de teinture selon la revendication 13, dans lequel le colorant est fixé sur les nanoparticules par voie sol-gel, soit directement soit par le biais de particules comprenant ledit colorant.
+</P>
+</Claims>
+<Also_published_as>
+US2008244840A1;JP2008255559A;FR2914656A1
+</Also_published_as>
+</BiblioData>

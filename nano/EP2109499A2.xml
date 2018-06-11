@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+IMPROVED MOLECULAR BIOLOGICAL PROCESSING SYSTEM
+</Title>
+<PublicationNumber>
+EP2109499A2
+</PublicationNumber>
+<Inventor>
+<Name>
+STAEHLER PEER [DE]
+</Name>
+<Name>
+BEIER MARKUS [DE]
+</Name>
+<Name>
+STAEHLER CORD [DE]
+</Name>
+<Name>
+SUMMERER DANIEL [DE]
+</Name>
+<Name>
+MATZAS MARK [DE]
+</Name>
+<Name>
+VORWERK SONJA [DE]
+</Name>
+<Name>
+STAEHLER, PEER
+</Name>
+<Name>
+BEIER, MARKUS
+</Name>
+<Name>
+STAEHLER, CORD
+</Name>
+<Name>
+SUMMERER, DANIEL
+</Name>
+<Name>
+MATZAS, MARK
+</Name>
+<Name>
+VORWERK, SONJA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FEBIT HOLDING GMBH [DE]
+</Name>
+<Name>
+FEBIT HOLDING GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2109499
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070857168
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-31
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP11478
+</PriorityNumber>
+<PriorityDate>
+2007-12-31
+</PriorityDate>
+<PriorityNumber>
+DE200610062089
+</PriorityNumber>
+<PriorityDate>
+2006-12-29
+</PriorityDate>
+<PriorityNumber>
+DE200710018833
+</PriorityNumber>
+<PriorityDate>
+2007-04-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+B01L3/00
+</Class>
+<Class>
+C12Q1/68
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B82Y30/00
+</Class>
+</NCL>
+<Abstract>
+The invention relates to an improved molecular biological processing system, and to an improved method for processing biological samples. The invention combines the provision of biologically functional molecules, such as nucleic acids and peptides, and derivatives or analogs of these two molecule classes, in miniaturized flow cells with the serial addition of reagents or fluids, and serves the processing of biological samples, such as proteins, nucleic acids, biogenous small molecules, such as metabolites, viruses, or cells, which are incorporated in the miniaturized flow cells for this purpose. The invention further relates to a method and to the use of the molecular biological processing system according to the invention for the detection and/or for the isolation of nucleic acids;  for sequencing;  for point mutation analysis;  for the analysis of genomes and/or chromosomes;  for the production of synthetic nucleic acids;  for the production of arrays of primers, probes, and/or antisense molecules;  and further analytical and synthetic methods.
+</Abstract>
+<Claims>
+<P>
+PATENTANSPRÜCHE
+</P>
+<P>
+1. Molekularbiologische Prozessanlage umfassend (a) ein Gerät für die in-situ-Synthese von Arrays von Rezeptoren,
+</P>
+<P>
+(b) ein oder mehrere Elemente für die Abarbeitung fluidischer Schritte, wie der Probenzugabe, Reagenzien-Zugabe, Waschschritte oder/und Probenableitung,
+</P>
+<P>
+(c) eine Detektionseinheit für die Erfassung eines optischen oder elektrischen Signals,
+</P>
+<P>
+(d) eine speicherprogrammierbare Einheit für die Steuerung der Synthese, und (e) eine speicherprogrammierbare Einheit für die Steuerung der Fluidik, der Detektion und der Speicherung und Verwaltung der Messdaten.
+</P>
+<P>
+2. Molekularbiologische Prozessanlage nach Anspruch 1, dadurch gekennzeichnet, dass die Prozessanlage eine oder mehrere miniaturisierte Flusszellen aufweist und dass ein fluidischer Schritt in dieser einen oder diesen mehreren miniaturisierten Flusszellen 1 min oder weniger dauert.
+</P>
+<P>
+3. Molekularbiologische Prozessanlage nach Anspruch 1 oder 2, dadurch gekennzeichnet, dass die Prozessanlage eine oder mehrere miniaturisierte Flusszellen aufweist und dass das Fluidvolumen in dieser einen oder diesen mehreren miniaturisierten Flusszellen 40% oder weniger des Volumens der Zuleitung zum Fluidreservoir beträgt.
+</P>
+<P>
+4. Molekularbiologische Prozessanlage nach einem der Ansprüche 1 bis 3, dadurch gekennzeichnet, dass die Prozessanlage eine oder mehrere miniaturisierte Flusszellen aufweist und dass bei der Abarbeitung der fluidischen Schritte mindestens 2 unterschiedliche Reagenzien in diese eine oder diese mehreren miniaturisierten Flusszellen eingebracht werden.
+</P>
+<P>
+5. Molekularbiologische Prozessanlage nach Anspruch 4, dadurch gekennzeichnet, dass bei der Abarbeitung der fluidischen Schritte diese unterschiedlichen Reagenzien in 10 min oder weniger in diese eine oder diese mehreren miniaturisierten Flusszellen eingebracht werden.
+</P>
+<P>
+6. Molekularbiologische Prozessanlage nach einem der Ansprüche 1 bis 5, wobei die Rezeptoren ausgewählt sind aus Oligopeptiden, Polypeptiden, Oligonukleotiden und Polynukleotiden.
+</P>
+<P>
+7. Molekularbiologische Prozessanlage nach einem der Ansprüche 1 bis 6, zusätzlich umfassend eine Lichtquellenmatrix, die optional programmierbar ist.
+</P>
+<P>
+8. Molekularbiologische Prozessanlage nach einem der Ansprüche 1 bis 7, wobei das Gerät gemäss Absatz (a) einen Reaktionsträger mit mehreren vorbestimmten Positionen umfasst, an welchen die Rezeptoren immobilisiert werden können oder bereits immobilisiert sind.
+</P>
+<P>
+9. Molekularbiologische Prozessanlage nach Anspruch 8, wobei unterschiedliche Rezeptoren an jeweils andere vorbestimmte Positionen immobilisiert werden können oder bereits immobilisiert sind.
+</P>
+<P>
+10. Molekularbiologische Prozessanlage nach einem der Ansprüche 8 bis 9, wobei das Gerät gemäss Absatz (a) Mittel zur Zufuhr von Fluids in den Träger und zur Ableitung von Fluids aus dem Träger umfasst.
+</P>
+<P>
+1 1. Molekularbiologische Prozessanlage nach einem der Ansprüche 8 bis 10, wobei die Detektionseinheit in Form einer Detektionsmatrix ausgebildet ist, die mehrere Detektoren umfasst, die den vorbestimmten Positionen auf dem Träger zugeordnet sind.
+</P>
+<P>
+12. Molekularbiologische Prozessanlage nach Anspruch 11, wobei der mikrofluidische Träger zwischen Lichtquellenmatrix und Detektionsmatrix angeordnet ist.
+</P>
+<P>
+13. Molekularbiologische Prozessanlage nach einem der Ansprüche 8 bis 12, wobei die Rezeptoren ausgewählt sind aus Nukleinsäuren und Nukleinsäureanaloga, und wobei in einer oder mehreren der vorbestimmten Positionen die Rezeptoren in Abwesenheit eines damit spezifisch bindefähigen Analyten zumindest teilweise eine Sekundärstruktur ausbilden.
+</P>
+<P>
+14. Molekularbiologische Prozessanlage nach Anspruch 13, wobei die Sekundärstruktur eine Hairpin-Struktur ist.
+</P>
+<P>
+15. Molekularbiologische Prozessanlage nach einem der Ansprüche 8 bis 12, wobei die Rezeptoren ausgewählt sind aus Nukleinsäuren und Nukleinsäureanaloga, und wobei die Rezeptoren aus mehreren unterschiedlichen Arten von Rezeptorbausteinen bestehen.
+</P>
+<P>
+16. Verfahren zur Analyse der Nukleinsäuresequenz eines Nukleinsäureanalyten umfassend die Schritte:
+</P>
+<P>
+(a) in-situ-Synthese wenigstens einer Oligonukleotidsonde in wenigstens einem Synthesebereich in einer miniaturisierten Flusszelle;
+</P>
+<P>
+(b) Zugabe wenigstens eines einzelsträngigen oder doppelsträngigen Nukleinsäureanalyten zu den miniaturisierten Flusszellen;
+</P>
+<P>
+(c) Ligation oder sequenzspezifische Hybridisierung des Nukleinsäureanalyten an die Oligonukleotidsonde; und
+</P>
+<P>
+(d) wenigstens ein templat-abhängiger Nukleinsäuresyntheseschritt, der mit einer Änderung in einem optischen oder elektrischen Signal einhergeht.
+</P>
+<P>
+17. Verfahren nach Anspruch 16, wobei das Innenvolumen der Flusszelle aus Schritt (a) 40% oder weniger des Volumens der Zuleitung zum Fluidreservoir beträgt.
+</P>
+<P>
+18. Verfahren nach Anspruch 16 oder 17, wobei die Flusszelle aus Schritt (a) dadurch gekennzeichnet ist, dass ein fluidischer Schritt 1 min oder weniger dauert.
+</P>
+<P>
+19. Verfahren nach einem der Ansprüche 16 bis 18, zusätzlich wenigstens einen Schritt der Nukleinsäureamplifikation vor Schritt (d) umfassend.
+</P>
+<P>
+20. Verfahren nach einem der Ansprüche 16 bis 19, wobei der Nukleinsäureanalyt ausgewählt ist aus der Gruppe bestehend aus:
+</P>
+<P>
+- einer microRNA,
+</P>
+<P>
+- einer zu einer microRNA korrespondierenden cDNA,
+</P>
+<P>
+- einer pathogen wirkenden Nukleinsäure, und - einer aus einem Pathogen stammende Nukleinsäure,
+</P>
+<P>
+- einer genomischen DNA und
+</P>
+<P>
+- einer cDNA.
+</P>
+<P>
+21. Verfahren zur Amplif[iota]kation einer Zielnukleinsäure umfassend die Schritte: (a) in-situ-Synthese wenigstens einer Oligonukleotidsonde in wenigstens einem Synthesebereich in einer miniaturisierten Flusszelle;
+</P>
+<P>
+(b) Zugabe wenigstens eines einzeloder doppelsträngigen Nukleinsäureanalyten zu den miniaturisierten Flusszellen; (c) Ligation oder sequenzspezifische Hybridisierung des Nukleinsäureanalyten an die
+</P>
+<P>
+Oligonukleotidsonde; und (d) wenigstens eine Runde Nukleinsäureamplifikation.
+</P>
+<P>
+22. Verfahren nach Anspruch 21, wobei der Nukleinsäureanalyt ausgewählt ist aus der Gruppe bestehend aus:
+</P>
+<P>
+- einer microRNA,
+</P>
+<P>
+- einer zu einer microRNA korrespondierenden cDNA,
+</P>
+<P>
+- einer pathogen wirkenden Nukleinsäure, und
+</P>
+<P>
+- einer aus einem Pathogen stammende Nukleinsäure, - einer genomischen DNA und
+</P>
+<P>
+- einer cDNA.
+</P>
+<P>
+23. Verfahren zur Amplif[iota]kation einer Zielnukleinsäure umfassend die Schritte:
+</P>
+<P>
+(a) in-situ-Synthese wenigstens einer Oligonukleotidsonde in wenigstens einem Synthesebereich in einer miniaturisierten Flusszelle; wobei die Oligonukleotidsonde intramolekulare Hybridisierungsbereiche aufweist; wobei einer der intramolekularen Hybridisierungsbereiche am 3 &apos;-Ende der Oligonukleotidsonde positioniert ist; und wobei eine Erkennungssequenz für eine Nicking-Endonuklease (i) in dem Hybridisierungsbereich am 3 &apos;-Ende der Oligonukleotidsonde vorhanden ist, oder
+</P>
+<P>
+(ii) durch eine sequenzabhängige Verlängerung des Hybridisierungsbereich am 3&apos;-
+</P>
+<P>
+Ende der Oligonukleotidsonde generiert werden kann, oder (iii)in dem Hybridisierungsbereich am 3 &apos;-Ende der Oligonukleotidsonde partiell vorhanden ist und durch eine sequenzabhängige Verlängerung des Hybridisierungsbereichs am 3 &apos;-Ende der Oligonukleotidsonde vervollständigt werden kann;
+</P>
+<P>
+(b) sequenzspezifische Hybridisierung der intramolekularen Hybridisierungsbereiche der Oligonukleotidsonde miteinander;
+</P>
+<P>
+(c) Zugabe einer DNA-Polymerase; (d) sequenzabhängige Synthese eines komplementären DNA-Strangs durch die DNAPolymerase ausgehend vom 3 &apos;-Ende der Oligonukleotidsonde;
+</P>
+<P>
+(e) Zugabe einer Nicking-Endonuclease;
+</P>
+<P>
+(f) Erzeugung eines erkennungssequenzspezifischen Einzelstrangbruchs durch die Nicking-Endonuclease;
+</P>
+<P>
+(g) sequenzabhängige Synthese eines neuen komplementären DNA-Strangs durch die DNA-Polymerase ausgehend vom in (f) erzeugten Einzelstrangbruch unter Verdrängung des zuvor synthetisierten komplementären DNA-Strangs; und
+</P>
+<P>
+(h) optional einmalige oder mehrmalige Wiederholung der Schritte (f) und (g); wobei Schritt (c) vor, während oder nach Schritt (b) erfolgend kann; und wobei Schritt (e) vor, während oder nach einem der Schritte (b), (c) oder (d) erfolgen kann.
+</P>
+<P>
+24. Verfahren zur Amplifikation einer Zielnukleinsäure umfassend die Schritte:
+</P>
+<P>
+(a) in-situ-SynthesQ wenigstens einer Oligonukleotidsonde in wenigstens einem Synthesebereich in einer miniaturisierten Flusszelle;
+</P>
+<P>
+(b) Zugabe eines Primermoleküls; wobei der Primer so gestaltet ist, dass er zumindest an seinem 3 &apos;-Ende einen zur Oligonukleotidsonde komplementären Bereich aufweist; und wobei eine Erkennungssequenz für eine Nicking-Endonuklease
+</P>
+<P>
+(i) in dem zur Oligonukleotidsonde komplementären Bereich des Primers vorhanden ist, oder
+</P>
+<P>
+(ii) durch eine sequenzabhängige Verlängerung des zur Oligonukleotidsonde komplementären Bereichs generiert werden kann, oder
+</P>
+<P>
+(iii)in dem zur Oligonukleotidsonde komplementären Bereich des Primers partiell vorhanden ist und durch eine sequenzabhängige Verlängerung des zur Oligonukleotidsonde komplementären Bereichs des Primers vervollständigt werden kann;
+</P>
+<P>
+(c) sequenzspezifische Hybridisierung des Primermoleküls an die Oligonukleotidsonde;
+</P>
+<P>
+(d) Zugabe einer DNA-Polymerase;
+</P>
+<P>
+(e) sequenzabhängige Synthese eines komplementären DNA-Strangs durch die DNAPolymerase ausgehend vom 3 &apos;-Ende des Primermoleküls;
+</P>
+<P>
+(f) Zugabe einer Nicking-Endonuclease;
+</P>
+<P>
+(g) Erzeugung eines erkennungssequenzspezifischen Einzelstrangbruchs durch die Nicking-Endonuclease;
+</P>
+<P>
+(h) sequenzabhängige Synthese eines neuen komplementären DNA-Strangs durch die DNA-Polymerase ausgehend vom in (g) erzeugten Einzelstrangbruch unter Verdrängung des zuvor synthetisierten komplementären DNA-Strangs; und (i) optional einmalige oder mehrmalige Wiederholung der Schritte (g) und (h); wobei Schritt (d) vor, während oder nach einem der Schritt (b) oder (c) erfolgen kann; und wobei Schritt (f) vor, während oder nach einem der Schritte (b), (c), (d) oder (e) erfolgen kann.
+</P>
+<P>
+25. Verfahren zur Amplifikation einer Zielnukleinsäure umfassend die Schritte:
+</P>
+<P>
+(a) in-situSynthese einer Vielzahl wenigstens einer ersten Oligonukleotidsonde in wenigstens einem Synthesebereich in einer miniaturisierten Flusszelle;
+</P>
+<P>
+(b) m-s/tw-Synthese einer Vielzahl wenigstens einer zweiten Oligonukleotidsonde in wenigstens einem Synthesebereich in einer miniaturisierten Flusszelle; wobei der Abstand zwischen zwei beliebigen Oligonukleotidsonden jeweils so gewählt ist, dass sie nicht aneinander binden können; wobei jeweils zugehörige erste und zweite Oligonukleotidsonden im selben Synthesebereich synthetisiert werden.
+</P>
+<P>
+(c) Zugabe wenigstens eines einzeloder doppelsträngigen Nukleinsäureanalyten zu den miniaturisierten Flusszellen;
+</P>
+<P>
+(d) Ligation oder sequenzspezifische Hybridisierung des Nukleinsäureanalyten an eine erste Oligonukleotidsonde; (e) Zugabe einer DNA-Polymerase;
+</P>
+<P>
+(f) sequenzabhängige Synthese eines komplementären DNA-Strangs durch die DNAPolymerase ausgehend vom 3 &apos;-Ende der ersten Oligonukleotidsonde;
+</P>
+<P>
+(g) Ligation oder sequenzspezifische Hybridisierung des in (f) neu synthetisierten DNAStrangs an eine zweite Oligonukleotidsonde; (h) sequenzabhängige Synthese eines komplementären DNA-Strangs durch die DNA
+</P>
+<P>
+Polymerase ausgehend vom 3 &apos;-Ende der zweiten Oligonukleotidsonde; (i) optional Ligation oder sequenzspezifische Hybridisierung des in (h) neu synthetisierten DNA-Strangs an eine erste Oligonukleotidsonde; und (j) optional einmalige oder mehrmalige Wiederholung der Schritte (f) bis (i); wobei Schritt (e) vor, während oder nach einem der Schritte (b), (c) oder (d) erfolgen kann.
+</P>
+<P>
+26. Verfahren nach Anspruch 25, zusätzlich enthaltend einen oder mehrere der folgenden Verfahrensschritte: (A) ein stringenter Waschschritt nach Schritt (d); oder
+</P>
+<P>
+(B) ein stringenter Waschschritt nach Schritt (f).
+</P>
+<P>
+27. Verfahren nach einem der Ansprüche 21, 22, 23, 24, 25 oder 26, wobei die Menge der neu synthetisierten Nukleinsäuren in Echtzeit bestimmt wird.
+</P>
+<P>
+28. Verfahren zur Herstellung eines Trägers für die Bestimmung von NukleinsäureAnalyten durch Hybridisierung, umfassend die Schritte:
+</P>
+<P>
+(a) Bereitstellen eines Trägerkörpers und (b) schrittweises Aufbauen eines Arrays von mehreren verschiedenen Rezeptoren ausgewählt aus Nukleinsäuren und Nukleinsäureanaloga auf dem Träger durch ortsoder/und zeitspezifisches Immobilisieren von Rezeptorbausteinen an jeweils vorbestimmten Positionen auf dem oder im Trägerkörper, wobei man für die Synthese der Rezeptoren mehrere unterschiedliche Sätze von Synthesebausteinen verwendet, um asymmetrische Rezeptoren zu erhalten.
+</P>
+<P>
+29. Verfahren zur Herstellung eines Trägers für die Bestimmung von NukleinsäureAnalyten durch Hybridisierung, umfassend die Schritte:
+</P>
+<P>
+(a) Bereitstellen eines Trägerkörpers und (b) schrittweises Aufbauen eines Arrays von mehreren verschiedenen Rezeptoren ausgewählt aus Nukleinsäuren und Nukleinsäureanaloga auf dem Träger durch ortsoder/und zeitspezifisches Immobilisieren von Rezeptorbausteinen an jeweils vorbestimmten Positionen auf dem oder im Trägerkörper, wobei in einer oder mehreren der vorbestimmten Positionen die Nukleotidsequenzen der Rezeptoren derart ausgewählt sind, dass die Rezeptoren in Abwesenheit eines damit spezifisch bindefahigen Analyten zumindest teilweise als Sekundärstruktur vorliegen.
+</P>
+<P>
+30. Verfahren zur Bestimmung von Analyten, umfassend die Schritte: (a) Bereitstellen eines Trägers mit mehreren vorbestimmten Bereichen, an denen jeweils unterschiedliche Rezeptoren ausgewählt aus Nukleinsäuren und Nukleinsäureanaloga immobilisiert sind, wobei in einem oder mehreren der vorbestimmten Bereiche die Rezeptoren aus mehreren unterschiedlichen Arten von Rezeptorbausteinen bestehen,
+</P>
+<P>
+(b) Inkontaktbringen des Trägers mit einer Analyten enthaltenden Probe und (c) Bestimmen der Analyten über deren Bindung an die auf dem Träger immobilisierten Rezeptoren, wobei die Bindung eines Analyten an einem damit spezifisch bindefähigen Rezeptor zu einer detektierbaren Signaländerung führt.
+</P>
+<P>
+31. Verfahren zur Bestimmung von Analyten, umfassend die Schritte:
+</P>
+<P>
+(a) Bereitstellen eines Trägers mit mehreren vorbestimmten Bereichen, an denen jeweils unterschiedliche Rezeptoren ausgewählt aus Nukleinsäuren und Nukleinsäureanaloga immobilisiert sind, wobei in einem oder mehreren der vorbestimmten Bereiche die Rezeptoren in Abwesenheit eines damit spezifisch bindefähigen Analyten zumindest teilweise als Sekundärstruktur vorliegen,
+</P>
+<P>
+(b) Inkontaktbringen des Trägers mit einer Analyten enthaltenden Probe und
+</P>
+<P>
+(c) Bestimmen der Analyten über deren Bindung an die auf dem Träger immobilisierten Rezeptoren, wobei die Bindung eines Analyten an einem damit spezifisch bindefähigen Rezeptor den Nachweis der Auflösung der in Abwesenheit des Analyten vorliegenden Sekundärstruktur umfasst.
+</P>
+<P>
+32. Verfahren nach einem der Ansprüche 30 oder 31, wobei der Analyt ausgewählt ist aus der Gruppe bestehend aus:
+</P>
+<P>
+- einer microRNA, - einer zu einer microRNA korrespondierenden cDNA,
+</P>
+<P>
+- einer pathogen wirkenden Nukleinsäure, und
+</P>
+<P>
+- einer aus einem Pathogen stammende Nukleinsäure,
+</P>
+<P>
+- einer genomischen DNA und
+</P>
+<P>
+- einer cDNA.
+</P>
+<P>
+33. Verfahren zur Bestimmung von Analyten, umfassend die Schritte:
+</P>
+<P>
+(a) Bereitstellen eines Trägers mit mehreren vorbestimmten Bereichen, an denen jeweils unterschiedliche Rezeptoren ausgewählt aus Nukleinsäuren und Nukleinsäureanaloga immobilisiert sind; wobei jeder einzelne Rezeptor mindestens einen Hybridisierungsbereich umfasst, an den ein Analyt spezifisch hybridisieren kann;
+</P>
+<P>
+(b) Inkontaktbringen des Trägers mit einer Analyten enthaltenden Probe;
+</P>
+<P>
+(c) Durchführen einer Primerverlängerungsreaktion; wobei der Analyt als Primer fungiert; wobei in der Primerverlängerungsreaktion Bausteine eingebaut werden, die eine oder mehrere signalgebende Gruppen und/oder ein oder mehrere Haptene tragen; und
+</P>
+<P>
+(d) Bestimmung des Analyten über den Einbau signalgruppenhaltiger oder haptenhaltiger Bausteine.
+</P>
+<P>
+34. Verfahren nach Anspruch 33, zusätzlich enthaltend folgenden Verfahrenschritt:
+</P>
+<P>
+- eine Inkubation mit einer ssDNA-spezifischen Nuklease zwischen Schritt (b) und (c).
+</P>
+<P>
+35. Verfahren zur Bestimmung von Analyten, umfassend die Schritte:
+</P>
+<P>
+(a) Bereitstellen eines Trägers mit mehreren vorbestimmten Bereichen, an denen jeweils unterschiedliche Rezeptoren ausgewählt aus Nukleinsäuren und
+</P>
+<P>
+Nukleinsäureanaloga immobilisiert sind; wobei jeder einzelne Rezeptor mindestens einen Hybridisierungsbereich umfasst, an den ein Analyt spezifisch hybridisieren kann;
+</P>
+<P>
+(b) Inkontaktbringen des Trägers mit einer Analyten enthaltenden Probe; wobei die Analyten in der Probe vor, während oder nach dem Inkontaktbringen mit einer oder mehreren signalgebenden Gruppen und/oder mit einem oder mehreren Haptenen verknüpft worden sind;
+</P>
+<P>
+(c) Bestimmung des Analyten über die Detektion der signalgebenden Gruppe(n) oder des Haptens/ der Haptene im Analyten.
+</P>
+<P>
+36. Verfahren nach einem der Ansprüche 33 bis 35, wobei der Analyt eine Nukleinsäure ist, ausgewählt aus der Gruppe bestehend aus:
+</P>
+<P>
+- einer microRNA,
+</P>
+<P>
+- einer zu einer microRNA korrespondierenden cDNA, - einer pathogen wirkenden Nukleinsäure, und
+</P>
+<P>
+- einer aus einem Pathogen stammende Nukleinsäure,
+</P>
+<P>
+- einer genomischen DNA und
+</P>
+<P>
+- einer cDNA.
+</P>
+<P>
+37. Verfahren zur Amplif[iota]kation von Analyten, umfassend die Schritte:
+</P>
+<P>
+(a) Bereitstellen eines Trägers mit mehreren vorbestimmten Bereichen, an denen jeweils unterschiedliche Rezeptoren ausgewählt aus Nukleinsäuren und Nukleinsäureanaloga immobilisiert sind; wobei jeder einzelne Rezeptor an seinem 3&apos;-Ende einen Hybridisierungsbereich aufweist, an den ein Analyt spezifisch hybridisieren kann; (b) Inkontaktbringen des Trägers mit einer Analyten enthaltenden Probe; und
+</P>
+<P>
+(c) Durchfuhren einer Primerverlängerungsreaktion; wobei die unterschiedlichen Rezeptoren als Primer fungieren, wodurch eine doppelsträngige Nukleinsäure erhalten wird, die aus Analyt und verlängertem Rezeptor besteht.
+</P>
+<P>
+38. Verfahren nach Anspruch 37, zusätzlich enthaltend folgende Verfahrenschritte, die sich an Schritt (c) anschliessen:
+</P>
+<P>
+(d) Thermische Denaturierung der in Schritt (c) erhaltenen doppelsträngigen Nukleinsäure; (e) Einstellung von Reaktionsbedingungen, die eine Hybridisierung von Analyt und nicht-verlängerten Rezeptoren erlauben;
+</P>
+<P>
+(f) Durchführen einer Primerverlängerungsreaktion, wobei die unterschiedlichen nichtverlängerten Rezeptoren als Primer fungieren; und
+</P>
+<P>
+(g) optional Wiederholung der Schritte (d) bis (f).
+</P>
+<P>
+39. Verfahren nach Anspruch 37 oder 38, wobei in der Primerverlängerungsreaktion (c) gemäss Anspruch 37 und/oder in der Primerverlängerungsreaktion (f) gemäss Anspruch 38 Bausteine eingebaut werden, die eine oder mehrere signalgebende Gruppen und/oder ein oder mehrere Haptene tragen.
+</P>
+<P>
+40. Verfahren nach Anspruch 39, zusätzlich enthaltend folgenden Verfahrensschritt, der während eines der Schritte (c) bis (g) oder nach einem der Schritte (c) bis (g) durchgeführt wird:
+</P>
+<P>
+- Bestimmung des Analyten über den Einbau der signalgruppenhaltigen und/oder haptenhaltigen Bausteine.
+</P>
+<P>
+41. Verfahren nach Anspruch 37; wobei der Analyt eine RNA ist; wobei die unterschiedlichen Rezeptoren zusätzlich einen Bereich mit einer Primersequenz 1 aufweisen, die 5&apos; zum Hybridisierungsbereich positioniert ist, und wobei das Verfahren zusätzlich folgende Verfahrenschritte aufweist, die sich an Schritt (c) anschliessen:
+</P>
+<P>
+(d) Ligation einer Nukleinsäurekassette, die einen Bereich mit einer Primersequenz 2 aufweist, an die in Schritt (c) erhaltene doppelsträngige Nukleinsäure;
+</P>
+<P>
+(e) Durchführen einer Zweitstrangsynthese;
+</P>
+<P>
+(f) Durchführen mindestens eines Zyklus einer Amplifikationsreaktion unter Zugabe eines Primers mit der Primersequenz 1 und eines Primers mit der Primersequenz 2.
+</P>
+<P>
+42. Verfahren nach Anspruch 41, wobei in Schritt (e) und/oder Schritt (f) Bausteine eingebaut werden, die eine oder mehrere signalgebende Gruppen und/oder ein oder mehrere Haptene tragen.
+</P>
+<P>
+43. Verfahren nach Anspruch 42, zusätzlich enthaltend folgenden Verfahrensschritt, der während eines der Schritte (e) bis (f) oder nach einem der Schritte (e) bis (f) durchgeführt wird:
+</P>
+<P>
+- Bestimmung des Analyten über den Einbau der signalgruppenhaltigen und/oder haptenhaltigen Bausteine.
+</P>
+<P>
+44. Verfahren nach einem der Ansprüche 37 bis 43, wobei der Analyt eine Nukleinsäure ist, ausgewählt aus der Gruppe bestehend aus:
+</P>
+<P>
+- einer microRNA,
+</P>
+<P>
+- einer zu einer microRNA korrespondierenden cDNA,
+</P>
+<P>
+- einer pathogen wirkenden Nukleinsäure, und
+</P>
+<P>
+- einer aus einem Pathogen stammende Nukleinsäure, - einer genomischen DNA und
+</P>
+<P>
+- einer cDNA.
+</P>
+<P>
+45. Verfahren zur Herstellung eines Trägers für die Nukleinsäureanalytik und/oder -synthese, umfassend die Schritte: (a) Bereitstellen eines Trägerkörpers und
+</P>
+<P>
+(b) schrittweises Aufbauen eines Arrays von mehreren verschiedenen Rezeptoren ausgewählt aus Nukleinsäuren und Nukleinsäureanaloga auf dem Träger durch ortsoder/und zeitspezif[iota]sches Immobilisieren von Rezeptorbausteinen an jeweils vorbestimmten Positionen auf dem oder im Trägerkörper, wobei in mindestens einem Synthesebereich durch orthogonale chemische Verfahren mindestens 2 unterschiedliche Rezeptoren synthetisiert werden.
+</P>
+<P>
+46. Verfahren nach einem der Ansprüche 16 bis 45, wobei die molekularbiologische Prozessanlage gemäss Ansprüchen 1 bis 15 verwendet wird.
+</P>
+<P>
+47. Reagenzienkit, umfassend einen Trägerkörper und mindestens zwei unterschiedliche Sätze von Bausteinen für die Synthese von Rezeptoren auf dem Trägerkörper.
+</P>
+<P>
+48. Reagenzienkit nach Anspruch 47 zusätzlich umfassend Reaktionsflüssigkeiten.
+</P>
+<P>
+49. Reagenzienkit nach einem der Ansprüche 47 oder 48, wobei die Bausteine für die Synthese von Rezeptoren ausgewählt sind aus Desoxyribonukleotiden, Ribonukleotiden, N3&apos;-P5&apos;-Phosphoramidat-(NP)-Bausteinen, Locked-Nukleinsäure-(LNA)-Bausteinen, Morpholinophosphordiamidat-(MF)-Bausteinen, 2&apos;-O-Methoxyethyl-(MOE)-Bausteinen,
+</P>
+<P>
+2&apos;-Fluor-arabino-Nukleinsäure-(FANA)-Bausteinen, Phosphorthioat-(PS)-Bausteinen, 2&apos;- O-Methyl-(OMe)-Bausteinen und/oder Peptidnukleinsäure-(PNA)-Bausteinen.
+</P>
+<P>
+50. Verwendung der molekularbiologische Prozessanlage gemäss einem beliebigen der Ansprüche 1 bis 15
+</P>
+<P>
+- zum Nachweis oder/und zur Isolierung von Nukleinsäuren;
+</P>
+<P>
+- zur Sequenzierung;
+</P>
+<P>
+- zur Punktmutationsanalyse;
+</P>
+<P>
+- zur Analyse von Genomen, Genomvariationen, Genominstabilitäten und/oder Chromosomen;
+</P>
+<P>
+- zur Typisierung von Pathogenen;
+</P>
+<P>
+- zur Genotypisierung;
+</P>
+<P>
+- zur Genexpressionsoder Transkriptomanalyse;
+</P>
+<P>
+- zur Analyse von cDNA-Bibliotheken; - zur Herstellung substratgebundener cDNA-Bibliotheken oder cRNA-Bibliotheken;
+</P>
+<P>
+- zur Erzeugung von Arrays für die Herstellung synthetischer Nukleinsäuren; Nukleinsäuredoppelstränge und/oder synthetischer Gene;
+</P>
+<P>
+- zur Herstellung von Arrays von Primern, Ultra-Longmers, Sonden für homogene Assays, Molecular Beacons und/oder Haarnadel-Sonden; - zur Erzeugung von Arrays für die Herstellung, Optimierung und/oder Entwicklung von Antisense-Molekülen;
+</P>
+<P>
+- zur weiteren Prozessierung der Analyten oder Zielmoleküle für die logisch nachgeordnete Analyse auf dem Mikroarray, in einem Sequenzierverfahren, in einem Amplifikationsverfahren oder für die Analyse in einer Gelelektrophorese; zur Herstellung von prozessierten RNA-Bibliotheken für nachfolgende Schritte, ausgewählt aus: Translation in vitro oder in vivo oder Modulation der Genexpression durch iRNA oder RNAi; zur Herstellung von Sequenzen, die anschliessend mittels Vektoren oder in Plasmiden oder direkt kloniert werden; und/oder
+</P>
+<P>
+- zur Ligation von Nukleinsäuren in Vektoren oder Plasmide.
+</P>
+<P>
+51. Verwendung nach Anspruch 50, wobei die Sequenzierung ein Sequencing-by-synthesisVerfahren ist.
+</P>
+<P>
+52. Verwendung nach Anspruch 50, wobei die Punktmutationsanalyse eine SNP-Analyse oder ein Nachweis neuer SNPs ist.
+</P>
+<P>
+53. Verwendung nach Anspruch 50, wobei die hergestellten Arrays an Primern für PrimerExtension-Msthoden, Strand-DisplacementAmplifikation, Polymerase Chain Reaction
+</P>
+<P>
+(PCR), Site Directed Mutagenesis oder Rolling Circle Amplifikation verwendet werden können.
+</P>
+<P>
+54. Verwendung nach Anspruch 50, wobei die logisch nachgeordnete Analyse auf dem Mikroarray ein Amplifikationsverfahren ist, ausgewählt aus Strand Displacement
+</P>
+<P>
+Amplifikation, Polymerase Chain Reaction und Rolling Circle Amplifikation.
+</P>
+<P>
+55. Verwendung nach Anspruch 50, wobei die nachzuweisende und/oder zu isolierende Nukleinsäure ausgewählt ist aus der Gruppe bestehend aus: - einer microRNA,
+</P>
+<P>
+- einer zu einer microRNA korrespondierenden cDNA,
+</P>
+<P>
+- einer pathogen wirkenden Nukleinsäure, und
+</P>
+<P>
+- einer aus einem Pathogen stammende Nukleinsäure,
+</P>
+<P>
+- einer genomischen DNA und - einer cDNA.
+</P>
+</Claims>
+<Also_published_as>
+WO2008080629A2;WO2008080629A3;US2011092380A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FLUORINATION OF MULTI- LAYERED CARBON NANOMATERIALS
+</Title>
+<PublicationNumber>
+EP1976792A2
+</PublicationNumber>
+<Inventor>
+<Name>
+YAZAMI RACHID [US]
+</Name>
+<Name>
+HAMWI ANDRE [FR]
+</Name>
+<Name>
+YAZAMI, RACHID
+</Name>
+<Name>
+HAMWI, ANDRE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CALIFORNIA INST OF TECHN [US]
+</Name>
+<Name>
+CENTRE NAT RECH SCIENT [FR]
+</Name>
+<Name>
+UNIV BLAISE PASCAL [FR]
+</Name>
+<Name>
+CALIFORNIA INSTITUTE OF TECHNOLOGY
+</Name>
+<Name>
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)
+</Name>
+<Name>
+UNIVERSITE BLAISE PASCAL
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1976792
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060851180
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US60991
+</PriorityNumber>
+<PriorityDate>
+2006-11-16
+</PriorityDate>
+<PriorityNumber>
+US20050737186P
+</PriorityNumber>
+<PriorityDate>
+2005-11-16
+</PriorityDate>
+<PriorityNumber>
+US20060775110P
+</PriorityNumber>
+<PriorityDate>
+2006-02-21
+</PriorityDate>
+<PriorityNumber>
+US20060775559P
+</PriorityNumber>
+<PriorityDate>
+2006-02-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+<Class>
+H01M4/58
+</Class>
+<Class>
+H01M4/583
+</Class>
+<Class>
+H01M10/0525
+</Class>
+<Class>
+H01M10/36
+</Class>
+<Class>
+H01M4/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/00D
+</Class>
+<Class>
+C01B31/02B4D
+</Class>
+<Class>
+H01M4/36K2
+</Class>
+<Class>
+H01M4/583
+</Class>
+<Class>
+H01M4/583B
+</Class>
+<Class>
+H01M4/62B
+</Class>
+<Class>
+H01M4/62B2
+</Class>
+<Class>
+H01M4/62C
+</Class>
+<Class>
+Y02E60/12
+</Class>
+</NCL>
+<Abstract>
+The invention provides fluorinated multi-layered carbon nanomaterials and methods for their production. In one aspect of the invention, the carbon nanomaterials are partially fluorinated and retain some unreacted carbon. The invention also provides electrodes and electrochemical devices incorporating the fluorinated carbon nanomaterials of the invention. In one aspect of the invention, the electrochemical has a first electrode including the at least partially fluorinated carbon materials of the invention and a second electrode including a source of lithium ions.
+</Abstract>
+<Claims>
+<P>
+CLAIMS We claim:
+</P>
+<P>
+1. A fluorinated carbon nanomaterial obtained by direct fluorination and having an average chemical composition CFx wherein x is the atomic ratio of fluorine to carbon and has a value between 0.06 and 0.95, wherein the carbon nanomaterial has a substantially ordered multi-layered structure prior to fluorination.
+</P>
+<P>
+2. The material of claim 1 , wherein the carbon nanomaterial is selected from the group consisting of multiwalled carbon nanotubes, multi-layered carbon nanofibers, multi-layered carbon nanoparticles, carbon nanowhiskers and carbon nanorods.
+</P>
+<P>
+3. The material of claim 2, wherein the carbon nanomaterial is a carbon nanofiber having a diameter between 40 nm and 1000 nm.
+</P>
+<P>
+4. The material of claim 1 , wherein the average ratio of fluorine to carbon is between 0.06 and 0.68,
+</P>
+<P>
+5. The material of claim 1 , wherein the average ratio of fluorine to carbon is between 0.3 and 0.66.
+</P>
+<P>
+6. The material of claim 1 , wherein the average ratio of fluorine to carbon is between 0.39 and 0.95.
+</P>
+<P>
+7. The material of claim 1 , wherein the average ratio of fluorine to carbon is between 0.6 and 0.8.
+</P>
+<P>
+8. The material of claim 1 , wherein the fluorinated carbon nanomaterial comprises an unfluorinated carbon phase.
+</P>
+<P>
+9. An electrochemical device comprising a first electrode, a second electrode, and an ion transporting material disposed therebetween, wherein the first electrode comprises the fluorinated carbon nanomaterial of any of claims 1-8.
+</P>
+<P>
+10. The device of claim 9, wherein the fluorinated carbon nanomaterial is in a composition further comprising a conductive diluent and a binder.
+</P>
+<P>
+11. The device of claim 10, wherein the conductive diluent is selected from the group consisting of acetylene black, carbon black, powdered graphite, cokes, carbon fibers, metallic powders, and combinations thereof.
+</P>
+<P>
+12. The device of claim 10, wherein the binder is polymeric.
+</P>
+<P>
+13. The device of claim 12, wherein the binder is a fluorinated hydrocarbon polymer.
+</P>
+<P>
+14. The device of claim 9, wherein the second electrode comprises a source of ions of a metal selected from Groups 1 , 2, and 3 of the Periodic Table of Elements.
+</P>
+<P>
+15. The device of claim 14, wherein the ions are lithium ions.
+</P>
+<P>
+16. The device of claim 15, wherein the source of lithium ions is selected from the group consisting of lithium metal, a lithium alloy, and a carbon-lithium material.
+</P>
+<P>
+17. The device of claim 16, wherein the source of lithium ions is lithium metal or a lithium alloy.
+</P>
+<P>
+18. The device of claim 9, wherein the ion-transporting material physically separates the first and the second electrode and prevents direct electrical contact therebetween.
+</P>
+<P>
+19. The device of claim 18, wherein the ion-transporting material comprises a polymeric material and a nonaqueous electrolyte.
+</P>
+<P>
+20. A method for fluorinating a multi-layered carbon nanomaterial comprising the step of exposing the carbon nanomaterials to a gaseous source of elemental fluorine at a pressure between 1 atm and 0.1 atm at a temperature between 375 &amp;lt;0&amp;gt;C and 480 &amp;lt;0&amp;gt;C for a time between 4 and 20 hours
+</P>
+<P>
+21.The method of claim 20, wherein the gaseous source of elemental fluorine comprises a mixture of fluorine and an inert gas
+</P>
+<P>
+22. The method of claim 20, wherein the temperature is in the range of 420 &amp;lt;0&amp;gt;C- 465 &amp;lt;0&amp;gt;C.
+</P>
+<P>
+23. The method of claim 20, wherein the time is in the range between 8 and 16 hours.
+</P>
+<P>
+24. The method of claim 20, wherein the pressure is between 1 and 0.25 atm.
+</P>
+<P>
+25. The method of claim 20, wherein the diameter of the carbon nanomaterial is between 40 nm and 1000 nm.
+</P>
+<P>
+26. The method of claim 20, wherein the diameter of the carbon nanomaterial is between 80 nm and 350 nm.
+</P>
+</Claims>
+<Also_published_as>
+EP1976792A4;WO2007126436A2;WO2007126436A3;KR20080073751A;JP2009515813A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CONTROLLED BUCKLING STRUCTURES IN SEMICONDUCTOR INTERCONNECTS AND NANOMEMBRANES FOR STRETCHABLE ELECTRONICS
+</Title>
+<PublicationNumber>
+EP2064710A2
+</PublicationNumber>
+<Inventor>
+<Name>
+ROGERS JOHN A [US]
+</Name>
+<Name>
+MEITL MATTHEW [US]
+</Name>
+<Name>
+SUN YUGANG [US]
+</Name>
+<Name>
+KO HEUNG CHO [US]
+</Name>
+<Name>
+CARLSON ANDREW [US]
+</Name>
+<Name>
+CHOI WON MOOK [US]
+</Name>
+<Name>
+STOYKOVICH MARK [US]
+</Name>
+<Name>
+JIANG HANQING [US]
+</Name>
+<Name>
+HUANG YONGGANG [US]
+</Name>
+<Name>
+NUZZO RALPH G [US]
+</Name>
+<Name>
+KANG SEONG JUN [KR]
+</Name>
+<Name>
+LEE KEON JAE [JP]
+</Name>
+<Name>
+ZHU ZHENGTAO [US]
+</Name>
+<Name>
+MENARD ETIENNE [US]
+</Name>
+<Name>
+KIM HOON-SIK [US]
+</Name>
+<Name>
+KHANG DAHL-YOUNG [KR]
+</Name>
+<Name>
+AHN JONG-HYUN [KR]
+</Name>
+<Name>
+ROGERS, JOHN A
+</Name>
+<Name>
+MEITL, MATTHEW
+</Name>
+<Name>
+SUN, YUGANG
+</Name>
+<Name>
+KO, HEUNG CHO
+</Name>
+<Name>
+CARLSON, ANDREW
+</Name>
+<Name>
+CHOI, WON MOOK
+</Name>
+<Name>
+STOYKOVICH, MARK
+</Name>
+<Name>
+JIANG, HANQING
+</Name>
+<Name>
+HUANG, YONGGANG
+</Name>
+<Name>
+NUZZO, RALPH G
+</Name>
+<Name>
+KANG, SEONG JUN
+</Name>
+<Name>
+LEE, KEON JAE
+</Name>
+<Name>
+ZHU, ZHENGTAO
+</Name>
+<Name>
+MENARD, ETIENNE
+</Name>
+<Name>
+KIM, HOON-SIK
+</Name>
+<Name>
+KHANG, DAHL-YOUNG
+</Name>
+<Name>
+AHN, JONG-HYUN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV ILLINOIS [US]
+</Name>
+<Name>
+THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2064710
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070841968
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US77759
+</PriorityNumber>
+<PriorityDate>
+2007-09-06
+</PriorityDate>
+<PriorityNumber>
+US20060824683P
+</PriorityNumber>
+<PriorityDate>
+2006-09-06
+</PriorityDate>
+<PriorityNumber>
+US20070944626P
+</PriorityNumber>
+<PriorityDate>
+2007-06-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01B7/06
+</Class>
+<Class>
+H01R35/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B81B3/00S2Z
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L21/683T
+</Class>
+<Class>
+H01L21/822B
+</Class>
+<Class>
+H01L21/8258
+</Class>
+<Class>
+H01L27/06C
+</Class>
+<Class>
+H01L27/06E
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/16
+</Class>
+<Class>
+H01L29/16D
+</Class>
+<Class>
+H01L29/16G
+</Class>
+<Class>
+H01L29/20
+</Class>
+<Class>
+H01L29/78R
+</Class>
+<Class>
+H05K1/02J6
+</Class>
+</NCL>
+<Abstract>
+In an aspect, the present invention provides stretchable, and optionally printable, components such as semiconductors and electronic circuits capable of providing good performance when stretched, compressed, flexed or otherwise deformed, and related methods of making or tuning such stretchable components. Stretchable semiconductors and electronic circuits preferred for some applications are flexible, in addition to being stretchable, and thus are capable of significant elongation, flexing, bending or other deformation along one or more axes. Further, stretchable semiconductors and electronic circuits of the present invention are adapted to a wide range of device configurations to provide fully flexible electronic and optoelectronic devices.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+We claim:
+</P>
+<P>
+1. A stretchable component of a device, said stretchable component comprising: a first end; a second end; and a central region disposed between the first and second ends; wherein the component is supported by a substrate, wherein the first end and second end of the component are bonded to the substrate, and wherein at least a portion of the central region of the component has a bent configuration.
+</P>
+<P>
+2. The stretchable component of claim 1 , wherein the central region of said component is not in physical contact with the substrate.
+</P>
+<P>
+3. The stretchable component of claim 1 , wherein the central region of said component is under strain.
+</P>
+<P>
+4. The stretchable component of claim 1 , wherein the central region of said component is curved.
+</P>
+<P>
+5. The stretchable component of claim 4, wherein the central region of said component is arc-shaped.
+</P>
+<P>
+6. The stretchable component of claim 4, wherein a curved portion of said component has an amplitude selected from a range of between about 100 nm and 1 mm.
+</P>
+<P>
+7. The stretchable component of claim 1 , wherein the central region of said component comprises one or more regions bonded to the substrate to form a plurality of distinct curved portion regions not in physical contact with the substrate.
+</P>
+<P>
+8. The stretchable component of claim 7, wherein the amplitude of at least one of the distinct curved portion regions is different than the amplitude of another curved portion region.
+</P>
+<P>
+9. The stretchable component of claim 1 , wherein the component comprises a ribbon structure having a thickness that is greater than 100 nm.
+</P>
+<P>
+10. The stretchable component of claim 9, wherein the ribbon structure has a thickness that is between about 300 nm and 1 mm.
+</P>
+<P>
+11. The stretchable component of claim 1 comprising one or more materials selected from the group consisting of: a metal, a semiconductor, an insulator, a piezoelectric material, a ferroelectric material, a magnetostrictive material, an electrosthctive material, a superconductor, a ferromagnetic material, and a thermoelectric material.
+</P>
+<P>
+12. The stretchable component of claim 1 comprising a component of a device selected from the group consisting of an electronic device, an optical device, an optoelectronic device, a mechanical device, a microelectromechanical device, a nanoelectromechanical device, a microfluidic device and a thermal device.
+</P>
+<P>
+13. The stretchable component of claim 12 wherein said stretchable component is a tunable device component having at least one electronic property, optical property or mechanical property that changes selectively with the level of strain of said central region provided by said bent configuration
+</P>
+<P>
+14. The stretchable component of claim 1 wherein said component is a stretchable interconnect structure of an electronic device, wherein said interconnect structure establishes electrical connection between two or more device components of said electronic device and is capable of compression or elongation.
+</P>
+<P>
+15. The stretchable component of claim 14, wherein the interconnect structure has a bridge configuration comprising a central region peak from which three or more interconnects extend therefrom.
+</P>
+<P>
+16. The stretchable component of claim 14, wherein said stretchable interconnect structure further comprises one or more contact pads in electrical contact with said first end, said second end or both said first end and said second end.
+</P>
+<P>
+17. The interconnect of claim 16 wherein at least one of said device components is in electrical contact with the contact pad.
+</P>
+<P>
+18. The stretchable component of claim 1 wherein said stretchable component is a tunable device component of an electronic device, said tunable component having at least one electronic property that changes selectively with the level of strain of said central region provided by said bent configuration.
+</P>
+<P>
+19. The stretchable component of claim 18 wherein said at least one electronic property is selected from the group consisting of electron mobility, resonance frequency, conductance, and resistance.
+</P>
+<P>
+20. The stretchable component of claim 18 wherein said tunable device component comprises the semiconductor channel of a transistor.
+</P>
+<P>
+21. The stretchable component of claim 1 wherein said stretchable component is a tunable device component of an optical device, said tunable component having at least one optical property that changes selectively with the level of strain of said central region provided by said bent configuration.
+</P>
+<P>
+22. The stretchable component of claim 21 wherein said at least one optical property is the refractive index of the tunable device component or the angle of incidence of an incident beam of electromagnetic radiation relative to a surface of the central region of said stretchable component.
+</P>
+<P>
+23. The stretchable component of claim 21 wherein said tunable device component comprises a waveguide, an optical modulator, an optical switch, or an optical filter.
+</P>
+<P>
+24. The stretchable component of claim 1 wherein said stretchable component is a tunable device component of a device, said tunable component having a thermal conductivity that changes selectively with the level of strain of said central region provided by said bent configuration.
+</P>
+<P>
+25. The stretchable component of claim 1 wherein said stretchable component is a thermal isolation component of a device, wherein said central region is not in physical contact with said substrate.
+</P>
+<P>
+26. The stretchable component of claim 25 wherein said central region is not in thermal contact with said substrate, wherein said central region supports one or more device components, thereby providing thermal isolation of said one or more device components supported by said central region from said substrate.
+</P>
+<P>
+27. The stretchable component of claim 25 wherein said device is a long wavelength imaging system.
+</P>
+<P>
+28. The stretchable component of claim 1 wherein said stretchable component is an actuator of a mechanical device, wherein the central region is curved and has an amplitude that is capable of modulation by compressing or elongating said stretchable component or by applying an electric potential to said central region.
+</P>
+<P>
+29. The stretchable component of claim 28 wherein said mechanical device is selected from the group consisting of a microelectromechanical device, a nanoelectromechanical device, and a microfluidic device.
+</P>
+<P>
+30. The stretchable component of claim 1 , wherein the substrate comprises an elastomeric material.
+</P>
+<P>
+31. The stretchable component of claim 1 capable of undergoing a strain of up to 25%.
+</P>
+<P>
+32. A device array comprising a plurality of stretchable components of claim 1.
+</P>
+<P>
+33. The device array of claim 32, wherein the device array has a grid configuration, floral configuration, bridge configuration, or any combination thereof.
+</P>
+<P>
+34. The device array of claim 32, wherein a plurality of device components are connected to adjacent device components by a plurality of stretchable components comprising stretchable interconnect structures.
+</P>
+<P>
+35. The device array of claim 34, wherein at least one interconnect structure is oriented in a direction that is different from another interconnect structure.
+</P>
+<P>
+36. The device array of claim 32, wherein at least a portion of the array comprises a plurality of interconnect structures aligned in a direction parallel to each other or a plurality of interconnects are oriented in two or more directions.
+</P>
+<P>
+37. The device array of claim 36, wherein at least one of the plurality of parallel interconnects is out of phase with at least one other of the interconnects.
+</P>
+<P>
+38. The device array of claim 32, wherein the device comprises two or more adjacent layers, with each layer comprising a plurality of said stretchable components.
+</P>
+<P>
+39. The device array of claim 32 capable of undergoing a strain of up to about 150% without fracturing.
+</P>
+<P>
+40. The device array of claim 32, wherein the substrate has a surface with at least a portion that is curved, concave, convex or hemispherical.
+</P>
+<P>
+41. The device array of claim 32, wherein the device is one or more of a stretchable: photodetector, photiodiode array, display, light emitting device, photovoltaic device, sensor array, sheet scanner, LED display, semiconductor laser array, optical imaging system, large-area electronic device, transistor array, logic gate array, microprocessor or an integrated circuit.
+</P>
+<P>
+42. A method of tuning a property of a stretchable component of a device; said method comprising the steps of: providing said device having said stretchable component, wherein said stretchable component comprises: a first end; a second end; and a central region disposed between the first and second ends; wherein the component is supported by a substrate, wherein the first end and second end of the component are bonded to the substrate, wherein at least a portion of the central region of the component has a bent configuration; wherein said central portion is under a level of strain; and modulating said level of strain of said stretchable component by compressing or elongating said stretchable component, thereby tuning said property of said stretchable component of said device.
+</P>
+<P>
+43. The method of claim 42 wherein said property is one or more property selected from the group consisting of: an optical property, an electronic property, and a mechanical property.
+</P>
+<P>
+44. The method of claim 42 wherein said property is selected from the group consisting of: resonance frequency, electron mobility, resistance, conductance, refractive index, thermal conductivity, and the angle of incidence of an incident beam of electromagnetic radiation relative to a surface of the central region of said stretchable component.
+</P>
+<P>
+45. A method of making a one or more stretchable components of a device, said method comprising the steps of: providing an elastomeric substrate having a receiving surface, wherein said substrate is provided having a first level of strain; bonding said one or more device components to said receiving surface of said elastomeric substrate having said first level of strain; and applying a force to said elastomeric substrate that generates a change in the level of strain of the substrate from said first level to a second level of strain different than said first level, wherein said change in the level of strain in said substrate from said first level to said second level causes said one or more components to bend, thereby generating said one or more stretchable components each having a first end and second end that are bonded to the substrate and a central region provided in a bent configuration.
+</P>
+<P>
+46. The method of claim 45 wherein said bonding step comprises the step of: generating a pattern of bonded and non-bonded regions of said stretchable component, wherein said bonded regions of said stretchable component are bonded to said elastomeric substrate and wherein said non-bonded regions of said stretchable component are not bonded to said elastomeric substrate.
+</P>
+<P>
+47. The method of claim 46 wherein said non-bonded regions correspond to said central regions of said stretchable components, and wherein said first and second ends of said one or more device components correspond to said bonded region.
+</P>
+<P>
+48. The method of claim 46 wherein said step of applying said force to said elastomeric substrate causes said central regions to bend such that at least a portion of the central region of each stretchable component is not in physical contact with the substrate.
+</P>
+<P>
+49. The method of claim 45 further comprising generating a pattern of bonding sites on said stretchable component, said receiving surface of said elastomeric substrate or on both said stretchable component and said receiving surface of said elastomeric substrate.
+</P>
+<P>
+50. The method of claim 45 wherein said elastomeric substrate comprises a plurality of compliant regions and a plurality of rigid regions, wherein the flexural rigidity of said compliant regions is less than that of said rigid regions, wherein said first and second ends of each of said stretchable components are bonded to at least one of said rigid regions and wherein said central region of each of said stretchable components is bonded to at least one of said compliant regions.
+</P>
+<P>
+51. The method of claim 45 wherein said step of applying said force to said elastomeric substrate is achieved mechanically.
+</P>
+<P>
+52. The method of claim 51 wherein said first level of strain, said second level of strain or both are generated by elongating or compressing said elastomeric substrate.
+</P>
+<P>
+53. The method of claim 45 wherein said first level of strain, said second level of strain or both are generated by curing said elastomeric substrate.
+</P>
+<P>
+54. The method of claim 45 wherein said step of applying said force to said elastomeric substrate is achieved thermally.
+</P>
+<P>
+55. The method of claim 54 wherein said step of applying said force to said elastomeric substrate is achieved by raising or lowering the temperature of said elastomeric substrate.
+</P>
+<P>
+56. The method of claim 45 wherein said first level of strain, said second level of strain or both are generated by thermal expansion or thermally induced contraction of said elastomeric substrate.
+</P>
+<P>
+57. The method of claim 45 wherein said first level of strain or said second level of strain is equal to 0.
+</P>
+<P>
+58. The method of claim 45 wherein said step of bonding said one or more device components to said receiving surface of said elastomeric substrate is carried out before said step of applying said force to said elastomeric substrate that generates a change in the level of strain of the substrate from said first level to a second level of strain different than said first level.
+</P>
+<P>
+59. The method of claim 45 wherein said step of bonding said one or more device components to said receiving surface of said elastomeric substrate is carried out after said step of applying said force to said elastomeric substrate that generates a change in the level of strain of the substrate from said first level to a second level of strain different than said first level.
+</P>
+<P>
+60. A method of making a stretchable device or device component comprising: a) providing a substrate having a receiving surface with one or more relief features; b) depositing a device component to at least partially conformally contact said receiving surface; c) casting a polymeric stamp against the at least partially conformally contacted substrate; and d) removing the polymeric stamp from the substrate thereby transferring the device component to said stamp; wherein the device component transferred to the stamp has a pattern of bond sites that bond said device component to said stamp.
+</P>
+<P>
+61. The method of claim 60, wherein, the component is selected from the group consisting of a conductor, metal, semiconductor, insulator, piezoelectric, ferroelectric, magnetostrictive material, electrosthctive material, superconductor, ferromagnetic and thermoelectric.
+</P>
+<P>
+62. The method of claim 61 , wherein the device comprises device components selected from the group consisting of active or passive components that provide optical, electrical, mechanical, magnetic or thermal functions.
+</P>
+<P>
+63. The method of claim 61 , wherein the substrate and the metal have an interface, and the metal and substrate interface is Au/Su-8 epoxy photoresist.
+</P>
+<P>
+64. The method of claim 61 , wherein the metal is deposited by electrodeposition.
+</P>
+<P>
+65. The method of claim 61 wherein the metal is deposited by: a) providing a shadowmask; b) contacting the shadowmask with the wavy surface; and c) evaporating metal through the shadowmask to generate a corresponding pattern of metal on the wavy surface.
+</P>
+<P>
+66. The method of claim 61 , wherein the metal is deposited by photolithography and etching.
+</P>
+<P>
+67. The method of claim 60 wherein at least a portion of the receiving surface is wavy.
+</P>
+<P>
+68. The method of claim 67 further comprising smoothing the wavy features by spin- coating a polymer to partially fill one or more recess features to generate a smoothly- wavy substrate.
+</P>
+<P>
+69. The method of claim 67, wherein the substrate having wavy features is made by anisotropic etching of Si (1 0 0) or by embossing Su-8.
+</P>
+<P>
+70. A method of making a pop-up component on a stamp surface comprising: a) providing a component on a substrate surface; b) providing an elastomehc stamp having a curved geometry c) transferring the component from the substrate to the stamp by: i) applying a deforming force to the stamp to provide a substantially flat stamp surface; ii) contacting the strained stamp with the component on the substrate; iii) removing the component from the substrate by lifting the stamp in a direction that is away from the substrate, thereby transferring the component from the substrate surface to the elastomeric stamp surface; and d) removing the deforming force to relax the stamp to the curved geometry, thereby making a pop-up component.
+</P>
+<P>
+71. The method of claim 70, wherein the curved geometry is at least partially hemispherical when the stamp is relaxed.
+</P>
+<P>
+72. The method of claim 71 , wherein the stamp has a circular perimeter and further comprises a molded rim about the circular perimeter for imparting a radial force to the stamp during the deforming force application.
+</P>
+<P>
+73. The method of claim 70 further comprising transferring the pop-up component onto a device substrate, the transferring comprising: a) providing a device substrate having a curved surface shape that corresponds to the stamp curved geometry; b) applying an adhesive or adhesive precursor to the device substrate curved surface to generate a liquid film layer of adhesive or adhesive precursor on the device substrate surface; and c) contacting the stamp surface having the pop-up component with the layer of adhesive on the device substrate, wherein upon said contact said adhesive liquid layer flows to conform to the shape of the pop-up component and bond the component to the device substrate.
+</P>
+<P>
+74. The method of claim 73 further comprising removing the elastomeric stamp.
+</P>
+<P>
+75. The method of claim 73, wherein the adhesive comprises a photopolymer and the photopolymer adhesive layer is cured by application of electromagnetic radiation during or after the stamp surface and device substrate contacting step.
+</P>
+<P>
+76. The method of claim 73, wherein the stamp comprises poly(dimethylsiloxane) having a linear and elastic response for strains that are up to about 40%.
+</P>
+<P>
+77. The method of claim 73, wherein the component is part of a stretchable electrode, stretchable passive matrix LED display, or a photodetector array.
+</P>
+<P>
+78. A method of making a biaxially stretchable semiconductor membrane comprising: a) providing a semiconductor nanomembrane material on a substrate, wherein the thickness of the material is between about 40 nm and 600 nm; b) providing an elastomeric substrate; c) activating one surface of the elastomeric substrate; d) applying a biaxial strain to the elastomehc substrate thereby stretching the elastomeric substrate in two directions; e) contacting the activated and stretched elastomeric substrate with the semiconductor material on substrate; f) peeling the elastomeric substrate off the substrate supporting the semiconductor, thereby transferring the semiconductor nanomembrane to the elastomeric substrate; and g) releasing the biaxial strain on the elastomeric substrate, thereby generating a nanomembrane having a two-dimensional wavy structure.
+</P>
+<P>
+79. The method of claim 78, wherein the biaxial strain is generated by heating the elastomeric substrate.
+</P>
+<P>
+80. The method of claim 78, wherein the elastomeric substrate comprises poly(dimethylsiloxane) and the activating step is by exposing the elastomeric substrate to electromagnetic radiation having a wavelength between 240 nm and 260 nm in an ozone-containing environment.
+</P>
+<P>
+81. A method for making a device, said method comprising the steps of: providing a substrate pre-patterned with one or more device components supported by a receiving surface of the substrate; and
+</P>
+<P>
+assembling a plurality of printable semiconductor elements on said substrate by contact printing said printable semiconductor elements onto said receiving surface of the substrate or one or more structures provided thereon, wherein at least a portion of said printable semiconductor elements are positioned such that they are spatially aligned, in electrical contact or both with one or more of said device components supported by said substrate.
+</P>
+<P>
+82. The method of claim 81 wherein said printable semiconductor elements each comprise a unitary inorganic semiconductor structure having a length selected from the range of about 100 nanometers to about 1000 microns, a width selected from the range of about 100 nanometers to about 1000 microns, and a thickness selected from the range of about 10 nanometers to about 1000 microns.
+</P>
+<P>
+83. The method of claim 81 wherein at least a portion of said printable semiconductor elements comprise heterogeneous semiconductor elements.
+</P>
+<P>
+84. The method of claim 83 wherein said heterogeneous semiconductor elements comprise an inorganic semiconductor structure in combination with one or more structures comprising a material selected from the group consisting of: an inorganic semiconductor having a different composition than said inorganic semiconductor structure, an inorganic semiconductor having a different doping than said inorganic semiconductor structure, a carbon nanomatehal or film thereof, an organic semiconductor, a dielectric material, a conductor, a metal, a semiconductor, an insulator, a piezoelectric, a ferroelectric, a magnetostrictive material, an electrostrictive material, a superconductor, a ferromagnetic material, and a thermoelectric material.
+</P>
+<P>
+85. The method of claim 84 wherein said heterogeneous semiconductor elements comprise a combination of two different semiconductor materials selected from the group consisting of single crystal silicon, Si, Ge, SiC, AIP, AIAs, AISb, GaN, GaP, GaAs, GaSb, InP, InAs, GaSb, InP, InAs, InSb, ZnO, ZnSe, ZnTe, CdS, CdSe, ZnSe, ZnTe, CdS, CdSe, CdTe, HgS, PbS, PbSe, PbTe, AIGaAs, AIInAs, AIInP, GaAsP, GaInAs, GaInP, AIGaAsSb, AIGaInP, SiGe and GaInAsP.
+</P>
+<P>
+86. The method of claim 84 wherein at least a portion of said heterogeneous semiconductor elements comprise said inorganic semiconductor structure in combination with a dielectric material, a conductor or both a dielectric material and a conductor.
+</P>
+<P>
+87. The method of claim 83 wherein at least of portion of said heterogeneous semiconductor elements comprise one or more printable semiconductor devices selected from the group consisting of a diode, a transistor, a photovoltaic cell, a light emitting diode, a laser, a P-N junction, a thin film transistor, a high electron mobility transistor, a photodiode, a metal-oxide-semiconductor field-effect transistor, a metal-semiconductor field effect transistor, a photodetector, a logic gate device, and a vertical-cavity surface-emitting laser.
+</P>
+<P>
+88. The method of claim 87 wherein at least of portion of said printable semiconductor devices are assembled via contact printing such that they are provided in electrical contact with electrodes pre-patterned on said substrate.
+</P>
+<P>
+89. The method of claim 81 wherein said printable semiconductor elements comprise components of a device selected from the group consisting of an electronic device, an array of electronic devices, an optical device, an electro-optical device, a microfluidic device, a microelectromechanical system, a nanoelectromechanical system, a sensor, an integrated circuit, a microprocessor, and a memory device.
+</P>
+<P>
+90. The method of claim 81 further comprising the step of assembling additional printable semiconductor elements on said substrate by contact printing said additional printable semiconductor elements onto the semiconductor elements provided on said receiving surface of said substrate or onto one or more intermediate structures provided between said semiconductor elements provided on said receiving surface of said substrate and said additional printable semiconductor elements, thereby generating a multilayer device structure.
+</P>
+<P>
+91. The method of claim 90 wherein said multilayer device structure comprises a plurality of device layers separated by one or more interlayers; said device layers comprising printable semiconductor elements.
+</P>
+<P>
+92. The method of claim 91 wherein said device layers have thicknesses less than or equal to 1 micron and wherein said interlayers have thicknesses less than or equal to 1.5 microns.
+</P>
+<P>
+93. The method of claim 91 further comprising the step of establishing electrical contact between printable semiconductors provided in different device layers.
+</P>
+<P>
+94. The method of claim 90 further comprising the steps of: providing an interlayer on top of said printable semiconductor elements printed onto said receiving surface of said substrate or said one or more structures provided thereon; and
+</P>
+<P>
+assembling said additional printable semiconductor elements by contact printing said printable semiconductor elements onto a receiving surface of the interlayer.
+</P>
+<P>
+95. The method of claim 94 wherein at least a portion of said additional printable semiconductor elements provided on said receiving surface of said interlayer are positioned such that they are spatially aligned, in electrical contact or both with said printable semiconductor elements provided on the receiving surface of said substrate.
+</P>
+<P>
+96. The method of claim 94 further comprising the steps of: patterning one or more openings in said interlayer, thereby exposing regions of one or more of said printable semiconductor elements provided on said receiving surface of said substrate or said one or more structures provided thereon; and
+</P>
+<P>
+establishing electrical contact through said openings in said interlayer between printable semiconductor elements provided on said receiving surface of said substrate or said one or more structures provided thereon and said semiconductor elements provided on said receiving surface of said interlayer.
+</P>
+<P>
+97. The method of claim 81 further comprising the step of providing an adhesive layer on said receiving surface, wherein said printable semiconductor elements are printed onto said adhesive layer.
+</P>
+<P>
+98. The method of claim 81 further comprising the step of providing an encapsulating layer or planarizing layer on said printable semiconductor elements printed onto said receiving surface of said substrate or said one or more structures provided thereon.
+</P>
+<P>
+99. The method of claim 81 further comprising the step of patterning said receiving surface of said substrate or one or more printable semiconductor elements printed onto said receiving surface of said substrate or said one or more structures provided thereon with one or more thin films of conducting material via a deposition method.
+</P>
+<P>
+100. The system of claim 81 wherein said substrate is selected from the group consisting of a flexible substrate; a stretchable substrate; a rigid substrate; and a contoured substrate.
+</P>
+<P>
+101. A device made by the method of claim 81.
+</P>
+<P>
+102. The device of claim 101 selected from the group consisting of: an electronic device, an array of electronic device, an optical device, an electro-optical device, a microti iridic device, a microelectromechanical system, a nanoelectromechanical system, a sensor, an integrated circuit, a microprocessor, and a memory device.
+</P>
+<P>
+103. A method for making a multilayer device structure, said method comprising the steps of: providing a substrate pre-patterned with one or more device components supported by a receiving surface of the substrate;
+</P>
+<P>
+assembling a first set of printable semiconductor elements on said substrate by contact printing said printable semiconductor elements onto said receiving surface of the substrate or one or more structures provided thereon, thereby generating a first device layer;
+</P>
+<P>
+providing an interlayer on said first set of printable semiconductor elements, said interlayer having a receiving surface; and
+</P>
+<P>
+assembling a second set of printable semiconductor elements on said interlayer by contact printing said printable semiconductor elements onto said receiving surface of the interlayer or one or more structures provided thereon, thereby generating a second device layer.
+</P>
+<P>
+104. The method of claim 103 wherein at least a portion of said printable semiconductor elements in said first device layer are spatially aligned, in electrical contact or both with at least a portion of said printable semiconductor elements in said second device layer
+</P>
+<P>
+105. The method of claim 103 further comprising the step of establishing electrical contact between at least a portion of said printable semiconductor elements in said first device layer and at least a portion of said printable semiconductor elements in said second device layer.
+</P>
+<P>
+106. A multilayer device structure made by the method of claim 103.
+</P>
+<P>
+107. The device of claim 106 selected from the group consisting of: an electronic device, an array of electronic device, an optical device, an electro-optical device, a microti iridic device, a microelectromechanical system, a nanoelectromechanical system, a sensor, an integrated circuit, a microprocessor, and a memory device.
+</P>
+<P>
+108. A two-dimensional stretchable and bendable device comprising:
+</P>
+<P>
+a. a substrate having a contact surface;
+</P>
+<P>
+b. a component bonded to at least a portion of said substrate contact surface, wherein said component has at least one relief feature region and at least one substantially flat region; wherein said relief feature region has a portion that is separated from said substrate, and said substantially flat region is at least partially bonded to said substrate.
+</P>
+<P>
+109. The device of claim 108, wherein said at least one relief feature region has a two- dimensional pattern of relief features on said substrate.
+</P>
+<P>
+110. The device of claim 109, wherein said relief feature regions are wavy having a plurality of contact regions in contact with said substrate contact surface.
+</P>
+<P>
+111. The device of claim 108, wherein said substantially flat region or a portion of said relief feature region corresponds to active substrate regions.
+</P>
+<P>
+112. The device of claim 111 , wherein said active substrate regions correspond to: a. a pattern of adhesive sites on said substrate contact surface or said component; b. a selected pattern of substrate or component physical parameters, said parameter selected from one or more of: i. substrate or component thickness having a spatial thickness variation; ii. substrate or component modulus having a spatial modulus variation; iii. substrate or component temperature having a spatial temperature variation; iv. substrate or component composition; having a spatial composition variation; c. chemical modification of said substrate surface; and d. regions adjacent to free edges of said component on said substrate contact surface.
+</P>
+<P>
+113. The device of claim 108, wherein said component is selected from the group consisting of one or more of: a metal, a semiconductor, an insulator, a piezoelectric, a ferroelectric, a magnetostrictive material, an electrosthctive material, a superconductor, a ferromagnetic material, and a thermoelectric material.
+</P>
+<P>
+114. The device of claim 108 selected from the group consisting of an electronic device, an optical device, an opto-electronic device, mechanical device, a microfluidic device, a microelectromechanical system, a nanoelectromechanical system, and a thermal device.
+</P>
+<P>
+115. The device of claim 108, wherein said substantially flat region comprises an island for receiving a device component.
+</P>
+<P>
+116. The device of claim 115, wherein said relief feature region comprises an interconnect that electrically connects at least two islands.
+</P>
+<P>
+117. The device of claim 108 wherein said substrate contact surface is substantially flat.
+</P>
+<P>
+118. The device of claim 108, wherein said substrate contact surface has one or more relief features.
+</P>
+<P>
+119. The device of claim 118, wherein said substrate contact surface has a portion that is curved or wavy.
+</P>
+<P>
+120. The device of claim 108, wherein said substrate comprises an elastomeric material.
+</P>
+</Claims>
+<Also_published_as>
+EP2064710A4;WO2008030960A2;WO2008030960A3;TW200836353A;KR20090086199A;JP2010503238A;CN101681695A
+</Also_published_as>
+</BiblioData>

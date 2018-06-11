@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SYSTEM MANAGING GAS FLOW BETWEEN CHAMBERS OF AN EXTREME ULTRAVIOLET (EUV) PHOTOLITHOGRAPHY APPARATUS
+</Title>
+<PublicationNumber>
+EP2181449A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BYKANOV ALEXANDER N [US]
+</Name>
+<Name>
+BRANDT DAVID C [US]
+</Name>
+<Name>
+FOMENKOV IGOR C [US]
+</Name>
+<Name>
+PARTLO WILLIAM N [US]
+</Name>
+<Name>
+BYKANOV, ALEXANDER, N
+</Name>
+<Name>
+BRANDT, DAVID, C
+</Name>
+<Name>
+FOMENKOV, IGOR, C
+</Name>
+<Name>
+PARTLO, WILLIAM, N
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CYMER INC [US]
+</Name>
+<Name>
+CYMER, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2181449
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080795348
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-08-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US09755
+</PriorityNumber>
+<PriorityDate>
+2008-08-15
+</PriorityDate>
+<PriorityNumber>
+US20070897644
+</PriorityNumber>
+<PriorityDate>
+2007-08-31
+</PriorityDate>
+<PriorityNumber>
+US20070002073
+</PriorityNumber>
+<PriorityDate>
+2007-12-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G21G4/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70B6
+</Class>
+<Class>
+G03F7/70P2
+</Class>
+<Class>
+G03F7/70P2H
+</Class>
+<Class>
+G03F7/70P6D
+</Class>
+<Class>
+G03F7/70P8
+</Class>
+<Class>
+G03F7/70P8B
+</Class>
+</NCL>
+<Abstract>
+A gas flow management system may comprise a first and second enclosing walls at least partially surrounding first and second respective spaces;  a system generating plasma in the first space, the plasma emitting extreme ultraviolet light;  an elongated body restricting flow from the first space to the second space, the body at least partially surrounding a passageway and having a first open end allowing EUV light to enter the passageway from the first space and a second open end allowing EUV light to exit the passageway into the second space, the body shaped to establish a location having a reduced cross-sectional area relative to the first and second ends;  and a flow of gas exiting an aperture, the aperture positioned to introduce gas into the passageway at a position between the first end of the body and the location having a reduced cross-sectional area.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A flow management system for an extreme ultraviolet lithography apparatus, the system comprising: a first enclosing wall at least partially surrounding a first space; a system generating plasma in said first space, the plasma emitting extreme ultraviolet light; a second enclosing wall at least partially surrounding a second space; an elongated body restricting flow from the first space to the second space, the body at least partially surrounding a passageway and having a first open end allowing EUV light to enter the passageway from the first space and a second open end allowing EUV light to exit the passageway into the second space, the body having a shape establishing a location having a reduced cross-sectional area relative to the first and second ends; and a flow of gas exiting an aperture, the aperture positioned to introduce gas into the passageway at a position between the first end of the body and the location having a reduced cross-sectional area.
+</P>
+<P>
+2. A system as recited in claim 1 further comprising a source for generating an electromagnetic field in said passageway to produce a plasma therein.
+</P>
+<P>
+3. A system as recited in claim 2 further comprising a pair of electrodes for establishing an electric field in the second space to deflect charged particles.
+</P>
+<P>
+4. A system as recited in claim 2 wherein said source comprises a radio- frequency coil for creating an inductively coupled discharge plasma in said passageway. 5. A system as recited in claim 2 wherein said source produces a direct current electrode discharge in said passageway.
+</P>
+<P>
+6. A system as recited in claim 5 wherein said electrode discharge is a glow discharge.
+</P>
+<P>
+7. A system as recited in claim 5 wherein said electrode discharge is a corona discharge.
+</P>
+<P>
+8. A system as recited in claim 2 wherein said source produces a radio- frequency electrode discharge in said passageway.
+</P>
+<P>
+9. A system as recited in claim 8 wherein said electrode discharge is a glow discharge.
+</P>
+<P>
+10. A system as recited in claim 8 wherein said electrode discharge is a corona discharge.
+</P>
+<P>
+11. A system as recited in claim 1 wherein the aperture comprises a hole formed in the elongated body.
+</P>
+<P>
+12. A system as recited in claim 1 further comprising a temperature control system maintaining the temperature of the elongated body within a predetermined range.
+</P>
+<P>
+13. A system as recited in claim 1 further comprising at least one vane disposed in the passageway of the elongated body.
+</P>
+<P>
+14. A system as recited in claim 1 wherein the system comprises a plurality of apertures, each aperture positioned to introduce gas into the passageway at a respective position between the first end of the body and the location having reduced cross-sectional area. 15. A system as recited in claim 1 wherein the system comprises a nozzle directing flow from the aperture toward the first end of the elongated body.
+</P>
+<P>
+16. An extreme ultraviolet lithography apparatus comprising: a first chamber having gas disposed therein; a second chamber having gas disposed therein; an intermediary chamber in fluid communication with the second chamber; an elongated body restricting flow from the first chamber to the intermediary chamber, the body at least partially surrounding a passageway and having a first open end allowing EUV light to enter the passageway and a second open end allowing EUV light to exit the passageway; a flow of gas exiting an aperture, the aperture positioned to introduce gas into the passageway at a location between the first end and the second end of the body; and a pump removing gas from the intermediary chamber.
+</P>
+<P>
+17. An extreme ultraviolet lithography apparatus as recited in claim 16 wherein the pump cooperates with the flow of gas exiting the aperture and the operational pressures within the first and second chambers to establish a gas flow directed from the second chamber into the intermediary chamber and a gas flow from the aperture through the first open end of the elongated body and into the first chamber.
+</P>
+<P>
+18. An apparatus comprising: a first enclosing structure surrounding a first volume; a system generating a plasma at a plasma site in the first volume, the plasma producing EUV radiation and ions exiting the plasma; an optic positioned in the first volume and distanced from the site by a distance, d; a gas disposed between the plasma site and optic, the gas establishing a gas number density sufficient to operate over the distance, d, to reduce ion energy below 10OeV before the ions reach the optic; and a second enclosing structure surrounding a second volume, a system coupling the second volume to the first volume to allow EUV radiation to pass from the first volume to the second volume and operable to establish a gas flow directed from the second volume into the system and a gas flow from the system into the first volume.
+</P>
+<P>
+19. An apparatus as recited in claim 18 wherein a gas is disposed in the first volume at a pressure P1 and a gas is disposed in the second volume at a pressure P2, with Pi &amp;gt; P2.
+</P>
+<P>
+20. An apparatus as recited in claim 18 wherein the system comprises: an intermediary chamber in fluid communication with the second volume; an elongated body restricting flow from the first volume to the intermediary chamber, the body at least partially surrounding a passageway and having a first open end allowing EUV light to enter the passageway and a second open end allowing EUV light to exit the passageway; a flow of gas exiting an aperture, the aperture positioned to introduce gas into the passageway at a position between the first end and the second end of the body; and a pump removing gas from the intermediary chamber.
+</P>
+<P>
+21. An apparatus as recited in claim 18 further comprising a multichannel structure disposed in said first volume.
+</P>
+</Claims>
+<Also_published_as>
+EP2181449A4;WO2009032055A1;TW200915015A;KR20100057037A;JP2010538456A;CN101790763A
+</Also_published_as>
+</BiblioData>

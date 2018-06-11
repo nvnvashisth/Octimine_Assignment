@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC DETECTOR
+</Title>
+<PublicationNumber>
+EP2071348A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SASAKI YOSHITO [JP]
+</Name>
+<Name>
+KIKUIRI KATSUYA [JP]
+</Name>
+<Name>
+SATO KIYOSHI [JP]
+</Name>
+<Name>
+SASAKI, YOSHITO
+</Name>
+<Name>
+KIKUIRI, KATSUYA
+</Name>
+<Name>
+SATO, KIYOSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ALPS ELECTRIC CO LTD [JP]
+</Name>
+<Name>
+ALPS ELECTRIC CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2071348
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070713900
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP52102
+</PriorityNumber>
+<PriorityDate>
+2007-02-07
+</PriorityDate>
+<PriorityNumber>
+JP20060234389
+</PriorityNumber>
+<PriorityDate>
+2006-08-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/09
+</Class>
+<Class>
+H01L43/08
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+</NCL>
+<Abstract>
+[Object] To provide a magnetic detector capable of reducing a consumption current, as compared with those of existing magnetic detectors. [Solving Means] A second series circuit 34 is connected in parallel to a first series circuit 26 including a first magnetoresistance element 23. The second series circuit 34 is further connected in parallel to a third series circuit 30 including a second magnetoresistance element 27. The second series circuit 34 includes fixed resistance elements 31 and 32. The electric resistance of the fixed resistance elements 31 and 32 is made higher than that of each of the resistance element 23, a resistance element 24, the resistance element 27, and a resistance element 28 included in a sensor unit 21, thereby reducing a consumption current.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic detector comprising:
+</P>
+<P>
+a bridge circuit including a first series circuit connected to a second series circuit in parallel;wherein the first series circuit includes a plurality of resistance elements, and at least one of the resistance elements is a magnetoresistance element having an electric resistance that changes in accordance with an external magnetic field using a magnetoresistance effect, and wherein the second series circuit includes a plurality of resistance elements, and all of the resistance elements are fixed resistance elements having an electric resistance that does not change in accordance with an external magnetic field, and wherein an element resistance of the fixed resistance element included in the second series circuit is greater than an element resistance of the resistance elements included in the first series circuit.
+</P>
+<P>
+2. The magnetic detector according to Claim 1, further comprising:
+</P>
+<P>
+a sensor unit disposed on a substrate, the sensor unit including the first series circuit; and
+</P>
+<P>
+an integrated circuit disposed on the substrate, the integrated circuit being connected to the sensor unit, the integrated circuit outputting a magnetic field detection signal;wherein the second series circuit is incorporated in the integrated circuit.
+</P>
+<P>
+3. The magnetic detector according to Claim 1, further comprising:
+</P>
+<P>
+a third series circuit including a plurality of resistance elements;wherein the magnetoresistance element included in the first series circuit has an electric resistance that changes in accordance with variation in the magnitude of an external magnetic field in a certain direction using a magnetoresistance effect, and wherein at least one of the plurality of resistance elements included in the third series circuit is a magnetoresistance element having an electric resistance that changes in accordance with an external magnetic field in a direction opposite to the certain direction, and wherein the first series circuit is connected to the second series circuit in parallel so as to form the first bridge circuit that detects the external magnetic field in the certain direction, and the second series circuit is connected to the third series circuit in parallel so as to form a second bridge circuit that detects the external magnetic field in the direction opposite to the certain direction.
+</P>
+<P>
+4. The magnetic detector according to Claim 3, wherein the plurality of resistance elements included in the third series circuit are formed from the same material layers.
+</P>
+<P>
+5. The magnetic detector according to Claim 3 or 4, further comprising:
+</P>
+<P>
+a sensor unit disposed on a substrate, the sensor unit including the first series circuit and the third series circuit; and
+</P>
+<P>
+an integrated circuit disposed on the substrate, the integrated circuit being connected to the sensor unit, the integrated circuit outputting a magnetic field detection signal;wherein the second series circuit is incorporated in the integrated circuit.
+</P>
+<P>
+6. The magnetic detector according to Claim 2 or 5,
+</P>
+<P>
+wherein the integrated circuit is formed on the substrate, and the sensor unit is formed on the integrated circuit with an insulating layer therebetween.
+</P>
+<P>
+7. The magnetic detector according to any one of Claims 1 to 6, wherein the plurality of resistance elements included in the first series circuit are formed from the same material layers.
+</P>
+<P>
+8. The magnetic detector according to any one of Claims 1 to 7, wherein the plurality of fixed resistance elements included in the second series circuit are formed from the same material layers.
+</P>
+<P>
+9. The magnetic detector according to Claim 8, wherein the fixed resistance elements are formed of silicon (Si).
+</P>
+</Claims>
+<Also_published_as>
+US2008054895A1;KR20090045406A;WO2008026327A1;CN101512369A;CN101512369B
+</Also_published_as>
+</BiblioData>

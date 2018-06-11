@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SYNTHESIS OF ALLOYED NANOCRYSTALS IN AQUEOUS OR WATER- SOLUBLE SOLVENTS
+</Title>
+<PublicationNumber>
+EP1984543A2
+</PublicationNumber>
+<Inventor>
+<Name>
+YING JACKIE Y [SG]
+</Name>
+<Name>
+ZHENG YUANGANG [SG]
+</Name>
+<Name>
+YING, JACKIE, Y
+</Name>
+<Name>
+ZHENG, YUANGANG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+AGENCY SCIENCE TECH &amp; RES [SG]
+</Name>
+<Name>
+AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1984543
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060849667
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-01-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US02065
+</PriorityNumber>
+<PriorityDate>
+2006-01-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C30B29/60
+</Class>
+<Class>
+C30B7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09K11/54
+</Class>
+<Class>
+C09K11/88
+</Class>
+<Class>
+C09K11/88B2
+</Class>
+<Class>
+C30B29/48
+</Class>
+<Class>
+C30B7/14
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to nanocrystals and methods for making the same;  in particular, the invention relates to ternary or higher alloyed nanocrystals and methods for making such structures in aqueous or water-soluble solvents. In certain embodiments of the invention, methods of preparing ternary or higher alloyed nanocrystals involve providing at least first, second, and third nanocrystal precursors (e.g., NaHSe, ZnCl2, and CdCl2) and forming nanocrystal structures in an aqueous or water-soluble solvent. In some cases, nanocrystal precursor solutions may also include a water-soluble ligand (e.g., glutathione, GSH).;  As such, ternary or higher alloyed nanocrystals (e.g., ZnxCd)- xSe) comprising the at least first, second, and third nanocrystal precursors may be formed, and the water-soluble ligand may coat at least a portion of the surface of the ternary or higher alloyed nanocrystal. Advantageously, methods for forming nanocrystals described herein can be performed at low temperatures (e.g., less than 100 degrees Celsius), and, in some embodiments, do not require the use of organic solvents. The present inventors have applied these methods to prepare blue-emitting nanocrystals with emissions that are tunable between 400-500 nm, and with quantum yields of greater than 25% in aqueous solution.;  These nanocrystals may be highly water soluble and can be used in a variety of applications, including those involving cell culture, sensing applications, fluorescence resonance energy transfer, and in light-emitting devices.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method of preparing a ternary or higher alloyed nanocrystal, comprising: providing at least first and second nanocrystal precursors; forming a nanocrystal structure comprising the at least first and second nanocrystal precursors in an aqueous or water-soluble solvent; providing at least a third nanocrystal precursor and a water-soluble ligand; and forming a ternary or higher alloyed nanocrystal comprising the at least first, second, and third nanocrystal precursors in an aqueous or water-soluble solvent, wherein the ligand coats at least a portion of the surface of the ternary or higher alloyed nanocrystal.
+</P>
+<P>
+2. A method as in claim 1, wherein the ternary or higher alloyed nanocrystal is formed in an inert atmosphere.
+</P>
+<P>
+3. A method as in claim 1, wherein the ternary or higher alloyed nanocrystal is formed in water.
+</P>
+<P>
+4. A method as in claim 1, wherein the nanocrystal structure is formed at a temperature of less than or equal to 100 [deg.]C.
+</P>
+<P>
+5. A method as in claim 1, wherein the ternary or higher alloyed nanocrystal is formed at a temperature of less than or equal to 100 [deg.]C.
+</P>
+<P>
+6. A method as in claim 1, wherein the nanocrystal structure comprising the at least first and second nanocrystal precursors is formed in the presence of a water-soluble ligand.
+</P>
+<P>
+7. A method as in claim 1, wherein the ternary or higher alloyed nanocrystal is formed in the presence of a water-soluble ligand.
+</P>
+<P>
+8. A method as in claim 1, wherein the water-soluble ligand comprises an amine- terminating group.
+</P>
+<P>
+9. A method as in claim 1, wherein the water-soluble ligand comprises glutathione or a derivative thereof.
+</P>
+<P>
+10. A method as in claim 1 , wherein the ternary or higher alloyed nanocrystal has a cubic crystal structure.
+</P>
+<P>
+11. A method as in claim 1 , wherein the ternary or higher alloyed nanocrystal has a composition of ZnxCd1-xSe, HgxCdi.xTe, or PbxCdi-xTe.
+</P>
+<P>
+12. A method as in claim 1, wherein the ternary or higher alloyed nanocrystal is substantially homogeneous.
+</P>
+<P>
+13. A method as in claim 1 , wherein the ternary or higher alloyed nanocrystal and coating of the water-soluble ligand have a cross-sectional dimension of less than 6 nanometers.
+</P>
+<P>
+14. A method as in claim 1, wherein the coating of the water-soluble ligand on the ternary or higher alloyed nanocrystal has a thickness of less than or equal to 0.5 nm.
+</P>
+<P>
+15. A method as in claim 1 , wherein the ternary or higher alloyed nanocrystal emits electromagnetic radiation in the range between 400 and 500 nm.
+</P>
+<P>
+16. A method as in claim 1, wherein the ternary or higher alloyed nanocrystal emits electromagnetic radiation in the range between 600 and 800 nm.
+</P>
+<P>
+17. A method as in claim 15, wherein the emission of the ternary or higher alloyed nanocrystal has a bandwidth of less than 30 nm.
+</P>
+<P>
+18. A method as in claim 16, wherein the emission of the ternary or higher alloyed nanocrystal has a bandwidth of less than 50 nm.
+</P>
+<P>
+19. A method as in claim 1 , wherein the ternary or higher alloyed nanocrystal has a quantum yield of greater than 25% in aqueous solution.
+</P>
+<P>
+20. A method of preparing a ternary or higher alloyed nanocrystal, comprising: providing an aqueous or water-soluble nanocrystal precursor solution comprising a nanocrystal structure comprising at least first and second nanocrystal precursors; mixing the nanocrystal precursor solution and a nanocrystal precursor solution comprising at least a third nanocrystal precursor; and forming a ternary or higher alloyed nanocrystal comprising the at least first, second, and third nanocrystal precursors.
+</P>
+<P>
+21. A method of preparing a ternary or higher alloyed nanocrystal, comprising: providing an aqueous or water-soluble nanocrystal precursor solution comprising at least a first nanocrystal precursor; providing an aqueous or water-soluble nanocrystal precursor solution comprising at least a second nanocrystal precursor and a water-soluble ligand; mixing the first and second nanocrystal precursor solutions; forming a nanocrystal structure comprising the at least first and second nanocrystal precursors; mixing an aqueous or water-soluble nanocrystal precursor solution comprising the nanocrystal structure and an aqueous or water-soluble nanocrystal precursor solution comprising at least a third nanocrystal precursor and the water-soluble ligand; and forming a ternary or higher alloyed nanocrystal comprising the at least first, second, and third nanocrystal precursors, wherein the water-soluble, ligand coats at least a portion of the surface of the ternary or higher alloyed nanocrystal.
+</P>
+<P>
+22. A method of preparing a ternary or higher alloyed nanocrystal, comprising: providing at least first and second nanocrystal precursors; forming a nanocrystal structure comprising the at least first and second nanocrystal precursors at a temperature of less than or equal to 100 degrees Celsius; providing at least a third nanocrystal precursor; and forming a ternary or higher alloyed nanocrystal comprising the at least first, second, and third nanocrystal precursors at a temperature of less than or equal to 100 degrees Celsius, wherein the quantum yield of the ternary or higher alloyed nanocrystal is greater than or equal to 10% in aqueous solution.
+</P>
+<P>
+23. A method of preparing a nanocrystal, comprising: providing at least first and second nanocrystal precursors; forming a nanocrystal comprising the at least first and second nanocrystal precursors in an aqueous or water-soluble solvent, wherein the nanocrystal emits electromagnetic radiation in the range between 400 and 500 nanometers, and wherein the nanocrystal has a quantum yield of at least 10% in aqueous solution.
+</P>
+<P>
+24. A ternary or higher alloyed nanocrystal structure, comprising: a ternary or higher alloyed nanocrystal comprising at least first, second, and third nanocrystal precursors; and a coating of a water-soluble ligand on at least a portion of the ternary or higher alloyed nanocrystal surface, wherein the nanocrystal and coating form a ternary or higher alloyed nanocrystal structure having at least one cross-sectional dimension of less than 6 nanometers, and wherein the ternary or higher alloyed nanocrystal structure emits electromagnetic radiation in the range between 400 and 500 nanometers and has a quantum yield of at least 10% in aqueous solution.
+</P>
+<P>
+25. A ternary or higher alloyed nanocrystal structure, comprising: a ternary or higher alloyed nanocrystal comprising the reaction product of at least first, second, and third nanocrystal precursors; and a coating of less than or equal to 0.5 nm thickness of an amine-terminating, water-soluble ligand on at least a portion of the ternary or higher alloyed nanocrystal surface, wherein the nanocrystal and coating form a ternary or higher alloyed nanocrystal structure that emits electromagnetic radiation in the range between 400 and 500 nanometers and has a quantum yield of at least 10% in aqueous solution.
+</P>
+<P>
+26. A ternary or higher alloyed nanocrystal structure, comprising: a ternary or higher alloyed nanocrystal comprising at least first, second, and third nanocrystal precursors; and a coating comprising glutathione on at least a portion of the ternary or higher alloyed nanocrystal surface.
+</P>
+</Claims>
+<Also_published_as>
+WO2007102799A2;WO2007102799A3;US2009220792A1;JP2009527437A;CN101389790A
+</Also_published_as>
+</BiblioData>

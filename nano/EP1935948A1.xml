@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Surface treatment method for nanoparticles
+</Title>
+<PublicationNumber>
+EP1935948A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HAASE MARKUS [DE]
+</Name>
+<Name>
+HAASE, MARKUS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CT FUER ANGEWANDTE NANOTECHNOL [DE]
+</Name>
+<Name>
+CENTRUM FUER ANGEWANDTE NANOTECHNOLOGIE (CAN) GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1935948
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060026440
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20060026440
+</PriorityNumber>
+<PriorityDate>
+2006-12-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C09C1/36
+</Class>
+<Class>
+C09C3/00
+</Class>
+<Class>
+C09C3/06
+</Class>
+<Class>
+C09C3/08
+</Class>
+<Class>
+C09K11/02
+</Class>
+<Class>
+C09K11/77
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09C1/36D6B
+</Class>
+<Class>
+C09C1/36D8
+</Class>
+<Class>
+C09C1/36P
+</Class>
+<Class>
+C09C3/00P
+</Class>
+<Class>
+C09C3/06B
+</Class>
+<Class>
+C09C3/08
+</Class>
+<Class>
+C09K11/02
+</Class>
+<Class>
+C09K11/77S10
+</Class>
+<Class>
+C09K11/77S4B
+</Class>
+<Class>
+C09K11/77T10
+</Class>
+<Class>
+C09K11/77T8
+</Class>
+</NCL>
+<Abstract>
+A dispersibility improving surface treatment method for nanoparticles (I) (after synthesis, isolation and optionally washing) involves treatment with (a) nitrogen-containing organic base(s) and polybasic acid(s), (b) a salt of nitrogen-containing organic base(s) with polybasic acid(s) or (c) a betaine with nitrogen-containing organic basic group(s) and polybasic acid group(s). Independent claims are included for: (1) the surface treated nanoparticles obtained by the process;  and (2) nanoparticle dispersions comprising the treated nanoparticles and a solvent.
+</Abstract>
+<Claims>
+<P>
+1. Oberflächenbehandlungsverfahren zur Verbesserung der Dispersionsfähigkeit von Nanopartikeln, die nach dem Syntheseschritt isoliert wurden und gegebenenfalls nach der Isolierung einem oder mehreren Waschschritten unterzogen wurden, wobei das Verfahren eine Behandlung der Nanopartikel mit
+</P>
+<P>
+(i) einer oder mehreren organischen stickstoffhaltigen Base(n) und einer oder mehreren mehrwertigen Säure(n), oder
+</P>
+<P>
+(ii) einem Salz aus einer oder mehreren organischen stickstoffhaltigen Base(n) und einer oder mehreren mehrwertigen Säure(n), oder
+</P>
+<P>
+(iii) einem Betain, das innerhalb des Moleküls eine oder mehrere stickstoffhaltige basische Gruppe(n) und eine oder mehrere mehrwertige Säuregruppe(n) enthält, umfasst.
+</P>
+<P>
+2. Oberflächenbehandlungsverfahren gemäss Anspruch 1, worin bei der Behandlung mit (i) der Base und der Säure oder mit (ii) dem Salz hiervon oder (iii) dem Betain ein Lösungsmittel verwendet wird.
+</P>
+<P>
+3. Oberflächenbehandlungsverfahren gemäss Anspruch 1 oder 2, worin die Behandlungtemperatur im Bereich von 30 - 100 deg. C liegt.
+</P>
+<P>
+4. Oberflächenbehandlungsverfahren gemäss einem der Ansprüche 1 - 3, worin das molare Verhältnis von Base zu Säure (Base/Säure) im Fall (i) oder (ii) bzw. basische Gruppe/mehrwertige Säuregruppe im Fall (iii) im Bereich von 1 - 5 ist.
+</P>
+<P>
+5. Oberflächenbehandlungsverfahren gemäss einem der Ansprüche 1 - 4, worin das molare Verhältnis von Base zu Säure (Base/Säure) im Fall (i) oder (ii) bzw. basische Gruppe/mehrwertige Säuregruppe im Fall (iii) im Bereich von 1 - 2 ist.
+</P>
+<P>
+6. Oberflächenbehandlungsverfahren gemäss einem der Ansprüche 1 - 5, Fall (i) oder (ii), worin die stickstoffhaltige Base von 2 - 30 Kohlenstoffatomen enthält.
+</P>
+<P>
+7. Oberflächenbehandlungsverfahren gemäss Anspruch 6, Fall (i) oder (ii), worin die Base ein primäres, sekundäres oder tertiäres Amin gemäss den Formeln NH2R, NHRR&apos; bzw. NRR&apos;R&quot; ist, worin R, R&apos; und R&quot; organische Kohlenwasserstoffreste bezeichnen, die ggf. substituiert sein können und die jeweils von 3 - 14 Kohlenstoffatome enthalten.
+</P>
+<P>
+8. Oberflächenbehandlungsverfahren gemäss einem der Ansprüche 1 - 6, Fall (i) oder (ii), worin die Base eine aromatische stickstoffhaltige Base mit 3 - 30 Kohlenstoffatomen ist.
+</P>
+<P>
+9. Oberflächenbehandlungsverfahren gemäss einem der Ansprüche 1 - 6, Fall (i) oder (ii), worin die Base eine alicyclische stickstoffhaltige Base mit 2 - 30 Kohlenstoffatomen ist.
+</P>
+<P>
+10. Oberflächenbehandlungsverfahren gemäss einem der Ansprüche 1 - 9, worin die mehrwertige Säure im Fall (i) oder (ii) oder die mehrwertige Säuregruppe im Fall (iii) unter phosphor- und schwefelhaltigen Säuren bzw. Säuregruppen ausgewählt wird.
+</P>
+<P>
+11. Oberflächenbehandlungsverfahren gemäss Anspruch 10, Fall (i) oder (ii), worin die Säure unter Phosphorsäure, Di-Phosphorsäure, Poly-Phosphorsäuren, organischen Phosphonsäuren, organischen Di-Phosphonsäuren, organischen Poly-Phosphonsäuren, Phosphorsäuremonoester, Phosphonsäuremonoester mit mindestens zwei Phosphosäureestergruppen, Schwefelsäure, Schwefliger Säure, Sulfonsäure, Schwefelsäuremonoester mit mindestens zwei Schwefelsäuremonoestergruppen und Sulfonsäuremonoester mit mindestens zwei Sulfonsäuremonoestergruppen ausgewählt wird
+</P>
+<P>
+12. Oberflächenbehandlungsverfahren gemäss Anspruch 11 oder 10, Fall (i) oder (ii), worin die mehrwertige Säure eine oder mehrere organische Gruppe(n) enthält, die ggf. eine oder mehr Hydroxy-, Amin-, oder Carbonsäure- oder Cyanofunktion(en) enthält
+</P>
+<P>
+13. Oberflächenbehandlungsverfahren gemäss einem der Ansprüche 1 - 12, worin zumindest eine der verwendeten Base(n) im Fall (i) oder (ii) bzw. eine der vorhandenen stickstoffhaltigen basischen Gruppen im Fall (iii) eine Basizität besitzt, um von zumindest einer der verwendeten Säure(n) ein Proton zu abstrahieren (pKB (Base) pKS1 (Säure)).
+</P>
+<P>
+14. Oberflächenbehandlungsverfahren gemäss einem der Ansprüche 1 - 13, worin bei der Behandlung im Wesentlichen keine Metallionen vorhanden sind.
+</P>
+<P>
+15. Nanopartikel, erhältlich durch ein Oberflächenbehandlungsverfahren gemäss einem der Ansprüche 1 - 14.
+</P>
+<P>
+16. Nanopartikeldispersion, umfassend ein Lösungsmittel und Nanopartikel gemäss Anspruch 15.
+</P>
+<P>
+17. Verwendung von Nanopartikeln gemäss Anspruch 15 oder einer Nanopartikeldispersion gemäss Anspruch 16 bei der Herstellung von Tinten, einschliesslich Sicherheitsdrucktinten, bei der Oberflächenmodifizierung von metallischen oder nichtmetallischen Substraten, als phosphoreszierende oder fluoreszierende Materialien, als Markierung biologischer Moleküle, als Polymerfüllstoff oder als Röntgenkontrastmittel.
+</P>
+</Claims>
+<Also_published_as>
+EP1935948B1;US2010019204A1;RU2009123451A;JP2010513639A;WO2008074869A1;CN101617000A;AU2007336190A1;AT541902T
+</Also_published_as>
+</BiblioData>

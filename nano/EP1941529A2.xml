@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ELECTROSTATIC DEFLECTION SYSTEM WITH IMPEDANCE MATCHING FOR HIGH POSITIONING ACCURACY
+</Title>
+<PublicationNumber>
+EP1941529A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BULLER BENYAMIN [US]
+</Name>
+<Name>
+DEVORE WILLIAM J [US]
+</Name>
+<Name>
+FROSIEN JUERGEN [DE]
+</Name>
+<Name>
+MIRRO EUGENE JR [US]
+</Name>
+<Name>
+PEARCE-PERCY HENRY [US]
+</Name>
+<Name>
+WINKLER DIETER [DE]
+</Name>
+<Name>
+BULLER, BENYAMIN
+</Name>
+<Name>
+DEVORE, WILLIAM J
+</Name>
+<Name>
+FROSIEN, JUERGEN
+</Name>
+<Name>
+MIRRO, EUGENE, JR
+</Name>
+<Name>
+PEARCE-PERCY, HENRY
+</Name>
+<Name>
+WINKLER, DIETER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+APPLIED MATERIALS INC [US]
+</Name>
+<Name>
+APPLIED MATERIALS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1941529
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060815310
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US37218
+</PriorityNumber>
+<PriorityDate>
+2006-09-26
+</PriorityDate>
+<PriorityNumber>
+US20050241789
+</PriorityNumber>
+<PriorityDate>
+2005-09-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01J37/147
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01J37/04B
+</Class>
+<Class>
+H01J37/147
+</Class>
+<Class>
+H01J37/24
+</Class>
+<Class>
+H01J37/317B
+</Class>
+</NCL>
+<Abstract>
+An apparatus and method for deflecting electron beams with high precision and high throughput. At least one electrode of a deflecting capacitor is connected to a signal source via a coaxial cable. A termination resistor is further connected to the coaxial cable and the electrode at the joint of the coaxial cable and the electrode. The termination resistor has a resistance matched to the impedance of the coaxial cable and the electrode has an impedance matched to half of the impedance of the coaxial. The deflecting capacitors of the present invention have a minimized loss of precision due to eddy current. The spacing of electrodes in the deflecting capacitors is reduced by a factor of approximately two compared to the state-the-art system.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An apparatus for deflecting an electron beam, comprising:
+</P>
+<P>
+first and second opposing electrodes;
+</P>
+<P>
+a first signal source adapted to provide a first deflection signal;
+</P>
+<P>
+a first coaxial cable having a first impedance, wherein a first end of the first coaxial cable is electrically coupled to the first signal source and a second end of the first coaxial cable is electrically coupled to the first electrode; and
+</P>
+<P>
+a first termination component having an impedance matched to the first impedance, wherein a first end of the first termination component is electrically coupled to the second end of the first coaxial cable and a second end of the termination component is electrically coupled to a ground,
+</P>
+<P>
+wherein the first electrode having an impedance relative to the ground matched to approximately half of the first impedance.
+</P>
+<P>
+2. The apparatus of claim 1, wherein the second electrode is grounded.
+</P>
+<P>
+3. The apparatus of claim 1, further comprising:
+</P>
+<P>
+a second signal source adapted to provide a second deflection signal that is inverted relative to the first deflection signal;
+</P>
+<P>
+a second coaxial cable having the first impedance, wherein a first end of the second coaxial cable is electrically coupled to the second signal source and a second end of the second coaxial cable is electrically coupled to the second electrode; and
+</P>
+<P>
+a second termination component having an impedance matched to the first impedance, the second termination component having a first end electrically coupled to the second end of the first coaxial cable and having a second end electrically coupled to a ground,
+</P>
+<P>
+wherein an impedance between the first and second electrodes matches the first impedance.
+</P>
+<P>
+4. The apparatus of claim 1, wherein the first termination component comprising a return coaxial cable having the first impedance adapted to connect the first coaxial cable.
+</P>
+<P>
+5. The apparatus of claim 3, wherein:
+</P>
+<P>
+the first termination component comprises a return coaxial cable having the first impedance adapted to connect the first coaxial cable; and
+</P>
+<P>
+the second termination component comprises a return coaxial cable having the second impedance adapted to connect the second coaxial cable.
+</P>
+<P>
+6. The apparatus of claim 1, wherein the first impedance is approximately 50 Ohms.
+</P>
+<P>
+7. The apparatus of claim 3, wherein the first and second impedances are approximately 50 Ohms.
+</P>
+<P>
+8. An apparatus for deflecting an electron beam, comprising:
+</P>
+<P>
+at least a first circuit, the first circuit comprising:
+</P>
+<P>
+a signal source;
+</P>
+<P>
+a termination component; and
+</P>
+<P>
+a drive cable connecting the signal source and the termination,
+</P>
+<P>
+wherein the drive cable has a first impedance, the termination component is ground and has a resistance matched to the first impedance; and
+</P>
+<P>
+at least one pair of opposing electrodes adapted to deflect the electron beam,
+</P>
+<P>
+wherein one electrode in the at least one pair of electrodes is connected to a respective one of the at least one first circuit such that the electrode is connected to the signal source via the drive cable.
+</P>
+<P>
+9. The apparatus of claim 8, wherein the other electrode in the at least one pair of electrodes is grounded and the at least one pair of electrodes has an impedance matched to half one the first impedance.
+</P>
+<P>
+10. The apparatus of claim 8, further comprising
+</P>
+<P>
+at least a second circuit, the second circuit comprising:
+</P>
+<P>
+a signal source adapted to provide a signal inverted relative to the signal source of the first circuit;
+</P>
+<P>
+a termination component; and
+</P>
+<P>
+a drive cable connecting the signal source and the termination,
+</P>
+<P>
+wherein the drive cable has a second impedance, the termination component is grounded and has a resistance matched to the second impedance,
+</P>
+<P>
+wherein the other electrode in the at least one pair of electrodes is connected to a respective one of the at least one second circuit such that the electrode is connected to the signal source via the drive cable.
+</P>
+<P>
+11. The apparatus of claim 8, wherein:
+</P>
+<P>
+the termination component comprises a return cable having the first impedance; and
+</P>
+<P>
+the return cable is adapted to join the drive cable.
+</P>
+<P>
+12. The apparatus of claim 8, wherein the drive cable is a coaxial cable and the first impedance is 50 Ohms.
+</P>
+<P>
+13. The apparatus of claim 10, wherein the termination component of each first circuit comprises a return cable having the first impedance, the return cable is adapted to join the drive cable.
+</P>
+<P>
+14. The apparatus of claim 10, wherein:
+</P>
+<P>
+the drive cable of each first circuit is a coaxial cable;
+</P>
+<P>
+the first impedance is approximately 50 Ohms;
+</P>
+<P>
+the drive cable of each second circuit is a coaxial cable; and
+</P>
+<P>
+the second impedance is approximately 50 Ohms.
+</P>
+<P>
+15. The apparatus of claim 8, wherein the at least one pair of electrodes comprises at least one of a blanking deflector, a vector deflector and a shape deflector.
+</P>
+<P>
+16. The apparatus of claim 10, wherein the at least one pair of electrodes comprises at least one of a blanking deflector, a vector deflector and a shape deflector.
+</P>
+<P>
+17. A method for providing an electric signal to a deflection system having multiple electrodes, the method comprising:
+</P>
+<P>
+providing a first closed circuit, wherein a signal source, a coaxial cable and a termination component are connected in series;
+</P>
+<P>
+connecting one of the electrodes to the first closed circuit at one point, wherein the one point is a joint connection point of the coaxial cable and the termination component, wherein the electrode connected to the first closed circuit and the ground having an impedance matched to a parallel circuit of the coaxial cable and the termination component; and
+</P>
+<P>
+providing a first electric signal using the signal source in the first closed circuit.
+</P>
+<P>
+18. The method of claim 17, further comprising:
+</P>
+<P>
+grounding an electrode opposing the electrode connected to the first circuit.
+</P>
+<P>
+19. The method of claim 17, further comprising:
+</P>
+<P>
+providing a second closed circuit, wherein a signal source, a coaxial cable and a termination component are connected in series;
+</P>
+<P>
+connecting another electrode of the multiple electrode to the second closed circuit at one point, wherein the one point is a joint connection point of the coaxial cable and the termination component, and the electrodes connected to the second closed circuit is opposing to the electrode connected to the first closed circuit; and
+</P>
+<P>
+providing an inverted signal of the first signal using the signal source in the second closed circuit.
+</P>
+<P>
+20. The method of claim 17, further comprising providing a return coaxial cable in the termination component, wherein the return coaxial cable is adapted to connect the coaxial cable.
+</P>
+</Claims>
+<Also_published_as>
+US2007075256A1;US7227155B2;WO2007041057A2;WO2007041057A3;WO2007041057B1;KR20080056259A;KR100970520B1;JP2009510694A
+</Also_published_as>
+</BiblioData>

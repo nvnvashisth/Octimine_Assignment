@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MINIATURE ACCELERATION SENSOR
+</Title>
+<PublicationNumber>
+EP2052261A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BRUECKL HUBERT [AT]
+</Name>
+<Name>
+KAST MICHAEL [AT]
+</Name>
+<Name>
+BRUECKL, HUBERT
+</Name>
+<Name>
+KAST, MICHAEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ARC AUSTRIAN RES CTENTERS GMBH [AT]
+</Name>
+<Name>
+AUSTRIAN RESEARCH CENTERS GMBH-ARC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2052261
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070784609
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007AT00380
+</PriorityNumber>
+<PriorityDate>
+2007-08-06
+</PriorityDate>
+<PriorityNumber>
+AT20060001317
+</PriorityNumber>
+<PriorityDate>
+2006-08-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01P15/105
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01P15/105
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a miniature sensor for detecting acceleration and deceleration processes, which is characterized - in that it comprises at least one bar-like spring element which is formed by a nanowire (2), which is connected by one end (21) to the detector substrate (5) and projects from the latter and which preferably carries at it free end (22) a coating (3&apos;) emitting a permanent magnetic stray field (ms), or a nanoparticle (3) of this type, wherein the nanowire and magnetic stray field coating, or mass, together form the inertial mass, and - in that a magnetic field detection layer (4), e.g.;  composed of magnetoresistive material, is arranged at least in the region near the connected end (21) of the nanowire (2), - wherein the substrate is preferably provided with such a layer which preferably, for its part, as sensor component forms a constituent part of a magnetic field detection unit (7).
+</Abstract>
+<Claims>
+<P>
+Patentansprüche:
+</P>
+<P>
+1. Miniatur-Sensor zur Erfassung und Ermittlung von Beschleunigungsund Verzögerungsvorgängen von Massen, Objekten od. dgl., wobei derselbe zumindest eine auf einem Federelement angeordnete, ein Feld aussendende, träge Masse, zumindest einen auf Feldstärkeänderungen sensiblen Detektor sowie eine Indikationseinheit umfasst und mit der Masse, dem Objekt od. dgl. mitbewegbar ist, dadurch gekennzeichnet,
+</P>
+<P>
+- dass der Miniatur-Sensor (1) mindestens ein im Wesentlichen stabartiges, insbesondere durch Selbstorganisation gebildetes Federelement umfasst, welches durch einen mit einem Ende (21) mit dem mit der Masse, dem Objekt od. dgl., mitbewegten DetektorSubstrat (5) verbundenen und demselben entragenden, Einkristall bzw. Nanodraht (2), aus einem elektroneutralen Material, gebildet ist, welcher zumindest in einem begrenzten Bereich entlang seiner Erstreckung (E), vorzugsweise an bzw. im Nahbereich von seinem freien Ende (22), eine ein permanentes, konstantes Streu-Magnetfeld (ms) aussendende - nur entlang der Oberfläche einer Kugel, deren Mittelpunkt sich jeweils am Ausgangspunkt bzw. am gebundenen Ende (21) des Einkristalls bzw. Nanodrahtes (2) befindet, bewegbare - Beschichtung (3&apos;), eine derartige Masse, ein derartiges Nanoteilchen (3) od. dgl. trägt, wobei Einkristall bzw. Nanodraht (2) und Streu-Magnetfeld-Beschichtung, bzw. - Masse (3&apos;, 3) gemeinsam die träge Masse bilden, und
+</P>
+<P>
+- dass zumindest im Nahbereich des gebundenen Endes (21) des Einkristalls bzw. Nanodrahts (2) jeweils eine einzige durchgehende Magnetfeld-Detektionsschicht (4), insbesondere eine einzige derartige Schicht (4) aus einem magnetoresistiven Material, angeordnet ist, - dass jedoch bevorzugter Weise, das mitbewegte Substrat (5) mit einer solchen Schicht (4) versehen ist, welche bevorzugter Weise ihrerseits als Sensor-Komponente selbst einen Bestandteil, Bauteil od. dgl. einer Miniatur-Magnetfeld-Detektionseinheit (7) bildet.
+</P>
+<P>
+2. Miniatur-Sensor nach Anspruch 1, dadurch gekennzeichnet, dass der Einkristall bzw. Nanodraht (2) durch selbstorganisiertes Wachsen direkt aus dem Detektor-Substrat (5) gebildet ist.
+</P>
+<P>
+3. Miniatur-Sensor nach Anspruch 1 oder 2, dadurch gekennzeichnet, dass das magnetische Nanoteilchen (3) selbst den Keim für die Bildung bzw. für das Wachstum des Einkristalls bzw. Nanodrahts (2) bildet und mit dessen freiem Ende (22) vom Substrat (5) bzw. von dessen Magnetfeld-Detektionsschicht (4) hochgehoben ist.
+</P>
+<P>
+4. Miniatur-Sensor nach einem der Ansprüche 1 bis 3, dadurch gekennzeichnet, dass die magnetische Beschichtung (3&amp;lt;1&amp;gt;) am Nanodraht bzw. im Nahbereich von dessen freiem Ende (22) bzw. das dort angeordnete Nanoteilchen (3) mit bzw. aus einem paramagnetischen oder ferromagnetischen Material, vorzugsweise mit bzw. aus reinen Ferromagneten, wie Fe, Co, Ni, oder Oxiden der genannten Elemente, zum Beispiel Fe3O4 (Magnetit), gebildet ist.
+</P>
+<P>
+5. Miniatur-Sensor nach einem der Ansprüche 1 bis 4, dadurch gekennzeichnet, dass die Magnetfeld-Detektionsschicht (5) durch Dünnschichtsysteme, insbesondere durch Vielfachschichten, die einen Riesenmagnetowiderstand, RMR, wie z.B. Cu/NiFeSystem oder Tunnelmagnetowiderstand, TMR aufweisen, gebildet ist.
+</P>
+<P>
+6. Miniatur-Sensor nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass der Einkristall bzw. Nanodraht (2) durch Emporwachsen auf dem Detektor-Substrat (5) unterhalb eines dort angeordneten Keimteilchens, vorzugsweise Nanoteilchens (3) aus einem magnetischen Material (3), in einer das Einkristallbzw. Nanodrahtmaterial enthaltenden Gasoder Flüssigphase gebildet ist.
+</P>
+<P>
+7. Miniatur-Sensor nach einem der Ansprüche 1 bis 6, dadurch gekennzeichnet, dass das magnetische Nanoteilchen (3) durch chemische Bindung an den Einkristall bzw. Nanodraht (2), insbesondere an dessen freies Ende (22), gebunden ist.
+</P>
+<P>
+8. Miniatur-Sensor nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass die magnetische Beschichtung (3&amp;lt;1&amp;gt;) des Einkristalls bzw. Nanodrahts (2) mittels eines Aufdampfoder Lithografieprozesses auf denselben aufgebracht ist.
+</P>
+<P>
+9. Miniatur-Sensor nach einem der Ansprüche 1 bis 8, dadurch gekennzeichnet, dass der Einkristall bzw. Nanodraht (2) mit bzw. aus Silizium oder Galliumarsenid oder selbst aus einem magnetischen Material gebildet ist.
+</P>
+<P>
+10. Miniatur-Sensor nach einem der Ansprüche 1 bis 9, dadurch gekennzeichnet, dass die Magnetfeld-Detektionsschicht (4) auf dem Detektor-Substrat (5) ohne oder mit Abstand (a) rund um den von demselben aufragenden Einkristall bzw. Nanodraht (2) aufgebracht ist, oder aber dass derselbe am Rand der genannten Schicht (4) angeordnet ist.
+</P>
+<P>
+11. Miniatur-Sensor nach einem der Ansprüche 1 bis 10, dadurch gekennzeichnet, dass der, gegebenenfalls gekrümmt ausgebildete, Einkristall bzw. Nanodraht (2) in einem von 90[deg.] verschiedenen Winkel ([alpha]) zur Oberfläche des Detektor-Substrats (5) bzw. zu dessen Magnetfeld-Detektionsschicht (4) angeordnet ist.
+</P>
+<P>
+12. Miniatur-Sensor nach einem der Ansprüche 1 bis 11 , dadurch gekennzeichnet, dass das Detektor-Substrat (5) mit einer Mehrzahl von, insbesondere zueinander parallel verlaufenden, Furchen, Tälern (51) od. dgl. ausgebildet ist, deren einer Flanke (52) der Einkristall bzw. Nanodraht (2) entragt und deren andere Flanke (53) jeweils die Magnetfeld-Detektionsschicht (4) trägt (Fig.3a).
+</P>
+<P>
+13. Miniatur-Sensor nach einem der Ansprüche 1 bis 11 , dadurch gekennzeichnet, dass er eine Mehrzahl von, gegebenenfalls in einer regelmässigen Rasterordnung, dem Detektor-Substrat (5) bzw. der Magnetfeld-Detektionsschicht (4) im, gegebenenfalls rechten, Winkel ([alpha]) zu dessen bzw. deren Oberfläche zueinander parallel ausgerichtet entragenden Einkristallen bzw. Nanodrähten (2) aufweist. (Fig.3b)
+</P>
+<P>
+14. Miniatur-Sensor nach einem der Ansprüche 1 bis 13, dadurch gekennzeichnet, dass das Detektor-Substrat (5) eine Mehrzahl von, bevorzugt in einem Raster angeordneten, mit der Magnetfeld-Detektionsschicht (4) versehenen Erhebungen (55), Hügeln, Noppen od. dgl. aufweist, von deren höchsten Punkten bzw. Gipfeln (551) und von deren Flanken (552, 553) jeweils bevorzugt im Wesentlichen senkrecht zur dortigen Oberfläche die Einkristalle bzw. Nanodrähte (2) mit der magnetischen Beschichtung (3&amp;lt;1&amp;gt;) bzw. mit den magnetischen Nanoteilchen (3) wegragen.
+</P>
+</Claims>
+<Also_published_as>
+WO2008017090A2;US2010132465A1;US8104345B2;CN101501504A;CN101501504B;AT503995A1;AT503995B1
+</Also_published_as>
+</BiblioData>

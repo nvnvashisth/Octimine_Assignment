@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR MAKING A REFLECTION LITHOGRAPHIC MASK AND MASK OBTAINED BY SAID METHOD
+</Title>
+<PublicationNumber>
+EP1960836A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHARPIN-NICOLLE CHRISTELLE [FR]
+</Name>
+<Name>
+CHARPIN-NICOLLE, CHRISTELLE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1960836
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060830336
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006EP69272
+</PriorityNumber>
+<PriorityDate>
+2006-12-04
+</PriorityDate>
+<PriorityNumber>
+FR20050012611
+</PriorityNumber>
+<PriorityDate>
+2005-12-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F1/10
+</Class>
+<Class>
+G03F1/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F1/22
+</Class>
+<Class>
+G03F1/24
+</Class>
+<Class>
+G03F1/56
+</Class>
+</NCL>
+<Abstract>
+L&apos;invention concerne un procédé de fabrication d&apos;un masque de photolithographie en extrême ultraviolet, fonctionnant en réflexion, comportant un substrat (40), une structure de miroir (42) déposée uniformément sur le substrat, et un élément absorbant (50) formant un motif déposé sur la structure de miroir, caractérisé en ce que l&apos;élément absorbant est obtenu par insolation puis développement d&apos;une couche de résine organométallique déposée sur la structure du miroir.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Procédé de fabrication d&apos;un masque de photolithographie en extrême ultraviolet, fonctionnant en réflexion, dans lequel on dépose, sur un substrat (40) revêtu d&apos;une structure (42) réfléchissante pour la longueur d&apos;onde d&apos;utilisation du masque, une couche (46) contenant un métal ayant un fort coefficient d&apos;absorption pour cette longueur d&apos;onde, et on grave cette couche absorbante selon un motif désiré, pour définir un motif de zones (50) qui sont absorbantes à la longueur d&apos;onde d&apos;utilisation du masque, caractérisé en ce que la couche déposée est une couche de composé organométallique sensible à un bombardement et contenant le métal ayant un fort coefficient d&apos;absorption, et en ce que les zones absorbantes sont constituées par ce composé organométallique polymérisé après insolation sélective de la couche dans ces zones.
+</P>
+<P>
+2. Procédé selon la revendication 1, caractérisé en ce que 20 l&apos;insolation sélective est effectuée par un bombardement photonique, électronique ou ionique.
+</P>
+<P>
+3. Procédé selon la revendication 1, caractérisé en ce que le métal est choisi parmi les métaux suivants : le platine, le palladium, l&apos;yttrium, 25 l&apos;hafnium, le zirconium, le fer, mais aussi l&apos;aluminium, le titane, ou encore des mélanges de ces différents métaux.
+</P>
+<P>
+4. Procédé selon l&apos;une des revendications 1 à 3, caractérisé en ce que le composé organométallique est choisi parmi les acrylates 30 organométalliques, les méthacrylates organométalliques, les styrènes organométalliques, et leurs mélanges.
+</P>
+<P>
+5. Procédé selon l&apos;une des revendications 1 à 4, caractérisé en ce que le métal est en proportion de 10 à 90% dans la couche. 35
+</P>
+<P>
+6. Masque de photolithographie en extrême ultraviolet, fonctionnant en réflexion, comportant un substrat (40), une structure réfléchissante (42) déposée uniformément sur le substrat, et une couche (50) absorbante pour la longueur d&apos;onde d&apos;utilisation du masque, déposée au- dessus de la structure réfléchissante et gravée selon un motif de masquage désiré, ce masque étant caractérisé en ce que la couche absorbante est un polymère organométallique contenant un métal à forte absorption pour la longueur d&apos;onde d&apos;utilisation du masque.
+</P>
+<P>
+7. Masque de photolithographie selon la revendication 6, caractérisé en ce que le métal est choisi parmi les métaux suivants : platine, palladium, aluminium, titane, yttrium, hafnium, zirconium, fer ou plusieurs de ces métaux.
+</P>
+<P>
+8. Masque de photolithographie selon la revendication 7, caractérisé en ce que la résine organométallique comporte du métal dans une proportion de métal de 10 à 90% de la couche.
+</P>
+</Claims>
+<Also_published_as>
+FR2894691A1;US2009269678A1;US7923177B2;JP2009519594A;WO2007068617A1
+</Also_published_as>
+</BiblioData>

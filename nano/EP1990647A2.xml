@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Extraordinary magnetoresistive (EMR) device
+</Title>
+<PublicationNumber>
+EP1990647A2
+</PublicationNumber>
+<Inventor>
+<Name>
+DUDLEY BOONE THOMAS [US]
+</Name>
+<Name>
+FOLKS LIESL [US]
+</Name>
+<Name>
+GURNEY BRUCE ALVIN [US]
+</Name>
+<Name>
+KATINE JORDAN ASHER [US]
+</Name>
+<Name>
+MARINERO ERNESTO E [US]
+</Name>
+<Name>
+SMITH NEIL [US]
+</Name>
+<Name>
+DUDLEY BOONE, THOMAS
+</Name>
+<Name>
+FOLKS, LIESL
+</Name>
+<Name>
+GURNEY, BRUCE ALVIN
+</Name>
+<Name>
+KATINE, JORDAN ASHER
+</Name>
+<Name>
+MARINERO, ERNESTO E
+</Name>
+<Name>
+SMITH, NEIL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HITACHI GLOBAL STORAGE TECH [NL]
+</Name>
+<Name>
+HITACHI GLOBAL STORAGE TECHNOLOGIES B. V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1990647
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080003385
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20070747683
+</PriorityNumber>
+<PriorityDate>
+2007-05-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/09
+</Class>
+<Class>
+G11B5/39
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G01R33/09E
+</Class>
+<Class>
+G11B5/39C5
+</Class>
+<Class>
+G11B5/39C9
+</Class>
+<Class>
+G11C11/14
+</Class>
+</NCL>
+<Abstract>
+An extraordinary magnetoresistive sensor (EMR sensor) having reduced size and increased resolution is described. The sensor includes a plurality of electrically conductive leads contacting a magnetically active layer and also includes an electrically conductive shunt structure. The electrically conductive leads of the sensor and the shunt structure can be formed in a common photolithographic masking and etching process so that they are self aligned with one another. This avoids the need to align multiple photolithographic processing steps, thereby allowing greatly increased resolution and reduced lead spacing. The EMR sensor can be formed with a magnetically active layer that can be close to or at the air bearing surface (ABS) for improved magnetic spacing with an adjacent magnetic medium of a data recording system.
+</Abstract>
+<Claims>
+<P>
+1. An extraordinary magnetoresistive sensor (EMR sensor), comprising:
+</P>
+<P>
+a mesa structure including a semiconductor heterostructure that forms a magnetically active quantum well, the mesa structure having a side;
+</P>
+<P>
+a plurality of notches formed in the side of the mesa structure;
+</P>
+<P>
+a plurality of electrically conductive leads, each of the electrically conductive leads extending into one of the plurality of notches.
+</P>
+<P>
+2. An EMR sensor as in claim 1 wherein the heterostructure includes first, second and third semiconductor layers each having a bandgap, the second semiconductor layer being sandwiched between the first and third semiconductor layers and having a bandgap that is smaller than that of the first and third semiconductor layers.
+</P>
+<P>
+3. An EMR sensor as in claim 1 wherein the notches, leads and electrically conductive shunt structure are defined by a common photolithographic process.
+</P>
+<P>
+4. An EMR sensor as in claim 1 further comprising an electrically conductive shunt structure electrically connected with the semiconductor heterostructure.
+</P>
+<P>
+5. An extraordinary magnetoresistive sensor (EMR) sensor structure, comprising:
+</P>
+<P>
+a semiconductor heterostructure that forms a magnetically active quantum well;
+</P>
+<P>
+a thin electrically insulating layer formed over the semiconductor quantum structure, the thin electrically insulating layer being formed with a plurality of lead openings and a shunt opening; and
+</P>
+<P>
+a plurality of electrically conductive leads, each extending into one of the lead openings to contact the semiconductor heterostructure; and
+</P>
+<P>
+an electrically conductive shunt structure extending through the shunt opening to contact the semiconductor shunt structure.
+</P>
+<P>
+6. An EMR sensor structure as in claim 5 wherein the semiconductor shunt structure extends laterally beyond the leads and shunt structure.
+</P>
+<P>
+7. An EMR sensor structure as in claim 5 wherein the semiconductor heterostructure has not been formed with sides that define a mesa structure, and whereby the active portion of the EMR sensor is defined by the spacial relationship of the leads to one another and between the leads and the shunt structure.
+</P>
+<P>
+8. An EMR sensor structure as in claim 5 wherein the semiconductor heterostructure includes first, second and third semiconductor layers each having a bandgap, the second semiconductor layer being sandwiched between the first and third semiconductor layers, the bandgap of the second semiconductor layer being less than that of the first and third semiconductor layers.
+</P>
+<P>
+9. An extraordinary magnetoresistive sensor (EMR sensor), comprising:
+</P>
+<P>
+a substrate;
+</P>
+<P>
+a semi-conductor heterostructure formed over the substrate and including a magnetically active layer, wherein the magnetically active layer is disposed at the ABS.
+</P>
+<P>
+10. An extraordinary magnetoresistive sensor (EMR sensor) having an air bearing surface (ABS), the EMR sensor comprising:
+</P>
+<P>
+a substrate; and
+</P>
+<P>
+a semi-conductor heterostructure formed over the substrate and including a magnetically active layer, wherein the magnetically active layer is disposed within 1-50 nm of the ABS, preferably, the magnetically active layer is disposed within 1-30 nm of the ABS, more preferably, the magnetically active layer is disposed within 1-10 nm of the ABS.
+</P>
+<P>
+11. An EMR sensor as in claim 10 wherein the semi-conductor heterostructure comprises first, second and third semiconductor layers each having a bandgap; and wherein
+</P>
+<P>
+the second semiconductor layer is sandwiched between the first and second semiconductor layers;
+</P>
+<P>
+the bandgap of the second semiconductor layer is smaller than that of the first and third semiconductor layers and
+</P>
+<P>
+the third semiconductor layer is located adjacent to the ABS and has a thickness of 1-10nm.
+</P>
+<P>
+12. An EMR sensor as in claim 11, wherein the semiconductor structure consists of first and second semiconductor layers each having a bandgap, the second semiconductor layer being located adjacent to the ABS and having a bandgap that is smaller than that of the first semiconductor layer.
+</P>
+<P>
+13. An extraordinary magnetoresistive sensor (EMR sensor), comprising:
+</P>
+<P>
+a semi-conductor heterostructure including a magnetically active layer, wherein the magnetically active layer is disposed at the ABS; and
+</P>
+<P>
+a plurality of electrically conductive leads contacting the magnetically active layer.
+</P>
+<P>
+14. An extraordinary magnetoresistive sensor (EMR sensor) having an air bearing surface (ABS), the EMR sensor comprising:
+</P>
+<P>
+a semi-conductor heterostructure including a magnetically active layer, wherein the magnetically active layer is disposed within 1-10 nm of the ABS. and
+</P>
+<P>
+a plurality of electrically conductive leads contacting the magnetically active layer.
+</P>
+<P>
+15. An extraordinary magnetoresistive sensor (EMR sensor) having a surface, the EMR sensor comprising:
+</P>
+<P>
+a substrate; and
+</P>
+<P>
+a semi-conductor heterostructure formed over the substrate and including a magnetically active layer, wherein the magnetically active layer is disposed within 1-10 nm of the surface.
+</P>
+<P>
+16. An EMR sensor as in claim 15 wherein the sensor is incorporated into a scanning magnetometer.
+</P>
+<P>
+17. An EMR sensor as in any of the preceding claims, wherein the magnetically active layer is a 2 dimensional electron gas (2-DEG).
+</P>
+<P>
+18. A method for manufacturing an extraordinary magnetoresistive sensor (EMR sensor), comprising:
+</P>
+<P>
+providing a substrate;
+</P>
+<P>
+growing a semiconductor heterostructure on the substrate;
+</P>
+<P>
+forming a first mask structure over the heterostructure;
+</P>
+<P>
+performing a first material removal process to remove portions of the semiconductor heterostructure that are not protected by the first mask structure to form a mesa structure;
+</P>
+<P>
+removing the first mask structure;
+</P>
+<P>
+forming a second mask structure, the second mask structure having a plurality of lead defining openings and a shunt defining opening;
+</P>
+<P>
+performing a second material removal process to remove portions of the semiconductor heterostructure that are exposed through the lead defining openings and the shunt defining openings; and
+</P>
+<P>
+depositing an electrically conductive material.
+</P>
+<P>
+19. A method as in claim 18, wherein the first and second material removal processes comprise etching.
+</P>
+<P>
+20. A method as in claim 18, wherein the hetrostructure includes first second and third semi-conductor layers each having a bandgap, the second semiconductor layer being sandwiched between the first and third semiconductor layer and having a bandgap that is smaller than that of the first and third semiconductor layers.
+</P>
+<P>
+21. A method for manufacturing an extraordinary magnetoresistive (EMR) sensor, comprising:
+</P>
+<P>
+providing a substrate;
+</P>
+<P>
+growing a semiconductor heterostructure over the substrate;
+</P>
+<P>
+forming a mask structure over the semiconductor heterostructure, the mask structure having a plurality of lead defining openings, and a shunt defining opening;
+</P>
+<P>
+performing a material removal process to remove portions of the semiconductor heterostructure not protected by the mask structure; and
+</P>
+<P>
+depositing an electrically conductive material.
+</P>
+<P>
+22. A method as in claim 21 further comprising, after growing the semiconductor heterostructure and before forming the mask structure, depositing a thin layer of electrically insulating material over the semiconductor heterostructure.
+</P>
+<P>
+23. A method as in claim 22 further comprising, before forming the semiconductor heterostructure, depositing a selectively etchable buffer layer on the substrate; and
+</P>
+<P>
+after depositing the electrically insulating material, performing an etching process to remove at least a portion of the buffer layer to lift off the EMR sensor from the substrate.
+</P>
+<P>
+24. A method as in claim 18 wherein the lead defining openings overlap the mesa structure whereby the second material removal process forms notches in the mesa structure.
+</P>
+</Claims>
+<Also_published_as>
+US2011086440A1;US8166633B2;US2008278860A1;US7881020B2;CN101304071A;CN101304071B
+</Also_published_as>
+</BiblioData>

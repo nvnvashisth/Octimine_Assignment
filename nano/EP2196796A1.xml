@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Single molecule optical spectroscopy in solid- state nanopores in a transmission- based approach
+</Title>
+<PublicationNumber>
+EP2196796A1
+</PublicationNumber>
+<Inventor>
+<Name>
+VAN DORPE POL [BE]
+</Name>
+<Name>
+DE VLAMINCK IWIJN [NL]
+</Name>
+<Name>
+LAGAE LIESBET [BE]
+</Name>
+<Name>
+BORGHS GUSTAAF [BE]
+</Name>
+<Name>
+VAN DORPE, POL
+</Name>
+<Name>
+DE VLAMINCK, IWIJN
+</Name>
+<Name>
+LAGAE, LIESBET
+</Name>
+<Name>
+BORGHS, GUSTAAF
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IMEC [BE]
+</Name>
+<Name>
+UNIV LEUVEN KATH [BE]
+</Name>
+<Name>
+IMEC
+</Name>
+<Name>
+KATHOLIEKE UNIVERSITEIT LEUVEN
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2196796
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080171127
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-12-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20080171127
+</PriorityNumber>
+<PriorityDate>
+2008-12-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N21/64
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01N21/55B2N
+</Class>
+<Class>
+G01N21/64P8
+</Class>
+<Class>
+G01N21/65D
+</Class>
+</NCL>
+<Abstract>
+Methods and apparatus in the field of single molecule sensing are described, e.g. for molecular analysis of analytes such as molecular analytes, e.g. nucleic acids, proteins, polypeptides, peptides, lipids and polysaccharides. Molecular spectroscopy on a molecule translocating through a solid-state nanopore is described. Optical spectroscopic signals are enhanced by plasmonic field-confinement and antenna effects and probed in transmission by plasmon-enabled transmission of light through an optical channel that overlaps with the physical channel.
+</Abstract>
+<Claims>
+<P>
+1. An apparatus comprising:
+</P>
+<P>
+a membrane having a first and a second major surface and having a membrane penetrating nanostructure between the first and second major surfaces,
+</P>
+<P>
+a source of electromagnetic radiation that impinges radiation on the nanostructure in the direction of the first major surface,
+</P>
+<P>
+means for translocating molecules through the nanostructure,
+</P>
+<P>
+a detection unit for detecting electromagnetic radiation that exits from the nanostructure away from the second major surface, transmission of electromagnetic radiation through the nanostructure being at least by excitation of surface plasmon polaritons in the nanostructure.
+</P>
+<P>
+2. The apparatus according to claim 1, further comprising a first and second chamber and the membrane placed between the chambers.
+</P>
+<P>
+3. The apparatus of claim 2, wherein the means for translocating includes electrodes that may be placed in the first and second chambers and connected to a source of electrical power.
+</P>
+<P>
+4. The apparatus of claim 2 or 3, wherein the source of electromagnetic radiation is placed in or adjacent the first chamber and further comprising an optical detector placed in the second chamber or located next to the second chamber.
+</P>
+<P>
+5. The apparatus according to any of the above claims wherein the penetrating nanostructure is further equipped with a field confining structure that create an electromagnetic hotspot.
+</P>
+<P>
+6. The apparatus of claim 5, wherein the field confining structure comprises nanoparticle(s) or a restricting channel constriction.
+</P>
+<P>
+7. The apparatus of any of the above claims further comprising at least one antenna structure on the first major surface of the membrane to increase the portion of incident radiation that is collected and to achieve stronger field intensity in the penetrating nanostructure.
+</P>
+<P>
+8. The apparatus according to any previous claim further comprising at least one an antenna located on the second major surface to increase the portion of radiation that is converted into free-space propagating radiation and/or to shape the exit radiation beam.
+</P>
+<P>
+9. The apparatus according to any previous claim, wherein the penetrating nanostructure is a pore or hole, a slit or a channel.
+</P>
+<P>
+10. The apparatus according to claim 9, wherein the penetrating nanostructure is a nanopore, having a size with a critical dimension smaller than 100 nm and preferably smaller than 10 nm.
+</P>
+<P>
+11. The apparatus according to any previous claim, wherein the membrane is coated with metal on both first and second major surfaces or only on the first or second major surfaces.
+</P>
+<P>
+12. The apparatus according to any previous claim wherein electromagnetic radiation has a wavelength and the membrane penetrating nanostructure has a size that is sub-wavelength.
+</P>
+<P>
+13. A method for use with a membrane having a first and a second major surface and having a membrane penetrating nanostructure between the first and second major surfaces,
+</P>
+<P>
+the method comprising the steps of:
+</P>
+<P>
+directing electromagnetic radiation onto the nanostructure in the direction of the first major surface,
+</P>
+<P>
+translocating molecules through the nanostructure,
+</P>
+<P>
+detecting electromagnetic radiation that exits from the nanostructure away from the second major surface, transmission of electromagnetic radiation through the nanostructure being at least by excitation of surface plasmon polaritons in the nanostructure.
+</P>
+<P>
+14. The method of claim 13, wherein the transition of e.m. radiation through the penetrating nanostructure is carried out a combination of up to three effects: surface plasmons, transmission of light and re-emission.
+</P>
+<P>
+15. The method of claim 13 or 14, wherein the molecules are optical labeled.
+</P>
+</Claims>
+<Also_published_as>
+US2012057163A1;US2011249259A1;WO2010066795A2;WO2010066795A3;WO2010066794A1;EP2356431A2;EP2356430A1
+</Also_published_as>
+</BiblioData>

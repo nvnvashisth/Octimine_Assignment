@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SIGNAL ISOLATOR LINEAR RECEIVER
+</Title>
+<PublicationNumber>
+EP1971892A2
+</PublicationNumber>
+<Inventor>
+<Name>
+LANGE ERIK H [US]
+</Name>
+<Name>
+LANGE, ERIK, H
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NVE CORP [US]
+</Name>
+<Name>
+NVE CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1971892
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060845643
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US48085
+</PriorityNumber>
+<PriorityDate>
+2006-12-15
+</PriorityDate>
+<PriorityNumber>
+US20050751038P
+</PriorityNumber>
+<PriorityDate>
+2005-12-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/02
+</Class>
+<Class>
+G02B27/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R15/20C
+</Class>
+<Class>
+G01R33/09B
+</Class>
+</NCL>
+<Abstract>
+A signal isolator for providing at an output thereof representations of input currents from a source provided in an input conductor supported on a substrate having a bridge circuit suited for electrical connection to a source of electrical energization with a pair of series circuit members electrically connected in parallel with one another supported on a substrate with each series circuit member having a magnetoresistive member electrically connected in series with a current value controller, controlled at a controller terminal, at an output terminal of that controller. Each magnetoresistive members is electrically isolated from the input conductor and has a resistance versus applied external magnetic field characteristic that is substantially linear for at least relatively small externally applied magnetic fields.;  The signal isolator further has a differential input amplifier connected at its inputs to both the magnetoresistive member and the current value controller in a corresponding one of the bridge circuit series circuit members, and has outputs connected to the controller control terminals which can be made through a lowpass filter. A signal monitor arrangement can be provided to have a constant representation value on the isolator output if magnetoresistive members cease to be in those magnetic fields arising from the input currents for a selected time duration.
+</Abstract>
+<Claims>
+<P>
+1. A signal isolator for providing at an output thereof representations of input currents provided therein from a source of such currents, said signal isolator comprising:
+</P>
+<P>
+an input conductor suited for conducting said input currents therethrough and supported on a substrate;
+</P>
+<P>
+a bridge circuit suited for electrical connection to a source of electrical energization, said bridge circuit comprising a pair of series circuit members electrically connected in parallel with one another supported on a substrate with each series circuit member having a magnetoresistive member electrically connected in series with a current value controller at an output terminal thereof and which has also a control terminal at which magnitudes of currents present at said output terminal can be selected, said magnetoresistive members each being formed of magnetoresistive, anisotropic, ferromagnetic thin-film layers at least two of which are separated from one another by a nonmagnetic layer positioned therebetween to thereby have a resistance versus applied external magnetic field characteristic that is substantially linear for at least relatively small externally applied magnetic fields, and with at least one of said magnetoresistive members being adjacent to, yet spaced apart from, said input conductor to thereby be electrically isolated from any direct circuit interconnection therewith but positioned so that said magnetoresistive member is in those magnetic fields arising from said input currents; and
+</P>
+<P>
+a differential amplifier having a pair of inputs each electrically connected to both said magnetoresistive member and said current value controller at said output terminal thereof in a corresponding one of said bridge circuit series circuit members, and having a pair of outputs each electrically connected to a corresponding one of said current value controllers at said control terminal thereof.
+</P>
+<P>
+2. The apparatus of claim 1 wherein said substrate further comprises a monolithic integrated circuit structure containing electronic circuit components of which at least one is electrically connected to at least one of said bridge circuit and said differential amplifier.
+</P>
+<P>
+3. The apparatus of claim 1 further comprising said outputs of said differential amplifier being each electrically connected to a corresponding said current value controller in said pair of series circuit members at said control terminal thereof by a corresponding lowpass filter.
+</P>
+<P>
+4. The apparatus of claim 1 further comprising a signal monitor arrangement electrically connected to both said magnetoresistive member and said current value controller at said output terminal thereof in a corresponding one of said bridge circuit series circuit members, said signal monitor arrangement being capable of forcing said output of said signal isolator to have a constant representation value thereon if said magnetoresistive member ceases being in those magnetic fields arising theretofore from said input currents for a selected time duration.
+</P>
+<P>
+5. The apparatus of claim 3 further comprising an average current determiner common electrically connected to each of said current value controllers in said pair of series circuit members to select a magnitude of average electrical current provided by each.
+</P>
+<P>
+6. The apparatus of claim 4 wherein said signal monitor arrangement comprises a pair of comparators each having an input electrically connected to a said magnetoresistive member and said current value controller at said output terminal thereof in a corresponding one of said bridge circuit series circuit members, and each having an output electrically connected to a corresponding one of a pair of inputs of a bistable circuit with two alternative stable circuit states with each of said circuit states leading to a corresponding one of a pair of logic states being provided on an output thereof.
+</P>
+<P>
+7. The apparatus of claim 4 wherein said signal monitor arrangement comprises a pair of comparators each having an input electrically connected to a said magnetoresistive member and said current value controller at said output terminal thereof in a corresponding one of said bridge circuit series circuit members, and each having an output electrically connected to a corresponding one of a pair of inputs of a controlled capacitor discharge shunt electrically connected across a fail safe capacitor electrically connected in series with a controlled capacitor charging current source at an output thereof, said controlled capacitor discharge shunt being for discharging said fail safe capacitor after its being charged by said capacitor charging current source, said capacitor charging current source having a control terminal at which magnitudes of currents present at said output terminal can be selected with said control terminal electrically connected to both said fail safe capacitor and said output terminal of said capacitor charging current source.
+</P>
+<P>
+8. The apparatus of claim 6 wherein said pair of comparators also has said output thereof electrically connected to a corresponding one of a pair of inputs of a controlled capacitor discharge shunt electrically connected across a fail safe capacitor electrically connected in series with a controlled capacitor charging current source at an output thereof, said controlled capacitor discharge shunt for discharging said fail safe capacitor after its being charged by said capacitor charging current source, said fail safe capacitor and said output terminal of said capacitor charging current source both being electrically connected to a said input of said bistable circuit.
+</P>
+<P>
+9. The apparatus of claim 6 wherein said pair of comparators each has a selectable threshold value which signals at its said input must exceed in magnitude to cause a logic state change on its said output.
+</P>
+<P>
+10. The apparatus of claim 7 wherein said pair of comparators each has a selectable threshold value which signals at its said input must exceed in magnitude to cause a logic state change on its said output.
+</P>
+<P>
+11. The apparatus of claim 8 wherein said capacitor charging current source has a control terminal at which magnitudes of currents present at said output terminal can be selected with said control terminal electrically connected to both said fail safe capacitor and said output terminal of said capacitor charging current source.
+</P>
+<P>
+12. The apparatus of claim 9 wherein said pair of comparators each has said input thereof electrically connected to a said magnetoresistive member and said current value controller at said output terminal thereof in a corresponding one of said bridge circuit series circuit members through a comparator differential preamplifier.
+</P>
+<P>
+13. The apparatus of claim 10 wherein said pair of comparators each has said input thereof electrically connected to a said magnetoresistive member and said current value controller at said output terminal thereof in a corresponding one of said bridge circuit series circuit members through a comparator differential preamplifier.
+</P>
+<P>
+14. A signal isolator for providing at an output thereof representations of input currents provided therein from a source of such currents, said signal isolator comprising:
+</P>
+<P>
+an input conductor suited for conducting said input currents therethrough and supported on a substrate;
+</P>
+<P>
+a magnetoresistive sensor having an output and being at least in part adjacent to, yet spaced apart from, said input conductor to thereby be electrically isolated from any direct circuit interconnection therewith but having at least said part thereof positioned to be in those magnetic fields arising from said input currents; and
+</P>
+<P>
+a signal monitor arrangement, electrically connected to said magnetoresistive sensor output, and capable of forcing said output of said signal isolator to have a constant representation value thereon if said magnetoresistive sensor ceases being in those magnetic fields arising theretofore from said input currents for a selected time duration.
+</P>
+<P>
+15. The apparatus of claim 14 wherein said substrate further comprises a monolithic integrated circuit structure containing electronic circuit components of which at least one is electrically connected to at least one of said bridge circuit and said differential amplifier.
+</P>
+<P>
+16. The apparatus of claim 14 wherein said magnetoresistive sensor further comprises a bridge circuit suited for electrical connection to a source of electrical energization, said bridge circuit comprising a pair of series circuit members electrically connected in parallel with one another supported on a substrate with each series circuit member having a magnetoresistive member electrically connected in series with a current value controller at an output terminal thereof and which has also a control terminal at which magnitudes of currents present at said output terminal can be selected, said magnetoresistive members each being formed of magnetoresistive, anisotropic, ferromagnetic thin-film layers at least two of which are separated from one another by a nonmagnetic layer positioned therebetween to thereby have a resistance versus applied external magnetic field characteristic that is substantially linear for at least relatively small externally applied magnetic fields, and with at least one of said magnetoresistive members being adjacent to, yet spaced apart from, said input conductor to thereby be electrically isolated from any direct circuit interconnection therewith but positioned so that said magnetoresistive member is in those magnetic fields arising from said input currents; and a differential amplifier having a pair of inputs each electrically connected to both said magnetoresistive member and said current value controller at said output terminal thereof in a corresponding one of said bridge circuit series circuit members, and having a pair of outputs each electrically connected to a corresponding one of said current value controllers at said control terminal thereof.
+</P>
+<P>
+17. The apparatus of claim 14 wherein said magnetoresistive sensor has a differential output and said signal monitor arrangement comprises a pair of comparators each having an input electrically connected to said magnetoresistive sensor differential output, and each having an output electrically connected to a corresponding one of a pair of inputs of a bistable circuit with two alternative stable circuit states with each of said circuit states leading to a corresponding one of a pair of logic states being provided on an output thereof.
+</P>
+<P>
+18. The apparatus of claim 14 wherein said magnetoresistive sensor has a differential output and said signal monitor arrangement comprises a pair of comparators each having an input electrically connected to said magnetoresistive sensor differential output, and each having an output electrically connected to a corresponding one of a pair of inputs of a controlled capacitor discharge shunt electrically connected across a fail safe capacitor electrically connected in series with a controlled capacitor charging current source at an output thereof, said controlled capacitor discharge shunt being for discharging said fail safe capacitor after its being charged by said capacitor charging current source, said capacitor charging current source having a control terminal at which magnitudes of currents present at said output terminal can be selected with said control terminal electrically connected to both said fail safe capacitor and said output terminal of said capacitor charging current source.
+</P>
+<P>
+19. The apparatus of claim 17 wherein said pair of comparators also has said output thereof electrically connected to a corresponding one of a pair of inputs of a controlled capacitor discharge shunt electrically connected across a fail safe capacitor electrically connected in series with a controlled capacitor charging current source at an output thereof, said controlled capacitor discharge shunt for discharging said fail safe capacitor after its being charged by said capacitor charging current source, said fail safe capacitor and said output terminal of said capacitor charging current source both being electrically connected to a said input of said bistable circuit.
+</P>
+<P>
+20. The apparatus of claim 19 wherein said capacitor charging current source has a control terminal at which magnitudes of currents present at said output terminal can be selected with said control terminal electrically connected to both said fail safe capacitor and said output terminal of said capacitor charging current source.
+</P>
+</Claims>
+<Also_published_as>
+US2007139986A1;US7808062B2;WO2007075494A2;WO2007075494A3
+</Also_published_as>
+</BiblioData>

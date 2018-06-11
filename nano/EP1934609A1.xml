@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC NANOPARTICLE HAVING FLUORESCENT AND PREPARATION METHOD THEREOF AND USE THEREOF
+</Title>
+<PublicationNumber>
+EP1934609A1
+</PublicationNumber>
+<Inventor>
+<Name>
+LEE JIN-KYU [KR]
+</Name>
+<Name>
+CHO MYUNG-HAING [KR]
+</Name>
+<Name>
+PARK SEUNG-BUM [KR]
+</Name>
+<Name>
+YOON TAE-JONG [KR]
+</Name>
+<Name>
+KIM JUN-SUNG [KR]
+</Name>
+<Name>
+KIM BYUNG-GEOL [KR]
+</Name>
+<Name>
+YU KYEONG-NAM [KR]
+</Name>
+<Name>
+LEE, JIN-KYU
+</Name>
+<Name>
+CHO, MYUNG-HAING
+</Name>
+<Name>
+PARK, SEUNG-BUM
+</Name>
+<Name>
+YOON, TAE-JONG
+</Name>
+<Name>
+KIM, JUN-SUNG
+</Name>
+<Name>
+KIM, BYUNG-GEOL
+</Name>
+<Name>
+YU, KYEONG-NAM
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BITERIALS CO LTD [KR]
+</Name>
+<Name>
+BITERIALS CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1934609
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060798700
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006KR03569
+</PriorityNumber>
+<PriorityDate>
+2006-09-08
+</PriorityDate>
+<PriorityNumber>
+US20050220969
+</PriorityNumber>
+<PriorityDate>
+2005-09-08
+</PriorityDate>
+<PriorityNumber>
+KR20050112245
+</PriorityNumber>
+<PriorityDate>
+2005-11-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N33/533
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N33/543D4
+</Class>
+<Class>
+G01N33/58J
+</Class>
+</NCL>
+<Abstract>
+Disclosed herein are magnetic nanoparticles (MNPs) having fluorescence, and preparation and use thereof. The magnetic nanoparticles according to the present invention have both optical and magnetic properties and are therefore applicable to a variety of bio-fields. Via the surface treatment of silica shells of the magnetic nanoparticles with a water-soluble material, a variety of chemical functional groups can be introduced into nano-scale materials. Further, via the use of the thus-chemically modified nano-scale materials, it is possible to increase or decrease the pene not  trability of the magnetic nanoparticles into cells, and it is also possible to impart a selectivity to act only on desired specific cells.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+[I] Magnetic nanoparticles having a core containing a magnetic material and a surface-modified silica shell containing an organic fluorescent material and coated on the core, wherein the nanoparticles have a size of less than 100 nm and are water-soluble.
+</P>
+<P>
+[2] The nanoparticles according to claim 1, wherein the magnetic nanoparticles include one metal oxide selected from the group consisting of cobalt (Co), iron (Fe), manganese (Mn), zinc (Zn), nickel (Ni) and copper (Cu) oxides.
+</P>
+<P>
+[3] The nanoparticles according to claim 1, wherein the organic fluorescent material is Rhodamine B isothiocyanate (RITC) or fluoresceine isothiocyanate (FITC).
+</P>
+<P>
+[4] The nanoparticles according to claim 1, wherein the silica shell is surface- modified with an electrically charged material.
+</P>
+<P>
+[5] The nanoparticles according to claim 4, wherein the electrically charged material is an organic silicon compound having ionic functional group(s).
+</P>
+<P>
+[6] The nanoparticles according to claim 5, wherein the organic silicon compound having ionic functional group(s) is one compound selected from the group consisting of (CH O) Si-PEG [(CH O) SiCH CH CH 0(CH CH O) CH ], (CH &amp;lt;to&amp;gt; 3 3 3 3 2 2 2 2 2 6-9 3 3
+</P>
+<P>
+O) Si-PMP [(CH O) SiCH CH CH PO (OCH )Na], (CH O) Si-PTMA [(CH O)
+</P>
+<P>
+3 3 3 2 2 2 2 3 3 3 3 3
+</P>
+<P>
+SiCH CH CH N&amp;lt;+&amp;gt;(CH ) Cl ] and 3-aminopropyltriethoxysilane (APS). [7] The nanoparticles according to claim 1, wherein the magnetic nanoparticles penetrate into cells and are moved at a rate of 0.5 to 1 mm/sec by application of an external magnetic field (0.3 tesla, T). [8] The nanoparticles according to claim 7, wherein the cells are eukaryotic cells, human cells, animal cells or plant cells. [9] Gene-bound magnetic nanoparticles wherein a negatively charged gene is bound to the surface of the surface-modified silica shells of the magnetic nanoparticles of any one of claims 1 to 8. [10] The nanoparticles according to claim 9, wherein the negatively charged gene is a plasmid DNA.
+</P>
+<P>
+[I I] The nanoparticles according to claim 10, wherein the plasmid DNA is pcDNA3.1/CT-GFP.
+</P>
+<P>
+[12] A gene delivery system comprising the gene-bound magnetic nanoparticles of claim 9. [13] Nucleic acid-bound magnetic nanoparticles wherein a negatively charged nucleic acid molecule is bound to the surface of the surface-modified silica shells of the magnetic nanoparticles of any one of claims 1 to 8. [14] A gene delivery system comprising the nucleic acid-bound magnetic nanoparticles of claim 13. [15] Antibody-bound magnetic nanoparticles wherein an antibody is bound to the surface of the surface-modified silica shells of the magnetic nanoparticles of any one of claims 1 to 8. [16] The nanoparticles according to claim 15, wherein the surface-modified silica shell is surface-modified by 3-aminopropyltriethoxysilane (APS). [17] The nanoparticles according to claim 16, wherein an amine group of
+</P>
+<P>
+3-aminopropyltriethoxysilane (APS) is treated with maleimidobutyric acid, thereby introducing a maleimide group into the amine group. [18] The nanoparticles according to claim 17, wherein the antibody has a thiol group via reaction with 2-mercaptoethylamine. [19] The nanoparticles according to claim 18, wherein the antibody is a CD-10 antibody against a leukemia cell or an Her2 antibody against a breast cancer cell. [20] A cell staining agent comprising the antibody-bound magnetic nanoparticles of claim 15. [21] A method for preparing magnetic nanoparticles comprising:
+</P>
+<P>
+1) treating a surface of water-soluble magnetic nanoparticles with a polyvinylpyrrolidone (PVP) polymer, converting the nanoparticles into ethanol- dispersible particles, followed by centrifugation;
+</P>
+<P>
+2) dispersing the polymer- stabilized magnetic nanoparticles separated in Step 1 in ethanol for silica coating;
+</P>
+<P>
+3) adding to the solution prepared in Step 2 a solution of an organic fluorescent material treated with 3-aminopropyltriethoxysilane (APS) and a solution of tetraethoxysilane (TEOS), and adding NH OH to a mixed solution to thereby induce formation of silica on the surface of the magnetic nanoparticles containing the organic fluorescent material; and
+</P>
+<P>
+4) treating the surface of the silica shells of the magnetic nanoparticles obtained in Step 3 with a silicon compound.
+</P>
+<P>
+[22] A method for preparing negatively charged gene-bound magnetic nanoparticles comprising:
+</P>
+<P>
+1) introducing and incubating negatively charged genes and positively charged MNP @ SiO (RITC)-PTMA in an HEPES [N-(2-hydroxyethyl)-piperazine-N&apos;-(2-ethanesulfonic acid)] buffer solution;
+</P>
+<P>
+2) adding CaCl to the solution incubated in Step 1 and further incubating the solution for 2 hours; and
+</P>
+<P>
+3) adding Dulbecco&apos;s Modified Eagle Medium (DMEM) to the incubated solution of Step 2, adjusting a Ca &amp;lt;+&amp;gt; ion concentration of the solution to 4.5 mM, further incubating the solution for 4 hours and washing the solution with a phosphate-buffered saline (PBS) solution. [23] A method for preparing antibody-bound magnetic nanoparticles comprising:
+</P>
+<P>
+1) co-treating a surface of magnetic nanoparticles containing organic fluorescent materials with Si-PEG/3-aminopropyltriethoxysilane (APS);
+</P>
+<P>
+2) reacting the magnetic nanoparticles obtained in Step 1 with maleimidobutyric acid, thereby introducing a maleimide (MaI) group into an amine group present on the surface of the silica shells of the magnetic nanoparticles;
+</P>
+<P>
+3) reacting an antibody with 2-mercaptoethylamine to form an antibody having a thiol group; and
+</P>
+<P>
+4) binding the antibody obtained in Step 3 to the maleimide (MaI) group present on the surface of the silica shells of the magnetic nanoparticles obtained in Step 2.
+</P>
+<P>
+[24] An assay reagent which is capable of simultaneously performing fluorescence analysis and MRI analysis using the magnetic nanoparticles of any one of claims l to 8.
+</P>
+</Claims>
+<Also_published_as>
+EP1934609A4;WO2007029980A1;CA2621352A1;AU2006288048A1
+</Also_published_as>
+</BiblioData>

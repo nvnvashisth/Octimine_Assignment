@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+RESISTIVE ELEMENT, NEURON ELEMENT, AND NEURAL NETWORK INFORMATION PROCESSING APPARATUS
+</Title>
+<PublicationNumber>
+EP2157604A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MATSUMURA HAJIME [JP]
+</Name>
+<Name>
+MATSUI ERIKO [JP]
+</Name>
+<Name>
+MATSUMURA, HAJIME
+</Name>
+<Name>
+MATSUI, ERIKO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SONY CORP [JP]
+</Name>
+<Name>
+SONY CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2157604
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080764748
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP59720
+</PriorityNumber>
+<PriorityDate>
+2008-05-27
+</PriorityDate>
+<PriorityNumber>
+JP20070156982
+</PriorityNumber>
+<PriorityDate>
+2007-06-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G06N3/00
+</Class>
+<Class>
+G06N3/063
+</Class>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G06N3/00B
+</Class>
+<Class>
+G06N3/063
+</Class>
+<Class>
+H01C17/065B4D
+</Class>
+<Class>
+H01C7/00E
+</Class>
+<Class>
+H01L51/05D8
+</Class>
+</NCL>
+<Abstract>
+In a neuron element (1) having an input part (10) that receives a plurality of input signals xi and, in response to the respective input signals, creates weighted signals xiwi as the products of the input signals and connection weights wi corresponding to the input signals, an addition part (20) that obtains the total sum X of the plurality of weighted signals xiwi (i = 1 to n), and an output part (30) that outputs an output signal Y(X) as a function of the total sum X, a functional molecular element (11) having a current-voltage characteristic in which the current flowing through the element is represented as a function having an inflection point with respect to the applied voltage is used as an element that defines the output signal Y(X),;  and the output signal Y is defined as a function of the total sum X based on the current-voltage characteristic of this element in the region including the inflection point. Thereby, a neuron element that includes an output part formed of a simple circuit and has an analogous output characteristic, and a neural network information processing device employing it are provided.
+</Abstract>
+<Claims>
+<P>
+1. A resistive element that exhibits hysteresis in which resistance of a resistor decreases if a voltage is applied to both sides of the resistor to make a current pass through the resistor.
+</P>
+<P>
+2. The resistive element according to claim 1, wherein the resistance of the resistor gradually increases toward a resistance value possessed before current application if voltage application is stopped and current passage is kept absent.
+</P>
+<P>
+3. A resistive element wherein resistance of a resistor gradually increases if voltage application to both sides of the resistor is kept absent.
+</P>
+<P>
+4. The resistive element according to any one of claims 1 to 3, wherein the resistor is a functional molecular element composed of an organic functional molecule.
+</P>
+<P>
+5. The resistive element according to claim 4, wherein
+</P>
+<P>
+in the functional molecular element,
+</P>
+<P>
+opposed electrodes obtained by disposing a plurality of electrodes opposed to each other are formed, and a n-conjugated molecule in which a side chain part is coupled to a backbone part having a substantially-planar structure formed of a n-conjugated system is absorbed by the electrode at the side chain part, and thereby an absorbed molecule that is so disposed that the substantially-planar structure of the backbone part is in substantially parallel to the opposed electrodes is formed for each of the opposed electrodes, and
+</P>
+<P>
+a structural body composed of at least the absorbed molecule and the opposed electrodes has a function to allow a current to flow in a direction intersecting with the substantially-planar structure depending on an applied voltage applied between the opposed electrodes.
+</P>
+<P>
+6. The resistive element according to claim 5, wherein
+</P>
+<P>
+in the functional molecular element,
+</P>
+<P>
+an array structural body arising from stacking of the same kind of n-conjugated molecules as the absorbed molecule or/and another kind of [pi]-conjugated molecules along one direction over the backbone part of the absorbed molecule by intermolecular [pi]-[pi] stacking at the backbone part is formed as a part of the structural body between the opposed electrodes, and
+</P>
+<P>
+the structural body has a function to allow a current to flow in a stacking direction of the array structural body.
+</P>
+<P>
+7. The resistive element according to claim 5, wherein the side chain part of the [pi]-conjugated molecule has a flexible structure in the functional molecular element.
+</P>
+<P>
+8. The resistive element according to claim 7, wherein the side chain part of the n-conjugated molecule is formed of an alkyl group, an alkoxy group, a silanyl group, or an aromatic ring to which an alkyl group, an alkoxy group, or a silanyl group is coupled.
+</P>
+<P>
+9. The resistive element according to claim 5, wherein the n-conjugated molecule is a complex of a central metal ion and a linear tetrapyrrole derivative in the functional molecular element.
+</P>
+<P>
+10. The resistive element according to claim 9, wherein at least the n-conjugated molecule is a biladienone derivative represented by General formula (1).
+</P>
+<P>
+General formula (1):
+</P>
+<P>
+(in General formula (1), R&amp;lt;1&amp;gt;, R&amp;lt;2&amp;gt;, R&amp;lt;3&amp;gt;, and R&amp;lt;4&amp;gt; are the same or different alkyl groups that are independent of each other and each have a carbon number of 3 to 12.)
+</P>
+<P>
+11. A neuron element having an input part that receives a plurality of input signals and, in response to the input signals, creates weighted signals as products of the input signals and connection weights corresponding to the input signals, an addition part that obtains a total sum of the plurality of weighted signals, and an output part that outputs an output signal as a function of the total sum, the neuron element being characterized in that
+</P>
+<P>
+the resistive element according to any one of claims 1 to 10 is used as an element that creates the weighted signal from the input signal in the input part, and
+</P>
+<P>
+resistance of the resistive element decreases due to a current flowing through the resistive element in reception of the input signal, and as a result a current flowing through the resistive element in reception of a subsequent input signal comes to flow more easily, and thereby a learning effect is obtained.
+</P>
+<P>
+12. The neuron element according to claim 11, wherein, if reception of the input signal is absent, the resistance of the resistive element gradually increases toward a resistance value possessed before the learning effect is obtained and the learning effect is gradually lost.
+</P>
+<P>
+13. A neuron element having an input part that receives a plurality of input signals and, in response to the input signals, creates weighted signals as products of the input signals and connection weights corresponding to the input signals, an addition part that obtains a total sum of the plurality of weighted signals, and an output part that outputs an output signal as a function of the total sum, the neuron element being characterized in that
+</P>
+<P>
+the resistive element according to claim 3 is used as an element that creates the weighted signal from the input signal in the input part, and
+</P>
+<P>
+the resistance of the resistive element gradually increases if reception of the input signal is absent.
+</P>
+<P>
+14. A neural network information processing device formed by connecting a plurality of the neuron elements according to any one of claims 11 to 13.
+</P>
+<P>
+15. The neural network information processing device according to claim 14, formed as a hierarchical neural network information processing device in which the neuron elements are disposed in a plurality of layers and the neuron elements are coupled to each other between the layers.
+</P>
+<P>
+16. The neural network information processing device according to claim 14, formed as an interconnected neural network information processing device in which all of the neuron elements are coupled to each other to form one layer.
+</P>
+</Claims>
+<Also_published_as>
+EP2157604A4;US2010217735A1;WO2008152908A1;JP2008311381A
+</Also_published_as>
+</BiblioData>

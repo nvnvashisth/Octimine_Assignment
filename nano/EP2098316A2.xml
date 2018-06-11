@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Metal nanoparticles stabilized with a bident amine
+</Title>
+<PublicationNumber>
+EP2098316A2
+</PublicationNumber>
+<Inventor>
+<Name>
+LI YUNING [SG]
+</Name>
+<Name>
+LEE JONATHAN [CA]
+</Name>
+<Name>
+SMITH PAUL F [CA]
+</Name>
+<Name>
+MAHABADI HADI K [CA]
+</Name>
+<Name>
+LI, YUNING
+</Name>
+<Name>
+LEE, JONATHAN
+</Name>
+<Name>
+SMITH, PAUL F
+</Name>
+<Name>
+MAHABADI, HADI K
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+XEROX CORP [US]
+</Name>
+<Name>
+XEROX CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2098316
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090153469
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-02-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20080037321
+</PriorityNumber>
+<PriorityDate>
+2008-02-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B22F1/00
+</Class>
+<Class>
+H01B1/22
+</Class>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B22F1/00A2B4
+</Class>
+<Class>
+B22F1/00A2B4D
+</Class>
+<Class>
+B22F1/00B2
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01B1/22
+</Class>
+</NCL>
+<Abstract>
+A metal nanoparticle composition includes a bident amine stabilizer associated with an external surface of the metal nanoparticle. A method of forming conductive features on a substrate, providing a solution of dispersed bident amine-stabilized metal nanoparticles, depositing the bident amine-stabilized metal nanoparticle dispersion onto a substrate, and heating the printed substrate to form conductive features on the surface of the substrate.
+</Abstract>
+<Claims>
+<P>
+1. Bident amine-stabilized metal nanoparticles comprising a bident amine stabilizer associated with an external surface of the metal nanoparticle, wherein the bident amine in the bident amine stabilizer is represented by the formula:
+</P>
+<P>
+wherein n represents the number of repeating units of from 0 to 4,
+</P>
+<P>
+wherein R1, R2, R3, R4, R5, R6, R7, and R8 are side chains independently selected from the group consisting of a hydrogen atom, a hydrocarbon group having from 1 to 15 carbon atoms, a heteroatom, and combinations thereof, and
+</P>
+<P>
+wherein at least one of R1, R2, R3, R4, R5, R6, R7, and R8 are not a hydrogen atom.
+</P>
+<P>
+2. The bident amine-stabilized metal nanoparticles according to claim 1, wherein the metal is selected from the group consisting of silver, gold, platinum, palladium, copper, cobalt, chromium, nickel, gold-silver composite, silver-copper composite, silver-nickel composite, gold-copper composite, gold-nickel composite, silver-gold-copper, gold-silver-palladium and combinations thereof.
+</P>
+<P>
+3. The bident amine-stabilized metal nanoparticles according to claim 1 or 2, wherein the bident amine-stabilized metal nanoparticles are dispersed in a solvent to form a bident amine-stabilized metal nanoparticle dispersion, and/or
+</P>
+<P>
+wherein the metal nanoparticles have a stability of at least 7 days when dispersed in a solvent selected from the group consisting of water, pentane, hexane, cyclohexane, heptane, octane, nonane, decane, undecane, dodecane, tridecane, tetradecane, toluene, xylene, mesitylene, methanol, ethanol, propanol, butanol, pentanol, hexanol, heptanol, octanol, tetrahydrofuran, chlorobenzene, dichlorobenzene, trichlorobenzene, nitrobenzene, cyanobenzene, acetonitrile, dichloromethane, N,N-dimethylformamide (DMF), and combinations thereof.
+</P>
+<P>
+4. The bident amine-stabilized metal nanoparticles according to any preceding claim, wherein the bident amine stabilizer is comprised of a bident amine having from 4 to 17 carbon atoms.
+</P>
+<P>
+5. The bident amine-stabilized metal nanoparticles according to any preceding claim, wherein the bident amine comprises N,N-dipropylethylenediamine, N,N-dibutylethylenediamine, N,N-dipentylethylenediamine, N,N-dihexylethylenediamine, N,N-diheptylethylenediamine, N-N-dibutylaminopropylamine, N,N-dipentylaminopropylamine, N-N-dihexylaminopropylamine, N-N-diheptylaminopropylamine, N,N-diethyl-1,4-butanediamine, N,N-dipropyl-1,4-butanediamine, N,N-dibutyl-1,4-butanediamine, N,N-dipentyl-1,4-butanediamine, N,N-dihexyl-1,4-butanediamine, N-butylethylenediamine, N-pentylethylenediamine, N-hexylethylenediamine, N-heptylethylenediamine, N-octylethylenediamine, N-nonylethylenediamine, N-decylethylenediamine, N-dodecylethylenediamine, N-undecylethylenediamine, N-tridecylethylenediamine, N-tetradecylethylenediamine, N-pentadecylethylenediamine, N-propyl-1,3-propanediamine, N-butyl-1,3-propanediamine, N-pentyl-1,3-propanediamine, N-hexyl-1,3-propanediamine, N-heptyl-1,3-propanediamine, N-octyl-1,3-propanediamine, N-nonyl-1,3-propanediamine, N-decyl-1,3-propanediamine, N-undecyl-1,3-propanediamine, N-dodecyl-1,3-propanediamine, N-tridecyl-1,3-propanediamine, N-tetradecyl-1,3-propanediamine, N-propyl-1,4-butanediamine, N-butyl-1,4-butanediamine, N-pentyl-1,4-butanediamine, N-hexyl-1,4-butanediamine, N-heptyl-1,4-butanediamine, N-octyl-1,4-butanediamine, N-nonyl-1,4-butanediamine, N-decyl-1,4-butanediamine, N-undecyl-1,4-butanediamine, N-dodecyl-1,4-butanediamine, N-tridecyl-1,4-butanediamine, or combinations thereof.
+</P>
+<P>
+6. A method for producing a bident amine-stabilized metal nanoparticles comprising:
+</P>
+<P>
+reducing a metal compound in the presence of a bident amine and a reducing agent to form metal nanoparticles having a bident amine stabilizer on the surface of the metal nanoparticle.
+</P>
+<P>
+7. The method according to claim 6, wherein the metal compound is selected from a group consisting of metal oxide, metal nitrate, metal nitrite, metal carboxylate, metal acetate, metal carbonate, metal perchlorate, metal sulfate, metal chloride, metal bromide, metal iodide, metal trifluoroacetate, metal phosphate, metal trifluoroacetate, metal benzoate, metal lactate and combinations thereof.
+</P>
+<P>
+8. The method according to claim 6 or 7, wherein the reducing agent is selected from the group consisting of a hydrazine compound, a polyol, a ketone, an aldehyde, a metal hydride, a tin (II) compound or combinations thereof,
+</P>
+<P>
+9. The method according to claim 8, wherein the reducing agent is a hydrazine compound comprised of one or more of (1) a hydrocarbyl hydrazine represented by the following formulas:RNHNH2, RNHNHR&apos; OR RR&apos;NNH2, wherein one nitrogen atom is mono- or di-substituted with R, and the other nitrogen atom is optionally mono- or di-substituted with R, wherein R is independently selected from a hydrogen or hydrocarbon group or mixtures thereof, wherein one or both nitrogen atoms are optionally mono- or di-substituted with R&apos; and wherein R&apos; independently selected from a group consisting of hydrogen or hydrocarbon group or mixtures thereof, (2) a hydrazide represented by the following formulas: ROC(O)NHNHR&apos;, ROC(O)NHNH2 or ROC(O)NHNHC(O)OR), wherein one or both nitrogen atoms are substituted by an acyl group or formula RC(O), wherein each R is independently selected from a hydrogen or hydrocarbon group or mixtures thereof, wherein one or both nitrogen atoms are optionally mono- or di-substituted with R&apos; and wherein R&apos; independently selected from a group consisting of hydrogen or hydrocarbon group or mixtures thereof, and (3) a carbazate represented by the following formulas: ROC(O)NHNHR&apos;, ROC(O)NHNH2 or ROC(O)NHNHC(O)OR, wherein one or both nitrogen atoms are substituted by an ester group of formula ROC(O), wherein R is independently selected from a group consisting of hydrogen and a linear, branched, or aryl hydrocarbon, wherein one or both nitrogen atoms are optionally mono- or di-substituted with R&apos; and wherein R&apos; is independently selected from a group consisting of hydrogen or hydrocarbon group or mixtures thereof, preferably wherein the reducing agent is phenylhydrazine.
+</P>
+<P>
+10. The method according to any of claims 6 to 9, wherein the method further comprises a bident amine of the bident amine stabilizer displacing a monoamine in a dispersion of monoamine-stabilized metal nanoparticles, preferably wherein the dispersion of monoamine stabilized metal nanoparticles contains a monoamine having from 8 to 17 carbon atoms, and/or wherein the monoamine comprises octylamine, nonylamine, decylamine, undecylamine, dodecylamine, tridecylamine, tetradecylamine, hexadecylamine, heptadecylamine or combinations thereof.
+</P>
+<P>
+11. A method for producing conductive features on a substrate comprising:
+</P>
+<P>
+providing a solution of dispersed metal nanoparticles,
+</P>
+<P>
+adding a bident amine to the solution of dispersed metal nanoparticles to form a bident amine-stabilized metal nanoparticle dispersion,
+</P>
+<P>
+depositing the bident amine-stabilized metal nanoparticle dispersion onto a substrate, and
+</P>
+<P>
+heating the printed substrate to form conductive features on the surface of the substrate.
+</P>
+<P>
+12. The method according to claim 11, wherein the substrate is heated to a temperature below 150 [deg.]C.
+</P>
+<P>
+13. The method according to claim 11 or 12, wherein the solvent for the bident amine-stabilized metal nanoparticle dispersion is selected from the group consisting of water, pentane, hexane, cyclohexane, heptane, octane, nonane, decane, undecane, dodecane, tridecane, tetradecane, toluene, xylene, mesitylene, methanol, ethanol, propanol, butanol, pentanol, hexanol, heptanol, octanol, tetrahydrofuran, chlorobenzene, dichlorobenzene, trichlorobenzene, nitrobenzene, cyanobenzene, acetonitrile, dichloromethane, N,N-dimethylformamide (DMF), and combinations thereof.
+</P>
+<P>
+14. The method according to any of claims 11 to 13, wherein the depositing is selected from the group consisting of spin coating, blade coating, rod coating, dip coating, lithography or offset printing, gravure, flexography, screen printing, stencil printing, inkjet printing, and stamping.
+</P>
+<P>
+15. The method according to claim 6 or 11, further comprising the features of any of claims 1, 2 or 5.
+</P>
+</Claims>
+<Also_published_as>
+US2009214764A1;JP2009221606A
+</Also_published_as>
+</BiblioData>

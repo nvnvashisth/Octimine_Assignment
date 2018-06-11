@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+REFLECTION-TYPE MASK BLANK FOR EUV LITHOGRAPHY, AND SUBSTRATE WITH ELECTRICALLY CONDUCTIVE FILM FOR THE MASK BLANK
+</Title>
+<PublicationNumber>
+EP1962326A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HAYASHI KAZUYUKI [JP]
+</Name>
+<Name>
+SUGIYAMA TAKASHI [JP]
+</Name>
+<Name>
+MIKAMI MASAKI [JP]
+</Name>
+<Name>
+HAYASHI, KAZUYUKI
+</Name>
+<Name>
+SUGIYAMA, TAKASHI
+</Name>
+<Name>
+MIKAMI, MASAKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASAHI GLASS CO LTD [JP]
+</Name>
+<Name>
+ASAHI GLASS COMPANY, LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1962326
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060823363
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP322589
+</PriorityNumber>
+<PriorityDate>
+2006-11-13
+</PriorityDate>
+<PriorityNumber>
+JP20050357858
+</PriorityNumber>
+<PriorityDate>
+2005-12-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F1/24
+</Class>
+<Class>
+H01L21/027
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F1/24
+</Class>
+</NCL>
+<Abstract>
+To provide a substrate with a conductive film for an EUV mask blank having an increased surface hardness, and a substrate with a reflective multilayer film and an EUV mask blank using such a substrate with a conductive film. A substrate with a conductive film to be used for production of a reflective mask blank for EUV lithography, characterized in that the chief material of the conductive film is at least one member selected from the group consisting of Cr, Ti, Zr, Nb, Ni and V, and the conductive film contains B (boron) at an average concentration of from 1 to 70 at%.
+</Abstract>
+<Claims>
+<P>
+1. A substrate with a conductive film to be used for production of a reflective mask blank for EUV lithography, characterized in that the chief material of the conductive film is at least one member selected from the group consisting of Cr, Ti, Zr, Nb, Ni and V, and the conductive film contains B (boron) at an average concentration of from 1 to 70 at%.
+</P>
+<P>
+2. The substrate with a conductive film according to Claim 1, wherein the conductive film is a gradient composition film wherein the B concentration in the conductive film changes along the thickness direction of the conductive film so that the average B concentration is low on the substrate side and the average B concentration is high on the surface side.
+</P>
+<P>
+3. The substrate with a conductive film according to Claim 2, wherein the gradient composition film has an average B concentration of at most 15 at% at a portion within a film thickness of 5 nm from the face on the substrate side, and an average B concentration of from 1 to 70 at% at a portion within at least a film thickness of 5 nm from the surface.
+</P>
+<P>
+4. The substrate with a conductive film according to any one of Claims 1 to 3, wherein the conductive film further contains N at an average concentration of from 1 to 60 at%.
+</P>
+<P>
+5. The substrate with a conductive film according to Claim 4, wherein the conductive film has an average N concentration of at most 10 at% at a portion within at least a film thickness of 5 nm from the surface.
+</P>
+<P>
+6. The substrate with a conductive film according to any one of Claims 1 to 5, wherein the conductive film has an oxygen concentration of at most 5 at%.
+</P>
+<P>
+7. The substrate with a conductive film according to any one of Claims 1 to 6, wherein the conductive film has a sheet resistance of from 0.1 to 100 / .
+</P>
+<P>
+8. The substrate with a conductive film according to any one of Claims 1 to 7, wherein the conductive film is in such a state that at least one member selected from the group consisting of Cr, Ti, Zr, Nb, Ni and V, and a compound of B with at least one member selected from the group consisting of Cr, Ti, Zr, Nb, Ni and V (CrB2, TiB2, ZrB2, NbB2, NiB2 or VB2), coexist.
+</P>
+<P>
+9. The substrate with a conductive film according to any one of Claims 1 to 8, wherein the conductive film has an amorphous crystal structure.
+</P>
+<P>
+10. The substrate with a conductive film according to any one of Claims 1 to 9, wherein the conductive film has a surface hardness of at least 12 GPa.
+</P>
+<P>
+11. The substrate with a conductive film according to any one of Claims 1 to 10, wherein the smoothness on the surface of the conductive film is at most 0.5 nm by Rms (root-mean-square roughness).
+</P>
+<P>
+12. The substrate with a conductive film according to any one of Claims 1 to 11, wherein the conductive film has a thickness of from 10 to 500 nm.
+</P>
+<P>
+13. A substrate with a reflective multilayer film for a reflective mask blank for EUV lithography, which comprises the substrate with a conductive film as defined in any one of Claims 1 to 12 and a reflective multilayer film formed on the opposite side of the substrate from the face on which the conductive film is formed.
+</P>
+<P>
+14. A reflective mask blank for EUV lithography, which comprises the substrate with a reflective multilayer film as defined in Claim 13 and an absorbing layer formed on the reflective multilayer film.
+</P>
+<P>
+15. A reflective mask for EUV lithography, which is prepared by forming a pattern on the reflective mask blank for EUV lithography as defined in Claim 14.
+</P>
+</Claims>
+<Also_published_as>
+EP1962326A4;EP1962326B1;US2007160874A1;US7736821B2;KR20080080276A;WO2007069417A1
+</Also_published_as>
+</BiblioData>

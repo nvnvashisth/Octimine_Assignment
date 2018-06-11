@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CLEAVED FACET (GA,AL,IN)N EDGE- EMITTING LASER DIODES GROWN ON SEMIPOLAR {11- 2N} BULK GALLIUM NITRIDE SUBSTRATES
+</Title>
+<PublicationNumber>
+EP2111632A1
+</PublicationNumber>
+<Inventor>
+<Name>
+NAKAMURA SHUJI [US]
+</Name>
+<Name>
+SPECK JAMES S [US]
+</Name>
+<Name>
+DENBAARS STEVEN P [US]
+</Name>
+<Name>
+TYAGI ANURAG [US]
+</Name>
+<Name>
+NAKAMURA, SHUJI
+</Name>
+<Name>
+SPECK, JAMES, S
+</Name>
+<Name>
+DENBAARS, STEVEN, P
+</Name>
+<Name>
+TYAGI, ANURAG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV CALIFORNIA [US]
+</Name>
+<Name>
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2111632
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080725469
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US01843
+</PriorityNumber>
+<PriorityDate>
+2008-02-12
+</PriorityDate>
+<PriorityNumber>
+US20070889518P
+</PriorityNumber>
+<PriorityDate>
+2007-02-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/22
+</Class>
+<Class>
+H01S5/343G
+</Class>
+</NCL>
+<Abstract>
+A III-nitride edge-emitting laser diode is formed on a surface of a III-nitride substrate having a semipolar orientation, wherein the III-nitride substrate is cleaved by creating a cleavage line along a direction substantially perpendicular to a nonpolar orientation of the III-nitride substrate, and then applying force along the cleavage line to create one or more cleaved facets of the III-nitride substrate, wherein the cleaved facets have an m-plane or a-plane orientation.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An optoelectronic device, comprising:
+</P>
+<P>
+a III-nitride semiconductor light emitting device formed on a surface of a III-nitride substrate having a semipolar orientation, wherein the III-nitride substrate is cleaved along a direction substantially perpendicular to a nonpolar orientation of the III-nitride substrate to create one or more cleaved facets of the III-nitride substrate.
+</P>
+<P>
+2. The method of claim 1, wherein the III-nitride semiconductor light emitting device is an edge-emitting laser diode.
+</P>
+<P>
+3. The device of claim 1, wherein the III-nitride substrate is a semipolar III-nitride substrate.
+</P>
+<P>
+4. The device of claim 3, wherein the semipolar III-nitride substrate is a semipolar bulk gallium nitride substrate.
+</P>
+<P>
+5. The device of claim 1, wherein the cleaved facets have an m-plane or a-plane orientation.
+</P>
+<P>
+6. The device of claim 1, wherein the III-nitride substrate is thinned to facilitate cleaving.
+</P>
+<P>
+7. The device of claim 1, wherein the substrate has a cleavage line along a direction substantially perpendicular to a nonpolar orientation of the substrate for the cleaved facets.
+</P>
+<P>
+8. A process for fabricating an optoelectronic device, comprising:
+</P>
+<P>
+forming a III-nitride semiconductor light emitting device on a surface of a III-nitride substrate having a semipolar orientation; and
+</P>
+<P>
+cleaving the III-nitride substrate along a direction substantially perpendicular to a nonpolar orientation of the III-nitride substrate to create one or more cleaved facets of the III-nitride substrate.
+</P>
+<P>
+9. The method of claim 8, wherein the III-nitride semiconductor light emitting device is an edge-emitting laser diode.
+</P>
+<P>
+10. The method of claim 8, wherein the III-nitride substrate is a semipolar III-nitride substrate.
+</P>
+<P>
+11. The method of claim 10, wherein the semipolar III-nitride substrate is a semipolar bulk gallium nitride substrate.
+</P>
+<P>
+12. The method of claim 8, wherein the cleaved facets have an m-plane or a-plane orientation.
+</P>
+<P>
+13. The method of claim 8, further comprising thinning the III-nitride substrate to facilitate cleaving.
+</P>
+<P>
+14. The method of claim 8, wherein the cleaving step comprises creating a cleavage line along a direction substantially perpendicular to a nonpolar orientation of the substrate, and then applying force along the cleavage line to create the cleaved facets.
+</P>
+</Claims>
+<Also_published_as>
+US2008191223A1;WO2008100504A1;JP2010518625A
+</Also_published_as>
+</BiblioData>

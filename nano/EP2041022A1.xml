@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INTEGRATED CIRCUIT DISTRIBUTED OVER AT LEAST TWO NON- PARALLEL PLANES AND ITS METHOD OF PRODUCTION
+</Title>
+<PublicationNumber>
+EP2041022A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ALBERTINI JEAN-BAPTISTE [FR]
+</Name>
+<Name>
+ALBERTINI, JEAN-BAPTISTE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2041022
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070823279
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007FR01188
+</PriorityNumber>
+<PriorityDate>
+2007-07-11
+</PriorityDate>
+<PriorityNumber>
+FR20060052966
+</PriorityNumber>
+<PriorityDate>
+2006-07-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81B7/00
+</Class>
+<Class>
+G01R33/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B81B7/00C
+</Class>
+<Class>
+B81B7/00P16
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/02A
+</Class>
+<Class>
+G01R33/07
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+H01L24/38
+</Class>
+<Class>
+H01L24/41
+</Class>
+<Class>
+H01L24/49
+</Class>
+<Class>
+H01L25/065M
+</Class>
+</NCL>
+<Abstract>
+The invention relates to an integrated circuit that includes a first plate-shaped part (30). This component also includes at least a second plate-shaped part (32) separate from the first part (30), attached to the first part (30) by being connected to the first part (30) by deformable connection means (22) and making a non-zero angle with the first part (30).
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Circuit intégré comprenant une première partie en forme de plaque, caractérisé en ce qu&apos;il comprend au moins une seconde partie en forme de plaque distincte de la première partie, solidaire de la première partie, reliée à la première partie par des moyens de liaison mécanique déformables et formant un angle non nul avec la première partie.
+</P>
+<P>
+2. Circuit intégré selon la revendication 1 , dans lequel les moyens de liaison sont au moins en partie métalliques.
+</P>
+<P>
+3. Circuit intégré selon la revendication 1 ou 2, dans lequel les moyens de liaison comprennent au moins une tige métallique solidaire de la première partie à une extrémité et de la seconde partie à l&apos;extrémité opposée.
+</P>
+<P>
+4. Circuit intégré selon la revendication 1 ou 2, dans lequel les moyens de liaison comprennent au moins un treillis métallique lié à la première partie et à la seconde partie.
+</P>
+<P>
+5. Circuit intégré selon l&apos;une des revendications 1 à 4, dans lequel les moyens de liaison sont réalisés en cuivre ou en or.
+</P>
+<P>
+6. Circuit intégré selon l&apos;une des revendications 1 à 5, dans lequel la première partie comprend une plaque de silicium.
+</P>
+<P>
+7. Circuit intégré selon l&apos;une des revendications 1 à 6, dans lequel ledit angle est supérieur à 60[deg.].
+</P>
+<P>
+8. Circuit intégré selon l&apos;une des revendications 1 à 7, dans lequel ledit angle vaut environ 90[deg.].
+</P>
+<P>
+9. Circuit intégré selon l&apos;une des revendications 1 à 8, dans lequel la seconde partie porte un élément électrique et dans lequel les moyens de liaison participent à une connexion électrique entre un circuit électrique porté par la première partie et l&apos;élément électrique porté par la seconde partie.
+</P>
+<P>
+10. Circuit intégré selon l&apos;une des revendications 1 à 9, dans lequel la première partie porte au moins un capteur apte à mesurer une composante d&apos;un champ magnétique selon une direction parallèle à une surface principale de la première partie et dans lequel la seconde partie porte un capteur apte à mesurer une composante du champ magnétique selon une direction parallèle à une surface principale de la seconde partie.
+</P>
+<P>
+11. Circuit intégré selon la revendication 10, dans lequel lesdits capteurs sont des capteurs micro-fluxgate.
+</P>
+<P>
+12. Circuit intégré selon la revendication 10, dans lequel lesdits capteurs sont des capteurs magnétorésistifs.
+</P>
+<P>
+13. Circuit intégré selon la revendication 10, dans lequel lesdits capteurs sont des capteurs à magnéto-impédance.
+</P>
+<P>
+14. Circuit intégré selon la revendication 10, dans lequel lesdits capteurs sont des capteurs à effet Hall.
+</P>
+<P>
+15. Circuit intégré selon l&apos;une des revendications 1 à 14, dans lequel la première partie porte une pluralité de premiers plots de connexion et dans lequel un autre circuit intégré possédant des seconds plots de connexion est monté au contact de la première partie avec connexion électrique entre au moins un desdits seconds plots de connexion et un desdits premiers plots de connexion.
+</P>
+<P>
+16. Circuit intégré selon la revendication 15, dans lequel la seconde partie s&apos;étend à proximité d&apos;un flanc de l&apos;autre circuit intégré.
+</P>
+<P>
+17. Procédé de réalisation d&apos;un circuit intégré à partir d&apos;une structure en forme de plaque, comprenant les étapes suivantes :
+</P>
+<P>
+- dépôt de moyens de liaison déformables au contact notamment d&apos;une première partie de la structure et d&apos;une seconde partie de la structure ;
+</P>
+<P>
+- gravure de la structure de manière à séparer la première partie et la seconde partie ; - déplacement relatif des première et seconde parties, entraînant la déformation des moyens de liaison ;
+</P>
+<P>
+- solidarisation de la première partie et de la seconde partie entre elles
+</P>
+<P>
+18. Procédé selon la revendication 17, caractérisé en ce que le déplacement est une rotation de la seconde partie par rapport à une charnière formée par les moyens de liaison.
+</P>
+<P>
+19. Procédé selon la revendication 17 ou 18, dans lequel les moyens de liaison comprennent au moins une tige métallique solidaire de la première partie à une extrémité et de la seconde partie à l&apos;extrémité opposée.
+</P>
+<P>
+20. Procédé selon la revendication 17 ou 18, dans lequel les moyens de liaison comprennent au moins un treillis métallique lié à la première partie et à la seconde partie.
+</P>
+<P>
+21. Procédé selon l&apos;une des revendications 17 à 20, dans lequel les moyens de liaison sont réalisés en cuivre ou en or.
+</P>
+<P>
+22. Procédé selon l&apos;une des revendications 17 à 21 , dans lequel la structure est un substrat en silicium.
+</P>
+<P>
+23. Procédé selon l&apos;une des revendications 17 à 22, comprenant une étape d&apos;amincissement de la structure préalablement à sa gravure.
+</P>
+<P>
+24. Procédé selon l&apos;une des revendications 17 à 23, comprenant une étape de meulage partiel d&apos;une zone subissant ladite gravure avant l&apos;étape de gravure.
+</P>
+<P>
+25. Procédé selon l&apos;une des revendications 17 à 24, dans lequel les moyens de liaison sont réalisés dans un matériau électriquement conducteur et comprenant une étape de dépôt d&apos;un conducteur entre au moins un circuit porté au niveau de la première partie ou de la seconde partie de la structure et les moyens de liaison.
+</P>
+<P>
+26. Procédé selon la revendication 25, comprenant en outre une étape de dépôt d&apos;un conducteur entre les moyens de liaison et un élément de circuit situé au niveau de la première partie.
+</P>
+<P>
+27. Procédé selon l&apos;une des revendications 17 à 26, dans lequel la gravure est une gravure anisotrope.
+</P>
+<P>
+28. Procédé selon l&apos;une des revendications 17 à 27, dans lequel la face de la seconde partie ayant subi la gravure est assemblée à la tranche de la première partie.
+</P>
+<P>
+29. Procédé selon l&apos;une des revendications 17 à 26, dans lequel l&apos;étape de gravure forme, sur une face de chacune des première et seconde parties recevant la gravure, un profil incliné.
+</P>
+<P>
+30. Procédé selon la revendication 29, comprenant une étape, postérieure à l&apos;étape de déplacement, d&apos;assemblage de la face à profil incliné de la seconde partie contre la face à profil incliné de la seconde partie.
+</P>
+</Claims>
+<Also_published_as>
+WO2008006976A1;WO2008006976A8;US2009315129A1;JP2009543086A;FR2903812A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Semiconductor laser device
+</Title>
+<PublicationNumber>
+EP2048752A2
+</PublicationNumber>
+<Inventor>
+<Name>
+OCHIAI MASANAO [JP]
+</Name>
+<Name>
+YUASA KOJI [JP]
+</Name>
+<Name>
+OCHIAI, MASANAO
+</Name>
+<Name>
+YUASA, KOJI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NICHIA CORP [JP]
+</Name>
+<Name>
+NICHIA CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2048752
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080172037
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-07-31
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20060015927
+</PriorityNumber>
+<PriorityDate>
+2006-07-31
+</PriorityDate>
+<PriorityNumber>
+JP20050221338
+</PriorityNumber>
+<PriorityDate>
+2005-07-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/028
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/028
+</Class>
+</NCL>
+<Abstract>
+A semiconductor laser device, which has a protective film at an end surface thereof, is adaptable to demands for higher outputs or shorter wavelengths. The semiconductor laser device according to the present invention includes a dielectric film (110) on at least one end surface of an optical resonator (300), in which the dielectric film includes a first dielectric layer (111) and a second dielectric layer (112) comprised of the same elements and disposed in sequence from the end surface side of the semiconductor, the first dielectric layer including a layer made of a single crystal material and the second dielectric layer including a layer made of an amorphous material.
+</Abstract>
+<Claims>
+<P>
+1. A semiconductor laser device comprising:
+</P>
+<P>
+an optical resonator; and
+</P>
+<P>
+a dielectric film (110) on at least one end surface of the optical resonator,
+</P>
+<P>
+wherein the dielectric film (110) comprises a first dielectric layer (111) and a second dielectric layer (112) that contain the same elements and are disposed in sequence from the end surface side of a semiconductor,
+</P>
+<P>
+the first dielectric layer (111) is a reaction preventing layer that prevents a reaction between the semiconductor (200, 205, 210) and the dielectric film (110), and
+</P>
+<P>
+the second dielectric layer (112) is a reflecting layer for a laser beam.
+</P>
+<P>
+2. The semiconductor laser device according to claim 1,
+</P>
+<P>
+wherein the first dielectric layer (111) includes a layer which comprises a single crystal material and the second dielectric layer (112), includes a layer made of an amorphous material.
+</P>
+<P>
+3. The semiconductor laser device according to claim 1 or 2, wherein the first dielectric layer (111) has a lower refractive index than that of the second dielectric layer (112).
+</P>
+<P>
+4. The semiconductor laser device according to claim 3,
+</P>
+<P>
+wherein the second dielectric layer (112) has a larger thickness than that of the first dielectric layer (111).
+</P>
+<P>
+5. The semiconductor laser device according to claim 3,
+</P>
+<P>
+wherein a reflectance of the dielectric film (110) is 25% or less.
+</P>
+<P>
+6. The semiconductor laser device according to claim 3,
+</P>
+<P>
+wherein the dielectric film (110) has a reflectance of 20% or less when an oscillation wavelength of the semiconductor laser device is approximately 400 nm.
+</P>
+<P>
+7. The semiconductor laser device according to claim 3,
+</P>
+<P>
+wherein the first dielectric layer (111) and the second conductive layer (112) contain aluminum and oxygen as constituent elements.
+</P>
+<P>
+8. The semiconductor laser device according to claim 3,
+</P>
+<P>
+wherein the first dielectric layer (111) and the second dielectric layer (112) have approximately the same expansion coefficient.
+</P>
+<P>
+9. The semiconductor laser device according to claim 1,
+</P>
+<P>
+wherein the outermost layer of the dielectric film (110) comprises a nitride.
+</P>
+<P>
+10. The semiconductor laser device according to claim 1, wherein the device comprises:
+</P>
+<P>
+an optical resonator; and
+</P>
+<P>
+a dielectric film (110) on at least one end surface of the optical resonator, wherein
+</P>
+<P>
+the dielectric film (110) comprises a first dielectric layer (111), a second dielectric layer (112), and a third dielectric layer disposed on the end surface side of a semiconductor in sequence from the end surface side of the semiconductor;
+</P>
+<P>
+the first dielectric layer and the second dielectric layer are comprised of the same elements;
+</P>
+<P>
+the third dielectric layer (310) contains an element different from the element in the first dielectric layer and the second dielectric layer;
+</P>
+<P>
+the first dielectric layer (111) is a reaction preventing layer which prevents a reaction between the semiconductor and the dielectric film; and
+</P>
+<P>
+the second dielectric layer (112) is a stress relaxation layer which reduces stress between the first dielectric layer (111) and the third dielectric layer.
+</P>
+<P>
+11. The semiconductor laser device according to claim 10,
+</P>
+<P>
+wherein the first dielectric layer (111) and the second dielectric layer (112) contain oxygen.
+</P>
+<P>
+12. The semiconductor laser device according to claim 11,
+</P>
+<P>
+wherein the first dielectric layer (111) has a higher oxygen content than that of the second dielectric layer.
+</P>
+<P>
+13. The semiconductor laser device according to claim 10,
+</P>
+<P>
+wherein the outermost layer of the dielectric layer is a nitride.
+</P>
+<P>
+14. An optical pickup device comprising the semiconductor laser device according to any one of claims 1 to 13.
+</P>
+<P>
+15. A device for optically reading information stored on a media by condensing a laser generated by a semiconductor laser device on the media and detecting the laser reflected on the media so as to read the information, wherein
+</P>
+<P>
+the semiconductor laser device is the semiconductor laser device according to any one of claims 1 to 13.
+</P>
+</Claims>
+<Also_published_as>
+EP2048752A3;EP2048752B1;EP1748524A1;EP1748524B1;US2007025231A1;US7738524B2;KR20070015062A;CN1929218A;CN100449888C;AT424052T
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+IRON NITRIDE-BASED MAGNETIC POWDER, PROCESS FOR PRODUCING THE SAME, AND MAGNETIC RECORDING MEDIUM
+</Title>
+<PublicationNumber>
+EP2031607A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ISHIKAWA YUZO [JP]
+</Name>
+<Name>
+MASADA KENJI [JP]
+</Name>
+<Name>
+ISHIKAWA, YUZO
+</Name>
+<Name>
+MASADA, KENJI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+DOWA ELECTRONICS MATERIALS CO [JP]
+</Name>
+<Name>
+DOWA ELECTRONICS MATERIALS CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2031607
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070745321
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP62066
+</PriorityNumber>
+<PriorityDate>
+2007-06-08
+</PriorityDate>
+<PriorityNumber>
+JP20060165010
+</PriorityNumber>
+<PriorityDate>
+2006-06-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B22F1/00
+</Class>
+<Class>
+C01B21/06
+</Class>
+<Class>
+G11B5/712
+</Class>
+<Class>
+G11B5/714
+</Class>
+<Class>
+H01F1/06
+</Class>
+<Class>
+H01F1/09
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B21/06F6
+</Class>
+<Class>
+G11B5/706C
+</Class>
+<Class>
+G11B5/712
+</Class>
+<Class>
+H01F1/06D
+</Class>
+<Class>
+H01F1/09
+</Class>
+</NCL>
+<Abstract>
+Provided is an iron nitride-based magnetic powder that comprises magnetic particles having a mean particle size of at most 20 nm. The magnetic particle has a core of a main phase of Fe 16 N 2 and has, on the outer side of the core, an oxide phase derived from a metal Fe phase formed by reduction of iron nitride. In relation to the weatherability index Ãs and the saturation magnetization Ãs thereof, the magnetic powder satisfies Ãs   0.8 x Ãs - 30. In this, Ãs = (Ãs - Ãs 1 )/Ãs x 100. Ãs 1 means the saturation magnetization of the magnetic powder kept in an atmosphere of 60 DEG C and 90 % RH for 1 week.;  The powder can be obtained by exposing powder particles having a main phase of Fe 16 N 2 to a reducing gas to partly reduce the region of the surface of the particles into a metal Fe phase (gradual reduction) followed by exposing them to an oxidizing gas to oxidize a part of the surface of the metal Fe phase into an oxide phase (gradual oxidation).
+</Abstract>
+<Claims>
+<P>
+1. An iron nitride-based magnetic powder comprising magnetic particles having a mean particle size of at most 20 nm and each having a core of a main phase of Fe16N2 and an oxide phase outside the core, of which the relationship between the weatherability index [Delta][sigma]s and the saturation magnetization [sigma]s satisfies the following formula (1):
+</P>
+<P>
+wherein [Delta][sigma]s is defined by the following formula (2):
+</P>
+<P>
+wherein,
+</P>
+<P>
+[sigma]s means the saturation magnetization of the magnetic powder (Am&amp;lt;2&amp;gt;/kg),
+</P>
+<P>
+[sigma]s1 means the saturation magnetization of the magnetic powder kept in an atmosphere of 60[deg.]C and 90 % RH for 1 week (Am&amp;lt;2&amp;gt;/kg).
+</P>
+<P>
+2. The iron nitride-based magnetic powder as claimed in claim 1, wherein the oxide phase is derived from a metal Fe phase.
+</P>
+<P>
+3. The iron nitride-based magnetic powder as claimed in claim 2, wherein the metal Fe phase results from reduction of iron nitride.
+</P>
+<P>
+4. The iron nitride-based magnetic powder as claimed in any of claims 1 to 3, wherein the metal Fe phase exists between the oxide phase and the core phase of mainly Fe16N2.
+</P>
+<P>
+5. A method for producing the iron nitride-based magnetic powder of any of claims 1 to 4, which comprises exposing powder particles having a main phase of Fe16N2 to a reducing gas to partly reduce the region of the surface of the particles thereby giving powder particles having a metal Fe phase in the surface layer thereof (gradual reduction) followed by exposing them to an oxidizing gas to oxidize at least partly the surface of the metal Fe phase thereby giving powder particles having an oxide phase in the outermost layer thereof (gradual oxidation).
+</P>
+<P>
+6. A magnetic recording medium, wherein the magnetic layer comprises the iron nitride-based magnetic powder of any of claims 1 to 4.
+</P>
+</Claims>
+<Also_published_as>
+EP2031607A4;EP2031607B1;US2009252991A1;WO2007145301A1;JP2007335592A;CN101467220A
+</Also_published_as>
+</BiblioData>

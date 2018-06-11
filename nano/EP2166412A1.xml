@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method of making carbon nanotube patterned film or carbon nanotube composite material using a composition comprising carbon nanotubes surface- modified with polymerizable moieties
+</Title>
+<PublicationNumber>
+EP2166412A1
+</PublicationNumber>
+<Inventor>
+<Name>
+PARK JONG JIN [KR]
+</Name>
+<Name>
+SHIN JUNG HAN [KR]
+</Name>
+<Name>
+LEE SANG YOON [KR]
+</Name>
+<Name>
+PARK, JONG JIN
+</Name>
+<Name>
+SHIN, JUNG HAN
+</Name>
+<Name>
+LEE, SANG YOON
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SAMSUNG ELECTRONICS CO LTD [KR]
+</Name>
+<Name>
+SAMSUNG ELECTRONICS CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2166412
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090176380
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-02-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040250727
+</PriorityNumber>
+<PriorityDate>
+2004-02-11
+</PriorityDate>
+<PriorityNumber>
+KR20030011898
+</PriorityNumber>
+<PriorityDate>
+2003-02-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B05D1/32
+</Class>
+<Class>
+B05D3/06
+</Class>
+<Class>
+B32B9/00
+</Class>
+<Class>
+B82B1/00
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+C09D7/12
+</Class>
+<Class>
+G03F7/038
+</Class>
+<Class>
+G03F7/11
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4D
+</Class>
+<Class>
+C01B31/02B4D2
+</Class>
+<Class>
+C09D7/12S
+</Class>
+<Class>
+G03F7/038C
+</Class>
+</NCL>
+<Abstract>
+Disclosed herein is a method of making a polymerized carbon nanotube composite having interpenetrating polymer network(IPN) by modifying the surfaces of the carbon nanotubes with polymerizable functional groups such as oxirane and anhydride groups and subjecting the surface-modified carbon nanotubes either to a photolithography process or to a heatcuring process. By virtue of the present invention, polymerized carbon nanotube composites improved in hardening properties can be made without additional polymers.
+</Abstract>
+<Claims>
+<P>
+1. A method of producing a polymerized carbon nanotube composite, wherein the method comprises the steps of:
+</P>
+<P>
+(a) dispersing carbon nanotubes in an organic solvent along with one or more thermal hardeners to afford a liquid coating composition, wherein surfaces of the carbon nanotubes are modified with oxirane group of formula (1) and/or surfaces of the carbon nanotubes are modified with anhydride group of formula (2), (3), (4), (5), (6) or (7):
+</P>
+<P>
+wherein, R is C1 15, linear, branched or cyclic alkylene;
+</P>
+<P>
+and
+</P>
+<P>
+and
+</P>
+<P>
+(a) applying the liquid coating composition onto a substrate and heatcuring to afford a polymerized carbon nanotube composite.
+</P>
+<P>
+2. The method according to claim 1, wherein the liquid coating composition comprises 3 95wt% carbon nanotubes and 1 35 parts by weight of thermal hardener based on 100 parts by weight of the carbon nanotubes.
+</P>
+<P>
+3. The method according to claim 1 or 2, wherein the organic solvent used in step (a) is one or more selected from DMF, 4-hydroxy-4-methyl-2-pentanone, ethylene glycol monoethyl ether, 2-methoxyethanol, methoxypropylacetate, ethyl-3-ethoxypropionate, and cyclohexanone.
+</P>
+<P>
+4. The method according to any of claims 1 to 3, wherein the liquid coating composition further comprises 0.1 10 parts by weight of a coupling agent based on 100 parts by weight of the carbon nanotubes, wherein the coupling agent is one or more selected from aminopropyltriethoxysilane, phenylaminopropyltrimethoxysilane, ureidopropyltriethoxysilane, glycidoxypropyltrimethoxysilane, isocyanatopropyltriethoxysilane, isopropyltriisostearoyltitanate, and acetoalkoxyaluminium diisopropylate.
+</P>
+<P>
+5. The method according to any of claims 1 to 4, wherein the liquid coating composition further comprises 1 95 parts by weight of oxirane group-containing monomer, oligomer or polymer, and/or anhydride group-containing monomer, oligomer or polymer.
+</P>
+<P>
+6. The method according to any of claims 1 to 5, wherein the liquid coating composition further comprises 1 30 parts by weight of polymer binder based on 100 parts by weight of the carbon nanotubes, wherein the polymer binder is one or more selected from polyester, polycarbonate, polyvinylalcohol, polyvinylbutylal, polyacetal, polyarylate, polyamide, polyamideimide, polyetherimide, polyphenyleneether, polyphenylenesulfide, polyethersulfone, polyetherketone, polyphthalamide, polyethernitrile, polybenzimidazole, polycarbodiimide, polysiloxane, polymethylmethacrylate, polymethacrylamide, nitrile rubber, acryl rubber, polyethylenetetrafluoride, epoxy resin, phenol resin, melamine resin, urea resin, polybutene, polypentene, ethylene-propylene copolymer, ethylene-butene-diene copolymer, polybutadiene, polyisoprene, ethylene-propylene-diene copolymer, butyl rubber, polymethylpentene, polystyrene, styrene-butadiene copolymer, hydrogenated styrene-butadiene copolymer, hydrogenated polyisoprene, and hydrogenated polybutadiene.
+</P>
+<P>
+7. A polymerized carbon nanotube composite comprising carbon nanotubes and polymer binders, with an interpenetrating network formed between the carbon nanotubes and between the carbon nanotubes and the polymer binders, said carbon nanotubes having surfaces that are modified with an oxirane group of formula (1) and/or with an anhydride group of formula (2), (3), (4), (5), (6) or (7):
+</P>
+<P>
+wherein, R is C1 15, linear, branched or cyclic alkylene;
+</P>
+<P>
+and
+</P>
+</Claims>
+<Also_published_as>
+EP1457821A1;US2008153991A1;US2004265755A1;US7229747B2;US2010159219A1;US8211957B2;KR20040076512A;KR100947702B1;JP2009093186A;JP2004255564A;CN1530404A;CN100339766C
+</Also_published_as>
+</BiblioData>

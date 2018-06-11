@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR GRAFTING MOLECULES OF INTEREST ON INORGANIC SURFACES, RESULTING SURFACES AND USES THEREOF
+</Title>
+<PublicationNumber>
+EP1949468A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DELAPIERRE GUILLAUME [FR]
+</Name>
+<Name>
+DUCLAIROIR FLORENCE [FR]
+</Name>
+<Name>
+MARCHON JEAN-CLAUDE [FR]
+</Name>
+<Name>
+DELAPIERRE, GUILLAUME
+</Name>
+<Name>
+DUCLAIROIR, FLORENCE
+</Name>
+<Name>
+MARCHON, JEAN-CLAUDE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1949468
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060831010
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006FR02395
+</PriorityNumber>
+<PriorityDate>
+2006-10-25
+</PriorityDate>
+<PriorityNumber>
+FR20050010987
+</PriorityNumber>
+<PriorityDate>
+2005-10-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/05D10
+</Class>
+</NCL>
+<Abstract>
+The invention concerns a method for grafting molecules of interest on a silicon substrate via a spacer compound, said grafting including at least one click chemistry reaction to the supports thus obtained as well as their uses in nanotechnologies and nanobiotechnologies, such as molecular electronics, the manufacture of biochips or of sensors.
+</Abstract>
+<Claims>
+<P>
+95
+</P>
+<P>
+28 REVENDICATIONS
+</P>
+<P>
+1. Procédé de greffage covalent d&apos;au moins une molécule d&apos;intérêt à la surface d&apos;un substrat de silicium comportant des fonctions hydrure de surface, ledit substrat portant au moins un espaceur, caractérisé en ce qu&apos;il comprend au moins les étapes suivantes :
+</P>
+<P>
+(a) une première étape d&apos;ancrage covalent, à la surface dudit substrat, d&apos;au moins un composé espaceur de formule générale (I) suivante :
+</P>
+<P>
+(X)n-E-(Y)n, (I) dans laquelle :
+</P>
+<P>
+- E représente un groupement choisi parmi les radicaux alkyle et aryle,
+</P>
+<P>
+-X représente une double liaison C=C,
+</P>
+<P>
+- Y représente un groupe fonctionnel terminal choisi parmi les doubles et triples liaisons entre deux atomes de carbone, les triples liaisons entre un atome de carbone et un atome d&apos;azote, les aziridines, les chlorures d&apos;acyle et leurs fonctions complémentaires azotures et aminés, ledit groupe fonctionnel étant susceptible de réagir avec au moins un groupe fonctionnel Z complémentaire porté par une molécule d&apos;intérêt dans une réaction conduisant à la formation d&apos;une liaison covalente entre un atome de carbone et un hétéroatome appartenant respectivement et indifféremment aux groupes fonctionnels Y et Z ;
+</P>
+<P>
+- m et n, indépendamment l&apos;un de l&apos;autre, sont des nombres entiers compris entre 1 et 3 inclusivement,
+</P>
+<P>
+(b) une deuxième étape de couplage covalent audit composé espaceur de formule (I) ainsi ancré à la surface dudit substrat, d&apos;au moins une molécule d&apos;intérêt par formation, selon une réaction de chimie clic, d&apos;au moins une liaison covalente de type -C-Het-, dans laquelle Het est un hétéroatome, par réaction d&apos;au moins un groupe fonctionnel Z porté par ladite molécule d&apos;intérêt et choisi parmi les doubles et triples liaisons entre deux atomes de carbone, les triples liaisons entre un atome de carbone et un atome d&apos;azote, les aziridines, les chlorures d&apos;acyle et leurs fonctions complémentaires azotures et aminés, et d&apos;au moins un groupe Y dudit composé espaceur de formule (I), Z et Y étant aptes à former ensemble ladite liaison covalente.
+</P>
+<P>
+2. Procédé selon la revendication 1, caractérisé par le fait que le radical alkyle défini pour E est un radical comportant de 1 à 20 atomes de carbone, non substitué ou mono- ou polysubstitué, linéaire, ramifié ou cyclique, saturé ou insaturé.
+</P>
+<P>
+3. Procédé selon la revendication 2, caractérisé par le fait que le radical alkyle défini pour E est mono- ou polysubstitué et que le ou les substituants sont choisis parmi les atomes d&apos;halogène, les groupements hydroxyle, amino, carboxyle, alkyle en C1 à C10, aryle substitués ou non, lesdits substituants pouvant eux-mêmes contenir un ou plusieurs atomes d&apos;halogène et/ou un ou plusieurs hétéroatomes.
+</P>
+<P>
+4. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé par le fait que E est un radical alkyle non ramifié en Q à C20. 5. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé par le fait qu&apos;il comprend en outre une étape de préparation de la surface consistant à décaper la surface avec une solution d&apos;un acide faible.
+</P>
+<P>
+6. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé par le fait que les composés de formule (I) sont choisis parmi ceux dans lesquels n = 1.
+</P>
+<P>
+7. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé par le fait que le groupe fonctionnel Y des composés espaceurs de formule (I) représente une fonction azoture, alcyne ou nitrile.
+</P>
+<P>
+8. Procédé selon selon l&apos;une quelconque des revendications précédentes, caractérisé par le fait que le groupe fonctionnel Z des composés espaceurs de formule (I) représente une fonction azoture, alcyne ou nitrile.
+</P>
+<P>
+9. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé par le fait que les couples complémentaires entre le ou les groupes fonctionnels Y des composés espaceurs de formule (I) et le ou les groupes fonctionnels Z des molécules d&apos;intérêt sont choisis parmi :
+</P>
+<P>
+- les couples alcyne ou nitrile (groupe Y) / azoture (groupe Z) ; et
+</P>
+<P>
+- les couples azoture (groupe Y) / alcyne ou nitrile (groupe Z).
+</P>
+<P>
+10. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé par le fait que les composés espaceurs de formule (I) sont choisis parmi ceux dans lesquels :
+</P>
+<P>
+- n = l ; - E représente un radical alkyle en C6 à Cn , &apos;
+</P>
+<P>
+- Y représente un azoture et m = 1.
+</P>
+<P>
+11. Procédé selon la revendication 10, caractérisé par le fait que les composés espaceurs de formule (I) sont choisis parmi Pazoture d&apos;hexényle, l&apos;azoture d&apos;heptényle, l&apos;azoture d&apos;octényle, l&apos;azoture de nonadécényle, l&apos;azoture de décényle, l&apos;azoture d&apos;undécényle et l&apos;azoture de dodécényle.
+</P>
+<P>
+12. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé par le fait que l&apos;étape (b) de couplage covalent entre le composé espaceur de formule (I) et la molécule d&apos;intérêt est une réaction de 1,3 -cycloaddition entre un dipôle et un dipolarophile en présence d&apos;un catalyseur métallique. 13. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisée par le fait que l&apos;étape (b) de couplage covalent est réalisée en présence d&apos;au moins un solvant polaire choisi parmi l&apos;eau, les alcools, l&apos;acétone, l&apos;acétonitrile, le diméthylformamide et leurs mélanges.
+</P>
+<P>
+14. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé par le fait que les molécules d&apos;intérêt sont choisies parmi les molécules multistables.
+</P>
+<P>
+15. Procédé selon la revendication 14, caractérisé par le fait que les molécules d&apos;intérêt sont des molécules organiques choisies parmi les molécules d&apos;acide nucléique, les nucléotides, les oligonucléotides, les protéines, les peptides, les sucres ou les polysaccharides, les porphyrines et les composés présentant une photoisomérisation cis-trans.
+</P>
+<P>
+16. Procédé selon la revendication 15, caractérisé par le fait que les composés présentant une photoisomérisation cis-trans sont choisis parmi les dérivés des diaryléthylènes, des spiropyrannes, des spiroxazines, des fulgides et de l&apos;azobenzène.
+</P>
+<P>
+17. Support fonctionnalisé par au moins une molécule d&apos;intérêt et susceptible d&apos;être obtenu selon le procédé de greffage tel que défini à l&apos;une quelconque des revendications précédentes, caractérisé par le fait que ledit support comporte au moins une surface de silicium, ayant des fonctions hydrure de surface, sur laquelle est greffée, de façon covalente, au moins une molécule d&apos;intérêt par l&apos;intermédiaire d&apos;au moins un composé espaceur de formule (I) suivante : (X)n-E-(Y)n, (I) dans laquelle X, Y, E, n et m ont la même signification que celle indiquée dans l&apos;une quelconque des revendications précédentes, et dans lequel le ou les groupements fonctionnels Y sont engagés dans une liaison covalente -C-Het avec au moins un groupe fonctionnel Z complémentaire porté par ladite molécule d&apos;intérêt. 18. Support selon la revendication 17, caractérisé par le fait que l&apos;ensemble des molécules d&apos;intérêt greffées à la surface du support par l&apos;intermédiaire des composés espaceurs de formule (I) forme un film se présentant sous la forme d&apos;une couche monomoléculaire.
+</P>
+<P>
+19. Support selon la revendication 18 ou 19, caractérisé par le fait que les molécules d&apos;intérêt sont choisies parmi les acides nucléiques, les nucléotides, les oligonucléotides, les protéines, les peptides, les sucres et les polysaccharides, les porphyrines, les diaryléthylènes, les spiropyrannes, les spiroxazines, les fulgides et les azobenzènes et qu&apos;il constitue respectivement une puce à acides nucléiques, une puce à nucléotides, une puce à oligonucléotides, une puce à protéines, une puce à peptides, une puce à sucres, une puce à polysaccharides, une puce à porphyrines, une puce à diaryléthylènes, une puce à spiropyrannes, une puce à spiroxazines, une puce à fulgides ou une puce à azobenzènes.
+</P>
+<P>
+20. Utilisation d&apos;un support tel que défini à l&apos;une quelconque des revendications 17 à 19 dans les domaines de l&apos;électronique, des biotechnologies ou de l&apos;environnement.
+</P>
+</Claims>
+<Also_published_as>
+WO2007048924A1;US2009188602A1;US7919046B2;FR2892859A1
+</Also_published_as>
+</BiblioData>

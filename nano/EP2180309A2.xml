@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method and apparatus for synthesis of arrays of DNA probes
+</Title>
+<PublicationNumber>
+EP2180309A2
+</PublicationNumber>
+<Inventor>
+<Name>
+CERRINA FRANCESCO [US]
+</Name>
+<Name>
+SUSSMAN MICHAEL R [US]
+</Name>
+<Name>
+BLATTNER FREDERICK R [US]
+</Name>
+<Name>
+SINGH-GASSON SANGEET [US]
+</Name>
+<Name>
+GREEN ROLAND [US]
+</Name>
+<Name>
+CERRINA, FRANCESCO
+</Name>
+<Name>
+SUSSMAN, MICHAEL, R
+</Name>
+<Name>
+BLATTNER, FREDERICK, R
+</Name>
+<Name>
+SINGH-GASSON, SANGEET
+</Name>
+<Name>
+GREEN, ROLAND
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+WISCONSIN ALUMNI RES FOUND [US]
+</Name>
+<Name>
+WISCONSIN ALUMNI RESEARCH FOUNDATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2180309
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20100001599
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+1999-02-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP19990908351
+</PriorityNumber>
+<PriorityDate>
+1999-02-22
+</PriorityDate>
+<PriorityNumber>
+US19980075641P
+</PriorityNumber>
+<PriorityDate>
+1998-02-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+C07B61/00
+</Class>
+<Class>
+C07H21/00
+</Class>
+<Class>
+C08K3/00
+</Class>
+<Class>
+C12M1/34
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N1/00
+</Class>
+<Class>
+G01N21/00
+</Class>
+<Class>
+G01N21/01
+</Class>
+<Class>
+G01N21/05
+</Class>
+<Class>
+G01N21/17
+</Class>
+<Class>
+G01N33/53
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N37/00
+</Class>
+<Class>
+G02B26/08
+</Class>
+<Class>
+G03F7/20
+</Class>
+<Class>
+C40B40/06
+</Class>
+<Class>
+C40B60/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C07H21/00
+</Class>
+<Class>
+G02B26/08M4E
+</Class>
+<Class>
+G03F7/20A
+</Class>
+</NCL>
+<Abstract>
+The synthesis of arrays of DNA probe sequences, polypeptides and the like is carried out using a patterning process on an active surface of a substrate (12). An image is projected onto the active surface (15) utilizing an image former (11) that includes a light source that provides light to a micromirror device (35) comprising an array of electronically addressable micromirrors (36). The substrate (12) is activated in a defined pattern and bases are coupled at the activated sites, with further repeats until the elements of a two-dimensional array on the substrate have an appropriate base bound thereto. The micromirror array (35) can be controlled in conjunction with a DNA synthesizer to control the sequencing of images presented by the micromirror array (35) in coordination with the reagents provided to the substrate (12).
+</Abstract>
+<Claims>
+<P>
+1. An apparatus comprising:
+</P>
+<P>
+(a) a substrate with an active surface on which arrays may be formed;
+</P>
+<P>
+(b) a flow cell enclosing the active surface of the substrate and having an input port and an output port for applying reagents into the flow cell;
+</P>
+<P>
+(c) an image former for projecting a high precision, two-dimensional light image onto the substrate active surface, comprising:
+</P>
+<P>
+(1) a light source for providing a light beam;
+</P>
+<P>
+(2) a micromirror device for receiving the light beam from the source, the micromirror device formed of an array of electronically addressable micromirrors, each of which can be selectively tilted between one of at least two separate positions, wherein in one of the positions of each micromirror, light from the light source incident upon the micromirror is deflected away from an optical axis and in a second of the at least two positions of the micromirror, light from the light source is reflected along the optical axis; and
+</P>
+<P>
+(3) projection optics for receiving the light reflected from the micromirrors along the optical axis and imaging the pattern of the micromirrors onto the active surface of the substrate, wherein the projection optics include two doublet focusing lenses and an adjustable iris, the first doublet lens configured to pass light through the adjustable iris located at the back focal plan of the first doublet lens and the second doublet lens configured to receive the light passed through the iris and to focus that light onto the active surface of the substrate.
+</P>
+<P>
+2. The apparatus of Claim 1 wherein the micromirror device is formed of a two dimensional array of micromirrors.
+</P>
+<P>
+3. The apparatus of Claim 1 including a lens for collimating the light beam from the light source to provide a collimated beam projected onto the micromirror array at an oblique angle to a main optical axis that extends from the micromirror array to the substrate.
+</P>
+<P>
+4. The apparatus of Claim 3 including a beam splitter positioned between the micromirror array and the projection optics and configured to receive the collimated light beam from the light source, the beam splitter configured to reflect a portion of the-collimated light beam to the micromirror array and to receive reflected light from the micromirror array along a main optical axis of the apparatus that extends from the micromirror array through the projection optics to the substrate, the beam splitter further configured to pass a portion of the light reflected from the micromirror therethrough to the projection optics to be imaged on the active surface of the substrate.
+</P>
+<P>
+5. The apparatus of Claim 1 further including a filter for receiving the light from the light source and for selectively passing only desired wavelengths through to the micromirror array.
+</P>
+<P>
+6. The apparatus of Claim 1 wherein the substrate is transparent and light from the image former can be passed through the transparent substrate to be imaged on the active surface of the substrate which is opposite to the surface which initially receives the light from the image former.
+</P>
+<P>
+7. The apparatus of Claim 1 further including a computer connected to the micromirror device to provide command signals to control the deflection of the mirrors in the micromirror array to provide a desired pattern for projection onto the substrate.
+</P>
+<P>
+8. The apparatus of Claim 1 wherein the light source is configured to provide light in the range of ultraviolet to near ultraviolet wavelengths.
+</P>
+<P>
+9. The apparatus of Claim 8 including a filter for receiving the light from the light source and for selectively passing wavelengths in the ultraviolet and near ultraviolet and blocking longer wavelengths including infrared, and optionally
+</P>
+<P>
+wherein the filter includes a dichroic mirror for reflecting the selected wavelengths and passing the wavelengths to be blocked.
+</P>
+<P>
+10. The apparatus of Claim 1 wherein the projection optics are configured such that the pattern of the micromirrors to be imaged onto the active surface of the substrate is reduced in size with respect to the size of the array of micromirrors.
+</P>
+<P>
+11. The apparatus of Claim 1 including refractive lenses between the light source and the micromirror device that form a Kohler illumination system.
+</P>
+<P>
+12. The apparatus of Claim 1 including a DNA synthesizer connected to supply reagents to the flow cell.
+</P>
+<P>
+13. The apparatus of Claim 1 wherein the flow cell has a housing comprising a lower base, an upper cover section and a gasket mounted on the base, wherein the substrate is a transparent glass slide secured between the upper cover section and the lower base to define a reaction chamber that is sealed by the gasket, and channels extending through the housing from the input port to the reaction chamber and from the reaction chamber to the output port, the active surface of the substrate facing the sealed reaction chamber.
+</P>
+<P>
+14. The apparatus of Claim 13 including means for detachably securing the substrate between the lower base and upper cover section to allow the substrate to be replaced.
+</P>
+<P>
+15. The apparatus of Claim 1 wherein the active surface of the substrate faces the image former and further wherein the flow cell comprises a transparent window through which light from the image former can be projected onto the active surface of the substrate.
+</P>
+</Claims>
+<Also_published_as>
+EP2180309A3;WO9942813A1;US2010227780A1;US8030477B2;US6375903B1;MXPA00008263A;JP2002504679A;JP4698023B2;IL137901A;ES2344772T3;EP1066506A1;EP1066506A4;EP1066506B1;EP2259046A2;EP2259046A3;CA2321070A1;CA2321070C;AU2780499A;AU746760B2;AT464946T
+</Also_published_as>
+</BiblioData>

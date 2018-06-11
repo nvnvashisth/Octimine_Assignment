@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Laser diode having nano patterns and method of fabricating the same
+</Title>
+<PublicationNumber>
+EP2048754A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SAKAI SHIRO [JP]
+</Name>
+<Name>
+SAKAI, SHIRO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SEOUL OPTO DEVICE CO LTD [KR]
+</Name>
+<Name>
+UNIV TOKUSHIMA [JP]
+</Name>
+<Name>
+SEOUL OPTO DEVICE CO., LTD
+</Name>
+<Name>
+THE UNIVERSITY OF TOKUSHIMA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2048754
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080012762
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+KR20070101262
+</PriorityNumber>
+<PriorityDate>
+2007-10-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L33/00
+</Class>
+<Class>
+H01S5/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/22
+</Class>
+</NCL>
+<Abstract>
+Disclosed is a laser diode having nano patterns. The laser diode has a substrate (21). A first conductive-type clad layer (35) is disposed over the substrate (21), and a second conductive-type clad layer (41) is disposed over the first conductive-type clad layer (35). An active layer (37) is interposed between the first and second conductive-type clad layers (35,41). Column-shaped nano patterns (42) are periodically arranged at a surface of the second conductive-type clad layer (41). Accordingly, there is provided a laser diode such as a distributed feedback laser diode, which is used in applications where a wavelength parameter is important.
+</Abstract>
+<Claims>
+<P>
+1. A laser diode, comprising:
+</P>
+<P>
+a substrate;
+</P>
+<P>
+a first conductive-type clad layer disposed above the substrate;
+</P>
+<P>
+a second conductive-type clad layer disposed over the first conductive-type clad layer;
+</P>
+<P>
+an active layer interposed between the first and second clad layers; and
+</P>
+<P>
+column-shaped nano patterns periodically arranged at a surface of the second conductive-type clad layer.
+</P>
+<P>
+2. The laser diode as claimed in claim 1, wherein the nano patterns are formed by partially etching the second conductive-type clad layer.
+</P>
+<P>
+3. The laser diode as claimed in claim 1, wherein the respective nano patterns are formed in a circular-column shape having a diameter.
+</P>
+<P>
+4. The laser diode as claimed in claim 3, wherein the nano patterns are spaced apart from one another at the same interval as the diameter.
+</P>
+<P>
+5. The laser diode as claimed in claim 4, wherein the respective nano patterns have a diameter of 100 to 250 nm.
+</P>
+<P>
+6. The laser diode as claimed in claim 4, wherein cleavage mirrors are respectively formed at both opposite side surfaces of the laser diode, and each of the cleavage mirrors is parallel with any one side of a regular triangle defined by the nano patterns adjacent to one another.
+</P>
+<P>
+7. The laser diode as claimed in claim 4, wherein cleavage mirrors are respectively formed at both opposite side surfaces of the laser diode, and each of the cleavage mirrors make an angle of intersection with all sides of a regular triangle defined by the nano patterns adjacent to one another.
+</P>
+<P>
+8. The laser diode as claimed in claim 1, wherein the respective nano patterns are formed in a protruding column shape, and a second conductive-type contact layer is provided on an upper side of the respective nano patterns.
+</P>
+<P>
+9. The laser diode as claimed in claim 1, further comprising a second conductive-type contact layer formed on the second conductive-type clad layer, wherein the nano patterns are recessed portions, which are formed in the second conductive-type clad layer through the second conductive-type contact layer.
+</P>
+<P>
+10. The laser diode as claimed in claim 1, wherein the laser diode is any one of a distributed feedback laser diode, a distributed Bragg reflector laser diode and a Bragg reflector laser diode.
+</P>
+<P>
+11. A method of fabricating a laser diode, comprising:
+</P>
+<P>
+forming semiconductor layers with a laminated structure having a first conductive-type clad layer, an active layer and a second conductive-type clad layer formed on a substrate; and
+</P>
+<P>
+forming column-shaped nano patterns spaced apart from one another by partially etching the second conductive-type clad layer.
+</P>
+<P>
+12. The method as claimed in claim 11, wherein the nano patterns are formed using a nano imprint technique.
+</P>
+<P>
+13. The method as claimed in claim 11, further comprising:
+</P>
+<P>
+forming a second conductive-type contact layer on the second conductive-type clad layer before partially etching the second conductive-type clad layer.
+</P>
+<P>
+14. The method as claimed in claim 11, wherein the nano patterns are periodically arranged so that adjacent three of the nano patterns define a regular triangle.
+</P>
+<P>
+15. The method as claimed in claim 14, wherein cleavage mirrors are respectively formed at both opposite side surfaces of the laser diode by cleaving the substrate, and the cleavage mirrors are parallel with any one side of a regular triangle defined by adjacent three of the nano patterns.
+</P>
+<P>
+16. The method as claimed in claim 14, wherein cleavage mirrors are respectively formed at both opposite side surfaces of the laser diode by cleaving the substrate, and the cleavage mirrors make an angle of intersection with all sides of a regular triangle defined by adjacent three of the nano patterns.
+</P>
+</Claims>
+<Also_published_as>
+EP2048754A3;US2010208762A1;US8189635B2;US2009092165A1;US7760784B2;TW200917604A;KR20090036217A;JP2009094471A
+</Also_published_as>
+</BiblioData>

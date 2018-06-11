@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR THE PRODUCTION OF AN ELEMENT COMPRISING A MULTITUDE OF NANOCYLINDERS ON A SUBSTRATE
+</Title>
+<PublicationNumber>
+EP2016597A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ELLRICH JENS [DE]
+</Name>
+<Name>
+YONG LEI [DE]
+</Name>
+<Name>
+HAHN HORST [DE]
+</Name>
+<Name>
+ELLRICH, JENS
+</Name>
+<Name>
+YONG, LEI
+</Name>
+<Name>
+HAHN, HORST
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KARLSRUHE FORSCHZENT [DE]
+</Name>
+<Name>
+FORSCHUNGSZENTRUM KARLSRUHE GMBH
+</Name>
+<Name>
+KARLSRUHER INSTITUT FUER TECHNOLOGIE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2016597
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070724719
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP03792
+</PriorityNumber>
+<PriorityDate>
+2007-04-28
+</PriorityDate>
+<PriorityNumber>
+DE200610021940
+</PriorityNumber>
+<PriorityDate>
+2006-05-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01F1/00
+</Class>
+<Class>
+H01F41/30
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+H01F1/00E11M
+</Class>
+<Class>
+H01F1/00E12
+</Class>
+<Class>
+H01F41/30
+</Class>
+</NCL>
+<Abstract>
+Die Erfindung betrifft ein Element aus einem Substrat, auf das eine Vielzahl von Nanozylindern aufgebracht ist, wobei jeder Nanozylinder mindenstens vier übereinander liegende Schichten aus 1 bis 10 Atomlagen aufweist. Diese Schichten bestehen abwechselnd aus Atomen M eines magnetischen Elements und Atomen X eines nicht-magnetischen Elements, wobei vorzugsweise für M = Fe, Co oder Ni und für X = Pd, Pt, Rh oder Au gewählt werden. Die Anzahl und Dicke der Schichten beeinflussen die magnetischen Eigenschaften der Nanozylinder. Die Nanozylinder selbst besitzen vorzugsweise einen Durchmesser von 10 nm bis 100 nm, eine Höhe von 2 bis 500 nm und sind im Abstand von 10 nm bis 100 nm in Form einer kubischen oder hexagonalen Struktur auf dem Substrat angeordnet.;  Die Erfindung betrifft weiterhin ein Verfahren zur Herstellung des Elements und dessen Verwendung als magnetisches Speichermedium, als Schaltelement oder als Sensor.
+</Abstract>
+<Claims>
+<P>
+1. Element, umfassend ein Substrat, auf das eine Vielzahl von Nanozylindern aufgebracht ist, wobei jeder Nanozylinder mindestens vier übereinander liegende Schichten aufweist, die abwechselnd aus Atomen M eines magnetischen Elements und Atomen X eines nicht-magnetischen Elements bestehen.
+</P>
+<P>
+2. Element nach Anspruch 1 mit M = Fe, Co oder Ni und X = Pd, Pt, Rh oder Au.
+</P>
+<P>
+3. Element nach Anspruch 1 oder 2, wobei jede Schicht 1 bis 10 Atomlagen umfasst.
+</P>
+<P>
+4. Element nach einem der Ansprüche 1 bis 3, wobei jede Schicht dieselbe Anzahl von Atomlagen aufweist wie ihre übernächste Schicht.
+</P>
+<P>
+5. Element nach einem der Ansprüche 1 bis 4 mit Nanozylindern mit einem Durchmesser von 10 nm bis 100 nm.
+</P>
+<P>
+6. Element nach einem der Ansprüche 1 bis 5 mit Nanozylindern mit einer Höhe von 2 bis 500 nm.
+</P>
+<P>
+7. Element nach einem der Ansprüche 1 bis 6 mit Nanozylindern, die im Abstand von 10 nm bis 100 nm angeordnet sind.
+</P>
+<P>
+8. Element nach einem der Ansprüche 1 bis 7 mit Nanozylindern, die in einer kubischen oder hexagonalen Struktur auf dem Substrat angeordnet sind.
+</P>
+<P>
+9. Verfahren zur Herstellung eines Elements nach einem der Ansprüche 1 bis 8 mit den Verfahrensschritten
+</P>
+<P>
+a) Bereitstellen eines Substrats,
+</P>
+<P>
+b) Bedecken des Substrats mit einer nanoporösen Membran aus Al2O3,
+</P>
+<P>
+c) Abwechselndes Bedampfen des mit der nanoporösen Membran bedeckten Substrats mit Atomen M eines magnetischen Elements und Atomen X eines nicht-magnetischen Elements,
+</P>
+<P>
+d) Entfernen der Membran, so dass an Stelle der Poren der Membran Nanozylinder stehen bleiben.
+</P>
+<P>
+10. Verfahren nach Anspruch 9, wobei die Atome jeweils mittels Elektronenstrahlverdampfern abgeschieden werden.
+</P>
+<P>
+11. Verfahren nach Anspruch 9 oder 10, wobei die Membran mittels eines Lösungsmittels vom Substrat abgelöst wird.
+</P>
+<P>
+12. Verwendung eines Elements nach einem der Ansprüche 1 bis 8 als magnetisches Speichermedium, als Schaltelement oder als Sensor.
+</P>
+</Claims>
+<Also_published_as>
+EP2016597B1;DE102006021940A1;US2009263595A1;JP2009536688A;WO2007131617A1;AT514169T
+</Also_published_as>
+</BiblioData>

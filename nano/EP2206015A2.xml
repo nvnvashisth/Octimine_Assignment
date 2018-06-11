@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+POLAR POLYDIMETHYLSILOXANE MOLDS, METHODS OF MAKING THE MOLDS, AND METHODS OF USING THE MOLDS FOR PATTERN TRANSFER
+</Title>
+<PublicationNumber>
+EP2206015A2
+</PublicationNumber>
+<Inventor>
+<Name>
+CHEN WEI [US]
+</Name>
+<Name>
+HARKNESS BRIAN [US]
+</Name>
+<Name>
+STANGA MICHAEL [US]
+</Name>
+<Name>
+LIM JAE WOONG [KR]
+</Name>
+<Name>
+CHEN, WEI
+</Name>
+<Name>
+HARKNESS, BRIAN
+</Name>
+<Name>
+STANGA, MICHAEL
+</Name>
+<Name>
+LIM, JAE, WOONG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+DOW CORNING [US]
+</Name>
+<Name>
+DOW CORNING CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2206015
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080827057
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-10-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US80892
+</PriorityNumber>
+<PriorityDate>
+2008-10-23
+</PriorityDate>
+<PriorityNumber>
+US20070983251P
+</PriorityNumber>
+<PriorityDate>
+2007-10-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B41C3/04
+</Class>
+<Class>
+C08L83/04
+</Class>
+<Class>
+C08L83/12
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C08L83/04
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+A method includes the steps of (I) fabricating a cured silicone product and (II) using the cured silicone product in a patterning technique. The cured silicone product is a reaction product of (A) a silicone cure package and (B) is a polar additive having a polyalkylene oxide functionality and a reactive functionality. The method is useful in soft lithography applications.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method comprising:
+</P>
+<P>
+(i) filling a mold with a transfer medium;
+</P>
+<P>
+(ii) contacting a cured silicone product with the transfer medium such that the transfer medium is transferred onto the cured silicone product, where the cured silicone product is a reaction product of a curable silicone composition comprising optionally (I) a polyorganosiloxane having an average of at least two unsaturated organic groups per molecule, optionally (II) an organohydrogenpolysiloxane, with the proviso that at least one of component (I) and component (II) is present,
+</P>
+<P>
+(III) a hydro silylation reaction catalyst, and
+</P>
+<P>
+(IV) a polar additive comprising a polyalkylene oxide functionality and a reactive functionality selected from an unsaturated organic group and a silicon bonded hydrogen atom, with the proviso that when component (I) is not present, the reactive functionality of component (IV) includes the unsaturated organic group and when component (II) is not present, then the reactive functionality of component (IV) includes a silicon bonded hydrogen atom; and (iii) contacting the cured silicone product with a substrate, thereby transferring the transfer medium to the substrate.
+</P>
+<P>
+2. The method of claim 2, further comprising:
+</P>
+<P>
+(iv) repeating step (iii) one or more times after repeating step (ii).
+</P>
+<P>
+3. A method comprising: i) casting a curable silicone composition against a master having patterned features, where the curable silicone composition comprises optionally (I) a polyorganosiloxane having an average of at least two unsaturated organic groups per molecule, optionally (II) an organohydrogenpolysiloxane, with the proviso that at least one of component (I) and component (II) is present, (III) a hydro silylation reaction catalyst, and
+</P>
+<P>
+(IV) a polar additive comprising a polyalkylene oxide functionality and a reactive functionality selected from an unsaturated organic group and a silicon bonded hydrogen atom, with the proviso that when component (I) is not present, the reactive functionality of component (IV) includes the unsaturated organic group and when component (II) is not present, then the reactive functionality of component (IV) includes a silicon bonded hydrogen atom; and ii) curing the curable silicone composition to form a silicone mold, and iii) removing the silicone mold from the master.
+</P>
+<P>
+4. The method of claim 3, further comprising: iv) contacting the silicone mold with a transfer medium, and v) forming the transfer medium into a patterned feature on a surface of a substrate.
+</P>
+<P>
+5. The method of claim 4, further comprising: vi) repeating step v) one or more times after repeating step iv).
+</P>
+<P>
+6. The method of any one of claims 1 to 5, where the transfer medium is a conductive ink or conductive paste .
+</P>
+<P>
+7. The method of any one of claims 1, 2, 4, and 5, where the substrate is a component of a flat panel display, solar cell, printed circuit board, plasma display panel, or RFID.
+</P>
+<P>
+8. A method comprising: (I) fabricating a cured silicone product by a process comprising curing a curable silicone composition comprising:
+</P>
+<P>
+(A) a silicone cure package; and
+</P>
+<P>
+(B) a polar additive comprising a polyalkylene oxide functionality and a reactive functionality, and (II) using the cured silicone product in a pattern transfer technique. 9. The method of claim 8, where the silicone cure package is selected from the group consisting of hydro silylation curable composition, a condensation curable composition, a radical curable composition, a ring opening polymerizable composition, an addition curable composition, and a combination thereof.
+</P>
+<P>
+10. The method of claim 9, where the pattern formation technique is selected from the group consisting of imprint molding, step and flash imprint molding, solvent assisted micromolding, microtransfer molding, and micromolding in capillaries, microcontact printing, and roll printing.
+</P>
+<P>
+11. The method of any one of claims 1, 2, 4, 5, and 8 to 10, where the polar additive is a poly(ethylene oxide/ propylene oxide) copolymer.
+</P>
+<P>
+12. The method of any one of claims 1, 2, 4, 5, and 8 to 10, where the polar additive is a polyalkylene oxide-functional siloxane.
+</P>
+<P>
+13. The method of any one of claims 1, 2, 4, 5, and 8 to 10, where the polar additive is a polyalkylene oxide having reactive end groups.
+</P>
+<P>
+14. The method of any one of claimsl, 2, 4, 5, and 8 to 10, where the polar additive is selected from the group consisting of dimethyl, methyl(propylglycidoxy), methyl(propyl(poly(propylene oxide) )methyl) cyclosiloxanes; dimethyl, methyl(glycidoxypropyl), methyl(propyl(poly(propylene oxide))methyl) siloxane; and combinations thereof.
+</P>
+<P>
+15. The method of any one of claims 1, 2, 4, 5, and 8 to 10, where the polar additive has the general formula:
+</P>
+<P>
+where each R&amp;lt;E&amp;gt; is independently a reactive endgroup, subscript a has a value ranging from 1 to 20, and subscript b has a value ranging from 0 to 20.
+</P>
+<P>
+16. A composition comprising:
+</P>
+<P>
+(I) a polyalkylene oxide-functional siloxane having reactive functionality, and
+</P>
+<P>
+(II) a silicone cure package comprising at least one ingredient reactive with the reactive functionality of component (I).
+</P>
+<P>
+17. The composition of claim 16, where the polar additive is selected from the group consisting of dimethyl, methyl (prop ylglycidoxy), methyl(propyl(poly(propylene oxide))methyl) cyclosiloxanes; dimethyl, methyl(glycidoxypropyl), methyl(propyl(poly(propylene oxide) )methyl) siloxane; and combinations thereof.
+</P>
+<P>
+18. The composition of claim 16 or claim 17, where component (II) is selected from the group consisting of a hydrosilylation curable composition, a condensation reaction curable composition, a radical curable composition, and a combination thereof.
+</P>
+</Claims>
+<Also_published_as>
+WO2009021249A2;WO2009021249A3;WO2009021249A4;US2010206470A1;TW200932471A;KR20100097656A;JP2011502194A;CN101842745A
+</Also_published_as>
+</BiblioData>

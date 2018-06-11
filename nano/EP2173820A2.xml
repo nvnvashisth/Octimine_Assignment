@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+COATED COLLOIDAL MATERIALS
+</Title>
+<PublicationNumber>
+EP2173820A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MIRKIN CHAD A [US]
+</Name>
+<Name>
+XUE CAN [US]
+</Name>
+<Name>
+CHEN XIAODONG [US]
+</Name>
+<Name>
+HURST SARAH J [US]
+</Name>
+<Name>
+MIRKIN, CHAD, A
+</Name>
+<Name>
+XUE, CAN
+</Name>
+<Name>
+CHEN, XIAODONG
+</Name>
+<Name>
+HURST, SARAH, J
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV NORTHWESTERN [US]
+</Name>
+<Name>
+NORTHWESTERN UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2173820
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080827972
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US70839
+</PriorityNumber>
+<PriorityDate>
+2008-07-23
+</PriorityDate>
+<PriorityNumber>
+US20070951620P
+</PriorityNumber>
+<PriorityDate>
+2007-07-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01G5/00
+</Class>
+<Class>
+C09C1/62
+</Class>
+<Class>
+C09C3/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B22F1/02
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G5/00
+</Class>
+<Class>
+C09C1/62
+</Class>
+<Class>
+C09C3/06B
+</Class>
+</NCL>
+<Abstract>
+Coated colloidal materials, methods for making coated colloidal materials, and methods of using coated colloidal materials are disclosed. The method yields coated colloidal materials where the optical characteristics of the core is not adversely affected. The coated colloidal materials can be self-assembled into films, layers, or structures and used in the detection of analytes through detection assays.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED:
+</P>
+<P>
+1. A coated colloidal material comprising (a) a colloidal material having a passivated surface and (b) a coating comprising at least one of a silicate or a titania on the passivated surface.
+</P>
+<P>
+2. A coated colloidal material prepared by a method comprising: admixing a colloidal material, a surface passivating agent, and a coating agent in the presence of an optional catalyst.
+</P>
+<P>
+3. The coated colloidal material of claim 1 or 2, wherein the colloidal material comprises a nanocrystal.
+</P>
+<P>
+4. The coated colloidal material of claim 3, wherein the colloidal material comprises a nanoprism.
+</P>
+<P>
+5. The coated colloidal material of any one of claims 1-4, wherein the colloidal material comprises a transition metal.
+</P>
+<P>
+6. The coated colloidal material of claim 5, wherein the transition metal comprises gold or silver.
+</P>
+<P>
+7. The coated colloidal material of any one of claims 2-7, wherein the surface passivating agent has at least one functional group selected from the group of consisting of a halo, an alkoxy, a carboxylic acid, an ester, a thiol, a selenide, an amine, an amide, a phosphate, a phosphite, a phosphonate, an alkene, an alkyne, a silane, a siloxane, a borane, and mixtures thereof.
+</P>
+<P>
+8. The coated colloidal material of claim 7, wherein the surface passivating agent comprises a thiol.
+</P>
+<P>
+9. The coated colloidal material of claim 8, wherein the thiol comprises a second functional group.
+</P>
+<P>
+10. The coated colloidal material of claim 9, wherein the second functional group is a carboxylic acid.
+</P>
+<P>
+11. The coated colloidal material of claim 10, wherein surface passivating agent is 16-mercaptohexadecanoic acid.
+</P>
+<P>
+12. The coated colloidal material of any one of claims 2-11, wherein the coating agent comprises a silane, titanium, or mixtures thereof. 13 The coated colloidal material of claim 12, wherein the silane comprises an alkoxysilane
+</P>
+<P>
+14 The coated colloidal mate[pi]al of claim 13, wherein the silane comprises tetraethoxysilane
+</P>
+<P>
+15 The coated colloidal material of claim 12, wherein the coating agent comprises an titanium alkoxide
+</P>
+<P>
+16 The coated colloidal material of any one of claims 2-15, wherein the catalyst comprises an amine
+</P>
+<P>
+17 The coated colloidal mate[pi]al of claim 16, wherein the amine is an alkylanime, an arylamme, or mixtures thereof
+</P>
+<P>
+18 The coated colloidal material of claim 16 or 17, wherein the amine is dimethylamme
+</P>
+<P>
+19 The coated colloidal mate[pi]al of any one of claim 1-18 further comprising a functionahzmg agent on the coating
+</P>
+<P>
+20 The coated colloidal mate[pi]al of claim 19, wherein the functionahzmg agent composes at least one functional group and a first functional group is selected from the group consisting of a halo, an alkoxy, a carboxyhc acid, an ester, a thiol, a selemde, an amine, an amide, a phosphate, a phosphite, a phosphonate, an alkene, an alkyne, a silane, a siloxane, a borane, and mixtures thereof
+</P>
+<P>
+21 The coated colloidal mate[pi]al of claim 20, wherein the functionahzmg agent is selected from the group consisting of decyl(t[pi]methoxy)silane, decyl(t[pi]ethoxy)silane, dodecyl(t[pi]ethoxy)silane, hexadecyl(t[pi]methoxy)silane, octadecyl(t[pi]methoxy)silane, and mixtures thereof
+</P>
+<P>
+22 The coated colloidal material of claim 20, wherein the functionahzmg agent comprises a second functional group
+</P>
+<P>
+23 The coated colloidal mate[pi]al of claim 22, wherein the first functional group comprises a silane or siloxane and the second functional group comprises an amine
+</P>
+<P>
+24 The coated colloidal mate[pi]al of claim 23, wherein the functionahzmg agent is 3-ammopropyl(t[pi]methoxy)silane
+</P>
+<P>
+25 The coated colloidal mate[pi]al of claim 19, wherein the functionahzmg agent comprises a biomate[pi]al 26. The coated colloidal material of claim 25, wherein the biomaterial is selected from the group consisting of an oligonucleotide, a polypeptide, a protein, an antibody, a peptide, an anticancer agent, a polynucleotide-binding agent, a carbohydrate, a lipid, a cell- surface receptor-binding agent, and mixtures thereof.
+</P>
+<P>
+27. The coated colloidal material of claim 25, wherein the biomaterial comprises an oligonucleotide.
+</P>
+<P>
+28. An organized material comprising a monolayer of the coated colloidal material of any one of claims 1-27, wherein the coated colloidal material is deposited on the substrate by the Langrnuir-Blodgett technique.
+</P>
+<P>
+29. A method of preparing a coated colloidal material comprising admixing a colloidal material, a surface passivating agent, and a coating agent in the presence of an optional catalyst to form the coated colloidal material.
+</P>
+<P>
+30. A method of detecting an analyte in a sample comprising: contacting the sample with a coated colloidal material of any one of claims 1-28 under conditions sufficient to permit an interaction of the analyte and the coated colloidal material, and detecting the interaction, wherein the interaction of the analyte and the coated colloidal material produces a detection event.
+</P>
+<P>
+31. The method of claim 30, wherein the functionalizing agent comprises an oligonucleotide, the analyte comprises a complementary oligonucleotide or a oligonucleotide- binding moiety, and the detection event comprises a change in melting temperature of the oligonucleotide.
+</P>
+</Claims>
+<Also_published_as>
+WO2009025954A2;WO2009025954A3;US2010291697A1;KR20100051680A;JP2010535938A;CN101784617A;CA2694357A1;AU2008289383A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHODS AND APPARATUS FOR THE PRODUCTION OF ULTRAFINE PARTICLES
+</Title>
+<PublicationNumber>
+EP2073920A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HUNG CHENG-HUNG [US]
+</Name>
+<Name>
+VANIER NOEL R [US]
+</Name>
+<Name>
+HUNG, CHENG-HUNG
+</Name>
+<Name>
+VANIER, NOEL, R
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PPG IND OHIO INC [US]
+</Name>
+<Name>
+PPG INDUSTRIES OHIO, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2073920
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070814925
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-19
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US78850
+</PriorityNumber>
+<PriorityDate>
+2007-09-19
+</PriorityDate>
+<PriorityNumber>
+US20060534346
+</PriorityNumber>
+<PriorityDate>
+2006-09-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/08
+</Class>
+<Class>
+C01B13/18
+</Class>
+<Class>
+C01B33/18
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/08D2
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B13/18
+</Class>
+<Class>
+C01F7/30B2
+</Class>
+</NCL>
+<Abstract>
+Disclosed are methods for making ultrafine particles. These methods include (a) introducing a plurality of precursors to a high temperature chamber, the precursors including a first precursor and a second precursor different from the first precursor and comprising an alkali metal dopant;  (b) heating the plurality of precursors in the high temperature chamber, yielding a gaseous product stream;  (c) quenching the gaseous product stream, thereby producing ultrafine particles;  and (d) collecting the ultrafine particles. Also disclosed are apparatus for the production of ultrafine particles, ultrafine particles produced from a plurality of precursors and coating compositions and coated substrates that include ultrafine particles.
+</Abstract>
+<Claims>
+<P>
+We Claim:
+</P>
+<P>
+1. A method for making ultrafine particles, comprising:
+</P>
+<P>
+(a) introducing a plurality of precursors to a high temperature chamber, the precursors comprising:
+</P>
+<P>
+(i) a first precursor; and
+</P>
+<P>
+(ii) a second precursor different from the first precursor and comprising an alkali metal dopant;
+</P>
+<P>
+(b) heating the plurality of precursors in the high temperature chamber, yielding a gaseous product stream;
+</P>
+<P>
+(c) quenching the gaseous product stream, thereby producing ultrafine particles; and
+</P>
+<P>
+(d) collecting the ultrafine particles.
+</P>
+<P>
+2. The method of claim 1, wherein the ultrafine particles have a B.E.T. specific surface area of 90 to 500 square meters per gram.
+</P>
+<P>
+3. The method of claim 1, wherein the ultrafine particles have an average primary particle size of no more than 20 nanometers.
+</P>
+<P>
+4. The method of claim 1, wherein the ultrafine particles comprise silica and/or alumina.
+</P>
+<P>
+5. The method of claim 1, wherein the alkali metal comprises lithium, sodium, potassium, and/or cesium.
+</P>
+<P>
+6. The method of claim 1, wherein the second precursor comprises a liquid.
+</P>
+<P>
+7. The method of claim 6, wherein the second precursor comprises cerium acetate, cerium nitrate, cerium ammonium nitrate, cerium carbonate, cerium chloride, cerium fluoride, cerium oxide, sodium nitrate, sodium nitrite, sodium acetate, sodium chloride, sodium carbonate, sodium oxide, sodium fluoride, potassium carbonate, potassium oxide, potassium nitrate, potassium chloride, or a mixture thereof.
+</P>
+<P>
+8. The method of claim 1, wherein the second precursor is introduced in an amount such that the ultrafine particles theoretically include 0.01 to 15 weight percent of the alkali metal component, with weight percent being based on the total weight of the ultrafine particle.
+</P>
+<P>
+9. The method of claim 8, wherein the second precursor is introduced in an amount such that the ultrafine particles theoretically include 0.1 to 2 weight percent of the alkali metal component, with weight percent being based on the total weight of the ultrafine particle.
+</P>
+<P>
+10. The method of claim 1, wherein the method provides at least a 50% reduction in the average primary particle size of the ultrafine particles produced, as compared to utilizing an identical process absent the use of a second precursor comprising an alkali metal dopant.
+</P>
+<P>
+11. The method of claim 10, wherein the reduction is at least 100%.
+</P>
+<P>
+12. The method of claim 1, wherein the high temperature chamber comprises a plasma chamber.
+</P>
+<P>
+13. The method of claim 1, wherein the quenching is performed by contacting the gaseous product stream with a plurality of quench streams injected into the high temperature chamber through a plurality of quench stream injection ports, wherein the quench streams are injected at flow rates and injection angles that result in the impingement of the quench stream with each other within the gaseous product stream.
+</P>
+<P>
+14. Ultrafine particles produced from a plurality of precursors comprising:
+</P>
+<P>
+(a) a first precursor; and
+</P>
+<P>
+(b) a second precursor different from the first precursor and comprising an alkali metal dopant.
+</P>
+<P>
+15. The ultrafine particles of claim 14, wherein the particles are produced by a gas phase synthesis process.
+</P>
+<P>
+16. A composition comprising ultrafine particles produced by the method of claim 1.
+</P>
+<P>
+17. The composition of claim 16, wherein the composition is a coating composition.
+</P>
+<P>
+18. A substrate at least partially coated with the coating composition of claim 17.
+</P>
+<P>
+19. A method for reducing the average primary particle size of ultrafine particles made by a vapor phase synthesis process comprising: (a) including an alkali metal dopant in a precursor stream to a high temperature chamber, wherein the precursor stream comprises at least one organometallic and/or inorganic oxide precursor which is different from the alkali metal dopant; (b) heating the precursor stream in the high temperature chamber, yielding a gaseous product stream; (c) quenching the gaseous product stream, thereby producing ultrafine particles; and (d) collecting the ultrafine particles.
+</P>
+<P>
+20. A plasma reactor apparatus for the production of ultrafine particles comprising:
+</P>
+<P>
+(a) a plasma chamber having axially spaced inlet and outlet ends;
+</P>
+<P>
+(b) a high temperature plasma positioned at the inlet end of the plasma chamber;
+</P>
+<P>
+(c) an inlet for introducing a precursor stream to the plasma chamber, the precursor stream comprising:
+</P>
+<P>
+(i) a first precursor; and
+</P>
+<P>
+(ii) a second precursor different from the first precursor and comprising an alkali metal dopant, wherein the precursor stream is heated by the plasma to produce a gaseous product stream flowing toward the outlet end of the plasma chamber;
+</P>
+<P>
+(d) means for quenching the gaseous product stream, thereby producing ultrafine particles, and
+</P>
+<P>
+(e) means for collecting the ultrafine particles.
+</P>
+</Claims>
+<Also_published_as>
+WO2008036712A1;US2008075649A1;TW200829329A
+</Also_published_as>
+</BiblioData>

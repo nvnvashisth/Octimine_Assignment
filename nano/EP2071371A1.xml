@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Three-dimensional photonic crystal and manufacturing method thereof
+</Title>
+<PublicationNumber>
+EP2071371A1
+</PublicationNumber>
+<Inventor>
+<Name>
+NUMATA AIHIKO [JP]
+</Name>
+<Name>
+NOBAYASHI KAZUYA [JP]
+</Name>
+<Name>
+NUMATA, AIHIKO
+</Name>
+<Name>
+NOBAYASHI, KAZUYA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2071371
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080020876
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-12-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070318617
+</PriorityNumber>
+<PriorityDate>
+2007-12-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B6/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B6/122P
+</Class>
+</NCL>
+<Abstract>
+A three-dimensional photonic crystal is composed of columnar structures (150). The columnar structures of each layer include a flat bottom surface as one delimitting surface in a stacking plane, and a first structural portion, a second structural portion, and a third structural portion that are periodically arranged in a longitudinal direction of the columnar structures, the second structural portion having a second width (W2) larger than a first width (W1) of the first structural portion and a second height (H2) larger than a first height (H1) of the first structural portion, and the third structural portion arranged between the first and the second structural portions having a width and a height that continuously or stepwise change.;  The three-dimensional photonic crystal is characterized in that the flat bottom surface of the first structural portion of one of two adjacent layers contacts an upper surface opposite to the flat bottom surface of the second structural portion of the other layer.
+</Abstract>
+<Claims>
+<P>
+1. A three-dimensional photonic crystal comprising a structure (150) made of a first medium and a second medium having a refractive index lower than that of the first medium, which are periodically arranged in a three-dimensional direction,
+</P>
+<P>
+wherein the structure includes a first layer (110), a second layer (120), a third layer (130), and a fourth layer (140) arranged in this order, the first and third layers extending in a first direction (X-axis direction), and the second and fourth layers extending in a second direction (Y-axis direction),
+</P>
+<P>
+wherein the structure of each layer includes a flat surface (201) as one end surface in a stacking direction of the first layer to the fourth layer, and a first structural portion (210), a second structural portion (220), and a third structural portion (230) that are periodically arranged in an extending direction of the structure, the first structural portion having a first width (W1) along the flat surface and a first height (H1) from the flat surface, the second structural portion having a second width (W2) larger than the first width and a second height (H2) larger than the first height, and the third structural portion having a width and a height that continuously or stepwise change in the extending direction of the structure, and
+</P>
+<P>
+characterized in that the flat surface (2011) of the first structural portion of one of two adjacent layers in the first layer to the fourth layer contacts a surface (225) opposite to the flat surface of the second structural portion of the other of the two adjacent layers.
+</P>
+<P>
+2. A functional device characterized in operating by utilizing a photonic band gap operation of a three-dimensional photonic crystal according to claim 1.
+</P>
+<P>
+3. A method for manufacturing a three-dimensional photonic crystal that includes a structure (150) made of a first medium and a second medium having a refractive index lower than that of the first medium, which are periodically arranged in a three-dimensional direction, wherein the structure of each layer includes a flat surface (201) as one end surface in a stacking direction of a plurality of layers (110, 120, 130, 140) each including a plurality of structures, and first, second, and third structural portions (210, 220, 230, 240) that are periodically arranged in an extending direction of the structure, the first structural portion (210) having a first width (W1) along the flat surface and a first height (H1) from the flat surface, the second structural portion (220) having a second width (W2) larger than the first width and a second height (H2) larger than the first height, and the third structural portion (230, 240) having a width and a height that continuously or stepwise change in the extending direction of the structure, said method characterized in comprising:
+</P>
+<P>
+a first step of forming a sacrifice layer (1002) having a groove; and
+</P>
+<P>
+a second step of depositing particles of the first medium in the groove, the second step utilizing an anisotropic deposition method to form the third structural portion.
+</P>
+<P>
+4. A method for manufacturing a three-dimensional photonic crystal that includes a structure (150) made of a first medium and a second medium having a refractive index lower than that of the first medium, which are periodically arranged in a three-dimensional direction, wherein the structure of each layer includes a flat surface (201) as one end surface in a stacking direction of a plurality of layers (110, 120, 130, 140) each including a plurality of structures, and first, second, and third structural portions (210, 220, 230, 240) that are periodically arranged in an extending direction of the structure, the first structural portion (210) having a first width (W1) along the flat surface and a first height (H1) from the flat surface, the second structural portion (220) having a second width (W2) larger than the first width and a second height (H2) larger than the first height, and the third structural portion (230, 240) having a width and a height that continuously or stepwise change in the extending direction of the structure, said method characterized in comprising:
+</P>
+<P>
+a first step of forming a sacrifice layer (1302) having a groove; and
+</P>
+<P>
+a second step of depositing particles of the first medium in the groove, the second step utilizing a linear deposition method to form the third structural portion while inclining the sacrifice layer to a direction from which the particles of the first medium come in the linear deposition method.
+</P>
+</Claims>
+<Also_published_as>
+EP2071371B1;US2009148114A1;US7697810B2;JP2009139849A;AT500528T
+</Also_published_as>
+</BiblioData>

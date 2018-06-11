@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ELECTRON-DONATING ORGANIC MATERIAL FOR PHOTOVOLTAIC DEVICES, MATERIAL FOR PHOTOVOLTAIC DEVICES, AND PHOTOVOLTAIC DEVICES
+</Title>
+<PublicationNumber>
+EP2072557A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KITAZAWA DAISUKE [JP]
+</Name>
+<Name>
+TSUKAMOTO JUN [JP]
+</Name>
+<Name>
+JO YUKARI [JP]
+</Name>
+<Name>
+KITAZAWA, DAISUKE
+</Name>
+<Name>
+TSUKAMOTO, JUN
+</Name>
+<Name>
+JO, YUKARI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TORAY INDUSTRIES [JP]
+</Name>
+<Name>
+TORAY INDUSTRIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2072557
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070829174
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-10-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP69436
+</PriorityNumber>
+<PriorityDate>
+2007-10-04
+</PriorityDate>
+<PriorityNumber>
+JP20060277315
+</PriorityNumber>
+<PriorityDate>
+2006-10-11
+</PriorityDate>
+<PriorityNumber>
+JP20070017499
+</PriorityNumber>
+<PriorityDate>
+2007-01-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C08G61/12
+</Class>
+<Class>
+C08K3/04
+</Class>
+<Class>
+C08L65/00
+</Class>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C08G61/12D1
+</Class>
+<Class>
+C08G61/12D1F
+</Class>
+<Class>
+H01L51/00M2B2
+</Class>
+</NCL>
+<Abstract>
+In order to provide a photovoltaic device with high photoelectric conversion efficiency, an electron donating organic material for photovoltaic devices containing a conjugated polymer represented by formula (1) is invented: (wherein R 1 to R 10 may be the same or different from each other and are each selected from among hydrogen, an alkyl group, an alkoxy group and an aryl group;  R 11 and R 12 may be the same or different from each other and are each selected from among hydrogen, an alkyl group, an aryl group, a heteroaryl group and halogen;  W, X, Y and Z may be the same or different from each other and are each selected from among a single bond, an arylene group, a heteroarylene group, an ethenylene group, and an ethynylene group;  m is 0 or 1;  n is within a range of 1 to 1000.)
+</Abstract>
+<Claims>
+<P>
+1. An electron donating organic material for photovoltaic devices which comprises a conjugated polymer represented by formula (1):
+</P>
+<P>
+(wherein R&amp;lt;1&amp;gt; to R&amp;lt;10&amp;gt; may be the same or different from each other and are each selected from among hydrogen, an alkyl group, an alkoxy group and an aryl group; R&amp;lt;11&amp;gt; and R&amp;lt;12&amp;gt; may be the same or different from each other and are each selected from among hydrogen, an alkyl group, an aryl group, a heteroaryl group and halogen; W, X, Y and Z may be the same or different from each other and are each selected from among a single bond, an arylene group, a heteroarylene group, an ethenylene group, and an ethynylene group; m is 0 or 1; n is within a range of 1 to 1000.)
+</P>
+<P>
+2. The electron donating organic material for photovoltaic devices of claim 1, wherein the conjugated polymer represented by formula (1) contains a conjugated polymer represented by formula (2):
+</P>
+<P>
+(wherein R&amp;lt;13&amp;gt; to R&amp;lt;26&amp;gt; may be the same or different from each other and are each selected from among hydrogen, an alkyl group, an alkoxy group and an aryl group; R&amp;lt;27&amp;gt; and R&amp;lt;28&amp;gt; may be the same or different from each other and are each hydrogen or an alkyl group; n is within a range of 1 to 1000.)
+</P>
+<P>
+3. The electron donating organic material for photovoltaic devices of claim 1 or 2, wherein at least one of R&amp;lt;1&amp;gt; to R&amp;lt;12&amp;gt; in formula (1) is an alkyl group or at least one of R&amp;lt;13&amp;gt; to R&amp;lt;28&amp;gt; in formula (2) is an alkyl group.
+</P>
+<P>
+4. A material for photovoltaic devices which contains an electron accepting organic material and an electron donating organic material for photovoltaic devices of any one of claims 1 to 3.
+</P>
+<P>
+5. The material for photovoltaic devices of claim 4, wherein the electron accepting organic material is a fullerene compound.
+</P>
+<P>
+6. A photovoltaic device comprising at least a positive electrode and a negative electrode, which has an electron donating organic material for photovoltaic devices of any one of claims 1 to 3 located between the negative electrode and the positive electrode.
+</P>
+</Claims>
+<Also_published_as>
+EP2072557A4;US2010006154A1;TW200829560A;KR20090063255A;WO2008044585A1
+</Also_published_as>
+</BiblioData>

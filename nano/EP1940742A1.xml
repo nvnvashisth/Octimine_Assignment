@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SYNTHESIS OF PURE RUTILE STRUCTURE TITANIUM OXIDE NANOSTRUCTURES
+</Title>
+<PublicationNumber>
+EP1940742A1
+</PublicationNumber>
+<Inventor>
+<Name>
+EDER DOMINIK [GB]
+</Name>
+<Name>
+KINLOCH IAN A [GB]
+</Name>
+<Name>
+WINDLE ALAN H [GB]
+</Name>
+<Name>
+EDER, DOMINIK
+</Name>
+<Name>
+KINLOCH, IAN, A
+</Name>
+<Name>
+WINDLE, ALAN, H
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV CAMBRIDGE TECH [GB]
+</Name>
+<Name>
+CAMBRIDGE ENTERPRISE LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1940742
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060779296
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006GB03277
+</PriorityNumber>
+<PriorityDate>
+2006-09-05
+</PriorityDate>
+<PriorityNumber>
+GB20050018139
+</PriorityNumber>
+<PriorityDate>
+2005-09-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01G23/04
+</Class>
+<Class>
+C01G23/053
+</Class>
+<Class>
+C01G23/08
+</Class>
+<Class>
+C09C1/36
+</Class>
+<Class>
+H01G9/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G23/04
+</Class>
+<Class>
+C01G23/053
+</Class>
+<Class>
+C01G23/08
+</Class>
+<Class>
+C09C1/36D6
+</Class>
+<Class>
+H01G9/20D2
+</Class>
+<Class>
+Y02E10/54D
+</Class>
+</NCL>
+<Abstract>
+A method for synthesising a titanium oxide nanostructures consisting at least predominantly of rutile phase comprises the steps of providing a nanostructured template;  coating the template with a titanium oxide containing colloidal phase, heat treating the titanium oxide coated template from to form a crystalline phase consisting at least predominantly of anatase phase;  further heat treating the titanium oxide coated template to convert the anatase phase into rutile phase.
+</Abstract>
+<Claims>
+<P>
+Claims :
+</P>
+<P>
+1. A method for synthesising a titanium oxide nanostructure which consists at least predominantly of rutile phase comprising the steps of: a) providing a nanostructured template; b) coating the template with a titanium oxide containing colloidal phase; c) first heat treatment of the titanium oxide coated template from b) to form a crystalline phase which consists at least predominantly of anatase phase; d) second heat treatment of the titanium oxide coated template from c) to convert the anatase phase into rutile phase.
+</P>
+<P>
+2. A method as claimed in Claim 1 , wherein the product consists only of rutile phase.
+</P>
+<P>
+3. A method as claimed in either one of the preceding claims, wherein the template comprises high aspect ratio cylinders or tubes.
+</P>
+<P>
+4. A method as claimed in any one of the preceding claims, wherein the template is of optionally doped carbon, a nitride, a sulfide, a carbide or gallium arsenide.
+</P>
+<P>
+5. A method as claimed in any one of the preceding claims, wherein the template is doped with nitrogen.
+</P>
+<P>
+6. A method as claimed in Claim 4 or Claim 5, wherein the template comprises carbon nanotubes, carbon nanofibres, carbon herringbones, carbon onions or a mixture thereof.
+</P>
+<P>
+7. A method as claimed in Claim 6, wherein the template comprises single walled carbon nanotubes, multi-wall carbon nanotubes or a mixture thereof.
+</P>
+<P>
+8. A method as claimed in any one of the preceding claims, wherein the template has a continuous or discontinuous coating of material .
+</P>
+<P>
+9. A method as claimed in Claim 8 , wherein the coating material comprises a Group VIB transition metal, a Group VIIIB transition metal, a lanthanide series metal, an actinide series metal, or a mixture thereof .
+</P>
+<P>
+10. A method as claimed in any one of the preceding claims, wherein the template is of a defined architecture.
+</P>
+<P>
+11. A method as claimed in Claim 8, wherein the template is a carbon nanotube mat.
+</P>
+<P>
+12. A method as claimed in any one of the preceding claims, wherein the components used to form the colloidal phase comprise titanium chloride, titanium isopropoxide, tetrabutyloxytitanate or a mixture thereof.
+</P>
+<P>
+13. A method as claimed in any one of the preceding claims wherein the components used to form the colloidal phase comprise water, alcohol, acetone, an organic particle shaper, or a mixture thereof.
+</P>
+<P>
+14. A method as claimed in any one of the preceding claims, wherein step b) comprises causing a sol-gel transition of the colloidal phase.
+</P>
+<P>
+15. A method as claimed in any one of the preceding claims, wherein the first heat treatment is carried out at a temperature in the range of 200&amp;lt;0&amp;gt;C to 500&amp;lt;0&amp;gt;C.
+</P>
+<P>
+16. A method as claimed in any one of the preceding claims, wherein the first heat treatment is carried out under an oxidising atmosphere.
+</P>
+<P>
+17. A method as claimed in any one of the preceding claims, wherein the second heat treatment is carried out at a temperature in the range of 550&amp;lt;0&amp;gt;C to 95O&amp;lt;0&amp;gt;C.
+</P>
+<P>
+18. A method as claimed in any one of the preceding claims, wherein the second heat treatment is carried out under a non-oxidising atmosphere.
+</P>
+<P>
+19. A method as claimed in Claim 18, wherein the atmosphere comprises nitrogen, inert gas or a mixture thereof.
+</P>
+<P>
+20. A method as claimed in Claim 18 or Claim 19, wherein the atmosphere comprises hydrogen.
+</P>
+<P>
+21. A method as claimed in any one of the preceding claims, wherein the second heat treatment is continuous or discontinuous.
+</P>
+<P>
+22. A method as claimed in any one of the preceding claims, further comprising the step of: e) removal of the template after step d) .
+</P>
+<P>
+23. A method as claimed in Claim 22, wherein step e) is carried out by oxidation at high temperature or by the use of acid.
+</P>
+<P>
+24. A method as claimed in any one of the preceding claims, further comprising the step of: f) Coating the surface of the titanium oxide with a continuous or discontinuous coating of material after step d) or step e) .
+</P>
+<P>
+25. A method as claimed in Claim 24, wherein the coating material comprises a Group VIB transition metal, a Group VIIIB transition metal, a lanthanide series metal, an actinide series metal, or a mixture thereof .
+</P>
+<P>
+26. A method as claimed in any one of the preceding claims, further comprising the step of: g) removing anatase phase.
+</P>
+<P>
+27. A method as claimed in any one of the preceding claims, wherein the wall thickness of the titanium oxide nanostructure is between 1 to 20 crystal layers .
+</P>
+<P>
+28. A titanium oxide nanostructure synthesised by a method as claimed in any one of the preceding claims .
+</P>
+<P>
+29. A titanium oxide-containing colloidal phase formed from components comprising: tetrabutyloxytitanate and/or titanium isopropoxide; benzylalcohol and/or acetone; and a solvent.
+</P>
+</Claims>
+<Also_published_as>
+WO2007028972A1;JP2009506975A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+HIGH FIDELITY NANO- STRUCTURES AND ARRAYS FOR PHOTOVOLTAICS AND METHODS OF MAKING THE SAME
+</Title>
+<PublicationNumber>
+EP2022100A2
+</PublicationNumber>
+<Inventor>
+<Name>
+DESIMONE JOSEPH M [US]
+</Name>
+<Name>
+ROTHROCK GINGER DENISON [US]
+</Name>
+<Name>
+ZHOU ZHILIAN [US]
+</Name>
+<Name>
+SAMULSKI EDWARD T [US]
+</Name>
+<Name>
+EARL MEREDITH [US]
+</Name>
+<Name>
+WILLIAMS STUART [US]
+</Name>
+<Name>
+DESIMONE, JOSEPH, M
+</Name>
+<Name>
+ROTHROCK, GINGER, DENISON
+</Name>
+<Name>
+ZHOU, ZHILIAN
+</Name>
+<Name>
+SAMULSKI, EDWARD, T
+</Name>
+<Name>
+EARL, MEREDITH
+</Name>
+<Name>
+WILLIAMS, STUART
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV NORTH CAROLINA [US]
+</Name>
+<Name>
+LIQUIDIA TECHNOLOGIES INC [US]
+</Name>
+<Name>
+THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL
+</Name>
+<Name>
+LIQUIDIA TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2022100
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070835750
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US11220
+</PriorityNumber>
+<PriorityDate>
+2007-05-09
+</PriorityDate>
+<PriorityNumber>
+US20060798858P
+</PriorityNumber>
+<PriorityDate>
+2006-05-09
+</PriorityDate>
+<PriorityNumber>
+US20060799876P
+</PriorityNumber>
+<PriorityDate>
+2006-05-12
+</PriorityDate>
+<PriorityNumber>
+US20060833736P
+</PriorityNumber>
+<PriorityDate>
+2006-07-27
+</PriorityDate>
+<PriorityNumber>
+US20070903719P
+</PriorityNumber>
+<PriorityDate>
+2007-02-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/04
+</Class>
+<Class>
+H01L31/072
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+H01L31/0352
+</Class>
+<Class>
+H01L51/00A2B2
+</Class>
+<Class>
+H01L51/42D2
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+A photovoltaic device includes an electron accepting material and an electron donating material. One of the electron accepting or donating materials is configured and dimensioned as a first component of a bulk heterojunction with a predetermined array of first structures, each first structure is substantially equivalent in three dimensional shape, has a substantially equivalent cross-sectional dimension, and where each first structure of the array of first structures has a substantially equivalent orientation with respect to adjacent first structures of the predetermined array forming a substantially uniform array.
+</Abstract>
+<Claims>
+<P>
+CLAIMS We claim:
+</P>
+<P>
+1. A photovoltaic device, comprising:
+</P>
+<P>
+a first component of a bulk heterojunction wherein the first component is configured and dimensioned with a predetermined array of first structures;
+</P>
+<P>
+wherein each first structure of the array of first structures is substantially equivalent in three dimensional shape; and
+</P>
+<P>
+wherein each first structure of the array of first structures has a substantially equivalent cross-sectional dimension, wherein the cross- sectional dimension is less than about 100 nm.
+</P>
+<P>
+2. The photovoltaic device of claim 1 , further comprising each first structure of the array of first structures having a substantially equivalent orientation with respect to adjacent first structures of the predetermined array forming a substantially uniform array.
+</P>
+<P>
+3. The photovoltaic device of claim 1 , wherein the three dimensional shape of the first structures of the first component comprises a cylinder.
+</P>
+<P>
+4. The photovoltaic device of claim 1 , wherein the three dimensional shape of the first structures of the first component comprises a column.
+</P>
+<P>
+5. The photovoltaic device of claim 1 , wherein the three dimensional shape of the first structures of the first component comprises a linear structure.
+</P>
+<P>
+6. The photovoltaic device of claim 1 , further comprising a second component, wherein the second component comprises an array of second structures having three dimensional shapes configured and dimensioned to engage the array of predetermined three dimensional shapes of the first structures of the first component.
+</P>
+<P>
+7. The photovoltaic device of claim 1 , wherein the predetermined array of first structures comprises a predetermined array having an overall dimension greater than about one square centimeter.
+</P>
+<P>
+8. The photovoltaic device of claim 1 , wherein the predetermined array of first structures comprises a predetermined array having an overall dimension greater than about 2.5 square centimeters.
+</P>
+<P>
+9. The photovoltaic device of claim 1 , wherein the predetermined array of first structures comprises a predetermined array having an overall dimension greater than about 5 square centimeters.
+</P>
+<P>
+10. The photovoltaic device of claim 1 , wherein the predetermined array of first structures comprises a predetermined array having an overall dimension greater than about 10 square centimeters.
+</P>
+<P>
+11. The photovoltaic device of claim 1 , wherein the predetermined array of first structures comprises a predetermined array having an overall dimension greater than about 15 square centimeters.
+</P>
+<P>
+12. The photovoltaic device of claim 1 , wherein the predetermined array of first structures comprises a predetermined array having an overall dimension greater than about 20 square centimeters.
+</P>
+<P>
+13. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 95 nm.
+</P>
+<P>
+14. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 90 nm.
+</P>
+<P>
+15. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 85 nm.
+</P>
+<P>
+16. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 80 nm.
+</P>
+<P>
+17. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 75 nm.
+</P>
+<P>
+18. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 70 nm.
+</P>
+<P>
+19. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 65 nm.
+</P>
+<P>
+20. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 60 nm.
+</P>
+<P>
+21. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 55 nm.
+</P>
+<P>
+22. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 50 nm.
+</P>
+<P>
+23. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 45 nm.
+</P>
+<P>
+24. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 40 nm.
+</P>
+<P>
+25. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 35 nm.
+</P>
+<P>
+26. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 30 nm.
+</P>
+<P>
+27. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 25 nm.
+</P>
+<P>
+28. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 20 nm.
+</P>
+<P>
+29. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 15 nm.
+</P>
+<P>
+30. The photovoltaic device of claim 1 , wherein the cross-sectional dimension of the three dimensional shape of the first structures of the first component is less than about 10 nm.
+</P>
+<P>
+31. The photovoltaic device of claim 6, wherein the three dimensional shapes of the second structures of the second component each have a cross-sectional dimension of less than about 100 nm.
+</P>
+<P>
+32. The photovoltaic device of claim 6, wherein the three dimensional shapes of the second structures of the second component each have a cross-sectional dimension of less than about 90 nm.
+</P>
+<P>
+33. The photovoltaic device of claim 6, wherein the three dimensional shapes of the second structures of the second component each have a cross-sectional dimension of less than about 80 nm.
+</P>
+<P>
+34. The photovoltaic device of claim 6, wherein the three dimensional shapes of the second structures of the second component each have a cross-sectional dimension of less than about 70 nm.
+</P>
+<P>
+35. The photovoltaic device of claim 6, wherein the three dimensional shapes of the second structures of the second component each have a cross-sectional dimension of less than about 60 nm.
+</P>
+<P>
+36. The photovoltaic device of claim 6, wherein the three dimensional shapes of the second structures of the second component each have a cross-sectional dimension of less than about 50 nm.
+</P>
+<P>
+37. The photovoltaic device of claim 6, wherein the three dimensional shapes of the second structures of the second component each have a cross-sectional dimension of less than about 40 nm.
+</P>
+<P>
+38. The photovoltaic device of claim 6, wherein the three dimensional shapes of the second structures of the second component each have a cross-sectional dimension of less than about 30 nm.
+</P>
+<P>
+39. The photovoltaic device of claim 6, wherein the three dimensional shapes of the second structures of the second component each have a cross-sectional dimension of less than about 20 nm.
+</P>
+<P>
+40. The photovoltaic device of claim 6, wherein the three dimensional shapes of the second structures of the second component each have a cross-sectional dimension of less than about 10 nm.
+</P>
+<P>
+41. The photovoltaic device of claim 1 , wherein the first component comprises a metal oxide.
+</P>
+<P>
+42. The photovoltaic device of claim 6, wherein the second component is a light absorbing material.
+</P>
+<P>
+43. The photovoltaic device of claim 1 , wherein the first component is crystalline, semicrystalline, or amorphous.
+</P>
+<P>
+44. The photovoltaic device of claim 1 , wherein the first component comprises a material selected from the group consisting of TiO2, P3HT, PCBM, ITO, and PPV.
+</P>
+<P>
+45. The photovoltaic device of claim 1 , wherein the first component comprises an electron donating material.
+</P>
+<P>
+46. The photovoltaic device of claim 1 , further comprising a second component of the bulk heterojunction, wherein the second component is deposited within interstitial space of the predetermined array of first structures.
+</P>
+<P>
+47. The photovoltaic device of claim 1 , wherein the three dimensional shape of the first structures of the first component comprises a cone.
+</P>
+<P>
+48. A photovoltaic device, comprising:
+</P>
+<P>
+a first component of a bulk heterojunction, wherein the first component is configured and dimensioned with a substantially uniform array of first structures fabricated from a mold, and wherein each structure is substantially equivalent in three dimensional shape.
+</P>
+<P>
+49. The photovoltaic device of claim 48, wherein the mold comprises a fluoropolymer.
+</P>
+<P>
+50. The photovoltaic device of claim 49, wherein the fluoropolymer comprises a PFPE or a precursor from PFPE.
+</P>
+<P>
+51. The photovoltaic device of claim 48, wherein the three dimensional shape of the first structures of the first component include a cylinder, a column, or a linear structure.
+</P>
+<P>
+52. The photovoltaic device of claim 48, wherein the substantially uniform array of first structures includes a predetermined substantially uniform array having an overall dimension greater than about one square centimeter, greater than about 2.5 square centimeters, greater than about 5 square centimeters, greater than about 10 square centimeters, greater than about 15 square centimeters, or greater than about 20 square centimeters.
+</P>
+<P>
+53. A photovoltaic device, comprising:
+</P>
+<P>
+a first component configured and dimensioned with a predetermined substantially uniform array of substantially similar three dimensional shaped first structures, wherein the predetermined substantially uniform array of substantially similar three dimensional shaped first structures is prepared by the process of:
+</P>
+<P>
+molding the predetermined substantially uniform array of substantially similar three dimensional shaped first structures in the fluoropolymer mold.
+</P>
+<P>
+54.A method of forming a photovoltaic device, comprising:
+</P>
+<P>
+providing a fluoropolymer mold defining an array of substantially equivalently three dimensionally structured cavities;
+</P>
+<P>
+introducing a first material into the substantially equivalently three dimensionally structured cavities of the fluoropolymer mold;
+</P>
+<P>
+hardening the first material in the substantially equivalently three dimensionally structured cavities of the fluoropolymer mold; and
+</P>
+<P>
+removing the hardened first material from the substantially equivalently three dimensionally structured cavities of the fluoropolymer mold.
+</P>
+<P>
+55. The method of claim 54, wherein the fluoropolymer mold comprises perfluoropolyether or a precursor of perfluoropolyether.
+</P>
+<P>
+56. The method of claim 54, wherein the substantially equivalently structured cavities comprise a cavity having a cross-sectional dimension of less than about 100 nm.
+</P>
+<P>
+57. The method of claim 54, wherein the array of substantially equivalents structured cavities comprise an overall dimension of greater than about one square centimeter.
+</P>
+<P>
+58. The method of claim 54, wherein the array of substantially equivalent^ structured cavities comprise an overall dimension of greater than about 5 square centimeters.
+</P>
+<P>
+59. The method of claim 54, wherein the array of substantially equivalents structured cavities comprise an overall dimension of greater than about 10 square centimeters.
+</P>
+<P>
+60. The method of claim 54, wherein the array of substantially equivalently structured cavities comprise an overall dimension of greater than about 20 square centimeters.
+</P>
+<P>
+61. A photovoltaic device, comprising;
+</P>
+<P>
+an active electron donating component configured and dimensioned with a predetermined substantially uniform array of first structures;
+</P>
+<P>
+wherein each first structure of the array of first structures is substantially equivalent in three dimensional shape;
+</P>
+<P>
+wherein each first structure of the array of first structures has a substantially equivalent orientation with respect to adjacent first structures of the substantially uniform array; and
+</P>
+<P>
+wherein each first structure of the array of first structures has a substantially equivalent cross-sectional dimension.
+</P>
+</Claims>
+<Also_published_as>
+WO2008018936A2;WO2008018936A3;US2010147365A1;KR20090025229A;JP2009536790A
+</Also_published_as>
+</BiblioData>

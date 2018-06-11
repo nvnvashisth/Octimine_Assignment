@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method for modulating shapes of substrates
+</Title>
+<PublicationNumber>
+EP2099066A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHOI BYUNG-JIN [US]
+</Name>
+<Name>
+VOISIN RONALD D [US]
+</Name>
+<Name>
+SREENIVASAN SIDLGATA V [US]
+</Name>
+<Name>
+WATTS MICHAEL P C [US]
+</Name>
+<Name>
+BABBS DANIEL A [US]
+</Name>
+<Name>
+MEISSL MARIO J [US]
+</Name>
+<Name>
+BAILEY HILLMAN L [US]
+</Name>
+<Name>
+SCHUMAKER NORMAN E [US]
+</Name>
+<Name>
+CHOI, BYUNG-JIN
+</Name>
+<Name>
+VOISIN, RONALD, D
+</Name>
+<Name>
+SREENIVASAN, SIDLGATA, V
+</Name>
+<Name>
+WATTS, MICHAEL, P.C
+</Name>
+<Name>
+BABBS, DANIEL, A
+</Name>
+<Name>
+MEISSL, MARIO, J
+</Name>
+<Name>
+BAILEY, HILLMAN, L
+</Name>
+<Name>
+SCHUMAKER, NORMAN, E
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MOLECULAR IMPRINTS INC [US]
+</Name>
+<Name>
+MOLECULAR IMPRINTS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2099066
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090163924
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-11-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030768879
+</PriorityNumber>
+<PriorityDate>
+2003-11-12
+</PriorityDate>
+<PriorityNumber>
+US20020293224
+</PriorityNumber>
+<PriorityDate>
+2002-11-13
+</PriorityDate>
+<PriorityNumber>
+US20020316963
+</PriorityNumber>
+<PriorityDate>
+2002-12-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B25B11/00
+</Class>
+<Class>
+B81C99/00
+</Class>
+<Class>
+G03B27/62
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F7/20
+</Class>
+<Class>
+H01L21/68
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03B27/62
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G03F7/70N2
+</Class>
+<Class>
+G03F7/70P6B2
+</Class>
+<Class>
+H01L21/683V
+</Class>
+<Class>
+H01L21/687S
+</Class>
+<Class>
+H01L21/687S6
+</Class>
+</NCL>
+<Abstract>
+The present invention is directed to a chucking system (40) and method for modulating shapes of a substrate (26), having first (26b) and second opposed surfaces (26a). This is achieved by creating a pressure differential between differing regions of the first opposed surface to attenuate structural distortions in the second opposed surface that results from external forces bearing on the substrate. To that end, the chucking system includes a chuck body having first and second opposed sides. A side surface extends therebetween. The first side includes first (58) and second (60) spaced-apart support regions. The first support region cinctures the second support region and the first (52) and second (54) recesses.;  The second support region cinctures the second recess, with a portion of the body in superimposition with the second recess being transparent to radiation having a predetermined wavelength. The second side and the side surface define exterior surfaces.
+</Abstract>
+<Claims>
+<P>
+1. A method for modulating shapes of a substrate during imprint lithography processes,
+</P>
+<P>
+the substrate (26) having first and second opposed surfaces (26a, 26b), said method comprising:
+</P>
+<P>
+creating a pressure differential between differing regions (44a, 44b) of said first opposed surface (26b) to attenuate structural distortions in said second opposed surface (26a).
+</P>
+<P>
+2. The method as recited in claim 1 wherein said step of creating further includes:
+</P>
+<P>
+subjecting a first subset (44a) of said regions (44a, 44b) to a pulling force and
+</P>
+<P>
+subjecting a second subset (44b) of said regions (44a, 44b) to a pushing force to establish a sub-portion of said second opposed surface (26a) to have a desired predetermined shape.
+</P>
+<P>
+3. The method as recited in claim 1 wherein said step of creating further includes:
+</P>
+<P>
+subjecting a first subset (44a) of said regions (44a, 44b) to a pulling force that is substantially greater than a pulling force associated with the remaining regions of said differing regions, with said first subset (44a) being contiguous and positioned proximate to a periphery of said substrate (26).
+</P>
+<P>
+4. The method as recited in any one of claims from 1 to 3 further including applying compressive forces (F1, F2, F3, F4, F5, F6) to said substrate (26) to vary dimensions thereof that induce a bending action, with creating further including creating a pulling force to attenuate said bending action and maintain a desired predetermined shape of said portion of said second side.
+</P>
+<P>
+5. The method as recited in any one of claims 1 or 2 or 4 wherein creating further includes establishing a first (44a) of said differing regions to cincture a second (44b) of said differing regions, with said first region (44a) having a pulling force applied thereto and said second region (44b) having a pushing force present thereon.
+</P>
+<P>
+6. The method as recited in any one of the preceding claims 1 or 2 or 5 further including providing said second surface (26a) with a mold (28) having a pattern thereon and a wafer having an imprinting layer (34) disposed thereon facing said pattern and contacting said imprinting layer (34) with said mold (28), wherein creating further includes:
+</P>
+<P>
+providing a chuck body (42) having first and second opposed sides (46, 48) with an edge surface (50) extending therebetween, said first side including first and second spaced-apart recesses (52, 54) defining first and second spaced apart support regions (56, 58),
+</P>
+<P>
+resting said substrate (26) against said first and second support regions (56, 58), covering said first and second recesses (52, 54), with said first recess (52) and the portion of said substrate in superimposition therewith defining a first chamber (52a) and said second recess (54) and the portion of said substrate in superimposition therewith defining a second chamber (54a), with said pressure differential being created by establishing differing pressure levels within said first and second chambers, and
+</P>
+<P>
+establishing a positive pressure within said second chamber (54a) after contacting said imprinting layer (34) with said mold (28).
+</P>
+<P>
+7. The method as recited in claim 6 further including separating said mold (28) from said imprinting layer (34) and evacuating said second chamber (54a) before separating said mold (28) from said imprinting layer (34).
+</P>
+<P>
+8. The method of claim 6, further comprising:
+</P>
+<P>
+detecting a magnitude of a force (R) to which mold (28) is subjected during an imprinting process by means of a pressure sensor (18d),
+</P>
+<P>
+transmitting the information produced by the pressure sensor to a processor (71) in data communication therewith and,
+</P>
+<P>
+in response to the information obtained from sensor (18d), controlling with processor (71) a pump system (70) to establish pressure within chambers (52a) and (54a) to compensate for force (R) so that substrate (26) and, therefore mold (28), have a desired predetermined shape.
+</P>
+<P>
+9. The method of claim 8, wherein the pressure in the first and second chamber (52a and 54a) is established based upon a priori knowledge of force (R) during an imprinting process from previous imprinting processes that was detected by pressure sensor (18d).
+</P>
+<P>
+10. The method of claim 6 or 7 wherein the positive pressure established in the second chamber (54a) to obtain a desired predetermined shape of substrate 26 and, therefore, mold (28), is greater than the vacuum pressure established in the first chamber (52a).
+</P>
+<P>
+11. The method of claim 10, wherein after mold (28) imprints the pattern in imprinting layer (34), pressure in the second chamber (54a) may be adjusted to establish a vacuum therein so that all chambers (52a and 54a) have a vacuum to facilitate separation of mold (28) from imprinting layer (34), while maintaining the relative position between chuck body (42) and substrate (26).
+</P>
+<P>
+12. The method of any one of claims 6 to 11, further comprising compressing the substrate (26) in X and Y directions, wherein the X and Y directions are located in the plane of the substrate.
+</P>
+<P>
+13. The method of claim 12, wherein said compressing is obtained using a fluid-tight bladder system surrounding a periphery surface of the substrate (26) and comprising one or more bladders (72a, 72b) in fluid communication with pump system (70) to control the fluid pressure in bladders (72a, 72b).
+</P>
+<P>
+14. The method of claim 13 wherein compressing substrate 26 may be obtained using in addition to, or in lieu of, bladder system, a vice actuators or piezoelectric actuators.
+</P>
+</Claims>
+<Also_published_as>
+EP2099066B1;WO2004044651A1;WO2004044651B1;TWI302228B;KR20050086591A;JP2006506814A;EP2261966A2;EP2261966A3;EP2261966B1;EP1567913A1;EP1567913A4;EP1567913B1;DE20320446U1;AU2003291477A8;AU2003291477A1;AT549743T;AT540427T;AT438197T
+</Also_published_as>
+</BiblioData>

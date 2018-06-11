@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method of detecting a movement of a measuring probe and measuring instrument
+</Title>
+<PublicationNumber>
+EP2163906A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ILLERS HARTMUT [DE]
+</Name>
+<Name>
+DANZENBRINK HANS ULLRICH [DE]
+</Name>
+<Name>
+SAITO AKINORI [JP]
+</Name>
+<Name>
+HIDAKA KAZUHIKO [NL]
+</Name>
+<Name>
+ILLERS, HARTMUT
+</Name>
+<Name>
+DANZENBRINK, HANS ULLRICH
+</Name>
+<Name>
+SAITO, AKINORI
+</Name>
+<Name>
+HIDAKA, KAZUHIKO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MITUTOYO CORP [JP]
+</Name>
+<Name>
+BUNDESREPUBLIK DEUTSCHLAND END [DE]
+</Name>
+<Name>
+MITUTOYO CORPORATION
+</Name>
+<Name>
+BUNDESREPUBLIK DEUTSCHLAND ENDVERTRETEN DURCH DENPRAESIDENTEN DER PHYSIKALISCH-TECHNISCHEN BUNDESANS
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2163906
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080016297
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-09-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20080016297
+</PriorityNumber>
+<PriorityDate>
+2008-09-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01B9/00
+</Class>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q30/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01B9/02
+</Class>
+<Class>
+G01Q20/02
+</Class>
+</NCL>
+<Abstract>
+A method of detecting a movement of a measuring probe provided between an objective lens adapted to image an object plane on a predetermined image plane and the object plane is disclosed. Additionally, a measuring instrument comprising an objective lens and a measuring probe is disclosed. An input beam of light is split into a measurement beam and a reference beam. The measurement beam is focused on a reverse focal plane of the objective lens such that the measurement beam is collimated by the objective lens. The collimated measurement beam is reflected at the measuring probe. The reflected measurement beam is directed towards the objective lens such that the objective lens focuses the reflected measurement beam on the reverse focal plane. The reflected measurement beam is collimated. The collimated reference beam and the reference beam are superimposed to form a superimposed beam and an interference between the reflected measurement beam and the reference beam is detected.
+</Abstract>
+<Claims>
+<P>
+1. A method of detecting a movement of a measuring probe provided between an objective lens adapted to image an object plane on a predetermined image plane and said object plane, comprising:
+</P>
+<P>
+splitting an input beam of light into a measurement beam and a reference beam;
+</P>
+<P>
+focusing said measurement beam on a reverse focal plane of said objective lens such that said measurement beam is collimated by said objective lens;
+</P>
+<P>
+reflecting said collimated measurement beam at said measuring probe, said reflected measurement beam being directed towards said objective lens such that said objective lens focuses said reflected measurement beam on said reverse focal plane;
+</P>
+<P>
+collimating said reflected measurement beam;
+</P>
+<P>
+superimposing said collimated reflected measurement beam and said reference beam to form a superimposed beam; and
+</P>
+<P>
+detecting an interference between said reflected measurement beam and said reference beam.
+</P>
+<P>
+2. A method as in claim 1, further comprising:
+</P>
+<P>
+utilizing a polarizing beam splitter for splitting said input beam, wherein said polarizing beam splitter is adapted such that said measurement beam and said reference beam are linearly polarized, wherein an initial polarization direction of said measurement beam is orthogonal to an initial polarization direction of said reference beam;
+</P>
+<P>
+modifying a polarization state of said measurement beam and said reflected measurement beam such that a polarization direction of said reflected measurement beam is orthogonal to the initial polarization direction of the measurement beam; and
+</P>
+<P>
+modifying a polarization state of said reference beam to obtain a polarization direction of said reference beam orthogonal to the initial polarization direction of the reference beam,wherein said polarization states are modified before forming said superimposed beam.
+</P>
+<P>
+3. A method as in claim 1, wherein said polarization states of said measurement beam and said reflected measurement beam are modified between said objective lens and said measuring probe.
+</P>
+<P>
+4. A method as in any of claims 2 and 3, wherein said input beam comprises at least one of unpolarized light, elliptically polarized light and linearly polarized light having a polarization direction intermediate the initial polarization direction of the measurement beam and the initial polarization direction of the reference beam.
+</P>
+<P>
+5. A method as in any of claims 1 to 4, further comprising:
+</P>
+<P>
+selecting a first polarization component of said superimposed beam, said first polarization component having a polarization direction intermediate the polarization direction of the reflected measurement beam obtained after the modification of the polarization state of the reflected measurement beam and the polarization direction of the reference beam obtained after the modification of the polarization state of the reference beam; and
+</P>
+<P>
+measuring an intensity of said first polarization component.
+</P>
+<P>
+6. A method as in claim 5, further comprising:
+</P>
+<P>
+selecting a second polarization component of said superimposed beam, said second polarization component having a polarization direction orthogonal to the polarization direction of the first polarization component; and
+</P>
+<P>
+measuring an intensity of said second polarization component.
+</P>
+<P>
+7. A method as in any of claims 1 to 6, wherein said input beam comprises light within a predetermined wavelength band, and wherein said method further comprises:
+</P>
+<P>
+providing a wavelength selective mirror adapted to reflect light within said predetermined wavelength band along an optical axis of said objective lens, said wavelength selective mirror being arranged between said objective lens and said image plane;
+</P>
+<P>
+reflecting said measurement beam into a direction parallel to said optical axis of said objective lens toward said objective lens by means of said wavelength selective mirror;
+</P>
+<P>
+reflecting said reflected measurement beam from said objective lens into a direction angled to said optical axis of said objective lens by means of said wavelength selective mirror; and
+</P>
+<P>
+imaging an object located in said object plane by means of said objective lens using light having a wavelength outside said predetermined wavelength band.
+</P>
+<P>
+8. A measuring instrument, comprising:
+</P>
+<P>
+an objective lens adapted to image an object plane on a predetermined image plane;
+</P>
+<P>
+a light source adapted to emit an input beam;
+</P>
+<P>
+a beam splitter adapted to split said input beam into a measurement beam and a reference beam;
+</P>
+<P>
+means for focusing said measurement beam on a reverse focal plane of said objective lens such that said measurement beam is collimated by said objective lens;
+</P>
+<P>
+a reference reflector adapted to reflect said reference beam towards said beam splitter; and
+</P>
+<P>
+a measuring probe having a reflective element located between said objective lens and said object plane, wherein said reflective element is adapted to reflect said collimated measurement beam back towards said objective lens such that said objective lens focuses said reflected measurement beam on said reverse focal plane and said means for focusing said measurement beam direct said reflected measurement beam towards said beam splitter;wherein said beam splitter is adapted to superimpose said reflected reference beam and said reflected measurement beam to form a superimposed beam; and
+</P>
+<P>
+wherein said measuring instrument further comprises means for detecting an interference of said reflected reference beam and said reflected measurement beam superimposed with each other.
+</P>
+<P>
+9. A measuring instrument as in claim 8, wherein said beam splitter comprises a polarizing beam splitter adapted to form a linearly polarized measurement beam and a linearly polarized reference beam, wherein an initial polarization direction of said measurement beam is orthogonal to an initial polarization direction of said reference beam;
+</P>
+<P>
+means for modifying a polarization state of said measurement beam and said reflected measurement beam such that a polarization direction of said reflected measurement beam is orthogonal to the initial polarization direction of the measurement beam; and
+</P>
+<P>
+means for modifying a polarization state of said reference beam and said reflected reference beam such that a polarization direction of said reflected measurement beam is orthogonal to the initial polarization direction of the reference beam;
+</P>
+<P>
+wherein said means for modifying the polarization state of the measurement beam and the reflected measurement beam are provided between said objective lens and said measuring probe.
+</P>
+<P>
+10. A measuring instrument as in claim 9, wherein said light source is adapted to provide at least one of an unpolarized input beam, an elliptically polarized input beam and a linearly polarized input beam having a polarization direction intermediate the polarization direction of the measurement beam and the polarization direction of the reference beam.
+</P>
+<P>
+11. A measuring instrument as in any of claims 9 and 10, wherein said polarizing beam splitter is adapted to reflect light having a polarization direction lying in a first plane and to transmit light having a polarization direction lying in a second plane orthogonal to the first plane.
+</P>
+<P>
+12. A measuring instrument as in any of claims 9 to 11, wherein said means for detecting an interference comprise:
+</P>
+<P>
+a first detector adapted to produce a first signal representative of an intensity of light impinging thereon; and
+</P>
+<P>
+a polarizer adapted to select light having a third polarization direction intermediate the polarization direction of the reflected measurement beam after the modification of the polarization of the measurement beam and the polarization direction of the reflected reference beam after the modification of the polarization of the reflected measurement beam and to supply said light having said third polarization direction to said first detector.
+</P>
+<P>
+13. A measuring instrument as in claim 12,
+</P>
+<P>
+further comprising a second detector adapted to produce a second signal representative of an intensity of light impinging thereon;
+</P>
+<P>
+wherein said polarizer is further configured to select light having a fourth polarization direction orthogonal to the third polarization direction and to supply said light having said fourth polarization direction to said second detector.
+</P>
+<P>
+14. A measuring instrument as in claim 13, wherein said polarizer comprises a polarizing beam splitter adapted to reflect one of said light having said third polarization direction and said light having said fourth polarization direction and to transmit the other of said light having said third polarization direction and said light having said fourth polarization direction.
+</P>
+<P>
+15. A measuring instrument as in any of claims 8 to 14, wherein said light source is adapted to emit light within a predetermined wavelength band, and wherein means for focusing said measurement beam comprise:
+</P>
+<P>
+a focusing optical element adapted to focus said measurement beam; and
+</P>
+<P>
+a wavelength selective mirror arranged along an optical axis of said objective lens, said wavelength selective mirror being adapted to reflect light within said predetermined wavelength band, wherein said wavelength selective mirror is provided along an optical axis of said objective lens and oriented such that light from said focusing optical element is reflected towards said objective lens.
+</P>
+</Claims>
+<Also_published_as>
+US2010067021A1;JP2010071989A
+</Also_published_as>
+</BiblioData>

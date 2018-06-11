@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Semiconductor nanocrystal probes for biological applications
+</Title>
+<PublicationNumber>
+EP2180321A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WEISS SHIMON [US]
+</Name>
+<Name>
+BRUCHEZ MARCEL [US]
+</Name>
+<Name>
+ALVISATOS PAUL [US]
+</Name>
+<Name>
+WEISS, SHIMON
+</Name>
+<Name>
+BRUCHEZ, MARCEL
+</Name>
+<Name>
+ALVISATOS, PAUL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV CALIFORNIA [US]
+</Name>
+<Name>
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2180321
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090014899
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2000-02-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20000915944
+</PriorityNumber>
+<PriorityDate>
+2000-02-28
+</PriorityDate>
+<PriorityNumber>
+US19990259982
+</PriorityNumber>
+<PriorityDate>
+1999-03-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N21/64
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/542
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/58
+</Class>
+<Class>
+G01Q70/08
+</Class>
+<Class>
+G01Q70/18
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+C09K11/02B
+</Class>
+<Class>
+C09K11/56B2
+</Class>
+<Class>
+C09K11/88B2
+</Class>
+<Class>
+C09K11/89
+</Class>
+<Class>
+C09K11/89B
+</Class>
+<Class>
+C12Q1/68B2
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/542
+</Class>
+<Class>
+G01N33/543K2
+</Class>
+<Class>
+G01N33/58J
+</Class>
+</NCL>
+<Abstract>
+A semiconductor nanocrystal compound capable of linking to one or more affinity molecules comprising (1) one or more semiconductor nanocrystals capable of, in response to exposure to a first energy, providing a second energy, and (2) one or more linking agents, having a first portion linked to the one or more semiconductor nanocrystals and a second portion capable of linking to one or more affinity molecules. One or more of semiconductor nanocrystal compounds linked to one or more affinity molecules to form a semiconductor nanocrystal probe capable of bonding with one or more detectable substances in a material being analyzed, and are capable of, in response to exposure to a first energy, providing a second energy. The probe is capable of emitting electromagnetic radiation in a narrow wavelength band and/or absorbing, scattering, or diffracting energy when excited by an electromagnetic radiation source of narrow or broad bandwidth, or a particle beam. The probe is stable to repeated exposure to energy in the presence of oxygen and/or other radicals.
+</Abstract>
+<Claims>
+<P>
+1. A semiconductor nanocrystal/protein conjugate capable of providing a second energy in response to exposure to a first energy, comprising:
+</P>
+<P>
+a semiconductor nanocrystal;
+</P>
+<P>
+a first linking agent attached to the nanocrystal; and
+</P>
+<P>
+a protein attached to the first linking agent and capable of selectively binding to a proximal structure, wherein the proximal structure is capable of receiving the second energy and providing a detectable signal in response to the second energy.
+</P>
+<P>
+2. A semiconductor nanocrystal/protein conjugate capable of providing a second energy in response to exposure to a first energy, comprising:
+</P>
+<P>
+a semiconductor nanocrystal;
+</P>
+<P>
+a first linking agent attached to the nanocrystal;
+</P>
+<P>
+a second linking agent attached to the first linking agent; and
+</P>
+<P>
+a protein attached to the second linking agent and capable of selectively binding to a proximal structure, wherein the proximal structure is capable of receiving the second energy and providing a detectable signal in response to the second energy.
+</P>
+<P>
+3. A semiconductor nanocrystal compound capable of linking to one or more affinity molecules and capable of, in response to exposure to a first energy from a proximal source, providing a second energy, said semiconductor nanocrystal compound comprising:
+</P>
+<P>
+a) one or more semiconductor nanocrystals, each capable of, in response to exposure to said first energy, providing said second energy; and
+</P>
+<P>
+b) one or more first linking agents, at least a portion of which said linking agents are linked to said one or more semiconductor nanocrystals, each of said one or more linking agents are capable of linking to (i) one or more second linking agents or (ii) one or more affinity molecules.
+</P>
+<P>
+4. The semiconductor nanocrystal compound of claim 3 wherein the proximal source is a first semiconductor nanocrystal or wherein at least one of said one or more first linking agents comprises a three-dimensional shaped structure capable of having linked thereto said one or more semiconductor nanocrystals.
+</P>
+<P>
+5. The semiconductor nanocrystal compound of claim 4 wherein said three-dimensional shaped structure comprises a medium transparent to, capable of transferring or both transparent to and capable of transferring:
+</P>
+<P>
+a) said first energy to which said one or more semiconductor nanocrystals is exposed; and
+</P>
+<P>
+b) said second energy provided by said semiconductor nanocrystals in response to said exposure to said first energy.
+</P>
+<P>
+6. A semiconductor nanocrystal compound capable of linking to one or more affinity molecules and capable of, in response to exposure to a first energy, providing second energy, said semiconductor nanocrystal compound comprising:
+</P>
+<P>
+a) one or more semiconductor nanocrystals, each capable of, in response to exposure to said first energy, providing said second energy; and
+</P>
+<P>
+b) one or more first linking agents, at least a portion of which said linking agents are linked to said one or more semiconductor nanocrystals, each of said one or more first linking agents are capable of linking to (i) one or more second linking agents or (ii) one or more affinity molecules, wherein at least one of staid one or more first linking agents comprises a three-dimensional shaped structure capable of having linked thereto said one or more semiconductor nanocrystals.
+</P>
+<P>
+7. A semiconductor nanocrystal probe capable of:
+</P>
+<P>
+I) in response to a first energy from proximal source, providing a second energy comprising:
+</P>
+<P>
+i) one or more semiconductor nanocrystal compounds; and
+</P>
+<P>
+ii) one or more affinity molecules linked to said one or more semiconductor nanocrystal compounds;
+</P>
+<P>
+II) bonding with one or more detectable substances and capable of, in response to exposure to a first energy from a proximal source, providing a second energy, said semiconductor nanocrystal probe comprising:
+</P>
+<P>
+a) one or more semiconductor nanocrystals, each capable of, in response to exposure to said first energy, providing said second energy;
+</P>
+<P>
+b) one or more first linking agents, to which said one or more semiconductor nanocrystals are linked each of said one or more first linking agents capable of linking to:
+</P>
+<P>
+i) one or more second linking agents; or
+</P>
+<P>
+ii) one or more affinity molecules; and
+</P>
+<P>
+c) one or more affinity molecules linked either to said one or more second linking agents or to said one or more first linking agents, each of said one or more affinity molecules capable of selectively bonding to said one or more detectable substances; or
+</P>
+<P>
+III) bonding with one or more detectable substances and capable of, in response to exposure to a first energy, providing a second energy, comprising:
+</P>
+<P>
+a) one or more semiconductor nanocrystals, each capable of, in response to exposure to said first energy, providing said second energy;
+</P>
+<P>
+b) one or more first linking agents, at least one of said one or more first linking agents comprising a three-dimensional shaped structure capable of having linked thereto said one or more semiconductor nanocrystals, each of said one or more first linking agents capable of linking to:
+</P>
+<P>
+i) one or more second linking agents; or
+</P>
+<P>
+ii) one or more affinity molecules; and
+</P>
+<P>
+c) one or more affinity molecules linked either to said one or more second linking agents or to said one or more first linking agents, each of said one or more affinity molecules capable of selectively bonding to said one or more detectable substances; wherein at least one of said one or more semiconductors nanocrystals optionally comprises:
+</P>
+<P>
+a) a core; and
+</P>
+<P>
+b) one or more shells, concentrically disposed around the core.
+</P>
+<P>
+8. The modified semiconductor nanocrystal probe of claim 7 wherein:
+</P>
+<P>
+a) said one or more affinity molecules comprises one or more strands of nucleic acid;
+</P>
+<P>
+b) said one or more affinity molecules comprises one or more first protein molecules;
+</P>
+<P>
+c) said one or more affinity molecules comprises one or more small molecules;
+</P>
+<P>
+d) said three-dimensional shaped structure comprises a medium transparent to, capable of transferring or both transparent to and capable of transferring:
+</P>
+<P>
+i) said first energy to which said one or more semiconductor nanocrystals is exposed; and
+</P>
+<P>
+ii) said second energy provided by said semiconductor nanocrystals in response to said exposure is said first energy; or
+</P>
+<P>
+e) each of said one or more affinity molecules comprises a molecule of one or more strands of nucleic acid, and each of said one or more detectable substances comprises a molecule of one or more strands of nucleic acid with which said probe bonds.
+</P>
+<P>
+9. A process for forming a semiconductor nanocrystal compound capable of linking to one or more affinity molecules and capable of, in response to exposure to a first energy, providing a second energy, said semiconductor nanocrystal compound, said process comprising linking together:
+</P>
+<P>
+a) one or more semiconductor nanocrystals, each capable of, in response to exposure to said first energy, providing said second energy; and
+</P>
+<P>
+b) one or more linking agents, wherein said step of linking said one or more semiconductor nanocrystals to said one or more first linking agents further comprises linking said one or more semiconductor nanocrystals to one or more three-dimensional shaped structures comprising said one or more first linking agents.
+</P>
+<P>
+10. A process for forming a semiconductor nanocrystal probe capable of bonding with one or more detectable substances and capable of, in response to exposure to a first energy, providing a second energy, said process comprising the steps of:
+</P>
+<P>
+a) linking one or more first linking agents with one or more semiconductor nanocrystals, said semiconductor nanocrystals each capable of, in response to exposure to said first energy, providing said second energy; and
+</P>
+<P>
+b) linking said one or more first linking agents to either:
+</P>
+<P>
+i) one or more second linking agents; or
+</P>
+<P>
+ii) one or more affinity molecules capable of selectively bonding to said one or more detectable substances; and
+</P>
+<P>
+c) linking said one or more affinity molecules to said one or more second linking agents when said one or more first linking agents are linked to said one or more second linking agents,
+</P>
+<P>
+wherein said step of linking said one or more semiconductor nanocrystals to said one or more first linking agents further comprises linking said one or more semiconductor nanocrystals to one or more three-dimensional shaped structures comprising said one or more first linking agents.
+</P>
+<P>
+11. A process for treating a material by introducing one or more semiconductor nanocrystal probes into said material which comprises:
+</P>
+<P>
+a) contacting said material with one or more semiconductor nanocrystal probes, said one or more semiconductor nanocrystal probes each comprising
+</P>
+<P>
+i) one or more semiconductor nanocrystals, each capable of, in response to exposure to a first energy, providing a second energy;
+</P>
+<P>
+ii) one or more first linking agents, to which said one or more semiconductor nanocrystals are linked, each said one or more first linking agents capable of linking to:
+</P>
+<P>
+a) one or more second linking agents; or
+</P>
+<P>
+b) one or more affinity molecules; and
+</P>
+<P>
+iii) one ore more affinity molecules linked either to said one or more second linking agents or to said one or more first linking agents;
+</P>
+<P>
+b) exposing said one or more semiconductor nanocrystal probes in said material to said first energy whereby said second energy is provided by said one or more semiconductor nanocrystals in said one or more semiconductor nanocrystal probes;
+</P>
+<P>
+c) transferring said second energy from said one or more semiconductor nanocrystal probes to one or more first proximal structures; and
+</P>
+<P>
+d) detecting a detectable signal provided by said one or more proximal structures.
+</P>
+<P>
+12. The process for treating a material of claim 11 wherein at least one of said or more first proximal structures undergoes a chemical change in response to said second energy transferred from said one or more semiconductor nanocrystal probes to said one or more first proximal structures.
+</P>
+<P>
+13. A process for treating a material using one or more semiconductor nanocrystal probes to determine the presence of one or more detectable substances in said material which comprises:
+</P>
+<P>
+a) contacting said material with one or more semiconductor nanocrystal probes, said one or more semiconductor nanocrystal probes each comprising:
+</P>
+<P>
+i) one or more semiconductor nanocrystals, each capable of, in response to exposure to a first energy, providing a second energy,
+</P>
+<P>
+ii) one or more first linking agents, to which said one or more semiconductor nanocrystals are linked, each of said one or more first linking agents capable of linking to:
+</P>
+<P>
+1) one or more second linking agents, or
+</P>
+<P>
+2) one or more affinity molecules, and
+</P>
+<P>
+3) one or more affinity molecules linked either to said one or more second linking agents or to said one or more first linking agents, each of said one or more affinity molecules capable of selectively bonding to said one or more detectable substances;
+</P>
+<P>
+b) exposing said one or more semiconductor nanocrystal probes to said first energy; and
+</P>
+<P>
+c) detecting said second energy provided by said one or more semiconductor nanocrystals in said one or more semiconductor nanocrystal probes bonded to said one or more detectable substances in said material,wherein said material is flowed through one or more compartments transparent to
+</P>
+<P>
+i) said first energy to which said material is exposed, and
+</P>
+<P>
+ii) said second energy provided by said one or more semiconductor nanocrystal probes in response to said first energy.
+</P>
+<P>
+14. The process for treating a material of claim 13 wherein:
+</P>
+<P>
+a) said first energy is transferred from one or more proximal sources to said one or more semiconductor nanocrystal probes;
+</P>
+<P>
+b) said second energy indicates the concentration of at least one of said one or more proximal sources;
+</P>
+<P>
+c) said second energy indicates the distance between at least one of said one or more proximal sources and at least one of said one or more semiconductor nanocrystal probes;
+</P>
+<P>
+d) said first energy to which said one or more semiconductor nanocrystals are exposed, is transmitted through said one or more proximal sources from an energy source separate from said one or more proximal sources; or
+</P>
+<P>
+e) at least one of said one or more first linking agents comprises a three-dimensional structure.
+</P>
+<P>
+15. A process for treating a material to determine the presence of one or more detectable substances in said material which comprises:
+</P>
+<P>
+a) contacting said material with one or more semiconductor nanocrystal probes capable of bonding with said one or more detectable substances, if present, in said material, and capable of providing one or more detectable signals in response to exposure to energy, said one or more semiconductor nanocrystal probes comprising:
+</P>
+<P>
+i) one or more semiconductor nanocrystals each capable of providing a detectable signal in response to exposure to energy;
+</P>
+<P>
+ii) one or more first linking agents, to which said or more semiconductor nanocrystals are linked, each of said one or more first linking agents capable of linking to:
+</P>
+<P>
+a) one or more second linking agents; or
+</P>
+<P>
+b) one or more affinity molecules; and
+</P>
+<P>
+iii) one or more affinity molecules linked either to said one or more second linking agents or to said one or more first linking agents, each of said one or more affinity molecules capable of selectively bonding to said one or more detectable substances;
+</P>
+<P>
+b) optionally removing, from said material, any of said semiconductor nanocrystal probes not bonded to said one or more detectable substances; and
+</P>
+<P>
+c) exposing said material to energy capable of causing said one or more semiconductor nanocrystals to provide one or more detectable signals in response to said energy, indicative of the presence of said one or more detectable substances in said material; and
+</P>
+<P>
+d) detecting said one or more detectable signals provided by said one or more semiconductor nanocrystals in said one or more semiconductor nanocrystal probes.
+</P>
+</Claims>
+<Also_published_as>
+WO0055631A1;US2002072234A1;US6727065B2;US2010155668A1;US8071361B2;US2007111350A1;US8071359B2;US2009253211A1;US8071360B2;US2010224853A1;US2009191567A1;US6207392B1;US2003099968A1;JP2010275311A;JP2002539454A;EP2287614A1;EP1166118A1;CA2366303A1;CA2366303C;AU3712700A
+</Also_published_as>
+</BiblioData>

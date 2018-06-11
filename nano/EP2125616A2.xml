@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR GROWING A CARBON NANOTUBE ON A NANOMETRIC TIP
+</Title>
+<PublicationNumber>
+EP2125616A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BONNOT ANNE-MARIE [FR]
+</Name>
+<Name>
+GAY FREDERIC [FR]
+</Name>
+<Name>
+PERRIER PIERRE HENRI [FR]
+</Name>
+<Name>
+BONNOT, ANNE-MARIE
+</Name>
+<Name>
+GAY, FREDERIC
+</Name>
+<Name>
+PERRIER, PIERRE HENRI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CENTRE NAT RECH SCIENT [FR]
+</Name>
+<Name>
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2125616
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080762031
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008FR50171
+</PriorityNumber>
+<PriorityDate>
+2008-02-01
+</PriorityDate>
+<PriorityNumber>
+FR20070000925
+</PriorityNumber>
+<PriorityDate>
+2007-02-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01Q70/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01Q70/12
+</Class>
+</NCL>
+<Abstract>
+A method for the catalytic growth of isolated carbon nanotubes at the tip of a nanometric point by chemical vapor phase deposition (e.g. hot filament-assisted CVD), involves pre-coating all or part of the point with a double layer comprising a layer of titanium with a thickness of 0.1-0.2 nm and a layer of cobalt with a thickness of 0.3-2 nm. An independent claim is also included for substrates comprising one or more devices, points or cantilevers, coated with titanium/cobalt as above.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Procédé de croissance catalytique d&apos;un nanotube de carbone isolé à s l&apos;apex d&apos;une pointe nanométrique par dépôt chimique en phase vapeur (CVD), par exemple dépôt chimique en phase vapeur assisté d&apos;un filament chaud (HFCVD), comprenant une étape consistant à recouvrir au préalable, en totalité ou en partie, ladite pointe d&apos;un bicouche de titane et de cobalt, la couche de titane ayant une épaisseur comprise entre 0,1 nm et 0,2 nm et la 10 couche de cobalt ayant une épaisseur comprise entre 0,3 nm et 2 nm.
+</P>
+<P>
+2. Procédé selon la revendication 1, dans lequel la pointe est une pointe en silicium ou en nitrure de silicium ou en silicium et nitrure de silicium.
+</P>
+<P>
+3. Procédé selon la revendication 1 ou la revendication 2, dans lequel la pointe est une pointe en silicium ou en silicium et nitrure de silicium, de préférence en silicium. 20
+</P>
+<P>
+4. Procédé selon l&apos;une quelconque des revendications précédentes, dans lequel le nanotube greffé est un petit faisceau de nanotubes.
+</P>
+<P>
+5. Procédé selon l&apos;une quelconque des revendications précédentes, dans lequel la couche de cobalt est formée sur la couche de titane, ou bien 25 la couche de titane est formée sur la couche de cobalt, de préférence la couche de cobalt est formée sur la couche de titane.
+</P>
+<P>
+6. Procédé selon l&apos;une quelconque des revendications précédentes, dans lequel le dépôt du bicouche est effectué selon un procédé par 30 évaporation.
+</P>
+<P>
+7. Procédé selon l&apos;une quelconque des revendications précédentes, dans lequel le dépôt chimique en phase vapeur, de préférence assisté d&apos;un 155-18 filament chaud, est réalisé en présence d&apos;une atmosphère d&apos;hydrocarbure gazeux, tel que le méthane, l&apos;éthylène ou l&apos;acétylène, de préférence le méthane, et éventuellement, mais de préférence, d&apos;hydrogène et à une température comprise entre 700 et 900 C, de préférence voisine de 800 C.
+</P>
+<P>
+8. Procédé selon l&apos;une quelconque des revendications précédentes, dans lequel la pointe revêtue, en totalité ou partiellement, dudit bicouche présente une forme pyramidale ou une forme conique. io
+</P>
+<P>
+9. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé en ce qu&apos;il est réalisé sur un lot de pointes.
+</P>
+<P>
+10. Substrat comprenant un ou plusieurs dispositifs, pointes ou cantilevers, revêtus en totalité ou partiellement, d&apos;un bicouche titane/cobalt, 15 la couche de titane ayant une épaisseur comprise entre 0,1 nm et 0,2 nm et la couche de cobalt ayant une épaisseur comprise entre 0,3 nm et 2 nm.
+</P>
+<P>
+11. Substrat selon la revendication 10, qui comprend du, ou est constitué de, silicium, de nitrure de silicium ou d&apos;une 20 association/combinaison de silicium/nitrure de silicium.
+</P>
+<P>
+12. Substrat selon la revendication 10 ou la revendication 11, qui est un nanodispositif, une sonde ou un cantilever. 25
+</P>
+<P>
+13. Substrat selon l&apos;une quelconque des revendications 10 à 12, comportant au moins une pointe, revêtue en totalité ou en partie d&apos;un bicouche titane/cobalt, la couche de titane ayant une épaisseur comprise entre 0,1 nm et 0,2 nm et la couche de cobalt ayant une épaisseur comprise entre 0,3 nm et 2 nm. 30
+</P>
+<P>
+14. Substrat selon la revdication 13, comportant au moins une pointe nanométrique, à l&apos;apex de laquelle est greffé un nanotube de carbone isolé, 2912426 -19 ou un petit faisceau isolé de 2 à 3 nanotubes, mono-paroi ou avec un nombre de parois inférieur à 4, généralement 2 ou 3 parois.
+</P>
+<P>
+15. Substrat selon la revendication 14, dans lequel le ou les nanotube(s) présente(nt) une longueur comprise entre 20 nm et 3 à 4 pm, de préférence encore entre 100 à 500 nm et 1 pm, de manière tout à fait préférée, comprise entre 200 nm et 300 nm.
+</P>
+<P>
+16. Substrat selon la revendication 14 ou la revendication 15, dans w lequel le ou les nanotube(s) est(sont) greffé(s) sensiblement à l&apos;apex de la pointe et dans une orientation, suivant l&apos;axe de la pointe, égale à 20 .
+</P>
+<P>
+17. Utilisation d&apos;un substrat selon l&apos;une quelconque des revendications 10 à 16, en tant que sonde pour la microscopie de champ proche ou la 15 microscopie de force atomique.
+</P>
+</Claims>
+<Also_published_as>
+FR2912426A1;US2010154087A1;JP2010517914A;WO2008104672A2;WO2008104672A3
+</Also_published_as>
+</BiblioData>

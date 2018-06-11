@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Manufacturing method of magnetic core -  ceramic shell nanocrystals
+</Title>
+<PublicationNumber>
+EP1942508A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KIM YOUNG KEUN [KR]
+</Name>
+<Name>
+LIU HONG LING [CN]
+</Name>
+<Name>
+WU JUN HUA [CN]
+</Name>
+<Name>
+MIN JI HYUN [KR]
+</Name>
+<Name>
+KIM YOU SONG [KR]
+</Name>
+<Name>
+KIM, YOUNG KEUN
+</Name>
+<Name>
+LIU, HONG LING
+</Name>
+<Name>
+WU, JUN HUA
+</Name>
+<Name>
+MIN, JI HYUN
+</Name>
+<Name>
+KIM, YOU SONG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KOREA UNIVERSITY FOUNDATION [KR]
+</Name>
+<Name>
+KOREA UNIVERSITY FOUNDATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1942508
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080150055
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+KR20070000997
+</PriorityNumber>
+<PriorityDate>
+2007-01-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01G49/00
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+H01F1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+C01G49/08
+</Class>
+<Class>
+H01F1/00E10
+</Class>
+</NCL>
+<Abstract>
+Provided are magnetic core - ceramic shell (e.g., magnetite (Fe 3 O 4 ) core - calcium phosphate (Ca 3 (PO 4 ) 2 ) shell) nanocrystals with high crystallization degree, uniform size, and high chemical stability and a method for synthesizing the same. A core-shell structure is synthesized in a process of forming magnetite seeds corresponding to cores by the reduction of magnetite precursors and then, sequentially, coating the magnetite with Ca 3 (PO 4 ) 2 by the reduction of Ca 3 (PO 4 ) 2 precursors.
+</Abstract>
+<Claims>
+<P>
+1. A method for manufacturing bifunctional magnetic core - ceramic shell nanocrystals in a sequential process, characterized in that the method comprises:
+</P>
+<P>
+mixing magnetic core material precursors with a reducing agent for the core material precursors;
+</P>
+<P>
+mixing the resultant with a solvent for the magnetic core material precursors and the reducing agent and forming a first mixture solution;
+</P>
+<P>
+heating the first mixture solution to a first temperature and maintaining the first mixture solution for a first time;
+</P>
+<P>
+cooling the first mixture solution to room temperature and forming magnetic core materials;
+</P>
+<P>
+mixing the magnetic core materials with ceramic shell material precursors and a reducing agent for the ceramic shell material precursors and forming a second mixture solution;
+</P>
+<P>
+heating the second mixture solution to a second temperature and maintaining the second mixture solution for a second time; and
+</P>
+<P>
+cooling the second mixture solution to room temperature and coating the magnetic core materials with the ceramic shell materials.
+</P>
+<P>
+2. The method of claim 1, characterized by further comprising: precipitating the bifunctional nanocrystals by the addition of ethanol and performing separation using a centrifugal separator.
+</P>
+<P>
+3. The method of claim 1, characterized in that the forming of the first mixture solution further comprises adding a surfactant.
+</P>
+<P>
+4. The method of claim 1, characterized in that the forming of the second mixture solution does not further comprise adding a surfactant.
+</P>
+<P>
+5. The method of claim 1, characterized in that the core is magnetite (Fe3O4) and the shell is calcium phosphate (Ca3(PO4)2).
+</P>
+<P>
+6. The method of claim 1, characterized by further comprising: after maintaining the first mixture solution at the first temperature for a predetermined time,
+</P>
+<P>
+heating the first mixture solution to a third temperature higher than the first temperature and maintaining the first mixture solution for a third time.
+</P>
+<P>
+7. The method of claim 1, characterized by further comprising: after maintaining the second mixture solution at the second temperature for a predetermined time,
+</P>
+<P>
+heating the second mixture solution to a fourth temperature higher than the second temperature and maintaining the second mixture solution for a fourth time.
+</P>
+<P>
+8. A method for manufacturing bifunctional magnetite-calcium phosphate (Ca3(PO4)2) core-shell nanocrystals in a sequential process, characterized in that the method comprises:
+</P>
+<P>
+mixing magnetite precursors, Fe&amp;lt;III&amp;gt; (acac)3, with a reducing agent for the magnetite precursors;
+</P>
+<P>
+mixing the resultant with dioctyl ether, a solvent, and forming a first mixture solution;
+</P>
+<P>
+heating the first mixture solution to 300 deg. C and maintaining the first mixture solution for 1 to 2 hours;
+</P>
+<P>
+cooling the first mixture solution to room temperature and forming magnetite cores;
+</P>
+<P>
+mixing the magnetite cores with calcium acetate, ammonium phosphate, and reducing agents thereof and forming a second mixture solution;
+</P>
+<P>
+heating the second mixture solution to 80 deg. C and maintaining the second mixture solution for 30 minutes; and
+</P>
+<P>
+cooling the second mixture solution to room temperature and coating the magnetite cores with the calcium phosphate (Ca3(PO4)2) shells.
+</P>
+<P>
+9. The method of claim 8, characterized by further comprising: precipitating the bifunctional nanocrystals by the addition of ethanol and performing separation using a centrifugal separator.
+</P>
+<P>
+10. The method of claim 8, characterized in that the forming of the first mixture solution further comprises: adding tri-block copolymer (Poly(Ethylene Oxide) - Poly(Propylene Oxide) - Poly(Ethylene Oxide): PEO-PPO-PEO) as a surfactant.
+</P>
+<P>
+11. The method of claim 8, characterized in that the forming of the second mixture solution does not further comprise: adding a surfactant.
+</P>
+<P>
+12. Bifunctional magnetic core - ceramic shell nanocrystals manufactured in a sequential process, characterized in that the process comprises:
+</P>
+<P>
+mixing magnetic core material precursors with a reducing agent for the core material precursors;
+</P>
+<P>
+mixing the resultant with a solvent for the magnetic core material precursors and the reducing agent and forming a first mixture solution;
+</P>
+<P>
+heating the first mixture solution to a first temperature and maintaining the first mixture solution for a first time;
+</P>
+<P>
+cooling the first mixture solution to room temperature and forming magnetic core materials;
+</P>
+<P>
+mixing the magnetic core materials with ceramic shell material precursors and a reducing agent for the ceramic shell material precursors;
+</P>
+<P>
+mixing the resultant with a solvent for the ceramic shell material precursors and the reducing agent and forming a second mixture solution;
+</P>
+<P>
+heating the second mixture solution to a second temperature and maintaining the second mixture solution for a second time; and
+</P>
+<P>
+cooling the second mixture solution to room temperature and coating the magnetic core materials with ceramic shell materials.
+</P>
+<P>
+13. Bifunctional magnetite-calcium phosphate (Ca3(PO4)2) core-shell nanocrystals manufactured in a sequential process, characterized in that the process comprises:
+</P>
+<P>
+mixing magnetite precursors, Fe&amp;lt;III&amp;gt; (acac)3, with a reducing agent for the magnetite precursors;
+</P>
+<P>
+mixing the resultant with dioctyl ether, a solvent, and forming a first mixture solution;
+</P>
+<P>
+heating the first mixture solution to 60 deg. C to 80 deg. C and maintaining the first mixture solution for 1 to 2 hours;
+</P>
+<P>
+cooling the first mixture solution to room temperature and forming magnetite cores;
+</P>
+<P>
+mixing the magnetite cores with calcium acetate, ammonium phosphate, and reducing agents thereof and forming a second mixture solution;
+</P>
+<P>
+heating the second mixture solution to 80 deg. C and maintaining the second mixture solution for 30 minutes; and
+</P>
+<P>
+cooling the second mixture solution to room temperature and coating the magnetite cores with the calcium phosphate (Ca3(PO4)2) shells.
+</P>
+</Claims>
+<Also_published_as>
+EP1942508B1;US2008210899A1;KR100791731B1;JP2008162884A
+</Also_published_as>
+</BiblioData>

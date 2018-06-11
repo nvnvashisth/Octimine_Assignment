@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Large-area nanoenabled macroelectronic substrates and uses therefor
+</Title>
+<PublicationNumber>
+EP2194026A1
+</PublicationNumber>
+<Inventor>
+<Name>
+EMPEDOCLES STEPHEN [US]
+</Name>
+<Name>
+ROMANO LINDA T [US]
+</Name>
+<Name>
+DUAN XIANGFENG [US]
+</Name>
+<Name>
+NIU CHUNMING [US]
+</Name>
+<Name>
+CHEN JIAN [US]
+</Name>
+<Name>
+SAHI VIJENDRA [US]
+</Name>
+<Name>
+BOCK LAWRENCE [US]
+</Name>
+<Name>
+STUMBO DAVID P [US]
+</Name>
+<Name>
+PARCE J WALLACE [US]
+</Name>
+<Name>
+GOLDMAN JAY L [US]
+</Name>
+<Name>
+EMPEDOCLES, STEPHEN
+</Name>
+<Name>
+ROMANO, LINDA T
+</Name>
+<Name>
+DUAN, XIANGFENG
+</Name>
+<Name>
+NIU, CHUNMING
+</Name>
+<Name>
+CHEN, JIAN
+</Name>
+<Name>
+SAHI, VIJENDRA
+</Name>
+<Name>
+BOCK, LAWRENCE
+</Name>
+<Name>
+STUMBO, DAVID P
+</Name>
+<Name>
+PARCE, J WALLACE
+</Name>
+<Name>
+GOLDMAN, JAY L
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOSYS INC [US]
+</Name>
+<Name>
+NANOSYS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2194026
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20100156269
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-09-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030776200
+</PriorityNumber>
+<PriorityDate>
+2003-09-30
+</PriorityDate>
+<PriorityNumber>
+US20020414323P
+</PriorityNumber>
+<PriorityDate>
+2002-09-30
+</PriorityDate>
+<PriorityNumber>
+US20020414359P
+</PriorityNumber>
+<PriorityDate>
+2002-09-30
+</PriorityDate>
+<PriorityNumber>
+US20030468276P
+</PriorityNumber>
+<PriorityDate>
+2003-05-07
+</PriorityDate>
+<PriorityNumber>
+US20030474065P
+</PriorityNumber>
+<PriorityDate>
+2003-05-29
+</PriorityDate>
+<PriorityNumber>
+US20030488801P
+</PriorityNumber>
+<PriorityDate>
+2003-07-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+<Class>
+H01L21/00
+</Class>
+<Class>
+H01L21/336
+</Class>
+<Class>
+H01L21/77
+</Class>
+<Class>
+H01L27/12
+</Class>
+<Class>
+H01L29/06
+</Class>
+<Class>
+H01L29/786
+</Class>
+<Class>
+H01L41/18
+</Class>
+<Class>
+H01L41/22
+</Class>
+<Class>
+H01L51/00
+</Class>
+<Class>
+H01L51/05
+</Class>
+<Class>
+H03H11/20
+</Class>
+<Class>
+H01L33/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W6
+</Class>
+<Class>
+H01L29/786S
+</Class>
+<Class>
+H01L35/26
+</Class>
+<Class>
+H01L35/32
+</Class>
+<Class>
+H01L41/18
+</Class>
+<Class>
+H01L41/22
+</Class>
+<Class>
+H01L51/00A2F
+</Class>
+<Class>
+H01L51/00M4D
+</Class>
+<Class>
+H01L51/05B2
+</Class>
+</NCL>
+<Abstract>
+A method and apparatus for an electronic substrate (1920) having a plurality of semiconductor devices is described. A thin film of nanowires (1910) is formed on a substrate. The thin film of nanowires (1910) is formed to have a sufficient density of nanowires to achieve an operational current level. A plurality of semiconductor regions is defined in the thin film of nanowires. Contacts (1902) are formed at the semiconductor device regions to thereby provide electrical connectivity to the plurality of semiconductor devices. Furthermore, various materials for fabricating nanowires, thin films including p-doped nanowires and n-doped nanowires, nanowire heterostructures, light emitting nanowire heterostructures, flow masks for positioning nanowires on substrates, nanowire spraying techniques for depositing nanowires, techniques for reducing or eliminating phonon scattering of electrons in nanowires, and techniques for reducing surface states in nanowires are described.
+</Abstract>
+<Claims>
+<P>
+1. An article, comprising a population of nanowires disposed in a thin film on a surface of a substrate, wherein:
+</P>
+<P>
+the population of nanowires is substantially oriented in a first direction; and
+</P>
+<P>
+the thin film has an area of greater than 10 cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+2. The article of claim 1, wherein the thin film has an area of greater than 1 m&amp;lt;2&amp;gt;.
+</P>
+<P>
+3. The article of any one of the preceding claims, wherein the thin film is capable of supporting a current density of at least 10 nanoamps.
+</P>
+<P>
+4. The article of any one of the preceding claims, wherein the article further comprises at least first and second electrical contacts disposed either on the surface of the substrate or on the thin film, and wherein at least 10 nanowires span and are electrically connected to the first and second electrical contacts.
+</P>
+<P>
+5. The article of any one of claims 1 - 3, the article further comprises at least first and second electrical contacts disposed either on the surface of the substrate or on the thin film, and wherein at least 100 nanowires span and are electrically connected to the first and second electrical contacts.
+</P>
+<P>
+6. The article of any one of the preceding claims, wherein greater than 60% of nanowires in the population of nanowires have a longitudinal axis that is oriented within 30[deg.] of the first direction.
+</P>
+<P>
+7. The article of any one of the preceding claims, wherein greater than 75% of nanowires in the population of nanowires have a longitudinal axis that is oriented within 30[deg.] of the first direction.
+</P>
+<P>
+8. The article of any one of the preceding claims, wherein greater than 80% of nanowires in the population of nanowires have a longitudinal axis that is oriented within 30[deg.] of the first direction.
+</P>
+<P>
+9. The article of any one of the preceding claims, wherein greater than 90% of nanowires in the population of nanowires have a longitudinal axis that is oriented within 30[deg.] of the first direction.
+</P>
+<P>
+10. The article of any one of the preceding claims, wherein greater than 50% of nanowires in the population of nanowires have a longitudinal axis that is oriented within 10[deg.] of the first direction.
+</P>
+<P>
+11. The article of any one of the preceding claims, wherein the population of nanowires disposed in the thin film further comprises a composite material, preferably wherein the composite material comprises a polymer.
+</P>
+<P>
+12. The article of any one of the preceding claims, wherein the substrate comprises a flexible substrate.
+</P>
+<P>
+13. The article of any one of the preceding claims, wherein the article further comprises at least first and second electrical contacts on the surface of the substrate, wherein a plurality of nanowires in the nanowire population span and are electrically coupled to both the first and second electrical contacts, preferably wherein at least 10 nanowires span and are electrically coupled to both the first and second electrical contacts, more preferablywherein at least 100 nanowires span and are electrically coupled to both the first and second electrical contacts.
+</P>
+<P>
+14. The article of claim 6, further comprising a plurality of source and drain electrode pairs disposed on the surface of the substrate, and wherein a plurality of nanowires in the nanowire population span and are electrically coupled to both the source and drain electrode in each pair of source and drain electrodes.
+</P>
+<P>
+15. The article of any one of the preceding claims, wherein the population of nanowires comprises nanowires selected from the Group II-VI semiconductors, the Group III-V semiconductors and the Group IV semiconductors.
+</P>
+</Claims>
+<Also_published_as>
+WO2004032193A2;WO2004032193A3;US2011045660A1;US8030186B2;TWI309845B;KR20050060080A;JP2011101047A;JP2006507692A;EP1547139A2;EP1547139A4;CA2499965A1;AU2003283973A1;AU2003283973B2
+</Also_published_as>
+</BiblioData>

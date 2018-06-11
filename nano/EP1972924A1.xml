@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Light source comprising a plurality of semiconductor lasers mounted in one can and optical measurement instrument comprising such a light source
+</Title>
+<PublicationNumber>
+EP1972924A1
+</PublicationNumber>
+<Inventor>
+<Name>
+NOMOTO ETSUKO [JP]
+</Name>
+<Name>
+OHTOSHI TSUKURU [JP]
+</Name>
+<Name>
+KIGUCHI MASASHI [JP]
+</Name>
+<Name>
+NOMOTO, ETSUKO
+</Name>
+<Name>
+OHTOSHI, TSUKURU
+</Name>
+<Name>
+KIGUCHI, MASASHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HITACHI LTD [JP]
+</Name>
+<Name>
+HITACHI, LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1972924
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070021792
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070076844
+</PriorityNumber>
+<PriorityDate>
+2007-03-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61B5/00
+</Class>
+<Class>
+G01N21/31
+</Class>
+<Class>
+H01S5/40
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61B5/1455N2
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01N21/31D4
+</Class>
+</NCL>
+<Abstract>
+A living body measuring instrument having a sub-mount (4) on which plural light-emitting devices (1,2,3) oscillating at different wavelengths are mounted in proximity, one optical output monitoring device (9) that detects the optical outputs of these light-emitting devices, wherein said light emitting devices and said monitoring device are mounted on the same heat sink and are housed in one can-package, a light-receiving device that detects a signal from a living body, and a circuit that separates the optical output signals from the light-emitting devices, wherein at least one light-emitting device has a light-emitting layer including a In 1-x Ga x As y P 1-y quantum well layer and a barrier layer on a GaAs substrate, the strain [mu] satisfies 0.4% [mu] 1.4%, wherein y in the composition satisfies 0.10 y 0.45, and the wavelength of the emitted light is from 700 nm to 760 nm.
+</Abstract>
+<Claims>
+<P>
+1. An optical measurement instrument for a living body (22), the instrument comprising:
+</P>
+<P>
+a light source (15) that emits a plurality of optical signals to the surface of the living body (22), wherein the light source (15) includes a plurality of semiconductor light-emitting devices (1 to 3) having mutually different wavelengths from the visible to the infrared mounted on a sub-mount (4), a driving circuit (16) that controls the optical signal output connected to the plurality of semiconductor light-emitting devices (1 to 3), and an optical output power monitoring device (9) that detects the optical signal outputs emitted from the plurality of semiconductor light-emitting devices (1 to 3), these elements being housed in one package;
+</P>
+<P>
+a light-receiving device (27) that detects the plurality of optical signals emitted from the surface of the living body (22) after they have passed through the interior of the living body; and
+</P>
+<P>
+a signal separation circuit (11) that separates the plurality of optical signals detected by the optical output power monitoring device (9) for each wavelength,wherein the optical signal output of the plurality of semiconductor light-emitting devices (1 to 3) is controlled by feeding the optical signals having different wavelengths separated via the monitored signal separation circuit (11) back to the driving circuit (16) connected to the semiconductor light-emitting devices that emit the wavelengths.
+</P>
+<P>
+2. The instrument of claim 1, wherein the optical signals emitted from the plurality of semiconductor light-emitting devices (1 to 3) contain two wavelengths selected so that the difference between the absorption coefficient for each wavelength of the optical signals emitted from the plurality of semiconductor light-emitting devices to a plurality of biological materials forming the living body (22) is greater than a predetermined value, and at least one wavelength intermediate between these two wavelengths.
+</P>
+<P>
+3. The instrument of claim 1 or 2, wherein the light source (15) and light-receiving device (27) are disposed at a distance at which the temperature of the living body (22) can be detected.
+</P>
+<P>
+4. The instrument of claim 3, wherein the semiconductor light-emitting devices (1 to 3) perform self-pulsation.
+</P>
+<P>
+5. The instrument of claim 3, wherein the reflectance of a light-emitting facet at the wavelength of the light emitted from the light-emitting facet, is 50% or more.
+</P>
+<P>
+6. A semiconductor laser installation, wherein a plurality of laser devices (130) respectively emitting light of two wavelengths such that the difference between the absorption coefficient for each wavelength of the measurement light of a plurality of biological materials forming the living body (22) to be measured is greater than a predetermined value, and at least one wavelength intermediate between these two wavelengths, are mounted in one package.
+</P>
+<P>
+7. The instrument of claim 1, or the installation of claim 5, wherein the shortest wavelength among the plurality of wavelengths is 705 5 nm.
+</P>
+<P>
+8. The instrument of claim 1, or the installation of claim 5, wherein the plurality of wavelengths includes the wavelength of 755 5 nm.
+</P>
+<P>
+9. The instrument of claim 3, or the installation of claim 5, having a device (131) that causes the light emitted from the light-emitting devices (1 to 3; 130) to diverge.
+</P>
+<P>
+10. The instrument of claim 3, or the installation of claim 5, wherein the wavelength fluctuation according to the usage environment of each light-emitting device (1 to 3; 130) is within 5 nm.
+</P>
+<P>
+11. The instrument of claim 1, or the installation of claim 5, wherein at least one of the light-emitting devices (1 to 3; 130) has an emission layer including an In1-xGaxAsyP1-y quantum well layer having a lattice constant aw in the surface and a barrier layer provided on a GaAs substrate having a lattice constant a, wherein the emission layer is such that
+</P>
+<P>
+the strain defined by (%)=(aw-a)/aX100 satisfies 0.4% 1.4%, wherein y in the composition satisfies 0.10 y 0.45, and the wavelength of the emitted light is from 700 nm to 760 nm, or
+</P>
+<P>
+the strain defined by (%)=(aw-a)/aX100 satisfies 0.4% 1.2%, wherein y in the composition satisfies 0.10 y 0.25, and the wavelength of the emitted light is from 700 nm to 730 nm, or
+</P>
+<P>
+the strain defined by (%)=(aw-a)/aX100 satisfies 0.4% 0.9%, wherein y in the composition satisfies 0.10 y 0.20, and the wavelength of the emitted light is from 700 nm to 720 nm, or
+</P>
+<P>
+the strain defined by (%)=(aw-a)/aX100 satisfies 0.6% 1.4%, wherein y in the composition satisfies 0.20 y 0.35, and the wavelength of the emitted light is from 725 nm to 760 nm.
+</P>
+</Claims>
+<Also_published_as>
+US2008234560A1;JP2008229239A
+</Also_published_as>
+</BiblioData>

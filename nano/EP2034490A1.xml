@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+High efficiency collector for laser plasma EUV source
+</Title>
+<PublicationNumber>
+EP2034490A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ARENBERG JONATHAN W [US]
+</Name>
+<Name>
+ARENBERG, JONATHAN W
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV CENTRAL FLORIDA FOUNDATIO [US]
+</Name>
+<Name>
+UNIVERSITY OF CENTRAL FLORIDA FOUNDATION, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2034490
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080020476
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-11-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030026822
+</PriorityNumber>
+<PriorityDate>
+2003-11-20
+</PriorityDate>
+<PriorityNumber>
+US20030429413
+</PriorityNumber>
+<PriorityDate>
+2003-05-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+F21V7/04
+</Class>
+<Class>
+G02B5/09
+</Class>
+<Class>
+G02B5/10
+</Class>
+<Class>
+G03F7/20
+</Class>
+<Class>
+G21K1/06
+</Class>
+<Class>
+G21K5/00
+</Class>
+<Class>
+H01L21/027
+</Class>
+<Class>
+H05G2/00
+</Class>
+<Class>
+H05H1/24
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70B6
+</Class>
+<Class>
+G03F7/70D16F
+</Class>
+</NCL>
+<Abstract>
+Collector optics (70) for an EUV radiation source (10) for collecting EUV radiation (78). The collector optics (70) includes an elliptical dish reflector (72) where light generated at a focal point (76) of the reflector (72) is collected by the reflector (72) and is directed to a collection location (82). A frustal annular reflector (90) is positioned around an outer edge (84) of the dish reflector (72) to collect more of the EUV radiation (78) that may otherwise be lost. The radiation (78) reflected by the annular reflector (90) is directed to a center axicon reflector (94) positioned between the focal point (76) of the dish reflector (72) and the collection location (82) to redirect the radiation (78) reflected by the annular reflector (90) to be within a predetermined collection angle.
+</Abstract>
+<Claims>
+<P>
+1. Collector optics for a light source, said optics comprising:
+</P>
+<P>
+a main reflector having a focal point, where light generated at the focal point of the main reflector is directed to a light collection location;
+</P>
+<P>
+an annular reflector positioned around an outer edge of the main reflector, said annular reflector reflecting light from the focal point not reflected by the main reflector; and
+</P>
+<P>
+a center reflector positioned between the focal point and the collection location, wherein the light reflected from the annular reflector is reflected off of the center reflector and directed towards the collection location,characterized in that,
+</P>
+<P>
+said annular reflector is a curved reflector and the center reflector is a linear reflector, where the light is reflected off of an inside surface of said annular reflector and is reflected off of an outside surface of said center reflector.
+</P>
+<P>
+2. The collector optics according to claim 1 wherein the main reflector is a dish reflector having a predetermined size so that light reflected from the main reflector is confined to be within a predetermined cone of reflection, and wherein the light reflected from the center reflector is within the cone of reflection.
+</P>
+<P>
+3. The collector optics according to claim 1 or 2 wherein the center reflector is a linear axicon reflector.
+</P>
+<P>
+4. The collector optics according to any of claims 1 to 3 wherein the center reflector is a frustum with power reflector.
+</P>
+<P>
+5. The collector optics according to any of claims 1 to 4 wherein the main reflector is an elliptical reflector and the collection location is a focal point of the elliptical reflector.
+</P>
+<P>
+6. The collector optics according to claim 1 wherein the main reflector includes a center opening through which a laser beam propagates to generate the light at the focal point.
+</P>
+<P>
+7. The collector optics according to claim 1 wherein the reflecting surface of the main reflector, the annular reflector and the center reflector have a reflective coating including an Si/Mo multilayer.
+</P>
+<P>
+8. The collector optics according to claim 1 wherein the collector optics is part of an EUV radiation source and wherein the light is EUV radiation.
+</P>
+<P>
+9. The collector optics according to claim 8 wherein the focal point is a target location where a laser beam vaporizes a target material to generate the EUV radiation.
+</P>
+</Claims>
+<Also_published_as>
+EP1475807A2;EP1475807A3;EP1475807B1;US2004223531A1;US7075713B2;JP2004333475A
+</Also_published_as>
+</BiblioData>

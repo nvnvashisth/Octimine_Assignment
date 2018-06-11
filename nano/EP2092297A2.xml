@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SECOND HARMONIC IMAGING NANOPROBES AND TECHNIQUES FOR USE THEREOF
+</Title>
+<PublicationNumber>
+EP2092297A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PANTAZIS PERIKLIS [US]
+</Name>
+<Name>
+PSALTIS DEMETRI [US]
+</Name>
+<Name>
+HONG JOHN [US]
+</Name>
+<Name>
+PU YE [US]
+</Name>
+<Name>
+FRASER SCOTT E [US]
+</Name>
+<Name>
+PANTAZIS, PERIKLIS
+</Name>
+<Name>
+PSALTIS, DEMETRI
+</Name>
+<Name>
+HONG, JOHN
+</Name>
+<Name>
+PU, YE
+</Name>
+<Name>
+FRASER, SCOTT, E
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CALIFORNIA INST OF TECHN [US]
+</Name>
+<Name>
+CALIFORNIA INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2092297
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070874309
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US85407
+</PriorityNumber>
+<PriorityDate>
+2007-11-21
+</PriorityDate>
+<PriorityNumber>
+US20060860439P
+</PriorityNumber>
+<PriorityDate>
+2006-11-21
+</PriorityDate>
+<PriorityNumber>
+US20070936043P
+</PriorityNumber>
+<PriorityDate>
+2007-06-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N21/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01N21/63H
+</Class>
+</NCL>
+<Abstract>
+Second harmonic nanoprobes for imaging biological samples and a method of using such probes to monitor the dynamics of biological process using a field resonance enhanced second harmonic (FRESH) technique are provided. The second harmonic generating (SHG) nanoprobes are comprised of various kinds of nanocrystals that do not possess an inversion symmetry and therefore are capable of generating second harmonic signals that can then be detected by conventional two-photon microscopy for in vivo imaging of biological processes and structures such as cell signaling, neuroimaging, protein conformation probing, DNA conformation probing, gene transcription, virus infection and replication in cells, protein dynamics, tumor imaging and cancer therapy evaluation and diagnosis as well as quantification in optical imaging.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIM ED IS:
+</P>
+<P>
+1. A second harmonic generating nanoprobe system comprising: a probe nanostructure, having no inversion symmetry such that it generates a second harmonic emission when radiated by an external excitation source; and an external excitation source for radiating the probe nanostructure at a frequency such that the probe nanostructure generates a second harmonic emission.
+</P>
+<P>
+2. The second harmonic nanoprobe system of claim 1 , wherein the probe nanostructure is a nanocrystal selected from the group consisting of organic, inorganic and combinations thereof. 3. The second harmonic nanoprobe system of claim 2, wherein the nanocrystal is selected from the group consisting of BaTiCh, SiC, ZnO, ZnS, ZnSe, ZnTe, CdS, CdSe, CdTe, GaAs, GaSb, GaP, GaN, InSb, LiNbOa, KNbO3, KTiOPO4, Fe(IOa)3, Au, Ag, N-(4-nitrophenyl)-(L)- prolinol (NPP), urea, 4-Nitroaniline, 2-Methyl-4-nitroaniline (MNA), 3-Methyl-4-methoxy--i&apos;- nitrostilbene), [beta]-BaB204 (Beta-Barium Borate/BBO, LiB305 (Lithium Triborate/LBO), LiNbO3 (Lithium Niobate/LN), KTi0P04 (Potassium Titanyl Phosphate/KTP), AgGaS2 (Silver Thiogallate/AGS), AgGaSe2 (Silver Gallium Selenide/AGSe), ZnGeP2 (Zinc Germanium Phosphide/ZGP), GaSe (Gallium Selenide), KH2P04 (Potassium Dihydrogen Phosphate/KDP), NH4H2P04 (Ammonium Dihydrogen Phosphate (ADP), KD2P04 (Deuterated Potassium Dihydrogen Phosphate/DKDP), CsLiB6O10 (Cesium Lithium Borate/CLBO), KTiOAsO4 (Potassium Titanyl Arsenate/KTA), KNbO3 (Potassium Niobate/KN), LiTaO3 (Lithium Tantalate/LT), RbTiOAsO4 (Rubidium Titanyl Arsenate/RTA), BaTiO3 (Barium Titanate), MgBaRi (Magnesium Barium Fluoride), GaAs (Gallium Arsenide), BiB306 (Bismuth Triborate/BIBO), K2A12B207 (Potassium Aluminum Borate/KABO), KBe2BO3F2 (Potassium Fluoroboratoberyllate/KBBF), BaAlBO3F2 (Barium Aluminum Fluoroborate/BABF), La2CaB10O19 (Lanthanum Calcium Borate/LCB), GdCa40(B03)3 (Gadolinium Calcium Oxyborate/GdCOB), YCa40(B03)3 (Yttrium Calcium Oxyborate/YCOB), LJ2B407 (Lithium Tetraborate/LB4), LiRbB407 (Lithium Rubidium Tetraborate/LRB4), CdHg(SCNK (Cadmium Mercury Thiocyanate/CMTC), RbTiOPO4 (Rubidium Titanyl Phosphate/RTP), LilnS2 (Lithium Thioindate/LIS), LilnSe2 (Lithium Indium Selenide/LISe), KB5O8*4H2O (Potassium Pentaborate Tetrahydrate/KB5), CsB305 (Cesium Triborate/CBO), C4H7D12N4PO7 (Deuterated L-Arginine Phosphate Monohydrate/DLAP), a-HI03 (a-lodic Acid), LiC00H*H20 (Lithium Formate Monohydrate/LFM), CsH2AsO4 (Cesium Dihydrogen Arsenate/CDA), CsD2AsO4 (Deuterated Cesium Dihydrogen Arsenate/DCDA), RbH2P04 (Rubidium Dihydrogen Phosphate/RDP), CsTiOAsO4 (Cesium Titanyl Arsenate/CTA), Ba2NaNb5015 (Barium Sodium Niobate/BNN), K3Li2Nb5015 (Potassium Lithium Niobate/KLN), CO(NH2)2 (Urea), LilO3 (Lithium lodate), Ag3AsS3 (Proustite), HgGa2S4 (Mercury Thiogallate), CdGeAs2 (Cadmium Germanium Arsenide/CGA), Ti3AsSe3 (Thallium Arsenic Selenide/TAS), CdSe (Cadmium Selenide), ZnO (Zinc Oxide), ZnS (Zinc Sulfide), ZnSe (Zinc Selenide), ZnTe (Zinc Telluride), CdS (Cadmium Sulfide), SiC (Silicon Carbide), GaN (Gallium Nitride), and GaSb (Gallium Antimonide).
+</P>
+<P>
+A. The second harmonic nanoprobe system of claim 1 , wherein the probe nanostructure is less than or equal to 10 [mu]m. 5. The second harmonic nanoprobe system of claim 1 , wherein the probe nanostructure is one of either attached to or introduced into a target of interest.
+</P>
+<P>
+6. The second harmonic nanoprobe system of claim 1 , wherein the excitation source is selected from the group consisting of continuous wave, modulated and pulsed lasers. 7. A field resonance enhanced second harmonic system comprising: an exciter nanostructure, said exciter nanostructure designed to produce an enhanced local electrical field of a specified frequency when exposed to an excitation source; a probe nanostructure, said probe nanostructure having no inversion symmetry such that it generates a second harmonic resonance emission when brought within range of the resonant electrical field of said exciter nanostructure; and an external excitation source for radiating the exciter nanostructure at a frequency such that the exciter nanostructure generates an enhanced electrical field.
+</P>
+<P>
+8. The field resonance enhanced second harmonic system of claim 7, wherein the exciter nanostructure is a metal nanostructure. 9. The field resonance enhanced second harmonic system of claim 8, wherein the metal nanostructure is a nanostructure selected from the group consisting of nanorods, nanospheres or nanoshells.
+</P>
+<P>
+10. The field resonance enhanced second harmonic system of claim 9, wherein the metal nanostructure is made of gold, silver, copper, aluminum, palladium, or platinum.
+</P>
+<P>
+1 1. The field resonance enhanced second harmonic system of claim 7, wherein the probe nanostructure is a nanocrystal selected from the group consisting of organic, inorganic and combinations thereof.
+</P>
+<P>
+12. The field resonance enhanced second harmonic system of claim 11 , wherein the nanocrystal is selected from the group consisting of of BaTiCh, SiC, ZnO, ZnS, ZnSe, ZnTe, CdS,
+</P>
+<P>
+CdSe, CdTe, GaAs, GaSb, GaP, GaN, InSb, LiNbOs, KNbOs, KTiOPO,, Fe(IOaIa, Au, Ag, N-K- nitrophenyl)-(L)-prolinol (NPP), urea, 4-Nitroaniline, 2-Methyl-4-nitroaniline (MNA), 3-Methyl- A-methoxy-A&quot;-nitrostilbene), [beta]-BaB204 (Beta-Barium Borate/BBO, UB3O5 (Lithium Triborate/LBO), LiNbO3 (Lithium Niobate/LN), KTiOPO4 (Potassium Titanyl Phosphate/KTP), AgGaS2 (Silver Thiogallate/AGS), AgGaSe2 (Silver Gallium Selenide/AGSe), ZnGeP2 (Zinc Germanium Phosphide/ZGP), GaSe (Gallium Selenide), KH2P04 (Potassium Dihydrogen Phosphate/KDP), NH4H2P04 (Ammonium Dihydrogen Phosphate (ADP), KD2P04 (Deuterated Potassium Dihydrogen Phosphate/DKDP), CsLiB6O10 (Cesium Lithium Borate/CLBO), KTiOAsO4 (Potassium Titanyl Arsenate/KTA), KNbO3 (Potassium Niobate/KN), LiTaO3 (Lithium Tantalate/LT), RbTiOAsO4 (Rubidium Titanyl Arsenate/RTA), BaTiO3 (Barium Titanate), MgBaF4 (Magnesium Barium Fluoride), GaAs (Gallium Arsenide), BiB3O6 (Bismuth Triborate/BIBO), K2A12B2O7 (Potassium Aluminum Borate/KABO), KBe2B03F2 (Potassium Fluoroboratoberyllate/KBBF), BaAlB03F2 (Barium Aluminum Fluoroborate/BABF), La2CaB10O19 (Lanthanum Calcium Borate/LCB), GdCa40(B03)3 (Gadolinium Calcium Oxyborate/GdCOB), YCa40(B03)3 (Yttrium Calcium Oxyborate/YCOB), U2B4O7 (Lithium Tetraborate/LB4), LiRbB407 (Lithium Rubidium Tetraborate/LRB4), CdHg(SCN)4 (Cadmium Mercury Thiocyanate/CMTC), RbTiOPO4 (Rubidium Titanyl Phosphate/RTP], LilnS2 (Lithium Thioindate/LIS), LilnSe2 (Lithium Indium Selenide/LISe), KB508&quot;4H20 (Potassium Pentaborate Tetrahydrate/KB[delta]), CsB3O5 (Cesium Triborate/CBO), C4H7D12N4P07 (Deuterated L-Arginine Phosphate Monohydrate/DLAP), a-HI03 (a-lodic Acid), LiC00H&quot;H20 (Lithium Formate Monohydrate/LFM), CsH2AsO4 (Cesium Dihydrogen Arsenate/CDA), CsD2AsO4 (Deuterated Cesium Dihydrogen Arsenate/DCDA), RbH2P04 (Rubidium Dihydrogen Phosphate/RDP), CsTiOAsO4 (Cesium Titanyl Arsenate/CTA), Ba2NaNb5015 (Barium Sodium Niobate/BNN), K3Li2Nb5O15 (Potassium Lithium Niobate/KLN), C0(NH2)2 (Urea), LM03 (Lithium lodate), Ag3AsS3 (Proustite), HgGa2S4 (Mercury Thiogallate), CdGeAs2 (Cadmium Germanium Arsenide/CGA), Ti3AsSe3 (Thallium Arsenic Selenide/TAS), CdSe (Cadmium Selenide), ZnO (Zinc Oxide), ZnS (Zinc Sulfide), ZnSe (Zinc Selenide), ZnTe (Zinc Telluride), CdS (Cadmium Sulfide), SiC (Silicon Carbide), and GaN (Gallium Nitride), GaSb (Gallium Antimonide).
+</P>
+<P>
+13. The field resonance enhanced second harmonic system of claim 7, wherein the probe nanostructure is less than or equal to 10 [mu]m.
+</P>
+<P>
+14. The field resonance enhanced second harmonic system of claim 7, wherein the probe nanostructure and the emitter nanostructure are both attached to a single target of interest.
+</P>
+<P>
+15. The field resonance enhanced second harmonic system of claim 7, wherein the excitation source is selected from the group consisting of continuous wave, modulated and pulsed lasers. 16. A method of probing structures and biological processes comprising: interspersing a probe nanostructure with a target of interest, such that the probe nanostructure interacts with the target of interest, and wherein the probe nanostructure has no inversion symmetry such that it generates a second harmonic emission when radiated by an excitation source; radiating the probe nanostructure with an external excitation source; and detecting the second harmonic emission from the nanoprobe. 17. The method of claim 16, wherein the probe nanostructure is a nanocrystal selected from the group consisting of organic, inorganic and combinations thereof.
+</P>
+<P>
+18. The method of claim 16, wherein the target of interest is selected from the group consisting of an antigen, a peptide sequence, a nucleic acid sequence, RNA and DNA. 19. The method of claim 16, wherein the target of interest is indicative of the presence of one of either a specific medical condition or a specific pathogenesis.
+</P>
+<P>
+20. The method of claim 16, wherein the probe nanostructure is one of either directly attached to or introduced into the target of interest.
+</P>
+<P>
+21. The method of claim 16, wherein the probe nanostructure is conjugated to a probe molecule that is sensitive to the presence of the target of interest.
+</P>
+<P>
+22. The method of claim 16, wherein the step of radiating is conducted while the probe nanostructure is external to the source of the target of interest.
+</P>
+<P>
+23. The method of claim 16, wherein the step of radiating is conducted while the probe nanostructure is in vivo to the source of the target of interest. 24. The method of claim 23, wherein the emissions from the probe nanostructure are utilized to image the specific location of the target of interest within the source of the target of interest.
+</P>
+<P>
+25. The method of claim 16, wherein the target of interest is collected in one of either a liquid or solid sample.
+</P>
+<P>
+26. The method of claim 16, further comprising interspersing an exciter nanostructure to the target of interest, said exciter nanostructure designed to produce an enhanced electrical field of a specified frequency when exposed to an excitation source, wherein the probe nanostructure generates a second harmonic resonance emission when brought within range of the enhanced electrical field of said exciter nanostructure.
+</P>
+<P>
+27. The method of claim 16, wherein the excitation source is selected from the group consisting of continuous wave, modulated and pulsed lasers.
+</P>
+<P>
+28. A method of field resonance enhanced second harmonic detection comprising: attaching an exciter nanostructure to a target of interest, said exciter nanostructure designed to produce an enhanced electrical field of a specified frequency when exposed to an excitation source; attaching a probe nanostructure to the target of interest, said probe nanostructure having no inversion symmetry such that it generates a second harmonic resonance emission when brought within range of the enhanced electrical field of said exciter nanostructure; radiating the structure of interest with an external excitation source; and detecting the second harmonic emission from the nanoprobe. 29. The method of claim 27, wherein the exciter nanostructure is a metal nanostructure selected from the group consisting of nanorods, nanospheres or nanoshells.
+</P>
+<P>
+30. The method of claim 27, wherein the probe nanostructure and the emitter nanostructure are both attached to a single target of interest.
+</P>
+<P>
+31. The method of claim 27, wherein the probe nanostructure is a nanocrystal selected from the group consisting of organic, inorganic and combinations thereof.
+</P>
+<P>
+32. The method of claim 30, wherein the nanocrystal is selected from the group consisting of BaTiOa, SiC, ZnO, ZnS, ZnSe, ZnTe, CdS, CdSe, CdTe, GaAs, GaSb, GaP, GaN, InSb, LiNbO3, KNbO3, KTiOPO4, Fe(IOs)3, Au, Ag, N-(4-nitrophenyl)-(L)-prolinol (NPP), urea, 4- Nitroaniline, 2-Methyl-4-nitroaniline (MNA), 3-Methyl-4-methoxy-4&apos;-nitrostilbene), [beta]-BaB204 (Beta-Barium Borate/BBO, LiB3O5 (Lithium Triborate/LBO), LiNbO3 (Lithium Niobate/LN), KTi0P04 (Potassium Titanyl Phosphate/KTP), AgGaS2 (Silver Thiogallate/AGS), AgGaSe2 (Silver Gallium Selenide/AGSe), ZnGeP2 (Zinc Germanium Phosphide/ZGP), GaSe (Gallium Selenide), KH2P04 (Potassium Dihydrogen Phosphate/KDP), NH4H2P04 (Ammonium Dihydrogen Phosphate (ADP), KD2P04 (Deuterated Potassium Dihydrogen Phosphate/DKDP), CsLiB6010 (Cesium Lithium Borate/CLBO), KTiOAsO4 (Potassium Titanyl Arsenate/KTA), KNbO3 (Potassium Niobate/KN), LiTaO3 (Lithium Tantalate/LT), RbTiOAsO4 (Rubidium Titanyl Arsenate/RTA), BaTiO3 (Barium Titanate), MgBaF4 (Magnesium Barium Fluoride), GaAs (Gallium Arsenide), BiB306 (Bismuth Triborate/BIBO), K2A12B207 (Potassium Aluminum Borate/KABO), KBe2B03F2 (Potassium Fluoroboratoberyllate/KBBF), BaAlB03F2 (Barium Aluminum Fluoroborate/BABF), La2CaB10019 (Lanthanum Calcium Borate/LCB), GdCa40(B03)3 (Gadolinium Calcium Oxyborate/GdCOB), YCa40(B03)3 (Yttrium Calcium Oxyborate/YCOB), U2B407 (Lithium Tetraborate/LB4), LiRbB407 (Lithium Rubidium Tetraborate/LRB4), CdHg(SCN)4 (Cadmium Mercury Thiocyanate/CMTC), RbTi0P04 (Rubidium Titanyl Phosphate/RTP), LilnS2 (Lithium Thioindate/LIS), LilnSe2 (Lithium Indium Selenide/LISe), KB508&quot;4H20 (Potassium Pentaborate Tetrahydrate/KB5), CsB305 (Cesium Triborate/CBO), C4H7D12N4P07 (Deuterated L-Arginine Phosphate Monohydrate/DLAP), a- HI03 (a-lodic Acid), LiC00H*H20 (Lithium Formate Monohydrate/LFM), CsH2AsO4 (Cesium Dihydrogen Arsenate/CDA), CsD2AsO4 (Deuterated Cesium Dihydrogen Arsenate/DCDA), RbH2P04 (Rubidium Dihydrogen Phosphate/RDP), CsTiOAsO4 (Cesium Titanyl Arsenate/CTA), Ba2NaNb5O15 (Barium Sodium Niobate/BNN), K3Li2Nb5015 (Potassium Lithium Niobate/KLN), C0(NH2)2 (Urea), LilO3 (Lithium lodate), Ag3AsS3 (Proustite), HgGa2S4 (Mercury Thiogallate), CdGeAs2 (Cadmium Germanium Arsenide/CGA), Ti3AsSe3 (Thallium Arsenic Selenide/TAS), CdSe (Cadmium Selenide), ZnO (Zinc Oxide), ZnS (Zinc Sulfide), ZnSe (Zinc Selenide), ZnTe (Zinc Telluride), CdS (Cadmium Sulfide), SiC (Silicon Carbide), and GaN (Gallium Nitride), GaSb (Gallium Antimonide).
+</P>
+<P>
+33. The method of claim 27, wherein the excitation source is selected from the group consisting of continuous wave, modulated and pulsed lasers.
+</P>
+</Claims>
+<Also_published_as>
+WO2008140584A2;WO2008140584A3;US2012141981A1
+</Also_published_as>
+</BiblioData>

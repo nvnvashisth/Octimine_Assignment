@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Dispersant for carbon nanotubes and carbon nanotube composition comprising the same
+</Title>
+<PublicationNumber>
+EP1965451A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHOI JAE YOUNG [KR]
+</Name>
+<Name>
+CHOI SEONG JAE [KR]
+</Name>
+<Name>
+SHIN HYEON JIN [KR]
+</Name>
+<Name>
+YOON SEON MI [KR]
+</Name>
+<Name>
+CHOI, JAE YOUNG
+</Name>
+<Name>
+CHOI, SEONG JAE
+</Name>
+<Name>
+SHIN, HYEON JIN
+</Name>
+<Name>
+YOON, SEON MI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SAMSUNG ELECTRONICS CO LTD [KR]
+</Name>
+<Name>
+SAMSUNG ELECTRONICS CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1965451
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070116657
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+KR20070019534
+</PriorityNumber>
+<PriorityDate>
+2007-02-27
+</PriorityDate>
+<PriorityNumber>
+KR20070052574
+</PriorityNumber>
+<PriorityDate>
+2007-05-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C08K3/04
+</Class>
+<Class>
+C08L65/00
+</Class>
+<Class>
+H01B1/12
+</Class>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01B1/24
+</Class>
+<Class>
+H01L51/00M4D2
+</Class>
+</NCL>
+<Abstract>
+The present invention discloses a dispersant for carbon nanotubes having excellent dispersion ability and to a carbon nanotube composition including the dispersant. In the dispersant, the heads and tails of the dispersant are regioregularly arranged in one direction, and the structural properties of the dispersant are controlled such that the ratio of heads to tails is 1 or more, thereby effectively stabilizing and dispersing carbon nanotubes in various dispersion media, such as an organic solvent, water, a mixture thereof and the like, compared to conventional dispersants.
+</Abstract>
+<Claims>
+<P>
+1. A dispersant for carbon nanotubes, comprising:
+</P>
+<P>
+a head covalently bonded to a tail;
+</P>
+<P>
+the head having an aromatic ring; and wherein the tails are regioregularly arranged.
+</P>
+<P>
+2. The dispersant according to Claim 1, wherein the ratio of the heads to the tails is 1 or more.
+</P>
+<P>
+3. The dispersant according to claim 2, wherein the ratio of the heads to the tails is 1 to 3.
+</P>
+<P>
+4. The dispersant according to any of claims 1 to 3, wherein the head is selected from the group represented by the following Formula (1), and the tail is selected from the group represented by the following Formula (2):
+</P>
+<P>
+wherein
+</P>
+<P>
+X is S, NH, or O, and
+</P>
+<P>
+is and integer of 1 to about 60.
+</P>
+<P>
+wherein Y is selected from the group consisting of a substituted or unsubstituted alkylene group of 1 to about 10 carbon atoms, a substituted or unsubstituted alkenylene group of 1 to about 10 carbon atoms, a substituted or unsubstituted alkynylene group of 1 to about 10 carbon atoms, and a substituted or unsubstituted arylalkylene group of about 6 to about 20 carbon atoms,
+</P>
+<P>
+Z is selected from the group consisting of -H, -CH3, -OH, carboxyl acid or salts thereof, sulfonic acid or salts thereof, and phosphoric acid or salts thereof,
+</P>
+<P>
+a is 0 or 1,
+</P>
+<P>
+m is an integer of 1 to about 9, and
+</P>
+<P>
+n is an integer of up to to about 9.
+</P>
+<P>
+5. The dispersant according to claim 4, wherein, in the Formula (1), X is S.
+</P>
+<P>
+6. The dispersant according to claim 4 or 5, wherein, in the Formula (1), is an integer of about 10 to about 20.
+</P>
+<P>
+7. The dispersant according to any of claims 1 to 6, wherein the tail is polyethyleneoxide having about 3 to about 20 carbon atoms or polypropyleneoxide of about 4 to about 20 carbon atoms.
+</P>
+<P>
+8. A carbon nanotube composition, comprising:
+</P>
+<P>
+the dispersant of any of claims 1 to 7;
+</P>
+<P>
+carbon nanotubes; and
+</P>
+<P>
+a dispersion medium selected from the group consisting of an organic solvent, water, and a mixture thereof.
+</P>
+<P>
+9. The carbon nanotube composition according to claim 8, wherein the composition comprises about 0.001 to about 10 wt% of a dispersant; about 0.01 to about 5 wt% of carbon nanotubes; and a balance of the dispersion medium, based on the total weight of the composition.
+</P>
+<P>
+10. The carbon nanotube composition according to any of claims 8 to 10, wherein a weight ratio of the carbon nanotube to the dispersant is in an amount of about 1:0.001 to about 1:10.
+</P>
+<P>
+11. The carbon nanotube composition according to claim 8, wherein the carbon nanotube is one or more selected from the group consisting of a single-walled nanotube, a double-walled nanotube, a multi-walled nanotubes, a bundled nanotubes, or a mixture thereof.
+</P>
+<P>
+12. The carbon nanotube composition according to any of claims 8 to 11, wherein the organic solvent is one or more selected from the group consisting of alcohols, including methylalcohol, ethylalcohol, n-propylalcohol, isopropylalcohol, n-butylalcohol, sec-butylalcohol, t-butylalcohol, iso-butylalcohol, and diacetone alcohol; ketones, including acetone, methylethylketone, and methylisobutylketone; glycols, including ethyleneglycol, diethyleneglycol, triethyleneglycol, propyleneglycol, butyleneglycol, hexyleneglycol, 1,3-propanediol, 1,4-butanediol, 1,2,4-butanetriol, 1,5-pentanediol, 1,2-hexanediol, and 1,6-hexanediol; glycol ethers including ethyleneglycol monomethyl ether, and triethyleneglycol monoethyl ether; glycol ether acetates including propyleneglycol monomethyl ether acetate (PGMEA); acetates including ethylacetate, butoxyethoxy ethyl acetate, butyl carbitol acetate (BCA), and dihydroterpineol acetate (DHTA); terpineols; trimethyl pentanediol monoisobutyrate (TEXANOL); dichloroethene (DCE); 1-methyl pyrrolidone (NMP), or a combination comprising ate least one of the foregoing solvents.
+</P>
+<P>
+13. The carbon nanotube composition according to any of claims 8 to 12, wherein the composition further comprises one or more additives selected from the group consisting of an organic binder, a photosensitive monomer, a photoinitiator, a viscosity modifier, a storage stabilizer, a wetting agent, and an acid or a base.
+</P>
+<P>
+14. The carbon nanotube composition according to claim 13, wherein an amount of the additive is about 0.1 to about 60 parts by weight, based on 100 parts by weight of the composition.
+</P>
+<P>
+15. The carbon nanotube composition according to claim 13 or 14, wherein the organic binder is one or more selected from the group consisting of celluloses, including ethylcellulose, styrenes, a styrene-acrylic acid ester copolymer, polyvinylbutyral, polyvinylalcohol, and polypropylene carbonate.
+</P>
+<P>
+16. A method comprising:
+</P>
+<P>
+blending a dispersant; carbon nanotubes; and a dispersion medium selected from the group consisting of an organic solvent, water, and a mixture thereof; the dispersant comprising a plurality of heads covalently bonded to a plurality of tails; the heads comprising an aromatic ring; and
+</P>
+<P>
+wherein the tails are regioregularly arranged.
+</P>
+<P>
+17. The method of Claim 16, wherein the blending comprises melt blending or solution blending.
+</P>
+<P>
+18. The method of Claim 16 or 17, wherein the blending is conducted in an extruder.
+</P>
+</Claims>
+</BiblioData>

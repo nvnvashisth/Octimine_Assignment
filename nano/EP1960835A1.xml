@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+REFLECTION LITHOGRAPHY MASK AND METHOD FOR MAKING SAME
+</Title>
+<PublicationNumber>
+EP1960835A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHARPIN-NICOLLE CHRISTELLE [FR]
+</Name>
+<Name>
+CHARPIN-NICOLLE, CHRISTELLE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1960835
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060830321
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006EP69255
+</PriorityNumber>
+<PriorityDate>
+2006-12-04
+</PriorityDate>
+<PriorityNumber>
+FR20050012609
+</PriorityNumber>
+<PriorityDate>
+2005-12-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F1/08
+</Class>
+<Class>
+G03F1/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F1/08
+</Class>
+<Class>
+G03F1/24
+</Class>
+</NCL>
+<Abstract>
+L&apos;invention concerne un masque de photolithographie en extrême ultraviolet, fonctionnant en réflexion, le masque comportant un substrat (40), une structure de miroir (42) déposée uniformément sur le substrat, et une couche absorbante (50) pour la longueur d&apos;onde d&apos;utilisation du masque, déposée au-dessus de la structure de miroir et gravée selon un motif de masquage désiré. La couche absorbante contient parmi ses constituants principaux de l&apos;indium.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Masque de photolithographie en extrême ultraviolet, fonctionnant en réflexion, comportant un substrat (10, 12, 40), une structure réfléchissante (16, 42) déposée uniformément sur le substrat, et une couche absorbante (20, 22, 50) pour la longueur d&apos;onde d&apos;utilisation du masque, 1 o déposée au-dessus de la structure réfléchissante et gravée selon un motif de masquage désiré, caractérisé en ce que la couche absorbante contient, comme constituant absorbant principal, de l&apos;indium.
+</P>
+<P>
+2. Masque de photolithographie selon la revendication 1, 15 caractérisé en ce que la couche absorbante est un matériau à base d&apos;indium choisi parmi les matériaux suivants : InP, InGaAsP, InSb.
+</P>
+<P>
+3. Masque de photolithographie selon l&apos;une des revendications 1 et 2, caractérisé en ce que la couche absorbante est réalisée par un 20 empilement de couches de matériau à base d&apos;indium et d&apos;au moins une couche métallique, le métal étant choisi notamment parmi le titane, le tantale, le chrome.
+</P>
+<P>
+4. Masque de photolithographie selon l&apos;une des revendications 1 à 25 3, caractérisé en ce qu&apos;une couche tampon (44), facilitant la gravure sélective de la couche absorbante par rapport à la structure réfléchissante, est interposée entre la structure réfléchissante et la couche absorbante.
+</P>
+<P>
+5. Masque de photolithographie selon la revendication 4 30 caractérisé en ce que la couche tampon est une couche d&apos;oxyde d&apos;aluminium AI2O3 ou de silice.
+</P>
+<P>
+6. Masque de photolithographie selon la revendication 4, caractérisé en ce que la couche tampon est un empilement de plusieurs 35 couches, notamment de chrome et d&apos;oxyde d&apos;aluminium.
+</P>
+<P>
+7. Masque de photolithographie selon la revendication 5, caractérisé en ce que dans un empilement couche absorbante en InP/ couche tampon en AI2O3, la couche absorbante en InP a une épaisseur d&apos;environ 20 nanomètres, la couche tampon en AI2O3 a une épaisseur d&apos;environ 20 nanomètres.
+</P>
+<P>
+8. Procédé de fabrication de masque de photolithographie en réflexion en extrême ultraviolet, dans lequel on dépose sur un substrat revêtu d&apos;une structure (42) réfléchissante à la longueur d&apos;onde d&apos;utilisation du masque, une couche (46) absorbante pour cette longueur d&apos;onde, puis une résine de photolithographie (48), on insole la résine selon un motif d&apos;exposition désiré, on développe la résine, et on grave la couche absorbante à travers le motif de résine subsistant, pour définir un motif de zones qui sont absorbantes à la longueur d&apos;onde d&apos;utilisation du masque, caractérisé en ce que la couche absorbante est une couche à base d&apos;indium comme constituant absorbant principal de la couche.
+</P>
+<P>
+9. Procédé selon la revendication 8, caractérisé en ce qu&apos;il comporte les étapes suivantes : -dépôt sur un substrat (40) d&apos;une structure réfléchissante constituée par un empilement (42) d&apos;une alternance de couches transparentes à la longueur d&apos;onde d&apos;utilisation du masque (cl, c2,...cn) d&apos;indices différents ; - dépôt de la couche tampon (44) ; -dépôt, sur la couche tampon, de la couche absorbante à base d&apos;indium (46) ; - étalement d&apos;une résine lithographique (48) sur la couche à base d&apos;indium ; réalisation, par lithographie en ultraviolet ou par faisceau 30 d&apos;électrons, d&apos;un motif de résine désiré ; - gravure par plasma de la couche à base d&apos;indium là où elle n&apos;est pas protégée par la résine (50) ; - élimination de la résine subsistante et gravure de la couche tampon (44) là où elle n&apos;est pas protégée par la couche absorbante. 35 5 10 15
+</P>
+<P>
+10. Procédé selon la revendication 9, caractérisé en ce que l&apos;étape de photolithographie de la résine est effectuée avec un rayonnement ultraviolet de longueur d&apos;onde très supérieure à la longueur d&apos;onde d&apos;utilisation du masque.
+</P>
+<P>
+11. Procédé selon l&apos;une des revendications 8 à 10, caractérisé en ce que la structure réfléchissante est réalisée par pulvérisation par faisceau d&apos;ions de plusieurs dizaines de paires de couches , l&apos;épaisseur globale de chaque paire étant d&apos;environ 6,9 nanomètres.
+</P>
+<P>
+12. Procédé selon l&apos;une des revendications 8 à 11, caractérisé en ce que la couche absorbante est en InP d&apos;une épaisseur d&apos;environ 20 nanomètres et la couche tampon en oxyde d&apos;aluminium AI2O3 d&apos;une épaisseur d&apos;environ 20 nanomètres..
+</P>
+<P>
+13. Procédé selon l&apos;une des revendications 8 à 12, caractérisé en ce que la couche absorbante est réalisée par dépôt à basse température, inférieure à environ 100 C, d&apos;une couche à base de phosphure d&apos;indium. 20
+</P>
+</Claims>
+<Also_published_as>
+FR2894690A1;US2009191469A1;US7972751B2;JP2009519593A;WO2007068614A1
+</Also_published_as>
+</BiblioData>

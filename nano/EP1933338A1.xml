@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Magnetic storage element and memory
+</Title>
+<PublicationNumber>
+EP1933338A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HIGO YUTAKA [JP]
+</Name>
+<Name>
+HOSOMI MASANORI [JP]
+</Name>
+<Name>
+OHMORI HIROYUKI [JP]
+</Name>
+<Name>
+YAMAMOTO TETSUYA [JP]
+</Name>
+<Name>
+YAMANE KAZUTAKA [JP]
+</Name>
+<Name>
+OISHI YUKI [JP]
+</Name>
+<Name>
+KANO HIROSHI [JP]
+</Name>
+<Name>
+HIGO, YUTAKA
+</Name>
+<Name>
+HOSOMI, MASANORI
+</Name>
+<Name>
+OHMORI, HIROYUKI
+</Name>
+<Name>
+YAMAMOTO, TETSUYA
+</Name>
+<Name>
+YAMANE, KAZUTAKA
+</Name>
+<Name>
+OISHI, YUKI
+</Name>
+<Name>
+KANO, HIROSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SONY CORP [JP]
+</Name>
+<Name>
+SONY CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1933338
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070022152
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20060335016
+</PriorityNumber>
+<PriorityDate>
+2006-12-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01F10/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01F10/32N4
+</Class>
+<Class>
+H01F41/32
+</Class>
+<Class>
+H01L43/08
+</Class>
+</NCL>
+<Abstract>
+A storage element includes a storage layer, a fixed magnetization layer, a spin barrier layer, and a spin absorption layer. The storage layer stores information based on a magnetization state of a magnetic material. The fixed magnetization layer is provided for the storage layer through a tunnel insulating layer. The spin barrier layer suppresses diffusion of spin-polarized electrons and is provided on the side of the storage layer opposite the fixed magnetization layer. The spin absorption layer is formed of a nonmagnetic metal layer causing spin pumping and provided on the side of the spin barrier layer opposite the storage layer. A direction of magnetization in the storage layer is changed by passing current in a layering direction to inject spin-polarized electrons so that information is recorded in the storage layer and the spin barrier layer includes at least a material selected from oxides, nitrides, and fluorides.
+</Abstract>
+<Claims>
+<P>
+1. A storage element comprising:
+</P>
+<P>
+a storage layer which stores information based on a magnetization state of a magnetic material;
+</P>
+<P>
+a fixed magnetization layer provided for the storage layer with a tunnel insulating layer in between;
+</P>
+<P>
+a spin barrier layer which suppresses diffusion of spin-polarized electrons and is provided on the side of the storage layer opposite the fixed magnetization layer; and
+</P>
+<P>
+a spin absorption layer formed of a nonmagnetic metal layer causing a spin pumping phenomenon and provided on the side of the spin barrier layer opposite the storage layer, wherein
+</P>
+<P>
+a direction of magnetization in the storage layer is changed by passing current in a layering direction to inject the spin-polarized electrons so that information is recorded in the storage layer and
+</P>
+<P>
+the spin barrier layer includes one or more materials selected from oxides, nitrides, and fluorides.
+</P>
+<P>
+2. A storage element according to claim 1, wherein
+</P>
+<P>
+the storage layer includes a plurality of ferromagnetic layers layered through nonmagnetic layers.
+</P>
+<P>
+3. A storage element according to claim 2, wherein
+</P>
+<P>
+the ferromagnetic layers forming the storage layer include CoFeB as a main component; the nonmagnetic layers forming the storage layer include at least one nonmagnetic element selected from Ti, Ta, Nb, and Cr; and the content of the nonmagnetic element in the storage layer is 1 atom% or greater and 20 atom% or less.
+</P>
+<P>
+4. A storage element according to claim 1, wherein
+</P>
+<P>
+the tunnel insulating layer includes magnesium oxide.
+</P>
+<P>
+5. A storage element according to claim 1, wherein
+</P>
+<P>
+the tunnel insulating layer and the spin barrier layer include magnesium oxide.
+</P>
+<P>
+6. A storage element according to claim 1, wherein
+</P>
+<P>
+the spin absorption layer includes at least one element selected from Pt, Ru, Pd, and Au.
+</P>
+<P>
+7. A storage element according to claim 1, wherein
+</P>
+<P>
+a thickness of the spin absorption layer is greater than a spin diffusion length of the material forming the spin absorption layer.
+</P>
+<P>
+8. A memory comprising:
+</P>
+<P>
+a storage element having a storage layer which stores information based on a magnetization state of a magnetic material and
+</P>
+<P>
+two types of mutually intersecting lines,wherein the storage element includes a fixed magnetization layer provided for the storage layer with a tunnel insulating layer in between; a spin barrier layer which suppresses diffusion of spin-polarized electrons and is provided on the side of the storage layer opposite the fixed magnetization layer; a spin absorption layer formed of a nonmagnetic metal layer causing a spin pumping phenomenon and provided on the side of the spin barrier layer opposite the storage layer; in which a direction of magnetization in the storage layer is changed by passing current in a layering direction to inject spin-polarized electrons so that information is recorded in the storage layer and in which the spin barrier layer includes one or more materials selected from oxides, nitrides, and fluorides, and
+</P>
+<P>
+wherein the storage element is positioned in the vicinity of an intersection of the two types of line and between the two types of line and current flows in the layering direction of the storage element through the two types of line to inject spin-polarized electrons.
+</P>
+</Claims>
+<Also_published_as>
+US2008140922A1;TW200830314A;KR20080054343A;JP2008147522A;CN101202325A;CN101202325B
+</Also_published_as>
+</BiblioData>

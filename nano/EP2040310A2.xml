@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Solar cell manufactured using amorphous and nanocrystalline silicon composite thin film, and process for manufacturing the same
+</Title>
+<PublicationNumber>
+EP2040310A2
+</PublicationNumber>
+<Inventor>
+<Name>
+CHOI YONG WOO [KR]
+</Name>
+<Name>
+CHOE YOUNG HO [KR]
+</Name>
+<Name>
+KIM HYUNG SEOK [KR]
+</Name>
+<Name>
+LEE YOUNG HEE [KR]
+</Name>
+<Name>
+CHOI, YONG WOO
+</Name>
+<Name>
+CHOE, YOUNG HO
+</Name>
+<Name>
+KIM, HYUNG SEOK
+</Name>
+<Name>
+LEE, YOUNG HEE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+LG ELECTRONICS INC [KR]
+</Name>
+<Name>
+LG ELECTRONICS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2040310
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080100137
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+KR20070094787
+</PriorityNumber>
+<PriorityDate>
+2007-09-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L31/0352
+</Class>
+<Class>
+H01L31/036
+</Class>
+<Class>
+H01L31/075
+</Class>
+<Class>
+H01L31/18
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01L31/0352C2
+</Class>
+<Class>
+H01L31/0376B
+</Class>
+<Class>
+H01L31/075
+</Class>
+<Class>
+H01L31/20B
+</Class>
+<Class>
+Y02E10/54N
+</Class>
+</NCL>
+<Abstract>
+Disclosed are a solar cell manufactured using a composite thin film comprising amorphous silicon and nanocrystalline silicon, a method of manufacturing the solar cell, and a composition for the composite thin film used in manufacturing the solar cell. The solar cell of the present invention is manufactured by dispersing the crystalline silicon nanoparticles in the liquid silicon precursor, coating the dispersion on a substrate or printing the substrate with the dispersion, and heating the coated or printed substrate to modify the liquid silicon precursor into the amorphous silicon. According to the present invention, expensive equipments are not needed to form a composite thin film comprising both of amorphous silicon and crystalline silicon. In addition, it is possible to form a composite thin film comprising plural materials with different band gap energy which can remarkably improve conversion efficiency of a solar cell by using a liquid precursor and nanocrystalline particles in a solution process with low production cost.
+</Abstract>
+<Claims>
+<P>
+1. A solar cell comprising at least one of composite thin films, each of which comprises a combination of amorphous silicon and crystalline silicon.
+</P>
+<P>
+2. The solar cell according to claim 1, wherein the composite thin film comprises crystalline silicon particles dispersed in a the amorphous silicon matrix.
+</P>
+<P>
+3. A solar cell comprising at least one photoelectric conversion layer between a rear electrode and a front electrode, which includes a composite thin film comprising a amorphous silicon matrix and crystalline silicon particles dispersed in the matrix.
+</P>
+<P>
+4. The solar cell according to any one of claims 1 to 3, wherein the crystalline silicon particles is nano-sized crystals.
+</P>
+<P>
+5. The solar cell according to claim 4, wherein the size of the nano-sized crystals is 1nm to 500nm.
+</P>
+<P>
+6. The solar cell according to claim 1 or 3, wherein the amorphous silicon is modified from a liquid silicon precursor.
+</P>
+<P>
+7. The method according to claim 1 or 3, wherein the amorphous silicon is modified from at least one selected from a group consisting of silane SiH4, disilane Si2H6, cyclopentasilane Si5H10 and cyclohexasilane Si6H12.
+</P>
+<P>
+8. The solar cell according to claim 1 or 3, wherein the composite thin film includes 0 to 10% of dispersant residue.
+</P>
+<P>
+9. A composition for composite thin film used in a solar cell, comprising 10% to 90% by weight of a liquid silicon precursor and 10% to 90% by weight of crystalline silicon particles dispersed in the liquid silicon precursor.
+</P>
+<P>
+10. The composition according to claim 9, wherein the liquid silicon precursor is at least one selected from a group consisting of silane SiH4, disilane Si2H6, cyclopentasilane Si5H10 and cyclohexasilane Si6H12.
+</P>
+<P>
+11. The composition according to claim 9, wherein the composition further comprises 0 to 10% of dispersant residue.
+</P>
+<P>
+12. The composition according to claim 9, wherein the crystalline silicon particles are nanocrystalline silicon particles with a particle size ranging from 1nm to 500nm.
+</P>
+<P>
+13. A method for manufacturing a solar cell, comprising the steps of:
+</P>
+<P>
+mixing a liquid silicon precursor with crystalline silicon;
+</P>
+<P>
+coating the mixture on a substrate or an electrode layer or printing the substrate or the electrode with the mixture; and
+</P>
+<P>
+heating the coated or printed substrate in order to modify the liquid silicon precursor into an amorphous silicon matrix.
+</P>
+<P>
+14. The method according to claim 13, wherein the crystalline silicon is nanocrystalline silicon particles with a particle size ranging from 1nm to 500nm.
+</P>
+<P>
+15. The method according to claim 13, wherein the liquid silicon precursor is at least one selected from a group consisting of silane SiH4, disilane Si2H6, cyclopentasilane Si5H10 and cyclohexasilane Si6H12.
+</P>
+<P>
+16. The method according to claim 13, further comprising a passivation step of removing defects on an interface between the amorphous silicon and the crystalline silicon with a passivation gas after the heating step.
+</P>
+<P>
+17. The method according to claim 16, wherein gas for the passivation is at least one selected from a group consisting of oxygen, ozone containing oxygen, oxygen plasma gas, mixture gas of the aforementioned three gases, hydrogen, hydrogen fluoride, hydrogen bromide, and phosphine.
+</P>
+<P>
+18. The process according to claim 13, wherein the mixture further comprises a dispersant and/or a surfactant.
+</P>
+<P>
+19. The process according to claim 13, wherein the heating temperature is in range of 300[deg.]C to 500[deg.]C.
+</P>
+</Claims>
+<Also_published_as>
+US2009071539A1;KR20090029494A;JP2009076841A
+</Also_published_as>
+</BiblioData>

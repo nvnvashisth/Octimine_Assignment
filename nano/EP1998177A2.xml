@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Compositions and methods for diagnosing and treating colon cancers
+</Title>
+<PublicationNumber>
+EP1998177A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MARTINEZ ROBERT VINCENT [US]
+</Name>
+<Name>
+BROWN EUGENE L [US]
+</Name>
+<Name>
+LIU WEI [US]
+</Name>
+<Name>
+MARTINEZ, ROBERT VINCENT
+</Name>
+<Name>
+BROWN, EUGENE L
+</Name>
+<Name>
+LIU, WEI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+WYETH CORP [US]
+</Name>
+<Name>
+WYETH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1998177
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080011895
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-01-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040700319
+</PriorityNumber>
+<PriorityDate>
+2004-01-06
+</PriorityDate>
+<PriorityNumber>
+US20030438000P
+</PriorityNumber>
+<PriorityDate>
+2003-01-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K39/00
+</Class>
+<Class>
+A61K48/00
+</Class>
+<Class>
+A61K51/00
+</Class>
+<Class>
+C07K14/82
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N33/50
+</Class>
+<Class>
+G01N33/574
+</Class>
+<Class>
+A61K38/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K39/00D6
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C07K14/82
+</Class>
+<Class>
+C12Q1/68M6B
+</Class>
+<Class>
+G01N33/574C6
+</Class>
+</NCL>
+<Abstract>
+Compositions, equipment, and methods for prognosing, diagnosing, preventing, or treating colon cancer. Colon cancer genes that are differentially expressed in colon cancer tissues relative to disease-free tissues are identified. Examples of these genes are illustrated in Tables 1-5. Colon cancer genes of the present invention and their encoded products can be used as markers or prophylactic or therapeutic agents for the detection or treatment of colon cancer.
+</Abstract>
+<Claims>
+<P>
+1. A method, comprising the steps of:
+</P>
+<P>
+detecting a level of a polypeptide encoded by a colon cancer gene in a biological sample of a subject; and
+</P>
+<P>
+comparing said level to a control level of said polypeptide, wherein the colon cancer gene is differentially expressed in colon cancer tissues as compared to disease-free colon tissues.
+</P>
+<P>
+2. The method according to claim 1, wherein the biological sample is a colon tissue sample, a blood sample, or a bodily waste sample, and the control level is an average level of said polypeptide in control samples of disease-free subjects.
+</P>
+<P>
+3. The method according to claim 2, wherein the colon cancer gene is selected from the group consisting of a kinase gene, a phosphatase gene, a protease gene, a metabolic enzyme gene, a G-protein coupled receptor gene, an ion channel gene, and a transcription factor gene.
+</P>
+<P>
+4. The method according to claim 2, wherein the colon cancer gene is selected from Tables 1-5.
+</P>
+<P>
+5. The method according to claim 4, wherein the subject has colon cancer.
+</P>
+<P>
+6. The method according to claim 5, wherein the subject is subject to a therapeutic treatment of said cancer.
+</P>
+<P>
+7. A method, comprising the steps of:
+</P>
+<P>
+detecting an expression profile of one or more colon cancer genes in a biological sample of a subject; and
+</P>
+<P>
+comparing the expression profile to a control expression profile of said one or more colon cancer genes, wherein each of said one or more colon cancer genes is differentially expressed in colon cancer tissues as compared to disease-free colon tissues.
+</P>
+<P>
+8. The method according to claim 7, wherein said one or more colon cancer genes comprise at least one gene selected from Tables 1-5.
+</P>
+<P>
+9. A method, comprising the steps of:
+</P>
+<P>
+detecting in a biological sample the level of T cells that are activated by one or more polypeptides encoded by at least one colon cancer gene; and
+</P>
+<P>
+comparing the level to a control level of said T cells, wherein said colon cancer gene is over-expressed in colon cancer tissues relative to disease-free colon tissues.
+</P>
+<P>
+10. A pharmaceutical composition comprising a pharmaceutically acceptable carrier and at least one component selected from the group consisting of:
+</P>
+<P>
+a polypeptide encoded by a colon cancer gene;
+</P>
+<P>
+a variant of said polypeptide; and
+</P>
+<P>
+a polynucleotide encoding said polypeptide or variant, wherein said colon cancer gene is over-expressed in colon cancer tissues relative to disease-free colon tissues.
+</P>
+<P>
+11. The pharmaceutical composition according to claim 10, wherein the pharmaceutical composition is a vaccine formulation capable of eliciting an immune response against a colon cancer cell or a component thereof, and wherein said colon cancer gene is selected from Tables 1-5.
+</P>
+<P>
+12. A method comprising administering an immunoeffective amount of the pharmaceutical composition of claim 11 to a subject.
+</P>
+<P>
+13. A pharmaceutical composition comprising a pharmaceutically acceptable carrier and at least one component selected from the group consisting of:
+</P>
+<P>
+an agent capable of modulating the expression of a colon cancer gene which is over-expressed in colon cancer tissues relative to disease-free colon tissues;
+</P>
+<P>
+an agent capable of binding to, or modulating an activity of, a polypeptide encoded by said colon cancer gene; and
+</P>
+<P>
+a T cell activated by said polypeptide.
+</P>
+<P>
+14. The pharmaceutical composition according to claim 13, wherein said component is selected from the group consisting of:
+</P>
+<P>
+a polynucleotide comprising or encoding an RNA that is capable of inhibiting or decreasing the expression of said colon cancer gene by RNA interference or an antisense mechanism;
+</P>
+<P>
+an antibody specific for said polypeptide encoded by said colon cancer gene; and
+</P>
+<P>
+an inhibitor of a biological activity of said polypeptide, wherein said colon cancer gene is selected from Tables 1-5.
+</P>
+<P>
+15. A method comprising administering the pharmaceutical composition of claim 14 to a subject who has colon cancer.
+</P>
+<P>
+16. The pharmaceutical composition according to claim 13, wherein said component is a polynucleotide comprising or encoding a siRNA sense or antisense sequence selected from Table 7.
+</P>
+<P>
+17. A diagnostic kit comprising at least one of:
+</P>
+<P>
+(a) a polynucleotide capable of hybridizing under reduced stringent, stringent, or highly stringent conditions to a sequence selected from SEQ ID NOS:1-63, or a complement thereof; and
+</P>
+<P>
+(b) an antibody capable of specifically binding to a polypeptide selected from SEQ ID NOS:64-126.
+</P>
+<P>
+18. A nucleic acid array comprising one or more substrate supports which are stably associated with polynucleotide probes, wherein a substantial portion of all polynucleotide probes that are stably associated with said one or more substrate supports are capable of hybridizing under reduced stringent, stringent, or highly stringent conditions to RNA transcripts of colon cancer genes, or the complements thereof, wherein said colon cancer genes are differentially expressed in colon cancer tissues as compared to disease-free colon tissues.
+</P>
+<P>
+19. A polypeptide array comprising one or more substrate supports which are stably associated with a plurality of polypeptides, wherein a substantial portion of all polynucleotides that are stably associated with said one or more substrate supports are selected from the group consisting of:
+</P>
+<P>
+polypeptides encoded by colon cancer genes;
+</P>
+<P>
+variants of said encoded polypeptides;
+</P>
+<P>
+antibodies specific for said encoded polypeptides or said variants;
+</P>
+<P>
+polypeptides comprising said encoded polypeptides or said variants; and
+</P>
+<P>
+any combination thereof,wherein said colon cancer genes are differentially expressed in colon cancer tissues as compared to disease-free colon tissues.
+</P>
+<P>
+20. A method for identifying an agent capable of modulating gene expression in a colon cancer cell, comprising the steps of:
+</P>
+<P>
+contacting said agent with colon cancer cells; and
+</P>
+<P>
+comparing gene expression profile or profiles of one or more colon cancer genes in said cells before and after said contacting to determine if said agent can modulate said gene expression profile or profiles, wherein each of said one or more colon cancer genes is differentially expressed in colon cancer tissues as compared to disease-free colon tissues.
+</P>
+</Claims>
+<Also_published_as>
+EP1998177A3;WO2004061423A2;WO2004061423A3;US2004265230A1;SI1581812T1;PT1581812E;ES2309485T3;EP1581812A2;EP1581812B1;DK1581812T3;CA2511907A1;AU2004203749A1;AT401575T
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LITHOGRAPHY SYSTEM, SENSOR AND MEASURING METHOD
+</Title>
+<PublicationNumber>
+EP1943662A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KRUIT PIETER [NL]
+</Name>
+<Name>
+WIELAND MARCO JAN JACO [NL]
+</Name>
+<Name>
+SLOT ERWIN [NL]
+</Name>
+<Name>
+TEEPEN TIJS FRANS [NL]
+</Name>
+<Name>
+STEENBRINK STIJN WILLEM KAREL [NL]
+</Name>
+<Name>
+KRUIT, PIETER
+</Name>
+<Name>
+WIELAND, MARCO, JAN, JACO
+</Name>
+<Name>
+SLOT, ERWIN
+</Name>
+<Name>
+TEEPEN, TIJS, FRANS
+</Name>
+<Name>
+STEENBRINK, STIJN, WILLEM, KAREL, HERMAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MAPPER LITHOGRAPHY IP BV [NL]
+</Name>
+<Name>
+MAPPER LITHOGRAPHY IP B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1943662
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060783922
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006NL00457
+</PriorityNumber>
+<PriorityDate>
+2006-09-14
+</PriorityDate>
+<PriorityNumber>
+NL20051029963
+</PriorityNumber>
+<PriorityDate>
+2005-09-15
+</PriorityDate>
+<PriorityNumber>
+US20050718143P
+</PriorityNumber>
+<PriorityDate>
+2005-09-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01J37/317
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01J37/244
+</Class>
+<Class>
+H01J37/317B4
+</Class>
+</NCL>
+<Abstract>
+Lithography system, sensor and method for measuring properties of a massive amount of charged particle beams of a charged particle beam system, in particular a direct write lithography system, in which the charged particle beams are converted into light beams by using a converter element, using an array of light sensitive detectors such as diodes, CCD or CMOS devices, located in line with said converter element, for detecting said light beams, electronically reading out resulting signals from said detectors after exposure thereof by said light beams, utilising said signals for determining values for one or more beam properties, thereby using an automated electronic calculator, and electronically adapting the charged particle system so as to correct for out of specification range values for all or a number of said charged particle beams, each for one or more properties, based on said calculated property values.
+</Abstract>
+<Claims>
+<P>
+C L A I M S
+</P>
+<P>
+1. A method of measuring properties of a massive amount of charged particle beams of a charged particle beam system, in particular a direct write lithography system, in which - the charged particle beams are converted into light beams by using a converter element, using an array of light sensitive detectors such as diodes, CCD or CMOS devices, located in line with said converter element, for detecting said light beams, - electronically reading out resulting signals from said detectors after exposure thereof by said light beams, utilising said signals for determining values for one or more beam properties, thereby using an automated electronic calculator, and - electronically adapting the charged particle system so as to correct for out of specification range values for all or a number of said charged particle beams, each for one or more properties, based on said calculated property values. 2. Method according to claim 1, wherein determination of beam properties is performed on the basis of signals resulting from a converted charged particle beam
+</P>
+<P>
+(4) , thereby using a blocking element, included at a known position relative to the converter. 3. Method according to the preceding claim, wherein the properties are determined on the basis of a set of signals obtained while shifting the blocking element and the charged particle beam relative to each another by a known shift, between each signal point in said set. 4. Method according to the preceding claim, in which the charged particle blocking element (6) is applied integrated with said converter element, located in close proximity of the top of said converter element, in particular on top thereof .
+</P>
+<P>
+5. Method according to any one of the preceding claims, wherein adaptation of the system is performed by at least one of electronically modifying electronic data, in particular control data, for a pattern to be imaged by said charged particle beam system, - modifying line width, and electronically influencing a position modifying means of said beam system, for modifying the position of one or more charged particle beams, in particular by introducing a time delay. 6. Method according to the preceding claim, in which the system is adapted solely by modifying said electronic data.
+</P>
+<P>
+7. Method according to any one of the preceding claims, in which the spot size of said charged particle beams is smaller than the resolution of the converter element.
+</P>
+<P>
+8. Method according to the preceding claim, in which the intensity of a light beam is utilised for determining a beam property value. 9. Method according to the preceding claim, in which a knife-edge is used in combination with said light intensity for deriving a value for a spot size in one direction.
+</P>
+<P>
+10. Method according to the preceding claim, in which values for spot size in at least two, in particular three directions, is used for deriving a spot shape.
+</P>
+<P>
+11. Method according to any one of the preceding claims, wherein determination of beam properties is performed on the basis of a plurality of signals resulting from a stepping proceed of a charged particle beam being scanned in one direction at a time over said blocking element.
+</P>
+<P>
+12. Method according to any one of the preceding claims, in which a beam is switched off and on during such scan, in particular at predefined instances in time.
+</P>
+<P>
+13. Method according to any one of the preceding claims, wherein a switching &quot;off&quot; and &quot;on&quot; is incrementally delayed during multiple scans in one direction, relative to the starting point of the scan.
+</P>
+<P>
+14. Method according to any one of the preceding claims, wherein pulse duration variation is determined using a measurement with predetermined beam on/off timing.
+</P>
+<P>
+15. Method according to any one of the preceding claims, wherein the light beam resulting from impingement of a charged particle beam on said converter is optically modified for receipt by said light sensitive detector, in particular by means of a lens system, more in particular such that said resulting light beams are kept apart from one another, i.e. are modified such that no overlap between said resulting beams occurs .
+</P>
+<P>
+16. Method according to any one of the preceding claims, wherein a number of beam properties is derived using a beam detector comprising a beam blocking element, a converter element an electronically readable photon receptor element, an actuator for realising a relative movement of an electron beam and a beam blocker, and an electronic calculating unit (Cu) , said properties at least including one or more of beam position, timing delay of a possible blanker device acting upon said particle beam, beam spot size, beam current and blanking element functioning. 17. A method according to any one of the preceding claims, wherein the charged particle beam system, at least the beam generating part thereof is provided with an optical sensor, and wherein the detector for detecting beam properties, in particular the pattern of blocking elements thereon is utilised for optically detecting the position of said system relative to an independently moveable stage for holding a target surface and comprising said detector.
+</P>
+<P>
+18. A method of measuring properties of a massive amount of charged particle beams of a charged particle beam system, in particular a direct write lithography system. 19. A sensor embodied for performing the measuring method in accordance with any one of the preceding claims .
+</P>
+<P>
+20. A sensor for measuring one or more characteristics of one or more particle beams such as in a lithography system and such as in a multi beam inspection tool, characterised in that the sensor comprises a converter for converting a particle beam into a light beam, as well as a photon receptor arranged for receiving a light beam emitted by said converter upon incidence of a particle beam, and transforming light from said received light beam into an electronic signal, enabling read out of said signal from the sensor by an electronic control system.
+</P>
+<P>
+21. A sensor according to the preceding claim in which a beam blocking element is provided to the surface of said converter.
+</P>
+<P>
+22. A sensor according to the preceding claim, characterised in that for each beamlet a separate blocking element is provided, in particular included at a known relative position. 23. A sensor according to claim 20, 21 or 22, in which the blocking element is provided with a sharp edge as taken perpendicularly to the surface of the converter means .
+</P>
+<P>
+24. A sensor according to any one of the preceding claims 20 - 23, wherein the blocking element is provided with a number of sharp edges .
+</P>
+<P>
+25. A sensor according to any one of the preceding claim 20 - 24, in which the blocking element is composed of a heavy material, preferably tungsten, preferably of a thickness within a range from 50 to 500 nm, in particular thick enough to sufficiently block an incoming charged particle beam, and on the other hand thin enough to minimize defocus and edge roughness effects.
+</P>
+<P>
+26. A sensor according to any one of the preceding claims 20 - 25, wherein the sensor includes a thin layer of light metal such as aluminum, between said knife edge and said converter, in particular of a thickness within the range from 30 to 80 nm.
+</P>
+<P>
+27. A sensor according to any one of the preceding claims 20 - 26, wherein the sensor includes at least one blocking element having three, sharp edges mutually included in hexagon shape, in particular under an angle with nominal value of 120 degrees.
+</P>
+<P>
+28. A sensor according to any one of the preceding claims 20 - 27, in which an optical system is included between the converter element and the light sensitive detector.
+</P>
+<P>
+29. A sensor for measuring properties of a massive amount of charged particle beams of a charged particle beam system, in particular a direct write lithography system. 30. A lithography system for transferring a pattern onto the surface of a target, using a charged particle beam tool, said tool being capable of generating a plurality of charged particle beams for writing said pattern on said surface, in which either one of the measuring method according to claim 1 and the sensor in accordance with claim 20 is applied.
+</P>
+<P>
+31. A lithography system for transferring a pattern onto the surface of a target, using a charged particle beam tool, said tool being capable of generating a plurality of charged particle beams for writing said pattern on said surface, thereby turning off and on each beam separately at writing said pattern onto the surface by means of a blanker part of said system, and of at least in advance of a writing action, sensing characteristics of a writing beam using a sensor included in a position apart from said target surface, characterised in that the sensor is arranged in the system for directly detecting all of said writing beams simultaneously, the sensor thereto comprising a converter converting each of said particle beams into a light beam, the sensor further comprising an array of light sensitive elements such as photodiode elements, for detecting such light beams, and for generating an electron charge upon exposure to light, which array is read out at least virtually simultaneously by a calculating unit providing correcting value signals upon such read out to a controller of the particle beam tool, and/or to a controller for said pattern, for modifying electronic data representing said pattern.
+</P>
+<P>
+32. A system according to the preceding claim, in which the sensor further comprises a blocking element, included on top of said converter. 33. A system according to claim 31 or 32, wherein adaptation of the system is performed by at least one of electronically modifying electronic data, in particular control data, for a pattern to be imaged by said charged particle beam system, - modifying line width, and electronically influencing a position modifying means of said beam system, for modifying the position of one or more charged particle beams.
+</P>
+<P>
+34. System according to any one of the preceding claims 31 - 33, in which the calculating unit based on information from the sensor, provides corrective values for correcting one or more of the position of a particle beam in two directions of a plane preferably parallel to that of the target area, the intensity or current of the particle beam, the spot position and the spot size, and the sigma, of a Gaussian distribution feature of the particle beam.
+</P>
+<P>
+35. System according to any one of the preceding claims 31 - 34, in which a particle beam is scanned over said sensor and switched on at an instance where it is expectedly located at a predetermined position, in particular thereby determining position and timing error of a writing beam.
+</P>
+<P>
+36. System according to the preceding claim, in which the beam is switched on for a pre-determined period of time, in particular thereby determining a pulse duration variation error. 37. System according to any one of the preceding claims 31 - 36, in which multiple scans are performed over the sensor.
+</P>
+<P>
+38. System according to any one of the preceding claims 31 - 37, in which a charged particle beam is scanned over the sensor in at three different directions, preferably mutually distributed in a plane under corresponding angles .
+</P>
+<P>
+39. System according to any one of the preceding claims 31 - 38,&amp;lt;&apos;&amp;gt; in which a charged particle beam is scanned for a multiplicity of steps in a single direction over a sensor at different locations, shifted over at least three times an expected or determined spot diameter of the beam.
+</P>
+<P>
+40. System according to any one of the preceding claims 31 - 39, in which both physical displacement of a beam spot and time delay of a blanking part for blanking a beam are measured.
+</P>
+<P>
+41. A lithography system for transferring a pattern onto the surface of a target, using a charged particle beam tool, said tool being capable of generating a plurality of charged particle beams for writing said pattern on said surface .
+</P>
+<P>
+42. A Lithography system comprising a stage for an object such as a wafer or mask to be processed by a multi beam charged particle tool, said stage being provided with a multiplicity of sensors according to any of the preceding sensor claims, for measuring charged particle beam features, wherein each sensor of said multiplicity is implemented for measuring all charged particle beams of said tool at a time, and wherein sensors of said multiplicity are distributed at various locations near said object to be processed, at mutual distances that are distributed such that calibration of the beam tool is enabled more than once at entirely treating a wafer, in particular thus enabling entire treatment efficiently, i.e. without significant loss of throughput of the system as compared to a single sensor system. 43. Lithography system according to the preceding claim wherein said enabling is realised by distributing at least two sensors at even, at least corresponding distances with respect to the track which the beam tool is to follow relative to said object to be processed. 44. Lithography system according to claim 42 or
+</P>
+<P>
+43, wherein the method according &amp;lt;-&amp;gt; to any one of the preceding claims 1 - 19, the sensor according to any one of the preceding claims 20 - 29, and the lithography system according to any one of the preceding claims 31 - 43 is applied.
+</P>
+<P>
+45. A lithography system for transferring a pattern onto the surface of a target, provided with one or more of the characterizing features described in the accompanying description and/or shown in the accompanying drawings .
+</P>
+<P>
+46. A sensor for measuring one or more characteristics of one or more particle beams such as in a lithography system and such as in a multi beam inspection tool, provided with one or more of the characterizing features described in the accompanying description and/or shown in the accompanying drawings.
+</P>
+<P>
+47. A method of measuring properties of a massive amount of charged particle beams of a charged particle beam system, in particular a direct write lithography system, comprising one or more of the characterizing steps described in the accompanying description and/or shown in the accompanying drawings .
+</P>
+<P>
+-o-o-o-o-o-o-o-o- AMENDED CLAIMS
+</P>
+<P>
+Received by the International Bureau on 16 February 2007
+</P>
+<P>
+1. A method of measuring at least one property of a massive amount of charged particle beams (4) of a charged particle beam system, in particular a direct write lithography system, in which. - the charged, particle beams (4) are converted into light beams (5) by using a converter element (1) , using an array of light sensitive detectors (3) such as diodes, CCD or CMOS devices, located in line with said converter element (1), for detecting said light beams, - electronically reading out resulting signals from said detectors (3) after exposure thereof by said light beams (S) , utilising said signals for determining values for one or more charged particle beam properties, thereby using an automated electronic calculator (GU), and electronically adapting the charged particle system so as to correct for out of specification range values for all or a number of said charged particle beams
+</P>
+<P>
+(4), each for one or more properties, based on said calculated property values, wherein determination of a beam property is performed on the basis of a signal resulting from a converted charged particle beam (4) , while shifting the blocking element (6) included at a known position relative to the converter and the charged particle beam relative to each another by one or more known shifts.
+</P>
+<P>
+2&amp;lt;,&amp;gt; Method according to claim 1, in which the charged particle blocking element (6) is applied integrated with said converter element (1) , located in close proximity of the top of said converter element, in particular on top thereof .
+</P>
+<P>
+3. Method according to claim 1, in which the spot size of said charged particle beams is smaller than the resolution of the converter element . 4. Method according to the preceding claim in which variation of the intensity of a light beam due to passage thereof over said integration blocking element and convertor is utilised for determining a beam propert[gamma] value. 5. Method according to the preceding claim, in which a knife-edge is used in combination with said light intensity for deriving a value for a spot size in one direction.
+</P>
+<P>
+6. Method according to the preceding claim in which values for spot size in at least two, in particular three directions, is used for deriving a spot shape.
+</P>
+<P>
+7. Method according to any one of the preceding claims, wherein determination of beam properties is performed on the basis of a plurality of signals resulting from a stepping proceed of a charged particle beam being scanned in one direction at a time over said blocking element.
+</P>
+<P>
+8. Method according to any one of the preceding claims, in which a beam is switched off and on during such scan, in particular at predefined instances in time.
+</P>
+<P>
+9. Method according to any one of the preceding claims, wherein a switching &quot;off&quot; and &quot;on&quot; is incrementally delayed during multiple scans in one direction, relative to the starting point of the scan.
+</P>
+<P>
+10. Method according to any one of the preceding claims, wherein pulse duration, variation is determined using a measurement with predetermined beam on/off timing.
+</P>
+<P>
+11. Method of measuring properties of a massive amount of charged particle beams (4) of a charged particle beam system, in particular a direct write lithography system, wherein a number of beam properties is derived using a beam detector comprising a beam blocking element, a converter element an electronically readable photon, receptor element, an actuator for realising a relative movement of an electron beam and a beam blocker and an electronic calculating unit (Cu) , said properties at least including two of beam position, timing delay of a possibleble blanker device acting upon said particle beam, beam spot size, beam current and blanking element functioning.
+</P>
+<P>
+12. A method according to any one of the preceding claims, wherein the charged particle beam system, at least the beam generating part thereof is provided with an optical sensor, and wherein the detector for detecting beam properties, in particular the pattern of blocking elements thereon is utilised for optically detecting the position of said system relative to an independently moveable stage for holding a target surface and comprising said detector.
+</P>
+<P>
+13. A sensor (S) for measuring one more characteristics of one or more particle beams (4) such as in a lithography system and such as in a m beam inspection tool, characterised in that the sensor (S) comprises a converter (I) for converting a particle beam
+</P>
+<P>
+(4) into a light beam (5) , as well as a photon receptor (2) arranged for receiving a light beam (5) emitted by said converter (1) upon incidence of a particle beam (4) , and transforming light from said received light beam (5) into an electronic signal, enabling read out of said signal from the sensor (S) by an electronic control system.
+</P>
+<P>
+14. A sensor according to the preceding claim in which a beam blocking element (6) is provided to the surface of said converter (1) .
+</P>
+<P>
+15. A sensor according to claim 14, characterised in that for each beamlet a separate blocking element (6) is provided, in particular included at a known relative position. 16. A sensor according to claim 13, in which the blocking element (6, 6B, 6C) is provided with a sharp edge
+</P>
+<P>
+(E1-E3; C1-C3) as taken perpendicularly to the surface of the converter means (1) .
+</P>
+<P>
+17. A sensor according to claim 13, wherein the blocking element (6, 6B, 6C) is provided with a number of sharp edges (E1-E3; C1-C3) . 18 , A sensor according to claim 13, in which the blocking element is composed of a heavy material, preferably tungsten, preferably of a thickness within a range from 50 to 500 nm, in particular thick enough, to sufficiently block an incoming charged particle beam, and on the other hand thin enough to minimize defocua and edqe roughness effects.
+</P>
+<P>
+19. A sensor according to claim 13, wherein the sensor includes a thin layer of light metal such as aluminum, between said knife edge and said converter, in particular of a thickness within the range from 39 to 80 nm.
+</P>
+<P>
+20. A sensor according to claim 13, wherein the sensor includes at least one blocking element (6) having three, sharp edges (C1-C3) mutually included in hexagon shape, in particular under an angle with nominal value of
+</P>
+<P>
+120 degrees.
+</P>
+<P>
+21. A sensor according to claim 13, in, which an optical system is included between the converter element
+</P>
+<P>
+(2) and the light sensitive detector (1) . 22. A sensor for measuring properties of a massive amount of charged particle beams (4) of a charged particle beam system, in particular a direct write lithography system.
+</P>
+<P>
+23 , A lithography system for transferring a pattern onto the surface of a target, using a charged particle beam tool, said tool being capable of generating a plurality of charged particle beams (4) for writing said pattern on said surface, in which either one of the measuring method according to claim 1 and the sensor in accordance with claim 13 is applied.
+</P>
+<P>
+24. A lithography system for transferring a pattern onto the surface of a target, using a charged particle beam tool, said tool being capable of generating a plurality of charged particle beams (4) for writing, said pattern on said surface, thereby turning off and on each beam (4) separately at writing said pattern onto the surface by means of a blanker part of said system, and of at least in advance of a writing action, sensing characteristics of a writing beam using a sensor (S) included in a position apart from said target surface, characterised in that the sensor (S) is arranged in the system for directly detecting all of said writing beams (4) simultaneously, the sensor (S) thereto comprising a converter (1) converting each of said particle beams (4) into a light beam (5), the sensor (S) further comprising an array of light sensitive elements such as photodiode elements (2), for detecting such light beams (5) , and for generating an electron charge upon exposure to light which array is read out at least virtually simultaneously by a calculating unit (CU) providing correcting value signals (COR) upon such read out to a controller (CM) of the particle beam tool, and/or to a controller for said pattern, for modifying electronic data representing said pattern.
+</P>
+<P>
+25. A system according to the preceding claim, in which the sensor further comprises a blocking element (6) , included on top of said converter (1) .
+</P>
+<P>
+26. A system according to claim 24, wherein adaptation of the system is performed by at least one of electronically modifying electronic data in particular control data, for a pattern to be imaged by said charged particle beam system, modifying line width, and electronically influencing a position modifying means of said beam system, for modifying the position of one or more charged particle beams. 27. System according to claim 24, in which the calculating unit (CU) based on information from the sensor (S) , provides corrective values (COR) for correcting one or more of the position of a particle beam (4) .in two directions of a plane preferably parallel to that of the target area, the intensity or current of the particle beam, the spot position and the spot size,, and the sigma, of a Gaussian distribution feature of the particle beam (4)
+</P>
+<P>
+28. System according to claim 24, in which a particle beam (4) is scanned over said sensor (S) and switched on at an instance where it is expectedly located at a predetermined position, in particular thereby determining position and timing error of a writing beam.
+</P>
+<P>
+29, System according to the preceding claim, in which the beam (4) is switched on for a pre-determined period of time, in particular thereby determining a pulse duration variation error. 30. System according to claim 24, in which multiple scans are performed over the sensor (S) .
+</P>
+<P>
+31. System according to claim 24, in which a charged particle beam is scanned over the sensor in at three different directions, preferably mutually distributed in a plane under corresponding angles.
+</P>
+<P>
+32. System according to claim 24, in charged particle beam is scanned for a multiplicity of steps in a single direction over a sensor at different locations, shifted over at least three times an expected or determined spot diameter of the beam.
+</P>
+<P>
+33. System according to claim 24, in which both physical displacement of a beam spot and time delay of a blanking part for blanking a beam are measured.
+</P>
+<P>
+34. A lithography system for transferring a pattern onto the surface of a target, using a charged particle beam tool, said tool being capable of generating plurality of charged particle beams (4) for writing said pattern on said surface.
+</P>
+<P>
+35. A Lithography system comprising a stage for an object such as a wafer or mask to be processed by a multi beam charged particle tool, said stage being provided with a multiplicity of sensors according to any of the preceding sensor claims, for measuring charged particle beam features, wherein each sensor of said multiplicity is implemented for measuring all charged particle beams of said tool at a time, and wherein sensors of said multiplicity are distributed at various locations near said, object to be processed, at mutual distances that are distributed such that calibration of the beam tool is enabled more than once at entirely treating a wafer, in particular thus enabling entire treatment efficiently, i.e. without significant loss of throughput of the system as compared to a single sensor system.
+</P>
+<P>
+36. Lithography system according to the preceding claim wherein said enabling is realised by distributing at least two sensors at even, at least corresponding distances with respect to the track which the beam tool is to follow relative to said object to be processed.
+</P>
+<P>
+37. Lithography system according to claim 35, wherein any one of the method according to claim 1 the sensor according to claim 13, and the lithography system according to claims 24 is applied.
+</P>
+</Claims>
+<Also_published_as>
+WO2007032670A1;KR20080044349A;JP2009509328A
+</Also_published_as>
+</BiblioData>

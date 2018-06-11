@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MATRIX ASSISTED INK TRANSPORT
+</Title>
+<PublicationNumber>
+EP2175983A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MIRKIN CHAD A [US]
+</Name>
+<Name>
+HUANG LING [US]
+</Name>
+<Name>
+HUO FENGWEI [US]
+</Name>
+<Name>
+HURST SARAH J [US]
+</Name>
+<Name>
+QIN LIDONG [US]
+</Name>
+<Name>
+JANG JAE-WON [US]
+</Name>
+<Name>
+KAKKASSERY JOSEPH J [US]
+</Name>
+<Name>
+MIRKIN, CHAD, A
+</Name>
+<Name>
+HUANG, LING
+</Name>
+<Name>
+HUO, FENGWEI
+</Name>
+<Name>
+HURST, SARAH, J
+</Name>
+<Name>
+QIN, LIDONG
+</Name>
+<Name>
+JANG, JAE-WON
+</Name>
+<Name>
+KAKKASSERY, JOSEPH, J
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV NORTHWESTERN [US]
+</Name>
+<Name>
+NORTHWESTERN UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2175983
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080795920
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US67231
+</PriorityNumber>
+<PriorityDate>
+2008-06-17
+</PriorityDate>
+<PriorityNumber>
+US20080047642P
+</PriorityNumber>
+<PriorityDate>
+2008-04-24
+</PriorityDate>
+<PriorityNumber>
+US20070929314P
+</PriorityNumber>
+<PriorityDate>
+2007-06-21
+</PriorityDate>
+<PriorityNumber>
+US20070945164P
+</PriorityNumber>
+<PriorityDate>
+2007-06-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+C40B50/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09D11/03
+</Class>
+<Class>
+C09D11/30
+</Class>
+<Class>
+C40B50/14
+</Class>
+</NCL>
+<Abstract>
+Better patterning methods, including for better methods for forming biomolecular arrays, including a method comprising: providing a tip and a substrate surface, disposing a patterning composition at the end of the tip, depositing at least some of the patterning composition from the tip to the substrate surface to form a deposit disposed on the substrate surface, wherein the patterning composition comprises at least one lipid, optionally at least one solvent, and at least one patterning species different from the lipid and the optional solvent. The lipid can be a phospholipid such as DOPC. The patterning species can be an oligonucleotide or a protein. Microarrays and nanoarrays can be prepared including nanoscale resolution of deposits. The lipid can activate patterning or increase the rate of patterning. Simplified tip preparation can be achieved. Nanoscopic, SPM, and AFM tips can be used.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method comprising: providing a tip and a substrate surface, disposing a patterning composition at the end of the tip, depositing at least some of the patterning composition from the tip to the substrate surface to form a deposit disposed on the substrate surface, wherein the patterning composition comprises at least one lipid, optionally at least one solvent, and at least one patterning species different from the lipid and the optional solvent.
+</P>
+<P>
+2. The method according to claim 1, wherein the tip is a nanoscopic tip.
+</P>
+<P>
+3. The method according to claim 1, wherein the tip is a scanning probe microscope tip.
+</P>
+<P>
+4. The method according to claim 1, wherein the tip is an atomic force microscope tip.
+</P>
+<P>
+5. The method according to claim 1, wherein the tip is a solid tip.
+</P>
+<P>
+6. The method according to claim 1, wherein the tip is a hollow tip.
+</P>
+<P>
+7. The method according to claim 1, wherein the tip comprises a surface which has not been modified by an organic material.
+</P>
+<P>
+8. The method according to claim 1, wherein the tip comprises an inorganic surface which has not been modified by an organic material.
+</P>
+<P>
+9. The method according to claim 1, wherein the tip on a cantilever.
+</P>
+<P>
+10. The method according to claim 1, wherein a plurality of tips is provided.
+</P>
+<P>
+11. The method according to claim 1, wherein a plurality of tips are provided in a one dimensional array of tips.
+</P>
+<P>
+12. The method according to claim 1, wherein a plurality of tips are provided in a two dimensional array of tips.
+</P>
+<P>
+13. The method according to claim 1, wherein in the depositing step the tip is passively used.
+</P>
+<P>
+14. The method according to claim 1, wherein in the depositing step the tip is used as an actuated tip.
+</P>
+<P>
+15. The method according to claim 1, wherein the substrate surface is adapted to covalently bond to or chemisorb to one or more components of the patterning composition.
+</P>
+<P>
+16. The method according to claim 1, wherein the substrate surface is an electrophilic surface.
+</P>
+<P>
+17. The method according to claim 1, wherein the substrate surface is reactive with amino groups.
+</P>
+<P>
+18. The method according to claim 1, wherein the substrate surface is adapted to chemisorb to a thiol compound.
+</P>
+<P>
+19. The method according to claim 1, wherein the substrate surface comprises organic material.
+</P>
+<P>
+20. The method according to claim 1, wherein the substrate comprises an inorganic material surface modified with an organic material.
+</P>
+<P>
+21. The method according to claim 1 , comprising a drying step wherein the patterning composition is subjected to drying on the tip.
+</P>
+<P>
+22. The method according to claim 1, wherein the deposition is carried out at a relative humidity sufficiently high to allow the deposition to occur.
+</P>
+<P>
+23. The method according to claim 1, wherein the deposition is carried out at a relative humidity of at least 30%.
+</P>
+<P>
+24. The method according to claim 1, wherein the deposition is carried out at a relative humidity of at least 50%.
+</P>
+<P>
+25. The method according to claim 1, wherein the depositing is carried out by contacting the tip with the surface, wherein the tip is held stationary in the XY plane with respect to the surface.
+</P>
+<P>
+26. The method according to claim 1 , wherein the depositing is carried out by contacting the tip with the surface, wherein the tip is moved in the XY plane with respect to the surface.
+</P>
+<P>
+27. The method according to claim 1, wherein the deposit is a dot or a line.
+</P>
+<P>
+28. The method according to claim 1, wherein the deposit has a dot diameter or a line width of at least about 10 nm and less than about 20 microns.
+</P>
+<P>
+29. The method according to claim 1, wherein the deposit has a dot diameter or a line width of at least about 50 nm and less than about 10 microns.
+</P>
+<P>
+30. The method according to claim 1, wherein the deposit has a dot diameter or a line width of at least about 100 nm and less than about 1 micron.
+</P>
+<P>
+31. The method according to claim 1 , wherein the lipid is a phospholipid.
+</P>
+<P>
+32. The method according to claim 1, wherein the lipid is a simple lipid.
+</P>
+<P>
+33. The method according to claim 1, wherein the lipid is a compound lipid.
+</P>
+<P>
+34. The method according to claim 1, wherein the lipid is a derived lipid.
+</P>
+<P>
+35. The method according to claim 1, wherein the lipid is a phosphoacylglycerol, a sphingomyelin, a cerebroside, or a ganglioside.
+</P>
+<P>
+36. The method according to claim 1, wherein the lipid is a steroid, a carotenoid, or a lipid vitamin.
+</P>
+<P>
+37. The method according to claim 1, wherein the lipid comprises unsaturated fatty acid.
+</P>
+<P>
+38. The method according to claim 1, wherein the lipid is a lipid capable of self- assembling into a lipid bilayer.
+</P>
+<P>
+39. The method according to claim 1, wherein the lipid is a phosphocholine lipid.
+</P>
+<P>
+40. The method according to claim 1, wherein the lipid is DOPC.
+</P>
+<P>
+41. The method according to claim 1 , wherein the patterning species is a biomolecule.
+</P>
+<P>
+42. The method according to claim 1, wherein the patterning species is a biopolymer.
+</P>
+<P>
+43. The method according to claim 1, wherein the patterning species comprises polymerized nucleic acid or amino acids.
+</P>
+<P>
+44. The method according to claim 1 , wherein the patterning species is an oligonucleotide, DNA, RNA, protein, or peptide.
+</P>
+<P>
+45. The method according to claim 1, wherein the patterning species has not been adapted synthetically for interaction with the substrate surface.
+</P>
+<P>
+46. The method according to claim 1 , wherein the patterning species has been adapted synthetically for interaction with the substrate surface.
+</P>
+<P>
+47. The method according to claim 1, wherein the optional solvent is water.
+</P>
+<P>
+48. The method according to claim 1, wherein the optional solvent is a buffered solvent.
+</P>
+<P>
+49. The method according to claim 1, wherein the weight ratio of the lipid and the patterning species is adapted for deposition of the patterning species.
+</P>
+<P>
+50. The method according to claim 1, wherein the weight ratio of the lipid and the patterning species is about 9:1 to about 1 :9.
+</P>
+<P>
+51. The method according to claim 1, wherein the weight ratio of the lipid and the patterning species is about 7:1 to about 1 :7.
+</P>
+<P>
+52. The method according to claim 1, wherein the weight ratio of the lipid and the patterning species is about 5:1 to about 1 :5.
+</P>
+<P>
+53. The method according to claim 1, wherein the weight ratio of the lipid and the patterning species is about 3:1 to about 1 :3.
+</P>
+<P>
+54. The method according to claim 1, wherein the weight ratio of the lipid and the patterning species is about 2:1 to about 1 :2.
+</P>
+<P>
+55. The method according to claim 1, further comprising the step of washing the deposit.
+</P>
+<P>
+56. The method according to claim 1, further comprising the step of washing the deposit to remove lipid from the deposit.
+</P>
+<P>
+57. The method according to claim 1, further comprising the step of washing the deposit to remove lipid from the deposit, wherein the patterning species remains in the deposit.
+</P>
+<P>
+58. The method of claim 1, wherein the lipid is a phospholipid, and the patterning species comprises a protein or comprises a nucleic acid.
+</P>
+<P>
+59. The method of claim 1, wherein the lipid is a phospholipid, and the patterning species is an oligonucleotide.
+</P>
+<P>
+60. The method of claim 1, wherein the lipid is a phospholipid, and the patterning species is a protein.
+</P>
+<P>
+61. A method comprising: providing a nanoscopic tip and a substrate surface, disposing a patterning composition at the end of the nanoscopic tip, depositing at least some of the patterning composition from the tip to the substrate surface to form a deposit disposed on the substrate surface, wherein the patterning composition comprises at least one phospholipid, optionally at least one solvent, and at least one biooligomeric or biopolymeric patterning species different from the lipid and the optional solvent.
+</P>
+<P>
+62. A method comprising: providing a tip and a substrate surface, disposing a patterning composition at the end of the tip, depositing at least some of the patterning composition from the tip to the substrate surface to form a deposit disposed on the substrate surface, wherein the patterning composition comprises at least one lipid, optionally at least one solvent, and at least one patterning species different from the lipid and the optional solvent, and wherein the lipid activates or increases the rate of deposition of the patterning species.
+</P>
+<P>
+63. A method comprising: providing an atomic force microscope tip and a substrate surface, disposing a patterning composition at the end of the atomic force microscope tip, depositing at least some of the patterning composition from the tip to the substrate surface to form a deposit disposed on the substrate surface, wherein the patterning composition comprises at least one phospholipid and at least one biopolymer different from the phospholipid.
+</P>
+<P>
+64. An array comprising: a substrate surface, at least one deposit comprising a patterning composition disposed on the surface, wherein the patterning composition comprises at least one lipid, optionally at least one solvent, and at least one patterning species different from the lipid and the optional solvent.
+</P>
+<P>
+65. The array according to claim 64, wherein the lipid is a phospholipid.
+</P>
+<P>
+66. The array according to claim 64, wherein the lipid is a simple lipid.
+</P>
+<P>
+67. The array according to claim 64, wherein the lipid is a compound lipid.
+</P>
+<P>
+68. The array according to claim 64, wherein the lipid is a derived lipid.
+</P>
+<P>
+69. The array according to claim 64, wherein the lipid is a lipid capable of self- assembling into a lipid bilayer.
+</P>
+<P>
+70. The array according to claim 64, wherein the lipid is a phosphocholine lipid.
+</P>
+<P>
+71. The array according to claim 64, wherein the lipid is DOPC.
+</P>
+<P>
+72. The array according to claim 64, wherein the biopolymer comprises a protein or a nucleic acid.
+</P>
+<P>
+73. The array according to claim 64, wherein the biopolymer comprises a protein.
+</P>
+<P>
+74. The array according to claim 64, wherein the biopolymer comprises an oligonucleotide.
+</P>
+<P>
+75. The array according to claim 64, wherein the biopolymer is covalently bound to the substrate surface.
+</P>
+<P>
+76. The array according to claim 64, wherein the biopolymer is not covalently bound to the substrate surface.
+</P>
+<P>
+77. The array according to claim 64, wherein the array comprises a plurality of deposits, separated from each other by an edge-to-edge distance of less than about one micron.
+</P>
+<P>
+78. The array according to claim 64, wherein the array comprises a plurality of deposits separated from each other by an edge-to-edge distance of less than about 500 nm.
+</P>
+<P>
+79. The array according to claim 64, wherein the deposit comprises a dot or a line.
+</P>
+<P>
+80. A method for using a lipid comprising: co-mixing the lipid with a patterning composition comprising a patterning species different than the lipid to promote patterning of the patterning species when disposed on the end of a tip and deposited onto a substrate surface.
+</P>
+<P>
+81. The method according to claim 80, wherein the lipid is a phospholipid.
+</P>
+<P>
+82. The method according to claim 80, wherein the lipid is a glyceride lipid.
+</P>
+<P>
+83. The method according to claim 80, wherein the lipid is a simple lipid.
+</P>
+<P>
+84. The method according to claim 80, wherein the lipid is a compound lipid.
+</P>
+<P>
+85. The method according to claim 80, wherein the lipid is a derived lipid.
+</P>
+<P>
+86. The method according to claim 80, wherein the lipid is a phosphocholine lipid.
+</P>
+<P>
+87. The method according to claim 80, wherein the patterning species is a biomolecule.
+</P>
+<P>
+88. The method according to claim 80, wherein the patterning species comprises a biopolymer.
+</P>
+<P>
+89. The method according to claim 80, wherein the patterning species comprises a nucleic acid or a protein.
+</P>
+<P>
+90. The method according to claim 80, wherein the patterning species comprises a biomolecules adapted to covalently bind to a substrate surface.
+</P>
+<P>
+91. An array prepared by method comprising the method of claim 1.
+</P>
+</Claims>
+<Also_published_as>
+WO2008156732A2;WO2008156732A3;WO2009035739A2;WO2009035739A3;WO2008157550A2;WO2008157550A3;US2009143246A1;US2010048427A1;US8084273B2;US2012164396A1;KR20100047844A;KR20100040293A;KR20100047843A;JP2010530247A;JP2010532267A;JP2010531977A;EP2170501A2;EP2173475A2;CA2691295A1;CA2690823A1;CA2690639A1;AU2008299822A1;AU2008266889A1;AU2008265818A1
+</Also_published_as>
+</BiblioData>

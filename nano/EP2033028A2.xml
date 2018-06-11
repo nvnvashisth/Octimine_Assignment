@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INTERGRATED SENSING PROBES, METHODS OF FABRICATION THEREOF, AND METHODS OF USE THEREOF
+</Title>
+<PublicationNumber>
+EP2033028A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SHIN HEUNGJOO [US]
+</Name>
+<Name>
+MIZAIKOFF BORIS [US]
+</Name>
+<Name>
+SURAWICZ DUSTIN [DE]
+</Name>
+<Name>
+BOLIVAR PETER HARING [DE]
+</Name>
+<Name>
+SHIN, HEUNGJOO
+</Name>
+<Name>
+MIZAIKOFF, BORIS
+</Name>
+<Name>
+SURAWICZ, DUSTIN
+</Name>
+<Name>
+BOLIVAR, PETER, HARING
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+GEORGIA TECH RES INST [US]
+</Name>
+<Name>
+GEORGIA TECH RESEARCH CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2033028
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070873740
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-31
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US70092
+</PriorityNumber>
+<PriorityDate>
+2007-05-31
+</PriorityDate>
+<PriorityNumber>
+US20060809593P
+</PriorityNumber>
+<PriorityDate>
+2006-05-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B6/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01Q60/22
+</Class>
+</NCL>
+<Abstract>
+Briefly described, embodiments of this disclosure include integrated sensing probes, sensing systems, methods of detecting a target compound, and the like. One exemplary integrated sensing probe, among others, includes: a substrate, a circular corrugated reflective surface, and a coaxial waveguide structure, wherein the corrugated reflective surface and the coaxial waveguide structure are disposed on the substrate, wherein the coaxial waveguide structure is positioned at the center of the circular corrugated reflective surface.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An integrated sensing probe, comprising: a substrate, a corrugated reflective surface, and a coaxial waveguide structure, wherein the corrugated reflective surface and the coaxial waveguide structure are disposed on the substrate, wherein the coaxial waveguide structure is positioned at the center of the corrugated reflective surface.
+</P>
+<P>
+2. The integrated sensing probe of claim 1, wherein the coaxial waveguide structure includes an efficient coupling structure, an inner core, a dielectric layer, and a coaxial waveguide tip, wherein the inner core is disposed on top of the efficient coupling structure, wherein the coaxial waveguide tip is disposed on top of the inner core, and wherein the dielectric layer is disposed on the sides of the inner core.
+</P>
+<P>
+3. The integrated sensing probe of claim 2, wherein a reflective layer is disposed on the dielectric layer.
+</P>
+<P>
+4. The integrated sensing probe of claim 3, wherein the coaxial waveguide tip includes a portion of the inner core that is covered by the dielectric layer and the dielectric layer is covered by the reflective layer, wherein the reflective layer is not in direct contact with the inner core.
+</P>
+<P>
+5. The integrated sensing probe of claim 2, wherein the efficient coupling structure, the coaxial waveguide, and the coaxial waveguide tip are made of the same material.
+</P>
+<P>
+6. The integrated sensing probe of claim 2, wherein the efficient coupling structure, the coaxial waveguide, and the coaxial waveguide tip are made of the different materials.
+</P>
+<P>
+7. The integrated sensing probe of claim 2, wherein the efficient coupling structure, the coaxial waveguide, and the coaxial waveguide tip are made of a material that reflects and conducts radiation selected from: terahertz radiation of about 3 mm to 30 [mu]m, mid-infrared radiation of about 30 [mu]m to 3 [mu]m, near-infrared radiation of about 3 [mu]m to 800 ran, optical/visible radiation at about 800 nm to 400 nm, UV radiation at about 400 nm to 1 nm, about 1 nm to 0.01 nm, about 100.000 km to 1 mm, and combinations thereof.
+</P>
+<P>
+8. The integrated sensing probe of claim 2, wherein the coaxial waveguide has a diameter of about 200 nm to 30 [mu]m.
+</P>
+<P>
+9. The integrated sensing probe of claim 2, wherein the coaxial waveguide tip has a length of about 1 to 100 [mu]m.
+</P>
+<P>
+10. The integrated sensing probe of claim 2, wherein the coaxial waveguide tip has a diameter of about 10 nm to 30 [mu]m.
+</P>
+<P>
+11. The integrated sensing probe of claim 2, wherein the coaxial waveguide structure has a height of about 100 nm to 80 [mu]m above the corrugated reflective surface.
+</P>
+<P>
+12. The integrated sensing probe of claim 1, wherein the corrugated reflective surface includes a plurality of ridges concentric around the coaxial waveguide structure, wherein each ridge has a center at the position of the coaxial waveguide structure.
+</P>
+<P>
+13. The integrated sensing probe of claim 12, wherein the each of the ridges has the same height.
+</P>
+<P>
+14. The integrated sensing probe of claim 12, wherein the corrugated reflective surface includes 2 to 5000 ridges.
+</P>
+<P>
+15. The integrated sensing probe of claim 1, wherein the corrugated reflective surface includes a reflective layer that is about 0.15 to 12.6 [mu]m thick.
+</P>
+<P>
+16. The integrated sensing probe of claim 1, wherein the corrugated reflective surface includes a reflective layer that is a metal layer.
+</P>
+<P>
+17. The integrated sensing probe of claim 16, wherein the metal layer is made of a metal selected from gold, silver, copper, platinum, aluminum, and combinations thereof.
+</P>
+<P>
+18. The integrated sensing probe of claim 16, wherein the metal layer is gold.
+</P>
+<P>
+19. The integrated sensing probe of claim 1 , wherein the corrugated reflective surface includes a reflective layer that is a highly doped semiconductor layer.
+</P>
+<P>
+20. The integrated sensing probe of claim 19, wherein the highly doped semiconductor layer is selected from: silicon, polysilicon, GaAs, Ge, SiGe, InP, InGaAs, GaN, metallic suicides, and combinations thereof.
+</P>
+<P>
+21. The integrated sensing probe of claim 1 , wherein the substrate is made of a material that is transparent to radiation selected from: terahertz radiation of about 3 mm to 30 [mu]m, mid-infrared radiation of about 30 [mu]m to 3 [mu]m, near-infrared radiation of about 3 [mu]m to 800 nm, optical/visible radiation at about 800 nm to 400 nm, UV radiation at about 400 nm to 1 nm, about 1 nm to 0.01 nm, about 100.000 km to 1 mm, and combinations thereof.
+</P>
+<P>
+22. The integrated sensing probe of claim 1 , wherein the corrugated reflective surface is a circular corrugated reflective surface.
+</P>
+<P>
+23. A sensing system comprising: an irradiation source; an integrated sensing probe disposed adjacent the irradiation source, wherein the integrated sensing probe includes a substrate, a corrugated reflective surface, and a coaxial waveguide structure, wherein the corrugated reflective surface and the coaxial waveguide structure are disposed on the substrate, wherein the coaxial waveguide structure is positioned at the center of the corrugated reflective surface; and a detection system adjacent the integrated sensing probe.
+</P>
+<P>
+24. The sensing system of claim 23, wherein the coaxial waveguide structure includes an efficient coupling structure, an inner core, a dielectric layer, and a coaxial waveguide tip, wherein the inner core is disposed on the efficient coupling structure, wherein the coaxial waveguide tip is disposed on the inner core, and wherein the dielectric layer is disposed on the sides of the inner core.
+</P>
+<P>
+25. The sensing system of claim 23, wherein a reflective layer is disposed on the dielectric layer.
+</P>
+<P>
+26. The sensing system of claim 25, wherein the coaxial waveguide tip includes a portion of the inner core that is covered by the dielectric layer and the dielectric layer is covered by the reflective layer, wherein the reflective layer is not in direct contact with the inner core.
+</P>
+<P>
+27. The sensing system of claim 23, wherein the corrugated reflective surface includes a plurality of ridges concentric around the coaxial waveguide structure, wherein each ridge has a center at the position of the coaxial waveguide structure.
+</P>
+<P>
+28. The sensing system of claim 23, wherein the irradiation source includes a source selected from: terahertz radiation sources, mid-infrared radiation sources, near- infrared radiation sources, optical/visible radiation sources, UV radiation sources, X- ray sources, gamma-radiation sources, and radio-wave sources.
+</P>
+<P>
+29. A method of detecting a target compound, comprising: providing a substrate having the target compound disposed thereon; placing an integrated sensing probe disposed adjacent the irradiation source, wherein the integrated sensing probe includes a substrate, a corrugated reflective surface, and a coaxial waveguide structure, wherein the corrugated reflective surface and the coaxial waveguide structure are disposed on the substrate, wherein the coaxial waveguide structure is positioned at the center of the corrugated reflective surface; irradiating a position on the substrate with radiation from the coaxial waveguide structure; and measuring a signal resulting from the interaction of the target compound and the radiation.
+</P>
+<P>
+30. An integrated sensing and scanning probe system comprising: an integrated sensing probe that includes a substrate, a corrugated reflective surface, and a coaxial waveguide structure, wherein the corrugated reflective surface and the coaxial waveguide structure are disposed on the substrate, wherein the coaxial waveguide structure is positioned at the center of the corrugated reflective surface.
+</P>
+<P>
+31 The integrated sensing and scanning probe system of claim 30, wherein the integrated sensing and scanning probe system is adapted to operate as a scanning probe selected from: an atomic force microscope (AFM), a scanning tunneling microscope (STM), a scanning electrochemical microscope (SECM), a scanning thermal microscope (SThM), and a scanning Kelvin probe microscope.
+</P>
+<P>
+32. An integrated sensing probe, comprising: a substrate, a corrugated reflective surface, and a coaxial waveguide structure, wherein the corrugated reflective surface and the coaxial waveguide structure are disposed on the substrate, wherein the coaxial waveguide structure is positioned at the center of the corrugated reflective surface; wherein the corrugated reflective surface includes a plurality of ridges concentric around the coaxial waveguide structure, wherein each ridge has a center at the position of the coaxial waveguide structure, wherein the corrugated reflective surface includes a reflective layer disposed on an area from the coaxial waveguide structure to the outer most ridge of the corrugated reflective surface; and wherein the coaxial waveguide structure includes an efficient coupling structure, an inner core, a dielectric layer, and a coaxial waveguide tip, wherein the inner core is disposed on the efficient coupling structure, wherein the coaxial waveguide tip is disposed on the inner core, and wherein the dielectric layer is disposed on the sides of the inner core, wherein the coaxial waveguide tip includes a first portion of the inner core that is covered by the dielectric layer and the dielectric layer is covered by the reflective layer, wherein the coaxial waveguide tip includes a second portion of the inner core that is not covered by the dielectric layer and the dielectric layer is covered by the reflective layer, and wherein the reflective layer is not in direct contact with the inner core.
+</P>
+</Claims>
+<Also_published_as>
+EP2033028A4;WO2008105888A2;WO2008105888A3;WO2008105888A8;US2010017922A1
+</Also_published_as>
+</BiblioData>

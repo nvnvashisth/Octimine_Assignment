@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Optical microcantilever, manufacturing method thereof, and optical microcantilever holder
+</Title>
+<PublicationNumber>
+EP1975598A2
+</PublicationNumber>
+<Inventor>
+<Name>
+NIWA TAKASHI [JP]
+</Name>
+<Name>
+KATO KENJI [JP]
+</Name>
+<Name>
+ICHIHARA SUSUMU [JP]
+</Name>
+<Name>
+CHIBA NORIO [JP]
+</Name>
+<Name>
+MITSUOKA YASUYUKI [JP]
+</Name>
+<Name>
+OUMI MANABU [JP]
+</Name>
+<Name>
+KASAMA NOBUYUKI [JP]
+</Name>
+<Name>
+NIWA, TAKASHI
+</Name>
+<Name>
+KATO, KENJI
+</Name>
+<Name>
+ICHIHARA, SUSUMU
+</Name>
+<Name>
+CHIBA, NORIO
+</Name>
+<Name>
+MITSUOKA, YASUYUKI
+</Name>
+<Name>
+OUMI, MANABU
+</Name>
+<Name>
+KASAMA, NOBUYUKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SEIKO INSTR INC [JP]
+</Name>
+<Name>
+SEIKO INSTRUMENTS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1975598
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080075627
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2000-03-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20000906740
+</PriorityNumber>
+<PriorityDate>
+2000-03-06
+</PriorityDate>
+<PriorityNumber>
+JP19990072218
+</PriorityNumber>
+<PriorityDate>
+1999-03-17
+</PriorityDate>
+<PriorityNumber>
+JP20000040030
+</PriorityNumber>
+<PriorityDate>
+2000-02-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01B11/00
+</Class>
+<Class>
+G01B11/30
+</Class>
+<Class>
+G01B21/30
+</Class>
+<Class>
+G01B5/28
+</Class>
+<Class>
+G01Q30/02
+</Class>
+<Class>
+G01Q60/06
+</Class>
+<Class>
+G01Q60/22
+</Class>
+<Class>
+G01Q60/32
+</Class>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01Q70/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01Q60/06
+</Class>
+<Class>
+G01Q60/22
+</Class>
+<Class>
+G01Q60/38
+</Class>
+</NCL>
+<Abstract>
+An optical microcantilever capable of reducing loss when propagating light. An optical microcantilever 10 comprises a support 1, an optical waveguide 2, a light-blocking film 3, a reflecting film 4, a pointed tip 5, a microscopic aperture 6 formed at the end of the tip 5, and a mirror 7 for reflecting propagating light H propagated from a light input/output end 8 of the optical waveguide 2 towards the microscopic aperture 6.
+</Abstract>
+<Claims>
+<P>
+1. An optical microcantilever employed in a scanning near field microscope, comprising:
+</P>
+<P>
+a substrate;
+</P>
+<P>
+a cantilever-shaped optical waveguide formed at the substrate;
+</P>
+<P>
+a light input/output end positioned at a side of the fixed end of the optical waveguide;
+</P>
+<P>
+a tip provided at the side of the free end of the cantilever and having a microscopic aperture at an end thereof, and
+</P>
+<P>
+light-blocking means for ensuring that light scattered by the light input/output end is not transmitted in the direction of the tip.
+</P>
+<P>
+2. The optical microcantilever of claim 1, wherein at the optical microcantilever employed in a scanning near field microscope,
+</P>
+<P>
+the light-blocking means is arranged above the substrate and the optical waveguide, and provides a wall for blocking the scattered light.
+</P>
+<P>
+3. The optical microcantilever of claim 1, wherein at the optical microcantilever employed in a scanning near field microscope,
+</P>
+<P>
+the light-blocking means comprises: a light-blocking agent located on the substrate and the optical waveguide; and
+</P>
+<P>
+a light-blocking film located on the light-blocking agent,
+</P>
+<P>
+and the light-blocking film is located in such a manner as to cover at least the light input/output end.
+</P>
+<P>
+4. The optical microcantilever of claim 1, wherein at the optical microcantilever employed in a scanning near field microscope,
+</P>
+<P>
+a light-blocking means comprises: a light-blocking film located on the substrate and the optical waveguide; and
+</P>
+<P>
+a light-blocking agent arranged so as to cover at least part of an end of the light-blocking film,
+</P>
+<P>
+and the light-blocking film is located in such a manner as to cover at least the light input/output end.
+</P>
+<P>
+5. The optical microcantilever employed in a scanning near field microscope of claim 3 or claim 4, wherein the light-blocking film is movable.
+</P>
+</Claims>
+<Also_published_as>
+EP1975598A3;EP1089066A1;EP1089066A4;EP1089066B1;US2005039523A1;US7150185B2;US2007211986A1;US7496250B2;US6834537B1;US2007062266A1;US7240541B2;KR20100039434A;KR101117870B1;JP2000329677A;WO0055597A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Ferroelectric recording medium, method for manufacturing same and microdot recording system including it
+</Title>
+<PublicationNumber>
+EP2058810A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GIDON SERGE [FR]
+</Name>
+<Name>
+GIDON, SERGE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE ET AUX ENERGIESALTERNATIVES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2058810
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080291023
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-11-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+FR20070007781
+</PriorityNumber>
+<PriorityDate>
+2007-11-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B9/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B9/02
+</Class>
+<Class>
+G11B9/14R4
+</Class>
+</NCL>
+<Abstract>
+The medium (1) has instructions for cooperating a counter electrode (3) with an electrode of a data recording and/or reading device. A ferroelectric storage layer (4) stores the data and presents a surface (4a) in close contact with the counter electrode. The counter electrode is made of carbonaceous material chosen from a group constituted by carbon and carbides of a metallic element such as titanium, zirconium, tungsten and hafnium, or non-metallic element such as silicon and boron, excluding ionic carbides. A protection layer (5) is made of amorphous diamond like carbon. The carbonaceous material is constituted of carbon in the form of graphite and amorphous diamond.;  The ferroelectric storage layer is made of ferroelectric compound chosen from a group constituted by lead zirconate titanate ceramics, lithium tantalate, potassium tantalate, strontium ruthenium, barium titanium, strontium titanate and lithium niobate. An independent claim is also included for a method for fabricating a data recording medium.
+</Abstract>
+<Claims>
+<P>
+1. Support d&apos;enregistrement (1) de données comprenant un substrat (2), une contre-électrode (3) déposée sur ledit substrat qui est réalisée en une matière comprenant un matériau carboné et qui est destinée à coopérer avec une électrode d&apos;un dispositif de lecture et/ou écriture de ces données, et au moins une couche mémoire ferroélectrique (4) qui est apte à stocker ces données et qui présente une première face (4a) en contact étroit avec ladite contre-électrode, caractérisé en ce que ledit matériau carboné est choisi dans le groupe constitué par le carbone sous forme de graphite, le carbone sous forme de diamant amorphe (&quot; DLC &quot;), les carbures d&apos;un élément métallique ou non métallique à l&apos;exclusion des carbures ioniques, et leurs mélanges.
+</P>
+<P>
+2. Support d&apos;enregistrement (1) selon la revendication 1, caractérisé en ce que ladite contre-électrode (3) présente une conductivité électrique comprise entre 0,1 S/m et 100 S/m.
+</P>
+<P>
+3. Support d&apos;enregistrement (1) selon la revendication 1 ou 2, caractérisé en ce que ladite contre-électrode (3) est exclusivement constituée dudit matériau carboné.
+</P>
+<P>
+4. Support d&apos;enregistrement (1) selon une des revendications 1 à 3, caractérisé en ce que ledit matériau carboné est constitué de carbone sous forme de graphite, déposé par exemple par dépôt physique en phase vapeur.
+</P>
+<P>
+5. Support d&apos;enregistrement (1) selon une des revendications 1 à 3, caractérisé en ce que ledit matériau carboné est constitué de carbone sous forme de diamant amorphe (&quot; DLC &quot;), déposé par exemple par dépôt chimique en phase vapeur ou dépôt chimique en phase vapeur assisté par plasma (&quot; PECVD &quot;).
+</P>
+<P>
+6. Support d&apos;enregistrement (1) selon une des revendications 1 à 3, caractérisé en ce que ledit matériau carboné est constitué d&apos;au moins un carbure d&apos;un élément métallique de préférence choisi dans le groupe constitué par le titane, le zirconium, le tungstène et le hafnium.
+</P>
+<P>
+7. Support d&apos;enregistrement (1) selon une des revendications 1 à 3, caractérisé en ce que ledit matériau carboné est constitué d&apos;au moins un carbure d&apos;un élément non métallique, de préférence le silicium ou le bore.
+</P>
+<P>
+8. Support d&apos;enregistrement (1) selon une des revendications précédentes, caractérisé en ce que ladite contre-électrode (3) présente une épaisseur comprise entre 10 nm et 500 nm, de préférence sensiblement égale à 100 nm.
+</P>
+<P>
+9. Support d&apos;enregistrement (1) selon une des revendications précédentes, caractérisé en ce que ladite couche mémoire ferroélectrique (4) est à base d&apos;au moins un composé ferroélectrique choisi dans le groupe constitué par les céramiques PZT de formule Pb(Zrx,Ti1-x)O3, le tantalate de lithium (LiTaO3), le tantalate de potassium (KTaO3), le ruthénate de strontium (SrRuO3), le titanate de baryum (BaTiO3), le titanate de strontium (SrTiO3), et le niobate de lithium (LiNbO3) et leurs mélanges.
+</P>
+<P>
+10. Support d&apos;enregistrement (1) selon une des revendications précédentes, caractérisé en ce qu&apos;il comprend en outre une couche de protection (5) qui est destinée à protéger une seconde face (4b) de ladite couche mémoire ferroélectrique (4) opposée à ladite première face (4a), notamment de la pollution externe et de l&apos;usure mécanique vis-à-vis dudit dispositif de lecture et/ou écriture, ladite couche de protection présentant une conductivité électrique qui est inférieure à 1 S/m et de préférence inférieure à 10&amp;lt;-4&amp;gt; S/m et qui est fonction des courants de fuite de ladite couche mémoire.
+</P>
+<P>
+11. Support d&apos;enregistrement (1) selon la revendication 10, caractérisé en ce que ladite couche de protection (5) est constituée de carbone déposé par exemple par dépôt chimique en phase vapeur, dépôt physique en phase vapeur ou dépôt chimique en phase vapeur assisté par plasma.
+</P>
+<P>
+12. Support d&apos;enregistrement (1) selon la revendication 11, caractérisé en ce que ladite couche de protection (5) est constituée de carbone sous forme de diamant amorphe, de préférence déposé par dépôt chimique en phase vapeur assisté par plasma.
+</P>
+<P>
+13. Support d&apos;enregistrement (1) selon une des revendications 10 à 12, caractérisé en ce que ladite couche de protection (5) présente une épaisseur inférieure à 5 nm.
+</P>
+<P>
+14. Système d&apos;enregistrement comprenant un support d&apos;enregistrement (1) de données et un dispositif de lecture et/ou écriture des données de type comprenant un réseau de micro-pointes aptes à modifier localement les propriétés d&apos;au moins une couche mémoire ferroélectrique (4) dudit support, caractérisé en ce que ce support d&apos;enregistrement est tel que défini à l&apos;une des revendications précédentes.
+</P>
+<P>
+15. Système d&apos;enregistrement selon la revendication 14, caractérisé en ce que ladite couche mémoire ferroélectrique (4) est adaptée pour présenter un effet piézoélectrique inverse en réponse à des sollicitations électriques dudit dispositif transmises par ladite électrode et ladite contre-électrode (3), de sorte que l&apos;on détecte l&apos;état de ladite couche mémoire via la détection de ses réponses mécaniques à ces sollicitations.
+</P>
+<P>
+16. Système d&apos;enregistrement selon la revendication 14, caractérisé en ce que ladite couche mémoire ferroélectrique (4) est adaptée pour présenter des variations de capacité électrique en réponse à des excitations générées par un circuit résonant dudit dispositif, de sorte que l&apos;on détecte l&apos;état de ladite couche mémoire via la détection desdites variations.
+</P>
+<P>
+17. Procédé de fabrication d&apos;un support d&apos;enregistrement (1) selon une des revendications 1 à 13, caractérisé en ce qu&apos;il comprend un dépôt de la matière formant ladite contre-électrode (3) sur ladite première face (4a) de la couche mémoire (4) par dépôt chimique en phase vapeur, dépôt physique en phase vapeur ou dépôt chimique en phase vapeur assisté par plasma.
+</P>
+<P>
+18. Procédé de fabrication selon la revendication 17, caractérisé en ce qu&apos;il comprend en outre un dépôt ultérieur par dépôt chimique en phase vapeur, dépôt physique en phase vapeur ou dépôt chimique en phase vapeur assisté par plasma, sur une seconde face (4b) de ladite couche mémoire (4) opposée à ladite première face (4a), d&apos;une couche de protection (5) qui est notamment destinée à protéger cette seconde face de la pollution externe et de l&apos;usure mécanique vis-à-vis dudit dispositif de lecture et/ou écriture et qui présente une conductivité électrique inférieure à 1 S/m et de préférence inférieure à 10&amp;lt;-4&amp;gt; S/m.
+</P>
+<P>
+19. Procédé de fabrication selon la revendication 18, caractérisé en ce que l&apos;on applique ladite couche de protection (5) via un dépôt chimique en phase vapeur assisté par un plasma haute fréquence, de carbone de préférence sous forme de diamant amorphe.
+</P>
+<P>
+20. Procédé de fabrication selon la revendication 18 ou 19, caractérisé en ce que, préalablement à chacun de ces deux dépôts, on prépare ladite première (4a) et/ou seconde face(s) (4b) de la couche mémoire (4) par polissage mécanique, pour assurer la planéité de l&apos;interface d&apos;adhérence, puis par attaque chimique ou gravure, pour en extraire d&apos;éventuelles sous-couches contaminées organiquement.
+</P>
+<P>
+21. Procédé de fabrication selon la revendication 20, caractérisé en ce qu&apos;il comprend essentiellement les étapes suivantes :
+</P>
+<P>
+- on dépose la matière formant ladite contre-électrode (3) sur ledit substrat (2), de préférence en silicium,
+</P>
+<P>
+- on rapporte une ébauche de ladite couche mémoire ferroélectrique (4), sur ce substrat ainsi revêtu de cette contre-électrode,
+</P>
+<P>
+- on réduit l&apos;épaisseur de cette ébauche pour l&apos;obtention de la couche mémoire selon une épaisseur par exemple inférieure à 100 nm, puis
+</P>
+<P>
+- on dépose ladite couche de protection (5) sur cette couche mémoire.
+</P>
+<P>
+22. Procédé de fabrication selon la revendication 20, caractérisé en ce qu&apos;il comprend essentiellement les étapes suivantes :
+</P>
+<P>
+a) on implante des ions hydrogène et/ou hélium dans une couche de support ferroélectrique (4&apos;) destinée à constituer ladite couche mémoire (4),
+</P>
+<P>
+b) on dépose en surface la matière formant ladite contre-électrode (3) sur cette couche de support, pour faire adhérer la contre-électrode à ladite première face (4a&apos;) de la couche mémoire,
+</P>
+<P>
+c) on reporte par pression cette couche de support ainsi revêtue de la contre-électrode sur ledit substrat (2), de préférence en silicium, de telle manière que la contre-électrode adhère audit substrat,
+</P>
+<P>
+d) on rompt ladite couche de support (4&apos;) selon le plan d&apos;arrêt desdits ions par dilatation, pour l&apos;obtention de ladite couche mémoire (4) se terminant par ladite seconde face (4b) avec une épaisseur réduite par exemple inférieure à 50 nm, puis
+</P>
+<P>
+e) on dépose ladite couche de protection (5) sur cette seconde face, pour l&apos;obtention du support d&apos;enregistrement (1).
+</P>
+<P>
+23. Procédé de fabrication selon la revendication 22, caractérisé en ce que, pour l&apos;obtention d&apos;une adhérence améliorée de ladite contre-électrode (3) au substrat (2) à l&apos;étape c), on dépose au préalable sur cette contre-électrode une couche de silice d&apos;épaisseur comprise entre 10 nm et 100 nm.
+</P>
+</Claims>
+<Also_published_as>
+EP2058810B1;US2009116367A1;JP2009117023A;FR2923320A1;CN101430900A
+</Also_published_as>
+</BiblioData>

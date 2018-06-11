@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MICROREPLICATED MICROARRAYS
+</Title>
+<PublicationNumber>
+EP1957971A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HALVERSON KURT J [US]
+</Name>
+<Name>
+SCHULZ MARK F [US]
+</Name>
+<Name>
+RASMUSSEN JERALD K [US]
+</Name>
+<Name>
+GRAHAM PAUL D [US]
+</Name>
+<Name>
+HALVERSON, KURT, J
+</Name>
+<Name>
+SCHULZ, MARK, F
+</Name>
+<Name>
+RASMUSSEN, JERALD, K
+</Name>
+<Name>
+GRAHAM, PAUL, D
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+3M INNOVATIVE PROPERTIES CO [US]
+</Name>
+<Name>
+3M INNOVATIVE PROPERTIES COMPANY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1957971
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060844896
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US46564
+</PriorityNumber>
+<PriorityDate>
+2006-12-06
+</PriorityDate>
+<PriorityNumber>
+US20050275099
+</PriorityNumber>
+<PriorityDate>
+2005-12-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N33/48
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B01L3/5085
+</Class>
+<Class>
+B82Y30/00
+</Class>
+</NCL>
+<Abstract>
+A microarray comprises a microstructured surface and an attachment chemistry layer disposed on at least a portion of the microstructured surface, the microstructured surface comprising primary microstructured elements comprising walls.
+</Abstract>
+<Claims>
+<P>
+We claim:
+</P>
+<P>
+1. A microarray comprising a microstructured surface and an attachment chemistry layer disposed on at least a portion of the microstructured surface, the microstructured surface comprising primary microstructured elements comprising walls.
+</P>
+<P>
+2. The microarray of claim 1 wherein the attachment chemistry layer is a coating on the microstructured surface.
+</P>
+<P>
+3. The microarray of claim 1 wherein the attachment chemistry layer is a functionalized portion of the microstructured surface.
+</P>
+<P>
+4. The microarray of claim 1 wherein the microstructured surface comprises polyolefin.
+</P>
+<P>
+5. The microarray of claim 1 wherein the walls have a thickness of between about 1 and about 50 micrometers.
+</P>
+<P>
+6. The microarray of claim 1 wherein the walls have a height of between about 5 and about 200 micrometers.
+</P>
+<P>
+7. The microarray of claim 1 wherein the pitch of the primary microstructured elements is between about 1 and about 1,000 micrometers.
+</P>
+<P>
+8. The microarray of claim 7 wherein the pitch of the primary microstructured elements is between about 20 and about 200 micrometers.
+</P>
+<P>
+9. The microarray of claim 1 wherein the primary microstructured elements have a volume of between about 1 to about 20,000 pL.
+</P>
+<P>
+10. The microarray of claim 1 wherein the primary microstructured elements are cube elements.
+</P>
+<P>
+11. The microarray of claim 1 wherein a base surface extends between the walls of the primary microstructured elements, and the base comprises secondary microstructured elements having an x-direction dimension.
+</P>
+<P>
+12. The microarray of claim 11 wherein the x-direction dimension of the secondary microstructured elements is at least about 5 micrometers less than the height of the walls of the primary microstructured elements.
+</P>
+<P>
+13. The microarray of claim 12 wherein the x-direction dimension of the secondary microstructured elements is at least about 50 micrometers less than the height of the walls of the primary microstructured elements.
+</P>
+<P>
+14. The microarray of claim 11 wherein the secondary microstructured elements extend from one wall to a second wall.
+</P>
+<P>
+15. The microarray of claim 1 wherein the attachment chemistry layer comprises linking agents.
+</P>
+<P>
+16. The microarray of claim 15 wherein the linking agents comprise an azlactone moiety.
+</P>
+<P>
+17. The microarray of claim 1 wherein the attachment chemistry layer comprises a crosslinked hydrogel comprising at least one azlactone-functional copolymer.
+</P>
+<P>
+18. The microarray of claim 1 wherein the attachment chemistry layer has an ionic surface.
+</P>
+<P>
+19. The microarray of claim 18 wherein the attachment chemistry layer comprises one or more ionic polymers, a hydrogel including hydrolyzed azlactone moieties, bifunctional molecules attached to a hydrogel, or a hydrogel with an overcoating of one or more ionic polymers.
+</P>
+<P>
+20. The microarray of claim 1 wherein the attachment chemistry layer is a silicon-containing layer.
+</P>
+<P>
+21. The microarray of claim 20 wherein the attachment chemistry layer is capable of silylation such that linking agents can be covalently bonded to the attachment chemistry layer.
+</P>
+<P>
+22. The microarray of claim 20 wherein the silicon-containing layer is functionalized with a coupling agent or with a functionalized polymer coating.
+</P>
+<P>
+23. The microarray of claim 20 wherein the attachment chemistry layer is a diamond-like glass film.
+</P>
+<P>
+24. The microarray of claim 1 wherein the attachment chemistry layer comprises a tethering group attached to the microstructured surface, the tethering group comprising a reaction product of a complementary functional group G on the microstructured surface with a compound of formula I
+</P>
+<P>
+EMI4.0
+</P>
+<P>
+wherein
+</P>
+<P>
+X&amp;lt;1 &amp;gt; is a substrate-reactive functional group selected from a carboxy, halocarbonyl, halocarbonyloxy, cyano, hydroxy, mercapto, isocyanato, halosilyl, alkoxysilyl, acyloxysilyl, azido, aziridinyl, haloalkyl, tertiary amino, primary aromatic amino, secondary aromatic amino, disulfide, alkyl disulfide, benzotriazolyl, phosphono, phosphoroamido, phosphato, or ethylenically unsaturated group;
+</P>
+<P>
+Y&amp;lt;1 &amp;gt; is a single bond or a divalent group selected from an alkylene, heteroalkylene, arylene, carbonyl, carbonyloxy, carbonylimino, oxy, thio, -NR&amp;lt;d&amp;gt; - where R&amp;lt;d &amp;gt; is hydrogen or alkyl, or combinations thereof;
+</P>
+<P>
+Z&amp;lt;1 &amp;gt; is an alkyl, aryl, or -(CO)R&amp;lt;a &amp;gt; wherein R&amp;lt;1 &amp;gt; together with R&amp;lt;1 &amp;gt; and groups to which they are attached form a four to eight membered heterocyclic or heterobicyclic group having a nitrogen heteroatom and a sulfur heteroatom, wherein the heterocyclic or heterobicyclic group can be fused to an optional aromatic group, optional saturated or unsaturated cyclic group, or optional saturated or unsaturated bicyclic group;
+</P>
+<P>
+R&amp;lt;1 &amp;gt; is an alkyl, fluoroalkyl, chloroalkyl, aryl, NR&amp;lt;b&amp;gt; R&amp;lt;c &amp;gt; wherein R&amp;lt;b &amp;gt; and R&amp;lt;c &amp;gt; are each an alkyl group or taken together with the nitrogen atom to which they are attached form a four to eight membered cyclic group, or R&amp;lt;1 &amp;gt; together with R&amp;lt;a &amp;gt; and the groups to which they are attached form the four to eight membered heterocyclic or heterobicyclic group that can be fused to the optional aromatic group, optional saturated or unsaturated cyclic group, or optional saturated or unsaturated bicyclic group;
+</P>
+<P>
+r is equal to 1 when X&amp;lt;1 &amp;gt; is a monovalent group or equal to 2 when X&amp;lt;1 &amp;gt; is a divalent group;
+</P>
+<P>
+G is the complementary functional group capable of reacting with X&amp;lt;1 &amp;gt; to form an ionic bond, covalent bond, or combinations thereof; and
+</P>
+<P>
+the tethering group is unsubstituted or substituted with a halo, alkyl, alkoxy, or combinations thereof.
+</P>
+<P>
+25. The microarray of claim 1 wherein the attachment chemistry layer comprises a tethering group attached to the microstructured surface, the tethering group comprising a reaction product of a complementary functional group G on the microstructured surface with a compound of formula II
+</P>
+<P>
+EMI5.0
+</P>
+<P>
+wherein
+</P>
+<P>
+X&amp;lt;1 &amp;gt; is a substrate-reactive functional group selected from a carboxy, halocarbonyl, halocarbonyloxy, cyano, hydroxy, mercapto, isocyanato, halosilyl, alkoxysilyl, acyloxysilyl, azido, aziridinyl, haloalkyl, tertiary amino, primary aromatic amino, secondary aromatic amino, disulfide, alkyl disulfide, benzotriazolyl, phosphono, phosphoroamido, phosphato, or ethylenically unsaturated group;
+</P>
+<P>
+Y&amp;lt;2 &amp;gt; is a single bond or a divalent group selected from an alkylene, heteroalkylene, arylene, carbonyl, carbonyloxy, carbonylimino, oxy, thio, or -NR&amp;lt;a&amp;gt; -, or combinations thereof, wherein R&amp;lt;a &amp;gt; is hydrogen, alkyl, or aryl;
+</P>
+<P>
+R&amp;lt;2 &amp;gt; and R&amp;lt;3 &amp;gt; together with a dicarboximide group to which they are attached form a four to eight membered heterocyclic or heterobicyclic group that can be fused to an optional aromatic group, optional saturated or unsaturated cyclic group, or optional saturated or unsaturated bicyclic group;
+</P>
+<P>
+r is 1 when X&amp;lt;1 &amp;gt; is a monovalent group or equal to 2 when X&amp;lt;1 &amp;gt; is a divalent group;
+</P>
+<P>
+G is the complementary functional group capable of reacting with X&amp;lt;1&amp;gt; ; and
+</P>
+<P>
+the tethering group is unsubstituted or substituted with a halo, alkyl, alkoxy, or combinations thereof.
+</P>
+<P>
+26. The microarray of claim 1 wherein the attachment chemistry layer comprises a tethering group attached to the microstructured surface, the tethering group comprising a reaction product of a complementary functional group G on the microstructured surface with a compound of formula III
+</P>
+<P>
+EMI6.0
+</P>
+<P>
+wherein
+</P>
+<P>
+X&amp;lt;1 &amp;gt; is a substrate-reactive functional group selected from a carboxy, halocarbonyl, halocarbonyloxy, cyano, hydroxy, mercapto, isocyanato, halosilyl, alkoxysilyl, acyloxysilyl, azido, aziridinyl, haloalkyl, tertiary amino, primary aromatic amino, secondary aromatic amino, disulfide, alkyl disulfide, benzotriazolyl, phosphono, phosphoroamido, phosphato, or ethylenically unsaturated group;
+</P>
+<P>
+R&amp;lt;2 &amp;gt; and R&amp;lt;3 &amp;gt; together with a dicarboximide group to which they are attached form a four to eight membered heterocyclic or heterobicyclic group that can be fused to an optional aromatic group, optional saturated or unsaturated cyclic group, or optional saturated or unsaturated bicyclic group;
+</P>
+<P>
+Y&amp;lt;1 &amp;gt; is a single bond or a divalent group selected from alkylene, heteroalkylene, arylene, carbonyl, carbonyloxy, carbonylimino, oxy, thio, -NR&amp;lt;d&amp;gt; - where R&amp;lt;d &amp;gt; is hydrogen or alkyl, or combinations thereof,
+</P>
+<P>
+R&amp;lt;4 &amp;gt; is an alkyl, aryl, aralkyl, or -NR&amp;lt;b&amp;gt; R&amp;lt;c &amp;gt; wherein R&amp;lt;b &amp;gt; and R&amp;lt;c &amp;gt; are each an alkyl group or taken together with the nitrogen atom to which they are attached form a four to eight membered heterocyclic group;
+</P>
+<P>
+r is equal to 1 when X&amp;lt;1 &amp;gt; is monovalent or equal to 2 when X&amp;lt;1 &amp;gt; is a divalent group;
+</P>
+<P>
+G is the complementary functional group capable of reacting with X&amp;lt;2&amp;gt; ; and
+</P>
+<P>
+the tethering group is unsubstituted or substituted with a halo, alkyl, alkoxy, or combinations thereof.
+</P>
+<P>
+27. The microarray of claim 1 wherein the attachment chemistry layer is suitable for subsequent affixation of a reactant selected from the group consisting of amino acids, nucleic acids, carbohydrates, and proteins.
+</P>
+<P>
+28. The microarray of claim 27 wherein the attachment chemistry layer is suitable for subsequent affixation of a reactant selected from the group consisting of DNA, enzymes, and antibodies.
+</P>
+<P>
+29. The microarray of claim 1 wherein a reactant is affixed to the attachment chemistry layer.
+</P>
+<P>
+30. The microarray of claim 1 further comprising fiducial markings that can be sensed by an automated system.
+</P>
+<P>
+31. A kit comprising the microarray of claim 1 and a cover.
+</P>
+<P>
+32. A method for detecting analytes in a sample comprising:
+</P>
+<P>
+(a) providing a microarray according to claim 29;
+</P>
+<P>
+(b) depositing a sample into at least one primary microstructured element of the microarray such that the sample contacts the reactant and forms a complex;
+</P>
+<P>
+(c) detecting any complexes; and
+</P>
+<P>
+(d) relating the presence or amount of the complexes to the presence or amount of analyte in the sample.
+</P>
+<P>
+33. A method for detecting analytes in a sample comprising:
+</P>
+<P>
+(a) providing a microarray according to claim 29;
+</P>
+<P>
+(b) depositing a sample into at least one primary microstructured element of the microarray such that the sample contacts the reactant and forms a complex;
+</P>
+<P>
+(c) contacting the complex with a second reactant to form a ternary complex;
+</P>
+<P>
+(d) detecting any ternary complexes; and
+</P>
+<P>
+(e) relating the presence or amount of the ternary complexes to the presence or amount of analyte in the sample.
+</P>
+</Claims>
+<Also_published_as>
+US2007134784A1;WO2007070310A2;WO2007070310A3;JP2009518649A;CN101326438A
+</Also_published_as>
+</BiblioData>

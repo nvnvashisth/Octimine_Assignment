@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ELECTRON EMISSION ELEMENT, DISPLAY EMPLOYING ELECTRON EMISSION ELEMENT, AND METHOD FOR FABRICATING ELECTRON EMISSION ELEMENT
+</Title>
+<PublicationNumber>
+EP2006875A2
+</PublicationNumber>
+<Inventor>
+<Name>
+TANAKA RYOTA [JP]
+</Name>
+<Name>
+NEGISHI NOBUYASU [JP]
+</Name>
+<Name>
+SAKEMURA KAZUTO [JP]
+</Name>
+<Name>
+OKUDA YOSHIYUKI [JP]
+</Name>
+<Name>
+NAKADA TOMONARI [JP]
+</Name>
+<Name>
+WATANABE ATSUSHI [JP]
+</Name>
+<Name>
+YOSHIKAWA TAKAMASA [JP]
+</Name>
+<Name>
+OGASAWARA KIYOHIDE [JP]
+</Name>
+<Name>
+TANAKA, RYOTA
+</Name>
+<Name>
+NEGISHI, NOBUYASU
+</Name>
+<Name>
+SAKEMURA, KAZUTO
+</Name>
+<Name>
+OKUDA, YOSHIYUKI
+</Name>
+<Name>
+NAKADA, TOMONARI
+</Name>
+<Name>
+WATANABE, ATSUSHI
+</Name>
+<Name>
+YOSHIKAWA, TAKAMASA
+</Name>
+<Name>
+OGASAWARA, KIYOHIDE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PIONEER CORP [JP]
+</Name>
+<Name>
+PIONEER CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2006875
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070739652
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP56214
+</PriorityNumber>
+<PriorityDate>
+2007-03-26
+</PriorityDate>
+<PriorityNumber>
+JP20060096990
+</PriorityNumber>
+<PriorityDate>
+2006-03-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01J1/312
+</Class>
+<Class>
+H01J29/04
+</Class>
+<Class>
+H01J31/12
+</Class>
+<Class>
+H01J9/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01J1/312
+</Class>
+<Class>
+H01J29/04
+</Class>
+<Class>
+H01J31/12F4D
+</Class>
+<Class>
+H01J9/02B
+</Class>
+</NCL>
+<Abstract>
+[PROBLEMS] To provide an electron emitting layer with improved efficiency of electron emission and prevented damage of the device. [SOLVING MEANS] An electron emitting device including an amorphous electron supply layer 4, an insulating layer 5 formed on the electron supply layer 4, and an electrode 6 formed on the insulating layer 5, the electron emitting device emitting electrons when an electric field is applied between the electron supply layer 4 and the electrode 6, wherein the electron emitting device includes a concave portion 7 provided by notching the electrode 6 and the insulating layer 5 to expose the electron supply layer 4, and a carbon layer 8 covering the electrode 6 and the concave portion 7 except for an inner portion 4b of an exposed surface 4a of the electron supply layer 4 and being in contact with an edge portion 4c of the exposed surface 4a of the electron supply layer 4.
+</Abstract>
+<Claims>
+<P>
+1. An electron emitting device comprising an amorphous electron supply layer, an insulating layer formed on the electron supply layer, and an electrode formed on the insulating layer, the electron emitting device emitting electrons when an electric field is applied between the electron supply layer and the electrode,
+</P>
+<P>
+wherein the electron emitting device comprises a concave portion provided by notching the electrode and the insulating layer to expose the electron supply layer, and a carbon layer covering the electrode and the concave portion except for an inner portion of an exposed surface of the electron supply layer and being in contact with an edge portion of the exposed surface of the electron supply layer.
+</P>
+<P>
+2. The electron emitting device according to claim 1, wherein the carbon layer has a domical shape on the inner portion of the exposed surface of the electron supply layer.
+</P>
+<P>
+3. The electron emitting device according to claim 2, wherein the domical shape has a vacuum interior.
+</P>
+<P>
+4. The electron emitting device according to any one of claims 1 to 3, wherein the electron supply layer includes a crystal phase which is in contact with the carbon layer.
+</P>
+<P>
+5. The electron emitting device according to claim 4, wherein the crystal phase has a generally semicircular sectional shape.
+</P>
+<P>
+6. The electron emitting device according to claim 4 of 5, wherein the electron supply layer includes a crystal phase around the crystal phase, the former crystal phase including crystal particles having a smaller diameter than that of the latter crystal phase.
+</P>
+<P>
+7. The electron emitting device according to claim 6, wherein the crystal phase having the smaller diameter has a generally semicircular sectional shape.
+</P>
+<P>
+8. A display apparatus comprising an electron emitting device and a light emitter which emits light when electrons emitted from the electron emitting device are smashed against the light emitter, wherein the electron emitting device is the electron emitting device according to any one of claims 1 to 7.
+</P>
+<P>
+9. A method of manufacturing an electron emitting device comprising an amorphous electron supply layer, an insulating layer formed on the electron supply layer, and an electrode formed on the insulating layer, the electron emitting device emitting electrons when an electric field is applied between the electron supply layer and the electrode, the method comprising:
+</P>
+<P>
+a step of forming a concave portion provided by notching the electrode and the insulating layer to expose the electron supply layer, and a step of forming a carbon layer covering the electrode and the concave portion except for an inner portion of an exposed surface of the electron supply layer and being in contact with an edge portion of the exposed surface of the electron supply layer.
+</P>
+<P>
+10. The method of manufacturing an electron emitting device according to claim 9, wherein the step of forming a carbon layer includes forming the carbon layer on the electrode and the concave portion, passing an electric current between the electron supply layer and the electrode, and stripping the carbon layer from the inner portion of the exposed surface of the electron supply layer by Joule heat produced from the carbon layer.
+</P>
+<P>
+11. The method of manufacturing an electron emitting device according to claim 9, wherein the step of forming a carbon layer includes forming the carbon layer on the electrode and the concave portion, passing an electric current between the electron supply layer and the electrode, and raising the carbon layer on the inner portion of the exposed surface of the electron supply layer into a domical shape by Joule heat produced from the carbon layer.
+</P>
+<P>
+12. The method of manufacturing an electron emitting device according to any one of claims 9 to 11, wherein etching treatment, cleaning treatment, or heat treatment is performed on a surface before the carbon layer is formed.
+</P>
+<P>
+13. The method of manufacturing an electron emitting device according to any one of claims 9 to 12, further comprising a step of passing an electric current between the electron supply layer and the electrode and crystallizing a region of the electron supply layer in contact with the carbon layer by Joule heat produced from the carbon layer.
+</P>
+</Claims>
+<Also_published_as>
+EP2006875A9;EP2006875A4;EP2006875B1;US2009284129A1;US7994698B2;JP2011151044A;WO2007114103A1
+</Also_published_as>
+</BiblioData>

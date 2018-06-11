@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method of manufacturing carbon nanotubes using renewable raw materials
+</Title>
+<PublicationNumber>
+EP1980530A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BORDERE SERGE [FR]
+</Name>
+<Name>
+COCHARD DANIEL [FR]
+</Name>
+<Name>
+DUTILH ERIC [FR]
+</Name>
+<Name>
+GAILLARD PATRICE [FR]
+</Name>
+<Name>
+LOZOWSKI ANDRE [FR]
+</Name>
+<Name>
+PLEE DOMINIQUE [FR]
+</Name>
+<Name>
+BORDERE, SERGE
+</Name>
+<Name>
+COCHARD, DANIEL
+</Name>
+<Name>
+DUTILH, ERIC
+</Name>
+<Name>
+GAILLARD, PATRICE
+</Name>
+<Name>
+LOZOWSKI, ANDRE
+</Name>
+<Name>
+PLEE, DOMINIQUE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ARKEMA FRANCE [FR]
+</Name>
+<Name>
+ARKEMA FRANCE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1980530
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080103248
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-31
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+FR20070002581
+</PriorityNumber>
+<PriorityDate>
+2007-04-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+<Class>
+C10J1/213
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+<Class>
+Y02E20/18
+</Class>
+</NCL>
+<Abstract>
+Preparation of carbon nanotubes comprises synthesis of an alcohol by fermentation of at least a vegetable material;  dehydratation of the alcohol, in primary reactor, a mixture of alkene and water;  placing a catalyst powder at 450-850[deg] C, in a fluidized bed, in a second reactor, where the catalyst comprises at least a supported catalytic metal by inert solid substrate;  contacting the alkene product with the catalyst powder in fluidized bed to form the carbon nanotubes and hydrogen by catalytic decomposition of the alkene, on the catalyst surface;  and recovering the carbon nanotubes product. Preparation of carbon nanotubes comprises synthesis of an alcohol by fermentation of at least a vegetable material;  dehydratation of the obtained alcohol, in primary reactor, a mixture of alkene and water;  placing a catalyst powder at a temperature of 450-850[deg] C, in a fluidized bed, in a second reactor, where the catalyst comprises at least a supported catalytic metal by inert solid substrate, and the catalyst has a particle size (d50) of less than 300 mu m;  contacting the alkene product with the catalyst powder in fluidized bed to form on the surface of the catalyst of the carbon nanotubes and hydrogen by catalytic decomposition of the alkene;  and recovering of the carbon nanotubes product.
+</Abstract>
+<Claims>
+<P>
+1. Procédé de fabrication de nanotubes de carbone, comprenant les étapes suivantes :
+</P>
+<P>
+a) la synthèse d&apos;alcool(s) par fermentation d&apos;au moins une matière végétale et éventuellement la purification du produit obtenu;
+</P>
+<P>
+b) la déshydratation du ou des alcool(s) obtenu(s) en a) pour produire, dans un premier réacteur, un mélange d&apos;alcène(s) et d&apos;eau et éventuellement la purification du produit obtenu ;
+</P>
+<P>
+c) l&apos;introduction, notamment la mise en lit fluidisé, dans un second réacteur, d&apos;un catalyseur pulvérulent à une température allant de 450 à 850 deg. C, ce catalyseur comprenant au moins un métal catalytique supporté par un substrat solide inerte, les grains de catalyseur ayant un d50 inférieur à 300 m ;
+</P>
+<P>
+d) la mise en contact de l&apos;alcène produit en b) avec le catalyseur pulvérulent, éventuellement en lit fluidisé, de l&apos;étape c) pour former en surface dudit catalyseur des nanotubes de carbone et de l&apos;hydrogène par décomposition catalytique dudit alcène ;
+</P>
+<P>
+e) la récupération des nanotubes de carbone produits en d).
+</P>
+<P>
+2. Procédé selon la revendication 1, caractérisé en ce que les étapes c) à e) sont mises en oeuvre simultanément en continu dans le second réacteur.
+</P>
+<P>
+3. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé en ce que la matière végétale est choisie parmi la betterave ; la canne à sucre ; les céréales telles que le mais, le blé, l&apos;orge et le sorgho ; la pomme de terre ; la biomasse ; et une source de cellulose.
+</P>
+<P>
+4. Procédé selon la revendication 3, caractérisé en ce que la céréale est le maïs.
+</P>
+<P>
+5. Procédé selon l&apos;une quelconque des revendications 1 à 4, caractérisé en ce que l&apos;alcool est l&apos;éthanol.
+</P>
+<P>
+6. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé en ce que l&apos;étape b) est réalisée au moyen d&apos;un catalyseur à base de -alumine.
+</P>
+<P>
+7. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé en ce que l&apos;étape c) est réalisée à une température de 500 deg. C à 700 deg. C.
+</P>
+<P>
+8. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé en ce que l&apos;alcène est mélangé dans l&apos;étape c) à un flux d&apos;hydrogène et/ou à au moins une partie de l&apos;eau produite lors de la déshydratation de l&apos;alcool en b).
+</P>
+<P>
+9. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé en ce que l&apos;hydrogène produit en d) est recyclé au moins en partie dans le second réacteur.
+</P>
+<P>
+10. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé en ce que le métal catalytique est le fer.
+</P>
+<P>
+11. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé en ce que le catalyseur pulvérulent est fabriqué par imprégnation du substrat solide par une solution aqueuse dudit métal catalytique puis calcination du substrat solide ainsi imprégné.
+</P>
+<P>
+12. Procédé selon la revendication précédente, caractérisé en ce que la calcination est effectuée à une température de 200 deg. C à 400 deg. C.
+</P>
+<P>
+13. Procédé selon l&apos;une quelconque des revendications précédentes, caractérisé en ce que le d50 des grains de catalyseur pulvérulent est inférieur à 200 m et de préférence supérieur à 100 m.
+</P>
+<P>
+14. Nanotubes de carbone susceptibles d&apos;être obtenus suivant le procédé selon l&apos;une quelconque des revendications 1 à 13.
+</P>
+<P>
+15. Nanotubes de carbone selon la revendication 14, caractérisés en ce qu&apos;ils contiennent au moins 20% en masse, de préférence au moins 50% en masse, de carbone d&apos;origine renouvelable sur la masse totale de carbone.
+</P>
+<P>
+16. Nanotubes de carbone selon la revendication 14, caractérisés en ce qu&apos;ils contiennent au moins 0,2 x 10&amp;lt;-10&amp;gt; % en masse de &amp;lt;14&amp;gt; C, de préférence au moins 0,6 x 10&amp;lt;-10&amp;gt; % en masse de &amp;lt;14&amp;gt; C.
+</P>
+<P>
+17. Utilisation des nanotubes de carbone selon l&apos;une quelconque des revendications 14 à 16, dans des matériaux composites pour leur conférer des propriétés de conduction électrique et/ou thermique améliorées et/ou des propriétés mécaniques, notamment de résistance à l&apos;élongation, améliorées.
+</P>
+<P>
+18. Utilisation des nanotubes de carbone selon l&apos;une quelconque des revendications 14 à 16, dans des compositions macromoléculaires destinées à l&apos;emballage de composants électroniques ou à la fabrication de conduites d&apos;essence (fuel line) ou de revêtements (coating) antistatiques, ou dans des thermistors ou des électrodes pour supercapacités.
+</P>
+</Claims>
+<Also_published_as>
+US2011123429A1;US2011121241A1;US2009008610A1;TW200846283A;RU2008113245A;KR20080091043A;JP2008255006A;FR2914634A1;CN101279731A;CA2629050A1;BRPI0801851A2
+</Also_published_as>
+</BiblioData>

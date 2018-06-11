@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DRIVER
+</Title>
+<PublicationNumber>
+EP2136368A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SUZUKI JUN [JP]
+</Name>
+<Name>
+SUZUKI, JUN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PIONEER CORP [JP]
+</Name>
+<Name>
+PIONEER CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2136368
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070740483
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP57047
+</PriorityNumber>
+<PriorityDate>
+2007-03-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B23Q1/34
+</Class>
+<Class>
+G11B9/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B9/02
+</Class>
+<Class>
+G11B9/14M2B
+</Class>
+</NCL>
+<Abstract>
+A driving apparatus (100f) is provided with: a base portion (110);  a stage portion (130) on which a driven object (12) is mounted and which can be displaced;  an elastic portion (120) which connects the base portion and the stage portion and which has elasticity to displace the stage portion in one direction (Y axis);  and a first applying device (161, 162, 22) for applying, to the elastic portion, an excitation force for displacing the stage portion such that the stage portion is resonated in the one direction at a resonance frequency determined by the stage portion and the elastic portion.
+</Abstract>
+<Claims>
+<P>
+1. A driving apparatus comprising:
+</P>
+<P>
+a base portion;
+</P>
+<P>
+a stage portion on which a driven object is mounted and which can be displaced;
+</P>
+<P>
+an elastic portion which connects the base portion and the stage portion and which has elasticity to displace the stage portion in one direction; and
+</P>
+<P>
+a first applying device for applying, to the elastic portion, an excitation force for displacing the stage portion such that the stage portion is resonated in the one direction at a resonance frequency determined by the stage portion and the elastic portion.
+</P>
+<P>
+2. The driving apparatus according to claim 1, further comprising a second applying device for applying a driving force for displacing, in a stepwise manner or in a continuous manner, the stage portion or the driven object mounted on the stage portion in other direction which is substantially perpendicular to the one direction.
+</P>
+<P>
+3. The driving apparatus according to claim 1, wherein the first applying device applies the excitation force with a period according to the resonance frequency.
+</P>
+<P>
+4. The driving apparatus according to claim 1, wherein the first applying device applies the excitation force caused by a piezoelectric effect.
+</P>
+<P>
+5. The driving apparatus according to claim 1, wherein the first applying device applies the excitation force caused by an electromagnetic force.
+</P>
+<P>
+6. The driving apparatus according to claim 1, wherein the first applying device applies the excitation force caused by an electrostatic force.
+</P>
+</Claims>
+<Also_published_as>
+EP2136368A4;US2010148631A1;JP4854785B2;WO2008126236A1
+</Also_published_as>
+</BiblioData>

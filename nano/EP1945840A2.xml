@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INTERCONNECTS AND HEAT DISSIPATORS BASED ON NANOSTRUCTURES
+</Title>
+<PublicationNumber>
+EP1945840A2
+</PublicationNumber>
+<Inventor>
+<Name>
+KABIR MOHAMMAD SHAFIQUL [SE]
+</Name>
+<Name>
+KABIR, MOHAMMAD, SHAFIQUL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SMOLTEK AB [SE]
+</Name>
+<Name>
+SMOLTEK AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1945840
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060850481
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-08-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006IB04279
+</PriorityNumber>
+<PriorityDate>
+2006-08-28
+</PriorityDate>
+<PriorityNumber>
+SE20050001888
+</PriorityNumber>
+<PriorityDate>
+2005-08-26
+</PriorityDate>
+<PriorityNumber>
+US20060772449P
+</PriorityNumber>
+<PriorityDate>
+2006-02-10
+</PriorityDate>
+<PriorityNumber>
+US20060412060
+</PriorityNumber>
+<PriorityDate>
+2006-04-25
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+<Class>
+C23C16/04
+</Class>
+<Class>
+C23C16/26
+</Class>
+<Class>
+D01F9/08
+</Class>
+<Class>
+D01F9/127
+</Class>
+<Class>
+H01J1/304
+</Class>
+<Class>
+H01J3/02
+</Class>
+<Class>
+H01J9/02
+</Class>
+<Class>
+H01L21/04
+</Class>
+<Class>
+H01L23/373
+</Class>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J23/755
+</Class>
+<Class>
+B01J23/76
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+D01F9/08
+</Class>
+<Class>
+D01F9/127
+</Class>
+<Class>
+H01B1/04
+</Class>
+<Class>
+H01J1/304
+</Class>
+<Class>
+H01L21/768C3S6
+</Class>
+<Class>
+H01L21/768C6
+</Class>
+<Class>
+H01L23/532M3
+</Class>
+</NCL>
+<Abstract>
+The present invention provides for nanostructures grown on a conducting substrate, and a method of making the same. The nanostructures grown according to the claimed method are suitable for interconnects and heat dissipators in electronic devices.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED
+</P>
+<P>
+1. An integrated circuit, comprising: a substrate; a conducting layer, on the substrate; an interconnect supported by the conducting layer, wherein the interconnect comprises at least one nanostructure, and wherein the nanostructure comprises: a plurality of intermediate layers on the conducting layer, the plurality of intermediate layers including at least one layer that affects a morphology of the nanostructure and at least one layer that affects an electrical property of an interface between the conducting layer and the nanostructure.
+</P>
+<P>
+2. The integrated circuit of claim 1 wherein the substrate comprises a metal.
+</P>
+<P>
+3. The integrated circuit of claim 2 wherein the metal is selected from the group consisting of tungsten, molybdenum, niobium, platinum and palladium.
+</P>
+<P>
+4. The integrated circuit of claim 1 wherein the plurality of intermediate layers comprises a metal layer and a layer of semiconducting material.
+</P>
+<P>
+5. The integrated circuit of claim 4 wherein the layer of semiconducting material is amorphous silicon, or amorphous germanium.
+</P>
+<P>
+6. The integrated circuit of claim 1, wherein the nanostructure is a carbon nanostructure.
+</P>
+<P>
+7. The integrated circuit of claim 1 , wherein the nanostructure comprises a bundle of carbon nanostructures.
+</P>
+<P>
+8. The integrated circuit of claim 1, wherein the nanostructure is made from a compound selected from the group consisting of: InP, GaAs, and AlGaAs.
+</P>
+<P>
+9. The integrated circuit of claim 1 , wherein the plurality of intermediate layers form an Ohmic contact.
+</P>
+<P>
+10. The integrated circuit of claim 1 , wherein the plurality of intermediate layers form a Schottky barrier.
+</P>
+<P>
+11. The integrated circuit of claim 1 , wherein the semiconducting substrate is a wafer of silicon, or oxidized silicon.
+</P>
+<P>
+12. The integrated circuit of claim 1, wherein the plurality of intermediate layers is between 1 nm and 1 [mu]m thick.
+</P>
+<P>
+13. The integrated circuit of claim 1, wherein the intermediate layer adjacent to the nanostructure is a layer of catalyst, and wherein the catalyst is selected from the group consisting of: Ni, Fe, Mo, NiCr, and Pd.
+</P>
+<P>
+14. The integrated circuit of claim 1 , further comprising a plurality of nanostructures.
+</P>
+<P>
+15. The integrated circuit of claim 1 , further comprising at least one nanostructure configured to dissipate heat from the circuit.
+</P>
+<P>
+16. An integrated circuit, comprising: a insulating substrate; a conducting layer, on the insulating substrate; a nanostructure embedded in the insulating layer, wherein the nanostructure is configured to dissipate heat from the integrated circuit into an area surrounding the circuit, and wherein the nanostructure comprises: a plurality of intermediate layers on the conducting layer, the plurality of intermediate layers including at least one layer that affects a morphology of the nanostructure and at least one layer that affects an electrical property of an interface between the conducting layer and the nanostructure.
+</P>
+<P>
+17. An interconnect in an integrated circuit, the interconnect comprising: at least one nanostructure.
+</P>
+<P>
+18. The interconnect of claim 16, wherein the nanostructure comprises: a conducting base layer; a layer of amorphous silicon on the conducting base layer; a layer of catalyst on the layer of amorphous silicon; and a carbon nanostructure disposed on the layer of catalyst.
+</P>
+<P>
+19. The interconnect of claim 16, wherein the nanostructure comprises: a conducting base layer; a layer of amorphous germanium on the conducting base layer; a layer of catalyst on the layer of amorphous germanium; and a carbon nanostructure disposed on the layer of catalyst.
+</P>
+<P>
+20. A method of forming an interconnect, the method comprising: depositing a layer of conducting material on a substrate; depositing a semiconducting layer on the conducting material; depositing a catalyst layer on the semiconducting layer; without first annealing the substrate, causing the substrate to be heated to a temperature at which a nanostructure can form; and growing the nanostructure on the catalyst layer at the temperature.
+</P>
+<P>
+21. The method of claim 20, further comprising forming a top metal contact, according to: depositing an insulator layer on top of the nanostructure; etching the insulating layer to expose the tip of the nanostructure; depositing a sacrificial layer on the insulating layer; forming a plurality of apertures in the sacrificial layer; depositing a metal material over the sacrificial layer and on the insulating layer in the apertures;
+</P>
+<P>
+22. lifting off the sacrificial layer to leave portions of the metal layer corresponding to the apertures on the substrate. An interconnect formed by the method of claim 20.
+</P>
+<P>
+23. A heat dissipator formed by the method of claim 16.
+</P>
+<P>
+24. An integrated circuit comprising: at least one interconnect comprising a carbon nanostructure, wherein the integrated circuit may permit a current density of &amp;gt;10&amp;lt;7&amp;gt; A/cm&amp;lt;2&amp;gt; when a current is flowing through it.
+</P>
+</Claims>
+<Also_published_as>
+WO2007024186A2;WO2007024186A3;RU2008111514A;KR20080064797A;JP2009508325A;WO2007119123A2;WO2007119123A3
+</Also_published_as>
+</BiblioData>

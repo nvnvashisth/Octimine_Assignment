@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Composition comprising J- aggregates
+</Title>
+<PublicationNumber>
+EP2028236A1
+</PublicationNumber>
+<Inventor>
+<Name>
+STEIGER ROLF [CH]
+</Name>
+<Name>
+PUGIN RAPHAEL [CH]
+</Name>
+<Name>
+STEIGER, ROLF
+</Name>
+<Name>
+PUGIN, RAPHAEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SUISSE ELECTRONIQUE MICROTECH [CH]
+</Name>
+<Name>
+CSEM CENTRE SUISSE D&apos;ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2028236
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070114880
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070114880
+</PriorityNumber>
+<PriorityDate>
+2007-08-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C09B67/02
+</Class>
+<Class>
+G01N21/64
+</Class>
+<Class>
+G02B6/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09B63/00
+</Class>
+<Class>
+C09B67/00T
+</Class>
+</NCL>
+<Abstract>
+Set formed of: a support comprising a mesoporous layer whose pores have average Brunauer Emmett-Teller (BET) diameter dimensioned to penetrate dendrimer molecules;  the dendrimer molecules functionalizing the layer;  and a layer of molecules of cyanine family interacting with the dendrimer molecules and formed into aggregates, is claimed. An independent claim is included for a process for producing the set comprising preparing the support, depositing a solution of the dendrimer molecules on the support for penetrating through the pores for its functionalization, and recovering the set obtained with a solution of cyanine reacting with dendrimer molecules for self-arranging into aggregates.
+</Abstract>
+<Claims>
+<P>
+1. Ensemble formé
+</P>
+<P>
+- d&apos;un support comprenant une couche mésoporeuse dont les pores ont un diamètre moyen BET dimensionné de manière à permettre à des molécules dendrimères d&apos;y pénétrer,
+</P>
+<P>
+- de molécules dendrimères fonctionnalisant ladite couche, au moins dans ses pores,
+</P>
+<P>
+- d&apos;une couche de molécules de la famille des cyanines interagissant avec les molécules dendrimères et organisées en agrégats J.
+</P>
+<P>
+2. Ensemble selon la revendication 1, caractérisé en ce que ladite couche est réalisée en un matériau choisi parmi AIOOH, TiO2, ITO, SiO2, [gamma]-Al2O3, ZrO2, SnO2, ZnO, Ta2O5, ou encore à base de nanoparticles d&apos;oxydes conducteurs dopés.
+</P>
+<P>
+3. Ensemble selon l&apos;une des revendications 1 et 2, caractérisé en ce que le diamètre moyen BET des pores de la couche mésoporeuse est supérieur à 1,5nm.
+</P>
+<P>
+4. Procédé de réalisation d&apos;un ensemble selon l&apos;une des revendications précédentes, comprenant les étapes suivantes:
+</P>
+<P>
+i. se doter d&apos;un support comprenant une couche mésoporeuse dont les pores ont un diamètre moyen BET dimensionné de manière à permettre à des molécules dendrimères d&apos;y pénétrer,
+</P>
+<P>
+ii. déposer sur le support une solution de molécules dendrimères susceptibles de pénétrer à l&apos;intérieur des pores du support, de manière à pouvoir fonctionnaliser les pores,
+</P>
+<P>
+iii. recouvrir l&apos;ensemble obtenu avec une solution de cyanines réagissant avec lesdites molécules dendrimères pour s&apos;auto-arranger en agrégats J.
+</P>
+<P>
+5. Procédé selon la revendication 4, caractérisé en ce qu&apos;il comporte, avant l&apos;étape iii, une étape supplémentaire consistant à charger positivement les molécules dendrimères de la couche disposée sur le support.
+</P>
+<P>
+6. Procédé selon la revendication 5, caractérisé en ce que ladite étape supplémentaire consiste à protonner les molécules dendrimères par une réaction en milieu acide.
+</P>
+<P>
+7. Procédé selon la revendication 4, caractérisé en ce qu&apos;il comporte, avant l&apos;étape iii, une étape supplémentaire consistant à charger négativement les molécules dendrimères de la couche disposée sur le support.
+</P>
+<P>
+8. Procédé selon la revendication 7, caractérisé en ce que ladite étape supplémentaire consiste à déprotonner les molécules dendrimères par une réaction en milieu basique.
+</P>
+<P>
+9. Procédé selon l&apos;une des revendications 4 à 8, caractérisé en ce qu&apos;il comprend, après l&apos;étape ii, une étape de rinçage pour éliminer les molécules dendrimères n&apos;ayant pas adhéré au support.
+</P>
+<P>
+10. Procédé selon l&apos;une des revendications 4 à 9, caractérisé en ce qu&apos;il comprend, après l&apos;étape iii, une étape de rinçage pour éliminer les cyanines n&apos;ayant pas réagi avec les molécules dendrimères.
+</P>
+<P>
+11. Procédé selon la revendication 10, caractérisé en ce que ladite couche est réalisée à base d&apos;un matériau choisi parmi AIOOH, TiO2, ITO, SiO2, [gamma]-Al2O3, ZrO2, SnO2, ZnO, Ta2O5, ou encore à base de nanoparticles d&apos;oxydes conducteurs transparents dopés.
+</P>
+<P>
+12. Procédé selon l&apos;une des revendications 4 à 11, caractérisé en ce que lesdits dendrimères sont du PAMAM, avantageusement de génération 1 à 10, de préférence de génération 4 à 10.
+</P>
+</Claims>
+<Also_published_as>
+EP2028236B1;US2009142230A1;US7824617B2;AT477305T
+</Also_published_as>
+</BiblioData>

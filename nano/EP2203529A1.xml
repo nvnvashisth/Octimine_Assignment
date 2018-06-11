@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LITHOGRAPHY OF NANOPARTICLE BASED INKS
+</Title>
+<PublicationNumber>
+EP2203529A1
+</PublicationNumber>
+<Inventor>
+<Name>
+PARPIA MOHAMMED [US]
+</Name>
+<Name>
+TEVAARWERK EMMA [US]
+</Name>
+<Name>
+AMRO NABIL [US]
+</Name>
+<Name>
+SANEDRIN RAYMOND [US]
+</Name>
+<Name>
+PARPIA, MOHAMMED
+</Name>
+<Name>
+TEVAARWERK, EMMA
+</Name>
+<Name>
+AMRO, NABIL
+</Name>
+<Name>
+SANEDRIN, RAYMOND
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOINK INC [US]
+</Name>
+<Name>
+NANOINK, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2203529
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080839215
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-10-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US79893
+</PriorityNumber>
+<PriorityDate>
+2008-10-14
+</PriorityDate>
+<PriorityNumber>
+US20070980141P
+</PriorityNumber>
+<PriorityDate>
+2007-10-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C09D11/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C09D11/322
+</Class>
+<Class>
+C09D11/52
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+An ink composition comprising: a plurality of metallic nanoparticles suspended in a carrier, wherein the carrier comprises water and at least one organic solvent miscible with water, and wherein the composition is formulated for slow dry rate and proper viscosity for DPN. Also, a method comprising: depositing a composition onto a cantilever, wherein the composition comprises a plurality of metallic nanoparticles suspended in a carrier, wherein the carrier comprises water and at least one organic solvent miscible with water. The composition can be used in direct writing onto surfaces to form patterns and arrays using cantilevers, microcontact printing, ink jet printing, and other methods. The composition is particularly useful for preparing nanoscale features and forming high quality continuous conductive lines and dots, including silver based lines and dots. Applications include surface repair.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED:
+</P>
+<P>
+1. A composition comprising: a plurality of metallic nanoparticles suspended in a carrier, wherein the carrier comprises water and at least one organic solvent miscible with water, and wherein the composition is formulated for slow dry rate and proper viscosity for DPN.
+</P>
+<P>
+2. The composition according to claim 1, wherein the metallic nanoparticles are nanoparticles of Ti, Ta, Nb, Fe, Cu, Ru, Mo, Ni, Co, Pt, Ag, Au, Pd, or combinations thereof.
+</P>
+<P>
+3. The composition according to claim 1, wherein the metallic nanoparticles comprise silver.
+</P>
+<P>
+4. The composition according to claim 1, wherein the nanoparticles are core-shell nanoparticles.
+</P>
+<P>
+5. The composition according to claim 1, wherein the nanoparticles are capped nanoparticles.
+</P>
+<P>
+6. The composition according to claim 1, wherein the nanoparticles are uncapped nanoparticles.
+</P>
+<P>
+7. The composition according to claim 1, wherein the metallic nanoparticles have an average particle size of about 1 nm to about 100 ran.
+</P>
+<P>
+8. The composition according to claim 1, wherein the metallic nanoparticles have an average particle size of about 3 nm to about 25 nm.
+</P>
+<P>
+9. The composition according to claim 1, wherein the organic solvent is an oxygen- containing solvent.
+</P>
+<P>
+10. The composition according to claim 1, wherein the organic solvent is a polyol.
+</P>
+<P>
+11. The composition according to claim 1, wherein the organic solvent is glycerol.
+</P>
+<P>
+12. The composition according to claim 1, wherein the wt. % of nanoparticles is about 5 wt.% to about 35 wt.%.
+</P>
+<P>
+13. The composition according to claim 1, wherein the wt. % of nanoparticles is about 10 wt.% to about 25 wt.%.
+</P>
+<P>
+14. The composition according to claim 1, wherein the wt. ratio of water to solvent is about 4:1 to 1:4, respectively.
+</P>
+<P>
+15. The composition according to claim 1, wherein the wt. ratio of water to solvent is about 3:1 to 1 :3, respectively.
+</P>
+<P>
+16. The composition according to claim 1, wherein the wt. ratio of water to solvent is about 2:1 to 1 :2, respectively.
+</P>
+<P>
+17. The composition according to claim 1, wherein the wt.% of water is greater than the wt.% of solvent. 18. The composition according to claim 1, wherein the wt.% of solvent is greater than the wt. % of water.
+</P>
+<P>
+19. The composition according to claim 1, wherein the composition is not a reactive composition at 25[deg.]C and atmospheric pressure in air.
+</P>
+<P>
+20. The composition according to claim 1, wherein the composition is not a sol-gel reactive composition at 25[deg.]C and atmospheric pressure in air.
+</P>
+<P>
+21. The composition according to claim 1, wherein the metallic nanoparticles are not metal oxide nanoparticles.
+</P>
+<P>
+22. The composition according to claim 1, wherein the composition further comprises at least one additive.
+</P>
+<P>
+23. The composition according to claim 1, wherein the metallic nanoparticles are silver nanoparticles and the organic solvent is glycerol, and wherein the metallic nanoparticles have an average particle size of about 3 nm to about 25 nm.
+</P>
+<P>
+24. A method comprising: depositing a composition onto a cantilever, wherein the composition comprises a plurality of metallic nanoparticles suspended in a carrier, wherein the carrier comprises water and at least one organic solvent miscible with water.
+</P>
+<P>
+25. The method of claim 24, wherein the cantilever is a tipless cantilever or a cantilever which comprises a tip.
+</P>
+<P>
+26. The method of claim 24, wherein the cantilever is a tipless cantilever or a cantilever which comprises a scanning probe microscopic tip.
+</P>
+<P>
+27. The method of claim 24, wherein the cantilever is a tipless cantilever or a cantilever which comprises an atomic force microscope tip.
+</P>
+<P>
+28. The method of claim 24, wherein the cantilever comprises an AFM tip, and the tip is coated with the composition.
+</P>
+<P>
+29. The method of claim 24, further comprising the step of removing the carrier to leave a coating of nanoparticles on the cantilever.
+</P>
+<P>
+30. The method of claim 24, further comprising the step of removing the carrier to leave a dry coating of nanoparticles on the cantilever.
+</P>
+<P>
+31. The method of claim 24, further comprising the step of removing the carrier to leave a coating of wet nanoparticles on the cantilever.
+</P>
+<P>
+32. The method of claim 24, further comprising the step of depositing the nanoparticles from the cantilever onto a substrate surface. 33. The method of claim 24, further comprising the step of depositing the nanoparticles from the cantilever onto a substrate surface, and further comprising the step of heating the deposited nanoparticles on the substrate surface.
+</P>
+<P>
+34. The method of claim 24, further comprising heat treating the deposited nanoparticles on the substrate.
+</P>
+<P>
+35. The method of claim 34, wherein the heat treated nanoparticles form at least one continuous line.
+</P>
+<P>
+36. The method of claim 24, further comprising bleeding off excess of the composition from the cantilever prior to depositing.
+</P>
+<P>
+37. A method comprising: direct writing onto a substrate surface a composition which comprises a plurality of metallic nanoparticles suspended in a carrier, wherein the carrier comprises water and at least one organic solvent miscible with water.
+</P>
+<P>
+38. A method comprising: depositing a composition onto a stamp for microcontact printing, wherein the composition comprises a plurality of metallic nanoparticles suspended in a carrier, wherein the carrier comprises water and at least one organic solvent miscible with water.
+</P>
+<P>
+39. A method comprising: ink jet printing a composition which comprises a plurality of metallic nanoparticles suspended in a carrier, wherein the carrier comprises water and at least one organic solvent miscible with water.
+</P>
+<P>
+40. A method comprising: coating a cantilever with a composition comprising metallic nanoparticles and solvent carrier system, wherein the solvent carrier system comprises at least one terpene alcohol.
+</P>
+<P>
+41. The method of claim 40, further comprising depositing nanoparticles from the cantilever to a substrate surface.
+</P>
+<P>
+42. A method comprising: combining a plurality of metallic nanoparticles with a carrier, wherein the carrier comprises water and at least one organic solvent miscible with water.
+</P>
+<P>
+43. A method comprising: providing a composition comprising metallic nanoparticles and an aqueous carrier, and diluting the carrier with at least one organic solvent miscible with water to achieve a stable dispersion and allow for deposition of the composition from a nanoscopic tip to a surface.
+</P>
+<P>
+44. A method comprising: providing a composition comprising metallic nanoparticles and an aqueous carrier, and diluting the carrier with at least one organic solvent miscible with water to achieve a stable dispersion and allow for uniform coating of a cantilever.
+</P>
+<P>
+45. A composition consisting essentially of: a plurality of metallic nanoparticles suspended in a carrier, wherein the carrier comprises water and at least one organic solvent miscible with water.
+</P>
+<P>
+46. A method of forming a metal line, comprising: providing a composition, wherein the composition comprises a plurality of metallic nanoparticles in a carrier, wherein the carrier comprises water and at least one organic solvent miscible with water; depositing the composition onto a substrate; annealing the composition on the substrate, whereby the metallic nanoparticles form the metal line.
+</P>
+</Claims>
+<Also_published_as>
+WO2009052120A1;US2009181172A1;TW200934833A;KR20100068278A;JP2011502183A;CA2701889A1;AU2008312607A1
+</Also_published_as>
+</BiblioData>

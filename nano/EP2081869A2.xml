@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR SELECTIVELY ANCHORING LARGE NUMBERS OF NANOSCALE STRUCTURES
+</Title>
+<PublicationNumber>
+EP2081869A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GHARIB MORTEZA [US]
+</Name>
+<Name>
+RINDERKNECHT DEREK [US]
+</Name>
+<Name>
+SANSOM ELIJAH B [US]
+</Name>
+<Name>
+GHARIB, MORTEZA
+</Name>
+<Name>
+RINDERKNECHT, DEREK
+</Name>
+<Name>
+SANSOM, ELIJAH, B
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CALIFORNIA INST OF TECHN [US]
+</Name>
+<Name>
+CALIFORNIA INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2081869
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070873294
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US15754
+</PriorityNumber>
+<PriorityDate>
+2007-07-10
+</PriorityDate>
+<PriorityNumber>
+US20060819872P
+</PriorityNumber>
+<PriorityDate>
+2006-07-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B29C70/64
+</Class>
+<Class>
+B29K105/16B
+</Class>
+<Class>
+B81C3/00Z
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4D
+</Class>
+<Class>
+C01B31/02B6
+</Class>
+</NCL>
+<Abstract>
+A method is provided for creating composites by combining pre-fabricated nanoscale structures (nanostructures) and other materials in which the nanostructures are anchored. This method results in anchored nanostructures with their base held and encased within the anchoring material to a specified depth and with a specified length of protrusion of the nanostructures from the anchoring material. This represents a major advance over previous methods of creating composites containing nanostructures which were limited to fully embedded nanostructures or, at best, very limited and uncontrolled protrusion of nanostructures. In summary, the current method involves bringing nanostructures and anchoring materials into physical contact in a controlled fashion and optionally conducting a treatment step to complete the anchoring process.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method for fastening a plurality of nanoscale structures within a media, comprising acts of:
+</P>
+<P>
+surrounding a plurality of nanostructures each having a defined height and orientation with a fluid layer, the fluid layer having a substantially uniform thickness, the thickness of the fluid layer being less than or equal to the height of the plurality of nanostructures; and
+</P>
+<P>
+altering the fluid layer to form an anchoring layer, thereby fastening the nanostructure within the anchoring layer;
+</P>
+<P>
+whereby the plurality of nanostructures is fastened within the anchoring layer to a desired depth.
+</P>
+<P>
+2. A method as set forth in claim 1, further comprising an act of selecting the nanostructures from a group consisting of carbon nanotubes, nanowires, and nanoparticles.
+</P>
+<P>
+3. A method as set forth in claim 1, further comprising an act of arranging the plurality of nanoscale structures in a pattern.
+</P>
+<P>
+4. A method as set forth in claim 1, further comprising an act of spin-coating the fluid layer to provide a substantially uniform thickness.
+</P>
+<P>
+5. A method as set forth in claim 1, further comprising an act of providing a plurality of nanostructures comprised of different materials.
+</P>
+<P>
+6. A method as set forth in claim 1, further comprising an act of applying a second fluid layer of specified thickness to the anchoring layer, the specified thickness of the second fluid layer being less than the height of the plurality of nanostructures.
+</P>
+<P>
+7. A method as set forth in claim 6, further comprising an act of altering the second fluid layer to form a second anchoring layer, the second anchoring layer, thereby fastening the nanostructure to the second anchoring layer.
+</P>
+<P>
+8. A method as set forth in claim 6, wherein in the act of applying a second fluid layer, the second fluid layer is of a different material than that of the first fluid layer.
+</P>
+<P>
+9. A method for fastening a plurality of nanoscale structures within a media, comprising acts of:
+</P>
+<P>
+providing a first plurality of nanostructures supported on a first surface, each of the plurality of nanostructures having an alignment with respect to the first surface;
+</P>
+<P>
+surrounding the plurality of nanostructures having a defined height and alignment with a first fluid layer, the fluid layer having a specified thickness, the specified thickness of the first fluid layer being less than or equal to the height of the first plurality of nanostructures; and
+</P>
+<P>
+altering the first fluid layer to form a first anchoring layer, thereby fastening the first plurality of nanostructures within the first anchoring layer;
+</P>
+<P>
+whereby the first plurality of nanostructures are fastened within the first anchoring layer to a desired depth.
+</P>
+<P>
+10. A method as set forth in claim 9, further comprising acts of:
+</P>
+<P>
+providing a second plurality of nanostructures supported on a second surface, the plurality of nanostructures having an orientation with respect to the second surface;
+</P>
+<P>
+applying a second fluid layer beneath and in contact with the first anchoring layer;
+</P>
+<P>
+surrounding the second plurality of nanostructures with a second fluid layer, the second fluid layer having a specified thickness, the specified thickness of the fluid layer being less than or equal to the height of the second plurality of nanostructures; and
+</P>
+<P>
+altering the second fluid layer to form a second anchoring layer, thereby fastening the nanostructure within the second anchoring layer;
+</P>
+<P>
+whereby the first anchoring layer is secured with the second anchoring layer.
+</P>
+<P>
+11. A method as set forth in claim 10, further comprising acts of:
+</P>
+<P>
+removing the first surface from the first plurality of nanostructures;
+</P>
+<P>
+providing a third plurality of nanostructures supported on a third surface, the third plurality of nanostructures having an orientation with respect to the third surface;
+</P>
+<P>
+applying a third fluid layer to the first anchoring layer;
+</P>
+<P>
+surrounding the third plurality of nanostructures having a defined height and orientation with a third fluid layer, the third fluid layer having a specified thickness, the specified thickness of the third fluid layer being less than or equal to the height of the third plurality of nanostructures; and
+</P>
+<P>
+altering the third fluid layer to form a third anchoring layer, thereby fastening the third plurality of nanostructures within the third anchoring layer;
+</P>
+<P>
+whereby the first anchoring layer is secured to the third anchoring layer.
+</P>
+<P>
+12. A method as set forth in claim 9, further comprising an act of removing the support surface from the plurality of nanostructures.
+</P>
+<P>
+13. A method for fastening a plurality of nanoscale structures within a media, comprising acts of:
+</P>
+<P>
+providing a plurality of nanostructures each having a length, the nanostructures being supported on a surface and having an orientation with respect to the surface;
+</P>
+<P>
+superimposing the plurality of nanostructures onto a mask, the mask having a bottom surface, a depth less than the length of the plurality of nanostructures, and at least one cutout such that the plurality of nanostructures supported on the surface selectively pass through the mask,
+</P>
+<P>
+forming a masked nanostructure pattern from the nanostructures which are selectively passed through the cutout of the mask;
+</P>
+<P>
+surrounding the masked nanostructure pattern with a fluid layer, the fluid layer having a depth; and
+</P>
+<P>
+altering the fluid layer to form a first anchoring layer, thereby fastening the masked nanostructure pattern within the first anchoring layer;
+</P>
+<P>
+whereby a masked nanostructure may selectively be fastened within a anchoring layer at a depth equal to the substantially uniform depth of the mask.
+</P>
+<P>
+14. A method as set forth in claim 13, further comprising acts of:
+</P>
+<P>
+removing the surface from the plurality of nanostructures;
+</P>
+<P>
+providing a second plurality of nanostructures supported on a second surface, the second plurality of nanostructures having an orientation with respect to the second surface;
+</P>
+<P>
+applying a second fluid layer to the first anchoring layer;
+</P>
+<P>
+inserting the second plurality of nanostructures having a defined height and orientation into the second fluid layer, the second fluid layer having a specified thickness, the specified thickness of the second fluid layer being less than or equal to the height of the second plurality of nanostructures; and
+</P>
+<P>
+altering the second fluid layer to form a second anchoring layer, thereby fastening the second plurality of nanostructures within the second anchoring layer;
+</P>
+<P>
+whereby the first anchoring layer surface is secured with the second anchoring layer.
+</P>
+<P>
+15. A method as set forth in claim 14, wherein the act of applying a second fluid layer, the second fluid layer is applied between the anchoring layer and the surface, the specified thickness of the second fluid layer being less than the height of the plurality of nanostructures.
+</P>
+<P>
+16. A method as set forth in claim 13, further comprising an act of removing the support surface from the plurality of nanostructures.
+</P>
+<P>
+17. A method as set forth in claim 13, further comprising an act of spin-coating the fluid layer.
+</P>
+<P>
+18. A method as set forth in claim 13, further comprising an act of selecting the plurality of nanostructures from a group consisting of carbon nanotubes, nanotubes, nanowires, and nanoparticles.
+</P>
+<P>
+19. A method as set forth in claim 13, further comprising an act of applying a second fluid layer of specified thickness between the anchoring layer and the surface, the specified thickness of the second fluid layer being less than the height of the plurality of nanostructures.
+</P>
+<P>
+20. A composite formed of a plurality of nanostructures within an anchoring layer comprising:
+</P>
+<P>
+a plurality of nanostructures, each of the plurality of nanostructures having a first end and a second end;
+</P>
+<P>
+a supporting surface, the first end of each of the plurality of nanostructures attached with the supporting surface;
+</P>
+<P>
+an anchoring material, the second end of each of the plurality of nanostructures being both immersed and secured within the anchoring material, the anchoring material having a substantially uniform depth; and
+</P>
+<P>
+the second end of each of the plurality of nanostructures further being anchored at a substantially uniform depth within the anchoring material up to a specified depth.
+</P>
+<P>
+21. A product as set forth in claim 20, wherein the nanostructures possess a substantially uniform depth within the anchoring material
+</P>
+<P>
+22. A product as set forth in claim 20, wherein the nanostructures possess a defined pattern that is retained upon insertion into the anchoring material
+</P>
+<P>
+23. A product as set forth in claim 20, wherein the nanostructures possess a pre-fabricated repeating pattern that is retained upon insertion into the anchoring material.
+</P>
+<P>
+24. A product as set forth in claim 23, wherein the nanostructures are carbon nanotubes.
+</P>
+</Claims>
+<Also_published_as>
+US2008145616A1;US7955644B2;WO2008097257A2;WO2008097257A3
+</Also_published_as>
+</BiblioData>

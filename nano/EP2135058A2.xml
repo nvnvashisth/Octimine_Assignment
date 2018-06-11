@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+OPTOFLUIDIC MICROSCOPE DEVICE
+</Title>
+<PublicationNumber>
+EP2135058A2
+</PublicationNumber>
+<Inventor>
+<Name>
+YANG CHANGHUEI [US]
+</Name>
+<Name>
+PSALTIS DEMETRI [CH]
+</Name>
+<Name>
+YANG, CHANGHUEI
+</Name>
+<Name>
+PSALTIS, DEMETRI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CALIFORNIA INST OF TECHN [US]
+</Name>
+<Name>
+CALIFORNIA INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2135058
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080730664
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US54908
+</PriorityNumber>
+<PriorityDate>
+2008-02-25
+</PriorityDate>
+<PriorityNumber>
+US20070686095
+</PriorityNumber>
+<PriorityDate>
+2007-03-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B32B27/04
+</Class>
+<Class>
+G01N21/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N21/64P4C
+</Class>
+</NCL>
+<Abstract>
+An optofluidic microscope device is disclosed. The device includes a fluid channel having a surface and an object such as a bacterium or virus may flow through the fluid channel. Light transmissive regions of different sizes may be used to image the object.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. An optofluidic microscope device comprising: a body comprising a fluid channel having a surface; light transmissive regions in the body, wherein the light transmissive regions have different dimensions; an illumination source adapted to provide illumination through the light transmissive regions; and an optical detector adapted to receive light from the illumination source through the light transmissive regions.
+</P>
+<P>
+2. The optofluidic microscope device of claim 1 wherein the surface is the bottom of a fluid channel.
+</P>
+<P>
+3. The optofluidic microscope device of claim 1 wherein the light transmissive regions are holes, and wherein the different dimensions are different diameters.
+</P>
+<P>
+4. The optofluidic microscope device of claim 1 wherein the optical detector comprises a charge coupled device.
+</P>
+<P>
+5. The optofluidic microscope device of claim 1 wherein the optical detector includes a plurality of discrete light detecting elements, wherein the light detecting elements respectively correspond to the light transmissive regions.
+</P>
+<P>
+6. The optofluidic microscope device of claim 1 wherein the fluid channel has a bottom with a width of less than about 1 micron.
+</P>
+<P>
+7. The optofluidic microscope device of claim 1 wherein the light transmissive regions comprise an optically transparent material.
+</P>
+<P>
+8. The optofluidic microscope device of claim 1 wherein the array of holes extends from a first side of the surface to a second side of the surface.
+</P>
+<P>
+9. The optofluidic microscope device of claim 1 wherein the array of light transmissive regions is a first array of light transmissive regions and the optical device comprises a second array of light transmissive regions, wherein the second array of light transmissive regions form a reference point.
+</P>
+<P>
+10. The optofluidic microscope device of claim 1 wherein the surface is part of a bottom wall, and wherein optical detector is attached to the bottom wall.
+</P>
+<P>
+1 1. The optofluidic microscope device of claim 1 wherein the array of light transmissive regions forms a slanted line.
+</P>
+<P>
+12. The optofluidic microscope device of claim 1 wherein illumination source provides white light.
+</P>
+<P>
+13. The optofluidic microscope device of claim 1 wherein the body comprises a polymeric material.
+</P>
+<P>
+14. A method of using the optofluidic microscope device of claim 1 , wherein the method comprises: flowing a fluid comprising an object through the fluid channel.
+</P>
+<P>
+15. The method of claim 14 wherein the light transmissive regions have circular radial cross-sections.
+</P>
+<P>
+16. The method of claim 15 wherein the light transmissive regions comprise holes.
+</P>
+<P>
+17. The method of claim 15 wherein the light transmissive regions are holes with a high index of refraction material in the holes.
+</P>
+<P>
+18. The method of claim 14 wherein the object is a cell.
+</P>
+<P>
+19. The method of claim 14 further comprising: detecting a transmission spectrum using the light passing through the light transmissive regions.
+</P>
+<P>
+20. The method of claim 19 further comprising: determining a shape of the object using the transmission spectrum.
+</P>
+</Claims>
+<Also_published_as>
+EP2135058A4;WO2008112416A2;WO2008112416A3;US2010296094A1;US2007207061A1;US7751048B2;JP2010521671A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DETECTION VIA SWITCHABLE EMISSION OF NANOCRYSTALS
+</Title>
+<PublicationNumber>
+EP1969349A2
+</PublicationNumber>
+<Inventor>
+<Name>
+YING JACKIE Y [SG]
+</Name>
+<Name>
+YU HSIAO-HUA [SG]
+</Name>
+<Name>
+ALI EMRIL MOHAMED [SG]
+</Name>
+<Name>
+JANA NIKHIL R [SG]
+</Name>
+<Name>
+YING, JACKIE Y
+</Name>
+<Name>
+YU, HSIAO-HUA
+</Name>
+<Name>
+ALI, EMRIL MOHAMED
+</Name>
+<Name>
+JANA, NIKHIL R
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+AGENCY SCIENCE TECH &amp; RES [SG]
+</Name>
+<Name>
+AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1969349
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060845644
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US48087
+</PriorityNumber>
+<PriorityDate>
+2006-12-15
+</PriorityDate>
+<PriorityNumber>
+US20050313218
+</PriorityNumber>
+<PriorityDate>
+2005-12-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N21/64
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N21/64F
+</Class>
+<Class>
+G01N21/64S
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to methods for determination of an analyte. The invention provides various methods involving exposure of a luminescent material to an analyte wherein, upon interaction with the analyte, a change in luminescence may be observed as a function of the duration of exposure to electromagnetic radiation, thereby determining the analyte. Some embodiments of the invention include the use of highly emissive semiconductor nanocrystals.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method for determining an analyte via interaction of the analyte with a: luminescent article, comprising:
+</P>
+<P>
+providing a sample suspected of containing an analyte;
+</P>
+<P>
+exposing the sample to a luminescent article comprising an outer layer and, if the analyte is present, allowing the analyte to become immobilized with respect to the article via interaction between the analyte and the outer layer, wherein the outer layer is modified by said interaction;
+</P>
+<P>
+determining a first emission of the luminescent article;
+</P>
+<P>
+exposing the nanoparticle to electromagnetic radiation for a period of time and under conditions sufficient to cause a change in a luminescence characteristic of the nanoparticle;
+</P>
+<P>
+determining a second emission of the luminescent article; and
+</P>
+<P>
+determining a variance between the first emission and the second emission indicative of the presence of the analyte,
+</P>
+<P>
+wherein modification of the outer layer increases the susceptibility of the article to a change in the luminescence characteristic upon exposure of the article to the electromagnetic radiation for the period of time and under the conditions, such that, in the absence of the analyte, exposure of the luminescent article to the electromagnetic radiation for the period of time and under the conditions does not result in said variance between the first and second emissions.
+</P>
+<P>
+2. A method as in claim 1, wherein, in the absence of the analyte, exposure of the luminescent article to the electromagnetic radiation for the period of time and under the conditions results in a different variance between the first and second emissions.
+</P>
+<P>
+3. A method as in claim 1, wherein the variance in the absence of the analyte is smaller than the variance in the presence of the analyte.
+</P>
+<P>
+4. A method as in claim 1,
+</P>
+<P>
+wherein the outer layer of the luminescent article comprises a plurality of functional groups having an affinity for a surface of the article, and immobilization of the analyte with respect to the article causes the functional groups to become increased in separation from the surface of the article, increasing the susceptibility of the article to the change in the luminescence characteristic upon exposure of the article to the electromagnetic radiation for the period of time and under the conditions.
+</P>
+<P>
+5. A method as in claim 1, wherein the outer layer is a self-assembled, tightly-packed structure and, in the presence of the analyte, the outer layer interacts with the analyte to disrupt the self-assembled, tightly-packed structure, increasing the susceptibility of the article to the change in the luminescence characteristic upon exposure of the article to the electromagnetic radiation for the period of time and under the conditions.
+</P>
+<P>
+6. A method as in claim 1, wherein the outer layer comprises at least one type of silane.
+</P>
+<P>
+7. A method as in claim 1, wherein the luminescent article comprises a semiconductor nanocrystal.
+</P>
+<P>
+8. A method as in claim 7, wherein the semiconductor nanocrystal is MgO, MgS, MgSe, MgTe, CaS, CaSe, CaTe, SrS, SrSe, SrTe, BaS, BaSe, BaTe, ZnO, ZnS, ZnSe, ZnTe, CdO, CdS, CdSe, CdTe, HgO, HgS, HgSe, HgTe, AlN, AlP, AlAs, AlSb, Al2S3, Al2Se3, Al2Te3, Ga2S3, Ga2Se3, GaTe, In2S3, In2Se3, InTe, SnS, SnSe, SnTe, PbS, PbSe, PbTe, AlP, AlAs, AlSb, GaN, GaP, GaAs, GaSb, InN, InP, InAs, InSb, TiN, TiP, TiAs, TiSb, BP, Si, Ge, alloys thereof, such as AlGaAs, InGaAs, InGaP, AlGaAs, AlGaAsP, InGaAlP, or InGaAsP, ternary or quaternary mixtures thereof, compounds thereof, or solid solutions thereof.
+</P>
+<P>
+9. A method as in claim 7, wherein the semiconductor nanocrystal is CdSe, CdTe, ZnSe, and/or ZnO.
+</P>
+<P>
+10. A method as in claim 7, wherein the luminescent article comprises ZnO.
+</P>
+<P>
+11. A method as in claim 1, wherein the outer layer comprises an amine, a thiol, a carboxylic acid, an anhydride, and/or an alcohol.
+</P>
+<P>
+12. A method as in claim 11, wherein the outer layer comprises an amine.
+</P>
+<P>
+13. A method as in claim 1, wherein the interaction comprises forming a covalent bond, an ionic bond, a hydrogen bond, and/or Van der Waal interactions with the analyte.
+</P>
+<P>
+14. A method as in claim 1, wherein the interaction comprises forming a covalent bond with the analyte.
+</P>
+<P>
+15. A method as in claim 1, wherein the analyte comprises an aldehyde.
+</P>
+<P>
+16. A method as in claim 1, wherein the analyte is a biological molecule.
+</P>
+<P>
+17. A method as in claim 1, wherein the luminescent article comprises a fluorescent dye.
+</P>
+<P>
+18. A method for determining an analyte, comprising:
+</P>
+<P>
+exposing a luminescent article to electromagnetic radiation in the presence of a sample suspected of containing an analyte, wherein the analyte affects a change in a luminescence characteristic of the article responsive to the electromagnetic radiation; and
+</P>
+<P>
+if the analyte is present, determining the analyte by determining a change in the luminescence characteristic of the article resulting from said exposure to electromagnetic radiation.
+</P>
+<P>
+19. A method as in claim 18, wherein the exposing comprises exposing the luminescent article to electromagnetic radiation for a period of time and under conditions sufficient to cause a change in a luminescence characteristic of the nanoparticle.
+</P>
+<P>
+20. A method as in claim 19, wherein the change in the luminescence characteristic in the absence of the analyte is different from the change in the luminescence characteristic in the presence of the analyte.
+</P>
+<P>
+21. A method as in claim 19, wherein the change in the luminescence characteristic in the absence of the analyte is smaller in magnitude than the change in the luminescence characteristic in the presence of the analyte.
+</P>
+<P>
+22. A method as in claim 18,
+</P>
+<P>
+wherein the luminescent article comprises an outer layer comprising a plurality of functional groups having an affinity for a surface of the article, and immobilization of the analyte with respect to the article causes the functional groups to become increased in separation from the surface of the article, increasing the susceptibility of the article to the change in the luminescence characteristic upon exposure of the article to the electromagnetic radiation for the period of time and under the conditions.
+</P>
+<P>
+23. A method as in claim 22, wherein the outer layer comprises at least one type of silane.
+</P>
+<P>
+24. A method as in claim 18, wherein the outer layer is a self-assembled, tightly-packed structure and, in the presence of the analyte, the outer layer interacts with the analyte to disrupt the self-assembled, tightly-packed structure, increasing the susceptibility of the article to the change in the luminescence characteristic upon exposure of the article to the electromagnetic radiation for the period of time and under the conditions.
+</P>
+<P>
+25. A method as in claim 24, wherein the outer layer comprises at least one type of silane.
+</P>
+<P>
+26. A method as in claim B, wherein the luminescent article comprises a semiconductor nanocrystal.
+</P>
+<P>
+27. A method as in claim 26, wherein the semiconductor nanocrystal is MgO, MgS, MgSe, MgTe, CaS, CaSe, CaTe, SrS, SrSe, SrTe, BaS, BaSe, BaTe, ZnO, ZnS, ZnSe, ZnTe, CdO, CdS, CdSe, CdTe, HgO, HgS, HgSe, HgTe, BlN, BlP, BlBs, BlSb, Bl2S3, Bl2Se3, Bl2Te3, Ga2S3, Ga2Se3, GaTe, In2S3, In2Se3, InTe, SnS, SnSe, SnTe, PbS, PbSe, PbTe, BlP, BlBs, BlSb, GaN, GaP, GaBs, GaSb, InN, InP, InBs, InSb, TiN, TiP, TiBs, TiSb, BP, Si, Ge, alloys thereof, such as BlGaBs, InGaBs, InGaP, BlGaBs, BlGaBsP, InGaBlP, or InGaBsP, ternary or quaternary mixtures thereof, compounds thereof, or solid solutions thereof.
+</P>
+<P>
+28. A method as in claim 26, wherein the semiconductor nanocrystal is CdSe, CdTe, ZnSe, and/or ZnO.
+</P>
+<P>
+29. A method as in claim 26, wherein the luminescent article comprises ZnO.
+</P>
+<P>
+30. A method as in claim B, wherein the outer layer comprises an amine, a thiol, a carboxylic acid, an anhydride, and/or an alcohol.
+</P>
+<P>
+31. A method as in claim 30, wherein the outer layer comprises an amine.
+</P>
+<P>
+32. A method as in claim 18, wherein the interaction comprises forming a covalent bond with an analyte.
+</P>
+<P>
+33. A method as in claim 18, wherein article and the analyte have an interaction comprising forming a covalent bond, an ionic bond, a hydrogen bond, and/or Van der Waal interactions with the analyte.
+</P>
+<P>
+34. A method as in claim 33, wherein the interaction comprises forming a covalent bond with the analyte.
+</P>
+<P>
+35. A method as in claim 18, wherein the analyte comprises an aldehyde.
+</P>
+<P>
+36. A method as in claim 18, wherein the analyte is a biological molecule.
+</P>
+<P>
+37. A method as in claim 18, wherein the luminescent article comprises a fluorescent dye.
+</P>
+</Claims>
+<Also_published_as>
+US2007141726A1;WO2007075495A2;WO2007075495A3;WO2007075495A8;JP2009520207A;CN101365938A
+</Also_published_as>
+</BiblioData>

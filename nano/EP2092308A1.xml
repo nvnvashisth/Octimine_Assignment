@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DEVICE AND METHOD FOR OPTICAL LOCALIZED PLASMON SENSING
+</Title>
+<PublicationNumber>
+EP2092308A1
+</PublicationNumber>
+<Inventor>
+<Name>
+RUBINSTEIN ISRAEL [IL]
+</Name>
+<Name>
+VASKEVICH ALEXANDER [IL]
+</Name>
+<Name>
+RUACH-NIR IRIT [IL]
+</Name>
+<Name>
+BENDIKOV TATYANA [IL]
+</Name>
+<Name>
+RUBINSTEIN, ISRAEL
+</Name>
+<Name>
+VASKEVICH, ALEXANDER
+</Name>
+<Name>
+RUACH-NIR, IRIT
+</Name>
+<Name>
+BENDIKOV, TATYANA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+YEDA RES &amp; DEV [IL]
+</Name>
+<Name>
+YEDA RESEARCH AND DEVELOPMENT COMPANY LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2092308
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070827475
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IL01505
+</PriorityNumber>
+<PriorityDate>
+2007-12-05
+</PriorityDate>
+<PriorityNumber>
+US20060872797P
+</PriorityNumber>
+<PriorityDate>
+2006-12-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N21/55
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N21/55B2N
+</Class>
+</NCL>
+<Abstract>
+A device is presented comprising a multi-layer structure with a plurality of metal islands on the surface of a solid transparent substrate. The islands are coated by an ultrathin sol-gel derived silica film via self-assembled monolayer.
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+I. A device comprising a multi-layer structure with a plurality of metal islands on the surface of a solid transparent substrate, whereon said islands are coated by an ultrathin sol-gel derived silica film via self-assembled monolayer. 2. A device according to Claim 1, wherein said self-assembled monolayer is of a compound having the general formula (I)
+</P>
+<P>
+Z-R-SiOxZ2(OH)3-, (I)
+</P>
+<P>
+Z being a binding moiety that can chemically associate with, attach to, or chemically sorb onto the metal, and R is a linker moiety, 3. A device according to Claim 2, wherein Z is a sulfur containing moiety.
+</P>
+<P>
+4. A device according to any one of Claims 1 to 3, wherein R is an aliphatic or aromatic moiety optionally substituted by a carboxy, carbonyl, amino, hydroxy or thio group.
+</P>
+<P>
+5. A device according to any one of Claims 1 to 4, wherein said silica layer has a thickness of 0.5-20 nm.
+</P>
+<P>
+6. A device according to any one of Claim 1 to 5, wherein said noble metal is gold. &quot;
+</P>
+<P>
+7. A device according to any one of Claims 1 to 6, having inherent stable optical properties and essentially unaffected following exposure to -aqueous or organic solvents, washing and drying.
+</P>
+<P>
+8. A device according to Claim 7, wherein said optical properties are localized surface plasmon absorption.
+</P>
+<P>
+9. A device according to Claim 7 or 8, wherein changes in optical properties are essentially a consequence of binding or release of an analyte to/from a surface of the silica layer.
+</P>
+<P>
+10. A device according to Claim 9, wherein said surface comprises analyte binding sites.
+</P>
+<P>
+II. A sensing device for sensing an analyte in a medium, the device comprising a device according to Claim 9 or 10.
+</P>
+<P>
+12. A device according to Claim 1, configured and operable as a transmission localized surface plasmon resonance (T-LSPR) recognition interface in which changes in the SP band are attributed exclusively to binding/release of analytes to/from the interface, enabling sensing applications. 13. A device according to Claim 12, configured and operable as a sensor based on T-LSPR mode and the optical response of said sensor is sensitive to changes in the effective dielectric constant of the immediate environment. 14. A device according to Claim 12, wherein said sensor is configured and operable as an optical transducer for chemical and/or biological sensing, 15. A device according to Claim 14, wherein said biological sensing comprises label-free recognition of biological molecules using selective antibody-antigen interactions.
+</P>
+<P>
+16. A device according to Claim 14, wherein said sensor is an immunosensor configured and operable to selectivity differentiating between specific and nonspecific interactions.
+</P>
+<P>
+17. A device according to Claim 12, wherein said silica layer is thin enough to afford high T-LSPR sensitivity, while the hydroxyl groups on its surface enable chemical modification for binding of receptor molecules.
+</P>
+<P>
+18. A process for manufacturing a sensing device, the process comprising: (a) providing a solid transparent substrate with a plurality of metal islands on its surface;
+</P>
+<P>
+(b) coating the islands with a monolayer of a compound having the general structure
+</P>
+<P>
+Z-R-SiOxZ2(OH)3-X Z being a binding moiety that can chemically associate with, attach to, or chemically sorb onto the noble metal and R is a linker moiety; and
+</P>
+<P>
+(c) immersing the monolayer-coated substrate in a medium comprising a silica-based sol-gel precursor and providing conditions for a sol-gel reaction to yield a silica film over said monolayer. 19. A process according to Claim 18, wherein the noble metal is gold.
+</P>
+<P>
+20. A process according to Claim 18 or 19, wherein the silica film has a thickness of 0.5-20 nm.
+</P>
+<P>
+21. A process according to Claim 18, wherein the coating is performed at temperature in the range of about 40&amp;lt;0&amp;gt;C to about 100&amp;lt;0&amp;gt;C. 22. A process according to any one of Claims 18 to 21, wherein the sol-gel precursor is sodium silicate.
+</P>
+<P>
+23. A process according to any one of Claims 18 to 22, wherein said plurality of metal islands is formed on the surface of the substrate by an evaporation procedure. 24. A process for improving stability of surface optical properties of solid substrate carrying islands of a noble metal on its surface, the process comprising:
+</P>
+<P>
+(a) coating the islands with a monolayer of a compound having the general structure
+</P>
+<P>
+Z-R-SiOxZ2(OH)3-X Z being a binding moiety that can chemically associate with, attach to, or chemically sorb onto the noble metal and R is a linker moiety; and
+</P>
+<P>
+(b) immersing the monolayer-coated substrate in a medium comprising a silica-based sol-gel precursor and providing conditions for a sol-gel reaction to yield a silica film over said monolayer. 25. A process according to Claim 24, maintaining a high sensitivity of the surface plasmon absorbance to analyte binding.
+</P>
+</Claims>
+<Also_published_as>
+WO2008068758A1;US2009257062A1
+</Also_published_as>
+</BiblioData>

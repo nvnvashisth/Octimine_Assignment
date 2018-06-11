@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR PRODUCTION OF DOPED TITANIUM OXIDE, DOPED TITANIUM OXIDE, AND VISIBLE LIGHT- RESPONSIVE PHOTOCATALYST COMPRISING THE DOPED TITANIUM OXIDE
+</Title>
+<PublicationNumber>
+EP2116304A1
+</PublicationNumber>
+<Inventor>
+<Name>
+JIN REN-HUA [JP]
+</Name>
+<Name>
+ZHU PEI-XIN [JP]
+</Name>
+<Name>
+FUKAZAWA NORIMASA [JP]
+</Name>
+<Name>
+JIN, REN-HUA
+</Name>
+<Name>
+ZHU, PEI-XIN
+</Name>
+<Name>
+FUKAZAWA, NORIMASA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KAWAMURA INST CHEM RES [JP]
+</Name>
+<Name>
+DAINIPPON INK &amp; CHEMICALS [JP]
+</Name>
+<Name>
+KAWAMURA INSTITUTE OF CHEMICAL RESEARCH
+</Name>
+<Name>
+DIC CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2116304
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070850347
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP73773
+</PriorityNumber>
+<PriorityDate>
+2007-12-10
+</PriorityDate>
+<PriorityNumber>
+JP20060335659
+</PriorityNumber>
+<PriorityDate>
+2006-12-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J27/20
+</Class>
+<Class>
+B01J35/00
+</Class>
+<Class>
+B01J35/02
+</Class>
+<Class>
+B01J37/00
+</Class>
+<Class>
+B01J37/03
+</Class>
+<Class>
+B01J37/08
+</Class>
+<Class>
+C01G23/04
+</Class>
+<Class>
+C01G23/047
+</Class>
+<Class>
+C09C1/36
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J35/00D
+</Class>
+<Class>
+B01J35/00D6
+</Class>
+<Class>
+B01J35/00D8D
+</Class>
+<Class>
+B01J37/00B2
+</Class>
+<Class>
+B01J37/03B
+</Class>
+<Class>
+B01J37/08
+</Class>
+<Class>
+B01J37/08B2
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G23/04
+</Class>
+<Class>
+C01G23/047
+</Class>
+<Class>
+C09C1/36D10
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a doped titanium oxide having visible light-responsiveness whose structure is specified, and a simple production method thereof. By burning with heat a layered structure composite laminated alternately with polymer and the titania, which is obtained using basic polymer having amino group (s) and water-soluble titanium compound, carbon atoms and nitrogen atoms in the polymer are doped to the crystalline surface of titanium oxide. As making the polymer complex with metal ions beforehand, the metal ions can be also doped to the titanium oxide.
+</Abstract>
+<Claims>
+<P>
+1. A production method of a doped titanium oxide which is doped at least with carbon atoms and nitrogen atoms, the production method comprising the steps of;
+</P>
+<P>
+(I) dispersing or dissolving basic polymer (x) having amino group(s) in aqueous medium,
+</P>
+<P>
+(II) obtaining a layered structure composite of polymer/titania wherein basic polymer (x) having amino group(s) is inserted among titania by mixing aqueous dispersion or aqueous solution obtained in (I) and water-soluble titanium compound (z) in aqueous medium, and by producing a hydrolytic reaction at a temperature of 50[deg.]C or less,
+</P>
+<P>
+(III) being doped with carbon atoms and nitrogen atoms in basic polymer (x) having amino group(s) to the crystalline surface of titanium oxide by burning with heat the layered structure composite.
+</P>
+<P>
+2. A production method of a doped titanium oxide which is doped at least with carbon atoms, nitrogen atoms and metal ions, the production method comprising the steps of;
+</P>
+<P>
+(I) dispersing or dissolving complex (y) of basic polymer (x) aqueous medium,
+</P>
+<P>
+(II) obtaining a layered structure composite of polymer/titania in which complex (y) of basic polymer (x) having amino group(s) and metal ions are inserted among titania by mixing aqueous dispersion or aqueous solution obtained in (I) and water-soluble titanium compound (z) in aqueous medium, and by producing hydrolytic reaction at a temperature of 50[deg.]C or less,
+</P>
+<P>
+(III) being doped with carbon atoms, nitrogen atoms, and metal ions in complex (y) of basic polymer (x) having amino group (s) and metal ions, to the crystalline surface of titanium oxide by burning with heat the layered structure composite.
+</P>
+<P>
+3. A doped titanium oxide which comprises anatase crystalline or rutile crystalline with a size from 5 to 20 nm containing carbon atoms, nitrogen atoms, and metal ions; which electron spin resonance signal can be observed with g value in the range from 1.5 to 2.5 in the electron spin resonance spectrum measured at a temperature from 20 to 30[deg.]C in the darkness; also in nuclear magnetic resonance spectrum (&amp;lt;13&amp;gt;C), a signal showing formation of sp&amp;lt;2&amp;gt; bond with carbon atoms can be observed; in Raman spectrum, vibration wave number derived from amorphous carbon and graphite carbon can be observed in the range from 1200 to 1700 cm&amp;lt;-1&amp;gt; and the absorption is shown in the range from 400 to 2000 nm.
+</P>
+<P>
+4. The doped titanium oxide according to claim 3, which doped titanium oxide has total wavelength absorption in the range from 400 to 2000 nm.
+</P>
+<P>
+5. The doped titanium oxide according to claim 3 or 4, wherein percentage of a constituent of the sum of carbon atoms and nitrogen atoms is 20 mass% or less.
+</P>
+<P>
+6. The doped titanium oxide according to any one of claims 3, 4, and 5, wherein percentage of a constituent of metal ions is 0.2 to 5 mass%.
+</P>
+<P>
+7. A visible light-responsive photocatalyst containing a doped titanium oxide according to any one of claims 3, 4, 5, and 6.
+</P>
+</Claims>
+<Also_published_as>
+EP2116304A4;US2010062928A1;US8017542B2;JP4142092B2;WO2008072595A1;CN101563161A;CN101563161B
+</Also_published_as>
+</BiblioData>

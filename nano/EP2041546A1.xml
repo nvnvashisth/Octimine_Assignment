@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SCANNING PROBE MICROSCOPE AND METHOD FOR OPERATING THE SAME
+</Title>
+<PublicationNumber>
+EP2041546A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ZIEGLER DOMINIK [CH]
+</Name>
+<Name>
+STEMMER ANDREAS CHRISTIAN [CH]
+</Name>
+<Name>
+RYCHEN JOERG [CH]
+</Name>
+<Name>
+ZIEGLER, DOMINIK
+</Name>
+<Name>
+STEMMER, ANDREAS, CHRISTIAN
+</Name>
+<Name>
+RYCHEN, JOERG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANONIS GMBH [CH]
+</Name>
+<Name>
+NANONIS GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2041546
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060761222
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-07-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006CH00371
+</PriorityNumber>
+<PriorityDate>
+2006-07-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q60/30
+</Class>
+<Class>
+G01Q80/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q60/30
+</Class>
+</NCL>
+<Abstract>
+The scanning probe microscope has a primary control loop (7, 11, 12) for keeping the phase and/or amplitude of deflection at constant values as well as a secondary control loop (9) that e.g. keeps the frequency of the cantilever oscillation constant by applying a suitable DC voltage to the probe while, at the same time, a conservative AC excitation is applied thereto. By actively controlling the frequency with the first control loop (7, 11, 12) and subsequently controlling the DC voltage in order to keep the frequency constant, a fast system is created that allows to determine the contact potential difference or a related property of the sample (3) quickly.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A scanning probe microscope for measuring properties of a sample comprising a probe (2) on a mechanical resonator (1), an oscillator (4) generating a master signal (S) at a frequency f, an actuator (5) driven by said master signal (S) and applying a mechanical force to said mechanical resonator (1) at said frequency f, a DC voltage source applying a DC voltage (Udc) to said probe (2), an AC voltage source applying an AC voltage (Uac) at said frequency f to said probe (2), a detector (6) measuring a phase and/or am-
+</P>
+<P>
+- plitude of a deflection of said mechanical resonator (1), said scanning probe microscope further comprising a driver (11, 12; 20) controlling said actua- tor (5) and being adapted to keep a phase and or an amplitude of said deflection constant and a secondary control loop (9) having a set- point for the frequency or amplitude, respectively, of said master signal (S) and controlling said DC voltage (Udc) to keep said frequency or amplitude, respectively, of said master signal (S) at said setpoint, wherein,
+</P>
+<P>
+- if the driver (11, 12; 20) keeps the phase but not the amplitude of the deflection constant, said secondary control loop (9) keeps the frequency at said setpoint,
+</P>
+<P>
+- if the driver (11, 12; 20) keeps the amplitude but not the phase of the deflection constant, said secondary control loop (9) keeps the amplitude of the master signal (S) at said setpoint or
+</P>
+<P>
+- if the driver (11, 12; 20) keeps the amplitude and phase of the deflection constant, said secondary control loop (9) either keeps the amplitude or frequency of the maser signal at said setpoint.
+</P>
+<P>
+2. The scanning probe microscope of claim 1 wherein said driver (11, 12; 20) comprises a primary con- trol loop (11, 12) having a phase setpoint ([phi]O) and/or amplitude setpoint (AO) for the phase and/or amplitude, respectively, of said deflection and controlling a frequency or amplitude, respectively, of said master signal (S) for keeping the phase and/or amplitude, respectively, of said deflection at said phase setpoint ([phi]O) and/or amplitude setpoint (AO) .
+</P>
+<P>
+3. The scanning probe microscope of claim 2 wherein said primary control loop (11, 12) is faster than said secondary control loop (9) . 4. The scanning probe microscope of any of the claims 2 or 3 having a first primary control loop (11) having a phase setpoint ([phi]O) for the phase of said deflection and controlling the frequency of said master signal (S) for keeping the phase of said deflection at the phase set- point ([phi]O) and a second primary control loop (12) having an amplitude setpoint (AO) for the amplitude of said deflection and controlling the amplitude of said master signal (S) for keeping the amplitude of said deflection at said amplitude setpoint (AO) .
+</P>
+<P>
+5. The scanning probe microscope of any of the claims 2 to 4 wherein said phase setpoint ([phi]O) is set to a phase of the deflection when operating said mechani- cal resonator (1) at a free resonance.
+</P>
+<P>
+6. The scanning probe microscope of any of the preceding claims wherein, if said secondary control loop (9) keeps the frequency of said master signal (S) constant, a phase shift of said AC voltage ([upsilon]ac) in respect to said deflection is such that an electrostatic force generated by said AC voltage (Uac) on said probe (2) is such that it leads, in first order approximation, to a phase shift but not a direct change of amplitude of said deflection or if said secondary control loop (9) keeps the amplitude of said master signal (S) constant, a phase
+</P>
+<P>
+5 shift of said AC voltage (Uac) in respect to said deflection in such that an electrostatic force generated by said AC voltage ([upsilon]ac) on said probe (2) is such that it leads, in first order approximation, to a change of amplitude but not a direct phase shift of said deflection. o 7. A method for operating the scanning probe microscope of any of the preceding claims comprising the step of determining an electrical property of said sample from said DC voltage (Udc) .
+</P>
+<P>
+8.&apos; The method of claim 7 for operating the s scanning probe of any of the claims 2 to 5 further comprising the step of setting said phase setpoint ([phi]O) or amplitude setpoint (AO) by operating said mechanical resonator (1) at a resonance while said probe (2) is at such a distance from o said sample that electrostatic interactions between the probe (2) and a sample are negligible and/or a DC voltage matching the contact potential difference is applied to said probe (2) for eliminating electrostatic interactions between the probe (2) and the 5 sample.
+</P>
+<P>
+9. A scanning probe microscope, in particular of any of the claims 1 to 6, for measuring properties of a sample, said microscope comprising a probe (2) on a mechanical resonator (1), 0 an oscillator (4) generating a master signal
+</P>
+<P>
+(S) at a frequency f, an actuator (5) driven by said master signal (S) and applying a mechanical force to said mechanical resonator (1) at said frequency f, 5 a DC voltage source applying a DC voltage
+</P>
+<P>
+(Udc) to said probe (2) , an AC voltage source applying an AC voltage (Uac) at said frequency f to said probe (2), a detector (6) measuring an phase and/or amplitude of a deflection of said mechanical resonator (1), said scanning probe microscope further comprising a controller (9) having a setpoint (m[theta]) for a signal depending on the phase of said deflection and controlling said DC voltage (Udc) to keep said signal at said setpoint and a phase shifter (8) for setting a phase between said AC voltage (Uac) and said deflection such that a force generated by said AC voltage (Uac) at said frequency f to said probe (2) leads to a phase shift of said deflection.
+</P>
+<P>
+10. A method for operating the scanning probe microscope of claim 9 comprising the step of determining an electrical property of said sample from said DC voltage (Udc) .
+</P>
+</Claims>
+<Also_published_as>
+WO2008006229A1;US2009307809A1;JP2009544019A
+</Also_published_as>
+</BiblioData>

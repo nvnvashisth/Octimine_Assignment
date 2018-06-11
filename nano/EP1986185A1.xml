@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Magnetic recording disk with identical servo patterns formed on each disk surface by single master template and disk drive using the disk
+</Title>
+<PublicationNumber>
+EP1986185A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ALBRECHT THOMAS R [US]
+</Name>
+<Name>
+BANDIC ZVONIMIR Z [US]
+</Name>
+<Name>
+ALBRECHT, THOMAS R
+</Name>
+<Name>
+BANDIC, ZVONIMIR Z
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HITACHI GLOBAL STORAGE TECH [NL]
+</Name>
+<Name>
+HITACHI GLOBAL STORAGE TECHNOLOGIES NETHERLANDS B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1986185
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080250621
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20070740289
+</PriorityNumber>
+<PriorityDate>
+2007-04-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B5/596
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B5/596P
+</Class>
+<Class>
+G11B5/74A
+</Class>
+<Class>
+G11B5/82
+</Class>
+<Class>
+G11B5/86B
+</Class>
+</NCL>
+<Abstract>
+A magnetic recording disk in a disk drive has identical pre-patterned servo patterns on its front and back surfaces. The servo patterns on each disk surface are pre-patterned with a single master template, resulting in the identical pattern on each disk surface. The servo sectors on the two disk surfaces can form identical patterns of angularly spaced arcuate-shaped lines or straight lines that extend radially across the data tracks. However, because the lines on at least one of the disk surfaces do not replicate the path of the recording head, the sampling rate of the servo sectors on that surface is not constant but varies with radial position of the head. To accommodate this, the disk drive&apos;s servo control system calculates a timing adjustment from an estimate of the radial position of the head and uses this timing adjustment to adjust the time to open a time window to allow detection of the servo sectors.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic recording disk having a first generally planar surface, a second generally planar surface opposite the first disk surface, and a central axis perpendicular to said surfaces, the disk comprising:
+</P>
+<P>
+a plurality of servo sectors on the first surface and forming a pattern of lines angularly spaced about said axis and extending in a generally radial direction, each servo sector comprising a plurality of discrete blocks of magnetic material; and
+</P>
+<P>
+a plurality of servo sectors on the second surface forming a pattern identical to the pattern on said first surface.
+</P>
+<P>
+2. The disk of claim 1 wherein each of the lines of said servo pattern on each of said surfaces are generally arcuate lines extending between radially inner and outer circles centered at said axis.
+</P>
+<P>
+3. The disk of claim 1 wherein each of the lines of said servo pattern on each of said surfaces are generally radially straight lines extending between radially inner and outer circles centered at said axis.
+</P>
+<P>
+4. The disk of claim 1 wherein each of said surfaces includes a layer of continuous magnetic material and said discrete blocks comprise magnetized blocks of said magnetic material.
+</P>
+<P>
+5. The disk of claim 1 wherein each of said surfaces includes a plurality of concentric circular data tracks of magnetizable material and guard bands of non-magnetizable material centered at said axis, wherein radially adjacent data tracks are separated by a guard band.
+</P>
+<P>
+6. The disk of claim 1 wherein each of said surfaces includes a plurality of concentric circular data tracks of discrete data islands of magnetizable material.
+</P>
+<P>
+7. The disk of claim 1 wherein the discrete blocks in each servo sector are arranged in angularly spaced fields including an automatic gain control (AGC) field, a sector identification (SID) field, a track identification field (TID), and a servo position error signal (PES) field.
+</P>
+<P>
+8. The disk of claim 1 wherein the discrete blocks in each servo sector are arranged in angularly spaced fields, said fields being generally symmetric about the center of the servo sector.
+</P>
+<P>
+9. The disk of claim 8 wherein the first of said angularly spaced fields is an automatic gain control (AGC) field, the second of said fields is a sector identification (SID) field, the next-to-last of said fields is a like SID field, and the last of said fields is a like AGC field.
+</P>
+<P>
+10. The disk of claim 1 wherein the discrete blocks in each servo sector are magnetized generally parallel to the surface on which they are formed.
+</P>
+<P>
+11. The disk of claim 1 wherein the discrete blocks in each servo sector are magnetized generally perpendicular to the surface on which they are formed.
+</P>
+<P>
+12. A magnetic recording disk having a first generally planar surface, a second generally planar surface opposite the first disk surface, and a central axis perpendicular to said surfaces, the disk comprising:
+</P>
+<P>
+a plurality of generally concentric circular data tracks of magnetic material on each of said surfaces, the data tracks being centered about said axis;
+</P>
+<P>
+a plurality of servo sectors on the first surface and forming a pattern of lines angularly spaced about said axis and extending in a generally radial direction across said data tracks, each servo sector comprising a plurality of discrete blocks of magnetic material, the blocks being arranged in angularly spaced fields along the data tracks, said fields being generally symmetric about the center of the servo sector; and
+</P>
+<P>
+a plurality of servo sectors on the second surface forming a pattern identical to the pattern on said first surface.
+</P>
+<P>
+13. The disk of claim 12 wherein each of the lines of said servo pattern on each of said surfaces are generally arcuate lines extending between radially inner and outer circles centered at said axis.
+</P>
+<P>
+14. The disk of claim 12 wherein each of the lines of said servo pattern on each of said surfaces are generally radially straight lines extending between radially inner and outer circles centered at said axis.
+</P>
+<P>
+15. The disk of claim 12 wherein each of said discrete blocks comprise magnetized blocks of said magnetic material.
+</P>
+<P>
+16. The disk of claim 12 wherein radially adjacent data tracks are separated by guard bands of non-magnetizable material.
+</P>
+<P>
+17. The disk of claim 12 wherein the discrete blocks in each servo sector are arranged in angularly spaced fields including an automatic gain control (AGC) field, a sector identification (SID) field, a track identification field (TID), and a servo position error signal (PES) field.
+</P>
+<P>
+18. A magnetic recording disk drive comprising:
+</P>
+<P>
+a rotatable magnetic recording disk having a front generally planar surface, a back generally planar surface opposite the front disk surface, and a central axis of rotation perpendicular to said surfaces, the disk comprising (a) a plurality of generally concentric circular data tracks of magnetic material on each of said surfaces, the data tracks being centered about said axis; (b) a plurality of servo sectors on the front surface and forming a pattern of lines angularly spaced about said axis and extending in a generally radial direction across said data tracks, each servo sector comprising a plurality of discrete blocks of magnetic material, the blocks being arranged in angularly spaced fields along the data tracks, one of said fields being a position error signal (PES) field; and (c) a plurality of servo sectors on the back surface forming a pattern identical to the pattern on said front surface;
+</P>
+<P>
+a first head that detects the servo sectors on the front surface;
+</P>
+<P>
+a second head that detects the servo sectors on the back surface;
+</P>
+<P>
+an actuator connected to the heads for positioning the heads to different data tracks and maintaining the heads on the data tracks;
+</P>
+<P>
+a servo control system coupled to the heads and the actuator, the servo control system including a processor for allowing detection of the PES fields during a specified time window and for generating an actuator control signal in response to detection of the PES fields by the heads; and
+</P>
+<P>
+memory coupled to the processor and containing a program of instructions readable by the processor, the program of instructions undertaking the method acts comprising estimating the radial position of the heads, calculating a time adjustment from the estimated position, and adjusting the time window using the calculated time adjustment.
+</P>
+<P>
+19. The disk drive of claim 18 wherein each of the lines of said servo pattern on each of said surfaces are generally arcuate lines extending between radially inner and outer circles centered at said axis, and wherein the act of calculating a time adjustment comprises the act of calculating a time adjustment only when the PES fields are detected by said second head.
+</P>
+<P>
+20. The disk drive of claim 18 wherein each of the lines of said servo pattern on each of said surfaces are generally radially straight lines extending between radially inner and outer circles centered at said axis, and wherein the act of calculating a time adjustment comprises the act of calculating a time adjustment when the PES fields are detected by said first head and when the PES fields are detected by said second head.
+</P>
+</Claims>
+<Also_published_as>
+US2008266701A1;US7652839B2;TW200849225A;SG147365A1;RU2008116550A;KR20080096386A;JP2008276911A;CN101295515A;BRPI0803930A2
+</Also_published_as>
+</BiblioData>

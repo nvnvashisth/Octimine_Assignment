@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PHOTONIC CRYSTAL SENSORS WITH INTEGRATED FLUID CONTAINMENT STRUCTURE
+</Title>
+<PublicationNumber>
+EP2091646A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CUNNINGHAM BRIAN T [US]
+</Name>
+<Name>
+CHOI CHARLES [US]
+</Name>
+<Name>
+CUNNINGHAM, BRIAN T
+</Name>
+<Name>
+CHOI, CHARLES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV ILLINOIS [US]
+</Name>
+<Name>
+SRU BIOSYSTEMS INC [US]
+</Name>
+<Name>
+THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS
+</Name>
+<Name>
+SRU BIOSYSTEMS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2091646
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070861768
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US23408
+</PriorityNumber>
+<PriorityDate>
+2007-11-06
+</PriorityDate>
+<PriorityNumber>
+US20060865093P
+</PriorityNumber>
+<PriorityDate>
+2006-11-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01L3/00
+</Class>
+<Class>
+G01N21/25
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01L3/5085
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01N21/25B2
+</Class>
+</NCL>
+<Abstract>
+Photonic crystal (PC) sensors, and sensor arrays and sensing systems incorporating PC sensors are described which have integrated fluid containment and/or fluid handling structures. Sensors and sensing systems of the present disclosure are capable of high throughput sensing of analytes in fluid samples, bulk refractive index detection, and label-free detection of a range of molecules, including biomolecules and therapeutic candidates. The present disclosure also provides a commercially attractive fabrication platform for making photonic crystal sensors and systems wherein an integrated fluid containment structure and a photonic crystal structure are fabricated in a single molding or imprinting processing step amendable to high throughput processing.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+We claim:
+</P>
+<P>
+1. A photonic crystal biosensor with an integrated fluid containment structure, the biosensor adapted for measurement of a sample, comprising:
+</P>
+<P>
+a fluid containment structure having a cavity for receiving said sample, said cavity having at least one internal surface; and
+</P>
+<P>
+a photonic crystal sensor comprising a periodic surface grating structure formed in the internal surface of said fluid containment structure;
+</P>
+<P>
+wherein said fluid containment structure and periodic surface grating structure of said photonic crystal sensor comprise a integral, monolithic structure.
+</P>
+<P>
+2. The sensor of claim 1, wherein said integral, monolithic structure comprises an integral polymer structure comprising an optically clear substrate layer, a cured polymer layer, and a relatively high index of refraction material deposited on the cured polymer layer.
+</P>
+<P>
+3. The sensor of claim 1, wherein said cavity comprises a sample well, and wherein the integral monolithic structure further comprises a port for receiving the sample, a channel having a surface, the channel providing a fluid path for connecting the port to the fluid containment structure, and a second photonic crystal sensor comprising a periodic surface grating structure formed in a surface of the channel.
+</P>
+<P>
+4. The sensor of claim 1 wherein said periodic surface grating structure comprises a nanosized structure, and wherein said cavity of said fluid containment structure comprises a micron-sized feature.
+</P>
+<P>
+5. The sensor of claim 4 wherein said periodic surface grating structure is formed on a bottom surface of said cavity and wherein said periodic surface grating structure extends from a first side of said cavity to a second side of said cavity.
+</P>
+<P>
+6. The sensor of claim 1, wherein the fluid containment structure comprises a microfiuidic flow channel, with the sample flowing through the flow channel over the photonic crystal structure.
+</P>
+<P>
+7. The sensor of claim 1, wherein the fluid containment structure comprises a micro well.
+</P>
+<P>
+8. The sensor of claim 1 further comprising a cover layer enclosing said fluid containment structure.
+</P>
+<P>
+9. The sensor of claim 9, wherein said cover layer has an inlet hole and an outlet hole for conducting the sample into and out of the fluid containment structure.
+</P>
+<P>
+10. The sensor of claim 1 wherein the integral, monolithic structure further comprises a polymer substrate supporting said fluid containment structure and said photonic crystal structure.
+</P>
+<P>
+11. The sensor of claim 1 further comprising a target material bound to the periodic grating structure of the photonic crystal structure.
+</P>
+<P>
+12. The sensor of claim 11 , wherein said target material is selected from the group of target materials consisting of proteins, peptides, DNA molecules, RNA molecules, oligonucleotides, lipids, carbohydrates, polysaccharides; glycoproteins, lipoproteins, sugars, cells, bacteria, virus, and candidate molecules.
+</P>
+<P>
+13. A biosensor comprising: an integral, monolithic substrate having a port, a plurality of sample wells connected to the port, and a plurality of flow channels connecting the port to the sample wells, and
+</P>
+<P>
+a plurality of photonic crystal sensors integrally formed in the structure, each of the sensors positioned in a flow channel connecting the port to the sample wells.
+</P>
+<P>
+14. The biosensor of claim 13, wherein each of the flow channels have substantially the same path length between the inlet port and the sample wells.
+</P>
+<P>
+15. The biosensor of claim 13 , wherein the plurality of photonic crystal sensors are spatially arranged in an aligned condition.
+</P>
+<P>
+16. The biosensor of claim 13, wherein the biosensor comprises an array of N x M sample wells, where N represents an integer number of rows of sample wells and M represents an integer number of columns of wells, wherein the biosensor includes an inlet port for each of the M columns of wells, and wherein each of the inlet ports are connected to each of the N wells in each column of wells by a flow channel, each flow channel in the biosensor incorporating a photonic crystal sensor.
+</P>
+<P>
+17. The biosensor of claim 16, wherein each of the columns of wells are in a substantially aligned condition and wherein the flow channels are constructed such that the photonic crystal sensors in the flow channels for each column of wells are also in a substantially aligned condition.
+</P>
+<P>
+18. The biosensor of claim 13, wherein each of the sample wells includes a photonic crystal sensor positioned within each of the sample wells.
+</P>
+<P>
+19. A method of making a photonic crystal sensor having an integrated fluid containment structure, said method comprising the steps of: providing a master template having an external surface with a pattern comprising a photonic crystal periodic surface grating structure and structure for forming a fluid containment structure, the periodic surface grating structure located within the structure forming the fluid containment structure;
+</P>
+<P>
+transferring the pattern of said master template to a material such that the material forms a fluid containment structure having a cavity with the photonic crystal periodic surface grating structure positioned within the cavity; and
+</P>
+<P>
+depositing a thin dielectric film on the photonic crystal periodic surface grating structure to thereby forming a photonic crystal sensor.
+</P>
+<P>
+20. The method of claim 19, wherein the cavity comprises a sample well.
+</P>
+<P>
+21. The method of claim 19, wherein the cavity comprises a fluid flow channel.
+</P>
+<P>
+22. The method of claim 19 wherein said step of transferring is carried out via replica molding.
+</P>
+<P>
+23. The method of claim 21 wherein said step of transferring is carried out via imprint lithography.
+</P>
+<P>
+24. The method of claim 21 wherein said material comprises a curable fluid material, and wherein said step of transferring comprises the steps of: contacting said external surface of said master template with the curable fluid material, wherein said curable fluid material conforms to the shape of the external surface of the master template; curing said curable fluid material while in contact with the external surface of the master template; and separating the cured fluid material from the master template.
+</P>
+<P>
+25. The method of claim 18, wherein the external surface of the master template is configured to form a plurality of sample wells, at least one port, and fluid channels connecting the port to the sample wells, and wherein the external surface is patterned to form a photonic crystal periodic surface grating in at least one of 1) each of the fluid channels, and 2) each of the sample wells.
+</P>
+</Claims>
+<Also_published_as>
+WO2008060415A1;US2008219615A1;US7742662B2;US2008265137A1;US7531786B2;NZ576760A;JP2010509590A;CA2668943A1;AU2007319975A1;AU2007319975B2
+</Also_published_as>
+</BiblioData>

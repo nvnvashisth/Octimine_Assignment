@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method and system for detection of a selected type of molecules in a sample
+</Title>
+<PublicationNumber>
+EP2053400A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MERTENS JOHANN [ES]
+</Name>
+<Name>
+TAMAYO DE MIGUEL FRANCISCO JAVIER [ES]
+</Name>
+<Name>
+CALLEJA GOMEZ MONTSERRAT [ES]
+</Name>
+<Name>
+VEGA RAMOS DANIEL [ES]
+</Name>
+<Name>
+ROGERO BLANCO CELIA [ES]
+</Name>
+<Name>
+MARTIN GAGO JOSE ANGEL [ES]
+</Name>
+<Name>
+BRIONES LLORENTE CARLOS [ES]
+</Name>
+<Name>
+MERTENS, JOHANN
+</Name>
+<Name>
+TAMAYO DE MIGUEL, FRANCISCO JAVIER
+</Name>
+<Name>
+CALLEJA GOMEZ, MONTSERRAT
+</Name>
+<Name>
+VEGA RAMOS, DANIEL
+</Name>
+<Name>
+ROGERO BLANCO, CELIA
+</Name>
+<Name>
+MARTIN GAGO, JOSE ANGEL
+</Name>
+<Name>
+BRIONES LLORENTE, CARLOS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CONSEJO SUPERIOR INVESTIGACION [ES]
+</Name>
+<Name>
+INTA INST NAC DE TECNICA AEROE [ES]
+</Name>
+<Name>
+CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
+</Name>
+<Name>
+INTA INSTITUTO NACIONAL DE TECNICA AEROESPACIAL
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2053400
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070380283
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-10-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070380283
+</PriorityNumber>
+<PriorityDate>
+2007-10-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N33/543
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N33/543K2
+</Class>
+</NCL>
+<Abstract>
+The present invention refers to a method for detecting molecules and/or substances within a sample based on the use of a microcantilever system. The method comprises the variation of a certain condition such as humidity so as the mechanical feature analysed varies with a characteristic pattern while the target molecule is bound to the detector. The invention also refers to the system used to carry out such method.
+</Abstract>
+<Claims>
+<P>
+1. Method for detection of a selected type of molecules or substance in a sample, comprising the steps of:
+</P>
+<P>
+a) bringing a receptor surface of a mechanical element in contact with the sample, said receptor surface being arranged to interact with said target molecules or substance when said molecules or substance are present in said sample, the mechanical element being arranged so that at least one detectable mechanical feature of said element changes when said receptor surface interacts with said molecules or substance;
+</P>
+<P>
+b) measuring said mechanical feature to obtain data regarding said mechanical feature;
+</P>
+<P>
+c) based on said data, determining if the sample contains said type of molecules or substance;characterised in that
+</P>
+<P>
+at least one condition to which at least the receptor surface of the mechanical element is subjected is varied, whereby said mechanical feature is measured a plurality of times, so that the data regarding said mechanical feature are obtained for different values of said condition, whereby the relation between said data and said values of the condition are used to determine if the sample contains said type of molecules or substance or to determine associative phenomena between the receptor surface and the detected molecules or substance.
+</P>
+<P>
+2. Method according to claim 1 wherein said condition is selected from: the temperature, the relative humidity, the pH and ionic strength of the fluid in which the mechanical element is placed, the relative content of a mixture of gases or liquids in which the mechanical element is placed, the radiation to which the receptor surface is subjected, the electrical field or the magnetic field.
+</P>
+<P>
+3. Method according to claim 2, wherein said condition is humidity or relative humidity, so that the humidity to which the receptor surface of the mechanical element is subjected is varied, whereby said mechanical feature is measured for different values of the humidity, so that the data regarding said mechanical feature are obtained for different levels of humidity, whereby the relation between said data and said levels of humidity is used to determine if the sample contains said type of molecules or substance.
+</P>
+<P>
+4. Method according to any of the preceding claims, wherein the mechanical feature is the curvature of a portion of the mechanical element.
+</P>
+<P>
+5. Method according to claims 1 to 3, wherein the mechanical feature is the position of a portion of the mechanical element.
+</P>
+<P>
+6. Method according to claims 1 to 3, wherein the mechanical feature is at least one vibration characteristic of the mechanical element.
+</P>
+<P>
+7. Method according to claims 1 to 3, wherein the mechanical feature is surface stress on a portion of the mechanical element.
+</P>
+<P>
+8. Method according to any of the preceding claims, wherein the mechanical element is a cantilever, one surface of said cantilever being the receptor surface.
+</P>
+<P>
+9. Method according to any of the preceding claim where the detected target molecules are nucleic acids (DNA, RNA or PNA) molecules.
+</P>
+<P>
+10. Method according to claims 1 to 3 where the detected molecules are proteins or peptides.
+</P>
+<P>
+11. Method according to claims 1 to 3, where the detected substance are eukaryotic cells, bacteria, viruses or viroids.
+</P>
+<P>
+12. Method according to claims 1 to 3 wherein the associative phenomenon determined is a DNA-DNA hybridization phenomenon, a DNA-PNA hybridization, a DNA-RNA hybridization, a PNA-RNA hybridization, an antibody-antigen interaction involving a polyclonal or monoclonal antibody, an aptamer-ligand interaction, a enzyme-substrate interaction, a ribozyme-substrate interaction, a protein-ligand interaction, a cell-cell adhesion phenomenon, a virus-cell adhesion phenomenon, a viroid-cell adhesion phenomenon or a bacteria-eukaryotic cell adhesion phenomenon
+</P>
+<P>
+13. Method according to claim 12 where the DNA hybridization phenomenon determined is characterized by containing one or more nucleotide mismatches between probe and target.
+</P>
+<P>
+14. Method according to claim 12 where the antibody-antigen phenomenon determined is an antibody-epitope association.
+</P>
+<P>
+15. Method according to claim 8, wherein said cantilever is part of a cantilever array, wherein the method is performed on said cantilever array so as to detect the presence of a plurality of different types of molecules in the sample, said different types of molecules being associated with different cantilevers of said cantilever array.
+</P>
+<P>
+16. Method according to any of the preceding claims, wherein the step of measuring the mechanical feature comprises directing a light beam against a surface of said mechanical element, receiving a light beam reflected off said mechanical element with a position sensitive detector (2) arranged to produce at least one output signal in response to receipt of said light beam.
+</P>
+<P>
+17. System for surface inspection arranged to detect relative displacement and/or vibration characteristics of a plurality of points of a plurality of elements (51) forming part of a mechanical structure (5), said system comprising:
+</P>
+<P>
+- a light source (1) arranged to generate at least one light beam (11);
+</P>
+<P>
+- a position sensitive detector (2) arranged to receive the light beam when reflected off the mechanical structure (5) and to produce at least one output signal in response to receipt of said light beam;
+</P>
+<P>
+- an electronic control system (3); - scan means (4) for relative displacement of said light beam with respect to the mechanical structure (5) so as to scan said mechanical structure with the light beam, following instructions from the electronic control system (3).
+</P>
+<P>
+18. System according to claim 17 wherein said electronic control system (3) is arranged to control the scan means (4) so as to displace the light beam along the mechanical structure along a first trajectory (A), so as to detect a plurality of subsequent reference positions (C) along said first trajectory (A), wherein said electronic control system (3) is operatively associated with said position sensitive detector (2) so as to determine said reference positions (C) as a result of an analysis of at least one output signal from said position sensitive detector (2).
+</P>
+<P>
+19. System according to claim 17 wherein said electronic control system (3) is further arranged to control the scan means (4) so as to displace the light beam along the mechanical structure along a plurality of second trajectories (B), each of said second trajectories (B) being associated with one of said reference positions (C).
+</P>
+<P>
+20. System according to claim 17 wherein said electronic control system further being arranged to obtain, during the displacement of the light beam along each of said second trajectories (B), a plurality of position signal outputs from said position sensitive detector (2) and characterised in that the mechanical structure is arranged within a chamber (6) with means for varying and controlling a condition (7).
+</P>
+<P>
+21. System for surface inspection according to claim 17 wherein the chamber has means for controlling relative humidity conditions within the chamber.
+</P>
+</Claims>
+<Also_published_as>
+US2011039255A1;RU2010120697A;MX2010004335A;JP2011502247A;WO2009053195A1;EP2215476A1;CN101971028A;CA2703294A1;AU2008315335A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Nanocrystals
+</Title>
+<PublicationNumber>
+EP2159044A1
+</PublicationNumber>
+<Inventor>
+<Name>
+NAASANI IMAD [US]
+</Name>
+<Name>
+NAASANI, IMAD
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+LIFE TECHNOLOGIES CORP [US]
+</Name>
+<Name>
+LIFE TECHNOLOGIES CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2159044
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090172526
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2002-09-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20020803277
+</PriorityNumber>
+<PriorityDate>
+2002-09-17
+</PriorityDate>
+<PriorityNumber>
+US20010322982P
+</PriorityNumber>
+<PriorityDate>
+2001-09-17
+</PriorityDate>
+<PriorityNumber>
+US20020379208P
+</PriorityNumber>
+<PriorityDate>
+2002-05-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B32B9/00
+</Class>
+<Class>
+B82B1/00
+</Class>
+<Class>
+C01B19/04
+</Class>
+<Class>
+C09K11/08
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/58
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N33/58J
+</Class>
+</NCL>
+<Abstract>
+Provided herein are compositions of functionalized, fluorescent nanocrystals comprising fluorescent nanocrystals coated with an imidazole-containing compound;  compositions of funcionalized, fluorescent nanocrystals comprising fluorescent nanocrystals coated with an imidazole-containing compound and cross-linked with a phosphine cross-linking compound;  compositions of functionalized fluorescent nanocrystals operably bound to molecular probe;  a process of making funcionalized, fluorescent nanocrystals;  and a process of using funcionalized, fluorescent nanocrystals in a detection system.
+</Abstract>
+<Claims>
+<P>
+1. A functionalized fluorescent nanocrystal comprising:
+</P>
+<P>
+- a fluorescent nanocrystal; and
+</P>
+<P>
+- a coating over said fluorescent nanocrystal, wherein said coating comprises complexes comprised of imidazole-containing compound operably bound to a metal cation, where the imidazole ring nitrogens serve as co-ordinating ligand to operably bind the metal ion;optionally wherein said fluorescent nanocrystal is selected from core semiconductor materials, core/shell semiconductor nanocrystals, doped metal oxide nanocrystals, and combinations thereof.
+</P>
+<P>
+2. The functionalized fluorescent nanocrystal of claim 1, wherein said metal cation comprises semiconductor material.
+</P>
+<P>
+3. The functionalized fluorescent nanocrystal of claim 1, wherein the metal cation comprises one or more of Zn&amp;lt;2+&amp;gt;, Cu&amp;lt;2+&amp;gt;, Fe&amp;lt;2+&amp;gt;, Ni&amp;lt;2+&amp;gt;, Cd&amp;lt;2+&amp;gt; and Co&amp;lt;2+&amp;gt;.
+</P>
+<P>
+4. The functionalized fluorescent nanocrystal of any preceding claim, wherein the coating comprises imidazole-containing compound operably bound to Cd&amp;lt;2+&amp;gt; or Zn&amp;lt;2+&amp;gt; by imidazole complexation.
+</P>
+<P>
+5. The functionalized fluorescent nanocrystal of any preceding claim, wherein said metal cation is Zn&amp;lt;2+&amp;gt; operably bound to a sulfur containing compound.
+</P>
+<P>
+6. The functionalized fluorescent nanocrystal of any preceding claim, further comprising a molecular probe, one or more molecules of which are operably bound to the coated fluorescent material.
+</P>
+<P>
+7. The functionalized fluorescent nanocrystal of any preceding claim, further comprising cross-linking of the coating, optionally wherein the reactive functionalities used to cross-link are selected from amino groups, carboxyl groups, and a combination thereof.
+</P>
+<P>
+8. The functionalized fluorescent nanocrystal of any preceding claim, wherein the coating further comprises a phosphine cross-linking compound, optionally wherein the phosphine cross-linking compound comprises a hydroxymethyl-phosphine compound.
+</P>
+<P>
+9. The functionalized fluorescent nanocrystal of any preceding claim, wherein the imidazole-containing compound comprises an amino acid or an oligopeptide.
+</P>
+<P>
+10. The functionalized fluorescent nanocrystal of claim 9, wherein the imidazole-containing compound comprises a dipeptide.
+</P>
+<P>
+11. The functionalized fluorescent nanocrystal of any of claims 1 to 10, wherein the imidazole-containing compound comprises histidine, carnosine, anserine, baleine, homocarnasine, 1-methylhistidine, 3-methylhistidine, imidazolysine, 5-methylimidazalone, [beta]-2-imidazolyl-L-a-alanine, carcine or histamine, and optionally wherein the imidazole-containing compound comprises histidine or carnosine.
+</P>
+<P>
+12. The nanocrystal of any preceding claim, wherein the nanocrystal is comprised of a core comprised of at least one Group II-VI semiconductor material, and optionally coated with a Group II-VI semiconductor shell.
+</P>
+<P>
+13. The nanocrystal of claim 12, wherein the nanocrystal is comprised of ZnS, or CdSe.
+</P>
+<P>
+14. The nanocrystal of any of claim 12 or claim 13, wherein the semiconductor core is coated with a shell comprised of YZ wherein Y is Cd or Zn, and Z is S or Se, and the imidazole-containing compound.
+</P>
+<P>
+15. A detection system, comprising a functionalized fluorescent nanocrystal of any preceding claim and an excitation source suitable to elicit fluorescence from the coated fluorescent nanocrystal.
+</P>
+</Claims>
+<Also_published_as>
+EP2159044B1;US2003059635A1;US6955855B2;US2005112376A1;US7198847B2;WO03054507A2;WO03054507A3;JP2010048812A;JP2005513471A;EP1456022A2;EP1456022A4;EP1456022B1;AU2002365124A8;AU2002365124A1;AT448077T
+</Also_published_as>
+</BiblioData>

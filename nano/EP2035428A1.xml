@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DIKETOPYRROLOPYRROLE POLYMERS AS ORGANIC SEMICONDUCTORS
+</Title>
+<PublicationNumber>
+EP2035428A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TURBIEZ MATHIEU G R [FR]
+</Name>
+<Name>
+JANSSEN RENE ALBERT JOHAN [NL]
+</Name>
+<Name>
+WIENK MARTINUS MARIA [NL]
+</Name>
+<Name>
+KIRNER HANS JUERG [CH]
+</Name>
+<Name>
+DUEGGELI MATHIAS [CH]
+</Name>
+<Name>
+TIEKE BERND [DE]
+</Name>
+<Name>
+ZHU YU [DE]
+</Name>
+<Name>
+TURBIEZ, MATHIEU G. R
+</Name>
+<Name>
+JANSSEN, RENE ALBERT JOHAN
+</Name>
+<Name>
+WIENK, MARTINUS MARIA
+</Name>
+<Name>
+KIRNER, HANS JUERG
+</Name>
+<Name>
+DUEGGELI, MATHIAS
+</Name>
+<Name>
+TIEKE, BERND
+</Name>
+<Name>
+ZHU, YU
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CIBA HOLDING INC [CH]
+</Name>
+<Name>
+CIBA HOLDING INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2035428
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070786763
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP56102
+</PriorityNumber>
+<PriorityDate>
+2007-06-20
+</PriorityDate>
+<PriorityNumber>
+EP20060116391
+</PriorityNumber>
+<PriorityDate>
+2006-06-30
+</PriorityDate>
+<PriorityNumber>
+EP20060119228
+</PriorityNumber>
+<PriorityDate>
+2006-08-21
+</PriorityDate>
+<PriorityNumber>
+EP20070786763
+</PriorityNumber>
+<PriorityDate>
+2007-06-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C07D487/04
+</Class>
+<Class>
+C08G61/12
+</Class>
+<Class>
+C08G73/06
+</Class>
+<Class>
+C09K11/06
+</Class>
+<Class>
+H01L27/32
+</Class>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C07D487/04
+</Class>
+<Class>
+C08G61/00
+</Class>
+<Class>
+C08G61/02
+</Class>
+<Class>
+C08G61/12D
+</Class>
+<Class>
+C08G61/12D1B
+</Class>
+<Class>
+C08G61/12D1F
+</Class>
+<Class>
+C09B69/10R
+</Class>
+<Class>
+H01L51/00M2B2
+</Class>
+<Class>
+H01L51/00M2F
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to polymers comprising a repeating unit of the formula (l) and their use as organic semiconductor in organic devices, especially a diode, an organic field effect transistor and/or a solar cell, or a device containing a diode and/or an organic field effect transistor, and/or a solar cell. The polymers according to the invention have excellent solubility in organic solvents and excellent film-forming properties. In addition, high efficiency of energy conversion, excellent field-effect mobility, good on/off current ratios and/or excellent stability can be observed, when the polymers according to the invention are used in semiconductor devices or organic photovoltaic (PV) devices (solar cells).
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A polymer comprising (repeating) unit(s) of the formula
+</P>
+<P>
+(I), wherein a, b, c, d, e and f are 0 to 200, especially 0, 1 , 2, or 3;
+</P>
+<P>
+Ar&amp;lt;1&amp;gt; and Ar&amp;lt;1&amp;gt; are independently of each other a group of formula
+</P>
+<P>
+Ar&amp;lt;2&amp;gt;, Ar&amp;lt;2&amp;gt; , Ar&amp;lt;3&amp;gt;, Ar&amp;lt;3&amp;gt; , Ar&amp;lt;4&amp;gt; and Ar&amp;lt;4&amp;gt; are independently of each other a group of formula
+</P>
+<P>
+p stands for 0, 1 , 2, 3 or 4, if possible,
+</P>
+<P>
+R&amp;lt;1&amp;gt; and R&amp;lt;2&amp;gt; may be the same or different and are selected from hydrogen, a CrC25alkyl group, an alkenyl group, an alkynyl group, which may optionally be substituted by E and/or interrupted by D, an allyl group, which can be substituted one to three times with Ci-C4alkyl; a cycloalkyl group, which can be substituted one to three times with d-C8alkyl, Ci-C8thioalkoxy, or Ci-C8alkoxy, or a cycloalkyl group, which can be condensed one or two times by phenyl, which can be substituted one to three times with Ci-C4-alkyl, halogen, nitro or cyano; a cycloalkenyl group, a ketone or aldehyde group, an ester group, a carbamoyl group, a silyl group, a siloxanyl group, Ar&amp;lt;10&amp;gt; or - CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;-(CH2)g-Ar&amp;lt;10&amp;gt;, wherein
+</P>
+<P>
+R&amp;lt;5&amp;gt; and R&amp;lt;6&amp;gt; independently from each other stand for hydrogen, fluorine, cyano or d- C4alkyl, which can be substituted by fluorine, chlorine or bromine, or phenyl, which can be substituted one to three times with CrC4alkyl, Ar&amp;lt;10&amp;gt; stands for aryl or heteroaryl, which may optionally be substituted by G, in particular phenyl or 1- or 2-naphthyl which can be substituted one to three times with CrC8alkyl, d-C[beta]thioalkoxy, and/or Ci-C8alkoxy, and g stands for 0, 1 , 2, 3 or 4, R&amp;lt;3&amp;gt; may be the same or different within one group and is selected from Ci-C25alkyl, which may optionally be substituted by E and/or interrupted by D, C6-C24aryl, which may optionally be substituted by G, C2-C2oheteroaryl, which may optionally be substituted by G, d-d8alkoxy, which may optionally be substituted by E and/or interrupted by D, C7-C25aralkyl, wherein ar (=aryl) of aralkyl may optionally be substituted by G, or -CO-R&amp;lt;28&amp;gt;, or two or more groups R&amp;lt;3&amp;gt; which are in the neighbourhood to each other, form a ring; R&amp;lt;4&amp;gt;, R&amp;lt;4&amp;gt; , R&amp;lt;7&amp;gt; and R&amp;lt;7&amp;gt; independently from each other stand for hydrogen, Ci-C25alkyl, which may optionally be substituted by E and/or interrupted by D, C6-C24aryl, which may optionally be substituted by G, C2-C2oheteroaryl, which may optionally be substituted by G, d-d[beta]alkoxy, which may optionally be substituted by E and/or interrupted by D, C7- C25aralkyl, wherein ar (=aryl) of aralkyl may optionally be substituted by G, or -CO-R&amp;lt;28&amp;gt;; or R&amp;lt;4&amp;gt; and R&amp;lt;4&amp;gt; form a ring; D is -CO-; -COO-; -S-; -SO-; -SO2-; -O-; -NR&amp;lt;25&amp;gt;-; -CR&amp;lt;23&amp;gt;=CR&amp;lt;24&amp;gt;-; or -C[identical to]C-; and
+</P>
+<P>
+E is -OR&amp;lt;29&amp;gt;; -SR&amp;lt;29&amp;gt;; -NR&amp;lt;25&amp;gt;R&amp;lt;26&amp;gt;; -COR&amp;lt;28&amp;gt;; -COOR&amp;lt;27&amp;gt;; -CONR&amp;lt;25&amp;gt;R&amp;lt;26&amp;gt;; -CN; or halogen; G is E, d-Ci[beta]alkyl, which may be interrupted by D, or Ci-Ci[beta]alkoxy which is substituted by E and/or interrupted by D, wherein R&amp;lt;23&amp;gt;, R&amp;lt;24&amp;gt;, R&amp;lt;25&amp;gt; and R&amp;lt;26&amp;gt; are independently of each other H; C6-Ci8aryl; C6-d8aryl which is substituted by Ci-Ci8alkyl, or Ci-Ci[beta]alkoxy; Ci-Ci8alkyl; or Ci-Ci8alkyl which is interrupted by -O-;
+</P>
+<P>
+R&amp;lt;27&amp;gt; and R&amp;lt;28&amp;gt; are independently of each other H; C6-Ci8aryl; C6-Ci8aryl which is substituted by Ci-Ci8alkyl, or Ci-Ci8alkoxy; Ci-Ci8alkyl; or Ci-Ci8alkyl which is interrupted by -O-, R&amp;lt;29&amp;gt; is H; C6-Ci8aryl; C6-Ci8aryl, which is substituted by Ci-Ci8alkyl, or Ci-Ci8alkoxy; d-
+</P>
+<P>
+Ci8alkyl; or Ci-Ci8alkyl which is interrupted by -O-, R&amp;lt;109&amp;gt; and R&amp;lt;110&amp;gt; are independently of each other H, d-dsalkyl, d-dsalkyl which is substituted by E and/or interrupted by D, C6-C24aryl, C6-C24aryl which is substituted by
+</P>
+<P>
+G, C2-C2oheteroaryl, C2-C2oheteroaryl which is substituted by G, C2-Ci8alkenyl, C2-
+</P>
+<P>
+Ci8alkynyl, CrCi8alkoxy, CrCi8alkoxy which is substituted by E and/or interrupted by
+</P>
+<P>
+D, or C7-C25aralkyl, or
+</P>
+<P>
+R&amp;lt;109&amp;gt; and R&amp;lt;110&amp;gt; together form a group of formula =CR&amp;lt;100&amp;gt;R&amp;lt;101&amp;gt;, wherein
+</P>
+<P>
+R&amp;lt;100&amp;gt; and R&amp;lt;101&amp;gt; are independently of each other H, d-Ci[beta]alkyl, d-dsalkyl which is substituted by E and/or interrupted by D,
+</P>
+<P>
+C6-C24aryl which is substituted by
+</P>
+<P>
+G, or C2-C2oheteroaryl, or d:-d:oheteroaryl which is substituted by G, or
+</P>
+<P>
+R&amp;lt;109&amp;gt; and R&amp;lt;110&amp;gt; together form a five or six membered ring, which optionally can be substituted by d-dsalkyl, d-dsalkyl which is substituted by E and/or interrupted by D,
+</P>
+<P>
+C6-C24aryl, C6-C24aryl which is substituted by G, C2-C2oheteroaryl, C2-C2oheteroaryl which is substituted by G, C2-Ci8alkenyl, C2-Ci8alkynyl, d-d8alkoxy, d-d8alkoxy which is substituted by E and/or interrupted by D, d-dsaralkyl, or -C(=O)-R&amp;lt;18&amp;gt;,
+</P>
+<P>
+R&amp;lt;111&amp;gt; is H, a d-dsalkyl group, a C4-d8cycloalkyl group, a d-dsalkoxy group, in which one or more carbon atoms which are not in neighbourhood to each other could be replaced by -O-, -S-, or -C(=O)-O-, and/or wherein one or more hydrogen atoms can be replaced by F, a C6-d:4aryl group, or a C6-d:4aryloxy group, wherein one or more carbon atoms can be replaced by O, S, or N, and/or which can be substituted by one or more non-aromatic groups R&amp;lt;111&amp;gt;; m can be the same or different at each occurence and is 0, 1 , 2, or 3, especially 0, 1 , or
+</P>
+<P>
+2, very especially 0 or 1 ;
+</P>
+<P>
+X&amp;lt;1&amp;gt; is a hydrogen atom, or a cyano group,
+</P>
+<P>
+with the proviso that, if Ar&amp;lt;1&amp;gt; and Ar&amp;lt;1&amp;gt; are a group of formula nd a and d are
+</P>
+<P>
+both 1 and Ar&amp;lt;2&amp;gt; and Ar&amp;lt;2&amp;gt; are different from a group of formula
+</P>
+<P>
+or with the proviso that, if Ar&amp;lt;1&amp;gt; and Ar&amp;lt;1&amp;gt; are a group of formula
+</P>
+<P>
+a and d are not 0; and with the proviso, that a polymer of the formula
+</P>
+<P>
+is excluded.
+</P>
+<P>
+2. The polymer according to claim 1 , wherein R&amp;lt;1&amp;gt; and R&amp;lt;2&amp;gt; are independently from each other hydrogen, Ci-C25alkyl, which can optionally be interrupted by one or more oxygen atoms, C5-Ci2-cycloalkyl, especially cyclohexyl, which can be substituted one to three times with d-C8alkyl and/or CrC8alkoxy, or C5-Ci2cycloalkyl, especially cyclohexyl, which can be condensed one or two times by phenyl, which can be substituted one to three times with CrC4alkyl, halogen, nitro or cyano, phenyl or 1- or 2-naphthyl which can be substituted one to three times with d-C[beta]alkyl and/or d-C[beta]alkoxy, or -CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;- (CH2)g-Ar&amp;lt;10&amp;gt; wherein R&amp;lt;5&amp;gt; and R&amp;lt;6&amp;gt; stand for hydrogen, Ar&amp;lt;10&amp;gt; stands for phenyl or 1- or 2-naphthyl, which can be substituted one to three times with d-C[beta]alkyl and/or d- C8alkoxy, and g stands for 0 or 1.
+</P>
+<P>
+3. The polymer according to claim 1 , or 2, wherein Ar&amp;lt;1&amp;gt; and Ar&amp;lt;1&amp;gt; are the same and are a group of formula
+</P>
+<P>
+, especially , or , and
+</P>
+<P>
+Ar&amp;lt;2&amp;gt;, Ar&amp;lt;2&amp;gt; , Ar&amp;lt;3&amp;gt;, Ar&amp;lt;3&amp;gt; , Ar&amp;lt;4&amp;gt; and Ar&amp;lt;4&amp;gt; are independently of each other a group of formula
+</P>
+<P>
+, or , wherein p stands for 0, 1 , or 2, R&amp;lt;3&amp;gt; may be the same or different within one group and is selected from CrC2
+</P>
+<P>
+5alkyl, which may optionally be substituted by E and/or interrupted by D, or d-C-i[beta]alkoxy, which may optionally be substituted by E and/or interrupted by D;
+</P>
+<P>
+R&amp;lt;4&amp;gt; is C6-C25alkyl, which may optionally be substituted by E and/or interrupted by D, C6-
+</P>
+<P>
+Ci4aryl, such as phenyl, naphthyl, or biphenylyl, which may optionally be substituted by
+</P>
+<P>
+G, CrC25alkoxy, which may optionally be substituted by E and/or interrupted by D, or
+</P>
+<P>
+C7-Ci5aralkyl, wherein ar may optionally be substituted by G,
+</P>
+<P>
+D is -CO-, -COO-, -S-, -SO-, -SO2-, -O-, -NR&amp;lt;25&amp;gt;-, wherein R&amp;lt;25&amp;gt; is CrCi2alkyl, such as methyl, ethyl, n-propyl, iso-propyl, n-butyl, isobutyl, or sec-butyl;
+</P>
+<P>
+E is -OR&amp;lt;29&amp;gt;; -SR&amp;lt;29&amp;gt;; -NR&amp;lt;25&amp;gt;R&amp;lt;25&amp;gt;; -COR&amp;lt;28&amp;gt;; -COOR&amp;lt;27&amp;gt;; -CONR&amp;lt;25&amp;gt;R&amp;lt;25&amp;gt;; or -CN; wherein R&amp;lt;25&amp;gt;, R&amp;lt;27&amp;gt;,
+</P>
+<P>
+R&amp;lt;28&amp;gt; and R&amp;lt;29&amp;gt; are independently of each other Ci-Ci2alkyl, such as methyl, ethyl, n- propyl, iso-propyl, n-butyl, isobutyl, sec-butyl, hexyl, octyl, or 2-ethyl-hexyl, or C6-Ci4 aryl, such as phenyl, naphthyl, or biphenylyl,
+</P>
+<P>
+G has the same preferences as E, or is C-i-C-i[beta]alkyl, especially CrCi2alkyl, such as methyl, ethyl, n-propyl, iso-propyl, n-butyl, isobutyl, sec-butyl, hexyl, octyl, or 2-ethyl- hexyl.
+</P>
+<P>
+. 4 i r . 3 i r . 2 l . 1 -Ar-H- Ar-H-Ar^- Ar-
+</P>
+<P>
+Jc L Jb L Ja
+</P>
+<P>
+The polymer according to claim 3, wherein and
+</P>
+<P>
+may be different, but are preferably the same and are
+</P>
+<P>
+a group of formula
+</P>
+<P>
+indicates the bond to the diketopyrrolopyrrole skeleton, and R&amp;lt;4&amp;gt; is as defined in claim 3 and R&amp;lt;4&amp;gt; has the meaning of R&amp;lt;4&amp;gt;. The polymer according to any of claims 1 to 4, wherein the polymer comprise repeating units of the formula
+</P>
+<P>
+wherein a, b, c, d, e, f, R&amp;lt;1&amp;gt;, R&amp;lt;2&amp;gt;, Ar&amp;lt;1&amp;gt;, Ar&amp;lt;1&amp;gt; , Ar&amp;lt;2&amp;gt;, Ar&amp;lt;2&amp;gt; , Ar&amp;lt;3&amp;gt;, Ar&amp;lt;3&amp;gt; , Ar&amp;lt;4&amp;gt; and Ar&amp;lt;4&amp;gt; are as defined in claim 1 , h is 1 , and
+</P>
+<P>
+Ar&amp;lt;5&amp;gt; is a group of formula
+</P>
+<P>
+or wherein R&amp;lt;7&amp;gt; and R&amp;lt;7&amp;gt; are as defined in claim 1 ; or the polymer has the structure of formula
+</P>
+<P>
+*-f First Repeating Unit U-Branching Unit J-*
+</P>
+<P>
+(HI), wherein the First Repeating Unit is a repeating unit of formula I according to claim 1 , the Branching Unit is a unit having more than two linkage sites, and q and t are integers.
+</P>
+<P>
+The polymer according to any of claims 1 to 5, comprising repeating units of the formula
+</P>
+<P>
+, especially
+</P>
+<P>
+, wherein
+</P>
+<P>
+R&amp;lt;1&amp;gt; and R&amp;lt;2&amp;gt; are independently from each other Ci-C25alkyl, and R&amp;lt;3&amp;gt; and R&amp;lt;3&amp;gt; are independently from each other C6-C25alkyl, which may optionally be interrupted by one or more oxygen atoms,
+</P>
+<P>
+R&amp;lt;4&amp;gt; and R&amp;lt;4&amp;gt; are independently from each other C6-C25alkyl, which may optionally be interrupted by one or more oxygen atoms, and
+</P>
+<P>
+R&amp;lt;7&amp;gt; and R&amp;lt;7&amp;gt; are independently from each other C6-C25alkyl, which may optionally be interrupted by one or more oxygen atoms.
+</P>
+<P>
+7. A semiconductor device, comprising a polymer of the formula I according to claim 1 , especially a diode, a photodiode, an organic field effect transistor and/or a solar cell, or a device containing a diode and/or a photodiode and/or an organic field effect transistor, and/or a solar cell.
+</P>
+<P>
+8. Process for the preparation of an organic semiconductor device, which process comprises applying a solution and/or dispersion of a polymer of the formula I according to claim 1 in an organic solvent to a suitable substrate and removing the solvent.
+</P>
+<P>
+9. A monomer of the formula
+</P>
+<P>
+(Xl), wherein
+</P>
+<P>
+B and C are independently of each other an optionally condensed aromatic, or heteroaromatic ring, a, b, c, d, e, f, R&amp;lt;1&amp;gt;, R&amp;lt;2&amp;gt;, Ar&amp;lt;1&amp;gt;, Ar&amp;lt;1&amp;gt; , Ar&amp;lt;2&amp;gt;, Ar&amp;lt;2&amp;gt; , Ar&amp;lt;3&amp;gt;, Ar&amp;lt;3&amp;gt; , Ar&amp;lt;4&amp;gt; and Ar&amp;lt;4&amp;gt; are as defined in claim 1 and X is ZnX&amp;lt;12&amp;gt;, -SnR&amp;lt;207&amp;gt;R&amp;lt;208&amp;gt;R&amp;lt;209&amp;gt;, wherein R&amp;lt;207&amp;gt;, R&amp;lt;208&amp;gt; and R&amp;lt;209&amp;gt; are identical or different and are H or d-C6alkyl, wherein two radicals optionally form a common ring and these radicals are optionally branched or unbranched and X&amp;lt;12&amp;gt; is a halogen atom, very
+</P>
+<P>
+especially I, or Br; or -OS(O)2CF3, -OS(O)2-aryl, especially
+</P>
+<P>
+OS(O)2CH3, -B(OH)2, -B(OY&amp;lt;1&amp;gt;)2,
+</P>
+<P>
+, -BF4Na, or -BF4K, wherein Y&amp;lt;1&amp;gt; is independently in each occurrence a CrCioalkyl group and Y&amp;lt;2&amp;gt; is independently in each occurrence a C2-Ci0alkylene group, such as -CYV-CY&amp;lt;5&amp;gt;Y&amp;lt;6&amp;gt;-, or -CY&amp;lt;7&amp;gt;Y&amp;lt;8&amp;gt;-CY&amp;lt;9&amp;gt;Y&amp;lt;10&amp;gt;- CY&amp;lt;11&amp;gt;Y&amp;lt;12&amp;gt;-, wherein Y&amp;lt;3&amp;gt;, Y&amp;lt;4&amp;gt;, Y&amp;lt;5&amp;gt;, Y&amp;lt;6&amp;gt;, Y&amp;lt;7&amp;gt;, Y&amp;lt;8&amp;gt;, Y&amp;lt;9&amp;gt;, Y&amp;lt;10&amp;gt;, Y&amp;lt;11&amp;gt; and Y&amp;lt;12&amp;gt; are independently of each other hydrogen, or a CrCioalkyl group, especially -C(CH3)2C(CH3)2-, or -C(CH3)2CH2C(CH3)2-with the proviso that, if Ar&amp;lt;1&amp;gt; and Ar&amp;lt;1&amp;gt;are a group of formul a and d are not
+</P>
+<P>
+0 and Ar&amp;lt;2&amp;gt; and Ar&amp;lt;2&amp;gt; are different from a group of formula
+</P>
+<P>
+w
+</P>
+<P>
+ith the further proviso that, if Ar&amp;lt;1&amp;gt; and Ar&amp;lt;1&amp;gt; are a group of formula , a and d are not 0.
+</P>
+<P>
+10. Use of the polymer of formula I according to any of claims 1 to 7 as charge-transport, semiconducting, el. conducting, photoconducting, light emitting material, surface- modifying material, electrode materials in batteries, alignment layers, or in OFETs, ICs, TFTs, displays, RFITD tags, electro- or photoluminescent devices, backlights of displays, photovoltaic or sensor devices, charge injection layers, Schottky diodes, memory devices (e.g. FeFET), planarising layers, antistatics, conductive substrates or patterns, photoconductors, or electrophotographic applications (recording).
+</P>
+</Claims>
+<Also_published_as>
+WO2008000664A1;US2009302311A1;TW200811214A;KR20090024832A;JP2009541548A;CA2655076A1;AU2007263828A1;AU2007263828B2
+</Also_published_as>
+</BiblioData>

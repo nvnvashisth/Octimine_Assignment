@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+COMPACT, SINGLE CHIP- BASED, ENTANGLED POLARIZATION- STATE PHOTON SOURCES AND METHODS FOR GENERATING PHOTONS IN ENTANGLED POLARIZATION STATES
+</Title>
+<PublicationNumber>
+EP2064587A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SPILLANE SEAN [US]
+</Name>
+<Name>
+FIORENTINO MARCO [US]
+</Name>
+<Name>
+SANTORI CHARLES [US]
+</Name>
+<Name>
+BEAUSOLEIL RAYMOND [US]
+</Name>
+<Name>
+SPILLANE, SEAN
+</Name>
+<Name>
+FIORENTINO, MARCO
+</Name>
+<Name>
+SANTORI, CHARLES
+</Name>
+<Name>
+BEAUSOLEIL, RAYMOND
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2064587
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070836057
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US15901
+</PriorityNumber>
+<PriorityDate>
+2007-07-11
+</PriorityDate>
+<PriorityNumber>
+US20060525717
+</PriorityNumber>
+<PriorityDate>
+2006-09-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B6/12
+</Class>
+<Class>
+G02B6/14
+</Class>
+<Class>
+G02F1/39
+</Class>
+<Class>
+G06N99/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G02F1/39C
+</Class>
+<Class>
+G06N99/00K
+</Class>
+<Class>
+H04L9/08Q
+</Class>
+</NCL>
+<Abstract>
+Various embodiments of the present invention are directed to compact systems for generating polarization-entangled photons. In one embodiment of the present invention, a polarization entangled-photon state source comprises a single transmission layer configured for transmitting electromagnetic radiation. The transmission layer includes a beamsplitter and a down-conversion device, both of which are configured to convert a pump beam into first and second signal beams and first and second idler beams. The transmission layer also includes a mode converter configured to invert electric and magnetic field components of both the first signal beam and the first idler beam, and a combiner configured to receive the first and second signal beams and the first and second idler beams and output the first and second signal beams and the first and second idler beams in an entangled polarization states.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A polarization entangled-photon state source comprising:
+</P>
+<P>
+a single transmission layer configured for transmitting electromagnetic radiation;
+</P>
+<P>
+a beamsplitter embedded in the transmission layer configured to receive a pump beam and output a first pump beam and a second pump beam;
+</P>
+<P>
+a down-conversion device embedded in the transmission layer and configured to receive the first pump beam and output both a first signal beam and a first idler beam and receive the second pump beam and output a second signal beam and a second idler beam;
+</P>
+<P>
+a mode converter embedded in the transmisson layer configured to convert electric field components of both the first signal beam and the first idler beam into magnetic field components and convert magnetic field components of both the first signal beam and the first idler beam into electric field components; and
+</P>
+<P>
+a combiner embedded in the transmission layer configured to receive the first and second signal beams and the first and second idler beams and output the first and second signal beams and the first and second idler beams in an entangled state.
+</P>
+<P>
+2. The source of claim 1 wherein the nonlinear crystal further comprises z-cut nonlinear crystal comprising one of:
+</P>
+<P>
+LiNbO3;
+</P>
+<P>
+KTP;
+</P>
+<P>
+KAP;
+</P>
+<P>
+[beta]-BBO; and
+</P>
+<P>
+an electrooptic polymer
+</P>
+<P>
+3. The source of claim 1 wherein the beamsplitter further comprises one of:
+</P>
+<P>
+a Y-shaped beamsplitter; and
+</P>
+<P>
+a electronically tunable beamsplitter.
+</P>
+<P>
+4. The source of claim 1 wherein the down-conversion device further comprises:
+</P>
+<P>
+a first down-conversion crystal configured to receive the first pump beam and output both the first signal beam and the first idler beam; and
+</P>
+<P>
+a second down-conversion crystal configured to receive the second pump beam and output both the second signal beam and the second idler beam.
+</P>
+<P>
+5. The source of claim 4 wherein both the first and second down-conversion crystals are either Type I down-conversion crystals or Type II down-conversion crystals.
+</P>
+<P>
+6. The source of claim 1 wherein the down-conversion device further comprises a single down-conversion crystal configured to receive the first pump beam and output both the first signal beam and the first idler beam and to receive the second pump beam and output both the second signal beam and the second idler beam.
+</P>
+<P>
+7. The source of claim 6 wherein the single down-conversion crystal further comprises one of:
+</P>
+<P>
+a Type I down-conversion crystal; and
+</P>
+<P>
+a Type II down-conversion crystal.
+</P>
+<P>
+8. The source of claim 1 wherein the mode converter further comprises a waveguide located between a first electrode and a second electrode.
+</P>
+<P>
+9. The source of claim 1 wherein the combiner further comprises one of:
+</P>
+<P>
+a Y-shaped junction combiner; and
+</P>
+<P>
+an electronically tunable polarization combiner.
+</P>
+<P>
+10. The source of claim 1 wherein the transmission layer further comprises one of:
+</P>
+<P>
+a photonic crystal with waveguides;
+</P>
+<P>
+a nonlinear crystal with ridge waveguides; and
+</P>
+<P>
+a nonlinear crystal substrate with strip waveguides.
+</P>
+<P>
+11. The source of claim 10 wherein the waveguides are configured to transmit electromagnetic radiation between components of the entangled-photon state source.
+</P>
+<P>
+12. The source of claim 10 wherein the waveguides of a LiNbO3 crystal have either been infused with Ti or doped with protons.
+</P>
+<P>
+13. The source of claim 1 further comprises a waveguide sandwiched between two electrodes that are configured to apply a voltage across the waveguide in order to provide a phase adjustment.
+</P>
+<P>
+14. A method of generating polarization entangled-photon states, the method comprising:
+</P>
+<P>
+splitting a pump beam into a first pump beam and a second pump beam;
+</P>
+<P>
+down converting the first pump beam into a first signal beam and a first idler beam and the second pump beam into a second signal beam and a second idler beam;
+</P>
+<P>
+converting electric field components of both the first signal beam and the first idler beam into magnetic field components and magnetic field components of both the first signal beam and the first idler beam into electric field components; and
+</P>
+<P>
+combining the first and second signal beams with the first and second idler beams in order to obtain the first and second signal beams and the first and second idler beams in an entangled state.
+</P>
+<P>
+15. The method of claim 14 wherein splitting the pump beam into a first pump beam and a second pump beam further comprises transmitting the pump beam through beamsplitter.
+</P>
+<P>
+16. The method of claim 14 wherein down converting the first pump beam and the second pump beam further comprises transmitting the first pump beam and the second pump beam through a down-conversion crystal.
+</P>
+<P>
+17. The method of claim 16 wherein the down-conversion crystal further comprises one of:
+</P>
+<P>
+a Type I down-conversion crystal; and
+</P>
+<P>
+a Type II down-conversion crystal.
+</P>
+<P>
+18. The method of claim 14 wherein both the first and second signal and idler beams are in a first polarization state, or the first and second signal beams are in a first polarization state and the first and second idler beams are in a second polarization state.
+</P>
+<P>
+19. The method of claim 14 wherein converting electric field components into magnetic field components and magnetic field components into electric field components further comprises transmitting the first signal beam and first idler beam through a mode converter.
+</P>
+<P>
+20. The method of claim 14 wherein combining the first and second idler beams and the first and second signal beams further comprises transmitting the first and second idler beams and the first and second signal beams through a polarization combiner.
+</P>
+</Claims>
+<Also_published_as>
+US2008075410A1;US7373059B2;WO2008039261A2;WO2008039261A3;JP2010504556A;JP4864143B2;CN101553756A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Synthetic-ferrimagnet sense- layer for high density MRAM applications
+</Title>
+<PublicationNumber>
+EP2053613A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DEAK JAMES G [US]
+</Name>
+<Name>
+DEAK, JAMES, G
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MICRON TECHNOLOGY INC [US]
+</Name>
+<Name>
+MICRON TECHNOLOGY, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2053613
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080019584
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-03-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030746039
+</PriorityNumber>
+<PriorityDate>
+2003-03-14
+</PriorityDate>
+<PriorityNumber>
+US20020114249
+</PriorityNumber>
+<PriorityDate>
+2002-04-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01F10/32
+</Class>
+<Class>
+H01L21/8246
+</Class>
+<Class>
+H01L27/105
+</Class>
+<Class>
+H01L43/08
+</Class>
+<Class>
+H01L43/10
+</Class>
+<Class>
+H01L43/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01F10/32H
+</Class>
+</NCL>
+<Abstract>
+A magnetic memory structure comprising: a sense layer comprising: a first magnetizable layer with a magnetic moment oriented in a first direction;  a second magnetizable layer with a magnetic moment oriented in a second direction opposite to said first layer;  and a spacer layer formed between said first and second magnetisable layers;  said layers being formed of a material and thickness sufficient to provide stray field coupling between said first and second magnetizable layers such that said first and second magnetizable layers have magnetic moments oriented anti-parallel to each other;  said layers being formed of a material and thickness sufficient to provide antiferromagnetic exchange coupling between the first and second layers such that the magnetic moments of the first and second layers are free to rotate substantially simultaneously in the presence of an applied magnetic field so that the first and second magnetic moments of the magnetizable layers can be oriented in the other of said first and second directions;  a pinned layer;  and a tunneling barrier formed from a nonmagnetic material provided between said sense layer and said pinned layer.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic memory structure comprising:
+</P>
+<P>
+a sense layer comprising:
+</P>
+<P>
+a first magnetizable layer with a magnetic moment oriented in a first direction;
+</P>
+<P>
+a second magnetizable layer with a magnetic moment oriented in a second direction opposite to said first layer; and
+</P>
+<P>
+a spacer layer formed between said first and second magnetisable layers; said layers being formed of a material and thickness sufficient to provide stray field coupling between said first and second magnetizable layers such that said first and second magnetizable layers have magnetic moments oriented anti-parallel to each other;
+</P>
+<P>
+said layers being formed of a material and thickness sufficient to provide antiferromagnetic exchange coupling between the first and second layers such that the magnetic moments of the first and second layers are free to rotate substantially simultaneously in the presence of an applied magnetic field so that the first and second magnetic moments of the magnetizable layers can be oriented in the other of said first and second directions;
+</P>
+<P>
+a pinned layer; and
+</P>
+<P>
+a tunneling barrier formed from a non-magnetic material provided between said sense layer and said pinned layer.
+</P>
+<P>
+2. A magnetic memory structure of Claim 1, wherein antiferromagnetic exchange coupling between the first and second magnetizable layers across said spacer layer is between 0 and &amp;lt;=200 Oe.
+</P>
+<P>
+3. A magnetic memory structure of Claim 1, further comprising a row line conductor coupled to provide a magnetic field to said sense layer and a column line conductor to provide a magnetic field to said sense layer, wherein said pinned layer has a magnetic field orientation which is substantially within 15 degrees of an axis of said row line when antiferromagnetic exchange coupling between the first and second layers across said spacer layer is greater than 0 and &amp;lt;=100 Oe.
+</P>
+<P>
+4. A magnetic memory structure of Claim 1, wherein the spacer layer thickness is such that the antiferromagnetic exchange coupling between the first and second magnetizable layers across the spacer layer is less than the coercive field value of the one of the said first or second magnetizable layer which has the largest coercive field value.
+</P>
+<P>
+5. A magnetic memory structure of Claim 1, further comprising:
+</P>
+<P>
+a thinner layer, relative to the first magnetizable layer, of Co interposed between the spacer layer and the first magnetizable layer; and
+</P>
+<P>
+a thinner layer, relative to the second magnetizable layer, of Co interposed between the spacer layer and the second magnetizable layer.
+</P>
+<P>
+6. A magnetic memory structure of Claim 1, further comprising:
+</P>
+<P>
+a thinner layer, relative to the first magnetizable layer, of CoFe interposed between the spacer layer and the first magnetizable layer; and
+</P>
+<P>
+a thinner layer, relative to the second magnetizable layer, of CoFe interposed between the spacer layer and the second magnetizable layer.
+</P>
+<P>
+7. A magnetic memory structure of Claim 1, further comprising a row line conductor coupled to provide a magnetic field to said sense layer and a column line conductor to provide a magnetic field to said sense layer, wherein said pinned layer has a magnetic field orientation which is substantially within 15 degrees of an axis of said row line when antiferromagnetic exchange coupling between the first and second layers across said spacer layer is greater than 0 and &amp;lt;=100 Oe.
+</P>
+<P>
+8. A magnetic memory structure of Claim 1, wherein the spacer layer thickness is such that the antiferromagnetic exchange coupling between the first and second magnetizable layers across the spacer layer is less than the coercive field value of the one of the said first or second magnetizable layer which has the largest coercive field value.
+</P>
+<P>
+9. A method for manufacturing a magnetic memory element comprising:
+</P>
+<P>
+forming a sense layer, said sense layer having a first ferromagnetic and a second ferromagnetic layer mutually separated by a conductive spacer layer and a characteristic which results in stray field coupling and antiferromagnetic exchange coupling between said first and second ferromagnetic layers across said conductive spacer layer;
+</P>
+<P>
+forming a tunnel barrier layer adjacent the sense layer; and
+</P>
+<P>
+forming a pinned or reference layer with a magnetization in a first direction adjacent a side of said tunnel barrier opposite said sense layer.
+</P>
+<P>
+10. A method of Claim 9, wherein the act of forming said sense layer further comprises:
+</P>
+<P>
+forming said first ferromagnetic layer over the tunnel barrier layer;
+</P>
+<P>
+forming a conductive spacer layer over the first ferromagnetic layer; and
+</P>
+<P>
+forming the second ferromagnetic layer over the conductive spacer layer.
+</P>
+<P>
+11. A method of Claim 9, wherein said conductive spacer layer is formed with a thickness such that the antiferromagnetic exchange coupling between said first and second ferromagnetic layers is less than the coercive (H) field value of the one of the first or second ferromagnetic layer which has the largest coercive field value.
+</P>
+<P>
+12. A method of Claim 9, where forming said layers is such that the layers are formed of a material and thickness sufficient to provide stray field coupling and antiferromagnetic exchange coupling, said antiferromagnetic exchange coupling is greater than 0 and &amp;lt;=200 Oe between the first and second ferromagnetic layers across said conductive spacer layer.
+</P>
+<P>
+13. A method of Claim 9, wherein second ferromagnetic layer is formed with a thickness t and first ferromagnetic layer is formed with a thickness greater than t.
+</P>
+</Claims>
+<Also_published_as>
+US2003189842A1;US6728132B2;US2004152218A1;US6946302B2;WO03085674A2;WO03085674A3;TWI287871B;JP2005522044A;EP1490877A2;EP1490877B1;CN1647208A;CN100576344C;AU2003225795A8;AU2003225795A1;AT421756T
+</Also_published_as>
+</BiblioData>

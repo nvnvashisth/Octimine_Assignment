@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+TANDEM PHOTOVOLTAIC CELLS
+</Title>
+<PublicationNumber>
+EP2005481A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BERKE HOWARD [US]
+</Name>
+<Name>
+BRABEC CHRISTOPH [AT]
+</Name>
+<Name>
+GAUDIANA RUSSELL [US]
+</Name>
+<Name>
+KINGSBOROUGH RICHARD [US]
+</Name>
+<Name>
+SHI XIAOBO [US]
+</Name>
+<Name>
+WALLER DAVID [US]
+</Name>
+<Name>
+WALDAUF CHRISTOPH [AT]
+</Name>
+<Name>
+ZHU ZHENGGUO [US]
+</Name>
+<Name>
+BERKE, HOWARD
+</Name>
+<Name>
+BRABEC, CHRISTOPH
+</Name>
+<Name>
+GAUDIANA, RUSSELL
+</Name>
+<Name>
+KINGSBOROUGH, RICHARD
+</Name>
+<Name>
+SHI, XIAOBO
+</Name>
+<Name>
+WALLER, DAVID
+</Name>
+<Name>
+WALDAUF, CHRISTOPH
+</Name>
+<Name>
+ZHU, ZHENGGUO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONARKA TECHNOLOGIES INC [US]
+</Name>
+<Name>
+KONARKA TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2005481
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070760496
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US66446
+</PriorityNumber>
+<PriorityDate>
+2007-04-11
+</PriorityDate>
+<PriorityNumber>
+US20060790606P
+</PriorityNumber>
+<PriorityDate>
+2006-04-11
+</PriorityDate>
+<PriorityNumber>
+US20060792485P
+</PriorityNumber>
+<PriorityDate>
+2006-04-17
+</PriorityDate>
+<PriorityNumber>
+US20060792635P
+</PriorityNumber>
+<PriorityDate>
+2006-04-17
+</PriorityDate>
+<PriorityNumber>
+US20060793442P
+</PriorityNumber>
+<PriorityDate>
+2006-04-20
+</PriorityDate>
+<PriorityNumber>
+US20060795103P
+</PriorityNumber>
+<PriorityDate>
+2006-04-26
+</PriorityDate>
+<PriorityNumber>
+US20060797881P
+</PriorityNumber>
+<PriorityDate>
+2006-05-05
+</PriorityDate>
+<PriorityNumber>
+US20060798258P
+</PriorityNumber>
+<PriorityDate>
+2006-05-05
+</PriorityDate>
+<PriorityNumber>
+US20060850963P
+</PriorityNumber>
+<PriorityDate>
+2006-10-11
+</PriorityDate>
+<PriorityNumber>
+US20060850845P
+</PriorityNumber>
+<PriorityDate>
+2006-10-11
+</PriorityDate>
+<PriorityNumber>
+US20070888704P
+</PriorityNumber>
+<PriorityDate>
+2007-02-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L27/30
+</Class>
+<Class>
+H01L31/068
+</Class>
+<Class>
+H01L51/44
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C08G61/12D1F
+</Class>
+<Class>
+H01L27/30B2
+</Class>
+<Class>
+H01L51/00M16
+</Class>
+<Class>
+H01L51/00M2B2
+</Class>
+<Class>
+H01L51/42D2B
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+H01L51/44B
+</Class>
+<Class>
+Y02E10/52
+</Class>
+</NCL>
+<Abstract>
+Tandem photovoltaic cells, as well as related components, systems, and methods, are disclosed.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A system, comprising: first and second electrodes; a recombination layer between the first and second electrodes; a first photoactive layer between the first electrode and the recombination layer; and a second photoactive layer between the second electrode and the recombination layer; wherein the recombination layer comprises third, fourth, and fifth layers, the fifth layer is between the third and fourth layers, and the system is configured as a photovoltaic system.
+</P>
+<P>
+2. The system of claim 1 , wherein the fifth layer comprises a metal oxide.
+</P>
+<P>
+3. The system of claim 2, wherein the metal oxide comprises an oxide selected from the group consisting of titanium oxides, indium tin oxides, tin oxides, and zinc oxides.
+</P>
+<P>
+4. The system of claim 1, wherein the fifth layer comprises metallic particles.
+</P>
+<P>
+5. The system of claim 1 , wherein the third layer comprises an n-type semiconductor material and the fourth layer comprises a p-type semiconductor material.
+</P>
+<P>
+6. The system of claim 5, wherein the p-type semiconductor material comprises a polymer selected from the group consisting of polythiophenes, polyanilines, polyvinylcarbazoles, polyphenylenes, polyphenylvinylenes, polysilanes, polythienylenevinylenes, polyisothianaphthanenes, polycyclopentadithiophenes, polysilacyclopentadithiophenes, polycyclopentadithiazoles, polythiazolothiazoles, polythiazoles, polybenzothiadiazoles, poly(thiophene oxide)s, poly(cyclopentadithiophene oxide)s, polythiadiazoloquinoxalines, polybenzoisothiazoles, polybenzothiazoles, polythienothiophenes, poly(thienothiophene oxide)s, polydithienothiophenes, poly(dithienothiophene oxide)s, polytetrahydroisoindoles, and copolymers thereof.
+</P>
+<P>
+7. The system of claim 6, wherein the p-type semiconductor material comprises poly(3,4-ethylene dioxythiophene).
+</P>
+<P>
+8. The system of claim 5, wherein the p-type semiconductor material comprises a metal oxide.
+</P>
+<P>
+9. The system of claim 8, wherein the metal oxide comprises an oxide selected from the group consisting of copper oxides, strontium copper oxides, strontium titanium oxides, and combinations thereof.
+</P>
+<P>
+10. The system of claim 8, wherein the p-type semiconductor material comprises a p-doped metal oxide.
+</P>
+<P>
+11. The system of claim 10, wherein the p-doped metal oxide comprises a p- doped zinc oxide or a p-doped titanium oxide.
+</P>
+<P>
+12. The system of claim 5, wherein the n-type semiconductor material comprises a metal oxide.
+</P>
+<P>
+13. The system of claim 12, wherein the metal oxide comprises an oxide selected from the group consisting of titanium oxides, zinc oxides, tungsten oxides, molybdenum oxides, and combinations thereof.
+</P>
+<P>
+14. The system of claim 5, wherein the n-type semiconductor material comprises a material selected from the group consisting of fullerenes, inorganic nanoparticles, oxadiazoles, discotic liquid crystals, carbon nanorods, inorganic nanorods, polymers containing CN groups, polymers containing CF3groups, and combinations thereof.
+</P>
+<P>
+15. The system of claim 5 , wherein the third layer is between the first photoactive layer and the fifth layer.
+</P>
+<P>
+16. The system of claim 15, further comprising a hole carrier layer between the first photoactive layer and the first electrode.
+</P>
+<P>
+17. The system of claim 16, wherein the hole carrier layer comprises a polymer selected from the group consisting of polythiophenes, polyanilines, polyvinylcarbazoles, polyphenylenes, polyphenylvinylenes, polysilanes, polythienylenevinylenes, polyisothianaphthanenes, and copolymers thereof.
+</P>
+<P>
+18. The system of claim 17, wherein the hole carrier layer comprises poly(3,4- ethylene dioxythiophene).
+</P>
+<P>
+19. The system of claim 15, further comprising a hole blocking layer between the second photoactive layer and the second electrode.
+</P>
+<P>
+20. The system of claim 19, wherein the hole blocking layer comprises a material selected from the group consisting of LiF, metal oxides, and combinations thereof.
+</P>
+<P>
+21. The system of claim 20, wherein the hole blocking comprises a titanium oxide or a zinc oxide.
+</P>
+<P>
+22. The system of claim 5, wherein the fifth layer comprises a semiconductive material or an electrically conductive material.
+</P>
+<P>
+23. The system of claim 1 , wherein at least one of the first and second photoactive layers comprises an electron donor material and an electron acceptor material.
+</P>
+<P>
+24. The system of claim 23, wherein the electron donor material comprises a polymer selected from the group consisting of polythiophenes, polyanilines, polyvinylcarbazoles, polyphenylenes, polyphenylvinylenes, polysilanes, polythienylenevinylenes, polyisothianaphthanenes, polycyclopentadithiophenes, polysilacyclopentadithiophenes, polycyclopentadithiazoles, polythiazolothiazoles, polythiazoles, polybenzothiadiazoles, poly(thiophene oxide)s, poly(cyclopentadithiophene oxide)s, polythiadiazoloquinoxaline, polybenzoisothiazole, polybenzothiazole, polythienothiophene, poly(thienothiophene oxide), polydithienothiophene, poly(dithienothiophene oxide)s, polytetrahydroisoindoles, and copolymers thereof.
+</P>
+<P>
+25. The system of claim 24, wherein the electron donor material comprises a polymer selected from the group consisting of polythiophenes, polycyclopentadithiophenes, and copolymers thereof.
+</P>
+<P>
+26. The system of claim 25, wherein the electron donor material comprises poly(3-hexylthiophene) or poly(cyclopentadithiophene-co-benzothiadiazole).
+</P>
+<P>
+27. The system of claim 23, wherein the electron acceptor material comprises a material selected from the group consisting of fullerenes, inorganic nanoparticles, oxadiazoles, discotic liquid crystals, carbon nanorods, inorganic nanorods, polymers containing CN groups, polymers containing CF3 groups, and combinations thereof.
+</P>
+<P>
+28. The system of claim 27. wherein the electron acceptor material comprises a substituted fullerene.
+</P>
+<P>
+29. The system of claim 28, wherein the substituted fullerene comprises PCBM.
+</P>
+<P>
+30. The system of claim 1 , wherein the first photoactive layer has a first band gap and the second photoactive layer has a second band gap different from the first band gap.
+</P>
+<P>
+31. The system of claim 1 , wherein at least one of the first and second electrodes comprises a mesh electrode.
+</P>
+<P>
+32. The system of claim 1, wherein the system comprises a tandem photovoltaic cell.
+</P>
+<P>
+33. A system, comprising: first and second electrodes; a first photoactive layer between the first and second electrodes; a second photoactive layer between the second electrode and the first photoactive layer; and third, fourth, and fifth layers between the first and second photoactive layers, the fifth layer being between the third and fourth layers; wherein the system is configured as a photovoltaic system and the third, fourth, and fifth layers are configured such that, during use, electrons generated in one of the first and second photoactive layers and holes generated in the other of the first and second photoactive layers are recombined at the fifth layer.
+</P>
+<P>
+34. The system of claim 33, wherein the third layer comprises an n-type semiconductor material and the fourth layer comprises a p-type semiconductor material.
+</P>
+<P>
+35. The system of claim 33, wherein the fifth layer comprises a semiconductive material or an electrically conductive material.
+</P>
+<P>
+36. The system of claim 33, wherein at least one of the first and second electrodes comprises a mesh electrode.
+</P>
+<P>
+37. The system of claim 33, wherein the system comprises a tandem photovoltaic cell.
+</P>
+<P>
+38. A system, comprising: first and second electrodes; a first photoactive layer between the first and second electrodes; and a second photoactive layer between the second electrode and the first photoactive layer; wherein at least one of the first and second photoactive layers comprises a polymer including a first comonomer repeat unit and a second comonomer repeat unit different from the first comonomer repeat unit, the first comonomer repeat unit comprises a cyclopentadithiophene moiety, and the system is configured as a tandem photovoltaic cell.
+</P>
+<P>
+39. The system of claim 38, wherein the cyclopentadithiophene moiety is substituted with at least one substituent selected from the group consisting of Ci-C2O alkyl, C1-C20 alkoxy, C3-C20 cycloalkyl, Ci-C2o heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, and SO2R; R being H, Ci-C20 alkyl, Ci-C20 alkoxy, aryl, heteroaryl, Cs-C20 cycloalkyl, or Ci-C20 heterocycloalkyl.
+</P>
+<P>
+40. The system of claim 39, wherein the cyclopentadithiophene moiety is substituted with hexyl, 2-ethylhexyl, or 3,7-dimethyloctyl.
+</P>
+<P>
+41. The system of claim 40, wherein the cyclopentadithiophene moiety is substituted at 4-position.
+</P>
+<P>
+42. The system of claim 38, wherein the first comonomer repeat unit comprises a cyclopentadithiophene moiety of formula (1):
+</P>
+<P>
+wherein each of Ri, R2, R3, and R4, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, C3- C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, or SO2R; in which R is H, C1-C20 alkyl, C1-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or C1-C20 heterocycloalkyl.
+</P>
+<P>
+43. The system of claim 42, wherein each of Ri and R2, independently, is hexyl, 2-ethylhexyl, or 3,7-dimethyloctyl.
+</P>
+<P>
+44. The system of claim 38, wherein the second comonomer repeat unit comprises a benzothiadiazole moiety, a thiadiazoloquinoxaline moiety, a cyclopentadithiophene oxide moiety, a benzoisothiazole moiety, a benzothiazole moiety, a thiophene oxide moiety, a thienothiophene moiety, a thienothiophene oxide moiety, a dithienothiophene moiety, a dithienothiophene oxide moiety, a tetrahydroisoindole moiety, a fluorene moiety, a silole moiety, a cyclopentadithiophene moiety, a fluorenone moiety, a thiazole moiety, a selenophene moiety, a thiazolothiazole moiety, a cyclopentadithiazole moiety, a naphthothiadiazole moiety, a thienopyrazine moiety, a silacyclopentadithiophene moiety, an oxazole moiety, an imidazole moiety, a pyrimidine moiety, a benzoxazole moiety, or a benzimidazole moiety.
+</P>
+<P>
+45. The system of claim 44, wherein the second comonomer repeat unit comprises a benzothiadiazole moiety, a thiophene moiety, a thiophene dioxide moiety, or a thiazole moiety.
+</P>
+<P>
+46. The system of claim 44, wherein the second comonomer repeat unit comprises a benzothiadiazole moiety of formula (2), a thiadiazoloquinoxaline moiety of formula (3), a cyclopentadithiophene dioxide moiety of formula (4), a cyclopentadithiophene monoxide moiety of formula (5), a benzoisothiazole moiety of formula (6), a benzothiazole moiety of formula (7), a thiophene dioxide moiety of formula (8), a cyclopentadithiophene dioxide moiety of formula (9), a cyclopentadithiophene tetraoxide moiety of formula (10), a thienothiophene moiety of formula (11), a thienothiophene tetraoxide moiety of formula (12), a dithienothiophene moiety of formula (13), a dithienothiophene dioxide moiety of formula (14), a dithienothiophene tetraoxide moiety of formula (15), a tetrahydroisoindole moiety of formula (16), a thienothiophene dioxide moiety of formula (17), a dithienothiophene dioxide moiety of formula (18), a fluorene moiety of formula (19), a silole moiety of formula (20), a cyclopentadithiophene moiety of formula (21), a fluorenone moiety of formula (22), a thiazole moiety of formula (23), a selenophene moiety of formula (24), a thiazolothiazole moiety of formula (25), a cyclopentadithiazole moiety of formula (26), a naphthothiadiazole moiety of formula (27), a thienopyrazine moiety of formula (28), a silacyclopentadithiophene moiety of formula (29), an oxazole moiety of formula (30), an imidazole moiety of formula (31), a pyrimidine moiety of formula (32), a benzoxazole moiety of formula (33), or a benzimidazole moiety of formula (34):
+</P>
+<P>
+wherein each of X and Y, independently, is CH2, O, or S; each of R5 and R6, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, C3-C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, or SO2R, in which R is H, C1-C20 alkyl, C1-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or C 1-C20 heterocycloalkyl; and each OfR7and Rg, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or C3-C20 heterocycloalkyl.
+</P>
+<P>
+47. The system of claim 46, wherein the second comonomer repeat unit comprises a benzothiadiazole moiety of formula (2), in which each of R5 and R6 is H.
+</P>
+<P>
+48. The system of claim 38, wherein the second comonomer repeat unit comprises at least three thiophene moieties.
+</P>
+<P>
+49. The system of claim 48, wherein at least one of the thiophene moieties is substituted with at least one substituent selected from the group consisting of C1-C20 alkyl, C1-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, and C3-C20 heterocycloalkyl.
+</P>
+<P>
+50. The system of claim 48, wherein the second comonomer repeat unit comprises five thiophene moieties.
+</P>
+<P>
+51. The system of claim 38, wherein the polymer further comprises a third comonomer repeat unit.
+</P>
+<P>
+52. The system of claim 51 , wherein the third comonomer repeat unit further comprises a thiophene moiety or a fluorene moiety.
+</P>
+<P>
+53. The system of claim 52, wherein the thiophene or fluorene moiety is substituted with at least one substituent selected from the group consisting of Ci-C20 alkyl, Ci-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, and C3-C20 heterocycloalkyl.
+</P>
+<P>
+54. The system of claim 38, further comprising a recombination layer.
+</P>
+<P>
+55. The system of claim 54, wherein the recombination layer comprises a p- type semiconductor material and an n-type semiconductor material.
+</P>
+<P>
+56. The system of claim 55, wherein the p-type and n-type semiconductor materials are blended into one layer.
+</P>
+<P>
+57. The system of claim 55, wherein the recombination layer comprises two layers, one layer comprising the p-type semiconductor material and the other layer comprising the n-type semiconductor material.
+</P>
+<P>
+58. The system of claim 38, wherein at least one of the first and second electrodes comprises a mesh electrode.
+</P>
+<P>
+59. A system, comprising: first and second electrodes; a first photoactive layer between the first and second electrodes; and a second photoactive layer between the second electrode and the first photoactive layer; wherein at least one of the first and second photoactive layers comprises a polymer including a first comonomer repeat unit and a second comonomer repeat unit different from the first comonomer repeat unit, the first comonomer repeat unit comprises a silacyclopentadithiophene moiety, and the system is configured as a tandem photovoltaic cell.
+</P>
+<P>
+60. The system of claim 59, wherein the silacyclopentadithiophene moiety is substituted with at least one substituent selected from the group consisting Of Ci-C2O alkyl, C1-C20 alkoxy, C3-C20 cycloalkyl, Ci-C2o heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, and SO2R; R being H, Ci-C20 alkyl, Ci-C20 alkoxy, aryl, heteroaryl, Cs-C20 cycloalkyl, or Ci-C20 heterocycloalkyl.
+</P>
+<P>
+61. The system of claim 60, wherein the silacyclopentadithiophene moiety is substituted with hexyl, 2-ethylhexyl, or 3,7-dimethyloctyl.
+</P>
+<P>
+62. The system of claim 61 , wherein the silacyclopentadithiophene moiety is substituted at 4-position.
+</P>
+<P>
+63. The system of claim 59, wherein the first comonomer repeat unit comprises a silacyclopentadithiophene moiety of formula (29):
+</P>
+<P>
+wherein each of R5, R6, R7, and R8, independently, is H, Ci-C2O alkyl, Ci-C2O alkoxy, C3- C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, or SO2R; in which R is H, Ci-C2O alkyl, Ci-C2O alkoxy, aryl, heteroaryl, C3-C2O cycloalkyl, or Ci-C2O heterocycloalkyl.
+</P>
+<P>
+64. The system of claim 63, wherein each of R5 and R6, independently, is hexyl, 2-ethylhexyl, or 3,7-dimethyloctyl.
+</P>
+<P>
+65. The system of claim 59, wherein the second comonomer repeat unit comprises a benzothiadiazole moiety, a thiadiazoloquinoxaline moiety, a cyclopentadithiophene oxide moiety, a benzoisothiazole moiety, a benzothiazole moiety, a thiophene oxide moiety, a thienothiophene moiety, a thienothiophene oxide moiety, a dithienothiophene moiety, a dithienothiophene oxide moiety, a tetrahydroisoindole moiety, a fluorene moiety, a silole moiety, a cyclopentadithiophene moiety, a fluorenone moiety, a thiazole moiety, a selenophene moiety, a thiazolothiazole moiety, a cyclopentadithiazole moiety, a naphthothiadiazole moiety, a thienopyrazine moiety, a silacyclopentadithiophene moiety, an oxazole moiety, an imidazole moiety, a pyrimidine moiety, a benzoxazole moiety, or a benzimidazole moiety.
+</P>
+<P>
+66. The system of claim 65, wherein the second comonomer repeat unit comprises a benzothiadiazole moiety, a thiophene moiety, a thiophene dioxide moiety, or a thiazole moiety.
+</P>
+<P>
+67. The system of claim 65, wherein the second comonomer repeat unit comprises a benzothiadiazole moiety of formula (2), a thiadiazoloquinoxaline moiety of formula (3), a cyclopentadithiophene dioxide moiety of formula (4), a cyclopentadithiophene monoxide moiety of formula (5), a benzoisothiazole moiety of formula (6), a benzothiazole moiety of formula (7), a thiophene dioxide moiety of formula (8), a cyclopentadithiophene dioxide moiety of formula (9), a cyclopentadithiophene tetraoxide moiety of formula (10), a thienothiophene moiety of formula (11), a thienothiophene tetraoxide moiety of formula (12), a dithienothiophene moiety of formula (13), a dithienothiophene dioxide moiety of formula (14), a dithienothiophene tetraoxide moiety of formula (15), a tetrahydroisoindole moiety of formula (16), a thienothiophene dioxide moiety of formula (17), a dithienothiophene dioxide moiety of formula (18), a fluorene moiety of formula (19), a silole moiety of formula (20), a cyclopentadithiophene moiety of formula (21), a fluorenone moiety of formula (22), a thiazole moiety of formula (23), a selenophene moiety of formula (24), a thiazolothiazole moiety of formula (25), a cyclopentadithiazole moiety of formula (26), a naphthothiadiazole moiety of formula (27), a thienopyrazine moiety of formula (28), an oxazole moiety of formula (30), an imidazole moiety of formula (31), a pyrimidine moiety of formula (32), a benzoxazole moiety of formula (33), or a benzimidazole moiety of formula (34):
+</P>
+<P>
+wherein each of X and Y, independently, is CH2, O, or S; each of R5 and R6, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, C3-C20 cycloalkyl, Ci-C20 heterocycloalkyl, aryl, heteroaryl, halo, CN, OR, C(O)R, C(O)OR, or SO2R, in which R is H, C1-C20 alkyl, C1-C20 alkoxy, aryl, heteroaryl, C3-C2O cycloalkyl, or Ci -C20 heterocycloalkyl; and each OfR7and Rs, independently, is H, C1-C20 alkyl, C1-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, or C3-C20 heterocycloalkyl.
+</P>
+<P>
+68. The system of claim 67, wherein the second comonomer repeat unit comprises a benzothiadiazole moiety of formula (2), in which each of R5 and R6 is H.
+</P>
+<P>
+69. The system of claim 59, wherein the second comonomer repeat unit comprises at least three thiophene moieties.
+</P>
+<P>
+70. The system of claim 69, wherein at least one of the thiophene moieties is substituted with at least one substituent selected from the group consisting of Ci-C2O alkyl, C1-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, and C3-C20 heterocycloalkyl.
+</P>
+<P>
+71. The system of claim 69, wherein the second comonomer repeat unit comprises five thiophene moieties.
+</P>
+<P>
+72. The system of claim 59, wherein the polymer further comprises a third comonomer repeat unit.
+</P>
+<P>
+73. The system of claim 72, wherein the third comonomer repeat unit further comprises a thiophene moiety or a fluorene moiety.
+</P>
+<P>
+74. The system of claim 73, wherein the thiophene or fluorene moiety is substituted with at least one substituent selected from the group consisting Of Ci-C2O alkyl, C1-C20 alkoxy, aryl, heteroaryl, C3-C20 cycloalkyl, and C3-C20 heterocycloalkyl.
+</P>
+<P>
+75. The system of claim 59, further comprising a recombination layer.
+</P>
+<P>
+76. The system of claim 75, wherein the recombination layer comprises a p- type semiconductor material and an n-type semiconductor material.
+</P>
+<P>
+77. The system of claim 76, wherein the p-type and n-type semiconductor materials are blended into one layer.
+</P>
+<P>
+78. The system of claim 76, wherein the recombination layer comprises two layers, one layer comprising the p-type semiconductor material and the other layer comprising the n-type semiconductor material.
+</P>
+<P>
+79. The system of claim 59, wherein at least one of the first and second electrodes comprises a mesh electrode.
+</P>
+<P>
+80. A system, comprising: first and second electrodes; a recombination layer between the first and second electrodes; a first photoactive layer between the first electrode and the recombination layer; and a second photoactive layer between the second electrode and the recombination layer; wherein at least one of the first and second photoactive layers comprises a polymer including a first comonomer repeat unit and a second comonomer repeat unit different from the first comonomer repeat unit, the first comonomer repeat unit comprises a cyclopentadithiophene moiety, and the system is configured as a photovoltaic system.
+</P>
+<P>
+81. The system of claim 80, wherein the system comprises a tandem photovoltaic cell.
+</P>
+<P>
+82. A system, comprising: first and second electrodes; a recombination layer between the first and second electrodes; a first photoactive layer between the first electrode and the recombination layer; and a second photoactive layer between the second electrode and the recombination layer; wherein at least one of the first and second photoactive layers comprises a polymer including a first comonomer repeat unit and a second comonomer repeat unit different from the first comonomer repeat unit, the first comonomer repeat unit comprises a silacyclopentadithiophene moiety, and the system is configured as a photovoltaic system.
+</P>
+<P>
+83. The system of claim 82, wherein the system comprises a tandem photovoltaic cell.
+</P>
+<P>
+84. A method, comprising: disposing a first photoactive layer on a substrate, the first photoactive layer comprising an organic electron donor material and an organic electron acceptor material; disposing a second photoactive layer on the first photoactive layer, the second photoactive layer comprising an inorganic semiconductor material; and disposing the first and second photoactive layers between two electrodes to form a photovoltaic system; wherein at least one of the first and second photoactive layers is disposed via a first liquid-based coating process.
+</P>
+<P>
+85. The method of claim 84, wherein the first photoactive layer is disposed via the first liquid-based coating process.
+</P>
+<P>
+86. The method of claim 84, wherein the second photoactive layer is disposed via the first liquid-based coating process.
+</P>
+<P>
+87. The method of claim 84, wherein the first photoactive layer is disposed via the first liquid-based coating process and the second photoactive layer is disposed via a second liquid-based coating process.
+</P>
+<P>
+88. The method of claim 87, wherein the first or second liquid-based coating process comprises solution coating, ink jet printing, spin coating, dip coating, knife coating, bar coating, spray coating, roller coating, slot coating, gravure coating, flexographic printing, or screen printing.
+</P>
+<P>
+89. The method of claim 84, wherein the organic electron donor material comprises a polymer.
+</P>
+<P>
+90. The method of claim 89, wherein the polymer is selected from the group consisting of polythiophenes, polyanilines, polyvinylcarbazoles, polyphenylenes, polyphenylvinylenes, polysilanes, polythienylenevinylenes, polyisothianaphthanenes, polycyclopentadithiophenes, polysilacyclopentadithiophenes, polycyclopentadithiazoles, polythiazolothiazoles, polythiazoles, polybenzothiadiazoles, poly(thiophene oxide)s, poly(cyclopentadithiophene oxide)s, polythiadiazoloquinoxaline, polybenzoisothiazole, polybenzothiazole, polythienothiophene, poly(thienothiophene oxide), polydithienothiophene, poly(dithienothiophene oxide)s, polytetrahydroisoindoles, and copolymers thereof.
+</P>
+<P>
+91. The method of claim 90, wherein the organic electron donor material comprises a polymer selected from the group consisting of polythiophenes, polycyclopentadithiophenes, and copolymers thereof.
+</P>
+<P>
+92. The method of claim 91 , wherein the organic electron donor material comprises poly(3-hexylthiophene) or poly(cyclopentadithiophene-co-benzothiadiazole).
+</P>
+<P>
+93. The method of claim 84, wherein the organic electron acceptor material comprises a material selected from the group consisting of fullerenes, oxadiazoles, carbon nanorods, polymers containing CN groups, polymers containing CF3 groups, and combinations thereof.
+</P>
+<P>
+94. The method of claim 93, wherein the organic electron acceptor material comprises a substituted fullerene.
+</P>
+<P>
+95. The method of claim 94, wherein the substituted fullerene comprises PCBM.
+</P>
+<P>
+96. The method of claim 84, wherein the inorganic semiconductor material comprises amorphous silicon, crystalline silicon, cadmium selenide, cadmium telluride, gallium arsenide, copper indium selenide, copper indium gallium selenide, or metal oxides.
+</P>
+<P>
+97. The method of claim 84, wherein the inorganic semiconductor material comprises inorganic nanoparticles.
+</P>
+<P>
+98. The method of claim 84, wherein the first photoactive layer has a first band gap and the second photoactive layer has a second band gap different from the first band gap.
+</P>
+<P>
+99. The method of claim 84, further comprising disposing a recombination layer between the first and second photoactive layers.
+</P>
+<P>
+100. The method of claim 99, wherein the recombination layer is disposed via a third liquid-based coating process.
+</P>
+<P>
+101. The method of claim 100, wherein the third liquid-based coating process comprises solution coating, ink jet printing, spin coating, dip coating, knife coating, bar coating, spray coating, roller coating, slot coating, gravure coating, flexographic printing, or screen printing.
+</P>
+<P>
+102. The method of claim 99, wherein the recombination layer comprises a p- type semiconductor material and an n-type semiconductor material.
+</P>
+<P>
+103. The method of claim 102, wherein the p-type semiconductor material comprises a polymer.
+</P>
+<P>
+104. The method of claim 103, wherein the polymer is selected from the group consisting of polythiophenes, polyanilines, polyvinylcarbazoles, polyphenylenes, polyphenylvinylenes, polysilanes, polythienylenevinylenes, polyisothianaphthanenes, polycyclopentadithiophenes, polysilacyclopentadithiophenes, polycyclopentadithiazoles, polythiazolothiazoles, polythiazoles, polybenzothiadiazoles, poly(thiophene oxide)s, poly(cyclopentadithiophene oxide)s, polythiadiazoloquinoxalines, polybenzoisothiazoles, polybenzothiazoles, polythienothiophenes, poly(thienothiophene oxide)s, polydithienothiophenes, poly(dithienothiophene oxide)s, polytetrahydroisoindoles, and copolymers thereof.
+</P>
+<P>
+105. The method of claim 104, wherein the p-type semiconductor material comprises poly(3,4-ethylene dioxythiophene).
+</P>
+<P>
+106. The method of claim 102, wherein the p-type semiconductor material comprises a metal oxide.
+</P>
+<P>
+107. The method of claim 106, wherein the metal oxide comprises an oxide selected from the group consisting of copper oxides, strontium copper oxides, strontium titanium oxides, and combinations thereof.
+</P>
+<P>
+108. The method of claim 106, wherein the p-type semiconductor material comprises a p-doped metal oxide.
+</P>
+<P>
+109. The method of claim 108, wherein the p-doped metal oxide comprises a p- doped zinc oxide or a p-doped titanium oxide.
+</P>
+<P>
+110. The method of claim 102, wherein the n-type semiconductor material comprises a metal oxide.
+</P>
+<P>
+111. The method of claim 110, wherein the metal oxide comprises an oxide selected from the group consisting of titanium oxides, zinc oxides, tungsten oxides, molybdenum oxides, and combinations thereof.
+</P>
+<P>
+112. The method of claim 102, wherein the n-type semiconductor material comprises a material selected from the group consisting of fullerenes, inorganic nanoparticles, oxadiazoles, discotic liquid crystals, carbon nanorods, inorganic nanorods, polymers containing CN groups, polymers containing CF3 groups, and combinations thereof.
+</P>
+<P>
+113. The method of claim 102, wherein the p-type and n-type semiconductor materials are blended into one layer.
+</P>
+<P>
+114. The method of claim 102, wherein the recombination layer comprises two layers, one layer comprising the p-type semiconductor material and the other layer comprising the n-type semiconductor material.
+</P>
+<P>
+115. The method of claim 84, further comprising disposing a hole carrier layer, the first photoactive layer being between the hole carrier layer and the second photoactive layer.
+</P>
+<P>
+116. The method of claim 115, wherein the hole carrier layer comprises a polymer.
+</P>
+<P>
+117. The method of claim 116, wherein the polymer is selected from the group consisting of polythiophenes, polyanilines, polyvinylcarbazoles, polyphenylenes, polyphenylvinylenes, polysilanes, polythienylenevinylenes, polyisothianaphthanenes, and copolymers thereof.
+</P>
+<P>
+118. The method of claim 115, wherein the hole carrier layer is disposed via a fourth liquid-based coating process.
+</P>
+<P>
+119. The method of claim 118, wherein the fourth liquid-based coating process comprises solution coating, ink jet printing, spin coating, dip coating, knife coating, bar coating, spray coating, roller coating, slot coating, gravure coating, flexographic printing, or screen printing.
+</P>
+<P>
+120. The method of claim 84, further comprising disposing a hole blocking layer, the second photoactive layer being between the hole blocking layer and the first photoactive layer.
+</P>
+<P>
+121. The method of claim 120, wherein the hole blocking layer comprises a material selected from the group consisting of LiF, metal oxides, and combinations thereof.
+</P>
+<P>
+122. The method of claim 120, wherein the hole blocking layer is disposed via a fifth liquid-based coating process.
+</P>
+<P>
+123. The method of claim 122, wherein the fifth liquid-based coating process comprises solution coating, ink jet printing, spin coating, dip coating, knife coating, bar coating, spray coating, roller coating, slot coating, gravure coating, flexographic printing, or screen printing.
+</P>
+<P>
+124. The method of claim 84, wherein at least one of the first and second electrodes is a mesh electrode.
+</P>
+<P>
+125. The method of claim 84, wherein the system comprises a tandem photovoltaic cell.
+</P>
+<P>
+126. The method of claim 84, wherein the method comprises a roll-to-roll process.
+</P>
+<P>
+127. A system, comprising: first and second electrodes; a first photoactive layer between the first and second electrodes, the first photoactive layer comprising an organic electron donor material and an organic electron acceptor material; and a second photoactive layer between the first and second electrodes, the second photoactive layer comprising an inorganic semiconductor material; wherein the system is configured as a photovoltaic system.
+</P>
+<P>
+128. The system of claim 127, wherein the inorganic semiconductor material comprises amorphous silicon, crystalline silicon, cadmium selenide, cadmium telluride, gallium arsenide, copper indium selenide, copper indium gallium selenide, or metal oxides.
+</P>
+<P>
+129. The system of claim 127, wherein the inorganic semiconductor material comprises inorganic nanoparticles.
+</P>
+<P>
+130. The system of claim 127, further comprising a recombination layer between the first and second photoactive layers.
+</P>
+<P>
+131. The system of claim 130, further comprising a hole carrier layer, the first photoactive layer being between the hole carrier layer and the second photoactive layer.
+</P>
+<P>
+132. The system of claim 131, further comprising a hole blocking layer, the second photoactive layer being between the hole blocking layer and the first photoactive layer.
+</P>
+<P>
+133. The system of claim 127, wherein at least one of the first and second electrodes is a mesh electrode.
+</P>
+<P>
+134. The system of claim 127, wherein the system comprises a tandem photovoltaic cell.
+</P>
+</Claims>
+<Also_published_as>
+EP2005481A4;WO2007121252A2;WO2007121252A3;JP2009533878A;EP2261980A2;EP2261980A3;EP2261980B1
+</Also_published_as>
+</BiblioData>

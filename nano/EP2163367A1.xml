@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FORM, MICROPROCESSED ARTICLE, AND THEIR MANUFACTURING METHODS
+</Title>
+<PublicationNumber>
+EP2163367A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KUSUURA TAKAHISA [JP]
+</Name>
+<Name>
+MITRA ANUPAM [JP]
+</Name>
+<Name>
+TAKAYA YOSHIAKI [JP]
+</Name>
+<Name>
+SATSUKA TAKURO [JP]
+</Name>
+<Name>
+KUSUURA, TAKAHISA
+</Name>
+<Name>
+MITRA, ANUPAM
+</Name>
+<Name>
+TAKAYA, YOSHIAKI
+</Name>
+<Name>
+SATSUKA, TAKURO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SCIVAX CORP [JP]
+</Name>
+<Name>
+MARUZEN PETROCHEM CO LTD [JP]
+</Name>
+<Name>
+SCIVAX CORPORATION
+</Name>
+<Name>
+MARUZEN PETROCHEMICAL CO. LTD
+</Name>
+<Name>
+MARUZEN PETROCHEMICAL CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2163367
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080763996
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP01399
+</PriorityNumber>
+<PriorityDate>
+2008-06-03
+</PriorityDate>
+<PriorityNumber>
+JP20070148213
+</PriorityNumber>
+<PriorityDate>
+2007-06-04
+</PriorityDate>
+<PriorityNumber>
+JP20070312424
+</PriorityNumber>
+<PriorityDate>
+2007-12-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B29C33/40
+</Class>
+<Class>
+B29C59/02
+</Class>
+<Class>
+H01L21/027
+</Class>
+</IPC>
+<NCL>
+<Class>
+B29C33/42C
+</Class>
+<Class>
+B29C33/56
+</Class>
+<Class>
+B29C59/02C
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+A mold 100 for imprinting has a mold pattern 2A for transferring a pattern to a processing object. A base layer 1 having a predetermined base pattern 1A is formed by imprinting on a thermoplastic resin, a thermosetting resin, a photo-curable resin, or the like, and a mold layer 2 is formed in such a way that the mode pattern 2A is shapened along a surface of the base pattern 1A by a surface preparation technique, such as CVD, PVD, or plating. Accordingly, there is provided a mold which has the same functions as those of conventionally-used silicon mold and metal mold and which facilitates manufacturing thereof.
+</Abstract>
+<Claims>
+<P>
+1. A mold for nanoimprinting, the mold including a mold pattern to be transferred to a processing object, the mold comprising:
+</P>
+<P>
+a base layer formed of a resin and including a predetermined base pattern; and
+</P>
+<P>
+a mold layer formed along the base pattern so as to shape the mold pattern.
+</P>
+<P>
+2. A mold for nanoimprinting, the mold including a mold pattern to be transferred to a processing object, the mold comprising:
+</P>
+<P>
+a base layer including a predetermined base pattern; and
+</P>
+<P>
+a mold layer formed along the base pattern so as to shape the mold pattern and having a thickness less than or equal to 100 nm.
+</P>
+<P>
+3. The mold according to claim 1 or 2, wherein the mold layer is formed of a material harder than the resin at least at a molding temperature of performing imprinting on the processing object.
+</P>
+<P>
+4. The mold according to claim 1 or 2, wherein the mold layer is formed of an inorganic compound.
+</P>
+<P>
+5. The mold according to claim 1 or 2, wherein the mold layer is formed of platinum or nickel.
+</P>
+<P>
+6. The mold according to claim 1 or 2, further including a hydrophilic group on a surface of the mold layer.
+</P>
+<P>
+7. The mold according to claim 1 or 2, wherein the resin is a thermoplastic resin.
+</P>
+<P>
+8. The mold according to claim 1 or 2, wherein the resin is any one of followings: a cyclic olefin-based resin; an acrylic resin; polycarbonate; vinyl ether; and fluorinated resin.
+</P>
+<P>
+9. The mold according to claim 1 or 2, wherein the resin is a thermosetting resin or a photo-curable resin.
+</P>
+<P>
+10. The mold according to claim 1 or 2, wherein the resin has a water absorption percentage less than or equal to 3 %.
+</P>
+<P>
+11. The mold according to claim 1 or 2, wherein the base pattern has a minimum size in a planar direction less than or equal to 100 [micro]m.
+</P>
+<P>
+12. The mold according to claim 1 or 2, further comprising a demolding layer formed on a surface of the mold pattern and suppressing any adhesion with the processing object.
+</P>
+<P>
+13. The mold according to claim 12, wherein the demolding layer is a fluorinated mold release agent.
+</P>
+<P>
+14. A method of manufacturing a mold for nanoimprinting, the mold including a mold pattern to be transferred to a processing object, the method comprising:
+</P>
+<P>
+a base layer formation step of forming a base layer formed of a resin and including a predetermined base pattern; and
+</P>
+<P>
+a mold layer formation step of forming a mold layer along the base pattern so as to shape the mold pattern.
+</P>
+<P>
+15. A method of manufacturing a mold for nanoimprinting, the mold including a mold pattern to be transferred to a processing object, the method comprising:
+</P>
+<P>
+a base layer formation step of forming a base layer including a predetermined base pattern; and
+</P>
+<P>
+a mold layer formation step of forming a mold layer along the base pattern so as to shape the mold pattern and so as to have a thickness less than or equal to 100 nm.
+</P>
+<P>
+16. The mold manufacturing method according to claim 14 or 15, wherein the mold layer formation step forms the mold layer by any one of following fashions: physical vapor deposition (PVD); chemical vapor deposition (CVD); and plating.
+</P>
+<P>
+17. The mold manufacturing method according to claim 14 or 15, wherein the base layer formation step forms the base layer by imprinting.
+</P>
+<P>
+18. The mold manufacturing method according to claim 14 or 15, further comprising a demolding layer formation step of forming a demolding layer on a surface of the mold pattern, the demolding layer suppressing any adhesion with the processing object.
+</P>
+<P>
+19. A fine pattern product comprising:
+</P>
+<P>
+the mold according to claim 1 or 2; and
+</P>
+<P>
+a molded layer formed by joining with the mold.
+</P>
+<P>
+20. A method of manufacturing a fine pattern product by joining and imprinting the mold according to claim 1 or 2 with a processing object.
+</P>
+</Claims>
+<Also_published_as>
+EP2163367A4;US2010304087A1;KR20100031522A;WO2008149544A1
+</Also_published_as>
+</BiblioData>

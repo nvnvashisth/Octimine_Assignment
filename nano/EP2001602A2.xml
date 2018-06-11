@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LITHOGRAPHY IMPRINTING SYSTEM
+</Title>
+<PublicationNumber>
+EP2001602A2
+</PublicationNumber>
+<Inventor>
+<Name>
+CHERALA ANSHUMAN [US]
+</Name>
+<Name>
+LAD PANKAJ B [US]
+</Name>
+<Name>
+MCMACKIN IAN M [US]
+</Name>
+<Name>
+CHOI BYUNG-JIN [US]
+</Name>
+<Name>
+CHERALA, ANSHUMAN
+</Name>
+<Name>
+LAD, PANKAJ, B
+</Name>
+<Name>
+MCMACKIN, IAN, M
+</Name>
+<Name>
+CHOI, BYUNG-JIN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MOLECULAR IMPRINTS INC [US]
+</Name>
+<Name>
+MOLECULAR IMPRINTS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2001602
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070754579
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US08075
+</PriorityNumber>
+<PriorityDate>
+2007-04-02
+</PriorityDate>
+<PriorityNumber>
+US20060788779P
+</PriorityNumber>
+<PriorityDate>
+2006-04-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B05D5/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B29C43/00B
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+The present invention is directed towards a method and a system to create and maintain a desired environment in the vicinity of a nano-imprint lithography template by creation of a partial vacuum using channels or holes in the template holding the nano-imprint mold.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A system for creating a specific environment between a template and a substrate during a nanolithography imprinting process, comprising: a substrate; a template positioned in close proximity to the substrate creating a volume of space between a nano-imprint mold on the template and a corresponding location on the substrate; and a means for creating a partial evacuation of gas in the volume of space between the nano- imprint mold and the substrate.
+</P>
+<P>
+2. The system as recited in claim 1, wherein the template further comprises a plurality of holes positioned around the nano-imprint mold and passing through the template, the creating means utilizing the plurality of holes to create the partial evacuation of gas in the volume of space between the nano-imprint mold and the substrate.
+</P>
+<P>
+3. The system as recited in claim 1 , wherein the template further comprises a channel formed in the template around the nano-imprint mold, the channel coupled to the creating means.
+</P>
+<P>
+4. The system as recited in claim 1, wherein the creating means further comprises a body positioned around the template in a configuration that creates a gap between sides of the template and sides of the body whereby air flow up through the gap evacuates gas from between the template and the substrate.
+</P>
+<P>
+5. The system as recited in claim 1, further comprising a polymerizable fluid dispensed between the nano-imprint mold and the substrate.
+</P>
+</Claims>
+<Also_published_as>
+EP2001602A4;EP2001602B1;WO2007123805A2;WO2007123805A3;US2007275114A1;US7462028B2;KR20080114681A;JP2010179655A;JP2009532245A;CN101405087A;AT513625T
+</Also_published_as>
+</BiblioData>

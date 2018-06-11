@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NON-VOLATILE SWITCHING AND MEMORY DEVICES USING VERTICAL NANOTUBES
+</Title>
+<PublicationNumber>
+EP1938330A2
+</PublicationNumber>
+<Inventor>
+<Name>
+FURUKAWA TOSHIHARU [US]
+</Name>
+<Name>
+HAKEY MARK C [US]
+</Name>
+<Name>
+HOLMES STEVEN J [US]
+</Name>
+<Name>
+HORAK DAVID V [US]
+</Name>
+<Name>
+KOBURGER CHARLES W III [GB]
+</Name>
+<Name>
+FURUKAWA, TOSHIHARU
+</Name>
+<Name>
+HAKEY, MARK, C
+</Name>
+<Name>
+HOLMES, STEVEN, J
+</Name>
+<Name>
+HORAK, DAVID, V
+</Name>
+<Name>
+KOBURGER, CHARLES, W., III
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBM [US]
+</Name>
+<Name>
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1938330
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060851625
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-07-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US28464
+</PriorityNumber>
+<PriorityDate>
+2006-07-21
+</PriorityDate>
+<PriorityNumber>
+US20050161183
+</PriorityNumber>
+<PriorityDate>
+2005-07-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C11/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C13/02N
+</Class>
+</NCL>
+<Abstract>
+Non-volatile and radiation-hard switching and memory devices using vertical nano-tubes and reversibly held in state by van der Waals&apos; forces and methods of fabricating the devices. Means for sensing the state of the devices include measuring capacitance, and tunneling and field emission currents.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A structure, comprising:
+</P>
+<P>
+an insulating layer on a top surface of a substrate;
+</P>
+<P>
+an electrically conductive bitline formed in said insulating layer or on a top surface of said insulating layer, a top surface of said bitline parallel to said top surface of said substrate;
+</P>
+<P>
+a first electrically conductive wordline having a bottom surface, a top surface and a first sidewall;
+</P>
+<P>
+a second electrically conductive wordline having a bottom surface, a top surface and a second sidewall, said top and bottom surfaces of said first and second wordlines parallel to said top surface of said bitline, said first and second sidewalls about perpendicular to said top surface of said bitline said first and second wordlines spaced apart, said first and second sidewalls facing each other;
+</P>
+<P>
+a dielectric layer between said bottom surfaces of said first and second wordlines and said top surface of said bitline;
+</P>
+<P>
+a dielectric first spacer on said first sidewall and a dielectric second spacer on said second sidewall said first and second spacers spaced apart, said first and second spacers facing each other, and said top surface of said bitline exposed between said first and second spacers; and
+</P>
+<P>
+at least one electrically conductive nanotube having a first end and an opposite second end, said first end permanently attached to said bitline, said at least one nanotube extending away from said top surface of bitline.
+</P>
+<P>
+2. The structure of claim 1, wherein said at least one nanotube is flexible and has a length between said first and second ends such that a portion of said one or more nanotubes proximate to said second end may reversibly contact either said first or said second spacers.
+</P>
+<P>
+3. The structure of claim 1, wherein said at least one nanotube is reversibly held in contact with said first or second spacers by van der Waals&apos; forces.
+</P>
+<P>
+4. The structure of claim 1, wherein said at least one nanotube is a carbon nanotube.
+</P>
+<P>
+5. The structure of claim 1, wherein said at least one nanotube is a single-wall carbon nanotube.
+</P>
+<P>
+6. The structure of claim 1, further including:
+</P>
+<P>
+means for voltage biasing said first wordline and said bitline opposite to said second wordline and for voltage biasing said second wordline and said bitline opposite to said first wordline.
+</P>
+<P>
+7. The structure of claim 1, further including: means for detecting a spike of current on said first or second wordline or on said bitline or means for sensing a change in capacitance between said first wordline and said bitline or between said second wordline and said bitline.
+</P>
+<P>
+8. The structure of claim 1, further including a third spacer on top of said first spacer, a total thickness of said first and second spacers measured perpendicular to said first sidewall greater than a thickness of said second spacer measured perpendicular to said second sidewall.
+</P>
+<P>
+9. The structure of claim 8, further including:
+</P>
+<P>
+means for sensing a tunneling current through said second spacer, said current flow between said second wordline and said bitline, said current flowing through said one or more nanotubes.
+</P>
+<P>
+10. The structure of claim 1, further including:
+</P>
+<P>
+a first dielectric cap having a bottom surface, a top surface and a third sidewall, said bottom surface of said first dielectric cap in direct physical contact and coextensive with said top surface of said first wordline;
+</P>
+<P>
+a second dielectric cap having a bottom surface, a top surface and a fourth sidewall, said bottom surface of said second dielectric cap in direct physical contact and coextensive with said top surface of said second wordline, said third and fourth sidewalls facing each other, said first spacer extending over and in direct physical contact with said third sidewall and said second spacer extending over and in direct physical contact with said fourth sidewall; and
+</P>
+<P>
+an electrically conductive third spacer on said first spacer and an electrically conductive fourth spacer on said second spacer, said third and fourth spacers spaced apart, said third and fourth spacers facing each other, a bottom surface of said third spacer facing and overhanging said top surface of said bitline exposed between said first and second spacers, and a bottom surface of said fourth spacer facing and overhanging said top surface of said bitline exposed between said first and second spacers.
+</P>
+<P>
+11. The structure of claim 10, wherein:
+</P>
+<P>
+when an upper portion of said at least one nanotube proximate to said second end of said at least one nanotube is in contact with said first spacer, said second end of said at least one nanotube is positioned under but not touching a bottom surface of third spacer; and
+</P>
+<P>
+when said upper portion of said at least one nanotube proximate to said second end of said at least one nanotube is in contact with said second spacer, said second end of said at least one nanotube is positioned under but not touching said bottom surface of fourth spacer.
+</P>
+<P>
+12. The structure of claim 11, further including:
+</P>
+<P>
+means for voltage biasing said first wordline and said third spacer opposite to said second wordline and said bitline and for voltage biasing said second wordline and said fourth spacer opposite to said first wordline.
+</P>
+<P>
+13. The structure of claim 11, further including:
+</P>
+<P>
+means for sensing a field emission current across a first gap between said second end of said at least one nanotube and said bottom surface of said third spacer when said upper portion of said at least one nanotube proximate to said second end of said at least one nanotube is in contact with said first spacer; and
+</P>
+<P>
+means for sensing a field emission current across a second gap between said second end of said at least one nanotube and said bottom surface of said fourth spacer when said when said upper portion of said at least one nanotube proximate to said second end of said at least one nanotube is in contact with said second spacer.
+</P>
+<P>
+14. The structure of claim 1, wherein said bitline comprises a catalytic material for the formation of carbon nanotubes.
+</P>
+<P>
+15. A method, comprising:
+</P>
+<P>
+forming a first insulating layer on a substrate;
+</P>
+<P>
+forming an electrically conductive bitline on a top surface of said first insulating layer or forming an electrically conductive bitline in said first insulating layer such that top surface of said first insulating layer is coplanar with a top surface of said bitline;
+</P>
+<P>
+forming a dielectric layer on exposed surfaces of said first insulating layer and on exposed surfaces said bitline;
+</P>
+<P>
+forming a first electrically conductive wordline having a top surface, a first sidewall and forming a second electrically conductive wordline having a top surface and a second sidewall, said first and second wordlines spaced apart, said first and second sidewalls facing each other;
+</P>
+<P>
+forming a first dielectric cap in direct physical contact and coextensive with said top surface of said first wordline and forming a second dielectric cap in direct physical contact and coextensive with said top surface of said second wordline;
+</P>
+<P>
+forming a first dielectric spacer on said first sidewall and forming a second dielectric spacer on said second sidewall, said first and second spacers spaced apart, said first and second spacers facing each other;
+</P>
+<P>
+forming a second insulating layer on said first insulating layer, a top surface of said second insulating layer coplanar with a top surfaces of said first and second dielectric caps;
+</P>
+<P>
+removing said second insulating layer and said dielectric layer between said first and second spacers; and
+</P>
+<P>
+growing at least one nanotube on a top surface of said bitline exposed between said first and second spacers.
+</P>
+<P>
+16. The method of claim 15, wherein said at least one nanotube is flexible and has a length between said first and second ends such that a portion of said one or more nanotubes proximate to said second end may reversibly contact either said first or said second spacers.
+</P>
+<P>
+17. The method of claim 15, wherein said at least one nanotube is a carbon nanotube.
+</P>
+<P>
+18. The method of claim 15, wherein said at least one nanotube is a single-wall carbon nanotube.
+</P>
+<P>
+19. The method of claim 15, wherein said bitline comprises a catalytic material for the formation of carbon nanotubes.
+</P>
+<P>
+20. The method of claim 15, further including, removing said second spacer and forming a dielectric third spacer on said first spacer and a fourth spacer on said second sidewall of said second wordline.
+</P>
+<P>
+21. The method of claim 20, wherein:
+</P>
+<P>
+said first spacer has a first thickness in a direction perpendicular to said top surface of said first wordline;
+</P>
+<P>
+said third spacer has a second thickness in a direction perpendicular to said top surface of said first wordline;
+</P>
+<P>
+said fourth spacer has said second thickness in a direction perpendicular to said top surface of said second wordline; and
+</P>
+<P>
+said second thickness is less than said first thickness.
+</P>
+<P>
+22. The method of claim 15, wherein:
+</P>
+<P>
+said first dielectric cap has a third sidewall coextensive with first sidewall of said first wordline, said second dielectric cap has a fourth sidewall coextensive with second sidewall of said second wordline, said third and fourth sidewalls facing each other, said first spacer extending over and in direct physical contact with said third sidewall and said second spacer extending over and in direct physical contact with said fourth sidewall; and
+</P>
+<P>
+further including forming an electrically conductive third spacer on said first spacer and an electrically conductive fourth spacer on said second spacer, said third and fourth spacers spaced apart, said third and fourth spacers facing each other, a bottom surface of said third spacer facing and overhanging said top surface of said bitline exposed between said first and second spacers, and a bottom surface of said fourth spacer facing and overhanging said top surface of said bitline exposed between said first and second spacers.
+</P>
+<P>
+23. The method of claim 15, further including after forming said at least one nanotube:
+</P>
+<P>
+filling the space between said first and second spacers with a fill material;
+</P>
+<P>
+removing a portion of said fill material to form a recessed top surface of said fill material below coplanar top surfaces of said first and second dielectric caps and a portion of said at least one nanotube proximate to said second end of said at least one nanotube to form a new second end of said at least one nanotube;
+</P>
+<P>
+forming an electrically conductive third spacer on said first spacer and an electrically conductive fourth spacer on said second spacer said third and fourth spacers spaced apart, side surfaces of said third and fourth spacers facing each other, a bottom surface of said third spacer in direct physical contact with said recessed top surface of said fill material, and a bottom surface of said fourth spacer direct physical contact with said recessed top surface of said fill material;
+</P>
+<P>
+removing all remaining fill material; and
+</P>
+<P>
+isotropically removing a layer of said third spacer from all exposed surfaces of said third spacer and isotropically removing a layer of said fourth spacer from all exposed surfaces of said fourth spacer.
+</P>
+<P>
+24. A method, comprising
+</P>
+<P>
+providing a device comprising:
+</P>
+<P>
+a bitline;
+</P>
+<P>
+a first electrically conductive wordline having a bottom surface, a top surface and a first sidewall;
+</P>
+<P>
+a second electrically conductive wordline having a bottom surface, a top surface and a second sidewall, said top and bottom surfaces of said first and second wordlines parallel to said top surface of said bitline, said first and second sidewalls about perpendicular to said top surface of said bitline, said first and second wordlines spaced apart, said first and second sidewalls facing each other;
+</P>
+<P>
+a dielectric layer between said bottom surfaces of said first and second wordlines and said top surface of said bitline;
+</P>
+<P>
+a dielectric first spacer on said first sidewall and a dielectric second spacer on said second sidewall, said first and second spacers spaced apart, said first and second spacers facing each other, said top surface of said bitline exposed between said first and second spacers; and
+</P>
+<P>
+at least one electrically conductive nanotube having a first end and an opposite second end, said first end permanently attached to said bitline, said at least one nanotube extending away from said top surface of bitline; and
+</P>
+<P>
+electrostatically attracting said at least one nanotube to either said first or to said second spacer, an upper portion of said at least one nanotube proximate to said second end of said at least one nanotube temporarily attached to either said first or second spacer by van der Waals&apos; forces; and
+</P>
+<P>
+sensing to which of said first or said second spacers said at least one nanotube is temporarily attached.
+</P>
+<P>
+25. The method of claim 24, wherein said sensing includes measuring a capacitance change between said first wordline and said bitline or measuring a capacitance change between said second wordline and said bitline or measuring a spike in current flow on said first wordline, said second wordline or said bitline.
+</P>
+<P>
+26. The method of claim 24, wherein said first spacer has a first thickness said second spacer has a second thickness, said second thickness less than said first thickness and wherein said sensing includes measuring a tunneling current flow between said second wordline and said bitline, said tunneling current flow passing through said second spacer, and said at least one nanotube.
+</P>
+<P>
+27. The method of claim 24, wherein said device further comprises an electrically conductive third spacer on said first spacer and an electrically conductive fourth spacer on said second spacer, said third and fourth spacers spaced apart, said third and fourth spacers facing each other, a bottom surface of said third spacer facing and overhanging said top surface of said bitline exposed between said first and second spacers, and a bottom surface of said fourth spacer facing and overhanging said top surface of said bitline exposed between said first and second spacers.
+</P>
+<P>
+28. The method of claim 27, wherein said sensing includes measuring a field emission current between in either said third or said fourth spacers and said bitline, said field emission current jumping a gap between said second end of said at least one nanotube and said third spacer when said at least one nanotube is temporarily attached to said first spacer and said a field emission current jumping a gap between said second end of said at least one nanotube and said fourth spacer when said at least one nanotube is temporarily attached to said second spacer.
+</P>
+<P>
+29. A device comprising:
+</P>
+<P>
+an array of cells, each cell comprising:
+</P>
+<P>
+a first electrically conductive wordline having a bottom surface, a top surface and a first sidewall;
+</P>
+<P>
+a second electrically conductive wordline having a bottom surface, a top surface and a second sidewall, said top and bottom surfaces of said first and second wordlines parallel to said top surface of said bitline, said first and second sidewalls about perpendicular to said top surface of said bitline, said first and second wordlines spaced apart, said first and second sidewalls facing each other;
+</P>
+<P>
+a dielectric layer between said bottom surfaces of said first and second wordlines and said top surface of said bitline;
+</P>
+<P>
+a dielectric first spacer on said first sidewall and a dielectric second spacer on said second sidewall, said first and second spacers spaced apart, said first and second spacers facing each other, said top surface of said bitline exposed between said first and second spacers; and
+</P>
+<P>
+at least one electrically conductive nanotube having a first end and an opposite second end, said first end permanently attached to said bitline, said at least one nanotube extending away from said top surface of bitline; means for selectively attracting for each cell each said at least one nanotube of to either said first or said second wordline; and
+</P>
+<P>
+means for selectively sensing for each cell which of said first or said second wordlines said at least one nanotube has been attracted to.
+</P>
+<P>
+30. The method of claim 29, wherein said means for sensing, senses a capacitance between particular wordlines and bitlines of said device, a spike in current flow on particular wordlines or bitlines of said device, a tunneling current flow between particular wordlines and bitlines of said device, or a current drain on particular bitlines of said device.
+</P>
+</Claims>
+<Also_published_as>
+US2007025138A1;US7352607B2;WO2008039166A2;WO2008039166A3;US2008137397A1;US7668004B2;KR20080055784A;KR101004650B1;JP2009516362A;CN101542630A
+</Also_published_as>
+</BiblioData>

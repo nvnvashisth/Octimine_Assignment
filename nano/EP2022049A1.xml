@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ELECTRICAL-EFFECT DATA RECORDING MEDIUMS THAT INCLUDES A LOCALIZED ELECTRICAL CONDUCTION LAYER
+</Title>
+<PublicationNumber>
+EP2022049A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GIDON SERGE [FR]
+</Name>
+<Name>
+DESIERES YOHAN [FR]
+</Name>
+<Name>
+GIDON, SERGE
+</Name>
+<Name>
+DESIERES, YOHAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2022049
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070731406
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007FR00760
+</PriorityNumber>
+<PriorityDate>
+2007-05-03
+</PriorityDate>
+<PriorityNumber>
+FR20060004458
+</PriorityNumber>
+<PriorityDate>
+2006-05-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B9/00
+</Class>
+<Class>
+G11B9/04
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B9/04
+</Class>
+<Class>
+G11B9/14R
+</Class>
+</NCL>
+<Abstract>
+Un support d&apos;enregistrement de données par effet électrique (1) est, de préférence, constitué par un empilement successif d&apos;une couche de protection (3), d&apos;une couche à conduction électrique localisée (4), d&apos;une couche d&apos;enregistrement (5), d&apos;une couche mince formant une électrode (6) et d&apos;un substrat (7). La couche à conduction électrique localisée (4) est une couche mince comportant des zones localisées ayant une conduction électrique supérieure à celle du reste de ladite couche mince (4). Plus particulièrement, la couche à conduction électrique localisée (4) est formée par un matériau (8) de faible conductivité électrique, dans lequel sont dispersées des inclusions (9) dont la conductivité électrique est supérieure à celle du matériau (8). Les inclusions (9) peuvent être de forme oblongue ou sphérique.
+</Abstract>
+<Claims>
+<P>
+Revendications
+</P>
+<P>
+1. Support d&apos;enregistrement de données par effet électrique (1) comportant au moins une couche d&apos;enregistrement (5), caractérisé en ce qu&apos;une couche à conduction électrique localisée (4) est disposée sur la couche d&apos;enregistrement (5).
+</P>
+<P>
+2. Support selon la revendication 1, caractérisé en ce que la couche à conduction électrique localisée (4) est constituée par un matériau (8), présentant une faible conductivité électrique, dans lequel sont dispersées des inclusions (9) présentant une conductivité électrique supérieure à celle dudit matériau (8).
+</P>
+<P>
+3. Support selon la revendication 2, caractérisé en ce que les inclusions (9) sont de forme oblongue.
+</P>
+<P>
+4. Support selon la revendication 3, caractérisé en ce que chaque inclusion (9) présente un axe longitudinal (S) sensiblement perpendiculaire à l&apos;interface entre la couche à conduction électrique localisée (4) et la couche d&apos;enregistrement (5).
+</P>
+<P>
+5. Support selon l&apos;une des revendications 3 et 4, caractérisé en ce que les inclusions (9) sont des nanotubes en carbone ou des nanotubes en silicium 25 dopé n ou p.
+</P>
+<P>
+6. Support selon la revendication 2, caractérisé en ce que les inclusions (9) sont de forme sensiblement sphérique. 30
+</P>
+<P>
+7. Support selon la revendication 6, caractérisé en ce que les inclusions (9) sont constituées par un métal choisi parmi le nickel et le fer ou par un 12 composé choisi parmi le composé gallium-arsenic, le composé aluminium-arsenic et parmi les composés à base de nickel, de fer, d&apos;or ou d&apos;argent.
+</P>
+<P>
+8. Support selon l&apos;une des revendications 6 et 7, caractérisé en ce que le matériau (8) de la couche à conduction électrique localisée (4) présente une conductivité électrique non linéaire.
+</P>
+<P>
+9. Support selon l&apos;une quelconque des revendications 2 à 8, caractérisé en ce que le matériau (8) de la couche à conduction électrique localisée (4) est un chalcogénure.
+</P>
+<P>
+10. Support selon l&apos;une quelconque des revendications 2 à 5, caractérisé en ce que le matériau (8) de la couche à conduction électrique localisée (4) est choisi parmi du carbone, un gel de silice, un polymère.
+</P>
+<P>
+11. Support selon l&apos;une quelconque des revendications 2 à 10, caractérisé en ce que le matériau formant la couche d&apos;enregistrement (5) est identique au matériau (8) de la couche à conduction électrique localisée (4). 20
+</P>
+<P>
+12. Support selon l&apos;une quelconque des revendications 2 à 11, caractérisé en ce que les inclusions (9) sont en contact avec l&apos;interface entre la couche d&apos;enregistrement (5) et la couche à conduction électrique localisée (4).
+</P>
+<P>
+13. Utilisation d&apos;un support (1) selon l&apos;une quelconque des revendications 1 à 25 12, dans un dispositif d&apos;enregistrement de données comportant au moins une micro-pointe (2), caractérisé en ce que la couche à conduction électrique localisée (4) est disposée entre la couche d&apos;enregistrement (5) et la micro-pointe (2).15
+</P>
+</Claims>
+<Also_published_as>
+EP2022049B1;FR2901400A1;US2009175153A1;JP2009537929A;WO2007135258A1;AT446574T
+</Also_published_as>
+</BiblioData>

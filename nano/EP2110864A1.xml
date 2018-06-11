@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PHOTODIODE, OPTICAL COMMUNICATION DEVICE, AND OPTICAL INTERCONNECTION MODULE
+</Title>
+<PublicationNumber>
+EP2110864A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FUJIKATA JUNICHI [JP]
+</Name>
+<Name>
+OKAMOTO DAISUKE [JP]
+</Name>
+<Name>
+MAKITA KIKUO [JP]
+</Name>
+<Name>
+NISHI KENICHI [JP]
+</Name>
+<Name>
+OHASHI KEISHI [JP]
+</Name>
+<Name>
+FUJIKATA, JUNICHI
+</Name>
+<Name>
+OKAMOTO, DAISUKE
+</Name>
+<Name>
+MAKITA, KIKUO
+</Name>
+<Name>
+NISHI, KENICHI
+</Name>
+<Name>
+OHASHI, KEISHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NEC CORP [JP]
+</Name>
+<Name>
+NEC CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2110864
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070832626
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP72904
+</PriorityNumber>
+<PriorityDate>
+2007-11-28
+</PriorityDate>
+<PriorityNumber>
+JP20060342336
+</PriorityNumber>
+<PriorityDate>
+2006-12-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B6/122
+</Class>
+<Class>
+H01L31/0224
+</Class>
+<Class>
+H01L31/105
+</Class>
+<Class>
+H01L31/108
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B6/122S
+</Class>
+<Class>
+H01L31/105
+</Class>
+<Class>
+H01L31/108B
+</Class>
+</NCL>
+<Abstract>
+Intended is to provide a device structure, which makes the light receiving sensitivity and the high speediness of a photodiode compatible. Also provided is a Schottky barrier type photodiode having a conductive layer formed on the surface of a semiconductor layer. The photodiode is so constituted that a light can be incident on the back side of the semiconductor layer, and that a periodic structure, in which a light incident from the back side of the semiconductor layer causes a surface plasmon resonance, is made around the Schottky junction of the photodiode.
+</Abstract>
+<Claims>
+<P>
+1. A Schottky barrier type photodiode having a conductive layer formed on a surface of a semiconductor layer, said photodiode configured so that light can be incident on a back side of said semiconductor layer, wherein a periodic structure in which the light incident from the back side of said semiconductor layer causes a surface plasmon resonance is made around a Schottky junction of said photodiode.
+</P>
+<P>
+2. A p-i-n type photodiode having a p-i-n type junction formed on a surface of a semiconductor layer, said photodiode configured so that light can be incident on a back side of said semiconductor layer, wherein a conductive layer is formed, and a periodic structure in which the light incident from the back side of said semiconductor layer causes a surface plasmon resonance is made around the p-i-n junction of said photodiode.
+</P>
+<P>
+3. A photodiode having metal-semiconductor-metal junctions intervally arranged on a surface of a semiconductor layer, said photodiode configured so that light can be incident on a back side of said semiconductor layer, wherein a conductive layer is formed, and a periodic structure in which the light incident from the back side of said semiconductor layer causes a surface plasmon resonance is made around the metal-semiconductor-metal junction of said photodiode.
+</P>
+<P>
+4. The photodiode as claimed in Claim 3;
+</P>
+<P>
+wherein an interval of the metal-semiconductor-metal junctions arranged on the surface of the semiconductor layer is equal to or less than [lambda]/n (where [lambda]: a wavelength of the light incident from the back side of the semiconductor layer, and n: a refractive index of the light in the semiconductor layer); and
+</P>
+<P>
+wherein said metal layer is a layer in which a metal layer forming a Schottky junction with said semiconductor, and a layer comprised of a conductive material capable of inducing a surface plasmon have been laminated, or a metal layer capable of forming the Schottky junction with said semiconductor, and yet of inducing the surface plasmon.
+</P>
+<P>
+5. The photodiode as claimed in Claim 3 or Claim 4,
+</P>
+<P>
+wherein, with respect to the metal-semiconductor-metal junction, at least one of metal-semiconductor junctions facing each other is a Schottky barrier junction.
+</P>
+<P>
+6. The photodiode as claimed in one of Claim 1 to Claim 5,
+</P>
+<P>
+wherein the periodic structure for causing the surface plasmon resonance is a structure in which the conductive layers capable of inducing the surface plasmon have been laminated on the surface of the semiconductor layer having roughness formed thereon.
+</P>
+<P>
+7. The photodiode as claimed in one of Claim 1 to Claim 6,
+</P>
+<P>
+wherein the periodic structure for causing the surface plasmon resonance is a structure in which the conductive layers capable of inducing the surface plasmon have been laminated on the surface of a dielectric layer having roughness formed thereon.
+</P>
+<P>
+8. The photodiode as claimed in one of Claim 1 to Claim 7,
+</P>
+<P>
+wherein the periodic structure for preventing the surface plasmon resonance from being generated is made outside the periodic structure for causing the surface plasmon resonance.
+</P>
+<P>
+9. The photodiode as claimed in one of Claim 1 to Claim 8,
+</P>
+<P>
+wherein a stepped structure for reflecting the surface plasmon is made outside the periodic structure for causing the surface plasmon resonance.
+</P>
+<P>
+10. The photodiode as claimed in Claim 9, wherein the stepped structure is comprised of a projected shape higher than [lambda]/nd (where nd is a refractive index of the light in the semiconductor layer or the dielectric layer neighboring a conductive film and [lambda] is a wavelength of the light).
+</P>
+<P>
+11. The photodiode as claimed in Claim 9 or Claim 10,
+</P>
+<P>
+wherein the stepped structure is comprised of a grooved shape deeper than [lambda]/nd (where nd is a refractive index of the light in the semiconductor layer or the dielectric layer neighboring the conductive film and [lambda] is a wavelength of the light).
+</P>
+<P>
+12. The photodiode as claimed in one of Claim 9 to Claim 11, wherein the stepped structure is comprised of a shape formed in the conductive material, said shape having bores of which a diameter is equal to or smaller than the wavelength of the incident light arrayed thereon.
+</P>
+<P>
+13. The photodiode as claimed in one of Claim 9 to Claim 12, wherein the stepped structure is comprised of a shape formed in the conductive material, said shape having slits of which a width is equal to or smaller than the wavelength of the incident light arrayed thereon.
+</P>
+<P>
+14. The photodiode as claimed in one of Claim 9 to Claim 13, wherein the conductive layer is configured of at least one metal selected from a group consisting of Al, Ag, Au and, Cu, or an alloy thereof.
+</P>
+<P>
+15. The photodiode as claimed in one of Claim 1 to Claim 14, wherein a junction area in the photodiode is 100 square microns or less.
+</P>
+<P>
+16. The photodiode as claimed in one of Claim 1 to Claim 14, wherein a junction area in the photodiode is 10 square microns or less.
+</P>
+<P>
+17. The photodiode as claimed in one of Claim 1 to Claim 14, wherein a junction area in the photodiode is one square micron or less.
+</P>
+<P>
+18. The photodiode as claimed in one of Claim 1 to Claim 17, wherein a thickness of the semiconductor absorption layer in the photodiode is 1 [micro]m or less.
+</P>
+<P>
+19. The photodiode as claimed in one of Claim 1 to Claim 17, wherein a thickness of the semiconductor absorption layer in the photodiode is 200 nm or less.
+</P>
+<P>
+20. The photodiode as claimed in one of Claim 1 to Claim 19, wherein the semiconductor absorption layer in the photodiode is configured of at least one member selected from a group consisting of Si, SixGel-x (where x is a positive number less than 1), Ge, GaN, GaAs, GaInAs, GaInP, and InP.
+</P>
+<P>
+21. The photodiode as claimed in one of Claim 1 to Claim 20:
+</P>
+<P>
+wherein the semiconductor absorption layer in the photodiode is configured of at least one member selected from a group consisting of Ge, and SixGel-x (where x is a positive number less than 1); and
+</P>
+<P>
+wherein a layer comprised of an alloy of Ni and Ge is formed between said semiconductor absorption layer and the conductive layer.
+</P>
+<P>
+22. The photodiode as claimed in one of Claim 1 to Claim 21, said photodiode configured on an optical waveguide comprised of the semiconductor.
+</P>
+<P>
+23. The photodiode as claimed in one of Claim 1 to Claim 21, said photodiode configured so that it can receives the light from the optical waveguide formed on a substrate side, said light reflected by a mirror.
+</P>
+<P>
+24. The photodiode as claimed in one of Claim 1 to Claim 23, wherein a substrate of the photodiode is configured of a material transparent to the incident light.
+</P>
+<P>
+25. An optical communication device, wherein any of the photodiodes of Claim 1 to Claim 24 is formed on a light receiving portion.
+</P>
+<P>
+26. An optical interconnection module, comprising:
+</P>
+<P>
+a Si substrate having any of the photodiodes of Claim 1 to Claim 24 configured thereon; and
+</P>
+<P>
+an LSI electronic circuit formed monolithically with said photodiode on said Si substrate.
+</P>
+<P>
+Amended claims under Art. 19.1 PCT
+</P>
+<P>
+1. (Amended) A Schottky barrier type photodiode having a conductive layer formed on a surface of a semiconductor layer:
+</P>
+<P>
+wherein a periodic structure for causing a surface plasmon resonance is formed adjacently to said conductive layer in a circumference of a Schottky junction of said photodiode;
+</P>
+<P>
+wherein said semiconductor layer is formed on a surface in which said periodic structure of said conductive layer has been formed;
+</P>
+<P>
+wherein a dielectric layer of which a refractive index is lower than that of said semiconductor layer is formed around said semiconductor layer; and
+</P>
+<P>
+wherein said photodiode is configured so that light can be incident on a surface in which said periodic structure has been made.
+</P>
+<P>
+2. (Amended) A p-i-n type photodiode having a p-i-n type junction formed on a surface of a semiconductor layer:
+</P>
+<P>
+wherein a conductive layer is formed and a periodic structure for causing a surface plasmon resonance is formed adjacently to said conductive layer in a circumference of the p-i-n junction of said photodiode;
+</P>
+<P>
+wherein said semiconductor layer is formed on a surface in which said periodic structure of said conductive layer has been formed;
+</P>
+<P>
+wherein a dielectric layer of which a refractive index is lower than that of said semiconductor layer is formed around said semiconductor layer; and
+</P>
+<P>
+wherein said photodiode is configured so that light can be incident on a surface in which said periodic structure has been made.
+</P>
+<P>
+3. (Amended) A photodiode having metal-semiconductor-metal junctions intervally arranged on a surface of a semiconductor layer:
+</P>
+<P>
+wherein a conductive layer is formed and a periodic structure for causing a surface plasmon resonance is formed adjacently to said conductive layer in a circumference of the metal-semiconductor-metal junction of said photodiode;
+</P>
+<P>
+wherein said semiconductor layer is formed on a surface in which said periodic structure of said conductive layer has been formed;
+</P>
+<P>
+wherein a dielectric layer of which a refractive index is lower than that of said semiconductor layer is formed around said semiconductor layer; and
+</P>
+<P>
+wherein said photodiode is configured so that light can be incident on a surface in which said periodic structure has been made.
+</P>
+<P>
+4. The photodiode as claimed in Claim 3;
+</P>
+<P>
+wherein an interval of the metal-semiconductor-metal junctions arranged on the surface of the semiconductor layer is equal to or less than [lambda]/n (where [lambda]: a wavelength of the light incident from the back side of the semiconductor layer, and n: a refractive index of the light in the semiconductor layer); and
+</P>
+<P>
+wherein said metal layer is a layer in which a metal layer forming a Schottky junction with said semiconductor, and a layer comprised of a conductive material capable of inducing a surface plasmon have been laminated, or a metal layer capable of forming the Schottky junction with said semiconductor, and yet of inducing the surface plasmon.
+</P>
+</Claims>
+<Also_published_as>
+EP2110864A4;US2010200941A1;WO2008075542A1;CN101563790A;CN101563790B
+</Also_published_as>
+</BiblioData>

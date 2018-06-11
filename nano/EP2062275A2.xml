@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+HIGHLY ACCESSIBLE, NANOTUBE ELECTRODES FOR LARGE SURFACE AREA CONTACT APPLICATIONS
+</Title>
+<PublicationNumber>
+EP2062275A2
+</PublicationNumber>
+<Inventor>
+<Name>
+RINZLER ANDREW G [US]
+</Name>
+<Name>
+REYNOLDS JOHN R [US]
+</Name>
+<Name>
+DAS RAJIB KUMAR [US]
+</Name>
+<Name>
+RINZLER, ANDREW, G
+</Name>
+<Name>
+REYNOLDS, JOHN, R
+</Name>
+<Name>
+DAS, RAJIB, KUMAR
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV FLORIDA [US]
+</Name>
+<Name>
+UNIVERSITY OF FLORIDA RESEARCH FOUNDATION, INCORPORATED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2062275
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070842309
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US78230
+</PriorityNumber>
+<PriorityDate>
+2007-09-12
+</PriorityDate>
+<PriorityNumber>
+US20060843939P
+</PriorityNumber>
+<PriorityDate>
+2006-09-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01G9/058
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01G9/058
+</Class>
+</NCL>
+<Abstract>
+A highly porous electrically conducting film that includes a plurality of carbon nanotubes, nanowires or a combination of both. The highly porous electrically conducting film exhibits an electrical resistivity of less than 0.1 O-cm at 25 C and a density of between 0.05 and 0.70 g/cm&amp;lt;3&amp;gt;. The film can exhibit a density between 0.50 and 0.85 g/cm&amp;lt;3&amp;gt; and an electrical resistivity of less than 6 x 10&amp;lt;-3&amp;gt; O-cm at 25 C. Also included is a method of forming these highly porous electrically conducting films by forming a composite film using carbon nanotubes or nanowires and sacrificial nanoparticles or microparticles. At least a portion of the nanoparticles or microparticles are then removed from the composite film to form the highly porous electrically conducting film.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method for forming porous carbon nanotube or nanowire films, characterized in that: forming a composite film comprising carbon nanotubes or nanowires and sacrificial nanoparticles or microparticles, and removing at least a portion of said nanoparticles or microparticles from said film to form a highly porous nanotube or nanowire film.
+</P>
+<P>
+2. The method of claim 1, characterized in that the forming step comprises codepositing said carbon nanotubes or nanowires and said microparticles or said nanoparticles.
+</P>
+<P>
+3. The method of claim 1, characterized in that the forming step comprises alternating deposition of said carbon nanotubes or nanowires and deposition of said microparticles or said nanoparticles.
+</P>
+<P>
+4. The method of claim 1, characterized in that the forming step is characterized in that: providing a porous membrane; dispersing a plurality of said nanotubes or nanowires and microparticles or said nanoparticles into a solution, said solution including at least one surface stabilizing agent for preventing said nanotubes or nanowires from flocculating out of suspension; applying said solution to said membrane, and removing said solution, wherein said nanotubes or nanowires and microparticles or said nanoparticles are forced onto a surface of said porous membrane to form said composite film disposed on said membrane.
+</P>
+<P>
+5. The method of claim 1, characterized in that an electrical resistivity of said porous film at 25 &amp;lt;0&amp;gt;C is &amp;lt; 6 x 10&amp;lt;~3&amp;gt; [Omega]-cm.
+</P>
+<P>
+6. The method of claim 1, characterized in that said nanotubes or nanowires comprise &amp;gt; 95% single walled carbon nanotubes (SWNTs).
+</P>
+<P>
+7. The method of claim 1, characterized in that said forming step comprises a spray deposition process.
+</P>
+<P>
+8. The method of claim 1, characterized in that said forming step comprises an electrodeposition process.
+</P>
+<P>
+9. The method of claim 1, characterized in that said forming step comprises a Langmuir Blodgett deposition process.
+</P>
+<P>
+10. The method of claim 1, characterized in that said nanoparticles or microparticles possess a uniform size.
+</P>
+<P>
+11. The method of claim 1 , characterized in that said nanoparticles or microparticles possess a range of sizes.
+</P>
+<P>
+12. The method of claim 1, further characterized in that: functionalizing surfaces of said nanoparticles or microparticles with a species having a specific affinity for nanotubes or nanowires before said forming step to enhance the assembly of said nanotubes or nanowires onto surfaces of said nanoparticles or microparticles.
+</P>
+<P>
+13. The method of claim 12, characterized in that said functionalizing step comprises mixing and incubating for a period of time said nanoparticles or microparticles with said nanotubes or nanowires.
+</P>
+<P>
+14. The method of claim 4, further characterized in that: adding an additive other than said surface stabilizing agent to said suspension before said filtration step, said additive preventing phase separation of said nanoparticles or microparticles with said nanotubes or nanowires.
+</P>
+<P>
+15. The method of claim 14, characterized in that said additive comprises a strong acid.
+</P>
+<P>
+16. The method of claim 1, characterized in that said nanoparticles or microparticles are removed in a process involving a liquid, said film being kept wet for subsequent processing for later use.
+</P>
+<P>
+17. An electrically conducting highly porous film, characterized in that: a plurality of carbon nanotubes, nanowires, or a combination of both, said film providing an electrical resistivity of &amp;lt; 0.1 [Omega]-cm at 25 C and a density of between 0.05 and 0.70 g/cm&amp;lt;3&amp;gt;.
+</P>
+<P>
+18. The film of claim 17, characterized in that said density is between 0.50 and 0.85 g/cm&amp;lt;3&amp;gt; and said electrical resistivity is &amp;lt; 6 x 10&amp;lt;&quot;3&amp;gt; [Omega]-cm at 25 C.
+</P>
+<P>
+19. The film of claim 17, characterized in that said nanotubes or nanowires comprises &amp;gt; 95% single walled carbon nanotubes (SWNTs).
+</P>
+<P>
+20. The film of claim 17, characterized in that said film consists essentially of said nanotubes.
+</P>
+</Claims>
+<Also_published_as>
+WO2008033889A2;WO2008033889A3;US2008299030A1;US7704479B2;US2010207074A1;SG174798A1;KR20090060344A;JP2010510945A;CN101529542A;CN101529542B;CA2663281A1
+</Also_published_as>
+</BiblioData>

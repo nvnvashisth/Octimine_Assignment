@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETOCHEMICAL SENSOR
+</Title>
+<PublicationNumber>
+EP1966599A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BRUGGEN MICHEL PAUL BARBARA [NL]
+</Name>
+<Name>
+MEGENS MISCHA [NL]
+</Name>
+<Name>
+VAN ZON HANS [NL]
+</Name>
+<Name>
+KURT RALPH [NL]
+</Name>
+<Name>
+PENTERMAN ROEL [NL]
+</Name>
+<Name>
+BROER DIRK JAN [NL]
+</Name>
+<Name>
+PEETERS EMIEL [NL]
+</Name>
+<Name>
+BRUGGEN, MICHEL PAUL BARBARA
+</Name>
+<Name>
+MEGENS, MISCHA
+</Name>
+<Name>
+VAN ZON, HANS
+</Name>
+<Name>
+KURT, RALPH
+</Name>
+<Name>
+PENTERMAN, ROEL
+</Name>
+<Name>
+BROER, DIRK JAN
+</Name>
+<Name>
+PEETERS, EMIEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONINKL PHILIPS ELECTRONICS NV [NL]
+</Name>
+<Name>
+KONINKLIJKE PHILIPS ELECTRONICS N.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1966599
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060831919
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-24
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006IB54415
+</PriorityNumber>
+<PriorityDate>
+2006-11-24
+</PriorityDate>
+<PriorityNumber>
+EP20050112642
+</PriorityNumber>
+<PriorityDate>
+2005-12-21
+</PriorityDate>
+<PriorityNumber>
+EP20060831919
+</PriorityNumber>
+<PriorityDate>
+2006-11-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N27/72
+</Class>
+<Class>
+G01R33/09
+</Class>
+<Class>
+H01F1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+H01F1/00E10
+</Class>
+<Class>
+H01F10/32N6
+</Class>
+</NCL>
+<Abstract>
+The application is directed to a sensor element for use in a magnetochemical sensor, which comprises a first gel-like material (10), especially a swellable hydrogel such as polyacrylamide, and a magnetic second material (20) in the form of particles, especially magnetite (Fe304) nanoparticles, embedded in the first material along with a receptor for an alalyte, eg glucose. Changes in magnetic field due to interaction with the analyte are detected with GMR element (50). Applications include biosensors, DNA testing devices, and high throughput screening.
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. A magnetochemical sensor, especially for determining the presence, identity, amount and/or concentration of at least one analyte in a fluid sample comprising
+</P>
+<P>
+(a) a first material, whereby the first material is an elastic material adapted to change its physical properties according to interaction with said at least one analyte; and
+</P>
+<P>
+(b) a second material embedded in said first material whereby the second material is a magnetic material.
+</P>
+<P>
+2. The sensor according to claim 1, whereby the sensor comprises at least one current delivering means adapted to provide a current in such a way as to cause a change in orientation in the magnetic dipoles in the second material and/or the sensor comprises at least one measuring means and at least one GMR element adapted to measure the change of the resistance of a GMR element caused by the in-plane component of the magnetic stray- field of the oriented dipoles in the second material.
+</P>
+<P>
+3. The sensor according to claim 1 or 2, whereby the saturation magnetization of the second material is &amp;gt;=l x 10&amp;lt;5&amp;gt; A/m and &amp;lt;=l x 10&amp;lt;6&amp;gt; A/m.
+</P>
+<P>
+4. The sensor according to any of the claims 1 to 3, whereby the concentration of the second material in said first material is &amp;gt;=1% and &amp;lt;=20%.
+</P>
+<P>
+5. The sensor according to any of the claims 1 to 4, whereby the product of the magnetization and the concentration of the second material is &amp;gt;=10&amp;lt;3&amp;gt; and &amp;lt; 4*10&amp;lt;7&amp;gt;.
+</P>
+<P>
+6. The sensor according to any of the claims 1 to 5 whereby the average particle size of the second material is &amp;gt;=l nm and &amp;lt;=40 nm.
+</P>
+<P>
+7. The sensor according to any of the claims 1 to 5 whereby the magnetic anisotropy constant of the second material is &amp;gt;= 1 * 10&amp;lt;3&amp;gt; J/m&amp;lt;3&amp;gt; and &amp;lt;= 1 * 10&amp;lt;5&amp;gt; J/m&amp;lt;3&amp;gt;.
+</P>
+<P>
+8. A method of measuring the presence, identity, amount and/or concentration of at least one analyte in a sample using a sensor according to any of the claims 1 to 7, comprising the steps of
+</P>
+<P>
+(a) Allowing the first material to interact with the at least one analyte to cause a change of physical properties in the first material
+</P>
+<P>
+(b) Applying a current in such a way as to cause a change in orientation in the magnetic dipoles in the second material (c) Measuring the change of the resistance of an GMR element caused by the in-plane component of the magnetic stray- field of the oriented dipoles in the second material.
+</P>
+<P>
+9. The method of claim 8, whereby the first material changes its size and/or thickness when interacting with the at least one analyte.
+</P>
+<P>
+10. A system incorporating a sensor according to any of the Claims 1 to 7, and/or adapted to carry out the method of the claims 8 and 9 and being used in one or more of the following applications:
+</P>
+<P>
+- biosensors used for molecular diagnostics rapid and sensitive detection of proteins and nucleic acids in complex biological mixtures such as e.g. blood or saliva high throughput screening devices for chemistry, pharmaceuticals or molecular biology - testing devices e.g. for DNA or proteins e.g. in criminology, for on-site testing
+</P>
+<P>
+(in a hospital), for diagnostics in centralized laboratories or in scientific research tools for DNA or protein diagnostics for cardiology, infectious disease and oncology, food, and environmental diagnostics tools for combinatorial chemistry analysis devices.
+</P>
+</Claims>
+<Also_published_as>
+WO2007072243A1;US2011095756A1;JP2009520976A;CN101341399A
+</Also_published_as>
+</BiblioData>

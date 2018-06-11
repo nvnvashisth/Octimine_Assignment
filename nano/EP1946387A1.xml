@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+OPTICAL STRUCTURE FOR LOCALIZING AN ELECTROMAGNETIC FIELD AND DETECTOR OR EMITTER DEVICE COMPRISING SUCH A STRUCTURE
+</Title>
+<PublicationNumber>
+EP1946387A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CARRAS MATHIEU [FR]
+</Name>
+<Name>
+DE ROSSI ALFREDO [FR]
+</Name>
+<Name>
+SCHNELL JEAN-PHILIPPE [FR]
+</Name>
+<Name>
+CARRAS, MATHIEU
+</Name>
+<Name>
+DE ROSSI, ALFREDO
+</Name>
+<Name>
+SCHNELL, JEAN-PHILIPPE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+THALES SA [FR]
+</Name>
+<Name>
+THALES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1946387
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060819390
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006EP68334
+</PriorityNumber>
+<PriorityDate>
+2006-11-10
+</PriorityDate>
+<PriorityNumber>
+FR20050011463
+</PriorityNumber>
+<PriorityDate>
+2005-11-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B6/42
+</Class>
+<Class>
+H01L31/0236
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B6/122S
+</Class>
+<Class>
+H01L31/0236
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+Une structure optique permettant l&apos;utilisation des propriétés des plasmons de surface est définie à partir d&apos;un motif élémentaire ME paramétrable, essentiellement binaire. Les paramètres a, b, c, d et hg du motif sont choisis de manière à maximiser les amplitudes complexes des deux premiers harmoniques de la série de Fourier complexe décrivant le motif ME. Cette structure est utilisée de manière avantageuse en combinaison avec un photodétecteur, un émetteur d&apos;une onde optique infra-rouge ou Terahertz, ou un dispositif à émission de champ.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Dispositif comprenant au moins un élément optique actif disposé dans un milieu de perméabilité diélectrique positive et, à proximité dudit élément actif, une structure optique comprenant une couche d&apos;un matériau de perméabilité diélectrique négative, ladite couche présentant, repérée dans un référentiel orthogonal Oxyz, une surface ayant un relief y=h(x,z) invariant selon Oz et variable selon Ox, l&apos;axe Oy étant orienté depuis le 1 o milieu de perméabilité diélectrique positive vers ladite couche de perméabilité diélectrique négative, ladite surface étant en contact avec ledit milieu de perméabilité diélectrique positive et comprenant une première zone de relief (A), ayant un profil en coupe selon Oxy qui comprend une répétition périodique d&apos;un motif élémentaire (ME) et une 15 deuxième zone de relief (B) symétrique de ladite première zone (A) par rapport à un plan de symétrie (II) parallèle à Oyz, lesdites première et deuxième zones étant séparées par une troisième zone (C) disposée au centre de la structure et créant en comparaison avec lesdites première et deuxième zones (A,B), un défaut de périodicité de la surface en relief, 20 caractérisé en ce que ledit motif élémentaire est défini par quatre portions successives, une première portion (pa) de largeur à mi-hauteur a et une deuxième portion (pb) de largeur à mi-hauteur b, une troisième portion (pc) de largeur à mi-hauteur c et une quatrième portion (pd) de largeur à mi-hauteur d, les première et troisième portions étant sensiblement de 25 même hauteur ht, les deuxième et quatrième portions étant sensiblement de même hauteur hd différente de ht, avec ht strictement supérieur à hd et en ce que a, b, c, d et hg= Iht- hdl sont des paramètres du profil choisis tels que : -chacun est non nul, 30 -la somme a+b+c+d est égale à la période A et -au moins arc ou b=d.
+</P>
+<P>
+2. Dispositif selon la revendication 1, caractérisé en ce que lesdites portions forment un motif binaire.
+</P>
+<P>
+3. Dispositif selon la revendication 1 ou 2, caractérisé en ce que ladite 35 troisième zone (C,) a une longueur (I) égale à un nombre m entier non nul de périodes A.
+</P>
+<P>
+4. Dispositif selon la revendication 3, caractérisé en ce que ladite troisième zone (C1) débute en un point de position x1 sur l&apos;axe Ox correspondant sensiblement au milieu d&apos;une première portion (Pa) d&apos;un motif élémentaire de ladite première zone (A1) et se termine en un point de position x2 sur l&apos;axe Ox correspondant sensiblement au milieu d&apos;une première portion (Pa) d&apos;un motif élémentaire de ladite deuxième zone (B1), et en ce que ledit motif élémentaire (ME) pouvant être décrit par une série de Fourier à amplitudes complexes, les paramètres a, b, c, d et hg sont choisis tels que -entre un harmonique d&apos;ordre un (f(x,y,A)) et un harmonique d&apos;ordre deux (g(x,y, &apos;/2A)) de ladite série de Fourier, il existe un déphasage relatif (SA) sensiblement nul et - l&apos;amplitude complexe de la première harmonique non nulle d&apos;ordre supérieur à 2 est négligeable devant les amplitudes complexes des harmoniques d&apos;ordre un (f (x,y,A)) et d&apos;ordre deux (g(x,y, %2A)).
+</P>
+<P>
+5. Dispositif selon l&apos;une des revendications 3 ou 4, caractérisé en ce que ladite troisième zone (C) a un relief sensiblement plan suivant Oxz sur toute sa longueur et en ce que les paramètres a, b, c et d vérifient les relations suivantes : - arc et - b=d.
+</P>
+<P>
+6. Dispositif selon la revendication 1 ou 2, caractérisé en ce que ladite troisième zone (C) a une longueur nulle suivant Ox.
+</P>
+<P>
+7. Dispositif selon la revendication 6, caractérisé en ce que lesdites première zone (A2) et deuxième zone (B2) sont telles que : - la première zone (A2) comprend un nombre N/2 fois la réplique d&apos;un motif (MEXp), ledit motif (MExp) étant défini à partir d&apos;une suite périodique du motif élémentaire (ME) entre un point (P) de position 30 xp sur l&apos;axe Ox et un point (P&apos;) de position xp+A sur l&apos;axe Ox, ledit point (P) de position xp étant tel que l&apos;équation suivante soit vérifiée : +A / 2~t.x &apos; hä (x).sin dx = 0 où hä(x) est la hauteur suivant Oy A, du profil en un point x de l&apos;intervalle [xp, xp+A];-la deuxième zone (B2) est obtenue par duplication de ladite première zone suivant une opération de symétrie par rapport au dit plan de symétrie (H) ; et en ce que ledit motif élémentaire (ME) pouvant être décrit par une série de Fourier à amplitudes complexes, les paramètres a, b, c, d et h9 sont choisis tels que : - entre un harmonique d&apos;ordre un (f(x,y,A)) et un harmonique d&apos;ordre deux (g(x,y, &apos;/2A)) de ladite série de Fourier, il existe un déphasage relatif (8A) sensiblement égal à A/4 et - l&apos;amplitude complexe d&apos;au moins un harmonique parmi les harmoniques d&apos;ordre supérieur à deux, est négligeable devant les amplitudes complexes des harmoniques d&apos;ordre un (f (x,y,A)) et d&apos;ordre deux (g(x,y, &apos;/2A)).
+</P>
+<P>
+8. Dispositif selon l&apos;une quelconque des revendications 1 à 7, caractérisé en ce que: -ledit milieu de perméabilité diélectrique positive est un matériau de type semi-conducteur; -ledit élément optique actif est une zone de photo-détection (21) disposée dans une couche (20) dudit matériau, centrée par rapport à ladite troisième zone (C), apte à fournir un signal électrique correspondant à la détection d&apos;une onde électromagnétique d&apos;une longueur d&apos;onde déterminée, et -la période A de la structure optique, multipliée par l&apos;indice de réfraction de ladite couche (20), est proche de ladite longueur d&apos;onde.
+</P>
+<P>
+9. Dispositif selon la revendication 8, caractérisé en ce que ladite longueur d&apos;onde appartient à un domaine infrarouge.
+</P>
+<P>
+10. Dispositif selon la revendication 8 ou 9, en combinaison avec un profil suivant l&apos;une des revendications 3 à 6, caractérisé en ce que la structure optique (110) comprend une couche de semi-conducteur dopée (111) de perméabilité diélectrique positive, et une première couche (112) et une deuxième couche (113) de matériau de perméabilité diélectrique négative, ladite première couche (112) présentant une surface en relief dans laquelle la troisième zone (C) est formée par un trou dans cette couche en ce que l&apos;élément optique actif (120) est disposé directement sur ladite couche de matériau semi-conducteur dopé (111), ladite couche(111) se trouvant à un niveau au-dessus de la première couche (112) dans cette troisième zone (C) et la deuxième couche (113) de matériau de perméabilité diélectrique négative étant disposée au-dessus de l&apos;élément optique actif, et isolée électriquement de la première couche 112.
+</P>
+<P>
+11. Matrice photosensible comprenant une pluralité de photodétecteurs, caractérisé en ce que lesdits photodétecteurs sont des dispositifs selon l&apos;une quelconque des revendications 8 à 10.
+</P>
+<P>
+12. Dispositif selon l&apos;une quelconque des revendications 1 à 7, caractérisé en ce que: -le milieu de perméabilité diélectrique positive est un matériau de type semi-conducteur, -ledit élément optique actif est une couche active (210) dudit matériau permettant un gain optique et une émission laser, -la période A, multiplié par l&apos;indice de réfraction de la couche 20, est proche de la longueur d&apos;onde émise, ledit dispositif permettant une extraction verticale de l&apos;émission laser.
+</P>
+<P>
+13. Dispositif selon la revendication 12 en combinaison avec la revendication 4 ou 7, caractérisé en ce que les paramètres a, b, c, d et hg de ladite structure optique sont choisis tels que le deuxième harmonique d&apos;ordre 2 (g(x,y,A)) de la série de Fourier associée au profil du motif élémentaire a une amplitude complexe ((3) très supérieure à l&apos;amplitude complexe (a) de l&apos;harmonique d&apos;ordre 1 (f(x,y,A)).
+</P>
+<P>
+14. Dispositif selon la revendication 12 ou 13, caractérisé en ce qu&apos;il comprend en outre au moins une couche (211) ayant un indice optique plus faible que l&apos;indice optique de la couche active (210).
+</P>
+<P>
+15. Matrice photo-émettrice comprenant une pluralité de dispositifs photo-émetteurs d&apos;un faisceau laser réalisés sur un même substrat (S), caractérisée en ce que lesdits dispositifs photo-émetteurs sont des dispositifs selon l&apos;une quelconque des revendications 12 à 14.
+</P>
+<P>
+16. Dispositif selon l&apos;une quelconque des revendications 1 à 7, caractérisé en ce que: -le milieu de perméabilité diélectrique positive est un matériau de type semi-conducteur,-ledit matériau comprenant un élément optique actif constitué d&apos;une couche (300) d&apos;un matériau non linéaire transparent à des longueurs d&apos;onde d&apos;une gamme proche infrarouge et terahertz, ladite couche (300) comportant un guide d&apos;onde non linéaire (301) transparent aux dites longueurs d&apos;onde, et ayant une perméabilité diélectrique positive plus grande que celle de ladite couche (300), -la période A, multipliée par un indice de réfraction moyen de ladite couche (300), a une valeur proche d&apos;une longueur d&apos;onde terahertz, ledit dispositif permettant une émission verticale d&apos;une onde terahertz à la dite longueur d&apos;onde terahertz, générée par conversion de fréquence optique, en réponse à un éclairement du guide d&apos;onde suivant l&apos;axe Ox sous une première et une deuxième fréquences optiques (U)1, W2) différentes du domaine proche infra-rouge.
+</P>
+<P>
+17. Dispositif selon la revendication 16, en combinaison avec la revendication 4 ou 7, caractérisé en ce que les paramètres a, b, c, d et hg de la structure optique sont choisis tels que le deuxième harmonique d&apos;ordre 2 (g(x,y,A)) de la série de Fourier associée au profil du motif élémentaire a une amplitude complexe 03) très supérieure à l&apos;amplitude complexe (a) de l&apos;harmonique d&apos;ordre 1 (f(x,y,A)).
+</P>
+<P>
+18. Dispositif selon l&apos;une quelconque des revendications 1 à 7, caractérisé en ce qu&apos;il comprend au moins un élément optique actif, et en ce que -ledit milieu de perméabilité diélectrique positive est le vide; -ledit élément optique actif est un émetteur d&apos;électrons (510) à effet de pointe, émettant suivant l&apos;axe -0y, l&apos;émission d&apos;électrons étant contrôlée par une onde optique, -la période A de la structure optique (500) est proche de la longueur d&apos;onde de ladite onde optique.
+</P>
+<P>
+19. Dispositif selon la revendication 18, caractérisé en ce que ledit émetteur comprend un élément photoconducteur disposé au voisinage de la structure optique, l&apos;émission d&apos;électrons étant contrôlée par la photoconductivité dudit élément.
+</P>
+<P>
+20. Dispositif selon la revendication 19, caractérisé en ce que ledit émetteur (510) comprend un nanofil ou un nanotube, orienté suivant -Oy, d&apos;un matériau conducteur photosensible, qui constitue ledit élément photoconducteur.
+</P>
+<P>
+21. Dispositif selon la revendication 19, caractérisé en ce que ledit élément photoconducteur est une diode ou une résistance semi-conductrice.
+</P>
+<P>
+22. Dispositif selon la revendication 18, caractérisé en ce que l&apos;émission d&apos;électrons est contrôlé par le champ électrique de l&apos;onde optique, la structure optique ayant pour effet une ré-orientation de ce champ électrique dans l&apos;axe d&apos;émission de l&apos;émetteur.
+</P>
+<P>
+23. Dispositif selon la revendication 18 à 22, caractérisé en ce que ledit émetteur d&apos;électron comprend un nanotube de carbone ou un nanofil semi-conducteur ou métallique.
+</P>
+<P>
+24. Dispositif selon l&apos;une quelconque des revendications 18 à 23, caractérisé en ce que ledit émetteur est disposé à proximité du plan de symétrie (II), à une distance dudit plan suivant Ox de l&apos;ordre de A/4.
+</P>
+<P>
+25. Dispositif selon l&apos;une quelconque des revendications 18 à 24, caractérisé en ce qu&apos;il comprend un premier et un deuxième émetteurs disposés de part et d&apos;autre du plan de symétrie (H), chacun à environ A/4 dudit plan selon Ox.
+</P>
+<P>
+26. Dispositif selon l&apos;une des revendications 18 à 25, caractérisé en ce qu&apos;il comprend une pluralité d&apos;émetteurs d&apos;électrons alignés selon Oz, dans ladite troisième zone.
+</P>
+<P>
+27. Dispositif selon l&apos;une des revendications 23 à 26, combinée à la revendication 22, comprenant une première et une deuxième sources optiques incidentes, pour générer un signal terahertz.
+</P>
+<P>
+28. Dispositif selon l&apos;une quelconque des revendications 18 à 27, caractérisé en ce qu&apos;il comprend une pluralité de structures optiques formées sur un même support.
+</P>
+<P>
+29. Source d&apos;émission d&apos;électrons à modulation optique de champ électrique comprenant un dispositif d&apos;émission d&apos;un faisceau d&apos;électrons selon l&apos;une quelconque des revendications 18 à 28.30
+</P>
+</Claims>
+<Also_published_as>
+FR2893184A1;US2008251704A1;US7608814B2;WO2007054560A1
+</Also_published_as>
+</BiblioData>

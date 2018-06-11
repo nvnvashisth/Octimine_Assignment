@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CORRECTION OF SPATIAL INSTABILITY OF AN EUV SOURCE BY LASER BEAM STEERING
+</Title>
+<PublicationNumber>
+EP2041624A2
+</PublicationNumber>
+<Inventor>
+<Name>
+FRIJNS OLAV WALDEMAR VLADIMIR [NL]
+</Name>
+<Name>
+FRIJNS, OLAV, WALDEMAR, VLADIMIR
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASML NETHERLANDS BV [NL]
+</Name>
+<Name>
+ASML NETHERLANDS B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2041624
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070747548
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007NL50328
+</PriorityNumber>
+<PriorityDate>
+2007-07-04
+</PriorityDate>
+<PriorityNumber>
+US20060488918
+</PriorityNumber>
+<PriorityDate>
+2006-07-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70B6
+</Class>
+<Class>
+G03F7/70D12
+</Class>
+<Class>
+G03F7/70D18
+</Class>
+<Class>
+G03F7/70D8
+</Class>
+<Class>
+H05G2/00P2
+</Class>
+</NCL>
+<Abstract>
+A method to align a discharge axis of a discharge radiation source with respect to optics of the lithographic apparatus includes creating a discharge in a substance in a discharge space between an anode and a cathode to form a plasma so as to generate electromagnetic radiation. The discharge is triggered by irradiating an area on a surface proximate the discharge space with an energetic beam. The position of the area is controlled in response to a property of the radiation in the lithographic apparatus and/or the temperature of a collector of the lithographic apparatus. Controlling the position of the area which is irradiated improves alignment of the discharge axis with the different lithographic modules, such as the contamination barrier, the illumination system, the substrate table and/or the projection system.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A radiation system, comprising: a radiation source; a cathode; an anode, wherein the cathode and anode are configured to create a discharge in a substance in a discharge space between the anode and the cathode to form a plasma so as to generate electromagnetic radiation; and a triggering device configured to initiate the discharge by irradiating an area on a surface of a predetermined material proximate the discharge space with an energetic beam, wherein the triggering device is configured to control a position of the area in response to an input signal.
+</P>
+<P>
+2. A radiation system according to claim 1, wherein the triggering device comprises: an energetic beam source configured to generate the energetic beam; a mirror configured to reflect the energetic beam to the area, and an actuator configured to position the mirror in response to the input signal.
+</P>
+<P>
+3. A radiation system according to claim 2, wherein the energetic beam source is a laser.
+</P>
+<P>
+4. A radiation system according to claim 1, further comprising: a bath comprising a liquid, wherein the the anode and cathode are wheels configured to rotate so as to be at least partly wetted in the bath.
+</P>
+<P>
+5. A radiation system according to claim 1, wherein the triggering device is configured to irradiate part of the anode.
+</P>
+<P>
+6. A radiation system according to claim 1, wherein the triggering device is configured to irradiate part of the cathode.
+</P>
+<P>
+7. A radiation system according to claim 1, wherein the input signal is indicative of a transmission of a contamination barrier.
+</P>
+<P>
+8. A radiation system according to claim 1, wherein the input signal is indicative of a telecentricity value at substrate level in a lithographic apparatus..
+</P>
+<P>
+9. A radiation system according to claim 1, wherein the input signal is indicative of a slit integrated uniformity level of a radiation beam in a lithographic apparatus.
+</P>
+<P>
+10. A radiation system according to claim 1, wherein the input signal is indicative of a temperature of a contamination barrier in a lithographic apparatus.
+</P>
+<P>
+11. A radiation system according to claim 1, wherein the input signal is indicative of a position of an intermediate focus in a lithographic apparatus relative to an aperture configured in the lithographic apparatus.
+</P>
+<P>
+12. A lithographic apparatus, comprising: an illumination system configured to condition a radiation beam; a support configured to support a patterning device, the patterning device being configured to impart the radiation beam with a pattern in its cross-section to form a patterned radiation beam; a substrate table configured to hold a substrate; a projection system configured to project the patterned radiation beam onto a target portion of the substrate; and a radiation system configured to provide the radiation beam, the radiation system comprising a radiation source; a cathode; an anode, wherein the cathode and anode are configured to create a discharge in a substance in a discharge space between the anode and the cathode to form a plasma so as to generate electromagnetic radiation; and a triggering device configured to initiate the discharge by irradiating an area on a surface of a predetermined material proximate the discharge space with an energetic beam, wherein the triggering device is configured to control a position of the area in response to an input signal.
+</P>
+<P>
+13. A lithographic apparatus according to claim 12, further comprising: a contamination barrier configured to receive radiation from the radiation source; a sensor configured downstream from the contamination barrier and configured to measure an energy value of the radiation beam so as to form the input signal for the triggering device.
+</P>
+<P>
+14. A lithographic apparatus according to claim 12, wherein the illumination system is configured to focus the radiation beam in an intermediate focus, the apparatus further comprising: a sensor configured to measure a position of the intermediate focus with respect to an aperture configured in the lithographic apparatus, so as to form the input signal for the triggering device.
+</P>
+<P>
+15. A lithographic apparatus according to claim 12, further comprising: a sensor configured to measure a slit integrated uniformity at the substrate table so as to form the input signal for the triggering device.
+</P>
+<P>
+16. A lithographic apparatus according to claim 12, further comprising: a contamination barrier configured to receive radiation from the radiation source; and a temperature sensor configured to measure a temperature of a part of the contamination barrier so as to form the input signal for the triggering device.
+</P>
+<P>
+17. A lithographic apparatus according to claim 16, further comprising: a second temperature sensor configured to measure a second temperature of a second part of the contamination barrier so as to form the input signal for the triggering device.
+</P>
+<P>
+18. A lithographic apparatus according to claim 12, further comprising: a light intensity sensor configured on or near the substrate table, the intensity sensor and the substrate table being configured to measure at a plurality of distances between the sensor and the projection system a radiation intensity level so as to form the input signal for the triggering device indicative of a telecentricity value of the projection system.
+</P>
+<P>
+$[pound]k / A method of aligning a discharge axis of a discharge radiation source with respect to optics of a radiation system, comprising: creating a discharge in a substance in a discharge space between an anode and a cathode to form a plasma so as to generate electromagnetic radiation; triggering the discharge by irradiating an area on a surface of a predetermined material proximate the discharge space with an energetic beam; controlling a position of the area in response to at least one input signal.
+</P>
+</Claims>
+<Also_published_as>
+WO2008010710A2;WO2008010710A3;US2008017810A1;TW200811906A;SG173389A1;KR20110119810A;KR20090036564A;JP2009544165A;CN101490624A;CN101490624B
+</Also_published_as>
+</BiblioData>

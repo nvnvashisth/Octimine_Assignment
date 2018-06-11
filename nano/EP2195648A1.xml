@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+HIGH-RESOLUTION MOLECULAR GRAPHENE SENSOR COMPRISING AN APERTURE IN THE GRAPHENE LAYER
+</Title>
+<PublicationNumber>
+EP2195648A1
+</PublicationNumber>
+<Inventor>
+<Name>
+XIONG QIHUA [US]
+</Name>
+<Name>
+XIE PING [US]
+</Name>
+<Name>
+FANG YING [CN]
+</Name>
+<Name>
+LIEBER CHARLES M [US]
+</Name>
+<Name>
+XIONG, QIHUA
+</Name>
+<Name>
+XIE, PING
+</Name>
+<Name>
+FANG, YING
+</Name>
+<Name>
+LIEBER, CHARLES, M
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HARVARD COLLEGE [US]
+</Name>
+<Name>
+PRESIDENT AND FELLOWS OF HARVARD COLLEGE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2195648
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080830263
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-09-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US10637
+</PriorityNumber>
+<PriorityDate>
+2008-09-12
+</PriorityDate>
+<PriorityNumber>
+US20070993388P
+</PriorityNumber>
+<PriorityDate>
+2007-09-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N27/414
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N33/487B5
+</Class>
+</NCL>
+<Abstract>
+A solid state molecular sensor having an aperture extending through a thickness of a sensing region is configured with a sensing region thickness that corresponds to the characteristic extent of at least a component of a molecular species to be translocated through the aperture. A change in an electrical characteristic of the sensing region is measured during the molecular species translocation. The sensor can be configured as a field effect transistor molecular sensor. The sensing region can be a region of graphene including an aperture extending through a thickness of the graphene.
+</Abstract>
+<Claims>
+<P>
+1. A graphene sensor comprising: a region of graphene including an aperture extending through a thickness of the graphene region; a supply reservoir connected to provide a species to the aperture; a collection reservoir connected to collect the species after translocation of the species through the aperture; and an electrical connection to the graphene region to measure a change in an electrical characteristic of the graphene region during the species translocation.
+</P>
+<P>
+2. The sensor of claim 1 wherein the graphene region comprises a single layer of graphene.
+</P>
+<P>
+3. The sensor of claim 1 wherein the graphene region comprises a few-layer region of graphene.
+</P>
+<P>
+4. The sensor of claim 1 wherein the graphene region comprises a multiple-layer region of graphene.
+</P>
+<P>
+5. The sensor of claim 1 wherein the graphene region comprises no more than about two layers of graphene.
+</P>
+<P>
+6. The sensor of claim 1 wherein the graphene region comprises no more than about five layers of graphene.
+</P>
+<P>
+7. The sensor of claim 1 wherein the graphene region comprises no more than about ten layers of graphene.
+</P>
+<P>
+8. The sensor of claim 1 wherein the graphene region comprises a no more than about one hundred layers of graphene. 9. The sensor of claim 1 wherein the graphene region comprises at least one graphitic flake.
+</P>
+<P>
+10. The sensor of claim 1 wherein the aperture comprises a nanopore having a diameter no greater than about one micron.
+</P>
+<P>
+11. The sensor of claim 1 wherein the aperture comprises a nanopore having a diameter no greater than about 500 nm.
+</P>
+<P>
+12 The sensor of claim 1 wherein the aperture comprises a nanopore having a diameter no greater than about 100 nm.
+</P>
+<P>
+13. The sensor of claim 1 wherein the aperture comprises a nanopore having a diameter no greater than about 10 nm.
+</P>
+<P>
+14. The sensor of claim 1 wherein the aperture comprises a nanopore having a diameter no greater than about 5 nm.
+</P>
+<P>
+15. The sensor of claim 1 wherein the aperture is disposed at an interior location of the graphene region, providing a continuous portion of the graphene region between the aperture and edges of the graphene region.
+</P>
+<P>
+16. The sensor of claim 1 wherein the aperture is disposed at a first edge of the graphene region, providing a continuous portion of the graphene region between the aperture and an opposite edge of the graphene region.
+</P>
+<P>
+17. The sensor of claim 1 further comprising an electrical circuit connected to the electrical connection to measure a change in electrical conductance of the graphene region during species translocation. 18. The sensor of claim 17 wherein the graphene region is configured as a transistor element in the electrical circuit.
+</P>
+<P>
+19. The sensor of claim 17 wherein the electrical connection comprises two electrodes connected at opposite edges of the graphene region.
+</P>
+<P>
+20. The sensor of claim 19 wherein the two electrodes comprise source and drain regions.
+</P>
+<P>
+21. The sensor of claim 1 wherein the reservoir is configured to provide to the aperture a species comprising molecules.
+</P>
+<P>
+22. The sensor of claim 1 wherein the reservoir is configured to provide to the aperture a species comprising molecular components.
+</P>
+<P>
+23. The sensor of claim 21 wherein the reservoir is configured to provide to the aperture a species comprising biomolecules.
+</P>
+<P>
+24. The sensor of claim 23 wherein the reservoir is configured to provide to the aperture DNA molecules.
+</P>
+<P>
+25. The sensor of claim 23 wherein the reservoir is configured to provide to the aperture RNA molecules.
+</P>
+<P>
+26. The sensor of claim 22 wherein the reservoir is configured to provide to the aperture oligonucleotides.
+</P>
+<P>
+27. The sensor of claim 22 wherein the reservoir is configured to provide to the aperture a species comprising components of biomolecules to the aperture. 28. The sensor of claim 27 wherein the reservoir is configured to provide to the aperture nucleotides.
+</P>
+<P>
+29. A graphene sensor comprising: at least one layer of graphene including an aperture extending through a thickness of the graphene region; and means for measuring a change in an electrical characteristic of the graphene region as at least a component of a molecule interacts with the aperture.
+</P>
+<P>
+30. The sensor of claim 29 wherein the aperture comprises a nanopore having a diameter less than about one micron.
+</P>
+<P>
+31. A method for molecular analysis comprising: translocating at least a component of a molecule through an aperture in a material region comprising graphene; and detecting a change in an electrical characteristic of the region during the translocation.
+</P>
+<P>
+32. The method of claim 31 wherein translocating at least a component of a molecule comprises translocating at least a component of a biomolecule.
+</P>
+<P>
+33. The method of claim 32 wherein translocating at least a component of a biomolecule comprises translocating a plurality of nucleotides.
+</P>
+<P>
+34. The method of claim 32 wherein translocating at least a component of a biomolecule comprises translocating an oligonucleotide. 35. The method of claim 31 wherein detecting a change in an electrical characteristic of the region during the translocation comprises detecting an electrical characteristic change corresponding to translocation of an individual molecule.
+</P>
+<P>
+36. The method of claim 31 wherein detecting a change in an electrical characteristic of the region during the translocation comprises detecting an electrical characteristic change corresponding to translocation of an individual molecular component.
+</P>
+<P>
+37. The method of claim 36 wherein detecting a change in an electrical characteristic of the region during the translocation comprises detecting an electrical characteristic change corresponding to translocation of an individual nucleotide.
+</P>
+<P>
+38. The method of claim 36 wherein detecting a change in an electrical characteristic of the region during the translocation comprises detecting an electrical characteristic change corresponding to translocation of a sequence of nucleotides.
+</P>
+<P>
+39. A graphene field effect transistor sensor comprising: an electrically conducting source region; an electrically conducting drain region; a transistor channel region connected between the source and drain regions, the channel region comprising graphene and including an aperture extending through a thickness of the graphene; a supply reservoir connected to provide a species to the aperture; a collection reservoir connected to collect the species after translocation of the species through the aperture; and an electrical connection to the source and drain regions to measure a change in transistor current caused by electrical gating of the channel region by species translocating through the aperture. 40. The sensor of claim 39 wherein the supply reservoir is configured to provide at least components of biomolecules to the aperture for gating the channel region.
+</P>
+<P>
+41. The sensor of claim 39 wherein the source region, the drain region, and the channel region are all disposed on a support structure through which an aperture extends.
+</P>
+<P>
+42. The sensor of claim 41 wherein the support structure comprises a silicon substrate.
+</P>
+<P>
+43. The sensor of claim 41 wherein the support structure comprises a membrane.
+</P>
+<P>
+44. The sensor of claim 39 wherein the membrane comprises a material selected from the group of oxide and nitride.
+</P>
+<P>
+45. The sensor of claim 39 further comprising an electrically insulating passivation layer, over the source region, the drain region, and the channel region and including an aperture in alignment with the graphene region aperture.
+</P>
+<P>
+46. A molecular sensor comprising: a solid state and electrically conducting sensing region including an aperture extending through a thickness of the sensing region; a supply reservoir connected to provide a molecular species to the aperture; a collection reservoir connected to collect the molecular species after translocation of the species through the aperture; the sensing region being of a thickness that corresponds to a characteristic extent of at least a component of a molecular species provided by the supply reservoir for translocation; and an electrical connection to the sensing region to measure a change in an electrical characteristic of the sensing region during the molecular species translocation.
+</P>
+<P>
+47. The sensor of claim 46 wherein the sensing region is of a thickness that is substantially no greater than a characteristic extent of a component of a molecular species provided by the supply reservoir.
+</P>
+<P>
+48. The sensor of claim 46 wherein the sensing region is of a thickness that is substantially no greater than a characteristic extent of a selected plurality of components of a molecular species provided by the supply reservoir.
+</P>
+<P>
+49. The sensor of claim 46 wherein the sensing region is of a thickness that is substantially no greater than a characteristic extent of a molecule provided by the supply reservoir.
+</P>
+<P>
+50. The sensor of claim 46 wherein the sensing region is of a thickness that is substantially no greater than a characteristic extent of a selected plurality of molecules provided by the supply reservoir.
+</P>
+<P>
+51. The sensor of claim 47 wherein the sensing region is of a thickness that is substantially no greater than a characteristic extent of a nucleotide provided by the supply reservoir.
+</P>
+<P>
+52. The sensor of claim 47 wherein the sensing region is of a thickness that is substantially no greater than a characteristic extent of an oligonucleotide provided by the supply reservoir. 53. The sensor of claim 47 wherein the sensing region is of a thickness that is substantially no greater than a characteristic extent of a selected DNA base provided by the supply reservoir.
+</P>
+<P>
+54. The sensor of claim 49 wherein the sensing region is of a thickness that is substantially no greater than a characteristic extent of a biomolecule provided by the supply reservoir.
+</P>
+<P>
+55. The sensor of claim 46 wherein the sensing region thickness is no greater than about 500 nm.
+</P>
+<P>
+56. The sensor of claim 46 wherein the sensing region thickness is no greater than about 100 nm.
+</P>
+<P>
+57. The sensor of claim 46 wherein the aperture comprises a nanopore having a diameter no greater than about 10 nm.
+</P>
+<P>
+58. The sensor of claim 46 wherein the aperture comprises a nanopore having a diameter no greater than about 5 nm.
+</P>
+<P>
+59. The sensor of claim 46 further comprising an electrical circuit connected to the electrical connection to measure a change in electrical conductance of the sensing region during molecular species translocation.
+</P>
+<P>
+60. A method for molecular analysis comprising: translocating at least a component of a molecule through an aperture in an electrically conductive sensing region having a thickness that is no greater than a characteristic extent of the molecular component; and detecting a change in an electrical characteristic of the region during the translocation. 61. The &amp;lt;&quot;&amp;gt;method of claim 60 wherein translocating at least a component of a molecule comprises translocating at least a component of a biomolecule.
+</P>
+<P>
+62. The method of claim 61 wherein translocating at least a component of a biomolecule comprises translocating a plurality of nucleotides and wherein the sensing region thickness is no greater than a characteristic extent of a nucleotide.
+</P>
+<P>
+63. The method of claim 61 wherein translocating at least a component of a biomolecule comprises translocating an oligonucleotide and wherein the sensing region thickness is no greater than a characteristic extent of an oligonucleotide.
+</P>
+<P>
+64. The method of claim 60 wherein detecting a change in an electrical characteristic of the region during the translocation comprises detecting an electrical characteristic change corresponding to translocation of an individual molecule.
+</P>
+<P>
+65. The method of claim 60 wherein detecting a change in an electrical characteristic of the region during the translocation comprises detecting an electrical characteristic change corresponding to translocation of an individual molecular component.
+</P>
+<P>
+66. The method of claim 65 wherein detecting a change in an electrical characteristic of the region during the translocation comprises detecting an electrical characteristic change corresponding to translocation of an individual nucleotide.
+</P>
+<P>
+67. The method of claim 65 wherein detecting a change in an electrical characteristic of the region during the translocation comprises detecting an electrical characteristic change corresponding to translocation of a sequence of nucleotides.
+</P>
+<P>
+68. A field effect transistor molecular sensor comprising: an electrically conducting source region; an electrically conducting drain region; a transistor channel region connected between the source and drain regions, the channel region including an aperture extending through a thickness of the graphene; a supply reservoir connected to provide at least a component of a molecular species to the aperture; a collection reservoir connected to collect the molecular species after translocation of the species through the aperture; the channel region being of a thickness that corresponds to a characteristic extent of at least a component of a molecular species provided by the supply reservoir for translocation and an electrical connection to the source and drain regions to measure a change in transistor current caused by electrical gating of the channel region by species translocating through the aperture.
+</P>
+<P>
+69. The field effect transistor sensor of claim 68 wherein the supply reservoir is configured to provide at least components of biomolecules to the aperture for gating the channel region and the channel region thickness is substantially no greater than a biomolecule component.
+</P>
+<P>
+70. The field effect transistor sensor of claim 69 wherein the channel region thickness is substantially no greater than a characteristic extent of a nucleotide.
+</P>
+<P>
+71. The field effect transistor sensor of claim 69 wherein the channel region thickness is substantially no greater than a characteristic extent of an oligonucleotide.
+</P>
+</Claims>
+<Also_published_as>
+WO2009035647A1;US2010327847A1
+</Also_published_as>
+</BiblioData>

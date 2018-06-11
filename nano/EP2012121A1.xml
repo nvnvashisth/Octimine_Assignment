@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Enzyme electrode and enzyme sensor
+</Title>
+<PublicationNumber>
+EP2012121A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SHIMOMURA TAKESHI [JP]
+</Name>
+<Name>
+SUMIYA TOURU [JP]
+</Name>
+<Name>
+MASUDA YUICHIRO [JP]
+</Name>
+<Name>
+ONO MASATOSHI [JP]
+</Name>
+<Name>
+SHIMOMURA, TAKESHI
+</Name>
+<Name>
+SUMIYA, TOURU
+</Name>
+<Name>
+MASUDA, YUICHIRO
+</Name>
+<Name>
+ONO, MASATOSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FUNAI EAA TECH RES INST INC [JP]
+</Name>
+<Name>
+FUNAI ELECTRIC CO [JP]
+</Name>
+<Name>
+FUNAI ELECTRIC ADVANCED APPLIED TECHNOLOGY RESEARCH INSTITUTE INC
+</Name>
+<Name>
+FUNAI ELECTRIC CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2012121
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080011804
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070176200
+</PriorityNumber>
+<PriorityDate>
+2007-07-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N33/50
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C12Q1/00B
+</Class>
+</NCL>
+<Abstract>
+Disclosed is an enzyme electrode comprising: an electrode;  a carbon nanotube layer including a plurality of carbon nanotubes extending directly from the electrode and/or a metallic catalyst immobilized on the electrode;  and an enzyme immobilized in the carbon nanotube layer by being sandwiched between the carbon nanotubes.
+</Abstract>
+<Claims>
+<P>
+1. An enzyme electrode comprising:
+</P>
+<P>
+an electrode;
+</P>
+<P>
+a carbon nanotube layer including a plurality of carbon nanotubes extending directly from the electrode and/or a metallic catalyst immobilized on the electrode; and
+</P>
+<P>
+an enzyme immobilized in the carbon nanotube layer by being sandwiched between the carbon nanotubes.
+</P>
+<P>
+2. The enzyme electrode according to claim 1, further comprising an outflow preventing section to prevent the enzyme immobilized in the carbon nanotube layer from outflowing.
+</P>
+<P>
+3. The enzyme electrode according to claim 2, wherein the outflow preventing section is a predetermined layer to cover the carbon nanotube layer.
+</P>
+<P>
+4. The enzyme electrode according to claim 2 or 3, wherein the outflow preventing section is a predetermined cross-linking agent introduced in the carbon nanotube layer.
+</P>
+<P>
+5. The enzyme electrode according to any one of the claims 2-4, wherein the outflow preventing section is a carboxyl group introduced in an end of the carbon nanotubes, the carboxyl group reacting with an amine group of the enzyme to form an amide bond.
+</P>
+<P>
+6. The enzyme electrode according to any one of the claims 1-5, wherein an electron carrier to accelerate delivery of electrons between the enzyme and the electrode or the carbon nanotubes, and/or a coenzyme to catalyze expression of activity of the enzyme, are introduced in the carbon nanotube layer.
+</P>
+<P>
+7. The enzyme electrode according to any one of the claims 1-6, further comprising a hydrophobic insulating section provided around the electrode.
+</P>
+<P>
+8. An enzyme electrode comprising:
+</P>
+<P>
+an electrode;
+</P>
+<P>
+a carbon nanotube layer including a plurality of carbon nanotubes extending directly from the electrode and/or a metallic catalyst immobilized on the electrode;
+</P>
+<P>
+an enzyme immobilized in the carbon nanotube layer by being sandwiched between the carbon nanotubes;
+</P>
+<P>
+an outflow preventing section to prevent the enzyme immobilized in the carbon nanotube layer from outflowing;
+</P>
+<P>
+an electron carrier to accelerate delivery of electrons between the enzyme and the electrode or the carbon nanotubes, and/or a coenzyme to catalyze expression of activity of the enzyme, the electron carrier and/or the coenzyme being introduced in the carbon nanotube layer; and
+</P>
+<P>
+a hydrophobic insulating section provided around the electrode.
+</P>
+<P>
+9. An enzyme sensor to detect a target substance by an electrochemical measurement method, comprising the enzyme electrode according to any one of the claims 1-8.
+</P>
+<P>
+10. The enzyme sensor according to claim 9, further comprising:
+</P>
+<P>
+a substrate; and
+</P>
+<P>
+an analysis section provided on a top surface of the substrate, wherein
+</P>
+<P>
+the enzyme electrode is disposed inside the analysis section on the top surface of the substrate.
+</P>
+<P>
+11. The enzyme sensor according to claim 10, further comprising a hydrophobic insulation film provided around the analysis section on the top surface of the substrate.
+</P>
+<P>
+12. The enzyme sensor according to claim 10 or 11, wherein an upper surface of the analysis section includes an opening portion, and
+</P>
+<P>
+the enzyme sensor further comprises a predetermined film to cover the opening portion, to suppress transmission of a liquid, and to transmit a gas molecule.
+</P>
+<P>
+13. An enzyme sensor to detect a target substance by an electrochemical measurement method, comprising:
+</P>
+<P>
+the enzyme electrode according to any one of the claims 1-8;
+</P>
+<P>
+a substrate;
+</P>
+<P>
+an analysis section provided on a top surface of the substrate, the analysis section including an opening portion on an upper surface of the analysis section;
+</P>
+<P>
+a hydrophobic insulation film provided around the analysis section on the top surface of the substrate; and
+</P>
+<P>
+a predetermined film to cover the opening portion, to suppress transmission of a liquid, and to transmit a gas molecule, wherein
+</P>
+<P>
+the enzyme electrode is disposed inside the analysis section on the top surface of the substrate.
+</P>
+</Claims>
+<Also_published_as>
+US2009008248A1;KR20090004674A;JP2009014485A;CN101339155A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Metamaterials and resonant materials based on liquid crystal dispersions of colloidal particles and nanoparticles
+</Title>
+<PublicationNumber>
+EP1975656A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MUSEVIC IGOR [SI]
+</Name>
+<Name>
+SKARABOT MIHA [SI]
+</Name>
+<Name>
+ZUMER SLOBODAN [SI]
+</Name>
+<Name>
+RAVNIK MIHA [SI]
+</Name>
+<Name>
+MUSEVIC, IGOR
+</Name>
+<Name>
+SKARABOT, MIHA
+</Name>
+<Name>
+ZUMER, SLOBODAN
+</Name>
+<Name>
+RAVNIK, MIHA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+INST STEFAN JOSEF [SI]
+</Name>
+<Name>
+UNIV LJUBLJANA [SI]
+</Name>
+<Name>
+INSTITUT JOZEF STEFAN
+</Name>
+<Name>
+UNIVERSITY OF LJUBLJANA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1975656
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070006702
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070006702
+</PriorityNumber>
+<PriorityDate>
+2007-03-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J13/00
+</Class>
+<Class>
+G02B6/122
+</Class>
+<Class>
+H01Q15/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B1/00M3
+</Class>
+<Class>
+H01Q15/00C
+</Class>
+</NCL>
+<Abstract>
+A class of metamaterials and/or resonant materials and the method of their production, whereby nanoparticles (11) are segregated in the regions of topological defects (13), which are formed by inclusion of colloidal particles (12) in a layer of a nematic liquid crystal (14). The nanoparticles (11) are localized in the vicinity of topological defects (13), which can themselves be localized or delocalized, whereas the size of the nanoparticles (11) is smaller than the size of the colloidal particles (12), preferably of the size of the diameter of the defect (13).
+</Abstract>
+<Claims>
+<P>
+1. Metamaterial and/or resonant material formed of a dispersion of colloidal particles (12) and nanoparticles (11) in liquid crystal (14), the colloidal particles (12) being randomly or regularly distributed in the liquid crystal (14) and causing topological defects (13) in the liquid crystal (14), wherein the nanoparticles (11) are smaller in size than the colloidal particles (12) and are localized in the region of said topological defects (13) in the liquid crystal (14).
+</P>
+<P>
+2. Metamaterial and/or resonant material according to claim 1, wherein the nanoparticles (11) are smaller in size than the diameter of the topological defects (13).
+</P>
+<P>
+3. Metamaterial and/or resonant material according to claim 1 or 2, wherein said defects (13) have the shape of closed lines, localized in the vicinity of the colloidal particles (12).
+</P>
+<P>
+4. Metamaterial and/or resonant material according to claim 1 or 2, wherein said defects (13) have the shape of points, which are delocalized close to the colloidal particles (12).
+</P>
+<P>
+5. Metamaterial and/or resonant material according to claim 1 or 2, wherein said defects (13) have the shape of closed and delocalized lines, entangling two or many colloidal particles (12).
+</P>
+<P>
+6. Metamaterial and/or resonant material according to claim 1 or 2, wherein said defects (13) have the shape of open and delocalized lines of certain length, ending at both ends with a point topological defect or colloidal particles.
+</P>
+<P>
+7. Metamaterial and/or resonant material according to any of claims 1 to 6, wherein the nanoparticles (11) are made of electrically conductive material and/or electrically semiconducting material and/or electrically insulating material.
+</P>
+<P>
+8. Metamaterial and/or resonant material according to any of claims 1 to 6, wherein the nanoparticles (11) are made of ferromagnetic material and/or paramagnetic material and/or superparamagnetic material and/or diamagnetic material.
+</P>
+<P>
+9. Metamaterial and/or resonant material according to any of claims 1 to 6, wherein the nanoparticles (11) are made of ferroelectric material or of ferroelectric relaxor material.
+</P>
+<P>
+10. Metamaterial and/or resonant material according to any of claims 1 to 6, wherein the nanoparticles (11) are made of an optically active material and/or of a fluorescent material.
+</P>
+<P>
+11. Metamaterial and/or resonant material according to any of claims 1 to 10, wherein the nanoparticles (11) are selected to have a strong interaction with liquid crystalline molecules of the liquid crystal (14), in particular to have anchoring energies with the liquid crystalline molecules in the range of 10&amp;lt;-4&amp;gt; to 10&amp;lt;-3&amp;gt; J/m&amp;lt;2&amp;gt; .
+</P>
+<P>
+12. A method of producing a metamaterial and/or resonant material as defined in one of claims 1 to 11, comprising at least the following steps:
+</P>
+<P>
+- preparing a dispersion of colloidal particles (12) in a nematic liquid crystal (14), in which dispersion said colloidal particles (12) cause topological defects (13) in the liquid crystal (14), and
+</P>
+<P>
+- adding nanoparticles (11) which are smaller in size than the colloidal particles (12) to the liquid crystal (14) prior to the preparation of the dispersion or to the dispersion during or after the preparation of the dispersion, the nanoparticles (11) being selected to localize in the region of said topological defects (13) in the liquid crystal (14).
+</P>
+<P>
+13. The method according to claim 12, wherein the preparation of the dispersion includes the following steps:
+</P>
+<P>
+- chemically treating the colloidal particles (12) using a surfactant,
+</P>
+<P>
+- flushing the chemically treated colloidal particles (12) and drying,
+</P>
+<P>
+- adding the dried colloidal particles (12) to the liquid crystal (14), heating the resulting dispersion into the isotropic phase and stirring the dispersion by sonification, and
+</P>
+<P>
+- cooling down the dispersion into the nematic phase.
+</P>
+<P>
+14. The method according to claim 13, wherein the step of chemically treating the colloidal particles (12) using a surfactant comprises:
+</P>
+<P>
+- immersing the colloidal particles (12) for five minutes into a 1% solution of N,N-dimethyl-N-octadecyl-3-aminopropyl trimethoxysilyl chloride (DMOAP).
+</P>
+<P>
+15. The method according to any of claims 12 to 14, wherein for adding the nanoparticles to the dispersion
+</P>
+<P>
+- a suspension of nanoparticles (11) is prepared in a suitable solvent, the concentrations of nanoparticles (11) being typically from several percents to several tens of percents,
+</P>
+<P>
+- the suspension of nanoparticles (11) is mixed into the liquid crystal colloidal dispersion in the concentration range from 0.01 % to 99%, and
+</P>
+<P>
+- the resulting dispersion of nanoparticles (11) and colloidal particles (12) is stirred using ultrasound, exposed to reduced pressure in order to remove the solvent, heated into the isotropic phase and subsequently cooled down.
+</P>
+</Claims>
+<Also_published_as>
+EP1975656B1;DK1975656T3;AT512379T
+</Also_published_as>
+</BiblioData>

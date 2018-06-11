@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method for obtaining a carpet of carbon nanotubes on a conductor or semi- conductor substrate
+</Title>
+<PublicationNumber>
+EP2138457A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DIJON JEAN [FR]
+</Name>
+<Name>
+FOURNIER ADELINE [FR]
+</Name>
+<Name>
+DIJON, JEAN
+</Name>
+<Name>
+FOURNIER, ADELINE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2138457
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090163710
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-06-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+FR20080054326
+</PriorityNumber>
+<PriorityDate>
+2008-06-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J23/745
+</Class>
+<Class>
+B01J23/75
+</Class>
+<Class>
+B01J37/12
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+H01L21/768
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J23/745
+</Class>
+<Class>
+B01J37/02M4
+</Class>
+<Class>
+B01J37/12
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+<Class>
+H01L21/768B2F
+</Class>
+<Class>
+H01L21/768C3B
+</Class>
+<Class>
+H01L21/768C3S6
+</Class>
+<Class>
+H01L21/768C4B
+</Class>
+<Class>
+H01L23/532M3
+</Class>
+</NCL>
+<Abstract>
+The process comprises depositing a catalytic complex comprising a metal layer on the substrate, performing oxidation treatment on the metal layer at ambient temperature using plasma or succession of plasmas, and growing the carbon nanotubes from a part of oxidized metal layer. The metal layer is deposited on an amorphous silicon layer, which is deposited on the substrate. The treatment comprises a first step of oxidation using a first plasma with first energy and pressure, and a second step of oxidation using a second plasma with second energy. The process comprises depositing a catalytic complex comprising a metal layer on the substrate, performing oxidation treatment on the metal layer at ambient temperature using plasma or succession of plasmas, and growing the carbon nanotubes from a part of oxidized metal layer. The metal layer is deposited on an amorphous silicon layer, which is deposited on the substrate. The treatment comprises a first step of oxidation using a first plasma with first energy and pressure, and a second step of oxidation using a second plasma with second energy, which is lower than the first energy and a second pressure that is greater than the first pressure. An independent claim is included for a process for producing a via to interconnect first and second conductive layers.
+</Abstract>
+<Claims>
+<P>
+1. Procédé d&apos;obtention d&apos;un tapis de nanotubes de carbone sur un substrat conducteur (510), caractérisé en ce qu&apos;il comprend les étapes suivantes :
+</P>
+<P>
+- dépôt d&apos;un complexe catalytique (520,570), comprenant au moins une couche métallique (570), sur ledit substrat, la couche métallique (570) étant déposée sur une couche de silicium amorphe (530), la couche de silicium amorphe étant déposée sur le substrat conducteur (510) ;
+</P>
+<P>
+- traitement oxydant de ladite couche métallique (570);
+</P>
+<P>
+- croissance de nanotubes de carbone (580) à partir de la couche métallique ainsi oxydée.
+</P>
+<P>
+2. Procédé d&apos;obtention selon la revendication 1, caractérisé en ce que le traitement oxydant est réalisé au moyen d&apos;une oxydation par un plasma ou par une succession de plasmas.
+</P>
+<P>
+3. Procédé d&apos;obtention selon la revendication 2, caractérisé en ce que le traitement oxydant comprend une première étape d&apos;oxydation à l&apos;aide d&apos;un premier plasma à une première énergie et une première pression et une seconde étape d&apos;oxydation à l&apos;aide d&apos;un second plasma à une seconde énergie plus faible que ladite première énergie et à une seconde pression plus élevée que ladite première pression.
+</P>
+<P>
+4. Procédé d&apos;obtention selon la revendication 2 ou 3, caractérisé en ce que l&apos;oxydation par plasma est effectuée à température ambiante.
+</P>
+<P>
+5. Procédé d&apos;obtention selon la revendication 1, caractérisé en ce que le substrat est du nitrure de titane ou du nitrure de tantale.
+</P>
+<P>
+6. Procédé d&apos;obtention selon l&apos;une des revendications précédentes, caractérisé en ce que ladite couche métallique est constituée de fer ou de cobalt.
+</P>
+<P>
+7. Procédé de réalisation d&apos;un via destiné à interconnecter une première et une seconde couches conductrices (510, 550), caractérisé en ce qu&apos;il comprend les étapes suivantes :
+</P>
+<P>
+- dépôt d&apos;une barrière de diffusion (520) sur la première couche conductrice (510);
+</P>
+<P>
+- formation d&apos;un complexe catalytique comprenant une première couche de silicium amorphe (530) et une couche métallique (570) sur la barrière de diffusion (520), au fond du via ;
+</P>
+<P>
+- traitement oxydant de ladite couche métallique (570);
+</P>
+<P>
+- croissance de nanotubes de carbone (580) à partir de la couche métallique ainsi oxydée, le temps de croissance étant déterminé de manière à ce que la longueur des nanotubes soit supérieure à la profondeur du via.
+</P>
+<P>
+8. Procédé de réalisation d&apos;un via selon la revendication 7, caractérisé en ce qu&apos;il comprend les étapes suivantes :
+</P>
+<P>
+- dépôt de la couche de silicium amorphe (530) sur la barrière de diffusion (520) ;
+</P>
+<P>
+- dépôt d&apos;une couche diélectrique (540) sur la couche de silicium amorphe, puis dépôt de la seconde couche conductrice (550) sur la couche diélectrique ;
+</P>
+<P>
+- dépôt d&apos;un masque de gravure (560) et gravure d&apos;un trou de via jusqu&apos; à la couche de silicium amorphe (530).
+</P>
+<P>
+9. Procédé de réalisation d&apos;un via selon la revendication 8, caractérisé en ce que l&apos;étape de gravure du trou de via est suivie d&apos;un dépôt de la couche métallique (570) et d&apos;une élimination du masque (560), le complexe catalytique étant ainsi localisé au fond du trou de via.
+</P>
+<P>
+10. Procédé de réalisation d&apos;un via selon la revendication 8, caractérisé en ce que l&apos;étape de gravure du trou de via est suivie d&apos;une élimination du masque (560) et d&apos;un dépôt de la couche métallique (570), le complexe catalytique étant ainsi localisé au fond du trou de via et la seconde couche conductrice (550) étant recouverte de ladite couche métallique (571).
+</P>
+<P>
+11. Procédé de réalisation d&apos;un via selon la revendication 7, caractérisé en ce qu&apos;il comprend les étapes suivantes :
+</P>
+<P>
+- dépôt d&apos;une couche diélectrique (540) sur la barrière de diffusion (520), puis dépôt de la seconde couche conductrice (550) sur la couche diélectrique ;
+</P>
+<P>
+- dépôt d&apos;un masque de gravure (560), gravure d&apos;un trou de via jusqu&apos; à la couche de silicium amorphe (530) et élimination du masque ;
+</P>
+<P>
+- dépôt de la couche métallique (570), puis polissage mécano-chimique de manière à éliminer le complexe catalytique présent sur la seconde couche conductrice, le complexe catalytique étant ainsi localisé au fond du trou de via.
+</P>
+<P>
+12. Procédé de réalisation d&apos;un via selon l&apos;une des revendications 7 à 11, caractérisé en ce que le dépôt de la couche métallique est réalisé au moyen d&apos;une pulvérisation par faisceau d&apos;ions.
+</P>
+<P>
+13. Procédé de réalisation d&apos;un via selon l&apos;une des revendications 7 à 12, caractérisé en ce que le traitement oxydant est réalisé au moyen d&apos;une oxydation par un plasma ou une succession de plasmas, à température ambiante.
+</P>
+</Claims>
+<Also_published_as>
+JP2010006696A;FR2933106A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+READING/WRITING TIP, HEAD AND DEVICE, AND USE THEREOF, AND METHOD FOR MAKING SAME
+</Title>
+<PublicationNumber>
+EP1938335A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GIERAK JACQUES [FR]
+</Name>
+<Name>
+MARTROU DAVID [FR]
+</Name>
+<Name>
+GIERAK, JACQUES
+</Name>
+<Name>
+MARTROU, DAVID
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CENTRE NAT RECH SCIENT [FR]
+</Name>
+<Name>
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1938335
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060820155
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006FR02243
+</PriorityNumber>
+<PriorityDate>
+2006-10-05
+</PriorityDate>
+<PriorityNumber>
+FR20050010793
+</PriorityNumber>
+<PriorityDate>
+2005-10-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q60/10
+</Class>
+<Class>
+G01Q60/16
+</Class>
+<Class>
+G01Q70/16
+</Class>
+<Class>
+G01Q80/00
+</Class>
+<Class>
+G11B9/00
+</Class>
+<Class>
+H01J27/22
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q60/10
+</Class>
+<Class>
+G01Q60/16
+</Class>
+<Class>
+G01Q70/16
+</Class>
+<Class>
+G01Q80/00
+</Class>
+<Class>
+G11B9/14H
+</Class>
+<Class>
+G11B9/14R4
+</Class>
+</NCL>
+<Abstract>
+The invention concerns a reading/writing tip configured in the shape of a needle consisting of a core (3) of refractory material covered with a coating (9) of electrically conductive material, and having an outer microscope needle geometry by tunnel effect, to obtain an information concerning a surface (17a) through tunnel-effect microscopy. The needle (2) emits a charged particle from the layer (9) of electrically conductive material, to form the surface. The tip comprises a reservoir (11) capable of being liquefied to flow along the tip.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Pointe de lecture/écriture configurée sous la forme d&apos;une aiguille (2) formée d&apos;un noyau (3) d&apos;un matériau réfractaire recouvert au moins partiellement d&apos;une couche (9) de matériau électriquement conducteur, ladite aiguille présentant une portion de connexion (4) à un générateur électrique (15) pour l&apos;application d&apos;un potentiel électrique à l&apos;aiguille, ladite aiguille étant adaptée pour être placée dans une position d&apos;opération au voisinage d&apos;un substrat électriquement conducteur présentant une surface (17a) , ladite aiguille présentant une géométrie externe d&apos;aiguille de microscope par effet tunnel, et étant adaptée pour être connectée, dans un mode de lecture, à un système de détection (24) pour l&apos;obtention d&apos;une information relative à ladite surface par microscopie par effet tunnel sous l&apos;effet d&apos;une première différence de potentiel électrique appliqué par le générateur électrique (15) entre le substrat et l&apos;aiguille, et ladite aiguille étant adaptée pour émettre, dans un mode d&apos;écriture, une particule chargée, d&apos;une première polarité, depuis la couche (9) de matériau électriquement conducteur, en direction de la surface (17a) du substrat sous l&apos;effet d&apos;une deuxième différence de potentiel électrique appliqué par le générateur électrique entre le substrat et l&apos;aiguille, de signe opposé à la première différence de potentiel, pour former ladite surface du substrat, ladite pointe comprenant en outre un réservoir (11) comprenant une réserve du matériau électriquement conducteur formant ladite couche, ledit réservoir étant en communication fluide avec ladite couche, et un dispositif de transfert de chaleur (10) adapté, lorsqu&apos;il est activé, pour liquéfier le matériau électriquement conducteur contenu dans le réservoir pour le faire s&apos;écouler le long de la pointe.
+</P>
+<P>
+2. Pointe de lecture/écriture selon la revendication 1 dans laquelle l&apos;aiguille comporte une extrémité pointue adaptée pour être placée en regard de ladite surface, ladite extrémité pointue présentant un rayon de courbure sensiblement compris entre 0,1 et 2 micromètres ([mu]m) .
+</P>
+<P>
+3. Pointe de lecture/écriture selon la revendication 1 ou la revendication 2, dans laquelle le noyau (3) comporte un corps effilé de diamètre compris entre 0,1 et 0,4 millimètres (mm) se prolongeant par une extrémité (6) effilée de diamètre diminuant à mesure que la distance au corps augmente.
+</P>
+<P>
+4. Pointe de lecture/écriture selon l&apos;une des revendications précédentes dans laquelle le noyau (3) est réalisé dans un matériau présentant une température de fusion sensiblement plus élevée que le matériau électriquement conducteur de la couche, ledit dispositif de transfert de chaleur (10) étant adapté, lorsqu&apos;il est activé, pour porter l&apos;aiguille et le réservoir à une température comprise entre les températures de fusion du matériau électriquement conducteur et du matériau du noyau.
+</P>
+<P>
+5. Pointe de lecture/écriture selon la revendication 4 dans laquelle le noyau (3) est réalisé dans un matériau colonnaire présentant une rugosité en forme de micro-canaux longitudinaux adaptés pour permettre à la fois l&apos;écoulement du matériau électriquement conducteur liquéfié le long du noyau à ladite température comprise entre les températures de fusion du matériau électriquement conducteur et du matériau du noyau, et la rétention du matériau électriquement conducteur sur le noyau par capillarité.
+</P>
+<P>
+6. Pointe de lecture/écriture selon l&apos;une des revendications précédentes dans laquelle le réservoir (11) comprend une bulle du matériau électriquement conducteur entourant l&apos;aiguille en communication fluide avec la couche (9) , et dans laquelle le dispositif de transfert de chaleur comprend un filament (10) comprenant : au moins une spire (10a, 10b, 10c) entourant l&apos;aiguille et noyée dans le réservoir de matériau électriquement conducteur, et une portion de connexion à un générateur électrique (19) adapté pour faire circuler dans le filament une puissance électrique adaptée pour liquéfier le matériau électriquement conducteur du réservoir par effet de type Joule .
+</P>
+<P>
+7. Pointe de lecture/écriture selon l&apos;une quelconque des revendications précédentes, dans laquelle ladite particule chargée d&apos;une première polarité est un cation.
+</P>
+<P>
+8. Tête de dispositif de lecture/écriture comprenant un support (12) portant au moins une pointe (1) selon l&apos;une des revendications précédentes, le support comprenant une première zone de connexion (13) connectée électriquement à ladite portion de connexion de l&apos;aiguille (2), et adaptée pour être connectée à un générateur électrique (15) pour l&apos;application d&apos;un potentiel électrique à l&apos;aiguille.
+</P>
+<P>
+9. Tête de dispositif de lecture/écriture comprenant une pluralité de supports (12) portant chacun une pointe (1) selon l&apos;une des revendications 1 à 7, chaque support comprenant une première zone de connexion connectée électriquement à la portion de connexion (13) de l&apos;aiguille respective, et adaptée pour être connectée à un générateur électrique (15) pour l&apos;application d&apos;un potentiel électrique indépendant à chaque aiguille.
+</P>
+<P>
+10. Dispositif de lecture/écriture comportant : une tête de dispositif de lecture/écriture selon la revendication 8 ou la revendication 9, un porte-échantillons (16) adapté pour recevoir un substrat comportant une portion de surface (17a) en regard de chaque pointe, un système de déplacement (18) adapté pour générer un déplacement relatif de la surface et des pointes, un générateur électrique (15) connecté à la portion de connexion de chaque pointe pour appliquer une première différence de potentiel électrique indépendant entre la pointe considérée et la portion de surface en regard, et une deuxième différence de potentiel électrique indépendant entre la pointe considérée et la portion de surface en regard, la deuxième différence de potentiel électrique étant de signe opposé à la première différence de potentiel électrique pour la pointe considérée, ledit générateur électrique étant connecté électriquement au dispositif de transfert de chaleur (10) de la pointe considérée pour activer celui-ci.
+</P>
+<P>
+11. Dispositif de lecture/écriture selon la revendication 10 comprenant un système de détection (24) connecté électriquement à l&apos;aiguille et adapté pour obtenir une information relative à ladite surface par microscopie par effet tunnel sous l&apos;effet de ladite première différence de potentiel électrique.
+</P>
+<P>
+12. Procédé d&apos;écriture dans lequel
+</P>
+<P>
+(a) on place dans une position d&apos;opération au voisinage d&apos;un substrat (17) électriquement conducteur présentant une surface une pointe (1) de lecture/écriture selon l&apos;une des revendications 1 à 7,
+</P>
+<P>
+(b) un générateur électrique (15) applique une deuxième différence de potentiel électrique entre le substrat et l&apos;aiguille, de signe opposé à la première différence de potentiel, ladite aiguille émettant une particule chargée de ladite première polarité depuis la couche de matériau électriquement conducteur, en direction de la surface du substrat pour former ladite surface du substrat .
+</P>
+<P>
+13. Procédé d&apos;écriture selon la revendication 12 dans lequel, au cours de l&apos;étape (b) on forme la surface
+</P>
+<P>
+(17a) en déposant sur la surface une particule de métal électriquement conducteur arrachée à la couche de la pointe sous l&apos;effet de ladite deuxième différence de potentiel.
+</P>
+<P>
+14. Procédé d&apos;écriture selon la revendication 13, dans lequel, au cours de l&apos;étape (b) , le dispositif de transfert de chaleur (10) maintient à l&apos;état solide le matériau électriquement conducteur contenu dans le réservoir et le long de la pointe.
+</P>
+<P>
+15. Procédé d&apos;écriture selon la revendication 12 dans lequel, au cours de l&apos;étape (b) on forme la surface en gravant la surface par impact d&apos;une particule de métal électriquement conducteur arrachée à la couche (9) de la pointe, sous l&apos;effet de ladite deuxième différence de potentiel .
+</P>
+<P>
+16. Procédé d&apos;écriture selon la revendication 15, dans lequel, au cours de l&apos;étape (b) , le dispositif de transfert de chaleur (10) maintient à l&apos;état liquide le matériau électriquement conducteur contenu dans le réservoir et le long de la pointe.
+</P>
+<P>
+17. Procédé d&apos;écriture selon la revendication 16, dans lequel, le générateur électrique (15) applique au dispositif de transfert de chaleur (10) une puissance électrique suffisante pour maintenir à l&apos;état liquide le matériau électriquement conducteur du réservoir et de la couche .
+</P>
+<P>
+18. Procédé d&apos;écriture selon l&apos;une des revendications 15 à 17, dans lequel, au cours de l&apos;étape (a), on place dans la position d&apos;opération au voisinage d&apos;un substrat (17) électriquement conducteur présentant une surface une pluralité de pointes (1) de lecture/écriture selon l&apos;une quelconque des revendications 1 à I1chacune étant connectée à un générateur électrique (15) pour l&apos;application d&apos;un potentiel électrique indépendant à chaque aiguille, et dans lequel l&apos;étape (b) est mise en oeuvre de manière indépendante pour chaque aiguille.
+</P>
+<P>
+19. Procédé d&apos;écriture selon l&apos;une des revendications 12 à 18, dans lequel, entre deux étapes (b) successives, on applique un mouvement relatif au substrat (17) et a au moins une pointe (1) .
+</P>
+<P>
+20. Procédé de régénération d&apos;une pointe de lecture/écriture selon l&apos;une des revendications 1 à 7, dans lequel on met en oeuvre une étape (c) au cours de laquelle le dispositif de transfert de chaleur (10) liquéfie le matériau électriquement conducteur contenu dans le réservoir, et fait s&apos;écouler celui-ci le long de la pointe.
+</P>
+<P>
+21. Procédé de lecture dans lequel
+</P>
+<P>
+(d) on place dans une position d&apos;opération au voisinage d&apos;un substrat électriquement conducteur présentant une surface une pointe de lecture/écriture selon l&apos;une des revendications 1 à I1
+</P>
+<P>
+(e) un générateur électrique applique entre le substrat et l&apos;aiguille (2) une première différence de potentiel électrique,
+</P>
+<P>
+(f) un système de détection (24) connecté à ladite aiguille obtient une information relative à ladite surface par microscopie par effet tunnel sous l&apos;effet de ladite première différence de potentiel électrique.
+</P>
+<P>
+22. Procédé de lecture selon la revendication 21, dans lequel on applique un mouvement relatif à la pointe et au substrat, et on réitère les étapes (d) , (e) , et (f) .
+</P>
+<P>
+23. Procédé de traitement de surface dans lequel on met en oeuvre successivement avec une même pointe au moins un procédé de lecture selon l&apos;une des revendications 21 à 22 et un procédé choisi parmi un procédé d&apos;écriture selon l&apos;une des revendications 12 à 19, et un procédé de régénération selon la revendication 20.
+</P>
+<P>
+24. Programme d&apos;ordinateur comprenant des portions de code de programme pour l&apos;exécution des étapes d&apos;un procédé selon l&apos;une quelconque des revendications 12 à 23 lorsque ledit programme est exécuté sur un ordinateur (25) .
+</P>
+<P>
+25. Procédé de fabrication d&apos;une pointe de lecture/écriture dans lequel :
+</P>
+<P>
+(z)on forme un noyau (3) d&apos;un matériau réfractaire,
+</P>
+<P>
+(y) on recouvre le noyau au moins partiellement d&apos;une couche (9) de matériau électriquement conducteur, pour former une aiguille (2) une portion de connexion à un générateur électrique pour l&apos;application d&apos;un potentiel électrique à l&apos;aiguille, étant définie dans ladite aiguille, ladite aiguille étant adaptée pour être placée dans une position d&apos;opération au voisinage d&apos;un substrat électriquement conducteur présentant une surface,
+</P>
+<P>
+(x) on donne à l&apos;aiguille la géométrie externe d&apos;une aiguille de microscope pour effet tunnel, ladite aiguille (2) étant adaptée pour être connectée dans un mode de lecture à un système de détection (24) pour l&apos;obtention d&apos;une information relative à la surface par microscopie par effet tunnel sous l&apos;effet d&apos;une première différence de potentiel électrique appliqué par le générateur électrique entre le substrat et l&apos;aiguille, et ladite aiguille étant adaptée pour émettre, dans un mode d&apos;écriture une particule chargée d&apos;une première polarité depuis la couche (9) de matériau électriquement conducteur, en direction de la surface du substrat sous l&apos;effet d&apos;une deuxième différence de potentiel électrique appliquée par le générateur électrique entre le substrat et l&apos;aiguille, de signe opposé à la première différence de potentiel, pour former ladite surface d[upsilon] substrat,
+</P>
+<P>
+(w) on place en communication fluide avec ladite couche un réservoir (11) comprenant une réserve du matériau électriquement conducteur formant ladite couche, et (v) on lie à ladite aiguille un dispositif de transfert de chaleur (10) adapté, lorsqu&apos;il est activé, pour liquéfier le matériau électriquement conducteur contenu dans le réservoir et pour le faire s&apos;écouler le long de la pointe.
+</P>
+<P>
+26. Procédé de fabrication d&apos;une pointe de lecture/écriture selon la revendication 25, dans lequel au cours de l&apos;étape (z) :
+</P>
+<P>
+(zl) on rugosifie le noyau (3) par attaque chimique, pour augmenter la capillarité du noyau au matériau électriquement conducteur en y formant des microcanaux longitudinaux.
+</P>
+<P>
+27. Procédé de fabrication d&apos;une pointe de lecture/écriture selon l&apos;une des revendications 25 à 26 dans lequel on met en oeuvre les étapes (w) et (y) simultanément en immergeant dans un bain du matériau électriquement conducteur fondu le noyau (2) doté d&apos;un filament (10) présentant : une portion de connexion (1Od) à un générateur électrique adapté pour faire circuler dans le filament une puissance électrique adaptée pour liquéfier le matériau électriquement conducteur du réservoir, et au moins une spire (10a) entourant l&apos;aiguille et noyée dans le réservoir de matériau électriquement conducteur.
+</P>
+</Claims>
+<Also_published_as>
+WO2007045739A1;US2008253020A1;US8040784B2;JP2009512847A;FR2892560A1
+</Also_published_as>
+</BiblioData>

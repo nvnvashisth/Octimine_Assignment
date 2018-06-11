@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Quantum information processing device
+</Title>
+<PublicationNumber>
+EP2075745A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WILLIAMS DAVID [GB]
+</Name>
+<Name>
+GORMAN JOHN [US]
+</Name>
+<Name>
+WILLIAMS, DAVID
+</Name>
+<Name>
+GORMAN, JOHN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HITACHI LTD [JP]
+</Name>
+<Name>
+HITACHI LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2075745
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070124170
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070124170
+</PriorityNumber>
+<PriorityDate>
+2007-12-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G06N99/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G06N99/00K
+</Class>
+</NCL>
+<Abstract>
+A quantum information processing device includes an isolated double quantum dot system (902 1 ), an electrometer (903 1 ) and an isolated conductive element (901 1 ) disposed between the isolated quantum dot system and the electrometer for coupling the isolated quantum dot system and the electrometer.
+</Abstract>
+<Claims>
+<P>
+1. A quantum information processing device including:
+</P>
+<P>
+an isolated double quantum dot system;
+</P>
+<P>
+an electrometer; and
+</P>
+<P>
+an isolated conductive element disposed between the isolated quantum dot system and the electrometer for coupling the isolated quantum dot system and the electrometer.
+</P>
+<P>
+2. A device according to claim 1, wherein the isolated conductive element comprises a region of semiconducting material.
+</P>
+<P>
+3. A device according to claim 2, wherein the semiconducting material comprises silicon.
+</P>
+<P>
+4. A device according to claim 3, wherein the semiconducting material is intrinsic or is doped with an impurity having an impurity concentration of at least 1*10&amp;lt;18&amp;gt; cm&amp;lt;-3&amp;gt;.
+</P>
+<P>
+5. A device according to any preceding claim, wherein the isolated conductive element is arranged as an elongate bar.
+</P>
+<P>
+6. A device according to any preceding claim, wherein the isolated conductive element is arranged is arranged to exhibit Coulomb blockade.
+</P>
+<P>
+7. A device according to any preceding claim, wherein the isolated conductive element is arranged is arranged to exhibit quantised states.
+</P>
+<P>
+8. A device according to any preceding claim, wherein the isolated conductive element is a double quantum dot system.
+</P>
+<P>
+9. A device according to any preceding claim, wherein the isolated conductive element is formed in a layer having a thickness equal to or less than about 100 nm, preferably equal to or less than about 50 nm.
+</P>
+<P>
+10. A device according to any preceding claim, wherein the isolated conductive element is elongate and has a longitudinal dimension equal to or less than about 100 nm.
+</P>
+<P>
+11. A device according to claim 10, wherein the isolated conductive element is elongate and has a first, transverse dimension equal to or less than about 50 nm.
+</P>
+<P>
+12. A device according to claim 9 or 10, wherein the isolated conductive element is elongate and has a second, transverse dimension equal to or less than about 50 nm.
+</P>
+<P>
+13. A device according to claim 12, wherein the second, transverse dimension corresponds to a layer thickness.
+</P>
+<P>
+14. A device according to any preceding claim, wherein the isolated double quantum dot system and the isolated conductive element are separated by a gap equal to or less than about 200 nm, preferably equal to or less than about 100 nm.
+</P>
+<P>
+15. A device according to any preceding claim, wherein the isolated double quantum dot system and the isolated conductive element are separated by a gap equal to or more than about 10 nm, preferably equal to or more than about 40 nm.
+</P>
+<P>
+16. A device according to any preceding claim, wherein the electrometer and the isolated conductive element are separated by a gap equal to or less than about 500 nm, preferably between about 200 nm and 300 nm.
+</P>
+<P>
+17. A device according to any preceding claim, wherein the isolated double quantum dot system comprises a region of semiconducting material.
+</P>
+<P>
+18. A device according to claim 17, wherein the semiconducting material is silicon.
+</P>
+<P>
+19. A device according to claim 17 or 18, wherein the semiconducting material is intrinsic or is doped with an impurity having an impurity concentration of at least 1*10&amp;lt;18&amp;gt; cm&amp;lt;-3&amp;gt;.
+</P>
+<P>
+20. A device according to any preceding claim, wherein the isolated double quantum dot system is bilobate having first and second lobes.
+</P>
+<P>
+21. A device according to any preceding claim, wherein isolated double quantum dot system is arranged is arranged to exhibit Coulomb blockade.
+</P>
+<P>
+22. A device according to any preceding claim, comprising:
+</P>
+<P>
+an array of isolated double quantum dot systems; and
+</P>
+<P>
+at least one electrometer for determining charge distribution on at least one isolated double quantum dot system.
+</P>
+<P>
+23. A device according to claim 22, wherein each isolated double quantum dot system is bilobate having first and second lobes.
+</P>
+<P>
+24. A device according to claim 23, wherein isolated double quantum dot systems which are adjacent to each other in a row or column are arranged perpendicularly to each other.
+</P>
+<P>
+25. A device according to claim 24, wherein isolated double quantum dot systems which are adjacent to each other in a row are arranged perpendicularly to each other and isolated double quantum dot systems which are adjacent to each other in a column are arranged in parallel or vice versa.
+</P>
+<P>
+26. Apparatus comprising:
+</P>
+<P>
+a device according to any preceding claim;
+</P>
+<P>
+a radio frequency signal source; and
+</P>
+<P>
+an antenna coupled to the source; the source and antenna arranged so as to excite the or each isolated double quantum dot system.
+</P>
+<P>
+27. Apparatus comprising:
+</P>
+<P>
+a device according to any preceding claim;
+</P>
+<P>
+a refrigerator for cooling the device to a temperature equal to or less than 4.2 [deg.]K.
+</P>
+</Claims>
+</BiblioData>

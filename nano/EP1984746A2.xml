@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PHOTON-CONVERSION MATERIALS (PCMS) IN POLYMER SOLAR CELLS- ENHANCEMENT EFFICIENCY AND PREVENTION OF DEGRADATION
+</Title>
+<PublicationNumber>
+EP1984746A2
+</PublicationNumber>
+<Inventor>
+<Name>
+YANG YANG [US]
+</Name>
+<Name>
+LI GANG [US]
+</Name>
+<Name>
+YANG, YANG
+</Name>
+<Name>
+LI, GANG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV CALIFORNIA [US]
+</Name>
+<Name>
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1984746
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070750876
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US04073
+</PriorityNumber>
+<PriorityDate>
+2007-02-16
+</PriorityDate>
+<PriorityNumber>
+US20060774188P
+</PriorityNumber>
+<PriorityDate>
+2006-02-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L31/042
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/44L
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+A photovoltaic device has a photovoltaic cell and a photon-conversion component. The photon-conversion component has a photon-conversion material in its composition. The photon-conversion material, while the photovoltaic device is in operation, converts photons in a spectral region including a first wavelength to photons in a spectral region including a second wavelength, the second wavelength being longer than the first wavelength. The photons having the second wavelength are at least one of less damaging to the photovoltaic cell than photons having the first wavelength or converted more efficiently to an electrical current than photons having the first wavelength.
+</Abstract>
+<Claims>
+<P>
+CLAIMS We claim:
+</P>
+<P>
+1. A photovoltaic device, comprising: a photovoltaic cell; and a photon-conversion component provided at least one of proximate to and integral with said photovoltaic cell, said photon-conversion component comprising a photon- conversion material, wherein said photon-conversion material, while said photovoltaic device is in operation, converts photons in a spectral region comprising a first wavelength to photons in a spectral region comprising a second wavelength, said second wavelength being longer than said first wavelength, wherein photons having said second wavelength are at least one of less damaging to said photovoltaic cell than photons having said first wavelength or converted more efficiently to an electrical current than photons having said first wavelength.
+</P>
+<P>
+2. A photovoltaic device according to claim 1 , further comprising a substrate upon which said photovoltaic cell is formed, wherein said photon-conversion component is formed on a light-incident side of said substrate.
+</P>
+<P>
+3. A photovoltaic device according to claim 2, further comprising a protective layer formed on a light-incident side of said photon-conversion material, said protective layer being suitable to block at least a portion of incident photons at wavelengths that are harmful to at least one of said photovoltaic cell, said substrate and said photon-conversion component.
+</P>
+<P>
+4. A photovoltaic device according to claim 3, wherein said protective layer is at least one of a light absorbing layer or a reflection coating layer that is constructed to reflect at least some harmful light back.
+</P>
+<P>
+5. A photovoltaic device according to claim 3, wherein said protective layer is a reflection layer constructed to reflect at least a portion of photons in said first spectral range and serves as an anti-reflection layer for photons in said second spectral range.
+</P>
+<P>
+6. A photovoltaic device according to claim 3, wherein said protective layer is a reflection layer constructed to reflect at least a portion of photons in said first spectral range and is constructed to provide multiple internal reflections for photons in said second spectral range within said photovoltaic cell to allow said photovoltaic cell to better absorb long wavelength photons via a multiple reflection process within the photovoltaic cell.
+</P>
+<P>
+7. A photovoltaic device according to claim 1, further comprising a substrate upon which said photovoltaic cell is formed, said substrate comprising said photon-conversion material in its composition.
+</P>
+<P>
+8. A photovoltaic device according to claim 7, wherein said substrate is provided on a light-incident side of said photovoltaic cell.
+</P>
+<P>
+9. A photovoltaic device according to claim 1, further comprising a protective envelope in which said photovoltaic cell and said photon-conversion component are enclosed.
+</P>
+<P>
+10. A photovoltaic device according to claim 9, wherein said envelope is a glass envelope comprising two glass plates in which said photovoltaic cell and said photon- conversion component are sandwiched between said two glass plates, and wherein said photovoltaic device is suitable to be mounted on a building as a window to generate electricity.
+</P>
+<P>
+11. A photovoltaic device according to claim 10, wherein a vacuum is created between said two glass plates to further protect said photovoltaic cell.
+</P>
+<P>
+12. A photovoltaic device according to claim 9, further comprising an inert gas enclosed in said protective envelope.
+</P>
+<P>
+13. A photovoltaic device according to claim 1, wherein said photon-conversion material is selected from at least one of organic photon-conversion materials, inorganic photon-conversion materials, phosphors, organic triplet compounds, nano-particles and photonic bandgap materials.
+</P>
+<P>
+14. A photovoltaic device according to claim I3 wherein said photon-conversion material has the form of at least one of a liquid, a gel, a sol-gel, nano-particles, or a solid.
+</P>
+<P>
+15. A photovoltaic device according to claim I5 wherein said photovoltaic cell is an organic photovoltaic cell.
+</P>
+<P>
+16. A photovoltaic device according to claim 15, wherein said organic photovoltaic cell is a small molecule organic photovoltaic cell.
+</P>
+<P>
+17 A photovoltaic device according to claim 15, wherein said organic photovoltaic cell is a oligomer photovoltaic cell.
+</P>
+<P>
+18. A photovoltaic device according to claim 15, wherein said organic photovoltaic cell is a polymer photovoltaic cell.
+</P>
+<P>
+19. A photovoltaic device according to claim 1, wherein said photovoltaic cell is an inorganic photovoltaic cell.
+</P>
+<P>
+20. A method of producing electricity, comprising: converting at least a portion of incident photons having wavelengths within a first spectral range into photons in a second spectral range that has longer wavelengths than said first spectral range; and converting at least some of said converted photons to electric power.
+</P>
+</Claims>
+<Also_published_as>
+WO2007098021A2;WO2007098021A3;WO2007098021A9;US2010012177A1;JP2009527896A;CN101384908A
+</Also_published_as>
+</BiblioData>

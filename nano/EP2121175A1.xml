@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SYNTHESIS OF NANOPARTICLES BY LASER HYDROLYSIS
+</Title>
+<PublicationNumber>
+EP2121175A1
+</PublicationNumber>
+<Inventor>
+<Name>
+PORTERAT DOMINIQUE [FR]
+</Name>
+<Name>
+PORTERAT, DOMINIQUE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE ET AUX ENERGIESALTERNATIVES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2121175
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080708093
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP50728
+</PriorityNumber>
+<PriorityDate>
+2008-01-22
+</PriorityDate>
+<PriorityNumber>
+FR20070000750
+</PriorityNumber>
+<PriorityDate>
+2007-02-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/08
+</Class>
+<Class>
+B01J19/12
+</Class>
+<Class>
+B01J6/00
+</Class>
+<Class>
+C01G23/047
+</Class>
+<Class>
+C01G23/07
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G23/047
+</Class>
+<Class>
+C01G23/07
+</Class>
+</NCL>
+<Abstract>
+La présente invention vise la synthèse de nanoparticules par pyrolyse laser. A cet effet, un précurseur interagit avec un faisceau laser (LAS) dans un réacteur de pyrolyse (REAC) pour produire des nanoparticules (nP). Selon l&apos;invention, le précurseur est injecté dans le réacteur en phase vapeur (VAP) et en mode continu. On prévoit avantageusement un régulateur de débit massique (RDML) pour contrôler le débit du précurseur qui est alors continu. La flamme de pyrolyse est stable et des cadences record de production par synthèse, ainsi qu&apos;une homogénéité record de la taille des nanoparticules, ont pu être observées.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Procédé de synthèse de nanoparticules par pyrolyse laser, dans lequel au moins un précurseur interagit avec un faisceau laser (LAS) dans un réacteur de pyrolyse (REAC) pour produire des nanoparticules (nP), caractérisé en ce que le précurseur est injecté dans le réacteur en phase vapeur (VAP) et en mode continu.
+</P>
+<P>
+2. Procédé selon la revendication I, caractérisé en ce que le précurseur est de débit sensiblement continu et contrôlé par un régulateur de débit massique (RDML).
+</P>
+<P>
+3. Procédé selon la revendication 2, caractérisé en ce que le précurseur est : - d&apos;abord en phase liquide (LIQ), - puis, porté en phase vapeur (VAP) dans un évaporateur (EVAP), avant d&apos;être injecté dans le réacteur (REAC), et en ce que le débit du précurseur est contrôlé dans la phase liquide (LIQ) par ledit régulateur de débit massique (RDML). 6. Procédé selon l&apos;une des revendications précédentes, caractérisé en ce que le précurseur en phase vapeur est porté par un gaz dans le réacteur. 7. Procédé selon la revendication 4, caractérisé en ce que le gaz porteur est un gaz neutre dans la pyrolyse. 6. Procédé selon la revendication 4, caractérisé en ce que le gaz porteur comporte un additif agissant en tant que sensibilisateur dans la pyrolyse. 7. Procédé selon l&apos;une des revendications 4 et 6, caractérisé en ce que le gaz porteur comporte un additif se combinant au précurseur pour former les nanoparticules. 18308. Procédé selon l&apos;une des revendications 4 à 7, caractérisé en ce que le gaz porteur (GAZ) est de débit contrôlé par un régulateur de débit massique (RDMG). 9. Procédé selon la revendication 8, prise en combinaison avec la revendication 2, caractérisé en ce que le débit du précurseur, d&apos;une part, et le débit de gaz neutre, d&apos;autre part, sont gérés séparément. 10. Procédé selon l&apos;une des revendications 8 et 9, prises en combinaison avec la revendication 3, caractérisé en ce que I&quot;évaporateur (EVAP) mélange le précurseur, en phase vapeur, au gaz neutre. i l . Procédé selon l&apos;une des revendications précédentes, caractérisé en ce que l&apos;on prévoit en outre une autre injection de précurseur dans le réacteur de pyrolyse, sous forme de gouttelettes liquides (GOU). 12. Procédé selon l&apos;une des revendications 3 à Il, caractérisé en ce que l&apos;on prévoit une circulation d&apos;un solvant pour nettoyer au moins ledit évaporateur (EVAP). 13. Procédé selon l&apos;une des revendications 3 à 12, caractérisé en ce que le débit du 20 précurseur sous forme liquide est inférieur ou égal à 1000 grammes par heure. 14. Procédé selon la revendication 13, caractérisé en ce que le débit du précurseur sous forme liquide est de l&apos;ordre de 100 grammes par heure, pour un précurseur du type Tetra Isopropoxide de Titane, et en ce que la pyrolyse produit plus de 20 grammes de 25 nanoparticules de TiO2 par heure. 15. Dispositif de synthèse de nanoparticules par pyrolyse laser, comportant : - un réacteur de pyrolyse (REAC), - des moyens (OPT) pour générer un faisceau laser (LAS) destiné à interagir avec un 30 précurseur, dans ledit réacteur de pyrolyse,15caractérisé en ce qu&apos;il comporte des moyens (DRML, EVAP) pour injecter, dans le réacteur de pyrolyse, le précurseur en phase vapeur et en mode continu. 16. Dispositif selon la revendication 15, caractérisé en ce qu&apos;il comporte un régulateur de débit massique (DRML) pour appliquer au précurseur un débit sensiblement continu. 17. Dispositif selon la revendication 16, caractérisé en ce qu&apos;il comporte un évaporateur (EVAP) pour faire passer le précurseur d&apos;une phase liquide à une phase vapeur, avant son injection dans le réacteur, et en ce que le régulateur de débit massique (DRML) est en amont de l&apos;évaporateur (EVAP) pour contrôler le débit du précurseur dans sa phase liquide. 18. Dispositif selon la revendication 17, caractérisé en ce qu&apos;il comporte en outre un circuit de gaz porteur (GAZ) propre à entraîner le précurseur en phase vapeur depuis l&apos;évaporateur jusqu&apos;au réacteur. 19. Dispositif selon l&apos;une des revendications 15 à 18, caractérisé en ce qu&apos;il comporte un circuit de circulation d&apos;un solvant (RES2) pour nettoyer au moins lesdits moyens (EVAP) d&apos;injection du précurseur en phase vapeur. 20. Dispositif selon l&apos;une des revendications 15 à 19, caractérisé en ce qu&apos;il comporte en outre des moyens (AFRO) d&apos;injection d&apos;un précurseur sous forme de gouttelettes liquides dans le réacteur. 21. Produit obtenu par le procédé selon l&apos;une des revendications 1 à 14, comportant des nanoparticules de synthèse par pyrolyse laser, caractérisé en ce que la dispersion, en taille, des nanoparticules est inférieure à 40%.25
+</P>
+</Claims>
+<Also_published_as>
+EP2121175B1;FR2912070A1;US2010092367A1;US8097233B2;WO2008095774A1;AT544513T
+</Also_published_as>
+</BiblioData>

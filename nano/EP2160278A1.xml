@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR THE PRODUCTION OF A CONDUCTIVE POLYMER COMPOSITE MATERIAL
+</Title>
+<PublicationNumber>
+EP2160278A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BIERDEL MICHAEL [DE]
+</Name>
+<Name>
+BUCHHOLZ SIGURD [DE]
+</Name>
+<Name>
+MICHELE VOLKER [DE]
+</Name>
+<Name>
+MLECZKO LESLAW [DE]
+</Name>
+<Name>
+RUDOLF REINER [DE]
+</Name>
+<Name>
+WOLF AUREL [DE]
+</Name>
+<Name>
+BIERDEL, MICHAEL
+</Name>
+<Name>
+BUCHHOLZ, SIGURD
+</Name>
+<Name>
+MICHELE, VOLKER
+</Name>
+<Name>
+MLECZKO, LESLAW
+</Name>
+<Name>
+RUDOLF, REINER
+</Name>
+<Name>
+WOLF, AUREL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BAYER MATERIALSCIENCE AG [DE]
+</Name>
+<Name>
+BAYER MATERIALSCIENCE AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2160278
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080759138
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP04611
+</PriorityNumber>
+<PriorityDate>
+2008-06-10
+</PriorityDate>
+<PriorityNumber>
+DE200710029008
+</PriorityNumber>
+<PriorityDate>
+2007-06-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B29C47/00
+</Class>
+<Class>
+C08J3/20
+</Class>
+<Class>
+C08J5/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B29B9/06
+</Class>
+<Class>
+B29B9/12
+</Class>
+<Class>
+B29K105/00E18
+</Class>
+<Class>
+B29K105/00E20B
+</Class>
+<Class>
+B29K105/00E6B
+</Class>
+<Class>
+B29K105/16B
+</Class>
+<Class>
+B29K23/06
+</Class>
+<Class>
+B29K23/12
+</Class>
+<Class>
+B29K25/00
+</Class>
+<Class>
+B29K27/06
+</Class>
+<Class>
+B29K27/16
+</Class>
+<Class>
+B29K33/12
+</Class>
+<Class>
+B29K59/00
+</Class>
+<Class>
+B29K67/00
+</Class>
+<Class>
+B29K67/00C
+</Class>
+<Class>
+B29K69/00
+</Class>
+<Class>
+B29K71/00
+</Class>
+<Class>
+B29K75/00
+</Class>
+<Class>
+B29K77/00
+</Class>
+<Class>
+B29K79/08
+</Class>
+<Class>
+B29K81/04
+</Class>
+<Class>
+B29K81/06
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C08J3/20H
+</Class>
+<Class>
+C08J5/00N
+</Class>
+</NCL>
+<Abstract>
+Die Erfindung betrifft ein Verfahren zur Herstellung eines elektrisch leitfähigen Kohlenstoffnanoröhrchen-Polymerverbundwerkstoffs mit vermindertem Oberflächenwiderstand, bei dem eine Kohlenstoffnanoröhrchen-Polymerschmelze-Mischung in einem doppelwelligen Schneckenextruder dispergiert und anschliessend extrudiert wird.
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zur Herstellung eines leitfähigen Kohlenstoffnanoröhrchen-Polymerverbundwerkstoffs, bei dem Kohlenstoffnanoröhrchen und thermoplastisches Polymer in einem doppelwelligen Schneckenextruder mit gleichsinnig rotierenden, nicht konischen Wellen gemischt und anschliessend extrudiert werden, dadurch gekennzeichnet, dass
+</P>
+<P>
+a) die Kohlenstoffnanoröhrchen zusammen mit dem Polymer bzw. den Polymeren und ggf. Additiven in fester Phase dem Haupteinzug (2) des Schneckenextruders (1) zugeführt werden, die Kohlenstoffnanoröhrchen in der Einzugszone (12, 13) durch Feststoffreibung unter Bildung einer Feststoffmischung vordispergiert werden und in der Aufschmelzzone (14, 15) überwiegend durch hydrodynamische Kräfte weiter dispergiert werden, und
+</P>
+<P>
+b) die resultierende Mischung in mindestens einer weiteren Zone (16, 17, 18, 19) des Schneckenextruders (1) weiter nachdispergiert und die Kohlenstoffnanoröhrchen in der Polymerschmelze homogen verteilt werden.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass der spezifische mechanische Energieeintrag im Schneckenextruder (1) auf einen Wert im Bereich von 0,1 kWh/kg bis 1 kWh/kg und die minimale Verweilzeit auf einen Wert im Bereich von 6 s bis 90 s eingestellt werden.
+</P>
+<P>
+3. Verfahren nach Anspruch 2, dadurch gekennzeichnet, dass der spezifische mechanische Energieeintrag im Schneckenextruder (1) insbesondere im Bereich von 0,2 kWh/kg bis 0,6 kWh/kg und die minimale Verweilzeit insbesondere im Bereich von 8 s bis 30 s eingestellt werden.
+</P>
+<P>
+4. Verfahren nach Anspruch 1-2, dadurch gekennzeichnet, dass mehrwandige (multiwalled) Kohlenstoffnanoröhrchen verwendet werden.
+</P>
+<P>
+5. Verfahren nach Anspruch 1-4, dadurch gekennzeichnet, dass Kohlenstoffnanoröhrchen mit einem Verhältnis von Länge zu Aussendurchmesser von grösser 5, bevorzugt grösser 100, verwendet werden.
+</P>
+<P>
+6. Verfahren nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass die Kohlenstoffnanoröhrchen als Agglomerate eingesetzt werden.
+</P>
+<P>
+7. Verfahren nach einem der Ansprüche 1 bis 6, dadurch gekennzeichnet, dass die Kohlenstoffnanoröhrchen einen mittleren Durchmesser von 3 bis 100 nm, bevorzugt 3 bis 80 nm, aufweisen.
+</P>
+<P>
+8. Verfahren nach einem der Ansprüche 1 bis 7, dadurch gekennzeichnet, dass das thermoplastische Polymer wenigstens eines aus der Reihe Polycarbonat, Polyamid, Polyester, insbesondere Polybutylenterephthalat und Polyethylenterephthalat, Polyether, thermoplastisches Polyurethan, Polyacetal, Fluorpolymer, insbesondere Polyvinylidenfluorid, Polyethersulfone, Polyolefin, insbesondere Polyethylen und Polypropylen, Polyimid, Polyacrylat, insbesondere Poly(methyl)methacrylat, Polyphenylenoxid, Polyphenylensulfid, Polyetherketon, Polyaryletherketon, Styrolpolymerisate, insbesondere Polystyrol, Styrolcopolymere, insbesondere Styrolacrylnitrilcopolymer, Acrylatkautschuk (ASA), Acrylnitrilbutadienstyrolblockcopolymere und Polyvinylchlorid ist.
+</P>
+<P>
+9. Kohlenstoffnanoröhrchen-Polymerverbundwerkstoff erhalten aus einem Verfahren gemäss einem der Ansprüche 1 bis 8.
+</P>
+<P>
+10. Verwendung des Kohlenstoffnanoröhrchen-Polymerverbundwerkstoff nach Anspruch 9 zur Herstellung von Formkörpern.
+</P>
+</Claims>
+<Also_published_as>
+EP2160278B1;DE102007029008A1;US2009023851A1;TW200918282A;KR20100023887A;JP2010530925A;ES2369509T3;WO2009000408A1;CN101687354A;AT520515T
+</Also_published_as>
+</BiblioData>

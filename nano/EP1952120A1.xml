@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MICROSCOPE, IN PARTICULAR A SCANNING PROBE MICROSCOPE PROVIDED WITH A PROGRAMMABLE LOGIC
+</Title>
+<PublicationNumber>
+EP1952120A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KOENEN JOACHIM [DE]
+</Name>
+<Name>
+VOLSWINKLER GERHARD [DE]
+</Name>
+<Name>
+SPIZIG PETER [DE]
+</Name>
+<Name>
+KOENEN, JOACHIM
+</Name>
+<Name>
+VOLSWINKLER, GERHARD
+</Name>
+<Name>
+SPIZIG, PETER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+WITEC WISSENSCHAFTLICHE INSTR [DE]
+</Name>
+<Name>
+WITEC WISSENSCHAFTLICHE INSTRUMENTE UND TECHNOLOGIE GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1952120
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060818273
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006EP10186
+</PriorityNumber>
+<PriorityDate>
+2006-10-23
+</PriorityDate>
+<PriorityNumber>
+DE200510055460
+</PriorityNumber>
+<PriorityDate>
+2005-11-22
+</PriorityDate>
+<PriorityNumber>
+US20050738903P
+</PriorityNumber>
+<PriorityDate>
+2005-11-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q30/04
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q30/04
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a microscope, in particular to a scanning probe microscope provided with at least one peripheral electric component and comprising a programmable logic to which said peripheral electric component is connected without inserting a data bus.
+</Abstract>
+<Claims>
+<P>
+Patentansprüche
+</P>
+<P>
+1. Mikroskop, insbesondere Rastersondenmikroskop mit wenigstens einem peripheren elektrischen Bauteil, wobei das Mikroskop, insbesondere
+</P>
+<P>
+Rastersondenmikroskop eine programmierbare Logik umfasst mit der das periphere elektrische Bauteil ohne Zwischenschaltung eines Datenbusses für mehr als zwei Teilnehmer verbunden ist.
+</P>
+<P>
+2. Mikroskop, insbesondere Rastersondenmikroskop nach Anspruch 1, dadurch gekennzeichnet, dass das Mikroskop, insbesondere Rastersondenmikroskop wenigstens zwei periphere Bauteile umfasst, wobei beide peripheren Bauteile ohne Zwischenschaltung eines Datenbusses für mehr als zwei Teilnehmer direkt mit der programmierbaren Logik verbunden sind.
+</P>
+<P>
+3. Mikroskop, insbesondere Rastersondenmikroskop nach einem der Ansprüche 1 bis 2, dadurch gekennzeichnet, dass die programmierbare Logik die peripheren Bauteile direkt ansteuert.
+</P>
+<P>
+4. Mikroskop, insbesondere Rastersondenmikroskop nach einem der Ansprüche 1 bis 3, dadurch gekennzeichnet, dass die peripheren Bauteile eines oder mehrere der nachfolgenden Bauteile ist:
+</P>
+<P>
+ein A/D-Wandler (ADC) ein D/A-Wandler (DAC) ein digitaler Einund Ausgang (DIO) ein digitaler Ausgang (DO) ein digitaler Signalprozessor (DSP) ein Mikroprozessor eine weitere programmierbare Logik
+</P>
+<P>
+5. Mikroskop, insbesondere Rastersondenmikroskop nach Anspruch 4, dadurch gekennzeichnet, dass der A/D-Wandler ein A/D-Wandler mit einer Breite &amp;gt;= 14 bit bevorzugt &amp;gt;= 16 bit und/oder eine A/D-Wandler mit einer Abtastrate von mehr als 100 kSample/s bevorzugt mehr als 1 MSamples/s, ganz bevorzugt mehr als 5 MSamples/s ist.
+</P>
+<P>
+6. Mikroskop, insbesondere Rastersondenmikroskop nach Anspruch 4, dadurch gekennzeichnet, dass das Mikroskop, insbesondere Rastersondenmikroskop einen D/A-Wandler mit einer Breite &amp;gt; 14 Bit, bevorzugt &amp;gt; 16 Bit und oder eine Abtastrate mit mehr als 100 kSample/s, insbesondere mehr als 5 MSample/s, ganz besonders mehr als 50 MSample/s umfasst.
+</P>
+<P>
+7. Mikroskop, insbesondere Rastersondenmikroskop gemäss Anspruch 4, dadurch gekennzeichnet, dass der digitale Einund Ausgang (DIO) eine der nachfolgenden Schnittstellen ist:
+</P>
+<P>
+eine RS232-Schnittstelle eine l2C-Schnittstelle eine Ethernet-Schnittstelle eine USB-Schnittstelle
+</P>
+<P>
+8. Mikroskop, insbesondere Rastersondenmikroskop gemäss Anspruch 4, dadurch gekennzeichnet, dass die digitale Eingangs-/AusgangsSchnittstelle (DIO) eine Ansteuerschnittstelle für eine oder mehrere der nachfolgende Komponenten ist:
+</P>
+<P>
+Filterräder oder Filterschieber Beleuchtungseinrichtungen, insbesondere Laser elektrische Drehtischantriebe
+</P>
+<P>
+Spektrometer oder Spektrographen CCD-Kamera eine Schnittstelle zur Ansteuerung eines Scansystems und Einlesen von dessen Daten
+</P>
+<P>
+9. Mikroskop, insbesondere Rastersondenmikroskop gemäss Anspruch 4, dadurch gekennzeichnet, dass, die digitale Ausgabeeinheit eine oder mehrere der nachfolgenden Ausgabeeinheiten ist:
+</P>
+<P>
+eine digitale Ausgabeeinheit die Schrittmotoren ansteuern kann eine digitale Ausgabeeinheit die Klappspiegel ansteuern kann eine digitale Ausgabeeinheit die Shutter oder akustooptische
+</P>
+<P>
+Modulatoren ansteuern kann eine digitale Ausgabeeinheit die Detektoren oder deren
+</P>
+<P>
+Funktionen einund ausschalten kann eine digitale Ausgabeeinheit, die Detektoren oder deren
+</P>
+<P>
+Funktionen in Abhängigkeit von der gemessenen Zählrate einund/oder ausschalten kann
+</P>
+<P>
+10. Mikroskop, insbesondere Rastersondenmikroskop gemäss einem der Ansprüche 1 bis 9, dadurch gekennzeichnet, dass das Mikroskop, insbesondere Rastersondenmikroskop wenigstens ein erstes peripheres Bauteil sowie wenigstens ein zweites peripheres Bauteil umfasst, wobei das erste peripheres Bauteil ein A/D-Wandler ist, der ein Messsignal aufnimmt und einen ersten Datenstrom, insbesondere einen digitalen Messdatenstrom zur Verfügung stellt.
+</P>
+<P>
+11. Mikroskop, insbesondere Rastersondenmikroskop gemäss Anspruch 10, dadurch gekennzeichnet, dass das das zweite periphere Bauteil ein D/A-Wandler ist, der ein analoges Signal zur Regelung des Mikroskop, insbesondere Rastersondenmikroskops zur Verfügung stellt.
+</P>
+<P>
+12. Mikroskop, insbesondere Rastersondenmikroskop gemäss einem der Ansprüche 10 bis 11 , dadurch gekennzeichnet, dass die programmierbare Logik einen Auswertebereich umfasst, den vom ersten peripheren Bauteil zur Verfügung gestellten ersten Datenstrom auswertet.
+</P>
+<P>
+13. Mikroskop, insbesondere Rastersondenmikroskop gemäss einem der Ansprüche 10 bis 12, dadurch gekennzeichnet, dass die programmierbare Logik einen Regelbereich umfasst, die einen dem zweiten peripheren Bauteil zur Verfügung gestellten zweiten Datenstrom ermittelt.
+</P>
+<P>
+14. Mikroskop, insbesondere Rastersondenmikroskop gemäss einem der Ansprüche 10 bis 13, dadurch gekennzeichnet, dass das zweite periphere Bauteil ein D/A-Wandler ist, der derart aufgebaut ist, dass eine Positioniereinrichtung zum Positionieren und Rastern einer Probe in einer, zwei oder drei Dimensionen zur Verfügung gestellt wird.
+</P>
+<P>
+15. Mikroskop, insbesondere Rastersondenmikroskop nach einem der Ansprüche 1 bis 14, dadurch gekennzeichnet, dass die programmierbare Logik so konfiguriert wird, dass alle zeitlich gleichzeitig ablaufenden Prozesse parallel verarbeitet werden.
+</P>
+<P>
+16. Mikroskop, insbesondere Rastersondenmikroskop mit einer programmierbaren Logik dadurch gekennzeichnet, dass die programmierbare Logik eine oder mehrere der nachfolgenden Komponenten umfasst:
+</P>
+<P>
+einen Prozessor (Soft-IP-Core) einen Regler einen Lock-in-Verstärker einen Modulator einen Filter einen Scan-Generator
+</P>
+<P>
+17. Mikroskop, insbesondere Rastersondenmikroskop gemäss einem der Ansprüche 1 bis 16, wobei das Mikroskop, insbesondere
+</P>
+<P>
+Rastersondenmikroskop eines oder mehrere der nachfolgenden Mikroskope ist:
+</P>
+<P>
+ein Rasterkraftmikroskop ein Rastertunnelmikroskop ein Laser-scanning-mikroskop ein Photonic-force-microskop
+</P>
+<P>
+18. Mikroskop, insbesondere Rastersondenmikroskop nach einem der Ansprüche 16 bis 17, dadurch gekennzeichnet, dass die programmierbare Logik einen oder mehrere der nachfolgenden Hardware-Bauteile umfasst:
+</P>
+<P>
+einen Prozessor (Hard-IP-Core) einen Digitalen Signal Prozessor (DSP als Hard-IP-Core)
+</P>
+<P>
+19. Mikroskop, insbesondere Rastersondenmikroskop gemäss einem der Ansprüche 1 bis 18, wobei das Mikroskop, insbesondere Rastersondenmikroskop eines oder mehrere der nachfolgenden Mikroskope ist:
+</P>
+<P>
+ein Rasterkraftmikroskop ein Rastertunnelmikroskop ein Laser-scanning-Mikroskop ein Photonic-force-Microskop
+</P>
+</Claims>
+<Also_published_as>
+WO2007059833A1
+</Also_published_as>
+</BiblioData>

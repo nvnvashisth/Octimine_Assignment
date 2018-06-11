@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Patterned magnetic recording medium with data island pattern for improved reading and writing and magnetic recording system incorporating the medium
+</Title>
+<PublicationNumber>
+EP1965374A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ALBRECHT THOMAS R [US]
+</Name>
+<Name>
+MOSER MICHAEL A [US]
+</Name>
+<Name>
+SCHABES MANFRED ERNST [US]
+</Name>
+<Name>
+WU XIAO Z [US]
+</Name>
+<Name>
+ALBRECHT, THOMAS R
+</Name>
+<Name>
+MOSER, MICHAEL A
+</Name>
+<Name>
+SCHABES, MANFRED ERNST
+</Name>
+<Name>
+WU, XIAO Z
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HITACHI GLOBAL STORAGE TECH [NL]
+</Name>
+<Name>
+HITACHI GLOBAL STORAGE TECHNOLOGIES NETHERLANDS B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1965374
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070254488
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20070680398
+</PriorityNumber>
+<PriorityDate>
+2007-02-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B5/02
+</Class>
+<Class>
+G11B5/82
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B5/02
+</Class>
+<Class>
+G11B5/74
+</Class>
+<Class>
+G11B5/74A
+</Class>
+<Class>
+G11B5/74A2
+</Class>
+<Class>
+G11B5/82
+</Class>
+<Class>
+G11B5/855
+</Class>
+</NCL>
+<Abstract>
+A patterned magnetic recording medium has discrete data islands arranged in spaced-apart tracks, with the tracks being arranged in multi-track groups or &quot;hypertracks&quot;. The islands have an equal island-spacing (IS) distance in the along-the-track direction and within each hypertrack the tracks are spaced-apart an equal track-spacing (TS) distance. If there are N tracks in a hypertrack then the islands in each track of a hypertrack are shifted in the along-the-track direction by 1/N times IS from the islands in adjacent tracks in the same hypertrack. The read and write heads have a lateral or cross-track width generally equal to the cross-track width of a hypertrack, so the read and write heads span all the individual tracks in a hypertrack. The hypertracks are spaced apart cross-track direction by a group-spacing (GS) distance, with GS being greater than TS. The islands in a hypertrack may be shifted in the along-the-track direction by approximately 1/2N times IS from the islands in adjacent hypertracks.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic recording medium comprising:
+</P>
+<P>
+a substrate;
+</P>
+<P>
+a plurality of discrete magnetizable islands on the substrate, the islands being arranged into a plurality of spaced-apart tracks;wherein the tracks are arranged into groups of N tracks, where N is equal to or greater than 2, with the islands in each track in a group being shifted along-the-track from the islands in adjacent tracks in the group; and
+</P>
+<P>
+wherein each group is spaced from adjacent groups a distance greater than the track spacing within the group.
+</P>
+<P>
+2. The recording medium according to claim 1 wherein the islands in each track are generally equally-spaced in the along-the-track direction with a spacing IS between the centers of adjacent islands.
+</P>
+<P>
+3. The recording medium according to claim 1 wherein the islands in each track are generally equally-spaced in the along-the-track direction and the islands in each track in a group are shifted along-the-track by approximately 1/N times the along-the-track island spacing from the islands in adjacent tracks in the group.
+</P>
+<P>
+4. The recording medium according to claim 1 wherein the islands in a group are shifted in the along-the-track direction by approximately 1/2N times the along-the-track island spacing from the islands in adjacent groups.
+</P>
+<P>
+5. The recording medium according to claim 1 wherein the spacing between the centerlines of the spaced-apart tracks is a distance TS, wherein the islands are generally equally-spaced in the along-the-track direction with a spacing IS between the centers of adjacent islands, and wherein TS is less than or equal to IS.
+</P>
+<P>
+6. The medium of claim 1 wherein the islands are magnetizable in a direction generally parallel to the substrate.
+</P>
+<P>
+7. The medium of claim 1 wherein the islands are magnetizable in a direction generally perpendicular to the substrate.
+</P>
+<P>
+8. The medium of claim 1 wherein the tracks are generally linear tracks.
+</P>
+<P>
+9. The medium of claim 1 wherein the spaced-apart tracks are generally concentric circular tracks.
+</P>
+<P>
+10. The medium of claim 1 wherein the islands are pillars extending generally perpendicularly from the substrate with magnetizable material on the tops of the pillars.
+</P>
+<P>
+11. A patterned magnetic recording disk comprising:
+</P>
+<P>
+a substrate;
+</P>
+<P>
+a plurality of discrete magnetizable islands on the substrate, the islands being arranged into a plurality of circular concentric tracks with generally equal along-the-track island spacing IS, where IS is the spacing between the centers of adjacent data islands;wherein the tracks are arranged into hypertracks of N radially adjacent tracks, where N is equal to or greater than 2, with generally equal track spacing TS in each hypertrack, where TS is the spacing between the centerlines of adjacent tracks, and with the islands in each track in a hypertrack being shifted along the track by approximately IS/N from the islands in radially adjacent tracks in the hypertrack; and
+</P>
+<P>
+wherein each hypertrack is spaced from radially adjacent hypertracks a distance greater than TS.
+</P>
+<P>
+12. The disk of claim 11 wherein the islands in a hypertrack are shifted in the along-the-track direction by approximately IS/2N from the islands in adjacent hypertracks.
+</P>
+<P>
+13. The disk of claim 11 wherein TS is less than or equal to IS.
+</P>
+<P>
+14. The disk of claim 11 wherein the islands are magnetizable in a direction generally parallel to the substrate.
+</P>
+<P>
+15. The disk of claim 11 wherein the islands are magnetizable in a direction generally perpendicular to the substrate.
+</P>
+<P>
+16. The disk of claim 11 wherein the islands are pillars extending generally perpendicularly from the substrate with magnetizable material on the tops of the pillars.
+</P>
+<P>
+17. A magnetic recording disk drive comprising:
+</P>
+<P>
+the disk according to claim 11; and
+</P>
+<P>
+a read head having a cross-track width greater than TS for reading all the islands in a hypertrack without movement in the cross-track direction.
+</P>
+<P>
+18. The disk drive of claim 17 further comprising a write head having a cross-track width greater than the TS for magnetizing all the islands in a hypertrack without movement in the cross-track direction.
+</P>
+</Claims>
+<Also_published_as>
+US2008204915A1;US7782561B2;JP2008217967A;CN101256780A
+</Also_published_as>
+</BiblioData>

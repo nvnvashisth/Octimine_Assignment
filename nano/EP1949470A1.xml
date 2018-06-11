@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+POLYMERIC NANOFIBRIL NETWORK FOR PHOTOVOLTAIC CELLS
+</Title>
+<PublicationNumber>
+EP1949470A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BERSON SOLENN [FR]
+</Name>
+<Name>
+DE BETTIGNIES REMI [FR]
+</Name>
+<Name>
+FIRON MURIEL [FR]
+</Name>
+<Name>
+GUILLEREZ STEPHANE [FR]
+</Name>
+<Name>
+BERSON, SOLENN
+</Name>
+<Name>
+DE BETTIGNIES, REMI
+</Name>
+<Name>
+FIRON, MURIEL
+</Name>
+<Name>
+GUILLEREZ, STEPHANE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1949470
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060830983
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006FR02366
+</PriorityNumber>
+<PriorityDate>
+2006-10-20
+</PriorityDate>
+<PriorityNumber>
+FR20050010894
+</PriorityNumber>
+<PriorityDate>
+2005-10-25
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00A2F
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+Y02E10/52
+</Class>
+</NCL>
+<Abstract>
+Procédé de préparation d&apos;une composition polymérique à propriétés photovoltaïques qui comprend une étape de mélange dans un solvant d&apos;au moins un matériau polymérique semi-conducteur donneur d&apos;électrons essentiellement sous forme de nanofibrilles et d&apos;au moins un matériau accepteur d&apos;électrons dans le solvant, lesdites nanofibrilles représentant au moins 10% en poids du matériau polymérique semi-conducteur donneur d&apos;électrons, compositions polymériques à propriétés photovoltaïques, et cellules photovoltaïques incorporant de telles compositions polymériques. (sans figure)
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1.. Procédé de préparation d&apos;une composition polymérique à propriétés photovoltaïques comprenant une étape de mélange dans un solvant d&apos;au moins un matériau polymérique semi-conducteur donneur d&apos;électrons essentiellement sous forme de nanofibrilles et d&apos;au moins un matériau accepteur d&apos;électrons dans le solvant, lesdites nanofibrilles représentant au moins 10% en poids du matériau polymérique semi-conducteur donneur d&apos;électrons.
+</P>
+<P>
+2. Procédé selon la revendication 1, caractérisé en ce que le mélange tel qu&apos;obtenu à l&apos;issue de l&apos;étape de mélange est déposé sur un substrat directement sans avoir recours à un recuit.
+</P>
+<P>
+3. Procédé selon l&apos;une quelconque des revendications 1 à 2, caractérisé en ce que les nanofibrilles représentent 25% à 93% en poids du matériau polymérique semi-conducteur donneur d&apos;électrons.
+</P>
+<P>
+4. Procédé selon l&apos;une quelconque des revendications 1 à 3, caractérisé en ce que les nanofibrilles sont préparées, avant l&apos;étape de mélange, au cours d&apos;une étape de mise en solution d&apos;au moins un matériau polymérique semi-conducteur donneur d&apos;électrons dans un solvant organique favorisant l&apos;obtention de nanofibrilles.
+</P>
+<P>
+5. Procédé selon la revendication 4, caractérisé en ce que l&apos;étape de mise en solution est réalisée par dissolution à une température supérieure à la température ambiante, suivie d&apos;un refroidissement lent jusqu&apos;à la température ambiante.
+</P>
+<P>
+6. Procédé selon la revendication 4 ou 5, caractérisé en ce que les 30 nanofibrilles sont séparées de la fraction de matériau polymérique donneur d&apos;électrons non associé par centrifugation et/ou filtration.
+</P>
+<P>
+7.. Procédé selon l&apos;une des revendications 1 à 6, caractérisé en ce que le solvant organique est le p-xylène.
+</P>
+<P>
+8. Procédé selon l&apos;une des revendications 1 à 6, caractérisé en ce que le 5 solvant organique est choisi parmi la cyclohexanone, le chlorobenzène, le dichlorobenzène et un mélange de ceux-ci.
+</P>
+<P>
+9. Procédé selon l&apos;une des revendications 1 à 8, caractérisé en ce que l&apos;étape de mélange est réalisée sous agitation.
+</P>
+<P>
+10. Procédé selon l&apos;une des revendications 1 à 9, caractérisé en ce que le matériau polymérique semi-conducteur donneur d&apos;électrons est choisi parmi les polythiophènes, polythiénylènesvinylènes, polyphénylènes, polyphénylènevinylènes, polyanilines, polyfluorènes et un mélange de ceux-ci. 15
+</P>
+<P>
+11. Procédé selon la revendication 10, caractérisé en ce que le matériau polymérique semi-conducteur donneur d&apos;électrons est choisi parmi le poly(3-hexylthiophène), le poly(3-hexyloxythiophène), le (poly(2-methoxy5-(2&apos;-éthylhexyloxy)p-phénylènevinylène) et le poly(2-méthoxy-5-(3&apos;,7&apos;- 20 diméthyloctyloxy)-1,4-phénylène-vinylène), leurs dérivés et un mélange de ceux-ci.
+</P>
+<P>
+12. Procédé selon l&apos;une des revendications 1 à 11, caractérisé en ce que le matériau accepteur d&apos;électrons comporte des nanocristaux semi-conducteurs 25 accepteurs inorganiques non enrobés ou enrobés par une couche organique, des nanofils de semi-conducteurs, des accepteurs organiques ou un mélange de ceux-ci.
+</P>
+<P>
+13. Procédé selon la revendication 12, caractérisé en ce que les 30 nanocristaux semi-conducteurs accepteurs inorganiques sont enrobés d&apos;une couche organique comprenant des polythiophènes, des oligothiophènes ou un mélange de ceux-ci. 10
+</P>
+<P>
+14. Procédé selon la revendication 12, caractérisé en ce que les des nanofils de semi-conducteurs sont choisis parmi Si, AsGa, Ge, InP, CdSe et CdTe et un mélange de ceux-ci.
+</P>
+<P>
+15. Procédé selon la revendication 12, caractérisé en ce que les matériaux accepteurs organiques sont choisis parmi les dérivés du fullerène C60, les dérivés du fullerène C61, les dérivés du fullerène C70, les nanotubes de carbone et leurs dérivés, le pérylène et ses dérivés, les quinoxalines et le tétracyanoquinodiméthane et un mélange de ceux-ci.
+</P>
+<P>
+16. Procédé selon la revendication 15, caractérisé en ce que le matériau accepteur d&apos;électrons organique est le 1-(3-méthoxycarbonyl)-propyl- l -phényl-[6,6]-C61.
+</P>
+<P>
+17. Composition polymérique à propriétés photovoltaïques obtenue par le procédé selon l&apos;une des revendications 1 à 16.
+</P>
+<P>
+18. Composition polymérique à propriétés photovoltaïques selon la 20 revendication 17, caractérisée en ce que le matériau polymérique semi-conducteur donneur d&apos;électrons est le poly(3-hexylthiophène) et le matériau accepteur d&apos;électrons est le 1 -(3 -méthoxycarbonyl)-propyl- 1 -phényl- [6,6]-C61.
+</P>
+<P>
+19. Composition polymérique à propriétés photovoltaïques selon la 25 revendication 17 ou 18, caractérisée en ce qu&apos;elle contient de 0,5 à 2% en poids du matériau polymérique semi-conducteur donneur d&apos;électrons.
+</P>
+<P>
+20. Procédé de dépôt d&apos;un matériau comportant la composition selon l&apos;une des revendications 17 à 19, sous forme d&apos;une couche mince, caractérisé en ce 30 que le matériau est déposé sur un substrat solide par immersion, par les techniques de jet d&apos;encre, à la tournette, par séchage de gouttes, par étalement ou par l&apos;impression.15
+</P>
+<P>
+21. Procédé de dépôt selon la revendication 20, caractérisé en ce que le matériau est déposé en monocouche sur le substrat solide.
+</P>
+<P>
+22. Procédé de dépôt selon la revendication 20, caractérisé en ce que le matériau est déposé en multicouche sur le substrat solide.
+</P>
+<P>
+23. Procédé selon l&apos;une quelconque des revendications 20 à 22, caractérisé en ce que le substrat solide est choisi parmi les verres, les polymères conducteurs et les polymères recouverts d&apos;oxyde conducteur et les verres recouverts d&apos;une couche conductrice.
+</P>
+<P>
+24. Procédé selon la revendication 23, caractérisé en ce que les polymères conducteurs sont le polyéthylènedioxythiophène, la polyaniline ou un mélange de ceux-ci.
+</P>
+<P>
+25. Couche mince obtenue par la mise en oeuvre du procédé selon l&apos;une quelconque des revendications 20 à 24 dans une cellule photovoltaïque.
+</P>
+<P>
+26. Cellule photovoltaïque de type hétérojonction en volume, caractérisée en ce qu&apos;elle comprend au moins deux électrodes reliées électriquement entre elles par la composition selon l&apos;une des revendications 17 à 19 ou par la couche mince selon la revendication 25.
+</P>
+<P>
+27. Cellule photovoltaïque selon la revendication 26, caractérisé en ce la composition est choisie telle que le rendement de conversion externe de la cellule est supérieur ou égal à 3%.
+</P>
+</Claims>
+<Also_published_as>
+FR2892563A1;US2009120491A1;US8003881B2;JP2009514202A;WO2007048909A1
+</Also_published_as>
+</BiblioData>

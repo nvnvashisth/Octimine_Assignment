@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method of Fabrication of a Spring Element
+</Title>
+<PublicationNumber>
+EP2179266A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KAYA ALEXANDER [DE]
+</Name>
+<Name>
+HUTH MICHAEL [DE]
+</Name>
+<Name>
+KAYA, ALEXANDER
+</Name>
+<Name>
+HUTH, MICHAEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOSCALE SYSTEMS NANOSS GMBH [DE]
+</Name>
+<Name>
+UNIV JW GOETHE FRANKFURT MAIN [DE]
+</Name>
+<Name>
+NANOSCALE SYSTEMS, NANOSS GMBH
+</Name>
+<Name>
+JOHANN WOLFGANG GOETHE-UNIVERSITAET FRANKFURT AM MAIN
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2179266
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070703098
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP00738
+</PriorityNumber>
+<PriorityDate>
+2007-01-29
+</PriorityDate>
+<PriorityNumber>
+DE200610004922
+</PriorityNumber>
+<PriorityDate>
+2006-02-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N27/00
+</Class>
+<Class>
+G01N27/12
+</Class>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q20/04
+</Class>
+<Class>
+G01Q60/24
+</Class>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01Q70/16
+</Class>
+<Class>
+G01N13/16
+</Class>
+<Class>
+G12B21/02
+</Class>
+<Class>
+G12B21/08
+</Class>
+</IPC>
+<IPC7>
+<Class>
+G01N13/16
+</Class>
+<Class>
+G12B21/02
+</Class>
+<Class>
+G12B21/08
+</Class>
+</IPC7>
+<ICM>
+<Class>
+G01N27/00
+</Class>
+<Class>
+G01N27/12
+</Class>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q20/04
+</Class>
+<Class>
+G01Q60/24
+</Class>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01Q70/16
+</Class>
+</ICM>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q20/04
+</Class>
+</NCL>
+<Abstract>
+Ein miniaturisiertes Federelement (1, 1&apos;) soll in besonderem Masse zum Einsatz als Balkensonde oder Cantilever (2) für die Erfassung von atomaren oder molekularen Kräften, insbesondere in einem Rasterkraftmikroskop (22), geeignet sein und dazu eine besonders zuverlässige und hochauflösende Erfassung seiner Auslenkung ermöglichen. Dazu umfasst das Federelement (1, 1&apos;) erfindungsgemäss einen Grundkörper (4), der aus einer Matrix mit eingebetteten Nanopartikeln (14) oder Störstellen gebildet ist. Das Federelement (1, 1&apos;) wird unter Verwendung des Prinzips der lokalen Deposition mit fokussierten energetischen Teilchen oder elektromagnetischen Wellen oder durch pyrolytisch induzierte Deposition hergestellt.
+</Abstract>
+<Claims>
+<P>
+1. Miniaturisiertes Federelement (1, 1&apos;) mit einem biegbaren Grundkörper (4), der eine Detektorzone (10) aufweist, deren elektrische Leiffähigkeit ([sigma]) durch elektronische Tunnel-, Ionisations- oder Hoppingprozesse bestimmt ist.
+</P>
+<P>
+2. Federelement (1, 1&apos;) nach Anspruch 1, bei dem die Temperaturabhängigkeit der Leiffähigkeit ([sigma]) der Detektorzone (10) näherungsweise durch die Beziehung In [sigma] ~ t&amp;lt;~[gamma]&amp;gt; gegeben ist, wobei der charakteristische Exponent ([gamma]) einen Wert zwischen 0 und 1, vorzugsweise etwa den Wert 0,25, etwa den Wert 0,5 oder etwa den Wert 1, aufweist.
+</P>
+<P>
+3. Federelement (1, 1&apos;) nach Anspruch 1 oder 2, dessen Detektorzone (10) aus in einer Matrix (12) eingebetteten Nanopartikeln (14) mit im Vergleich zum Matrixmaterial höherer elektrischer Leiffähigkeit gebildet ist.
+</P>
+<P>
+4. Federelement (1, 1&apos;) nach Anspruch 3, dessen Nanopartikel (14) metallisch sind.
+</P>
+<P>
+5. Federelement (1, 1&apos;) nach Anspruch 4, bei dem die metallischen Nanopartikel (14) aus chemisch stabilen Materialien, vorzugsweise aus Au oder Pt, gebildet sind.
+</P>
+<P>
+6. Federelement (1, 1&apos;) nach einem der Ansprüche 3 bis 5, bei dem die Matrix (12) aus Polymermaterial, vorzugsweise aus organischen oder anorganischen Strukturelementen, aus kohlenstoffbasierten Verbindungen, aus Kohlenstoff Sauerstoff-Verbindungen, aus Wasserstoff-Verbindungen, aus Fluorverbindungen und/oder aus Metalle enthaltenden Strukturelementen, gebildet ist.
+</P>
+<P>
+7. Federelement (1, 1&apos;) nach einem der Ansprüche 3 bis 5, bei dem die Matrix (12) aus organischem, anorganischem oder dielektrischem Material gebildet ist.
+</P>
+<P>
+8. Federelement (1, 1&apos;) nach einem der Ansprüche 3 bis 7, bei dem die Nanopartikel (14) eine mittlere Partikelgrösse von bis zu 100 nm, vorzugsweise bis zu 10 nm, aufweisen.
+</P>
+<P>
+9. Federelement (1, 1&apos;) nach einem der Ansprüche 1 bis 8, bei dem die Detektorzone (10) durch eine auf einen Trägerkörper (16) aufgebrachte Beschichtung gebildet ist.
+</P>
+<P>
+10. Federelement (1, 1&apos;) nach einem der Ansprüche 1 bis 8, bei dem der Grundkörper (4) die Detektorzone (10) bildet.
+</P>
+<P>
+11. Federelement (1, 1&apos;) nach einem der Ansprüche 1 bis 10, dessen Grundkörper (4) als dünne Membran oder in der Art eines in einer Längsrichtung ausgedehnten Stabes ausgestaltet ist.
+</P>
+<P>
+12. Federelement (1, 1&apos;) nach Anspruch 11, dessen Grundkörper (4) einen im Wesentlichen prismenförmigen Querschnitt aufweist.
+</P>
+<P>
+13. Balkensonde für ein Rasterkraftmikroskop mit einem mit einer Sondenspitze (20) versehenen Cantilever (2), wobei der Cantilever (2) als Federelement (1, 1&apos;) nach einem der Ansprüche 1 bis 12 ausgebildet ist.
+</P>
+<P>
+14. Rasterkraftmikroskop (22) mit einer Balkensonde nach Anspruch 13.
+</P>
+<P>
+15. Rasterkraftmikroskop (22) nach Anspruch 14 mit einer Auswerteeinheit, die anhand von Ansteuer- oder Messdaten der Balkensonde einen für die Topographie eines Messobjekts (24) charakteristischen Datensatz erzeugt, wobei die Auswerteeinheit bei der Erzeugung des Datensatzes für die elektrische Leitfähigkeit ([sigma]) des Cantilevers (2) charakteristische Kennwerte berücksichtigt.
+</P>
+<P>
+16. Verfahren zur Herstellung eines Federelements (1, 1&apos;) nach einem der Ansprüche 1 bis 12, bei dem die Detektorzone (10) durch lokale Energieapplizierung, vorzugsweise durch elektronenstrahlinduzierte Deposition hergestellt wird.
+</P>
+<P>
+17. Verfahren nach Anspruch 16, bei dem eine Anzahl von einer Depositionszone (54) in der Nähe eines Substrats (52) gasförmig zugeführten Präkursor-Substanzen (50) energetisch zu einer Umwandlung angeregt werden, wobei sich die Umwandlungsprodukte in fester und nichtflüchtiger Form auf dem Substrat (52) niederschlagen.
+</P>
+<P>
+18. Verfahren nach Anspruch 17, bei dem als Präkursor-Substanzen (50) organische, anorganische, dielektrische oder metallorganische Monomeren, Oligomeren und/oder Polymere verwendet werden.
+</P>
+<P>
+19. Verfahren nach einem der Ansprüche 16 bis 18, bei dem ein zur energetischen Anregung der Präkursor-Substanzen (50) vorgesehener Ionen-, Photonen- oder Elektronenstrahl hinsichtlich des Substrats (52) lateral oder dreidimensional in Abhängigkeit von einer vorgegebenen Sollgeometrie des Deponats (56) geführt wird.
+</P>
+<P>
+20. Verfahren nach einem der Ansprüche 17 bis 19, bei dem die Temperatur des Substrats (52) und/oder die Temperatur der Präkursorquelle während der Deposition in Abhängigkeit vom in der Depositionszone (54) ermittelten Dampfdruck der Präkursor-Substanzen (50) geregelt wird.
+</P>
+<P>
+21. Verfahren nach einem der Ansprüche 17 bis 20, bei dem eine Anzahl der Parameter Art, Menge und/oder Zusammensetzung der Präkursor-Substanzen (50), Gasdruck in der Depositionszone (54), Intensität der lokalen Energieapplizierung, ihre Einstrahldauer, ihre Fokusgrösse, Substratmaterial und/oder Substrattemperatur derart eingestellt werden, dass das Federelement (1, 1&apos;) eine vorgegebene Federkonstante und/oder eine vorgegebene Güte aufweist oder dass die Detektorzone (10) eine vorgegebene elektrische Leitfähigkeit aufweist.
+</P>
+<P>
+22. Verfahren zum Betreiben eines Rasterkraftmikroskops (22) nach Anspruch 14 oder 15, bei dem die Auslenkung der Balkensonde anhand eines für die elektrische Leitfähigkeit der Balkensonde charakteristischen Messwerts ermittelt wird.
+</P>
+</Claims>
+<Also_published_as>
+DE102006004922A1;DE102006004922B4;US2009025465A1;US7997125B2;RU2008135359A;RU2420747C2;KR20090027186A;JP2009525473A;WO2007088018A1;CN101379383A;CA2640702A1;AU2007211688A1
+</Also_published_as>
+</BiblioData>

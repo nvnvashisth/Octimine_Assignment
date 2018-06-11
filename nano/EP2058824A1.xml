@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC CRYSTAL FOR RADIO WAVE ABSORBING MATERIAL AND RADIO WAVE ABSORBENT
+</Title>
+<PublicationNumber>
+EP2058824A1
+</PublicationNumber>
+<Inventor>
+<Name>
+OHKOSHI SHIN-ICHI [JP]
+</Name>
+<Name>
+KUROKI SHIRO [JP]
+</Name>
+<Name>
+SAKURAI SHUNSUKE [JP]
+</Name>
+<Name>
+NAMAI ASUKA [JP]
+</Name>
+<Name>
+SATO KIMITAKA [JP]
+</Name>
+<Name>
+SASAKI SHINYA [JP]
+</Name>
+<Name>
+OHKOSHI, SHIN-ICHI
+</Name>
+<Name>
+KUROKI, SHIRO
+</Name>
+<Name>
+SAKURAI, SHUNSUKE
+</Name>
+<Name>
+NAMAI, ASUKA
+</Name>
+<Name>
+SATO, KIMITAKA
+</Name>
+<Name>
+SASAKI, SHINYA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV TOKYO [JP]
+</Name>
+<Name>
+DOWA ELECTRONICS MATERIALS CO [JP]
+</Name>
+<Name>
+THE UNIVERSITY OF TOKYO
+</Name>
+<Name>
+DOWA ELECTRONICS MATERIALS CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2058824
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070806793
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP67351
+</PriorityNumber>
+<PriorityDate>
+2007-08-30
+</PriorityDate>
+<PriorityNumber>
+JP20060238363
+</PriorityNumber>
+<PriorityDate>
+2006-09-01
+</PriorityDate>
+<PriorityNumber>
+JP20070095445
+</PriorityNumber>
+<PriorityDate>
+2007-03-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01G49/00
+</Class>
+<Class>
+H01F1/34
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G49/00C
+</Class>
+<Class>
+C01G49/00C6
+</Class>
+<Class>
+C04B35/26
+</Class>
+<Class>
+C04B35/628B2B
+</Class>
+<Class>
+C04B35/628B2F
+</Class>
+<Class>
+C04B35/628B2H8
+</Class>
+<Class>
+C04B35/628L
+</Class>
+<Class>
+H01F1/34B2
+</Class>
+<Class>
+H05K9/00M2
+</Class>
+</NCL>
+<Abstract>
+Disclosed is a magnetic crystal for electromagnetic wave absorbing materials, having a structure of [mu]-M x Fe 2-x O 3 with 0 &amp;lt; x &amp;lt; 1, which has the same space group as that of an [mu]-Fe 2 O 3 crystal and which is derived from an [mu]-Fe 2 O 3 crystal by substituting a part of the Fe site therein with M. In this, M is a trivalent element having an effect of lowering the coercive force Hc of [mu]-Fe 2 O 3 crystal by the substitution. Concretely, the element M includes Al and Ga. An electromagnetic wave absorber having a packed structure of particles having such a substituent element M-added &quot;M-substituted [mu]-Fe 2 O 3 crystal&quot; as the magnetic phase may control the electromagnetic wave absorption peak frequency depending on the degree of substitution with the element M, and for example, the invention gives an electromagnetic wave absorber applicable to a 76 GHz band for on-vehicle radars.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic crystal for electromagnetic wave absorbing materials, having a structure of -MxFe2-xO3 with 0 &amp;lt; x &amp;lt; 1, which has the same space group as that of an [epsilon]-Fe2O3 crystal and which is derived from an [epsilon]-Fe2O3 crystal by substituting a part of the Fe site therein with M.
+</P>
+<P>
+2. A magnetic crystal for electromagnetic wave absorbing materials, having a structure of [epsilon]-MxFe2-xO3 with 0 &amp;lt; x &amp;lt; 1, which has the same space group as that of an [epsilon]-Fe2O3 crystal and which is derived from an [epsilon]-Fe2O3 crystal by substituting a part of the Fe site therein with M;
+</P>
+<P>
+wherein M is a trivalent element having an effect of lowering the coercive force Hc of the magnetic oxide comprising an [epsilon]-Fe2O3 crystal by the above-mentioned substitution.
+</P>
+<P>
+3. The magnetic crystal for electromagnetic wave absorbing materials as claimed in claim 1 or 2, wherein M is at least one of Al, Ga and In.
+</P>
+<P>
+4. The magnetic crystal for electromagnetic wave absorbing materials as claimed in claim 1 or 2, wherein M is Al and x is from 0.2 to 0.8.
+</P>
+<P>
+5. The magnetic crystal for electromagnetic wave absorbing materials as claimed in claim 1 or 2, wherein M is Ga and x is from 0.1 to 0.8.
+</P>
+<P>
+6. The magnetic crystal for electromagnetic wave absorbing materials as claimed in claim 1 or 2, wherein M is In and x is from 0.01 to 0.3.
+</P>
+<P>
+7. An electromagnetic wave absorbing material comprising a powder of particles having a magnetic crystal of any of claims 1 to 6 as the magnetic phase.
+</P>
+<P>
+8. An electromagnetic wave absorber having a packed structure of particles having a magnetic crystal of any of claims 1 to 6 as the magnetic phase.
+</P>
+<P>
+9. An electromagnetic wave absorber having a packed structure of particles having a magnetic crystal of any of claims 1 to 6 as the magnetic phase, and having an electromagnetic wave absorption peak in a band zone of from 25 to 160 GHz on a graph in which the horizontal axis indicates a frequency and the vertical axis indicates an electromagnetic wave absorption.
+</P>
+<P>
+10. An electromagnetic wave absorber having a packed structure of particles having a magnetic crystal of any of claims 1 to 6 as the magnetic phase, and having an electromagnetic wave absorption peak in a band zone of 76 GHz +- 10 GHz on a graph in which the horizontal axis indicates a frequency and the vertical axis indicates an electromagnetic wave absorption.
+</P>
+<P>
+11. An electromagnetic wave absorber produced by binding particles having a magnetic crystal of any of claims 1 to 6 as the magnetic phase with a non-magnetic high-molecular compound serving as a binder, thereby forming a packed structure of the particles.
+</P>
+<P>
+12. An electromagnetic wave absorber having a packed structure of particles having a magnetic crystal of claim 1 where M is Ga and x is from 0.1 to 0.65 as the magnetic phase, and having an electromagnetic wave absorption peak in a band zone of from 50 to 160 GHz on a graph in which the horizontal axis indicates a frequency and the vertical axis indicates an electromagnetic wave absorption.
+</P>
+<P>
+13. An electromagnetic wave absorber having a packed structure of particles having a magnetic crystal of claim 1 where M is Al and x is from 0.2 to 0.8 as the magnetic phase, and having an electromagnetic wave absorption peak in a band zone of from 40 to 160 GHz on a graph in which the horizontal axis indicates a frequency and the vertical axis indicates an electromagnetic wave absorption.
+</P>
+</Claims>
+<Also_published_as>
+EP2058824A4;US2010238063A1;US8072365B2;JP2008277726A;WO2008029861A1;EP2410832A2;CN102360673A
+</Also_published_as>
+</BiblioData>

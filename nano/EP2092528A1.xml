@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MEMORY DEVICE AND METHOD FOR FABRICATING A MEMORY DEVICE
+</Title>
+<PublicationNumber>
+EP2092528A1
+</PublicationNumber>
+<Inventor>
+<Name>
+REPP JASCHA [DE]
+</Name>
+<Name>
+MEYER GERHARD [CH]
+</Name>
+<Name>
+REPP, JASCHA
+</Name>
+<Name>
+MEYER, GERHARD
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBM [US]
+</Name>
+<Name>
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2092528
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070826953
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IB54448
+</PriorityNumber>
+<PriorityDate>
+2007-11-02
+</PriorityDate>
+<PriorityNumber>
+EP20060125027
+</PriorityNumber>
+<PriorityDate>
+2006-11-29
+</PriorityDate>
+<PriorityNumber>
+EP20070826953
+</PriorityNumber>
+<PriorityDate>
+2007-11-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C13/00
+</Class>
+<Class>
+G11C13/02
+</Class>
+<Class>
+H01L51/00
+</Class>
+<Class>
+H01L51/05
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C13/00R5C
+</Class>
+<Class>
+G11C13/02
+</Class>
+<Class>
+H01L51/05D10
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to a memory device (1) comprising a molecule-atom complex (4, 5, 6) arranged on a first insulating layer (3), wherein a first memory state of the memory device (1) corresponds to a first charge distribution state of the molecule-atom complex (4, 5, 6) and a second memory state of the memory device (1) corresponds to a second charge distribution state of the molecule-atom complex (4, 5, 6), wherein the total charge of the molecule-atom complex (4, 5, 6) corresponding to the first memory state is equal to the total charge of the molecule-atom complex (4, 5, 6) corresponding to the second memory state, said first insulating layer (3) being formed on a first contact layer (2) and said molecule-atom complex (4, 5, 6) comprising at least a single atom (5) and at least a molecule (4) on said first insulating layer (3).
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A memory device (1, 101) comprising a molecule-atom complex (4, 5, 6) arranged on a first insulating layer (3), wherein a first memory state of the memory device (1, 101) corresponds to a first charge distribution state of the molecule-atom complex (4, 5, 6) and a second memory state of the memory device (1, 101) corresponds to a second charge distribution state of the molecule-atom complex (4, 5, 6), wherein the total charge of the molecule-atom complex (4, 5, 6) corresponding to the first memory state is equal to the total charge of the molecule-atom complex (4, 5, 6) corresponding to the second memory state, said first insulating layer (3) being formed on a first contact layer (2) and said molecule-atom complex (4, 5, 6) comprising at least a single atom (5) and at least a molecule (4) on said first insulating layer (3).
+</P>
+<P>
+2. The memory device (1, 101) according to claim 1, wherein the single atom (5) and the molecule (4) of said molecule-atom complex (4, 5, 6) are as closely arranged on said first insulating layer (3) that a chemical bond (6) may form between the molecule (4) and the single atom (5).
+</P>
+<P>
+3. The memory device (1, 101) according to claim 1 or 2, wherein said first insulating layer (3) forms a first tunnel junction between said molecule-atom complex (4, 5, 6) and said first contact layer (2).
+</P>
+<P>
+4. The memory device (102, 103, 104, 105) according to any one of claims 1 to 3, wherein the memory device further (102, 103, 104, 105) comprises a second insulating layer (12) arranged on said molecule-atom complex (4, 5, 6) and a second contact layer (13) arranged on said second insulating layer (12), said second insulating layer (12) forming a second tunnel junction between said molecule-atom complex (4, 5, 6) and said second contact layer (12).
+</P>
+<P>
+5. The memory device (101) according to any one of claims 1 to 3, wherein the memory device (101) further comprises a contact means (9) being arranged in the vicinity of said molecule-atom complex (4, 5, 6), wherein said contact means (9) and said molecule-atom complex (4, 5, 6) are separated by a void space, said void space forming a second tunnel junction between said molecule-atom complex (4, 5, 6) and said contact means (9).
+</P>
+<P>
+6. The memory device (1, 101, 102, 103, 104, 105) according to any one of claims 1 to 5, wherein said first insulating layer (3) comprises a polarizable material (10, 11), said polarizable material (10, 11) being polarized in response to said first and/or second charge- distribution state of the molecule-atom complex (4, 5, 6).
+</P>
+<P>
+7. The memory device (102, 103,104, 105) according to claim 4 or 6, wherein said second insulating layer (12) comprises a polarizable material, said polarizable material being polarized in response to said first and/or second charge-distribution state of the molecule- atom complex (4, 5, 6).
+</P>
+<P>
+8. The memory device (101, 102, 103, 104, 105) according to any one of the claims 4 to 7, wherein a bias voltage (VBIAS) is applied between said first contact layer (2) and said second contact layer (13) or between said first contact layer (2) and said contact means (9), respectively, for inducing said first memory state or said second memory state.
+</P>
+<P>
+9. The memory device (101, 102, 103, 104, 105) according to claim 8, wherein said first memory state is switched into said second memory state if said bias voltage (VBIAS) applied between said first contact layer (2) and said second contact layer (13) or between said first contact layer (2) and said contact means (9), respectively, exceeds a respective predetermined threshold voltage (VTHl, VTH2).
+</P>
+<P>
+10. The memory device (1, 101, 102, 103, 104, 104, 105) according to any one of claims 1 to 9, wherein an energy of at least one molecular state of said molecule (4) of the molecule-atom complex (4, 5, 6) is close to the Fermi energy of said first contact layer (2).
+</P>
+<P>
+11. The memory device (1, 101, 102, 103, 104, 105) according to any one of the claims 1 - 10, wherein the Fermi energy of said first contact layer (2) is tunable by changing a crystal orientation of said first contact layer (2).
+</P>
+<P>
+12. The memory device (1, 101, 102, 103, 104, 104, 105) according to any one of claims 1 to 11, wherein a difference between a work function of said first contact layer (2), an electron affinity or ionization potential of said molecule (4) of the molecule-atom complex (4, 5, 6), and/or an electron affinity or ionization potential of said single atom (5) is within a range of 1.5 eV.
+</P>
+<P>
+13. The memory device (1, 101, 102, 103, 104, 104, 105) according to any one of claims 1 to
+</P>
+<P>
+12, wherein said molecule-atom complex (4, 5, 6) has further charge-distribution states corresponding to further memory states of the memory device (1, 101, 102, 103, 104, 104, 105).
+</P>
+<P>
+14. The memory device (1, 101, 102, 103, 104, 104, 105) according to any one of claims 1 to
+</P>
+<P>
+13, wherein said molecule (4) comprises an organic molecule, and is selected to be a molecule of the group of oligoacenes, Metal-Phthalocyanines, or perylenetetracarboxylicacid- dianhydride (PTCDA).
+</P>
+<P>
+15. The memory device (1, 101, 102, 103, 104, 104, 105) according to any one of claims 1 to
+</P>
+<P>
+14, wherein said molecule (4) comprises perylene-tetracarboxylicacid-dianhydride (PTCDA).
+</P>
+<P>
+16. The memory device (1, 101, 102, 103, 104, 104, 105) according to any one of claims 1 to
+</P>
+<P>
+15, wherein said single atom (5) comprises a metal atom, the metal atom being selected to be a gold atom.
+</P>
+<P>
+17. The memory device (1, 101, 102, 103, 104, 104, 105) according to any one of claims 1 to 16, wherein said insulating layer (3) comprises a mono-, bi- or trilayer of NaCl (10, 11).
+</P>
+<P>
+18. The memory device (1, 101, 102, 103, 104, 104, 105) according to any one of claims 1 to 17, wherein said first contact layer (2) comprises copper.
+</P>
+<P>
+19. A memory cell (102, 103, 104, 105) comprising a first contact layer (2), a first insulating layer (3) on the first contact layer (2), a molecule-atom complex (4, 5, 6) arranged on the first insulating layer (3), a second insulating layer (12) on the molecule-atom complex (4, 5, 6), and a second contact layer (13) on the second insulating layer (12), wherein said first and said second insulating layer (3, 12) each forms a tunnel junction between said molecule-atom complex (4, 5, 6) and said first contact layer (2) and said second contact layer (13), respectively.
+</P>
+<P>
+20. The memory cell (102, 103, 104, 105) according to claim 19, wherein said molecule-atom complex (4, 5, 6) comprises a single atom (5) and a molecule (4), said molecule-atom complex (4, 5, 6) having at least a first charge-distribution state corresponding to a first memory state of the memory cell (102, 103, 104, 105) and a second charge-distribution state corresponding to a second memory state of the memory cell (102, 103, 104, 105).
+</P>
+<P>
+21. The memory cell (102, 103, 104, 105) according to claim 20, wherein the total charge of the molecule-atom complex (4, 5, 6) corresponding to the first memory state is equal to the total charge of the molecule-atom complex (4, 5, 6) corresponding to the second memory state.
+</P>
+<P>
+22. The memory cell (102, 103, 104, 105) according to any one of claims 19 to 21, wherein said molecule-atom complex (4, 5, 6) is embedded between said first insulating layer (3) and said second insulating layer (12), wherein said first and said second insulating layer (3, 12) comprise a polarizable material for chemically, mechanically and electrostatically suppressing thermal diffusion of said single atom (5) and said molecule (4) of the molecule-atom complex (4, 5, 6).
+</P>
+<P>
+23. The memory cell (103, 104, 105) according to any one of claims 19 to 22, wherein a plurality of molecule-atom complexes (14) of the same type are arranged between said first contact layer (2) and said second contact layer (13), each of said plurality of molecule-atom complexes (14) being separated from said first contact layer (2) by said first insulating layer (3) and from said second contact layer (13) by said second insulating layer (12), respectively.
+</P>
+<P>
+24. The memory cell (102, 103, 104, 105) according to any one of claims 19 to 23, wherein said molecule (4) of the molecule-atom complex (4, 5, 6) comprises perylene- tetracarboxylicacid-dianhydride (PTCDA); said single atom (5) comprises a gold (Au) atom, a platinum (Pt) atom or a silver (Ag) atom; said first and/or second insulating layer (3, 12) comprises a monolayer, a bilayer or a trilayer of NaCl, other alkali halides, a metal oxide or a semiconductor oxide; and said first and/or second contact layer (2, 13) comprises copper (Cu) or a semiconductor material.
+</P>
+<P>
+25. A memory cell array (106) comprising a plurality of memory cells (102, 103, 104, 105) according to any one of claims 19 to 24, wherein each memory cell (102, 103, 104, 105) is arranged between a word line (16, 20, 21) and a bit line (15, 17, 18, 19), said word line (16, 20, 21) being electrically coupled to said first contact layer (3) of the memory cell (102, 103,
+</P>
+<P>
+104, 105) and said bit line (15, 17, 18, 19) being electrically coupled to said second contact layer (12) of the memory cell (102, 103, 104, 105).
+</P>
+<P>
+26. The memory cell array (106) according to claim 25, wherein a set of memory cells (102, 103, 104, 105) shares a common word line (16, 20, 21).
+</P>
+<P>
+27. The memory cell array (106) according to claim 26, wherein the first contact layers of the memory cells of the set of memory cells (102, 103, 104, 105) are implemented as the common word line (16, 20, 21).
+</P>
+<P>
+28. The memory cell array (106) according to any one of claims 25 to 27, wherein the memory cell array (106) comprises a plurality of sets of memory cells (102, 103, 104, 105), wherein a selection of the second contact layers of the memory cells (102, 103, 104, 105) of the plurality of sets of memory cells (102, 103, 104, 105) are implemented as common bit lines (15, 17, 18, 19).
+</P>
+<P>
+29. A method for fabricating a memory cell (102, 103, 104, 105), the method comprising the method steps:
+</P>
+<P>
+- providing a first contact layer (2); - providing a first insulating layer (3) on said first contact layer (2);
+</P>
+<P>
+- providing at least one molecule (4) on said first insulating layer (3);
+</P>
+<P>
+- placing a single atom (5) in the vicinity of said at least one molecule (4), wherein a distance between the molecule (4) and the single atom (5) is adjusted in such a manner that a chemical bond (6) forms between the molecule (4) and the single atom (5) resulting in a molecule-atom complex (4, 5, 6);
+</P>
+<P>
+- providing a second insulating layer (12) on said molecule-atom complex (4, 5, 6); and
+</P>
+<P>
+- providing a second contact layer (13) on the second insulating layer (12).
+</P>
+<P>
+30. The method according to claim 29, wherein said molecule (4) and said single atom (5) are chosen in a manner that said molecule-atom complex (4, 5, 6) has a first charge-distribution state and a second charge-distribution state, wherein the first and the second charge- distribution state correspond to the same total charge of the molecule-atom complex (4, 5, 6).
+</P>
+<P>
+31. The method according to claim 29 or 30, wherein the step of providing said first insulating layer (3) on the first contact layer (2) comprises the step of evaporating insulating material (10, 11) onto said first contact layer (2).
+</P>
+<P>
+32. The method according to any one of claims 29 to 31, wherein the step of providing at least one molecule (4) on said first insulating layer (3) comprises evaporating a molecular material onto said insulating layer (3).
+</P>
+<P>
+33. The method according to any one of claims 29 to 32, wherein for providing at least one molecule (4) on said first insulating layer (3) a self-assembling technique is employed.
+</P>
+<P>
+34. The method according to any one of claims 29 to 33, wherein for placing the single atom (5) in the vicinity of said at least one molecule (4), a tip (9) of a scanning tunneling microscope is employed.
+</P>
+<P>
+35. The method according to any one of claims 29 to 34, wherein the first contact layer (2) and/or the second contact layer (13) comprises a copper single crystal.
+</P>
+</Claims>
+<Also_published_as>
+WO2008065558A1;KR20090090313A;JP2010511303A
+</Also_published_as>
+</BiblioData>

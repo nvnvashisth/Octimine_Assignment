@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Dry etching method for magnetic material
+</Title>
+<PublicationNumber>
+EP2184381A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KODAIRA YOSHIMITSU [JP]
+</Name>
+<Name>
+HIROMI TAICHI [JP]
+</Name>
+<Name>
+KODAIRA, YOSHIMITSU
+</Name>
+<Name>
+HIROMI, TAICHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON ANELVA CORP [JP]
+</Name>
+<Name>
+CANON ANELVA CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2184381
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20100001014
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-07-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040254457
+</PriorityNumber>
+<PriorityDate>
+2004-07-26
+</PriorityDate>
+<PriorityNumber>
+JP20030201254
+</PriorityNumber>
+<PriorityDate>
+2003-07-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C23F4/00
+</Class>
+<Class>
+G11B5/31
+</Class>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01F1/14
+</Class>
+<Class>
+H01F1/34
+</Class>
+<Class>
+H01F41/30
+</Class>
+<Class>
+H01L21/3065
+</Class>
+<Class>
+H01L21/3213
+</Class>
+<Class>
+H01L43/08
+</Class>
+<Class>
+H01L43/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+C23F4/00
+</Class>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01F41/30D6
+</Class>
+<Class>
+H01L43/12
+</Class>
+</NCL>
+<Abstract>
+A method for manufacturing a tunneling magnetoresistance (TMR) device comprises providing with an element comprising a first ferromagnetic layer, a second ferromagnetic layer, an insulating layer positioned between the first ferromagnetic layer and the second ferromagnetic layer and an antiferromagnetic layer, and then forming a non-organic layer positioned at the top surface of the element, and then forming a photo-resist mask on the non-organic layer, thereby providing with a pre-TMR device;  providing with a container 2 having a plasma generating means 1, an exhausting means 21, a first gas feeding means 3 and second gas feeding means;  exhausting an inner space of the container by using the exhausting means 21;  introducing the pre-TMR device into the exhausted inner space of the container 2;  a first etching for etching the non-organic layer by using a process comprising: feeding a first etching gas into said exhausted inner space by using the first gas feeding means 3 and generating a plasma by using the plasma generating means 1, thereby forming a pattern of the non-organic layer according to the photo-resist mask pattern;  and a second etching for etching the element by using a process comprising: feeding a second etching gas selected from the group consisting of an alcohol gas, a ketone gas and a non-substituted hydrocarbon gas into said exhausted inner space by using the second gas feeding means and generating a plasma by using the plasma generating means 1, thereby forming a pattern of the element according to the patterned non-organic layer.
+</Abstract>
+<Claims>
+<P>
+1. A method for manufacturing a tunneling magnetoresistance, TMR, device comprising:
+</P>
+<P>
+providing with an element comprising a first ferromagnetic layer, a second ferromagnetic layer, an insulating layer positioned between the first ferromagnetic layer and the second ferromagnetic layer and an antiferromagnetic layer, and then forming a non-organic layer positioned at the top surface of the element, and then forming a photo-resist mask on the non-organic layer, thereby providing with a pre-TMR device;
+</P>
+<P>
+providing with a container having a plasma generating means, an exhausting means, a first gas feeding means and second gas feeding means;
+</P>
+<P>
+exhausting an inner space of the container by using the exhausting means;
+</P>
+<P>
+introducing the pre-TMR device into the exhausted inner space of the container;
+</P>
+<P>
+a first etching for etching the non-organic layer by using a process comprising:
+</P>
+<P>
+feeding a first etching gas into said exhausted inner space by using the first gas feeding means and generating a plasma by using the plasma generating means, thereby forming a pattern of the non-organic layer according to the photo-resist mask pattern; and
+</P>
+<P>
+a second etching for etching the element by using a process comprising:
+</P>
+<P>
+feeding a second etching gas selected from the group consisting of an alcohol gas, a ketone gas and a non-substituted hydrocarbon gas into said exhausted inner space by using the second gas feeding means and generating a plasma by using the plasma generating means, thereby forming a pattern of the element according to the patterned non-organic layer.
+</P>
+<P>
+2. The method according to claim 1, wherein said non-organic layer is a layer comprising a material selected from the group consisting of Ta, Ti, Al and Si.
+</P>
+<P>
+3. The method according to claim 1, wherein said non-organic layer is a layer comprising a material selected from the group consisting of an oxide or nitride of Ta, Ti, Al and Si.
+</P>
+<P>
+4. The method according to claim 1, 2 or 3, wherein said second etching gas comprises an added gas.
+</P>
+<P>
+5. The method according to claim 4, wherein said added gas is one or both of oxygen gas and water added at a respective content of not more than 25% relative to the second etching gas.
+</P>
+<P>
+6. The method according to any one of the preceding claims, wherein said second etching gas comprises an inert gas.
+</P>
+<P>
+7. The method according to claim 6, wherein said inert gas is added at a respective content of not more than 90% relative to the second etching gas.
+</P>
+<P>
+8. The method according to any one of the preceding claims, wherein said alcohol is an alcohol selected from the group consisting of methanol, ethanol and propanol.
+</P>
+<P>
+9. The method according to any one of the preceding claims, wherein said non-substituted hydrocarbon is an alkane selected from the group consisting of methane, ethane, propane and butane.
+</P>
+</Claims>
+<Also_published_as>
+EP1500720A1;US2005016957A1;US7060194B2;USRE40951E1;KR20050012144A;KR101041049B1;JP2005042143A;EP2184380A1;CN101624701A;CN101624701B;CN1603468A
+</Also_published_as>
+</BiblioData>

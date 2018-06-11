@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ORGANIC SOLAR CELL
+</Title>
+<PublicationNumber>
+EP2132799A2
+</PublicationNumber>
+<Inventor>
+<Name>
+RUSU MARIN [DE]
+</Name>
+<Name>
+LUX-STEINER MARTHA CHRISTINA [DE]
+</Name>
+<Name>
+RUSU, MARIN
+</Name>
+<Name>
+LUX-STEINER, MARTHA, CHRISTINA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HELMHOLTZ ZENT B MAT &amp; ENERG [DE]
+</Name>
+<Name>
+HELMHOLTZ-ZENTRUM BERLIN FUER MATERIALIEN UND ENERGIE GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2132799
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080734347
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008DE00373
+</PriorityNumber>
+<PriorityDate>
+2008-02-29
+</PriorityDate>
+<PriorityNumber>
+DE200710009995
+</PriorityNumber>
+<PriorityDate>
+2007-03-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/44
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/42F
+</Class>
+<Class>
+H01L51/44B2B
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+The organic solar cell comprises two electrodes and is disposed between photoactive layer having two partial layers. The former partial layer emits electrons and latter partial layer receives electrons, where an intermediate layer is disposed between an electrode and photoactive layer. A cathode (Kath) facing the incident light is configured as a transparent window in a multi-layer arrangement. The photoactive layer is configured as a homo or hetero-structure between cathode and anode (An). An electron receiving sublayer (L-Akz) of the photoactive layer is arranged adjacent to the cathode.
+</Abstract>
+<Claims>
+<P>
+1. Organische Solarzelle, aufweisend zwei Elektroden und zwischen diesen angeordnet mindestens eine mindestens zwei Teilschichten aufweisende photoaktive Schicht, von denen mindestens eine Teilschicht Elektronen abgibt (Donator) und mindestens eine andere Teilschicht Elektronen aufnimmt (Akzeptor), wobei zwischen jeweils einer Elektrode und der photoaktiven Schicht eine Zwischenschicht angeordnet ist,
+</P>
+<P>
+dadurch gekennzeichnet, dass
+</P>
+<P>
+- die dem Lichteinfall zugewandte Kathode (Kath) als transparentes Fenster in einer Mehrschichtanordnung ausgebildet ist,
+</P>
+<P>
+- die photoaktive Schicht als Homo- oder Heterostruktur derart zwischen der Kathode (Kath) und der Anode (An) ausgebildet ist, dass eine Trennung der Ladungsträger an zwei Grenzflächen erfolgt,
+</P>
+<P>
+- die Elektronen aufnehmende Teilschicht (LAkz) der photoaktiven Schicht der Kathode (Kath) benachbart und die Elektronen abgebende Teilschicht (LDon) der photoaktiven Schicht der Anode (An) benachbart angeordnet ist, wobei
+</P>
+<P>
+- das Minimum des Leitungsbandes der transparenten Kathode (CBMKath) an der Grenzfläche zur photoaktiven Schicht derart zwischen dem HOMO- und dem LUMO-Niveau der Elektronen aufnehmenden Teilschicht (LAkz) liegt, d. h. HOMOAkz&amp;lt;= CBMKath &amp;lt;= LUMOAkz, dass die Differenz der energetischen Lage des HOMO-Niveaus der Elektronen aufnehmenden Teilschicht (LAkz) und des Minimums des Leitungsbandes der transparenten Kathode (CBMKath) mindestens der Dissoziationsenergie der schwach gebundenen Excitonen entspricht, d. h. HOMOAkz - CBMKath&amp;gt;= EExcDiss und gleichzeitig
+</P>
+<P>
+- die Differenz (ETransp) der energetischen Lage des Minimums des Leitungsbandes (CBM) der transparenten Kathode (Kath) und des LUMO-Niveaus der Elektronen aufnehmenden Teilschicht (LAkz) ausreichend für einen effektiven Transport der Elektronen von der Elektronen aufnehmenden Teilschicht (LAkz) zur Kathode (Kath) ist, d. h. LUMOAkz - CBMKath&amp;gt;= ETransp,
+</P>
+<P>
+- die zwischen Kathode (Kath) und dieser zugewandten Teilschicht angeordnete Zwischenschicht, der Elektronen aufnehmende Teilschicht (LAkz), als eine erste Pufferschicht (Puff1) aus einem organischen Material mit einer für Licht mit Wellenlängen im UV-Bereich undurchlässigen Bandlücke als weitere Fensterschicht ausgebildet ist, wobei
+</P>
+<P>
+- das Minimum des Leitungsbandes der ersten Pufferschicht (CBMPuff1) an der Grenzfläche Kathode (Kath) und Elektronen aufnehmenden Teilschicht (LAkz) gleich hoch wie oder höher liegt als das Minimum des Leitungsbandes der Kathode (CBMKath), d. h. CBMKath&amp;lt;= CBMPuff1, und gleichzeitig
+</P>
+<P>
+- das Minimum des Leitungsbandes der Pufferschicht (CBMPuff1) nicht höher liegt als das LUMO-Niveau der Elektronen aufnehmenden Teilschicht (LUMOAkz), d. h. CBMPuff1 &amp;lt;= LUMOAkz oder
+</P>
+<P>
+- für sehr dünne Schichten bei Vorliegen des Tunneleffekts das Minimum des Leitungsbandes der Pufferschicht (CBMPuff1) höher liegt als das LUMO-Niveau der Elektronen aufnehmenden Teilschicht (LUMOAkz), d. h. LUMOAkz &amp;lt; CBMPuff1,
+</P>
+<P>
+- die zwischen Anode (An) und dieser zugewandten anderen Teilschicht, der Elektronen abgebenden Teilschicht (LDon), angeordnete Zwischenschicht als zweite Pufferschicht (Puff2) ausgebildet ist und
+</P>
+<P>
+- das Material der Anode (An) keine oder eine solch niedrige Barriere zur zweiten Pufferschicht (Puff2) aus dotiertem Material der zweiten Teilschicht (LDon) der photoaktiven Schicht bildet, dass die positiven Ladungsträger die Grenzfläche der zweiten Pufferschicht (Puff2) zur Anode (An) ohne Verluste passieren.
+</P>
+<P>
+2. Organische Solarzelle nach Anspruch 1 dadurch gekennzeichnet, dass die Trennung der Ladungsträger an beiden Grenzflächen der Elektronen aufnehmenden Teilschicht (LAkz) der photoaktiven Schicht erfolgt.
+</P>
+<P>
+3. Organische Solarzelle nach Anspruch 1, dadurch gekennzeichnet, dass die Mehrschichtanordnung für die transparente Kathode (Kath) mindestens eine Zweischicht-Fensteranordnung aus ZnO:Al/i-ZnO aufweist.
+</P>
+<P>
+4. Organische Solarzelle nach Anspruch 1, dadurch gekennzeichnet, dass das organische Material der als weitere Fensterschicht ausgebildeten Pufferschicht (Puff1) Alq3 (tris(8-hydroxyquinoline)aluminium) ist.
+</P>
+<P>
+5. Organische Solarzelle nach Anspruch 1, dadurch gekennzeichnet, dass das organische Material der als weitere Fensterschicht ausgebildeten Pufferschicht (Puff1) CBP (4,4&apos;-N,N&apos;-dicarbazolyl-biphenyl) ist.
+</P>
+<P>
+6. Organische Solarzelle nach Anspruch 1, dadurch gekennzeichnet, dass das Material der Elektronen aufnehmenden Teilschicht (LAkz) C60 ist.
+</P>
+<P>
+7. Organische Solarzelle nach Anspruch 1, dadurch gekennzeichnet, dass das Material der Elektronen aufnehmenden Teilschicht (LAkz) CuPcF16 ist.
+</P>
+<P>
+8. Organische Solarzelle nach Anspruch 1, dadurch gekennzeichnet, dass das Material der Elektronen abgebenden Teilschicht (LDon) CuPc ist.
+</P>
+<P>
+9. Organische Solarzelle nach Anspruch 1, dadurch gekennzeichnet, dass die Teilschichten (LAkz und LDon) hoch strukturierte Oberflächen aufweisen.
+</P>
+<P>
+10. Organische Solarzelle nach Anspruch 1, dadurch gekennzeichnet, dass die zweite Pufferschicht aus dotiertem Material der Elektronen abgebenden Teilschicht (LDon) gebildet ist.
+</P>
+<P>
+11. Organische Solarzelle nach Anspruch 10, dadurch gekennzeichnet, dass das dotierte Material der zweiten Pufferschicht (Puff2) CuPc:FeCl13 ist.
+</P>
+<P>
+12. Organische Solarzelle nach Anspruch 1, dadurch gekennzeichnet, dass das Material der Anode (An) mindestens semitransparent ist.
+</P>
+<P>
+13. Organische Solarzelle nach Anspruch 1, dadurch gekennzeichnet, dass das Material der Anode ausgewählt ist aus Al, Ag, Ca, Mg oder Ca/Al, Mg/Al, Mg/Ag ist.
+</P>
+<P>
+14. Organische Solarzelle nach Anspruch 1, dadurch gekennzeichnet, dass diese als Tandemzelle mit einer Topzelle und einer Rückzelle ausgebildet ist, wobei zwischen Topzelle und Rückzelle eine Ladungsträgerrekombinationszone, die Rekombinationszentren eingebettet in dotierte 4,4&apos;,4&apos;&apos;tris(N-3-methylphenyl-N-phenyl-amino)-triphenylamine (MTDATA) oder m-MTDATA-Schichten enthält, angeordnet ist und Topzelle und Rückzelle mindestens je eine photoaktive Schicht mit einer Elektronen aufnehmenden Teilschicht und einer Elektronen abgebenden Teilschicht aufweist.
+</P>
+<P>
+15. Organische Solarzelle nach Anspruch 14, dadurch gekennzeichnet, dass die Materialien für die Teilschichten der zweiten photoaktiven Schicht gleiche oder geringere Bandlücken als die für die Teilschichten der ersten photoaktiven Schicht derart aufweisen, dass das Absorptionsspektrum der Topzelle ergänzt oder ausgedehnt wird.
+</P>
+<P>
+16. Organische Solarzelle nach Anspruch 15, dadurch gekennzeichnet, dass diese mindestens die Bandlücke der Elektronen abgebenden Teilschicht der zweiten photoaktiven Schicht geringer ist als die selbe Teilschicht der ersten photoaktiven Schicht.
+</P>
+<P>
+17. Organische Solarzelle nach Anspruch 16, dadurch gekennzeichnet, dass das Material der Elektronen abgebenden Teilschicht der zweiten photoaktiven Schicht ZnPc oder TiOPc ist.
+</P>
+</Claims>
+<Also_published_as>
+DE102007009995A1;DE102008012417A1;WO2008104173A2;WO2008104173A3
+</Also_published_as>
+</BiblioData>

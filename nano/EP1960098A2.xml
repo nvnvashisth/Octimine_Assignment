@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PRODUCTION OF NANOSIZED MATERIALS
+</Title>
+<PublicationNumber>
+EP1960098A2
+</PublicationNumber>
+<Inventor>
+<Name>
+IVERSEN STEEN BRUMMERSTEDT [DK]
+</Name>
+<Name>
+JENSEN HENRIK [DK]
+</Name>
+<Name>
+IVERSEN, STEEN BRUMMERSTEDT
+</Name>
+<Name>
+JENSEN, HENRIK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SCF TECHNOLOGIES AS [DK]
+</Name>
+<Name>
+SCF TECHNOLOGIES A/S
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1960098
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060818165
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006DK00706
+</PriorityNumber>
+<PriorityDate>
+2006-12-11
+</PriorityDate>
+<PriorityNumber>
+DK20050001755
+</PriorityNumber>
+<PriorityDate>
+2005-12-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J13/00
+</Class>
+<Class>
+B01J13/02
+</Class>
+<Class>
+C01G1/02
+</Class>
+<Class>
+C01G23/047
+</Class>
+<Class>
+C01G25/00
+</Class>
+<Class>
+C01G25/02
+</Class>
+<Class>
+C23C18/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J13/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G1/02
+</Class>
+<Class>
+C01G23/053
+</Class>
+<Class>
+C01G25/00D
+</Class>
+<Class>
+C01G25/02
+</Class>
+<Class>
+C23C18/02
+</Class>
+<Class>
+C23C18/12C2D
+</Class>
+<Class>
+C23C18/12J12
+</Class>
+<Class>
+C23C18/12J2
+</Class>
+<Class>
+C23C18/12J6B
+</Class>
+<Class>
+C23C18/14
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to a method of producing a nano-sized material such as in the form of a colloidal suspension of nano-sized particles and/or as a coating and/or as a thin film comprised by such nano-sized particles on the surface of a substrate. The invention also relates to an apparatus for carrying out the method according to the present invention.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A synthesis method for producing a nano-sized material, comprising the steps of: pressurising a first fluid, and heating said first fluid to a temperature above its critical temperature pressurising a second fluid, and heating said second fluid comprising at least one pre-cursor and/or reactant to a second temperature below the first temperature and below the thermal decomposition temperature of said precursor(s) and/or reactant(s), and controlling the mixing of the first fluid and the second fluid in a first mixing zone so as to provide a fluid mixture at a temperature causing a conversion of said precursors and/or reactants into a nano-sized material with predefined characteristics, while the fluid is in the mixing zone maintaining said fluid mixture at said temperature in a predefined reaction time, cooling said fluid mixture to a temperature below 100 C, - expanding said fluid mixture in one or more step/-s wherein the zeta potential and/or pH value of said fluid mixture is controlled so as to keep the produced material suspended in the fluid mixture, the controlling of the zeta potential of the mixed fluid is performed by controlling the pH value of said fluid mixture by addition of acid and/or base and/or is controlled by the controlling the concentration of electrolytes present in said fluid mixture.
+</P>
+<P>
+2. A method according to claim 1, wherein the ratio of the average velocity of the fluids upstream of said first mixing zone to the average velocity in said first mixing zone (v/vm[iota]x) is at least 2 such as at least 4 and preferably at least 8 such as at least 16.
+</P>
+<P>
+3. A method according to claim 2, wherein the average velocity of the fluids upstream of said mixing zone is determined as the volume flow of the fluid stream in question divided by the cross sectional area of an inlet to the mixing zone through which the fluid streams into the mixing zone.
+</P>
+<P>
+4. A method according claim 2 or 3, wherein the average velocity in said mixing zone is determined as the total volume flow through the mixing zone divided by a characteristic cross sectional area of the mixing zone, the characteristic cross sectional area is typically for: a tubular shaped mixing zone with constant cross sectional area, such as a cylindrically shaped mixing zone, the area of the base, a funnel shaped mixing zone, the average between the area where the fluids enter into the mixing zone and the area where the mixed fluid leaves the mixing zone, a venturi shaped mixing zone, the cross sectional area in front of the contraction.
+</P>
+<P>
+5. A method according to any of the preceding claims, wherein the ratio between the total volume flow through the mixing zone to the volume of the mixing zone is larger than 1/s,
+</P>
+<P>
+5 such as larger than 2/s, preferably larger 5/s, such as larger 107s.
+</P>
+<P>
+6. A method according to any of the preceding claims, wherein at least part of said heating and/or conversion involve heating and/or excitation by microwaves.
+</P>
+<P>
+10 7. A method according to any of the preceding claims, wherein at least one of said fluids is/are being at least partly heated by heat exchange with the fluid mixture containing said nanomaterial produced, thereby providing a cooling of said fluid mixture containing said nano-sized material produced.
+</P>
+<P>
+15 8. A method according to any of the preceding claims, wherein said cooling of said fluid mixture involves a further cooling step subsequent to said first cooling step.
+</P>
+<P>
+9. A method according to any of the preceding claims, wherein a nano-sized material with predefined characteristics is obtained by controlling the pressure and temperature in said 20 first mixing zone.
+</P>
+<P>
+10 A method according to any of the preceding claims, wherein said predefined characteristics of said nano-sized material includes controlling crystal size and/or crystailinity and/or crystal phase/-s and/or crystal size distribution and/or, crystal 25 composition, and/or crystal shape.
+</P>
+<P>
+11. A method according to any of the preceding claims, wherein the addition acid and/or base is made to the first and/or second fluid before mixing.
+</P>
+<P>
+30 12. A method according to any of the preceding claims, wherein the controlling of the concentration of electrolytes present in said fluid mixture is made by adding one or more electrolyte to the first and/or second fluid before mixing.
+</P>
+<P>
+13. A method according to any of the preceding claims, wherein maintaining said fluid 35 mixture at said temperature in a predefined reaction time comprising adding heat to the mixed fluid in the mixing zone in a manner so that a substantial uniform temperature is obtained of the mixed fluid in the mixing zone.
+</P>
+<P>
+14. A method according to 13, wherein heat is added by exposing the fluid in the mixing zone to micro waves.
+</P>
+<P>
+15. A method according to any of the preceding claims, wherein said second fluid is and/or 5 comprises at least one precursor and/or reactant for said conversion.
+</P>
+<P>
+16. A method according to any of the preceding claims, wherein said nano-sized material is produced in a semi-continuous or continuous mode.
+</P>
+<P>
+10 17. A method according to any of the preceding claims, wherein the pressure of said fluid mixture is in the range 100 - 1000 bar such as in the range 150-500 bar, and preferably in the range 150-350 bar such as in the range 150-300 bar.
+</P>
+<P>
+18. A method according to any of the preceding claims, wherein the pressure of the fluid 15 mixture is used to control the shape and morphology of said nano-sized material.
+</P>
+<P>
+19. A method according to any of the preceding claims, wherein said first fluid is heated to a temperature of at least 450 C such as heating to a temperature of at least 500 C and preferably to a temperature of at least 550 C such as at least 600 C before entering into
+</P>
+<P>
+20 said first mixing zone, and heating said second fluid to a temperature of maximum 250 C such as maximum 200 C, and the ratio of mass flows of said fluid streams are controlled so as to obtain a fast mixing and predefined temperature in said first mixing zone.
+</P>
+<P>
+20. A method according to any of the preceding claims, wherein the temperature in said 25 first mixing zone is in the range 100-600 C such as in the range 100-500 C and preferably in the range 150-450 C such as in the range 150-400 C, and even more preferably in the range 175-400 C such as in the range 250-400 C.
+</P>
+<P>
+21. A method according to any of the preceding claims, wherein the temperature in said 30 first mixing zone is above 100 C such as above 150 C, and preferably above 200 C such as above 250 C, and even preferably above 300 C such as above 350 C.
+</P>
+<P>
+22. A method according to any of the preceding claims, wherein said predefined reaction time for producing said nano-sized material is in the range 0,01 seconds to 5 minutes such
+</P>
+<P>
+35 as 0,1 seconds to 2 minutes, and preferably in the range 5 seconds to 1 minute such as 5 seconds to 30 seconds and even more preferably in the range 10 seconds to 25 seconds such as in the range 10-20 seconds.
+</P>
+<P>
+23. A method according to any of the preceding claims, wherein the concentration of said precursor/-s and/or reactant/-s is/are in the fluid mixture in the range 0,001 mole/1 to 30 mole/1 such as in the range 0,01 to 20 mole/1, and preferably in the range 0,1 mole/1 to 10 mole/I such as in the range 0,2- 10 mole/1, and even more preferably in the range 0,5 to 5 moie/l.
+</P>
+<P>
+24. A method according to any of the preceding claims, wherein the zeta potential of said said fluid mixture comprising said nano-material is in the range +/-10 to70 mV and such as in the range +/-20 to 65 mV, and preferably in the range +/-25 to 60 mV such as in the range +/- 30 to 55 mV, and even more preferably in the range +/- 30 to 50 mV such as in the range +/- 35 to 50 MV.
+</P>
+<P>
+25. A method according to any of the preceding claims, wherein the pH value of the fluid mixture is below 6 such as below 5, and preferably below 4 such as below 3, and even more preferably below 2,5 such as 2.
+</P>
+<P>
+26. A method according to any of the preceding claims 1-24, wherein the pH value of the fluid mixture is above 8 such as above 9, and preferably above 10 such as above 10,5 and even more preferably above 11 such as above 12.
+</P>
+<P>
+27. A method according to any of the preceding claims, wherein said precursor/-s and/or reactant/-s is/are selected among water, ammonia, hydrazine, metal and/or semi-metal alkoxides and/or metal and/or semi metal acetates, and/or metal and/or semi-metal oxalates, and/or metal and/or semi metal acetonates such as metal and/or semi-metal acetylacetonates, such as metal and/or semi metal hexafluoroacetyl acetonates, metal and/or semi metal salts, metal and/or semi metal sulphates, metal and/or semi metal nitrates and/or metal and/or semi metal carbonates combinations thereof.
+</P>
+<P>
+28. A method according to any of the preceding claims, wherein said conversion is caused by thermal decomposition and/or by one or more chemical reactions.
+</P>
+<P>
+29. A method according to any of the preceding claims, wherein said fluids is selected among and/or comprises hydrogen, water, alcohols, ammonia, carbon dioxide, hydrazine, ether, esters, alkanes having from 5 to 20 carbon atoms, alkenes having from 5-20 carbon atoms and mixtures thereof.
+</P>
+<P>
+30. A method according to any of the preceding claims, wherein said reaction involves at least one sol-gel type of reaction.
+</P>
+<P>
+31. A method according to any of the preceding claims, wherein said precursor/-s and/or reactants comprises at least one alkoxide.
+</P>
+<P>
+32. A method according to any of the preceding claims, wherein said precursor/-s and/or 5 reactant/-s comprises water.
+</P>
+<P>
+33. A method according to any of the preceding claims, wherein the ratio between the concentration of one of the reactants comprising water and the ratio of water to said one or more precursor/-s is/are in the range 1-35, such as in the range 1,5 to 15, and
+</P>
+<P>
+10 preferably in the range 2 to 15 such as in the range 3 to 15 and even more preferably in the range 4 to 12, such as in the range 5-19.
+</P>
+<P>
+34. A method according to any of the preceding claims, wherein one of said fluids comprises a nano-sized particulate material dispersed or suspended therein.
+</P>
+<P>
+15
+</P>
+<P>
+35. A method according to claim 34, wherein said nano sized material dispersed or suspended material is produced according to the method and recycled to said first mixing point.
+</P>
+<P>
+20 36. A method according to any of the preceding claims, wherein a preheated third fluid is introduced and mixed with said fluid mixture comprising said first and second fluid.
+</P>
+<P>
+37. A method according to claim 36, wherein said third fluid comprises a stabilizing agent and/or a catalyst and/or another precursor and/or reactant
+</P>
+<P>
+25
+</P>
+<P>
+38. A method according to any of the claim 36 or 37, wherein said introduction of said third fluid is performed in said first mixing zone for mixing of said first and said second fluid.
+</P>
+<P>
+30 39. A method according to any of the preceding claims, wherein one or more further fluids/-s is/are introduced at a position downstream of said first mixing point said fluids further comprises one or more precursor/-s and/or reactants.
+</P>
+<P>
+40. A method according to any the preceding claims, wherein at least part of said heating 35 and/or conversion involve excitation and/or heating by microwaves.
+</P>
+<P>
+41. A method according to claim 40, wherein the heating after said first mixing point and/or second mixing point and/or third mixing point is at least partly performed by heating using microwaves.
+</P>
+<P>
+42. A method according to any of the preceding claims, the crystallinity of said nano- material formed is above 30 % such as above 50 % and preferably above 60 % such as above 70 %, and even more preferably above 80 % such as above 90 %.
+</P>
+<P>
+5
+</P>
+<P>
+43. A method according any of the preceding claims, wherein said nano-material has an average particle size below 30 nanometer, such as below 25 nanometer, and preferably below 20 nanometer such as below 15 nanometer and even more preferably below 10 nanometer such as below 5 nanometer.
+</P>
+<P>
+10
+</P>
+<P>
+44. A method according to any of the preceding claims, wherein the nano-material is in the form of spheres, hollow spheres, cylinders, needles, wires, tubes, double and/or multi- walled tubes, flakes, rhombic structures.
+</P>
+<P>
+15 45. A method according to any of the preceding claims, wherein said nano-material comprises a core-shell structure.
+</P>
+<P>
+46. A method according to any of the preceding claims, wherein said nano-material is in the form of a colloidal suspension.
+</P>
+<P>
+20
+</P>
+<P>
+47. A method according to any of the preceding claims, wherein a colloidal suspension is produced, and wherein the concentration of said nanomaterial in said colloidal suspension is up to 30 % by weight such as up to 20 % by weight, and preferably up to 10 % by weight such as up to 5 % by weight.
+</P>
+<P>
+25
+</P>
+<P>
+48. A method according to any of the preceding claims, wherein a colloidal suspension is produced, and wherein the concentration of said nanomaterial in said colloidal suspension is above 0,1 % by weight such as above 0,5 % by weight, and preferably above 1 % by weight such as above 5 % by weight.
+</P>
+<P>
+30
+</P>
+<P>
+49. A method of depositing nano-materials suspensioned in a fluid having a zeta potential and a pH-value, said method comprising changing one or more conditions, such as zeta potential, pH-value, pressure, temperature of the fluid so as to precipitate the nano- materials.
+</P>
+<P>
+35
+</P>
+<P>
+50. A method according to 49, wherein the precipitation is accomplished by changing the pH-value and/or the zeta potential of the fluid.
+</P>
+<P>
+51 : A method according to claim 49 or 50, further comprising producing the fluid having nano materials suspensioned by a method according to one or more of claims 1-48.
+</P>
+<P>
+52. A method according to any of the preceding claims, wherein said precipitated nano- 5 material is deposited in the form of a coating and/or a film on a substrate.
+</P>
+<P>
+53. A method according to claim 52, wherein said deposition is at least partly caused by a change in the zeta-potential.
+</P>
+<P>
+10 54. A method according to claim 52 or 53, wherein said deposition on the surface of said substrate is at last partly caused by an expansion in to a chamber and/or pressure vessel comprising said substrate.
+</P>
+<P>
+55. A method according to any of the claims 52-54, wherein said deposition on the surface 15 of said substrate is performed by introducing said fluid mixture comprising said fluid mixture into a chamber and/or pressure vessel containing a substrate and comprising an anti-solvent for said fluid mixture, thereby causing said nano-material to be deposited on the surface of said substrate.
+</P>
+<P>
+20 56. A method according to any of the claims 52-55, wherein said anti-solvent comprises carbon dioxide in a supercritical state.
+</P>
+<P>
+57. A method according to any of the claims 52-56, wherein said nano-material is subjected to microwaves during and/or after said deposition on the surface of a substrate.
+</P>
+<P>
+25
+</P>
+<P>
+58. A method according to any of the claims 52-57, wherein the thickness of the layer is below 1 micron such as below 0,5 micron, and preferably below 100 nanometer such as below 50 nanometer, and preferably below 30 nanometer such as below 20 nanometer.
+</P>
+<P>
+30 59. A method according to any of the claims 52-58, wherein said nanomaterial on the surface on said substrate, comprises less than 30 molecular layers such as less than 20 molecular layers, and preferably less than 10 molecular layers such as less than 5 molecular layers.
+</P>
+<P>
+35 60. A method according to any of the preceding claims, wherein said nanomaterial comprises one or more oxides and/or one or more hydroxides and/or and one or more nitrides and/or one or more oxo-nitrides and/or one or more carbides and/or one or more sulfides or combinations thereof.
+</P>
+<P>
+61. A method according to any of the preceding claims, wherein said nanomaterial comprises one or more metal/-s and/or one or more semi-metal/-s.
+</P>
+<P>
+62. A method according to any of the preceding claims, wherein said nanomaterial comprises one or more of the elements Ti, Zr, Al, Si, Zn, Ge, Ba, Sr, Fe, Ni, Co, Yt, Ce, Bi, Te, Se, Sc, Au, Ag, Pd, Pt, Pb, Ru and combinations thereof.
+</P>
+<P>
+63. A method according to any of the preceding claims, wherein said nanomaterial comprises a titanate and/or a zirconate.
+</P>
+<P>
+64. A nano-sized material obtained by the method according to any of the preceding claims, the nano material is preferably suspended in a fluid.
+</P>
+<P>
+65. An apparatus for performing the method according to claim 1-63, comprising: - a first pipe system comprising a first heating unit for heating the first fluid to the first temperature, a second pipe system comprising a second heating unit for heating the second fluid to the second temperature, and a connecting unit for connecting the first pipe system with the second pipe system.
+</P>
+<P>
+66. An apparatus according to claim 65, wherein the connecting unit comprises mixing equipment for creating turbulent mixing of the first fluid and the second fluid.
+</P>
+<P>
+67. An apparatus according to claim 65 or 66, wherein the apparatus further comprises a nano separation chamber.
+</P>
+<P>
+68. An apparatus comprising one or more of the features according to any of the preceding claims 1-63.
+</P>
+</Claims>
+<Also_published_as>
+WO2007065446A2;WO2007065446A3;US2009004099A1;US7829598B2;KR20080077680A;JP2009518167A;EA200801383A1;EA013089B1;CN101326001A;CA2633809A1;BRPI0619635A2;AU2006322458A1
+</Also_published_as>
+</BiblioData>

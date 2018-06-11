@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PROJECTION OBJECTIVE HAVING MIRROR ELEMENTS WITH REFLECTIVE COATINGS
+</Title>
+<PublicationNumber>
+EP2191332A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHAN DANNY [DE]
+</Name>
+<Name>
+MANN HANS-JUERGEN [DE]
+</Name>
+<Name>
+MIGURA SASCHA [DE]
+</Name>
+<Name>
+CHAN, DANNY
+</Name>
+<Name>
+MANN, HANS-JUERGEN
+</Name>
+<Name>
+MIGURA, SASCHA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ZEISS CARL SMT AG [DE]
+</Name>
+<Name>
+CARL ZEISS SMT AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2191332
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070801766
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP07326
+</PriorityNumber>
+<PriorityDate>
+2007-08-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G02B13/14
+</Class>
+<Class>
+G02B17/06
+</Class>
+<Class>
+G02B5/08
+</Class>
+<Class>
+G03F7/20
+</Class>
+<Class>
+G21K1/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G02B13/14B
+</Class>
+<Class>
+G02B17/06C3
+</Class>
+<Class>
+G02B5/08V
+</Class>
+<Class>
+G03F7/70F18
+</Class>
+<Class>
+G03F7/70F4
+</Class>
+<Class>
+G21K1/06B
+</Class>
+</NCL>
+<Abstract>
+An optical system comprises a plurality of elements arranged to image radiation at a wavelength ? from an object field in an object surface to an image field in an image surface. The elements include mirror elements having a reflective surface formed by a reflective coating positioned at a path of radiation. At least one of the mirror elements has a rotationally asymmetrical reflective surface deviating from a best-fit rotationally symmetric reflective surface by about ? or more at one or more locations. The elements include an apodization correction element effective to correct a spatial intensity distribution in an exit pupil of the optical system relative to the optical system without the apodization correcting element. Preferably the apodization correction element is effective to increase symmetry of the spatial intensity distribution in the exit pupil relative to the optical system without the apodization correcting element.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An optical system comprising: a plurality of elements arranged to image radiation at a wavelength [lambda] from an object field in an object surface to an image field in an image surface; the elements including mirror elements having a reflective surface formed by a reflective coating positioned at a path of radiation; at least one of the mirror elements having a rotationally asymmetrical reflective surface deviating from a best-fit rotationally symmetric reflective surface by about [lambda] or more at one or more locations; the elements including an apodization correction element effective to correct a spatial intensity distribution in an exit pupil of the optical system relative to the optical system without the apodization correcting element.
+</P>
+<P>
+2. The optical system according to claim 1 , wherein the apodization correction element is effective to increase symmetry of the spatial intensity distribution in the exit pupil relative to the optical system without the apodization correcting element.
+</P>
+<P>
+3. The optical system according to claim 1 or 2, wherein the apodization correcting element is effective to increase rotational symmetry of the intensity distribution in the exit pupil as compared to the same optical system without the apodization correcting element.
+</P>
+<P>
+4. The optical system according to claim 3, wherein the spatial intensity distribution in the exit pupil is characterized by an apodization parameter APO representing a normalized azimuthal variation of the intensity in an edge region of the exit pupil according to:
+</P>
+<P>
+APO = (IMAX-IMIN) / (IMAX+IMIN),
+</P>
+<P>
+where IMAX is the maximum value of the intensity in the edge region of the exit pupil and IMIN is the minimum value of the intensity in the edge region of the exit pupil, wherein the apodization parameter APO is decreased by at least 1 %.
+</P>
+<P>
+5. The optical system according to one of the preceding claims, wherein the apodization correcting element is effective to increase a mirror symmetry of an intensity distribution in the exit pupil relative to a meridional plane of the optical system when compared to the same optical system without the apodization correcting element.
+</P>
+<P>
+6. The optical system according to one of the preceding claims, wherein the apodization correcting element is effective to reduce a field-dependent apodization when compared to the same optical system without the apodization correcting element.
+</P>
+<P>
+7. The optical system according to one of the preceding claims, wherein the apodization correcting element is effective to shift an intensity centroid of the intensity distribution in the exit pupil towards a center of the exit pupil when compared to the same optical system without the apodization correcting element.
+</P>
+<P>
+8. The optical system according to one of the preceding claims, wherein the apodization correcting element is a mirror element having a reflective surface formed by a reflective coating designed as a non-rotationally symmetric, graded coating including a multilayer stack of different materials, at least one of the layers having a geometrical layer thickness which varies according to a first grading function in a first direction of the coating and according to a second grading function, different from the first grading function, in a second direction perpendicular to the first direction.
+</P>
+<P>
+9. The optical system according to one of the preceding claims, wherein the apodization correcting element is a mirror element having a reflective surface formed by a reflective coating including a multilayer stack of layers of different materials, the layers including a cap layer on a radiation entry side facing away from a mirror substrate, wherein the cap layer has a geometrical layer thickness which varies according to a first grading function in a first di-rection of the coating and according to a second grading function, different from the first grading function, in a second direction perpendicular to the first direction.
+</P>
+<P>
+10. The optical system according to claim 9, wherein the geometrical layer thickness increases from an origin towards the edge of the mirror with a first amount of increase in the first direction, and a second amount of increase between the origin and an edge region is significantly larger in the second direction
+</P>
+<P>
+11. The optical system according to claim 9 or 10, wherein the layer thickness of the cap layer is essentially uniform in a central zone around an origin at least up to radial coordinates corresponding to an outer edge of a region corresponding to a first sub-aperture corresponding to a central field point and the layer thickness of the cap layer increases outside the central region slightly in the first direction and stronger in the second direction.
+</P>
+<P>
+12. The optical system according to claim 11 , wherein the central zone extends to more than 50 % of a maximum radial distance to the origin in the respective direction.
+</P>
+<P>
+13. The optical system according to one of claims 9 to 12, wherein the cap layer is made from a material selected from a group consisting of ruthenium, aluminium oxide, silicon carbide, molybdenum carbide, carbon, titanium nitride, titanium dioxide, and a mixture, an alloy or a compound of ruthenium, aluminium oxide, titanium nitride or titanium dioxide, and a further substance.
+</P>
+<P>
+14. The optical system according to one of claims 9 to 13, wherein the reflective coating includes a plurality of intermediate layers arranged between the cap layer and a mirror substrate, wherein each of the plurality of intermediate layers has a uniform layer thickness.
+</P>
+<P>
+15. The optical system according to one of claims 9 to 14, wherein the material of the cap layer has a specific absorbance for the radiation at wave- so length [lambda] which is greater than a specific absorbance of each of the materials of intermediate layers disposed between the cap layer and a mirror substrate.
+</P>
+<P>
+16. The optical system according to one of claims 9 to 15, wherein the material of the cap layer has a specific absorbance for the radiation at wavelength [lambda] which is greater than a specific absorbance of at least one of Silicon and Molybdenum.
+</P>
+<P>
+17. The optical system according to one of claims 9 to 16, wherein the material of the cap layer has a specific absorbance characterized by an extinction coefficient k greater than 0.013 in a wavelength range between about 13 nm and 14 nm.
+</P>
+<P>
+18. The optical system according to claim 17, wherein the extinction coefficient is 0.015 or more in the region of a wavelength band pass from 13.4 nm to 13.6 nm.
+</P>
+<P>
+19. The optical system according to one of claims 9 to 18, wherein the apodization correcting element includes at least one filter layer disposed on the cap layer on a radiation entry side thereof, wherein the filter layer is made from a filter layer material absorbing for radiation at wavelength [lambda] and having a geometrical thickness which varies spatially.
+</P>
+<P>
+20. The optical system according to claim 19, wherein the filter layer is made from a material having a greater specific absorbance at wavelength [lambda] than the material of the cap layer.
+</P>
+<P>
+21. The optical system according to claim 19 or 20, wherein the filter layer is made from a material having a smaller specific absorbance at wavelength [lambda] than the material of the cap layer.
+</P>
+<P>
+22. The optical system according to claim 19, 20 or 21 , wherein the filter layer is made from a material selected from a group consisting of ruthenium, aluminium oxide, silicon carbide, molybdenum carbide, carbon, titanium nisi tride, titanium dioxide, and a mixture, an alloy or a compound of ruthenium, aluminium oxide, titanium nitride or titanium dioxide, and a further substance.
+</P>
+<P>
+23. The optical system according to one of the preceding claims, wherein the apodization correcting element has a reflective surface formed by a reflective coating including a multilayer stack of layers of different materials, the layers forming a stack of bilayers, wherein a bilayer includes a relatively thick layer of a first material having a first refractive index and a relatively thin second layer of a second material having a second refractive index which is lower than the first refractive index, wherein a thickness ratio between a geometrical thickness of the first layer and the second layer of at least one bilayer varies according to first grading function in a first direction of the coating and according to a second grading function, different from the first grading function, in a second direction perpendicular to the first direction.
+</P>
+<P>
+24. The optical system according to one of the preceding claims, wherein the apodization correcting element is positioned optically remote from a pupil surface of the optical system at a position where condition P(M) &amp;lt; 1 is fulfilled, wherein
+</P>
+<P>
+P(M)=D(SA)/(D(SA)+D(CR)),
+</P>
+<P>
+where D(SA) is a diameter of a sub-aperture of a ray bundle originating from a field point in the object surface on a respective surface M; and D(CR) is a maximum distance of chief rays of an effective object field imaged by the optical system measured in a reference plane of the optical system on the surface M.
+</P>
+<P>
+25. The optical system according to claim 24, wherein the reference plane is a symmetry plane of the optical system.
+</P>
+<P>
+26. The optical system according to claim 24 or 25, wherein the condition P(M) &amp;lt; 0.99 holds for a position of the apodizaton correcting element. 27. The optical system according to one of claims 24 to 26, wherein the apodization correcting element is positioned in an intermediate region optically between a pupil surface and a field surface of the optical system at a position where condition 0.99 &amp;gt; P(M) &amp;gt; 0.95 is fulfilled.
+</P>
+<P>
+28. The optical system according to one of claims 24 to 27, wherein the apodization correcting element is positioned optically near to a field surface where the condition 0 &amp;lt; P(M) &amp;lt; 0.93 is fulfilled.
+</P>
+<P>
+29. The optical system according to one of the preceding claims, wherein the apodization correcting element is positioned at or optically close to a pupil surface of the optical system where the condition 0.98 &amp;lt; P(M) &amp;lt; 1 is fulfilled.
+</P>
+<P>
+30. The optical system according to one of the preceding claims, wherein at least one of the mirrors is provided with a non-rotational symmetric coating designed as a one-dimensionally graded coating including a multilayer stack of layers of different materials, where the layers have a geometrical layer thickness which varies according to a first grading function in the first direction of the coating and which is substantially constant in the second direction perpendicular to the first direction.
+</P>
+<P>
+31. The optical system according to claim 30, wherein the mirror is arranged and shaped such that an average angle of incidence varies strongly according to a substantially linear function in the first direction and the average angle of incidence is substantially constant in the second direction perpendicular thereto.
+</P>
+<P>
+32. The optical system according to one of the preceding claims, wherein the optical system includes a first and at least one second apodization correcting element
+</P>
+<P>
+33. A projection-exposure system for use in microlithography having an illumination system configured to receive radiation from a primary light source and for illuminating a pattern in an object surface of a projection objective, and a projection objective, wherein the projection objective comprises an optical system according to one of the preceding claims.
+</P>
+<P>
+34. A projection-exposure system according to claim 33, wherein the primary light source emits EUV radiation at a wavelength 13nm &amp;lt; [lambda] &amp;lt; 14 nm.
+</P>
+<P>
+35. A method for fabricating semiconductor devices or other types of micro devices, comprising: providing a mask having a prescribed pattern; illuminating the mask with radiation having a prescribed wavelength [lambda]; and projecting an image of the pattern onto a photosensitive substrate arranged in the vicinity of the image plane of a projection objective formed by an optical system according to one of the preceding claims.
+</P>
+</Claims>
+<Also_published_as>
+WO2009024164A1;US2010195075A1;JP2010537413A;CN101836163A;CN101836163B
+</Also_published_as>
+</BiblioData>

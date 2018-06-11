@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+POLYMER ARRAYS FOR BIOFILM ADHESION TESTING
+</Title>
+<PublicationNumber>
+EP2175980A2
+</PublicationNumber>
+<Inventor>
+<Name>
+DAVIES MARTYN [GB]
+</Name>
+<Name>
+ALEXANDER MORGAN [GB]
+</Name>
+<Name>
+WILLIAMS PAUL [GB]
+</Name>
+<Name>
+LANGER ROBERT [GB]
+</Name>
+<Name>
+ANDERSON DANIEL [GB]
+</Name>
+<Name>
+URQUHART ANDREW [GB]
+</Name>
+<Name>
+DAVIES, MARTYN
+</Name>
+<Name>
+ALEXANDER, MORGAN
+</Name>
+<Name>
+WILLIAMS, PAUL
+</Name>
+<Name>
+LANGER, ROBERT
+</Name>
+<Name>
+ANDERSON, DANIEL
+</Name>
+<Name>
+URQUHART, ANDREW
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV NOTTINGHAM [GB]
+</Name>
+<Name>
+MASSACHUSETTS INST TECHNOLOGY [US]
+</Name>
+<Name>
+UNIVERSITY OF NOTTINGHAM
+</Name>
+<Name>
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2175980
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080788645
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-08-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008GB50674
+</PriorityNumber>
+<PriorityDate>
+2008-08-07
+</PriorityDate>
+<PriorityNumber>
+GB20070015491
+</PriorityNumber>
+<PriorityDate>
+2007-08-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+C40B50/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12Q1/04
+</Class>
+<Class>
+C40B50/14
+</Class>
+</NCL>
+<Abstract>
+This invention relates to a method of screening arrays of polymers having pre- determined surface energies. The polymer arrays of the present invention can be used to screen for microorganism adherence. More specifically the arrays can be used to screen for adherence of particular bacteria or fungi to particular polymers in the array. Furthermore, this invention relates to a method combining in-situ polymer synthesis with physico-chemical characterisation of the resulting polymer array and subsequent biological assays of bacterial or fungal adherence. This allows for high throughput screening and characterisation of candidate polymers which are not susceptible to bacterial or fungal adherence or which can be used to support bacterial or fungal adherence where such is required. The arrays can also be used to screen for inhibition or promotion of biofilm formation.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A process for screening an array containing two or more different synthetic polymers, the process comprising:
+</P>
+<P>
+(a) providing a substrate surface and plurality of individual monomers in the liquid phase;
+</P>
+<P>
+(b) depositing a plurality of individual aliquots of liquid contain a monomer or mixture of monomers at a plurality of discrete locations at sub- microlitre volumes onto the substrate surface;
+</P>
+<P>
+(c) exposing the plurality of aliquots to initiating conditions to form individual polymer elements; and
+</P>
+<P>
+(d) optionally determining the surface energy of the individual polymer elements.
+</P>
+<P>
+2. The process of claim 1, wherein some or all of the plurality of individual aliquots include more than one type of monomer in the individual aliquots.
+</P>
+<P>
+3. The process of claim 1 or 2, wherein a proportion of the monomers is liquid at room temperature.
+</P>
+<P>
+4. The process of claims 1, 2 or 3, wherein a proportion of the liquid monomers is provided in a solvent.
+</P>
+<P>
+5. The process of any of claims 1 to 4, wherein the step of exposing the plurality of aliquots to initiating conditions involves introducing an initiator to some or all of the plurality of individual aliquots using a liquid handling device, and preferably using a robotic liquid handling device.
+</P>
+<P>
+6. The process of claim 5, wherein the initiator is an organic radical initiator or a redox initiator.
+</P>
+<P>
+7. The process of any of claims lto 4, wherein the step of exposing the plurality of aliquots to initiating conditions involves exposing the array to electromagnetic radiation and/or thermal radiation, optionally in the presence of an initiator which has been introduced into some or all of the plurality of individual aliquots.
+</P>
+<P>
+8. The process of claims 5, 6 or 7, wherein the initiator which is present in different individual aliquots is the same initiator.
+</P>
+<P>
+9. The process of any preceding claim, wherein the substrate comprises a material selected from the group comprising: glass, ceramic, metal and plastic or a combination of one or more of these.
+</P>
+<P>
+10. The process of claim 9, wherein the surface of the substrate has been modified to improve retention of the plurality of individual aliquots.
+</P>
+<P>
+11. The process of claim 10, wherein the surface modification is provided by plasma etching, a polymer coating, chemical treatment or a combination of these.
+</P>
+<P>
+12. The process of any preceding claim wherein the monomers are monomers of polymers independently selected from the group comprising: substituted polyacrylates, substituted polyethers, substituted polycarbonates and substituted poly anhydrides.
+</P>
+<P>
+13. The process of claim 12, wherein some of all of the polymers formed on the process are biocompatible.
+</P>
+<P>
+14. The process of claim 12, wherein the polymer includes a degree of unsaturation.
+</P>
+<P>
+15. The process of claim 12, wherein each individual polymer is independently selected from the group comprising: monofunctional acrylate esters, polyfunctional acrylate esters, monofunctional methacrylate esters and polyfunctional methacrylate esters.
+</P>
+<P>
+16. The process of any preceding claim wherein each individual aliquot has a volume of 500 picolitres or less, and preferably 100 picolitres or less. 17. The process of any preceding claim wherein the surface energy of the individual polymer elements is determined by contact angle measurement.
+</P>
+<P>
+18. The process of any preceding claim, wherein the process includes the further steps:
+</P>
+<P>
+(e) seeding the array with a microbial culture; and
+</P>
+<P>
+(f) monitoring microbial adherence onto the polymeric element of the array by detection of the microorganism to identify polymers with low microbial adherence or which promote microbial adherence.
+</P>
+</Claims>
+<Also_published_as>
+WO2009019519A2;WO2009019519A3;US2011183867A1
+</Also_published_as>
+</BiblioData>

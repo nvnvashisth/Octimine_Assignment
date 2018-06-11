@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SYSTEMS AND METHODS FOR CELL MEASUREMENT UTILIZING ULTRASHORT T2* RELAXOMETRY
+</Title>
+<PublicationNumber>
+EP2004242A2
+</PublicationNumber>
+<Inventor>
+<Name>
+LIU WEI [US]
+</Name>
+<Name>
+DAHNKE HANNES [US]
+</Name>
+<Name>
+SCHAEFFTER TOBIAS [US]
+</Name>
+<Name>
+LIU, WEI
+</Name>
+<Name>
+DAHNKE, HANNES
+</Name>
+<Name>
+SCHAEFFTER, TOBIAS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONINKL PHILIPS ELECTRONICS NV [NL]
+</Name>
+<Name>
+PHILIPS INTELLECTUAL PROPERTY [DE]
+</Name>
+<Name>
+KONINKLIJKE PHILIPS ELECTRONICS N.V
+</Name>
+<Name>
+PHILIPS INTELLECTUAL PROPERTY &amp; STANDARDS GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2004242
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070735226
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IB51013
+</PriorityNumber>
+<PriorityDate>
+2007-03-22
+</PriorityDate>
+<PriorityNumber>
+US20060788473P
+</PriorityNumber>
+<PriorityDate>
+2006-03-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61B5/055
+</Class>
+<Class>
+A61K49/18
+</Class>
+<Class>
+G01R33/54
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K49/18R2N2R
+</Class>
+<Class>
+A61K49/18W
+</Class>
+<Class>
+B82Y5/00
+</Class>
+</NCL>
+<Abstract>
+The present disclosure is directed to a new technique for MR measurement of ultrashort T2 &amp;lt;*&amp;gt;
+</Abstract>
+<Claims>
+<P>
+What is claimed:
+</P>
+<P>
+1. A method for measuring labeled cells, comprising:
+</P>
+<P>
+labeling cells ex vivo with a contrasting agent; monitoring migration, proliferation and/or homing of said labeled cells with magnetic resonance (MR) imaging; measuring T2 relaxometry having a T2 decay curve by acquiring a series of spin echo images comprising the steps of:
+</P>
+<P>
+(a) inducing a first spin echo signal generating a first spin echo image;
+</P>
+<P>
+(b) inducing multiple spin echo signals generating a series of additional spin echo images from suitable echo shifts towards said T2 decay; and
+</P>
+<P>
+(c) deriving T2 maps using exponential fitting.
+</P>
+<P>
+2. A method according to claim 1, wherein said contrasting agent is superparamagnetic iron oxide (SPIO).
+</P>
+<P>
+3. A method according to claim 1, wherein T2 is ultrashort.
+</P>
+<P>
+4. A method according to claim 3, wherein T2 varies from application-to-application, and in certain applications is less than or equal to 2 milliseconds.
+</P>
+<P>
+5. A method according to claim 1, wherein said first spin echo signal and said second spin echo signal are formed by a first radio frequency (RF) pulse followed by a second RF pulse respectively.
+</P>
+<P>
+6. A method according to claim 5, wherein said first RF pulse is a 90 degree RF pulse followed by a 180 degree RF pulse.
+</P>
+<P>
+7. A method according to claim 1, wherein a T2 decay curve is defined by the relationship:
+</P>
+<P>
+M,,e -t/T2
+</P>
+<P>
+8. A method according to claim 1, wherein said T2 decay curve is defined by the relationship: Msse &amp;lt;TE/T2&amp;gt; e &amp;lt;(t&apos;TE)/T2*&amp;gt; .
+</P>
+<P>
+9. A method according to claim 1, wherein said suitable echo shift is done by steps below 1 or 2 milliseconds.
+</P>
+<P>
+10. A method according to claim 1, wherein said T2 maps are combined and displayed as an overall T2 map.
+</P>
+<P>
+11. A method according to any of the preceding claims, wherein the labeled cells are measured in connection with cell trafficking or cell therapy.
+</P>
+<P>
+12. A system for measuring labeled cells according to any of the preceding claims.
+</P>
+</Claims>
+<Also_published_as>
+WO2007113721A2;WO2007113721A3;US2009111140A1;TW200806327A;RU2008143199A;RU2434645C2;JP2009531705A;CN101460199A;CN101460199B
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+TUNNEL MAGNETORESISTIVE THIN FILM AND MAGNETIC MULTILAYER FORMATION APPARATUS
+</Title>
+<PublicationNumber>
+EP2159858A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TSUNEKAWA KOJI [JP]
+</Name>
+<Name>
+NAGAMINE YOSHINORI [JP]
+</Name>
+<Name>
+TSUNEKAWA, KOJI
+</Name>
+<Name>
+NAGAMINE, YOSHINORI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON ANELVA CORP [JP]
+</Name>
+<Name>
+CANON ANELVA CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2159858
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080765232
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP60419
+</PriorityNumber>
+<PriorityDate>
+2008-06-06
+</PriorityDate>
+<PriorityNumber>
+JP20070161326
+</PriorityNumber>
+<PriorityDate>
+2007-06-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B5/39
+</Class>
+<Class>
+H01F10/16
+</Class>
+<Class>
+H01F10/30
+</Class>
+<Class>
+H01F41/18
+</Class>
+<Class>
+H01L21/8246
+</Class>
+<Class>
+H01L27/105
+</Class>
+<Class>
+H01L43/08
+</Class>
+<Class>
+H01L43/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G11B5/39C1
+</Class>
+<Class>
+G11B5/39C1C
+</Class>
+<Class>
+G11C11/15
+</Class>
+<Class>
+H01F10/32N4
+</Class>
+<Class>
+H01F10/32N6A
+</Class>
+<Class>
+H01F41/30D
+</Class>
+<Class>
+H01L43/08
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a tunnel magnetoresistive thin film having a high MR ratio by improving heat resistance while maintaining a thin film of a Ru layer used as a non-magnetic layer so that the Ru layer expresses preferable exchange coupling magnetic field even through annealing at high temperature. In the tunnel magnetoresistive thin film, at least one of a first pinned magnetic layer and a second pinned magnetic layer that are layered having the non-magnetic layer for exchange coupling therebetween has a layered structure of two or more layers made of magnetic materials different from each other.
+</Abstract>
+<Claims>
+<P>
+1. A tunnel magnetoresistive thin film comprising:
+</P>
+<P>
+an anti-ferromagnetic layer;
+</P>
+<P>
+a tunnel barrier layer;
+</P>
+<P>
+a first pinned magnetic layer located on the side of the anti-ferromagnetic layer and containing a magnetic material and boron atom;
+</P>
+<P>
+a second pinned magnetic layer located on the side of the tunnel barrier layer and containing a magnetic material and boron atom;
+</P>
+<P>
+a non-magnetic layer for exchange coupling located between the first pinned magnetic layer and the second pinned magnetic layer; anda free magnetic layer, wherein:
+</P>
+<P>
+the first pinned magnetic layer has an anti-ferromagnetic layer side layer, which is located on the side of the anti-ferromagnetic layer, and a non-magnetic layer for exchange coupling side layer, which is located on the side of the non-magnetic layer for exchange coupling; and each of content ratios, shown in atomic%, of the boron atom contained in the anti-ferromagnetic layer side layer and the non-magnetic layer for exchange coupling side layer differs from each other.
+</P>
+<P>
+2. The tunnel magnetoresistive thin film according to Claim 1, wherein the tunnel barrier layer is a magnesium oxide film containing (001)-oriented magnesium oxide crystal grains.
+</P>
+<P>
+3. The tunnel magnetoresistive thin film according to Claim 1, wherein the content ratio of the boron atom contained in the anti-ferromagnetic layer side layer of the first pinned magnetic layer is larger than the content ratio of the boron atom contained in the non-magnetic layer for exchange coupling side layer of the first pinned magnetic layer.
+</P>
+<P>
+4. The tunnel magnetoresistive thin film according to Claim 1, wherein the anti-ferromagnetic layer side layer of the first pinned magnetic layer is made of an alloy containing 50 atomic% or more of cobalt atom and 5 atomic% or more of boron atom and iron atom, and the non-magnetic layer for exchange coupling side layer of the first pinned magnetic layer is made of an alloy containing 50 atomic% or more of cobalt and less than 5 atomic% of boron atom and iron atom.
+</P>
+<P>
+5. The tunnel magnetoresistive thin film according to Claim 1, wherein the content ratio of the boron atom contained in the non-magnetic layer for exchange coupling side layer of the second pinned magnetic layer is larger than the content ratio of the boron atom contained in the tunnel barrier layer side layer of the second pinned magnetic layer.
+</P>
+<P>
+6. The tunnel magnetoresistive thin film according to Claim 1, wherein the second pinned magnetic layer has a layered body structure having: the non-magnetic layer for exchange coupling side layer located on the side of the non-magnetic layer for exchange coupling; and the tunnel barrier layer side layer located on the side of the tunnel barrier layer, the non-magnetic layer for exchange coupling side layer is made of an alloy containing 50 atomic% or more of cobalt atom and 15 atomic% or more of boron atom and iron atom, and the tunnel barrier layer side layer is made of an amorphous alloy containing 40 atomic% or more of iron atom, 5 atomic% or more of boron atom, and 15 atomic% or less of cobalt atom.
+</P>
+<P>
+7. The tunnel magnetoresistive thin film according to Claim 1, wherein the non-magnetic layer for exchange coupling is made of a metal or an alloy containing at least one type selected from a group consisting of a Ru atom, a Rh atom, and an Ir atom, and has a film thickness of 1 nm or less.
+</P>
+<P>
+8. A magnetic multilayer formation apparatus comprising:
+</P>
+<P>
+a transfer chamber provided with a robot transfer device;
+</P>
+<P>
+a first sputtering film deposition chamber arranged to connect with the transfer chamber through a gate valve and provided with a first magnetic target, a second magnetic target, a third magnetic target, an anti-ferromagnetic target, and a non-magnetic target, the first magnetic target containing cobalt atom, iron atom, and boron atom, the second magnetic target containing boron atom of a content ratio different from that of the boron atom in the first magnetic target, cobalt atom, and iron atom, the third magnetic target containing cobalt atom and iron atom and containing substantially no boron atom, the anti-ferromagnetic target containing an anti-ferromagnetic material, and the non-magnetic target for exchange coupling containing a non-magnetic material;
+</P>
+<P>
+a second sputtering film deposition chamber arranged to connect with the transfer chamber through a gate valve and provided with a magnesium oxide target and/or a magnesium target;
+</P>
+<P>
+a third sputtering film deposition chamber arranged to connect with the transfer chamber through a gate valve and configured to deposit a free magnetic layer by sputtering using a magnetic target; anda transfer mechanism configured to deposit:
+</P>
+<P>
+an anti-ferromagnetic layer on a substrate by sputtering using the anti-ferromagnetic target, a pinned magnetic layer of the first magnetic material on the anti-ferromagnetic layer by sputtering method using the first magnetic target, a pinned magnetic layer of the second magnetic material on the pinned magnetic layer by sputtering using the second magnetic target, a non-magnetic layer for exchange coupling on the pinned magnetic layer by sputtering using the non-magnetic target, and a pinned magnetic layer of the third magnetic material on the non-magnetic layer for exchange coupling by sputtering using the third magnetic target, in the first sputtering film deposition chamber;
+</P>
+<P>
+a tunnel barrier layer consisting of a magnesium oxide layer or of a layered body of a metal magnesium layer and a magnesium oxide layer on the pinned magnetic layer of the third magnetic material by sputtering using a magnesium oxide target and/or a magnesium target in the second sputtering film deposition chamber; and
+</P>
+<P>
+a free magnetic layer on the tunnel barrier layer in the third sputtering film deposition chamber.
+</P>
+<P>
+9. The magnetic multilayer formation apparatus according to Claim 9, wherein the content ratio of the boron atom contained in the first magnetic target is larger than the content ratio of the boron atom contained in the second magnetic target.
+</P>
+<P>
+10. A magnetic multilayer formation apparatus comprising:
+</P>
+<P>
+a transfer chamber provided with a robot transfer device;
+</P>
+<P>
+a first sputtering film deposition chamber arranged to connect with the transfer chamber through a gate valve and provided with a first magnetic target, a second magnetic target, a third magnetic target, an anti-ferromagnetic target, and a non-magnetic target, the first magnetic target containing cobalt atom, iron atom, and boron atom, the second magnetic target containing boron atom of a content ratio different from that of the boron atom in the first magnetic target, cobalt atom, and iron atom, the anti-ferromagnetic target containing an anti-ferromagnetic material, and the non-magnetic target for exchange coupling containing a non-magnetic material;
+</P>
+<P>
+a second sputtering film deposition chamber arranged to connect with the transfer chamber through a gate valve and provided with a third magnetic target containing cobalt atom, iron atom, and boron atom, and a fourth magnetic target containing boron atom of a content ratio different from that of the boron atom in the third magnetic target, cobalt atom, and iron atom ,
+</P>
+<P>
+a third sputtering film deposition chamber arranged to connect with the transfer chamber through a gate valve and provided with a magnesium oxide target and/or a magnesium target,
+</P>
+<P>
+a fourth sputtering film deposition chamber arranged to connect with the transfer chamber through a gate valve and configured to deposit a free magnetic layer by sputtering using a magnetic target; anda transfer mechanism configured to deposit:
+</P>
+<P>
+an anti-ferromagnetic layer on a substrate by sputtering using the anti-ferromagnetic target, a pinned magnetic layer of the first magnetic material on the anti-ferromagnetic layer by sputtering using the first magnetic target, a pinned magnetic layer of the second magnetic material on the pinned magnetic layer by sputtering using the second magnetic target, and a non-magnetic layer for exchange coupling on the pinned magnetic layer by sputtering using the non-magnetic target, in the first sputtering film deposition chamber;
+</P>
+<P>
+a pinned magnetic layer of the third magnetic material on the non-magnetic layer for exchange coupling by sputtering using the third magnetic target, and a pinned magnetic layer of the fourth magnetic material on the pinned magnetic layer by sputtering using the fourth magnetic target, in the second sputtering film deposition chamber;
+</P>
+<P>
+a film of the tunnel barrier layer consisting a magnesium oxide layer or of a layered body of a metal magnesium layer and a magnesium oxide layer on the pinned magnetic layer of the fourth magnetic material by sputtering using a magnesium oxide target and/or a magnesium target in the third sputtering film deposition chamber; and
+</P>
+<P>
+a free magnetic layer on the tunnel barrier layer in the fourth sputtering film deposition chamber.
+</P>
+<P>
+11. The magnetic multilayer formation apparatus according to Claim 10, wherein
+</P>
+<P>
+the content ratio of the boron atom contained in the first magnetic target is larger than that of the boron atom contained in the second magnetic target.
+</P>
+</Claims>
+<Also_published_as>
+US2010033878A1;US8139325B2;JP4551484B2;WO2008155996A1;CN101542767A;CN101542767B
+</Also_published_as>
+</BiblioData>

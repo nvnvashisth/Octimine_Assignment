@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SOLID SUBSTRATE WITH SURFACE BOUND MOLECULES AND METHODS FOR PRODUCING AND USING THE SAME
+</Title>
+<PublicationNumber>
+EP2191267A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PARK JOON WON [KR]
+</Name>
+<Name>
+HONG BONG JIN [KR]
+</Name>
+<Name>
+KIM DUK HOE [KR]
+</Name>
+<Name>
+PARK, JOON WON
+</Name>
+<Name>
+HONG, BONG JIN
+</Name>
+<Name>
+KIM, DUK HOE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+POSTECH ACAD IND FOUND [KR]
+</Name>
+<Name>
+POSCO [KR]
+</Name>
+<Name>
+POSTECH ACADEMY-INDUSTRY FOUNDATION
+</Name>
+<Name>
+POSCO
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2191267
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080831597
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-09-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008IB03808
+</PriorityNumber>
+<PriorityDate>
+2008-09-17
+</PriorityDate>
+<PriorityNumber>
+US20070973079P
+</PriorityNumber>
+<PriorityDate>
+2007-09-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N33/48
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+G01N33/543B
+</Class>
+<Class>
+G01N33/543K2
+</Class>
+<Class>
+G01N33/543M
+</Class>
+<Class>
+G01Q60/42
+</Class>
+</NCL>
+<Abstract>
+The present invention provides solid substrates comprising a small number of molecules, for example, ten or less molecules on the convex surface, e.g., on the apex, and methods for producing and using the same.
+</Abstract>
+<Claims>
+<P>
+What is Claimed:
+</P>
+<P>
+1. A method for modifying a solid substrate surface comprising: attaching a receptor to a convex surface of a first solid substrate surface to produce a receptor-bound substrate comprising a plurality of receptors; contacting the receptor-bound substrate with a ligand that is bound to the surface of a second solid substrate under conditions sufficient to produce a receptor-ligand complex bound solid substrate wherein only a portion of the plurality of receptors is complexed to the ligand; and modifying the receptor-ligand complex to produce a surface modified solid substrate.
+</P>
+<P>
+2. The method of Claim 1, wherein about 3 or less of the receptors are complexed to the ligand.
+</P>
+<P>
+3. The method of Claim 2, wherein only a single receptor is complexed to the ligand.
+</P>
+<P>
+4. The method of Claim 1, wherein the receptor-ligand complex is a double stranded oligonucleotide, antigen-antibody complex, oligopeptide-small molecule complex, or oligopeptide-oligopeptide complex.
+</P>
+<P>
+5. The method of Claim 4, wherein the receptor-ligand complex is a double stranded oligonucleotide.
+</P>
+<P>
+6. The method of Claim 5, wherein said step of modifying the receptor-ligand complex further comprises: contacting the double stranded oligonulceotide with a metal ion under conditions sufficient to form a double stranded oligonucleotide-metal ion complex; and reducing the metal ion under conditions sufficient to produce the surface modified solid substrate comprising a surface bound metal nanorod.
+</P>
+<P>
+7. The method of Claim 5, wherein said step of modifying the receptor-ligand complex further comprises contacting the double stranded oligonulceotide with an intercalator- metal catalyst complex under conditions sufficient to produce the surface modified solid substrate comprising a surface bound double stranded oligonucleotide with the intercalator-metal catalyst intercalated therein. 8. The method of Claim 5, wherein said step of modifying the receptor- ligand complex comprises: denaturing the double stranded oligonucleotide to produce a single strand oligonucleotide-bound substrate; and hybridizing the single strand oligonucleotide with
+</P>
+<P>
+(i) a labeled complementary oligonucleotide under conditions sufficient to produce the surface modified solid substrate comprising a surface bound labeled double-stranded oligonucleotide; or (ii) a complementary oligonucleotide comprising an enzyme or a catalyst under conditions sufficient to produce the surface modified solid substrate comprising the enzyme or the catalyst that is attached to a surface bound double-stranded oligonucleotide.
+</P>
+<P>
+9. The method of Claim 8 further comprising the step of cleaving from the solid substrate surface at least a portion of the unbound single stranded oligonucleotides prior to said step of denaturing the double stranded oligonucleotide.
+</P>
+<P>
+10. The method of Claim 5, wherein said step of contacting the receptor-bound substrate with a ligand that is bound to the surface of a second solid substrate comprises: contacting the first solid substrate surface bound ssDNA with a linker ssDNA that is hybridized to a ssDNA that is attached to the second solid substrate surface under conditions sufficient to produce the receptor-ligand complex bound solid substrate, wherein the linker ssDNA comprises: (i) a first DNA portion that is capable of hybridizing to the ssDNA that is attached to the surface of the first solid substrate; (ii) a second DNA portion that is capable of hybridizing to the ssDNA that is attached to the surface of the second solid substrate surface; and (iii) optionally a probe.
+</P>
+<P>
+11. The method of Claim 10, wherein the linker ssDNA comprises a probe.
+</P>
+<P>
+12. The method of Claim 4, wherein the receptor-ligand complex is a antigen- antibody complex. 13. The method of Claim 12, wherein said step of modifying the receptor- ligand complex comprises contacting the antigen-antibody complex with a second antibody under conditions sufficient to produce the surface modified solid substrate comprising a surface bound complex of antigen-antibody-second antibody.
+</P>
+<P>
+14. The method of Claim 13, wherein said step of modifying the receptor- ligand complex further comprises adding an enzyme-linked secondary antibody under conditions sufficient to produce the surface modified solid substrate comprising a surface bound complex of antibody-antigen-enzyme linked secondary antibody.
+</P>
+<P>
+15. The method of Claim 13, wherein said step of modifying the receptor- ligand complex further comprises adding a metal-linked secondary antibody under conditions sufficient to produce the surface modified substrate comprising a surface bound complex of antibody- antigen-metal linked secondary antibody.
+</P>
+<P>
+16. The method of Claim 1, wherein the receptor is attached to the first solid substrate via a surface-bound linker.
+</P>
+<P>
+17. The method of Claim 16, wherein the surface-bound linker comprises: a central atom; a functional group that is attached to the central atom through a linker and is attached to a receptor; and a base portion attached to said central atom and having a plurality of termini that are attached to said first surface of said solid support.
+</P>
+<P>
+18. The method of Claim 17, wherein the surface-bound linker is of the formula:
+</P>
+<P>
+I wherein each of m, a, b, and c is independently 0 or 1; x is 1 when c is 0 or when c is 1, x is an integer from 1 to the oxidation state of Q&amp;lt;4&amp;gt;-l; y is 1 when b is 0 or when b is 1, y is an integer from 1 to the oxidation state of Q&amp;lt;3&amp;gt;-l; z is 1 when a is 0 or when a is 1, z is an integer from 1 to the oxidation state of Q&amp;lt;2&amp;gt;-l; n is an integer from 1 to the oxidation state of Q&amp;lt;1&amp;gt;-!; Q&amp;lt;1&amp;gt; is a central atom having the oxidation state of at least 3; each of Q&amp;lt;2&amp;gt;, Q&amp;lt;3&amp;gt; and Q&amp;lt;4&amp;gt; is independently a branch atom having the oxidation state of at least 3; each of R&amp;lt;1&amp;gt;, R&amp;lt;2&amp;gt;, R&amp;lt;3&amp;gt;, R&amp;lt;4&amp;gt;, and R&amp;lt;5&amp;gt; is independently a linker; Z is the functional group that is attached to a receptor; and each of Y is independently a functional group on the terminus of said base portion, wherein a plurality of Y are attached to said first surface of said solid support, provided the product of n, x, y, and z is at least 3.
+</P>
+<P>
+19. The method of Claim 18, wherein Z comprises a heteroatom selected from the group consisting of N, O, S, P, and a combination thereof.
+</P>
+<P>
+20. The method of Claim 1, wherein the first solid substrate is an atomic force microscope tip.
+</P>
+<P>
+21. A solid substrate adapted for performing an analytical analysis comprising a convex surface, wherein said convex surface comprises a plurality of surface bound dendrons comprising a receptor adapted for forming a complex with a ligand such that when said plurality of receptors is contacted with a ligand that is bound to the surface of a second solid substrate only a portion of plurality of receptors becomes complexed to the ligand.
+</P>
+<P>
+22. The solid substrate of Claim 21, wherein said solid substrate is an atomic force microscope tip.
+</P>
+<P>
+23. The solid substrate of Claim 21, wherein said dendron is of the formula:
+</P>
+<P>
+Z-CR^-Q -ICR&apos;-Q^a-KR&apos;-Q^b-CCR&apos;-Q^c-CR&apos;-Y^Jylzln
+</P>
+<P>
+I wherein each of m, a, b, and c is independently 0 or 1; x is 1 when c is 0 or when c is 1, x is an integer from 1 to the oxidation state of Q&amp;lt;4&amp;gt;-l; y is 1 when b is 0 or when b is 1, y is an integer from 1 to the oxidation state of Q -1; z is 1 when a is 0 or when a is 1, z is an integer from 1 to the oxidation state of Q&amp;lt;2&amp;gt;-l; n is an integer from 1 to the oxidation state of Q&amp;lt;!&amp;gt;-l;
+</P>
+<P>
+Q&amp;lt;1&amp;gt; is a central atom having the oxidation state of at least 3; each of Q&amp;lt;2&amp;gt;, Q&amp;lt;3&amp;gt; and Q&amp;lt;4&amp;gt; is independently a branch atom having the oxidation state of at least 3; each of R&amp;lt;1&amp;gt;, R&amp;lt;2&amp;gt;, R&amp;lt;3&amp;gt;, R&amp;lt;4&amp;gt;, and R&amp;lt;5&amp;gt; is independently a linker; Z is functional group linked to said receptor; and each of Y is independently a functional group on the terminus of said base portion, wherein a plurality of Y are attached to said first surface of said solid support, provided the product of n, x, y, and z is at least 3.
+</P>
+<P>
+24. The solid substrate of Claim 21 , wherein said receptor is an oligonucleotide, an oligopeptide, an antibody, an antigen, a receptor, an enzyme, aptamer, or other biologically or pharmaceutically active compounds.
+</P>
+<P>
+25. An article suitable for use in an Atomic Force Microscope comprising a convex surface and 3 or less probe molecules attached to the apex of said convex surface.
+</P>
+<P>
+26. The article of Claim 25, wherein said convex surface comprises a single probe molecule.
+</P>
+<P>
+What is Claimed:
+</P>
+<P>
+1. A method for modifying a solid substrate surface comprising: attaching a receptor to a convex surface of a first solid substrate surface to produce a receptor-bound substrate comprising a plurality of receptors; contacting the receptor-bound substrate with a ligand that is bound to the surface of a second solid substrate under conditions sufficient to produce a receptor-ligand complex bound solid substrate wherein only a portion of the plurality of receptors is complexed to the ligand; and modifying the receptor-ligand complex to produce a surface modified solid substrate.
+</P>
+<P>
+2. The method of Claim 1, wherein about 3 or less of the receptors are complexed to the ligand.
+</P>
+<P>
+3. The method of Claim 2, wherein only a single receptor is complexed to the ligand.
+</P>
+<P>
+4. The method of Claim 1, wherein the receptor-ligand complex is a double stranded oligonucleotide, antigen-antibody complex, oligopeptide-small molecule complex, or oligopeptide-oligopeptide complex.
+</P>
+<P>
+5. The method of Claim 4, wherein the receptor-ligand complex is a double stranded oligonucleotide.
+</P>
+<P>
+6. The method of Claim 5, wherein said step of modifying the receptor-ligand complex further comprises: contacting the double stranded oligonulceotide with a metal ion under conditions sufficient to form a double stranded oligonucleotide-metal ion complex; and reducing the metal ion under conditions sufficient to produce the surface modified solid substrate comprising a surface bound metal nanorod.
+</P>
+<P>
+7. The method of Claim 5, wherein said step of modifying the receptor-ligand complex further comprises contacting the double stranded oligonulceotide with an intercalator- metal catalyst complex under conditions sufficient to produce the surface modified solid substrate comprising a surface bound double stranded oligonucleotide with the intercalator-metal catalyst intercalated therein. 8. The method of Claim 5, wherein said step of modifying the receptor- ligand complex comprises: denaturing the double stranded oligonucleotide to produce a single strand oligonucleotide-bound substrate; and hybridizing the single strand oligonucleotide with
+</P>
+<P>
+(i) a labeled complementary oligonucleotide under conditions sufficient to produce the surface modified solid substrate comprising a surface bound labeled double-stranded oligonucleotide; or (ii) a complementary oligonucleotide comprising an enzyme or a catalyst under conditions sufficient to produce the surface modified solid substrate comprising the enzyme or the catalyst that is attached to a surface bound double-stranded oligonucleotide.
+</P>
+<P>
+9. The method of Claim 8 further comprising the step of cleaving from the solid substrate surface at least a portion of the unbound single stranded oligonucleotides prior to said step of denaturing the double stranded oligonucleotide.
+</P>
+<P>
+10. The method of Claim 5, wherein said step of contacting the receptor-bound substrate with a ligand that is bound to the surface of a second solid substrate comprises: contacting the first solid substrate surface bound ssDNA with a linker ssDNA that is hybridized to a ssDNA that is attached to the second solid substrate surface under conditions sufficient to produce the receptor-ligand complex bound solid substrate, wherein the linker ssDNA comprises: (i) a first DNA portion that is capable of hybridizing to the ssDNA that is attached to the surface of the first solid substrate; (ii) a second DNA portion that is capable of hybridizing to the ssDNA that is attached to the surface of the second solid substrate surface; and (iii) optionally a probe.
+</P>
+<P>
+11. The method of Claim 10, wherein the linker ssDNA comprises a probe.
+</P>
+<P>
+12. The method of Claim 4, wherein the receptor-ligand complex is a antigen- antibody complex. 13. The method of Claim 12, wherein said step of modifying the receptor- ligand complex comprises contacting the antigen-antibody complex with a second antibody under conditions sufficient to produce the surface modified solid substrate comprising a surface bound complex of antigen-antibody-second antibody.
+</P>
+<P>
+14. The method of Claim 13, wherein said step of modifying the receptor- ligand complex further comprises adding an enzyme-linked secondary antibody under conditions sufficient to produce the surface modified solid substrate comprising a surface bound complex of antibody-antigen-enzyme linked secondary antibody.
+</P>
+<P>
+15. The method of Claim 13, wherein said step of modifying the receptor- ligand complex further comprises adding a metal-linked secondary antibody under conditions sufficient to produce the surface modified substrate comprising a surface bound complex of antibody- antigen-metal linked secondary antibody.
+</P>
+<P>
+16. The method of Claim 1, wherein the receptor is attached to the first solid substrate via a surface-bound linker.
+</P>
+<P>
+17. The method of Claim 16, wherein the surface-bound linker comprises: a central atom; a functional group that is attached to the central atom through a linker and is attached to a receptor; and a base portion attached to said central atom and having a plurality of termini that are attached to said first surface of said solid support.
+</P>
+<P>
+18. The method of Claim 17, wherein the surface-bound linker is of the formula:
+</P>
+<P>
+I wherein each of m, a, b, and c is independently 0 or 1; x is 1 when c is 0 or when c is 1, x is an integer from 1 to the oxidation state of Q&amp;lt;4&amp;gt;-l; y is 1 when b is 0 or when b is 1, y is an integer from 1 to the oxidation state of Q&amp;lt;3&amp;gt;-l; z is 1 when a is 0 or when a is 1, z is an integer from 1 to the oxidation state of Q&amp;lt;2&amp;gt;-l; n is an integer from 1 to the oxidation state of Q&amp;lt;1&amp;gt;-!; Q&amp;lt;1&amp;gt; is a central atom having the oxidation state of at least 3; each of Q&amp;lt;2&amp;gt;, Q&amp;lt;3&amp;gt; and Q&amp;lt;4&amp;gt; is independently a branch atom having the oxidation state of at least 3; each of R&amp;lt;1&amp;gt;, R&amp;lt;2&amp;gt;, R&amp;lt;3&amp;gt;, R&amp;lt;4&amp;gt;, and R&amp;lt;5&amp;gt; is independently a linker; Z is the functional group that is attached to a receptor; and each of Y is independently a functional group on the terminus of said base portion, wherein a plurality of Y are attached to said first surface of said solid support, provided the product of n, x, y, and z is at least 3.
+</P>
+<P>
+19. The method of Claim 18, wherein Z comprises a heteroatom selected from the group consisting of N, O, S, P, and a combination thereof.
+</P>
+<P>
+20. The method of Claim 1, wherein the first solid substrate is an atomic force microscope tip.
+</P>
+<P>
+21. A solid substrate adapted for performing an analytical analysis comprising a convex surface, wherein said convex surface comprises a plurality of surface bound dendrons comprising a receptor adapted for forming a complex with a ligand such that when said plurality of receptors is contacted with a ligand that is bound to the surface of a second solid substrate only a portion of plurality of receptors becomes complexed to the ligand.
+</P>
+<P>
+22. The solid substrate of Claim 21, wherein said solid substrate is an atomic force microscope tip.
+</P>
+<P>
+23. The solid substrate of Claim 21, wherein said dendron is of the formula:
+</P>
+<P>
+Z-CR^-Q -ICR&apos;-Q^a-KR&apos;-Q^b-CCR&apos;-Q^c-CR&apos;-Y^Jylzln
+</P>
+<P>
+I wherein each of m, a, b, and c is independently 0 or 1; x is 1 when c is 0 or when c is 1, x is an integer from 1 to the oxidation state of Q&amp;lt;4&amp;gt;-l; y is 1 when b is 0 or when b is 1, y is an integer from 1 to the oxidation state of Q -1; z is 1 when a is 0 or when a is 1, z is an integer from 1 to the oxidation state of Q&amp;lt;2&amp;gt;-l; n is an integer from 1 to the oxidation state of Q&amp;lt;!&amp;gt;-l;
+</P>
+<P>
+Q&amp;lt;1&amp;gt; is a central atom having the oxidation state of at least 3; each of Q&amp;lt;2&amp;gt;, Q&amp;lt;3&amp;gt; and Q&amp;lt;4&amp;gt; is independently a branch atom having the oxidation state of at least 3; each of R&amp;lt;1&amp;gt;, R&amp;lt;2&amp;gt;, R&amp;lt;3&amp;gt;, R&amp;lt;4&amp;gt;, and R&amp;lt;5&amp;gt; is independently a linker; Z is functional group linked to said receptor; and each of Y is independently a functional group on the terminus of said base portion, wherein a plurality of Y are attached to said first surface of said solid support, provided the product of n, x, y, and z is at least 3.
+</P>
+<P>
+24. The solid substrate of Claim 21 , wherein said receptor is an oligonucleotide, an oligopeptide, an antibody, an antigen, a receptor, an enzyme, aptamer, or other biologically or pharmaceutically active compounds.
+</P>
+<P>
+25. An article suitable for use in an Atomic Force Microscope comprising a convex surface and 3 or less probe molecules attached to the apex of said convex surface.
+</P>
+<P>
+26. The article of Claim 25, wherein said convex surface comprises a single probe molecule.
+</P>
+</Claims>
+<Also_published_as>
+EP2191267A4;WO2009037600A2;WO2009037600A3;US2011160088A1;JP2010539468A;CN101821617A
+</Also_published_as>
+</BiblioData>

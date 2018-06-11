@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Magnetic detector and method for making the same
+</Title>
+<PublicationNumber>
+EP1930739A2
+</PublicationNumber>
+<Inventor>
+<Name>
+KURATA KOJI [JP]
+</Name>
+<Name>
+TOKUNAGA ICHIRO [JP]
+</Name>
+<Name>
+KURATA, KOJI
+</Name>
+<Name>
+TOKUNAGA, ICHIRO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ALPS ELECTRIC CO LTD [JP]
+</Name>
+<Name>
+ALPS ELECTRIC CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1930739
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070021715
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20060321657
+</PriorityNumber>
+<PriorityDate>
+2006-11-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/09
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+</NCL>
+<Abstract>
+A magnetic detector includes a magnetoresistive element (10) and a fixed resistor (20) that are constituted from identical laminates. Hard bias layers (17,18) are disposed on two sides of the fixed resistor (20) each with a gap therebetween. The magnetoresistive element (10) includes a magnetic layer, magnetization direction of which is variable;  the fixed resistor (20) includes a magnetic layer corresponding to the magnetic layer of the magnetoresistive element (10);  and the magnetization direction of the magnetic layer of the fixed resistor is pinned by a bias magnetic field from the hard bias layers (17,18).
+</Abstract>
+<Claims>
+<P>
+1. A magnetic detector comprising:
+</P>
+<P>
+at least one magnetoresistive element having electrical resistance changing in response to an external magnetic field by a magnetoresistive effect;
+</P>
+<P>
+at least one fixed resistor having electrical resistance that does not change in response to the external magnetic field, the fixed resistor being connected to the magnetoresistive element in series;
+</P>
+<P>
+at least one hard bias layer opposing a side surface of the fixed resistor with a gap therebetween; and
+</P>
+<P>
+a substrate on which the magnetoresistive element, the fixed resistor, and the hard bias layer are disposed,wherein the magnetoresistive element is constituted from a first laminate, the fixed resistor is constituted from a second laminate, and the first laminate is identical to the second laminate; and
+</P>
+<P>
+the magnetoresistive element includes a magnetic layer, magnetization direction of which is variable, the fixed resistor includes a magnetic layer corresponding to the magnetic layer of the magnetoresistive element, and a magnetization direction of the magnetic layer of the fixed resistor is pinned by a bias magnetic field from the hard bias layer.
+</P>
+<P>
+2. The magnetic detector according to claim 1, wherein a gap between the magnetoresistive element and the hard bias layer is larger than the gap between the fixed resistor and the hard bias layer.
+</P>
+<P>
+3. The magnetic detector according to claim 1 or 2, wherein the first laminate includes a laminated portion that includes a first magnetic layer, a second magnetic layer, and a nonmagnetic material layer interposed between the first magnetic layer and the second magnetic layer,
+</P>
+<P>
+the second laminate includes a laminated portion that includes a first magnetic layer, a second magnetic layer, and
+</P>
+<P>
+a nonmagnetic material layer interposed between the first magnetic layer and the second magnetic layer;
+</P>
+<P>
+a magnetization direction of the first magnetic layer of the magnetoresistive element and a magnetization direction of the first magnetic layer of the fixed resistor are pinned;
+</P>
+<P>
+the second magnetic layer of the magnetoresistive element functions as a free magnetic layer, magnetization direction of which is variable in response with the external magnetic field; and
+</P>
+<P>
+the second magnetic layer of the fixed resistor has a magnetization direction pinned by the bias magnetic field from the hard bias layer.
+</P>
+<P>
+4. The magnetic detector according to claim 3, wherein, in a zero magnetic field state where no external magnetic field is applied, the first layer of the magnetoresistive element and the first layer of the fixed resistor are magnetized in the same direction, and the second magnetic layer of the magnetoresistive element and the second magnetic layer of the fixed resistor are magnetized in the same direction.
+</P>
+<P>
+5. The magnetic detector according to any of claims 1 to 4, comprising:
+</P>
+<P>
+a first resistor element and a second resistor element connected to each other in series and disposed on the substrate; and
+</P>
+<P>
+a third resistor element and a fourth resistor element connected to each other in series and disposed on the substrate,
+</P>
+<P>
+wherein
+</P>
+<P>
+the second resistor element and the fourth resistor element are connected in parallel to form a bridge circuit on the substrate,
+</P>
+<P>
+the first resistor element, the second resistor element, the third resistor element, and the fourth resistor element are constituted from laminates identical to one another, and
+</P>
+<P>
+the first resistor element and the fourth resistor element are the magnetoresistive elements and the second resistor element and the third resistor elements are the fixed resistors.
+</P>
+<P>
+6. The magnetic detector according to any of claims 1 to 5, wherein the gap between the fixed resistor and the hard bias layer is 1 m or more and 5 m or less.
+</P>
+<P>
+7. The magnetic detector according to any of claims 1 to 6, where a thickness of the hard bias layer is 50 nm or more and 150 nm or less.
+</P>
+<P>
+8. A method for making a magnetic detector including magnetoresistive elements having electrical resistance changing in response to an external magnetic field by a magnetoresistive effect, fixed resistors having electrical resistance that does not change in response to the external magnetic field and being connected to the magnetoresistive elements in series, and a substrate on which the magnetoresistive elements and the fixed resistors are disposed, the method comprising the steps of:
+</P>
+<P>
+forming a laminate layer, from which the magnetoresistive element is to be formed, over the entire surface of a wafer larger than the substrate;
+</P>
+<P>
+removing portions of the laminate layer so that a plurality of sets of the magnetoresistive element and the fixed resistor are formed, each set including at least one magnetoresistive element and at least one fixed resistor;
+</P>
+<P>
+forming hard bias layers on the substrate, each hard bias layer opposing a side surface of the fixed resistor with a gap therebetween such that a magnetic layer of the fixed resistor corresponding to a magnetization direction-variable layer of the magnetoresistive element has a magnetization direction pinned by a bias magnetic field from the hard bias layer; and
+</P>
+<P>
+dividing the wafer into independent pieces each having one of the sets.
+</P>
+</Claims>
+<Also_published_as>
+US2008211490A1;JP2008134181A
+</Also_published_as>
+</BiblioData>

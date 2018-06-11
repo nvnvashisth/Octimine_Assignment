@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+OPTICAL-BASED, SELF- AUTHENTICATING QUANTUM RANDOM NUMBER GENERATORS
+</Title>
+<PublicationNumber>
+EP2013707A2
+</PublicationNumber>
+<Inventor>
+<Name>
+FIORENTINO MARCO [US]
+</Name>
+<Name>
+MUNRO WILLIAM J [GB]
+</Name>
+<Name>
+BEAUSOLEIL RAYMOND [US]
+</Name>
+<Name>
+SPILLANE SEAN [US]
+</Name>
+<Name>
+SANTORI CHARLES [US]
+</Name>
+<Name>
+FIORENTINO, MARCO
+</Name>
+<Name>
+MUNRO, WILLIAM J
+</Name>
+<Name>
+BEAUSOLEIL, RAYMOND
+</Name>
+<Name>
+SPILLANE, SEAN
+</Name>
+<Name>
+SANTORI, CHARLES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2013707
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070755829
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US09711
+</PriorityNumber>
+<PriorityDate>
+2007-04-20
+</PriorityDate>
+<PriorityNumber>
+US20060407513
+</PriorityNumber>
+<PriorityDate>
+2006-04-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G06F7/58
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G06F7/58R
+</Class>
+<Class>
+G06N99/00K
+</Class>
+<Class>
+H04L9/00
+</Class>
+</NCL>
+<Abstract>
+Various embodiments of the present invention are directed optical-based quantum random number generators. In one embodiment of the present invention, an optical-based, self-authenticating quantum random number generator comprises an input state generator (1102, 2102) that generates a optical quantum system in a linear superposition of states, a detector (1112-1115, 2108, 2110) that measures the state of the optical quantum system, a system control (1118, 2114) that evaluates a result obtained from measuring the state of the optical quantum system to determine whether or not to append a number associated with the result to the sequence of random numbers.;  The quantum random number generator may also include a state controller (1104, 1106, 2104), located between the input generator (1102, 2102) and the detector (1112-1115, 2108, 2110), that is operationally controlled by the system control (1118, 2114) in order to maintain the states of the optical quantum system, based on the results obtained from measuring the states of the optical quantum system.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+What is claimed is: .
+</P>
+<P>
+1. An optical-based self-authenticating system for generating a sequence of random numbers, the system comprising: an input state generator (1102,2102) that generates a optical quantum system in a linear superposition of states; a detector (1112-1115,2108,2110) that measures the state of the optical quantum system; a system control (1118,2114) that evaluates a result obtained from measuring the state of the optical quantum system to determine whether or not to append a number associated with the result to the sequence of random numbers; and a state controller (1104,1106,2104), located between the input state generator (1102,2102) and the detector (1112-1115,2108,2110), that is operationally controlled by the system control (1118,2114) in order to maintain .the states of the optical quantum system, based on the results obtained from measuring the states of the optical quantum system.
+</P>
+<P>
+2. The system of claim 1 wherein the optical quantum system in the linear superposition of states is one of: a single photon in a linear superposition of polarized states; -. a pair of photons in a Bell state; which path photons; which path photons in an entangled state; and time bin photons; and time bin photons in an entangled state.
+</P>
+<P>
+3. The system of claim 1 further comprises variable losses (2202,2204) located between the input state generator (1102,2102) and the detector (1112-1115,2108,2110) that are operationally controlled by the system control (1118,2114) for balancing the probability associated with measuring the states of the optical quantum system.
+</P>
+<P>
+4. The system of claim 1 further comprises channels for transmitting the optical quantum system wherein the channels are one of: optical fibers (1120,1122,2116); and free space.
+</P>
+<P>
+5. The system of claim 1 wherein the state controller (1104,1106,2104) further comprises one or more fiber-squeezer-polarization controllers for maintaining the polarization state of the optical quantum system and the detector further comprises one or more photon detectors.
+</P>
+<P>
+6. A method for generating a sequence of random numbers, the method comprising: generating a optical quantum system in a linear superposition of states; performing a state measurement on the optical quantum system; determining a random number based on the state of the optical quantum system; repeating the steps of generating, performing, and determining in order to produce a sequence of raw random numbers; and performing tomographic analysis on the optical quantum system in order to obtain a minimum entropy that can be used to extract a sequence of random numbers from the sequence of raw random numbers.
+</P>
+<P>
+7. The method of claim 6 wherein generating the optical quantum system in the linear superposition further comprises generating one or more of: a single photon in a linear superposition of polarized states; a pair of photons in a Bell state; which path photons; which path photons in an entangled state; and time bin photons; and time bin photons in an entangled state.
+</P>
+<P>
+8. The method of claim 6 further comprises appending the random number to the sequence of random numbers when the results obtained from the measurements are consistent with the optical quantum system being in the linear superposition of states, and not appending the random number of the sequence of random numbers when the results obtained from the measurements are not consistent with the optical quantum system being in the entangled state.
+</P>
+<P>
+9. The method of claim 6 wherein performing tomographic analysis further comprises confirming whether generating the optical quantum system produced a desired quantum state.
+</P>
+<P>
+10. The method of claim 6 wherein the minimum entropy is given:
+</P>
+<P>
+where
+</P>
+<P>
+X is a random variable;
+</P>
+<P>
+Pr (x) is the probability of a event x; and max Pr (x) means the maximum probability Pr{x) over every event x in X
+</P>
+</Claims>
+<Also_published_as>
+EP2013707B1;WO2007124089A2;WO2007124089A3;US2007260658A1;US7844649B2;KR20080110637A;KR100965970B1;JP2009534748A;CN101479699A;CN101479699B;CN101473299A;CN101473299B;CN101529375A
+</Also_published_as>
+</BiblioData>

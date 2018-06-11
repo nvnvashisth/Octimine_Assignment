@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+APPARATUS AND METHODS FOR THRESHOLD CONTROL OF PHOTOPOLYMERIZATION FOR HOLOGRAPHIC DATA STORAGE USING AT LEAST TWO WAVELENGTHS
+</Title>
+<PublicationNumber>
+EP2206115A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WALDMAN DAVID A [US]
+</Name>
+<Name>
+KOLB ERIC S [US]
+</Name>
+<Name>
+WALDMAN, DAVID, A
+</Name>
+<Name>
+KOLB, ERIC, S
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+STX APRILIS INC [US]
+</Name>
+<Name>
+STX APRILIS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2206115
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080840962
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-10-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US12034
+</PriorityNumber>
+<PriorityDate>
+2008-10-23
+</PriorityDate>
+<PriorityNumber>
+US20070999999P
+</PriorityNumber>
+<PriorityDate>
+2007-10-23
+</PriorityDate>
+<PriorityNumber>
+US20080189729P
+</PriorityNumber>
+<PriorityDate>
+2008-08-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B7/0065
+</Class>
+<Class>
+G11B7/007
+</Class>
+<Class>
+G11B7/24
+</Class>
+<Class>
+G11B7/245
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B7/245
+</Class>
+</NCL>
+<Abstract>
+A polymerizable media, including holographic recording media, and methods of use of the same. The media comprises at least one monomer or oligomer which undergoes polymerization to form a polymer;  a compound, which absorbs actinic radiation of a first wavelength and forms a sensitizer which absorbs actinic radiation of a second wavelength;  and an initiator, which, in combination with the sensitizer, initiates polymerization of the at least one monomer or oligomer when said sensitizer is exposed to actinic radiation of the second wavelength.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A polymerizable media, comprising: at least one monomer or oligomer which undergoes polymerization; a compound, which absorbs actinic radiation of a first wavelength and forms a sensitizer which absorbs actinic radiation of a second wavelength; and an initiator, which, in combination with the sensitizer, initiates polymerization of the at least one monomer or oligomer when said sensitizer is exposed to actinic radiation of the second wavelength.
+</P>
+<P>
+2. The polymerizable media of Claim 1 , further including an IR dye that absorbs IR radiation, thereby forming heat that is transferred to the compound.
+</P>
+<P>
+3. The polymerizable media of Claim 1 , further comprising a binder, wherein chemical segregation or spatial separation of the binder from the polymerized monomer or oligomer produces refractive index modulation within the polymerizable media.
+</P>
+<P>
+4. The polymerizable media of Claim 3, wherein the produced refractive index modulation forms a hologram.
+</P>
+<P>
+5. The polymerizable media of Claim 1 , wherein actinic radiation of the. first wavelength is visible light.
+</P>
+<P>
+6. The polymerizable media of Claim 1, wherein actinic radiation of the first wavelength is UV light.
+</P>
+<P>
+7. The polymerizable media of Claim 1, wherein actinic radiation of the first wavelength is near infrared radiation or infrared radiation. 8. The polymerizable media of Claim 1, wherein the compound is an aryl endoperoxide.
+</P>
+<P>
+9. The polymerizable media of Claim 8, wherein the aryl endoperoxide comprises a substituted or unsubstituted naphthyl endoperoxide, substituted or unsubstituted anthracenyl endoperoxide, substituted or unsubstituted naphthacenyl endoperoxide, or substituted or unsubstituted pentacenyl endoperoxide.
+</P>
+<P>
+10. The polymerizable media of Claim 9, wherein the compound is a 9,10- diphenylanthracene-endoperoxide.
+</P>
+<P>
+11. The polymerizable media of Claim 9, wherein the compound is a compound of the structural formula
+</P>
+<P>
+and the sensitizer is a compound having the following structural formula
+</P>
+<P>
+wherein rings A and B are each independently optionally substituted with one or more group selected from:
+</P>
+<P>
+-Si(Rs)3;
+</P>
+<P>
+Cl -C 12 alkyl group, optionally substituted with -Si(R5)3, a Cl-Cl 2 alkoxy, a halogen, an amine, or Cl -C 12 alkylamine;
+</P>
+<P>
+Cl -C 12 alkenyl group, optionally substituted with -Si(Rs)3, a Cl -C 12 alkoxy, a halogen, an amine, or C1-C6 alkylamine; C6-C14 aryl group, optionally substituted with -Si(R5)3, a Cl-C 12 alkoxy, a halogen, an amine, or C1-C6 alkylamine; a 5-14-membered heteroaryl group, optionally substituted with - Si(R5 )3, a Cl-C 12 alkoxy, a halogen, an amine, or Cl -C 12 alkylamine, and wherein each R5 is independently a Cl -C 12 alkyl, a C6-C14 aryl, or a
+</P>
+<P>
+5-14-membered heteroaryl group.
+</P>
+<P>
+12. The polymerizable media of Claim 11, wherein rings A and B are each independently optionally substituted with one or more group selected from:
+</P>
+<P>
+-Si(Rs)3, Cl -C 12 alkyl group, a Cl -C 12 alkenyl group, a C6-C14 aryl group or a 5-14-membered heteroaryl group.
+</P>
+<P>
+13. The polymerizable media of Claim 11, wherein rings A and B are each unsubstituted.
+</P>
+<P>
+14. The polymerizable media of Claim 1 , wherein the compound undergoes electrocyclic cyclization or retrocyclization upon exposure to actinic radiation of the first wavelength to form the sensitizer which absorbs actinic radiation of the second wavelength.
+</P>
+<P>
+15. The polymerizable media of Claim 14, wherein the compound undergoes a retro-Diel-Alders reaction.
+</P>
+<P>
+16. The polymerizable media of Claim 15, wherein the compound is represented by the structural formula
+</P>
+<P>
+and the sensitizer is represented by the following structural formula
+</P>
+<P>
+wherein
+</P>
+<P>
+RlO, for each occurrence, is independently an optionally substituted Cl -C 12 alkyl, an optionally substituted C2-C12 alkenyl, an optionally substituted C2-C12 alkynyl, an optionally substituted C3-C12 cycloalkyl, an optionally substituted C3-C12 cycloalkenyl, an optionally substituted C6- C14 aryl, an optionally substituted 5-14-membered heteroaryl or an optionally substituted -Si(Ro)3, wherein each R6 is independently a Cl -C 12 alkyl, a C6-C14 aryl, or a 5-14-membered heteroaryl group; and RI l, for each occurrence, is independently a C 1 -C 12 alkyl.
+</P>
+<P>
+17. The defined polymerizable media of Claim 16, wherein the optional substituents on the group RlO are each, independently, selected from Cl -C 12 alkoxy, C1-C6 amine, C1-C4 alkylamine , or a halogen.
+</P>
+<P>
+18. The polymerizable media of Claim 16, wherein each RI l is, independently, a methyl or an ethyl.
+</P>
+<P>
+19. The polymerizable media of Claim 16, wherein each Rl 1 is a methyl.
+</P>
+<P>
+20. The polymerizable media of Claim 1, wherein the compound undergoes a molecular rearrangement reaction upon exposure to actinic radiation of the first wavelength to form the sensitizer which absorbs actinic radiation of the second wavelength.
+</P>
+<P>
+21. The polymerizable media of Claim 20, wherein the compound undergoes 6[pi] electrocyclic cyclization upon exposure to actinic radiation of the first wavelength to form the sensitizer which absorbs actinic radiation of the second wavelength.
+</P>
+<P>
+22. The polymerizable media of Claim 20, wherein the compound is selected from the group consisting of spiropyrans, spiro-oxazines, fulgides, triarylmethanes, naphthopyrans, diarylethenes and diheteroarylethenes.
+</P>
+<P>
+23. The polymerizable media of Claim 22, wherein the compound is a diarylethene or a diheteroarylethene, and wherein the aryl or heteroaryl moiety is selected from the group consisting of a substituted or unsubstituted phenyl, a substituted or unsubstituted naphthyl, a substituted or unsubstituted thiophene, a substituted or unsubstituted benzathiophene, a substituted or unsubstituted pyrrole, and a substituted or unsubstituted indole.
+</P>
+<P>
+24. The polymerizable media of Claim 22, wherein the ethene moiety of the diarylethene and diheteroarylethene is optionally substituted and/or is a part of an optionally substituted cycloalkene, an optionally substituted anhydride, or optionally substituted maleimide.
+</P>
+<P>
+25 The polymerizable media of Claim 24, wherein the cycloalkene moiety is a C4-C6, optionally perfluorinated, cycloalkene.
+</P>
+<P>
+26. The polymerizable media of Claim 21 , wherein the compound is represented by the following structural formula:
+</P>
+<P>
+and the sensitizer is represented by the following structural formula
+</P>
+<P>
+wherein: ring C is a C3-C7 an optionally fluorinated or perfluorinated cycloalkenyl and ring C is an optionally fluorinated or perfluorinated C3-C7 cycloalkane; each L is independently an inert linker;
+</P>
+<P>
+Ari is an optionally substituted C6-C22 aryl or an optionally 5-14- membered heteroaryl;
+</P>
+<P>
+Ar2 is independently an Ar1, optionally substituted with an electron withdrawing group, or is an electron withdrawing group;
+</P>
+<P>
+R3 and R4 are each independently selected form a Cl -C 12 alkyl group, a Cl-C 12 alkenyl group, or a Cl -C 12 alkoxy group.
+</P>
+<P>
+27. The polymerizable media of Claim 26, wherein the compound is represented by the following structural formula
+</P>
+<P>
+and the sensitizer is represented by the following structural formula
+</P>
+<P>
+wherein: n is 0, 1 or 2; and
+</P>
+<P>
+Ri, R2, are each independently selected form a Cl -C 12 alkyl group, a Cl -C 12 alkenyl group, or a Cl-C 12 alkoxy group. 28. The polymerizable media of Claim 27, wherein the electron withdrawing group is selected from -NO2, -CF3, C1-C4 trialkylammonium, -C(O)OR&apos;, -CN, -S03R&apos;, or a halogen, wherein R&apos; is -H or a C1-C12 alkyl.
+</P>
+<P>
+29. The polymerizable media of Claim 27, wherein ring C is a perfluorocyclopentene and ring C is a perfluorocyclopentane.
+</P>
+<P>
+30. The polymerizable media of Claim 27, wherein Ari for each occasion is independently optionally substituted with a group represented by R&amp;lt;y&amp;gt;, wherein R&amp;lt;y&amp;gt; is an optionally substituted Cl -C 12 alkyl, an optionally substituted C2- C 12 alkenyl, an optionally substituted C2-C12 alkynyl, an optionally substituted C3-C12 cycloalkyl, an optionally substituted C3-C12 cycloalkenyl, an optionally substituted C6-C14 aryl, or an optionally substituted 5-14-membered heteroaryl or is an electron-donating group selected from Cl -C 12 alkoxy, C1-C4 dialkylamine, or a C6-C14 diarylamine.
+</P>
+<P>
+31. The polymerizable media of Claim 1 , wherein the compound undergoes oxidation upon exposure to actinic radiation of the first wavelength to form the sensitizer which absorbs actinic radiation of the second wavelength.
+</P>
+<P>
+32. The polymerizable media of Claim 31 , wherein the compound is a bis((trimethylsilyl)ethynyl)pentacene.
+</P>
+<P>
+33. The polymerizable media of Claim 31 , wherein the oxidation reaction is a radically initiated oxidation reaction.
+</P>
+<P>
+34. The polymerizable media of Claim 31 , wherein the compound is an optionally substituted naphthacene, an optionally substituted pentacene, an optionally substituted phenanthrene, an optionally substituted pyrene, or an optionally substituted anthracene. 35. The polymerizable media of Claim 31 , wherein the compound is represented by the following structural formula
+</P>
+<P>
+and the sensitizer is represented by the following structural formula
+</P>
+<P>
+wherein
+</P>
+<P>
+R20, for each occurrence, is independently an optionally substituted Cl -C 12 alkyl, an optionally substituted C2-C12 alkenyl, an optionally substituted C2-C12 alkynyl, an optionally substituted C3-C12 cycloalkyl, an optionally substituted C3-C12 cycloalkenyl, an optionally substituted C6-
+</P>
+<P>
+C 14 aryl, an optionally substituted 5-14-membered heteroaryl or an optionally substituted -Si(R8)3, wherein each Rg is independently a Cl -C 12 alkyl, a C6-C14 aryl, or a 5-14-membered heteroaryl group; and rings D and E are each independently optionally substituted with one or more groups selected from:
+</P>
+<P>
+Cl -C 12 alkyl group, optionally substituted with -Si(Rg)3, a Cl -C 12 alkoxy, a halogen, an amine, or C1-C6 alkylamine;
+</P>
+<P>
+Cl -C 12 alkenyl group, optionally substituted with -Si(Rg)3, a Cl -Cl 2 alkoxy, a halogen, an amine, or C1-C6 alkylamine;
+</P>
+<P>
+C6-C14 aryl group, optionally substituted with -Si(Rg)3, a Cl -C 12 alkoxy, a halogen, an amine, or C1-C6 alkylamine; a 5-14-membered heteroaryl group, optionally substituted with - Si(Rg)3, a Cl -Cl 2 alkoxy, a halogen, an amine, or C1-C6 alkylamine, and wherein each R8 is independently a Cl -C 12 alkyl, a C6-C14 aryl, or a 5-14-membered heteroaryl group.
+</P>
+<P>
+36. The polymerizable media of Claim 31 , wherein rings E and D are each unsubstituted.
+</P>
+<P>
+37. The polymerizable media of Claim 1, wherein the compound undergoes a conformational rearrangement upon exposure to actinic radiation of the first wavelength to form the sensitizer which absorbs actinic radiation of the second wavelength.
+</P>
+<P>
+38. The polymerizable media of Claim 37, wherein the compound undergoes a cis/trans izomerization of a carbon-carbon double bond upon exposure to actinic radiation of the first wavelength to form the sensitizer which absorbs actinic radiation of the second wavelength.
+</P>
+<P>
+39. The polymerizable media of Claim 38, wherein the compound is an optionally substituted diarylethene and the compound forms the sensitizer by isomerization of the double bond.
+</P>
+<P>
+40. The polymerizable media of Claim 39, wherein the compound is represented by the structural formula
+</P>
+<P>
+and the sensitizer is represented by the following structural formula
+</P>
+<P>
+wherein Ar3 and Ar4 are each independently an optionally substituted C6-C14 aryl or an optionally 5-14-membered heteroaryl;
+</P>
+<P>
+R30 and R40 are independently selected from hydrogen, optionally substituted Cl -C 12 alkyl group, or a 5-14 membered heteroaryl.
+</P>
+<P>
+41. The polymerizable media of Claim 40, wherein R30 and R40 are independently selected from a 5-14 membered heteroaryl and the heteroaryl group is selected from optionally substituted thiophenyl group, optionally substituted furanyl group, optionally substituted pyrrolyl group, and optionally substituted pyridinyl group.
+</P>
+<P>
+42. The polymerizable media of Claim 1, wherein the initiator is a photoacid generator (PAG), and wherein the PAG produces acid in combination with the sensitizer.
+</P>
+<P>
+43. The polymerizable media of Claim 42, wherein the PAG is a sulfonium, iodonium, diazonium, or phosphonium salt.
+</P>
+<P>
+44. The polymerizable media of Claim 42, wherein the at least one monomer or oligomer undergoes cationic polymerization.
+</P>
+<P>
+45. The polymerizable media of Claim 44, wherein the monomer or oligomer which is capable of undergoing polymerization contains one or more epoxide, oxetane, cyclic ether, 1 -alkenyl ether, unsaturated hydrocarbon, lactone, cyclic ester, lactam, cyclic carbonate, cyclic acetal, aldehyde, cyclic sulfide, cyclosiloxane, cyclotriphosphazene, or polyol functional groups, or a combination thereof.
+</P>
+<P>
+46. The polymerizable media of Claim 45, wherein the monomer is an epoxide monomer that comprises one or more cyclohexene oxide groups.
+</P>
+<P>
+47. The polymerizable media of Claim 46, wherein the epoxide monomer is a siloxane, siloxysilane comprising two or more cyclohexene oxide groups, or a polyfunctional siloxane comprising three or more cyclohexene oxide groups.
+</P>
+<P>
+48. The polymerizable media of Claim 1 , wherein the initiator is a free radical generator, and wherein the free radical generator produces free radicals in combination with the sensitizer.
+</P>
+<P>
+49. The polymerizable media of Claim 48, wherein the at least one monomer or oligomer undergoes free radical polymerization.
+</P>
+<P>
+50. The polymerizable media of Claim 1, further comprising a second monomer or oligomer which is capable of undergoing polymerization.
+</P>
+<P>
+51. The polymerizable media of Claim 1 , further including colloidal particles suspended in the HRM, said particles generating heat when exposed to actinic radiation.
+</P>
+<P>
+52. The polymerizable media of Claim 1 , further including colloidal particles suspended in the HRM, and wherein the compound, which absorbs actinic radiation of a first wavelength, is adsorbed to said colloidal particles.
+</P>
+<P>
+53. A method of polymerizing a polymerizable media, comprising: in a polymerizable media that includes: at least one monomer or oligomer which undergoes polymerization to form a polymer; a compound, which absorbs actinic radiation of a first wavelength and forms a sensitizer which absorbs actinic radiation of a second wavelength; and an initiator, which, in combination with the sensitizer, initiates polymerization of the at least one monomer or oligomer when said sensitizer is exposed to actinic radiation of the second wavelength, (a) exposing a first location in the polymerizable media to actinic radiation of the first wavelength, thereby forming a sensitizer from the compound; and
+</P>
+<P>
+(b) exposing the first location in the polymerizable media to actinic radiation of the second wavelength, thereby initiating polymerization of the at least one monomer or oligomer.
+</P>
+<P>
+54. The method of Claim 53, wherein steps (a) and (b) are repeated, and wherein, for each repetition of step (a), step (b) is repeated one or more times.
+</P>
+<P>
+55. The method of Claim 53, wherein steps (a) and (b) are performed at a second location in the polymerizable media.
+</P>
+<P>
+56. The method of Claim 55, wherein the second location is abutting or overlapping the first location.
+</P>
+<P>
+57. The method of Claim 55, wherein is the second location is neither abutting nor overlapping the first location.
+</P>
+<P>
+58. The method of Claim 53, wherein steps (a) and (b) occur substantially at the same time.
+</P>
+<P>
+59. A method of recording a hologram, comprising: in a holographic recording media (HRM) that includes: at least one monomer or oligomer which undergoes polymerization; a binder; a compound, which absorbs actinic of a first wavelength and forms a sensitizer which absorbs actinic radiation of a second wavelength; and an initiator, which, in combination with the sensitizer initiates polymerization of the at least one monomer or oligomer, when said sensitizer is exposed to actinic radiation of the second wavelength,
+</P>
+<P>
+(a) exposing a first storage location in the holographic recording media to a beam of actinic radiation of the first wavelength, thereby forming a sensitizer from the compound, said sensitizer absorbing actinic radiation of a second wavelength; and
+</P>
+<P>
+(b) directing a reference beam of coherent light of the second wavelength and an object beam of coherent light of the second wavelength at the first storage location, thereby forming an interference pattern at the first storage location between the object beam and the reference beam, initiating polymerization of the at least one monomer or oligomer and thereby recording the interference pattern as a hologram within said first storage location.
+</P>
+<P>
+60. The method of Claim 59, wherein step (b) is repeated one or more times at the first storage location thereby recording multiplexed holograms in the first storage location.
+</P>
+<P>
+61. The method of Claim 59, wherein steps (a) and (b) are repeated at the first storage location, and wherein, for each repetition of step (a), step (b) is repeated one or more times thereby recording multiplexed holograms in the first storage location.
+</P>
+<P>
+62. The method of Claim 59, wherein steps (a) and (b) are performed at a second storage location in the holographic recording media.
+</P>
+<P>
+63. The method of Claim 62, wherein step (b) is repeated one or more times in the second storage location thereby recording multiplexed holograms in the second storage location. 64. The method of Claim 62, wherein the second storage location is abutting or overlapping the first storage location.
+</P>
+<P>
+65. The method of Claim 62, wherein the second storage location is neither abutting nor overlapping the first storage location.
+</P>
+<P>
+66. The method of Claim 59, wherein steps (a) and (b) occur substantially at the same time.
+</P>
+<P>
+67. The method of Claim 60, wherein the multiplexed holograms are recorded in the first storage location using two or more multiplexing methods.
+</P>
+<P>
+68. The method of Claim 67, wherein the multiplexed holograms recorded using two or more multiplexing methods in the first storage location, are multiplexed with at least one multiplexing method selected from planar angle multiplexing, shift-multiplexing including co-linear shift multiplexing, phase-multiplexing, phase encoded multiplexing, azimuthal multiplexing, and out-of-plane tilt-multiplexing.
+</P>
+<P>
+69. The method of Claim 59, wherein to the beam of actinic radiation of the first wavelength, the reference beam or the object beam are produced by a source of actinic radiation that is a continuous emitting source or a pulsed source.
+</P>
+<P>
+70. The method of Claim 69, wherein the source of actinic radiation is a diode laser, and further, wherein the diode laser optionally comprises an external cavity.
+</P>
+<P>
+71. The method of Claim 59, wherein the beam of actinic radiation of the first wavelength, the reference beam or the object beam each independently has a Gaussian intensity distribution at the first storage location.
+</P>
+<P>
+72. The method of Claim 59, wherein the beam of actinic radiation of the first wavelength, the reference beam or the object beam each independently has a truncated Gaussian intensity distribution at the first location in the HRM, wherein the minimum diameter of the truncated Gaussian intensity distribution is less than or equal to the diameter of said beam, di/e2, measured at the 1/e&amp;lt;2&amp;gt; intensity point.
+</P>
+<P>
+73. The method of Claim 59, wherein exposing the first location to the beam of actinic radiation of the first wavelength or the reference beam or the object beam exposes a volume element of the HRM having a cross-sectional area that changes as a function of depth through the HRM.
+</P>
+<P>
+74. The method of Claim 59, wherein of the beam of actinic radiation of the first wavelength, the reference beam, or the object beam is each independently generated by a tunable source.
+</P>
+<P>
+75. The method of Claim 59, wherein actinic radiation of the first wavelength is visible light.
+</P>
+<P>
+76. The method of Claim 59, wherein actinic radiation of the first wavelength is UV light.
+</P>
+<P>
+77. The method of Claim 59, wherein actinic radiation of the first wavelength is near infrared or infrared radiation.
+</P>
+<P>
+78. The method of Claim 59, wherein the hologram is a binary data page hologram.
+</P>
+<P>
+79. The method of Claim 78, wherein the data page hologram is recorded with an object beam that is amplitude modulated or phase modulated.
+</P>
+<P>
+80. The method of Claim 59, wherein the hologram is a micrograting recorded in a portion of a volume of the first storage location in the holographic recording media (HRM). 81. The method of Claim 80, wherein one or more microgratings are recorded in the portion of the volume of the first storage location by repeating step (b) at the first storage location, thereby recording multiplexed microgratings that overlap at least in part in the said portion of the volume of the first storage location.
+</P>
+<P>
+82. The method claim of 81 , wherein the multiplexed microgratings are recorded with two or more different wavelengths or two or more different phases.
+</P>
+<P>
+83. A method of recording a micrograting hologram, comprising: in a holographic recording media (HRM) that includes: at least one monomer or oligomer which undergoes polymerization; a binder; a compound, which absorbs actinic of a first wavelength and forms a sensitizer which absorbs actinic radiation of a second wavelength; and an initiator, which, in combination with the sensitizer initiates polymerization of the at least one monomer or oligomer, when said sensitizer is exposed to actinic radiation of the second wavelength,
+</P>
+<P>
+(a) exposing a first storage location in the holographic recording media to actinic radiation of the first wavelength, thereby forming a sensitizer from the compound, said sensitizer absorbing electromagnetic radiation of a second wavelength, said first storage location being located in a portion of the depth of the HRM; and
+</P>
+<P>
+(b) directing a reference beam of the second wavelength and an object beam of the second wavelength at the first storage location, thereby forming an interference pattern at the first storage location between the object beam and the reference beam, and initiating polymerization of the at least one monomer or oligomer in the first storage location and thereby recording the interference pattern as a hologram within said first storage location. 84. A method of recording a hologram, in a holographic recording media (HRM) that includes: at least one monomer or oligomer which undergoes polymerization; a binder; a compound, which absorbs actinic of a first wavelength and forms a sensitizer which absorbs actinic radiation of a second wavelength; and an initiator, which, in combination with the sensitizer initiates polymerization of the at least one monomer or oligomer, when said sensitizer is exposed to actinic radiation of the second wavelength, (a) exposing a first storage location in the holographic recording media (HRM) to a beam of actinic radiation of the first wavelength, thereby forming a sensitizer from the compound, said sensitizer absorbing electromagnetic radiation of a second wavelength; and
+</P>
+<P>
+(b) directing a reference beam of coherent light of the second wavelength and an object beam of coherent light of the second wavelength at the first storage location in the holographic recording media (HRM), thereby forming an interference pattern at the first storage location between the object beam and the reference beam, initiating polymerization of the at least one monomer or oligomer and recording the interference pattern therefrom as a hologram within said first storage location, wherein the beam of actinic radiation of the first wavelength, the reference beam, or the object beam is each independently generated by a tunable source.
+</P>
+<P>
+85. The polymerizable media of Claim 49, wherein the produced free radicals initiates free radical polymerization reactions.
+</P>
+<P>
+86. The polymerizable media of Claim 85, wherein the sensitizer is diphenylanthracene.
+</P>
+<P>
+87. The method of Claim 59, wherein the beam of actinic radiation of the first wavelength is a collimated beam. 88. The polymerizable media of Claim 1, wherein the formed sensitizer is a linear absorbing dye.
+</P>
+<P>
+89. The polymerizable media of Claim 1, wherein the formed sensitizer is a non- linear-absorbing dye.
+</P>
+<P>
+90. The polymerizable media of Claim 1 , wherein the amount of formed sensitizer is controlled by the intensity of the actinic radiation of a first wavelength or by the duration of the exposure of the compound to the actinic radiation of a first wavelength.
+</P>
+<P>
+91. The polymerizable media of Claim 1 , wherein the actinic radiation of a first wavelength is used as a source of light for generating a servo signal from the media.
+</P>
+<P>
+92. The method of Claim 38, further including a step (c) of reading the recorded hologram after recording the hologram at the first storage location, wherein the reading step confirms the recording of the hologram at the first storage location.
+</P>
+<P>
+93. The method of Claim 49, further including a step (c) of reading the recorded micrograting hologram after recording the micrograting hologram at the first storage location, wherein the reading step confirms the recording of the micrograting hologram at the first storage location.
+</P>
+<P>
+94. The method of Claim 38, wherein steps (a) and (b) are performed at a second storage location in the holographic recording media before steps (a) and (b) or step (b) are repeated at the first storage location in the holographic recording media for recording multiplexed holograms at the first storage location. 95. The method of Claim 94, wherein steps (a) and (b) are repeated at the first storage location for recording multiplexed holograms at the first storage location, after performing steps (a) and (b) at the second storage location in the holographic recording media.
+</P>
+<P>
+96. An optical article, comprising: two or more substartes; and a holographic recording medium (HRM) therebetween, said HRM including: at least one monomer or oligomer which undergoes polymerization; a compound, which absorbs actinic radiation of a first wavelength and forms a sensitizer which absorbs actinic radiation of a second wavelength; and an initiator, which, in combination with the sensitizer, initiates polymerization of the at least one monomer or oligomer when said sensitizer is exposed to actinic radiation of the second wavelength.
+</P>
+</Claims>
+<Also_published_as>
+WO2009054981A1;WO2009054981A9;US2009202919A1
+</Also_published_as>
+</BiblioData>

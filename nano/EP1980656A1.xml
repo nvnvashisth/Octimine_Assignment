@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PROCESS FOR PRODUCING FINE CARBON FIBER AGGLOMERATE
+</Title>
+<PublicationNumber>
+EP1980656A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TSUKADA TAKAYUKI [JP]
+</Name>
+<Name>
+SHAN JIAYI [JP]
+</Name>
+<Name>
+TSUKADA, TAKAYUKI
+</Name>
+<Name>
+SHAN, JIAYI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MITSUI BUSSAN [JP]
+</Name>
+<Name>
+MITSUI &amp; CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1980656
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070707621
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP51390
+</PriorityNumber>
+<PriorityDate>
+2007-01-29
+</PriorityDate>
+<PriorityNumber>
+JP20060021873
+</PriorityNumber>
+<PriorityDate>
+2006-01-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+<Class>
+C09D201/00
+</Class>
+<Class>
+D01F9/127
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+D01F9/127F
+</Class>
+</NCL>
+<Abstract>
+Disclosed is a method for manufacturing fine carbon fibers&apos; aggregates having a median diameter of not more than 30 [mu]m, which comprises a pulverization step where a composition which includes (a) fine carbon fibers&apos; aggregates having a median diameter of not less than 30 [mu]m and (b) a dispersion medium undergoes acceleration in order to form a turbulent flow and/or collision flow, thereby shearing force and/or impacting force exert on the (a) component included in the composition and thus the (a) component is pulverized, wherein the value of [I D /I G of fine carbon fibers&apos; aggregates after pulverization of the (a) component] / [I D /I G of fine carbon fibers&apos; aggregate before pulverization of the (a) component] (wherein the I D /I G is calculated from measurement values determined by Raman spectroscopic analysis using 514 nm light of the argon laser);  is in the range of 0.7 to 1.5. According to this method, it is possible to obtain fine carbon fibers&apos; aggregates which possess a good electrical conductivity and repress agglomeration.
+</Abstract>
+<Claims>
+<P>
+1. Method for manufacturing fine carbon fibers&apos; aggregates having a circle-equivalent median diameter (hereinafter, it is expressed simply as &quot;median diameter&quot;.) of not more than 30 m, which comprises a pulverization step where a composition which comprises (a) fine carbon fibers&apos; aggregates having a median diameter of not less than 30 m and (b) a dispersion medium (liquid at 25 deg. C) for the aggregates undergoes acceleration in order to forma turbulent flow and/or collision flow, thereby shearing force and/or impacting force exert on the (a) component included in the composition and thus the (a) component is pulverized, wherein the value of [ID/IG of fine carbon fibers&apos; aggregates after pulverization of the (a) component] / [ID/IG of fine carbon fibers&apos; aggregates before pulverization of the (a) component] (wherein the ID/IG is calculated from measurement values determined by Raman spectroscopic analysis using 514 nm light of the argon laser) is in the range of 0.7 to 1.5.
+</P>
+<P>
+2. The method for manufacturing fine carbon fibers&apos; aggregates according to Claim 1, wherein the method for exerting the shearing force and/or impacting force is a method which comprises penetrating the composition which comprises the (a) component and the (b) component through a gap between a rotating rotor and a fixed stator, and thereby exerting the shearing force and/or impacting force on the composition which comprises the (a) component and the (b) component.
+</P>
+<P>
+3. The method for manufacturing fine carbon fibers&apos; aggregates according to Claim 1, wherein the method for exerting the shearing force and/or impacting force is a method where flows, both of which are of the composition which comprises the (a) component and the (b) component, are made to collide with each other oppositely.
+</P>
+<P>
+4. The method for manufacturing fine carbon fibers&apos; aggregates according to one of Claims 1 - 3, wherein the (b) component is an alcohol having a carbon number of 1 - 5.
+</P>
+<P>
+5. The method for manufacturing fine carbon fibers&apos; aggregates according to one of Claims 1 - 4, wherein the (a) component is aggregates of carbon fibrous structures, each of carbon fibrous structures comprising a three dimensional network of carbon fibers each having an outside diameter of 15 - 100 nm, wherein the carbon fibrous structure further comprises a granular part with which the carbon fibers are tied together in the state that the concerned carbon fibers are externally elongated therefrom, and wherein the granular part is produced in a growth process of the carbon fibers.
+</P>
+<P>
+6. The method for manufacturing fine carbon fibers&apos; aggregates according to one of Claims 1 - 5, wherein the (a) component has a bulk density of 0.0001 - 0.05g/cm&amp;lt;3&amp;gt; .
+</P>
+<P>
+7. The method for manufacturing fine carbon fibers&apos; aggregates according to one of Claims 1 - 6, wherein the (a) component has ID/IG ratio determined by Raman spectroscopy of not more than 0.2.
+</P>
+<P>
+8. The method for manufacturing fine carbon fibers&apos; aggregates according to one of Claims 1 - 7, wherein the (a) component has a oxidation temperature in air of not less than 750 deg. C.
+</P>
+<P>
+9. The method for manufacturing fine carbon fibers&apos; aggregates according to one of Claims 1 - 8, wherein the diameter of the granular part at a bonding site of carbon fibers in the carbon fibrous structure which constitutes the (a) component is larger than the outside diameter of the carbon fibers.
+</P>
+<P>
+10. The method for manufacturing fine carbon fibers&apos; aggregates according to one of Claims 1- 9, wherein the (a) component is produced using as carbon sources at least two carbon compounds which have mutually different decomposition temperatures.
+</P>
+<P>
+11. The method for manufacturing fine carbon fibers&apos; aggregates according to one of Claims 1 - 10, wherein the (a) component comprises fine carbon fibers&apos; aggregates which are obtained by heating a mixture gas of catalyst and hydrocarbon at a temperature in the range of 800 deg. C-1300 deg. C, and which are in the state before undergoing annealing at a temperature in the range of 2400 deg. C - 3000 deg. C, and the aggregates having a median diameter of not less tan 30 m.
+</P>
+<P>
+12. The method for manufacturing fine carbon fibers&apos; aggregates according to one of Claims 1 - 10, wherein the (a) component comprises fine carbon fibers&apos; aggregates which are obtained by heating a mixture gas of catalyst and hydrocarbon at a temperature in the range of 800 deg. C-1300 deg. C, and the aggregates further undergoing annealing at a temperature in the range of 2400 deg. C- 3000 deg. C, and the aggregates having a median diameter of not less tan 30 m.
+</P>
+<P>
+13. The method for manufacturing fine carbon fibers&apos; aggregates according to one of Claims 1 - 10, wherein the (a) component comprises fine carbon fibers&apos; aggregates which are obtained by heating a mixture gas of catalyst and hydrocarbon at a temperature in the range of 800 deg. C - 1300 deg. C in order to synthesis fine carbon fibers&apos; aggregates, annealing the synthesized fine carbon fibers&apos; aggregates at a temperature in the range of 2400 deg. C - 3000 deg. C, and then subjecting the annealed fine carbon fibers&apos; aggregates to air milling, and the aggregates having a median diameter of not less tan 30 m.
+</P>
+<P>
+14. The method for manufacturing fine carbon fibers&apos; aggregates according to one of Claims 1 - 13, wherein the (a) component further comprises a dispersing agent.
+</P>
+<P>
+15. Coating material which comprises fine carbon fibers&apos; aggregates obtained by the manufacturing method as claimed in one of Claims 1-14, and an organic binder.
+</P>
+</Claims>
+<Also_published_as>
+EP1980656A4;US2009023853A1;WO2007088810A1;JP2007204857A
+</Also_published_as>
+</BiblioData>

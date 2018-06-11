@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MODIFIED SELF- ASSEMBLING PEPTIDES
+</Title>
+<PublicationNumber>
+EP2066697A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HORII AKIHIRO [US]
+</Name>
+<Name>
+ZHANG SHUGUANG [US]
+</Name>
+<Name>
+WANG XIUMEI [US]
+</Name>
+<Name>
+GELAIN FABRIZIO [IT]
+</Name>
+<Name>
+HORII, AKIHIRO
+</Name>
+<Name>
+ZHANG, SHUGUANG
+</Name>
+<Name>
+WANG, XIUMEI
+</Name>
+<Name>
+GELAIN, FABRIZIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MASSACHUSETTS INST TECHNOLOGY [US]
+</Name>
+<Name>
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2066697
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070861376
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US20754
+</PriorityNumber>
+<PriorityDate>
+2007-09-26
+</PriorityDate>
+<PriorityNumber>
+US20060847303P
+</PriorityNumber>
+<PriorityDate>
+2006-09-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61L15/00
+</Class>
+<Class>
+C07K14/00
+</Class>
+<Class>
+C07K17/02
+</Class>
+<Class>
+C07K19/00
+</Class>
+<Class>
+C12N11/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K47/48R6
+</Class>
+<Class>
+A61L27/22R
+</Class>
+<Class>
+A61L27/54
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C07K14/00B
+</Class>
+<Class>
+C07K14/78
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a self-assembling peptide comprising: (a) a first amino acid domain that mediates self-assembly, wherein the domain comprises alternating hydrophobic and hydrophilic amino acids that are complementary and structurally compatible and self-assemble into a macroscopic structure when present in unmodified form;  and (b) a second amino acid domain that does not mediate self- assembly in isolated form, wherein the second amino acid domain comprises at least one minimal biologically active sequence. Such self-assembling peptides are described herein as &quot;modified self-assembling peptides.&quot; The present invention also provides pharmaceutical compositions, kits and maxtrices comprising a modified self-assembling peptide, and methods of using and making such compositions, kits and matrices.
+</Abstract>
+<Claims>
+<P>
+CLAIMS We claim:
+</P>
+<P>
+1. A self-assembling peptide comprising:
+</P>
+<P>
+(a) a first amino acid domain that mediates self-assembly, wherein the domain comprises alternating hydrophobic and hydrophilic amino acids that are complementary and structurally compatible and self-assemble into a macroscopic structure when present in unmodified form; and
+</P>
+<P>
+(b) a second amino acid domain that does not mediate self-assembly in isolated form, wherein the second amino acid domain comprises at least one minimal biologically active sequence.
+</P>
+<P>
+2. The peptide according to claim 1 , wherein the second amino acid domain comprises at least two minimal biologically active sequences.
+</P>
+<P>
+3. The peptide according to claim 1 , wherein the minimal biologically active sequence is selected from the group consisting of:
+</P>
+<P>
+-PRGDSGYRGD-; -DGRGDSVAYG-; -ALKRQGRTLYGF-;
+</P>
+<P>
+-PFSSTKT-; -FLGFPT-; -KLTWQELYQLKYKGI-;
+</P>
+<P>
+-SKPPGTSS-; -STFTKSP-; -IKVAV-;
+</P>
+<P>
+-FHRRIKA-; -IKLLI-; -RGD-;
+</P>
+<P>
+-REDV-; and -LKKTETQ-.
+</P>
+<P>
+4. The peptide according to claim 1 , wherein the at least one minimal biologically active squence comprises -RGD-.
+</P>
+<P>
+5. The peptide according to claim 1 , wherein the second amino acid domain is biologically active in isolated form.
+</P>
+<P>
+6. The peptide according claim 1 , wherein the second amino acid domain is covalently or non-covalently attached to the C-terminus of the first amino acid domain.
+</P>
+<P>
+7. The peptide according to claim 6, wherein second amino acid domain is covalently attached to the C-terminus of the first amino acid domain by either a covalent peptide bond or by an amino acid linker group.
+</P>
+<P>
+8. The peptide according to claim 6, wherein the an amino acid linker group comprises at least one glycine.
+</P>
+<P>
+9. The peptide according to claim 1 , wherein the distance between the last amino acid of the first amino acid domain and the first amino acid of the minimal biological active sequence in the second amino acid domain is at least 2-mer (6.9 Angstrom).
+</P>
+<P>
+10. The peptide according to claim 1 , wherein the distance between the last amino acid of the first amino acid domain and the first amino acid of the minimal biological active sequence in the second amino acid domain is at least 4-mer (13.8 Angstrom).
+</P>
+<P>
+1 1. The peptide according to claim 1 , wherein the first amino acid domain comprises at least two instances of any one of the following amino acid sequences: -RADA-; -IEIK-; or -FKFQ-.
+</P>
+<P>
+12. The peptide according to claim 1 , wherein the first amino acid domain comprises any one of the following amino acid sequences:
+</P>
+<P>
+SEQ ID NO: 21 n-RADARADARADARADA-c;
+</P>
+<P>
+SEQ ID NO: 22 n- RADARGDARADARGDA-c;
+</P>
+<P>
+SEQ ID NO: 23 n-RADARADA-c;
+</P>
+<P>
+SEQ ID NO: 24 n- RARADADARARADADA-c;
+</P>
+<P>
+SEQ ID NO: 25 n-RARADADA-c;
+</P>
+<P>
+SEQ ID NO: 26 n-AEAKAEAKAEAKAEAK-c;
+</P>
+<P>
+SEQ ID NO:27 n-AEAKAEAK-c;
+</P>
+<P>
+SEQ ID NO:28 n-RAEARAEARAEARAEA-c;
+</P>
+<P>
+SEQ ID NO: 29 n-RAEARAEA-c; SEQ ID NO: 30 n-KADAKADAKADAKADA-c;
+</P>
+<P>
+SEQ ID NO: 31 n-KADAKADA-c;
+</P>
+<P>
+SEQ ID NO: 32 n-AEAEAHAHAEAEAHAH-c;
+</P>
+<P>
+SEQ ID NO: 33 n-AEAEAHAH-c;
+</P>
+<P>
+SEQ ID NO: 34 n-FEFEFKFKFEFEFKFK-c;
+</P>
+<P>
+SEQ ID NO: 35 n-FEFKFEFK-c;
+</P>
+<P>
+SEQ ID NO: 36 n-LELELKLKLELELKLK-c;
+</P>
+<P>
+SEQ ID NO: 37 n-LELELKLK-c;
+</P>
+<P>
+SEQ ID NO: 38 n-AEAEAKAKAEAEAKAK-c;
+</P>
+<P>
+SEQ ID NO: 39 n-AEAEAEAEAKAK-c;
+</P>
+<P>
+SEQ ID NO: 40 n-AEAEAKAK-c;
+</P>
+<P>
+SEQ ID NO: 41 n-KAKAKAKAEAEAEAEA-c;
+</P>
+<P>
+SEQ ID NO: 42 n-AEAEAEAEAKAKAKAK-c;
+</P>
+<P>
+SEQ ID NO: 43 n-RARARARADADADADA-c;
+</P>
+<P>
+SEQ ID NO: 44 n-ADADADADARARARAR-c;
+</P>
+<P>
+SEQ ID NO: 45 n-DADADADARARARARA-c;
+</P>
+<P>
+SEQ ID NO: 46 n-(ADADADADARARARAR)-c;
+</P>
+<P>
+SEQ ID NO: 47 n-HEHEHKHKHEHEHKHK-c;
+</P>
+<P>
+SEQ ID NO: 48 n-HEHEHKHK-c;
+</P>
+<P>
+SEQ ID NO: 49 n-VEVEVEVEVEVEVEVEVEVE- c;
+</P>
+<P>
+SEQ ID NO: 50 n-RFRFRFRFRFRFRFRFRFRF-c;
+</P>
+<P>
+SEQ ID NO: 51 n-FKFQFKFQFKFQ-c;
+</P>
+<P>
+SEQ ID NO: 52 n-IEIKIEIK-c; or
+</P>
+<P>
+SEQ ID NO: 53 n-KLDLKLDLKLDL-c.
+</P>
+<P>
+13. The peptide according to claim 12, wherein the first amino acid domain comprises any one of the following amino acid sequences:
+</P>
+<P>
+SEQ ID NO: 21 -RAD ARAD ARADARAD A-;
+</P>
+<P>
+SEQ ID NO: 51 -FKFQFKFQFKFQ-;
+</P>
+<P>
+SEQ ID NO: 52 -IEIKIEIK-; or
+</P>
+<P>
+SEQ ID NO: 53 -KLDLKLDLKLDL-.
+</P>
+<P>
+14. The peptide according to claim 1 , wherein the second amino acid domain is derived from a heparin binding domain of a cell attachment protein.
+</P>
+<P>
+15. The peptide according to claim 14, wherein the cell attachment protein is selected from the group consisting of f[iota]bronectin, vitronectin, laminin, collagen, VEGF, FGFs, PDGF, HGF, TGF-[beta] and BMP.
+</P>
+<P>
+16. The peptide according to claim 14, wherein the heparin binding domain is of the formulae (I) or (II):
+</P>
+<P>
+-XBBXBX- or -XBBBXXBX-
+</P>
+<P>
+(I) (H)
+</P>
+<P>
+wherein X represents a hydrophobic amino acid selected from the group consisting of F, I, L, P, M, W, Y, V, A, C and Q; and B represents a positively charged amino acid selected from the group consisting of R, H and K.
+</P>
+<P>
+17. The peptide according to claim 1 , wherein the self-assembling peptide is selected from the group consisting of:
+</P>
+<P>
+SEQ ID NO.1 AC(RADA)4GGPFSSTKT-CONH2;
+</P>
+<P>
+SEQ ID NO.2 Ac(RADA)4GGFLGFPT-CONH2;
+</P>
+<P>
+SEQ ID NO.3 AC(RADA)4GGALKRQGRTLYGF-CONH2;
+</P>
+<P>
+SEQ ID N0.4 AC(RADA)4GPRGDSGYRGDS-CONH2;
+</P>
+<P>
+SEQ ID NO.5 AC(RADA)4GGDGRGDSVAYG-CONH2;
+</P>
+<P>
+SEQ ID NO.6 Ac(RADA)4GGFHRRIKA-CONH2;
+</P>
+<P>
+SEQ ID NO.7 AC(RADA)4GPRGDSGYRGDSG-CONH2;
+</P>
+<P>
+SEQ ID NO.8 Ac(RADA)4GGRGDSCONH2;
+</P>
+<P>
+SEQ ID NO.9 Ac(RADA)4 GGGGRGDSCONH2;
+</P>
+<P>
+SEQ ID NO.10 Ac(RADA)4GGGGREDV-CONH2;
+</P>
+<P>
+SEQ ID NO.1 1 Ac(RADA)4GGGGKLTWQELYQLKYKGI- CONH2; SEQ ID NO.12 Ac(RAD A)4GGSKPPGTSS-CONH2;
+</P>
+<P>
+SEQ ID NO.13 ACIEIKIEIKIGGPRGSYRGDS-CONH2;
+</P>
+<P>
+SEQ ID NO.14 ACIEIKIEIKIGGPFSSTKT-CONH2;
+</P>
+<P>
+SEQ ID NO.15 ACIEIKIEIKIGGSKPPGTS-CONH2;
+</P>
+<P>
+SEQ ID NO.16 AcFKFQFKFQFKFQGPRGDSGYRGDS-
+</P>
+<P>
+CONH2;
+</P>
+<P>
+SEQ ID NO.17 ACFKFQFKFQFKFQGGFHRRIKA-CONH2;
+</P>
+<P>
+SEQ ID NO.18 Ac(RAD A)4GGSTFTKSP-CONH2;
+</P>
+<P>
+SEQ ID NO.19 Ac(RADA)4GGSIKV AVS-CONH2; and
+</P>
+<P>
+SEQ ID NO.20 Ac(RADA)4GGSEIKLLIS-CONH2.
+</P>
+<P>
+18. The peptide according to claim 1 , wherein the self-assembling peptide has a net positive or negative charge in an aqueous solution of pH of between about 5-9, inclusive.
+</P>
+<P>
+19. The peptide according to claim 18, wherein the first amino acid domain is near-neutral, or has a positive or negative charge.
+</P>
+<P>
+20. The peptide according to claim 18, wherein the second amino acid domain has a positive or negative charge.
+</P>
+<P>
+21. The peptide according to claim 19, wherein the charge of the first amino acid domain is between -1 to 1 when the pH of the solution is between about 6-8, inclusive.
+</P>
+<P>
+22. The peptide according to claim 20, wherein the charge of the second amino acid domain is less than or equal to -2 when the pH of the solution is between about 6-8, inclusive.
+</P>
+<P>
+23. The peptide according to claim 18, wherein the first amino acid domain has a pi of between 5 to 9, inclusive.
+</P>
+<P>
+24. The peptide according to claim 18, wherein the self-assembling peptide peptide has a pi of greater than or equal to 8.
+</P>
+<P>
+25. The peptide according to claim 18, wherein the net charge of the self- assembling peptide is greater than or equal to about 2 when the pH of the solution is between about 6-8, inclusive.
+</P>
+<P>
+26. The self-assembling peptide of claim 1 wherein the second amino acid domain does not self-assemble when present in isolated form but permits assembly of the first amino acid domain such that the peptide assembles to form a macroscopic structure.
+</P>
+<P>
+27. The self-assembling peptide according to claim 26, wherein the macroscopic structure comprises nanofibers and/or beta-sheets.
+</P>
+<P>
+28. The self-assembling peptide of claim 1 , wherein the peptide self- assembles when present as the sole peptide in an aqueous solution.
+</P>
+<P>
+29. The self-assembling peptide of claim 1 , wherein the peptide does not self- assemble when present as the only peptide in an aqueous solution but does self- assemble when present in an aqueous solution with an unmodified self-assembling peptide.
+</P>
+<P>
+30. The self-assembling peptide of claim 1 , further comprising a third amino acid domain, wherein the third amino acid domain comprises either: (a) a first amino acid domain that mediates self-assembly, wherein the domain comprises alternating hydrophobic and hydrophilic amino acids that are complementary and structurally compatible and self-assemble into a macroscopic structure, or (b) a second amino acid domain that does not self-assemble in isolated form but permits assembly of the first amino acid domain such that the peptide assembles to form a macroscopic structure.
+</P>
+<P>
+31. The self-assembling peptide of claim 30, wherein the self-assembling peptide comprises a linear peptide chain in which an amino acid domain that comprises a biologically active peptide motif or a target site for an interaction with a biomolecule is located between two amino acid domains that mediate self-assembly, wherein the domains that mediate self- assembly comprise alternating hydrophobic and hydrophilic amino acids that are complementary and structurally compatible and self-assemble into a macroscopic structure.
+</P>
+<P>
+32. The self-assembling peptide according to claim 31 , wherein the macroscopic structure comprises nanof[iota]bers and/or beta-sheets.
+</P>
+<P>
+33. A solution comprising the self-assembling peptide of claim 1.
+</P>
+<P>
+34. A pharmaceutical composition comprising the self-assembling peptide of claim 1.
+</P>
+<P>
+35. The pharmaceutical composition according to claim 34, wherein the pharmaceutical composition is substantially free of a gellation agent and self-assembles within the body to form a macroscopic structure.
+</P>
+<P>
+36. The pharmaceutical composition according to claim 35, wherein the macroscopic structure comprises nanof[iota]bers and/or beta-sheets.
+</P>
+<P>
+37. The pharmaceutical composition according to claim 34, wherein the composition further comprises an additional self-assembling peptide comprising alternating hydrophobic and hydrophilic amino acids that are complementary and structurally compatible and self-assemble into a beta-sheet, and wherein the additional self-assembling peptide does not contain an amino acid domain that reduces compatibility of the peptide with cell attachment or cell viability.
+</P>
+<P>
+38. The pharmaceutical composition according to claim 37, wherein the self- assembling peptide of claim 1 and the additional self-assembling peptide are present in a ratio of approximately 1 : 1.
+</P>
+<P>
+39. The pharmaceutical composition according to claim 37, wherein the self- assembling peptide of claim 1 and the additional self-assembling peptide are present in a ratio of approximately 5: 1.
+</P>
+<P>
+40. The pharmaceutical composition according to claim 37, wherein the self- assembling peptide of claim 1 and the additional self-assembling peptide are present in a ratio of approximately 9: 1.
+</P>
+<P>
+41. The pharmaceutical composition according to claim 37, wherein the self- assembling peptide of claim 1 and the additional self-assembling peptide are present in a ratio of approximately 99: 1.
+</P>
+<P>
+42. A matrix comprising the self assembling peptide of claim 1.
+</P>
+<P>
+43. The matrix according to claim 42, wherein the matrix is a gel or a hydrogel.
+</P>
+<P>
+44. The matrix according to claim 42, wherein the matrix further comprises an additional biological molecule.
+</P>
+<P>
+45. The matrix according to claim 44, wherein the additional biological molecule has a net positive or negative charge.
+</P>
+<P>
+46. The matrix according to claim 44, wherein the additional biological molecule is a protein or peptide.
+</P>
+<P>
+47. The matrix according to claim 46, wherein the protein or peptide is a growth factor or a self-assembling peptide.
+</P>
+<P>
+48. The matrix according to claim 47, wherein the self-assembling peptide is selected from the group consisting of:
+</P>
+<P>
+SEQ ID NO: 21 n-RADARADARADARADA-c;
+</P>
+<P>
+SEQ ID NO: 22 n- RADARGDARADARGDA-c;
+</P>
+<P>
+SEQ ID NO: 23 n-RADARADA-c;
+</P>
+<P>
+SEQ ID NO: 24 n- RARADADARARADADA-c;
+</P>
+<P>
+SEQ ID NO: 25 n-RARADADA-c;
+</P>
+<P>
+SEQ ID NO: 26 n-AEAKAEAKAEAKAEAK-c;
+</P>
+<P>
+SEQ ID NO:27 n-AEAKAEAK-c;
+</P>
+<P>
+SEQ ID NO:28 n-RAE ARAE AR AE ARAE A-c;
+</P>
+<P>
+SEQ ID NO: 29 n-RAEARAEA-c;
+</P>
+<P>
+SEQ ID NO: 30 n-KAD AK AD AK AD AK AD A-c;
+</P>
+<P>
+SEQ ID NO: 31 n-KAD AKAD A-c;
+</P>
+<P>
+SEQ ID NO: 32 n-AEAEAHAHAEAEAHAH-c;
+</P>
+<P>
+SEQ ID NO: 33 n-AEAEAHAH-c;
+</P>
+<P>
+SEQ ID NO: 34 n-FEFEFKFKFEFEFKFK-c;
+</P>
+<P>
+SEQ ID NO: 35 n-FEFKFEFK-c;
+</P>
+<P>
+SEQ ID NO: 36 n-LELELKLKLELELKLK-c;
+</P>
+<P>
+SEQ ID NO: 37 n-LELELKLK-c;
+</P>
+<P>
+SEQ ID NO: 38 n-AEAEAKAKAEAEAKAK-c;
+</P>
+<P>
+SEQ ID NO: 39 n-AEAEAEAEAKAK-c;
+</P>
+<P>
+SEQ ID NO: 40 n-AEAEAKAK-c;
+</P>
+<P>
+SEQ ID NO: 41 n-KAKAKAKAEAEAEAEA-c;
+</P>
+<P>
+SEQ ID NO: 42 n-AEAEAEAEAKAKAKAK-c;
+</P>
+<P>
+SEQ ID NO: 43 n-RARARARADADADADA-c;
+</P>
+<P>
+SEQ ID NO: 44 n-ADADADADARARARAR-c; SEQ ID NO: 45 n-DADADADARARARARA-c;
+</P>
+<P>
+SEQ ID NO: 46 n-(ADADADADARARARAR)-c;
+</P>
+<P>
+SEQ ID NO: 47 n-HEHEHKHKHEHEHKHK-c;
+</P>
+<P>
+SEQ ID NO: 48 n-HEHEHKHK-c;
+</P>
+<P>
+SEQ ID NO: 49 n-VEVEVEVEVEVEVEVEVEVE- c;
+</P>
+<P>
+SEQ ID NO: 50 n-RFRFRFRFRFRFRFRFRFRF-c;
+</P>
+<P>
+SEQ ID NO: 51 n-FKFQFKFQFKFQ-c;
+</P>
+<P>
+SEQ ID NO: 52 n-IEIKIEIK-c; or
+</P>
+<P>
+SEQ ID NO: 53 n-KLDLKLDLKLDL-c.
+</P>
+<P>
+49. The matrix according to claim 47, wherein the growth factor is a heparin- binding growth factor.
+</P>
+<P>
+50. The matrix according to claim 49, wherein the heparin-binding growth factor is selected from the group consisting of VEGF, FGFs, PDGF, HGF, TGF-[beta] and BMP.
+</P>
+<P>
+51. The matrix according to claim 44, wherein the additional biological molecule is a glycosaminoglycan.
+</P>
+<P>
+52. The matrix according to claim 51 , wherein the glycosaminoglycan is heparin or heparan sulfate.
+</P>
+<P>
+53. The matrix according to claim 42, further comprising a plurality of cells attached to the surface of the matrix or encapsulated within the matrix.
+</P>
+<P>
+54. The matrix according to claim 53, wherein the cells are substantially uniformly distributed within the matrix.
+</P>
+<P>
+55. The matrix according to claim 53, wherein the cells are selected from the group consisting of osteoblasts, chondrocytes, bone marrow cells, osteocytes, periosteal cells, perichondrial cells, fibroblasts, mesenchymal cell , mesenchymal stem cell, adipose derived cells, adipose derived stem cells, neuronal cells, hippocampal cells, epidermal cells, endothelial cells, epithelial cells, keratinocytes, basal cells, spinous cells, granular cells, embryonic stem cells, ovarian cells, pancreatic cells, cervical cells, liver cells, foreskin cells, neutrophils, lymphocytes, macrophages, dendritic cells, or precursors of any of the foregoing.
+</P>
+<P>
+56. The matrix of claim 42, wherein the matrix is three-dimensional.
+</P>
+<P>
+57. The matrix according to claim 42, further comprising a solid material.
+</P>
+<P>
+58. The matrix according to claim 57, wherein the solid material is an inorganic salt.
+</P>
+<P>
+59. The matrix according to claim 58, wherein the inorganic salt comprises calcium and/or phosphate.
+</P>
+<P>
+60. The matrix according to claim 59, wherein the inorganic salt is selected from the group consisting of calcium phosphate, tricalcium phosphate, hydroxyapatite and calcium carbonate.
+</P>
+<P>
+61. The matrix according to claim 57, wherein the solid material has pore diameter of between about 100-500 microns, inclusive.
+</P>
+<P>
+62. The matrix according to claim 57, wherein the solid material has a blocklike, cylindrical, plate-like or granule-like shape.
+</P>
+<P>
+63. A method of making a matrix according to claim 42 comprising the steps of (i) dissolving the self-assembling peptide in an aqueous solution and (ii) adjusting the pH.
+</P>
+<P>
+64. The method according to claim 63, wherein the method further comprises (iii) adding a gellation agent.
+</P>
+<P>
+65. A method of making a matrix of claim 42 comprising the steps of (i) dissolving the self-assembling peptide in an aqueous solution and (ii) adding a gellation agent.
+</P>
+<P>
+66. The method according to claim 65, wherein the method further comprises (iii) adjusting the pH of the solution.
+</P>
+<P>
+67. The method according to claims 64 or 65, wherein the gellation agent is an electrolyte.
+</P>
+<P>
+68. The method according to claim 67, wherein the gellation agent is NaCl, saline, PBS, cell culture medium, or a biological fluid.
+</P>
+<P>
+69. The method according to claim 68, wherein the biological fluid is blood or lymph.
+</P>
+<P>
+70. The method according to claims 63 or 66, wherein the pH is adjusted to about 5-9, inclusive.
+</P>
+<P>
+71. The method according to claim 70, wherein the pH is adjusted to about 6-8, inclusive.
+</P>
+<P>
+72. The method according to claim 71 , wherein the pH is adjusted to about 5-7, inclusive.
+</P>
+<P>
+73. The method according to claim 72, wherein the pH is adjusted to about 5.7 to 5.8, inclusive.
+</P>
+<P>
+74. A method of using the matrix of claim 42 as a defect filler of bone or tissue.
+</P>
+<P>
+75. The method according to claim 74, wherein the tissue is brain, skin, liver, pancreas, stomach, kidney, gastrointestinal tract, esophageal tract, heart, muscle, connective tissue, cartilage, nerve, fat, or bone marrow.
+</P>
+<P>
+76. The method according to claim 74, wherein the filler comprises the self- assembling peptide in an aqueous solution.
+</P>
+<P>
+77. The method according to claim 74, wherein the filler comprises a hydrogel of the self-assembling peptide.
+</P>
+<P>
+78. The method according to claim 77, wherein the hydrogel is formed from mixing an aqueous solution of the self-assembling peptide with a gellation agent.
+</P>
+<P>
+79. The method according to claim 78, herein the gellation agent is biological fluid.
+</P>
+<P>
+80. The method according to claim 79, wherein the biological fluid is lymph or blood.
+</P>
+<P>
+81. The method according to claim 77, wherein the hydrogel is formed by adjusting the pH of an aqueous solution of the self-assembling peptide.
+</P>
+<P>
+82. The method according to claim 74, further comprising a solid material.
+</P>
+<P>
+83. The method according to claim 82, wherein the solid material is an inorganic salt.
+</P>
+<P>
+84. The method according to claim 83, wherein the inorganic salt comprises calcium and/or phosphate.
+</P>
+<P>
+85. The method according to claim 84, wherein the inorganic salt is selected from the group consisting of calcium phosphate, tricalcium phosphate, hydroxyapatite and calcium carbonate.
+</P>
+<P>
+86. The method according to claim 82, wherein the solid material has pore diameter of between about 100-500 microns, inclusive.
+</P>
+<P>
+87. The method according to claim 82, wherein the solid material has a blocklike, cylindrical, plate-like, or granule-like shape.
+</P>
+<P>
+88. The method according to claim 74, wherein the defect is damaged tissue; damaged orthopedic field; a bone defect; a bone adjent; an ectopic bone formation; an ischemic region; a myocardial infarction region; peripheral vascular region; cerebral infarction region; or a skin defect.
+</P>
+<P>
+89. A method of enhancing cell differentiation or functional activity comprising administering a self-assembling peptide of claim 1 , a pharmaceutical composition of claim 34, or a matrix of claim 42 to a subject in need thereof.
+</P>
+<P>
+90. A method of treating a subject comprising introducing a self-assembling peptide of claim 1 , a pharmaceutical composition of claim 34, or a matrix of claim 42 to a site on or within the subject&apos;s body.
+</P>
+<P>
+91. The method according to claim 90, wherein the site is of an orthopedic field; a bone defect; a bone adjent; an ectopic bone formation; an ischemic region; a myocardial infarction region; peripheral vascular region; cerebral infarction region; or a skin defect.
+</P>
+<P>
+92. A culture kit comprising:
+</P>
+<P>
+(a) (i) the self-assembling peptide of claim 1 ;
+</P>
+<P>
+(ii) the pharmaceutical composition of claim 34; or (iii) the matrix of claim 42;
+</P>
+<P>
+(b) instructions for initiating self-assembly of the peptide into a macroscopic structure; and
+</P>
+<P>
+(c) at least one component selected from the group consisting of: a population of cells, cell or tissue culture medium, a predetermined amount of a growth factor, a predetermined amount of an ion or salt thereof, instructions for preparing the self assembling peptide for cell culture, instructions for culturing cells on or within a peptide hydrogel structure, instructions for introducing the self-assembling peptide into a subject, a vessel in which cell culture may be performed, a liquid in which the peptide can be dissolved, a syringe, an ion or salt thereof for initiating peptide self-assembly, and one or more growth or differentiation factors.
+</P>
+<P>
+93. A method of culturing cells comprising contacting the cells with a self- assembling peptide of claim 1 , a pharmaceutical composition of claim 34, or a matrix of claim 42, and maintaining the matrix for a period of time under conditions suitable for cell culture.
+</P>
+<P>
+94. The method of claim 92, wherein the cells are cultured on the surface of the matrix and/or are cultured embedded within the matrix.
+</P>
+</Claims>
+<Also_published_as>
+WO2008039483A2;WO2008039483A3;WO2008039483A9;US2009162437A1;US8022178B2;JP2010504972A
+</Also_published_as>
+</BiblioData>

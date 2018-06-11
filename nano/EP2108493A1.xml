@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Electromechanical three- trace junction devices
+</Title>
+<PublicationNumber>
+EP2108493A1
+</PublicationNumber>
+<Inventor>
+<Name>
+RUECKES THOMAS [US]
+</Name>
+<Name>
+BROCK DARREN [US]
+</Name>
+<Name>
+SEGAL BRENT [US]
+</Name>
+<Name>
+RUECKES, THOMAS
+</Name>
+<Name>
+BROCK, DARREN
+</Name>
+<Name>
+SEGAL, BRENT
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANTERO INC [US]
+</Name>
+<Name>
+NANTERO, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2108493
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090163561
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2002-12-19
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20020802582
+</PriorityNumber>
+<PriorityDate>
+2002-12-19
+</PriorityDate>
+<PriorityNumber>
+US20010033323
+</PriorityNumber>
+<PriorityDate>
+2001-12-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B28B1/00
+</Class>
+<Class>
+G11C11/56
+</Class>
+<Class>
+G11C13/02
+</Class>
+<Class>
+G11C23/00
+</Class>
+<Class>
+H01H1/00
+</Class>
+<Class>
+H01H59/00
+</Class>
+<Class>
+H01L27/10
+</Class>
+<Class>
+B81B3/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C11/56
+</Class>
+<Class>
+G11C13/02N
+</Class>
+<Class>
+G11C23/00
+</Class>
+<Class>
+H01H1/00N
+</Class>
+</NCL>
+<Abstract>
+Three trace electromechanical circuits and methods of using same are described. A circuit includes first and second electrically conductive elements with a nanotube ribbon (or other electromechanical elements) disposed therebetween. The nanotube ribbon is movable toward at least one of the first and second electrically conductive elements in response to electrical stimulus applied to at least one of the first and second electrically conductive elements and the nanotube ribbon. Such circuits may be formed into arrays of cells. The upper and lower electrically conductive traces may be aligned or unaligned vertically. An electrical stimulus may be applied to at least one of the first and second electrically conductive elements and the nanotube ribbon to move the nanotube ribbon toward at least one of the first and second electrically conductive elements. Electrical signals from at least one the first and second electrically conductive elements and the nanotube ribbon may be sensed to determine the electrical state of the cell. The states may be assigned in a variety of ways. For example, if the ribbon is moved toward the first electrically conductive element, the electrical state is a first state, if the ribbon is moved toward the second electrically conductive element, the electrical state is a second state, and if the ribbon is between the first and second electrically conductive elements, the electrical state is a third state. The first, second, and third states each corresponds to a different information encoding. Or, electrical stimulus may be applied to both the first and second electrically conductive elements so that the first and second electrically conductive elements both cause the movement of the nanotube ribbon. Or, the first and second electrically conductive elements are used in a fault tolerant manner.
+</Abstract>
+<Claims>
+<P>
+1. A circuit, comprising
+</P>
+<P>
+a first electrically conductive element (104); and
+</P>
+<P>
+a second electrically conductive element (114);
+</P>
+<P>
+characterized byat least one nanotube (101) disposed between the first and second electrically conductive elements (104, 114), wherein the at least one nanotube (101) is movable toward at least one of the first and second electrically conductive elements (104, 114) in response to electrical stimulus applied to at least one of the first and second electrically conductive elements (104, 114) and the at least one nanotube (101).
+</P>
+<P>
+2. A circuit array, comprising
+</P>
+<P>
+a lower structure (103) having a plurality of lower electrically conductive elements (104) and a plurality of lower support structures (104);
+</P>
+<P>
+characterized by
+</P>
+<P>
+an upper structure having a plurality of upper electrically conductive elements (114) and a plurality of upper support structures (115); and
+</P>
+<P>
+a plurality of electromechanically responsive elements (101) disposed between the lower and upper structures (103), (102) and in contact with the lower support structures (105) and the upper support structures (115), each electromechanically responsive element having a longitudinal orientation that crosses the longitudinal orientation of the plurality of lower and upper electrically conductive elements (104, 114), and wherein each location where an electromechanically responsive element (101) crosses an electrically conductive element defines a circuit cell, and wherein an electromechanically responsive element (101) is movable within a circuit cell in response to electrical stimulus applied to at least one of the electrically conductive elements (104, 114) and the electromechanically responsive elements (101).
+</P>
+<P>
+3. The circuit array of claim 2 wherein the electromechanically responsive elements are nanotubes (101).
+</P>
+</Claims>
+<Also_published_as>
+US2003124325A1;US6911682B2;WO03058652A2;WO03058652A3;TWI303421B;JP2005514784A;EP1459334A2;EP1459334A4;EP1459334B1;CA2471378A1;AU2002364966A8;AU2002364966A1
+</Also_published_as>
+</BiblioData>

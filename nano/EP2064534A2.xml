@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+BAND EXCITATION METHOD APPLICABLE TO SCANNING PROBE MICROSCOPY
+</Title>
+<PublicationNumber>
+EP2064534A2
+</PublicationNumber>
+<Inventor>
+<Name>
+JESSE STEPHEN [US]
+</Name>
+<Name>
+KALININ SERGEI V [US]
+</Name>
+<Name>
+JESSE, STEPHEN
+</Name>
+<Name>
+KALININ, SERGEI V
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UT BATTELLE LLC [US]
+</Name>
+<Name>
+UT-BATTELLE, LLC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2064534
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070811668
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US19339
+</PriorityNumber>
+<PriorityDate>
+2007-09-04
+</PriorityDate>
+<PriorityNumber>
+US20060515348
+</PriorityNumber>
+<PriorityDate>
+2006-09-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q30/04
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q30/04
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</NCL>
+<Abstract>
+Methods and apparatus are described for scanning probe microscopy. A method includes generating a band excitation (BE) signal having finite and predefined amplitude and phase spectrum in at least a first predefined frequency band;  exciting a probe using the band excitation signal;  obtaining data by measuring a response of the probe in at least a second predefined frequency band;  and extracting at least one relevant dynamic parameter of the response of the probe in a predefined range including analyzing the obtained data. The BE signal can be synthesized prior to imaging (static band excitation), or adjusted at each pixel or spectroscopy step to accommodate changes in sample properties (adaptive band excitation). An apparatus includes a band excitation signal generator;  a probe coupled to the band excitation signal generator;  a detector coupled to the probe;  and a relevant dynamic parameter extractor component coupled to the detector, the relevant dynamic parameter extractor including a processor that performs a mathematical transform selected from the group consisting of an integral transform and a discrete transform.
+</Abstract>
+<Claims>
+<P>
+CLAIMS What is claimed is:
+</P>
+<P>
+1. A method, comprising: generating a band excitation signal having finite and predefined amplitude and phase spectrum in at least a first predefined frequency band; exciting a probe using the band excitation signal; obtaining data by measuring a response of the probe in at least a second predefined frequency band; and extracting at least one relevant dynamic parameter of the response of the probe in a predefined range including analyzing the obtained data.
+</P>
+<P>
+2. The method of claim 1 , wherein generating includes digitally synthesizing.
+</P>
+<P>
+3. The method of claim 1 , wherein exciting includes exciting the probe in a vicinity of a sample surface.
+</P>
+<P>
+4. The method of claim 3, wherein the at least one relevant dynamic parameter of the response of the probe includes information on at least one property of the sample surface.
+</P>
+<P>
+5. The method of claim 1 , wherein exciting includes energizing the probe using at least one technique selected from the groups consisting of electrically, optically, mechanically and magnetically.
+</P>
+<P>
+6. The method of claim 1 , wherein the response of the probe includes at least one response selected from the group consisting of electrical, optical, mechanical and magnetic.
+</P>
+<P>
+7. The method of claim 1 , wherein the first predefined frequency band and the second predefined frequency band are substantially identical.
+</P>
+<P>
+8. The method of claim 1 , wherein extracting includes extracting at least one dynamic parameter selected from the group consisting of amplitude, quality factor, resonant frequency, amplitude-frequency curve and phase-frequency curve.
+</P>
+<P>
+9. The method of claim 8, wherein extracting includes extracting amplitude, resonance frequency, and quality factor in accord with a simple harmonic oscillator model.
+</P>
+<P>
+10. The method of claim 1, wherein analyzing includes utilizing at least one mathematical transform selected from the group consisting of an integral transform and a d iscrete tran sform .
+</P>
+<P>
+11. The method of claim 10, wherein analyzing includes utilizing a Fourier transform.
+</P>
+<P>
+12. The method of claim 1 , further comprising scanning a plurality of points.
+</P>
+<P>
+13. The method of claim 12, wherein the plurality of points are defined by a sample surface.
+</P>
+<P>
+14. The method of claim 12, wherein the band excitation signal is generated prior to imaging and is not changed with respect to the plurality of points.
+</P>
+<P>
+15. The method of claim 12, further comprising re-synthesizing the band excitation signal at each of the plurality of points as a function, at least in part, of a change in the at least one relevant dynamic parameter of the response of the probe that is characteristic of local properties of a sample.
+</P>
+<P>
+16. The method of claim 15, wherein re-synthesizing includes providing an active operational feedback.
+</P>
+<P>
+17. The method of claim 16, wherein the function is defined, at least in part, by at least one dynamic parameter selected from the group consisting of amplitude, quality factor, resonant frequency, amplitude-frequency curve and phase-frequency curve.
+</P>
+<P>
+18. A computer program, comprising computer or machine readable program elements translatable for implementing the method of claim 1.
+</P>
+<P>
+19. An apparatus, comprising: a band excitation signal generator; a probe coupled to the band excitation signal generator; a detector coupled to the probe; and a relevant dynamic parameter extractor component coupled to the detector, the relevant dynamic parameter extractor including a processor that performs a mathematical transform selected from the group consisting of an integral transform and a discrete transform.
+</P>
+<P>
+20. The apparatus of claim 19, wherein the band excitation signal generator is capable of exciting the probe simultaneously at a plurality of frequency bands.
+</P>
+<P>
+21. The apparatus of claim 19, wherein the band excitation signal generator is capable of generating a non-uniform spectral density distribution.
+</P>
+<P>
+22. The apparatus of claim 19, further comprising an active operational feedback component coupled between the relevant dynamic parameter extractor component and the band excitation signal generator.
+</P>
+<P>
+23. The apparatus of claim 19, further comprising a sample substrate coupled to the band excitation signal generator, wherein the band excitation generator can provide sample substrate excitation.
+</P>
+<P>
+24. A scanning probe microscope including the apparatus of claim 19.
+</P>
+<P>
+25. The scanning probe microscope of claim 24, including a membrane-based sensor selected from the group consisting of a FIRAT sensor and a Delft sensor.
+</P>
+<P>
+26. A resonant detection chemical sensor including the apparatus of claim 19.
+</P>
+<P>
+27. A resonant detection biological sensor including the apparatus of claim 19.
+</P>
+<P>
+28. A frictional force microscope including the apparatus of claim 19.
+</P>
+<P>
+29. An atomic force microscope including the apparatus of claim 19.
+</P>
+</Claims>
+<Also_published_as>
+WO2008027601A2;WO2008027601A3;US2011004967A1;US2010011471A1;US7775086B2;EP2416164A2;EP2416164A3
+</Also_published_as>
+</BiblioData>

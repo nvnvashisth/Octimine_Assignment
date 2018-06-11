@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SPINTRONIC DEVICES WITH CONSTRAINED SPINTRONIC DOPANT AND ASSOCIATED METHODS
+</Title>
+<PublicationNumber>
+EP2002481A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HUANG XIANGYANG [US]
+</Name>
+<Name>
+HALILOV SAMED [US]
+</Name>
+<Name>
+YIPTONG JEAN AUGUSTIN CHAN SOW [US]
+</Name>
+<Name>
+DUKOVSKI ILIJA [US]
+</Name>
+<Name>
+HYTHA MAREK [US]
+</Name>
+<Name>
+MEARS ROBERT J [US]
+</Name>
+<Name>
+HUANG, XIANGYANG
+</Name>
+<Name>
+HALILOV, SAMED
+</Name>
+<Name>
+YIPTONG, JEAN AUGUSTIN CHAN SOW FOOK
+</Name>
+<Name>
+DUKOVSKI, ILIJA
+</Name>
+<Name>
+HYTHA, MAREK
+</Name>
+<Name>
+MEARS, ROBERT J
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MEARS TECHNOLOGIES INC [US]
+</Name>
+<Name>
+MEARS TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2002481
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070753441
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-19
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US06814
+</PriorityNumber>
+<PriorityDate>
+2007-03-19
+</PriorityDate>
+<PriorityNumber>
+US20060783598P
+</PriorityNumber>
+<PriorityDate>
+2006-03-17
+</PriorityDate>
+<PriorityNumber>
+US20070687430
+</PriorityNumber>
+<PriorityDate>
+2007-03-16
+</PriorityDate>
+<PriorityNumber>
+US20070687422
+</PriorityNumber>
+<PriorityDate>
+2007-03-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L29/15
+</Class>
+<Class>
+H01L29/66
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+H01F1/40D
+</Class>
+<Class>
+H01F10/32F
+</Class>
+<Class>
+H01F10/32N6
+</Class>
+<Class>
+H01F41/30D
+</Class>
+<Class>
+H01L29/15B2
+</Class>
+<Class>
+H01L29/15D
+</Class>
+<Class>
+H01L29/66S
+</Class>
+</NCL>
+<Abstract>
+A spintronic device may include at least one superlattice and at least one electrical contact coupled thereto, with the at least one superlattice including a plurality of groups of layers. Each group of layers may include a plurality of stacked base semiconductor monolayers defining a base semiconductor portion having a crystal lattice, at least one non-semiconductor monolayer constrained within the crystal lattice of adjacent base semiconductor portions, and a spintronic dopant. The spintronic dopant may be constrained within the crystal lattice of the base semiconductor portion by the at least one non-semiconductor monolayer. In some embodiments, the repeating structure of a superlattice may not be needed.
+</Abstract>
+<Claims>
+<P>
+THAT WHICH IS CLAIMED IS:
+</P>
+<P>
+1. A spintronic device comprising: at least one superlattice; and at least one electrical contact coupled to said at least one superlattice; said at least one superlattice comprising a plurality of groups of layers with each group of layers comprising a plurality of stacked base semiconductor monolayers defining a base semiconductor portion having a crystal lattice, at least one non-semiconductor monolayer constrained within the crystal lattice of adjacent base semiconductor portions, and a spintronic dopant constrained within the crystal lattice of the base semiconductor portion by said at least one non-semiconductor monolayer.
+</P>
+<P>
+2. The spintronic device according to Claim 1 wherein said spintronic dopant comprises at least one spintronic dopant monolayer adjacent said at least one non- semiconductor monolayer.
+</P>
+<P>
+3. The spintronic device according to Claim 1 wherein said spintronic dopant comprises a transition metal.
+</P>
+<P>
+4. The spintronic device according to Claim 1 wherein said spintronic dopant comprises Manganese.
+</P>
+<P>
+5. The spintronic device according to Claim 1 wherein said at least one transition metal comprises at least one of Manganese, Iron, and Chromium.
+</P>
+<P>
+6. The spintronic device according to Claim 1 wherein said spintronic dopant comprises a rare earth.
+</P>
+<P>
+7. The spintronic device according to Claim 1 wherein said rare earth comprises a rare earth lanthanide.
+</P>
+<P>
+8. The spintronic device according to Claim 1 wherein said non-semiconductor comprises Oxygen.
+</P>
+<P>
+9. The spintronic device according to Claim 1 wherein said non-semiconductor comprises at least one of Oxygen, Nitrogen, Fluorine, Carbon-Oxygen, and Sulphur.
+</P>
+<P>
+10. The spintronic device according to Claim 1 wherein said semiconductor comprises Silicon.
+</P>
+<P>
+11. The spintronic device according to Claim 1 wherein said semiconductor comprises a semiconductor selected from the group comprising Group IV semiconductors, Group III-V semiconductors, and Group II-VI semiconductors.
+</P>
+<P>
+12. The spintronic device according to Claim 1 wherein said at least one superlattice comprises a pair of superlattices; and further comprising: a substrate carrying said pair of superlattices in spaced apart relation to define a source and a drain; a channel between said source and drain; and a gate adjacent said channel so that said spintronic device defines a spintronic field effect transistor.
+</P>
+<P>
+13. The spintronic device according to Claim 1 wherein said at least one superlattice comprises a pair of superlattices; and further comprising: a substrate carrying said pair of superlattices in spaced apart relation; and a spacer between said pair of superlattices so that said spintronic device defines a spintronic valve.
+</P>
+<P>
+14. The spintronic device according to Claim 1 wherein said at least one superlattice exhibits a Curie temperature of at least as high as room temperature. T/US2007/006814
+</P>
+<P>
+15. A spintronic device comprising: a plurality of stacked base semiconductor monolayers defining a base semiconductor portion having a crystal lattice;
+</P>
+<P>
+_ at least one non-semiconductor monolayer constrained within the crystal lattice; a spintronic dopant constrained within the crystal lattice of the base semiconductor portion by said at least one non-semiconductor monolayer; and an electrical contact coupled to said base semiconductor portion.
+</P>
+<P>
+16. The spintronic device according to Claim 15 wherein said spintronic dopant comprises at least one spintronic dopant monolayer adjacent said at least one non- semiconductor monolayer.
+</P>
+<P>
+17. The spintronic device according to Claim 15 wherein said spintronic dopant comprises at least one of a transition metal and a rare earth.
+</P>
+<P>
+18. The spintronic device according to Claim 15 wherein said non-semiconductor comprises at least one of Oxygen, Nitrogen, Fluorine, Carbon-Oxygen, and Sulphur.
+</P>
+<P>
+19. The spintronic device according to Claim 15 wherein said semiconductor comprises a semiconductor selected from the group comprising Group IV semiconductors, Group III-V semiconductors, and Group- II-VI semiconductors.
+</P>
+<P>
+20. The spintronic device according to Claim 15 further comprising a substrate carrying said base semiconductor portion.
+</P>
+<P>
+21. The spintronic device according to Claim 15 wherein said base semiconductor portion exhibits a Curie temperature of at least as high as room temperature.
+</P>
+<P>
+22. A method for making a spintronic device comprising: forming at least one superlattice; and forming at least one electrical contact coupled to the at least one superlattice; the at least one superlattice comprising a plurality of groups of layers with each group of layers comprising a plurality of stacked base semiconductor monolayers defining a base semiconductor portion having a crystal lattice, at least one non-semiconductor monolayer constrained within the crystal lattice of adjacent base semiconductor portions, and a spintronic dopant constrained within the crystal lattice of the base semiconductor portion by the at least one non-semiconductor monolayer.
+</P>
+<P>
+23. The method according to Claim 22 wherein the spintronic dopant comprises at least one spintronic dopant monolayer adjacent the at least one non-semiconductor monolayer.
+</P>
+<P>
+24. The method according to Claim 22 wherein the spintronic dopant comprises a transition metal.
+</P>
+<P>
+25. The method according to Claim 22 wherein the spintronic dopant comprises Manganese.
+</P>
+<P>
+26. The method according to Claim 22 wherein the at least one transition metal comprises at least one of Manganese, Iron, and Chromium.
+</P>
+<P>
+27. The method according to Claim 22 wherein the spintronic dopant comprises a rare earth.
+</P>
+<P>
+28. The method according to Claim 22 wherein the rare earth comprises a rare earth lanthanide.
+</P>
+<P>
+29. The method according to Claim 22 wherein the non-semiconductor comprises Oxygen.
+</P>
+<P>
+30. The method according to Claim 22 wherein the non-semiconductor comprises at least one of Oxygen, Nitrogen, Fluorine, Carbon-Oxygen, and Sulphur.
+</P>
+<P>
+31. The method according to Claim 22 wherein the semiconductor comprises Silicon.
+</P>
+<P>
+32. The method according to Claim 22 wherein the semiconductor comprises a semiconductor selected from the group comprising Group IV semiconductors, Group III-V semiconductors, and Group II-VI semiconductors.
+</P>
+<P>
+33. The method according to Claim 22 wherein forming the at least one superlattice comprises forming a pair of superlattices; and further comprising: providing a substrate carrying the pair of superlattices in spaced apart relation to define a source and a drain; forming a channel between the source and drain; and forming a gate adjacent the channel so that the spintronic device defines a spintronic field effect transistor.
+</P>
+<P>
+34. The method according to Claim 22 wherein forming the at least one superlattice comprises forming a pair of superlattices; and further comprising: providing a substrate carrying the pair of superlattices in spaced apart relation; and forming a spacer between the pair of superlattices so that the spintronic device defines a spintronic valve.
+</P>
+<P>
+35. The method according to Claim 22 wherein the at least one superlattice exhibits a Curie temperature of at least as high as room temperature.
+</P>
+<P>
+36. A method for making spintronic device comprising: forming a plurality of stacked base semiconductor monolayers defining a base semiconductor portion having a crystal lattice; forming at least one non-semiconductor monolayer constrained within the crystal lattice; providing a spintronic dopant constrained within the crystal lattice of the base semiconductor portion by the at least one non-semiconductor monolayer; and forming an electrical contact coupled to the base semiconductor portion.
+</P>
+<P>
+37. The method according to Claim 36 wherein the spintronic dopant comprises at least one spintronic dopant . monolayer adjacent the at least one non-semiconductor monolayer.
+</P>
+<P>
+38. The method according to Claim 36 wherein the spintronic dopant comprises at least one of a transition metal and a rare earth.
+</P>
+<P>
+39. The method according to Claim 36 wherein the non-semiconductor comprises at least one of Oxygen, Nitrogen, Fluorine, Carbon-Oxygen, and Sulphur.
+</P>
+<P>
+40. The method according to Claim 36 wherein the semiconductor comprises a semiconductor selected from the group comprising Group IV semiconductors, Group III-V semiconductors, and Group II-VI semiconductors.
+</P>
+<P>
+41. The method according to Claim 36 further comprising providing a substrate carrying the base semiconductor portion.
+</P>
+<P>
+42. The method according to Claim 36 wherein the base semiconductor portion exhibits a Curie temperature of at .least as high as room temperature.
+</P>
+</Claims>
+<Also_published_as>
+WO2007109231A1;JP2009530827A;CA2646325A1;AU2007227418A1
+</Also_published_as>
+</BiblioData>

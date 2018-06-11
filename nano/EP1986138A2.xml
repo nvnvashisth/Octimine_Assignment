@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A method of recording machine- readable information
+</Title>
+<PublicationNumber>
+EP1986138A2
+</PublicationNumber>
+<Inventor>
+<Name>
+RAKSHA VLADIMIR P [US]
+</Name>
+<Name>
+TAN KIM LEONG [US]
+</Name>
+<Name>
+PHILLIPS ROGER W [US]
+</Name>
+<Name>
+RAKSHA, VLADIMIR P
+</Name>
+<Name>
+TAN, KIM LEONG
+</Name>
+<Name>
+PHILLIPS, ROGER W
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+JDS UNIPHASE CORP [US]
+</Name>
+<Name>
+JDS UNIPHASE CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1986138
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080007872
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20070913423P
+</PriorityNumber>
+<PriorityDate>
+2007-04-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B29C59/00
+</Class>
+<Class>
+B41M3/14
+</Class>
+<Class>
+B42D15/00
+</Class>
+<Class>
+C09C1/00
+</Class>
+<Class>
+G02B6/34
+</Class>
+<Class>
+G03H1/00
+</Class>
+<Class>
+G06K19/00
+</Class>
+<Class>
+G06K19/16
+</Class>
+<Class>
+G07D7/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B41M3/14T
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09C1/00F
+</Class>
+<Class>
+C09C1/00F2
+</Class>
+<Class>
+G07D7/00B2
+</Class>
+<Class>
+G07D7/06
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a method of recording machine-readable information on an article (1), including the steps of: providing a carrier (3) having flakes (2) dispersed therein onto the surface of the article (1), wherein all of the flakes (2) have a beam-splitting grating pattern encoding the information thereon;  aligning the flakes (2) parallel to a sloped plane forming a slope angle with the surface of the article;  and, solidifying the carrier (3). When the article (1) is irradiated (160) with an EM beam, a first portion of the EM beam is reflected from the surface of the article, forming a surface reflection, a second portion of the beam is reflected from the beam-splitting grating pattern, forming an arrangement of sub-beams, and the slope angle provides a spatial separation between the arrangement of sub-beams and the surface reflection, enabling machine-reading.
+</Abstract>
+<Claims>
+<P>
+1. A method of recording machine-readable information on an article, comprising the steps of:
+</P>
+<P>
+providing a carrier having a plurality of flakes dispersed therein coated onto the surface of the article, wherein the plurality of flakes have a same beam-splitting grating pattern encoding the information thereon;
+</P>
+<P>
+aligning each of the plurality of flakes parallel to a sloped plane forming a slope angle with the surface of the article; and,
+</P>
+<P>
+solidifying the carrier;whereby the aligning step is such, that when the article is irradiated with an EM beam,
+</P>
+<P>
+a first portion of the EM beam is reflected from the surface of the article, forming a surface reflection,
+</P>
+<P>
+a second portion of the beam is reflected from the beam-splitting grating pattern, forming an arrangement of sub-beams, and
+</P>
+<P>
+the slope angle provides a spatial separation between the arrangement of sub-beams and the surface reflection, enabling machine-reading.
+</P>
+<P>
+2. A method as defined in claim 1, wherein the beam-splitting grating pattern is a supergrating pattern.
+</P>
+<P>
+3. A method as defined in claim 1 or 2, wherein the beam-splitting grating pattern is a cross-grating diffractive pattern.
+</P>
+<P>
+4. A method as defined in any of claims 1 to 3, wherein the flakes comprise a magnetically responsive material, and step (b) includes using a magnetic field for aligning the plurality of flakes.
+</P>
+<P>
+5. A method as defined in any of claims 1 to 4, wherein the plurality of flakes is formed by cutting an embossed substrate having the magnetically responsive material thereon.
+</P>
+<P>
+6. A method as defined in any of claims 1 to 5, wherein each of the plurality of flakes comprises a carrier-repellent material on the beam-splitting grating pattern.
+</P>
+<P>
+7. A method as defined in any of claims 1 to 6, wherein step (a) includes printing the carrier and the plurality of flakes dispersed therein onto the surface of the article.
+</P>
+<P>
+8. A method as defined in any of claims 1 to 7, wherein in step (b) the plurality of flakes is aligned so that the grooves of all of the plurality of flakes are aligned at the slope angle to the surface of the article.
+</P>
+<P>
+9. A method as defined in any of claims 1 to 8, wherein of the slope angle is greater than 5 degrees and less than 45 degrees.
+</P>
+<P>
+10. A method of obtaining information from an article, comprising the steps of:
+</P>
+<P>
+providing the article having the information recorded as defined in claim 1 using a beam-splitting grating pattern,
+</P>
+<P>
+wherein the article comprises flakes having the beam-splitting grating pattern thereon,
+</P>
+<P>
+and wherein all of the flakes are aligned parallel to a sloped plane forming a slope angle with the surface of the article;
+</P>
+<P>
+irradiating the article with a beam of EM radiation, whereby
+</P>
+<P>
+a first portion of the beam is reflected from the surface of the article, forming a surface reflection,
+</P>
+<P>
+a second portion of the beam is reflected from the beam-splitting grating pattern, forming an arrangement of sub-beams,
+</P>
+<P>
+wherein the slope angle provides a spatial separation between the arrangement of sub-beams and the surface reflection; and,
+</P>
+<P>
+obtaining the information from the arrangement of sub-beams.
+</P>
+<P>
+11. A method as defined in claim 10, wherein the EM radiation is monochromatic radiation.
+</P>
+<P>
+12. A method as defined in claim 11, wherein the beam of EM radiation is provided by a laser.
+</P>
+<P>
+13. A method as defined in any of claims 10 to 12, wherein the step of obtaining the information is automated.
+</P>
+<P>
+14. A method as defined in any of claims 10 to 13, wherein an image produced by the arrangement of sub-beams on a screen or detector comprises three or more spots.
+</P>
+<P>
+15. A method as defined in any of claims 10 to 14, further comprising a step of comparing the information with stored information to verify its authenticity.
+</P>
+</Claims>
+<Also_published_as>
+EP1986138A3;US2008290179A1;TW200912765A;KR20080095203A;JP2008287712A;CN101293443A;CA2629159A1;AU2008201769A1
+</Also_published_as>
+</BiblioData>

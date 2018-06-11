@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR OPERATING A MEASUREMENT SYSTEM CONTAINING A SCANNING PROBE MICROSCOPE, AND MEASUREMENT SYSTEM
+</Title>
+<PublicationNumber>
+EP1979913A1
+</PublicationNumber>
+<Inventor>
+<Name>
+JAEHNKE TORSTEN [DE]
+</Name>
+<Name>
+HAGGERTY MICHAEL [DE]
+</Name>
+<Name>
+JAEHNKE, TORSTEN
+</Name>
+<Name>
+HAGGERTY, MICHAEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+JPK INSTR AG [DE]
+</Name>
+<Name>
+JPK INSTRUMENTS AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1979913
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060828723
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006DE02298
+</PriorityNumber>
+<PriorityDate>
+2006-12-21
+</PriorityDate>
+<PriorityNumber>
+DE200610001086
+</PriorityNumber>
+<PriorityDate>
+2006-01-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q30/06
+</Class>
+<Class>
+G01Q40/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q30/06
+</Class>
+<Class>
+G01Q40/00
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a method for operating a measurement system containing a scanning probe microscope, in particular an atomic force microscope, and to a measurement system for examining a measurement sample using a scanning probe microscope and for optically examining said sample. In the method, an optical image of a measurement section of a measurement sample to be examined, said image being recorded with the aid of an optical recording device, is displayed on a display apparatus, a choice of a position in the optical image is detected, and, for a scanning probe measurement, a measurement probe which is configured for the scanning probe measurement is moved, using a movement apparatus which moves the measurement probe and the measurement sample relative to one another, to a measurement position, which is assigned to the selected position in the optical image in accordance with coordinate transformation, by virtue of the movement apparatus being controlled in accordance with the coordinate transformation, wherein a previously determined assignment between a coordinate system of the optical image and a coordinate system of a space covered by movement positions of the measurement probe and the measurement sample is formed with the coordinate transformation, wherein the movement positions comprise the measurement position.
+</Abstract>
+<Claims>
+<P>
+Ansprüche
+</P>
+<P>
+1. Verfahren zum Betreiben eines Messsystems mit einem Rastersondenmikroskop, insbesondere einem Rasterkrafttnikroskop, bei dem: - auf einer Anzeigevorrichtung eine mit Hilfe einer optischen Aumahmeeinrichtung aufgenommene, optische Abbildung eines Messabschnitts einer zu untersuchenden Messprobe dargestellt wird,
+</P>
+<P>
+- eine Auswahl einer Position in der optischen Abbildung erfasst wird und
+</P>
+<P>
+- für eine Rastersondenmessung eine Messsonde, die für die Rastersondenmessung konfiguriert ist, mittels einer die Messsonde und die Messprobe relativ zueinander bewegenden Verlagerungsvorrichtung zu einer Messposition verlagert wird, die der in der optischen Abbildung ausgewählten Position gemäss einer Koordinatentransformation zugeordnet ist, indem die Verlagerungsvorrichtung der Koordinatentransformation entsprechend gesteuert wird, wobei mit der Koordinatentransformation eine zuvor ermittelte Zuordnung zwischen einem Koordinatensystem der optischen Abbildung und einem Koordinatensystem eines von Verlagerungspositionen der Messsonde und der Messprobe aufgespannten Raumes gebildet ist, wobei die Verlagerungspositionen die Messposition umfassen.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, dadurch g ek ennz ei chnet, dass ein Rastersondenmesswert für die Messposition erfasst wird, indem beim Verlagern in die Messposition eine an der Messsonde gebildet Messspitze in die Messposition gebracht wird.
+</P>
+<P>
+3. Verfahren nach Anspruch 1 oder 2, dadurch ge k enn z e i chn e t, dass die Messsonde zumindest teilweise in der optischen Abbildung auf der Anzeigevorrichtung dargestellt wird.
+</P>
+<P>
+4. Verfahren nach Anspruch 1 oder 2, dadurch g ek enn z e i chn e t, dass der Messabschnitt in der optischen Abbildung ohne die Messsonde dargestellt wird.
+</P>
+<P>
+5. Verfahren nach einem der vorangehenden Ansprüche, dadurch g ek ennz ei chn et, dass als optische Abbildung eine momentane optische Aufnahme in einer Live-Betriebsart dargestellt wird. W
+</P>
+<P>
+18
+</P>
+<P>
+6. Verfahren nach einem der vorangehenden Ansprüche, dadurch gek e nn z e i chn et, dass auf der Anzeigeeinrichtung zumindest ein Rastersondenmessbild mit Rastersondenmesswerten dargestellt wird, wahlweise in einer wenigstens teilweise überlagernden Dar
+</P>
+<P>
+5 Stellung von optischer Abbildung und Rastersondenmessbild entsprechend der Koordinatentransformation.
+</P>
+<P>
+7. Verfahren nach einem der vorangehenden Ansprüche, dadurch g ek ennz ei chn et, dass die Darstellung der optische Abbildung des Messabschnitts auf der Anzeigeeinrich0 tung wiederholt erneuert wird.
+</P>
+<P>
+8. Verfahren nach einem der vorangehenden Ansprüche, dadurch gek ennz ei chn et, dass die Koordinatentransformation ermittelt wird, indem ein oder mehrere Bildpunkte aus einem oder mehreren optischen Abbildungen einerseits und zugehörige Messpositio5 nen in der Anordnung von Messsonde und Messprobe andererseits miteinander verglichen werden und hieraus eine verallgemeinerte Transformationsregel abgeleitet wird.
+</P>
+<P>
+9. Verfahren nach Anspruch 8, dadurch g ek ennz ei chn et, dass die eine oder die mehreren optischen Abbildungen als mindestens eine Abbildungsart ausgewählt aus der folQ genden Gruppe von Abbildungsarten aufgenommen werden: Fluoreszenz-Abbildung,
+</P>
+<P>
+Durchlichtabbildung und RamanspektroskopieAbbildung.
+</P>
+<P>
+10. Messsystem zum rastersondenmikroskopischen und zum optischen Untersuchen einer Messprobe, mit:
+</P>
+<P>
+,5 - einem Rastersondenmikroskop, an dem eine Messsonde gebildet ist,
+</P>
+<P>
+- einer Aufnahmeeinrichtung, die konfiguriert ist, optische Abbildungen von Messabschnitten einer mittels der Messsonde im Rahmen einer Rastersondenmessung zu untersuchenden Messprobe aufzunehmen,
+</P>
+<P>
+- einer Anzeigevorrichtung, die an die optische Aufhahmeeinrichtung gekoppelt ist und 0 konfiguriert ist, die optischen Abbildungen darzustellen,
+</P>
+<P>
+- einer Verlagerungsvorrichtung, die konfiguriert ist, die Messsonde und die zu untersuchende Messprobe relativ zueinander zu bewegen, und - einer Steuervorrichtung, die an die Verlagerungseinrichtung gekoppelt ist und konfiguriert ist, für die Rastersondenmessung nach dem Erfassen einer Auswahl einer Position in einer auf der Anzeigevorrichtung dargestellten, optischen Abbildung Steuersignale für die Verlagerungsvorrichtung zu erzeugen, mit denen die Messsonde in eine 5 Messposition verlagert wird, die der in der optischen Abbildung ausgewählten Position gemäss einer Koordinatentransformation zugeordnet ist, wobei mit der Koordinatentransformation eine zuvor ermittelte Zuordnung zwischen einem Koordinatensystem der optischen Abbildung und einem Koordinatensystem eines von Verlagerungspositionen der Messsonde und der Messprobe aufgespannten Raumes gebildet ist. 0
+</P>
+<P>
+11. Messsystem nach Anspruch 10, dadurch gek e n n z e i chn e t, dass das Rastersondenmikroskop ein Rasterkraftmikroskop, ein Rasternahfeldmikroskop oder ein Rasterphotonenmikroskop ist.
+</P>
+<P>
+5 12. Messsystem nach Anspruch 10 oder 11 , dadurch g ek en nz ei chn et, dass die Steuereinrichtung konfiguriert ist, die Zuordnung zwischen dem Koordinatensystem der optischen Abbildung und dem Koordinatensystem des von Verlagerungspositionen der Messsonde und der Messprobe aufgespannten Raumes in einem Vorabkalibrierungsverfahren zu erfassen.
+</P>
+<P>
+&amp;gt;0
+</P>
+</Claims>
+<Also_published_as>
+WO2007076828A1;US2008308726A1;KR20080092936A;JP2009522560A;DE112006003790A5;CN101395676A
+</Also_published_as>
+</BiblioData>

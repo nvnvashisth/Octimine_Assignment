@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Nanosensors based on nanoparticles immobilized on stimuli responsive polymer brushes
+</Title>
+<PublicationNumber>
+EP2128598A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GUPTA SMRATI [DE]
+</Name>
+<Name>
+AGRAWAL MUKESH [DE]
+</Name>
+<Name>
+UHLMANN PETRA [DE]
+</Name>
+<Name>
+STAMM MANFRED [DE]
+</Name>
+<Name>
+GUPTA, SMRATI
+</Name>
+<Name>
+AGRAWAL, MUKESH
+</Name>
+<Name>
+UHLMANN, PETRA
+</Name>
+<Name>
+STAMM, MANFRED
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+LEIBNIZ INST POLYMERFORSCHUNG [DE]
+</Name>
+<Name>
+LEIBNIZ-INSTITUT FUER POLYMERFORSCHUNG DRESDEN E.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2128598
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080009827
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20080009827
+</PriorityNumber>
+<PriorityDate>
+2008-05-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N21/00
+</Class>
+<Class>
+G01N33/543
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N21/55B2N
+</Class>
+<Class>
+G01N21/64P8
+</Class>
+<Class>
+G01N33/543D6
+</Class>
+</NCL>
+<Abstract>
+The invention is directed to a sensor comprising: - a substrate (1);  - a polymer brush (4) formed of polymer molecules anchored by a first end to a surface of the substrate and having a second, free end located on a terminal end opposite to the first end;  - nanoparticles (5) fixed to the second end of the polymer brush. The invention is further directed to a method for obtaining said sensor and the use of the sensor for detecting a variety of organic analytes.
+</Abstract>
+<Claims>
+<P>
+1. A sensor comprising:
+</P>
+<P>
+- a substrate (1);
+</P>
+<P>
+- a polymer brush (4) formed of polymer molecules anchored by a first end to a surface of the substrate and having a second, free end located on a terminal end opposite to the first end;
+</P>
+<P>
+- nanoparticles (5) fixed to the second end of the polymer brush.
+</P>
+<P>
+2. Sensor according to claim 1, wherein the polymer brush comprises a bonding group at the second end.
+</P>
+<P>
+3. Sensor according to one of the preceding claims, wherein the polymer brush is formed from linear polymer chains.
+</P>
+<P>
+4. Sensor according to one of the preceding claims, wherein the polymer brush is formed from hydrocarbon repeating units.
+</P>
+<P>
+5. Sensor according to one of the preceding claims, wherein the polymer brush has a density of 0.05 to 0.5 polymer chains per nm&amp;lt;2&amp;gt;.
+</P>
+<P>
+6. Sensor according to one of the preceding claims, wherein the polymer brush (4) is bound to the substrate (1) via an anchoring layer (3).
+</P>
+<P>
+7. Sensor according to claim 6, wherein the anchoring layer is formed from a polymer comprising reactive groups.
+</P>
+<P>
+8. Sensor according to one of the preceding claims, wherein the nanoparticles are formed from metals.
+</P>
+<P>
+9. Sensor according to one of the preceding claims, wherein the nanoparticles are functionalized by surface molecules comprising a functional group that may bind to the bonding group of the polymer brush.
+</P>
+<P>
+10. Sensor according to claim 9, wherein the surface molecule comprises a linking group for linking the surface molecule to the nanoparticle.
+</P>
+<P>
+11. Method for obtaining a sensor according to one of claims 1 to 10 comprising the steps of:
+</P>
+<P>
+- providing a substrate;
+</P>
+<P>
+- providing a polymer brush formed of polymer molecules anchored by a first end to a surface of the substrate and having a second, free end located on a terminal end opposite to the first end;
+</P>
+<P>
+- fixing nanoparticles to the second, free end of the polymer brush.
+</P>
+<P>
+12. Method according to claim 11, wherein the nanoparticles are fixed to the second, free end of the polymer brush by providing a dispersion of the nanoparticles in a liquid and applying said dispersion to the polymer brush anchored by the first end to the surface of the substrate.
+</P>
+<P>
+13. Method for detecting an analyte comprising the steps:
+</P>
+<P>
+- providing a sensor according to one of claims 1 to 10;
+</P>
+<P>
+- selecting a physical parameter of the sensor;
+</P>
+<P>
+- determining the physical parameter thereby obtaining a reference value;
+</P>
+<P>
+- applying a stimulus to the sensor;
+</P>
+<P>
+- determining the physical parameter of the sensor in the presence of the stimulus, thereby obtaining a measured value;
+</P>
+<P>
+- determining a difference between the reference value and the measured value.
+</P>
+<P>
+14. Method according to claim 13 wherein the physical property of the sensor is a UV/VIS-absorption.
+</P>
+<P>
+15. Method according to one of claims 13 and 14, wherein the analyte is provided in liquid phase.
+</P>
+</Claims>
+</BiblioData>

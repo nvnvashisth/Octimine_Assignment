@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NON-DESTRUCTIVE WAFER- SCALE SUB-SURFACE ULTRASONIC MICROSCOPY EMPLOYING NEAR FIELD AFM DETECTION
+</Title>
+<PublicationNumber>
+EP2150973A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SU CHANMIN [US]
+</Name>
+<Name>
+PRATER CRAIG [US]
+</Name>
+<Name>
+SU, CHANMIN
+</Name>
+<Name>
+PRATER, CRAIG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+VEECO INSTR INC [US]
+</Name>
+<Name>
+VEECO INSTRUMENTS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2150973
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080755335
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US63462
+</PriorityNumber>
+<PriorityDate>
+2008-05-12
+</PriorityDate>
+<PriorityNumber>
+US20070917301P
+</PriorityNumber>
+<PriorityDate>
+2007-05-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N29/06
+</Class>
+<Class>
+H01L21/66
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01N29/06D3
+</Class>
+<Class>
+G01Q60/06
+</Class>
+<Class>
+G01Q60/18
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</NCL>
+<Abstract>
+A method, and corresponding apparatus, of imaging sub-surface features at a plurality of locations on a sample includes coupling an ultrasonic wave into a sample at a first lateral position. The method then measures the amplitude and phase of ultrasonic energy near the sample with a tip of an atomic force microscope. Next, the method couples an ultrasonic wave into a sample at a second lateral position and the measuring step is repeated for the second lateral position. Overall, the present system and methods achieve high resolution sub-surface mapping of a wide range of samples, including silicon wafers. It is notable that when imaging wafers, backside contamination is minimized.
+</Abstract>
+<Claims>
+<P>
+1. A method of imaging sub-surface features of a sample, the method comprising the steps of:
+</P>
+<P>
+providing a scanning probe microscope (SPM), the SPM including a probe having a cantilever bearing a tip;
+</P>
+<P>
+providing an ultrasonic source that directs ultrasonic energy into the sample;
+</P>
+<P>
+coupling the ultrasonic energy from the ultrasonic source into a section of the sample at a first position;
+</P>
+<P>
+using the probe to detect an interaction between the incident ultrasonic energy and a sub-surface feature of the sample; and
+</P>
+<P>
+successively moving at least one of the sample and the ultrasonic source with a translation stage to generate relative motion between the ultrasonic source and the sample so as to couple ultrasonic energy into different sections of the sample.
+</P>
+<P>
+2. The method of claim 1, further including coupling an ultrasonic wave into the sample at a second position and repeating the measuring step for the second position.
+</P>
+<P>
+3. The method of claim 2, wherein coupling an ultrasonic wave into the sample is nondestructive to the sample.
+</P>
+<P>
+4. The method of claim 1, further including controlling tip-sample interaction so as to elicit a nonlinear probe response.
+</P>
+<P>
+5. The method of claim 4, wherein controlling tip-sample interaction includes tuning the non-linear probe response using feedback.
+</P>
+<P>
+6. The method of claim 4, further including providing a second ultrasonic source coupled to the probe that produces an ultrasonic drive wave so as to create a beat signal having a beat frequency.
+</P>
+<P>
+7. The method of claim 6, wherein providing a second ultrasonic source coupled to the probe includes integrating a piezoelectric transducer operating at GHz frequencies with the probe.
+</P>
+<P>
+8. The method of claim 1, wherein providing an ultrasonic source includes providing a ultrasonic transducer focusing generated ultrasonic waves into the section of the sample at the first position.
+</P>
+<P>
+9. The method of claim 8, wherein focusing generated ultrasonic waves includes using a Fresnel lens coupled to the ultrasonic transducer to focus the waves.
+</P>
+<P>
+10. The method of claim 8, wherein the ultrasonic source is driven to excite plural harmonics.
+</P>
+<P>
+11. The method of claim 1, wherein coupling an ultrasonic wave into a section of the sample includes providing a liquid coupling of the ultrasonic source to the sample.
+</P>
+<P>
+12. The method of claim 1, wherein coupling an ultrasonic wave into a section of the sample includes continuous wave laser acoustic excitation.
+</P>
+<P>
+13. The method of claim 1, further comprising the step of reconstructing a sub-surface structure of the sample based on the detected interaction.
+</P>
+<P>
+14. The method of claim 13, wherein the resolution of the reconstruction step is better than 100 nm.
+</P>
+<P>
+15. The method of claim 1, wherein said using step includes measuring at least one of amplitude and phase of cantilever motion.
+</P>
+<P>
+16. The method of claim 1, wherein measuring the amplitude and phase of ultrasonic energy includes using at least one of a group including an expected composition and an expected structure for the sample to guide the measurement.
+</P>
+<P>
+17. A probe-based instrument for detecting sub-surface features of a sample, the instrument comprising:
+</P>
+<P>
+a scanning probe microscope (SPM), the SPM including a probe having a cantilever bearing a tip;
+</P>
+<P>
+an ultrasonic source configured to provide an ultrasonic wave into a section of the sample at a first position;
+</P>
+<P>
+a translation stage that provides relative movement between the sample and both the probe and the ultrasonic source; and
+</P>
+<P>
+a beat signal detector, the detector measuring an interaction between the incident ultrasonic energy and a sub-surface feature of the sample.
+</P>
+<P>
+18. The probe-based instrument of claim 17, further including an actuator controlling tip-sample separation using a feedback loop until a non-linear response of the probe is optimized.
+</P>
+<P>
+19. The probe-based instrument of claim 17, wherein the sample is a semiconductor wafer of at least 200 mm in diameter.
+</P>
+<P>
+20. The probe-based instrument of claim 17, wherein the ultrasonic coupling is non-destructive to the sample.
+</P>
+<P>
+21. The probe-based instrument of claim 20, wherein fewer than 1000 particles are added to the backside of the wafer by the coupling and measurement steps.
+</P>
+<P>
+22. The probe-based instrument of claim 17, wherein the ultrasonic source is coupled to the sample via a liquid.
+</P>
+<P>
+23. The probe-based instrument of claim 17, further comprising a second ultrasonic source coupled to the probe that produces an ultrasonic drive wave so as to create a beat signal having a beat frequency.
+</P>
+<P>
+24. The probe-based instrument of claim 17, wherein the interaction causes cantilever motion, and wherein the detector measures at least one of amplitude and phase of the cantilever motion.
+</P>
+<P>
+25. A method of imaging sub-surface features locations of a sample, the method comprising the steps of:
+</P>
+<P>
+providing a probe having a cantilever and a probe tip;
+</P>
+<P>
+providing first and second ultrasonic sources generating first and second ultrasonic waves that are successively coupled into different locations on the sample;
+</P>
+<P>
+providing at least one translation stage configured to provide relative motion between the sample and the first and second ultrasonic sources;
+</P>
+<P>
+coupling an ultrasonic wave from the first ultrasonic source into a section of the sample;
+</P>
+<P>
+driving the probe with ultrasonic energy from the second ultrasonic source;
+</P>
+<P>
+measuring ultrasonic energy substantially at the sample surface caused by an interaction of the ultrasonic energy from the first and second ultrasonic sources; and
+</P>
+<P>
+moving at least one of the sample, the first ultrasonic source, and the second ultrasonic source to generate relative motion and to allow measurement at a second section of the sample.
+</P>
+<P>
+26. The method of claim 25, wherein providing a second ultrasonic source coupled to the probe includes integrating a piezoelectric transducer operating at GHz frequencies into the tip of the probe.
+</P>
+<P>
+27. The method of claim 25, wherein the measurement of the ultrasonic energy includes detection of a beat signal generated by coupling of at least one of the harmonics of the first ultrasonic source and the second ultrasonic source.
+</P>
+<P>
+28. The method of claim 27, further including tuning a non-linear response of the probe to probe sample interaction so as to create a beat signal having a frequency substantially corresponding to one of the probe resonances.
+</P>
+<P>
+29. The method of claim 28, wherein the tuning step includes a feedback loop.
+</P>
+<P>
+30. The method of claim 25, wherein coupling the ultrasonic wave from the first ultrasonic source into a section of the sample includes providing a liquid coupling of the ultrasonic source to the sample.
+</P>
+<P>
+31. The method of claim 25, further comprising the step of reconstructing a sub-surface structure of the sample based on the measurement and wherein the resolution of the reconstruction step is better than 100 nm.
+</P>
+<P>
+32. A method of imaging sub-surface features at a plurality of locations on a sample, the method comprising the steps of:
+</P>
+<P>
+releasably coupling an ultrasonic wave source to a sample;
+</P>
+<P>
+exciting a probe of a scanning probe microscope with an ultrasonic signal having a frequency greater than 1 GHz;
+</P>
+<P>
+positioning the probe relative to the sample to optimize a non-linear reaction between the probe and the sample; and
+</P>
+<P>
+detecting a beat signal to detect subsurface features of the sample to a resolution greater than 20 nm.
+</P>
+<P>
+33. The method of claim 1, wherein the moving step provides translation between at least first and second sections of the sample in less than 5 minutes.
+</P>
+<P>
+34. The method of claim 1, wherein the moving step provides translation between at least first and second sections of the sample in less than 10 seconds.
+</P>
+</Claims>
+<Also_published_as>
+EP2150973A4;US2008276695A1;WO2008141301A1;JP2010527011A
+</Also_published_as>
+</BiblioData>

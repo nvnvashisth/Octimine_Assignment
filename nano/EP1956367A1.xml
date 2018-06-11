@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Characterization of individual polymer molecules based on monomer- interface interactions
+</Title>
+<PublicationNumber>
+EP1956367A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHURCH GEORGE [US]
+</Name>
+<Name>
+DEAMER DAVID W [US]
+</Name>
+<Name>
+CHURCH, GEORGE
+</Name>
+<Name>
+DEAMER, DAVID W
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HARVARD COLLEGE [US]
+</Name>
+<Name>
+UNIV CALIFORNIA [US]
+</Name>
+<Name>
+PRESIDENT AND FELLOWS OF HARVARD COLLEGE
+</Name>
+<Name>
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1956367
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080010129
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+1996-03-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP19960909569
+</PriorityNumber>
+<PriorityDate>
+1996-03-01
+</PriorityDate>
+<PriorityNumber>
+US19950405735
+</PriorityNumber>
+<PriorityDate>
+1995-03-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C07K14/705
+</Class>
+<Class>
+C12N9/12
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N15/10
+</Class>
+<Class>
+G01N15/12
+</Class>
+<Class>
+G01N27/04
+</Class>
+<Class>
+G01N33/68
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C07K14/705
+</Class>
+<Class>
+C12N9/12J
+</Class>
+<Class>
+C12Q1/68E
+</Class>
+<Class>
+G01N33/487B5
+</Class>
+<Class>
+G01N33/68
+</Class>
+</NCL>
+<Abstract>
+The invention provides 1 method for determining the duration of interaction of a polymer with a nanopore or ion permeable passage, the method comprising the steps of: (a) providing a structure comprising a nanopore connecting a first pool and a second pool, wherein a polymer to be analyzed is placed in the first pool;  , (b) causing the polymer to traverse the ion permeable passage;  and (c) measuring the duration of step (b).
+</Abstract>
+<Claims>
+<P>
+1. A method for determining the duration of interaction of a polymer with a nanopore, the method comprising the steps of:
+</P>
+<P>
+(a) providing a structure comprising a nanopore connecting a first pool and a second pool, wherein a polymer to be analyzed is placed in the first pool;
+</P>
+<P>
+(b) causing the polymer to traverse the ion permeable passage; and
+</P>
+<P>
+(c) measuring the duration of step (b).
+</P>
+<P>
+2. A method for determining the duration of interaction of a polymer with a ion permeable passage, the method comprising the steps of:
+</P>
+<P>
+(a) providing a structure comprising an ion permeable passage connecting a first pool and a second pool, wherein a polymer to be analyzed is placed in the first pool;
+</P>
+<P>
+(b) causing the polymer to traverse the ion permeable passage; and
+</P>
+<P>
+(c) measuring the duration of step (b).
+</P>
+<P>
+3. The method of claim 1 or claim 2, wherein the structure further comprises a molecular motor.
+</P>
+<P>
+4. The method of claim 1 or claim 2, wherein a protein comprises the nanopore or ion permeable passage.
+</P>
+<P>
+5. The method of claim 1 or claim 2, wherein the structure comprises a lipid bilayer.
+</P>
+<P>
+6. The method of claim 3, wherein the molecular motor comprises a DNA polymerase, a RNA polymerase, an exonuclease, or a ribosome.
+</P>
+<P>
+7. The method of claim 6, wherein the DNA polymerase is an E. coli DNA polymerase I or a T7 DNA polymerase.
+</P>
+<P>
+8. The method of claim 6, wherein the RNA polymerase is T7 RNA polymerase.
+</P>
+<P>
+9. The method of claim 6, wherein the exonuclease is exonuclease Lambda.
+</P>
+<P>
+10. The method of claim 1 or claim 2, wherein the nanopore or ion permeable passage has a diameter of about 1.0 to 4.0 nanometers.
+</P>
+<P>
+11. The method of claim 1 or claim 2, wherein the nanopore or ion permeable passage has a diameter of about 0.5 to 2 nanometers.
+</P>
+<P>
+12. The method of claim 1 or claim 2, wherein the polymer comprises a polynucleotide.
+</P>
+<P>
+13. The method of claim 1 or claim 2, wherein the structure further comprises a DNA binding protein.
+</P>
+<P>
+14. The method of claim 1 or claim 2, wherein the measuring detects an electrical property of the structure while the polymer traverses the nanopore or ion permeable passage.
+</P>
+<P>
+15. The method of claim 1 or claim 2, wherein a protein does not comprise the nanopore or ion permeable passage.
+</P>
+</Claims>
+<Also_published_as>
+US6015714A;US5795782A;WO9629593A1;EP0815438A1;EP0815438A4;EP0815438B1
+</Also_published_as>
+</BiblioData>

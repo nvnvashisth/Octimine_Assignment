@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Delay time modulated and femtosecond time- resolved, scanning probe microscope apparatus
+</Title>
+<PublicationNumber>
+EP1967839A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SHIGEKAWA HIDEMI [JP]
+</Name>
+<Name>
+TAKEUCHI OSAMU [JP]
+</Name>
+<Name>
+YAMASHITA MIKIO [JP]
+</Name>
+<Name>
+MORITA RYUJI [JP]
+</Name>
+<Name>
+SHIGEKAWA, HIDEMI
+</Name>
+<Name>
+TAKEUCHI, OSAMU
+</Name>
+<Name>
+YAMASHITA, MIKIO
+</Name>
+<Name>
+MORITA, RYUJI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+JAPAN SCIENCE &amp; TECH AGENCY [JP]
+</Name>
+<Name>
+JAPAN SCIENCE AND TECHNOLOGY AGENCY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1967839
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080011222
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2002-11-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20020803925
+</PriorityNumber>
+<PriorityDate>
+2002-11-25
+</PriorityDate>
+<PriorityNumber>
+JP20010360047
+</PriorityNumber>
+<PriorityDate>
+2001-11-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01J3/28
+</Class>
+<Class>
+G01J3/433
+</Class>
+<Class>
+G01N21/64
+</Class>
+<Class>
+G01Q30/00
+</Class>
+<Class>
+G01Q30/02
+</Class>
+<Class>
+G01Q60/10
+</Class>
+<Class>
+G01Q60/24
+</Class>
+<Class>
+G01J1/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01J3/28S
+</Class>
+<Class>
+G01J3/433
+</Class>
+<Class>
+G01N21/64F
+</Class>
+<Class>
+G01Q30/02
+</Class>
+</NCL>
+<Abstract>
+Disclosed is a measuring apparatus for a physical phenomenon by photoexcitation, in particular a delay time modulated and time-resolved, scanning probe microscope apparatus providing an ultimate resolution both temporal and spatial. The apparatus comprises an ultrashort laser pulse generator (2);  a delay time modulating circuit (6) which splits an ultrashort laser pulse (3) produced by the ultrashort laser pulse generator (2) into two and which also modulates a delay time t d between the two ultrashort laser pulses (4 and 5) with a frequency (É);  a scanning probe microscope (17);  and a lock-in detection unit (8) which performs lock-in detection with the delay time modulation frequency (É) of a probe signal (11) from the scanning probe microscope (17). It can detect the delay time dependency of the probe signal (11) as its differential coefficient to the delay time, with no substantial influence from fluctuations in the intensity of ultrashort laser pulses (3) while preventing the probe apex (19) from thermal expansion and shrinkage by repeated irradiation with ultrashort laser pulses (3). A photoexcited physical phenomenon dependent on a delay time between ultrashort laser pulses can thus be measured at a temporal resolution in the order of femtoseconds and at a spatial resolution in the order of angstroms.
+</Abstract>
+<Claims>
+<P>
+1. A delay time modulated and femtosecond time-resolved scanning probe microscope apparatus (20), characterized in that it comprises:
+</P>
+<P>
+an ultrashort laser pulse generator (21);
+</P>
+<P>
+a delay time modulating circuit (6) for splitting an ultrashort laser pulse produced by said ultrashort laser pulse generator into two ultrashort laser pulses interspaced by a delay time while establishing a value for the delay time between the two ultrashort laser pulses and modulating the delay time centering about the established value with a fixed modulation frequency;
+</P>
+<P>
+a scanning probe microscope (7) for scanning a specimen (18) over a surface area thereof with a probe (19) wherein the probe (19) is disposed just above the specimen (18) so that a tunnel junction is formed between a probe apex and a surface of said specimen (18) when irradiated with said two ultrashort laser pulses modulated by said delay time modulating circuit (6), and
+</P>
+<P>
+a lock-in detection unit (8) for lock-in-detecting a probe signal of the specimen (18) irradiated with said ultrashort laser pulses in said scanning probe microscope (7) using the modulation frequency for the delay time as a reference signal.
+</P>
+<P>
+2. A delay time modulated and femtosecond time-resolved scanning probe microscope apparatus (20) as set forth in claim 1, characterized in that said ultrashort laser pulse generator (21) is adapted to produce a series of ultrashort laser pulses having a pulse width in the order of femtoseconds at a fixed periodicity.
+</P>
+<P>
+3. A delay time modulated and femtosecond time-resolved scanning probe microscope apparatus (20) as set forth in claim 1, characterized in that said delay time modulating circuit (6) includes a half mirror (14) and two sets of movable mirrors (15, 16) of which each set comprises mirrors fastened to a piezo stage wherein at least one of said sets of movable mirrors is adapted to be driven to change a center value of the delay time and to modulate the delay time as a center delay time with the fixed frequency.
+</P>
+<P>
+4. A delay time modulated and femtosecond time-resolved scanning probe microscope apparatus (20) as set forth in claim 1, characterized in that said lock-in detection unit (8) is adapted to perform lock-in detection using the modulation frequency as a reference frequency and thereby to detect a quantity that is proportional to a differential coefficient of said probe signal with respect to said delay time at the center value of said delay time.
+</P>
+<P>
+5. A delay time modulated and femtosecond time-resolved scanning probe microscope apparatus (20) as set forth in claim 1, characterized in that said scanning probe microscope (7) is a scanning tunneling microscope or an atomic force microscope.
+</P>
+</Claims>
+<Also_published_as>
+EP1460410A1;EP1460410A4;EP1460410B1;US2005035288A1;US7002149B2;JP3796585B2;WO03046519A1;DK1460410T3
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Extractor of photons with photonic crystals for high- yield optical micro- sources
+</Title>
+<PublicationNumber>
+EP2144099A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DE ROSSI ALFREDO [FR]
+</Name>
+<Name>
+COMBRIE SYLVAIN [FR]
+</Name>
+<Name>
+TRAN NGUYEN VY QUYNH [VN]
+</Name>
+<Name>
+DE ROSSI, ALFREDO
+</Name>
+<Name>
+COMBRIE, SYLVAIN
+</Name>
+<Name>
+TRAN, NGUYEN VY QUYNH
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+THALES SA [FR]
+</Name>
+<Name>
+THALES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2144099
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090164818
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-07-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+FR20080003984
+</PriorityNumber>
+<PriorityDate>
+2008-07-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B6/122
+</Class>
+<Class>
+H01S5/18
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B1/00M1
+</Class>
+</NCL>
+<Abstract>
+The extractor has a photonic crystal based membrane with a plane defined by two directions, where the membrane is made of silicon or lithium niobate. The plane has an assembly of patterns arranged in a manner to form an optical cavity i.e. L5 type cavity, from which photons are extracted. The membrane has a region near the optical cavity. The region comprises patterns divided along dual periodicity (2a1, 2a2) and along a direction.
+</Abstract>
+<Claims>
+<P>
+1. Extracteur de photons comportant une membrane à base de cristal photonique présentant un plan défini par deux directions comprenant un ensemble de motifs disposés de manière à former une cavité optique, depuis laquelle peuvent être extraits des photons caractérisé en ce que la membrane comporte au moins une région à proximité de la cavité, ladite région comportant des motifs répartis selon une double périodicité (a1, 2a1, a2, 2a2) et selon au moins une direction, permettant un diagramme de rayonnement présentant une forte directivité et une surface d&apos;émission homogène.
+</P>
+<P>
+2. Extracteur de photons selon la revendication 1, caractérisé en ce que la membrane comporte des motifs périodiques selon les deux directions orthogonales entre elles.
+</P>
+<P>
+3. Extracteur de photons selon l&apos;une des revendications 1 ou 2, caractérisé en ce que les doubles périodicités sont réalisées par des trous de diamètres différents.
+</P>
+<P>
+4. Extracteur de photons selon la revendication 3, caractérisé en ce que la variation relative de diamètre est de quelques pourcents.
+</P>
+<P>
+5. Extracteur de photons selon l&apos;une des revendications 1 ou 2, caractérisé en ce que les doubles périodicités sont réalisées par un déplacement des trous.
+</P>
+<P>
+6. Extracteur de photons selon la revendication 5, caractérisé en ce le déplacement relatif est de quelques pourcents.
+</P>
+<P>
+7. Extracteur de photons selon l&apos;une des revendications 1 à 6, caractérisé en ce que le ratio entre les rayons des trous et la période est compris entre environ 0,15 et 0,4.
+</P>
+<P>
+8. Extracteur de photons selon l&apos;une des revendications 1 à 7, caractérisé en ce que le diamètre moyen des trous est de l&apos;ordre de 250 nanomètres, la période la plus petite étant de l&apos;ordre de 400 nanomètres de manière à émettre des photons dans une bande spectrale de l&apos;ordre de 1300nm à1600 nm, pour des applications de télécommunications.
+</P>
+<P>
+9. Extracteur de photons selon l&apos;une des revendications 1 à 7, caractérisé en ce que la période de la structure relative à la longueur d&apos;onde correspondant au domaine spectral concerné est de l&apos;ordre de 0.25 à 0.35.
+</P>
+<P>
+10. Extracteur de photons selon l&apos;une des revendications 1 à 7, caractérisé en ce que la membrane est réalisée dans un matériau semiconducteur de type silicium.
+</P>
+<P>
+11. Extracteur de photons selon l&apos;une des revendications 1 à 7, caractérisé en ce que la membrane est réalisée dans un matériau III-V de type GaAs, GaAlAs, INP, GaInP.
+</P>
+<P>
+12. Extracteur de photons selon l&apos;une des revendications 1 à 7, caractérisé en ce que la membrane est réalisée dans un matériau électro-optique de type LiNb03.
+</P>
+<P>
+13. Extracteur de photons selon l&apos;une des revendications 1 à 7, caractérisé en ce que la membrane est réalisée dans un matériau non-linéaire optiquement de type matériau ferroélectrique.
+</P>
+<P>
+14. Dispositif optique comportant un extracteur de photons selon l&apos;une des revendications 1 à 13, ledit extracteur de photons étant couplé à un guide d&apos;onde ou à une autre microstructure réalisée sur la membrane, de manière à injecter et extraire un signal optique dans ladite membrane.
+</P>
+</Claims>
+<Also_published_as>
+US2010046572A1;FR2933781A1
+</Also_published_as>
+</BiblioData>

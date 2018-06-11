@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PASSIVATING LAYER FOR PHOTOVOLTAIC CELLS
+</Title>
+<PublicationNumber>
+EP1974391A2
+</PublicationNumber>
+<Inventor>
+<Name>
+LEE KWANGHEE [US]
+</Name>
+<Name>
+HEEGER ALAN J [US]
+</Name>
+<Name>
+LEE, KWANGHEE
+</Name>
+<Name>
+HEEGER, ALAN J
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV CALIFORNIA [US]
+</Name>
+<Name>
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1974391
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070717250
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US60124
+</PriorityNumber>
+<PriorityDate>
+2007-01-04
+</PriorityDate>
+<PriorityNumber>
+US20060756604P
+</PriorityNumber>
+<PriorityDate>
+2006-01-04
+</PriorityDate>
+<PriorityNumber>
+US20060872401P
+</PriorityNumber>
+<PriorityDate>
+2006-02-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L27/15
+</Class>
+<Class>
+H01L33/00
+</Class>
+<Class>
+H01L51/10
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/10P
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+H01L51/44P
+</Class>
+<Class>
+H01L51/50G
+</Class>
+<Class>
+H01L51/50K
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+An electronic device which comprises a first electrode, a second electrode, an active polymer layer between the first and the second electrodes, and a passivating layer adapted to enhance the lifetime of the electronic device. The passivating layer comprises a substantially amorphous titanium oxide having the formula of TiOx where x represents a number from 1 to 1.96.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An electronic device comprising a first electrode, a second electrode, an active polymer layer between the first and the second electrodes, and a passivating layer adapted to enhance lifetime of the electronic device, wherein the passivating layer comprises a substantially amorphous titanium oxide having the formula of TiOx where x represents a number from 1 to 1.96.
+</P>
+<P>
+2. The electronic device of Claim 1 wherein in the formula of TiOx, x represents a number from 1.1 to 1.9.
+</P>
+<P>
+3. The electronic device of Claim 1 wherein in the formula of TiOx, x represents a number from 1.2 to 1.9.
+</P>
+<P>
+4. The electronic device of Claim 1 wherein the titanium oxide layer has a thickness ranging from 5 to 500 nanometers.
+</P>
+<P>
+5. The electronic device of Claim 1 wherein the titanium oxide layer has a thickness ranging from 5 to 100 nanometers.
+</P>
+<P>
+6. The electronic device of Claim 1 wherein the titanium oxide layer has a thickness ranging from 10 to 40 nanometers.
+</P>
+<P>
+7. The electronic device of Claim 1 wherein the titanium oxide layer is positioned adjacent to the active polymer layer.
+</P>
+<P>
+8. The electronic device of Claim 1 wherein the titanium oxide layer is positioned between the active polymer layer and one of the first and the second electrodes.
+</P>
+<P>
+9. The electronic device of Claim 1 wherein the titanium oxide layer is a boundary layer of the electronic device.
+</P>
+<P>
+10. The electronic device of Claim 1 which is a polymer diode.
+</P>
+<P>
+11. The electronic device of Claim 1 which is a polymer light-emitting diode.
+</P>
+<P>
+12. The electronic device of Claim 1 which is a photodiode.
+</P>
+<P>
+13. The electronic device of Claim 1 which is a photodetector.
+</P>
+<P>
+14. A light-emitting diode comprising an electron-injecting electrode, a hole- injecting electrode, a luminescent polymer layer between the electron-injecting electrode and the hole-injecting electrode, and a layer of substantially amorphous titanium oxide having the formula of TiOx where x represents a number from 1 to 1.96.
+</P>
+<P>
+15. The light-emitting diode of Claim 14 wherein in the formula Of TiOx, x represents a number from 1.1 to 1.9.
+</P>
+<P>
+16. The light-emitting diode of Claim 14 wherein in the formula Of TiOx, x represents a number from 1.2 to 1.9.
+</P>
+<P>
+17. The light-emitting diode of Claim 14 wherein the layer of titanium oxide has a thickness ranging from 10 to 40 nanometers.
+</P>
+<P>
+18. The light-emitting diode of Claim 14 wherein the layer of titanium oxide has a thickness of about 20 nanometers.
+</P>
+<P>
+19. The light-emitting diode of Claim 14 wherein the layer of titanium oxide is positioned between the luminescent polymer layer and the electron injecting electrode.
+</P>
+<P>
+20. The light-emitting diode of Claim 19 wherein the electron-injecting electrode comprises a metal electrode, the hole-injecting electrode comprises an indium-tin oxide and a hole injection layer of poly(3,4-ethylenedioxylenethiophene)-polystyrene sulfonic acid (ITO/P EDOT: PSS) bilayer electrode, the luminescent polymer layer comprises a luminescent semiconducting polymer of poly(2-methoxy, 5-(2&apos;-ethyl-hexyloxy)-1 A- phenylenevinylene) (MEH-PPV), and the layer of titanium oxide has a thickness of about 20 nanometers.
+</P>
+<P>
+21. A field-effect transistor comprising a gate electrode, a gate dielectric, a source electrode, a drain electrode, a semiconducting polymer layer, and a layer of substantially amorphous titanium oxide having the formula Of TiOxwhere x represents a number from 1 to 1.96.
+</P>
+<P>
+22. The field-effect transistor of Claim 21 wherein the titanium oxide layer is atop the semiconducting polymer layer.
+</P>
+<P>
+23. The field-effect transistor of Claim 21 wherein the titanium oxide layer is a boundary layer of the field-effect transistor.
+</P>
+<P>
+24. The field-effect transistor of Claim 21 wherein in the formula Of TiOx, x represents a number from 1.1 to 1.9.
+</P>
+<P>
+25. The field-effect transistor of Claim 21 wherein in the formula of TiOx, x represents a number from 1.2 to 1.9.
+</P>
+<P>
+26. The field-effect transistor of Claim 21 wherein the titanium oxide layer has a thickness ranging from 5 to 500 nanometers.
+</P>
+<P>
+27. The field-effect transistor of Claim 21 wherein the titanium oxide layer has a thickness ranging from 5 to 100 nanometers.
+</P>
+<P>
+28. The field-effect transistor of Claim 21 wherein the titanium oxide layer has a thickness ranging from 10 to 40 nanometers.
+</P>
+<P>
+29. A photodetector comprising an electron-collecting electrode, a hole- collecting electrode, a photoactive, charge-separating layer comprising a semiconducting polymer blended with a suitable acceptor between the electron- collecting and the hole-collecting electrode, and a layer of substantially amorphous titanium oxide having a formula Of TiOx where x represents a number from 1 to 1.96.
+</P>
+<P>
+30. The photodetector of Claim 29 wherein in the formula of TiOx, x represents a number from 1.1 to 1.9.
+</P>
+<P>
+31. The photodetector of Claim 29 wherein in the formula of TiOx, x represents a number from 1.2 to 1.9.
+</P>
+<P>
+32. The photodetector of Claim 29 wherein the layer of titanium oxide has a thickness ranging from 10 to 40 nanometers.
+</P>
+<P>
+33. The photodetector of Claim 29 wherein the layer of titanium oxide is positioned between the photoactive polymer layer and the electron-collecting electrode.
+</P>
+<P>
+34. The photodetector of Claim 33 wherein the electron-collecting electrode comprises a metal electrode, the hole-collecting electrode comprises an indium-tin oxide and poly(3,4-ethylenedioxylenethiophene)~polystyrene sulfonic acid (ITO/PEDOT:PSS) bilayer electrode, and the photoactive polymer layer comprises poly(3-hexylthiophene) and [6,6,]-phenyl-C6i-butyric acid methyl ester (P3HT:PCBM).
+</P>
+</Claims>
+<Also_published_as>
+EP1974391A4;WO2007079498A2;WO2007079498A3;WO2007079500A2;WO2007079500A9;WO2007079500A3;US2012025174A1;US2007221926A1;JP2009522818A;JP2009536445A;EP1974386A2;EP1974386A4
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+production method of layered crystal material
+</Title>
+<PublicationNumber>
+EP2116635A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SHIOZAKI RYUJI [JP]
+</Name>
+<Name>
+MARUYAMA DAISUKE [JP]
+</Name>
+<Name>
+ANDO NOBUO [JP]
+</Name>
+<Name>
+SHIOZAKI, RYUJI
+</Name>
+<Name>
+MARUYAMA, DAISUKE
+</Name>
+<Name>
+ANDO, NOBUO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FUJI HEAVY IND LTD [JP]
+</Name>
+<Name>
+FUJI JUKOGYO KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2116635
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090157926
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-04-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20080113614
+</PriorityNumber>
+<PriorityDate>
+2008-04-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01G31/02
+</Class>
+<Class>
+C30B29/30
+</Class>
+<Class>
+C30B7/08
+</Class>
+<Class>
+H01M4/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G31/02
+</Class>
+<Class>
+C30B29/16
+</Class>
+<Class>
+C30B29/30
+</Class>
+<Class>
+C30B29/60
+</Class>
+<Class>
+C30B7/08
+</Class>
+<Class>
+H01M4/485
+</Class>
+<Class>
+Y02E60/12B
+</Class>
+</NCL>
+<Abstract>
+An ammonium metavanadate is heat-treated to 500  DEG C or less at a predetermined rate of temperature rise, whereby microcrystal particles of a vanadium pentoxide can be formed. According to the production method described above, crystals of a nano-vanadium having a layer length of 100 nm or less can be formed. The nano-vanadium formed by the production method described above can effectively be used for an electrode (11, 12) of an electric storage device (10) such as a battery. The production method according to the present invention can be linked to a conventional production method in which an ammonium metavanadate can be formed in the course of the method, whereby the present invention can smoothly be embodied.
+</Abstract>
+<Claims>
+<P>
+1. A production method of a layered crystal material of microcrystals of a vanadium oxide having a layer length of 100 nm, the method comprising:
+</P>
+<P>
+- a nano-crystallizing process for growing crystals so as to have a layer length of 100 nm or less, wherein
+</P>
+<P>
+the nano-crystallizing process includes a heat-treatment process for heating a salt of vanadic acid at a temperature equal to or less than a predetermined temperature.
+</P>
+<P>
+2. The method according to claim 1,
+</P>
+<P>
+wherein the nano-crystallizing process includes a process for heat-treating an ammonium metavanadate to 500[deg.]C or less.
+</P>
+<P>
+3. The method according to claim 1 or 2,
+</P>
+<P>
+wherein the ammonium metavanadate is heat-treated to 150[deg.]C or more.
+</P>
+<P>
+4. The method according to claim 2 or 3,
+</P>
+<P>
+wherein the ammonium metavanadate is formed by salting-out from a soluble salt of vanadic acid.
+</P>
+<P>
+5. The method according to claim 4,
+</P>
+<P>
+wherein the soluble salt of vanadic acid is a salt of an alkali metal.
+</P>
+<P>
+6. The method according to claim 4 or 5,
+</P>
+<P>
+wherein the soluble salt of vanadic acid is a sodium salt.
+</P>
+<P>
+7. The method according to any one of claims 4 to 6,
+</P>
+<P>
+wherein the soluble salt of vanadic acid is formed with a combustion ash being used as a material.
+</P>
+<P>
+8. The method according to any of claims 1 to 7,
+</P>
+<P>
+wherein the microcrystals having a layer length of 100 nm or less but not including 0 are used for an electrode (11, 12) of an electric storage device (10).
+</P>
+<P>
+9. The method according to claim 8,
+</P>
+<P>
+wherein the electric storage device (10) is a lithium ion secondary battery.
+</P>
+</Claims>
+<Also_published_as>
+EP2116635A3;US2009269274A1;JP2009263158A;CN101565206A
+</Also_published_as>
+</BiblioData>

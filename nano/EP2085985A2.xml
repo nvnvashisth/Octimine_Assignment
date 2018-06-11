@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Dye sensitized solar cell
+</Title>
+<PublicationNumber>
+EP2085985A2
+</PublicationNumber>
+<Inventor>
+<Name>
+WANG PENG [CN]
+</Name>
+<Name>
+ZAKEERUDDIN SHAIK MOHAMMAD [CH]
+</Name>
+<Name>
+GRAETZEL MICHAEL [CH]
+</Name>
+<Name>
+WANG, PENG
+</Name>
+<Name>
+ZAKEERUDDIN, SHAIK MOHAMMAD
+</Name>
+<Name>
+GRAETZEL, MICHAEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ECOLE POLYTECH [CH]
+</Name>
+<Name>
+ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE (EPFL)
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2085985
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090159845
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-04-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040730173
+</PriorityNumber>
+<PriorityDate>
+2004-04-29
+</PriorityDate>
+<PriorityNumber>
+EP20030405306
+</PriorityNumber>
+<PriorityDate>
+2003-04-30
+</PriorityDate>
+<PriorityNumber>
+EP20090159845
+</PriorityNumber>
+<PriorityDate>
+2004-04-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01G9/20
+</Class>
+<Class>
+H01L51/30
+</Class>
+<Class>
+H01L51/40
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01G9/20B2
+</Class>
+<Class>
+H01G9/20D2
+</Class>
+<Class>
+H01L51/00M12F4
+</Class>
+<Class>
+H01L51/42D2B
+</Class>
+<Class>
+Y02E10/54D
+</Class>
+</NCL>
+<Abstract>
+A dye sensitized solar cell, wherein a compacting compound whose molecular structure comprises a terminal group, a hydrophobic part and an anchoring group is co-adsorbed together with the dye on the semi-conductive metal oxide layer of the photoanode, forming a dense mixed self-assembled monolayer.
+</Abstract>
+<Claims>
+<P>
+1. A regenerative photoelectrochemical cell comprising a photoanode, said photoanode comprising at least one semi-conductive metal oxide layer on a conductive substrate, sensitized by a photosensitizer dye, a counter electrode and an electrolyte arranged between said semi-conductive metal oxide layer and said counter electrode, wherein an amphiphilic compacting compound whose molecular structure comprises at least one anchoring group, a hydrophobic portion and a terminal group is co-adsorbed with said photosensitizing dye on said semi-conductive metal oxide layer in a mixed monolayer, characterized in that said terminal group of said amphiphilic compacting compound is a cationic group.
+</P>
+<P>
+2. A cell as claimed in claim 1, characterized in that said photosensitizing dye and said compacting compound form a self-assembled mixed monolayer on said semi-conductive metal oxide layer, wherein the molar ratio of said photosensitizing dye to said co-adsorbed compacting compound is of between 10 and 1/2, in particular of between 5 and 1.
+</P>
+<P>
+3. A cell as claimed in claim 2, characterized in that said self-assembled monolayer is a dense packed monolayer having an order-disorder transition temperature above 80[deg.] C.
+</P>
+<P>
+4. A cell as claimed in anyone of the preceding claims, characterized in that said anchoring group of said compacting compound is selected from the group consisting of COOH, PO3H2, PO4H2, SO3H2, SO4H2, CONHOH&amp;lt;-&amp;gt; and deprotonated forms thereof.
+</P>
+<P>
+5. A cell as claimed in anyone of claims 1 to 3, characterized in that said anchoring group of said compacting compound is a chelating group with [Pi]-conducting character, in particular an oxyme, dioxyme, hydroxyquinoline, salicylate or [alpha]-keto-enolate group.
+</P>
+<P>
+6. A cell as claimed in anyone of claims 1 to 5, characterized in that said cationic terminal group is a group selected from ammonium, phosphonium and sulfonium groups.
+</P>
+<P>
+7. A cell as claimed in anyone of the preceding claims, characterized in that the length of said hydrophobic chain portion of the compacting compound allows said terminal group to protrude above the sensitizing dye in said monolayer.
+</P>
+<P>
+8. A cell as claimed in claim 1, characterized in that said compacting compound is selected from the group of compounds having one of formulae (1) to (27):
+</P>
+<P>
+With the proviso
+</P>
+<P>
+that P = Q = H (hydrogen)
+</P>
+<P>
+or P = H and Q = F (fluoride)
+</P>
+<P>
+or P = Q = F
+</P>
+<P>
+that X and X&apos; are, independently one from the other, one of the groups SO3&amp;lt;-&amp;gt;, CO2&amp;lt;-&amp;gt;, PO3&amp;lt;2-&amp;gt;, PO3H&amp;lt;-&amp;gt; and CONHO&amp;lt;-&amp;gt;
+</P>
+<P>
+that n, n&apos; and n&quot; designate the same or different integers from 1 to 20
+</P>
+<P>
+that Y and Y&apos; are, independently one from the other, a group having one of formulae (102) to (105)
+</P>
+<P>
+Wherein R1, R2, R3 designate independently one from the other H, a phenyl group or an alkyl group of 1 to 20 carbon atoms.
+</P>
+<P>
+9. A cell according to anyone of the preceding claims, characterized in that said sensitizing dye is a ruthenium, osmium or iron complex with ligands selected from bidentate, tridentate and polydentate polypyrydil compounds and at least one anchoring group.
+</P>
+<P>
+10. A cell according to anyone of the preceding claims, characterized in that said sensitizing dye is an amphiphilic ruthenium polypyrydil complex.
+</P>
+<P>
+11. A cell as claimed in anyone of the preceding claims, characterized in that said sensitizing dye is a Ru(II) complex of formula RuLL&apos;(NCS)2, in which L represents the ligand 4,4&apos;-dicarboxylate-2,2&apos;-bipyridine and L&apos; represents the ligand 4,4&apos;-nonyl-2,2&apos;-bipyridine.
+</P>
+<P>
+12. A cell as claimed in anyone of the preceding claims, characterized in that said electrolyte comprises an effective gelifying amount of a gelifying compound.
+</P>
+<P>
+13. A cell as claimed in anyone of the preceding claims, characterized in that said electrolyte comprises a redox system and said redox system comprises an electrochemically active salt and a first compound forming a redox couple with either the anion or the cation of said electrochemically active salt.
+</P>
+<P>
+14. A cell as claimed in anyone of the preceding claims, characterized in that said electrolyte comprises a room temperature molten salt, said molten salt being liquid at least between standard room temperature and 80[deg.]C above said room temperature.
+</P>
+<P>
+15. A cell as claimed in anyone of the preceding claims, characterized in that said electrolyte further comprises, as an additive, a compound formed by a neutral molecule comprising one or more nitrogen atom(s) with a lone electron pair.
+</P>
+</Claims>
+<Also_published_as>
+EP2085985A3;EP2085985B1;EP1473745A1;US2008006322A1;JP2006525632A;EP1620869A2;EP1620869B1;WO2004097871A2;WO2004097871A3;AU2004235426A1;AU2004235426B2;AT535923T;AT438192T
+</Also_published_as>
+</BiblioData>

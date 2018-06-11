@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NITRIDE NANOWIRES AND METHOD OF PRODUCING SUCH
+</Title>
+<PublicationNumber>
+EP2102899A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SEIFERT WERNER [DE]
+</Name>
+<Name>
+ASOLI DAMIR [SE]
+</Name>
+<Name>
+BI ZHAOXIA [SE]
+</Name>
+<Name>
+SEIFERT, WERNER
+</Name>
+<Name>
+ASOLI, DAMIR
+</Name>
+<Name>
+BI, ZHAOXIA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+QUNANO AB [SE]
+</Name>
+<Name>
+QUNANO AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2102899
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080705308
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008SE50036
+</PriorityNumber>
+<PriorityDate>
+2008-01-14
+</PriorityDate>
+<PriorityNumber>
+SE20070000102
+</PriorityNumber>
+<PriorityDate>
+2007-01-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C30B25/00
+</Class>
+<Class>
+H01L21/20
+</Class>
+<Class>
+H01L29/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C30B25/00
+</Class>
+<Class>
+C30B29/40B2
+</Class>
+<Class>
+C30B29/60
+</Class>
+<Class>
+H01L21/02K4B1B1
+</Class>
+<Class>
+H01L21/02K4C1B1
+</Class>
+<Class>
+H01L21/02K4C5M6
+</Class>
+<Class>
+H01L21/02K4E3C
+</Class>
+<Class>
+H01L21/02K4E3S
+</Class>
+<Class>
+H01L21/02K4E3S3
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+<Class>
+H01L29/20B
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to the growing of nitride semiconductors, applicable for a multitude of semiconductor devices such as diodes, LEDs and transistors. According to the method of the invention nitride semiconductor nanowires are grown utilizing a CVD based selective area growth technique. A nitrogen source and a metal-organic source are present during the nanowire growth step and at least the nitrogen source flow rate is continuous during the nanowire growth step. The V/III-ratio utilized in the inventive method is significantly lower than the V/III-ratios commonly associated with the growth of nitride based semiconductor.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A method of growing nitride based semiconductor nanowires utilising a CVD based selective area growth technique, wherein a nitrogen source and a metal-organic source is present during a nanowire growth step, the method characterized in that the nitrogen source flow rate is continuous during the nanowire growth step.
+</P>
+<P>
+2. The nanowire growth method according to claim 1 , wherein the metal-organic source flow rate is continuous during the nanowire growth step.
+</P>
+<P>
+3. The nanowire growth method according to claim 2, wherein the relations between the nitrogen source flow rate and the metal- organic source flow rate, hereinafter referred to as the V/ Ill-ratio, is in the range of 1- 100.
+</P>
+<P>
+4. The nanowire growth method according to claim 3, wherein the relations between the flow rates are such that the V/ Ill-ratio is in the range of 1-50.
+</P>
+<P>
+5. The nanowire growth method according to claim 4, wherein the relations between the flow rates are such that the V/ Ill-ratio is in the range of 5-50.
+</P>
+<P>
+6. The nanowire growth method according to any of claims 2 to 5, wherein the V/ Ill-ratio is constant during the nanowire growth step.
+</P>
+<P>
+7. The nanowire growth method according to any of claims 2 to 6, wherein the nitride based semiconductor is GaN, and the nitrogen source is ammonia, NH3 and the metal-organic source is trimethylgallium, TMG.
+</P>
+<P>
+8. The nanowire growth method according to any of claims 1 to 7, comprising the steps of: -(a) Providing a growth mask ( 1 1 1) on a substrate ( 1 10); -(b) Produce openings ( 1 13) in the growth mask ( 1 1 1); -(c) Growing Nanowires by a CVD based process wherein the precursor source flows are continuous.
+</P>
+<P>
+9. The nanowire growth method according to claim 8, further comprising a pre-treatment step (c&apos;) wherein at least one of precursor source flows are active, but the conditions are adjusted such that no nanowire growth appears.
+</P>
+<P>
+10. The nanowire growth method according to claim 8, wherein the pre- treatment step comprises an annealing step.
+</P>
+<P>
+1 1. The nanowire growth method according to any of claims 8 to 10, further comprising a planar growth phase to be taken after the nanowire growth step (c), the planar growth phase comprising at least one growth step resulting in a shell layer on the nanowires, wherein a V/ Ill-ratio is utilized which is higher than the V/ Ill-ratio of the nanowire growth step.
+</P>
+<P>
+12. The nanowire growth method according to claim 1 1 , wherein the /Ill-ratio of the planar growth step is at least 10 times higher than the V/III-ratio of the nanowire growth step.
+</P>
+<P>
+13. The nanowire growth method according to any of claims 1 to 12, wherein a doping source is introduced to stabilize the nanowire growth conditions.
+</P>
+<P>
+14. A nanowire ( 1 10) of a nitride semiconductor, the nanowire epitaxially connected and upstanding from a substrate ( 105), characterized in that the nanowire ( 1 10) has the same crystal structure through its entire length.
+</P>
+<P>
+15. A semiconductor device comprising a plurality of nanowires (105), the nanowires epitaxially connected and upstanding from a substrate ( 105), characterized in that at least a majority of the nanowires each has the same crystal structure through their respective entire length.
+</P>
+<P>
+16. The semiconductor device according to claim 15, wherein at least 90% of the nanowires each has the same crystal structure through their respective entire length.
+</P>
+<P>
+17. The semiconductor device according to claim 16, wherein at least 99% of the nanowires each has the same crystal structure through their respective entire length.
+</P>
+<P>
+18. The semiconductor device according to claim 15, wherein the nanowires are provided with a volume element ( 1 15) comprising at least one shell layer ( 1 16).
+</P>
+<P>
+19. The semiconductor device according to claim 18, wherein the semiconductor device is a LED, wherein the plurality of nanowires are individual nanostructured LEDs, and the pn-junction associated with the LED functionality is provided by the nanowires
+</P>
+<P>
+(105) combined with their respective volume elements ( 1 15).
+</P>
+<P>
+20. The semiconductor device according to claim 15, wherein the nanowires are of GaN.
+</P>
+<P>
+21. The semiconductor device according to claim 19 and 20, wherein the volume elements comprises a plurality of shell layers and at least one of the shell layers is of InGaN.
+</P>
+</Claims>
+<Also_published_as>
+WO2008085129A1;US2011143472A1;US2010163840A1;US7829443B2;KR20090101960A;JP2010515651A;CN101681813A;CA2674448A1;AU2008203934A1;AU2008203934A2
+</Also_published_as>
+</BiblioData>

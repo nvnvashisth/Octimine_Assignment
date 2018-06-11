@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+IMPRINT METHOD, CHIP PRODUCTION PROCESS, AND IMPRINT APPARATUS
+</Title>
+<PublicationNumber>
+EP2126632A1
+</PublicationNumber>
+<Inventor>
+<Name>
+OKUSHIMA SHINGO [JP]
+</Name>
+<Name>
+SEKI JUNICHI [JP]
+</Name>
+<Name>
+TERASAKI ATSUNORI [JP]
+</Name>
+<Name>
+OKUSHIMA, SHINGO
+</Name>
+<Name>
+SEKI, JUNICHI
+</Name>
+<Name>
+TERASAKI, ATSUNORI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2126632
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080738738
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP55354
+</PriorityNumber>
+<PriorityDate>
+2008-03-17
+</PriorityDate>
+<PriorityNumber>
+JP20070068628
+</PriorityNumber>
+<PriorityDate>
+2007-03-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B29C37/00
+</Class>
+<Class>
+B29C45/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B29C35/08M
+</Class>
+<Class>
+B29C37/00F
+</Class>
+<Class>
+B29C43/00B
+</Class>
+<Class>
+B29C43/02B
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+An imprint method is constituted by a step of curing a resin material formed on a substrate in a state in which an imprint pattern of a mold is in contact or proximity with the resin material, and a step of parting the mold from the cured resin material. The parting is effected while irradiating an entire area in which the imprint pattern of the mold is formed and the cured resin material with an electromagnetic wave for ionizing gaseous molecules in an atmosphere in which the mold and the cured resin material are placed.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. An imprint method comprising: curing a resin material formed on a substrate in a state in which an imprint pattern of a mold is in contact or proximity with the resin material; and parting the mold from the cured resin material, wherein the parting is effected while irradiating an entire area in which the imprint pattern of the mold is formed and the cured resin material with an electromagnetic wave for ionizing gaseous molecules in an atmosphere in which the mold and the cured resin material are placed.
+</P>
+<P>
+2. A method according to Claim 1, wherein the parting is effected by the irradiation of the electromagnetic wave while removing electrification generated on the resin material and the mold.
+</P>
+<P>
+3. A method according to Claim 1, wherein the irradiation of the cured resin material with the electromagnetic wave is performed through the mold.
+</P>
+<P>
+4. A method according to Claim 1, wherein the electromagnetic wave has a wavelength selected from a range of 100 nm or more and less than 200 nm.
+</P>
+<P>
+5. A method according to Claim 1, wherein the electromagnetic wave is X-rays and has a wavelength of 0.1 nm or less .
+</P>
+<P>
+6. A method according to Claim 1, wherein after the resin material formed on the substrate is cured, inert gas for the ionization is introduced into the atmosphere in which the mold and the cured resin material are placed.
+</P>
+<P>
+7. A method according to Claim 1, wherein after the resin material formed on the substrate is cured, an ambient pressure in the atmosphere in which the mold and the cured resin material are placed is 0.1 Pa or more and 100 Pa or less.
+</P>
+<P>
+8. A method according to Claim 8, wherein a wavelength of light subjected irradiation for curing the resin material and a wavelength of the electromagnetic wave for ionizing the gaseous molecules in the atmosphere are different from each other.
+</P>
+<P>
+9. A method according to Claim 2, wherein after contact of the resin material with a pattern forming surface at which the imprint pattern is formed is effected in a state in which a pressure in the atmosphere in which the mold and the resin material are placed is 0.1 Pa or more and 100 Pa or less, the electrification is removed by introducing inert gas into the atmosphere.
+</P>
+<P>
+10. A chip production process comprising: preparing a member, including a substrate and a resin material cured on the substrate, obtained by using an imprint method according to Claim 1; and processing the substrate with the resin material as a mask.
+</P>
+<P>
+11. An imprint apparatus for effecting imprint onto a resin material on a substrate, comprising: a mold holding portion for holding a mold having a pattern forming surface at which an imprint pattern is formed; a substrate holding portion for holding the substrate; and - an electromagnetic wave generation source for ionizing gaseous molecules in an atmosphere in which the mold held by said mold holding portion is placed, wherein said electromagnetic wave generation source is disposed so that the mold is irradiated with an electromagnetic wave generated from said electromagnetic wave so that the electromagnetic wave travels from a surface, of the mold opposite from the pattern forming surface, toward the pattern forming surface .
+</P>
+<P>
+12. An apparatus according to Claim 11, wherein said electromagnetic wave generation source is used for removing electrification generated on the mold and the resin material.
+</P>
+<P>
+13. An apparatus according to Claim 11, wherein said imprint apparatus further comprises a resin material curing light source for curing the resin material on the substrate.
+</P>
+<P>
+14. An apparatus according to Claim 13, wherein the mold is irradiated with light from the light source and the electromagnetic wave from said electromagnetic wave by using a common irradiation mechanism.
+</P>
+<P>
+15. An apparatus according to Claim 11, wherein said electromagnetic wave generation source functions also as the resin material curing light source.
+</P>
+<P>
+16. An apparatus according to Claim 11, wherein the electromagnetic wave generated from said electromagnetic wave has a wavelength selected from a range of 100 nm or more and less than 200 nm.
+</P>
+<P>
+17. An apparatus according to Claim 11, wherein the resin material is a photocurable resin material and said imprint apparatus further comprises a photocuring light source as means for irradiating the resin material with light for curing the resin material .
+</P>
+<P>
+18. An apparatus according to Claim 17, wherein irradiation of light from the light source and light generated from said electromagnetic wave generation source is performed by an identical irradiation mechanism.
+</P>
+<P>
+19. An apparatus according to Claim 18, wherein the light from the irradiation mechanism has a wavelength for curing the photocurable resin material and a wavelength for removing the electrification.
+</P>
+</Claims>
+<Also_published_as>
+WO2008114881A1;US2009098688A1;KR20090130294A;KR101114178B1;JP2008260273A;CN101632040A;CN101632040B
+</Also_published_as>
+</BiblioData>

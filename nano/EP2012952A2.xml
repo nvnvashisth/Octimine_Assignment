@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOPARTICLES, METHODS OF MAKING, AND APPLICATIONS USING SAME
+</Title>
+<PublicationNumber>
+EP2012952A2
+</PublicationNumber>
+<Inventor>
+<Name>
+YANG ZHIHAO [US]
+</Name>
+<Name>
+WANG HAO [US]
+</Name>
+<Name>
+XU ZHIYONG [US]
+</Name>
+<Name>
+YANG, ZHIHAO
+</Name>
+<Name>
+WANG, HAO
+</Name>
+<Name>
+XU, ZHIYONG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOMAS TECHNOLOGIES INC [US]
+</Name>
+<Name>
+NANOMAS TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2012952
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070755325
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US09013
+</PriorityNumber>
+<PriorityDate>
+2007-04-12
+</PriorityDate>
+<PriorityNumber>
+US20060791325P
+</PriorityNumber>
+<PriorityDate>
+2006-04-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B22F1/00
+</Class>
+<Class>
+B22F9/24
+</Class>
+<Class>
+C01B13/32
+</Class>
+<Class>
+C01G9/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B22F9/24
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G1/02
+</Class>
+<Class>
+C09C1/04B
+</Class>
+</NCL>
+<Abstract>
+Methods for forming nanoparticles under commercially attractive conditions. The nanoparticles can have very small size and high degree of monodispersity. Low temperature sintering is possible, and highly conductive films can be made. Semiconducting and electroluminescent films can be also made. One embodiment provides a method comprising: (a) providing a first mixture comprising at least one nanoparticle precursor and at least one first solvent for the nanoparticle precursor, wherein the nanoparticle precursor comprises a salt comprising a cation comprising a metal;  (b) providing a second mixture comprising at least one reactive moiety reactive for the nanoparticle precursor and at least one second solvent for the reactive moiety, wherein the second solvent phase separates when it is mixed with the first solvent;  and (c) combining said first and second mixtures in the presence of a surface stabilizing agent, wherein upon combination the first and second mixtures phase-separate and nanoparticles are formed.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method comprising:
+</P>
+<P>
+(a) providing a first mixture comprising at least one nanoparticle precursor and at least one first solvent for the nanoparticle precursor, wherein the nanoparticle precursor comprises a salt comprising a cation comprising a metal;
+</P>
+<P>
+(b) providing a second mixture comprising at least one reactive moiety reactive for the nanoparticle precursor and at least one second solvent for the reactive moiety, wherein the second solvent phase separates when it is mixed with the first solvent; and
+</P>
+<P>
+(c) combining said first and second mixtures in the presence of a surface stabilizing agent, wherein upon combination the first and second mixtures phase-separate and nanoparticles are formed.
+</P>
+<P>
+2. The method according to claim 1, wherein the first solvent comprises an organic solvent, and the second solvent comprises water.
+</P>
+<P>
+3. The method according to claim 1, wherein the metal comprises a transition metal.
+</P>
+<P>
+4. The method according to claim 1, wherein the reactive moiety comprises a reducing agent.
+</P>
+<P>
+5. The method according to claim 1, wherein the surface stabilizing agent comprises at least one alkylene group and a nitrogen atom or an oxygen atom.
+</P>
+<P>
+6. The method according to claim 1 , wherein the surface stabilizing agent comprises an amino compound, a carboxylic acid compound, or a thiol compound.
+</P>
+<P>
+7. The method according to claim 1, wherein the combination is carried out without external application of heat or cooling.
+</P>
+<P>
+32
+</P>
+<P>
+WASH 1854072.1
+</P>
+<P>
+8. A method comprising:
+</P>
+<P>
+(a) providing a first mixture comprising at least one nanoparticle precursor and at least one first solvent for the nanoparticle precursor, wherein the nanoparticle precursor comprises a salt comprising an inorganic cation;
+</P>
+<P>
+(b) providing a second mixture comprising at least one reactive moiety reactive for the nanoparticle precursor and at least one second solvent for the reactive moiety, wherein the second solvent phase separates when it is mixed with the first solvent; and
+</P>
+<P>
+(c) combining said first and second mixtures in the presence of a surface stabilizing agent, wherein upon combination the first and second mixtures phase-separate and nanoparticles are formed.
+</P>
+<P>
+9. A method according to claim 8, wherein the first solvent comprises an organic solvent, and the second solvent comprises water.
+</P>
+<P>
+10. The method according to claim 8, wherein the salt comprises an organic anion.
+</P>
+<P>
+1 1. The method according to claim 8, wherein first mixture comprises the surface stabilizing agent.
+</P>
+<P>
+12. The method according to claim 8, wherein the combining is done without application of pressure or vacuum, or the external application of heat or cooling.
+</P>
+<P>
+13. The method according to claim 8, wherein the second mixture is added continuously or semi-continuously to the first mixture.
+</P>
+<P>
+14. The method according to claim 8, further comprising the step of collecting the nanoparticles in at least 50% yield.
+</P>
+<P>
+15. The method according to claim 8, wherein the surface stabilizing agent is represented by:
+</P>
+<P>
+(R)nX
+</P>
+<P>
+33
+</P>
+<P>
+WASH 1854072.1 wherein R is an alkyl group, n is from one to four, and X is a functional group which provides Lewis base properties.
+</P>
+<P>
+16. The method according to claim 8, wherein the inorganic cation comprises silver, the reactive moiety is a hydride, the first solvent is an organic solvent, the second solvent is water, and the surface stabilizing agent is an amine compound.
+</P>
+<P>
+17. A method comprising:
+</P>
+<P>
+(a) providing a first mixture comprising at least one nanoparticle precursor comprising a metal and at least one first solvent;
+</P>
+<P>
+(b) providing a second mixture comprising at least one moiety reactive with the nanoparticle precursor and at least one second solvent, wherein the second solvent phase separates when it is mixed with the first solvent; wherein the first and second mixtures are provided without substantially use of phase transfer catalyst; and
+</P>
+<P>
+(c) combining said first and second mixtures in the presence of a surface stabilizing agent, wherein the first and second mixtures phase-separate and nanoparticles are formed.
+</P>
+<P>
+18. The method according to claim 17, wherein the first and second mixtures are provided without any use of phase transfer catalyst.
+</P>
+<P>
+19. The method according to claim 17, wherein the nanoparticle precursor is dissolved in the first solvent without any use of phase transfer catalyst.
+</P>
+<P>
+20. A method comprising: reacting at least two precursor materials in the presence of at least one surface stabilizing agent and two immiscible solvents to form inorganic nanoparticles at the interface of the solvents, wherein a first precursor comprises a metal ion and a second precursor comprises a reducing agent.
+</P>
+<P>
+21. A composition comprising:
+</P>
+<P>
+34
+</P>
+<P>
+WASH 1854072.1 nanoparticles comprising an amine or carboxylic acid surface stabilizing agent dispersed in at least one solvent, wherein the concentration of the nanoparticles is about 1 wt.% to about 70 wt. % and the nanoparticles have an average size of about 1 nm to about 20 ran, and a monodispersity showing standard deviation of about 3 nm or less.
+</P>
+<P>
+22. A composition comprising metallic nanoparticles showing a DSC sintering temperature exothermic peak between about 1 10&amp;lt;0&amp;gt;C to about 160&amp;lt;0&amp;gt;C.
+</P>
+<P>
+35
+</P>
+<P>
+WASH 1854072.1
+</P>
+</Claims>
+<Also_published_as>
+WO2007120756A2;WO2007120756A3;US2008124268A1;US7850933B2;TW200811055A;KR20090019781A;JP2009535497A;CN101479065A;CA2649513A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SUBSTANCE-CONTAINING CARBON NANOHORN COMPOSITE HAVING POLYAMINE PLUG AND PROCESS FOR PRODUCING THE SAME
+</Title>
+<PublicationNumber>
+EP2042468A1
+</PublicationNumber>
+<Inventor>
+<Name>
+YUGE RYOTA [JP]
+</Name>
+<Name>
+YORIMITSU HIDEKI [JP]
+</Name>
+<Name>
+YUDASAKA MASAKO [JP]
+</Name>
+<Name>
+IIJIMA SUMIO [JP]
+</Name>
+<Name>
+YUGE, RYOTA
+</Name>
+<Name>
+YORIMITSU, HIDEKI
+</Name>
+<Name>
+YUDASAKA, MASAKO
+</Name>
+<Name>
+IIJIMA, SUMIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NEC CORP [JP]
+</Name>
+<Name>
+NEC CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2042468
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070768042
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP63268
+</PriorityNumber>
+<PriorityDate>
+2007-07-03
+</PriorityDate>
+<PriorityNumber>
+JP20060187321
+</PriorityNumber>
+<PriorityDate>
+2006-07-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+<Class>
+C01B31/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B6
+</Class>
+</NCL>
+<Abstract>
+The present invention provides: a carbon nanohorn composite including a carbon nanohorn, a substance encapsulated in the carbon nanohorn, and a polyamine adsorbed by chemical reaction firmly to a surface functional group present on the opening part on the surface of the carbon nanohorn, wherein the release amount and release rate of the encapsulated substance can be controlled using the difference in size, substituent or three-dimensional structure of the polyamine, which is used as a plug;  a method of controlling the release of the encapsulated substance;  and a process for producing the carbon nanohorn composite. The release amount and release rate of the substance encapsulated in the carbon nanohorn composite is controlled by selecting a polyamine molecule, which plugs the opening part formed in the carbon nanohorn by oxidation, by its size, substituent or three-dimensional structure.
+</Abstract>
+<Claims>
+<P>
+1. A carbon nanohorn composite comprising a carbon nanohorn, a substance encapsulated in the carbon nanohorn and a polyamine plug, characterized in that the polyamine plug is a polyamine molecule which plugs the opening part of the carbon nanohorn having been formed by oxidation and is selected by its size, substituent or three-dimensional structure so that at least one of the release amount and release rate of the encapsulated substance can be controlled.
+</P>
+<P>
+2. The carbon nanohorn composite comprising a carbon nanohorn, a substance encapsulated in the carbon nanohorn and a polyamine plug according to claim 1, characterized in that the amino group of the polyamine molecule used as a plug is chemically adsorbed to a surface functional group, a carbonyl group or an anhydride present on the opening part of the carbon nanohorn.
+</P>
+<P>
+3. The carbon nanohorn composite comprising a carbon nanohorn, a substance encapsulated in the carbon nanohorn and a polyamine plug according to claim 1 or 2, characterized in that the substance encapsulated in the carbon nanohorn is any one selected from the group consisting of a metal, an inorganic material and an organic material, or a mixture of 2 or more thereof, or a compound thereof.
+</P>
+<P>
+4. The carbon nanohorn composite comprising a carbon nanohorn, a substance encapsulated in the carbon nanohorn and a polyamine plug according to claim 3, characterized in that first the substance is encapsulated in the carbon nanohorn in a solution and then the opening of the carbon nanohorn is plugged with the plug of a polyamine molecule in a solution in which the encapsulated substance is not or hardly dissolved, whereby the encapsulated substance is not released from the inside of the carbon nanohorn during the plug formation.
+</P>
+<P>
+5. The carbon nanohorn composite comprising a carbon nanohorn, a substance encapsulated in the carbon nanohorn and a polyamine plug according to any one of claims 1 to 4, characterized in that the encapsulated substance dissolves out from the inside of the carbon nanohorn in the surrounding environment depending on the degree of the opening of the polyamine molecule plug, and is released in a controlled manner.
+</P>
+<P>
+6. A method of controlling release of the encapsulated substance from the carbon nanohorn composite comprising a carbon nanohorn, a substance encapsulated in the carbon nanohorn and a polyamine plug according to any one of claims 1 to 5, characterized in that a polyamine molecule whose three-dimensional structure changes in the pH range of 4 to 7, causing changes in the ratio of the plugged portion of the opening part is selected as the plug, thereby allowing the encapsulated substance to dissolve out in the surrounding environment and be released in a controlled manner.
+</P>
+<P>
+7. A method of controlling release of the encapsulated substance from the carbon nanohorn composite comprising a carbon nanohorn, a substance encapsulated in the carbon nanohorn and a polyamine plug according to any one of claims 1 to 5, characterized in that an amine whose substituent changes its molecular structure in the pH range of 4 to 7 is selected as the plug, thereby causing changes in at least one of the desorption ratio and desorption amount of the encapsulated substance.
+</P>
+<P>
+8. A method of controlling release of the encapsulated substance from the carbon nanohorn composite comprising a carbon nanohorn, a substance encapsulated in the carbon nanohorn and a polyamine plug according to any one of claims 1 to 5, characterized in that a polyamine whose substituent desorbs the polyamine plug in the pH range of 4 to 7 is used as the plug, thereby allowing the encapsulate substance to dissolve out in the surrounding environment and be released in a controlled manner.
+</P>
+<P>
+9. A drug delivery system (DDS) drug, comprising the carbon nanohorn composite comprising a carbon nanohorn, a substance encapsulated in the carbon nanohorn and a polyamine plug according to any one of claims 1 to 5.
+</P>
+<P>
+10. A drug delivery system (DDS) drug, comprising the carbon nanohorn composite comprising a carbon nanohorn, a substance encapsulated in the carbon nanohorn and a polyamine plug to which the release-controlling method according to any one of claims 6 to 8 is applied.
+</P>
+<P>
+11. A process for producing a carbon nanohorn composite comprising a carbon nanohorn, a substance encapsulated in the carbon nanohorn and a polyamine plug, characterized in that the process is used to produce the carbon nanohorn composite according to any one of claims 1 to 5.
+</P>
+</Claims>
+<Also_published_as>
+EP2042468A4;US2009208567A1;US8084505B2;WO2008004532A1
+</Also_published_as>
+</BiblioData>

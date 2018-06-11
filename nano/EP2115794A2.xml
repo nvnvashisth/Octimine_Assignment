@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DEPOSITION OF ORGANIC LAYERS
+</Title>
+<PublicationNumber>
+EP2115794A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BRADLEY DONAL [GB]
+</Name>
+<Name>
+CHEN LICHUN [GB]
+</Name>
+<Name>
+DEGENAAR PATRICK [GB]
+</Name>
+<Name>
+BRADLEY, DONAL
+</Name>
+<Name>
+CHEN, LICHUN
+</Name>
+<Name>
+DEGENAAR, PATRICK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IMP INNOVATIONS LTD [GB]
+</Name>
+<Name>
+IMPERIAL INNOVATIONS LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2115794
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080701992
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-31
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008GB00324
+</PriorityNumber>
+<PriorityDate>
+2008-01-31
+</PriorityDate>
+<PriorityNumber>
+GB20070001909
+</PriorityNumber>
+<PriorityDate>
+2007-01-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+H01L51/00A2B2
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+A method for depositing one or more organic layers onto a substrate, which comprises;  transferring the said layer or layers from a depositing surface of a stamp to the substrate by bringing the layer coated depositing surface of the stamp into contact with the substrate, and the use of either or both of the steps of (i) contacting the polymer with a plasticizer and (ii) heating the substrate and/or stamp, in order to create favourable conditions for conformal contact and uniform layer transfer.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A method for depositing one or more organic layers onto a substrate, which comprises transferring the said layer or layers from a depositing surface of a stamp to the substrate by bringing the layer coated depositing surface of the stamp into contact with the substrate, and the use of either or both of the steps of (i) contacting the polymer with a plasticizer and (ii) heating the substrate and/or stamp, in order to create favourable conditions for conformal contact and uniform layer transfer.
+</P>
+<P>
+2. A method according to claim 1, wherein the one or more organic layers transferred to a substrate are planar.
+</P>
+<P>
+3. A method according to claim 1, wherein the one or more organic layers transferred to a substrate are spatially patterned.
+</P>
+<P>
+4. A method according to any preceding claim, wherein the one or more organic layers transferred to a substrate are of thickness 1 nm to 1 [mu]m, more preferably of thickness 4 nm to 150 nm, and most preferably of thickness 10 nm to lOO nm.
+</P>
+<P>
+5. A method according to any preceding claim, wherein the substrate is any solid material which may be selected from a plastic, glass or metal sheet or plate.
+</P>
+<P>
+6. A method according to claim 1, wherein either the substrate, or the stamp with the organic layer to be transferred is heated to assist the transfer of the organic layer to the substrate.
+</P>
+<P>
+7. A method according to claim 6 wherein the temperature used to assist the transfer of the organic layer from the stamp to the substrate is close to the glass transition temperature of the said organic layer, modified or otherwise by the plasticizer (when present).
+</P>
+<P>
+8. A method according to claim 6 wherein the temperature used to assist the transfer of the organic layer from the stamp to the substrate is below 200 &amp;lt;0&amp;gt;C and preferably below 150 &amp;lt;0&amp;gt;C.
+</P>
+<P>
+9. A method according to any one of claims 6 to 8 wherein the heating is performed by thermal contact with a resistive heater.
+</P>
+<P>
+10. A method according to any one of claims 6 to 8 wherein the heating is performed by an optical method.
+</P>
+<P>
+11. A method according to any one of claims 6 to 10 wherein the heating is carried out over a time period of between 1 and 300s.
+</P>
+<P>
+12. A method according to any preceding claim wherein the stamp consists partially or wholly of an elastomeric polymer
+</P>
+<P>
+13. A method according to claim 12 wherein the said elastomeric polymer is partially or wholly comprised of polydimethylsiloxane or a related siloxane polymer.
+</P>
+<P>
+14. A method according to claim 12 or claim 13 wherein the said elastomeric polymer is surface modified, preferably by exposure to liquid, vapour, plasma or irradiation, prior to coating with the layer to be transferred.
+</P>
+<P>
+15. A method according to claim 12 wherein the said elastomeric polymer is coated with the organic layer to be transferred by a method selected from spin- coating, blade-coating, and ink-jet, screen and contact printing.
+</P>
+<P>
+16. A method according to claim 1 wherein a plasticizer is used to assist the transfer of the said organic layer from the stamp to the substrate.
+</P>
+<P>
+17. A method according to claim 16 wherein the plasticizer is previously blended with, or otherwise incorporated into, the organic layer to be transferred.
+</P>
+<P>
+18. A method according to claim 16 wherein the plasticizer is deposited either on the surface of the organic layer to be transferred or on the surface of the substrate on which the said organic layer is to be transferred.
+</P>
+<P>
+19. A method according to claim 18 wherein the plasticizer is deposited by a method selected from spin-coating, blade-coating, and ink-jet, screen and contact printing.
+</P>
+<P>
+20. A method according to any one of claims 16 to 19 wherein the plasticizer consists of a hydrophilic liquid or a substance soluble in water.
+</P>
+<P>
+21. A method according to any one of claims 16 to 19 wherein the plasticizer consists of a hydrophobic liquid or a substance soluble in organic solvents.
+</P>
+<P>
+22. A method according to claim 3 wherein the said deposited layer is transferred from a planar stamp surface having been patterned thereon prior to transfer to the substrate.
+</P>
+<P>
+23. A method according to claim 22 wherein an initially uniformly coated organic layer on a planar stamp surface is patterned via the removal of material by transfer, using a method as claimed in any one of claims 1 to 21, to a secondary stamp patterned with the negative replica of the desired pattern.
+</P>
+<P>
+24. A method according to claim 22 wherein an initially uniformly coated organic layer on a planar stamp surface is patterned via the removal of material by micro- and/or nano- fabrication technique.
+</P>
+<P>
+25. A method according to claim 3 wherein the said deposited layer is transferred from a structured stamp surface.
+</P>
+<P>
+26. A method according to claim 25 wherein the stamp surface is structured by moulding on the surface of one of a plurality of hard materials, including Si and glass, previously patterned by a micro- and/or nano-fabrication technique including a variety of lithographies with dry or wet etching, and focussed laser, electron- or ion-beam direct writing.
+</P>
+<P>
+27. A method according to any preceding claim, wherein a plurality of layers is deposited via multiple depositions of planar and/or patterned layers from one or more stamps.
+</P>
+<P>
+28. A method according to any preceding claim wherein the organic layer to be deposited consists of one or more polymers, which expresses either in the singular or combined form, a semi-conducting nature.
+</P>
+<P>
+29. A method according to any one of claims 1 to 27 wherein the organic layer to be deposited consists of one or more polymers, which expresses either in the singular or combined form, a conducting nature.
+</P>
+<P>
+30. A method according to any one of claims 1 to 27 wherein the organic layer to be deposited consists of one or more polymers, which expresses either in the singular or combined form, an insulating dielectric nature.
+</P>
+<P>
+31. A method according to any one of claims 1 to 27 wherein the organic layer to be deposited consists of one or more polymers, which expresses either in the singular or combined form, a passive optical function such as guiding, routing, diffracting or otherwise modulating the propagation of light.
+</P>
+<P>
+32. A method according to any one of claims 1 to 27 wherein the organic layer to be deposited consists of one or more polymers, which expresses either in the singular or combined form, an active optical function such as emitting, amplifying, switching, mixing or otherwise modulating the wavelength and/or intensity of light.
+</P>
+<P>
+33. A method according to any one of claims 1 to 27 wherein the organic layer to be deposited consists of one or more polymers and one or more molecules, which expresses as a mixture a semi-conducting nature, or a conducting nature, or an insulating dielectric nature, and/or a passive or an active optical function.
+</P>
+<P>
+34. A method according to any one of claims 1 to 27 wherein the organic layer to be deposited consists of one or more polymers and one or more nanoparticles, which expresses as a mixture a semi-conducting nature, or a conducting nature, or an insulating dielectric nature, and/or a passive or an active optical function.
+</P>
+<P>
+35. A method according to any one of claims 1 to 27 wherein the organic layer to be deposited consists of one or more polymers and one or more colloids, which expresses as a mixture a semi-conducting nature, or a conducting nature, or an insulating dielectric nature, and/or a passive or an active optical function.
+</P>
+<P>
+36. A method according to any one of claims 1 to 27 wherein the organic layer to be deposited consists of one or more polymers and one or more flakes or other fillers, which expresses as a mixture a semi-conducting nature, or a conducting nature, or an insulating dielectric nature, and/or a passive or an active optical function.
+</P>
+<P>
+37. A method according to any one of claims 1 to 27 wherein the organic layer to be deposited consists of one or more polymers and two or more selected from the group of molecules, nanoparticles, colloids, flakes or other fillers, which expresses as a mixture a semi-conducting nature, or a conducting nature, or an insulating dielectric nature, and/or a passive or an active optical function.
+</P>
+<P>
+38. A method according to any one of claims 28 to 37 wherein the said organic layer material is soluble in water or hydrophilic solvents.
+</P>
+<P>
+39. A method according to any one of claims 28 to 37 wherein the said organic layer material is soluble in organic or hydrophobic solvents.
+</P>
+<P>
+40. A device structure that contains at least one organic layer fabricated according to the above claims.
+</P>
+<P>
+41. A device as claimed in claim 40, in which the device structure is selected from a light emitting diode for lighting or display applications, a photodiode for photodetection or solar energy conversion applications, a transistor for radio frequency identification (RFID) or display driving applications, a laser or optical amplifier or optical switch for data- or tele-communication applications, a light source and detector integrated with a microfluidic channel for sensing applications, a memory element for data storage applications.
+</P>
+<P>
+42. An array of device structures that contain at least one organic layer fabricated according to any one of claims 1 to 39.
+</P>
+<P>
+43. An array of device structure as claimed in claim 42, wherein said array is selected from an array of light emitting diodes for lighting or display applications, an array of photodiodes for photodetection or solar energy conversion applications, an array of transistors for radio frequency identification (RFID) or display driving applications, an array of lasers or optical amplifiers or optical switches for data- or tele-communication applications, an array of light sources and detectors integrated with an array of microfluidic channels for sensing applications, an array of memory elements for data storage applications.
+</P>
+<P>
+44. A method according to any one of claims 1 to 39 wherein transfer of the organic layer enables subsequent fabrication processes to be performed.
+</P>
+<P>
+45 A method as claimed in claim 44, in which a transferred patterned organic layer acts as an etch mask.
+</P>
+</Claims>
+<Also_published_as>
+WO2008093090A2;WO2008093090A3;US2010219401A1;JP2010517809A
+</Also_published_as>
+</BiblioData>

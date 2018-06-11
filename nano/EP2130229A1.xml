@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CHARGE STORAGE NANOSTRUCTURE
+</Title>
+<PublicationNumber>
+EP2130229A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SAMUELSON LARS [SE]
+</Name>
+<Name>
+THELANDER CLAES [SE]
+</Name>
+<Name>
+SAMUELSON, LARS
+</Name>
+<Name>
+THELANDER, CLAES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+QUNANO AB [SE]
+</Name>
+<Name>
+QUNANO AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2130229
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080724281
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008SE50334
+</PriorityNumber>
+<PriorityDate>
+2008-03-26
+</PriorityDate>
+<PriorityNumber>
+SE20070000792
+</PriorityNumber>
+<PriorityDate>
+2007-03-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C11/412
+</Class>
+<Class>
+G11C13/02
+</Class>
+<Class>
+H01L29/06
+</Class>
+<Class>
+H01L29/775
+</Class>
+<Class>
+H01L29/788
+</Class>
+<Class>
+H01L29/792
+</Class>
+<Class>
+H01L21/336
+</Class>
+<Class>
+H01L27/115
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C13/02N
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+<Class>
+H01L29/06C6W6
+</Class>
+<Class>
+H01L29/788B
+</Class>
+<Class>
+H01L29/792
+</Class>
+<Class>
+H01L29/792V
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to a nanostructured device for charge storage. In particular the invention relates to a charge storage device that can be used for memory applications. According to the invention the device comprise a first nanowire with a first wrap gate arranged around a portion of its length, and a charge storing terminal connected to one end, and a second nanowire with a second wrap gate arranged around a portion of its length. The charge storing terminal is connected to the second wrap gate, whereby a charge stored on the charge storing terminal can affect a current in the second nanowire. The current can be related to written (charged) or unwritten (no charge) state, and hence a memory function is established.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+A charge storage device suitable for memory applications, comprising nanowires as functional parts, characterized by a first nanowire (A) with a first wrap gate (1) arranged around a portion of its length, and a charge storing terminal (2) connected to one end of the first nanowire (A), a second nanowire (B) with a second wrap gate (3) arranged around a portion of its length, and wherein the chai ge storing teimmal (2) is connected to the second wrap gate (3), whereby a charge stored on the charge storing terminal (2) can affect a current in the second nanowire (B)
+</P>
+<P>
+2 The chai ge storage device according to claim 1 , further comprising a bit line contact (6) connected to the opposite end of the first nanowire (A) from the charge storing terminal (2), the bit line contact (6) adapted to inject charge to the nanowire (A) which is transferred to the charge storing terminal (2) if the resistance of the first nanowire (A) is lowered by applying a pre-determined voltage to the first wrap gate (1)
+</P>
+<P>
+3 The charge storage device according to claim 1 or 2, wherein the second nanown e (B) is a read out FET, and the charge in the charge storing terminal (2) will affect the current flowing through the read-out FET, and a first current can be associated to a first memory state corresponding to a first charge and a second current can be associated to a second memory state corresponding to a second charge
+</P>
+<P>
+4 The charge storage device according to claim 1 , further comprising a countei electrode (1 1) arranged adjacent to the charge storing terminal (2), the counter electrode adapted to capacilively transfer charge to the charge storing terminal (2)
+</P>
+<P>
+The charge storage device according to claim 1 , wherein the second nanowire (B) is arranged to via the second wrap gate (3) tiansfer charge to the charge storing terminal (2)
+</P>
+<P>
+The charge storage device according to any of the above claims, wherein at least the first nanowire (A) comprises a heterostructure within the nanowire section (9) of the first nanowue (A) sun ounded by the first wrap gate (1)
+</P>
+<P>
+The charge storage device according to claim 6, wherein the heterostructure is a crested heterostructure
+</P>
+<P>
+The charge storage device according to any of the above claims, wherein the nanowires (A, B) are vertically upstanding from a substrate and epitaxially grown from the substrate
+</P>
+<P>
+The charge storage device according to any of the above claims, wherein the first nanowire (A) is shorter than the second nanowire
+</P>
+<P>
+(B)
+</P>
+<P>
+The charge storage device according to claim 9, wherein the charge storing terminal 2 is aligned to one lateral level with the second wrap gate (3)
+</P>
+<P>
+The charge storage device according to claim 10, wherein the first and second nanowire (A, B) are of different diameter
+</P>
+</Claims>
+<Also_published_as>
+EP2130229A4;WO2008118084A1;US2011204331A1;US8143658B2;SE0700792A;SE0700792L;SE532485C2
+</Also_published_as>
+</BiblioData>

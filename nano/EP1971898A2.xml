@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SUBSTRATE WITH A REFLECTIVE LAYER, USABLE TO FABRICATE A REFLECTIVE- TYPE MASK BLANK FOR EUV LITHOGRAPHY
+</Title>
+<PublicationNumber>
+EP1971898A2
+</PublicationNumber>
+<Inventor>
+<Name>
+IKUTA YOSHIAKI [JP]
+</Name>
+<Name>
+UNO TOSHIYUKI [US]
+</Name>
+<Name>
+EBIHARA KEN [JP]
+</Name>
+<Name>
+IKUTA, YOSHIAKI
+</Name>
+<Name>
+UNO, TOSHIYUKI
+</Name>
+<Name>
+EBIHARA, KEN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASAHI GLASS CO LTD [JP]
+</Name>
+<Name>
+ASAHI GLASS CO., LTD
+</Name>
+<Name>
+ASAHI GLASS COMPANY, LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1971898
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070707133
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP50845
+</PriorityNumber>
+<PriorityDate>
+2007-01-12
+</PriorityDate>
+<PriorityNumber>
+US20060330205
+</PriorityNumber>
+<PriorityDate>
+2006-01-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F1/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F1/14
+</Class>
+<Class>
+G03F1/24
+</Class>
+<Class>
+G03F7/70N2B
+</Class>
+</NCL>
+<Abstract>
+There are provided a substrate with a reflective layer and an EUV mask blank, which can prevent particles from adhering to a surface of the reflective layer or an absorbing layer, or into a reflective layer or an absorbing layer during formation thereof by eliminating electrical connection between a film formed on a front surface of the substrate and a film formed on a rear surface of the substrate. A substrate with a reflective layer, which is usable to fabricate a reflective mask blank for EUV lithography, comprising a chucking layer formed on a rear surface opposite a surface with the reflective layer formed thereon, the chucking layer serving to chuck and support the substrate by an electrostatic chuck, wherein the reflective layer has no electrical connection to the chucking layer.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A substrate with a reflective layer, which is usable to fabricate a reflective mask blank for EUV lithography, comprising a chucking layer formed on a rear surface opposite a front surface with the reflective layer formed thereon, the chucking layer serving to chuck and support the substrate by an electrostatic chuck, wherein the reflective layer has no electrical connection to the chucking layer.
+</P>
+<P>
+2. The substrate with a reflective layer according to claim 1, wherein the resistance value between the reflective layer and the chucking layer is 1 M[Omega] or above.
+</P>
+<P>
+3. The substrate with a reflective layer according to claim 1, wherein the substrate has a non-conducting portion formed on the rear surface, and a region where the non-conducting portion is formed has a width of 2 mm or above when the width of the region is represented by a minimum value.
+</P>
+<P>
+4. The substrate with a reflective layer according to claim 1, wherein the chucking layer is formed in a circular shape.
+</P>
+<P>
+5. The substrate with a reflective layer according to claim 4, wherein the circular shape has a smaller diameter than a cross-sectional shape of the electrostatic chuck.
+</P>
+<P>
+6. The substrate with a reflective layer according to claim 1, wherein a region where the chucking layer is formed has a smaller area than a contact area of the electrostatic chuck, with the substrate, when the substrate is supported by the electrostatic chuck.
+</P>
+<P>
+7. The substrate with a reflective layer according to claim 3, wherein the non-conducting portion is formed by depositing the chucking layer so as to form the non-conducting portion by use of a shielding member, or by depositing the chucking layer on an entire surface of the substrate, followed by removing a portion of the deposited chucking layer.
+</P>
+<P>
+8. The substrate with a reflective layer according to claim 3, wherein the non-conducting portion is formed by depositing the chucking layer so as to be smaller than the substrate, followed by forming the reflective layer so as to form the non-conducting portion with a specific portion being covered, or by depositing the chucking layer so as to be smaller than the substrate and depositing the reflective layer on an entire surface of the substrate, followed by removing a portion of the deposited reflective layer.
+</P>
+<P>
+9. The substrate with a reflective layer according to claim 1, wherein the substrate has a non-conducting portion formed on the front surface thereof.
+</P>
+<P>
+10. The substrate with a reflective layer according to claim 9, wherein a region where the non-conducting portion is formed has a width of 1 mm or above when the width of the region is represented by a minimum value.
+</P>
+<P>
+11. The substrate with a reflective layer according to claim 9, wherein the reflective layer is formed in a square shape.
+</P>
+<P>
+12. The substrate with a reflective layer according to claim 9, wherein the non-conducting portion is formed by depositing the reflective layer so as to form the non-conducting portion by use of a shielding member, or by depositing the reflective layer on an entire surface of the substrate, followed by removing a portion of the deposited reflective layer.
+</P>
+<P>
+13. The substrate with a reflective layer according to claim 1, further comprising a removed portion formed in at least one portion of a film on at least one of a lateral surface, the rear surface and the front surface of the substrate throughout an entire periphery of the substrate in order to form a non-conducting portion having no film capable of causing electrical connection.
+</P>
+<P>
+14. The substrate with a reflective layer according to claim 13, wherein the removed portion has a width of from 0.0001 to 1 mm.
+</P>
+<P>
+15. The substrate with a reflective layer according to claim 13, wherein the removed portion has a depth of from 0.0001 to 5 mm.
+</P>
+<P>
+16. The substrate with a reflective layer according to claim 13, wherein the removed portion is formed by forming the chucking layer and the reflective layer, followed by removing a film from at least one of the lateral surface, the rear surface and the front surface of the substrate to form the non-conducting portion, or by forming the chucking layer, followed by removing a film from at least one of the lateral surface, the rear surface and the front surface of the substrate to form the non-conducting portion.
+</P>
+<P>
+17. The substrate with a reflective layer according to claim 1, further comprising an insulating layer formed so as to form a non-conducting portion between the substrate and the reflective layer.
+</P>
+<P>
+18. The substrate with a reflective layer according to claim 17, wherein the insulating layer comprises SiO2, Al2O3, Ta2O5 or Hfo2.
+</P>
+<P>
+19. The substrate with a reflective layer according to claim 17, wherein the insulating layer has a thickness of from 5 to 1,000 nm.
+</P>
+<P>
+20. The substrate with a reflective layer according to claim 17, wherein the non-conducting is formed by forming the chucking layer on the rear surface of the substrate, followed by forming the insulating layer in at least a region to form the reflective layer and forming the reflective layer in the same region as or a smaller region than the insulating film.
+</P>
+<P>
+21. A reflective mask blank for EUV lithography, comprising an absorbing layer on the reflective layer in the substrate with a reflective layer defined in claim 1.
+</P>
+<P>
+22. A reflective mask blank for EUV lithography, fabricated by patterning the reflective mask blank for EUV lithography defined in claim 21.
+</P>
+<P>
+23. The substrate with a reflective layer according to claim 1, wherein the substrate comprises SiO2-TiO2 glass, the SiO2-TiO2 glass having a hydrogen molecule content of less than 5*10&amp;lt;17 &amp;gt; molecules/cm&amp;lt;3&amp;gt; .
+</P>
+<P>
+24. The substrate with a reflective layer according to claim 1, wherein the substrate comprises SiO2-TiO2 glass, the SiO2-TiO2 glass having an OH group content of 600 wt.ppm or below.
+</P>
+<P>
+25. The substrate with a reflective layer according to claim 1, wherein the substrate has a specific rigidity of 3.1*10&amp;lt;7 &amp;gt; m&amp;lt;2&amp;gt; /s&amp;lt;2 &amp;gt; or above and a Poisson&apos;s ratio of from 0.16 to 0.25.
+</P>
+<P>
+26. The substrate with a reflective layer according to claim 1, wherein the substrate has a film deposition surface for the reflective layer, which comprises a smooth surface having a surface roughness of 0.15 nm or below in Rms and a flatness of 100 nm or below.
+</P>
+<P>
+27. The substrate with a reflective layer according to claim 1, further having a maximum reflectance of 60% or above with respect to light having a wavelength of 13.5 nm+-5 nm.
+</P>
+<P>
+28. The substrate with a reflective layer according to claim 1, wherein the reflective layer is formed by laminating Si films and Mo films in from 30 to 50 cycles, and the reflective layer has a total thickness of from 200 to 400 nm.
+</P>
+<P>
+29. The substrate with a reflective layer according to claim 1, wherein the reflective layer has a capping layer formed as a top layer thereof.
+</P>
+<P>
+30. The substrate with a reflective layer according to claim 1, wherein the capping layer comprises a Si layer, a Ru layer or a TiO2 layer, and the capping layer has a film thickness of 11.0+-2 nm.
+</P>
+<P>
+31. The substrate with a reflective layer according to claim 1, wherein the chucking layer has a volume resistivity of 10&amp;lt;6&amp;gt; [Omega].cm or below.
+</P>
+<P>
+32. The substrate with a reflective layer according to claim 1, wherein the chucking layer has a Vickers hardness of 200 or above.
+</P>
+<P>
+33. The substrate with a reflective layer according to claim 1, wherein the chucking layer has a surface smoothness of 2 nm or below in Rms.
+</P>
+<P>
+34. The substrate with a reflective layer according to claim 1, wherein the chucking layer comprises at least one metal material selected from the group consisting of Cr, Ni, Ti, Ta, Mo, Si and W.
+</P>
+<P>
+35. The substrate with a reflective layer according to claim 1, wherein the chucking layer has a film thickness of from 10 to 500 nm.
+</P>
+<P>
+36. The substrate with a reflective layer according to claim 1, wherein the chucking layer comprises a film made of Cr and containing B or a film made of Cr and containing B and N.
+</P>
+<P>
+37. The substrate with a reflective layer according to claim 1, wherein the chucking layer has a thermal conductivity of 2.8 J/cm.sec.[deg.] C. or above.
+</P>
+<P>
+38. A reflective mask blank for EUV lithography, comprising a reflective layer and an absorbing layer formed on a substrate, and a chucking layer formed on a rear surface opposite a front surface with the reflective layer and the absorbing layer formed thereon, the chucking layer serving to chuck and support the substrate by an electrostatic chuck, wherein the reflective layer and the absorbing layer have no electrical connection to the chucking layer.
+</P>
+<P>
+39. The reflective mask blank according to claim 38, wherein the resistance value between the reflective layer and the chucking layer, and the resistance value between the absorbing layer and the chucking layer are 1 M[Omega] or above.
+</P>
+<P>
+40. The reflective mask blank according to claim 38, wherein the substrate has a non-conducting portion formed on the rear surface, and a region where the non-conducting portion is formed has a width of 2 mm or above when the width of the region is represented by a minimum value.
+</P>
+<P>
+41. The reflective mask blank according to claim 38, wherein the chucking layer is formed in a circular shape.
+</P>
+<P>
+42. The reflective mask blank according to claim 41, wherein the circular shape has a smaller diameter than a cross-sectional shape of the electrostatic chuck.
+</P>
+<P>
+43. The reflective mask blank according to claim 38, wherein a region where the chucking layer is formed has a smaller area than a contact area of the electrostatic chuck with the substrate, when the substrate is supported by the electrostatic chuck.
+</P>
+<P>
+44. The reflective mask blank according to claim 40, wherein the non-conducting portion is formed by depositing the chucking layer so as to form the non-conducting portion by use of a shielding member, or by depositing the chucking layer on an entire surface of the substrate, followed by removing a portion of the deposited chucking layer.
+</P>
+<P>
+45. The reflective mask blank according to claim 40, wherein the non-conducting portion is formed by depositing the chucking layer so as to be smaller than the substrate, followed by forming the reflective layer and the absorbing layer so as to form the non-conducting portion with a specific portion being covered, or by depositing the chucking layer so as to be smaller than the substrate and depositing the reflective layer and the absorbing layer on an entire surface of the substrate, followed by removing a portion of the deposited chucking layer and a portion of the deposited absorbing layer.
+</P>
+<P>
+46. The reflective mask blank according to claim 38, wherein the substrate has a non-conducting portion formed on the front surface thereof.
+</P>
+<P>
+47. The reflective mask blank according to claim 46, wherein a region where the non-conducting portion is formed has a width of 1 mm or above when the width of the region is represented by a minimum value.
+</P>
+<P>
+48. The reflective mask blank according to claim 38, wherein the reflective layer and the absorbing layer are formed in a square shape.
+</P>
+<P>
+49. The reflective mask blank according to claim 46, wherein the non-conducting portion is formed by depositing the reflective layer and the absorbing layer so as to form the non-conducting portion by use of a shielding member, or by depositing the reflective layer and the absorbing layer on an entire surface of the substrate, followed by removing a portion of the deposited reflective layer and a portion of the deposited absorbing layer.
+</P>
+<P>
+50. The reflective mask blank according to claim 38, further comprising a removed portion formed in at least one portion of a film on at least one of a lateral surface, the rear surface and the front surface of the substrate throughout an entire periphery of the substrate in order to form a non-conducting portion having no film capable of causing electrical connection.
+</P>
+<P>
+51. The reflective mask blank according to claim 50, wherein the removed portion has a width of from 0.0001 to 1 mm.
+</P>
+<P>
+52. The reflective mask blank according to claim 50, wherein the removed portion has a depth of from 0.0001 to 5 mm.
+</P>
+<P>
+53. The reflective mask blank according to claim 50, wherein the removed portion is formed by forming the chucking layer, the reflective layer and the absorbing layer, followed by removing a film from at least one of the lateral surface, the rear surface and the front surface of the substrate to form the non-conducting portion, or by forming the chucking layer, followed by removing a film from at least one of the lateral surface, the rear surface and the front surface of the substrate to form the non-conducting portion.
+</P>
+<P>
+54. The reflective mask blank according to claim 38, further comprising an insulating layer formed so as to form a non-conducting portion between the substrate and the reflective layer.
+</P>
+<P>
+55. The reflective mask blank according to claim 54, wherein the insulating layer comprises SiO2, Al2O3, Ta2O5 or HfO2.
+</P>
+<P>
+56. The reflective mask blank according to claim 54, wherein the insulating layer has a thickness of from 5 to 1,000 nm.
+</P>
+<P>
+57. The reflective mask blank according to claim 38, wherein the non-conducting is formed by forming the chucking layer on the rear surface of the substrate, followed by forming the insulating layer in at least a region to form the reflective layer and the absorbing layer, and forming the reflective layer and the absorbing layer in the same region as or a smaller region than the insulating film.
+</P>
+<P>
+58. A reflective mask for EUV lithography, fabricated by patterning the reflective mask blank defined in claim 57.
+</P>
+<P>
+59. The reflective mask blank according to claim 38, wherein the substrate comprises SiO2-TiO2 glass, the SiO2-TiO2 glass having a hydrogen molecule content of less than 5*10&amp;lt;17 &amp;gt; molecules/cm&amp;lt;3&amp;gt; .
+</P>
+<P>
+60. The reflective mask blank according to claim 38, wherein the substrate comprises SiO2-TiO2 glass, the SiO2-TiO2 glass having an OH group content of 600 wt.ppm or below.
+</P>
+<P>
+61. The reflective mask blank according to claim 38, wherein the substrate has a specific rigidity of 3.1*10&amp;lt;7 &amp;gt; m&amp;lt;2&amp;gt; /s&amp;lt;2 &amp;gt; or above and a Poisson&apos;s ratio of from 0.16 to 0.25.
+</P>
+<P>
+62. The reflective mask blank according to claim 38, wherein the substrate has a film deposition surface for the reflective layer, which comprises a smooth surface having a surface roughness of 0.15 nm or below in Rms and a flatness of 100 nm or below.
+</P>
+<P>
+63. The reflective mask blank according to claim 38, further having a maximum reflectance of 60% or above with respect to light having a wavelength of 13.5 nm+-5 nm.
+</P>
+<P>
+64. The reflective mask blank according to claim 38, wherein the reflective layer is formed by laminating Si films and Mo films in from 30 to 50 cycles, and the reflective layer has a total thickness of from 200 to 400 nm.
+</P>
+<P>
+65. The reflective mask blank according to claim 38, wherein the reflective layer has a capping layer formed as a top layer thereof.
+</P>
+<P>
+66. The reflective mask blank according to claim 38, wherein the capping layer comprises a Si layer, a Ru layer or a TiO2 layer, and the capping layer has a film thickness of 11.0+-2 nm.
+</P>
+<P>
+67. The reflective mask blank according to claim 38, wherein the chucking layer has a volume resistivity of 10&amp;lt;6&amp;gt; [Omega].cm or below.
+</P>
+<P>
+68. The reflective mask blank according to claim 38, wherein the chucking layer has a Vickers hardness of 200 or above.
+</P>
+<P>
+69. The reflective mask blank according to claim 38, wherein the chucking layer has a surface smoothness of 2 nm or below in Rms (root-mean-square roughness).
+</P>
+<P>
+70. The reflective mask blank according to claim 38, wherein the chucking layer comprises at least one metal material selected from the group consisting of Cr, Ni, Ti, Ta, Mo, Si and W.
+</P>
+<P>
+71. The reflective mask blank according to claim 38, wherein the chucking layer has a film thickness of from 10 to 500 nm.
+</P>
+<P>
+72. The reflective mask blank according to claim 38, wherein the chucking layer comprises a film made of Cr and containing B or a film made of Cr and containing B and N.
+</P>
+<P>
+73. The reflective mask blank according to claim 38, wherein the chucking layer has a thermal conductivity of 2.8 J/cm.sec.[deg.] C. or above.
+</P>
+<P>
+74. The reflective mask blank according to claim 38, wherein the absorbing layer comprises Cr, Ta or a nitride thereof.
+</P>
+<P>
+75. The reflective mask blank according to claim 38, wherein the reflective layer and the absorbing layer have an intermediate layer interposed therebetween.
+</P>
+<P>
+76. A substrate with a chucking layer, which is usable to fabricate the reflective mask blank defined in claim 38.
+</P>
+</Claims>
+<Also_published_as>
+EP1971898B1;US2007160916A1;US7678511B2;US2010167187A1;US7960077B2;KR20080092363A;JP2011228744A;JP2009523311A;JP4862892B2;WO2007081059A2;WO2007081059A3;EP2278395A1;EP2278394A1;AT533084T
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MOLD, MOLD PRODUCTION PROCESS, PROCESSING APPARATUS, AND PROCESSING METHOD
+</Title>
+<PublicationNumber>
+EP2137097A2
+</PublicationNumber>
+<Inventor>
+<Name>
+TERASAKI ATSUNORI [JP]
+</Name>
+<Name>
+SEKI JUNICHI [JP]
+</Name>
+<Name>
+TERASAKI, ATSUNORI
+</Name>
+<Name>
+SEKI, JUNICHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2137097
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080722557
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP55192
+</PriorityNumber>
+<PriorityDate>
+2008-03-14
+</PriorityDate>
+<PriorityNumber>
+JP20070064496
+</PriorityNumber>
+<PriorityDate>
+2007-03-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81C99/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B81C99/00R6
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G03F9/70K6
+</Class>
+</NCL>
+<Abstract>
+A mold for imprinting a pattern onto a member to be processed is constituted by a mold body having a front surface, at which the pattern is formed, and a rear surface opposite from the front surface;  a coating layer for, covering the front surface of the mold body;  and a coating layer for covering the rear surface of the mold body. The coating layer for covering the rear surface of the mold body is partially provided with an opening at the rear surface of the mold body.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A mold for imprinting a pattern onto a member to be processed, comprising: a mold body having a front surface, at which the pattern is formed, and a rear surface opposite from the front surface; a coating layer for covering the front surface of said mold body; and a coating layer for covering the rear surface of said mold body, wherein said coating layer for covering the rear surface of said mold body is partially provided with an opening at the rear surface of said mold body.
+</P>
+<P>
+2. A mold according to Claim 1, wherein said mold body is formed of a material transparent to visible light or at least light in a part of a wavelength range of optically observable light and each of said coating layers is formed of a transparent material having an optical characteristic different from that of said mold body or an opaque material.
+</P>
+<P>
+3. A mold according to Claim 2, wherein when each of said coating layers is formed of the transparent material, the transparent material has an optical transmittance capable of curing a photocurable resin material constituting the member to be processed with respect to at least a part of a wavelength range of ultraviolet rays.
+</P>
+<P>
+4. A mold according to Claim 3, wherein the transparent material and the photocurable resin material have a difference in refractive index therebetween with respect to the part of the wavelength range of the optically observable light.
+</P>
+<P>
+5. A mold according to Claim 1, wherein each of said coating layers is formed of an electroconductive material .
+</P>
+<P>
+6. A mold according to Claim 1, wherein said coating layer at the rear surface of the mold body is provided with a stress adjusting pattern corresponding to a density of a pattern at the front surface of the mold body.
+</P>
+<P>
+7. A mold production process used when a pattern is imprinted onto a member to be processed, comprising: a step of forming a coating layer at a front surface of a substrate and a coating layer at a rear surface of the substrate; a step of forming a mold having an imprint pattern coated with the coating layer at a front surface of the mold by forming and patterning a resist on the coating layer formed at the front surface of the substrate and then by etching said coating layer formed at the front surface of the substrate through the patterned resist as a mask; and a step of forming an opening at the rear surface of said coating layer by forming and patterning a resist on the coating layer formed at a rear surface of the mold and then by etching the coating layer formed at the rear surface of the mold through the patterned resist as a mask.
+</P>
+<P>
+8. A mold production process comprising: a step of forming a mold having an imprint pattern by forming and patterning a resist on a substrate and then by etching he substrate through the patterned resist as a mask; a step of forming a coating layer at a front surface of the mold including the imprint pattern and forming a coating layer at a rear surface of the mold; and a step of forming an opening at the rear surface of said coating layer by forming and patterning a resist on the coating layer formed at the rear surface of the mold and then by etching the coating layer formed at the rear surface of the mold through the patterned resist as a mask.
+</P>
+<P>
+9. A process according to Claim 7 or 8, wherein in said step of forming the opening at the rear surface of the coating layer, the opening is a hole for observation of an alignment mark formed at a part of the rear surface of said coating layer or is the hole and a stress adjusting pattern corresponding to a density of the pattern of the mold.
+</P>
+<P>
+10. A processing apparatus for forming a pattern of a mold on a member to be processed, comprising: a mold according to Claim 1 as the mold.
+</P>
+<P>
+11. A processing method for forming a pattern of a mold on a member to be processed, comprising: using a mold according to Claim 1 as the mold.
+</P>
+<P>
+12. A method according to Claim 11, wherein when the pattern of the mold is formed on the member to be processed, alignment marks of the member to be processed and the mold are optically observed through the opening provided to the coating layer at the rear surface of the mold body to effect alignment.
+</P>
+<P>
+13. A structure processed by using a processing apparatus according to Claim 10.
+</P>
+<P>
+14. A structure processed by using a processing method according to Claim 11.
+</P>
+<P>
+15. A mold according to Claim 1, wherein said coating layer at the front surface of the mold body and said coating layer at the rear surface of the mold body are integral with each other.
+</P>
+</Claims>
+<Also_published_as>
+WO2008114852A2;WO2008114852A3;US2009092791A1;KR20090127912A;JP2008221674A;CN101641281A
+</Also_published_as>
+</BiblioData>

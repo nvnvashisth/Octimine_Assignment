@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+HIERARCHICAL NANOPATTERNS BY NANOIMPRINT LITHOGRAPHY
+</Title>
+<PublicationNumber>
+EP1948556A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ZHANG FENGXIANG [SG]
+</Name>
+<Name>
+LOW HONG YEE [SG]
+</Name>
+<Name>
+ZHANG, FENGXIANG
+</Name>
+<Name>
+LOW, HONG YEE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+AGENCY SCIENCE TECH &amp; RES [SG]
+</Name>
+<Name>
+AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1948556
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20050795286
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2005-10-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2005SG00364
+</PriorityNumber>
+<PriorityDate>
+2005-10-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B29C59/02
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B81C99/00R4
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+A method for forming hierarchical patterns on an article by nanoimprinting is disclosed. The method includes using a first mould to form a primary pattern on the article at a first temperature and a first pressure, the first temperature and the first temperature being able to reduce the elastic modulus of the article;  and using a second mould to form a second pattern on the primary pattern at a second temperature that is below the article&apos;s glass transition temperature, the forming of the second pattern being at a second pressure.
+</Abstract>
+<Claims>
+<P>
+THE CLAIMS
+</P>
+<P>
+1. A method for forming hierarchical patterns on an article by nanoimprinti&apos;ng, the method comprising:
+</P>
+<P>
+(a) using a first mould to form a primary pattern on the article at a first temperature and a first pressure, the first temperature and the first pressure being able to reduce the elastic modulus of the article;
+</P>
+<P>
+(b) using a second mould to form a second pattern on the primary pattern at a second temperature that is below the article&apos;s glass transition temperature, the forming of the second pattern being at a second pressure.
+</P>
+<P>
+2. A method as claimed in claim 1, wherein the first temperature and pressure are also able to reduce the melt viscosity of the article.
+</P>
+<P>
+3. A method as claimed in claim 1 or claim 2, wherein the first temperature is above the article&apos;s glass transition temperature.
+</P>
+<P>
+4. A method as claimed in any one of claims 1 to 3, wherein the article is a polymer film.
+</P>
+<P>
+5. A method as claimed in claim 4, wherein the polymer film is selected from the group consisting of: thermoplastic polymers, polycarbonate, polymethylmethacrylate, porous polymers, and polyimide with hydroxy! side groups.
+</P>
+<P>
+6. A method as claimed in claim 4 or claim 5, wherein the polymer film is a polymer composite reinforced with particles selected from the group consisting of: calcium carbonate, carbon filler, glass filler, fibers, glass fibers, carbon fibers, and carbon nanotubes.
+</P>
+<P>
+7. A method as claimed in any one of claims 4 to 6, wherein the polymer film is on a substrate.
+</P>
+<P>
+8. A method as claimed in any one of claims 1 to 7, wherein the secondary pattern is formed at an angle relative to the primary pattern, the angle being in the range 0[deg.] to 90[deg.].
+</P>
+<P>
+9. A method as claimed in any one of claims 1 to 8, wherein at least one of the first mould and the second mould is treated with a low surface energy coating for facilitating their release from the article.
+</P>
+<P>
+10. A method as claimed in claim 9, wherein the coating is perfluorodecyltrichlorosilane.
+</P>
+<P>
+11. A method as claimed in any one of claims 1 to 10, wherein the first mould has a first grating for forming a first grating structure on the article, and the second mould has second grating for forming a second grating structure on the first grating structure.
+</P>
+<P>
+12. A method as claimed in claim 11 , wherein the first grating is of a size relative to the second grating that is selected from the group consisting of: the same, larger, and smaller.
+</P>
+<P>
+13. A method as claimed in claim 11 , or claim 12, wherein the first grating and the second grating have different geometries.
+</P>
+<P>
+14. A method as claimed in any one of claims 11 to 13, wherein the first grating structure is protrusions and trenches on the article.
+</P>
+<P>
+15. A method as claimed in claim 14 wherein the second grating is formed on the protrusions and in the trenches.
+</P>
+<P>
+16. A method as claimed in any one of claims 11 to 15, wherein the first grating is of a 2 micrometers pitch and the second grating is of a 250 nanometers pitch.
+</P>
+<P>
+17. A method as claimed in any one of claims 1 to 16, wherein:
+</P>
+<P>
+(a) the first temperature is in the range of 120&amp;lt;0&amp;gt;C to 200[deg.]C;
+</P>
+<P>
+(b) the second temperature is in the range of 60&amp;lt;0&amp;gt;C to 200&amp;lt;0&amp;gt;C;
+</P>
+<P>
+(c) the first pressure is in the range of 40 bar to 50 bar; and
+</P>
+<P>
+(d) the second pressure is in the range of 10bar to 50 bar.
+</P>
+<P>
+18. A method as claimed in any one of claims 1 to 17, wherein before step (a) any residual solvent is removed from the article.
+</P>
+<P>
+19. A method as claimed in claim 5, wherein the polyimide with hydroxyl side groups is a porous film.
+</P>
+<P>
+20. A product produced by the method of any one of claims 1 to 19.
+</P>
+</Claims>
+<Also_published_as>
+EP1948556A4;WO2007046772A1;US2009047478A1;TWI321266B;JP2009512576A;JP4898820B2;AU2005337438A1;AU2005337438B2
+</Also_published_as>
+</BiblioData>

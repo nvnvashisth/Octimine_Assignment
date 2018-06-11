@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PATTERNING OLED DEVICE ELECTRODES
+</Title>
+<PublicationNumber>
+EP1929533A1
+</PublicationNumber>
+<Inventor>
+<Name>
+NEWMAN DAVID A [US]
+</Name>
+<Name>
+TREDWELL TIMOTHY JOHN [US]
+</Name>
+<Name>
+COK RONALD STEVEN [US]
+</Name>
+<Name>
+YANG ZHIHAO [US]
+</Name>
+<Name>
+NEWMAN, DAVID, A
+</Name>
+<Name>
+TREDWELL, TIMOTHY, JOHN
+</Name>
+<Name>
+COK, RONALD, STEVEN
+</Name>
+<Name>
+YANG, ZHIHAO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+EASTMAN KODAK CO [US]
+</Name>
+<Name>
+EASTMAN KODAK COMPANY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1929533
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060815508
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US37558
+</PriorityNumber>
+<PriorityDate>
+2006-09-25
+</PriorityDate>
+<PriorityNumber>
+US20050241370
+</PriorityNumber>
+<PriorityDate>
+2005-09-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L27/32
+</Class>
+<Class>
+H01L51/52
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01L27/32M2B
+</Class>
+<Class>
+H01L51/52B2C
+</Class>
+<Class>
+H01L51/52B4C
+</Class>
+</NCL>
+<Abstract>
+A method of making an OLED display having a plurality of OLED devices includes providing a plurality of OLED devices on a substrate, such OLED devices sharing a common light-transmissive electrode;  forming a patterned conductive layer structure over the common light-transmissive electrode to define wells in alignment with emissive areas of one or more OLED devices;  and providing optical material into one or more wells
+</Abstract>
+<Claims>
+<P>
+1. A method of making an OLED display having a plurality of OLED devices comprising:
+</P>
+<P>
+(a) providing a plurality of OLED devices on a substrate, such OLED devices sharing a common light-transmissive electrode;
+</P>
+<P>
+(b) forming a patterned conductive layer structure over the common light-transmissive electrode to define wells in alignment with emissive areas of one or more OLED devices; and
+</P>
+<P>
+(c) providing optical material into one or more wells.
+</P>
+<P>
+2. The method according to claim 1 wherein the patterned conductive layer structure includes a patterned conductive layer in contact with the common light-transmissive electrode and a patterned insulating layer disposed over the patterned conductive layer.
+</P>
+<P>
+3. The method according to claim 2 wherein the patterned conductive layer structure is formed by:
+</P>
+<P>
+(i) depositing a conductive layer over the common light-transmissive electrode;
+</P>
+<P>
+(ii) providing a patterned insulating layer over the conductive layer; and
+</P>
+<P>
+(iii) using the patterned insulating layer as an etch mask to pattern the conductive layer to form the patterned conductive layer.
+</P>
+<P>
+4. The method according to claim 3 wherein the patterned insulating layer is provided by uniformly coating a polymer layer and using laser ablation to pattern the polymer layer.
+</P>
+<P>
+5. The method according to claim 3 wherein the patterned insulating layer is provided by patterned thermal transfer of a polymer from a donor sheet.
+</P>
+<P>
+6. The method according to claim 3 wherein the conductive layer is patterned by chemical etching or plasma etching.
+</P>
+<P>
+7. The method according to claim 1 wherein the optical material is provided into the one or more wells by ink jet deposition.
+</P>
+<P>
+8. The method according to claim 1 wherein the optical material is a color filter material, a color conversion material, a light-scattering material, or a lenslet.
+</P>
+<P>
+9. The method according to claim 8 wherein different color filter materials are deposited into different wells by ink jet deposition to provide a color filter array.
+</P>
+<P>
+10. The method according to claim 9 wherein the optical materials do not fill the well and the wells serve as barriers to prevent the diffusion of optical material from one well to another.
+</P>
+<P>
+11. The method according to claim 1 wherein the patterned conductive layer structure acts as a black matrix.
+</P>
+<P>
+12. The method according to claim 1 wherein one or more barrier layers are provided after forming the patterned conductive layer structure but before providing optical materials into the one or more wells.
+</P>
+<P>
+13. The method according to claim 1 further comprising:
+</P>
+<P>
+(d) providing one or more barrier layers over the optical material and the patterned conductive layer structure.
+</P>
+<P>
+14. The method according to claim 1 wherein a light-transmissive cover is provided over the display.
+</P>
+<P>
+15. The method according to claim 8 wherein the optical material includes a light scattering material, a light-transmissive cover is provided over the display and there is a gap of at least 0.5 microns between the light-scattering material and the cover, said gap is filled with air, inert gas, or a material having an optical refractive index lower than that of the light-transmissive cover and having an optical refractive index lower than that of any organic materials in the light-emissive layer(s) of the OLED.
+</P>
+<P>
+16. The method according to claim 1 wherein the wells are greater than 0.5 microns deep.
+</P>
+<P>
+17. The method according to claim 1 wherein the wells are greater than 5 microns deep.
+</P>
+<P>
+18. The method according to claim 1 wherein the OLED display includes red, green, and blue, light-emitting pixels.
+</P>
+<P>
+19. The method according to claim 18 further including white light-emitting pixels.
+</P>
+<P>
+20. The method according to claim 1 wherein step (b) includes laser transfer of metal nanoparticles from a donor sheet to form the patterned conductive layer structure.
+</P>
+</Claims>
+<Also_published_as>
+US2007077349A1;WO2007041116A1;KR20080053478A;JP2009510696A;CN101288172A
+</Also_published_as>
+</BiblioData>

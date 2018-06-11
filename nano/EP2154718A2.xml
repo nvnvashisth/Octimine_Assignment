@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Polymer Devices
+</Title>
+<PublicationNumber>
+EP2154718A2
+</PublicationNumber>
+<Inventor>
+<Name>
+TESSLER NIR [IL]
+</Name>
+<Name>
+SIRRINGHAUS HENNING [GB]
+</Name>
+<Name>
+FRIEND RICHARD HENRY [GB]
+</Name>
+<Name>
+TESSLER, NIR
+</Name>
+<Name>
+SIRRINGHAUS, HENNING
+</Name>
+<Name>
+FRIEND, RICHARD HENRY
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PLASTIC LOGIC LTD [GB]
+</Name>
+<Name>
+PLASTIC LOGIC LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2154718
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090175563
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+1999-04-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP19990918097
+</PriorityNumber>
+<PriorityDate>
+1999-04-16
+</PriorityDate>
+<PriorityNumber>
+GB19980008061
+</PriorityNumber>
+<PriorityDate>
+1998-04-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C13/02
+</Class>
+<Class>
+H01L27/00
+</Class>
+<Class>
+H01L27/088
+</Class>
+<Class>
+H01L27/15
+</Class>
+<Class>
+H01L27/28
+</Class>
+<Class>
+H01L27/32
+</Class>
+<Class>
+H01L29/786
+</Class>
+<Class>
+H01L31/153
+</Class>
+<Class>
+H01L51/00
+</Class>
+<Class>
+H01L51/05
+</Class>
+<Class>
+H01L51/10
+</Class>
+<Class>
+H01L51/50
+</Class>
+<Class>
+H05B33/26
+</Class>
+<Class>
+H01L51/30
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C08G61/12D1F
+</Class>
+<Class>
+G11C13/00R5C
+</Class>
+<Class>
+G11C13/00R5C2
+</Class>
+<Class>
+H01L27/32M2T
+</Class>
+<Class>
+H01L31/153
+</Class>
+<Class>
+H01L51/05B2
+</Class>
+</NCL>
+<Abstract>
+A method for forming an electronic device having a region comprising a semiconductive polymer material, the method comprising depositing the semiconductive polymer by a process which promotes ordering in the deposited polymer.
+</Abstract>
+<Claims>
+<P>
+1. A method for forming an electronic device having a region comprising a semiconductive polymer material, the method comprising depositing the semiconductive polymer by a process which promotes ordering in the deposited polymer.
+</P>
+<P>
+2. A method as claimed in claim 1, wherein the step of depositing the semiconductive polymer comprises dissolving the polymer in a solvent in which the polymer has a tendency to self-organise.
+</P>
+<P>
+3. A method as claimed in claim 1 or 2, wherein the step of depositing the semiconductive polymer comprises coating the polymer from a solvent in which the polymer has a tendency to self-organise.
+</P>
+<P>
+4. A method as claimed in any of claims 1 to 3, wherein the step of depositing the semiconductive polymer is performed in an inert atmosphere.
+</P>
+<P>
+5. A method as claimed in any of claims 1 to 4, wherein the step of depositing the semiconductive polymer comprises preparing a substrate to promote the ordering of the polymer and depositing the polymer onto the substrate.
+</P>
+<P>
+6. A method as claimed in claim 5, wherein the step of preparing the substrate comprises making the surface of the substrate more hydrophobic.
+</P>
+<P>
+7. A method as claimed in any of claims 1 to 6, wherein the method comprises depositing at least one electrode over the semiconductive polymer.
+</P>
+<P>
+8. A method as claimed in any of claims 1 to 7, wherein the polymer is a material that has a tendency to self-organise.
+</P>
+<P>
+9. A method as claimed in any of claims 1 to 7, wherein the polymer has a conjugated backbone.
+</P>
+<P>
+10. A method as claimed in any of claims 1 to 9, wherein the polymer has substituents either in or pendent from its backbone which promote ordering of adjacent polymer chains.
+</P>
+<P>
+11. A method as claimed in any of claims 1 to 10, wherein the polymer has hydrophobic side-chains.
+</P>
+<P>
+12. A method as claimed in any of claims 1 to 11, wherein the polymer is poly-hexylthiophene.
+</P>
+<P>
+13. A method as claimed in any of claims 1 to 12, further comprising the step of forming a light-emissive device over the electronic device.
+</P>
+<P>
+14. A method as claimed in claim 13, wherein the light-emissive device is integrated with the electronic device.
+</P>
+<P>
+15. An integrated circuit device comprising:
+</P>
+<P>
+a current drive switching element having an input electrode, an output electrode, a switchable region comprising a semiconductive polymer material electrically coupled between the input electrode and the output electrode, and a control electrode electrically coupled to the switchable region so as to allow the application of a bias to the control electrode to vary the flow of current through the switchable region between the input electrode and the output electrode; and
+</P>
+<P>
+a second circuit element, integrated with the switching element, and electrically coupled with the output electrode of the switching element for receiving a drive current from the switching element.
+</P>
+</Claims>
+<Also_published_as>
+WO9954936A1;WO9954936A8;US6603139B1;TW498395B;JP2008227517A;JP2002512451A;EP1074048A1;EP1074048B1;CN1301400A;CN1214465C;CA2328094A1;CA2328094C;BR9909580A;BR9909580B1;AU3614399A;AU766162B2
+</Also_published_as>
+</BiblioData>

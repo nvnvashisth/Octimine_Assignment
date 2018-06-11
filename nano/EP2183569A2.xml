@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FAST-SCANNING SPM AND METHOD OF OPERATING SAME
+</Title>
+<PublicationNumber>
+EP2183569A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PRATER CRAIG [US]
+</Name>
+<Name>
+SU CHANMIN [US]
+</Name>
+<Name>
+PHAN NGHI [US]
+</Name>
+<Name>
+MARKAKIS JEFFREY [US]
+</Name>
+<Name>
+CUSWORTH CRAIG [US]
+</Name>
+<Name>
+SHI JIAN [US]
+</Name>
+<Name>
+KINDT JOHANNES [US]
+</Name>
+<Name>
+NAGLE STEVEN [US]
+</Name>
+<Name>
+FAN WENJUN [US]
+</Name>
+<Name>
+PRATER, CRAIG
+</Name>
+<Name>
+SU, CHANMIN
+</Name>
+<Name>
+PHAN, NGHI
+</Name>
+<Name>
+MARKAKIS, JEFFREY
+</Name>
+<Name>
+CUSWORTH, CRAIG
+</Name>
+<Name>
+SHI, JIAN
+</Name>
+<Name>
+KINDT, JOHANNES
+</Name>
+<Name>
+NAGLE, STEVEN
+</Name>
+<Name>
+FAN, WENJUN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+VEECO INSTR INC [US]
+</Name>
+<Name>
+VEECO INSTRUMENTS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2183569
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080797114
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-08-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US72107
+</PriorityNumber>
+<PriorityDate>
+2008-08-04
+</PriorityDate>
+<PriorityNumber>
+US20070832881
+</PriorityNumber>
+<PriorityDate>
+2007-08-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q10/04
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01N13/10
+</Class>
+<Class>
+G01N13/16
+</Class>
+</IPC>
+<IPC7>
+<Class>
+G01N13/10
+</Class>
+<Class>
+G01N13/16
+</Class>
+</IPC7>
+<ICM>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q10/04
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q60/38
+</Class>
+</ICM>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q10/04
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q10/06B
+</Class>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q60/38
+</Class>
+</NCL>
+<Abstract>
+A method and apparatus are provided that have the capability of rapidly scanning a large sample of arbitrary characteristics under force control feedback so has to obtain a high resolution image. The method includes generating relative scanning movement between a probe (215) of the SPM and a sample (112) to scan the probe through a scan range of at least 4 microns at a rate of at least 30 lines/sec and controlling probe-sample interaction with a force control slew rate of at least 1 mm/sec. A preferred SPM capable of achieving these results has a force controller having a force control bandwidth of at least closed loop bandwidth of at least 10 kHz.
+</Abstract>
+<Claims>
+<P>
+CLAIMS: 1. A method of operating a (SPM) scanning probe microscope comprising: generating relative scanning movement between a probe of the SPM and a sample to scan the probe relative to the sample through a scan range of at least 4 [mu]m at a rate of at least 30 lines/sec, and controlling probe-sample interaction with a force control slew rate of at least 1 mm/sec.
+</P>
+<P>
+2. The method of claim 1, wherein the force control slew rate is at least 4 mm/sec.
+</P>
+<P>
+3. The method of claim 1 , wherein the force control slew rate is at least 7 mm /sec.
+</P>
+<P>
+4. The method of claim 1 , wherein the SPM scans at least generally in an xy plane while moving the probe in z plane under control of a z actuator.
+</P>
+<P>
+5. The method of claim 1 , wherein the scanning is performed at a rate of at least 100 lines/sec.
+</P>
+<P>
+6. The method of claim 5, wherein the scanning is performed at a rate of at least 1000 lines/sec.
+</P>
+<P>
+7. The method of claim 1, wherein the scanning comprises scanning through a scan range of at least 10 [mu]m.
+</P>
+<P>
+8. The method of claim 7, wherein the scanning comprises scanning through a scan range of at least 20 [mu]m.
+</P>
+<P>
+9. The method of claim 1, wherein the scanning is performed with a control bandwidth of at least 10 kHz. 10. The method of claim 1 , wherein the generating step causes the probe to move an xy plane.
+</P>
+<P>
+11. The method of claim 10, wherein the generating step also causes the sample to move in the xy plane in a nested control relationship with probe movement.
+</P>
+<P>
+12. The method of claim 1, wherein the generating step causes the sample to move in an xy plane.
+</P>
+<P>
+13. The method of claim 1 , wherein the controlling step comprises moving the probe in a z direction.
+</P>
+<P>
+14. The method of claim 13, wherein the controlling step further comprises moving the sample in the z direction in a nested control relationship with probe movement.
+</P>
+<P>
+15. The method as reciting in claim 1, further comprising oscillating the probe.
+</P>
+<P>
+16. The method of claim 15, wherein the controlling step comprises maintaining a probe oscillational amplitude at least generally constant..
+</P>
+<P>
+17. The method of claim 15, wherein the controlling step comprises maintaining a probe oscillational phase at least generally constant.
+</P>
+<P>
+18. The method of claim 1 , wherein the sample is one of a patterned wafer, a biological sample, a data storage device component, a polymer, and a thin film.
+</P>
+<P>
+19. The method of claim 1, further comprising: measuring motion of the probe using a sensing light beam and a detector; and at least one of storing, transmitting, and displaying at least one of the measurement and information derived from the measurement. 20. A method of operating a scanning probe microscope (SPM) comprising: generating relative scanning movement between a probe of the SPM and a sample to scan the probe relative to the sample through a scan range of at least 4 [mu]m at a rate of at least 30 lines/sec with a force control bandwidth of at least 10 kHz.
+</P>
+<P>
+21. The method of claim 20, wherein the scanning is performed with a force control bandwidth of at least 20 kHz
+</P>
+<P>
+22. The method of claim 20, wherein the scanning is performed with a force control bandwidth of at least 50 kHz.
+</P>
+<P>
+23. The method of claim 20, further comprising controlling probe-sample interaction with a force control slew rate of at least 1 mm/sec.
+</P>
+<P>
+24. The method of claim 23, wherein the force control slew rate is at least 4 mm /sec
+</P>
+<P>
+25. A scanning probe microscope (SPM) comprising: a scanner that generates relative scanning movement between a probe of the SPM and a sample to scan the probe through a scan range of at least 4 microns at a rate of at least 30 lines/sec; a sensing light beam and detector that measure motion of the probe; at least one lens disposed between the scanning light beam and the sample, the lens being movable to cause the sensing beam to at least substantially follow the scanning motion of the probe; and a controller that controls probe-sample interaction with a force control slew rate of at least 1 mm/sec. 26. The SPM of claim 25, further comprising a device that at least one of stores, transmits, and displays at least one of the measurement and information derived from the measurement.
+</P>
+<P>
+27. The SPM of claim 25, wherein the probe has a force detection bandwidth greater than 30 kHz and applies a force to the sample of less than 10 nN when activated in oscillation mode.
+</P>
+<P>
+28. The SPM of claim 25, wherein the probe has a force detection bandwidth greater than 100 kHz and applies a force to the sample of less than 5 nN when activated in oscillation mode.
+</P>
+<P>
+29. The SPM of claim 25, wherein the probe has a step response time of about 10 [mu]s.
+</P>
+</Claims>
+<Also_published_as>
+EP2183569A4;WO2009018575A2;WO2009018575A3;US2009032706A1;US7770231B2;KR20100068374A;CN101960287A
+</Also_published_as>
+</BiblioData>

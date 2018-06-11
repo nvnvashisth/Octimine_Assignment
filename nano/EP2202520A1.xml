@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Clinically intelligent diagnostic devices and methods
+</Title>
+<PublicationNumber>
+EP2202520A1
+</PublicationNumber>
+<Inventor>
+<Name>
+JACOBS ALICE ANNE [US]
+</Name>
+<Name>
+NIKOLIC BORIS [US]
+</Name>
+<Name>
+GUPTA VINEET [US]
+</Name>
+<Name>
+JACOBS, ALICE ANNE
+</Name>
+<Name>
+NIKOLIC, BORIS
+</Name>
+<Name>
+GUPTA, VINEET
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+INTELLIGENT MEDICAL DEVICES LL [US]
+</Name>
+<Name>
+INTELLIGENT MEDICAL DEVICES LLC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2202520
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20100000480
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2001-11-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20010990761
+</PriorityNumber>
+<PriorityDate>
+2001-11-27
+</PriorityDate>
+<PriorityNumber>
+US20000253284P
+</PriorityNumber>
+<PriorityDate>
+2000-11-27
+</PriorityDate>
+<PriorityNumber>
+US20010287994P
+</PriorityNumber>
+<PriorityDate>
+2001-05-01
+</PriorityDate>
+<PriorityNumber>
+US20010308870P
+</PriorityNumber>
+<PriorityDate>
+2001-07-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01F13/00
+</Class>
+<Class>
+B01F13/08
+</Class>
+<Class>
+B01J19/00
+</Class>
+<Class>
+B01L3/00
+</Class>
+<Class>
+B81B1/00
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N33/15
+</Class>
+<Class>
+G01N33/50
+</Class>
+<Class>
+G01N33/53
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/545
+</Class>
+<Class>
+G01N33/547
+</Class>
+<Class>
+G01N33/551
+</Class>
+<Class>
+G01N33/552
+</Class>
+<Class>
+G01N33/553
+</Class>
+<Class>
+G01N33/569
+</Class>
+<Class>
+G01N37/00
+</Class>
+<Class>
+C40B40/06
+</Class>
+<Class>
+C40B40/10
+</Class>
+<Class>
+C40B40/12
+</Class>
+<Class>
+C40B40/18
+</Class>
+<Class>
+C40B60/14
+</Class>
+<Class>
+C40B70/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01F13/00M6F
+</Class>
+<Class>
+B01F13/08B
+</Class>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B01L3/5027
+</Class>
+<Class>
+B01L3/5027D
+</Class>
+<Class>
+B01L3/5085
+</Class>
+<Class>
+B01L3/50857
+</Class>
+<Class>
+B01L3/563
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12Q1/68B10A
+</Class>
+<Class>
+G01N33/53
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/543K
+</Class>
+</NCL>
+<Abstract>
+The present invention is related to a method of determining a cause of one or more medical symptoms exhibited by a subject, the method comprising: (a) obtaining a biological sample from the subject;  (b) obtaining an array of different probes or different sets of probes, wherein each probe or set of probes selectively interacts with a target associated with a different known cause of the one or more medical symptoms;  (c) applying the biological sample to the probes in the array under conditions that enable all of the probes to selectively interact with any targets in the biological sample;  (d) detecting interactions;  and (e) analyzing interactions to determine a cause of the one or more medical symptoms.
+</Abstract>
+<Claims>
+<P>
+1. A method of determining a cause of one or more medical symptoms exhibited by a subject, the method comprising:
+</P>
+<P>
+(a) obtaining a biological sample from the subject;
+</P>
+<P>
+(b) obtaining an array of different probes or different sets of probes, wherein each probe or set of probes selectively interacts with a target associated with a different known cause of the one or more medical symptoms;
+</P>
+<P>
+(c) applying the biological sample to the probes in the array under conditions that enable all of the probes to selectively interact with any targets in the biological sample;
+</P>
+<P>
+(d) detecting interactions; and
+</P>
+<P>
+(e) analyzing interactions to determine a cause of the one or more medical symptoms.
+</P>
+<P>
+2. The method of claim 1, wherein the array of probes or sets of probes is arranged on a planar substrate.
+</P>
+<P>
+3. The method of claim 1, wherein each target is a nucleic acid, peptide, polypeptide, protein, antibody, antigen, small organic molecule, inorganic molecule, enzyme, or polysaccharide.
+</P>
+<P>
+4. The method of claim 1, wherein the array of probes comprises nucleic acid probes and polypeptide probes.
+</P>
+<P>
+5. The method of claim 1, wherein all of the probes in the array are polypeptides.
+</P>
+<P>
+6. The method of claim 5, wherein the probes are antibodies, antigens, enzymes, zinc-finger binding proteins, minor-groove binders, transcriptional factors, combinations thereof, or chimeras thereof.
+</P>
+<P>
+7. The method of claim 1, wherein the subject is a plant or animal.
+</P>
+<P>
+8. The method of claim 1, wherein the subject is a human.
+</P>
+<P>
+9. The method of claim 1, wherein the subject is deceased.
+</P>
+<P>
+10. The method of claim 1, wherein the cause is a fungal, bacterial, viral, chemical, or genetic cause.
+</P>
+<P>
+11. The method of claim 1, wherein the biological sample is a blood, cerebrospinal fluid, cell culture, urine, sweat, buccal swab, tissue biopsy, or aspiration sample.
+</P>
+<P>
+12. The method of claim 2, wherein the probes are attached to the substrate using covalent or non-covalent bonds.
+</P>
+<P>
+13. The method of claim 2, wherein the probes are attached to the substrate using amide or thiol bonds.
+</P>
+<P>
+14. The method of claim 1, wherein the probes are expressed on the surface of genetically modified cells.
+</P>
+<P>
+15. The method of claim 1, wherein a probe selectively interacts with a target by specifically binding to the target to form a complex.
+</P>
+<P>
+16. The method of claim 1, wherein a first probe selectively interacts with a target associated with an infectious disease caused by a bacteria, virus, or fungus, and a second, different probe selectively interacts with a target associated with a genetic cause.
+</P>
+<P>
+17. The method of claim 1, wherein the array of probes comprises probes that assay for the absence of a causative agent of one or more medical symptoms.
+</P>
+<P>
+18. A method of determining the susceptibility of a subject to a cause of one or more medical symptoms, the method comprising:
+</P>
+<P>
+(a) obtaining a biological sample from the subject;
+</P>
+<P>
+(b) obtaining an array of different probes or different sets of probes, wherein each probe or set of probes selectively interacts with a target associated the susceptibility of the subject to a different cause of the one or more medical symptoms;
+</P>
+<P>
+(c) applying the biological sample to the probes in the array under conditions that enable all of the probes to selectively interact with any targets in the biological sample;
+</P>
+<P>
+(d) detecting interactions; and
+</P>
+<P>
+(e) analyzing interactions to determine the susceptibility of the subject to a cause of the one or more medical symptoms.
+</P>
+<P>
+19. The method of claim 18, wherein each target is a nucleic acid, peptide, polypeptide, protein, antibody, antigen, small organic molecule, inorganic molecule, enzyme, polysaccharide, or a binding site for a causative agent for the one or more medical symptoms.
+</P>
+<P>
+20. A method of claim 1, wherein all of the probes selectively interact with their respective targets under the same conditions.
+</P>
+<P>
+21. A method of determining a cause of one or more medical symptoms in a subject and assessing the suitability of one or more therapeutic agents to treat the cause of the symptoms, the method comprising:
+</P>
+<P>
+(a) obtaining a biological sample from the subject;
+</P>
+<P>
+(b) obtaining an array of different probes or different sets of probes, wherein a first probe or set of probes selectively interacts with a target associated with a known cause of the one or more medical symptoms, and wherein a second, different probe selectively interacts with a target associated with a therapeutic optimization factor;
+</P>
+<P>
+(c) applying the biological sample to the probes in the array under conditions that enable all of the probes to selectively interact with any targets in the biological sample;
+</P>
+<P>
+(d) detecting interactions; and
+</P>
+<P>
+(e) analyzing interactions to determine a cause of the one or more medical symptoms and to determine the suitability of a therapeutic agent to treat a cause of the one or more symptoms.
+</P>
+<P>
+22. The method of claim 21, wherein the therapeutic optimization factor is tolerance, intolerance, or susceptibility of the subject or a causative agent to a specific drug.
+</P>
+<P>
+23. The method of claim 21, wherein the target associated with the therapeutic optimization factor is a gene in a pathogen that causes susceptibility, resistance, or an idiosyncratic reaction of the pathogen when exposed to a therapeutic agent.
+</P>
+<P>
+24. A device comprising:
+</P>
+<P>
+(a) a substrate having a surface, wherein the surface comprises a plurality of protrusions having top surfaces; and
+</P>
+<P>
+(b) an array of probes or sets of probes, wherein each probe or set of probes selectively interacts with a unique target, and is attached to the top surface of one of the protrusions.
+</P>
+<P>
+25. The device of claim 24, wherein the substrate is silicon, silicon dioxide, glass, polystyrene, gold, metal, metal alloy, zeolyte, polymer, or other organic or inorganic molecule.
+</P>
+<P>
+26. A device comprising:
+</P>
+<P>
+(a) a substrate having a surface, wherein the surface comprises multiple wells, each well comprising a micromixer;
+</P>
+<P>
+(b) a micromotor connected to each micromixer; and
+</P>
+<P>
+(c) an array of probes or sets of probes, wherein each probe or set of probes in the array selectively interacts with a unique target and is attached within one of the wells.
+</P>
+<P>
+27. The device of claim 26, wherein the micromixer is a microfan blade.
+</P>
+<P>
+28. The device of claim 26, wherein the micromotor is an electromagnetic, a chemical, or a biological motor.
+</P>
+<P>
+29. A device comprising:
+</P>
+<P>
+(a) a substrate having a surface;
+</P>
+<P>
+(b) an array of probes or sets of probes, wherein each probe or set of probes in the array specifically binds to a unique target; and
+</P>
+<P>
+(c) an set of linkers, wherein the linkers bind the probes to the surface, and wherein the linkers have different lengths.
+</P>
+<P>
+30. The device of claim 29, wherein the substrate is planar.
+</P>
+<P>
+31. The device of claim 29, wherein the linkers are molecules of polyethylene glycol.
+</P>
+<P>
+32. A diagnostic system comprising a plurality of devices of claim 24, wherein each device comprises an array of different probes or different sets of probes, and wherein each probe or set of probes selectively interacts with a target associated with a different known cause of a medical symptom or a set of related medical symptoms.
+</P>
+<P>
+33. A method of determining a cause of one or more medical symptoms exhibited by a subject, the method comprising:
+</P>
+<P>
+(a) assessing the subject&apos;s symptoms;
+</P>
+<P>
+(b) selecting a device from the diagnostic system of claim 32;
+</P>
+<P>
+(c) obtaining a biological sample from the subject;
+</P>
+<P>
+(d) applying the biological sample to the probes on the device array under conditions that enable all of the probes to selectively interact with any targets in the biological sample;
+</P>
+<P>
+(e) detecting interactions; and
+</P>
+<P>
+(f) analyzing interactions to determine a cause of the one or more medical symptoms.
+</P>
+<P>
+34. The method of claim 33, further comprising analyzing interactions to determine the suitability of a therapeutic agent to treat a cause of the one or more symptoms.
+</P>
+</Claims>
+<Also_published_as>
+WO0242775A2;WO0242775A3;JP2008180711A;JP2005509127A;EP1397679A2;EP1397679B1;CA2764288A1;CA2430110A1;CA2430110C;AU3052302A
+</Also_published_as>
+</BiblioData>

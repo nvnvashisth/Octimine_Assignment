@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CHARGE DIRECTOR FOR LIQUID TONER
+</Title>
+<PublicationNumber>
+EP2016467A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ALMOG YAACOV [IL]
+</Name>
+<Name>
+KOLLER AVI [IL]
+</Name>
+<Name>
+SILCOFF ELLIAD [IL]
+</Name>
+<Name>
+TEISHEV ALBERT [IL]
+</Name>
+<Name>
+ISRAELI YAFFA [IL]
+</Name>
+<Name>
+LARSON GARY [US]
+</Name>
+<Name>
+LIN LUFEI [US]
+</Name>
+<Name>
+ALMOG, YAACOV
+</Name>
+<Name>
+KOLLER, AVI
+</Name>
+<Name>
+SILCOFF, ELLIAD
+</Name>
+<Name>
+TEISHEV, ALBERT
+</Name>
+<Name>
+ISRAELI, YAFFA
+</Name>
+<Name>
+LARSON, GARY
+</Name>
+<Name>
+LIN, LUFEI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2016467
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060759604
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-05-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US18297
+</PriorityNumber>
+<PriorityDate>
+2006-05-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C09C1/02
+</Class>
+<Class>
+C09C3/08
+</Class>
+<Class>
+G03G9/135
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09C1/02
+</Class>
+<Class>
+C09C1/02D
+</Class>
+<Class>
+C09C1/02F
+</Class>
+<Class>
+C09C3/08
+</Class>
+<Class>
+G03G9/135
+</Class>
+<Class>
+G03G9/135B
+</Class>
+</NCL>
+<Abstract>
+A charge director material for charging a liquid toner, the charge director material comprising (a) nanoparticles of a simple salt and (b) a sulfosuccinate salt of the general formula MAn, wherein M is a metal, n is the valence of M, and A is an ion of the general formula (I) (I) [R1-O-C(O)CH2CH(SO3)C(O)-O-R2], wherein each Of R1 and R2 is an alkyl group;  said charge director material being substantially free of acids of the general formula (I), wherein one or both of R1 and R2 is hydrogen, and if only one of them is hydrogen, the other is an alkyl group,
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A charge director material for charging a liquid toner, the charge director material comprising (a) nanoparticles of a simple salt and (b) a sulfosuccinate salt of the general formula MAn, wherein M is a metal, n is the valence of M, and A is an ion of the general formula (I)
+</P>
+<P>
+(I) [R1-O-C(O)CH2CH(SO3OC(O)-O-R2], wherein each OfR1 and R2 is an alkyl group; said charge director material being substantially free of acids of the general formula (I), wherein one or both of Rl and R2 is hydrogen, and if only one of them is hydrogen, the other is an alkyl group.
+</P>
+<P>
+2. A charge director material for charging a liquid toner the charge director material comprising (a) nanoparticles of a simple salt; (b) a first micelle forming substance, being sulfosuccinate salt of the general formula MAn, wherein M is a metal, n is the valence of M, and A is an ion of the general formula (I)
+</P>
+<P>
+(I) [R1-O-C(O)CH2CH(SO3OC(O)-O-R2], wherein each OfR1 and R2 is an alkyl group; and (c) a second micelle forming substance.
+</P>
+<P>
+3. A charge director material according to claim 2, wherein the second micelle forming compound is basic barium petronate.
+</P>
+<P>
+4. A charge director material according to any of the preceding claims, which is substantially free of an acid of the general formula HA.
+</P>
+<P>
+5. A charge director material according to any one of the preceding claims, comprising micelles of said sulfosuccinate salt enclosing said nanoparticles.
+</P>
+<P>
+6. A charge director material according to any one of the preceding claims, wherein the average size of said nanoparticles is 200 nm or less.
+</P>
+<P>
+7. A charge director material according to any one of the preceding claims, wherein the average size of said nanoparticles is 2 nm or more.
+</P>
+<P>
+8. A charge director material according to any one of the preceding claims, wherein said simple salt has a cation selected from the group consisting of Mg , Ca , Ba , NH4 , tert-butyl ammonium, Li&amp;lt;+&amp;gt;, and Al&amp;lt;+3&amp;gt;, or from any sub-group thereof.
+</P>
+<P>
+9. A charge director material according to any one of the preceding claims, wherein said simple salt has an anion selected from the group consisting of SO4&amp;lt;&quot;2&amp;gt;, PO4&amp;lt;&quot;3&amp;gt;, NO3-, HPO4&amp;lt;&quot;2&amp;gt;, CO3&amp;lt;&quot;2&amp;gt;, acetate, trifluoroacetate (TFA), Cl&amp;lt;&quot;&amp;gt;, Bf, F, ClO4&amp;lt;&quot;&amp;gt;, and TiO3&amp;lt;&quot;4&amp;gt;, or from any sub-group thereof.
+</P>
+<P>
+10. A charge director material according to any one of the preceding claims, wherein said first salt is selected from the group consisting of CaCO3, Ba2TiO3, Al2(SO4):?, A1(NO3)3, Ca3(PO4)2, BaSO4, BaHPO4, Ba2(PO4)3, CaSO4, (NH4)2CO3, (NH4)2SO4, NH4OAc, Tert- butyl ammonium bromide, NH4NO3, LiTFA, A12(SO4)3, LiClO4 and LiBF4, or any sub-group thereof.
+</P>
+<P>
+11. A charge director material according to any one of the preceding claims, wherein said simple salt is BaSO4 or BaHPO4.
+</P>
+<P>
+12. A charge director material according to claim 11 wherein said simple salt is BaHPO4.
+</P>
+<P>
+13. A charge director material according to any one of the preceding claims, further comprising basic barium petronate (BBP).
+</P>
+<P>
+14. A chemical material comprising nanoparticles of a simple salt enclosed in micelles, the micelles comprising a metal salt of dialkyl sulfosuccinate salt other than di-2-ethyl- hexyl-sulfosuccinate.
+</P>
+<P>
+15. A chemical material according to claim 14, wherein the simple salt is of the general formula M&apos;p[alpha]q, wherein M&apos; is a metal the same as or different than M, [alpha] is an anion, p and q are stoichiometric coefficients that ensure electrical balance of the salt, and wherein an acid Ha has no proton with pIQ, smaller than 1.
+</P>
+<P>
+16. A chemical material according to claim 14, wherein the simple salt is BaHPO4.
+</P>
+<P>
+17. A chemical material according to claim 14, wherein the simple salt is BaCO3 and at least some of the micelles include basic barium petronate.
+</P>
+<P>
+18. A material according to any one of the preceding claims, wherein each Of R1 and R2 is an aliphatic alkyl group.
+</P>
+<P>
+19. A material according to any one of the preceding claims, wherein each Of R1 and R2 independently is a C6-25 alkyl.
+</P>
+<P>
+20. A material according to claim 18, wherein said aliphatic alkyl group is linear.
+</P>
+<P>
+21. A material according to claim 18, wherein said aliphatic alkyl group is branched.
+</P>
+<P>
+22. A material according to claim 18, wherein said aliphatic alkyl group includes a linear chain of more than 6 carbon atoms.
+</P>
+<P>
+23. A material according to any one of the preceding claims, wherein R1 and R2 are the same.
+</P>
+<P>
+24. A material according to any of the preceding claims, wherein at least one of R1 and R2 is C13H27.
+</P>
+<P>
+25. A material according to any one of the preceding claims, wherein M is Na, K, Cs, Ca, or Ba.
+</P>
+<P>
+26. Use of a material according to any one of the preceding claims as a charge director in liquid developer.
+</P>
+<P>
+27. A method for obtaining in a polar solvent a material comprising (a) nanoparticles of a simple salt and (b) a sulfosuccinate salt of the general formula MAn, wherein M is a metal, n is the valence of M, and A is an ion of the general formula (I)
+</P>
+<P>
+(I) [R1-O-C(O)CH2CH(SO3OC(O)-O-R2], wherein each OfR1 and R2 is an alkyl group; the method comprising:
+</P>
+<P>
+(i) providing a sulfosuccinate salt of the general formula M&apos;An&amp;gt;, M&apos; being a metal other than the metal M and n&apos; being the valence of M&apos;; and
+</P>
+<P>
+(ii) reacting the salt M&amp;lt;5&amp;gt;An&apos; with a salt MpXq in said polar solvent in the presence of a the simple salt.
+</P>
+<P>
+28. A method according to claim 27, wherein the solubility of the salt MAn in the polar solvent is (a) lower than the solubility in same solvent of the salt M&amp;lt;5&amp;gt;An-, and (b) lower than the solubility in same solvent of the salt MpXq.
+</P>
+<P>
+29. A method according to claim 27 or claim 28, wherein the reaction of the salt M&amp;lt;5&amp;gt;An&apos; with the salt M pXq is carried out in the presence of a simple salt selected from CaCO3, CaSO4, (NH4)2CO3( (NH4)2SO4, NH4OAc, Tert-butyl ammonium bromide, NH4NO3, Barium Titanate, LiTFA, A1(NO3)3; A12(SO4)3, Ca3(PO4)2, LiClO4 and LiBF4.
+</P>
+<P>
+30. A method according to any one of claims 27 to 29, wherein X is NO3&amp;lt;&quot;&amp;gt;, or ClO4&amp;lt;&quot;&amp;gt;.
+</P>
+<P>
+31. A method according to any one of claims 27 to 30, wherein said polar solvent is methanol, water, or mixture thereof.
+</P>
+<P>
+32. A method according to any one of claims 27 to 31, wherein the obtained charge director material is substantially free of acids of the general formula (I)
+</P>
+<P>
+(I)[R1-O-C(O)CH2CH(SO3 )C(O)-OR2], wherein one or both OfR1 and R2 is hydrogen, and if only one of them is hydrogen, the other is an alkyl group.
+</P>
+<P>
+33. A method according to any one of claims 27 to 32, wherein the obtained charge director material comprises micelles of said sulfosuccinate salt enclosing said nanoparticle.
+</P>
+<P>
+34. A method for obtaining a material comprising (i) nanoparticles of a simple salt and (ii) a sulfosuccinate salt of the general formula MAn, wherein M is a metal, n is the valence of M, and A is an ion of the general formula (I) (I) [Ri-O-C(O)CH2CH(SO3&amp;lt;&quot;&amp;gt;)C(O)-O-R2], wherein each OfR1 and R2 is an alkyl group; the method comprising:
+</P>
+<P>
+(a) providing a sulfosuccinate salt of the general formula M&amp;lt;5&amp;gt;An&apos;, M&apos; being a metal other than the metal M and n&apos; being the valence of M&apos;, (b) adding strong acid as to obtain an acid HA; and
+</P>
+<P>
+(c) adding a strong base as to neutralize 30-85%.
+</P>
+<P>
+35. A method according to claim 34, wherein the strong base is added to neutralize 50-80% of acids.
+</P>
+<P>
+36. A method according to claim 34, further comprising
+</P>
+<P>
+(d) evaporating solvents to obtain the material in solid form, and optionally performing an aqueous workup on the solid obtained.
+</P>
+<P>
+37. A method according to claim 34, further comprising
+</P>
+<P>
+(d) filtering to obtain solid product, and optionally performing on the solid obtained aqueous workup.
+</P>
+<P>
+38. A method according to any one of claims 34to 37, wherein said strong acid has at least one proton with a pKa smaller than 1.
+</P>
+<P>
+39. A method for obtaining a chemical material of the general formula MpXq@MAn in a reaction mixture, wherein M is a metal, X is an anion, n is the valence of M, and p and q are coefficients that ensures that MpXq is electrically balanced, and A is a compound of the general formula (I)
+</P>
+<P>
+(I) [Ri-O-C(O)CH2CH(SO3OC(O)-O-R2], wherein R1 and R2 are alkyl groups, the method comprising: (a)providing a sulfosuccinate salt of the general formula M&amp;lt;5&amp;gt;An&apos;, wherein M&apos; is a metal other than M and n&apos; the valence of M&apos;;
+</P>
+<P>
+(b)ading a strong acid, having at least one pKa smaller than 1, to obtain a first reaction mixture containing a sulfonic acid of the general formula HA; (c) working up the obtained reaction mixture to obtain substantially pure HA; and
+</P>
+<P>
+(d) adding a predetermined amount of base M(OH)11, in the presence of an ionic substance, as to obtain a second reaction mixture containing a chemical material of the general formula MpXq@MAn.
+</P>
+<P>
+40. A method according to claim 39, wherein the predetermined amount of base is such that the obtained chemical material is substantially free of acids of the general formula (I), wherein one or both OfR1 and R2 is hydrogen, and if only one of them is hydrogen, the other is an alkyl group.
+</P>
+<P>
+41. A method according to claim 39, wherein said predetermined amount of base is from 30% to 85% of an amount required to obtain a neutral second reaction mixture.
+</P>
+<P>
+42. A method according to any one of claims 34 to 41, wherein the strong acid is H2SO4.
+</P>
+<P>
+43. A method according to any one of claims 34 to 42, wherein said ionic substance is an acid.
+</P>
+<P>
+44. A method according to claim 43, wherein said ionic substance is H2SO4.
+</P>
+<P>
+45. A method according to claim 43, wherein said ionic substance is H3PO4.
+</P>
+<P>
+46. A method according to any one of claims 35 to 45, wherein in (b) substantially all the sulfosuccinate salt is converted to acid.
+</P>
+<P>
+47. A method according to any one of claims 35-45, also comprising reacting the remaining acid HA with a non hydroxyl base.
+</P>
+<P>
+48. A method according to claim 47, wherein the non-hydroxyl base is triethyl amine, barium isopropoxide, aluminum isopropoxide or mixture thereof.
+</P>
+<P>
+49. A method for obtaining a charge director material for liquid toner, the method comprising:
+</P>
+<P>
+(a) providing a first micelle forming substance, being sulfosuccinate salt of the general formula MAn, wherein M is a metal, n is the valence of M, and A is an ion of the general formula (I)
+</P>
+<P>
+(I) [R1-O-C(O)CH2CH(SO3OC(O)-O-R2], wherein each OfR1 and R2 is an alkyl group; and
+</P>
+<P>
+(b) adding to the first micelle forming substance nanoparticles of a simple salt stabilized by a second micelle forming substance.
+</P>
+<P>
+50. A method according to claim 49, wherein said simple salt is BaCO3.
+</P>
+<P>
+51. A method according to claim 49 or 50, wherein said second micelle forming substance is basic barium petronate.
+</P>
+<P>
+52. A method according to any one of claims 27 to 51, wherein each Of R1 and R2 is an aliphatic alkyl.
+</P>
+<P>
+53. A method according to any one of claims 27 to 52, wherein each of R1 and R2 independently is a C6-25 alkyl.
+</P>
+<P>
+54. A method according to claim 52 or 53, wherein said aliphatic alkyl is linear.
+</P>
+<P>
+55. A method according to claim 52 or 53, wherein said aliphatic alkyl is branched.
+</P>
+<P>
+56. A method according to claim 52, wherein said aliphatic alkyl group comprising a linear chain of more than 6 carbon atoms.
+</P>
+<P>
+57. A method according to any one of claims 27 to 55, wherein R1 and R2 are the same.
+</P>
+<P>
+58. A method according to any one of claims 27 to 57, wherein each of R1 and R2 is C13H27.
+</P>
+<P>
+59. A method according to any one of claims 27 to 58, wherein M is Na, K, Cs, Ca, or Ba.
+</P>
+<P>
+60. A method according to claim 59, wherein M is Ba.
+</P>
+<P>
+61. A method according to any one of claims 27 to 60, wherein M&apos; is Na.
+</P>
+<P>
+62. A method according to any one of claims 27 to 31, wherein said salt has a cation selected from the group consisting of Mg&amp;lt;+2&amp;gt;, Ca&amp;lt;+2&amp;gt;, Ba&amp;lt;+2&amp;gt;, NH4&amp;lt;+&amp;gt;, Li&amp;lt;+&amp;gt;, and Al&amp;lt;+3&amp;gt; or from any subgroup thereof.
+</P>
+<P>
+63. A method according to any of claims 27 to 31 or 62, wherein said salt has an anion selected from the group consisting of SO4&amp;lt;&quot;2&amp;gt;, PO4&amp;lt;&quot;3&amp;gt;, CO3&amp;lt;&quot;2&amp;gt;, and TiO3&amp;lt;&quot;4&amp;gt;, or from any sub-group thereof.
+</P>
+<P>
+64. A method according to claim 62 or 63, wherein said salt is selected from the group consisting of CaCO3, Ba2TiO3, A12(SO4)3, A1(NO3)3, and Ca3(PO4)2, BaSO4, BaHPO4, and
+</P>
+<P>
+Ba2(PO4)3, or any sub-group thereof.
+</P>
+<P>
+65. A toner comprising a carrier liquid and toner particles charged by a charge director material according to any one of claims 1 to 16 or produced by a method according to any of claims 27-64.
+</P>
+<P>
+66. A method for obtaining a printed substrate, comprising printing said substrate with toner according to claim 65.
+</P>
+<P>
+67. A substrate comprising an image printed with toner according to claim 65.
+</P>
+</Claims>
+<Also_published_as>
+WO2007130069A1;US2012018683A1;US2009311614A1;JP2009536750A;CN101473275A;CN101473275B
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CORE/SHELL-TYPE CATALYST PARTICLES AND METHODS FOR THEIR PREPARATION
+</Title>
+<PublicationNumber>
+EP2059360A1
+</PublicationNumber>
+<Inventor>
+<Name>
+LOPEZ MARCO [DE]
+</Name>
+<Name>
+LENNARTZ MICHAEL [DE]
+</Name>
+<Name>
+GOIA DAN V [US]
+</Name>
+<Name>
+BECKER CARSTEN [DE]
+</Name>
+<Name>
+CHEVALLIOT STEPHANIE [FR]
+</Name>
+<Name>
+LOPEZ, MARCO
+</Name>
+<Name>
+LENNARTZ, MICHAEL
+</Name>
+<Name>
+GOIA, DAN V
+</Name>
+<Name>
+BECKER, CARSTEN
+</Name>
+<Name>
+CHEVALLIOT, STEPHANIE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UMICORE AG &amp; CO KG [DE]
+</Name>
+<Name>
+UMICORE AG &amp; CO. KG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2059360
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070802927
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP58889
+</PriorityNumber>
+<PriorityDate>
+2007-08-27
+</PriorityDate>
+<PriorityNumber>
+US20060841156P
+</PriorityNumber>
+<PriorityDate>
+2006-08-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J23/38
+</Class>
+<Class>
+B01J23/74
+</Class>
+<Class>
+B22F1/00
+</Class>
+<Class>
+B22F1/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B22F1/00A2B4
+</Class>
+<Class>
+B22F1/02B
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01M4/86B
+</Class>
+<Class>
+H01M4/88G4
+</Class>
+<Class>
+H01M4/92B
+</Class>
+<Class>
+H01M4/92S2
+</Class>
+<Class>
+Y02E60/52B2B
+</Class>
+</NCL>
+<Abstract>
+The invention discloses core/shell type catalyst particles comprising a Mcore / Mshell structure with Mcore = inner particle core and Mshell = outer particle shell, wherein the medium diameter of the catalyst particle (dcore+shell) is in the range of 20 to 100 nm, preferably in the range of 20 to 50 nm. The thickness of the outer shell (tshell) is about 5 to 20 % of the diameter of the inner particle core of said catalyst particle, preferably comprising at least 3 atomic layers. The core/shell type catalyst particles, particularly the particles comprising a Pt-based shell, reveal a high specific activity. The catalyst particles are preferably supported on suitable support materials such as carbon black and are used as electrocatalysts for fuel cells.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. Catalyst particles comprising a Mcore / Msheii structure with
+</P>
+<P>
+Mcore = metal of inner particle core Msheii = metal of outer particle shell wherein the medium diameter of said catalyst particles (dcore+sheii) is in the range of 20 to 100 nm, preferably in the range of 20 to 50 nm.
+</P>
+<P>
+2. The catalyst particles according to claim 1, wherein the thickness of the outer particle shell (Wi1) is about 5 to 20 % of the diameter of the inner particle core
+</P>
+<P>
+(dcore):
+</P>
+<P>
+Ueii - 0.05 - 0.2 dcore wherein
+</P>
+<P>
+UeU &amp;lt;=&amp;gt; (dcore+shell &amp;lt;~&amp;gt; dcore ) / 2
+</P>
+<P>
+3. The catalyst particles according to claim 1 or 2, wherein the metal of the outer particle shell (Msheii) comprises at least 3 atomic layers.
+</P>
+<P>
+4. The catalyst particles according to any one of claims 1 to 3, wherein the inner particle core (Mcore) comprises a base metal selected from the group consisting of aluminum (Al), titanium (Ti), vanadium (V), chromium (Cr), manganese (Mn), iron (Fe), cobalt (Co), nickel (Ni), copper (Cu), zinc (Zn), zirconium (Zr), niobium (Nb), molybdenum (Mo), tantalum (Ta), tin (Sn), tungsten (W) and rhenium (Re) and/or mixtures or alloys thereof.
+</P>
+<P>
+5. The catalyst particles according to any one of claims 1 to 4, wherein the inner particle core (Mcore) comprises a precious metal selected from the group consisting of ruthenium (Ru), osmium (Os), rhodium (Rh), iridium (Ir), palladium (Pd), platinum (Pt), silver (Ag) and gold (Au) and alloys and/or mixtures or alloys thereof.
+</P>
+<P>
+6. The catalyst particles according to any one of claims 1 to 5, wherein the outer particle shell (Msheii) comprises a precious metal selected from the group consisting of ruthenium (Ru), osmium (Os), rhodium (Rh), iridium (Ir), palladium (Pd), platinum (Pt), silver (Ag) and gold (Au) and alloys and/or mixtures thereof.
+</P>
+<P>
+7. The catalyst particles according to any one of claims 1 to 6, wherein the outer particle shell (Msheii) comprises an alloy of a precious metal with at least one base metal.
+</P>
+<P>
+8. Use of the catalyst particles according to any one of claims 1 to 7 as electrocatalysts for fuel cells.
+</P>
+<P>
+9. Electrocatalyst for fuel cells, comprising the catalyst particles according to any one of claims 1 to 7, supported on a support material.
+</P>
+<P>
+10. Electrocatalyst according to claim 9, wherein the support material is an electrically conductive, high surface area carbon black or graphite.
+</P>
+<P>
+11. Electrocatalyst according to claim 9 or 10, wherein the metal loading on the support material is in the range of 10 to 90 wt.-% based on the total weight of the electrocatalyst.
+</P>
+<P>
+12. Method for manufacture of an electrocatalyst comprising catalyst particles based on a Mcore / Msheii structure with Mcore = metal of inner particle core
+</P>
+<P>
+Msheii = metal of outer particle shell and a medium diameter of the catalyst particles (dcore+sheii) in the range of 20 to 100 nm, said catalyst particles being supported on a support material, wherein the outer particle shell (Msheii ) is applied to the metal of the inner particle core (Mcore) in the presence of said support material.
+</P>
+<P>
+13. Method for manufacture of the electrocatalyst according to claim 12, wherein the outer particle shell (Msheii ) is applied by wet chemical reduction methods.
+</P>
+</Claims>
+<Also_published_as>
+WO2008025750A1;US2010092841A1;US2010086832A1;KR20090045412A;KR20090049613A;JP2010501345A;JP2010501344A;WO2008025751A1;EP2059361A1;CN101522345A;CN101516550A;CA2661489A1;CA2661488A1
+</Also_published_as>
+</BiblioData>

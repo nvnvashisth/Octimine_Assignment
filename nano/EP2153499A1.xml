@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+GAN LASERS ON ALN SUBSTRATES AND METHODS OF FABRICATION
+</Title>
+<PublicationNumber>
+EP2153499A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BHAT RAJARAM [US]
+</Name>
+<Name>
+NAPIERALA JEROME [US]
+</Name>
+<Name>
+SIZOV DMITRY [US]
+</Name>
+<Name>
+ZAH CHUNG-EN [US]
+</Name>
+<Name>
+BHAT, RAJARAM
+</Name>
+<Name>
+NAPIERALA, JEROME
+</Name>
+<Name>
+SIZOV, DMITRY
+</Name>
+<Name>
+ZAH, CHUNG-EN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CORNING INC [US]
+</Name>
+<Name>
+CORNING INCORPORATED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2153499
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080754759
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US06727
+</PriorityNumber>
+<PriorityDate>
+2008-05-28
+</PriorityDate>
+<PriorityNumber>
+US20070932450P
+</PriorityNumber>
+<PriorityDate>
+2007-05-31
+</PriorityDate>
+<PriorityNumber>
+US20070893188
+</PriorityNumber>
+<PriorityDate>
+2007-08-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L33/00
+</Class>
+<Class>
+H01S5/323
+</Class>
+<Class>
+H01S5/343
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/343G
+</Class>
+</NCL>
+<Abstract>
+Ga(In)N-based laser structures and related methods of fabrication are proposed where Ga(In)N-based semiconductor laser structures are formed on AlN or GaN substrates in a manner that addresses the need to avoid undue tensile strain in the semiconductor structure. In accordance with one embodiment of the present invention, a Ga(In)N-based semiconductor laser is provided on an AlN or GaN substrate provided with an AlGaN lattice adjustment layer where the substrate, the lattice adjustment layer, the lower cladding region, the active waveguiding region, the upper cladding region, and the N and P type contact regions of the laser form a compositional continuum in the semiconductor laser. Additional embodiments are disclosed and claimed.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method of fabricating a semiconductor laser comprising a substrate, a lattice adjustment layer, an active waveguiding region interposed between an upper cladding region and a lower cladding region, an N-type contact region, and a P-type contact region, wherein the method comprises:
+</P>
+<P>
+providing a substrate comprising AlN or GaN;
+</P>
+<P>
+forming a lattice adjustment layer comprising AlwGa1-wN over the substrate, where w&amp;lt;1;
+</P>
+<P>
+forming a lower cladding region comprising AlvGa1-vN over the lattice adjustment layer, where v&amp;lt;1;
+</P>
+<P>
+forming a Ga(In)N-based active waveguiding region over the lower cladding region and configuring the Ga(In)N-based active waveguiding region for laser light emission;
+</P>
+<P>
+forming an upper cladding region comprising AluGa1-uN over the active waveguiding region, where u&amp;lt;1;
+</P>
+<P>
+conductively coupling N and P type contact regions comprising GaN or AlGaN across the active waveguiding region; and
+</P>
+<P>
+controlling the aluminum content coefficients u, v, and w such that the Al content in the lattice adjustment layer is (i) sufficiently larger than the Al content in the upper and lower cladding regions to ensure that the upper and lower cladding regions assume a compressed or unstrained state when formed over the lattice adjustment layer or (ii) less than the Al content of the upper and lower cladding regions such that the upper and lower cladding regions assume a tensile state when formed over the lattice adjustment layer but only to the extent that the resulting strain in the tensile state would not exceed a cracking threshold of the upper and lower cladding regions.
+</P>
+<P>
+2. A method of fabricating a semiconductor laser as claimed in claim 1 wherein the respective values of u, v and w are greater than or approximately equal to 0.08.
+</P>
+<P>
+3. A method of fabricating a semiconductor laser as claimed in claim 1 wherein the respective values of u, v and w are such that w&amp;gt;v-0.06, and w&amp;gt;u-0.06.
+</P>
+<P>
+4. A method of fabricating a semiconductor laser as claimed in claim 1 wherein the Al content in the lattice adjustment layer is sufficiently larger than the Al content in the upper and lower cladding regions to ensure that the upper and lower cladding regions assume a compressed or unstrained state when formed over the lattice adjustment layer.
+</P>
+<P>
+5. A method of fabricating a semiconductor laser as claimed in claim 1 wherein the Al content in the lattice adjustment layer is less than the Al content of the upper and lower cladding regions such that the upper and lower cladding regions assume a tensile state when formed over the lattice adjustment layer but only to the extent that the resulting strain in the tensile state would not exceed a cracking threshold of the upper and lower cladding regions.
+</P>
+<P>
+6. A method of fabricating a semiconductor laser as claimed in claim 1 wherein the active waveguiding region comprises a quantum well gain region interposed between opposing waveguide layers.
+</P>
+<P>
+7. A method of fabricating a semiconductor laser as claimed in claim 6 wherein the quantum well gain region comprises Ga1-yInyN or AlxGa1-x-yInyN where x is at least approximately 0 and y is at least approximately 0.05.
+</P>
+<P>
+8. A method of fabricating a semiconductor laser as claimed in claim 6 wherein the quantum well gain region comprises GaInN and the opposing waveguide layers comprise GaN or GaInN of opposing N-type and P-type conductivity.
+</P>
+<P>
+9. A method of fabricating a semiconductor laser as claimed in claim 6 wherein the quantum well gain region is configured for lasing emission at wavelengths longer that 440 nm.
+</P>
+<P>
+10. A method of fabricating a semiconductor laser as claimed in claim 6 wherein the quantum well gain region is configured for lasing emission at wavelengths in the green and blue portions of the optical spectrum.
+</P>
+<P>
+11. A method of fabricating a semiconductor laser as claimed in claim 1 wherein the substrate, the lattice adjustment layer, the lower cladding region, the active waveguiding region, the upper cladding region, and the N and P type contact regions form a compositional continuum in the semiconductor laser.
+</P>
+<P>
+12. A method of fabricating a semiconductor laser as claimed in claim 1 wherein components forming the compositional continuum are selected from Al and Ga.
+</P>
+<P>
+13. A method of fabricating a semiconductor laser as claimed in claim 1 wherein the compositional continuum transitions from an Al-based or Ga-based continuum at an interface of the substrate and the lattice adjustment layer, to a dual component continuum of Al and Ga at an interface of the lattice adjustment layer and the lower cladding region, to a Ga-based continuum at an interface of the lower cladding region and the active waveguiding region.
+</P>
+<P>
+14. A method of fabricating a semiconductor laser as claimed in claim 13 wherein the compositional continuum further comprises a Ga-based continuum across the active waveguiding region and the upper cladding region.
+</P>
+<P>
+15. A method of fabricating a semiconductor laser as claimed in claim 1 wherein the AlGaN lattice adjustment layer is non-conductive or at least a portion of the AlGaN lattice adjustment layer comprises conductively doped AlGaN.
+</P>
+<P>
+16. A method of fabricating a semiconductor laser as claimed in claim 1 wherein the lattice adjustment layer is formed directly on the AlN or GaN substrate and the lower cladding region is formed directly on the lattice adjustment layer.
+</P>
+<P>
+17. A method of fabricating a semiconductor laser as claimed in claim 1 wherein the AlN or GaN substrate is a substantially pure, single crystal AlN or GaN substrate and the lattice adjustment layer is substantially pure, single crystal AlGaN.
+</P>
+<P>
+18. A method of fabricating a semiconductor laser comprising a substrate, a lattice adjustment layer, an active waveguiding region interposed between an upper cladding region and a lower cladding region, an N-type contact region, and a P-type contact region, wherein the method comprises:
+</P>
+<P>
+providing a substrate comprising AlN or GaN;
+</P>
+<P>
+forming a lattice adjustment layer comprising AlwGa1-wN over the substrate, where w&amp;lt;1;
+</P>
+<P>
+forming a lower cladding region comprising AlvGa1-vN over the lattice adjustment layer, where v&amp;lt;1;
+</P>
+<P>
+forming Ga(In)N-based active waveguiding region over the lower cladding region and configuring the Ga(In)N-based active waveguiding region for laser light emission;
+</P>
+<P>
+forming an upper cladding region comprising AluGa1-uN over the active waveguiding region, where u&amp;lt;1;
+</P>
+<P>
+conductively coupling N and P type contact regions comprising GaN or AlGaN across the active waveguiding region; and
+</P>
+<P>
+controlling the aluminum content coefficients u, v, and w such that the respective values of u, v and w are greater than or equal to approximately 0.08, and such that w&amp;gt;v-0.06 and w&amp;gt;u-0.06.
+</P>
+<P>
+19. A semiconductor laser comprising a substrate, a lattice adjustment layer, a Ga(In)N-based active waveguiding region interposed between an upper cladding region and a lower cladding region, an N-type contact region, and a P-type contact region, wherein:
+</P>
+<P>
+the substrate comprises AlN or GaN;
+</P>
+<P>
+the lattice adjustment layer is formed over the substrate and comprises AlGaN;
+</P>
+<P>
+the lower cladding region is formed over the lattice adjustment layer and comprises AlGaN;
+</P>
+<P>
+the active waveguiding region is formed over the lower cladding region and is configured for laser light emission;
+</P>
+<P>
+the N and P type contact regions are conductively coupled across the active waveguiding region and comprise GaN or AlGaN; and
+</P>
+<P>
+the Al content of the lattice adjustment layer can be expressed as AlwGa1-wN, where w&amp;lt;1;
+</P>
+<P>
+the Al content of the lower cladding region can be expressed as AlvGa1-vN, where v&amp;lt;1; and
+</P>
+<P>
+the respective values of v and w are such that the Al content in the lattice adjustment layer is (i) sufficiently larger than the Al content in the lower cladding region to ensure that the lower cladding region assumes a compressed or unstrained state when formed over the lattice adjustment layer or (ii) less than the Al content of the lower cladding region such that the lower cladding region assumes a tensile state when formed over the lattice adjustment layer but only to the extent that the resulting strain in the tensile state would not exceed a cracking threshold of the lower cladding region.
+</P>
+<P>
+20. A semiconductor laser as claimed in claim 19 wherein:
+</P>
+<P>
+the upper cladding region is formed over the active waveguiding region and comprises conductively doped AlGaN;
+</P>
+<P>
+the Al content of the upper cladding region can be expressed as AluGa1-uN, where u&amp;lt;1; and
+</P>
+<P>
+the respective values of u and w are such that the Al content in the lattice adjustment layer is (i) sufficiently larger than the Al content in the upper cladding region to ensure that the upper cladding region assumes a compressed or unstrained state when formed over the lattice adjustment layer or (ii) less than the Al content of the upper cladding region such that the upper cladding region assumes a tensile state when formed over the lattice adjustment layer but only to the extent that the resulting strain in the tensile state would not exceed a cracking threshold of the upper cladding region.
+</P>
+</Claims>
+<Also_published_as>
+US2008299691A1;US7615389B2;WO2008150401A1;TW200913418A;KR20100027193A;JP2010528489A;CN101689749A;CN101689749B
+</Also_published_as>
+</BiblioData>

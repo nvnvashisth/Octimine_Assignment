@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD OF DEPOSITING SILICON ON CARBON MATERIALS AND FORMING AN ANODE FOR USE IN LITHIUM ION BATTERIES
+</Title>
+<PublicationNumber>
+EP2162564A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BURTON DAVID J [US]
+</Name>
+<Name>
+LAKE MAX L [US]
+</Name>
+<Name>
+NAZRI MARYAM [US]
+</Name>
+<Name>
+BURTON, DAVID, J
+</Name>
+<Name>
+LAKE, MAX, L
+</Name>
+<Name>
+NAZRI, MARYAM
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+APPLIED SCIENCES INC [US]
+</Name>
+<Name>
+APPLIED SCIENCES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2162564
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080826280
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US61197
+</PriorityNumber>
+<PriorityDate>
+2008-04-23
+</PriorityDate>
+<PriorityNumber>
+US20070913321P
+</PriorityNumber>
+<PriorityDate>
+2007-04-23
+</PriorityDate>
+<PriorityNumber>
+US20080107254
+</PriorityNumber>
+<PriorityDate>
+2008-04-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C23C16/24
+</Class>
+<Class>
+H01M4/04
+</Class>
+<Class>
+H01M4/13
+</Class>
+<Class>
+H01M4/139
+</Class>
+<Class>
+H01M4/38
+</Class>
+<Class>
+H01M4/58
+</Class>
+<Class>
+H01M4/587
+</Class>
+<Class>
+H01M10/052
+</Class>
+<Class>
+H01M10/36
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C23C16/24
+</Class>
+<Class>
+H01M4/04B18
+</Class>
+<Class>
+H01M4/13
+</Class>
+<Class>
+H01M4/139
+</Class>
+<Class>
+H01M4/38
+</Class>
+<Class>
+H01M4/587
+</Class>
+<Class>
+Y02E60/12B
+</Class>
+</NCL>
+<Abstract>
+A method of modifying the surface of carbon materials such as vapor grown carbon nanofibers is provided in which silicon is deposited on vapor grown carbon nanofibers using a chemical vapor deposition process. The resulting silicon-carbon alloy may be used as an anode in a rechargeable lithium ion battery.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method of depositing silicon onto a carbon material to form an alloy for use in lithium ion batteries comprising:
+</P>
+<P>
+providing a carbon material selected from vapor grown carbon fibers, vapor grown carbon nanofibers, PAN or pitch derived carbon fibers, graphite flakes, graphene platelets, and carbon nanotubes;
+</P>
+<P>
+heating said carbon material at a temperature between about 100[deg.] C. to about 1200[deg.] C.;
+</P>
+<P>
+flowing a silicon-containing precursor gas in contact with said carbon material for a time sufficient for said gas to decompose and form a coating on at least the surface of said carbon material.
+</P>
+<P>
+2. The method of claim 1 wherein said precursor gas comprises silane, a blend of silane and hydrogen, or a blend of silane and an inert gas.
+</P>
+<P>
+3. The method of claim 1 wherein said carbon material comprises vapor grown carbon nanofibers.
+</P>
+<P>
+4. The method of claim 3 wherein said vapor grown carbon nanofibers have been heated treated at a temperature above 700[deg.] C.
+</P>
+<P>
+5. The method of claim 1 wherein said silicon coating comprises crystalline silicon, amorphous silicon, or silicon compounds.
+</P>
+<P>
+6. The method of claim 1 wherein said carbon material further includes a carbide material selected from metal carbides, silicon carbides, and silicon oxides.
+</P>
+<P>
+7. The method of claim 1 wherein said carbon material further includes a carbon or graphite additive selected from single-walled carbon nanotubes, multi-walled carbon nanotubes, exfoliated graphite flakes, graphite platelets, graphene particles, carbon black, and mesocarbon microbeads.
+</P>
+<P>
+8. The method of claim 1 wherein said carbon material further includes a conductive additive comprising macroscopic vapor grown carbon nanofibers having a diameter of from about 500 nm to 10 micrometers.
+</P>
+<P>
+9. The method of claim 1 wherein said carbon material has a length of from about 1 to about 500 micrometers.
+</P>
+<P>
+10. The method of claim 1 wherein said carbon material is in the form of a low density composite or preform.
+</P>
+<P>
+11. The method of claim 1 wherein said silicon is coated onto said carbon material at a thickness of about 0.001 and 100 microns.
+</P>
+<P>
+12. The method of claim 1 wherein said silicon is coated onto said carbon material at a thickness of about 2 to 100 nm.
+</P>
+<P>
+13. The method of claim 1 wherein said silicon-coated carbon material has a graded interface.
+</P>
+<P>
+14. The method of claim 1 further including forming an anode by adding a binder to said silicon-coated carbon material.
+</P>
+<P>
+15. The method of claim 14 wherein said binder is selected from polyvinylidene difluoride, EPDM, and polystyrene.
+</P>
+<P>
+16. An anode formed by the method of claim 14 for use in a lithium ion battery.
+</P>
+<P>
+17. The anode of claim 16 having an electrical conductivity of from about 0.01 to about 0.5 ohm/cm.
+</P>
+<P>
+18. The anode of claim 16 having an irreversible capacity of from about 5% to 40% of total capacity.
+</P>
+<P>
+19. The anode of claim 16 having a reversible capacity of at least 350 mAH/g.
+</P>
+<P>
+20. The anode of claim 16 having a reversible capacity of at least 1000 mAH/g.
+</P>
+<P>
+21. The anode of claim 16 having a thermal conductivity of at least 50 w/m-K up to 1000 w/m-K.
+</P>
+<P>
+22. A lithiated carbon-silicon alloy formed by providing a carbon material selected from vapor grown carbon fibers, vapor grown carbon nanofibers, PAN or pitch derived carbon fibers, graphite flakes, graphene platelets, and carbon nanotubes;
+</P>
+<P>
+heating said carbon material at a temperature between about 100[deg.] C. to about 1200[deg.] C.;
+</P>
+<P>
+flowing a silicon-containing precursor gas in contact with said carbon material for a time sufficient for said gas to decompose and form a coating on at least the surface of said carbon material; and
+</P>
+<P>
+evaporating lithium on the silicon-coated carbon material.
+</P>
+</Claims>
+<Also_published_as>
+US2008261116A1;WO2009009206A2;WO2009009206A3;JP2010525549A
+</Also_published_as>
+</BiblioData>

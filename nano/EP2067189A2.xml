@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PHOTOVOLTAIC DEVICES
+</Title>
+<PublicationNumber>
+EP2067189A2
+</PublicationNumber>
+<Inventor>
+<Name>
+JONES TIMOTHY SIMON [GB]
+</Name>
+<Name>
+MCCOMB DAVID WILLIAM [GB]
+</Name>
+<Name>
+MCLACHLAN MARTYN ALAN [GB]
+</Name>
+<Name>
+JONES, TIMOTHY SIMON
+</Name>
+<Name>
+MCCOMB, DAVID WILLIAM
+</Name>
+<Name>
+MCLACHLAN, MARTYN ALAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IMP COLLEGE INNOVATIONS LTD [GB]
+</Name>
+<Name>
+IMPERIAL COLLEGE INNOVATIONS LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2067189
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070804189
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007GB03390
+</PriorityNumber>
+<PriorityDate>
+2007-09-07
+</PriorityDate>
+<PriorityNumber>
+GB20060017727
+</PriorityNumber>
+<PriorityDate>
+2006-09-08
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01G9/20D2
+</Class>
+<Class>
+H01L31/0352C3
+</Class>
+<Class>
+H01L51/00A2B
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+Y02E10/54D
+</Class>
+</NCL>
+<Abstract>
+The present invention provides an electronic device comprising first and second continuous interpenetrating lattices that are made of an electron donor and acceptor material respectively. One or both of the donor and acceptor material may be an organic material. A method for manufacturing a device according to the invention is also disclosed. The composite may be used in a photovoltaic device or any semiconductor device, such as a sensor, a light emitting diode or a photodetector.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. An electronic device comprising first and second continuous interpenetrating lattices as respective electron donor and acceptor materials.
+</P>
+<P>
+2. A device, as claimed in claim 1, wherein both donor and the acceptor materials are organic materials.
+</P>
+<P>
+3. A device, as claimed in claim 1, wherein one of the donor and the acceptor materials is an organic material and the other is an inorganic material.
+</P>
+<P>
+4. A device, as claimed in claim 1, wherein both donor and the acceptor materials are inorganic materials.
+</P>
+<P>
+5. A device, as claimed in any one of claims 1 to 4, wherein the volume of a first continuous lattice is greater than the volume of a second continuous lattice.
+</P>
+<P>
+6. A device, as claimed in claim 5, wherein the first continuous lattice is formed of the more efficient light absorbing material of the electron donor and acceptor materials.
+</P>
+<P>
+7. A device as claimed in any of claims 1-6, wherein the device is a photovoltaic device, a photodetection device, or a light emitting diode.
+</P>
+<P>
+8. A device, as claimed in any one of claims 1-7, wherein the device comprises electrodes on opposing faces.
+</P>
+<P>
+9. A device, as claimed in any of claims 1-8, wherein a continuous layer of an electron donor material is provided at one electrode and a continuous layer of an electron acceptor material is provided at the other electrode.
+</P>
+<P>
+10. A device, as claimed in any of claims 1-9, wherein a layer of exciton-, electron-, or hole-blocking material is provided between the layer of donor and acceptor material lattices and each electrode.
+</P>
+<P>
+11. A device as claimed in any of claims 1-10 wherein a first lattice is formed generally of close or nearly close packed spherical volumes and a second lattice is formed of the corresponding interstitial volumes.
+</P>
+<P>
+12. A method of manufacturing an active layer of an electronic device, the method including the following steps: a) depositing more than one layer of particles on a substrate, said particles forming an interpenetrable ordered array; and b) infiltrating said more than one layer of particles with one of an electron donor or acceptor material; in which the particles define a space occupied by the other of an electron donor or acceptor material.
+</P>
+<P>
+13. A method, as claimed in claim 12, which further comprises removing said particles; and infiltrating the space previously occupied by said particles with the other of an electron donor or acceptor material.
+</P>
+<P>
+14. A method as claimed in claim 12, which further comprises retaining said particles comprising the other of an electron donor or acceptor material.
+</P>
+<P>
+15. A method as claimed in claim 14, wherein the particles are made of titanium oxide or zinc oxide or other inorganic semiconductor materials.
+</P>
+<P>
+16. A method, as claimed in any one of claims 12 to 15, wherein said particles are spherical.
+</P>
+<P>
+17. A method as claimed in claim 16, wherein said array is a hexagonal-, or cubic-, or any other geometry- close packed, or nearly close packed array.
+</P>
+<P>
+18. A method as claimed in any one of claims 12 to 17 wherein the particles are of a monodisperse material.
+</P>
+<P>
+19. A method as claimed in any one of claims 12 to 18 wherein the particles are removable at room temperature such as by solvent extraction.
+</P>
+<P>
+20. A method as claimed in any one of claims 12 to 19, further comprising providing a first continuous layer of an electron donor material and second continuous layer of an electron acceptor material on two opposite faces of the active layer.
+</P>
+<P>
+21. A method as claimed in any one of claims 12 to 20, further comprising the providing of an exciton-, electron-, or hole-blocking layer between the active layer and either or both electrodes.
+</P>
+<P>
+22. A method comprising the steps of the method as claimed in any one of claims 12 to 21, wherein said substrate comprises a first electrode further comprising the step of applying a second electrode to an opposing surface of the active layer.
+</P>
+<P>
+23. A method comprising the steps of the method as claimed in any one of claims 12 to 22, wherein the volume fractions of each lattice can be controlled by the processing methods and conditions.
+</P>
+<P>
+24. A method of manufacturing a photovoltaic device, a photodetector, a light emitting diode, or a sensor, comprising the steps of the method as claimed in any of claims 12 to 23.
+</P>
+</Claims>
+<Also_published_as>
+WO2008029161A2;WO2008029161A3
+</Also_published_as>
+</BiblioData>

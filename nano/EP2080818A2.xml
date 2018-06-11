@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Methods for removing a stabilizer from a metal nanoparticle using a destabilizer
+</Title>
+<PublicationNumber>
+EP2080818A2
+</PublicationNumber>
+<Inventor>
+<Name>
+LI YUNING [SG]
+</Name>
+<Name>
+MAHABADI HADI K [CA]
+</Name>
+<Name>
+PAN HUALONG [CA]
+</Name>
+<Name>
+WU YILIANG [CA]
+</Name>
+<Name>
+LIU PING [CA]
+</Name>
+<Name>
+SMITH PAUL F [CA]
+</Name>
+<Name>
+LI, YUNING
+</Name>
+<Name>
+MAHABADI, HADI K
+</Name>
+<Name>
+PAN, HUALONG
+</Name>
+<Name>
+WU, YILIANG
+</Name>
+<Name>
+LIU, PING
+</Name>
+<Name>
+SMITH, PAUL F
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+XEROX CORP [US]
+</Name>
+<Name>
+XEROX CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2080818
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090150359
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-01-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20080013643
+</PriorityNumber>
+<PriorityDate>
+2008-01-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C23C18/00
+</Class>
+<Class>
+C23C18/08
+</Class>
+<Class>
+H01L21/288
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C23C18/00
+</Class>
+<Class>
+C23C18/08
+</Class>
+<Class>
+H01L27/12T
+</Class>
+<Class>
+H05K3/12C2
+</Class>
+<Class>
+H05K3/12H
+</Class>
+</NCL>
+<Abstract>
+A method of forming conductive features on a substrate, the method comprising: providing two or more solutions, wherein a metal nanoparticle solution contains metal nanoparticles with a stabilizer and a destabilizer solution contains a destabilizer that destabilizes the stabilizer, liquid depositing the metal nanoparticle solution and the destabilizer solution onto the substrate, wherein during deposition or following the deposition of the metal nanoparticle solution onto the substrate, the metal nanoparticle and the destabilizer are combined with each other, destabilizing the stabilizer from the surface of the metal nanoparticles with the destabilizer and removing the stabilizer and destabilizer from the substrate by heating the substrate to a temperature below about 180  DEG C or by washing with the solvent.
+</Abstract>
+<Claims>
+<P>
+1. A method of forming conductive features on a substrate, the method comprising:
+</P>
+<P>
+providing two or more solutions, wherein a metal nanoparticle solution contains metal nanoparticles with a stabilizer and a destabilizer solution contains a destabilizer that destabilizes the stabilizer,
+</P>
+<P>
+liquid depositing the metal nanoparticle solution onto the substrate, wherein during the deposition or following the deposition of the metal nanoparticle solution onto the substrate, the metal nanoparticles with a stabilizer and the destabilizer are combined with each other,
+</P>
+<P>
+destabilizing the stabilizer from the surface of the metal nanoparticles with the destabilizer, and
+</P>
+<P>
+removing the stabilizer and destabilizer from the substrate by heating the substrate to a temperature below about 180 [deg.]C or by washing with a solvent.
+</P>
+<P>
+2. The method according to claim 1, wherein the metal nanoparticles are selected from the group consisting of silver, gold, platinum, palladium, copper, cobalt, chromium, nickel, silver-copper composite, silver-gold composite, silver-gold-palladium composite and combinations thereof.
+</P>
+<P>
+3. The method according to claim 1, wherein the metal nanoparticles are selected from a group consisting of silver, silver-copper composite, silver-gold composite, silver-gold-palladium composite and combinations thereof.
+</P>
+<P>
+4. The method according to claim 1, wherein the concentration of metal nanoparticles in the metal nanoparticle solution is from about 5 weight percent to about 80 weight percent.
+</P>
+<P>
+5. The method according to claim 1, wherein the stabilizer is a compound comprising a moiety selected from the group consisting of -NH2, -NH-, -SH, -SO2M, wherein M is NH4&amp;lt;+&amp;gt;, Li&amp;lt;+&amp;gt;, Na&amp;lt;+&amp;gt;, K&amp;lt;+&amp;gt;, or Cs&amp;lt;+&amp;gt;, -OH, -C5H4N, -C(=O)OH, -OC(=S)SH (xanthic acid), R&apos;R&quot;P-, R&apos;R&quot;P(=O)-, wherein R&apos; and R&apos;&apos; are each individually a hydrocarbon group, and combinations thereof.
+</P>
+<P>
+6. The method according to claim 1, wherein the stabilizer in the metal nanoparticle solution includes an ether.
+</P>
+<P>
+7. The method according to claim 1, wherein the stabilizer in the metal nanoparticle solution includes an ester.
+</P>
+<P>
+8. The method according to claim 1, wherein the destabilizer in the destabilizer solution comprises a saturated aliphatic acid, unsaturated aliphatic acid, saturated aliphatic dicarboxylic acid, unsaturated aliphatic dicarboxylic acid, aromatic carboxylic acid, hydroxy carboxylic acid, methoxy carboxylic acid, carboxylic acid with a hydrocarbon group, inorganic acid, or combinations thereof.
+</P>
+<P>
+9. The method according to claim 1, wherein the destabilizer in the destabilizer solution comprises an organothiol.
+</P>
+<P>
+10. The method according to claim 1, wherein the concentration of the destabilizer in the destabilizer solution is from about one weight percent to about one hundred weight percent.
+</P>
+<P>
+11. The method according to claim 1, wherein destabilizing the stabilizer with a destabilizer interferes with the interaction between the stabilizer and the surface of the metal nanoparticles.
+</P>
+<P>
+12. The method according to claim 1, wherein destabilizing the stabilizer with a destabilizer decomposes the stabilizer into smaller size stabilizer derivatives.
+</P>
+<P>
+13. The method according to claim 1, wherein the solvent for removing the destabilizer is selected from the group consisting of water, pentane, hexane, cyclohexane, heptane, octane, nonane, decane, undecane, dodecane, tridecane, tetradecane, toluene, xylene, mesitylene, methanol, ethanol, propanol, butanol, pentanol, hexanol, heptanol, octanol, tetrahydrofuran, chlorobenzene, dichlorobenzene, trichlorobenzene, nitrobenzene, cyanobenzene, acetonitrile, dichloromethane, N,N-dimethylformamide (DMF), and combinations thereof.
+</P>
+<P>
+14. The method according to claim 1, wherein the metal nanoparticle solution and the destabilizer solution are combined during the deposition of the metal nanoparticle solution onto the substrate by simultaneously depositing both the metal nanoparticle solution and the destabilizer solution onto the substrate.
+</P>
+<P>
+15. A method of manufacturing a thin-film transistor, which comprises a substrate, a gate electrode, a gate dielectric layer, a source electrode and a drain electrode and a semiconductor layer in contact with the source/drain electrodes and the gate dielectric layer, the method comprising:
+</P>
+<P>
+providing a substrate with or without a gate electrode and a gate dielectric layer, providing two or more solutions, wherein a metal nanoparticle solution contains metal nanoparticles with a stabilizer and a destabilizer solution contains a destabilizer destabilizes the stabilizer,
+</P>
+<P>
+liquid depositing the metal nanoparticle solution onto the substrate or gate dielectric layer to form a gate electrode, source electrode and/or drain electrode, wherein during the deposition or following the deposition of the metal nanoparticle solution onto the substrate or gate dielectric layer, the metal nanoparticle and the destabilizer are combined with each other,
+</P>
+<P>
+destabilizing the stabilizer from the surface of the metal nanoparticles with the destabilizer,
+</P>
+<P>
+removing the stabilizer, destabilizer, and reaction by-products from the substrate by heating the substrate to a temperature below about 180 [deg.]C or washing with a solvent, and
+</P>
+<P>
+forming conductive features on the substrate as the gate, source, and/or drain electrodes.
+</P>
+</Claims>
+<Also_published_as>
+US2009181177A1;US8048488B2;JP2009170907A;CA2648536A1
+</Also_published_as>
+</BiblioData>

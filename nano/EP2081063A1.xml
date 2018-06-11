@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method for effective refractive index trimming of optical waveguiding structures and optical waveguiding structures thus obtained
+</Title>
+<PublicationNumber>
+EP2081063A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SCHRAUWEN JONATHAN [BE]
+</Name>
+<Name>
+VAN THOURHOUT DRIES [BE]
+</Name>
+<Name>
+BAETS ROELAND [BE]
+</Name>
+<Name>
+SCHRAUWEN, JONATHAN
+</Name>
+<Name>
+VAN THOURHOUT, DRIES
+</Name>
+<Name>
+BAETS, ROELAND
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IMEC INTER UNI MICRO ELECTR [BE]
+</Name>
+<Name>
+UNIV GENT [BE]
+</Name>
+<Name>
+IMEC
+</Name>
+<Name>
+UNIVERSITEIT GENT
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2081063
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090150649
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-01-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20080021250P
+</PriorityNumber>
+<PriorityDate>
+2008-01-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B6/122
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B6/122H
+</Class>
+</NCL>
+<Abstract>
+A method for trimming an effective refractive index of an optical waveguiding structure, the optical waveguiding structure comprising one or more ridges (21) made of a core material adjacent to a layer of cladding material (22), the cladding material being a compactible material. The method comprises the steps of defining a compaction area on the cladding material next to and on opposite sides of at least one of the one or more ridges (21);  and compacting the cladding material by irradiation of the cladding material only in said compaction area to create a strain in the core material of the at least one ridge, whereby the effective refractive index is trimmed.
+</Abstract>
+<Claims>
+<P>
+1. A method for trimming an effective refractive index of an optical waveguiding structure, the optical waveguiding structure comprising one or more ridges (21) made of a core material adjacent to a layer of cladding material (22), the cladding material being a compactible material, characterized in that the method comprises the steps of:
+</P>
+<P>
+defining a compaction area on the cladding material next to and on opposite sides of at least one of the one or more ridges (21); and
+</P>
+<P>
+compacting the cladding material by irradiation of the cladding material only in said compaction area to create a strain in the core material of the at least one ridge,
+</P>
+<P>
+whereby the effective refractive index is trimmed.
+</P>
+<P>
+2. The method according to claim 1, characterized in that the irradiation is performed in an irradiation area (13), the irradiation area being composed of the compaction area (18, 19) of the cladding layer and an area of core material, wherein the irradiation is done at a predetermined low irradiation energy that is chosen sufficiently low to prevent penetration of irradiation through the core material up to the cladding material underneath the core material.
+</P>
+<P>
+3. The method according to any of claims 1 to 2, characterized in that irradiating comprises irradiating by an electron beam, an ion beam or UV light.
+</P>
+<P>
+4. The method according to any of claims 1 to 3, characterized in that the core material is a non-compactible material.
+</P>
+<P>
+5. The method according to any of claims 1 to 4, characterized in that the core material is one of the following: silicon, InP, GaAs or ZnS.
+</P>
+<P>
+6. The method according to any of claims 1 to 5, characterized in that the cladding material is one of the following: SiO2, SiN, SiON, Al2O3, TiO2, spin-on glass or borophosphosilicate glass.
+</P>
+<P>
+7. The method according to any of claims 1 to 4, characterized in that the core material is silicon and the cladding material is silicon oxide.
+</P>
+<P>
+8. The method according to any of claims 1 to 7, characterized in that the method further comprises monitoring the effective refractive index of the optical waveguiding structure during the irradiation.
+</P>
+<P>
+9. An optical waveguiding structure comprising one or more ridges (21) made of a core material adjacent to a layer of cladding material (22), the cladding material being a compactible material, characterized in that the layer of cladding material comprises an area of compacted cladding material (23) next to and on opposite sides of at least one of the one or more ridges for inducing a strain in the core material of the at least one ridge, whereby an effective refractive index of the optical waveguiding structure is trimmed.
+</P>
+<P>
+10. The optical waveguiding structure according to claim 9, characterized in that there is a difference in refractive index &amp;gt; 1 between the core material and the cladding material.
+</P>
+<P>
+11. The optical waveguiding structure according to any of claims 9 to 10, characterized in that the core material is one of the following: silicon, InP, GaAs or ZnS.
+</P>
+<P>
+12. The optical waveguiding structure according to any of claims 9 to 11, characterized in that the cladding material is one of the following: SiO2, SiN, SiON, Al2O3, TiO2, spin-on glass or borophosphosilicate glass.
+</P>
+<P>
+13. The optical waveguiding structure according to any one of the claims 9 to 10, characterized in that the core material is silicon and the cladding material is silicon oxide.
+</P>
+<P>
+14. The optical waveguiding structure according to any one of the claims 9 to 13, characterized in that the optical waveguiding structure is part of one of the following optical components: a ring resonator, an arrayed waveguide grating, a mach-zehnder interferometer, a nanophotonic component comprising photonic crystals or plasmonic structures.
+</P>
+</Claims>
+<Also_published_as>
+US2010189402A1;US2011013874A2;US8170388B2;US2009180747A1;US7725000B2
+</Also_published_as>
+</BiblioData>

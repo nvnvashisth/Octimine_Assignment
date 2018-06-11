@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+STORAGE ELEMENT AND MEMORY
+</Title>
+<PublicationNumber>
+EP2172969A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HOSOMI MASANORI [JP]
+</Name>
+<Name>
+OHMORI HIROYUKI [JP]
+</Name>
+<Name>
+IKARASHI MINORU [JP]
+</Name>
+<Name>
+YAMAMOTO TETSUYA [JP]
+</Name>
+<Name>
+HIGO YUTAKA [JP]
+</Name>
+<Name>
+YAMANE KAZUTAKA [JP]
+</Name>
+<Name>
+OISHI YUKI [JP]
+</Name>
+<Name>
+KANO HIROSHI [JP]
+</Name>
+<Name>
+HOSOMI, MASANORI
+</Name>
+<Name>
+OHMORI, HIROYUKI
+</Name>
+<Name>
+IKARASHI, MINORU
+</Name>
+<Name>
+YAMAMOTO, TETSUYA
+</Name>
+<Name>
+HIGO, YUTAKA
+</Name>
+<Name>
+YAMANE, KAZUTAKA
+</Name>
+<Name>
+OISHI, YUKI
+</Name>
+<Name>
+KANO, HIROSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SONY CORP [JP]
+</Name>
+<Name>
+SONY CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2172969
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080790730
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP61817
+</PriorityNumber>
+<PriorityDate>
+2008-06-30
+</PriorityDate>
+<PriorityNumber>
+JP20070188371
+</PriorityNumber>
+<PriorityDate>
+2007-07-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/8246
+</Class>
+<Class>
+H01L27/105
+</Class>
+<Class>
+H01L43/08
+</Class>
+<Class>
+H01L43/10
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+H01L27/22M4F
+</Class>
+<Class>
+H01L43/08
+</Class>
+</NCL>
+<Abstract>
+A memory capable of improving the thermal stability without increasing the write current is provided. The memory is configured to include: a storage element 3 which has a storage layer 17 that holds information according to a magnetization state of a magnetic substance and in which a magnetization fixed layer 31 is provided on the storage layer 17 with an intermediate layer 16 interposed therebetween, the intermediate layer 16 is formed of an insulator, the direction of magnetization M1 of the storage layer 17 is changed by injecting electrons spin-polarized in a lamination direction such that the information is recorded in the storage layer 17, and distortion is applied to the storage layer 17 from an insulating layer which exists around the storage layer 17 and has a smaller coefficient of thermal expansion than the storage layer 17;  and a wiring line for supplying a current flowing in the lamination direction of the storage element 3. Description of Reference Numerals and Signs 3: STORAGE ELEMENT 4, 21: CONTACT LAYER 11: BASE LAYER 12: ANTIFERROMAGNETIC LAYER 13, 15: FERROMAGNETIC LAYER 14: NON-MAGNETIC LAYER 16: TUNNEL INSULATING LAYER 17: STORAGE LAYER 18: CAP LAYER 22, 23, 25, 42, 44: INSULATING LAYER 24: BIT LINE 31: MAGNETIZATION FIXED LAYER 41: INSULATING LAYER (WITH A RELATIVELY SMALL COEFFICIENT OF THERMAL EXPANSION) 43: LINER LAYER 45: ELEMENT SEPARATION LAYER
+</Abstract>
+<Claims>
+<P>
+1. A storage element comprising:
+</P>
+<P>
+a storage layer which holds information according to a magnetization state of a magnetic substance,
+</P>
+<P>
+wherein a magnetization fixed layer is provided on the storage layer with an intermediate layer interposed therebetween,
+</P>
+<P>
+the intermediate layer is formed of an insulator,
+</P>
+<P>
+the direction of magnetization of the storage layer is changed by injecting electrons spin-polarized in a lamination direction such that the information is recorded in the storage layer,
+</P>
+<P>
+a coefficient of thermal expansion of the storage layer is 1*10&amp;lt;-5&amp;gt; [/K] or more, and
+</P>
+<P>
+an insulating layer with a coefficient of thermal expansion of 5*10&amp;lt;-6&amp;gt; [/K] or less is provided at least around the storage layer so that distortion is applied to the storage layer.
+</P>
+<P>
+2. A memory comprising:
+</P>
+<P>
+a storage element which has a storage layer that holds information according to a magnetization state of a magnetic substance and in which a magnetization fixed layer is provided on the storage layer with an intermediate layer interposed therebetween, the intermediate layer is formed of an insulator, and the direction of magnetization of the storage layer is changed by injecting electrons spin-polarized in a lamination direction such that the information is recorded in the storage layer; and
+</P>
+<P>
+a wiring line for supplying a current flowing in the lamination direction of the storage element,
+</P>
+<P>
+wherein in the storage element, a coefficient of thermal expansion of the storage layer is 1*10&amp;lt;-5&amp;gt; [/K] or more and an insulating layer with a coefficient of thermal expansion of 5*10&amp;lt;-6&amp;gt; [/K] or less is provided at least around the storage layer so that distortion is applied to the storage layer.
+</P>
+<P>
+3. A memory comprising:
+</P>
+<P>
+memory cells each being formed by a storage element which has a storage layer that holds information according to a magnetization state of a magnetic substance and in which a magnetization fixed layer is provided on the storage layer with an intermediate layer interposed therebetween, the intermediate layer is formed of an insulator, and the direction of magnetization of the storage layer is changed by injecting electrons spin-polarized in a lamination direction such that the information is recorded in the storage layer; and
+</P>
+<P>
+a wiring line for supplying a current flowing in the lamination direction of the storage element,
+</P>
+<P>
+wherein the memory cells are disposed in a matrix, and
+</P>
+<P>
+distortion is applied to the storage layer by embedding a material with a coefficient of thermal expansion, which is different from that of a material around the storage element of the memory cell, between memory cell rows.
+</P>
+<P>
+4. The memory according to claim 3,
+</P>
+<P>
+wherein the storage element of the memory cell has a planar shape in which a row direction of the memory cell is a longitudinal direction, and
+</P>
+<P>
+a material with a different coefficient of thermal expansion from the material around the storage element is formed in a direction parallel to the row direction of the memory cell.
+</P>
+<P>
+5. A memory comprising:
+</P>
+<P>
+a memory cell formed by a storage element which has a storage layer that holds information according to a magnetization state of a magnetic substance and in which a magnetization fixed layer is provided on the storage layer with an intermediate layer interposed therebetween, the intermediate layer is formed of an insulator, and the direction of magnetization of the storage layer is changed by injecting electrons spin-polarized in a lamination direction such that the information is recorded in the storage layer; and
+</P>
+<P>
+a wiring line for supplying a current flowing in the lamination direction of the storage element,
+</P>
+<P>
+wherein the memory cell is provided in a plural number, and
+</P>
+<P>
+the memory cells adjacent to each other are insulated from each other by an element separation layer and distortion is applied from the element separation layer to the storage layer of the storage element.
+</P>
+<P>
+6. A storage element comprising:
+</P>
+<P>
+a storage layer which holds information according to a magnetization state of a magnetic substance,
+</P>
+<P>
+wherein a magnetization fixed layer is provided on the storage layer with an intermediate layer interposed therebetween,
+</P>
+<P>
+the intermediate layer is formed of an insulator,
+</P>
+<P>
+the direction of magnetization of the storage layer is changed by injecting electrons spin-polarized in a lamination direction such that the information is recorded in the storage layer, and
+</P>
+<P>
+a material with a different coefficient of thermal expansion from the storage layer is used for at least one of layers which form the storage element or layers laminated adjacent to the storage element so that distortion is applied to the storage layer.
+</P>
+<P>
+7. A memory comprising:
+</P>
+<P>
+a storage element which has a storage layer that holds information according to a magnetization state of a magnetic substance and in which a magnetization fixed layer is provided on the storage layer with an intermediate layer interposed therebetween, the intermediate layer is formed of an insulator, and the direction of magnetization of the storage layer is changed by injecting electrons spin-polarized in a lamination direction such that the information is recorded in the storage layer; and
+</P>
+<P>
+a wiring line for supplying a current flowing in the lamination direction of the storage element,
+</P>
+<P>
+wherein a material with a different coefficient of thermal expansion from the storage layer is used for at least one of layers which form the storage element or layers laminated with the storage element so that distortion is applied to the storage layer.
+</P>
+</Claims>
+<Also_published_as>
+US2010200939A1;TW200910348A;KR20100033386A;WO2009011216A1;JP2009026944A;CN101743634A;CN101743634B
+</Also_published_as>
+</BiblioData>

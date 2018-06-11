@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR METAL- FREE SYNTHESIS OF EPITAXIAL SEMICONDUCTOR NANOWIRES ON SI
+</Title>
+<PublicationNumber>
+EP1991499A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SAMUELSON LARS [SE]
+</Name>
+<Name>
+MAARTENSSON THOMAS [SE]
+</Name>
+<Name>
+SEIFERT WERNER [DE]
+</Name>
+<Name>
+MIKKELSEN ANDERS [SE]
+</Name>
+<Name>
+MANDL BERNHARD [AT]
+</Name>
+<Name>
+SAMUELSON, LARS
+</Name>
+<Name>
+MAARTENSSON, THOMAS
+</Name>
+<Name>
+SEIFERT, WERNER
+</Name>
+<Name>
+MIKKELSEN, ANDERS
+</Name>
+<Name>
+MANDL, BERNHARD
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+QUNANO AB [SE]
+</Name>
+<Name>
+MANDL BERNHARD [AT]
+</Name>
+<Name>
+QUNANO AB
+</Name>
+<Name>
+MANDL, BERNHARD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1991499
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070716104
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007SE50131
+</PriorityNumber>
+<PriorityDate>
+2007-03-07
+</PriorityDate>
+<PriorityNumber>
+SE20060000533
+</PriorityNumber>
+<PriorityDate>
+2006-03-08
+</PriorityDate>
+<PriorityNumber>
+SE20060001142
+</PriorityNumber>
+<PriorityDate>
+2006-05-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C30B25/10
+</Class>
+<Class>
+H01L29/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C30B25/04
+</Class>
+<Class>
+C30B29/62
+</Class>
+<Class>
+H01L21/02K4A1A3
+</Class>
+<Class>
+H01L21/02K4A1B2
+</Class>
+<Class>
+H01L21/02K4A7
+</Class>
+<Class>
+H01L21/02K4C1B3
+</Class>
+<Class>
+H01L21/02K4C5M6
+</Class>
+<Class>
+H01L21/02K4C7
+</Class>
+<Class>
+H01L21/02K4E3S3
+</Class>
+<Class>
+H01L21/02K4E3S3S
+</Class>
+<Class>
+H01L21/02K4E3S8
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to epitaxial growth of nanowires on a substrate. In particular the invention relates to growth of nanowires on an Si-substrate without using Au as a catalyst. In the method according to the invention an oxide template is provided on a passivated surface of the substrate. The oxide template defines a plurality of nucleation onset positions for subsequent nanowire growth. According to one embodiment a thin organic film is used to form the oxide template.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method of producing nanostructured devices comprising a nanowire epitaxially grown from a surface of a substrate, the method characterized by the steps of:
+</P>
+<P>
+-(a) hydrogen termination of the surface of the substrate (100) to provide a substrate with a temporarily passivated surface (110); -(b) providing an oxide template (115) on the passivated surface (110) of the substrate (105), the oxide template defining a plurality of nucleation onset positions for the subsequent nanowire growth; and
+</P>
+<P>
+-(c) growing nanowires in the nucleation onset positions defined by the oxide template on the substrate surface (110).
+</P>
+<P>
+2. The method according to claim 1, wherein the structure of the oxide template (115) is self-assembled.
+</P>
+<P>
+3. The method according to claim 1 or 2, wherein the oxide template forms a growth inhibiting mask of primarily Si[theta]2 with holes, or weakenings in the mask forming the nucleation onset positions.
+</P>
+<P>
+4. The method according to claim 3, wherein in the growing step, nanowires nucleate and grow in the holes or weakenings of the growth inhibiting mask.
+</P>
+<P>
+5. The method according to any of claims 1-4, wherein the step of providing an oxide template (515) comprises a pre-treatment prior to the growth phase comprising the steps of:
+</P>
+<P>
+-applying (b&quot;: l), a thin organic film on the substrate surface; and -providing (b&quot;:2) a nucleation onset period, wherein the conditions as regards to time and environment are controlled so that a partial oxidation occurs on the substrate surface (510), the oxidation guided at least partly by the applied thin organic film or residues of the film giving a correlation between the structure of the oxide template (515) and the thin organic film or the residues of the film.
+</P>
+<P>
+6. The method according to claim 5, wherein the thin organic film forms a plurality of localized areas with increased permeability.
+</P>
+<P>
+7. The method according to claim 5, wherein in the thin organic film is formed a plurality of cracks.
+</P>
+<P>
+8. The method according to claim 6 or 7, wherein a localized oxidation on the surface of the substrate occur at the areas with increased permeability or at the cracks.
+</P>
+<P>
+9. The method according to any of claims FeI! Hittar inte referenskalla. to 9, wherein the nucleation onset period comprises exposing the substrate to humidity.
+</P>
+<P>
+10. The method according to any of claims FeI! Hittar inte referenskalla. to 9, wherein the nucleation onset period comprises exposing the substrate to oxidizing substances.
+</P>
+<P>
+11. The method according to claim 5, wherein the thin organic film forms localised residues (514) on the substrate surface (510), and the oxidation process is controlled to give a essentially full oxidation of the substrate surface, except in areas covered by organic residues (514) which become less or non-oxidised, thereby, in a subsequent growth step, nanowires will nucleate and growth in positions on the substrate previously covered by the organic residues.
+</P>
+<P>
+12. The method according to claim 11, wherein the oxidation will result in a layer of Si[theta]2 covering the substrate surface, except in areas covered by organic residues 514
+</P>
+<P>
+13. The method according to claim 5, wherein the formation of nucleation onset positions comprises a forming of SiOx clusters on the substrate surface, the SiOxclusters to act as catalyst particles in a subsequent growing of nanowires.
+</P>
+<P>
+14. The method according to claim 5, wherein the formation of nucleation onset positions comprises forming residues of the thin organic film on the substrate surface, the residues to act as catalyst particles in a subsequent growing of nanowires.
+</P>
+<P>
+15. The method according to claim 5, wherein the formation of nucleation onset positions comprises forming residues of the thin organic film on the substrate surface, the residues locally altering the substrate surface and the localized alterations acting as nucleation onset positions in a subsequent growing of nanowires.
+</P>
+<P>
+16. The method according to claim 5, wherein the applied thin organic film act as a mask in a subsequent growing of nanowires and nanowires are located in holes in the mask, the holes spontaneously formed during the nucleation onset period.
+</P>
+<P>
+17. The method according to any of claims 1-4, wherein the step of providing an oxide template (515) comprises:
+</P>
+<P>
+-(b&amp;lt;5&amp;gt;) applying a thin layer of a volatile species to the substrate, the thin layer of a volatile species forming an oxide template 115; and -(C&amp;lt;5&amp;gt;) providing, during a growth phase, conditions as regard to time, pressure and temperature ensuring that the nucleation of nanowires is guided by the oxide template (115).
+</P>
+<P>
+18. The method according to claim 17, wherein the thin layer of a volatile species comprises of a non-metallic oxide.
+</P>
+<P>
+19. The method according to claim 17, wherein the thin layer of a volatile species comprises of a non-metallic nitride.
+</P>
+<P>
+20. The method according to claim 17, wherein the thin layer of a volatile species comprises of a non-metallic phosphide.
+</P>
+<P>
+21. The method according to any of claim 17 to 20, wherein the catalyst layer comprises one of, or a combination of silicon oxide, silicon nitride or silicon phosphide.
+</P>
+<P>
+22. The method according to claim 21, wherein the catalyst layer comprises of SiOx (x~l).
+</P>
+<P>
+23. The method according to any of claim 17 to 21, further comprising patterning the catalyst layer with a lithographic method.
+</P>
+<P>
+24. The method according to claim 23, wherein in the growth phase first conditions are provided, as regards to temperature, time and pressure, such that the growth of the nanowires are initiated before the catalyst layer is fully evaporated.
+</P>
+<P>
+25. The method according to claim 24, wherein, a source for the nanowire growth is turned on at a substrate temperature lower than the evaporation temperature of the catalyst layer.
+</P>
+<P>
+26. The method according to claim 25, wherein, the catalyst layer is made of SiOx (x~l), and the nanowires are grown by low pressure metal organic vapor phase epitaxy (LP-MOVPE), and the sources are activated already during a substrate heating-up period at 510 - 520 &amp;lt;0&amp;gt;C.
+</P>
+<P>
+27. The method according to any of claim 17 to 21, further comprising providing second conditions wherein the temperature of the substrate is optimised for promoting the growth of the nanowires, and the second temperature is higher than the first temperature used during the first conditions.
+</P>
+</Claims>
+<Also_published_as>
+WO2007102781A1;US2009301389A1;KR20080112277A;JP2009532309A;AU2007222162A1;AU2007222162A2
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LUMINESCENT MATERIALS HAVING NANOCRYSTALS EXHIBITING MULTI- MODAL ENERGY LEVEL DISTRIBUTIONS
+</Title>
+<PublicationNumber>
+EP2038369A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GIBSON GARY A [US]
+</Name>
+<Name>
+SHENG XIA [US]
+</Name>
+<Name>
+GIBSON, GARY A
+</Name>
+<Name>
+SHENG, XIA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2038369
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070870719
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US15766
+</PriorityNumber>
+<PriorityDate>
+2007-07-10
+</PriorityDate>
+<PriorityNumber>
+US20060483479
+</PriorityNumber>
+<PriorityDate>
+2006-07-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C09K11/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09K11/02
+</Class>
+<Class>
+C09K11/02B
+</Class>
+<Class>
+H01L51/50E4
+</Class>
+<Class>
+H01L51/50E8
+</Class>
+<Class>
+H01L51/50G
+</Class>
+<Class>
+H05B33/14
+</Class>
+</NCL>
+<Abstract>
+Luminescent materials include a plurality of nanocrystals. At least some of the nanocrystals may be configured to emit electromagnetic radiation upon stimulation, and the plurality of nanocrystals may exhibit a multi-modal energy level distribution. The distribution of the nanocrystals may be selectively configured to enhance the luminescence efficiency of a fraction of the plurality of nanocrystals that exhibits one energy level mode of the multi-modal energy level distribution. Light-emitting diodes and electronic devices include such luminescent materials.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A luminescent material comprising:
+</P>
+<P>
+a material;
+</P>
+<P>
+a plurality of nanocrystals dispersed throughout the material, at least one nanocrystal of the plurality of nanocrystals configured to emit electromagnetic radiation upon stimulation, the plurality of nanocrystals exhibiting a multi-modal energy level distribution, wherein the distribution of the nanocrystals in the material is selectively configured to enhance the luminescence efficiency of a fraction of the plurality of nanocrystals that exhibits one energy level mode of the multi-modal energy level distribution.
+</P>
+<P>
+2. The luminescent material of claim 1, wherein the nanocrystals of the plurality of nanocrystals have an average particle size of less than about twenty nanometers.
+</P>
+<P>
+3. The luminescent material of claim 1, wherein the plurality of nanocrystals comprises:
+</P>
+<P>
+a plurality of high energy nanocrystals; and
+</P>
+<P>
+a plurality of low energy nanocrystals, wherein the ratio of the number of high energy nanocrystals in the luminescent material to the number of low energy nanocrystals in the luminescent material is greater than about 1.
+</P>
+<P>
+4. The luminescent material of claim 3, wherein the ratio of the number of high energy nanocrystals in the luminescent material to the number of low energy nanocrystals in the luminescent material is greater than about 10.
+</P>
+<P>
+5. The luminescent material of claim 3, wherein the high energy nanocrystals have a chemical composition that is different from a chemical composition of the low energy nanocrystals.
+</P>
+<P>
+6. The luminescent material of claim 3, wherein the high energy nanocrystals have an average particle size that is different from an average particle size of the low energy nanocrystals.
+</P>
+<P>
+7. The luminescent material of claim 6, wherein the high energy nanocrystals are generally spherical and have an average diameter in a range extending from about 1 to about 10 nanometers, and wherein the low energy nanocrystals are generally spherical and have an average diameter in a range extending from about 2 to about 20 nanometers.
+</P>
+<P>
+8. The luminescent material of claim 1, wherein at least some nanocrystals of the plurality of nanocrystals comprise a III-V type semiconductor material or a II-VI type semiconductor material.
+</P>
+<P>
+9. The luminescent material of claim 8, wherein at least one nanocrystal of the plurality of nanocrystals comprises:
+</P>
+<P>
+a core region; and
+</P>
+<P>
+a shell region.
+</P>
+<P>
+10. The luminescent material of claim 1, wherein the material comprises an electrically conductive polymer material.
+</P>
+<P>
+11. The luminescent material of claim 1, wherein the luminescent material is configured to emit electromagnetic radiation therefrom when an electrical field is applied across the luminescent material.
+</P>
+<P>
+12. The luminescent material of claim 1, wherein the average distance between adjacent nanocrystals in the luminescent material is between about 0.1 nanometers and about 50 nanometers.
+</P>
+<P>
+13. An electronic device comprising at least one light-emitting diode, the at least one light-emitting diode comprising:
+</P>
+<P>
+an anode;
+</P>
+<P>
+a cathode; and
+</P>
+<P>
+a luminescent material disposed between at least a portion of the anode and a portion of the cathode, the luminescent material configured to emit electromagnetic radiation therefrom in response to an electric field generated between the anode and the cathode, the luminescent material comprising:
+</P>
+<P>
+a polymer material; and
+</P>
+<P>
+a plurality of nanocrystals having an average particle size of less than about twenty nanometers dispersed throughout the polymer material, at least some nanocrystals of the plurality of nanocrystals configured to emit electromagnetic radiation upon stimulation, the plurality of nanocrystals exhibiting a multi-modal energy level distribution, wherein the distribution of the nanocrystals in the polymer material is selectively configured to enhance the luminescence efficiency of a fraction of the plurality of nanocrystals that exhibits one energy level mode of the multi-modal energy level distribution.
+</P>
+<P>
+14. The electronic device of claim 13, wherein the electronic device comprises a display device, the at least one light-emitting device comprising a plurality of light emitting devices together defining a screen configured to display an image.
+</P>
+<P>
+15. The electronic device of claim 14, wherein the electronic device comprises one of a television, a computer monitor, a portable computer device, a handheld computer device, and a portable media player.
+</P>
+<P>
+16. The electronic device of claim 13, wherein the nanocrystals of the first plurality of luminescent nanocrystals and the nanocrystals of the at least one additional plurality of luminescent nanocrystals together are configured to exhibit a multi-modal distribution of emission or absorption spectra.
+</P>
+<P>
+17. A method of enhancing the luminescence efficiency of a light-emitting diode, the method comprising:
+</P>
+<P>
+providing a plurality of nanocrystals having an average particle size of less than about twenty nanometers, the plurality of nanocrystals comprising a plurality of high energy nanocrystals and a plurality of low energy nanocrystals, at least some nanocrystals of the plurality of nanocrystals configured to emit electromagnetic radiation upon stimulation, the plurality of nanocrystals exhibiting a multi-modal energy level distribution;
+</P>
+<P>
+dispersing the plurality of nanocrystals throughout a polymer material for use in a light-emitting diode; and
+</P>
+<P>
+selectively tailoring the relative concentrations of the high energy nanocrystals and the low energy nanocrystals in the polymer material to enhance a luminescence efficiency of the low energy nanocrystals.
+</P>
+<P>
+18. The method of claim 17, wherein providing a plurality of nanocrystals comprises providing at least one additional set of nanocrystals in addition to the high energy nanocrystals and the low energy nanocrystals, the at least one additional set of nanocrystals exhibiting a bandgap energy that differs from a bandgap energy exhibited by the high energy nanocrystals and a bandgap energy exhibited by the low energy nanocrystals.
+</P>
+<P>
+19. The method of claim 17, wherein selectively tailoring the relative concentrations of the high energy nanocrystals and the low energy nanocrystals in the polymer material comprises providing a ratio of the number of high energy nanocrystals in the polymer material to the number of low energy nanocrystals in the polymer material that is greater than about 1.
+</P>
+<P>
+20. The method of claim 19, wherein selectively tailoring the relative concentrations of the high energy nanocrystals and the low energy nanocrystals in the polymer material comprises providing a ratio of the number of high energy nanocrystals in the polymer material to the number of low energy nanocrystals in the polymer material that is greater than about 10.
+</P>
+<P>
+21. The method of claim 17, wherein providing a plurality of nanoparticles comprises:
+</P>
+<P>
+providing a plurality of high energy nanocrystals having an average particle size; and
+</P>
+<P>
+providing a plurality of low energy nanocrystals having an average particle size that differs from the average particle size of the high energy nanocrystals.
+</P>
+</Claims>
+<Also_published_as>
+US2008007156A1;WO2008066588A2;WO2008066588A3;KR20090050048A;EP2368962A2;EP2368962A3
+</Also_published_as>
+</BiblioData>

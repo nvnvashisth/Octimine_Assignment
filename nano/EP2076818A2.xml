@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+APPARATUS COMPRISING A ROTATING CONTAMINANT TRAP
+</Title>
+<PublicationNumber>
+EP2076818A2
+</PublicationNumber>
+<Inventor>
+<Name>
+FRANKEN JOHANNES CHRISTIAAN LE [NL]
+</Name>
+<Name>
+BANINE VADIM YEVGENYEVICH [NL]
+</Name>
+<Name>
+WASSINK ARNOUD CORNELIS [NL]
+</Name>
+<Name>
+FRANKEN, JOHANNES, CHRISTIAAN, LEONARDUS
+</Name>
+<Name>
+BANINE, VADIM, YEVGENYEVICH
+</Name>
+<Name>
+WASSINK, ARNOUD, CORNELIS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASML NETHERLANDS BV [NL]
+</Name>
+<Name>
+ASML NETHERLANDS B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2076818
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070808582
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007NL50451
+</PriorityNumber>
+<PriorityDate>
+2007-09-17
+</PriorityDate>
+<PriorityNumber>
+US20060525225
+</PriorityNumber>
+<PriorityDate>
+2006-09-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+F16C32/06
+</Class>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+F16C32/06A
+</Class>
+<Class>
+F16C32/06R2
+</Class>
+<Class>
+F16C33/02
+</Class>
+<Class>
+F16C33/72
+</Class>
+<Class>
+G03F7/70B6
+</Class>
+<Class>
+G03F7/70P8B
+</Class>
+<Class>
+G03F7/70P8H
+</Class>
+</NCL>
+<Abstract>
+A contaminant trap apparatus arranged in a path of a radiation beam to trap contaminants emanating from a radiation source configured to produce the radiation beam is disclosed. The contaminant trap apparatus includes a rotor having a plurality of channel forming elements defining channels which are arranged substantially parallel to the direction of propagation of the radiation beam, the rotor including electrically chargeable material and arranged to be electrically charged as a result of the operation of the radiation source;  and a bearing configured to rotatably hold the rotor with respect to a rotor carrying structure, wherein the apparatus is configured to (i) control or redirect an electrical discharge of the rotor, or (ii) suppress an electrical discharge of the rotor, or (iii) both (i) and (ii).
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A contaminant trap apparatus arranged in a path of a radiation beam to trap contaminants emanating from a radiation source configured to produce the radiation beam, the contaminant trap apparatus comprising: a rotor having a plurality of channel forming elements defining channels which are arranged substantially parallel to the direction of propagation of the radiation beam, the rotor comprising electrically chargeable material and arranged to be electrically charged as a result of the operation of the radiation source; and a bearing configured to rotatably hold the rotor with respect to a rotor carrying structure, wherein the apparatus is configured to (i) control or redirect an electrical discharge of the rotor, or (ii) suppress an electrical discharge of the rotor, or (iii) both (i) and (ii),
+</P>
+<P>
+2. The apparatus according to claim 1 , wherein electrical discharge of the rotor is controlled by an electrically conductive coupling, which is in electrical contact with an electrically conductive part of the rotor and with an electrically conductive part of the rotor carrying structure, a charge drain, or both.
+</P>
+<P>
+3. The apparatus according to claim 2, wherein the electrical coupling comprises a sliding contact.
+</P>
+<P>
+4. The apparatus according to any of the preceding claims, wherein the bearing comprises a radial gas bearing structure, provided between a rotor shaft and part of the rotor carrying structure, wherein the rotor shaft comprises electrically insulating material to prevent flow of electrical charge, at the gas bearing structure, between the rotor and a bearing surface of the rotor carrying structure.
+</P>
+<P>
+5. The apparatus according to any of the preceding claims, wherein the bearing comprises a radial gas bearing structure, provided between a first part of a rotor shaft and part of the rotor carrying structure, wherein the gas bearing structure is configured to supply a gas or gas mixture to between the first part of the rotor shaft and the rotor carrying structure, and wherein (i) a discharge stimulating structure is provided, or (ii) a discharge stimulating gas or gas mixture is configured to be provided, or (iii) both (i) and (ii), at or near a different second part of the rotor shaft to stimulate an electrical discharge with the rotor shaft in an area outside the gas bearing structure, the second shaft part being attached to the rotor and being able to exchange charge with the electrically chargeable rotor material,
+</P>
+<P>
+6. The apparatus according to claim 5, wherein the second shaft part is not substantially surrounded by the gas bearing structure and extends between the rotor and the first shaft part.
+</P>
+<P>
+7. The apparatus according to claim 5 or 6, wherein the discharge stimulating gas or gas mixture has a lower breakdown voltage than the bearing gas or gas mixture.
+</P>
+<P>
+8. The apparatus according to any of claims 5-7, wherein the discharge stimulating structure comprises an electrically conductive electrode, extending or reaching to a location near an outer surface of the second shaft part, the electrode being connected to a charge drain or a potential source.
+</P>
+<P>
+9. The apparatus according to any of the preceding claims, wherein the bearing comprises a radial fluid bearing structure, provided between a part of a rotor shaft and part of the rotor carrying structure, wherein the fluid bearing structure is configured to supply an electrically conducting fluid or fluid mixture to provide an electrical conducting path between the rotor shaft and the rotor carrying structure.
+</P>
+<P>
+10. The apparatus according to any of the preceding claims, wherein the bearing comprises a radial gas bearing structure, and the channel forming elements comprise plates defining the channels, the plates arranged substantially parallel to the direction of propagation of the radiation beam, wherein part of a rotor shaft reaches into the gas bearing structure.
+</P>
+<P>
+11. The apparatus according to any of the preceding claims, further comprising a radiation system including the radiation source.
+</P>
+<P>
+12. A lithographic apparatus, comprising: a contaminant trap apparatus arranged in a path of a radiation beam to trap contaminants emanating from a radiation source configured to produce the radiation beam, the contaminant trap apparatus comprising: a rotor having a plurality of channel forming elements defining channels which are arranged substantially parallel to the direction of propagation of the radiation beam, the rotor comprising electrically chargeable material and arranged to be electrically charged as a result of the operation of the radiation source; and a bearing configured to rotatably hold the rotor with respect to a rotor carrying structure, wherein the contaminant trap apparatus is configured to (i) control or redirect an electrical discharge of the rotor, or (ii) suppress an electrical discharge of the rotor, or
+</P>
+<P>
+(iii) both (i) and (ii); a substrate table configured to hold a substrate; and a projection system configured to project the radiation beam as patterned onto the substrate.
+</P>
+<P>
+13. The lithographic apparatus according to claim 12, wherein electrical discharge of the rotor is controlled by an electrically conductive coupling, which is in electrical contact with an electrically conductive part of the rotor and with an electrically conductive part of the rotor carrying structure, a charge drain, or both.
+</P>
+<P>
+14. The lithographic apparatus according to claim 12 or 13, wherein the bearing comprises a radial gas bearing structure, provided between a rotor shaft and part of the rotor carrying structure, wherein the rotor shaft comprises electrically insulating material to prevent flow of electrical charge, at the gas bearing structure, between the rotor and a bearing surface of the rotor carrying structure.
+</P>
+<P>
+15. The lithographic apparatus according to any of claims 12-14, wherein the bearing comprises a radial gas bearing structure, provided between a first part of a rotor shaft and part of the rotor carrying structure, wherein the gas bearing structure is configured to supply a gas or gas mixture to between the first part of the rotor shaft and the rotor carrying structure, and wherein (i) a discharge stimulating structure is provided, or (ii) a discharge stimulating gas or gas mixture is configured to be provided, or (iii) both (i) and (ii), at or near a different second
+</P>
+<P>
+51
+</P>
+<P>
+part of the rotor shaft to stimulate an electrical discharge with the rotor shaft in an area outside the gas bearing structure, the second shaft part being attached to the rotor and being able to exchange charge with the electrically chargeable rotor material.
+</P>
+<P>
+16. The lithographic apparatus according to claim 15, wherein the second shaft part is not substantially surrounded by the gas bearing structure and extends between the rotor and the first shaft part.
+</P>
+<P>
+17. The lithographic apparatus according to claim 15 or 16, wherein the discharge stimulating gas or gas mixture has a lower breakdown voltage than the bearing gas or gas mixture.
+</P>
+<P>
+18. The lithographic apparatus according to any of claims 15-17, wherein the discharge stimulating structure comprises an electrically conductive electrode, extending or reaching to a location near an outer surface of the second shaft part, the electrode being connected to a charge drain or a potential source.
+</P>
+<P>
+19. The lithographic apparatus according to any of the claims 12-18, wherein the bearing comprises a radial fluid bearing structure, provided between a part of a rotor shaft and part of the rotor carrying structure, wherein the fluid bearing structure is configured to supply an electrically conducting fluid or fluid mixture to provide an electrical conducting path between the rotor shaft and the rotor carrying structure.
+</P>
+<P>
+20. The lithographic apparatus according to claim any of the claims 12-19, wherein the bearing comprises a radial gas bearing structure, and the channel forming elements comprise plates defining the channels, the plates arranged substantially parallel to the direction of propagation of the radiation beam, wherein part of a rotor shaft reaches into the gas bearing structure.
+</P>
+</Claims>
+<Also_published_as>
+EP2076818B1;WO2008035965A2;WO2008035965A3;US2011096308A1;US2010259733A1;US7889312B2;TW200823606A;KR20090055012A;KR101044751B1;JP2012028813A;JP2010504642A;JP4852152B2;CN102402136A;CN101517490A;CN101517490B;AT453136T
+</Also_published_as>
+</BiblioData>

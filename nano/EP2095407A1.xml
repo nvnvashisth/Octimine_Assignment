@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR FORMING MICROWIRES AND/OR NANOWIRES
+</Title>
+<PublicationNumber>
+EP2095407A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BARBE JEAN-CHARLES [FR]
+</Name>
+<Name>
+DORNEL ERWAN [FR]
+</Name>
+<Name>
+DE CRECY FRANCOIS [FR]
+</Name>
+<Name>
+EYMERY JOEL [FR]
+</Name>
+<Name>
+BARBE, JEAN-CHARLES
+</Name>
+<Name>
+DORNEL, ERWAN
+</Name>
+<Name>
+DE CRECY, FRANCOIS
+</Name>
+<Name>
+EYMERY, JOEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2095407
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070857946
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP64325
+</PriorityNumber>
+<PriorityDate>
+2007-12-20
+</PriorityDate>
+<PriorityNumber>
+FR20060055822
+</PriorityNumber>
+<PriorityDate>
+2006-12-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81C1/00
+</Class>
+<Class>
+H01L21/336
+</Class>
+<Class>
+H01L29/786
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L29/423D2B8G
+</Class>
+<Class>
+H01L29/66M6T6F16F
+</Class>
+<Class>
+H01L29/78S4
+</Class>
+</NCL>
+<Abstract>
+L&apos;invention concerne un procédé de réalisation d&apos;au moins un fil (112) dans une couche (102) à base d&apos;au moins un matériau monocristallin ou amorphe, comprenant au moins les étapes de :- réalisation d&apos;au moins deux tranchées (110) dans la couche, traversant une face (101) de la couche, séparées l&apos;une de l&apos;autre par au moins une portion de la couche,- recuit, sous atmosphère hydrogénée, de la couche.Les profondeurs des deux tranchées dans la couche, les largeurs des sections des deux tranchées et la largeur d&apos;une section de ladite portion de la couche, les sections étant dans un plan parallèle à ladite face de la couche, sont telles que le recuit supprime une partie de ladite portion de la couche, les deux tranchées formant alors une seule tranchée (114) dans laquelle une partie restante de ladite portion de la couche forme le fil.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Procédé de réalisation d&apos;au moins un fil (112) dans une couche (102) à base d&apos;au moins un 5 matériau monocristallin ou amorphe, comprenant au moins les étapes de : réalisation d&apos;au moins deux tranchées (110) dans la couche (102), traversant une face (101) de la couche (102), séparées l&apos;une de l&apos;autre par au 10 moins une portion (111) de la couche (102) monocristalline ou amorphe, - recuit, sous atmosphère hydrogénée, de la couche (102), les profondeurs P des deux tranchées (110) 15 dans la couche (102), les largeurs L des sections des deux tranchées (110) et la largeur D d&apos;une section de ladite portion (111) de la couche (102) monocristalline ou amorphe, les sections étant dans un plan parallèle à ladite face (101) de la couche (102), étant telles que 20 le recuit supprime une partie de ladite portion (111) de la couche (102) monocristalline ou amorphe, les deux tranchées (110) formant alors une seule tranchée (114) dans laquelle une partie restante de ladite portion (111) de la couche (102) monocristalline ou amorphe 25 forme le fil (112).
+</P>
+<P>
+2. Procédé selon la revendication 1, les tranchées (110) étant de forme et de dimensions similaires. 30 2910456 21
+</P>
+<P>
+3. Procédé de réalisation d&apos;un transistor (200) à grille (220) enrobante, comportant au moins les étapes de : - réalisation d&apos;une pluralité de tranchées (201) dans une couche (102) à base d&apos;au moins un matériau monocristallin ou amorphe, traversant une face (101) de la couche (102) et formant le contour de zones de source (204), de drain (206) et de canal (208), au moins deux tranchées (201) parmi la pluralité de tranchées (201) étant séparées l&apos;une de l&apos;autre par au moins une portion (208) de la couche (102) monocristalline ou amorphe destinée à former le canal du transistor (200), - recuit sous atmosphère hydrogénée de la couche (102), les profondeurs P desdites deux tranchées (201) dans la couche (102), les largeurs L des sections desdites deux tranchées (201) et la largeur D d&apos;une section de ladite portion (208) de la couche (102) monocristalline ou amorphe, les sections étant dans un plan parallèle à ladite face (101) de la couche (102), étant telles que le recuit supprime une partie de ladite portion (208) de la couche (102) monocristalline ou amorphe, lesdites deux tranchées (201) formant alors une seule tranchée (210) dans laquelle une partie restante de ladite portion (208) de la couche (102) monocristalline ou amorphe est le fil (212) formant le canal du transistor (200).
+</P>
+<P>
+4. Procédé selon la revendication 3, comportant en outre, après l&apos;étape de recuit : 2910456 22 une étape de dépôt d&apos;un matériau diélectrique (214) dans les tranchées (210, 201), - une étape de gravure d&apos;une portion du matériau diélectrique (214) au niveau d&apos;une zone (216) 5 de grille destinée à recevoir la grille (220) du transistor (200), - une étape de formation, au niveau de la zone (216) de grille, du fil (212), de la tranchée (210) comportant le fil (212) et d&apos;une partie de la 10 couche (102) monocristalline ou amorphe, d&apos;une couche diélectrique (218), - une étape de réalisation d&apos;une grille (220) sur la couche diélectrique (218) entourant le fil (212) au niveau de la zone (216) de grille, 15 - une étape de gravure du matériau diélectrique (214) se trouvant sur la couche (102) monocristalline ou amorphe, hors des tranchées (201, 210), - une étape de réalisation d&apos;espaceurs 20 diélectriques (222) autour de la grille (220), sur la couche (102) monocristalline ou amorphe, et - une étape d&apos;implantation de dopants dans les zones de source (204) et de drain (206). 25
+</P>
+<P>
+5. Procédé selon l&apos;une des revendications 3 ou 4, comportant en outre, entre l&apos;étape de recuit et l&apos;étape de réalisation de la grille, une étape d&apos;oxydation du fil (212). 30
+</P>
+<P>
+6. Procédé selon l&apos;une des revendications précédentes, les tranchées (110, 201) étant réalisées 2910456 23 par une gravure anisotrope de la couche (102) sur laquelle est disposé un masque de gravure (108) dont le motif forme les sections des tranchées (110, 201) au moins au niveau de ladite face (101) de la couche 5 (102).
+</P>
+<P>
+7. Procédé selon la revendication 6, le masque de gravure (108) étant conservé sur la couche (102) lors de l&apos;étape de recuit.
+</P>
+<P>
+8. Procédé selon la revendication 6, le masque de gravure (108) étant retiré de la couche (102) avant la réalisation de l&apos;étape de recuit. 15
+</P>
+<P>
+9. Procédé selon l&apos;une des revendications précédentes, le recuit étant réalisé à une température comprise entre environ 750 C et 1150 C et/ou à une pression comprise entre environ 266 Pa et 100000 Pa. 20
+</P>
+<P>
+10. Procédé selon l&apos;une des revendications précédentes, la couche (102) monocristalline ou amorphe étant une couche de silicium d&apos;un substrat SOI (102, 104, 106). 25
+</P>
+<P>
+11. Procédé selon l&apos;une des revendications précédentes, les dimensions P, L et D étant choisies telles que : ( (1+(D/L) j&apos; DL(D/L `~ zùasin + 1+ &amp;lt;_ ~P/L) &amp;lt;_ 5,5 +2,1(D/2 -0,01 L ~I+(D/L) 2 2 2 2 10 30
+</P>
+</Claims>
+<Also_published_as>
+FR2910456A1;US2010047973A1;US7985632B2;WO2008074862A1
+</Also_published_as>
+</BiblioData>

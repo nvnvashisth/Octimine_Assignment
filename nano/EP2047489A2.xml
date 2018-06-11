@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+THIN-LAYERED MAGNETIC DEVICE WITH HIGH SPIN POLARIZATION PERPENDICULAR TO THE PLANE OF THE LAYERS, AND MAGNETIC TUNNEL JUNCTION AND SPIN VALVE USING SUCH A DEVICE
+</Title>
+<PublicationNumber>
+EP2047489A2
+</PublicationNumber>
+<Inventor>
+<Name>
+RODMACQ BERNARD [FR]
+</Name>
+<Name>
+DIENY BERNARD [FR]
+</Name>
+<Name>
+RODMACQ, BERNARD
+</Name>
+<Name>
+DIENY, BERNARD
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+CENTRE NAT RECH SCIENT [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+<Name>
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2047489
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070823580
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007FR51659
+</PriorityNumber>
+<PriorityDate>
+2007-07-13
+</PriorityDate>
+<PriorityNumber>
+FR20060053266
+</PriorityNumber>
+<PriorityDate>
+2006-08-03
+</PriorityDate>
+<PriorityNumber>
+US20060868429P
+</PriorityNumber>
+<PriorityDate>
+2006-12-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01F10/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01F10/32L2P
+</Class>
+<Class>
+H01F10/32N4
+</Class>
+<Class>
+H01F10/32N6
+</Class>
+<Class>
+H03B15/00B
+</Class>
+</NCL>
+<Abstract>
+The invention concerns a thin-layered magnetic device comprising, on a substrate, a composite assembly deposited by cathode spraying and composed of a magnetic layer (2) made from a material having high perpendicular magnetic anisotropy, the magnetization of which, in the absence of any electrical or magnetic interaction, is located outside the plane of said layer, a magnetic layer (3) in direct contact with the preceding magnetic layer (2), made from a ferromagnetic material with a high spin polarization rate, the magnetization of which, in the absence of any electrical or magnetic interaction, is located inside the plane of this layer, the direct magnetic coupling of this layer with said magnetic layer (2) inducing a reduction in the effective demagnetizing field of the assembly composed of the two magnetic layers (2) and (3), and a nonmagnetic layer (4);  in direct contact with the preceding magnetic layer (3), made from a material that is non-depolarizing for the electrons passing through the device. The device includes means for passing an electric current through itself, in a direction substantially perpendicular to the plane of the layers.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Dispositif magnétique à couches minces comprenant sur un substrat un ensemble composite déposé par pulvérisation cathodique et constitué: - d&apos;une couche magnétique (2), réalisée en un matériau présentant une forte anisotropie magnétique perpendiculaire, dont l&apos;aimantation en l&apos;absence de toute interaction électrique ou magnétique est située hors du plan de ladite couche, d&apos;une couche magnétique (3), au contact direct de la couche magnétique (2) précédente, réalisée en un matériau ferromagnétique à fort taux de polarisation en spin, dont l&apos;aimantation en l&apos;absence de toute interaction électrique ou magnétique est située dans son plan, et dont le couplage magnétique direct avec ladite couche magnétique (2) induit une diminution du champ démagnétisant effectif de l&apos;ensemble constitué par les deux couches magnétiques (2) et (3), d&apos;une couche non magnétique (4), au contact direct de la couche magnétique (3) précédente, réalisée en un matériau non dépolarisant pour les électrons traversant le dispositif, ledit dispositif comportant en outre des moyens pour faire circuler à travers ses couches un courant électrique dans une direction sensiblement perpendiculaire à leur plan.
+</P>
+<P>
+2. Dispositif magnétique à couches minces selon la revendication 1, caractérisé en ce que son aimantation résultante est orientée perpendiculairement au plan des couches qui le constituent.
+</P>
+<P>
+3. Dispositif magnétique à couches minces selon l&apos;une des revendications 1 et 2, caractérisé en ce que la couche magnétique (2) est constituée d&apos;un matériau, d&apos;un alliage ou d&apos;une multicouche de matériaux choisis dans le groupe comprenant le cobalt, le platine, le fer, le nickel, le palladium, l&apos;or et le cuivre.
+</P>
+<P>
+4. Dispositif magnétique à couches minces selon l&apos;une des revendications 1 et 2, caractérisé en ce que la couche magnétique (3) est constituée d&apos;un matériau magnétique choisi dans le groupe comprenant le cobalt, le fer, le nickel, ou leurs alliages binaires, ou ternaires.
+</P>
+<P>
+5. Dispositif magnétique à couches minces selon l&apos;une des revendications 1 et 2, caractérisé en ce que le matériau magnétique constitutif de la couche magnétique (3) est cristallisé ou amorphe, et contient des ajouts de matériaux non magnétiques choisis dans le groupe comprenant le bore, le silicium, le phosphore, le carbone, le zirconium, l&apos;hafnium ou leurs alliages.
+</P>
+<P>
+6. Dispositif magnétique à couches minces selon l&apos;une des revendications 1 et 2, caractérisé en ce que la couche magnétique (3) est constituée d&apos;une multicouche de type métal magnétique/métal magnétique ou métal magnétique/métal non magnétique.
+</P>
+<P>
+7. Dispositif magnétique à couches minces selon l&apos;une des revendications 1 et 2, caractérisé en ce que la couche non magnétique (4) est réalisée soit en un métal non magnétique, soit en un oxyde non magnétique.
+</P>
+<P>
+8. Dispositif magnétique à couches minces selon l&apos;une des revendications 1 à 7, caractérisé en ce que l&apos;on intercale entre le substrat et l&apos;ensemble composite une couche tampon (1).
+</P>
+<P>
+9. Dispositif magnétique à couches minces selon la revendication 8, caractérisé en ce que ladite couche tampon (1) est réalisée en un ou plusieurs matériaux choisis dans le groupe comprenant le platine, le tantale, le chrome, le titane, le nitrure de titane, le cuivre, l&apos;or, le palladium, l&apos;argent et leurs alliages.
+</P>
+<P>
+10. Dispositif magnétique à couches minces selon la revendication 8, caractérisé en ce que ladite couche tampon (1) est constituée d&apos;une pluralité de couches.
+</P>
+<P>
+11. Dispositif magnétique à couches minces selon l&apos;une des revendications 1 à 10, caractérisé en ce que le substrat est réalisé en un matériau choisi dans le groupe comprenant le silicium, la silice, le nitrure de silicium, l&apos;oxyde de magnésium, l&apos;alumine et le verre.
+</P>
+<P>
+12. Jonction tunnel magnétique à aimantation planaire caractérisée en ce qu&apos;elle comprend, en plus de ses deux couches magnétiques actives, une multicouche supplémentaire réalisée selon l&apos;une des revendications 1 à 11.
+</P>
+<P>
+13. Jonction tunnel magnétique à aimantation planaire caractérisée en ce qu&apos;au moins une de ses deux couches magnétiques actives est réalisée selon l&apos;une des revendications 1 à 11.
+</P>
+<P>
+14. Jonction tunnel magnétique à aimantation perpendiculaire caractérisée en ce qu&apos;au moins une de ses deux couches magnétiques actives est réalisée selon l&apos;une des revendications 1 à 11.
+</P>
+<P>
+15. Vanne de spin à aimantation planaire caractérisée en ce qu&apos;elle comprend, en plus de ses deux couches magnétiques actives, une multicouche supplémentaire réalisée selon l&apos;une des revendications 1 à 11.
+</P>
+<P>
+16. Vanne de spin à aimantation planaire caractérisée en ce qu&apos;au moins une de ses deux couches magnétiques actives est réalisée selon l&apos;une des revendications 1 à 11.
+</P>
+<P>
+17. Vanne de spin à aimantation perpendiculaire caractérisée en ce qu&apos;au moins une de ses deux couches magnétiques actives est réalisée selon l&apos;une des revendications 1 à 11.
+</P>
+</Claims>
+<Also_published_as>
+WO2008015354A2;WO2008015354A3;US2008031035A1;US7813202B2;KR20090037970A;JP2009545869A;FR2904724A1;CN101496120A;CN101496120B
+</Also_published_as>
+</BiblioData>

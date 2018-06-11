@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+GROWTH OF CARBON NANOTUBES USING METAL- FREE NANOPARTICLES
+</Title>
+<PublicationNumber>
+EP2069234A2
+</PublicationNumber>
+<Inventor>
+<Name>
+WHELAN CAROLINE [BE]
+</Name>
+<Name>
+ESCONJAUREGUI SANTIAGO CRUZ [BE]
+</Name>
+<Name>
+WHELAN, CAROLINE
+</Name>
+<Name>
+ESCONJAUREGUI, SANTIAGO CRUZ
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IMEC INTER UNI MICRO ELECTR [BE]
+</Name>
+<Name>
+NANOCYL S A [BE]
+</Name>
+<Name>
+INTERUNIVERSITAIR MICROELEKTRONICA CENTRUM
+</Name>
+<Name>
+NANOCYL S.A
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2069234
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070815688
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007BE00109
+</PriorityNumber>
+<PriorityDate>
+2007-09-21
+</PriorityDate>
+<PriorityNumber>
+US20060846558P
+</PriorityNumber>
+<PriorityDate>
+2006-09-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J21/08
+</Class>
+<Class>
+B01J23/14
+</Class>
+<Class>
+B01J27/224
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a method for forming at least one carbon nanotube (16) by using metal-free catalyst nanoparticles (14), for example Si or Ge comprising nanoparticles. The method uses the step of decomposing a carbon source gas to form carbon fragments which then recombine at the metal-free catalyst nanoparticles (14) to grow carbon nanotubes (16). The method according to embodiments of the invention leads to carbon nanotubes (16) which do not comprise metal impurities.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1.- A method for forming at least one carbon nanotube (16), the method comprising: providing at least one metal-free catalyst nanoparticle (14), and growing a carbon nanotube (16) from the metal-free catalyst nanoparticle
+</P>
+<P>
+(14).
+</P>
+<P>
+2.- A method according to claim 1 , wherein the at least one metal-free catalyst nanoparticle (14) is provided to a Chemical Vapor Deposition reactor, and wherein growing a carbon nanotube (16) comprises - forming reactive carbon fragments by decomposing a carbon source gas in the Chemical Vapor Deposition reactor, and
+</P>
+<P>
+- recombining the reactive carbon fragments on top of the at least one metal-free catalyst nanoparticle (14) so as to grow the at least one carbon nanotube (16). 3.- A method according to claim 2, wherein the carbon source gas is a hydrocarbon gas having one (C1 ) up to three (C3) carbon atoms. 4.- A method according to claim 3, wherein the carbon source gas is CH4,
+</P>
+<P>
+02H4, C2H2 or C3H6.
+</P>
+<P>
+5.- A method according to claim 2, wherein the carbon source gas is CO. 6.- A method according to any of claims 2 to 5, wherein providing at least one metal-free catalyst nanoparticle (14) to the Chemical Vapor Deposition reactor is performed by:
+</P>
+<P>
+- providing at least one metal-free catalyst nanoparticle (14) on a substrate (10), and - transferring the substrate (10) with the at least one metal-free nanoparticle (14) on it to the Chemical Vapor Deposition reactor. 7.- A method according to claim 6, wherein providing at least one metal-free catalyst nanoparticle (14) on a substrate (10) is performed by:
+</P>
+<P>
+- providing a layer of metal-free material (12) onto the substrate (10), and
+</P>
+<P>
+- annealing the layer (12) so as to form the at least one metal-free catalyst nanoparticle (14).
+</P>
+<P>
+8.- A method according to claim 7, wherein annealing is performed at temperatures of between 500&amp;lt;0&amp;gt;C and 800&amp;lt;0&amp;gt;C. 9.- A method according to any of claims 6 to 8, wherein the method furthermore comprises, before providing the at least one metal-free catalyst nanoparticle (14) on the substrate (10), providing a barrier layer
+</P>
+<P>
+(11 ) on the substrate (10) for preventing interaction of the at least one metal-free catalyst nanoparticle (14) with the substrate (10). 10.- A method according to any of claims 6 to 9, wherein, during decomposing the carbon source gas and growing the at least one carbon nanotube (16), the temperature of the substrate (10) is kept between 800&amp;lt;0&amp;gt;C and
+</P>
+<P>
+1000&amp;lt;0&amp;gt;C. 11.- A method according to any of claims 2 to 10, wherein decomposing the carbon source gas is performed by using a hot filament (2), by using a plasma, or by using a combination of both. 12.- A method according to claim 11 , wherein decomposing the carbon source gas is performed by using a hot filament (2) at a temperature of 950&amp;lt;0&amp;gt;C. 13.- A method according to any of the previous claims, wherein providing at least one metal-free catalyst nanoparticle (14) is performed by providing at least one semiconductor comprising nanoparticle (14). 14.- A method according to claim 13, wherein the at least one semiconductor comprising nanoparticle (14) is a SiC, a Si[theta]2, a pure silicon nanoparticle, a Ge[theta]2 or a pure Ge nanoparticle. 15.- A method according to any of the previous claims, wherein the at least one metal-free catalyst nanoparticle (14) has a diameter of between 0.4 nm and 100 nm.
+</P>
+<P>
+16.- A method according to any of the previous claims, wherein the method furthermore comprises pre-treating the at least one metal-free catalyst nanoparticle (14) before growing the carbon nanotube (16). 17.- A carbon nanotube (16) grown from a metal-free catalyst nanoparticle (14).
+</P>
+<P>
+18.- Use of a metal-free catalyst nanoparticle (14) to grow a carbon nanotube
+</P>
+<P>
+(16).
+</P>
+</Claims>
+<Also_published_as>
+WO2008034204A2;WO2008034204A3;US2010047152A1;JP2010504268A
+</Also_published_as>
+</BiblioData>

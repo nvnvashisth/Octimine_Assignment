@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+TRANSPARENT CONDUCTIVE NANO- COMPOSITES
+</Title>
+<PublicationNumber>
+EP2121516A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GEOHEGAN DAVID BRUCE [US]
+</Name>
+<Name>
+IVANOV ILYA N [US]
+</Name>
+<Name>
+PURETZKY ALEXANDER A [US]
+</Name>
+<Name>
+JESSE STEPHEN [US]
+</Name>
+<Name>
+HU BIN [US]
+</Name>
+<Name>
+GARRETT MATTHEW [US]
+</Name>
+<Name>
+ZHAO BIN [US]
+</Name>
+<Name>
+GEOHEGAN, DAVID, BRUCE
+</Name>
+<Name>
+IVANOV, ILYA, N
+</Name>
+<Name>
+PURETZKY, ALEXANDER, A
+</Name>
+<Name>
+JESSE, STEPHEN
+</Name>
+<Name>
+HU, BIN
+</Name>
+<Name>
+GARRETT, MATTHEW
+</Name>
+<Name>
+ZHAO, BIN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+GEOHEGAN DAVID BRUCE [US]
+</Name>
+<Name>
+IVANOV ILYA N [US]
+</Name>
+<Name>
+PURETZKY ALEXANDER A [US]
+</Name>
+<Name>
+JESSE STEPHEN [US]
+</Name>
+<Name>
+HU BIN [US]
+</Name>
+<Name>
+GARRETT MATTHEW [US]
+</Name>
+<Name>
+ZHAO BIN [US]
+</Name>
+<Name>
+GEOHEGAN, DAVID, BRUCE
+</Name>
+<Name>
+IVANOV, ILYA, N
+</Name>
+<Name>
+PURETZKY, ALEXANDER, A
+</Name>
+<Name>
+JESSE, STEPHEN
+</Name>
+<Name>
+HU, BIN
+</Name>
+<Name>
+GARRETT, MATTHEW
+</Name>
+<Name>
+ZHAO, BIN
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2121516
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070868097
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US26421
+</PriorityNumber>
+<PriorityDate>
+2007-12-27
+</PriorityDate>
+<PriorityNumber>
+US20060877602P
+</PriorityNumber>
+<PriorityDate>
+2006-12-27
+</PriorityDate>
+<PriorityNumber>
+US20070905974P
+</PriorityNumber>
+<PriorityDate>
+2007-03-08
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B
+</Class>
+<Class>
+C01B31/02B4D2
+</Class>
+<Class>
+C01B31/02B4D6
+</Class>
+<Class>
+C08J5/00N
+</Class>
+<Class>
+H01B1/24
+</Class>
+</NCL>
+<Abstract>
+The present invention, in one embodiment, provides a method of forming an organic electric device that includes providing a plurality of carbon nanostructures;  and dispersing the plurality of carbon nanostructures in a polymeric matrix to provide a polymeric composite, wherein when the plurality of carbon nanostructures are present at a first concentration an interface of the plurality of carbon nanostructures and the polymeric matrix is characterized by charge transport when an external energy is applied, and when the plurality of carbon nanostructures are present at a second concentration the interface of the plurality of carbon nanostructures and the polymeric matrix are characterized by exciton dissociation when an external energy is applied, wherein the first concentration is less than the second concentration.
+</Abstract>
+<Claims>
+<P>
+What is claimed:
+</P>
+<P>
+1. An organic electrical device comprising:
+</P>
+<P>
+a polymer composite comprising a first plurality of conductive nanostructures in a polymer matrix; and
+</P>
+<P>
+a positive electrode and a negative electrode on opposing sides of the polymer composite, wherein at least one of the positive electrode and the negative electrode comprises a second plurality of conductive nanostructures.
+</P>
+<P>
+2. The organic electrical device of claim I5 wherein the second plurality of conductive nanostructures includes a dopant to provide the at least one of the positive electrode and the negative electrode with a work function substantially equal to a work function of the polymer matrix.
+</P>
+<P>
+3. The organic electrical device of claim 1, wherein the organic electrical device is a organic light emitting diode when the first plurality of conductive nanostructures has a concentration of a first value, and wherein the organic electrical device is a photovoltaic device when the first plurality of conductive nanostructures has a concentration of a second value, wherein the first value is less than the second value.
+</P>
+<P>
+4. The organic electrical device of claim 1, wherein the first value is a first concentration ranging from about 0.001 wt. % to about 0.2 wt. % and the second value is a second concentration ranging from about 0.001 wt. % to about 1 wt. %.
+</P>
+<P>
+5. The organic electrical device of claim 1, wherein the polymer composite is composed of a polymer matrix and the plurality of conductive nanostructures comprise carbon nanotubes positioned within the polymer matrix, wherein the carbon nanotubes provide electrical communication between the positive electrode and negative electrode and are positioned at less than a percolation threshold.
+</P>
+<P>
+6. The organic electrical device of claim 1, wherein the polymer composite comprises a conjugate polymer poly (2-methoxy-5- (2&apos;-ethylhexyloxy)-l, 4-phenylenevinylene)(MJEHPPV).
+</P>
+<P>
+7. The organic electrical device of claim 2, wherein the first plurality of conductive nanostructures are n-type or p-type doped.
+</P>
+<P>
+8. The organic electrical device of claim 1, wherein the first plurality of conductive nanostructures are vertically aligned carbon nanotubes.
+</P>
+<P>
+9. The organic electrical device of claim 1, wherein the thickness of the organic electrical device comprises at thickness of up to 100 microns.
+</P>
+<P>
+10. The organic electrical device of claim 2, wherein when operating in a reverse bias condition, the organic light emitting diode produces an emission of light
+</P>
+<P>
+11. The organic electrical device of claim I5 wherein the at least one of the least one of the positive electrode and the negative electrode that is not composed of the second plurality of conductive nanostructures comprises a metal.
+</P>
+<P>
+12. A method of forming an organic electric device comprising:
+</P>
+<P>
+providing a plurality of conductive nanostructures; and
+</P>
+<P>
+dispersing the plurality of conductive nanostructures in a polymeric matrix to proyide a polymeric composite, wherein when the plurality of conductive nanostructures are present at a first concentration the organic electric device is characterized by an electroluminescent response, and when the plurality of conductive nanostructures are present at a second concentration the organic electric device is characterized by a photovoltaic response, wherein the first concentration is less than the second concentration.
+</P>
+<P>
+13. The method of claim 12, wherein the first concentration of the plurality of conductive nanostructures provides an organic light emitting diode, and wherein the second concentration of the conductive nanostructures provides a photovoltaic device.
+</P>
+<P>
+14. The method of claim 12, wherein the conductive nanostructures are vertically aligned carbon nanotubes.
+</P>
+<P>
+15. The method of claim 14, wherein the vertically aligned carbon nanotubes are grown by chemical vapor deposition.
+</P>
+<P>
+16. The method of claim 12, wherein the conductive nanostructures are provided by laser vaporization, treated with an acid treatment, and oxidized to high purity.
+</P>
+<P>
+17. The method of claim 16, wherein the conductive nanostructures are single wall carbon nanotubes.
+</P>
+<P>
+18. The method of claim 12, wherein the conductive nanostructures are doped to provide a single wall carbon nanotube having a work function positioned between a highest occupied molecular orbital and a lowest occupied molecular orbital of the polymer matrix.
+</P>
+<P>
+19. The method of claim 12, wherein the step of dispersing the plurality of conductive nanostructures in a polymeric matrix comprises at least one of dielectrophoretic alignment, vacuum filtration, electrospun nanotube-polymer fibers, spray deposition of solublized nanotubes, or a combination thereof.
+</P>
+<P>
+20. The method of claim 12, wherein the step of dispersing the plurality of carbon nanostructure in polymeric matrix comprises a solvent, wherein the solvent comprises ortho- dichloro benzene (ODCB), chloroform (CHCI3), sodium dodecyl sulfate (SDS), sodium cholate (SC), sodium dodecyl benzene sulphonate (SDBS)3t-octyl phenoxy polyethoxyethanol, or combinations thereof.
+</P>
+<P>
+21. The method of claim 20, wherein the step of dispersing the plurality of carbon nanostructures in the polymeric matrix comprises adding charge transfer elements and dopant materials to the solvent, wherein the charge transfer elements and the dopant materials reduce a resistance at a junction of the carbon nanostructures and the polymeric matrix.
+</P>
+<P>
+22. An organic electrical device comprising:
+</P>
+<P>
+a positive electrode and a negative electrode; and a polymer composite positioned in electrical contact to the positive electrode and the negative electrode, the polymer composite including a polymer matrix and a minimum percolation network of carbon nanostructures that provides electrical communication between the positive electrode and the negative electrode through the polymer matrix.
+</P>
+<P>
+23. The organic electrical device of claim 22, wherein minimum percolation network is characterized by a two-dimensional percolation threshold, the percolation threshold being approximately equal to:
+</P>
+<P>
+where Nc is a number of nanotubes at percolation, Vp is a polymer composite volume, and Vex is an excluded volume.
+</P>
+<P>
+24. The organic electrical device of claim 23, wherein the excluded volume is equal to:
+</P>
+<P>
+VQX ([alpha]&amp;lt;r&amp;gt;,/)=2-d-( (2[pi]/3)^ + [pi] &amp;lt;-&amp;gt; rf+ / + /&amp;lt;2 -&amp;gt; &amp;lt; sin [gamma] &amp;gt; ) where d is a diameter of a single nanotube, 7 is a length of the single nanotube and [gamma] is the angle between orientation of two of the single nanotube.
+</P>
+<P>
+25. A method of providing a composite comprising: providing a polymer matrix; providing a bundle of carbon nanotubes within the polymer matrix; and dispersing the bundle of carbon nanotubes into a network of carbon nanotubes, wherein the work function of the network of carbon nanotubes substantially matches the work function of the polymer matrix.
+</P>
+<P>
+26. The method of claim 25, wherein the step of providing the bundle of carbon nanotubes includes laser vaporization.
+</P>
+<P>
+27. The method of claim 25, wherein the step of dispersing the bundle of carbon nanotubes includes a solvents comprising sodium dodecyl sulfate (SDS), sodium cholate (SC), sodium dodecyl benzene sulphonate (SDBS), t-octyl phenoxy polyethoxyethanol, or a combination thereof.
+</P>
+</Claims>
+<Also_published_as>
+WO2008082609A2;WO2008082609A3;US2011212554A1;US2008191606A1;US7923922B2;KR20100093473A;JP2010515227A;CA2673675A1;AU2007339234A1
+</Also_published_as>
+</BiblioData>

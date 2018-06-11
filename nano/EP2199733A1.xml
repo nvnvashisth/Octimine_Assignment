@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Electric circuit and method of operating a measuring instrument
+</Title>
+<PublicationNumber>
+EP2199733A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ILLERS HARTMUT [DE]
+</Name>
+<Name>
+HIDAKA KAZUHIKO [NL]
+</Name>
+<Name>
+SAITO AKINORI [JP]
+</Name>
+<Name>
+DANZEBRINK DR HANS-ULRICH [DE]
+</Name>
+<Name>
+ILLERS, HARTMUT
+</Name>
+<Name>
+HIDAKA, KAZUHIKO
+</Name>
+<Name>
+SAITO, AKINORI
+</Name>
+<Name>
+DANZEBRINK, DR.HANS-ULRICH
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MITUTOYO CORP [JP]
+</Name>
+<Name>
+BUNDESREPUBLIK DEUTSCHLAND END [DE]
+</Name>
+<Name>
+MITUTOYO CORPORATION
+</Name>
+<Name>
+BUNDESREPUBLIK DEUTSCHLAND ENDVERTRETEN DURCH DENPRAESIDENTEN DER PHYSIKALISCH-TECHNISCHEN BUNDESANS
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2199733
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080021930
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-12-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20080021930
+</PriorityNumber>
+<PriorityDate>
+2008-12-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01B7/34
+</Class>
+<Class>
+G01R33/00
+</Class>
+<Class>
+H01F27/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01R33/038B
+</Class>
+</NCL>
+<Abstract>
+An electric circuit comprises a transformer and a transimpedance amplifier. The transformer has at least one primary winding and a secondary winding. The secondary winding has a first secondary winding terminal and a second secondary winding terminal. The transimpedance amplifier has a first amplifier input terminal. The first amplifier input terminal is electrically connected to the first secondary winding terminal and the second amplifier input terminal is electrically connected to the second secondary winding terminal. The transimpedance amplifier is adapted to output a voltage representative of a current flowing through the secondary winding.
+</Abstract>
+<Claims>
+<P>
+1. An electric circuit (200, 300), comprising:
+</P>
+<P>
+a transformer (201, 301) having at least one primary winding (202, 350, 351) and a secondary winding (203, 303), said secondary winding (203, 303) having a first secondary winding terminal (204, 304) and a second secondary winding terminal (205, 305); and
+</P>
+<P>
+a transimpedance amplifier (206) having a first amplifier input terminal (207) and a second amplifier input terminal (208), said first amplifier input terminal (207) being electrically connected to said first secondary winding terminal (204, 304), said second amplifier input terminal (208) being electrically connected to said second secondary winding terminal (205, 305), wherein said transimpedance amplifier (206) is adapted to output a voltage representative of a current flowing through said secondary winding (203, 303).
+</P>
+<P>
+2. An electric circuit (300) as in claim 1, wherein said at least one primary winding comprises a first primary winding (350) and a second primary winding (351), said first primary winding (350) comprising a first primary winding terminal (352) and a second primary winding terminal (353), said second primary winding (351) comprising a third primary winding terminal (354) and a fourth primary winding terminal (355), wherein said first primary winding (350) and said second primary winding (351) are adapted such that an electric current flowing from said first primary winding terminal (352) to said second primary winding terminal (353) and an electric current flowing from said third primary winding terminal (354) to said fourth primary winding terminal (355) create a magnetic flux in the same direction in said secondary winding (303).
+</P>
+<P>
+3. An interface circuit (400, 450) for a measuring instrument, said measuring instrument comprising a sensor, said sensor comprising a body having a measuring tip connected thereto and an electromechanical element adapted to excite an elastic oscillation of said body, said interface circuit comprising:
+</P>
+<P>
+an electric circuit (300) according to claim 2;
+</P>
+<P>
+a first power source terminal (401) and a second power source terminal (402) adapted for connection of said interface circuit (400, 450) to a power source providing an AC voltage; and
+</P>
+<P>
+a variable complex impedance (403);
+</P>
+<P>
+wherein said first power source terminal (401) is connected to said second primary winding terminal (353) and said third primary winding terminal (354);
+</P>
+<P>
+wherein said variable complex impedance (403) is connected between said second power source terminal (402) and said fourth primary winding terminal (355); and
+</P>
+<P>
+wherein said interface circuit (400, 450) further comprises:
+</P>
+<P>
+a first sensor terminal (406) and a second sensor terminal (407) adapted for electrical connection of said electromechanical element of said sensor between said first sensor terminal (406) and said second sensor terminal (407), wherein said first sensor terminal (406) is electrically connected to said first primary winding terminal (352) and wherein said second sensor terminal (407) is electrically connected to said second power source terminal (402); and
+</P>
+<P>
+means (209, 210) for providing said output voltage of said transimpedance amplifier (206) as an output voltage of said interface circuit (400, 450).
+</P>
+<P>
+4. An interface circuit according to claim 3, wherein said variable complex impedance (403) comprises a variable capacitor (404) and a first variable resistor (405, 408) connected in parallel.
+</P>
+<P>
+5. An interface circuit according to claim 4, further comprising a second variable resistor (409) electrically connected between said first sensor terminal (406) and said second sensor terminal (407).
+</P>
+<P>
+6. A phase shifter (600) comprising:
+</P>
+<P>
+an electric circuit (300) according to claim 2;
+</P>
+<P>
+a first phase shifter input terminal (601) and a second phase shifter input terminal (602) adapted for electrical connection to an AC voltage source;
+</P>
+<P>
+a first complex impedance (603) electrically connected between said first phase shifter input terminal (601) and said first primary winding terminal (352);
+</P>
+<P>
+a second complex impedance (604) electrically connected between said first phase shifter input terminal (601) and said fourth primary winding terminal (355); and
+</P>
+<P>
+means (209, 210) for providing said output voltage of said transimpedance amplifier (206) as an output voltage of said phase shifter (600);
+</P>
+<P>
+wherein said second phase shifter input terminal (602) is electrically connected to said second primary winding terminal (353) and said third primary winding terminal (354).
+</P>
+<P>
+7. A phase shifter circuit (600) as in claim 6, wherein each of said first complex impedance (603) and said second complex impedance (604) comprises a capacitor (606, 607) and a resistor (605, 608) connected in parallel.
+</P>
+<P>
+8. A phase shifter circuit (600) as in claim 6 or 7, wherein at least one of said first complex impedance (603) and said second complex impedance (604) is a variable complex impedance.
+</P>
+<P>
+9. A measuring instrument (700) comprising:
+</P>
+<P>
+a sensor (701), said sensor (701) comprising a body (710) having a measuring tip (702) connected thereto and an electromechanical element (709) adapted to excite an elastic oscillation of said body (710);
+</P>
+<P>
+an interface circuit (400) according to any of claims 3 to 5, wherein said electromechanical element (709) of said sensor (701) is connected between said first sensor terminal (406) and said second sensor terminal (407) of said interface circuit (700);
+</P>
+<P>
+a phase shifter (600) according to any of claims 6 to 8;
+</P>
+<P>
+means (209a, 210a) for applying said output voltage of said interface circuit (400) between said first phase shifter input terminal (601) and said second phase shifter input terminal (602) of said phase shifter (600);
+</P>
+<P>
+an oscillator (705) adapted to provide an AC voltage;
+</P>
+<P>
+means (706) for superimposing said output voltage of said phase shifter (600) and said AC voltage provided by said oscillator (705) to form a superposition voltage and for applying said superposition voltage between said first power source terminal (401) and said second power source terminal (402) of said interface circuit (400).
+</P>
+<P>
+10. A method of operating a measuring instrument (700) comprising sample holder (750), a sensor (701), said sensor (701) comprising a body (710) having a measuring tip (702) connected thereto and an electromechanical element (709) adapted to excite an elastic oscillation of said body (710), said measuring instrument (700) further comprising an interface circuit (400) according to any of claims 3 to 5, wherein said electromechanical element (709) of said sensor is electrically connected between said first sensor terminal (406) and said second sensor terminal (407) of said interface circuit (400), said method comprising:
+</P>
+<P>
+applying one or more first AC voltages between said first power source terminal (401) and said second power source terminal (402) of said interface circuit (400), each of said one or more first AC voltages having a frequency outside a bandwidth of a desired elastic mode of oscillation of said body (710);
+</P>
+<P>
+adjusting said variable complex impedance (403) of said interface circuit to reduce the output voltage of said interface circuit (400) obtained in response to said one or more first AC voltages;
+</P>
+<P>
+inserting a sample (703) to be investigated into said sample holder (750);
+</P>
+<P>
+after adjusting said variable complex impedance (403) of said interface circuit (400) and after inserting said sample (703) to be investigated into said sample holder (750), applying a second AC voltage having a frequency within said bandwidth of said desired elastic mode of oscillation of said body (710), scanning a surface of said sample (703) to be investigated with said measuring tip (702) of said sensor (701), wherein a distance between said sample holder (750) and said measuring tip (702) is controlled on the basis of the output voltage of said interface circuit (400) obtained in response to said second AC voltage and wherein a quantity representative of said distance between said sample holder (750) and said measuring tip (702) is measured.
+</P>
+<P>
+11. A method of operating a measuring instrument (700) as in claim 10, further comprising:
+</P>
+<P>
+providing a phase shifter (600) according to any of claims 6 to 12;
+</P>
+<P>
+applying said output voltage of said interface circuit (400) between said first phase shifter input terminal (601) and said second phase shifter input terminal (602) of said phase shifter (600);
+</P>
+<P>
+adjusting said variable complex impedance (603) of said phase shifter (600) to obtain a desired phase difference between said output voltage of said phase shifter (600) and said output voltage of said interface circuit (400);
+</P>
+<P>
+superimposing said output voltage of said phase shifter (600) and an AC signal having a predetermined frequency and amplitude to form a superposition voltage; and
+</P>
+<P>
+applying said superposition voltage between said first power source terminal (401) and said second power source terminal (402) as said second AC voltage.
+</P>
+<P>
+12. An AC current voltage converter comprising:
+</P>
+<P>
+an electric circuit (200) as in claim 1;
+</P>
+<P>
+means (215, 216) for applying an input current of said AC current-voltage-converter to said at least one primary winding (202); and
+</P>
+<P>
+means (209, 210) for providing said output voltage of said transimpedance amplifier (206) as an output voltage of said AC current voltage converter.
+</P>
+<P>
+13. An AC voltage to voltage decoupler (800) comprising:
+</P>
+<P>
+an electric circuit (200) as in claim 1;
+</P>
+<P>
+a series connection comprising a resistor (803) connected in series with said at least one primary winding (202) of said transformer (201);
+</P>
+<P>
+means (801, 802) for applying an input voltage of said AC voltage to voltage decoupler (800) to said series connection; and
+</P>
+<P>
+means (209, 210) for providing said output voltage of said transimpedance amplifier (206) as an output voltage of said AC voltage to voltage decoupler (800).
+</P>
+<P>
+14. An AC superposition circuit for creating a voltage representative of a superposition of a first AC current and a second AC current, comprising:
+</P>
+<P>
+an electric circuit (300) according to claim 2;
+</P>
+<P>
+means (352, 353) for applying said first AC current to said first primary winding (350);
+</P>
+<P>
+means (354, 355) for applying said second AC current to said second primary winding (351); and
+</P>
+<P>
+means (209, 210) for providing said output voltage of said transimpedance amplifier (206) as an output voltage of said AC superposition circuit.
+</P>
+<P>
+15. An AC subtraction circuit comprising:
+</P>
+<P>
+an electric circuit (300) according to claim 2;
+</P>
+<P>
+a first subtraction circuit input terminal electrically connected to said first primary winding terminal (352);
+</P>
+<P>
+a second subtraction circuit input terminal electrically connected to said second primary winding terminal (353) and said third primary winding terminal (354); and
+</P>
+<P>
+a third subtraction circuit input terminal electrically connected to said fourth primary winding terminal (355);
+</P>
+<P>
+wherein said first, second and third subtraction circuit input terminal are configured for application of said first AC current between said second subtraction circuit input terminal and said first subtraction circuit input terminal and for application of said second AC current between said second subtraction circuit input terminal and said third subtraction circuit input terminal.
+</P>
+<P>
+16. A circuit according to claim 14 or 15, wherein said at least one primary winding further comprises one or more third primary windings, each of said one or more third primary windings having terminals adapted for connection of a respective AC power source to each of said one or more third primary windings.
+</P>
+</Claims>
+</BiblioData>

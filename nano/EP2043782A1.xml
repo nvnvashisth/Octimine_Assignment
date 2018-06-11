@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD OF FORMING SUPPORTED NANOPARTICLE CATALYSTS
+</Title>
+<PublicationNumber>
+EP2043782A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MAO GUOPING [US]
+</Name>
+<Name>
+HAUGEN GREGORY M [US]
+</Name>
+<Name>
+AGUILERA JACQUELINE [US]
+</Name>
+<Name>
+MAO SHANE S [US]
+</Name>
+<Name>
+MAO, GUOPING
+</Name>
+<Name>
+HAUGEN, GREGORY, M
+</Name>
+<Name>
+AGUILERA, JACQUELINE
+</Name>
+<Name>
+MAO, SHANE, S
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+3M INNOVATIVE PROPERTIES CO [US]
+</Name>
+<Name>
+3M INNOVATIVE PROPERTIES COMPANY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2043782
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070812587
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US72722
+</PriorityNumber>
+<PriorityDate>
+2007-07-03
+</PriorityDate>
+<PriorityNumber>
+US20060456724
+</PriorityNumber>
+<PriorityDate>
+2006-07-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J37/02
+</Class>
+<Class>
+H01M4/86
+</Class>
+<Class>
+H01M4/90
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01M4/92B
+</Class>
+<Class>
+H01M4/92S
+</Class>
+<Class>
+H01M4/92S2
+</Class>
+<Class>
+Y02E60/50
+</Class>
+</NCL>
+<Abstract>
+A method of forming a supported catalyst, the method comprising forming a colloidal suspension of platinum-iron catalyst nanoparticles in a solvent, depositing at least a portion of the catalyst nanoparticles onto support particles, and removing at least a portion of the iron from the deposited catalyst nanoparticles.
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. A method of forming a supported catalyst, the method comprising: forming a colloidal suspension of catalyst nanoparticles in a solvent, the catalyst nanoparticles comprising platinum and iron; depositing at least a portion of the catalyst nanoparticles onto support particles; and removing at least a portion of the iron from the deposited catalyst nanoparticles.
+</P>
+<P>
+2. The method of claim 1, wherein removing the portion of the iron from the deposited catalyst nanoparticles comprises altering a solubility condition of the iron in the solvent, thereby leaching the portion of the iron from the catalyst nanoparticles.
+</P>
+<P>
+3. The method of claim 2, wherein altering the solubility condition of the iron in the solvent comprises lowering a pH of the solvent.
+</P>
+<P>
+4. The method of claim 2, wherein altering the solubility condition of the iron in the solvent comprises applying an electrical potential to the solvent.
+</P>
+<P>
+5. The method of claim 1, wherein at least a portion of the deposited catalyst nanoparticles are porous after the iron removal.
+</P>
+<P>
+6. The method of claim 1, wherein the catalyst nanoparticles have an average particle size of about 2 nanometers or less after the iron removal.
+</P>
+<P>
+7. The method of claim 1, wherein the platinum constitutes at least about 50 molar percent of the catalyst nanoparticles in the colloidal suspension.
+</P>
+<P>
+8. The method of claim 1, wherein forming the colloidal suspension comprises mixing a platinum-containing halogen and an iron-containing halogen in the solvent.
+</P>
+<P>
+9. A method of forming a supported catalyst, the method comprising: forming a colloidal suspension of catalyst nanoparticles in a solvent having a pH of at least about 5, wherein the catalyst nanoparticles comprise platinum and iron; introducing support particles to the colloidal suspension; depositing at least a portion of the catalyst nanoparticles onto the support particles; and lowering the pH of the solvent to remove at least a portion of the iron from the deposited catalyst nanoparticles.
+</P>
+<P>
+10. The method of claim 9, wherein depositing the portion of the catalyst nanoparticles and lowering the pH of the solvent are performed substantially simultaneously.
+</P>
+<P>
+11. The method of claim 9, further comprising applying an electrical potential to the solvent.
+</P>
+<P>
+12. The method of claim 9, further comprising removing the solvent from the deposited catalyst nanoparticles.
+</P>
+<P>
+13. The method of claim 9, wherein the platinum constitutes at least about 50 molar percent of the catalyst nanoparticles in the colloidal suspension.
+</P>
+<P>
+14. The method of claim 9, wherein forming the colloidal suspension comprises mixing a platinum-containing halogen and an iron-containing halogen in the solvent.
+</P>
+<P>
+15. A method of forming a fuel cell, the method comprising: forming a colloidal suspension of catalyst nanoparticles in a solvent, the catalyst nanoparticles comprising platinum and iron; depositing at least a portion of the catalyst nanoparticles onto support particles; removing at least a portion of the iron from the deposited catalyst nanoparticles, thereby forming a supported catalyst; coating the supported catalyst onto a layer of the fuel cell; and drying the supported catalyst.
+</P>
+<P>
+16. The method of claim 15, The method of claim 1, wherein removing the portion of the iron from the deposited catalyst nanoparticles comprises lowering a pH of the solvent, thereby leaching the portion of the iron from the deposited catalyst nanoparticles into the solvent.
+</P>
+<P>
+17. The method of claim 15, wherein at least a portion of the deposited catalyst nanoparticles are porous after the iron removal.
+</P>
+<P>
+18. The method of claim 15, wherein the layer of the fuel cell is selected from the group consisting of a gas diffusion layer and a polymer electrolyte membrane.
+</P>
+<P>
+19. The method of claim 15, wherein the catalyst nanoparticles have an average particle size of about 2 nanometers or less after the iron removal.
+</P>
+<P>
+20. The method of claim 19, wherein the catalyst nanoparticles have a standard deviation of particle sizes of about 0.5 nanometers or less after the iron removal.
+</P>
+</Claims>
+<Also_published_as>
+WO2008008664A1;US2009215615A1;JP2009543681A;CN101489679A
+</Also_published_as>
+</BiblioData>

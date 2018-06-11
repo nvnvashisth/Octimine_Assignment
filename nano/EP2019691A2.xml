@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+POLYMERS FOR FUNCTIONAL PARTICLES
+</Title>
+<PublicationNumber>
+EP2019691A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GU FRANK X [US]
+</Name>
+<Name>
+TEPLY BENJAMIN A [US]
+</Name>
+<Name>
+LANGER ROBERT S [US]
+</Name>
+<Name>
+FAROKHZAD OMID C [US]
+</Name>
+<Name>
+GU, FRANK, X
+</Name>
+<Name>
+TEPLY, BENJAMIN, A
+</Name>
+<Name>
+LANGER, ROBERT, S
+</Name>
+<Name>
+FAROKHZAD, OMID, C
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MASSACHUSETTS INST TECHNOLOGY [US]
+</Name>
+<Name>
+BRIGHAM &amp; WOMENS HOSPITAL [US]
+</Name>
+<Name>
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+</Name>
+<Name>
+THE BRIGHAM AND WOMEN&apos;S HOSPITAL, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2019691
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070794944
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US11748
+</PriorityNumber>
+<PriorityDate>
+2007-05-15
+</PriorityDate>
+<PriorityNumber>
+US20060747240P
+</PriorityNumber>
+<PriorityDate>
+2006-05-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K47/48
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K47/48H4P
+</Class>
+<Class>
+A61K47/48K6E
+</Class>
+<Class>
+A61K47/48K6P
+</Class>
+<Class>
+A61K47/48W14B
+</Class>
+<Class>
+A61K47/48W8
+</Class>
+<Class>
+A61K51/12H
+</Class>
+<Class>
+A61K9/51H6D4
+</Class>
+<Class>
+B82Y5/00
+</Class>
+</NCL>
+<Abstract>
+The present invention generally relates to polymers and macromolecules, in particular, to block polymers useful in particles such as nanoparticles. One aspect of the invention is directed to a method of developing nanoparticles with desired properties. In one set of embodiments, the method includes producing libraries of nanoparticles having highly controlled properties, which can be formed by mixing together two or more macromolecules in different ratios. One or more of the macromolecules may be a polymeric conjugate of a moiety to a biocompatible polymer. In some cases, the nanoparticle may contain a drug. The moiety, in some embodiments, may have a molecular weight greater than about 1000 Da;  for example, the moiety may include a polypeptide or a polynucleotide, such as an aptamer.;  The moiety may also be a targeting moiety, an imaging moiety, a chelating moiety, a charged moiety, or a therapeutic moiety. Another aspect of the invention is directed to systems and methods of producing such polymeric conjugates. In some embodiments, a solution containing a polymer is contacted with a liquid, such as an immiscible liquid, to form nanoparticles containing the polymeric conjugate. Other aspects of the invention are directed to methods using such libraries, methods of using or administering such polymeric conjugates, methods of promoting the use of such polymeric conjugates, kits involving such polymeric conjugates, or the like.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A composition, comprising: a particle having an average characteristic dimension of less than about 1 micrometer, the particle comprising a macromolecule comprising a first portion comprising a biocompatible polymer and a second portion comprising a moiety selected from the group consisting of a targeting moiety, an imaging moiety, a chelating moiety, a moiety having multiple charge groups, and a therapeutic moiety, the moiety having an essentially nonzero concentration internally of the particle.
+</P>
+<P>
+2. The composition of claim 1, wherein the moiety has a molecular weight of at least about 1000 Da.
+</P>
+<P>
+3. The composition of claim 1 , wherein the moiety has a molecular weight of no more than about 1000 Da.
+</P>
+<P>
+4. The composition of claim 1, wherein the macromolecule is a block copolymer.
+</P>
+<P>
+5. The composition of claim 1, wherein the macromolecule is amphiphilic.
+</P>
+<P>
+6. The composition of claim 1, wherein at least a portion of the macromolecule is biodegradable.
+</P>
+<P>
+7. The composition of claim 1, wherein at least a portion of the macromolecule is hydrolyzable.
+</P>
+<P>
+8. The composition of claim 1, wherein the biocompatible polymer comprises poly(lactide-co-glycolide).
+</P>
+<P>
+9. The composition of claim 1, wherein the targeting moiety comprises a polypeptide.
+</P>
+<P>
+10. The composition of claim 1, wherein the targeting moiety comprises an aptamer.
+</P>
+<P>
+11. The composition of claim 1, wherein the targeting moiety specifically binds prostate specific membrane antigen.
+</P>
+<P>
+12. The composition of claim 1, wherein the targeting moiety comprises an antibody or an antibody fragment.
+</P>
+<P>
+13. The composition of claim 1, wherein the targeting moiety is able to specifically bind to a cell surface receptor.
+</P>
+<P>
+14. The composition of claim 1, wherein the targeting moiety is able to specifically bind to a biological entity.
+</P>
+<P>
+15. The composition of claim 1, wherein the particle further comprises a second macromolecule comprising the biocompatible polymer and is free of the moiety.
+</P>
+<P>
+16. The composition of claim 1, wherein the particle further comprises a drug.
+</P>
+<P>
+17. The composition of claim 16, wherein the drug is hydrophobic.
+</P>
+<P>
+18. The composition of claim 1, wherein the particle comprises a nucleic acid.
+</P>
+<P>
+19. The composition of claim 1, wherein the particle comprises a peptide or a protein.
+</P>
+<P>
+20. The composition of claim 1, wherein the particle comprises docetaxel.
+</P>
+<P>
+21. The composition of claim 1, wherein the particle comprises an enzyme.
+</P>
+<P>
+22. The composition of claim 1, wherein the particle has an average characteristic dimension of less than about 150 nm.
+</P>
+<P>
+23. The composition of claim 1, wherein the block copolymer further comprises a third block comprising a poly(alkylene glycol).
+</P>
+<P>
+24. The composition of claim 23, wherein the poly(alkylene glycol) comprises poly(ethylene glycol).
+</P>
+<P>
+25. The composition of claim 1, wherein the particle is made by a process comprising: providing a solution comprising the macromolecule; and contacting the solution with a polymer nonsolvent to produce the particle.
+</P>
+<P>
+26. The composition of claim 25, wherein the solution comprising the macromolecule is an organic solution and the polymer nonsolvent is an aqueous solution.
+</P>
+<P>
+27. A method of developing nanoparticles with desired properties, comprising: providing a first macromolecule comprising a first biocompatible polymer and a moiety selected from the group consisting of a targeting moiety, an imaging moiety, a chelating moiety, a moiety having multiple charge groups, and a therapeutic moiety; providing a second macromolecule comprising a second biocompatible polymer; producing a library of nanoparticles having different ratios of the first and second macromolecules by forming nanoparticles from mixtures comprising the first and second macromolecules at different ratios; and identifying a nanoparticle from the library of nanoparticles having one or more desired properties.
+</P>
+<P>
+28. The method of claim 27, wherein the first biocompatible polymer is substantially the same as the second biocompatible polymer.
+</P>
+<P>
+29. The method of claim 27, wherein the first polymer further comprises a poly (ethylene glycol).
+</P>
+<P>
+30. The method of claim 27, wherein the second polymer further comprises a poly(ethylene glycol).
+</P>
+<P>
+31. The method of claim 27, wherein the first biocompatible polymer comprises poly(lactide-co-glycolide).
+</P>
+<P>
+32. The method of claim 27, further comprising adding a drug prior to forming the nanoparticles.
+</P>
+<P>
+33. The method of claim 32, wherein the drug is doclitaxel.
+</P>
+<P>
+34. The method of claim 27, further comprising adding an interfering RNA prior to forming the nanoparticles.
+</P>
+<P>
+35. The method of claim 27, further comprising adding a peptide or a protein prior to forming the nanoparticles.
+</P>
+<P>
+36. The method of claim 27, further comprising adding an enzyme prior to forming the nanoparticles.
+</P>
+<P>
+37. A method of producing a library, comprising: providing a first macromolecule comprising a first block having a repeat unit and a second block comprising a moiety selected from the group consisting of a targeting moiety, an imaging moiety, a chelating moiety, a moiety having multiple charge groups, and a therapeutic moiety; providing a second polymer comprising the first repeat unit but not comprising the targeting moiety; and producing a library of nanoparticles having different ratios of the first macromolecule and second polymer by forming nanoparticles from mixtures comprising the first macromolecule and the second polymer at different ratios.
+</P>
+<P>
+38. A composition, comprising: a particle having an average characteristic dimension of less than about 1 micrometer, the particle comprising a first macromolecule and a second macromolecule; wherein the first macromolecule is a block copolymer comprising a first biocompatible polymer, a poly(alkylene glycol), and a moiety selected from the group consisting of a targeting moiety, an imaging moiety, a chelating moiety, a moiety having multiple charge groups, and a therapeutic moiety; and wherein the second macromolecule is a block copolymer comprising a poly(alkylene glycol) and a second biocompatible polymer distinguishable from the first biocompatible polymer.
+</P>
+<P>
+39. A composition, comprising: a particle having an average characteristic dimension of less than about 1 micrometer, the particle having a surface comprising a first macromolecule and a second macromolecule, the first macromolecule comprising a first poly(alkylene glycol) chain having a first length and a moiety selected from the group consisting of a targeting moiety, an imaging moiety, a chelating moiety, a moiety having multiple charge groups, and a therapeutic moiety, and the second macromolecule comprising a second poly(alkylene glycol) chain having a second length different from the first length.
+</P>
+</Claims>
+<Also_published_as>
+WO2007133807A2;WO2007133807A3;US2010323199A1;US2008081074A1;JP2009537541A;CN101573141A;CA2652280A1
+</Also_published_as>
+</BiblioData>

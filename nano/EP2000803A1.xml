@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Nanoparticles with Polymer Shells
+</Title>
+<PublicationNumber>
+EP2000803A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MIRKIN CHAD A [US]
+</Name>
+<Name>
+NGUYEN SONBINH T [US]
+</Name>
+<Name>
+MIRKIN, CHAD, A
+</Name>
+<Name>
+NGUYEN, SONBINH, T
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOSPHERE INC [US]
+</Name>
+<Name>
+NANOSPHERE, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2000803
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070112093
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+1999-11-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP19990962951
+</PriorityNumber>
+<PriorityDate>
+1999-11-30
+</PriorityDate>
+<PriorityNumber>
+US19980110327P
+</PriorityNumber>
+<PriorityDate>
+1998-11-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K47/48
+</Class>
+<Class>
+B01J19/00
+</Class>
+<Class>
+B32B5/16
+</Class>
+<Class>
+C08G61/06
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/545
+</Class>
+<Class>
+G01N33/553
+</Class>
+<Class>
+G01N33/58
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K47/48W14B
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/543D6
+</Class>
+<Class>
+G01N33/58D
+</Class>
+<Class>
+G01N33/58F
+</Class>
+<Class>
+G01N33/58H4
+</Class>
+</NCL>
+<Abstract>
+A propagation monomer having the formula P-L-N, wherein: P is a moiety which has redox activity, optical activity, electronic activity, or magnetic activity;  N is a cyclic olefin-containing group;  L is a bond or linker whereby N is attached to P. The monomers are useful in a method of detecting or quantitating an analyte comprising contacting the analyte with a type of binding monomers having the formula N-L-B wherein: N is a cyclic olefin-containing group;  B is a binding moiety that binds specifically to the analyte;  and L is a bond or a linker whereby N is attached to B;  so that the binding monomers bind to the analyte, and then adding the propagation monomers so that the propagation monomers polymerize to form a polymer attached to the analyte. The properties of the polymer attached to the analyte can be detected or measured in order to detect or quantitate the analyte.
+</Abstract>
+<Claims>
+<P>
+1. A propagation monomer having the formula P-L-N, wherein:
+</P>
+<P>
+P is a moiety having a desired property selected from the group consisting of redox activity, optical activity, electronic activity, and magnetic activity;
+</P>
+<P>
+N is a cyclic olefin-containing group;
+</P>
+<P>
+L is a bond or linker whereby N is attached to P.
+</P>
+<P>
+2. The monomer of Claim 1 wherein L is a polymer, -COO-, -CH2(CH2)mCOO-, -OCO-, -R&amp;lt;1&amp;gt; N(CH2)m-NR&amp;lt;1&amp;gt; -, -O(CH2)m- -(CH2)m-,
+</P>
+<P>
+or comprises a binding moiety B which binds specifically to an analyte;
+</P>
+<P>
+wherein:
+</P>
+<P>
+R&amp;lt;1&amp;gt; has the formula X(CH2)m ;
+</P>
+<P>
+X is -CH3,-CHCH3, -COOH, -CO2(CH2)mCH3, -OH, -CH2OH, ethylene glycol, hexa(ethylene glycol), -O(CH2)mCH3, NH2, -NH(CH2)mNH2, halogen, glucose, maltose, fullerene C60, a cyclic olefin, or a nucleic acid; and
+</P>
+<P>
+m is 0-30.
+</P>
+<P>
+3. The monomer of Claim 1 wherein N is a norbomenyl-containing group.
+</P>
+<P>
+4. The monomer of Claim 1 or 3 wherein P is a moiety having redox activity.
+</P>
+<P>
+5. The monomer of Claim 4 wherein P is a ferrocene derivative.
+</P>
+<P>
+6. The monomer of Claim 5 which is exo-5-norbornen-2-yl ferrocenecarboxylate or exo-5-norbornen-2-yl ferroceneacetate.
+</P>
+<P>
+7. An initiation monomer having the formula:
+</P>
+<P>
+N-L-A
+</P>
+<P>
+wherein:
+</P>
+<P>
+N is a cyclic olefin-containing group;
+</P>
+<P>
+A is an attachment compound-containing group comprising a functional group suitable for attaching the initiation monomer to a nanoparticle; and
+</P>
+<P>
+L is a bond or a linker whereby N is attached to A.
+</P>
+<P>
+8. The initiation monomer of Claim 7 wherein L is a polymer, -COO-, -CH2(CH2)mCOO-, -OCO-, -R&amp;lt;1&amp;gt; N(CH2)m-NR&amp;lt;1&amp;gt; -, -O(CH2)m-, -(CH2)m-,
+</P>
+<P>
+or comprises a binding moiety B which binds specifically to an analyte;
+</P>
+<P>
+wherein:
+</P>
+<P>
+R&amp;lt;1&amp;gt; has the formula X(CH2)m;
+</P>
+<P>
+X is -CH3,-CHCH3, -COOH, -CO2(CH2)mCH3, -OH, -CH2OH, ethylene glycol, hexa(ethylene glycol), -O(CH2)mCH3, -NH2, -NH(CH2)mNH2, halogen, glucose, maltose, fullerene C60, a cyclic olefin, or a nucleic acid; and
+</P>
+<P>
+m is 0-30.
+</P>
+<P>
+9. The initiation monomer of Claim 7 comprising a norbornenyl-group.
+</P>
+<P>
+10. The initiation monomer of Claim 9 which is a norbornenyl-containing alkanethiol.
+</P>
+<P>
+11. The initiation monomer of Claim 10 which is 1-mercapto-10-exo-5-norbomen-2-oxy-decane.
+</P>
+<P>
+12. A method of detecting or quantitating an analyte comprising:
+</P>
+<P>
+(a) contacting a sample suspected of containing the analyte with the nanoparticles of Claim 40; and
+</P>
+<P>
+(b) detecting or measuring the property or properties of the nanoparticles in order to detect or quantititate the analyte.
+</P>
+<P>
+13. The method of Claim 12 wherein the analyte is a nucleic acid and B is an oligonucleotide with a sequence complementary to at least a portion of the sequence of the analyte nucleic acid.
+</P>
+<P>
+14. The method of Claim 12 wherein the analyte is an antigen or a hapten and B is an antibody specific for the antigen or hapten.
+</P>
+<P>
+15. The method of Claim 12 wherein the property detected or measured is fluorescence.
+</P>
+<P>
+16. The method of Claim 12 wherein the property detected or measured is color.
+</P>
+<P>
+17. The method of Claim 12 wherein the property detected or measured is redox activity.
+</P>
+<P>
+18. A kit for detecting or quantitating an analyte comprising a container holding the nanoparticles of Claim 3.
+</P>
+<P>
+19. The kit of Claim 18 wherein the analyte is a nucleic acid and B is an oligonucleotide with a sequence complementary to at least a portion of the sequence of the analyte nucleic acid.
+</P>
+<P>
+20. The kit of Claim 18 wherein the analyte is an antigen or a hapten and B is an antibody specific for the antigen or hapten.
+</P>
+<P>
+21. The kit of Claim 18 wherein the property is fluorescence.
+</P>
+<P>
+22. The kit of Claim 18 wherein the property is color.
+</P>
+<P>
+23. The kit of Claim 18 wherein the property is redox activity.
+</P>
+<P>
+24. A binding monomer having the formula:
+</P>
+<P>
+N-L-B
+</P>
+<P>
+wherein:
+</P>
+<P>
+N is a cyclic olefin-containing group;
+</P>
+<P>
+B is a binding moiety that binds specifically to an analyte; and
+</P>
+<P>
+L is a bond or a linker whereby N is attached to B.
+</P>
+<P>
+25. The binding monomer of Claim 24 wherein N is a norbomenyl-containing group.
+</P>
+<P>
+26. The binding monomer of Claim 24 or 25 wherein B is an oligonucleotide.
+</P>
+<P>
+27. The binding monomer of Claim 24 or 25 wherein B is an antibody.
+</P>
+<P>
+28. A polymer formed by polymerizing one or more types of propagation monomers of the formula P-L-N,
+</P>
+<P>
+wherein:
+</P>
+<P>
+P is a moiety which provides a desired property or properties to the polymer,
+</P>
+<P>
+N is a cyclic olefin-containing group; and
+</P>
+<P>
+L is a bond or a linker whereby N is attached to P.
+</P>
+<P>
+29. The polymer of Claim 28 wherein N is a norbomenyl-containing group.
+</P>
+<P>
+30. The polymer of Claim 28 or 29 wherein L comprises a binding moiety B that binds specifically to an analyte.
+</P>
+<P>
+31. A method of detecting or quantitating an analyte comprising:
+</P>
+<P>
+contacting a sample suspected of containing the analyte with the polymer of Claim 30; and
+</P>
+<P>
+detecting or measuring the property or properties of the polymer in order to detect or quantitate the analyte.
+</P>
+<P>
+32. The method of Claim 31 wherein the analyte is a nucleic acid and B is an oligonucleotide.
+</P>
+<P>
+33. A kit for detecting or quantitating an analyte comprising a container holding the polymer of Claim 30.
+</P>
+<P>
+34. A method of detecting or quantitating an analyte comprising:
+</P>
+<P>
+(a) contacting the analyte with a type of binding monomers having the formula:
+</P>
+<P>
+N-L-B
+</P>
+<P>
+wherein:
+</P>
+<P>
+N is a cyclic olefin-containing group;
+</P>
+<P>
+B is a binding moiety that binds specifically to the analyte; and
+</P>
+<P>
+L is a bond or a linker whereby N is attached to B; so that the binding monomers bind to the analyte;
+</P>
+<P>
+(b) then adding a type of propagation monomers having the formula P-L-N, wherein:
+</P>
+<P>
+P is a detectable or measurable property;
+</P>
+<P>
+N is a cyclic olefin-containing group; and
+</P>
+<P>
+L is a bond or linker whereby N is attached to P;
+</P>
+<P>
+so that the propagation monomers polymerize to form a polymer attached to the analyte; and
+</P>
+<P>
+(c) detecting or measuring the property or properties of the polymer attached to the analyte in order to detect or quantitate the analyte.
+</P>
+<P>
+35. The method of Claim 34 wherein N is a norbornenyl-containing group.
+</P>
+<P>
+36. The method of Claim 34 or 35 wherein the analyte is a nucleic acid and B is an oligonucleotide.
+</P>
+<P>
+37. The method of Claim 36 further comprising:
+</P>
+<P>
+(i) providing a substrate having a type of capture oligonucleotides attached thereto which have a sequence complementary to at least a portion of the sequence of the analyte nucleic acid; and
+</P>
+<P>
+(ii) contacting the analyte nucleic acid with the substrate so that the analyte nucleic acid hybridizes to the capture oligonucleotides prior to performing steps (a) through (c).
+</P>
+<P>
+38. The method of Claim 34 or 35 wherein P is fluorescence.
+</P>
+<P>
+39. The method of Claim 36 wherein P is fluorescence.
+</P>
+<P>
+40. The method of Claim 37 wherein P is fluorescence.
+</P>
+<P>
+41. A kit for detecting or quantitating an analyte comprising;
+</P>
+<P>
+(a) a container holding a type ofbinding monomers having the formula:
+</P>
+<P>
+N-L-B,
+</P>
+<P>
+wherein:
+</P>
+<P>
+N is a cyclic olefin-containing group;
+</P>
+<P>
+B is a binding moiety that binds specifically to the analyte; and
+</P>
+<P>
+L is a bond or a linker whereby N is attached to B;
+</P>
+<P>
+(b) a container holding a type of propagation monomers having the formula:
+</P>
+<P>
+P-L-N,
+</P>
+<P>
+wherein:
+</P>
+<P>
+P is a detectable or measurable property;
+</P>
+<P>
+N is a cyclic olefin-containing group; and
+</P>
+<P>
+L is a bond or linker whereby N is attached to P; or
+</P>
+<P>
+(c) both (a) and (b).
+</P>
+<P>
+42. The kit of Claim 41 wherein N is a norbomenyl-containing group.
+</P>
+<P>
+43. The kit of Claim 41 or 42 wherein P is fluorescence.
+</P>
+<P>
+44. A method of preparing nanoparticles having at least one polymer shell attached thereto comprising:
+</P>
+<P>
+providing a type of nanoparticles; and
+</P>
+<P>
+attaching a type of initiation monomers to the surfaces ofthe nanoparticles.
+</P>
+<P>
+45. The method of Claim 44 wherein the initiation monomer comprises a cyclic-olefin-containing group.
+</P>
+<P>
+46. The method of Claim 45 wherein the initiation monomer comprises a norbornenyl group.
+</P>
+<P>
+47. The method of Claim 44 wherein the nanoparticles are gold nanoparticles.
+</P>
+<P>
+48. The method of Claim 47 wherein the initiation monomer is a norbomenyl-containing alkanethiol.
+</P>
+<P>
+49. The method of Claim 48 wherein the initiation monomer is 1-mercapto-10-(exo-5-norbomen-2-oxy)-decane.
+</P>
+<P>
+50. The method of Claim 44 wherein the initiation monomers are mixed with a type of attachment compounds, and both the initiation monomers and the attachment compounds are attached to the surfaces of the nanoparticles.
+</P>
+<P>
+51. The method of Claim 44 further comprising:
+</P>
+<P>
+contacting the nanoparticles having the initiation monomers attached to them with a transition metal ring-opening metathesis catalyst to activate the initiation monomers; and
+</P>
+<P>
+contacting the nanoparticles with one or more types of propagation monomers of the formula P-L-N under conditions effective so that the propagation monomers are polymerized to form one or more polymer shells attached to the nanoparticles,wherein:
+</P>
+<P>
+N is a cyclic olefin-containing group;
+</P>
+<P>
+P is a moiety which gives each polymer shell a selected property or properties; and
+</P>
+<P>
+L is a bond or linker whereby N is attached to P.
+</P>
+<P>
+52. The method of Claim 51 wherein L is a polymer, -COO-, -CH2(CH2)mCOO-, -OCO-, -R&amp;lt;1&amp;gt; N(CH2)m-NR&amp;lt;1&amp;gt; - -O(CH2)m- -(CH2)m-,
+</P>
+<P>
+or comprises a binding moiety B that binds specifically to an analyte;
+</P>
+<P>
+wherein:
+</P>
+<P>
+R&amp;lt;1&amp;gt; has the formula X(CH2)m;
+</P>
+<P>
+X is -CH3,-CHCH3, -COOH, -CO2(CH2)mCH3, -OH, -CH2OH, ethylene glycol, hexa(ethylene glycol), -O(CH2)mCH3, -NH2, -NH(CH2)mNH2, halogen, glucose, maltose, fullerene C60, a cyclic olefin, or a nucleic acid; and
+</P>
+<P>
+m is 0-30.
+</P>
+<P>
+53. The method of Claim 51 wherein N is a norbornerryl-containing group.
+</P>
+<P>
+54. The method of Claim 51 or 53 wherein the catalyst has the formula:
+</P>
+<P>
+wherein:
+</P>
+<P>
+M is osmium or ruthenium;
+</P>
+<P>
+R&amp;lt;1&amp;gt; is hydrogen;
+</P>
+<P>
+X&amp;lt;1&amp;gt; and X&amp;lt;2&amp;gt; , which may be different or the same, are any anionic ligand;
+</P>
+<P>
+L&amp;lt;1&amp;gt; and L&amp;lt;2&amp;gt; , which may be different or the same, are any neutral electron donor; and
+</P>
+<P>
+R&amp;lt;2&amp;gt; is hydrogen, substituted or unsubstituted alkyl, or substituted or unsubstituted aryl.
+</P>
+<P>
+55. The method of Claim 54 wherein M is ruthenium, R&amp;lt;1&amp;gt; is hydrogen, R&amp;lt;2&amp;gt; is phenyl, X&amp;lt;1&amp;gt; and X&amp;lt;2&amp;gt; are both -Cl, and L&amp;lt;1&amp;gt; and L&amp;lt;2&amp;gt; are both tricyclohexylphosphine.
+</P>
+<P>
+56. The method of Claim 51 or 53 wherein the catalyst has the formula:
+</P>
+<P>
+[Re(CR&amp;lt;1&amp;gt; )(CHR&amp;lt;2&amp;gt; )(R&amp;lt;3&amp;gt; )(R&amp;lt;4&amp;gt; )]n
+</P>
+<P>
+wherein:
+</P>
+<P>
+Re is rhenium (VII);
+</P>
+<P>
+R&amp;lt;1&amp;gt; is selected from the group consisting of an alkyl having 1-20 carbon atoms, an aryl having 6-20 carbon atoms, an araalkyl having 7-30 carbon atoms, halogen substituted derivatives of each, and silicon-containing analogs of each;
+</P>
+<P>
+R&amp;lt;2&amp;gt; is R&amp;lt;1&amp;gt; or is a substituent resulting from the reaction of the Re=CHR&amp;lt;2&amp;gt; moiety of the catalyst with an olefin that is being metathesized;
+</P>
+<P>
+R&amp;lt;3&amp;gt; and R&amp;lt;4&amp;gt; are ligands which individually or together are sufficiently electron withdrawing to render the rhenium atom electrophilic enough for metathesis reaction; and
+</P>
+<P>
+n is 1 or more.
+</P>
+<P>
+57. The method of Claim 51 or 53 wherein the catalyst has the formula:
+</P>
+<P>
+M(NR&amp;lt;1&amp;gt; )(OR&amp;lt;2&amp;gt; )2(CHR&amp;lt;3&amp;gt; ),
+</P>
+<P>
+wherein:
+</P>
+<P>
+M is molybdenum or tungsten;
+</P>
+<P>
+R&amp;lt;1&amp;gt; and R&amp;lt;2&amp;gt; each individually may be an alkyl containing 1-20 carbon atoms, an aryl containing 6-20 carbon atoms, an araalkyl containing, 7-20 carbon atoms, a halogen substituted derivative of the alkyl, aryl, or araalkyl, or a silicon-containing analog of one of the alkyl, aryl, or araalkyl; and
+</P>
+<P>
+R&amp;lt;3&amp;gt; is an alkyl containing 1-20 carbon atoms, an aryl containing 6-20 carbon atoms, an araalkyl containing 7-20 carbon atoms, or a substituent resulting from the reaction of the M=CHR&amp;lt;3&amp;gt; moiety of said catalyst with an olefin being metathesized.
+</P>
+<P>
+58. The method of Claim 51 or 53 wherein the nanoparticles are contacted with a single type of propagation monomers under conditions effective so that the monomers are polymerized to form a single polymer shell attached to the nanoparticles.
+</P>
+<P>
+59. The method of Claim 58 wherein the polymer shell has redox activity.
+</P>
+<P>
+60. The method of Claim 59 wherein the propagation monomer is exo-5-norbomen-2-yl ferrocenecarboxylate or exo-5-norbornen-2-yl ferroceneacetate.
+</P>
+<P>
+61. The method of Claim 51 or 53 wherein:
+</P>
+<P>
+the nanoparticles are contacted with a plurality of types of propagation monomers under conditions effective so that the monomers are polymerized to form one or more polymer shells attached to the nanoparticles, each polymer shell having one or more selected properties.
+</P>
+<P>
+62. The method of Claim 61 wherein:
+</P>
+<P>
+the nanoparticles are contacted with a first type of propagation monomers under conditions effective so that the monomers are polymerized to form a first polymer shell attached to the nanoparticles, the first polymer shell having a first selected property; and
+</P>
+<P>
+then the nanoparticles are contacted with a second type of propagation monomers under conditions effective so that the monomers are polymerized to form a second polymer shell attached to the first polymer shell, the second polymer shell having a second selected property which is different from the first selected property of the first polymer shell.
+</P>
+<P>
+63. The method of Claim 62 wherein one of the polymer shells has redox activity.
+</P>
+<P>
+64. The method of Claim 63 wherein the propagation monomer polymerized to form the shell is exo-5-norbornen-2-yl ferrocenecarboxylate or exo-5-norbornen-2-yl ferroceneacetate.
+</P>
+<P>
+65. The method of Claim 62 wherein the both polymer shells have redox activity.
+</P>
+<P>
+66. The method of Claim 65 wherein the two polymer shells have different redox activities.
+</P>
+<P>
+67. The method of Claim 66 wherein the propagation monomer polymerized to form the first polymer shell is exo-5-norbornen-2-yl ferrocenecarboxylate and the propagation monomer polymerized to form the second polymer shell is exo-5-norbornen-2-yl ferroceneacetate.
+</P>
+<P>
+68. The method of Claim 51 or 53 wherein the polymerization is stopped by adding a compound that terminates polymerization.
+</P>
+<P>
+69. Nanoparticles having initiation monomers attached to them.
+</P>
+<P>
+70. The nanoparticles of Claim 68 wherein the initiation monomers comprise cyclic olefin-containing groups.
+</P>
+<P>
+71. The nanoparticles of Claim 70 wherein the initiation monomers comprise norbornenyl groups.
+</P>
+<P>
+72. The nanoparticles of Claim 71 wherein the initiation monomers are norbomenyl-containing alkanethiols.
+</P>
+<P>
+73. The nanoparticles of Claim 72 wherein the initiation monomers are 1-mercapto-10-(exo-5-norbomen-2-oxy)-decane.
+</P>
+<P>
+74. Nanoparticles comprising one or more polymer shells attached to them, the polymer shells being formed by polymerizing one or more types of propagation monomers of the formula P-L-N,
+</P>
+<P>
+wherein:
+</P>
+<P>
+P is a moiety which provides a desired property or properties to each of the polymer shells;
+</P>
+<P>
+N is a cyclic olefin-containing group; and
+</P>
+<P>
+L is a bond or a linker whereby N is attached to P.
+</P>
+<P>
+75. The nanoparticles of Claim 74 wherein L is a polymer, -COO-, -CH2(CH2)mCOO-, -OCO-, -R&amp;lt;1&amp;gt; N(CH2)m-NR&amp;lt;1&amp;gt; -, -O(CH2)m-, -(CH2)m-,
+</P>
+<P>
+or comprises a binding moiety B that binds specifically to an anlalyte,
+</P>
+<P>
+wherein:
+</P>
+<P>
+R&amp;lt;1&amp;gt; has the formula X(CH2)m ;
+</P>
+<P>
+X is -CH3,-CHCH3, -COOH, -CO2(CH2)mCH3, -OH, -CH2OH, ethylene glycol, hexa(ethylene glycol), -O(CH2)mCH3, -NH2, NH(CH2)mNH2, halogen, glucose, maltose, fullerene C60, a cyclic olefin, or a nucleic acid; and
+</P>
+<P>
+m is 0-30.
+</P>
+<P>
+76. The nanoparticles of Claim 74 wherein N is a norbomenyl-containing group.
+</P>
+<P>
+77. The nanoparticles of Claim 74 or 76 having a single polymer shell attached to them.
+</P>
+<P>
+78. The nanoparticles of Claim 74 or 76 having a plurality of polymer shells attached to them.
+</P>
+<P>
+79. The nanoparticles of Claim 78 having two polymer shells attached to them, the first polymer shell and the second polymer shell having different properties.
+</P>
+<P>
+80. The nanoparticles of Claim 77 wherein the polymer shell has redox activity.
+</P>
+<P>
+81. The nanoparticles of Claim 78 wherein one of the polymer shells has redox activity.
+</P>
+<P>
+82. The nanoparticles of Claim 79 wherein the first polymer shell has redox activity and the second polymer shell has redox activity different than that of the first polymer shell.
+</P>
+<P>
+83. The nanoparticles of Claim 74, 75, or 76 wherein a polymer shell comprises a binding moiety B that binds specifically to an analyte.
+</P>
+<P>
+84. The nanoparticles of Claim 83 wherein the polymer shell comprising the binding moiety B is formed by polymerizing one or more types of binding monomers of the formula N-L-B, wherein N, L and B have the same meanings as in Claim 40.
+</P>
+<P>
+85. The nanoparticles of Claim 84 wherein the polymer shell comprising the binding moiety B is formed by polymerizing a mixture of one or more types of binding monomers and one or more types of propagation monomers.
+</P>
+</Claims>
+<Also_published_as>
+WO0033079A1;US7115688B1;JP2002531830A;EP1135682A1;EP1135682A4;EP1135682B1;DE69936534T2;CN1607390A;CN100406890C;CN1328641A;CN1182395C;CA2352362A1;CA2352362C;AU1928600A;AU768535B2;AT366932T
+</Also_published_as>
+</BiblioData>

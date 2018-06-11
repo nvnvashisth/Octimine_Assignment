@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method for producing polymers
+</Title>
+<PublicationNumber>
+EP2175021A2
+</PublicationNumber>
+<Inventor>
+<Name>
+STAEHLER PEER F [DE]
+</Name>
+<Name>
+STAEHLER CORD F [DE]
+</Name>
+<Name>
+MUELLER MANFRED [DE]
+</Name>
+<Name>
+STAEHLER, PEER F
+</Name>
+<Name>
+STAEHLER, CORD F
+</Name>
+<Name>
+MUELLER, MANFRED
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FEBIT HOLDING GMBH [DE]
+</Name>
+<Name>
+FEBIT HOLDING GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2175021
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20100151688
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2000-02-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20060014767
+</PriorityNumber>
+<PriorityDate>
+2000-02-18
+</PriorityDate>
+<PriorityNumber>
+EP20000909211
+</PriorityNumber>
+<PriorityDate>
+2000-02-18
+</PriorityDate>
+<PriorityNumber>
+DE19991028843
+</PriorityNumber>
+<PriorityDate>
+1999-06-24
+</PriorityDate>
+<PriorityNumber>
+DE19991007080
+</PriorityNumber>
+<PriorityDate>
+1999-02-19
+</PriorityDate>
+<PriorityNumber>
+DE19991040752
+</PriorityNumber>
+<PriorityDate>
+1999-08-27
+</PriorityDate>
+<PriorityNumber>
+DE19991057116
+</PriorityNumber>
+<PriorityDate>
+1999-11-26
+</PriorityDate>
+<PriorityNumber>
+WO1999EP06316
+</PriorityNumber>
+<PriorityDate>
+1999-08-27
+</PriorityDate>
+<PriorityNumber>
+EP20100151688
+</PriorityNumber>
+<PriorityDate>
+2000-02-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+B01L3/00
+</Class>
+<Class>
+C08G85/00
+</Class>
+<Class>
+C12N15/09
+</Class>
+<Class>
+C12N15/10
+</Class>
+<Class>
+C12P19/34
+</Class>
+<Class>
+G01N21/25
+</Class>
+<Class>
+G01N21/64
+</Class>
+<Class>
+G03F7/20
+</Class>
+<Class>
+C40B40/06
+</Class>
+<Class>
+C40B40/10
+</Class>
+<Class>
+C40B50/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B01J19/00R
+</Class>
+<Class>
+B01L3/5027A
+</Class>
+<Class>
+B01L3/5085
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12N15/10
+</Class>
+<Class>
+C12N15/66
+</Class>
+<Class>
+C12P19/34
+</Class>
+<Class>
+G03F7/70F
+</Class>
+</NCL>
+<Abstract>
+An electronically-controlled light source matrix (3), preferably a liquid crystal display (LCD) matrix, is faced by a light sensor matrix (9), preferably a charge coupled display (CCD) image sensor. This detects optical behavior of a substance (7) sandwiched between them. Preferred Features: In a related concept, an LCD matrix produces two-dimensional lighting patterns in manufacturing or examination.
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zur Synthese von Polymeren,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass eine Vielzahl von Oligomerbaublöcken auf einem Träger durch parallele Syntheseschritte aufgebaut, vom Träger abgelöst und untereinander zum Aufbau des Polymeren in Kontakt gebracht werden.
+</P>
+<P>
+2. Verfahren, insbesondere nach Anspruch 1, zur direkten Umsetzung digitaler Zielsequenzen in ein Nukleinsäurepolymer, umfassend die Schritte:
+</P>
+<P>
+(a) Auswählen einer digitalen Zielsequenz,
+</P>
+<P>
+(b) Zerlegen der digitalen Zielsequenz in geeignete Oligomerbaublöcke,
+</P>
+<P>
+(c) Aufbauen der Oligomerbaublöcke auf mindestens einem Träger durch parallele Syntheseschritte,
+</P>
+<P>
+(d) Ablösen der Oligomerbaublöcke vom Träger,
+</P>
+<P>
+(e) Inkontaktbringen der Oligomerbaublöcke untereinander zum Aufbau eines Nukleinsäurepolymers und
+</P>
+<P>
+(f) kovalentes Verbinden von Oligomerbaublöcken, die einen Strang eines Nukleinsäurepolymers bilden.
+</P>
+<P>
+3. Verfahren, insbesondere nach Anspruch 1, zur Optimierung funktioneller genetischer Parameter in einem genetischen Element, umfassend die Schritte:
+</P>
+<P>
+(a) Bereitstellen einer digitalen Sequenz mit Varianten eines bekannten genetischen Elements,
+</P>
+<P>
+(b) Zerlegen der digitalen Sequenz aus Schritt (a) in geeignete Oligomerbaublöcke,
+</P>
+<P>
+(c) Synthetisieren der Oligomerbaublöcke auf mindestens einem Träger durch parallele Syntheseschritte,
+</P>
+<P>
+(d) Ablösen der Oligomerbaublöcke vom Träger,
+</P>
+<P>
+(e) Inkontaktbringen der Oligomerblöcke untereinander zum Aufbau von Nukleinsäurepolymeren,
+</P>
+<P>
+(f) kovalentes Verbinden von Oligomerbaublöcken, die einen Strang eines Nukleinsäurepolymers bilden und
+</P>
+<P>
+(g) Transfer der Sequenzen aus Schritt (f) in Zielzellen für funktionelle Untersuchungen.
+</P>
+<P>
+4. Verfahren, insbesondere nach Anspruch 1, zum Erzeugen funktioneller genetischer Elemente, umfassend die Schritte:
+</P>
+<P>
+(a) Bereitstellen digitaler Nukleinsäuresequenzen mit mehreren funktionellen Elementen,
+</P>
+<P>
+(b) Integrieren der funktionellen Elemente in ein digitales DNA-Molekül,
+</P>
+<P>
+(c) Zerlegen des digitalen DNA-Moleküls in geeignete Oligomerbaublöcke,
+</P>
+<P>
+(d) Synthetisieren der Oligomerbaublöcke auf mindestens einem Träger durch parallele Syntheseschritte,
+</P>
+<P>
+(e) Ablösen der Oligomerbaublöcke vom Träger,
+</P>
+<P>
+(f) Inkontaktbringen der Oligomerbaublöcke untereinander und
+</P>
+<P>
+(g) kovalentes Verbinden von Oligomerbaublöcken, die einen Strang eines Nukleinsäurepolymers bilden.
+</P>
+<P>
+5. Verfahren nach einem der Ansprüche 1 bis 4,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass man doppelsträngige Nukleinsäure-Polymere mit einer Länge von mindestens 300 bp, insbesondere mit einer Länge von 1000 bp synthetisiert.
+</P>
+<P>
+6. Verfahren nach einem der Ansprüche 2 bis 5,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die digitale Zielsequenz aus einer Datenbank stammt.
+</P>
+<P>
+7. Verfahren nach einem der Ansprüche 1 bis 6 zur Herstellung synthetischer Nukleinsäuredoppelstränge wahlfreier Sequenz, umfassend die Schritte:
+</P>
+<P>
+(a) Bereitstellen eines Trägers mit einer Oberfläche, die eine Vielzahl von individuellen Reaktionsbereichen enthält,
+</P>
+<P>
+(b) ortsausgelöstes Synthetisieren von Nukleinsäurefragmenten mit jeweils unterschiedlicher Basensequenz an mehreren der individuellen Reaktionsbereiche und
+</P>
+<P>
+(c) Ablösen der Nukleinsäurefragmente von individuellen Reaktionsbereichen.
+</P>
+<P>
+8. Verfahren nach einem der Ansprüche 1 bis 7,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Basensequenzen der Baublöcke so gewählt werden, dass sie sich zu einem Nukleinsäuredoppelstrang-Hybrid zusammenlagern können.
+</P>
+<P>
+9. Verfahren nach einem der Ansprüche 1 bis 8,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass Oligomerbaublöcke eine Länge von 50-150, vorzugsweise von 5-30 Nukleotiden aufweisen.
+</P>
+<P>
+10. Verfahren nach einem der Ansprüche 1 bis 9,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass jeder Oligomerbaublock auf einem unterschiedlichen Bereich eines gemeinsamen Trägers synthetisiert wird.
+</P>
+<P>
+11. Verfahren nach einem der Ansprüche 1 bis 10,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass der Aufbau, die Ablösung und der Inkontaktbringen innerhalb eines Reaktionsraumes erfolgen, und/oder
+</P>
+<P>
+der Aufbau in einem mikrofluidischen Reaktionsträger mit einem oder mehreren Reaktionsräumen oder einem oder mehreren Reaktionsbereichen innerhalb eines Reaktionsraumes durchgeführt wird, und/oder
+</P>
+<P>
+dass jeweils teilweise komplementäre Baublöcke vom Träger abgelöst und unter Hybridisierungsbedingungen miteinander bzw. mit dem Nukleinsäurezwischenprodukt in Kontakt gebracht werden und/oder
+</P>
+<P>
+dass die Oligomerbaublöcke in einem oder mehreren Schritten unter solchen Bedingungen abgelöst werden, dass sich mehrere der abgelösten Nukleinsäurefragmente zu einem Nukleinsäuredoppelstrang-Hybrid zusammenlagern.
+</P>
+<P>
+12. Verfahren nach einem der Ansprüche 1 bis 11,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass das kovalente Verbinden eine Behandlung mit Ligase umfasst und/oder dass mögliche Lücken in den Strängen nach Hybridisierung unter Verwendung von Polymerase aufgefüllt werden.
+</P>
+<P>
+13. Verfahren nach einem der Ansprüche 1 bis 12,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass Nukleinsäure-Polymere ausgewählt aus Genen, Genabschnitten, regulatorischen Elementen oder viralen Verpackungssignalen synthetisiert werden.
+</P>
+<P>
+14. Verfahren nach einem der Ansprüche 1 bis 13,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass Varianten der Oligomerbaublöcke oder des Nukleinsäure-Polymers erzeugt werden, wobei die Varianten insbesondere durch Randomisierung an einer oder mehreren bestimmten Stellen der Zielsequenz erzeugt werden.
+</P>
+<P>
+15. Verfahren nach einem der Ansprüche 1 bis 14,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Sequenz an den exprimierenden Organismus bzw. Zelltyp (Codon-Nutzung) angepasst wird.
+</P>
+</Claims>
+<Also_published_as>
+EP2175021A3;WO0049142A1;US6586211B1;US2007196854A1;US2003198948A1;US7790369B2;US2009170802A1;JP2002536977A;EP1728860A1;EP1728860B1;EP1153127A1;EP1153127B1;CA2362939A1;CA2362939C;AU767606B2;AT456652T;AT334197T
+</Also_published_as>
+</BiblioData>

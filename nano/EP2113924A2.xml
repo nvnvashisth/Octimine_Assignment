@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method for measuring an anisotropic surface diffusion tensor or surface energy anisotropies
+</Title>
+<PublicationNumber>
+EP2113924A2
+</PublicationNumber>
+<Inventor>
+<Name>
+DE CRECY FRANCOIS [FR]
+</Name>
+<Name>
+BARBE JEAN-CHARLES [FR]
+</Name>
+<Name>
+GIRARDEAU-MONTAUT DANIEL [FR]
+</Name>
+<Name>
+DE CRECY, FRANCOIS
+</Name>
+<Name>
+BARBE, JEAN-CHARLES
+</Name>
+<Name>
+GIRARDEAU-MONTAUT, DANIEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE C.E.A
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE ET AUX ENERGIESALTERNATIVES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2113924
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090158265
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-04-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+FR20080002439
+</PriorityNumber>
+<PriorityDate>
+2008-04-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q30/04
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+C30B31/04
+</Class>
+<Class>
+G01Q30/04
+</Class>
+</NCL>
+<Abstract>
+The method involves measuring a surface topology of a surface to determine Fourier transform of the topology at an instant, and evolving the surface by surface diffusion. Another surface topology is measured after evolution of the surface to determine Fourier transform of the latter topology at another instant. Components of anisotropic surface diffusion tensor or surface energy anisotropies and combination of the tensor and/or anisotropies are determined for enabling measurement of deviation between the topologies to be minimized.
+</Abstract>
+<Claims>
+<P>
+1. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface, d&apos;une surface définie par une fonction z (x,y) dépendante de deux coordonnées (x,y) selon deux directions orthogonales, la transformée de Fourier de cette surface permettant de la décomposer en une somme de perturbations dites de moyenne amplitude d&apos;amplitude initiale (a0) et de longueurs d&apos;onde ([lambda]x, [lambda]y), les ratio amplitude/longueurs d&apos;onde (a0/[lambda]x ; a0/ [lambda]y ) étant inférieurs à environ 0,3), caractérisé en ce qu&apos;il comprend les étapes suivantes :
+</P>
+<P>
+- une première mesure de la topologie de surface permettant de déterminer la transformée de Fourier H(fx,fy,0) de cette première topologie à un instant t0=0, fx et fy étant les fréquences spatiales ;
+</P>
+<P>
+- une étape d&apos;évolution de ladite surface par diffusion de surface ;
+</P>
+<P>
+- une seconde mesure de la topologie de surface après évolution de ladite surface permettant de déterminer la transformée de Fourier H(fx,fy,t) de cette seconde topologie à un instant t, fx et fy étant les fréquences spatiales ;
+</P>
+<P>
+- la détermination de composantes du tenseur de diffusion ou des dérivées secondes de l&apos;énergie de surface ou d&apos;une combinaison des composantes du tenseur et des dérivées secondes de l&apos;énergie de surface, permettant de minimiser une mesure (G, G&apos;) de l&apos;écart entre une grandeur H(fx,fy,t) et une grandeur H(fx,fy,0).a(t), avec
+</P>
+<P>
+[alpha]2 dépendant de fx et fy, fx et fy étant les fréquences spatiales dans les directions orthogonales associées aux coordonnées x et y. et
+</P>
+<P>
+et dx et dy : des composantes du tenseur de diffusion relatif à l&apos;anisotropie de diffusion dans les directions respectivement x et y, [gamma]0 l&apos;énergie de surface et [gamma]x &quot;, [gamma]y&quot; les dérivées secondes de l&apos;énergie de surface par rapport à l&apos;orientation de la surface dans les directions associées aux coordonnées x et y.
+</P>
+<P>
+2. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface selon la revendication 1, caractérisé en ce que le coefficient [alpha]2 répond à l&apos;équation suivante :
+</P>
+<P>
+ci et bi étant des constantes .
+</P>
+<P>
+3. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface selon l&apos;une des revendications 1 ou 2, caractérisé en ce que la mesure de l&apos;écart (G) répond à la formule suivante :
+</P>
+<P>
+et PSD (fx,fy,t) la densité spectrale de puissance correspondant au carré de la norme de la transformée de Fourier au temps t et PSD (fx,fy,0) la densité spectrale de puissance au temps t0 .
+</P>
+<P>
+4. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface selon l&apos;une des revendications 1 ou 2, caractérisé en ce que la mesure de l&apos;écart (G&apos;) répond à la formule suivante :
+</P>
+<P>
+avec
+</P>
+<P>
+H(fx, fy, t)
+</P>
+<P>
+la norme de la transformée de Fourier aux fréquences fx et fy et au temps t,
+</P>
+<P>
+H(fx,fy,0)
+</P>
+<P>
+est la norme de la transformée de Fourier aux fréquences fx et fy et au temps initial t0=0.
+</P>
+<P>
+5. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface selon l&apos;une des revendications 3 ou 4, caractérisé en ce que la mesure de l&apos;écart (G, G&apos;) est obtenue par une méthode de type méthode de Levenberg-Marquardt ou par une méthode faisant intervenir le gradient et la matrice Hessienne ou par la méthode du Simplex ou par la méthode de Powell.
+</P>
+<P>
+6. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface selon l&apos;une des revendications 1 à 5, caractérisé en ce que, la mesure de topologie est de type AFM.
+</P>
+<P>
+7. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface selon l&apos;une des revendications 1 à 5, caractérisé en ce que, la mesure de topologie est de type profilomètrie optique.
+</P>
+<P>
+8. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface selon l&apos;une des revendications 1 à 5, caractérisé en ce que, la mesure de topologie est de type microscopie confocale.
+</P>
+<P>
+9. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface selon l&apos;une des revendications 1 à 8, caractérisé en ce qu&apos;il comporte en outre une étape préalable de génération de rugosités surfaciques.
+</P>
+<P>
+10. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface selon la revendication 9, caractérisé en ce que la génération de rugosités est réalisée par attaque chimique.
+</P>
+<P>
+11. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface selon la revendication 9, caractérisé en ce que la génération de rugosités est réalisée par gravure plasma.
+</P>
+<P>
+12. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface selon la revendication 9, caractérisé en ce que la génération de rugosités est réalisée par attaque électrolytique.
+</P>
+<P>
+13. Procédé de mesure d&apos;un tenseur anisotrope de diffusion de surface ou des anisotropies d&apos;énergie de surface selon la revendication 9, caractérisé en ce que la génération de rugosités est réalisée par indentation ou nano-indentation.
+</P>
+</Claims>
+<Also_published_as>
+EP2113924A3;US2009276181A1;JP2009271070A;FR2930824A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC SENSOR
+</Title>
+<PublicationNumber>
+EP2060926A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SASAKI YOSHITO [JP]
+</Name>
+<Name>
+SASAKI SHINICHI [JP]
+</Name>
+<Name>
+SATO KIYOSHI [JP]
+</Name>
+<Name>
+HASEGAWA NAOYA [JP]
+</Name>
+<Name>
+UMETSU EIJI [JP]
+</Name>
+<Name>
+SASAKI, YOSHITO
+</Name>
+<Name>
+SASAKI, SHINICHI
+</Name>
+<Name>
+SATO, KIYOSHI
+</Name>
+<Name>
+HASEGAWA, NAOYA
+</Name>
+<Name>
+UMETSU, EIJI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ALPS ELECTRIC CO LTD [JP]
+</Name>
+<Name>
+ALPS ELECTRIC CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2060926
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070713899
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP52101
+</PriorityNumber>
+<PriorityDate>
+2007-02-07
+</PriorityDate>
+<PriorityNumber>
+JP20060203716
+</PriorityNumber>
+<PriorityDate>
+2006-07-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/09
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/07
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+H04M1/02A2F2
+</Class>
+</NCL>
+<Abstract>
+A resistance value R of each of first magnetoresistance effect elements 10 and 11 changes in response to a magnetic field strength change in a positive direction of an external magnetic field H1 while second magnetoresistance effect elements 12 and 13 maintain a constant voltage value. A resistance value R of each of the second magnetoresistance effect elements 12 and 13 changes in response to a magnetic field strength change in a negative direction of an external magnetic field H2 while the first magnetoresistance effect elements 10 and 11 maintain a constant voltage value. In this way, a magnetic sensor stably operates in a bipolar fashion regardless of the polarity of the external magnetic field.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic sensor comprising a series circuit that connects in a serial connection a first magnetoresistance effect element and a second magnetoresistance effect element, each element having a resistance thereof changing in response to a change in a magnetic field strength of an external magnetic field, and outputs a voltage at a junction between the first magnetoresistance effect element and the second magnetoresistance effect element,
+</P>
+<P>
+wherein the first magnetoresistance effect element changes the resistance thereof in response to a change in the magnetic field strength in a positive direction of the external magnetic field while the second magnetoresistance effect element maintains a constant resistance value, the one direction of the external magnetic field being the positive direction and the direction opposite to the one direction being a negative direction, and
+</P>
+<P>
+wherein the second magnetoresistance effect element changes the resistance thereof in response to a change in the magnetic field strength in the negative direction of the external magnetic field while the first magnetoresistance effect element maintains a constant resistance value.
+</P>
+<P>
+2. The magnetic sensor according to claim 1, wherein an increase and decrease trend in the resistance change of the first magnetoresistance effect element in response to a change in the positive direction in the magnetic field strength and an increase and decrease trend in the resistance change of the second magnetoresistance effect element in response to a change in the negative direction in the magnetic field strength are reversed with respect to a non-magnetic state of the external magnetic field.
+</P>
+<P>
+3. The magnetic sensor according to claim 2, wherein a fixed resistance value X1 of the second magnetoresistance effect element with the external magnetic field in the positive direction is larger than a minimum resistance value X2 of the first magnetoresistance effect element changing in response to a change in the magnetic intensity in the positive direction and smaller than a maximum resistance value X3 of the first magnetoresistance effect element changing in response to a change in the magnetic intensity in the positive direction,
+</P>
+<P>
+wherein a fixed resistance value X4 of the first magnetoresistance effect element with the external magnetic field in the negative direction is larger than a minimum resistance value X5 of the second magnetoresistance effect element changing in response to a change in the magnetic intensity in the negative direction and smaller than a maximum resistance value X6 of the second magnetoresistance effect element changing in response to a change in the magnetic intensity in the negative direction, and
+</P>
+<P>
+wherein a ratio of (the fixed resistance value X1 - the minimum resistance value X2: the maximum resistance value X3 - the fixed resistance value X1) is equal to a ratio of (the maximum resistance value X6 - the fixed resistance value X4: the fixed resistance value X4 - the minimum resistance value X5).
+</P>
+<P>
+4. The magnetic sensor according to claim 3, wherein the fixed resistance value X1 is a median value between the minimum resistance value X2 and the maximum resistance value X3, and the fixed resistance value X4 is a median value between the minimum resistance value X5 and the maximum resistance value X6.
+</P>
+<P>
+5. The magnetic sensor according to one of claims 1 through 4, wherein the first magnetoresistance effect element and the second magnetoresistance effect element have the same layer structure composed of an antiferromagnetic layer, a fixed magnetic layer, a nonmagnetic intermediate layer, and a free magnetic layer,
+</P>
+<P>
+wherein in an R-H curve with the abscissa thereof representing the external magnetic field and the ordinate thereof representing the resistance value of the magnetoresistance effect element, a first interlayer coupling magnetic field Hin1 acting on the fixed magnetic layer and the free magnetic layer of the first magnetoresistance effect element is shifted in the positive direction of the external magnetic field, and a second interlayer coupling magnetic field Hin2 acting on the fixed magnetic layer and the free magnetic layer of the second magnetoresistance effect element is shifted in the negative direction of the external magnetic field.
+</P>
+<P>
+6. The magnetic sensor according to claim 5, wherein the first interlayer coupling magnetic field Hin1 and the second interlayer coupling magnetic field Hin2 have the same magnitude (in the absolute value).
+</P>
+<P>
+7. The magnetic sensor according to one of claims 5 and 6, wherein the magnetization of the fixed magnetic layer and the magnetization of the free magnetic layer in one of the first magnetoresistance effect element and the second magnetoresistance effect element are in the same direction in the non-magnetic state of the external magnetic field, the magnetization of the fixed magnetic layer and the magnetization of the free magnetic layer in the other of the first magnetoresistance effect element and the second magnetoresistance effect element are anti-parallel to each other, and the magnetization of the fixed magnetic layer of the first magnetoresistance effect element and the magnetization of fixed magnetic layer of the second magnetoresistance effect element are aligned in the same direction.
+</P>
+<P>
+8. The magnetic sensor according to one of claims 1 through 7, wherein two first magnetoresistance effect elements and two second magnetoresistance effect elements are arranged, a first serial circuit is formed of one of the first magnetoresistance effect elements and one of the second magnetoresistance effect elements, and a second serial circuit is formed of the remaining first magnetoresistance effect element and the remaining second magnetoresistance effect element,
+</P>
+<P>
+wherein the first magnetoresistance effect element in the first serial circuit and the second magnetoresistance effect element in the second serial circuit are connected in parallel and the second magnetoresistance effect element in the first serial circuit and the first magnetoresistance effect element in the second serial circuit are connected in parallel, and
+</P>
+<P>
+wherein a difference between a voltage at a junction of the first serial circuit and a voltage at a junction of the second serial circuit is output as a differential voltage.
+</P>
+</Claims>
+<Also_published_as>
+EP2060926A4;US2008024120A1;US7463026B2;JP4904352B2;WO2008012959A1;CN101517427A
+</Also_published_as>
+</BiblioData>

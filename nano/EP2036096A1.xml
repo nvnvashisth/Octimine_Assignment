@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+HIGH-SPEED MEASUREMENT, ANALYSIS AND IMAGING SYSTEMS AND METHODS FOR LENGTH SCALES FROM METER TO SUB- NANOMETER
+</Title>
+<PublicationNumber>
+EP2036096A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KLEY VICTOR B [US]
+</Name>
+<Name>
+KLEY, VICTOR B
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KLEY VICTOR B [US]
+</Name>
+<Name>
+KLEY, VICTOR B
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2036096
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070875106
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US70357
+</PriorityNumber>
+<PriorityDate>
+2007-06-04
+</PriorityDate>
+<PriorityNumber>
+US20060803804P
+</PriorityNumber>
+<PriorityDate>
+2006-06-02
+</PriorityDate>
+<PriorityNumber>
+US20070757245
+</PriorityNumber>
+<PriorityDate>
+2007-06-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01B11/00
+</Class>
+<Class>
+G01B11/30
+</Class>
+<Class>
+G01Q30/02
+</Class>
+<Class>
+G01Q30/04
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01B11/00D
+</Class>
+<Class>
+G01B11/30B
+</Class>
+<Class>
+G01Q30/02
+</Class>
+<Class>
+G01Q30/04
+</Class>
+</NCL>
+<Abstract>
+An system for the measurement, analysis, and imaging of objects and surfaces in a variety of sizes is provided. In the most general terms, the invention relates to a device capable of measuring an object using a combination of low-resolution optical, high-resolution optical, SPM/AFM and/or material analysis techniques. The data gathered at various resolutions is correlated to absolute locations on the object&apos;s surface, allowing selected regions of the object&apos;s surface to be analyzed to any desired degree of precision (down to atomic scale). In a specific embodiment of the present invention, a system for collecting measurement data regarding an object of interest is disclosed. The system includes a sample stage adapted to hold the object of interest. The system further includes an optical lens assembly disposed above the sample stage.;  The optical lens assembly is configured to capture an optical image of the object of interest. The system additionally includes a Scanning Probe Microscope (SPM) assembly having a probe tip. The SPM assembly is configured coaxially with the optical lens assembly. In addition, the system includes a positioning system configured to position the optical lens assembly and the SPM assembly with respect to the object of interest held on the sample stage. The probe tip of the SPM assembly is visible within the optical image obtained by the optical lens assembly.
+</Abstract>
+<Claims>
+<P>
+1. A system for collecting measurement data regarding an object of interest, the system comprising:
+</P>
+<P>
+a sample stage adapted to hold the object of interest;
+</P>
+<P>
+an optical lens assembly disposed above the sample stage, the optical lens assembly configured to capture an optical image of the object of interest;
+</P>
+<P>
+a Scanning Probe Microscope (SPM) assembly having a probe tip, the SPM assembly configured coaxially with the optical lens assembly; and
+</P>
+<P>
+a positioning system configured to position the optical lens assembly and the SPM assembly with respect to the object of interest held on the sample stage;
+</P>
+<P>
+wherein the probe tip of the SPM assembly is visible within the optical image obtained by the optical lens assembly.
+</P>
+<P>
+2. The system of claim 1 wherein the optical lens assembly and SPM assembly are integrated onto a single imaging head, the single imaging positioned at a head angle to the object of interest.
+</P>
+<P>
+3. The system of claim 2 wherein the head angle can be changed and measured for multiple related views of the object of interest.
+</P>
+<P>
+4. The system of claim 2 wherein the head angle can be changed and measured for multiple referenced and related views of the object of interest.
+</P>
+<P>
+5. The system of claim 2 wherein both the head angle and an object angle between the imaging head and object of interest can be changed and measured for multiple referenced and related views of the object of interest.
+</P>
+<P>
+6. (canceled)
+</P>
+<P>
+7. The system of claim 1 further comprising:
+</P>
+<P>
+a detection assembly, the detection assembly employing a method for collecting measurement data of the object of interest, the method selected from the list consisting of: optical resolution, scanning probe microscopy, electron beam microscopy, deep UV imaging, x-ray imaging, spectrometry, mass spectrometry, polymerase chain reaction (PCR), protein identification, and nucleotide identification.
+</P>
+<P>
+8-9. (canceled)
+</P>
+<P>
+10. The system of claim 1 further comprising:
+</P>
+<P>
+analytical instrumentation configured to determine the molecular and/or atomic constituents of a measured amount of material from the object of interest; and
+</P>
+<P>
+a gas or liquid transport system configured to transport the measured amount of material from a recorded location on the object of interest to the analytical instrumentation;
+</P>
+<P>
+wherein the probe tip or associated elements with the probe tip are configured to remove the measured amount of material from the recorded location on the object of interest.
+</P>
+<P>
+11. The system of claim 10 wherein the analytical instrumentation is selected from the list consisting of a spectrophotometer, a atomic absorption spectrophotometer, a mass spectrometer, a polymerase chain reaction for the replication of genetic or other certain protein material, a gas chromatograph, a electro chromatograph or a simple chromatograph.
+</P>
+<P>
+12-13. (canceled)
+</P>
+<P>
+14. The system of claim 1 further comprising a display device adapted to display a visual representation of data obtained regarding the object of interest,
+</P>
+<P>
+the data comprising:
+</P>
+<P>
+a first data subset; and
+</P>
+<P>
+a second data subset.
+</P>
+<P>
+15. The system of claim 14 wherein the second data subset represents a higher resolution data subset than the first data subset.
+</P>
+<P>
+16. The system of claim 14 wherein the first data subset and second data subset are shown upon the display device, the second data subset being graphically distinct from the first subset at a display level presented to an operator or automated system.
+</P>
+<P>
+17. (canceled)
+</P>
+<P>
+18. The system of claim 1 further comprising a control subsystem adapted to switch between different modes based upon the magnification indicated by an operator or an automated subsystem, the modes including:
+</P>
+<P>
+a coarse optical resolution mode obtained using the optical lens assembly;
+</P>
+<P>
+a high optical resolution mode obtained using the optical lens assembly; and
+</P>
+<P>
+a SPM mode using the SPM assembly.
+</P>
+<P>
+19. The system of claim 18 wherein the operator or the automated subsystem is capable of continuously performing a magnification process of a desired image from a 1:1 resolution to a 10,000,000,000:1 resolution.
+</P>
+<P>
+20. The system of claim 19 wherein the magnification process is performed within 1/30th of a second.
+</P>
+<P>
+21-30. (canceled)
+</P>
+<P>
+31. A method of determining the position of an element of an object of interest comprising:
+</P>
+<P>
+positioning the object of interest upon a sample stage, the sample stage adapted to hold the object of interest;
+</P>
+<P>
+illuminating the object of interest with at least three illumination sources arranged at different angles with respect to the plane of the sample stage, each illumination source creating a shadow of the object of interest,
+</P>
+<P>
+characterizing at least one surface of the object of interest utilizing shadow information from the shadows of the object of interest to form a height maps of the object of interest; and
+</P>
+<P>
+calculating the absolute position of the element with respect to a second element utilizing the height maps.
+</P>
+<P>
+32-36. (canceled)
+</P>
+<P>
+37. The method of claim 31 further comprising:
+</P>
+<P>
+tiling all or part of a surface of the object of interest utilizing the height maps, the tiling performed such that any view normal to a tiling height map may be obtained by viewing an individual height map and the entire surface and interior elements may be viewed by summing together the height maps.
+</P>
+<P>
+38. The method of claim 31 further comprising:
+</P>
+<P>
+tiling all or part of a surface of the object of interest utilizing the height maps, the tiling performed such that any view off normal to a tiling height map may be obtained by interpolating and projecting between adjacent height maps.
+</P>
+<P>
+39. The method of claim 31 further comprising:
+</P>
+<P>
+tiling all or part of a surface of the object of interest utilizing the height maps, the tiling performed such that any filter or other matrix operator that could be used on an individual height map may be used on the surface or portion thereof including an interpolated height map and interior elements.
+</P>
+<P>
+40. The method of claim 31 further comprising:
+</P>
+<P>
+tiling all or part of a surface of the object of interest utilizing the height maps, the tiling performed such that any Fourier transform, power spectrum, roughness measure, wavelet or similar technique for manipulating, filtering and sorting data from the spatial domain to the frequency domain and their inverses that could be used on an individual height map may be used on the surface or portion thereof including an interpolated height map and may be summed together to obtain characteristics of the entire surface of the object of interest including interior elements.
+</P>
+<P>
+41. The method of claim 31 further comprising:
+</P>
+<P>
+tiling all or part of a surface of the object of interest utilizing the height maps, the tiling performed such that any surface measuring, shape embedding, cursor embedding or cross section technique that could be used on an individual height map may be used on the surface or portion thereof including an interpolated height map and summed together to obtain an overall effect across the entire surface.
+</P>
+<P>
+42-48. (canceled)
+</P>
+</Claims>
+<Also_published_as>
+EP2036096A4;US2008135750A1;US7784107B2;WO2008156474A1;WO2008156474A9
+</Also_published_as>
+</BiblioData>

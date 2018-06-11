@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Methods, apparatuses, and reactors for gas separation
+</Title>
+<PublicationNumber>
+EP2154237A2
+</PublicationNumber>
+<Inventor>
+<Name>
+TRACHTENBERG MICHAEL [US]
+</Name>
+<Name>
+TRACHTENBERG, MICHAEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TRACHTENBERG MICHAEL [US]
+</Name>
+<Name>
+TRACHTENBERG, MICHAEL
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2154237
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090176149
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-05-19
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040752683
+</PriorityNumber>
+<PriorityDate>
+2004-05-19
+</PriorityDate>
+<PriorityNumber>
+US20030471624P
+</PriorityNumber>
+<PriorityDate>
+2003-05-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61L9/01
+</Class>
+<Class>
+B01D46/10
+</Class>
+<Class>
+B01D53/22
+</Class>
+<Class>
+B01D61/38
+</Class>
+<Class>
+B01D63/04
+</Class>
+<Class>
+B01D63/10
+</Class>
+<Class>
+C12M3/00
+</Class>
+<Class>
+C12S5/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01D53/22
+</Class>
+<Class>
+B01D53/22W
+</Class>
+<Class>
+B01D61/38
+</Class>
+<Class>
+B01D63/02H
+</Class>
+<Class>
+B01D63/04B
+</Class>
+<Class>
+B01D63/10
+</Class>
+<Class>
+B01D69/08
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+Y02C10/10
+</Class>
+</NCL>
+<Abstract>
+Methods, apparatuses, and reactors to extract and purify gases from a mixed gas stream by way of a phase conversion membrane (2000) that selectively chemical converts, absorbs, adsorbs, or dissolves a desired component gas from the mixed stream into a second phase and then chemically reconverts, desorbs, or releases the desired component gas from the second phase in purified form.
+</Abstract>
+<Claims>
+<P>
+1. A method for isolating a component gas from a mixed gas stream, comprising the steps of:
+</P>
+<P>
+providing a partition membrane feed sheet (30B) and a partition membrane sweep sheet (30A);
+</P>
+<P>
+defining an area by positioning a spacer material between said partition membrane feed sheet (30B) and said partition membrane sweep sheet (30A), wherein said area defined by said spacer material prevents direct contact of the partition membrane feed and sweep sheets (30A and 30B);
+</P>
+<P>
+positioning a phase conversion membrane (2000) within said area defined by said spacer material, wherein said area defined by the spacer material specifies the space for containment of the phase conversion material between said partition membrane feed sheet (30B) and said partition membrane sweep sheet (30A); and
+</P>
+<P>
+contacting the mixed gas stream with the partition membrane feed sheet (30B) for separating said component gas from the mixed gas stream to yield a permeate comprising the component gas.
+</P>
+<P>
+2. A method as claimed in Claim 1 and further comprising the step of converting the permeate into a second phase by one of a chemical conversion, adsorption, and dissolution, using said phase conversion membrane (2000) to effect a second stage purification and isolation of the permeate from the mixed gas stream, wherein the step of converting the permeate into said second phase is catalyzed by using a catalyst.
+</P>
+<P>
+3. A method as claimed in Claim 2 and further comprising the step of releasing the component gas from the second phase by one of: chemical reconversion and desorption, wherein the component gas is purified.
+</P>
+<P>
+4. The method of Claim 3, wherein the partition membrane feed sheet (30B) and partition membrane sweep sheet (30A) comprises one of: a hydrophilic porous material, a hydrophobic porous material, a ceramic porous a sintered metal porous material, carbon nanotubes, porous polypropylene, porous polyperfluroethylene, a porous hydrocarbon polymer, a porous polyamide, or a porous polycarbonate.
+</P>
+<P>
+5. The method of Claim 3, wherein the partition membrane feed sheet (30B) and the partition membrane sweep sheet (30A) comprise a plurality of hollow fibers woven together.
+</P>
+<P>
+6. The method of Claim 5, wherein the hollow fibers have an outer diameter in the range from about 100 microns to about 400 microns.
+</P>
+<P>
+7. The method of Claim 5, wherein the follow fibers have a bore diameter in the range from about 10 microns to about 300 microns.
+</P>
+<P>
+8. The method of Claim 3, wherein said catalyst is located within the phase-conversion membrane (2000), and wherein the catalyst is a phase conversion catalyst, and optionally wherein the phase-conversion catalyst comprises an enzyme, and further optionally wherein the enzyme comprises carbonic anhydrase.
+</P>
+<P>
+9. The method of Claim 3, wherein the phase-conversion membrane (2000) comprises water.
+</P>
+<P>
+10. The method of Claim 3, further comprising contacting the purified component gas with a second partition membrane (30A).
+</P>
+<P>
+11. The method of Claim 10, wherein the partition membrane feed sheet (30B) is stacked on the partition membrane sweep sheet (30A) and a space is defined between the partition membrane feed (30B) and the partition membrane sweep sheet (30A), and optionally wherein the space the phase-conversion membrane (2000).
+</P>
+<P>
+12. The method of Claim 5, wherein the partition membrane feed sheet (30B) comprises a plurality of hollow feed fibers (10B) and the partition membrane sweep sheet (30A) comprises a plurality of hollow sweep fibers (10A), and wherein the hollow feed fibers (10B) are oriented at an angle of about 90 degrees relative to an orientation of the hollow sweep fibers (10A).
+</P>
+<P>
+13. A gas separation apparatus for isolating a component gas from a mixed gas stream, said gas separation apparatus comprising:
+</P>
+<P>
+a case (900), the case (900) comprising:
+</P>
+<P>
+a phase-conversion membrane (955) dispensed via a centrally located, concentric hollow tube and supported on a thin film,
+</P>
+<P>
+two concentric tubes (910) and (920) each with orifices (940) and (960) that reach the surface, and
+</P>
+<P>
+two cylindrically oriented plenums (930) and (970) positioned at the perimeter of the case (900).
+</P>
+<P>
+14. The apparatus of claim 13, wherein the phase-conversion membrane (955) comprises water, or optionally wherein the phase conversion membrane (955) comprises a phase conversion catalyst, and optionally wherein the phase-conversion catalyst comprises an enzyme, and optionally wherein the enzyme comprises carbonic anhydrase.
+</P>
+<P>
+15. The method of any one or more of the preceding claims, wherein said spacer material is one of glue lines and fabric.
+</P>
+</Claims>
+<Also_published_as>
+EP2154237A3;WO2004104160A1;WO2004104160A8;US2007004023A1;ES2337147T3;EP1627041A1;EP1627041A4;EP1627041B1;DK1627041T3;CA2526438A1;BRPI0410478A;AT449159T
+</Also_published_as>
+</BiblioData>

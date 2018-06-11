@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LITHOGRAPHY SYSTEM AND PROJECTION METHOD
+</Title>
+<PublicationNumber>
+EP1994447A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KRUIT PIETER [NL]
+</Name>
+<Name>
+WIELAND MARCO JAN-JACO [NL]
+</Name>
+<Name>
+STEENBRINK STIJN WILLEM KAREL HERMAN [NL]
+</Name>
+<Name>
+JAGER REMCO [NL]
+</Name>
+<Name>
+KRUIT, PIETER
+</Name>
+<Name>
+WIELAND, MARCO, JAN-JACO
+</Name>
+<Name>
+STEENBRINK, STIJN, WILLEM, KAREL, HERMAN
+</Name>
+<Name>
+JAGER, REMCO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MAPPER LITHOGRAPHY IP BV [NL]
+</Name>
+<Name>
+MAPPER LITHOGRAPHY IP B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1994447
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070747250
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007NL00065
+</PriorityNumber>
+<PriorityDate>
+2007-03-09
+</PriorityDate>
+<PriorityNumber>
+US20060781040P
+</PriorityNumber>
+<PriorityDate>
+2006-03-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/20
+</Class>
+<Class>
+H01J37/302
+</Class>
+<Class>
+H01J37/317
+</Class>
+<Class>
+H01L21/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70F14B
+</Class>
+<Class>
+G03F7/70H2
+</Class>
+<Class>
+G03F7/70L2D
+</Class>
+<Class>
+H01J37/302B2
+</Class>
+<Class>
+H01J37/317B
+</Class>
+<Class>
+H01J37/317B4
+</Class>
+</NCL>
+<Abstract>
+The present invention relates a probe forming lithography system for generating an pattern on to a target surface such as a wafer, using a black and white writing strategy, i.e. writing or not writing a grid cell, thereby dividing said pattern over a grid comprising grid cells, said pattern comprising features of a size larger than that of a grid cell, in each of which cells said probe is switched &quot;on&quot; or &quot;off&quot;, wherein a probe on said target covers a significantly larger surface area than a grid cell, and wherein within a feature a position dependent distribution of black and white writings is effected within the range of the probe size as well as to a method upon which such system may be based.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A probe forming lithography system for generating an pattern on to a target surface such as a wafer, using a black and white writing strategy, i.e. writing or not writing a grid cell, thereby dividing said pattern over a grid comprising grid cells, said pattern comprising features of a size larger than that of a grid cell, in each of which cells said probe is switched &quot;on&quot; or &quot;off, wherein a probe on said target covers a significantly larger surface area than a grid cell, and wherein within a feature a position dependent distribution of black and white writings is effected within the range of the probe size. 2. System according to claim 1, wherein such position dependent distribution is performed near an edge of a feature to be written on said target.
+</P>
+<P>
+3. System according to claim 1 wherein such position dependent placement is performed for effecting a sub-pixel placement of a feature edge on said target.
+</P>
+<P>
+4. System according to claim 1, wherein positioning of a feature edge is effected by not writing part or parts of a line of grid cells oriented parallel to said edge, and located at some distance from said edge.
+</P>
+<P>
+5. System according to claim 1, wherein additional pixels are written in at least one line of array of pixels adjacent a feature edge outside of said feature whereby said line of grid cells is oriented in parallel to said edge. 6. System according to the preceding claim, wherein at least one set of a number of cells is additionally written in said line.
+</P>
+<P>
+7. System according to claim 1, wherein an overall dose modulation is effected for said feature, by switching on and off said probe writings in a regular pattern.
+</P>
+<P>
+8. System according to the preceding claim, in which the edges of said feature are shifted, in particular for circumventing proximity effects.
+</P>
+<P>
+9. System according to claim 1, wherein on/off switching of a writing beam is slower than the pixel rate.
+</P>
+<P>
+10. System according to claim 1, in which the effective edge position of a feature is controlled by not writing one or a set of pixels within a range of the probe size from the edge. 11. System according to claim 1 , in which the probe size is of a value within a range from 5 to 20 times the address grid size.
+</P>
+<P>
+12. Method of operating a probe forming lithography system for projecting a pattern on to a target surface such as a wafer, using an &quot;on&quot; and &quot;off writing strategy, i.e. writing or not writing a grid cell, thereby dividing said pattern over a grid comprising grid cells, in each of which cells said probe is switched &quot;on&quot; or &quot;off, wherein a probe on said target is set to cover a significantly larger surface area than a grid cell, and wherein within a feature a position dependent distribution of black and white writings is effected within the range of the probe size.
+</P>
+<P>
+13. Method for operating a lithography system in which a pattern is to be projected on to a target surface such as a wafer, related to the use of a massive multiplicity of writing beams in the form of probe forming beams, generated in a charged particle beams column part of said system, and scanned over said target surface for writing said pattern, the beams being modulated in said column by blanking each writing beam individually within the column or not, writing of said pattern being performed by scanning each individual writing beams in a direction transverse to a mechanical movement of said target relative to said column, in which system pattern features are positioned on said target using a virtual grid divided into cells of a dimension considerably smaller than the probe size, and an edge of a feature being located virtually independent from said grid size by not writing at least one set of grid cells in at least the last scan line for writing said feature, which set is larger than a number of grid cells and smaller than the number of grid cells required for writing the dimension of said probe, in particular for writing the half size thereof.
+</P>
+</Claims>
+<Also_published_as>
+WO2007105939A1;US2008073588A1;US7842936B2;KR20080113400A;JP2009529802A;EP2323158A2;EP2323158A3;CN101427184A
+</Also_published_as>
+</BiblioData>

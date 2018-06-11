@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CONTROL SIGNAL FOR INERTIAL SLIDER
+</Title>
+<PublicationNumber>
+EP1989742A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BENGTSSON PAUL [SE]
+</Name>
+<Name>
+SVENSSON KRISTER [SE]
+</Name>
+<Name>
+OLIN HAAKAN [SE]
+</Name>
+<Name>
+VON DORRIEN MIKAEL [SE]
+</Name>
+<Name>
+BENGTSSON, PAUL
+</Name>
+<Name>
+SVENSSON, KRISTER
+</Name>
+<Name>
+OLIN, HAAKAN
+</Name>
+<Name>
+VON DORRIEN, MIKAEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOFACTORY INSTR AB [SE]
+</Name>
+<Name>
+NANOFACTORY INSTRUMENTS AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1989742
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070709399
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007SE00204
+</PriorityNumber>
+<PriorityDate>
+2007-03-02
+</PriorityDate>
+<PriorityNumber>
+SE20060000455
+</PriorityNumber>
+<PriorityDate>
+2006-03-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B25J7/00
+</Class>
+<Class>
+G01Q10/04
+</Class>
+<Class>
+H01L41/09
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q10/04
+</Class>
+<Class>
+H02N2/02B4
+</Class>
+<Class>
+H02N2/06D2
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to an inertial slider (10) and a method for safely and controllably approach an object (2) towards a fixed object (3) for instance inside a transmission electron microscope (101). The inertial slider is controlled with a control signal (201) with a timing characteristic faster than a mechanical resonance of the object to be moved. The inertial slider moves in a first step away from the fixed object and the movable object is moved relative the inertial slider in that first step.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method of micro positioning an object (2) in relation to an acceleration unit (1) using an inertial sliding principle, comprising the steps of: applying a control signal to said acceleration unit (1) for obtaining a relative movement between said sliding object (2) and said acceleration unit (1); said control signal having a timing characteristic faster than a mechanical resonance frequency of said sliding object (2), said movement of the acceleration unit (1) being generated in an opposite direction of the travel of said sliding object (2) in an initial step of said inertial sliding process and said relative movement being further performed during said initial step.
+</P>
+<P>
+2. The method according to claim 1 , further comprising the step of testing if said sliding object (2) is close to a target object (3).
+</P>
+<P>
+3. The method according to claim 2, wherein said step of testing comprises the steps of:
+</P>
+<P>
+- applying a control signal to said acceleration unit for extending said sliding object (2) towards said target object (3) without any relative movement between said sliding object (2) and said acceleration unit (1);
+</P>
+<P>
+- determining if said sliding object (2) is at a desired position with respect to said target object (3); and
+</P>
+<P>
+- applying a control signal to said acceleration unit (1) for retracting said sliding object (2) away from said target object (3);
+</P>
+<P>
+4. The method according to claim 1, said acceleration unit (1) control signal having maximum voltage amplitude of approximately 15 V.
+</P>
+<P>
+5. A computer program stored in a computer readable medium for controlling a piezoelectric positioning device, comprising instruction sets for applying a control signal for inertial sliding of a sliding object (2) relative an acceleration unit (1) wherein said control signal is faster than a mechanical resonance frequency of said sliding object (2), said movement of the acceleration unit (1) being generated in an opposite direction of the travel of said sliding object (2) in an initial step of said inertial sliding process and said relative movement being further performed during said initial step.
+</P>
+<P>
+6. A signal for controlling an acceleration unit (1) used for moving a sliding object (2) relative said acceleration unit (1) using an inertial sliding principle, characterized in that an initial part (206) of said signal (201) is faster than a mechanical resonance frequency of said sliding object (2); said signal comprise at least two parts: said initial part (206) for moving said sliding object (2) relative said acceleration unit (1) and a subsequent part (207) for moving said sliding object (2) and acceleration unit (1) together relative an environment.
+</P>
+<P>
+7. The signal according to claim 6, wherein time duration of said initial part (206) is of the order at least 10 times shorter than said subsequent part (207).
+</P>
+<P>
+8. The signal according to claim 6 or 7 characterized in that said initial part (206) of said signal (201) is arranged for moving said sliding object (2) relative said acceleration unit (1) in the opposite direction with respect to the intended direction of movement of said sliding object (2) in an initial step of said inertial sliding process and said relative movement being further performed during said initial step.
+</P>
+</Claims>
+<Also_published_as>
+WO2007100296A1;US2010230608A1
+</Also_published_as>
+</BiblioData>

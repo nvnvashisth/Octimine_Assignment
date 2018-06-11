@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+GLASS PHOTONIC CRYSTAL BAND- GAP DEVICES WITH POLARIZING PROPERTIES
+</Title>
+<PublicationNumber>
+EP2044475A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BORRELLI NICHOLAS F [US]
+</Name>
+<Name>
+KOCH KARL W III [US]
+</Name>
+<Name>
+KUCHINSKY SERGEY A [RU]
+</Name>
+<Name>
+MARJANOVIC SASHA [US]
+</Name>
+<Name>
+BORRELLI, NICHOLAS F
+</Name>
+<Name>
+KOCH, KARL W., III
+</Name>
+<Name>
+KUCHINSKY, SERGEY A
+</Name>
+<Name>
+MARJANOVIC, SASHA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CORNING INC [US]
+</Name>
+<Name>
+CORNING INCORPORATED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2044475
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070796688
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US15464
+</PriorityNumber>
+<PriorityDate>
+2007-07-03
+</PriorityDate>
+<PriorityNumber>
+US20060818907P
+</PriorityNumber>
+<PriorityDate>
+2006-07-06
+</PriorityDate>
+<PriorityNumber>
+US20070804503
+</PriorityNumber>
+<PriorityDate>
+2007-05-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B5/30
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+C03B23/037
+</Class>
+<Class>
+C03B23/203
+</Class>
+<Class>
+C03B37/028
+</Class>
+<Class>
+G02B1/00M1
+</Class>
+<Class>
+G02B5/30P
+</Class>
+</NCL>
+<Abstract>
+The invention is directed to polarizing devices that can be scaled to polarize electromagnetic radiation having wavelengths in ultraviolet to microwave range;  and more particularly to devices suitable for use at visible and IR wavelengths. The device has a length, a width and a thickness, and a patterned system of channels, voids or holes embedded in or through a glass matrix and running through the thickness of the glass to thereby polarize incoming electromagnetic radiation having two polarization modes orthogonal to one another, blocking the passage of or reflecting one mode and permitting the other mode to pass through the device. The glass can be any glass suitable for transmitting the electromagnetic radiation in the range it will be used without excessive transmission losses due to absorbance of radiation in that range by moieties present in the glass.;  In one aspect, the device according to the invention may be deemed a &quot;universal&quot; polarizer: in the sense that it can be made to work in wavelength ranges from the microwave to the ultraviolet. The devices can also be made of polymeric materials utilizing the principles enumerated in the specification.
+</Abstract>
+<Claims>
+<P>
+We claim:
+</P>
+<P>
+1. An optical polarizer based on photonic crystal principles, said polarizer having a periodic variation of refractive index n within the structure of the polarizer such that electromagnetic radiation of wavelength [lambda] entering the polarizer is polarized into its two polarization components TM and TE, the TM component being allowed to pass through the polarizer and the TE component being reflected.
+</P>
+<P>
+2. The optical polarizer according to claim 1, wherein the polarizer comprising a dielectric material transparent to the selected wavelength [lambda] and having a selected thickness and a plurality of channels having a length through the dielectric material; wherein said plurality of channels have a pitch [Lambda] and the wavelength [lambda] enters and passes through the polarizer in a direction transverse to the length of the channels; and wherein the thickness is defined by a plurality of rows of channels.
+</P>
+<P>
+3. The polarizer according to claim 2, wherein the dielectric material is selected from the group consisting of glass and polymeric materials that are transparent to the electromagnetic radiation of wavelength [lambda]
+</P>
+<P>
+4. The device according to claim 1 , wherein the thickness of is equal to or greater than 18[Lambda].
+</P>
+<P>
+5. The device according to claim I5 wherein the device has a band gap that is a function of normalized frequency AJX and channel-radius-to-pitch ratio r/[Lambda]; said channels having a pitch in the range of 0.2 - 0.6 [mu]m and a selected channel size.
+</P>
+<P>
+6. The device according to claim 1, wherein the dielectric material is selected from the group consisting of silica glass, fused silica glass, fluorine-doped fuse silica glass, high purity fused silica, ultra-low expansion glass having a CTE of 0 +- 30 ppb/&amp;lt;o&amp;gt;C,&amp;gt; and borosilicate glass.
+</P>
+<P>
+7. The device according to claim 1, wherein said device polarizes electromagnetic radiation having wavelengths in the microwave to ultraviolet range, the exact wavelength at which the device polarizes said radiation being determined by selection of r and [Lambda].
+</P>
+<P>
+8. The device according to claim 1, wherein said device polarizes electromagnetic radiation having wavelengths in the green, blue and red portions of the spectrum, the exact wavelength being polarized being dependent on the selected values of r and [Lambda].
+</P>
+<P>
+9. A visible light polarizer comprising a dielectric material having a selected length and a selected width, each of which is independently chosen in the range of ,0.4 mm to 0.6 mm , a thickness in the range of 18-22[Lambda] and plurality of air-filled&amp;lt;1&amp;gt; channels through the thickness of the glass, wherein said channels have a selected radius and pitch [Lambda] in the range of 0.2-0.6 [mu]m.
+</P>
+<P>
+10. The polarizer according to claim 9, wherein said polarizer polarizes light at blue, red and green wavelengths.
+</P>
+<P>
+11. The polarizer according to claim 9, wherein the dielectric material is selected from the group consisting of silica glass, fused silica glass, fluorine-doped fused silica glass, high purity fused silica, ultra-low expansion glass having a CTE of 0 +- 30 ppb/[deg.]C, and borosilicate glass.
+</P>
+<P>
+12. A method for making a glass polarizer having a photonic structure, said method comprising providing a selected glass composition, and extruding the selected glass into a shape having a selected length and a selected width, and a thickness in the range of 18-22[Lambda], and plurality of air-filled channels through the thickness of the glass, wherein the channels have a selected radius r and pitch [Lambda] in the range of 0.2-0.6 [mu]m.
+</P>
+<P>
+13. The method according to claim 12, wherein the provided glass is selected from the group consisting of silica glass, fused silica glass, fluorine-doped fuse silica glass, high purity fused silica, ultra-low expansion glass having a CTE of 0 +- 30 ppb/[deg.]C, and borosilicate glass.
+</P>
+<P>
+14. A method of making a glass polarizer having a photonic structure, said method comprising: providing a glass plate made of a selected glass; drilling a plurality of channels having a structural symmetry into said plate; stacking a plurality of plates together such that the channels within the plates are aligned, fusing the plates together, and redrawing the stack of plates such that the structural symmetry of the channels are preserved during the redraw process in which the diameter of the channels is narrowed to a selected diameter in the range of 200 to 2200 nm during the redraw process; wherein the diameter of the channels after redraw are in the range of 200 to 2200 nm, and the thickness of the polarizer is in the range of 18-22[Lambda] and the pitch [Lambda] is in the range of 0.2 to 0.6 [mu]m.
+</P>
+<P>
+15. The method according to claim 14, wherein the provided glass is selected from the group consisting of silica glass, fused silica glass, fluorine-doped fuse silica glass, high purity fused silica, ultra-low expansion glass having a CTE of 0 +- 30 ppb/[deg.]C, and borosilicate glass.
+</P>
+<P>
+16. A method of making a glass polarizer having a photonic structure, said method comprising: providing a stack of plurality of hollow fibers or capillaries each&amp;lt;1&amp;gt; having an channel of a selected diameter therethrough, redrawing the stack of hollow filers or capillaries such that during the redraw process the fibers or capillaries are fused together and structural symmetry of the channels within the stack of fibers or capillaries is preserved during the redraw process in which the diameter of the channels is narrowed to a selected diameter in the range of 200 to 2200 nm during the redraw process; wherein the diameter of the channels after redraw are in the range of 200 to 2200 nm, and the thickness of the polarizer is in the range of 18-22[Lambda] and the pitch [Lambda] is in the range of 0.2 to 0.6 [mu]m.
+</P>
+<P>
+17. The method according to claim 16, wherein the provided glass is selected from the group consisting of silica glass, fused silica glass, fluorine-doped fuse silica glass, high purity fused silica, ultra-low expansion glass having a CTE of 0 +- 30 ppb/[deg.]C, and borosilicate glass.
+</P>
+</Claims>
+<Also_published_as>
+EP2044475A4;WO2008005488A2;WO2008005488A3;WO2008005488B1;US2008007830A1;TW200819800A;KR20090037919A;JP2009543129A
+</Also_published_as>
+</BiblioData>

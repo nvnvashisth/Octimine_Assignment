@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Magnetic head
+</Title>
+<PublicationNumber>
+EP1933307A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HO KUOK SAN [US]
+</Name>
+<Name>
+LEE EDWARD HIN PONG [US]
+</Name>
+<Name>
+SEAGLE DAVID JOHN [US]
+</Name>
+<Name>
+TSANG CHING HWA [US]
+</Name>
+<Name>
+HO, KUOK SAN
+</Name>
+<Name>
+LEE, EDWARD HIN PONG
+</Name>
+<Name>
+SEAGLE, DAVID JOHN
+</Name>
+<Name>
+TSANG, CHING HWA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HITACHI GLOBAL STORAGE TECH [NL]
+</Name>
+<Name>
+HITACHI GLOBAL STORAGE TECHNOLOGIES B. V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1933307
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070013734
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20060638974
+</PriorityNumber>
+<PriorityDate>
+2006-12-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B5/39
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G11B5/39C1E
+</Class>
+<Class>
+G11B5/39C1H
+</Class>
+<Class>
+G11B5/39C5
+</Class>
+</NCL>
+<Abstract>
+An improved magnetic head for a hard disk drive including a lead overlaid read head in which the read width and read gap are reduced. The read width, which corresponds to the distance between the inner ends of the overlaid electrical leads, is reduced by the fabrication of a thin read width insulation member prior to the fabrication of the overlaid electrical leads. The read gap is reduced by fabricating the overlaid electrical leads from a magnetic, electrically conductive material such as NiFe, whereby the overlaid electrical leads also function as a magnetic shield. The read gap, which is the distance between the first and second magnetic shields is thus reduced as compared to the prior art by the thickness of the electrical leads and the thickness of the prior art second insulation layer formed between the electrical leads and the second magnetic shield.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic head, comprising:
+</P>
+<P>
+a first magnetic shield;
+</P>
+<P>
+a first insulation layer being disposed upon said first magnetic shield;
+</P>
+<P>
+a plurality of sensor layers being disposed upon said first insulation layer;
+</P>
+<P>
+a read width insulation member being disposed upon said sensor layers;
+</P>
+<P>
+two electrical leads being disposed upon said sensor layers, wherein one said electrical lead is disposed on a first side of said read width insulation member and a second said electrical lead is disposed on another side of said read width insulation member;
+</P>
+<P>
+a second insulation layer being disposed upon said electrical leads and upon said read width insulation member.
+</P>
+<P>
+2. A magnetic head as described in claim 1 wherein said read width insulation member is formed with a width of from approximately 1 nm to approximately 40 nm.
+</P>
+<P>
+3. A magnetic head as described in claim 1 wherein said electrical leads are comprised of a magnetic material, preferably NiFe.
+</P>
+<P>
+4. A magnetic head as described in claim 1, wherein said electrical lead includes an inner portion that is comprised of a magnetic material and an outer portion that is comprised of a non-magnetic material.
+</P>
+<P>
+5. A magnetic head as described in claim 3 including a further magnetic shield that is disposed upon said second insulation layer.
+</P>
+<P>
+6. A magnetic head comprising:
+</P>
+<P>
+a first magnetic shield;
+</P>
+<P>
+a first insulation layer being disposed upon said first magnetic shield;
+</P>
+<P>
+a plurality of sensor layers being disposed upon said first insulation layer;
+</P>
+<P>
+a second magnetic shield being disposed upon said sensor layers.
+</P>
+<P>
+7. A magnetic head as described in claim 6 wherein said second magnetic shield is electrically connected to an electrical sensor circuit of said magnetic head.
+</P>
+<P>
+8. A magnetic head as described in claim 6 wherein said second magnetic shield is comprised of two electrically conductive members and a read width insulation member is disposed upon said sensor layers and between said two electrically conductive members.
+</P>
+<P>
+9. A magnetic head as described in claim 8 wherein a second insulation layer is disposed upon said two electrically conductive members and upon said read width insulation member.
+</P>
+<P>
+10. A magnetic head as described in claim 9 wherein a further magnetic shield is disposed upon said sensor insulation layer.
+</P>
+<P>
+11. A hard disk drive including a magnetic head, comprising a magnetic head according to any of the preceding claims.
+</P>
+<P>
+12. A method for fabricating a magnetic head, comprising:
+</P>
+<P>
+fabricating a first magnetic shield upon a wafer substrate;
+</P>
+<P>
+fabricating a first insulation layer upon said first magnetic shield;
+</P>
+<P>
+fabricating a plurality of sensor layers upon said first insulation layer;
+</P>
+<P>
+fabricating a read width insulation member upon said sensor layers;
+</P>
+<P>
+depositing electrical lead material upon said sensor layers and upon said read width insulation member;
+</P>
+<P>
+removing portions of said electrical lead material such that an upper surface of said read width insulation member is exposed;
+</P>
+<P>
+depositing a second insulation layer upon said electrical leads and upon said upper surface of said read width insulation member.
+</P>
+<P>
+13. A method for fabricating a magnetic head as described in claim 12, wherein said electrical leads are comprised of a magnetic material.
+</P>
+<P>
+14. A method for fabricating a magnetic head as described in claim 13, wherein a further magnetic shield is fabricated upon said second insulation layer.
+</P>
+<P>
+15. A method for fabricating a magnetic head as described in claim 12, wherein said electrical leads are fabricated by fabricating a inner portion of said electrical leads from a magnetic material and fabricating outer portions of said electrical leads from a non-magnetic material
+</P>
+</Claims>
+<Also_published_as>
+EP1933307A3;US2010214699A1;US2008144229A1;US7768748B2;JP2008152906A;CN101246691A
+</Also_published_as>
+</BiblioData>

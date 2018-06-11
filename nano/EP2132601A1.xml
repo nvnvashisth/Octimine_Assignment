@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ILLUMINATION SYSTEM FOR ILLUMINATING A PATTERNING DEVICE AND METHOD FOR MANUFACTURING AN ILLUMINATION SYSTEM
+</Title>
+<PublicationNumber>
+EP2132601A1
+</PublicationNumber>
+<Inventor>
+<Name>
+VAN SCHOOT JAN BERNARD PLECHELMUS [NL]
+</Name>
+<Name>
+MEIJER HENDRICUS JOHANNES MARIA [NL]
+</Name>
+<Name>
+VAN SCHOOT, JAN, BERNARD, PLECHELMUS
+</Name>
+<Name>
+MEIJER, HENDRICUS, JOHANNES, MARIA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASML NETHERLANDS BV [NL]
+</Name>
+<Name>
+ASML NETHERLANDS B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2132601
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080723935
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008NL50184
+</PriorityNumber>
+<PriorityDate>
+2008-04-03
+</PriorityDate>
+<PriorityNumber>
+US20070730751
+</PriorityNumber>
+<PriorityDate>
+2007-04-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70B6
+</Class>
+<Class>
+G03F7/70D16F
+</Class>
+<Class>
+G03F7/70D20
+</Class>
+<Class>
+G03F7/70P2
+</Class>
+<Class>
+G03F7/70P2F
+</Class>
+</NCL>
+<Abstract>
+An illumination system (IL) includes a housing (2), and an optical system located within the housing (2). The optical system includes at least one optical element (4, 6). The optical system is constructed and arranged to illuminate a patterning device (MA) with a radiation beam (B) diverging from an intermediate focus (IF). The intermediate focus (IF) is located at a position substantially at the same level or below a bottom portion (10) of the illumination system (IL).
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. An illumination system comprising: a housing; and an optical system located within the housing, the optical system comprising at least one optical element, the optical system being constructed and arranged to illuminate a patterning device with a radiation beam diverging from an intermediate focus, the intermediate focus being located at a position substantially at the same level or below a bottom portion of the illumination system.
+</P>
+<P>
+2. An illumination system according to claim 1, wherein the optical system is arranged to image the intermediate focus on the patterning device.
+</P>
+<P>
+3. An illumination system according to claim 1, wherein the bottom portion of the illumination system is provided with one or more support structures for supporting the housing.
+</P>
+<P>
+4. An illumination system according to claim 3, wherein the intermediate focus is located substantially at the same level as at least one of the support structures.
+</P>
+<P>
+5. An illumination system according to claim 3, wherein at least one of the support structures has an adjustable height to adjust the position at which the intermediate focus is located with respect to the bottom portion of the illumination system.
+</P>
+<P>
+6. An illumination system according to claim 1, wherein the intermediate focus is located at a position between about 0.10 meter and about 2.00 meters below the bottom portion of the illumination system.
+</P>
+<P>
+7. An illumination system according to claim 6, wherein the intermediate focus is located at a position between about 0.20 meter and 1.50 meters below the bottom portion of the illumination system.
+</P>
+<P>
+8. An illumination system according to claim 6, wherein the intermediate focus is located at a position of about 0.10 meter below the bottom portion of the illumination system.
+</P>
+<P>
+9. An illumination system according to claim 1, further comprising a mirror on which a radiation beam that is emanated from the intermediate focus is directly incident.
+</P>
+<P>
+10. An illumination system according to claim 9, further comprising a further mirror constructed and arranged to focus the radiation beam on the patterning device, wherein the mirror is arranged to reflect the radiation beam directly to the further mirror.
+</P>
+<P>
+11. An illumination system according to claim 1 , further comprising a mirror constructed and arranged to focus the radiation beam on the patterning device.
+</P>
+<P>
+12. An illumination system according to claim 1 , wherein the intermediate focus has a position located outside the housing.
+</P>
+<P>
+13. An assembly comprising: an illumination system comprising a housing, and an optical system located within the housing, the optical system comprising at least one optical element, the optical system being constructed and arranged to illuminate a patterning device with a radiation beam diverging from an intermediate focus, the intermediate focus being located at a position substantially at the same level or below a bottom portion of the illumination system; and a source-collector module comprising a radiation source and a collector for imaging the radiation source in the intermediate focus.
+</P>
+<P>
+14. An assembly according to claim 13, wherein the radiation source is located at a position below the bottom portion of the illumination system.
+</P>
+<P>
+15. An assembly according to claim 13, wherein the source-collector module is located at a position below the bottom portion of the illumination system.
+</P>
+<P>
+16. A lithographic apparatus comprising: an illumination system comprising a housing, and an optical system located within the housing, the optical system comprising at least one optical element, the optical system being constructed and arranged to illuminate a patterning device with a radiation beam diverging from an intermediate focus, the intermediate focus being located at a position substantially at the same level or below a bottom portion of the illumination system; a source-collector module comprising a radiation source and a collector for imaging the radiation source in the intermediate focus; a support constructed to support the patterning device, the patterning device being constructed and arranged to impart the radiation beam with a pattern in its cross-section to form a patterned radiation beam; a substrate table constructed to hold a substrate; and a projection system configured to project the patterned radiation beam onto a target portion of the substrate.
+</P>
+<P>
+17. An lithographic apparatus comprising: an illumination system which comprises a housing; and an optical system located within the housing, the optical system comprising at least one optical element, the optical system being constructed and arranged to illuminate a patterning device with a radiation beam diverging from an intermediate focus, a source-collector module comprising a radiation source and a collector for imaging the radiation source in the intermediate focus; a support constructed to support the patterning device, the patterning device being constructed and arranged to impart the radiation beam with a pattern in its cross-section to form a patterned radiation beam; a substrate table constructed to hold a substrate; and a projection system configured to project the patterned radiation beam onto an image plane of the projection system, the image plane being located at a target portion of the substrate, wherein the intermediation focus is located at a position substantially at the same level as or below the image plane.
+</P>
+<P>
+18. A lithographic apparatus according to claim 16 or 17, wherein the optical system is arranged to image the intermediate focus on the patterning device.
+</P>
+<P>
+19. A method for manufacturing an illumination system, the method comprising: providing a housing with an optical system comprising at least one optical element for imaging an intermediate focus on a patterning device; and arranging the optical system to illuminate the patterning device using a radiation beam diverging from the intermediate focus, the intermediate focus being located at a position substantially at the same level or below a bottom portion of the illumination system.
+</P>
+<P>
+20. A method for manufacturing an illumination system, the method comprising: providing a housing with an optical system comprising at least one optical element for imaging an intermediate focus on a patterning device; and arranging the optical system to illuminate the patterning device using a radiation beam diverging from the intermediate focus, imaging a pattern imparted by the patterning device to an image plane, wherein the intermediate focus is image plane is located at a position substantially at the same level as or below the image plane.
+</P>
+<P>
+21. A method according to claim 19 or 20, wherein the optical system is arranged to image the intermediate focus on the patterning device.
+</P>
+<P>
+22. A method according to claim 19 or 20, wherein the location of the intermediate focus is determined to be in an opening in a floor on which the assembly is to be operational.
+</P>
+<P>
+23. A method according to claim 22, wherein the location of the intermediate focus is approximately halfway through the floor.
+</P>
+<P>
+24. A method according to claim 19 or 20, wherein the intermediate focus is determined to be at a position between about 0.10 meter and about 2.00 meters below the bottom portion of the illumination system.
+</P>
+<P>
+25. A method according to claim 24, wherein the intermediate focus is located at a position between about 0.50 meter and about 1.50 meters below the bottom portion of the illumination system.
+</P>
+<P>
+26. A method according to claim 21, wherein the intermediate focus is determined to be located at a position of about 0.10 meter below the bottom portion of the illumination system.
+</P>
+<P>
+27. A method according to claim 19 or 20, further comprising providing a source-collector module comprising a radiation source and a collector, the source-collector module being arranged to image the radiation source in the intermediate focus.
+</P>
+<P>
+28. A method according to claim 27, further comprising placing the radiation source at a position below the bottom portion of the illumination system.
+</P>
+<P>
+29. A method according to claim 19 or 20, wherein the intermediate focus is determined to be located outside the housing.
+</P>
+</Claims>
+<Also_published_as>
+WO2008120989A1;US2008246940A1;US7889321B2;TW200846844A;KR20100009563A;JP2010524231A;CN101681115A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A method of altering the sensitivity and/or selectivity of a chemiresistor sensor array
+</Title>
+<PublicationNumber>
+EP1975605A1
+</PublicationNumber>
+<Inventor>
+<Name>
+JOSEPH YVONNE [DE]
+</Name>
+<Name>
+VOSSMEYER TOBIAS [DE]
+</Name>
+<Name>
+YASUDA AKIO [DE]
+</Name>
+<Name>
+JOSEPH, YVONNE
+</Name>
+<Name>
+VOSSMEYER, TOBIAS
+</Name>
+<Name>
+YASUDA, AKIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SONY DEUTSCHLAND GMBH [DE]
+</Name>
+<Name>
+SONY DEUTSCHLAND GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1975605
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070006695
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070006695
+</PriorityNumber>
+<PriorityDate>
+2007-03-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N27/12
+</Class>
+<Class>
+G01N33/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N27/12E
+</Class>
+</NCL>
+<Abstract>
+Method of altering the sensitivity and/or selectivity of a chemiresistor sensor, to a sensor and a sensor array produced by such method.
+</Abstract>
+<Claims>
+<P>
+1. A method of altering the sensitivity and/or selectivity of a chemiresistor sensor, said chemiresistor sensor comprising a sensitive layer having a plurality of electrically conducting or semiconducting particles embedded in an electrically non-conducting matrix, said sensitive layer comprising a plurality of oxidizable chemical functional groups, said method comprising the step:
+</P>
+<P>
+subjecting said sensitive layer to an oxidation reaction.
+</P>
+<P>
+2. The method according to claim 1, characterized in that said oxidation reaction is a controlled oxidation reaction and is not an undefined exposing said sensor to air.
+</P>
+<P>
+3. The method according to any of the foregoing claims, characterized in that said oxidation reaction is a reaction with a gas phase and/or a reaction with a liquid phase.
+</P>
+<P>
+4. The method according to any of the foregoing claims, characterized in that said reaction involves anyone or several of the following gas phase reactions:
+</P>
+<P>
+- exposing said sensitive layer to air for a defined period of time, at a defined temperature of the air, wherein preferably said defined period of time is in the range of from 1 min to 300 min, and said defined temperature of the air is in the range of from 0 deg. C to 500 deg. C,
+</P>
+<P>
+- exposing said sensitive layer to ozone,
+</P>
+<P>
+- exposing said sensitive layer to an oxygen plasma,
+</P>
+<P>
+- exposing said sensitive layer to SO3,
+</P>
+<P>
+- exposing said sensitive layer to nitric oxides.
+</P>
+<P>
+5. The method according to any of claims 3-4, characterized in that said oxidation reaction involves anyone or several of the following liquid phase reactions:
+</P>
+<P>
+- exposing said sensitive layer to an aqueous solution of hydrogen peroxide
+</P>
+<P>
+- exposing said sensitive layer to an aqueous solution of KMnO4.
+</P>
+<P>
+6. The method according to any of claims 4-5, characterized in that said exposing occurs under irradiation of said sensitive layer using electromagnetic radiation of wavelength in the range of from 180 - 1200 nm.
+</P>
+<P>
+7. The method according to claim 4, characterized in that said exposing to ozone, oxygen plasma, SO3, nitric oxides occurs for a period of time in the range of from 1 s to 600 s.
+</P>
+<P>
+8. The method according to any of the foregoing claims, characterized in that, within said sensitive layer, said oxidizable chemical functional groups are oxidized by said oxidation reaction.
+</P>
+<P>
+9. The method according to claim 8, characterized in that only a proportion of said plurality of oxidizable chemical functional groups are oxidized by said oxidation reaction, wherein, preferably said proportion is 20 %, more preferably 40%, more preferably 60 % and most preferably 80 %.
+</P>
+<P>
+10. The method according to any of the foregoing claims, characterized in that said electrically conducting or semiconducting particles are particles having an average diameter &amp;lt; 1 m, preferably &amp;lt; 500 nm, more preferably &amp;lt; 300 nm, and most preferably &amp;lt; 100 nm.
+</P>
+<P>
+11. The method according to claim 10, characterized in that said particles are metal particles or semiconductor particles.
+</P>
+<P>
+12. The method according to claim 11, characterized in that said particles are selected from the group comprising metal particles, i.e. noble metal particles such as Au, Pt, Ag, Pd, coinage metal particles such as Cu, Ni, Fe, combinations of these metals in single nanoparticles, e.g. an alloy or core/shell metal nanoparticles; semiconductive nanoparticles, e.g.. II/VI semiconductors such as CdS, CdSe, CdTe, ZnS, ZnSe, ZnTe, HgS, HgSe, HgTe, or III/V semiconductors such as GaAs, InP; conducting or semiconducting nanoparticles from organic materials, such as conductive polymers; conductive particles, such as carbon black particles or metal-decorated carbon black particles, e.g. Pt/carbon black or PtRu/carbon black nanoparticles.
+</P>
+<P>
+13. The method according to any of the foregoing claims, characterized in that said electrically non-conducting matrix is a network of bi- or polyfunctional linker molecules and said particles are interlinked with said linker molecules, or said electrically non-conducting matrix is a network of mono-, bi- or polyfunctional ligand molecules and said particles are capped by said ligand molecules.
+</P>
+<P>
+14. The method according to any of claims 1-12, characterized in that said electrically non-conducting matrix is made of at least one polymer.
+</P>
+<P>
+15. The method according to claim 14, characterized in that said polymer is selected from the group comprising poly(amide), poly(amido amine), poly(propylene imine), poly(phenylene), poly(ethylene oxide), poly(ethylene imine), hyperbranched poly(ethylene imine) poly(N-isopropyl acrylamide), poly(ethylene glycol), poly(vinyl pyrrolidone), poly(styrene), poly(vinyl alcohol), poly(4-vinyl phenol), poly(epichchlorohydrin), poly(isobutylene), poly(vinyl acetate), poly(methyl methacrylate), poly(caprolactone) fluoropolyols, polysiloxanes, polyaniline, polythiophene, polypyrrol, or copolymers like poly(ethylene oxide)-co-poly(amido amine), poly (ethylene-co-vinyl acetate), poly(styrene-co-allyl alcohol), poly(vinyl chloride-co-vinyl acetate), poly(styrene-co-maleic anhydride), poly(vinyl methyl ester-co-maleic anhydride) and combinations thereof.
+</P>
+<P>
+16. The method according to any of the foregoing claims, characterized in that said method is applied to a chemiresistor sensor array of a plurality of chemiresistor sensors as defined in any of claims 1-15, each sensor having a sensitive layer as defined in any of claims 1-15, wherein said sensitive layers of different sensors are subjected to an oxidation reaction to varying degrees.
+</P>
+<P>
+17. The method according to claim 16, characterized in that some sensitive layers are protected from said oxidation reaction and do not become subjected to said oxidation reaction.
+</P>
+<P>
+18. The method according to claim 17, characterized in that some sensitive layers are protected by anyone or any combination of the following:
+</P>
+<P>
+- using a mask to cover the sensitive layer,
+</P>
+<P>
+- not exposing the sensitive layer to oxidizing conditions, e.g. by not immersing said sensitive layer into an oxidizing solution, not exposing said sensitive layer to an oxidizing gas.
+</P>
+<P>
+19. The method according to any of claims 16-18, characterized in that within said chemiresistor sensor array, different sensitive layers become oxidized to varying degrees such that different sensitive layers have different proportions of oxidizable chemical functional groups oxidized, as a result of the oxidation reaction.
+</P>
+<P>
+20. The method according to claim 19, characterized in that within said chemiresistor sensor array, some sensitive layers have 0 % oxidizable groups oxidized, some sensitive layers have 20 % oxidizable groups oxidized, some sensitive layers have 40 % oxidizable groups oxidized, some sensitive layers have 60 % oxidizable groups oxidized, some sensitive layers have 80 % oxidizable groups oxidized, and some sensitive layers have all of their oxidizable groups oxidized.
+</P>
+<P>
+21. A chemiresistor sensor produced by the method according to any of claims 1-15.
+</P>
+<P>
+22. A chemiresistor sensor array produced by the method according to any of claims 1-15 or by the method according to any of claims 16-20.
+</P>
+</Claims>
+<Also_published_as>
+EP1975605B1;US2008245675A1;JP2008256690A;CN101368924A
+</Also_published_as>
+</BiblioData>

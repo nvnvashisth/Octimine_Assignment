@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FUNCTIONALIZATION OF NANOSCALE ARTICLES INCLUDING NANOTUBES AND FULLERENES
+</Title>
+<PublicationNumber>
+EP2132136A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SWAGER TIMOTHY M [US]
+</Name>
+<Name>
+ZHANG WEI [US]
+</Name>
+<Name>
+SWAGER, TIMOTHY, M
+</Name>
+<Name>
+ZHANG, WEI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MASSACHUSETTS INST TECHNOLOGY [US]
+</Name>
+<Name>
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2132136
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080794321
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US03180
+</PriorityNumber>
+<PriorityDate>
+2008-03-07
+</PriorityDate>
+<PriorityNumber>
+US20070905495P
+</PriorityNumber>
+<PriorityDate>
+2007-03-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J31/02
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+C01B5/00
+</Class>
+<Class>
+H01M4/90
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J31/02E2S
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B13/02B2
+</Class>
+<Class>
+C01B3/04B
+</Class>
+<Class>
+C01B31/02B2
+</Class>
+<Class>
+C01B31/02B4D6
+</Class>
+<Class>
+C01B5/00
+</Class>
+<Class>
+C07C1/26
+</Class>
+<Class>
+C07C17/10
+</Class>
+<Class>
+C07C67/31
+</Class>
+<Class>
+C07C69/757
+</Class>
+<Class>
+C07D213/20
+</Class>
+<Class>
+C07H21/04
+</Class>
+<Class>
+C08K5/10
+</Class>
+<Class>
+C08K5/3437
+</Class>
+<Class>
+C25B11/00
+</Class>
+<Class>
+H01M4/90
+</Class>
+<Class>
+Y02E60/36D
+</Class>
+<Class>
+Y02E60/50
+</Class>
+</NCL>
+<Abstract>
+The present invention generally provides compositions including carbon-containing molecules, and related methods. In some cases, the present invention relates to aromatic molecules comprising functional groups bonded to the aromatic portion of the molecule, including nonplanar portions of the molecules. Methods of the invention may provide the ability to introduce a wide range of functional groups to carbon-containing molecules. In some cases, methods of the invention may be performed using relatively mild reaction conditions, such as relatively low temperature, low pressure, and/or in the absence of strong acids or strong bases. The present invention may provide a facile and modular approach to synthesizing molecules that may be useful in various applications including photovoltaic devices, sensors, and electrodes (e.g., for electrocatalysis).
+</Abstract>
+<Claims>
+<P>
+What is claimed:
+</P>
+<P>
+1. A composition, comprising:
+</P>
+<P>
+a compound having the formula,
+</P>
+<P>
+EMI14.0
+</P>
+<P>
+wherein:
+</P>
+<P>
+A is a carbon-containing molecule comprising a nonplanar aromatic portion;
+</P>
+<P>
+R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , and R&amp;lt;3 &amp;gt; can be the same or different and are -O, hydroxy, halide, alkyl, heteroalkyl, alkenyl, heteroalkenyl, alkynyl, heteroalkynyl, aryl, or heteroaryl, optionally substituted; and
+</P>
+<P>
+- is a single bond or double bond.
+</P>
+<P>
+2. A composition, comprising:
+</P>
+<P>
+a compound having the formula,
+</P>
+<P>
+EMI15.0
+</P>
+<P>
+wherein:
+</P>
+<P>
+A is a carbon-containing molecule comprising a nonplanar aromatic portion;
+</P>
+<P>
+R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , and R&amp;lt;3 &amp;gt; can be the same or different and each is an atom or a chemical group, wherein at least one of R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , and R&amp;lt;3 &amp;gt; can be replaced with a second atom or chemical group or can participate in linkage to a second atom or chemical group under conditions unreactive to the remainder of the compound other than R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , or R&amp;lt;3&amp;gt; ; and
+</P>
+<P>
+- is a single bond or double bond.
+</P>
+<P>
+3. A composition as in claim 1, comprising the structure,
+</P>
+<P>
+EMI16.0
+</P>
+<P>
+wherein &quot;-&quot; comprises the nonplanar aromatic portion.
+</P>
+<P>
+4. A composition as in claim 1, wherein the nonplanar aromatic portion comprises a fused network of aromatic rings, optionally comprising a border at which the fused network terminates, wherein the structure,
+</P>
+<P>
+EMI17.0
+</P>
+<P>
+is fused to the network via two atoms, wherein the two atoms are ring atoms of at least two aromatic rings of the fused network.
+</P>
+<P>
+5. A composition as in claim 1, wherein the nonplanar aromatic portion comprises carbon atoms having a hybridization of sp&amp;lt;2.x&amp;gt; , wherein x is between 1 and 9.
+</P>
+<P>
+6. A composition as in claim 1, wherein R&amp;lt;1 &amp;gt; has the structure,
+</P>
+<P>
+EMI18.0
+</P>
+<P>
+wherein:
+</P>
+<P>
+X is H, OH, halide, alkyl, heteroalkyl, alkenyl, heteroalkenyl, alkynyl, heteroalkynyl, aryl, heteroaryl, or salt thereof, optionally substituted;
+</P>
+<P>
+R&amp;lt;2 &amp;gt; is a leaving group; and R&amp;lt;3 &amp;gt; is -O, -S, or -NR&amp;lt;4&amp;gt; .
+</P>
+<P>
+7. A composition as in claim 6, wherein the leaving group is an aryloxy group substituted with an electron-withdrawing group.
+</P>
+<P>
+8. A composition as in claim 6, wherein the leaving group has the structure,
+</P>
+<P>
+EMI19.0
+</P>
+<P>
+9. A composition as in claim 3, comprising a compound having the structure,
+</P>
+<P>
+EMI20.0
+</P>
+<P>
+wherein R&amp;lt;1 &amp;gt; is an ester and R&amp;lt;2 &amp;gt; is a leaving group.
+</P>
+<P>
+10. A composition as in claim 9, wherein R&amp;lt;1 &amp;gt; is an acid chloride, carboxylic acid or salt thereof, ester, amide, or substituted derivative thereof.
+</P>
+<P>
+11. A composition as in claim 1, wherein the compound has the structure,
+</P>
+<P>
+EMI21.0
+</P>
+<P>
+12. A composition as in claim 1, wherein the compound has the structure,
+</P>
+<P>
+EMI22.0
+</P>
+<P>
+wherein R&amp;lt;5 &amp;gt; is alkyl, heteroalkyl, alkenyl, heteroalkenyl, alkynyl, heteroalkynyl, aryl, heteroaryl, or a salt thereof, optionally substituted.
+</P>
+<P>
+13. A composition as in claim 1, wherein R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , or R&amp;lt;3 &amp;gt; comprises a crosslinking group.
+</P>
+<P>
+14. A composition as in claim 13, wherein the crosslinking group is an acid chloride, alkene, alkyne, or halide.
+</P>
+<P>
+15. A composition as in claim 1, further comprising at least one polymer combined with the compound.
+</P>
+<P>
+16. A composition as in claim 15, wherein the polymer is a polyamide, polyester, polyolefin, polycarbonate, polyurea, polyurethane, and polyarylether.
+</P>
+<P>
+17. A composition as in claim 1, wherein the carbon-containing molecule is a fullerene.
+</P>
+<P>
+18. A composition as in claim 1, wherein the carbon-containing molecule is a carbon nanotube.
+</P>
+<P>
+19. A composition as in claim 1, wherein the carbon-containing molecule is a single-walled carbon nanotube.
+</P>
+<P>
+20. A composition as in claim 1, wherein the carbon-containing molecule is a multi-walled carbon nanotube.
+</P>
+<P>
+21. A composition as in claim 1, wherein any two of R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , and R&amp;lt;3 &amp;gt; are joined to form a ring.
+</P>
+<P>
+22. A composition as in claim 21, wherein R&amp;lt;1 &amp;gt; and R&amp;lt;3 &amp;gt; are joined to form a ring comprising at least six ring atoms.
+</P>
+<P>
+23. A sensor comprising a composition as in claim 1.
+</P>
+<P>
+24. A photovoltaic device comprising a composition as in claim 1.
+</P>
+<P>
+25. An electrode comprising a composition as in claim 1.
+</P>
+<P>
+26. A reinforcing element for a polymer article comprising a composition as in claim 1.
+</P>
+<P>
+27. A cosmetic comprising a composition as in claim 1.
+</P>
+<P>
+28. A biological imaging agent comprising a composition as in claim 1.
+</P>
+<P>
+29. A medical diagnostic agent comprising a composition as in claim 1.
+</P>
+<P>
+30. A transistor comprising a composition as in claim 1.
+</P>
+<P>
+31. A solution comprising a composition as in claim 1.
+</P>
+<P>
+32. A dispersion comprising a composition as in claim 1.
+</P>
+<P>
+33. A ionic assembly comprising a composition as in claim 1.
+</P>
+<P>
+34. A polymer mechanical actuator comprising a composition as in claim 1.
+</P>
+<P>
+35. A composition as in claim 1, wherein the compound comprises DNA.
+</P>
+<P>
+36. A composition as in claim 1, wherein the compound comprises RNA.
+</P>
+<P>
+37. A composition as in claim 1, wherein the compound comprises PNA.
+</P>
+<P>
+38. A composition as in claim 1, wherein the compound comprises protein.
+</P>
+<P>
+39. A composition, comprising:
+</P>
+<P>
+a fused network of aromatic rings, optionally comprising a border at which the fused network terminates, and a functional group comprising a five-membered carbon ring fused to the network via two atoms, wherein the two atoms are ring atoms of at least two aromatic rings of the network.
+</P>
+<P>
+40. A composition as in claim 39, wherein the carbon-containing molecule is a fullerene.
+</P>
+<P>
+41. A composition as in claim 39, wherein the carbon-containing molecule is a carbon nanotube.
+</P>
+<P>
+42. A composition as in claim 39, wherein the carbon-containing molecule is a single-walled carbon nanotube.
+</P>
+<P>
+43. A composition as in claim 39, wherein the carbon-containing molecule is a multi-walled carbon nanotube.
+</P>
+<P>
+44. A composition as in claim 39, comprising a compound having the formula,
+</P>
+<P>
+EMI23.0
+</P>
+<P>
+wherein:
+</P>
+<P>
+A is a carbon-containing molecule comprising a nonplanar aromatic portion;
+</P>
+<P>
+R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , and R&amp;lt;3 &amp;gt; can be the same or different and each is an atom or a chemical group, wherein at least one of R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , and R&amp;lt;3 &amp;gt; can be replaced with a second atom or chemical group or can participate in linkage to a second atom or chemical group under conditions unreactive to the remainder of the compound other than R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , or R&amp;lt;3&amp;gt; ; and
+</P>
+<P>
+- is a single bond or double bond.
+</P>
+<P>
+45. A method for synthesizing a substituted carbon-containing molecule, comprising:
+</P>
+<P>
+reacting an alkyne, a carbon-containing molecule comprising a nonplanar aromatic portion, and a nucleophile to form a substituted carbon-containing molecule, wherein the nucleophile has a conjugate acid having a pKa more positive than 5.0.
+</P>
+<P>
+46. A method as in claim 45, comprising:
+</P>
+<P>
+further reacting the substituted carbon-containing molecule with a functional group precursor to form a bond between the functional group and the carbon-containing molecule.
+</P>
+<P>
+47. A method as in claim 45, wherein the nonplanar aromatic portion comprises a fused network of aromatic rings, optionally comprising a border at which the fused network terminates, and a functional group comprising a ring fused to the network via two atoms, wherein the two atoms are ring atoms of at least two aromatic rings of the network.
+</P>
+<P>
+48. A method as in claim 45, wherein the alkyne comprises an electron-withdrawing group.
+</P>
+<P>
+49. A method as in claim 48, wherein the electron-withdrawing group comprises a carbonyl, sulfonyl, phosphonyl, cyano, or nitro group.
+</P>
+<P>
+50. A method as in claim 45, wherein the nucleophile has a conjugate acid having a pKa more positive than 10.0.
+</P>
+<P>
+51. A method as in claim 45, wherein the nucleophile has a conjugate acid having a pKa more positive than 15.0.
+</P>
+<P>
+52. A method as in claim 45, wherein the nucleophile has a conjugate acid having a pKa more positive than 20.0.
+</P>
+<P>
+53. A method as in claim 45, wherein the nucleophile has a conjugate acid having a pKa more positive than 25.0.
+</P>
+<P>
+54. A method as in claim 45, wherein the nucleophile comprises a heteroalkyl or heteroaryl group, optionally substituted.
+</P>
+<P>
+55. A method as in claim 45, wherein the nucleophile is N(R&amp;lt;6&amp;gt; )3, P(R&amp;lt;6&amp;gt; )3, O(R&amp;lt;6&amp;gt; )2, S(R&amp;lt;6&amp;gt; )2, pyridine, pyrrole, thiophene, furan, or substituted derivatives thereof, wherein R&amp;lt;6 &amp;gt; is halide, hydroxy, alkyl, heteroalkyl, alkenyl, heteroalkenyl, alkynyl, heteroalkynyl, aryl, heteroaryl, or a salt thereof, optionally substituted.
+</P>
+<P>
+56. A method as in claim 45, wherein the nucleophile is N,N-dimethylaminopyridine.
+</P>
+<P>
+57. A method as in claim 45, wherein the nucleophile is imidazole.
+</P>
+<P>
+58. A method as in claim 45, wherein the carbon-containing molecule is a fullerene.
+</P>
+<P>
+59. A method as in claim 45, wherein the carbon-containing molecule is a carbon nanotube.
+</P>
+<P>
+60. A method as in claim 45, wherein the reacting is performed at a temperature less than 100[deg.] C.
+</P>
+<P>
+61. A method as in claim 45, wherein the reacting is performed at a temperature less than 80[deg.] C.
+</P>
+<P>
+62. A method as in claim 45, wherein the reacting is performed at a temperature less than 60[deg.] C.
+</P>
+<P>
+63. A method as in claim 45, wherein the reacting is performed at a temperature less than 40[deg.] C.
+</P>
+<P>
+64. A method as in claim 45, wherein the reacting is performed at a temperature less than 30[deg.] C.
+</P>
+<P>
+65. A method as in claim 45, wherein the reacting is performed at a pressure of less than 5000 atm.
+</P>
+<P>
+66. A method as in claim 45, wherein the reacting is performed at a pressure of less than 1000 atm.
+</P>
+<P>
+67. A method as in claim 45, wherein the reacting is performed at a pressure of less than 500 atm.
+</P>
+<P>
+68. A method as in claim 45, wherein the reacting is performed at a pressure of less than 100 atm.
+</P>
+<P>
+69. A method as in claim 45, wherein the reacting is performed at a pressure of less than 50 atm.
+</P>
+<P>
+70. A method as in claim 45, wherein the reacting is performed at a pressure of less than 10 atm.
+</P>
+<P>
+71. A method as in claim 45, wherein the reacting is performed at a pressure of about 1 atm.
+</P>
+<P>
+72. A method as in claim 45, wherein the substituted carbon-containing molecule has the formula,
+</P>
+<P>
+EMI24.0
+</P>
+<P>
+wherein:
+</P>
+<P>
+A is a carbon-containing molecule comprising a nonplanar aromatic portion;
+</P>
+<P>
+R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , and R&amp;lt;3 &amp;gt; can be the same or different and each is an atom or a chemical group, wherein at least one of R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , and R&amp;lt;3 &amp;gt; can be replaced with a second atom or chemical group or can participate in linkage to a second atom or chemical group under conditions unreactive to the remainder of the compound other than R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , or R&amp;lt;3&amp;gt; ; and
+</P>
+<P>
+- is a single bond or double bond.
+</P>
+<P>
+73. A method for synthesizing a substituted carbon-containing molecule, comprising:
+</P>
+<P>
+reacting an alkyne, a carbon-containing molecule, and a nucleophile at a temperature less than 100[deg.] C. and at a pressure of less than 10,000 atm, to form a product,
+</P>
+<P>
+wherein the product is a substituted carbon-containing molecule comprising a fused network of aromatic rings and a functional group comprising a ring comprising at least four ring atoms, wherein the functional group is fused to the network via two atoms, wherein the two atoms are ring atoms of at least two aromatic rings of the network.
+</P>
+<P>
+74. A method as in claim 73, wherein the reacting is performed at a temperature less than 100[deg.] C.
+</P>
+<P>
+75. A method as in claim 73, wherein the reacting is performed at a temperature less than 80[deg.] C.
+</P>
+<P>
+76. A method as in claim 73, wherein the reacting is performed at a temperature less than 60[deg.] C.
+</P>
+<P>
+77. A method as in claim 73, wherein the reacting is performed at a temperature less than 40[deg.] C.
+</P>
+<P>
+78. A method as in claim 73, wherein the reacting is performed at a temperature less than 30[deg.] C.
+</P>
+<P>
+79. A method as in claim 73, wherein the reacting is performed at a pressure of less than 5000 atm.
+</P>
+<P>
+80. A method as in claim 73, wherein the reacting is performed at a pressure of less than 1000 atm.
+</P>
+<P>
+81. A method as in claim 73, wherein the reacting is performed at a pressure of less than 500 atm.
+</P>
+<P>
+82. A method as in claim 73, wherein the reacting is performed at a pressure of less than 100 atm.
+</P>
+<P>
+83. A method as in claim 73, wherein the reacting is performed at a pressure of less than 50 atm.
+</P>
+<P>
+84. A method as in claim 73, wherein the reacting is performed at a pressure of less than 10 atm.
+</P>
+<P>
+85. A method as in claim 73, wherein the reacting is performed at a pressure of about 1 atm.
+</P>
+<P>
+86. A method as in claim 73, wherein the product is a compound having the formula,
+</P>
+<P>
+EMI25.0
+</P>
+<P>
+wherein:
+</P>
+<P>
+A is a carbon-containing molecule comprising a nonplanar aromatic portion;
+</P>
+<P>
+R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , and R&amp;lt;3 &amp;gt; can be the same or different and each is an atom or a chemical group, wherein at least one of R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , and R&amp;lt;3 &amp;gt; can be replaced with a second atom or chemical group or can participate in linkage to a second atom or chemical group under conditions unreactive to the remainder of the compound other than R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; , or R&amp;lt;3&amp;gt; ; and
+</P>
+<P>
+- is a single bond or double bond.
+</P>
+<P>
+87. An electrochemical catalyst comprising a composition as in claim 1.
+</P>
+<P>
+88. An electrochemical catalyst as in claim 87, wherein the catalyst is capable of reducing water to produce hydrogen.
+</P>
+<P>
+89. An electrochemical catalyst as in claim 87, wherein the catalyst is capable of reducing carbon dioxide.
+</P>
+<P>
+90. An electrochemical catalyst as in claim 87, wherein the catalyst is capable of reducing oxygen to produce water.
+</P>
+<P>
+91. An electrochemical catalyst as in claim 87, wherein the catalyst is capable of oxidizing water to produce oxygen.
+</P>
+<P>
+92. An electrochemical catalyst as in claim 87, wherein the catalyst is capable of oxidizing hydrogen to produce protons.
+</P>
+<P>
+93. An electrochemical catalyst as in claim 87, wherein the catalyst is capable of oxidizing methanol to produce water and/or carbon dioxide.
+</P>
+<P>
+94. A composition as in claim 1, wherein the compound comprises a metal complex.
+</P>
+<P>
+95. A composition as in claim 1, wherein the compound comprises an electrocatalytic group.
+</P>
+<P>
+96. A battery comprising a composition as in claim 1.
+</P>
+<P>
+97. A composition as in claim 1, wherein the carbon-containing molecule is water soluble.
+</P>
+<P>
+98. A composition as in claim 2, wherein the carbon-containing molecule is water soluble.
+</P>
+<P>
+99. A composition as in claim 39, wherein the carbon-containing molecule is water soluble.
+</P>
+</Claims>
+<Also_published_as>
+US2008221240A1;US8212132B2;WO2008133779A2;WO2008133779A3;KR20090130022A;JP2010521429A;CN101720305A;CA2680147A1;AU2008244661A1
+</Also_published_as>
+</BiblioData>

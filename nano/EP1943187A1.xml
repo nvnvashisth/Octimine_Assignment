@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+USE OF A PROCESS FOR HYDROGEN PRODUCTION
+</Title>
+<PublicationNumber>
+EP1943187A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HAMMEL ERNST [AT]
+</Name>
+<Name>
+BRICHTA WALTER [AT]
+</Name>
+<Name>
+MAUTHNER KLAUS-DIETER [AT]
+</Name>
+<Name>
+HAMMEL, ERNST
+</Name>
+<Name>
+BRICHTA, WALTER
+</Name>
+<Name>
+MAUTHNER, KLAUS-DIETER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ELECTROVAC AG [AT]
+</Name>
+<Name>
+ELECTROVAC AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1943187
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060804369
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006AT00441
+</PriorityNumber>
+<PriorityDate>
+2006-10-27
+</PriorityDate>
+<PriorityNumber>
+AT20050001789
+</PriorityNumber>
+<PriorityDate>
+2005-10-31
+</PriorityDate>
+<PriorityNumber>
+AT20060001478
+</PriorityNumber>
+<PriorityDate>
+2006-09-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J23/882
+</Class>
+<Class>
+C01B3/26
+</Class>
+<Class>
+C01B3/28
+</Class>
+<Class>
+C01B3/38
+</Class>
+<Class>
+C01B31/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J23/882
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B3/26
+</Class>
+<Class>
+C01B3/28
+</Class>
+<Class>
+C01B3/38A
+</Class>
+<Class>
+C01B31/02B4B
+</Class>
+<Class>
+C01B31/02B6
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to the use of a process for hydrogen production in which at least a part of a hydrocarbonaceous feed gas (a) is passed into a reformer (c), wherein the feed gas is contacted in the reformer with a catalyst and the feed gas is converted to hydrogen and solid carbon, for the direct production of a hydrogenous gas at filling stations for sale to a consumer, and also to a reactor (d) for hydrogen production.
+</Abstract>
+<Claims>
+<P>
+Patentansprüche :
+</P>
+<P>
+1. Verwendung eines Verfahrens zur Wasserstoffund Nanokohlenstoffproduktion, bei dem zumindest ein Teil eines kohlenwasserstoffhältigen Feedgases in einen Reformer geleitet wird, wobei das Feedgas im Reformer mit einem Katalysator kontaktiert wird und wobei das Feedgas zu Wasserstoff und festen Kohlenstoffverbindungen umgesetzt wird, zur direkten Produktion eines wasserstoffhältigen Gases an Tankstellenanlagen zum Vertrieb an einen Verbraucher, vorzugsweise Kraftfahrzeuge.
+</P>
+<P>
+2. Verwendung nach Anspruch 1, dadurch gekennzeichnet, dass der Katalysator ein nanostrukturierter Katalysator ist, an dem das Feedgas zu Wasserstoff und Nanokohlenstoff umgesetzt wird.
+</P>
+<P>
+3. Verwendung nach Anspruch 1 oder 2, dadurch gekennzeichnet, dass zumindest ein Teil des Abgases des Reformers in einen Wasserdampfreformer geleitet wird, in dem verbleibendes Feedgas mit Wasserdampf zu Wasserstoff reagiert.
+</P>
+<P>
+4. Verwendung nach Anspruch 3, dadurch gekennzeichnet, dass die Abgase des Reformers vor Eintritt in den Wasserdampfreformer vorgewärmt werden.
+</P>
+<P>
+5. Verwendung nach Anspruch 3 oder 4, dadurch gekennzeichnet, dass die Abgase des Wasserdampfreformers zur Entfernung von Kohlenmonoxid nachverbrannt werden, wobei vorzugsweise die Abgase des Reformers mit dem aus dem Wasserdampfreformer austretenden wasserstoffhältigen Gasgemisch kombiniert und vor der Nachverbrennung abgekühlt werden.
+</P>
+<P>
+6. Verwendung nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass der Katalysator auf einem Träger, vorzugsweise einem flächigen Träger, angeordnet ist, der insbesondere bevorzugt partikelförmige keramische Körper oder partikelförmige Glaskörper umfasst.
+</P>
+<P>
+7. Verwendung nach einem der Ansprüche 1 bis 6, dadurch gekennzeichnet, dass im Reformer der Katalysator kontinuierlich einund ausgeschleust wird, gegebenenfalls in Abhängigkeit des Was-serstoffgehalt.s im Abgas, wobei vorzugsweise der Katalysator und das Feedgas im Reformer entweder im Gleichstrom oder Gegenstrom geführt werden.
+</P>
+<P>
+8. Verwendung nach einem der Ansprüche 1 bis 7, dadurch gekennzeichnet, dass das Feedgas im Reformer bei einer Temperatur im Bereich von 300&amp;lt;0&amp;gt;C bis 1400&amp;lt;0&amp;gt;C, vorzugsweise zwischen 400&amp;lt;0&amp;gt;C bis 700&amp;lt;0&amp;gt;C, mit dem Katalysator kontaktiert wird.
+</P>
+<P>
+9. Verwendung nach einem der Ansprüche 1 bis 8, dadurch gekennzeichnet, dass der Katalysator ausgewählt ist aus der Gruppe bestehend aus Gruppe Vlll-Übergangselementen, vorzugsweise Fe, Ni, Co, Mo und/oder Mischungen davon, aufweist, insbesondere bevorzugt MoCo, wobei der Katalysator vorzugsweise ausgewählt aus einem Composite-Katalysator umfassend eine Mitglied ausgewählt aus der Gruppe bestehend aus Erdalkalimetalloxiden, Silizium, Siliziumoxid und Mischungen hiervon ist.
+</P>
+<P>
+10. Verwendung nach einem der Ansprüche 1 bis 9, dadurch gekennzeichnet, dass der Katalysator im Reformer kontinuierlich oder diskontinuierlich ausgeschleust und von anhaftenden Kohlenstoffverbindungen abgetrennt wird, wobei vorzugsweise der Katalysator mechanisch von anhaftenden Kohlenstoffverbindungen abgetrennt wird, insbesondere bevorzugt durch Abschaben oder in einem Zyklon; vorzugsweise der Katalysator chemisch von anhaftenden Kohlenstoffverbindungen abgetrennt wird, insbesondere bevorzugt durch ein Ätzverfahren; oder vorzugsweise der Katalysator physikalisch von anhaftenden Kohlenstoffverbindungen abgetrennt wird, insbesondere bevorzugt durch Hochtemperaturbehandlung, Abheizen, induktiv, durch RF oder HF.
+</P>
+<P>
+11. Verwendung nach einem der Ansprüche 1 bis 10, dadurch gekennzeichnet, dass als Feedgas Erdgas oder ein gegebenenfalls vorgereinigtes Biogas zum Einsatz kommt.
+</P>
+<P>
+12. Verwendung nach einem der Ansprüche 1 bis 11, dadurch gekennzeichnet, dass ein Teil des Feedgases als Heizgas zum Beheizen des Reformers verwendet wird.
+</P>
+<P>
+13. Verwendung nach einem der Ansprüche 3 bis 12, dadurch ge-kennzeichnet, dass die Abwärme des Wasserdampfreformers zum Vorwärmen des Feedgases für den Reformer und/oder Erhitzen des Reformers verwendet wird.
+</P>
+<P>
+14. Verwendung nach einem der Ansprüche 1 bis 13 zur Herstellung hochwertiger technischer Russe, Nanoonions, Nanohorns, Nanofibers und/oder Nanotubes, welche an dem Katalysator anhaften.
+</P>
+<P>
+15. Tankstellenanlage, dadurch gekennzeichnet, dass die Tankstellenanlage Folgendes umfasst:
+</P>
+<P>
+- eine Einleitung für ein kohlenwasserstoffhältiges Feedgas,
+</P>
+<P>
+- einen Reformer, der einen Katalysator aufweist,
+</P>
+<P>
+- eine für den Wasserstofftransport geeignete Abgasleitung,
+</P>
+<P>
+- einen Kompressor oder eine Kühlvorrichtung,
+</P>
+<P>
+- eine Zapfvorrichtung, geeignet für die Abnahme entweder des wasserstoffhältigen Fluids oder des wasserstoffhältigen Gases,
+</P>
+<P>
+- vorzugsweise optional einen Lagertank für entweder ein gekühltes, flüssiges wasserstoffhältiges Fluid oder ein unter Druck stehendes wasserstoffhältiges Gas.
+</P>
+<P>
+16. Tankstellenanlage nach Anspruch 15, dadurch gekennzeichnet, dass der Katalysator ein nanostrukturierter Katalysator ist.
+</P>
+<P>
+17. Tankstellenanlage nach Anspruch 15 oder 16, dadurch gekennzeichnet, dass sie einen Kompressor und/oder eine Kühlvorrichtung umfasst, wobei die Kühlvorrichtung in der Lage ist das Abgas des Reformers in ein gekühltes, flüssiges wasserstoffhältiges Fluid umzuwandeln.
+</P>
+<P>
+18. Tankstellenanlage nach einem der Ansprüche 15 bis 17, dadurch gekennzeichnet, dass
+</P>
+<P>
+- sie eine Mischvorrichtung zum Mischen des wasserstoffhältigen Gases oder Fluids und eines Kohlenwasserstoffgases oder -fluids umfasst,
+</P>
+<P>
+- der Reformer eine Zuund Abfuhreinrichtung zur kontinuierlichen Einund Ausschleusung des Katalysators umfasst;
+</P>
+<P>
+- sie einen Wasserdampfreformer umfasst, und/oder - sie eine Messund Dosiervorrichtung umfasst.
+</P>
+<P>
+19. Vorrichtung zur Produktion eines wasserstoffhältigen Gases umfassend einen Reaktor, der
+</P>
+<P>
+- einen Einlass für ein kohlenwasserstoffhältiges Feedgas,
+</P>
+<P>
+- einen Einlass für einen Katalysator, der zum Cracken von Kohlenwasserstoffen zu Wasserstoff und festem Kohlenstoff geeignet ist,
+</P>
+<P>
+- eine Reaktorzone mit dem Katalysator,
+</P>
+<P>
+- einen Auslass für ein Reaktorgas, und
+</P>
+<P>
+- einen Auslass für den Katalysator aufweist, dadurch gekennzeichnet, dass der Reaktor für kontinuierlichen Betrieb ausgelegt ist und die Einund Auslässe derart angeordnet sind, sodass der Katalysator in der Reaktorzone im Gegenstrom zum Feedgas geführt werden kann und der Reaktor eine Kühlund eine Heizzone aufweist, wobei der Feedgas-Einlass in der Kühlzone ist.
+</P>
+<P>
+20. Vorrichtung nach Anspruch 19, dadurch gekennzeichnet, dass der Reaktor eine Vorwärmzone aufweist, die vorzugsweise für Betriebstemperaturen zwischen 100&amp;lt;0&amp;gt;C und 900&amp;lt;0&amp;gt;C ausgelegt ist.
+</P>
+<P>
+21. Vorrichtung nach Anspruch 20, dadurch gekennzeichnet, dass der Reaktorgas-Auslass in der Vorwärmzone oder der Heizzone vorgesehen wird, vorzugsweise in der Vorwärmzone.
+</P>
+<P>
+22. Vorrichtung nach einem der Ansprüche 19 bis 21, dadurch gekennzeichnet, dass die Kühlzone für Betriebstemperaturen zwischen 100&amp;lt;0&amp;gt;C und 600&amp;lt;0&amp;gt;C ausgelegt ist und/oder die Heizzone für Betriebstemperaturen zwischen 300&amp;lt;0&amp;gt;C und 1400&amp;lt;0&amp;gt;C, vorzugsweise zwischen 500&amp;lt;0&amp;gt;C und 1000&amp;lt;0&amp;gt;C, ausgelegt ist.
+</P>
+<P>
+23. Vorrichtung nach einem der Ansprüche 19 bis 22, dadurch gekennzeichnet, dass der Auslass für den Katalysator und produziertem festen Kohlenstoff in der Kühlzone vorgesehen ist.
+</P>
+<P>
+24. Vorrichtung nach einem der Ansprüche 19 bis 23, dadurch gekennzeichnet, dass im Reaktor von der Heizzur Kühlzone ein stetig abfallender Temperaturgradient vorgesehen ist.
+</P>
+<P>
+25. Vorrichtung nach einem der Ansprüche 19 bis 23, dadurch gekennzeichnet, dass der Einlass des Katalysators in der Heizzone oder gegebenenfalls in der Vorwärmzone vorgesehen ist.
+</P>
+<P>
+26. Vorrichtung nach einem der Ansprüche 19 bis 25, dadurch gekennzeichnet, dass die Heizzone des Reaktors ausserhalb Heizstäbe, Heizwicklungen oder einen Gasbrenner aufweist.
+</P>
+<P>
+27. Vorrichtung nach einem der Ansprüche 19 bis 26, dadurch gekennzeichnet, dass die Heizzone bis zu 50%, vorzugsweise bis zu 40%, am meisten bevorzugt bis zu 30%, der Länge des Reaktors vom Feedgas-Einlass zum Reaktorgas-Auslass ausmacht.
+</P>
+<P>
+28. Vorrichtung nach einem der Ansprüche 19 bis 27, dadurch gekennzeichnet, dass die Kühlzone bis zu 50%, vorzugsweise bis zu 40%, am meisten bevorzugt bis zu 30%, der Länge des Reaktors vom Feedgas-Einlass zum Reaktorgas-Auslass ausmacht.
+</P>
+<P>
+29. Vorrichtung nach einem der Ansprüche 19 bis 28 umfassend einen Druckregler am Reaktor für einen Überdruck von 1 bis 500 mbar, vorzugsweise von 50 bis 400 mbar, besonders bevorzugt von 90 bis 250 mbar.
+</P>
+<P>
+30. Vorrichtung nach einem der Ansprüche 19 bis 29, dadurch gekennzeichnet, dass der Katalysator durch den Reaktor einer mechanischen Vorrichtung, vorzugsweise ausgewählt aus einer Förderschnecke, einem Förderdrehrohr oder einem Bandlauf, vorgesehen ist.
+</P>
+<P>
+31. Vorrichtung nach einem der Ansprüche 19 bis 14, dadurch gekennzeichnet, dass der Katalysator Composite Struktur aufweist und zumindest eine Komponente aus der Gruppe VIII Übergangselementen, vorzugsweise aus Fe, Ni, Co, Mo und/oder Mischungen davon, aufweist, insbesondere bevorzugt MoCo.
+</P>
+<P>
+32. Vorrichtung nach Anspruch 31, dadurch gekennzeichnet, dass der Composite Katalysator eine inerte Komponente, vorzugsweise ausgewählt aus Oxiden und/oder Hydroxiden von Erdalkalien, des Siliziums, des Aluminiums, des Bor, des Titans oder Mischungen hiervon, umfasst wobei kaustisch gebrannte Magnesia und/oder frisch gefälltes Magnesiumhydroxid mit spezifischer Oberfläche von &amp;gt; 1 m&amp;lt;2&amp;gt;/g besonders bevorzugt sind.
+</P>
+<P>
+33. Vorrichtung nach einem der Ansprüche 19 bis 32, dadurch gekennzeichnet, dass dem Katalysator ausgewählt aus der Gruppe VIIIB ist und ein foder d-Übergangsmetall, vorzugsweise ausgewählt aus Vanadium, Chrom, Mangan, Molybdän, Palladium, Platin oder aus der Gruppe der Seltenen Erdmetalle, aufweist.
+</P>
+<P>
+34. Vorrichtung nach einem der Ansprüche 19 bis 33, dadurch gekennzeichnet, dass der Katalysator ein nanostrukturierter Katalysator ist.
+</P>
+<P>
+35. Vorrichtung nach einem der Ansprüche 19 bis 34 umfassend
+</P>
+<P>
+- eine Druckwechsel-Adsorptionsanlage nach dem Reaktorgasauslass,
+</P>
+<P>
+- einen Filter nach dem Reaktorgasauslass und gegebenenfalls vor einer Druckwechsel-Adsorptionsanlage,
+</P>
+<P>
+- einen Reaktorgaskompressor nach dem Reaktorgasauslass und gegebenenfalls nach einem Filter, und/oder
+</P>
+<P>
+- eine Feedgas-Mengenregelung und gegebenenfalls einen Feedgas-Kompressor jeweils vor dem Feedgas-Einlass .
+</P>
+<P>
+36. Verfahren zur Produktion eines wasserstoffhältigen Gases in einem Reaktor, der
+</P>
+<P>
+- einen Einlass für ein kohlenwasserstoffhältiges Feedgas,
+</P>
+<P>
+- einen Einlass für einen Katalysator, der zum Cracken von Kohlenwasserstoffen zu Wasserstoff und festem Kohlenstoff geeignet ist,
+</P>
+<P>
+- eine Reaktorzone mit dem Katalysator,
+</P>
+<P>
+- einen Auslass für ein Reaktorgas, und
+</P>
+<P>
+- einen Auslass für den Katalysator aufweist, dadurch gekennzeichnet, dass der Reaktor kontinuierlich im Gegenstrom des Feedgases zum Katalysator betrieben wird und der Feedgasstrom in Richtung des Auslasses des Reaktorgases erwärmt wird.
+</P>
+<P>
+37. Verfahren nach Anspruch 36, dadurch gekennzeichnet, dass der in Richtung des Katalysator-Auslasses beförderte Katalysator und gegebenenfalls der produzierte feste Kohlenstoff abgekühlt wird.
+</P>
+<P>
+38. Verfahren nach Anspruch 36 oder 37, dadurch gekennzeichnet, dass im Reaktor das katalytische Cracken des Feedgases bei einem Überdruck von 1 bis 500 mbar, vorzugsweise von 50 bis 400 mbar, besonders bevorzugt von 90 bis 250 mbar durchgeführt wird.
+</P>
+<P>
+39. Verfahren nach einem der Ansprüche 36 bis 38, dadurch gekennzeichnet, dass Wasserstoff vom Reaktorgas getrennt wird.
+</P>
+<P>
+40. Verfahren nach einem der Ansprüche 36 bis 39, dadurch gekennzeichnet, dass die durchschnittliche Verweilzeit des Feedgases im Reaktor zwischen 5 und 100 Sekunden, vorzugsweise zwischen 5 und 50 Sekunden, besonders bevorzugt zwischen 5 und 30 Sekunden, am meisten bevorzugt zwischen 5 und 20 Sekunden, insbesondere zwischen 10 und 15 Sekunden, ist.
+</P>
+<P>
+41. Verfahren nach einem der Ansprüche 36 bis 40, dadurch gekennzeichnet, dass der Eingangsdruck des Feedgases und der Ausgangsdruck des Reaktorgases am Reaktor im Wesentlichen gleich sind.
+</P>
+<P>
+42. Verfahren nach einem der Ansprüche 36 bis 41, dadurch gekennzeichnet, dass das Feedgas Erdgas oder Methan ist.
+</P>
+<P>
+43. Verfahren nach einem der Ansprüche 36 bis 42, dadurch gekennzeichnet, dass der Katalysator ein nanostrukturierter Katalysator ist, an dem das Feedgas zu Wasserstoff und Nanokohlenstoff, bevorzugt ausgewählt aus hochwertiger technischer Russe, Nanoonions, Nanohorns, Nanofibers und/oder Nanotubes, umgesetzt wird.
+</P>
+<P>
+44. Verwendung einer Vorrichtung nach einem der Ansprüche 19 bis 35 zur Produktion eines wasserstoffhältigen Gases nach einem Verfahren der Ansprüche 36 bis 43.
+</P>
+<P>
+45. Verwendung nach Anspruch 44 zur direkten Produktion eines wasserstoffhältigen Gases an Tankstellenanlagen zum Vertrieb an einen Verbraucher.
+</P>
+<P>
+46. Tankstellenanlage, dadurch gekennzeichnet, dass die Tankstellenanlage folgendes umfasst:
+</P>
+<P>
+- eine Einleitung für ein kohlenwasserstoffhältiges Feedgas,
+</P>
+<P>
+- eine Vorrichtung mit einem Reaktor, nach einem der Ansprüche
+</P>
+<P>
+19 bis 35 ,
+</P>
+<P>
+- eine für den Wasserstofftransport geeignete Abgasleitung,
+</P>
+<P>
+- einen Kompressor oder eine Kühlvorrichtung und eine Zapfvorrichtung, geeignet für die Abnahme entweder des wasserstoffhältigen Fluids oder des Wasserstoffhältigen Gases.
+</P>
+</Claims>
+<Also_published_as>
+WO2007051213A1;US2008263954A1;JP2009513466A;AU2006308794A1;AT502901A2;AT502901A3;AT502901B1
+</Also_published_as>
+</BiblioData>

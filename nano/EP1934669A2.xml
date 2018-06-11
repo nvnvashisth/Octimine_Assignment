@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SYSTEM TO TRANSFER A TEMPLATE TRANSFER BODY BETWEEN A MOTION STAGE AND A DOCKING PLATE
+</Title>
+<PublicationNumber>
+EP1934669A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SCHUMAKER PHILIP D [US]
+</Name>
+<Name>
+FANCELLO ANGELO [US]
+</Name>
+<Name>
+KIM JAE H [US]
+</Name>
+<Name>
+CHOI BYUNG-JIN [US]
+</Name>
+<Name>
+BABBS DANIEL A [US]
+</Name>
+<Name>
+SCHUMAKER, PHILIP, D
+</Name>
+<Name>
+FANCELLO, ANGELO
+</Name>
+<Name>
+KIM, JAE, H
+</Name>
+<Name>
+CHOI, BYUNG-JIN
+</Name>
+<Name>
+BABBS, DANIEL, A
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MOLECULAR IMPRINTS INC [US]
+</Name>
+<Name>
+MOLECULAR IMPRINTS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1934669
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060786500
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-07-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US26366
+</PriorityNumber>
+<PriorityDate>
+2006-07-06
+</PriorityDate>
+<PriorityNumber>
+US20050211766
+</PriorityNumber>
+<PriorityDate>
+2005-08-25
+</PriorityDate>
+<PriorityNumber>
+US20050211763
+</PriorityNumber>
+<PriorityDate>
+2005-08-25
+</PriorityDate>
+<PriorityNumber>
+US20050211785
+</PriorityNumber>
+<PriorityDate>
+2005-08-25
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+The present invention is directed towards an imprint lithography system including, inter alia, a docking plate;  a motion stage having a range of motion associated therewith, the range of motion having a periphery spaced-apart &apos;from the docking plate a first distance;  and a body, having first and second opposed sides spaced- apart a second distance, selectively coupled between the docking plate and the motion stage, the first distance being greater than the second distance to minimize a probability of a collision between the docking plate, the motion stage and the body while transferring the body between the docking plate and the motion stage.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A coupling system comprising: a docking plate having a protrusion positioned thereon, said protrusion controlling an orientation of a body in contact therewith to facilitate a coupling of said body to said docking plate.
+</P>
+<P>
+2. The system as recited in claim 1 wherein said protrusion minimizes a pivoting of said body.
+</P>
+<P>
+3. The system as recited in claim 1 wherein said protrusion has a cylindrical shape.
+</P>
+<P>
+4. The system as recited in claim 1 wherein said docking plate comprises a plurality of protrusions.
+</P>
+<P>
+5. The system as recited in claim 1 wherein said coupling system further includes a source of vacuum to couple said body to said docking plate .
+</P>
+<P>
+6. The system as recited in claim 1 wherein said coupling system further includes a pump source to couple said body to said docking plate.
+</P>
+<P>
+7. The system as recited in claim 1 wherein said docking plate and said body are positioned upon a stage support, with said protrusion minimizing a motion of said body in a direction orthogonal to said stage support.
+</P>
+<P>
+8. A system comprising: a docking system,- a motion stage spaced-apart from said docking system a first distance, said motion stage having a range of motion associated therewith, with a periphery of said range of motion being spaced- apart from said docking system said first distance; and a body, having first and second opposed sides spaced-apart a second distance, selectively coupled between said docking system and said motion stage, with said first distance being greater than said second distance to minimize a probability of a collision between any of said docking system, said motion stage, and said body while transferring said body between said docking system and said motion stage.
+</P>
+<P>
+9. The system as recited in claim 8 wherein said docking system comprises a docking body and a docking plate having an arm coupled therebetween, said arm being in communication with a motor to position said docking plate a third distance from said docking body, with said third distance being a difference between said first and second distances.
+</P>
+<P>
+10. The system as recited in claim 8 wherein said docking plate comprises a docking body and a docking plate having an arm coupled therebetween, said arm having an additional range of motion associated therewith, with a periphery of said additional range of motion being spaced-apart from said docking system a third distance, with said third distance being a difference between said first and second distances .
+</P>
+<P>
+11. The system as recited in claim 8 wherein said body comprises a latching system having first and second latches, wherein said first latch couples said body to said docking system and said second latch couples said body to said motion stage.
+</P>
+<P>
+12. The system as recited in claim 8 wherein said system further includes a coupling source coupled to said body, with said coupling source selected from a group of coupling sources comprising a pump system and a voltage source.
+</P>
+<P>
+13. The system as recited in claim 8 wherein said body includes a template holder having a template positioned thereon.
+</P>
+<P>
+14. The system as recited in claim 8 wherein said system further includes a detection system to determine a presence and/or a position of said template.
+</P>
+<P>
+15. The system as recited in claim 8 wherein said motion stage comprises a coupling element selected from a group of coupling elements comprising a flat and a vee.
+</P>
+<P>
+16. The system as recited in claim 8, wherein said body- further includes a component that may interact with said docking system, said motion stage, or said body to produce a desired result.
+</P>
+<P>
+17. A method of transferring a body between a motion stage and a docking system, said method comprising: positioning said body between said motion stage and said docking system, with said motion stage being spaced-apart from said docking system a distance; and transferring a coupling of said body between said motion stage and said docking system, with said distance being established to minimize a probability of a collision between any of said docking system, said motion stage and said body while transferring said body between said docking system and said motion stage .
+</P>
+<P>
+18. The method as recited in claim 17 wherein said body comprises first and second opposed sides spaced-apart a length, with said distance being greater than said length.
+</P>
+<P>
+19. The method as recited in claim 17 wherein said method further includes positioning a docking plate of said docking system to be spaced-apart from a docking body of said docking system after positioning said motion stage.
+</P>
+<P>
+20. The method as recited in claim 19 wherein said method further includes positioning said docking plate adjacent to said docking body after transferring said coupling of said body between said motion stage and said docking system.
+</P>
+<P>
+21. The method as recited in claim 17 wherein positioning said motion stage further includes creating a gap between said body and said motion stage when said body is coupled to said docking system.
+</P>
+<P>
+22. The method as recited in claim 17 wherein said method further positioning a docking plate of said docking system to be spaced-apart a length from said docking body of said docking system, after positioning said motion stage, with said length being substantially equal to said gap.
+</P>
+<P>
+23. The method as recited in claim 17 wherein positioning said motion stage further includes creating a gap between said docking system and said body when said body is coupled to said motion system.
+</P>
+<P>
+24. The method as recited in claim 23 wherein said method further positioning a docking plate of said docking system to be spaced-apart a length from said docking body of said docking system, after positioning said motion stage, with said length being substantially equal to said gap.
+</P>
+<P>
+25. The method as recited in claim 17 wherein transferring said coupling of said body from said motion stage to said docking system maximizes a velocity and/or an acceleration of said motion stage.
+</P>
+</Claims>
+<Also_published_as>
+EP1934669A4;WO2007024345A2;WO2007024345A3;TWI309198B
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+GROWTH OF ORDERED CRYSTALLINE ORGANIC FILMS
+</Title>
+<PublicationNumber>
+EP2181466A1
+</PublicationNumber>
+<Inventor>
+<Name>
+LUNT RICHARD R [US]
+</Name>
+<Name>
+FORREST STEPHEN R [US]
+</Name>
+<Name>
+LUNT, RICHARD, R
+</Name>
+<Name>
+FORREST, STEPHEN, R
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV MICHIGAN OFFICE OF TECHNO [US]
+</Name>
+<Name>
+THE REGENTS OF THE UNIVERSITY OF MICHIGAN OFFICE OF TECHNOLOGY TRANSFER
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2181466
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080828415
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-08-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US74120
+</PriorityNumber>
+<PriorityDate>
+2008-08-22
+</PriorityDate>
+<PriorityNumber>
+US20070957902P
+</PriorityNumber>
+<PriorityDate>
+2007-08-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00A2D
+</Class>
+<Class>
+H01L51/00A2H
+</Class>
+</NCL>
+<Abstract>
+There is disclosed methods utilizing organic vapor phase deposition for growing bulk organic crystalline layers for organic photosensitive devices, heterojunctions and films made by such methods, and devices using such heterojunctions. There is also disclosed new methods for manufacturing heterojunctions and organic photosensitive devices, and the heterojunctions and devices manufactured thereby.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method of forming a layer in an organic photosensitive optoelectronic device, comprising: providing a substrate; and growing a crystalline layer of a first organic material on the substrate by organic vapor phase deposition, wherein said crystalline layer has crystallinity of long range order.
+</P>
+<P>
+2. The method of claim 1, wherein the crystalline layer is at least about 150 A thick.
+</P>
+<P>
+3. The method of claim 2, wherein the crystalline layer is at least about 400 A thick.
+</P>
+<P>
+4. The method of claim 1, further comprising depositing a crystalline layer of a second organic material on said substrate.
+</P>
+<P>
+5. The method of claim 1, wherein the substrate comprises an alkali-halide material.
+</P>
+<P>
+6. The method of claim 5, wherein the alkali-halide material comprises KBr.
+</P>
+<P>
+7. The method of claim 1, further comprising depositing a self assembled monolayer prior to growing said crystalline layer of a first organic material on the substrate.
+</P>
+<P>
+8. The method of claim 7, wherein the self assembled monolayer comprises an alkanethiol.
+</P>
+<P>
+9. The method of claim 1, wherein the substrate comprises highly oriented pyro lytic graphite.
+</P>
+<P>
+10. The method of claim 1, wherein the first organic material comprises a small molecule or polymeric material.
+</P>
+<P>
+11. The method of claim 10, wherein the small molecule material comprises PTCDA.
+</P>
+<P>
+12. The method of claim 10, wherein the small molecule material comprises CuPc. 13. The method of claim 4, wherein the first organic material comprises CuPc, and the second organic material comprises PTCDA.
+</P>
+<P>
+14. The method of claim 1, wherein the substrate is maintained at a temperature ranging from -4O&amp;lt;0&amp;gt;C to 9O&amp;lt;0&amp;gt;C during said organic vapor phase deposition.
+</P>
+<P>
+15. The method of claim 1, wherein the formed layer has long range crystalline order of at least about 0.25 cm .
+</P>
+<P>
+16. The method of claim 15, wherein the formed layer has long range crystalline order of at least about 1.0 cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+17. The method of claim 1, wherein the formed layer has long range crystalline order of at least about 4.0 cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+18. An organic photosensitive device comprising at least one layer comprising a substrate, said substrate comprising a crystalline material of a first organic material, wherein said crystalline material has crystallinity order of at least 0.25 cm .
+</P>
+<P>
+19. The organic photosensitive device of claim 18, wherein the crystalline material is at least 150 A thick.
+</P>
+<P>
+20. The organic photosensitive device of claim 18, wherein the substrate further comprises a crystalline layer of a second organic material.
+</P>
+<P>
+21. The organic photosensitive device of claim 18, wherein the substrate comprises an alkali-halide material.
+</P>
+<P>
+22. The organic photosensitive device of claim 21, wherein the alkali-halide material comprises KBr.
+</P>
+<P>
+23. The organic photosensitive device of claim 18, further comprising a self assembled monolayer between the substrate and the crystalline material. 24. The organic photosensitive device of claim 23, wherein the self assembled monolayer comprises an alkanethiol.
+</P>
+<P>
+25. The organic photosensitive device of claim 18, wherein the substrate comprises highly oriented pyro lytic graphite.
+</P>
+<P>
+26. The organic photosensitive device of claim 18, wherein the first organic material comprises a small molecule or polymeric material.
+</P>
+<P>
+27. The organic photosensitive device of claim 26, wherein the small molecule material comprises PTCDA.
+</P>
+<P>
+28. The organic photosensitive device of claim 26, wherein the small molecule material comprises CuPc.
+</P>
+<P>
+29. The organic photosensitive device of claim 20, wherein the first organic material comprises CuPc, and the second organic material is chosen from PTCDA and C6O-
+</P>
+<P>
+30. The organic photosensitive device of claim 18, said layer having a crystalline order of at least about 0.25 cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+31. The organic photosensitive device of claim 18, said layer having a crystalline order of at least about 4.0 cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+32. The organic photosensitive device of claim 18, wherein said at least one layer forms a heterojunction.
+</P>
+<P>
+33. A method for forming a heterojunction for an organic photosensitive device, comprising: growing a first crystalline layer of a first organic material on a substrate, wherein the substrate is maintained at a temperature ranging from -4O&amp;lt;0&amp;gt;C to about 9O&amp;lt;0&amp;gt;C; growing a second oriented and crystalline layer of a second organic material on the surface of the first layer; and wherein said first crystalline layer is an acceptor or donor material and said second crystalline layer is the opposite of said first crystalline layer.
+</P>
+<P>
+34. The method of claim 33, comprising depositing a self-assembled monolayer on the substrate prior to growing said first crystalline layer.
+</P>
+<P>
+35. The method of claim 34, wherein said substrate is a stamp substrate and said method further comprises pressing said first and second crystalline layers and said self-assembled monolayer onto a first electrode.
+</P>
+<P>
+36. The method of claim 35 further comprising: removing said stamp substrate and said self-assembled monolayer; and depositing an exciton blocking layer over said first crystalline layer.
+</P>
+<P>
+37. The method of claim 36, further comprising: depositing a second electrode over said exciton blocking layer.
+</P>
+<P>
+38. The method of claim 33, wherein said first crystalline layer comprises CuPc and said second crystalline layer comprises C6O-
+</P>
+<P>
+39. The method of claim 33, wherein said first crystalline layer comprises CuPc and said second crystalline layer comprises PTCDA.
+</P>
+</Claims>
+<Also_published_as>
+WO2009029548A1;US2009165859A1;TW200917545A;KR20100046248A;JP2010537432A;CN101785128A;CA2696110A1;AU2008293639A1
+</Also_published_as>
+</BiblioData>

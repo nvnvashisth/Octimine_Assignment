@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR THE PRODUCTION OF CARBON NANOTUBES IN A FLUIDIZED BED
+</Title>
+<PublicationNumber>
+EP2010701A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BUCHHOLZ SIGURD [DE]
+</Name>
+<Name>
+KAKHI MAZIAR [US]
+</Name>
+<Name>
+MICHELE VOLKER [DE]
+</Name>
+<Name>
+MLECZKO LESLAW [DE]
+</Name>
+<Name>
+MUENNICH CHRISTIAN [DE]
+</Name>
+<Name>
+RUDOLF REINER [DE]
+</Name>
+<Name>
+WOLF AUREL [DE]
+</Name>
+<Name>
+BUCHHOLZ, SIGURD
+</Name>
+<Name>
+KAKHI, MAZIAR
+</Name>
+<Name>
+MICHELE, VOLKER
+</Name>
+<Name>
+MLECZKO, LESLAW
+</Name>
+<Name>
+MUENNICH, CHRISTIAN
+</Name>
+<Name>
+RUDOLF, REINER
+</Name>
+<Name>
+WOLF, AUREL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BAYER MATERIALSCIENCE AG [DE]
+</Name>
+<Name>
+BAYER MATERIALSCIENCE AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2010701
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070724198
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP03257
+</PriorityNumber>
+<PriorityDate>
+2007-04-12
+</PriorityDate>
+<PriorityNumber>
+DE200610017695
+</PriorityNumber>
+<PriorityDate>
+2006-04-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J8/24
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+D01F9/127
+</Class>
+<Class>
+D01F9/133
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J8/18
+</Class>
+<Class>
+B01J8/24
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+</NCL>
+<Abstract>
+Die vorliegende Erfindung betrifft ein Verfahren zur Herstellung von Kohlenstoffnanoröhrchen durch Zersetzung von Kohlenwasserstoffen an einem heterogenen Katalysator in einem Wirbelschichtreaktor, wobei der Reaktor absatzweise oder kontinuierlich betrieben werden kann und im kontinuierlichen Betriebsfall der Austrag sichtend oder nicht-sichtend erfolgen kann.
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zur Herstellung von Kohlenstoffnanoröhrchen durch Zersetzung eines gasförmigen Kohlenwasserstoffs an einem heterogenen Katalysator in einer Wirbelschicht, dadurch gekennzeichnet, dass die Partikelgrössen von Katalysator und Kohlenstoffnanoröhrchen-Agglomeraten so gewählt sind, dass das Verhältnis von Gasleerrohrgeschwindigkeit zu Mindestfluidisierungsgeschwindigkeit für alle im Reaktor vorhandenen Katalysator- und Agglomeratpartikeln zwischen 1,1 und 60 liegt und gleichzeitig die Gasgeschwindigkeit im Reaktor unterhalb der Sinkgeschwindigkeit der Partikel festgelegt oder eine Vorrichtung zur Rückführung ausgetragener Partikel eingesetzt wird.
+</P>
+<P>
+2. Verfahren nach einem der Anspruch 1, dadurch gekennzeichnet, dass die hergestellten Carbon Nanotubes einen mittleren Aussendurchmesser von 3 nm bis 150 nm aufweisen.
+</P>
+<P>
+3. Verfahren nach einem der Ansprüche 1 oder 2, wobei die Abfuhr der gebildeten Kohlenstoffnanoröhrchen aus dem Reaktor mittels einer Sicht-Vorrichtung erfolgt, welche nur Kohlenstoffnanoröhrchen-Agglomerate oberhalb eines definierten Mindestdurchmessers aus dem Reaktor entfernt.
+</P>
+<P>
+4. Verfahren nach einem der Ansprüche 1 bis 3, dadurch gekennzeichnet, dass als Edukte Kohlenwasserstoffe wie Aliphaten und Olefine, Alkohole, Kohlenoxide, insbesondere CO, aromatische Verbindungen mit und ohne Heteroatomen und funktionalisierte Kohlenwasserstoffe einzeln oder als Mischung eingesetzt werden.
+</P>
+<P>
+5. Verfahren nach Anspruch 4 dadurch gekennzeichnet, dass es sich bei den Kohlenwasserstoffen um einzelne oder Mischungen ausgewählt aus eine Gruppe beinhaltend Methan, Ethan, Propan, Butan, Pentan, Hexan, Ethylen, Propylen, Buten, Butadien, kurz- und mittelkettige, mit einer C-Anzahl von 1 bzw. 2 bis 10, aliphatische bzw. olefinische Kohlenwasserstoffe oder ein- oder zweikernige aromatische Kohlenwasserstoffe sowie Aliphaten (CxH2x+2) und Olefine (CxHy) mit einer C-Anzahl x von x = 1-4 bzw. 2-4 handelt.
+</P>
+<P>
+6. Verfahren nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass der Katalysator in den Reaktionsraum in einer Form eingebracht wird, in der die hauptsächlich katalytisch aktiven Komponenten als Oxide, teilweise oder ganz reduziert oder als Hydroxide vorliegen.
+</P>
+<P>
+7. Verfahren zur Herstellung von Kohlenstoffnanoröhren nach einem der Ansprüche 1 bis 6 in einem Wirbelschichtreaktor, dadurch gekennzeichnet, dass die optimale Gasleerrohrgeschwindigkeit abhängig von Katalysator- und Agglomeratgrösse, Partikeldichten und Gaseigenschaften eingestellt wird, wobei diese anhand der Katalysatordichte bzw. des Katalysatordurchmessers und des Maximaldurchmessers dp,max des Agglomerates berechnet wird.
+</P>
+<P>
+8. Verfahren nach Anspruch 7, dadurch gekennzeichnet, dass die Ermittlung gemäss folgendem Rechenweg erfolgt:
+</P>
+<P>
+a Die Betriebsbedingungen und Partikeleigenschaften werden herangezogen, um eine Mindestfluidisierungsgeschwindigkeit, Umf, der Agglomerate zu bestimmen:
+</P>
+<P>
+EMI18.1
+</P>
+<P>
+wobei gilt (in SI-Einheiten):
+</P>
+<P>
+- [eta]G = Dynamische Viskosität des Gasgemisches bei der Betriebstemperatur
+</P>
+<P>
+- [rho]G = Dichte des Gasgemisches bei der Betriebstemperatur
+</P>
+<P>
+- dp = Aussendurchmesser des Agglomerates, betrachtet in dieser Analyse als der angegebene Maximaldurchmesser, dp,max
+</P>
+<P>
+- [rho]P = Partikeldichte des Agglomerates
+</P>
+<P>
+- g = Erdbeschleunigung
+</P>
+<P>
+und wobei die Mindestfluidisierungsgeschwindigkeit für den grössten zu erwartenden Agglomeratdurchmesser dp,max bestimmt wird und
+</P>
+<P>
+b die Betriebsgeschwindigkeit, Uo, entspricht einem Mehrfachen von Umf für den grössten zu erwartenden Agglomeratdurchmesser.
+</P>
+<P>
+c die Sinkgeschwindigkeit des Katalysatorpartikels, Ut, wird wie folgt berechnet:
+</P>
+<P>
+EMI18.2
+</P>
+<P>
+wobei für ein Formfaktor [phi]s = 1 angenommen wird und [rho]Kat und dKat der Katalysatorpartikeldichte bzw. dem Katalysatorpartikeldurchmesser entsprechen; und d der minimale Katalysatordurchmesser charakterisiert wird, der bei der herrschenden Betriebsgeschwindigkeit, Uo, nicht aus dem Wirbelschichtreaktor ausgetragen wird, indem mit Hilfe der Gleichung 2 für die Sinkgeschwindigkeit nach demjenigen dKat-Wert, bezeichnet durch dKat,min, gesucht wird, der die Bedingung Ut(dKat,min) = Uo(dp,max) erfüllt.
+</P>
+<P>
+9. Kohlenstoffnanoröhrchen erhältlich nach dem Verfahren gemäss Ansprüchen 1 bis 6.
+</P>
+<P>
+10. Verwendung der Kohlenstoffnanoröhrchen nach Anspruch 7 in Polymerkompositmaterialien, Keramik oder Metallkompositmaterialien zur Verbesserung der elektrischen oder Wärme-Leitfähigkeit und mechanischen Eigenschaften, zur Herstellung von leitfähigen Beschichtungen und Kompositmaterialien, als Farbstoff in Batterien, Kondensatoren, Displays oder Leuchtmitteln, als Field Effect Transistor, als chemisches Speichermedium, in Membranen, als Katalysator oder als Trägermaterial, in Brennstoffzellen, im medizinischen und diagnostischen Bereich, sowie in der chemischen und physikalischen Analytik.
+</P>
+</Claims>
+<Also_published_as>
+DE102006017695A1;US2008003170A1;TW200806575A;KR20080111534A;JP2009533312A;WO2007118668A2;WO2007118668A3;CN101421447A
+</Also_published_as>
+</BiblioData>

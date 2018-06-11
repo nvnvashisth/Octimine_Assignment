@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Y-SHAPED CARBON NANOTUBES AS AFM PROBE FOR ANALYZING SUBSTRATES WITH ANGLED TOPOGRAPHY
+</Title>
+<PublicationNumber>
+EP1957954A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BOYE CAROL ANN [US]
+</Name>
+<Name>
+FURUKAWA TOSHIHARU [US]
+</Name>
+<Name>
+HAKEY MARK CHARLES [US]
+</Name>
+<Name>
+HOLMES STEVEN JOHN [US]
+</Name>
+<Name>
+HORAK DAVID VACLAV [US]
+</Name>
+<Name>
+KOBURGER CHARLES WILLIAM III [US]
+</Name>
+<Name>
+BOYE, CAROL, ANN
+</Name>
+<Name>
+FURUKAWA, TOSHIHARU
+</Name>
+<Name>
+HAKEY, MARK, CHARLES
+</Name>
+<Name>
+HOLMES, STEVEN, JOHN
+</Name>
+<Name>
+HORAK, DAVID, VACLAV
+</Name>
+<Name>
+KOBURGER, CHARLES, WILLIAM, III
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBM [US]
+</Name>
+<Name>
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1957954
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060819715
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006EP68835
+</PriorityNumber>
+<PriorityDate>
+2006-11-23
+</PriorityDate>
+<PriorityNumber>
+US20050164792
+</PriorityNumber>
+<PriorityDate>
+2005-12-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q60/24
+</Class>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01Q60/42
+</Class>
+<Class>
+G01Q70/12
+</Class>
+<Class>
+G01Q70/16
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q60/24
+</Class>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01Q60/42
+</Class>
+<Class>
+G01Q70/12
+</Class>
+<Class>
+G01Q70/16
+</Class>
+</NCL>
+<Abstract>
+A Y-shaped carbon nanotube atomic force microscope probe tip and methods comprise a shaft portion;  a pair of angled arms extending from a same end of the shaft portion, wherein the shaft portion and the pair of angled arms comprise a chemically modified carbon nanotube, and wherein the chemically modified carbon nanotube is modified with any of an amine, carboxyl, fluorine, and metallic component. Preferably, each of the pair of angled arms comprises a length of at least 200 nm and a diameter between 10 and 200 nm. Moreover, the chemically modified carbon nanotube is preferably adapted to allow differentiation between substrate materials to be probed. Additionally, the chemically modified carbon nanotube is preferably adapted to allow fluorine gas to flow through the chemically modified carbon nanotube onto a substrate to be characterized.;  Furthermore, the chemically modified carbon nanotube is preferably adapted to chemically react with a substrate surface to be characterized.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A Y-shaped carbon nanotube atomic force microscope probe tip comprising:
+</P>
+<P>
+a shaft portion;
+</P>
+<P>
+a pair of angled arms extending from a same end of said shaft portion,
+</P>
+<P>
+wherein said shaft portion and said pair of angled arms comprise a chemically modified carbon nanotube, and
+</P>
+<P>
+wherein said chemically modified carbon nanotube is modified with any of an amine, carboxyl, fluorine, and metallic component.
+</P>
+<P>
+2. The probe tip of claim 1, wherein each of said pair of angled arms comprise a length of at least 200 nm.
+</P>
+<P>
+3. The probe tip of claim 1, wherein each of said pair of angled arms comprise a diameter between 10 and 200 nm.
+</P>
+<P>
+4. The probe tip of claim 1, wherein said chemically modified carbon nanotube is adapted to allow differentiation between substrate materials to be probed.
+</P>
+<P>
+5. The probe tip of claim 1, wherein said chemically modified carbon nanotube is adapted to allow fluorine gas to flow through said chemically modified carbon nanotube onto a substrate to be characterized.
+</P>
+<P>
+6. The probe tip of claim 1, wherein said chemically modified carbon nanotube is adapted to chemically react with a substrate surface to be characterized.
+</P>
+<P>
+7. A method of forming a Y-shaped carbon nanotube atomic force microscope probe tip, said method comprising:
+</P>
+<P>
+forming a shaft portion of said probe tip;
+</P>
+<P>
+extending a pair of angled arms from a same end of said shaft portion, wherein said shaft portion and said pair of angled arms comprise a carbon nanotube; and
+</P>
+<P>
+chemically modifying said carbon nanotube with any of an amine, carboxyl, fluorine, and metallic component.
+</P>
+<P>
+8. The method of claim 7, further comprising configuring each of said pair of angled arms at a length of at least 200 nm.
+</P>
+<P>
+9. The method of claim 7, further comprising configuring each of said pair of angled arms at a diameter between 10 and 200 nm.
+</P>
+<P>
+10. The method of claim 7, wherein said chemically modified carbon nanotube is adapted to allow differentiation between substrate materials to be probed.
+</P>
+<P>
+11. The method of claim 7, wherein said chemically modified carbon nanotube is adapted to allow fluorine gas to flow through said chemically modified carbon nanotube onto a substrate to be characterized.
+</P>
+<P>
+12. The method of claim 7, wherein said chemically modified carbon nanotube is adapted to chemically react with a substrate surface to be characterized.
+</P>
+<P>
+13. A method of performing atomic force microscopy, said method comprising:
+</P>
+<P>
+attaching a carbon nanotube to an atomic force microscope probe to form a probe tip, wherein said carbon nanotube is configured into a Y shape;
+</P>
+<P>
+chemically modifying the carbon nanotube probe tip with any of an amine, carboxyl, fluorine, and metallic component; and
+</P>
+<P>
+analyzing a surface of a substrate using the chemically modified Y-shaped carbon nanotube probe tip.
+</P>
+<P>
+14. The method of claim 13, further comprising configuring said carbon nanotube probe tip with a shaft portion and a pair of angled arms extending from a same end of said shaft portion.
+</P>
+<P>
+15. The method of claim 14, further comprising configuring each of said pair of angled arms at a length of at least 200 nm.
+</P>
+<P>
+16. The method of claim 14, further comprising configuring each of said pair of angled arms at a diameter between 10 and 200 nm.
+</P>
+<P>
+17. The method of claim 13, wherein said chemically modified Y-shaped carbon nanotube is adapted to allow differentiation between substrate materials to be probed.
+</P>
+<P>
+18. The method of claim 13, wherein said chemically modified Y-shaped carbon nanotube is adapted to allow fluorine gas to flow through said chemically modified carbon nanotube onto a substrate to be characterized.
+</P>
+<P>
+19. The method of claim 13, wherein said chemically modified Y-shaped carbon nanotube is adapted to chemically react with a substrate surface to be characterized.
+</P>
+</Claims>
+<Also_published_as>
+US2007125946A1;US7368712B2;WO2007065802A1;CN101313206A;CN101313206B
+</Also_published_as>
+</BiblioData>

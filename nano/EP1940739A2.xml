@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CONTROLLED PREPARATION OF NANOPARTICLE MATERIALS
+</Title>
+<PublicationNumber>
+EP1940739A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PICKETT NIGEL [GB]
+</Name>
+<Name>
+PICKETT, NIGEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOCO TECHNOLOGIES LTD [GB]
+</Name>
+<Name>
+NANOCO TECHNOLOGIES LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1940739
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060808360
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006GB04003
+</PriorityNumber>
+<PriorityDate>
+2006-10-27
+</PriorityDate>
+<PriorityNumber>
+GB20050022027
+</PriorityNumber>
+<PriorityDate>
+2005-10-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B17/20
+</Class>
+<Class>
+C01B19/00
+</Class>
+<Class>
+H01L29/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B17/20
+</Class>
+<Class>
+C01B19/00D
+</Class>
+<Class>
+C01B19/00P
+</Class>
+<Class>
+H01L29/12W4
+</Class>
+</NCL>
+<Abstract>
+A method of producing nanoparticles comprising effecting conversion of a nanoparticle precursor composition to the material of the nanoparticles, said precursor composition comprising a first precursor species containing a first ion to be incorporated into the growing nanoparticles and a second precursor species containing a second ion to be incorporated into the growing nanoparticles, said conversion being effected in the presence of a molecular cluster compound under conditions permitting seeding and growth of the nanoparticles, wherein the method comprises dispersing the molecular cluster compound and an initial portion of the nanoparticle precursor composition which is less than the total amount of the nanoparticle precursor composition to be used to produce said nanoparticles in a suitable dispersing medium at a first temperature;  increasing the temperature of the dispersing medium containing the cluster compound and precursor composition to a second temperature which is sufficient to initiate seeding and growth of the nanoparticles on the molecular clusters of said molecular cluster compound;  and adding one or more further portions of the nanoparticle precursor composition to the dispersing medium containing the growing nanoparticles, wherein the temperature of the dispersing medium containing the growing nanoparticles is increased before, during and/or after the addition of the or each further portion of the nanoparticle precursor composition.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method of producing nanoparticles comprising effecting conversion of a nanoparticle precursor composition to the material of the nanoparticles, said precursor composition comprising a first precursor species containing a first ion to be incorporated into the growing nanoparticles and a second precursor species containing a second ion to be incorporated into the growing nanoparticles, said conversion being effected in the presence of a molecular cluster compound under conditions permitting seeding and growth of the nanoparticles, wherein the method comprises dispersing the molecular cluster compound and an initial portion of the nanoparticle precursor composition which is less than the total amount of the nanoparticle precursor composition to be used to produce said nanoparticles in a suitable dispersing medium at a first temperature; increasing the temperature of the dispersing medium containing the cluster compound and precursor composition to a second temperature which is sufficient to initiate seeding and growth of the nanoparticles on the molecular clusters of said molecular cluster compound; and adding one or more further portions of the nanoparticle precursor composition to the dispersing medium containing the growing nanoparticles, wherein the temperature of the dispersing medium containing the growing nanoparticles is increased before, during and/or after the addition of the or each further portion of the nanoparticle precursor composition.
+</P>
+<P>
+2. A method in accordance with claim 1, wherein the temperature of the dispersing medium containing the growing nanoparticles is increased at a rate in the range 0.05 [deg.]C/min to 1 [deg.]C/min.
+</P>
+<P>
+3. A method in accordance with claim 1, wherein the temperature of the dispersing medium containing the growing nanoparticles is increased at a rate of approximately 0.2 [deg.]C/min.
+</P>
+<P>
+4. A method in accordance with claim 1, 2 or 3, wherein the ratio of the number of moles of cluster compound compared to the total number of moles of the first and second precursor species lies in the range 0.0001 - 0.1 : 1.
+</P>
+<P>
+5. A method in accordance with claim 1, wherein the ratio of the number of moles of cluster compound compared to the total number of moles of the first and second precursor species lies in the range 0.001 - 0.1: 1.
+</P>
+<P>
+6. A method in accordance with claim 1, 2 or 3, wherein the molar ratio of the first precursor species to the second precursor species lies in the range 100 - 1 : 1.
+</P>
+<P>
+7. A method in accordance with claim 1, 2 or 3, wherein the molar ratio of the first precursor species to the second precursor species lies in the range 50 - 1 : 1.
+</P>
+<P>
+8. A method in accordance with any preceding claim, wherein said first temperature is in the range 15 [deg.]C to 60 [deg.]C.
+</P>
+<P>
+9. A method in accordance with any preceding claim, wherein said second temperature is in the range 90 &amp;lt;0&amp;gt;C to 150 [deg.]C.
+</P>
+<P>
+10. A method in accordance with any preceding claim, wherein the or each further portion of the nanoparticle precursor composition is added dropwise to the dispersing medium containing the growing nanoparticles.
+</P>
+<P>
+11. A method in accordance with any preceding claim, wherein the or each further portion of the nanoparticle precursor composition is added to the dispersing medium containing the growing nanoparticles at a rate in the range 0.1 ml/min to 20 ml/min per litre of dispersing medium.
+</P>
+<P>
+12. A method in accordance with any preceding claim, wherein said initial portion of the nanoparticle precursor composition is less than or equal to approximately 90 % of the total amount of the nanoparticle precursor composition to be used to produce said nanoparticles.
+</P>
+<P>
+13. A method in accordance with any one of claims 1 to 11, wherein said initial portion of the nanoparticle precursor composition is less than or equal to approximately 10 % of the total amount of the nanoparticle precursor composition to be used to produce said nanoparticles.
+</P>
+<P>
+14. A method in accordance with any preceding claim, wherein one further portion of the nanoparticle precursor composition is added to the dispersing medium containing the growing nanoparticles and said one further portion is less than or equal to approximately 90 % of the total amount of the nanoparticle precursor composition to be used to produce said nanoparticles.
+</P>
+<P>
+15. A method in accordance with any one of claims 1 to 13, wherein more than one further portion of the nanoparticle precursor composition is added to the dispersing medium containing the growing nanoparticles and each of said further portions is less than or equal to approximately 45 % of the total amount of the nanoparticle precursor composition to be used to produce said nanoparticles.
+</P>
+<P>
+16. A method in accordance with any one of claims 1 to 13, wherein more than one further portion of the nanoparticle precursor composition is added to the dispersing medium containing the growing nanoparticles and each of said further portions is less than or equal to approximately 10 % of the total amount of the nanoparticle precursor composition to be used to produce said nanoparticles.
+</P>
+<P>
+17. A method in accordance with any preceding claim, wherein formation of said molecular cluster compound is effected in situ in said dispersing medium prior to dispersing the molecular cluster compound and the initial portion of the nanoparticle precursor composition in said dispersing medium.
+</P>
+<P>
+18. A method in accordance with any preceding claim, wherein said process is subject to the proviso that the nanoparticle precursor composition does not contain Cd(CH3CO2)2.
+</P>
+<P>
+19. A method in accordance with any preceding claim, wherein said process is subject to the proviso that the nanoparticle precursor composition does not contain TOPSe.
+</P>
+<P>
+20. A method in accordance with any one of claims 1 to 17, wherein said process is subject to the proviso that the nanoparticle precursor composition does not contain Cd(CH3CO2)2 and TOPSe.
+</P>
+<P>
+21. A method in accordance with any preceding claim, wherein said process is subject to the proviso that the temperature of the dispersing medium containing the growing nanoparticles is increased at a rate which is other than 50 [deg.]C over a period of 24 hours.
+</P>
+<P>
+22. A method in accordance with any preceding claim, wherein said dispersing medium is a Lewis base coordination compound selected from the group consisting of a phosphine, a phosphine oxide and an amine.
+</P>
+<P>
+23. A method in accordance with claim 22, wherein the solvent is selected from the group consisting of TOP, TOPO, and HDA.
+</P>
+<P>
+24. A method in accordance with any one of claims 1 to 21, wherein the solvent is a non-coordinating solvent.
+</P>
+<P>
+25. A method in accordance with claim 24, wherein the solvent is an organic solvent.
+</P>
+<P>
+26. A method in accordance with claim 25, wherein the organic solvent is selected from the group consisting of an alkane, and an alkene.
+</P>
+<P>
+27. A method in accordance with claim 26, wherein the alkene is octadecene.
+</P>
+<P>
+28. A method in accordance with any preceding claim, wherein the method comprises monitoring the average size of the nanoparticles being grown; and terminating nanoparticle growth when the average nanoparticle size reaches a predetermined value.
+</P>
+<P>
+29. A method in accordance with claim 28, wherein the average size of the nanoparticles being grown is monitored by UV- visible emission spectroscopy.
+</P>
+<P>
+30. A method in accordance with claim 28 or 29, wherein the average size of the nanoparticles being grown is monitored by photoluminescence spectroscopy.
+</P>
+<P>
+31. A method in accordance with any one of claims 28 to 30, wherein nanoparticle growth is terminated by reducing the temperature of the solution from the second temperature to a third temperature.
+</P>
+<P>
+32. A method in accordance with any preceding claim, wherein the method comprises forming a precipitate of the nanoparticle material by the addition of a precipitating reagent.
+</P>
+<P>
+33. A method in accordance with claim 32, wherein the precipitating reagent is selected from the group consisting of ethanol and acetone.
+</P>
+<P>
+34. A method in accordance with any preceding claim, wherein the molecular cluster compound comprises third and fourth ions to be incorporated into the growing nanoparticles.
+</P>
+<P>
+35. A method in accordance with claim 34, wherein the third ion is selected from group 12 of the periodic table and the fourth ion is selected from group 16 of the periodic table.
+</P>
+<P>
+36. A method in accordance with claim 35, wherein the molecular cluster compound comprises molecules selected from the group consisting of [((PPh3)Hg)4(SPh)6], (Ph4P)2[CSEt)5(Br)(HgBr)4], (Ph4P)2[Hg4(SEt)5Br], [Hg4Te12][N(CH2CH2Et)4]4, [Et3NH]4[Cd10Se4(SPh)16], [RME&amp;lt;1&amp;gt;Bu]5 where M = Zn, Cd or Hg, E = S, Se or Te, and R = Me or Et, [X]4 [E4M10(SR)i6] where M = Zn, Cd or Hg, E = S, Se or Te, X = Me3NH&amp;lt;+&amp;gt;, Li&amp;lt;+&amp;gt; or Et3NH&amp;lt;+&amp;gt;, and R = Me, Et or Ph, [Cd32S14(SPh)36J-L where L = is a coordinating ligand, [Hg10Se4(SePh)(PPh2&amp;lt;11&amp;gt;Pr)4], [Hg32Se14(SePh)36], [Cd10Se4(SePh)12(PPr3)4], [Cd32Se14(SePh)36(PPh3)4], [M4(SPh)12J&amp;lt;+&amp;gt;[X]2&amp;lt;&quot;&amp;gt; where M = Zn, Cd or Hg, and X = Me4N&amp;lt;+&amp;gt;, Li&amp;lt;+&amp;gt; [Zn(SEt)Et]10, [MeME&amp;lt;1&amp;gt;Pr] where M = Zn, Cd or Hg, and E = S, Se or Te, [RCdSR&apos;]5 where R = 0(ClO3), R&apos; = PPh3 or &amp;lt;1&amp;gt;Pr, [Cd10E4(E&apos;Ph)12(PR3)4] where E = Te, Se or S, E&apos; = Te, Se or S, and R = is a coordinating ligand, [Cd8Se(SePh)12Cl4]&amp;lt;2&quot;&amp;gt;, [M4Te12]&amp;lt;4&quot;&amp;gt; where M = Cd or Hg, and [Ph12M18Cdio(PEt3)3] where M = Te or Se.
+</P>
+<P>
+37. A method in accordance with claim 34, wherein the third ion is selected from group 12 of the periodic table and the fourth ion is selected from group 15 of the periodic table.
+</P>
+<P>
+38. A method in accordance with claim 37, wherein the molecular cluster compound comprises molecules selected from the group consisting of [RCdNR&apos;]4 where R = Cl, Br, I, PEt3 or C=CSMe3, and R&apos; = PEt3 or I, [RCdNR&amp;lt;5&amp;gt;J5 where R = alkyl or aryl group, and R&apos; = alkyl or aryl group, [{RZn}6{PR&apos;}4] where R = I or PEt2Ph, and R&apos; = SiMe3, [M4Cl4(PPh2)4(P&amp;lt;n&amp;gt;Pr3)2] where M = Zn or Cd, [Li(M)4 J2 [(Ph2P)10Cd4], [Zn4(PPh2)4Cl4(PRR2&apos;)2] where PRR&apos;2 = PMe&amp;lt;11&amp;gt;Pr2, P&amp;lt;n&amp;gt;Bu3 or PEt2Ph, and [Zn4(P&amp;lt;1&amp;gt;BUa)4Cl4].
+</P>
+<P>
+39. A method in accordance with claim 34, wherein the third ion is selected from group 13 of the periodic table and the fourth ion is selected from group 15 of the periodic table.
+</P>
+<P>
+40. A method in accordance with claim 39, wherein the molecular cluster compound comprises molecules selected from the group consisting of [EtGaNEt]6, [MeGaN(4-C6H4F)J6, (MeGaNiBu)6, [RAlNR&amp;lt;5&amp;gt;J4 where R = Me, CH2Pr&amp;lt;1&amp;gt; or Ph, and R&apos; = Pr&amp;lt;1&apos;&amp;gt;, CH2Pr&apos;, C6H2Me3, [(SiPr^)3AsAlHJ6, [&amp;lt;1&amp;gt;PrNAlHJ4, [RAlNR&amp;lt;5&amp;gt;J6 where R = Me, Et, Cl, CH2Ph, CH2Pr&amp;lt;1&apos;&amp;gt; or Ph, and R&apos; = Me, H, Br, C=CPh, Pr&amp;lt;1&amp;gt;, (CH2)2Me, (CH2)2NMe2 or SiPh3, [CH3Ga-NCH2CH(CH3)2J6, [MeGaN&amp;lt;1&amp;gt;Bu]6, [RGaNR&amp;lt;5&amp;gt;J4 where R = Ph or Me, and R&amp;lt;5&amp;gt; = Ph, C6F5, SiMe3 or &amp;lt;1&amp;gt;Bu, [EtGaNEt]6, [RGaPR&amp;lt;5&amp;gt;J4 where R = &amp;lt;1&amp;gt;Pr or C6H2Me3, and R&amp;lt;5&amp;gt; = *Bu or C6H2Me3, [RNInR&amp;lt;3&amp;gt;J4 where R = Cl, Br3 1 or Me, and R&apos; = &amp;lt;1&amp;gt;Bu, C6F5 or C6H4F5 [RMPR&amp;lt;5&amp;gt;J4 where R = &amp;lt;1&amp;gt;Pr, C6H2Me3 or Et, and R&apos; = SiPh3, C6H2Me3, Si&amp;lt;1&amp;gt;Pr3, and [RInPR&amp;lt;5&amp;gt;J6 where R = Et, and R&apos; = SiMe2(CMe2&amp;lt;1&amp;gt;Pr).
+</P>
+<P>
+41. A method in accordance with claim 34, wherein the third ion is selected from group 13 of the periodic table and the fourth ion is selected from group 16 of the periodic table.
+</P>
+<P>
+42. A method in accordance with claim 41, wherein the molecular cluster compound comprises molecules selected from the group consisting of [(&amp;lt;1&amp;gt;Bu)GaSe]4, [&amp;lt;1&amp;gt;BuGaS]7, [RInSe]4 where R = &amp;lt;1&amp;gt;Bu, CMe2Et, Si(&amp;lt;1&amp;gt;Bu)3 or C((SiMe3)3)3, [RInS]4 where R = &amp;lt;1&amp;gt;Bu or CMe2Et, [RGaS]4 where R = &amp;lt;1&amp;gt;Bu, CMe2Et or CEt3, [SAlR]4 where R = C(SMe3)3 or CEtMe2, [SAlNMe3]5, [TeAlR]4 where R = Cp* or CEtMe2, [(C(SiMe3)3)GaS]4, [&amp;lt;1&amp;gt;BuGaS]6, [RGaSe]4 where R = &amp;lt;1&amp;gt;Bu, CMe2Et, CEt3, C(SiMe3)3, Cp* or Bu, Cd4m16S33.(H2O)20(C10H28N4)2.5.
+</P>
+<P>
+43. A method in accordance with claim 34, wherein the third ion is selected from group 14 of the periodic table and the fourth ion is selected from group 16 of the periodic table.
+</P>
+<P>
+44. A method in accordance with claim 43, wherein the molecular cluster compound comprises molecules selected from the group consisting of [S6(SnR)4] where R = C(SiMe3)3, Me or Ph, [Se6(SnR)4] where R = C6F5, C6H2Me3, ^p-ToI or C(SiMe3)3.
+</P>
+<P>
+45. A method in accordance with claim 34, wherein the third ion is selected from the transition metal group of the periodic table and the fourth ion is selected the d-block of the periodic table.
+</P>
+<P>
+46. A method in accordance with claim 45, wherein the molecular cluster compound comprises molecules selected from the group consisting of [Cu12Se6(PR)8] where R = Et2Ph, &quot;Pr3 or Cy3, [Cu18Te6(&amp;lt;1&amp;gt;Bu)6(PPh2Et)7], [Cu19Te6(&amp;lt;1&amp;gt;Bu)7(PEt3)S], [Cu27Te15(P&amp;lt;1&amp;gt;Pr2Me)12], [Ni34Se22(PPh3)I0], [Ag30(TePh)12Te9(PEt3)12], [Ag3OSe8(Se&amp;lt;4&amp;gt;Bu)14(P&amp;lt;11&amp;gt;Pr3)S], [Co4([mu]3-Se)4(PPh3)4], [Co6([mu]3-Se)8(PPh3)6], [W3Se4(dmpe)3Br3]&amp;lt;+&amp;gt;, Ru4Bi2(CO)12, Fe4P2(CO)12, and Fe4N2(CO)12.
+</P>
+<P>
+47. A method in accordance with any preceding claim, wherein said first ion is selected from the group consisting of group 2 of the periodic table, group 12 of the periodic table, group 13 of the periodic table and group 14 of the periodic table.
+</P>
+<P>
+48. A method in accordance with any preceding claim, wherein said second ion is selected from the group consisting of group 14 of the periodic table, group 15 of the periodic table and group 16 of the periodic table.
+</P>
+<P>
+49. A method in accordance with one of claims 1 to 46, wherein the second precursor species is separate to the first precursor species in the nanoparticle precursor composition.
+</P>
+<P>
+50. A method in accordance with claim 49, wherein said first precursor species is selected from the group consisting of an organometallic compound, an inorganic salt, and a coordination compound.
+</P>
+<P>
+51. A method in accordance with claim 50, wherein the organometallic compound is selected from the group consisting of MR2 where M = Mg and R = alkyl or aryl group, Mg&amp;lt;1&amp;gt;Bu2, MR2 where M = Zn, Cd or Te and R = alkyl or aryl group, Me2Zn, Et2Zn, Me2Cd, Et2Cd, MR3 where M = Ga, In, Al or B and R = alkyl or aryl group, and AlR3, GaR3 or InR3 where R = Me, Et or &amp;lt;1&amp;gt;Pr.
+</P>
+<P>
+52. A method in accordance with claim 50, wherein the inorganic salt is selected from the group consisting of an oxide and a nitrate.
+</P>
+<P>
+53. A method in accordance with claim 52, wherein the oxide is selected from the group consisting of SrO, ZnO, CdO, In2O3, Ga2O3, SnO2, and PbO2.
+</P>
+<P>
+54. A method in accordance with claim 52, wherein the nitrate is selected from the group consisting of Mg(NO3)2, Ca(NO3)2, Sr(NO3)2, Ba(NO3)2, Cd(NO3)2, Zn(NO3)2, Hg(NO3)2, A1(NO3)3, In(NO3)3, Ga(NO3)3, Sn(NO3)4, and Pb(NO3)2.
+</P>
+<P>
+55. A method in accordance with claim 50, wherein the coordination compound is a carbonate selected from the group consisting OfMCO3 where M = Ca, Sr, Ba or Pb, [(MgCOs)4Mg(OH)2], MCO3 where M = Zn or Cd.
+</P>
+<P>
+56. A method in accordance with claim 50, wherein the coordination compound is selected from the group consisting of Cd(CH3CO2)2, M(CH3CO2)2 where M = Mg, Ca, Sr, Ba, Zn, or Hg, M(CH3CO2)3 where M = B, Al, Ga or In, M[CH3COCH=C(O&amp;lt;&quot;&amp;gt;)CH3]2 where M = Mg, Ca, Sr, Ba, Zn, Cd or Hg, M[CH3COCH=C(O&amp;lt;&quot;&amp;gt;)CH3]3 where M = B, Al, Ga or In, MC2O4 where M = Sr, Ca, Ba or SnC2O4, Cd(OH)2, M(OH)2 where M = Mg, Ca, Sr, Ba, Zn, Hg, and M(CnH35COO)2 where M = Mg, Ca, Sr, Ba, Zn, Cd, Hg.
+</P>
+<P>
+57. A method in accordance with claim 49, wherein the first precursor species is obtained by dissolving an elemental source selected from the group consisting of Mg, Ca, Sr, Ba, Zn, Cd, Hg, B, Al, Ga, In, Sn, and Pb in a suitable solvent.
+</P>
+<P>
+58. A method in accordance with claim 49, wherein the second precursor species is selected from the group consisting of an organo compound, a hydrido compound, an inorganic salt and a coordination compound.
+</P>
+<P>
+59. A method in accordance with claim 58, wherein the organo or hydrido compound is selected from the group consisting of NR3, PR3, AsR3, SbR3, NHR2, PHR2, AsHR2, SbHR2, NH2R, PH2R, AsH2R, SbH2R3, PH3, AsH3, M(NMe)3 where M = P, Sb or As, Me2NNH2, Et-NNN, H2NNH2, Me3SiN3, MR2 where M = S, Se or Te, HMR where M = S, Se or Te and R = Me, Et, &amp;lt;1&amp;gt;Bu, &amp;lt;j&amp;gt;Bu, Pr&amp;lt;1&apos;&amp;gt; or Ph, S=C(NH2)2, Se=C(NH2)2, Sn(CH4)4, Sn(C4H9), and Sn(CH3)2(OOCH3)2.
+</P>
+<P>
+60. A method in accordance with claim 58, wherein the inorganic salt is selected from the group consisting of an oxide and a nitrate.
+</P>
+<P>
+61. A method in accordance with claim 60, wherein the oxide is selected from the group consisting of P2O3, As2O3, Sb2O3, Sb2O4, Sb2O5, Bi2O3, SO2, SeO2, TeO2, Sn2O, PbO, and PbO2.
+</P>
+<P>
+62. A method in accordance with claim 60, wherein the nitrate is selected from the group consisting of Bi(NO3)3, Sn(NO3)4, and Pb(NO3)2.
+</P>
+<P>
+63. A method in accordance with claim 58, wherein the coordination compound is a carbonate selected from the group consisting of MCO3 where M = P, (BiO)2CO3, and M(CO3)2 where M = is a monovalent metal ion.
+</P>
+<P>
+64. A method in accordance with claim 58, wherein the coordination compound is selected from the group consisting of M(CH3CO2)2 where M = S, Se or Te, M(CH3CO2)2 where M = Sn, Pb, M(CH3CO2)4 where M = Sn, Pb5 [CH3COCH=C(O&amp;lt;&quot;&amp;gt;)CH3]3M where M = Bi, [CH3COCH=C(O&amp;lt;&quot;&amp;gt;)CH3]2M where M = S, Se or Te, [CH3COCH=C(O&amp;lt;&quot;&amp;gt;)CH3]2M where M = Sn or Pb, thiourea, and H2NC(=Se)NH2.
+</P>
+<P>
+65. A method in accordance with claim 49, wherein the second precursor species is obtained by dissolving an elemental source selected from the group consisting of Sn, Ge, N, P, As, Sb, Bi, S, Se, Te, Sn and Pb in a suitable solvent.
+</P>
+<P>
+66. A method in accordance with one of claims 1 to 46, wherein the first and second precursor species are part of a single chemical entity in the nanoparticle precursor composition.
+</P>
+<P>
+67. A method in accordance with claim 66, wherein said single chemical entity is selected from the group consisting of an organometallic compound, an inorganic salt and a coordination compound.
+</P>
+<P>
+68. A method in accordance with claim 66, wherein said single chemical entity incorporates ions from group 12 and group 16 of the periodic table.
+</P>
+<P>
+69. A method in accordance with claim 68, wherein said single chemical entity is a bis(dialkyldithio-carbamato)M(II) complex or related Se and Te compounds of the formula M(E2CNR2)2 where M = Zn, Cd, Hg; E = S, Se, O, Te; and R = alkyl or ary group.
+</P>
+<P>
+70. A method in accordance with claim 68, wherein said single chemical entity is selected from the group consisting of CdS, Cd[SSiMe3]2, Cd(SCNHNH2)2Cl2, Cd(SOCR)2-py and CdSe [Cd(SePh)2]2.
+</P>
+<P>
+71. A method in accordance with claim 66, wherein said single chemical entity incorporates ions from group 13 and group 15 of the periodic table.
+</P>
+<P>
+72. A method in accordance with claim 71, wherein said single chemical entity is selected from the group consisting of [(Me)2GaN(H)&amp;lt;1&amp;gt;Bu]2, [H2GaNH2J3, [Ph2GaP(SiMe3)3Ga(Ph)2Cl][Et2GaP(SiMe3)2]2, [Et2GaPEt2]3, [&amp;lt;t&amp;gt;Bu2GaPH2]3 [Me2GaPCPr)2]S, [&amp;lt;1&amp;gt;BuGaPAr&amp;lt;1&amp;gt;J2, [&amp;lt;1&amp;gt;Bu2GaP(H)C5H9J2, Ga(As&amp;lt;1&amp;gt;Bu2)S [Et2GaAs(SiMe3)2J2, [&apos;Bu2GaAs(SiMeS)2J2, [Et2GaSb(SiMe3)2J2, [(Me3SiCH2)2InP(SiMe3)2]2, [R2InP(SiMe3)2]2, [Me2InP&amp;lt;4&amp;gt;Bu2J2, [Me2InSb&amp;lt;4&amp;gt;Bu2J3, [Et2InSb(SiMe3)2J3, [Me2InNEt2J25 [Et2AlAs&amp;lt;1&amp;gt;Bu2J2,
+</P>
+<P>
+[&amp;lt;1&amp;gt;Bu2AlSb(SiMe3^J2, [&quot;Bu2GaAs&amp;lt;4&amp;gt;Bu2J2, [Me2Ga2As&amp;lt;1&amp;gt;Bu2J2, and [Et2GaAs&amp;lt;1&amp;gt;Bu2J2.
+</P>
+<P>
+73. A method in accordance with claim 66, wherein said single chemical entity incorporates ions from group 12 and group 15 of the periodic table.
+</P>
+<P>
+74. A method in accordance with claim 73, wherein said single chemical entity is selected from the group consisting of [MeCdP^Bu2J3, Cd[P(SiPh3)2J2, Zn3P2 and Zn[P(SiPh3)2J2.
+</P>
+<P>
+75. A method in accordance with claim 66, wherein said single chemical entity incorporates ions from group 14 and group 16 of the periodic table.
+</P>
+<P>
+76. A method in accordance with claim 75, wherein said single chemical entity is selected from the group consisting of a lead (II) dithiocarbamate and a lead (II) selenocarbamate.
+</P>
+<P>
+77. A method in accordance with any one of claims 1 to 33, wherein the nanoparticles have cores comprising a core compound comprised of fifth and sixth ions.
+</P>
+<P>
+78. A method in accordance with claim 77, wherein the fifth ion is selected from group 2 of the periodic table and the sixth ion is selected from group 16 of the periodic table.
+</P>
+<P>
+79. A method in accordance with claim 78, wherein the core compound is selected from the group consisting of MgS, MgSe, MgTe, CaS, CaSe, CaTe, SrS, SrSe, SrTe, BaS, BaSe, and BaTe.
+</P>
+<P>
+80. A method in accordance with claim 77, wherein the fifth ion is selected from group 12 of the periodic table and the sixth ion is selected from group 16 of the periodic table.
+</P>
+<P>
+81. A method in accordance with claim 80, wherein the core compound is selected from the group consisting of ZnS, ZnSe, ZnTe, CdS, CdSe, CdTe, HgS, HgSe, and HgTe.
+</P>
+<P>
+82. A method in accordance with claim 77 wherein the fifth ion is selected from group 12 of the periodic table and the sixth ion is selected from group 15 of the periodic table.
+</P>
+<P>
+83. A method in accordance with claim 82, wherein the core compound is selected from the group consisting of Zn3P2, Zn3As2, Cd3P2, Cd3As2, Cd3N2, and
+</P>
+<P>
+Zn3N2.
+</P>
+<P>
+84. A method in accordance with claim 77, wherein the fifth ion is selected from group 13 of the periodic table and the sixth ion is selected from group 15 of the periodic table.
+</P>
+<P>
+85. A method in accordance with claim 84, wherein the core compound is selected from the group consisting of BP, AlP, AlAs, AlSb, GaN, GaP, GaAs, GaSb, InN, InP, InAs, InSb, AlN, and BN.
+</P>
+<P>
+86. A method in accordance with claim 77, wherein the fifth ion is selected from group 13 of the periodic table and the sixth ion is selected from group 14 of the periodic table.
+</P>
+<P>
+87. A method in accordance with claim 86, wherein the core compound is selected from the group consisting of B4C, Al4C3, and Ga4C.
+</P>
+<P>
+88. A method in accordance with claim 77, wherein the firth ion is selected from group 13 of the periodic table and the sixth ion is selected from group 16 of the periodic table.
+</P>
+<P>
+89. A method in accordance with claim 88, wherein the core compound is selected from the group consisting of Al2S3, Al2Se3, Al2Te3, Ga2S3, Ga2Se35GeTe, In2S3, In2Se3, Ga2Te3, In2Te3, and InTe.
+</P>
+<P>
+90. A method in accordance with claim 77, wherein the fifth ion is selected from group 14 of the periodic table and the sixth ion is selected from group 16 of the periodic table.
+</P>
+<P>
+91. A method in accordance with claim 90, wherein the core compound is selected from the group consisting of PbS, PbSe, PbTe, Sb2Te3, SnS, SnSe, and SnTe.
+</P>
+<P>
+92. A method in accordance with claim 77, wherein the fifth ion is selected from the transition metal group of the periodic table and the sixth ion is selected from the d-block of the periodic table.
+</P>
+<P>
+93. A method in accordance with claim 92, wherein the core compound is selected from the group consisting of NiS, CrS, and CuInS2.
+</P>
+<P>
+94. A method in accordance with any one of claims 77 to 93, wherein the nanoparticle cores comprise a dopant selected from the group consisting of a main group element, and a rare earth element.
+</P>
+<P>
+95. A method in accordance with any one of claims 77 to 94, wherein each nanoparticle comprises at least one shell grown onto the nanoparticle core.
+</P>
+<P>
+96. A method in accordance with claim 95, wherein the or each shell has a similar lattice type to the nanoparticle core.
+</P>
+<P>
+97. A method in accordance with claim 95 or 96, wherein the or each shell has a wider band-gap than the nanoparticle core.
+</P>
+<P>
+98. A method in accordance with claim 95, 96 or 97, wherein the or each shell comprises a shell compound comprised of seventh and eighth ions.
+</P>
+<P>
+99. A method in accordance with claim 98, wherein the seventh ion is selected from group 2 of the periodic table and the eighth ion is selected from group 16 of the periodic table.
+</P>
+<P>
+100. A method in accordance with claim 99, wherein the shell compound is selected from the group consisting of MgS, MgSe, MgTe, CaS, CaSe, CaTe, SrS, SrSe, and SrTe.
+</P>
+<P>
+101. A method in accordance with claim 98, wherein the seventh ion is selected from group 12 of the periodic table and the eighth ion is selected from group 16 of the periodic table.
+</P>
+<P>
+102. A method in accordance with claim 101, wherein the shell compound is selected from the group consisting of ZnS, ZnSe, ZnTe, CdS, CdSe, CdTe, HgS, HgSe, and HgTe.
+</P>
+<P>
+103. A method in accordance with claim 98, wherein the seventh ion is selected from group 12 of the periodic table and the eighth ion is selected from group 15 of the periodic table.
+</P>
+<P>
+104. A method in accordance with claim 103 wherein the shell compound is selected from the group consisting of Zn3P2, Zn3As2, Cd3P2, Cd3As2, Cd3N2, and Zn3N2.
+</P>
+<P>
+105. A method in accordance with claim 98, wherein the seventh ion is selected from group 13 of the periodic table and the eighth ion is selected from group 15 of the periodic table.
+</P>
+<P>
+106. A method in accordance with claim 105, wherein the shell compound is selected from the group consisting of BP, AlP, AlAs, AlSb, GaN, GaP, GaAs, GaSb, InN, InP, InAs, InSb, AlN, and BN.
+</P>
+<P>
+107. A method in accordance with claim 98, wherein the seventh ion is selected from group 13 of the periodic table and the eighth ion is selected from group 14 of the periodic table.
+</P>
+<P>
+108. A method in accordance with claim 107, wherein the or each shell compound is selected from the group consisting of B4C, Al4C3, and Ga4C.
+</P>
+<P>
+109. A method in accordance with claim 98, wherein the seventh ion is selected from group 13 of the periodic table and the eighth ion is selected from group 16 of the periodic table.
+</P>
+<P>
+110. A method in accordance with claim 109, wherein the shell compound is selected from the group consisting OfAl2S3, Al2Se3, Al2Te3, Ga2S3, Ga2Se3, In2S3, In2Se3, Ga2Te3, and In2Te3.
+</P>
+<P>
+111. A method in accordance with claim 98, wherein the seventh ion is selected from group 14 of the periodic table and the eighth ion is selected from group 16 of the periodic table.
+</P>
+<P>
+112. A method in accordance with claim 111 wherein the shell compound is selected from the group consisting of PbS, PbSe, PbTe, Sb2Te3, SnS, SnSe, and SnTe.
+</P>
+<P>
+113. A method in accordance with claim 98, wherein the seventh ion is selected from the transition metal group of the periodic table and the eighth ion is selected from the d-block of the periodic table.
+</P>
+<P>
+114. A method in accordance with claim 113, wherein the shell compound is selected from the group consisting of NiS, CrS, and CuInS2.
+</P>
+<P>
+115. A method of producing nanoparticles comprising effecting conversion of a nanoparticle precursor composition to the material of the nanoparticles, said precursor composition comprising a first precursor species containing a first ion to be incorporated into the growing nanoparticles and a separate second precursor species containing a second ion to be incorporated into the growing nanoparticles, said conversion being effected in the presence of a molecular cluster compound under conditions permitting seeding and growth of the nanoparticles, wherein the method comprises dispersing the molecular cluster compound and an initial portion of one of the first and second precursor species which is less than the total amount of said one of the first and second precursor species to be used to produce said nanoparticles in a suitable dispersing medium at a first temperature; increasing the temperature of the dispersing medium containing the cluster compound and said one of the first and second precursor species to a second temperature which is sufficient to initiate seeding and growth of the nanoparticles on the molecular clusters of said molecular cluster compound; and adding one or more further portions of said one of the first and second precursor species to the dispersing medium containing the growing nanoparticles, wherein the temperature of the dispersing medium containing the growing nanoparticles is increased before, during and/or after the addition of the or each further portion of said one of the first and second precursor species.
+</P>
+<P>
+116. A method in accordance with claim 115, wherein the method further comprises adding to the dispersing medium when the dispersing medium is at said second temperature an initial portion of the other of the first and second precursor species which is less than the total amount of said other of said first and second precursor species to be used to produce said nanoparticles.
+</P>
+<P>
+117. A method in accordance with claim 116, wherein one or more further portions of said other of said first and second precursor species are added to the dispersing medium containing the growing nanoparticles.
+</P>
+<P>
+118. A method in accordance with claim 117, wherein the temperature of the dispersing medium containing the growing nanoparticles is increased before, during and/or after the addition of the or each further portion of said other of the first and second precursor species.
+</P>
+<P>
+119. A method in accordance with claim 117, wherein the temperature of the dispersing medium containing the growing nanoparticles is maintained at approximately said second temperature during the addition of the or each further portion of said other of the first and second precursor species.
+</P>
+<P>
+120. A method in accordance with any one of claims 115 to 119, wherein nanoparticle growth is terminated by reducing the temperature of the solution from the second temperature to a third temperature.
+</P>
+<P>
+121. A method in accordance with any one of claims 115 to 120, wherein the temperature of the dispersing medium containing the growing nanoparticles is increased from the first temperature to the second temperature at a rate in the range 0.05 [deg.]C/min to 2 [deg.]C/min. W
+</P>
+<P>
+122. A method in accordance with any one of claims 115 to 120, wherein the temperature of the dispersing medium containing the growing nanoparticles is increased from the first temperature to the second temperature at a rate in the range 0.5 [deg.]C/min to 1.5 [deg.]C/min.
+</P>
+<P>
+123. A method in accordance with any one of claims 115 to 122, wherein said first temperature is in the range 15 [deg.]C to 80 [deg.]C.
+</P>
+<P>
+124. A method in accordance with any one of claims 115 to 123, wherein said second temperature is in the range 140 [deg.]C to 300 [deg.]C.
+</P>
+<P>
+125. A method in accordance with any one of claims 115 to 124, wherein the or each further portion of at least one of the first and second precursor species is added dropwise to the dispersing medium containing the growing nanoparticles.
+</P>
+</Claims>
+<Also_published_as>
+WO2007049052A2;WO2007049052A3;US2007104865A1;US7867556B2;KR20080065296A;JP2009514993A;CN101346306A;CA2626281A1;AU2006307668A1;AU2006307668B2
+</Also_published_as>
+</BiblioData>

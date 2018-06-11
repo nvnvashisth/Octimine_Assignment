@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MEMORY CELLS, ELECTRONIC SYSTEMS, METHODS OF FORMING MEMORY CELLS, AND METHODS OF PROGRAMMING MEMORY CELLS
+</Title>
+<PublicationNumber>
+EP2198457A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MIN KYU S [US]
+</Name>
+<Name>
+BREWER RHETT T [US]
+</Name>
+<Name>
+KRISHNAMOHAN TEJAS [US]
+</Name>
+<Name>
+GRAETTINGER THOMAS M [US]
+</Name>
+<Name>
+RAMASWANY D V NIRMAL [US]
+</Name>
+<Name>
+WEIMER RONALD A [US]
+</Name>
+<Name>
+BHATTACHARYYA ARUP [US]
+</Name>
+<Name>
+MIN, KYU, S
+</Name>
+<Name>
+BREWER, RHETT, T
+</Name>
+<Name>
+KRISHNAMOHAN, TEJAS
+</Name>
+<Name>
+GRAETTINGER, THOMAS, M
+</Name>
+<Name>
+RAMASWANY, D., V., NIRMAL
+</Name>
+<Name>
+WEIMER, RONALD, A
+</Name>
+<Name>
+BHATTACHARYYA, ARUP
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MICRON TECHNOLOGY INC [US]
+</Name>
+<Name>
+MICRON TECHNOLOGY, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2198457
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080838789
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-09-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US77383
+</PriorityNumber>
+<PriorityDate>
+2008-09-23
+</PriorityDate>
+<PriorityNumber>
+US20070871339
+</PriorityNumber>
+<PriorityDate>
+2007-10-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C11/56
+</Class>
+<Class>
+G11C16/04
+</Class>
+<Class>
+H01L29/423
+</Class>
+<Class>
+H01L27/115
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C11/56M
+</Class>
+<Class>
+G11C16/04M2
+</Class>
+<Class>
+G11C16/04N
+</Class>
+<Class>
+H01L21/28F
+</Class>
+<Class>
+H01L21/28G
+</Class>
+<Class>
+H01L29/423D2B2C
+</Class>
+<Class>
+H01L29/423D2B3C
+</Class>
+</NCL>
+<Abstract>
+Some embodiments include memory cells having vertically-stacked charge-trapping zones spaced from one another by dielectric material. The dielectric material may comprise high-k material. One or more of the charge-trapping zones may comprise metallic material. Such metallic material may be present as a plurality of discrete isolated islands, such as nanodots. Some embodiments include methods of forming memory cells in which two charge-trapping zones are formed over tunnel dielectric, with the zones being vertically displaced relative to one another, and with the zone closest to the tunnel dielectric having deeper traps than the other zone. Some embodiments include electronic systems comprising memory cells. Some embodiments include methods of programming memory cells having vertically-stacked charge-trapping zones.
+</Abstract>
+<Claims>
+<P>
+1. I/We claim: 1. A memory cell comprising a pair of charge-trapping zones spaced from one another by a region comprising at least one dielectric material that contains a lanthanide, oxygen and nitrogen.
+</P>
+<P>
+2. The memory cell of claim 1 further comprising a tunnel dielectric between one of the charge-trapping zones and an underlying semiconductor substrate, and wherein the tunnel dielectric comprises at least one dielectric material that contains a lanthanide and oxygen.
+</P>
+<P>
+3. The memory cell of claim 1 wherein at least one of the charge-trapping zones of said pair comprises a plurality of discrete islands.
+</P>
+<P>
+4. The memory cell of claim 1 wherein both of the charge-trapping zones of said pair comprise a plurality of nanoparticles.
+</P>
+<P>
+5. The memory cell of claim 1 wherein both of the charge-trapping zones of said pair comprise a plurality of nanodots.
+</P>
+<P>
+6. The memory cell of claim 5 the nanodots of one of the charge-trapping zones have a first population density, and wherein the nanodots of the other of the charge-trapping zones have a second population density that is at least 10% different than the first population density.
+</P>
+<P>
+7. The memory cell of claim 5 wherein all of the nanodots of one of the charge-trapping zones form a first population having a first average cross-sectional dimension; wherein all of the nanodots of the other of the charge-trapping zones form a second population having a second average cross-sectional dimension; and wherein the first average cross-sectional dimension is at least 10% different than the second average cross-sectional dimension.
+</P>
+<P>
+8. The memory cell of claim 7 wherein:
+</P>
+<P>
+the charge trapping zones are vertically stacked relative to one another, with one of the charge trapping zones being a lower charge trapping zone and the other being an upper charge trapping zone;
+</P>
+<P>
+the memory cell further comprises tunnel dielectric between the lower charge trapping zone and an underlying semiconductor substrate; and
+</P>
+<P>
+the nanodot population of the upper charge-trapping zone has a smaller average cross-sectional dimension than the nanodot population of the lower charge trapping zone.
+</P>
+<P>
+9. The memory cell of claim 1 wherein the charge-trapping zones of said pair differ in trapping energy from one another.
+</P>
+<P>
+10. The memory cell of claim 1 wherein the charge-trapping zones of said pair are the same in composition as one another.
+</P>
+<P>
+11. A memory cell comprising:
+</P>
+<P>
+a tunnel dielectric;
+</P>
+<P>
+a first nanodot zone over the tunnel dielectric, the nanodots of the first nanodot zone having a first population density;
+</P>
+<P>
+a second nanodot zone over the first nanodot zone, the nanodots of the second nanodot zone having a second population density that is at least about 10% different from the first population density;
+</P>
+<P>
+at least one spacing material between the first and second nanodot zones; and
+</P>
+<P>
+a control gate over the second nanodot zone.
+</P>
+<P>
+12. A memory cell comprising:
+</P>
+<P>
+a tunnel dielectric;
+</P>
+<P>
+a first nanodot zone over the tunnel dielectric, the nanodots of the first nanodot zone having a first average cross-sectional dimension;
+</P>
+<P>
+a second nanodot zone over the first nanodot zone, the nanodots of the second nanodot zone having a second average cross-sectional dimension that is at least about 10% different from the first average cross-sectional dimension;
+</P>
+<P>
+at least one spacing material between the first and second nanodot zones; and
+</P>
+<P>
+a control gate over the second nanodot zone.
+</P>
+<P>
+13. The memory cell of claim 12 wherein the second average cross-sectional dimension is less than the first average cross-sectional dimension.
+</P>
+<P>
+14. The memory cell of claim 12 wherein the at least one spacing material includes one or more of silicon nitride, lanthanide aluminates, lanthanide oxides, lanthanide oxynitrides, lanthanide silicates, hafnium oxide, aluminum oxide, hafnium aluminum oxide, hafnium silicate, hafnium silicon oxynitride, silicon dioxide, zirconium silicon oxynitride, zirconium aluminate, zirconium silicate and zirconium oxide.
+</P>
+<P>
+15. The memory cell of claim 12 further comprising one or more additional nanodot zones over the second nanodot zone.
+</P>
+<P>
+16. The memory cell of claim 15 wherein one of said one or more additional nanodot zones is a third nanodot zone, and wherein the first, second and third nanodot zones differ from one another in trap depth.
+</P>
+<P>
+17. The memory cell of claim 15 comprising a total number of nanodot zones of from 3 to 5.
+</P>
+<P>
+18. An electronic system, comprising:
+</P>
+<P>
+a processor; and
+</P>
+<P>
+memory in data communication with the processor, the memory comprising a plurality of memory cells; at least some of the individual memory cells comprising:
+</P>
+<P>
+tunnel dielectric;
+</P>
+<P>
+a first charge-trapping zone over the tunnel dielectric;
+</P>
+<P>
+a spacing dielectric material over the first charge-trapping zone;
+</P>
+<P>
+a second charge-trapping zone over the spacing dielectric material;
+</P>
+<P>
+a blocking dielectric over the second charge-trapping zone;
+</P>
+<P>
+a control gate over the blocking dielectric;
+</P>
+<P>
+wherein the first and second charge trapping zones comprise first and second nanoparticles, respectively; and
+</P>
+<P>
+wherein the first and second nanoparticles form first and second populations, respectively, that differ from one another in population density.
+</P>
+<P>
+19. The electronic system of claim 18 wherein the blocking dielectric comprises one or both of hafnium oxide and zirconium oxide.
+</P>
+<P>
+20. The electronic system of claim 18 wherein the blocking dielectric comprises one or more of hafnium silicon oxynitride, zirconium silicon oxynitride, zirconium aluminate, silicon dioxide, silicon aluminum oxynitride, aluminum hafnium oxynitride, silicon tantalum oxynitride, and aluminum tantalum oxynitride.
+</P>
+<P>
+21. The electronic system of claim 18 wherein said at least some of the individual memory cells comprise at least one more charge-trapping zone in addition to the first and second zones.
+</P>
+<P>
+22. The electronic system of claim 18 wherein said at least some of the individual memory cells comprise at least one more charge-trapping zone in addition to the first and second zones; and wherein all of the charge-trapping zones are spaced from one another by intervening layers of spacing dielectric material that contains one or more lanthanide oxynitrides.
+</P>
+<P>
+23. The electronic system of claim 22 wherein said at least some of the individual memory cells comprise a total number of charge-trapping zones of from 3 to 5.
+</P>
+<P>
+24. The electronic system of claim 18 wherein:
+</P>
+<P>
+said at least some of the individual memory cells comprise a third charge-trapping zone in addition to the first and second zones;
+</P>
+<P>
+the third charge trapping zone is over the second charge trapping zone; and
+</P>
+<P>
+the first, second and third charge-trapping zones differ from one another in trap depth; with the first charge-trapping zone having the deepest trap depth, the third charge-trapping zone having the shallowest trap depth, and the second charge-trapping zone having a trap depth intermediate that of the first charge-trapping zone and that of the third charge-trapping zone.
+</P>
+<P>
+25. A method of programming a plurality of memory cells that each have three vertically stacked charge-trapping zones, comprising:
+</P>
+<P>
+in at least one of the memory cells, injecting electrons into primarily only the lowest of the charge-trapping zones to achieve one memory state;
+</P>
+<P>
+in at least one of the memory cells, injecting electrons through the lowest of the charge-trapping zones and into a charge-trapping zone above the lowest of the charge-trapping zones to achieve another memory state; and
+</P>
+<P>
+in at least one of the memory cells, injecting the electrons through the lowest two of the charge-trapping zones and into the third of the charge-trapping zones to achieve a third memory state.
+</P>
+<P>
+26. A method of programming an array of memory cells, comprising:
+</P>
+<P>
+providing the individual memory cells of the array to comprise three vertically-stacked separate charge-trapping zones separated from one another by dielectric material;
+</P>
+<P>
+programming at least one of the memory cells to a first memory state by providing charge to primarily only one of the three charge-trapping zones;
+</P>
+<P>
+programming at least one of the memory cells to a second memory state by providing charge to primarily only two of the three charge-trapping zones; and
+</P>
+<P>
+programming at least one of the memory cells to a third memory state by providing charge to all three of the charge-trapping zones.
+</P>
+<P>
+27. The method of claim 26 wherein the dielectric material comprises high-k dielectric material between at least two of the charge-trapping zones.
+</P>
+<P>
+28. The method of claim 26 wherein at least one of the three charge-trapping zones comprises metal.
+</P>
+<P>
+29. The method of claim 26 wherein at least one of the three charge-trapping zones comprises nanoparticles.
+</P>
+<P>
+30. The method of claim 26 wherein the three charge-trapping zones each consists of nanoparticles.
+</P>
+<P>
+31. A method of programming an array of memory cells, comprising:
+</P>
+<P>
+providing the individual memory cells of the array to comprise three separate charge-trapping zones separated from one another by dielectric material;
+</P>
+<P>
+providing the memory cells to initially be in a first memory state;
+</P>
+<P>
+lifting a programming state of at least one of the memory cells from the first memory state to a second memory state by injecting charge to primarily only one of the three charge-trapping zones;
+</P>
+<P>
+lifting a programming state of at least one of the memory cells from the second memory state to a third memory state by injecting charge to primarily only two of the three charge-trapping zones; and
+</P>
+<P>
+lifting a programming state of at least one of the memory cells from the third memory state to a fourth memory state by injecting charge to all three of the charge-trapping zones.
+</P>
+<P>
+32. The method of claim 31 wherein the dielectric material comprises high-k dielectric material between at least two of the charge-trapping zones.
+</P>
+<P>
+33. The method of claim 31 wherein at least one of the three charge-trapping zones comprises metal.
+</P>
+<P>
+34. The method of claim 31 wherein at least one of the three charge-trapping zones comprises nanoparticles.
+</P>
+<P>
+35. The method of claim 31 wherein the three charge-trapping zones each consists of nanoparticles.
+</P>
+</Claims>
+<Also_published_as>
+EP2198457A4;US2009097320A1;US7898850B2;US2011133268A1;WO2009051944A2;WO2009051944A3;TW200935606A;KR20100071101A;JP2010541296A;CN101821849A
+</Also_published_as>
+</BiblioData>

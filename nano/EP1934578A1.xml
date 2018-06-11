@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR EXAMINING A MEASUREMENT OBJECT, AND APPARATUS
+</Title>
+<PublicationNumber>
+EP1934578A1
+</PublicationNumber>
+<Inventor>
+<Name>
+JAEHNKE TORSTEN [DE]
+</Name>
+<Name>
+JAEHNKE, TORSTEN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+JPK INSTR AG [DE]
+</Name>
+<Name>
+JPK INSTRUMENTS AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1934578
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060761735
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-06-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006DE01131
+</PriorityNumber>
+<PriorityDate>
+2006-06-30
+</PriorityDate>
+<PriorityNumber>
+DE200510049562
+</PriorityNumber>
+<PriorityDate>
+2005-10-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q30/02
+</Class>
+<Class>
+G01Q30/06
+</Class>
+<Class>
+G01Q60/02
+</Class>
+<Class>
+G01Q60/18
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q30/02
+</Class>
+<Class>
+G01Q30/06
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a method for examining a measurement object (2, 12), in which the measurement object (2, 12) is examined by means of scanning probe microscopy using a measurement probe (10) of a scanning probe measurement device and in which at least one subsection (1) of the measurement object (2, 12) is optically examined, in an observation region associated with an optical measurement system, using the optical measurement system, wherein displacement of the at least one subsection (1) of the measurement object (2, 12) from the observation region, said displacement being caused by the examination by means of scanning probe microscopy, is corrected in such a manner that the at least one displaced subsection (1) of the measurement object (2, 12) is arranged in the observation region again with the aid of an adjusting device which processes data signals which characterize the displacement.
+</Abstract>
+<Claims>
+<P>
+Ansprüche
+</P>
+<P>
+1. Verfahren zum Untersuchen eines Messobjektes (2, 12), bei dem das Messobjekt (2, 12) mit einer Messsonde (10) einer Rastersondenmesseinrichtung rastersondenmikroskopisch untersucht wird und bei dem zumindest ein Teilabschnitt (1) des Messobjektes (2, 12) in einem einem optischen Messsystem zugeordneten Beobachtungsbereich optisch mit dem optischen Messsystem untersucht wird, wobei eine durch die rastersondenmikroskopische Untersuchung verursachte Verlagerung des zumindest einen Teilabschnittes (1) des Messobjektes (2, 12) aus dem Beobachtungsbereich heraus korrigiert wird, derart, dass der zumindest eine verlagerte Teilabschnitt (1) des Messobjektes (2, 12) mit Hilfe einer Nachstelleinrichtung, welche die Verlagerung charakterisierende Datensignale verarbeitet, wieder in dem Beobachtungsbereich angeordnet wird.
+</P>
+<P>
+2. Verfaliren nach Anspruch 1 , dadurch g ek enn z e i chn et, dass beim Wiederanordnen des zumindest einen Teilabschnittes (1) des Messobjektes (2, 12) in dem Beobachtungsbereich des optischen Messsystems der Beobachtungsbereich verändert eingestellt wird.
+</P>
+<P>
+3. Verfahren nach Anspruch 2, dadurch g ek enn z e i chn et, dass beim veränderten Einstellen des Beobachtungsbereiches das optische Messsystem verlagert wird.
+</P>
+<P>
+4. Verfahren nach einem der vorangehenden Ansprüche, dadurch g ek ennz ei chn et, dass beim Wiederanordnen des zumindest einen verlagerten Teilabschnittes (1) des Messobjektes (2, 12) in dem Beobachtungsbereich des optischen Messsystems eine Positionierung des Messobjektes (2, 12) verändert eingestellt wird.
+</P>
+<P>
+5. Verfahren nach einem der vorangehenden Ansprüche, dadurch g e k e nnz e i c hn et, dass der zumindest eine Teilabschnitt (1) des Messobjektes (2, 12) bei der durch die rastersondenmikroskopische Untersuchung verursachten Verlagerung aus dem Beobachtungsbereich heraus auf zumindest eine der folgenden Arten verlagert wird: räumliche Verlagerung und Verlagerung in einer zweidimensionalen Ebene.
+</P>
+<P>
+6. Verfahren nach einem der vorangehenden Ansprüche, dadurch gekennzeichnet, dass die die Verlagerung charakterisierenden Datensignale unter Verwendung von Datensignalen der rastersondenmikroskopischen Untersuchung abgeleitet werden.
+</P>
+<P>
+7. Verfahren nach Anspruch 6, dadurch gekennzeichnet, dass die Datensignale der rastersondenmikroskopischen Untersuchung Datensignale für eine Biegung der Messsonde (10) bei der rastersondenmikroskopischen Untersuchung umfassend gebildet werden.
+</P>
+<P>
+8. Verfahren nach Anspruch 6 oder 7, dadurch gekennzeichnet, dass die Datensignale der rastersondenmikroskopischen Untersuchung Datensignale für eine Verlagerung einer
+</P>
+<P>
+Messsondenaufnahme (11) bei der rastersondenmikroskopischen Untersuchung umfassend gebildet werden.
+</P>
+<P>
+9. Verfahren nach einem der Ansprüche 6 bis 8, dadurch gekennzeichnet, dass die Datensignale der rastersondenmikroskopischen Untersuchung Datensignale für eine Verlagerung einer Auflage (3) des Messobjektes (2, 12) bei der rastersondenmikroskopischen Untersuchung umfassend gebildet werden.
+</P>
+<P>
+10. Verfahren nach einem der Ansprüche 6 bis 9, dadurch gekennzeichnet, dass die Datensignale der rastersondenmikroskopischen Untersuchung Datensignale für ein modelliertes Verhalten des Messobjektes (2, 12) bei der rastersondenmikroskopischen Untersuchung umfassend gebildet werden.
+</P>
+<P>
+11. Verfahren nach einem der Ansprüche 6 bis 10, dadurch gekennzeichnet, dass die Datensignale der rastersondenmikroskopischen Untersuchung Datensignale für eine äussere Formveränderung des Messobjektes (2, 12) bei der rastersondenmikroskopischen Untersuchung umfassend gebildet werden.
+</P>
+<P>
+12. Verfahren nach einem der Ansprüche 6 bis 11, dadurch gekennzeichnet, dass die Datensignale der rastersondenmikroskopischen Untersuchung Rasterkraft-Datensignale umfassend gebildet werden.
+</P>
+<P>
+13. Verfahren nach Anspruch 12, dadurch gekennzeichnet, dass die Datensignale der rastersondenmikroskopischen Untersuchung Abstandsspektroskopie-Datensignale umfassend gebildet werden.
+</P>
+<P>
+14. Verfahren nach einem der vorangehenden Ansprüche, dadurch g e k e nnz e i c hn e t, dass bei der rastersondenmikroskopischen Untersuchung mit der Rastersondenmesseinrichtung zumindest eines der folgenden Verfahren ausgeführt wird: Rasterkraftmikroskopie, Rastertunnelmikroskopie, Rasterphotonenmikroskopie und Rasternahfeldmikroskopie.
+</P>
+<P>
+15. Verfahren nach einem der vorangehenden Ansprüche, dadurch g ek ennz e i chn e t, dass bei der optischen Untersuchung mit dem optischen Messsystem zumindest eines der folgenden Verfahren ausgeführt wird: lichtmikroskopische Untersuchung, Fluoreszenzmessverfahren und Absorptionsmessverfahren.
+</P>
+<P>
+16. Verfahren nach einem der vorangehenden Ansprüche, dadurch g ek enn z ei chn et, dass bei der optischen Untersuchung des zumindest einen Teilabschnittes des Messobjektes (2, 12) als Beobachtungsbereich ein Fokusbereich (31) des optischen Messsystems genutzt wird und der zumindest eine verlagerte Teilabschnitt (1) des Messobjektes (2, 12) mit Hilfe der Nachstelleinrichtung wieder in dem Fokusbereich (31) des optischen Messsystems angeordnet wird.
+</P>
+<P>
+17. Vorrichtung zum Untersuchen eines Messobjektes (2, 12) mit einer Rastersondenmesseinrichtung zum rastersondenmikroskopischen Untersuchen des Messobjektes (2, 12) und einem optischen Messsystem zum optischen Untersuchen des Messobjektes (2, 12), wobei eine Nachstelleinrichtung vorgesehen ist, die konfiguriert ist, um zumindest einen Teilabschnitt (1) des Messobjektes (2, 12), welcher mit dem optischen Messsystem in einem dem optischen Messsystem zugeordneten Beobachtungsbereich optisch untersucht wird, wieder in dem Beobachtungsbereich anzuordnen, wenn der zumindest eine Teilabschnitt (1) des Messobjektes (2, 12) aufgrund einer durch die rastersondenmikroskopische Untersuchung verursachten Verlagerung aus dem Beobachtungsbereich heraus verlagert ist.
+</P>
+<P>
+18. Vorrichtung nach 17, dadurch gekennzeichnet, dass die Nachstelleinrichtung eine Stelleinrichtung (50) des optischen Messsystems zum Verlagern mindestens eines verlagerbaren Teils (30) des optischen Messsystems aufweist.
+</P>
+<P>
+19. Vorrichtung nach 17 oder 18, dadurch gekennzeichnet, dass die Nachstelleinrichtung eine Stelleinrichtung (40) der Messsonde der Rastersondenmesseinrichtung zum Verlagern der Messsonde aufweist.
+</P>
+<P>
+20. Vorrichtung nach einem der Ansprüche 16 bis 19, dadurch gekennzeichnet, dass die Nachstelleinrichtung eine Stelleinrichtung (40b) einer Auflage (3) für das Messobjekt
+</P>
+<P>
+(2, 12) zum Verlagern der Messobjektes aufweist.
+</P>
+<P>
+21. Vorrichtung nach einem der Ansprüche 16 bis 20, dadurch gekennzeichnet, dass der Nachstelleinrichtung eine Messeinrichtung (60, 61) zum Messen einer Biegung der Messsonde (10) bei der rastersondenmikroskopischen Untersuchung des Messobjektes zugeordnet ist.
+</P>
+<P>
+22. Vorrichtung nach einem der Ansprüche 16 bis 21, dadurch gekennzeichnet, dass der Nachstelleinrichtung eine Messeinrichtung (52) zum Messen einer Verlagerung der Aufnahme für das Messobjekt bei der rastersondenmikroskopischen Untersuchung des
+</P>
+<P>
+Messobjektes zugeordnet ist.
+</P>
+<P>
+23. Vorrichtung nach einem der Ansprüche 16 bis 22, dadurch gekennzeichnet, dass der Nachstelleinrichtung eine Messeinrichtung (52) zum Messen einer Verlagerung der Messsonde (10) der Rastersondenmesseinrichtung bei der rastersondenmikroskopischen
+</P>
+<P>
+Untersuchung des Messobjektes zugeordnet ist.
+</P>
+<P>
+24. Vorrichtung nach einem der Ansprüche 16 bis 23, dadurch gekennzeichnet, dass die Nachstelleinrichtung eine Steuereinrichtung (51) zum Erzeugen von Nachstell-DatenSignalen aufweist, welche aus Datensignalen abgeleitet sind, die die Verlagerung des zumindest einen Teilabschnittes (1) des Messobjektes (2, 12) aus dem Beobachtungsbereich heraus charakterisieren.
+</P>
+<P>
+25. Vorrichtung nach einem der Ansprüche 16 bis 24, dadurch gekennzeichnet, dass mit der Rastersondenmesseinrichtung zumindest eine der folgenden Rastersondenmesseinrichtungen implementiert ist: Rasterkraftmikroskop, Rastertunnelmikroskop, Rasterphotonenmikroskop und Rasternahfeldmikroskop.
+</P>
+<P>
+26. Vorrichtung nach einem der Ansprüche 16 bis 25, dadurch gekennzeichnet, dass mit dem optischen Messsystem zumindest eine der folgenden optischen Messeinrichtungen implementiert ist: Lichtmikroskop, Fluoreszenzmesseinrichtung und Absorptionsmesseinrichtung.
+</P>
+</Claims>
+<Also_published_as>
+WO2007041976A1;US2009205089A1;JP2009511882A;CN101326433A
+</Also_published_as>
+</BiblioData>

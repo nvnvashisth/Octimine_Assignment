@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FORMATION OF NANOSTRUCTURES COMPRISING COMPOSITIONALLY MODULATED FERROMAGNETIC LAYERS BY PULSED ECD
+</Title>
+<PublicationNumber>
+EP2118914A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DELIGIANNI HARIKLIA [US]
+</Name>
+<Name>
+HUANG QIANG [US]
+</Name>
+<Name>
+ROMANKIW LUBOMYR T [US]
+</Name>
+<Name>
+DELIGIANNI, HARIKLIA
+</Name>
+<Name>
+HUANG, QIANG
+</Name>
+<Name>
+ROMANKIW, LUBOMYR, T
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBM [US]
+</Name>
+<Name>
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2118914
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070874503
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US20646
+</PriorityNumber>
+<PriorityDate>
+2007-09-25
+</PriorityDate>
+<PriorityNumber>
+US20070620480
+</PriorityNumber>
+<PriorityDate>
+2007-01-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+C25D5/02
+</Class>
+<Class>
+C25D5/10
+</Class>
+<Class>
+C25D5/18
+</Class>
+<Class>
+H01F1/00
+</Class>
+<Class>
+H01F10/12
+</Class>
+<Class>
+H01F41/26
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+C25D5/02B
+</Class>
+<Class>
+C25D5/10
+</Class>
+<Class>
+C25D5/18
+</Class>
+<Class>
+H01F1/00E11
+</Class>
+<Class>
+H01F41/26
+</Class>
+</NCL>
+<Abstract>
+The present invention is related to a method for forming a structure that contains alternating first and second ferromagnetic layers of different material compositions. A substrate containing a supporting matrix with at least one open pore and a conductive base layer is first formed. Electroplating of the substrate is then carried out in an electroplating solution that contains at least one ferromagnetic metal element and one or more additional, different metal elements. A pulsed current with alternating high and low potentials is applied to the conductive base layer of the substrate structure to thereby form alternating ferromagnetic layers of different material compositions in the open pore of the supporting matrix.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method comprising:
+</P>
+<P>
+forming a substrate structure comprising a supporting matrix having at least one open pore extending therethrough onto a conductive base layer;
+</P>
+<P>
+electroplating said substrate structure by immersing the substrate structure in an electroplating solution that comprises at least one ferromagnetic metal element and one or more additional, different metal elements, either ferromagnetic or nonmagnetic, and applying a pulsed electroplating potential with alternating high and low pulses to the conductive base layer of said substrate structure, thereby depositing at least a plurality of alternating ferromagnetic layers of different material compositions in the at least one open pore.
+</P>
+<P>
+2. The method of claim 1, wherein said open pore has a cross-sectional diameter ranging from about 10 nm to about 1000 nm.
+</P>
+<P>
+3. The method of claim 1, wherein the electroplating solution comprises a first ferromagnetic metal element and a second, different ferromagnetic metal element, wherein some of the deposited ferromagnetic layers comprise the first ferromagnetic metal element, and wherein others of the deposited ferromagnetic layers comprise the second, different ferromagnetic metal element.
+</P>
+<P>
+4. The method of claim 1, wherein the electroplating solution comprises a first ferromagnetic metal element and a second, different ferromagnetic metal element, and wherein the alternating ferromagnetic layers all comprise the first and second ferromagnetic metal elements, but in different proportions.
+</P>
+<P>
+5. The method of claim 1, wherein the electroplating solution comprises a ferromagnetic metal element and a non-ferromagnetic metal element, and wherein the alternating ferromagnetic layers all comprise the ferromagnetic metal element and the non-ferromagnetic metal element, but in different proportions.
+</P>
+<P>
+6. The method of claim 1, wherein the electroplating solution comprises a ferromagnetic metal element, a first non-ferromagnetic metal element, and a second, different non-ferromagnetic metal element, wherein some of the deposited ferromagnetic layers comprise the ferromagnetic metal element alloyed with the first non-ferromagnetic metal element, and wherein others of the deposited ferromagnetic layers comprise the ferromagnetic metal element alloyed with the second, different non-ferromagnetic metal element.
+</P>
+<P>
+7. The method of claim 1, wherein the supporting matrix comprises a material selected from the group consisting of photoresists, e-beam and x-ray resist dielectric materials, and mixtures thereof.
+</P>
+<P>
+8. The method of claim 1, wherein the supporting matrix comprises a material selected from the group consisting of Si, SiO2, Si3N4, Al, Al2O3, and mixtures thereof.
+</P>
+<P>
+9. The method of claim 1, wherein the conductive base layer comprises a material selected from the group consisting of Au, Cu, Pt, Pd, Ag, Si, GaAs, and alloys thereof.
+</P>
+<P>
+10. The method of claim 1, wherein the high pulses of the pulsed electroplating potential range from about -1.0 V to about -1.8 V as measured against a saturated calomel electrode (SCE), and the low pulses of the pulsed electroplating current range from about -0.3 V to about -1.4 V as measured against the SCE.
+</P>
+<P>
+11. The method of claim 1, wherein the pulsed electroplating potential comprises high pulses of different potential values and/or low potentials of different potential values or both, thereby forming alternating ferromagnetic layers of more than two different material compositions.
+</P>
+<P>
+12. The method of claim 1, further comprising magnetizing the alternating ferromagnetic layers to form a plurality of alternating magnetic domains of opposite directions that are separated from each other by domain walls located therebetween, and wherein said magnetic domains and domain walls are movable across the alternating ferromagnetic layers upon application of a driving current.
+</P>
+<P>
+13. A nanostructure having a cross-sectional diameter ranging from about 10 nm to about 1000 nm and comprising at least a plurality of alternating ferromagnetic layers of different material compositions.
+</P>
+<P>
+14. The nanostructure of claim 13, wherein some of the ferromagnetic layers comprise a first ferromagnetic metal element, and wherein others of the ferromagnetic layers comprise a second, different ferromagnetic metal element.
+</P>
+<P>
+15. The nanostructure of claim 13, wherein all of the ferromagnetic layers comprise a first ferromagnetic metal element and a second, different ferromagnetic metal element, but in different proportions.
+</P>
+<P>
+16. The nanostructure of claim 13, wherein all of the ferromagnetic layers comprise a ferromagnetic metal element and a non-ferromagnetic metal element, but in different proportions.
+</P>
+<P>
+17. The nanostructure of claim 13, wherein some of the ferromagnetic layers comprise a ferromagnetic metal element alloyed with a first non-ferromagnetic metal element, and wherein others of the ferromagnetic layers comprise the ferromagnetic metal element alloyed with a second, different non-ferromagnetic metal element.
+</P>
+<P>
+18. The nanostructure of claim 13, wherein the first and second ferromagnetic layers both comprise Ni-Fe alloys but with different proportions of Ni and Fe.
+</P>
+<P>
+19. The nanostructure of claim 13, comprising alternating ferromagnetic layers of more than two different material compositions.
+</P>
+<P>
+20. The nanostructure of claim 13, further comprising a plurality of alternating magnetic domains of opposite directions that are separated from each other by domain walls located therebetween, and wherein said magnetic domains and domain walls are movable across the alternating ferromagnetic layers upon application of a driving current to said nanostructure.
+</P>
+</Claims>
+<Also_published_as>
+EP2118914A4;US2008166584A1;US7736753B2;WO2008130371A1;US2009301890A1;KR20090095591A;JP2010515820A;CN101681706A;CN101681706B
+</Also_published_as>
+</BiblioData>

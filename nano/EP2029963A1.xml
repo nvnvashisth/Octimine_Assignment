@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+GAP MEASURING METHOD, IMPRINT METHOD, AND IMPRINT APPARATUS
+</Title>
+<PublicationNumber>
+EP2029963A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SUEHIRA NOBUHIKO [JP]
+</Name>
+<Name>
+SEKI JUNICHI [JP]
+</Name>
+<Name>
+FURUKAWA YUKIO [JP]
+</Name>
+<Name>
+INA HIDEKI [JP]
+</Name>
+<Name>
+SUEHIRA, NOBUHIKO
+</Name>
+<Name>
+SEKI, JUNICHI
+</Name>
+<Name>
+FURUKAWA, YUKIO
+</Name>
+<Name>
+INA, HIDEKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2029963
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070790404
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP61401
+</PriorityNumber>
+<PriorityDate>
+2007-05-30
+</PriorityDate>
+<PriorityNumber>
+JP20060151023
+</PriorityNumber>
+<PriorityDate>
+2006-05-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01B11/14
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F9/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G01B11/14
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G03F9/00
+</Class>
+<Class>
+G03F9/70B6G
+</Class>
+<Class>
+G03F9/70N
+</Class>
+</NCL>
+<Abstract>
+A gap measuring method for measuring a gap between two members by irradiating the two members, which are disposed opposite to each other, with light from one member side to obtain spectral data about intensity of reflected light or transmitted light from the other member side;  and determining a gap between the first and the second member by comparing the obtained spectral data with a database in which a gap length and an intensity spectrum are correlated with each other. The gap measuring method is used to control the gap between mold and substrate in an imprint method and apparatus for nano-imprinting.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A gap measuring method for measuring a gap between two members by irradiating the two members with light, said gap measuring method comprising: preparing a first member and a second member which are disposed opposite to each other; irradiating the first member and the second member with light from one member side to obtain spectral data about intensity of reflected light or transmitted light from the other member side; and determining a gap between the first member and the second member by comparing the obtained spectral data with a database in which a gap length and an intensity spectrum are correlated with each other.
+</P>
+<P>
+2. A method according to Claim 1, wherein the first member and the second member are disposed with a gap smaller than 1/4 of a wavelength of the irradiation light.
+</P>
+<P>
+3. An imprint method for forming a pattern by interposing a pattern forming material between two members and curing the pattern forming material, said imprint method comprising: preparing a first member having an imprint pattern at a surface thereof; preparing a second member disposed opposite to the first member; measuring a gap between the first member and the second member by said gap measuring method according to Claim 1 or 2; decreasing the gap between the-first member and the second member until a difference between a gap length measured by said gap measuring method and a preset gap length is within an acceptable error range; and curing the pattern forming material interposed between the first member and the second member in a state in which the difference between the gap length measured by said gap measuring method and the preset gap length is within the acceptable error range.
+</P>
+<P>
+4. An imprint apparatus for transferring a pattern formed on a processing surface of a mold onto a member to be processed, said imprint apparatus comprising: physical amount measuring means for measuring a physical amount varying depending on a distance between the mold and the member to be processed; and distance estimating means for estimating the distance between the mold and the member to be processed by comparing the measured physical amount with data preliminarily stored in a database.
+</P>
+<P>
+5. An apparatus according to Claim 4, wherein said physical amount measuring means comprises a measuring light source for measuring light intensity spectra from the mold and the member to be processed.
+</P>
+<P>
+6. An apparatus according to Claim 4 or 5, wherein said physical amount measuring means comprises database storing means for preliminarily storing a database containing data bout measurement spectra depending on the distance between the mold and the member to be processed.
+</P>
+<P>
+7. An apparatus according to any one of Claims 4 to 6, wherein said imprint apparatus further comprises attitude control means for controlling an attitude of the mold and/or the member to be processed on the basis of a result of the distance estimation by said distance estimating means.
+</P>
+</Claims>
+<Also_published_as>
+WO2007142250A1;US2009101037A1;KR20090028555A;CN101454636A
+</Also_published_as>
+</BiblioData>

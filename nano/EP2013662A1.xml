@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ARTICLE FOR PARALLEL LITHOGRAPHY WITH TWO- DIMENSIONAL PEN ARRAYS
+</Title>
+<PublicationNumber>
+EP2013662A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MIRKIN CHAD A [US]
+</Name>
+<Name>
+SALAITA KHALID [US]
+</Name>
+<Name>
+WANG YUHUANG [US]
+</Name>
+<Name>
+FRAGALA JOSEPH S [US]
+</Name>
+<Name>
+SHILE RAYMOND R [US]
+</Name>
+<Name>
+MIRKIN, CHAD, A
+</Name>
+<Name>
+SALAITA, KHALID
+</Name>
+<Name>
+WANG, YUHUANG
+</Name>
+<Name>
+FRAGALA, JOSEPH, S
+</Name>
+<Name>
+SHILE, RAYMOND, R
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV NORTHWESTERN [US]
+</Name>
+<Name>
+NANOINK INC [US]
+</Name>
+<Name>
+NORTHWESTERN UNIVERSITY
+</Name>
+<Name>
+NANOINK, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2013662
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070753786
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US07186
+</PriorityNumber>
+<PriorityDate>
+2007-03-23
+</PriorityDate>
+<PriorityNumber>
+US20060792950P
+</PriorityNumber>
+<PriorityDate>
+2006-04-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+Massive parallel printing of structures and nanostructures at high speed with high resolution and high quality using two dimensional arrays comprising cantilevers and tip-based transfer of material to a surface. The array is designed so only tips touch the surface. This can be accomplished by long tips and bent cantilevers and alignment. An article comprising: a two-dimensional array of a plurality of cantilevers, wherein the array comprises a plurality of base rows, each base row comprising a plurality of cantilevers, wherein each of the cantilevers comprise tips at the cantilever end away from the base, wherein the number of cantilevers is greater than 250, and wherein the tips have an apex height relative to the cantilever of at least four microns, and a support for the array. Combinatorial arrays and bioarrays can be prepared. The arrays can be manufactured by micromachining methods.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. An article comprising: a two-dimensional array of a plurality of cantilevers, wherein the array comprises a plurality of base rows, each base row comprising a plurality of cantilevers extending from the base row, wherein each of the cantilevers comprise tips at the cantilever end
+</P>
+<P>
+wherein the array is adapted to prevent substantial contact of non-tip components of the array when the tips are brought into contact with a substantially planar surface; a support for the array.
+</P>
+<P>
+2. An article according to claim 1 , wherein the tips have an apex height relative to the cantilever of at least four microns.
+</P>
+<P>
+3. An article according to claim 1, wherein the tips have an apex height relative to the cantilever of at least seven microns.
+</P>
+<P>
+4. An article according to claim 1, wherein the cantilevers are bent at an angle away from the support.
+</P>
+<P>
+5. An article according to claim 1, wherein the cantilevers are bent at an angle of at least 10[deg.] away from the support.
+</P>
+<P>
+6. An article according to claim 1, wherein the tips have an apex height relative to the cantilever of at least four microns, and wherein the cantilevers are bent at an angle away from the support.
+</P>
+<P>
+7. An article according to claim 1, wherein the tips have an apex height relative to the cantilever of at least seven microns, and wherein the cantilevers are bent at an angle of at least 10[deg.] away from the support.
+</P>
+<P>
+8. An article according to claim 1 , wherein the array is characterized by a tip spacing of less than 300 microns in a first dimension of the two dimensional array and less than 300 microns in a second dimension of the two dimensional array.
+</P>
+<P>
+9. An article according to claim 1, wherein the array is characterized by a tip spacing of less than 200 microns in a first dimension of the two dimensional array and less than 50 microns in a second dimension of the two dimensional array.
+</P>
+<P>
+10. An article according to claim 1, wherein the array is characterized by a tip spacing of 100 microns or less in at least one dimension of the two dimensional array.
+</P>
+<P>
+11. An article according to claim 1 , wherein the number of cantilevers is greater than 250.
+</P>
+<P>
+12. An article according to claim 1, wherein the number of cantilevers is greater than 10,000.
+</P>
+<P>
+13. An article according to claim 1, wherein the number of cantilevers is greater than 55,000.
+</P>
+<P>
+14. An article according to claim 1, wherein each of the tips are characterized by a distance D spanning the tip end to the support, and the tip array is characterized by an average distance D&apos; of the tip end to the support, and for at least 90 % of the tips, D is within 50 microns of D&apos;.
+</P>
+<P>
+15. An article according to claim 1, wherein each of the tips are characterized by a distance D spanning the tip end to the support, and the tip array is characterized by an average distance D&apos; of the tip end to the support, and for at least 90 % of the tips, D is within 10 microns of D&apos;.
+</P>
+<P>
+16. An article according to claim 1, wherein the base rows have an average length of at least about 1 mm.
+</P>
+<P>
+17. An article according to claim 1, wherein the cantilevers comprise multiple layers adapted for bending of cantilevers.
+</P>
+<P>
+18. An article according to claim 1, wherein the cantilevers are bimorph cantilevers.
+</P>
+<P>
+19. An article according to claim 1, wherein the cantilevers are not adapted for feedback.
+</P>
+<P>
+20. An article according to claim 1, wherein at least one of the cantilevers is adapted for feedback.
+</P>
+<P>
+21. An article according to claim 1, wherein substantially all of the cantilevers are adapted for feedback.
+</P>
+<P>
+22. An article according to claim 1, wherein the base rows have a height with respect to the support of at least about 5 microns.
+</P>
+<P>
+23. An article according to claim 1 , wherein the tips have an average radius of curvature of less than 100 nm.
+</P>
+<P>
+24. An article according to claim 1, wherein the tips have an average radius of curvature of about 10 nm to about 50 nm.
+</P>
+<P>
+25. An article according to claim 1, wherein the cantilevers have an average force constant of about 0.001 N/m to about 10 N/m.
+</P>
+<P>
+26. An article according to claim 1, wherein the cantilevers have an average force constant of about 0.05 N/m to about 1 N/m.
+</P>
+<P>
+27. The article according to claim 1 , wherein the array support is characterized by a surface on the far side away from the cantilever tips comprising a surface area which is about two square cm or less.
+</P>
+<P>
+28. The article according to claim 1, wherein the array is characterized by a cantilever yield of at least 95%.
+</P>
+<P>
+29. The article according to claim 1 , wherein the array is characterized by a cantilever yield of at least 98%.
+</P>
+<P>
+30. The article according to claim 1, wherein the cantilevers are bound to the base by a non-adhesive bonding.
+</P>
+<P>
+31. An article according to claim 1, wherein the tips are coated with a patterning compound.
+</P>
+<P>
+32. An article according to claim 1, wherein the cantilevers are bent on average about 10 microns to about 50 microns.
+</P>
+<P>
+33. An article according to claim 1 , wherein the tips have an apex height relative to the cantilever of at least four microns, and wherein the cantilevers are bent at an angle away from the support, and wherein the array is characterized by a tip spacing of less than 300 microns in a first dimension of the two dimensional array and less than 300 microns in a second dimension of the two dimensional array..
+</P>
+<P>
+34. An article according to claim 1 , wherein the tips have an apex height relative to the cantilever of at least seven microns, and wherein the cantilevers are bent at an angle of at least 10[deg.] away from the support, and wherein the array is characterized by a tip spacing of less than 300 microns in a first dimension of the two dimensional array and less than 300 microns in a second dimension of the two dimensional array.
+</P>
+<P>
+35. An article according to claim 1, wherein the tips have an apex height relative to the cantilever of at least seven microns, and wherein the cantilevers are bent at an angle of at least 10[deg.] away from the support, and wherein the array is characterized by a tip spacing of less than 200 microns in a first dimension of the two dimensional array and less than 50 microns in a second dimension of the two dimensional array.
+</P>
+<P>
+36. An article according to claim 34, wherein the number of cantilevers is greater than 250.
+</P>
+<P>
+37. An article according to claim 35, wherein the number of cantilevers is greater than 10,000.
+</P>
+<P>
+38. An article according to claim 34, wherein the cantilevers comprise multiple layers adapted for bending the cantilever.
+</P>
+<P>
+39. The article according to claim 34, wherein- the cantilevers are bound to the base by a non-adhesive bonding.
+</P>
+<P>
+40. A two-dimensional array of a plurality of cantilevers, the cantilevers comprising tips at the cantilever ends, wherein the array is adapted to prevent substantial contact of non- tip components of the array when the tips are brought into contact with a substantially planar surface.
+</P>
+<P>
+41. An article comprising: a two-dimensional array of a plurality of cantilevers, wherein the array comprises a plurality of base rows, each base row comprising a plurality of cantilevers extending from the base row, wherein each of the cantilevers comprise tips at the cantilever end away from the base, wherein the tips have an apex height relative to the cantilever of at least four microns, and a support for the array.
+</P>
+</Claims>
+<Also_published_as>
+WO2007126689A1;US2008105042A1;TW200804173A;JP2009534200A
+</Also_published_as>
+</BiblioData>

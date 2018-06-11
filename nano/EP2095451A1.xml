@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A METHOD FOR PREPARING A PARTICULATE CATHODE MATERIAL, AND THE MATERIAL OBTAINED BY SAID METHOD
+</Title>
+<PublicationNumber>
+EP2095451A1
+</PublicationNumber>
+<Inventor>
+<Name>
+LIANG GUOXIAN [CA]
+</Name>
+<Name>
+CHAREST PATRICK [CA]
+</Name>
+<Name>
+GAUTHIER MICHEL [CA]
+</Name>
+<Name>
+GUERFI ABDELBAST [CA]
+</Name>
+<Name>
+MICHOT CHRISTOPHE [CA]
+</Name>
+<Name>
+ZAGHIB KARIM [CA]
+</Name>
+<Name>
+LIANG, GUOXIAN
+</Name>
+<Name>
+CHAREST, PATRICK
+</Name>
+<Name>
+GAUTHIER, MICHEL
+</Name>
+<Name>
+GUERFI, ABDELBAST
+</Name>
+<Name>
+MICHOT, CHRISTOPHE
+</Name>
+<Name>
+ZAGHIB, KARIM
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PHOSTECH LITHIUM INC [CA]
+</Name>
+<Name>
+PHOSTECH LITHIUM INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2095451
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070855518
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007CA02236
+</PriorityNumber>
+<PriorityDate>
+2007-12-07
+</PriorityDate>
+<PriorityNumber>
+CA20062569991
+</PriorityNumber>
+<PriorityDate>
+2006-12-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C09C3/04
+</Class>
+<Class>
+C09C3/08
+</Class>
+<Class>
+H01M4/136
+</Class>
+<Class>
+H01M4/58
+</Class>
+<Class>
+H01M4/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09C1/00
+</Class>
+<Class>
+C09C1/22
+</Class>
+<Class>
+C09C3/08
+</Class>
+<Class>
+H01M4/136
+</Class>
+<Class>
+H01M4/58D
+</Class>
+<Class>
+H01M4/62C2
+</Class>
+<Class>
+Y02E60/12B
+</Class>
+</NCL>
+<Abstract>
+Disclosed are a method for preparing a complex oxide particle composition, the so-prepared particle composition and its use as electrode material. This composition comprises complex oxide particles having a non powdery conductive carbon deposit on at least part of their surface. Its method of preparation comprises nanogrinding complex oxide particles or particles of complex oxide precursors, wherein an organic carbon precursor is added to the oxide particles or oxide precursor particles before, during or after nanogrinding, and pyrolysing the mixture thus obtained;  a stabilizing agent is optionally added to the oxide particles or oxide precursor particles before, during or after nanogrinding;  and the nanogrinding step is performed in a bead mill on particles dispersed in a carrier solvent.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A method for preparing a complex oxide particle composition, wherein the complex oxide particles have a non powdery conductive carbon deposit on at least part of their surface, said method comprises nanogrinding complex oxide particles or particles of complex oxide precursors, wherein an organic carbon precursor is added to the oxide particles or oxide precursor particles before, during or after nanogrinding, and pyrolysing the mixture thus obtained a stabilizing agent is optionally added to the oxide particles or oxide precursor particles before, during or after nanogrinding the nanogrinding step is performed in a bead mill on particles dispersed in a carrier solvent, and the size of the particles to nanogrind, the size of the beads used to nanogrind, and the size of the resulting particles are selected such that : 0,004 &amp;lt;MS(SP)/MS(B)&amp;lt;0, 12
+</P>
+<P>
+0,0025 &amp;lt;MS(FP)/MS(SP)&amp;lt;0,25 wherein MS(SP) represents the mean size diameter of the particles before nanogrinding (starting particles), MS(FP) represents the mean size diameter of the particles after nanogrinding (final particles), and MS(B) is the mean size diameter of the nanogrinding beads.
+</P>
+<P>
+2. The method of claim 1 characterized in that the carrier solvent is a reactive solvent.
+</P>
+<P>
+3. The method of claim 2 characterized in that the carrier solvent is water or isopropanol. 4. The method of claim 1, which further comprises a step which is performed after grinding and before pyrolysis, said further step comprising conditioning the reaction mixture in order to adsorb the carbon precursor on the complex oxide precursors or on the complex oxide, or to polymerize or cross link a carbon precursor which is a monomer. 5. The method of claim 1, which furhter comprises a step consisting in aggregating the reaction mixture comprising the carbon precursor and the complex oxide precursor after grinding.
+</P>
+<P>
+6. The method of claim 5, wherein aggregation is performed by flocculating, by spray drying, or by charge effect.
+</P>
+<P>
+7. The method of claim 1, wherein an organic carbon precursor selected from fatty acid salts of a transition metal cation is added to the oxide particles or the oxide precursor particles.
+</P>
+<P>
+8. The method of claim 7 wherein the transition metal is Ni, Co or Fe.
+</P>
+<P>
+9. The method of claim 7 wherein the fatty acid contains at least 6 carbon atoms.
+</P>
+<P>
+10. The method of claim 9 wherein fatty acid is selected from stearate, oleate, linoleate, linolenate, ricinolenate.
+</P>
+<P>
+1 1. The method of claim 1 , wherein the mean size diameter of the grinding beads is from 100 to 500 [mu]m.
+</P>
+<P>
+12. The method of claim 1, wherein the organic carbon precursor is added to oxide precursor particles. 13. The method of claim 12, wherein an organic stabilizing agent is added before grinding.
+</P>
+<P>
+14. The method of claim 13, wherein the organic stabilizing agent is selected from organic electrostatic or electrosteric stabilizers, surfactants, dispersant agents, self adsorbing agents and encapsulant agents. 15. The method of claim 13, wherein the organic stabilizing agent is a conductive carbon precursor.
+</P>
+<P>
+16. The method of claim 12, wherein pyrolysis is performed before, or during the synthesis of the complex oxide starting from the precursors thereof.
+</P>
+<P>
+17. The method of claim 12, wherein the organic carbon precursor also acts as the stabilizing agent.
+</P>
+<P>
+18. The method of claim 1, wherein the organic carbon precursor is added to complex oxide particles.
+</P>
+<P>
+19. The method of claim 18, wherein the complex oxide is prepared by a solid state reaction of precursors under reducing or inert atmosphere.
+</P>
+<P>
+20. The method of claim 18, wherein the complex oxide is prepared by co- precipitation or sol-gel synthesis.
+</P>
+<P>
+21. The method of claim 18, wherein the complex oxide is prepared by hydrothermal reaction. 22. The method of claim 18, wherein the particle size of the particles before grinding is in the range from 1 [mu]m to 50 [mu]m.
+</P>
+<P>
+23. The method of claim 18, whrein the complex oxide is prepared by reacting the precurors in molten state in an inert or reducing atmosphere, the complex oxide being pre-ground after synthesis and solidification. 24. A particle composition comprising particles having a complex oxide core and a conductive carbon deposit on at least part of the surface of the core, wherein : the particles comprise elementary nanoparticles having a nanoscale size and agglomerates or aggregates of elementary nanoparticles having a submicron to micron scale particle size ; said conductive carbon deposit is a non powdery deposit, and is present on at least part of the surface of the elementary particles and on the surface of the aggregates
+</P>
+<P>
+25. A particle composition of claim 24, wherein the complex oxide is at least one compound of formula AMXO4 having an olivine structure wherein :
+</P>
+<P>
+* A is Li, optionally partly replaced with not more than 10 atomic % Na or K ;
+</P>
+<P>
+* M represents Fe&amp;lt;[pi]&amp;gt;,or Mn&amp;lt;11&amp;gt; optionally partly replaced with not more than 50 atomic % of at least one metal selected in the group consisting of Mn, Fe Ni et Co, and optionally replaced with not more than 10 atomic % of at least one aliovalent or isovalent metal different from Mn, Ni or Co ;
+</P>
+<P>
+* XO4 represents PO4, optionally partly replace with not ore than 10 mol % of at least one group selected from SO4 and SiO4.
+</P>
+<P>
+26. A particle composition of claim 25, wherein the aliovalent or isovalent metal different from Fe, Mn, Ni or Co in the complex oxide is at least one metal selected from the group consisting Mg, Mo, Nb, Ti, Al, Ta, Ge, La, Y, Yb, Sm, Ce, Hf, Cr, Zr, Bi, Zn, Ca et W.
+</P>
+<P>
+27. A particle composition of claim 26, wherein the complex oxide is LiFe1-xMnxPO4, 0&amp;lt;x&amp;lt;=0.5, LiFePO4 or LiMnPO4.
+</P>
+<P>
+28. A particle composition of claim 24, wherein the complex oxide is a titanate which has a spinel structure and the formula AaMmO0NnFf wherein A represents an alkali metal ; M represents Ti alone, or Ti partly replaced with another metal, preferably a transition metal ; a &amp;gt; 0, m &amp;gt; 0, o &amp;gt; 0, n &amp;gt; 0, f &amp;gt; 0, and coefficients a, m, o, n and f are selected to provide electroneutrality of the complex oxide.
+</P>
+<P>
+29. A particle composition of claim 28, wherein A is Li, optionally partly replaced with another alcali metal.
+</P>
+<P>
+30. A particle composition of claim 29, wherein the titanate has one of the following formulae Li4+xTi5O]2 or Li4+x.2yMgyTi5O12, wherein 0 &amp;lt; x et y &amp;lt; 1, or LiTi5O12.
+</P>
+<P>
+31. A particle composition of claim 24, further comprising powdery carbon particles.
+</P>
+<P>
+32. A particle composition of claim 24, wherein the particles comprise elementary nanoparticles and micron size agglomerates or aggregates of elementary nanoparticles, wherein said elementary nanoparticles have dimensions ranging from 5 nm to 1.0 [mu]m and comprise primary nanoparticles and secondary particles, said primary particles are made of a complex oxide with or without C, said secondary particle is an agglomerate or an aggregate of primary particles, an aggregate of primary nanoparticles is a micron-size assembly of primary nanosize particles held together by physical or chemical interaction, by carbon bridges, or bridges of locally sintered complex oxide containing of internal open porosity and carbon deposit lower than 30%, an agglomerate is an assembly of particles loosely held together by low forces.
+</P>
+<P>
+33. A particle composition of claim 32, which further contains at least one element selected from internal or external C-deposit or carbon bridging or particulate carbon, inert or conductive phases or sintering necks.
+</P>
+<P>
+34. A particle composition of claim 32, which further has a porosity.
+</P>
+<P>
+35. A particle composition of claim 24, wherein the carbon deposit is in the form of carbon nanotubes.
+</P>
+<P>
+36. A nanocomposite electrode material comprising a particle composition of claim 24 as the active electrode material. 37. A nanocomposite electrode material of claim 36, wherein at least 50% of the elementary nanoparticles of the particle compositin have a size between 5 nm and 900 nm diameter, said nanoparticles being not aggregated or sintered.
+</P>
+<P>
+38. A nanocomposite electrode material of claim 36, which comprises a particle composition wherein the elementary nanoparticles are aggregated to form agglomerates having a size from 0.2 [mu]m and 10 [mu]m.
+</P>
+<P>
+39. A nanocomposite electrode material of claim 36, wherein the conductive carbon deposit attached to the complex oxide crystal structure on at least part of the surface of the nanoparticle has a nanoscale thickness.
+</P>
+<P>
+40. A nanocomposite electrode material of claim 36, wherein the conductive carbon is present on part of the surface of the complex oxide nanoparticles, and the nanoparticles are sintered at the complex oxide surface thereof.
+</P>
+<P>
+41. A nanocomposite electrode material of claim 36, where the major part of the surface of the complex oxide nanoparticles is covered with the conductive carbon deposit, and the nanoparticles are aggregated via carbon bridges.
+</P>
+<P>
+42. A nanocomposite electrode material of claim 36, which further contains at least a binder or an electron conduction additive.
+</P>
+<P>
+43. A nanocomposite electrode material of claim 36, wherein the particle composition comprises secondary particles and or aggregated of elementary nanoparticles and has an open porosity, the volumetric fraction of the pores ranging from 0.30 to 0.05.
+</P>
+<P>
+44. A nanocomposite electrode material of claim 36, wherein the conductive carbon deposit is at least partly graphitized carbon obtained by pyrolysis of an organic carbon precursor that contains elements such as N, P, Si that can be covalently bound to carbon.
+</P>
+<P>
+45. A cathode comprising a nanocomposite electrode material of claim 36 on a current collector, wherein the complex oxide is a LiMPO4 oxide.
+</P>
+<P>
+46. An anode comprising a nanocomposite electrode material of claim 36 on a current collector, wherein the complex oxide is a titanate. 47. An electrochemical cell comprising a electrolyte, an anode and a cathode, wherein the cathode is a cathode of claim 45.
+</P>
+<P>
+48. An electrochemical cell comprising a electrolyte, an anode and a cathode, wherein the anode is an anode of claim 46.
+</P>
+</Claims>
+<Also_published_as>
+EP2095451A4;WO2008067677A1;US2010323245A1;EP2458666A1;CN101636861A;CA2569991A1
+</Also_published_as>
+</BiblioData>

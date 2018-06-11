@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Imprinting machine and device manufacturing method
+</Title>
+<PublicationNumber>
+EP2189843A2
+</PublicationNumber>
+<Inventor>
+<Name>
+NAKAMURA TAKASHI [JP]
+</Name>
+<Name>
+OTA HIROHISA [JP]
+</Name>
+<Name>
+KAWAKAMI EIGO [JP]
+</Name>
+<Name>
+KASUMI KAZUYUKI [JP]
+</Name>
+<Name>
+TOKITA TOSHINOBU [JP]
+</Name>
+<Name>
+NAKAMURA, TAKASHI
+</Name>
+<Name>
+OTA, HIROHISA
+</Name>
+<Name>
+KAWAKAMI, EIGO
+</Name>
+<Name>
+KASUMI, KAZUYUKI
+</Name>
+<Name>
+TOKITA, TOSHINOBU
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2189843
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20100002526
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2005-12-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20050026844
+</PriorityNumber>
+<PriorityDate>
+2005-12-08
+</PriorityDate>
+<PriorityNumber>
+JP20040356284
+</PriorityNumber>
+<PriorityDate>
+2004-12-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F9/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G03F9/70B10
+</Class>
+<Class>
+G03F9/70B6G
+</Class>
+<Class>
+G03F9/70D
+</Class>
+</NCL>
+<Abstract>
+An imprinting machine brings a mold with a pattern surface having a pattern into contact with an uncured resin on an object and forms a pattern of a cured resin on the object. Said imprinting machine comprises a mold stage configured to hold the mold and to be moved, an object stage configured to hold the object and to be moved, a measurement device configured to perform a measurement of a position of an alignment mark formed on the object relative to an alignment mark formed on the pattern surface, an auxiliary actuator (AC10, AC11) other than actuators of the mold stage and the object stage and configured to move the mold and the object relatively;  and a controller.;  The controller is configured to cause the mold stage and the object stage to be moved relatively such that the mold and the uncured resin contact with each other, to cause the measurement device to perform the measurement while the mold and the uncured resin contact with each other, and to cause the mold stage and the object stage to be moved relatively and cause the auxiliary actuator to operate such that the mold and the object are aligned based on the performed measurement while the mold and the uncured resin contact with each other.
+</Abstract>
+<Claims>
+<P>
+1. An imprinting machine that brings a mold with a pattern surface having a pattern into contact with an uncured resin on an object and forms a pattern of a cured resin on the object, said imprinting machine comprising:
+</P>
+<P>
+a mold stage configured to hold the mold and to be moved;
+</P>
+<P>
+an object stage configured to hold the object and to be moved;
+</P>
+<P>
+a measurement device configured to perform a measurement of a position of an alignment mark formed on the object relative to an alignment mark formed on the pattern surface;
+</P>
+<P>
+an auxiliary actuator (AC10, AC11) other than actuators of the mold stage and the object stage and configured to move the mold and the object relatively; and
+</P>
+<P>
+a controller configured to cause the mold stage and the object stage to be moved relatively such that the mold and the uncured resin contact with each other, to cause the measurement device to perform the measurement while the mold and the uncured resin contact with each other, and to cause the mold stage and the object stage to be moved relatively and cause the auxiliary actuator to operate such that the mold and the object are aligned based on the performed measurement while the mold and the uncured resin contact with each other.
+</P>
+<P>
+2. A method of manufacturing a device, the method comprising:
+</P>
+<P>
+forming a pattern of a cured resin on an object using an imprinting machine defined in claim 1; and
+</P>
+<P>
+processing the object via the formed pattern to manufacture the device.
+</P>
+</Claims>
+<Also_published_as>
+EP2189843A3;EP2189843B1;EP1669802A2;EP1669802A3;EP1669802B1;US2010148397A1;US2006157444A1;US7815424B2;JP2006165371A
+</Also_published_as>
+</BiblioData>

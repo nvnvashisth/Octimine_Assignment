@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+COMPACT SYSTEMS FOR GENERATING POLARIZATION- ENTANGLED PHOTONS
+</Title>
+<PublicationNumber>
+EP2047319A2
+</PublicationNumber>
+<Inventor>
+<Name>
+FIORENTINO MARCO [US]
+</Name>
+<Name>
+BEAUSOLEIL RAYMOND [US]
+</Name>
+<Name>
+SPILLANE SEAN [US]
+</Name>
+<Name>
+SANTORI CHARLES [US]
+</Name>
+<Name>
+FIORENTINO, MARCO
+</Name>
+<Name>
+BEAUSOLEIL, RAYMOND
+</Name>
+<Name>
+SPILLANE, SEAN
+</Name>
+<Name>
+SANTORI, CHARLES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2047319
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070796825
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US15899
+</PriorityNumber>
+<PriorityDate>
+2007-07-11
+</PriorityDate>
+<PriorityNumber>
+US20060494815
+</PriorityNumber>
+<PriorityDate>
+2006-07-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B27/28
+</Class>
+<Class>
+G02F1/35
+</Class>
+<Class>
+G06N99/00
+</Class>
+<Class>
+H01S3/108
+</Class>
+<Class>
+H04L9/08
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B1/00M1
+</Class>
+<Class>
+G02B27/28
+</Class>
+<Class>
+G02B27/28C
+</Class>
+<Class>
+G02F1/39
+</Class>
+<Class>
+G06N99/00K
+</Class>
+<Class>
+H04L9/08Q
+</Class>
+</NCL>
+<Abstract>
+Various embodiments of the present invention are directed to compact systems for generating polarization-entangled photons. In one embodiment of the present invention, a non-degenerate, polarization-entangled photon source (800, 1200) comprises a half-wave plate (802, 1202) that outputs both a first pump beam and a second beam and a second pump beam, and a first beam displacer (806, 1204) directs the first pump beam into a first transmission channel (824, 1224) and the second pump beam into a second transmission channel (826, 1226). A down-conversion device (803, 804, 810, 1208, 1210) converts the first pump beam into first ignal and idler photons and converts the second pump beam into second signal and idler photons. A second beam displacer (8089, 1206) directs both the first signal and idler photons and the second signal and idler photons into a single transmission channel.;  A dichroic mirror (812, 1212) directs the first and second signal photons to a first fiber coupler and the first and second idler photons to a second fiber optic coupler.
+</Abstract>
+<Claims>
+<P>
+What is claim is:
+</P>
+<P>
+1. A non-degenerate, polarization-entangled photon source (800,1200) comprising: a first half-wave plate (802,1202) that receives a pump beam (822,1222) from a pump beam source and outputs both a first pump beam in a first polarization state and a second pump beam&amp;lt;&apos;&amp;gt;in a second polarization state; a first beam displacer (806,1204) that directs the first pump beam into a first transmission channel (824,1224) and directs the second pump beam into a second transmission channel (826,1226), based on the first and second polarization states of the first and second pump beams; a down-conversion device (803,804,810,1208,1210) that receives the first pump beam and outputs a first signal photon and a first idler photon in the first transmission channel and receives the second pump beam and outputs a second signal photon and a second idler photon in the second transmission channel; a second beam displacer (808,1206) that directs both the first signal and idler photons transmitted in the first transmission channel and the second signal and idler photons transmitted in the second transmission channel into a single output transmission channel; and a dichroic mirror (812,1212) that receives the signal and idler photons transmitted in. the output transmission channel and directs the first and second signal photons to a first fiber optic coupler (814,1214) and directs the first and second idler photons to a second fiber optic coupler (816,1216).
+</P>
+<P>
+2. The entangle photon source of claim 1 wherein the down-conversion device further comprises: a second half-wave plate (803) that receives the second pump beam in the second polarization state and outputs the second pump beam in the first polarization state; a Type I down-conversion crystal (810) that receives the first pump beam and outputs the first signal photon and the first idler photon both in the first polarization state and receives the second pump beam and outputs the second signal photon and the second idler photon both in the first polarization state; and a third half-wave plate (804) that receives the first signal photon and the first idler photon both in the first polarization state and outputs the first signal photon and first idler photon both in the second polarization state.
+</P>
+<P>
+3. The entangled photon source of claim 1 wherein the down-conversion device further comprises: a first Type I down-conversion crystal (1208) that receives the first pump beam and outputs the first signal photon and the first idler photon both in the second polarization state; and a second Type I down-conversion crystal (1210) that receives the second pump - beam and outputs the second signal photon and the second idler photon both in the first polarization state.
+</P>
+<P>
+4. The entangled photon source of claim 3 wherein the first transmission channel passing through the first Type I down-conversion crystal (1208) and the second transmission channel passing through the second Type I down-conversion crystal (1210) are parallel, and the second Type I down-conversion crystal is rotated 90[deg.] about the &amp;lt;-&amp;gt; second transmission channel relative the orientation of the first Type I down-conversion crystal.
+</P>
+<P>
+5. The entangled-photon source of claim 1 further comprising an optical device (902,1302) located in either the first, or the second, transmission channel that adjusts for an acquired channel-dependent phase difference; and one of a half-wave plate (1102,1502) located between the dichroic mirror and the fiber optic coupler that changes the polarization state of the first signal photon and the second signal photon; or a half-wave plate (1002,1402) located between the dichroic mirror and the second fiber optic coupler that changes the polarization state of the first idler photon and the second idler photon.
+</P>
+<P>
+6. A degenerate, polarization-entangled photon source (1600,2000) comprising: a first half-wave plate (1601,2001) that receives a pump beam from a pump beam source and outputs both a first pump beam in a first polarization state and a second pump beam in a second polarization state; a first beam displacer (1606,2004) that directs the first pump beam into a first transmission channel and directs the second pump beam into a second transmission, channel, based on the first and second polarization states of the first and second pump beams; a down-conversion device (1602,1610,1603,2008,2010) that receives the first pump beam and outputs a first signal photon and a first idler photon in the first transmission channel and receives the second pump beam and outputs a second signal photon and a second idler photon in the second transmission channel; a second beam displacer (1607,2005) that directs the first and second signal photons to the first transmission channel, directs the first idler photon to a third transmission channel, and transmits the second idler in the second transmission channel; a mirror (1618,2016)) that directs the first and second signal photons to a first fiber optic coupler; and a third beam displacer (1608,2006)) that directs the first and second idler photons to a second fiber optic coupler.
+</P>
+<P>
+7. The entangled photon source of claim 6 wherein the down-conversion device further comprises: a second half-wave plate (1602) that receives the second pump beam in the second polarization state and outputs the second pump beam in the first polarization state; a Type II down-conversion crystal (1610) that receives the first pump beam and
+</P>
+<P>
+- outputs a first signal photon with the second polarization and a first idler photon with the first polarization, and receives the second pump beam and outputs a second signal photon with the second polarization and a second idler photon with the first polarization; and a third half-wave, plate (1603) that receives the second signal photon and the second idler photon and outputs the second signal photon with the first polarization and the second idler photon with the second polarization.
+</P>
+<P>
+8. The entangled photon source of claim 6 further comprises: a fourth half-[Lambda]vave plate (1605) located between the second beam displacer and the third beam displacer that receives the first idler photon and outputs the first idler photon in the second polarization state; and a fifth half-wave plate (1604) located between the second beam displacer and the third beam displacer that receives the second idler photon and outputs the second idler photon in the first polarization state.
+</P>
+<P>
+9. The entangled photon source of claim 6 wherein the down-conversion device further comprises: a first Type II down-conversion crystal (2008) that receives the first pump beam and outputs the first signal photon and the first idler photon both in the second polarization state; and a second Type II down-conversion crystal (2010) that receives the second pump beam and outputs the second signal and the second idler photons both in the first polarization state, wherein the first transmission channel passing through the first Type II down-conversion crystal and the second transmission channel passing through the second Type II down-conversion crystals are parallel, and the second Type II down-conversion crystal is rotated 90[deg.] about the second transmission channel relative to the orientation of the first Type II down-conversion crystal.
+</P>
+<P>
+10. The entangled-photon source of claim 6 further comprising an optical device (1702,2102) located in the second transmission channel that adjusts for an acquired channel-dependent phase difference; and one of: a half-wave plate (1902,2302) located between the mirror and the first fiber optic coupler that changes polarization of the signal photons; or a half-wave plate (1632,2202) located between the third beam displacer and the second fiber optic coupler that changes polarization of the idler photons.
+</P>
+</Claims>
+<Also_published_as>
+WO2008013681A2;WO2008013681A3;US2008037996A1;US7639953B2;JP2009545004A;JP4842378B2;CN101495907A;CN101495907B
+</Also_published_as>
+</BiblioData>

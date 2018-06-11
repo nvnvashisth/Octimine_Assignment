@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOCRYSTAL DOPED MATRIXES
+</Title>
+<PublicationNumber>
+EP2059391A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PARCE J WALLACE [US]
+</Name>
+<Name>
+BERNATIS PAUL [US]
+</Name>
+<Name>
+DUBROW ROBERT [US]
+</Name>
+<Name>
+FREEMAN WILLIAM P [US]
+</Name>
+<Name>
+GAMORAS JOEL [US]
+</Name>
+<Name>
+KAN SHIHAI [US]
+</Name>
+<Name>
+MEISEL ANDREAS [US]
+</Name>
+<Name>
+QIAN BAIXIN [US]
+</Name>
+<Name>
+WHITEFORD JEFFERY A [US]
+</Name>
+<Name>
+ZIEBARTH JONATHAN [US]
+</Name>
+<Name>
+PARCE, J., WALLACE
+</Name>
+<Name>
+BERNATIS, PAUL
+</Name>
+<Name>
+DUBROW, ROBERT
+</Name>
+<Name>
+FREEMAN, WILLIAM, P
+</Name>
+<Name>
+GAMORAS, JOEL
+</Name>
+<Name>
+KAN, SHIHAI
+</Name>
+<Name>
+MEISEL, ANDREAS
+</Name>
+<Name>
+QIAN, BAIXIN
+</Name>
+<Name>
+WHITEFORD, JEFFERY, A
+</Name>
+<Name>
+ZIEBARTH, JONATHAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOSYS INC [US]
+</Name>
+<Name>
+NANOSYS, INC
+</Name>
+<Name>
+SAMSUNG ELECTRONICS CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2059391
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070810704
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US16584
+</PriorityNumber>
+<PriorityDate>
+2007-07-23
+</PriorityDate>
+<PriorityNumber>
+US20060492717
+</PriorityNumber>
+<PriorityDate>
+2006-07-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B32B33/00
+</Class>
+<Class>
+B82B1/00
+</Class>
+<Class>
+H01L33/50
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B19/00P
+</Class>
+<Class>
+C01G9/08
+</Class>
+<Class>
+C09K11/02
+</Class>
+<Class>
+C09K11/56B2
+</Class>
+<Class>
+C09K11/70
+</Class>
+<Class>
+C09K11/88B2
+</Class>
+<Class>
+G02B1/11
+</Class>
+<Class>
+G02B3/00G
+</Class>
+</NCL>
+<Abstract>
+Matrixes doped with semiconductor nanocrystals are provided. In certain embodiments, the semiconductor nanocrystals have a size and composition such that they absorb or emit light at particular wavelengths. The nanocrystals can comprise ligands that allow for mixing with various matrix materials, including polymers, such that a minimal portion of light is scattered by the matrixes. The matrixes of the present invention can also be utilized in refractive index matching applications. In other embodiments, semiconductor nanocrystals are embedded within matrixes to form a nanocrystal density gradient, thereby creating an effective refractive index gradient. The matrixes of the present invention can also be used as filters and antireflective coatings on optical devices and as down-converting layers. Processes for producing matrixes comprising semiconductor nanocrystals are also provided.;  Nanostructures having high quantum efficiency, small size, and/or a narrow size distribution are also described, as are methods of producing indium phosphide nanostructures and core-shell nanostructures with Group II-VI shells.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A composition comprising:
+</P>
+<P>
+a nanostructure; and
+</P>
+<P>
+a ligand bound to a surface of the nanostructure, which ligand comprises
+</P>
+<P>
+a body group comprising an organic moiety,
+</P>
+<P>
+a head group coupled to the body group, the head group comprising a nanostructure binding moiety, and
+</P>
+<P>
+a tail group coupled to the body group, the tail group comprising a silicone moiety.
+</P>
+<P>
+2. The composition of claim 1, wherein the nanostructure is a semiconductor nanocrystal.
+</P>
+<P>
+3. The composition of claim 1, wherein the body group comprises an aryl moiety.
+</P>
+<P>
+4. The composition of claim 1, wherein the body group comprises an alkyl moiety.
+</P>
+<P>
+5. The composition of claim 4, wherein the body group comprises a linear alkyl moiety three carbons or four carbons in length.
+</P>
+<P>
+6. The composition of claim 1, wherein the nanostructure binding moiety comprises a moiety selected from the group consisting of: a monocarboxylic acid moiety, a dicarboxylic acid moiety, a phosphonate moiety, a diethylphosphonate moiety, a bistrimethylsilylphosphonate moiety, a thiol moiety, and an amine moiety.
+</P>
+<P>
+7. The composition of claim 1, wherein the tail group comprises a linear silicone moiety.
+</P>
+<P>
+8. The composition of claim 1, wherein the tail group comprises a silicone moiety other than a silsequioxane moiety or other than a polyhedral oligomeric silsequioxane moiety.
+</P>
+<P>
+9. The composition of claim 1, wherein the ligand is selected from the group consisting of:
+</P>
+<P>
+EMI43.0
+</P>
+<P>
+where m is an integer between 1 and 20, where n is an integer between 0 and 40, and where R is the head group;
+</P>
+<P>
+EMI44.0
+</P>
+<P>
+where m is an integer between 1 and 20, where n is an integer between 0 and 40, and where R is selected from the group consisting of
+</P>
+<P>
+EMI45.0
+</P>
+<P>
+where n is an integer between 0 and 40, and where R is selected from the group consisting of
+</P>
+<P>
+EMI46.0
+</P>
+<P>
+where R is selected from the group consisting of
+</P>
+<P>
+EMI47.0
+</P>
+<P>
+where R is selected from the group consisting of
+</P>
+<P>
+EMI48.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, where q is an integer between 0 and 40, and where R&apos; is Me or Bu;
+</P>
+<P>
+EMI49.0
+</P>
+<P>
+where n is an integer between 0 and 40;
+</P>
+<P>
+EMI50.0
+</P>
+<P>
+where n is an integer between 0 and 40;
+</P>
+<P>
+EMI51.0
+</P>
+<P>
+where n and m are integers, and where R is an alkyl group, an aryl group, or combinations thereof;
+</P>
+<P>
+EMI52.0
+</P>
+<P>
+10. The composition of claim 1, wherein the nanostructure is a semiconductor nanocrystal, and wherein the ligand is
+</P>
+<P>
+EMI53.0
+</P>
+<P>
+where n and m are integers, and where R is an alkyl group, an aryl group, or combinations thereof.
+</P>
+<P>
+11. The composition of claim 1, comprising a plurality of the nanostructures, each of which has the ligand bound to its surface; and comprising a silicone polymer in which the nanostructures are embedded.
+</P>
+<P>
+12. A composition comprising:
+</P>
+<P>
+a nanostructure; and
+</P>
+<P>
+a polymeric ligand bound to a surface of the nanostructure, which ligand comprises
+</P>
+<P>
+a linear silicone backbone, and
+</P>
+<P>
+one or more nanostructure binding moieties coupled to the silicone backbone.
+</P>
+<P>
+13. The composition of claim 12, wherein the ligand comprises two or more nanostructure binding moieties.
+</P>
+<P>
+14. The composition of claim 13, wherein each of the two or more nanostructure binding moieties is coupled to a different silicon atom in the silicone backbone.
+</P>
+<P>
+15. The composition of claim 12, wherein each of the one or more nanostructure binding moieties is coupled to the silicone backbone through an alkyl moiety.
+</P>
+<P>
+16. The composition of claim 12, wherein the nanostructure binding moiety comprises a moiety selected from the group consisting of: a monocarboxylic acid moiety, a dicarboxylic acid moiety, a phosphonate moiety, a diethylphosphonate moiety, a bistrimethylsilylphosphonate moiety, a thiol moiety, and an amine moiety.
+</P>
+<P>
+17. The composition of claim 12, wherein the ligand is selected from the group consisting of:
+</P>
+<P>
+EMI54.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, where q is an integer between 1 and 40, and where r is an integer between 0 and 40;
+</P>
+<P>
+EMI55.0
+</P>
+<P>
+where n is an integer between 1 and 40, and where m is an integer between 0 and 40;
+</P>
+<P>
+EMI56.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, and where q is an integer between 1 and 40;
+</P>
+<P>
+EMI57.0
+</P>
+<P>
+where n is an integer between 1 and 40;
+</P>
+<P>
+EMI58.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, and where q is an integer between 1 and 40;
+</P>
+<P>
+EMI59.0
+</P>
+<P>
+where n is an integer between 1 and 40;
+</P>
+<P>
+EMI60.0
+</P>
+<P>
+where R&apos; is -(OSiMe2)rSiMe3, where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, where q is an integer between 1 and 40, and where r is an integer between 0 and 40;
+</P>
+<P>
+EMI61.0
+</P>
+<P>
+where n is an integer between 1 and 40, and where m is an integer between 0 and 40;
+</P>
+<P>
+EMI62.0
+</P>
+<P>
+where R&apos; is -(CH2)rCH3, where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, where q is an integer between 1 and 40, and where r is an integer between 0 and 40; and
+</P>
+<P>
+EMI63.0
+</P>
+<P>
+where n is an integer between 1 and 40.
+</P>
+<P>
+18. The composition of claim 12, wherein the ligand is selected from the group consisting of:
+</P>
+<P>
+EMI64.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, where q is an integer between 1 and 40, where r is an integer between 0 and 40, and where the dimethylsiloxane moiety and the moiety bearing the dicarboxylic acid nanostructure binding moiety are randomly situated along the silicone backbone;
+</P>
+<P>
+EMI65.0
+</P>
+<P>
+where m is an integer between 1 and 40, where n is an integer between 0 and 40, and where the dimethylsiloxane moiety and the moiety bearing the dicarboxylic acid nanostructure binding moiety are randomly situated along the silicone backbone;
+</P>
+<P>
+EMI66.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, where q is an integer between 1 and 40, where r is an integer between 0 and 40, and where the phenylmethylsiloxane moiety and the moiety bearing the dicarboxylic acid nanostructure binding moiety are randomly situated along the silicone backbone; and
+</P>
+<P>
+EMI67.0
+</P>
+<P>
+where m is an integer between 0 and 40, where n is an integer between 1 and 40, and where the phenylmethylsiloxane moiety and the moiety bearing the dicarboxylic acid nanostructure binding moiety are randomly situated along the silicone backbone.
+</P>
+<P>
+19. The composition of claim 12, comprising a plurality of the nanostructures, each of which has the ligand bound to its surface; and comprising a polymer in which the nanostructures are embedded.
+</P>
+<P>
+20. A composition comprising:
+</P>
+<P>
+a nanostructure; and
+</P>
+<P>
+a ligand bound to a surface of the nanostructure, which ligand comprises
+</P>
+<P>
+a body group comprising an alkyl moiety,
+</P>
+<P>
+a head group coupled to the body group, the head group comprising a nanostructure binding moiety, and
+</P>
+<P>
+a tail group coupled to the body group, the tail group comprising an unsaturated moiety or a silane moiety.
+</P>
+<P>
+21. The composition of claim 20, wherein the nanostructure binding moiety comprises a moiety selected from the group consisting of: a monocarboxylic acid moiety, a dicarboxylic acid moiety, a phosphonate moiety, a diethylphosphonate moiety, a bistrimethylsilylphosphonate moiety, a thiol moiety, and an amine moiety.
+</P>
+<P>
+22. The composition of claim 20, wherein the body group comprises a linear alkyl moiety three carbons or four carbons in length.
+</P>
+<P>
+23. The composition of claim 20, wherein the tail group comprises an alkene moiety or an alkyne moiety.
+</P>
+<P>
+24. The composition of claim 20, wherein the tail group comprises a trialkyl silane moiety.
+</P>
+<P>
+25. The composition of claim 20, wherein the ligand is selected from the group consisting of:
+</P>
+<P>
+EMI68.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, where q is an integer between 0 and 40, and where r is 1, 2, or 3;
+</P>
+<P>
+EMI69.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, and where q is an integer between 0 and 40;
+</P>
+<P>
+EMI70.0
+</P>
+<P>
+26. The composition of claim 20, comprising a plurality of the nanostructures, each of which has the ligand bound to its surface; and comprising a polymer in which the nanostructures are embedded.
+</P>
+<P>
+27. A composition comprising: a nanostructure and a ligand bound to a surface of the nanostructure, which ligand is selected from the group consisting of:
+</P>
+<P>
+EMI71.0
+</P>
+<P>
+where n is an integer between 0 and 40;
+</P>
+<P>
+EMI72.0
+</P>
+<P>
+where n is an integer between 1 and 40, and where m is an integer between 0 and 40;
+</P>
+<P>
+EMI73.0
+</P>
+<P>
+where n is an integer between 1 and 40;
+</P>
+<P>
+EMI74.0
+</P>
+<P>
+where n is an integer between 1 and 40;
+</P>
+<P>
+EMI75.0
+</P>
+<P>
+where n is an integer between 1 and 40, and where m is an integer between 0 and 40; and
+</P>
+<P>
+EMI76.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where p is 1, 2, or 3, and where o is an integer between 0 and 60.
+</P>
+<P>
+28. The composition of claim 27, wherein the ligand is
+</P>
+<P>
+EMI77.0
+</P>
+<P>
+where n is an integer between 7 and 12.
+</P>
+<P>
+29. The composition of claim 27, wherein the ligand is
+</P>
+<P>
+EMI78.0
+</P>
+<P>
+30. The composition of claim 27, wherein the ligand is
+</P>
+<P>
+EMI79.0
+</P>
+<P>
+where n is an integer between 0 and 60.
+</P>
+<P>
+31. The composition of claim 27, wherein the ligand is
+</P>
+<P>
+EMI80.0
+</P>
+<P>
+32. A composition comprising: a nanostructure and a ligand bound to a surface of the nanostructure;
+</P>
+<P>
+wherein the nanostructure comprises a semiconductor other than ZnO or ZnS, wherein the nanostructure is a metal nanostructure, or wherein the nanostructure is a core-shell nanostructure; and
+</P>
+<P>
+wherein the ligand is a dicarboxylic or polycarboxylic acid other than a poly(norbornene)-poly(norbornene-dicarboxylic acid) diblock copolymer.
+</P>
+<P>
+33. The composition of claim 32, wherein the nanostructure comprises a Group III-V semiconductor.
+</P>
+<P>
+34. A composition comprising: a population of nanostructures, which population displays a quantum efficiency of 50% or greater, wherein a member nanostructure comprises a core and a shell, which core is other than a Cd-containing core or a Pb-containing core.
+</P>
+<P>
+35. The composition of claim 34, wherein the population displays a quantum efficiency of 55% or greater.
+</P>
+<P>
+36. The composition of claim 34, wherein a ligand is bound to a surface of the member nanostructure.
+</P>
+<P>
+37. The composition of claim 36, wherein the ligand is
+</P>
+<P>
+EMI81.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, where q is an integer between 0 and 40, and where R&apos; is Me or Bu.
+</P>
+<P>
+38. The composition of claim 34, wherein the member nanostructure comprises an InP core.
+</P>
+<P>
+39. The composition of claim 38, wherein the member nanostructure comprises a ZnS shell.
+</P>
+<P>
+40. The composition of claim 39, wherein a ligand is bound to a surface of the member nanostructure, wherein the ligand is
+</P>
+<P>
+EMI82.0
+</P>
+<P>
+where n is an integer between 7 and 12.
+</P>
+<P>
+41. The composition of claim 34, wherein the shell comprises ZnS, ZnSe, or ZnSexS1-x.
+</P>
+<P>
+42. The composition of claim 34, wherein the core comprises a Group III-V semiconductor.
+</P>
+<P>
+43. The composition of claim 34, wherein the nanostructures are quantum dots.
+</P>
+<P>
+44. A composition comprising: a population of InP nanocrystals, wherein the average diameter of the nanocrystals in the population is less than 2.5 nm.
+</P>
+<P>
+45. The composition of claim 44, wherein the average diameter of the nanocrystals is less than 2.0 mm.
+</P>
+<P>
+46. A composition comprising: a population of InP nanocrystals, wherein a luminescence spectrum of the population has a full width at half maximum of less than 70 nm.
+</P>
+<P>
+47. The composition of claim 46, wherein the spectrum has a full width at half maximum of less than 60 nm.
+</P>
+<P>
+48. The composition of claim 46, wherein the spectrum has a full width at half maximum of less than 50 nm.
+</P>
+<P>
+49. The composition of claim 46, wherein an emission spectrum of the population has an emission maximum of between 500 nm and 750 nm.
+</P>
+<P>
+50. A method for production of InP nanostructures, the method comprising:
+</P>
+<P>
+providing a first precursor, the first precursor comprising indium acetate;
+</P>
+<P>
+providing a second precursor, the second precursor comprising tris(trimethylsilyl)phosphine; and
+</P>
+<P>
+reacting the first and second precursors in the presence of an acid and a solvent other than octadecene to produce the nanostructures.
+</P>
+<P>
+51. The method of claim 50, wherein the solvent is TOPO, TOP, benzophenone, hexadecane, or octadecane.
+</P>
+<P>
+52. The method of claim 50, wherein the acid is selected from the group consisting of: a fatty acid, lauric acid, capric acid, myristic acid, palmitic acid, and stearic acid.
+</P>
+<P>
+53. The method of claim 50, wherein the acid is a phosphonic acid, a dicarboxylic acid, or a polycarboxylic acid.
+</P>
+<P>
+54. A method for production of core-shell nanostructures, the method comprising:
+</P>
+<P>
+a) providing a nanostructure core; and
+</P>
+<P>
+b) producing a shell surrounding the core by
+</P>
+<P>
+i) providing a first precursor comprising a Group II atom,
+</P>
+<P>
+ii) providing a second precursor comprising a Group VI atom, and
+</P>
+<P>
+iii) reacting the first and second precursors in the presence of a ligand to produce the shell, wherein the ligand is a dicarboxylic or polycarboxylic acid.
+</P>
+<P>
+55. The method of claim 54, wherein the core comprises a Group II-VI semiconductor.
+</P>
+<P>
+56. The method of claim 55, wherein the core comprises CdS, ZnSe, or ZnTe.
+</P>
+<P>
+57. The method of claim 54, wherein the core comprises a Group III-V semiconductor.
+</P>
+<P>
+58. The method of claim 57, wherein the core comprises InP, InAs, or In1-xGaxP.
+</P>
+<P>
+59. The method of claim 54, wherein the shell comprises ZnS, ZnSe, or ZnSexS1-x.
+</P>
+<P>
+60. The method of claim 59, wherein the first precursor is selected from the group consisting of: diethylzinc, dimethyl zinc, zinc oxide, zinc stearate, and zinc acetate, and/or wherein the second precursor is selected from the group consisting of: hexamethyldisilthiane and elemental sulfur.
+</P>
+<P>
+61. The method of claim 54, wherein the ligand is a dicarboxylic acid.
+</P>
+<P>
+62. The method of claim 54, wherein the ligand is
+</P>
+<P>
+EMI83.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, where q is an integer between 0 and 40, and where R&apos; is Me or Bu.
+</P>
+<P>
+63. The method of claim 62, wherein the ligand is
+</P>
+<P>
+EMI84.0
+</P>
+<P>
+where n is an integer between 7 and 12.
+</P>
+<P>
+64. The method of claim 54, wherein the ligand is
+</P>
+<P>
+EMI85.0
+</P>
+<P>
+65. A luminescent nanocomposite, comprising: a population of luminescent nanocrystals, which nanocrystals are embedded in an epoxy, polyurea, or polyurethane matrix, and which nanocrystals substantially retain their luminescence when embedded in the matrix.
+</P>
+<P>
+66. The nanocomposite of claim 65, wherein light output of the composite is at least 10% of light output of a comparable population of nanocrystals not embedded in the matrix.
+</P>
+<P>
+67. The nanocomposite of claim 65, wherein a ligand is bound to a surface of a member nanocrystal, which ligand comprises an amine moiety or a dicarboxylic acid moiety that binds to the surface of the member nanocrystal.
+</P>
+<P>
+68. The nanocomposite of claim 67, wherein the ligand is decylamine or octylamine.
+</P>
+<P>
+69. The nanocomposite of claim 67, wherein the ligand is selected from the group consisting of:
+</P>
+<P>
+EMI86.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, and where q is an integer between 0 and 40;
+</P>
+<P>
+EMI87.0
+</P>
+<P>
+70. The nanocomposite of claim 65, wherein the nanocrystals are non-Cd containing nanocrystals.
+</P>
+<P>
+71. The nanocomposite of claim 65, wherein the nanocrystals are core-shell nanocrystals, wherein the cores comprise a Group III-V semiconductor.
+</P>
+<P>
+72. The nanocomposite of claim 65, wherein the nanocrystals comprise InP/ZnS or InP/ZnSe core-shell nanocrystals or InP/ZnSe/ZnS core/shell/shell nanocrystals.
+</P>
+<P>
+73. A luminescent nanocomposite, comprising: a population of luminescent nanocrystals embedded in a matrix, wherein a ligand is bound to a surface of a member nanocrystal, which ligand comprises an amine moiety or a dicarboxylic acid moiety that binds to the surface of the member nanocrystal.
+</P>
+<P>
+74. The nanocomposite of claim 73, wherein the nanocrystals substantially retain their luminescence when embedded in the matrix.
+</P>
+<P>
+75. The nanocomposite of claim 73, wherein the ligand is decylamine or octylamine.
+</P>
+<P>
+76. The nanocomposite of claim 73, wherein the ligand is selected from the group consisting of:
+</P>
+<P>
+EMI88.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, and where q is an integer between 0 and 40;
+</P>
+<P>
+EMI89.0
+</P>
+<P>
+77. The nanocomposite of claim 73, wherein the matrix comprises epoxy, polyurea, or polyurethane.
+</P>
+<P>
+78. A method of producing a luminescent nanocomposite, the method comprising:
+</P>
+<P>
+providing luminescent nanocrystals;
+</P>
+<P>
+mixing the nanocrystals with one or more matrix precursors to form a first mixture; and
+</P>
+<P>
+curing the matrix precursors to produce an epoxy, polyurea, or polyurethane matrix, thereby providing the nanocomposite;
+</P>
+<P>
+which nanocomposite comprises the luminescent nanocrystals embedded in the matrix, and which nanocrystals substantially retain their luminescence when embedded in the matrix.
+</P>
+<P>
+79. The method of claim 78, wherein providing luminescent nanocrystals comprises providing luminescent nanocrystals having a ligand bound to a surface of the nanocrystals, which ligand comprises an amine moiety or a dicarboxylic acid moiety that binds to the surface of the nanocrystals.
+</P>
+<P>
+80. The method of claim 79, wherein the ligand is selected from the group consisting of: decylamine; octylamine;
+</P>
+<P>
+EMI90.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, and where q is an integer between 0 and 40;
+</P>
+<P>
+EMI91.0
+</P>
+<P>
+81. The method of claim 78, the method comprising casting or forming the first mixture into a desired shape prior to curing the matrix precursors.
+</P>
+<P>
+82. The method of claim 78, wherein light output of the resulting nanocomposite is at least 10% of light output of a comparable population of nanocrystals not embedded in the matrix.
+</P>
+<P>
+83. The method of claim 78, wherein the nanocrystals are non-Cd containing nanocrystals.
+</P>
+<P>
+84. A method of producing a luminescent nanocomposite, the method comprising:
+</P>
+<P>
+providing luminescent nanocrystals having a ligand bound to a surface of the nanocrystals, which ligand comprises an amine moiety or a dicarboxylic acid moiety that binds to the surface of the nanocrystals;
+</P>
+<P>
+mixing the nanocrystals with one or more matrix precursors to form a first mixture; and
+</P>
+<P>
+curing the matrix precursors to produce a matrix, thereby providing the nanocomposite;
+</P>
+<P>
+which nanocomposite comprises the luminescent nanocrystals embedded in the matrix.
+</P>
+<P>
+85. The method of claim 84, wherein the nanocrystals substantially retain their luminescence when embedded in the matrix.
+</P>
+<P>
+86. The method of claim 84, wherein the ligand is selected from the group consisting of: decylamine; octylamine;
+</P>
+<P>
+EMI92.0
+</P>
+<P>
+where m is an integer between 0 and 20, where n is an integer between 0 and 20, where o is an integer between 0 and 20, where p is 1, 2, or 3, and where q is an integer between 0 and 40;
+</P>
+<P>
+EMI93.0
+</P>
+<P>
+87. The method of claim 84, wherein the matrix comprises epoxy, polyurea, or polyurethane.
+</P>
+<P>
+88. The method of claim 84, the method comprising casting or forming the first mixture into a desired shape prior to curing the matrix precursors.
+</P>
+</Claims>
+<Also_published_as>
+EP2059391A4;US2007034833A1;US7645397B2;US2012068118A1;WO2008013780A2;WO2008013780A3;US2010140551A1;KR20090038022A;JP2009544805A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A method for direct nucleic acid sequencing
+</Title>
+<PublicationNumber>
+EP1961826A2
+</PublicationNumber>
+<Inventor>
+<Name>
+STEMPLE DEREK LYLE [GB]
+</Name>
+<Name>
+ARMES NIALL ANTHONY [GB]
+</Name>
+<Name>
+STEMPLE, DEREK LYLE
+</Name>
+<Name>
+ARMES, NIALL ANTHONY
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASM SCIENT INC [US]
+</Name>
+<Name>
+ASM SCIENTIFIC, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1961826
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080009625
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2000-03-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20000909464
+</PriorityNumber>
+<PriorityDate>
+2000-03-10
+</PriorityDate>
+<PriorityNumber>
+US19990266187
+</PriorityNumber>
+<PriorityDate>
+1999-03-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12Q1/68
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C12Q1/68E
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a novel sequencing apparatus and the methods employed to determine the nucleotide sequence of many single nucleic acid molecules simultaneously, in parallel. The methods and apparatus of the present invention offer a rapid, cost effective, high through-put method by which nucleic acid molecules from any source can be readily sequenced without the need for prior amplification of the sample or prior knowledge of any sequence information.
+</Abstract>
+<Claims>
+<P>
+1. A method for nucleotide base sequencing comprising the sequential steps of
+</P>
+<P>
+(a) immobilizing a polymerase on a solid support;
+</P>
+<P>
+(b) providing a nucleic acid sample and a plurality of different oligonucleotide primers, wherein the nucleic acid sample hybridizes to an oligonucleotide primer;
+</P>
+<P>
+(c) providing four different nucleotides, each nucleotide being differentially-labeled with a detachable labeling group and blocked at the 3&apos; portion with a detachable blocking group, wherein the polymerase extends the primer hybridized to the nucleic acid sample with the differentially-labeled nucleotide that is complementary to the sample nucleic acid;
+</P>
+<P>
+(d) removing nucleotides that have not been incorporated in the primer;
+</P>
+<P>
+(e) detecting the labeled nucleotide incorporated into the elongating primer, thereby identifying the complement of the labeled 3&apos;-blocked nucleotide;
+</P>
+<P>
+(f) separating the 3&apos; blocking group and the labeling group from the incorporated nucleotide;
+</P>
+<P>
+(g) removing the separated 3&apos; blocking group and the separated labeling group of step (f);
+</P>
+<P>
+(h) confirming separation and removal of the 3&apos; blocking group from the nucleotide incorporated in the primer; and
+</P>
+<P>
+(i) repeating steps (c) through (g) until either no new nucleotides are incorporated in step (c) or the 3&apos; blocking group persists in not being separated and removed in steps (f) and (g),whereby the order in which the labeled nucleotide in step (d) are detected corresponds to the complement of the sequence of at least a portion of the nucleic acid sample.
+</P>
+<P>
+2. The method of claim 1, wherein the 3&apos; blocking group and the labeling group are separated from the incorporated nucleotide by photochemical activation.
+</P>
+<P>
+3. The method of claim 1, wherein the 3&apos; blocking group and the labeling group are separated from the incorporated nucleotide by chemical or enzymatic activation.
+</P>
+<P>
+4. The method of claim 1, wherein the differentially-labeled labeling group is a fluorescent label, a plasmon resonant particle, or a quantum dot label.
+</P>
+<P>
+5. The method of claim 1, wherein the labeling group is directly attached to the detachable 3&apos; blocking group.
+</P>
+<P>
+6. The method of claim 5, wherein the detachable 3&apos; blocking group is a 2-Nitrobenzyl group.
+</P>
+<P>
+7. The method of claim 1, wherein the labeling group is attached to the base of each nucleotide with a detachable linker.
+</P>
+<P>
+8. The method of claim 7, wherein the detachable linker is a 2-Nitrobenzyl group.
+</P>
+<P>
+9. The method of claim 1, wherein the polymerase is selected from the group consisting of DNA polymerase, RNA polymerase, and reverse transcriptase.
+</P>
+<P>
+10. The method of claim 9, wherein the DNA polymerase is selected from the group consisting of the DNA polymerase from Bacillus stearothermophilus, the DNA polymerase from Thermus acquaticus, the DNA polymerase from Pyrococcus furiosis, the DNA polymerase from Thermococcus litoralis, the DNA polymerase from Thermus thermophilus, the DNA polymerase from bacteriophage T4, the DNA polymerase from bacteriophage T7, the E. coli DNA polymerase I Klenow fragment, and E. coli DNA polymerase III.
+</P>
+<P>
+11. The method of claim 9, wherein the RNA polymerase is selected from the group consisting of the RNA polymerase from E. coli, the RNA polymerase from the bacteriophage T3, the RNA polymerase from the bacteriophage T7, the RNA polymerase from the bacteriophage SP6, and the RNA polymerases from the viral families of bromoviruses, tobamoviruses, tombusvirus, leviviruses, hepatitis C-like viruses, and picomaviruses.
+</P>
+<P>
+12. The method of claim 9, wherein the reverse transcriptase is selected from the group consisting of the reverse transcriptase from the Avian Myeloblastosis Virus, the reverse transcriptase from the Moloney Murine Leukemia Virus, the reverse transcriptase from the Human Immunodeficiency Virus-I, and modified T7 polymerase.
+</P>
+<P>
+13. The method of claim 1, wherein the labeled nucleotide is detected by the detection method selected from the group consisting of total internal reflection fluorescence microscopy, photon confocal microscopy, surface plasmon resonance, and fluorescence resonance energy transfer.
+</P>
+<P>
+14. An immobilized polymerase system for contacting nucleic acids comprising:
+</P>
+<P>
+(a) a reaction center comprising solid support and a polymerase immobilized on the solid support;
+</P>
+<P>
+(b) a nucleic acid sample; and
+</P>
+<P>
+(c) an oligonucleotide primer capable of hybridizing to the nucleic acid sample.
+</P>
+<P>
+15. The system of claim 14, wherein the polymerase is selected from the group consisting of DNA polymerase, RNA polymerase, and reverse transcriptase.
+</P>
+<P>
+16. The system of claim 15, wherein the DNA polymerase is selected from the group consisting of the DNA polymerase from Bacillus stearothennophilus, the DNA polymerase from Thermus acquaticus, the DNA polymerase from Pyrococcus furiosis, the DNA polymerase from Thermococcus litoralis, the DNA polymerase from Thermus thermophilus, the DNA polymerase from bacteriophage T4, the DNA polymerase from bacteriophage T7, the E. coli DNA polymerase I Klenow fragment, and E. coli DNA polymerase III.
+</P>
+<P>
+17. The system of claim 15, wherein the RNA polymerase is selected from the group consisting of the RNA polymerase from the bacteriophage T3, the RNA polymerase from the bacteriophage T7, the RNA polymerase from the bacteriophage SP6, and the RNA polymerases from the viral families of bromoviruses, tobamoviruses, tombusvirus, leviviruses. hepatitis C-like viruses, and picornaviruses.
+</P>
+<P>
+18. The system of claim 15, wherein the reverse transcriptase is selected from the group consisting of the reverse transcriptase from the Avian Myeloblastosis Virus, the reverse transcriptase from the Moloney Murine Leukemia Virus, the reverse transcriptase from the Human Immunodeficiency Virus-I, and modified T7 polymerase.
+</P>
+<P>
+19. An array of immobilized polymerase systems comprising a plurality of the immobilized polymerase system of claim 14, wherein each immobilized polymerase of the plurality is immobilized on the solid support with sufficient physical separation to permit resolution.
+</P>
+<P>
+20. The array of claim 19, wherein the physical separation is at least 0.2 m.
+</P>
+<P>
+21. The array of claim 19, wherein the physical separation is at least 1 m.
+</P>
+<P>
+22. The array of claim 19, wherein the physical separation is at least 2 m.
+</P>
+<P>
+23. The array of claim 19, wherein the physical separation is at least 10 m.
+</P>
+</Claims>
+<Also_published_as>
+EP1961826A3;WO0053805A1;US7270951B1;PT1159453E;JP2002537858A;ES2310514T3;EP1159453A1;EP1159453B1;DK1159453T3;CA2366112A1;AU3174600A;AT397092T
+</Also_published_as>
+</BiblioData>

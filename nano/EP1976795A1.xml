@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SELECTIVE PLACEMENT OF CARBON NANOTUBES THROUGH FUNCTIONALIZATION
+</Title>
+<PublicationNumber>
+EP1976795A1
+</PublicationNumber>
+<Inventor>
+<Name>
+AFZALI-ARDAKANI ALI [US]
+</Name>
+<Name>
+KLINKE CHRISTIAN [DE]
+</Name>
+<Name>
+HANNON JAMES [US]
+</Name>
+<Name>
+AVOURIS PHAEDON [US]
+</Name>
+<Name>
+AFZALI-ARDAKANI, ALI
+</Name>
+<Name>
+KLINKE, CHRISTIAN
+</Name>
+<Name>
+HANNON, JAMES
+</Name>
+<Name>
+AVOURIS, PHAEDON
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBM [US]
+</Name>
+<Name>
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1976795
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060830387
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006EP69341
+</PriorityNumber>
+<PriorityDate>
+2006-12-05
+</PriorityDate>
+<PriorityNumber>
+US20060324441
+</PriorityNumber>
+<PriorityDate>
+2006-01-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+<Class>
+H01B1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4D6
+</Class>
+<Class>
+H01B1/04
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a method for selectively placing carbon nanotubes on a substrate surface by using functionalized carbon nanotubes having an organic compound that is covalently bonded to such carbon nanotubes. The organic compound comprises at least two functional groups, the first of which is capable of forming covalent bonds with carbon nanotubes, and the second of which is capable of selectively bonding metal oxides. Such functionalized carbon nanotubes are contacted with a substrate surface that has at least one portion containing a metal oxide. The second functional group of the organic compound selectively bonds to the metal oxide, so as to selectively place the functionalized carbon nanotubes on the at least one portion of the substrate surface that comprises the metal oxide.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method of selective placement of carbon nanotubes on a substrate surface, comprising: contacting carbon nanotubes with an organic compound that comprises at least first and second functional groups, wherein the first functional group is capable of forming covalent bonds with carbon nanotubes, and wherein the second functional group is capable of selectively bonding to metal oxides, to form functionalized carbon nanotubes having said organic compound covalently bound the reto via the first functional group; and contacting the functionalized carbon nanotubes with a substrate surface, and wherein at least one portion of the substrate surface comprises a metal oxide, wherein the second functional group of the organic compound selectively bonds to the metal oxide, thereby selectively placing the functionalized carbon nanotubes on the at least one portion of the substrate surface comprising the metal oxide.
+</P>
+<P>
+2. The method of claim 1, wherein the first functional group comprises at least one aromatic or heteroaromatic functional moiety having from about 1 to about 12 rings with at least one diazonium salt substituent, with or without additional substituent(s), wherein the second functional group comprises at least one organic acid functional moiety, and wherein said first and second functional groups are linked together by either a single covalent bond or a linker containing from about 0 to about 20 carbon atoms.
+</P>
+<P>
+3. The method of claim 2, wherein the first functional group compris es an aryldiazonium salt functional moiety or a substituted aryldiazonium salt functional moiety with at least one alkyl substituent.
+</P>
+<P>
+4. The method of claim 2, wherein the at least one organic acid functional moiety is selected from the group consisting o f carboxylic acids, hydroxamic acids, and phosphonic acids.
+</P>
+<P>
+5. The method of claim 2, wherein the first and second functional groups are linked together by a linear, branched, or cyclic linker selected from the group consisting of -O-, -S-, -NH-, Ci-C2O alkyl, halogenated or partially halogenated C 1-C20 alkyl, C 1-C20 alkyloxy, C 1-C20 alkylthiol, C 1-C20 alkylamino, Ci-C2O cycloalkyl, C 1-C20 cycloalkyloxy, C 1-C20 alkenyl, halogenated or partially halogenated C 1-C20 alkenyl, C 1-C20 alkenyloxy, C 1-C20 alkenylthiol, C 1-C20 alkenylamino, C 1-C20 cycloalkenyl, C 1-C20 cycloalkenyloxy, C 1-C20 alkyl, and C 1-C20 alkyloxy.
+</P>
+<P>
+6. The method of claim 1, wherein the organic compound has a formula selected from the group consisting of:
+</P>
+<P>
+wherein n ranges from about 0 to about 20, and wherein X either is a single covalent bond or is selected from the group consisting of O, S, and NH.
+</P>
+<P>
+7. The method of claim 1, wh erein the at least one portion of the substrate surface is coated with a metal oxide layer that comprises aluminum oxide and/or hafnium oxide, said metal oxide layer having a thickness ranging from about 1 nm to about 100 nm.
+</P>
+<P>
+8. The method of claim 1 , whe rein the substrate surface comprises a patterned aluminum oxide and/or hafnium oxide region located adjacent to or on top of a silicon oxide region.
+</P>
+<P>
+9. The method of claim 1, wherein the functionalized carbon nanotubes are dispersed in a solvent system co mprising one or more aqueous or organic solvents to form a dispersion, which is subsequently contacted with the substrate surface.
+</P>
+<P>
+10. The method of claim 1, further comprising removing excess functionalized carbon nanotubes from the substrate surface, after the substrate surface has been contacted with the funtionalized carbon nanotubes.
+</P>
+<P>
+11. The method of claim 10, wherein excess functionalized carbon nanotubes are removed by washing the substrate surface with one or more clean solvents, or by sonicating said substrate surface in one or more clean solvents.
+</P>
+<P>
+12. The method of claim 10 , further comprising annealing the substrate surface after removal of the excess functionalized carbon nanotubes, so as to remove the organic compound and form pristine carbo n nanotubes that are selectively placed on the at least one portion of the substrate surface comprising the metal oxide.
+</P>
+<P>
+13. The method of claim 12, wherein the annealing is carried out in a nitrogen -containing environment at an annealing temperature rang ing from about 450 &amp;lt;0&amp;gt;C to about 650 &amp;lt;0&amp;gt;C for a duration ranging from about 60 seconds to about 120 minutes.
+</P>
+<P>
+14. The method of claim 12, further comprising depositing source and drain contacts over the substrate surface, wherein the source and drain contacts are in contact with the pristine carbon nanotubes, thereby form field effect transistors (FETs) comprising carbon nanotube channels.
+</P>
+<P>
+15. The method of claim 14, wherein the source and drain contacts are deposited by a lithographic process.
+</P>
+<P>
+16. A composition comprising one or more functionalized carbon nanotubes having an organic compound covalently bound thereto, wherein said organic compound comprises at least first and second functional groups, wherein the first functional group is capable of forming co valent bonds with carbon nanotubes, and wherein the second functional group is capable of selectively bonding metal oxides.
+</P>
+<P>
+17. The composition of claim 16, wherein the functionalized carbon nanotubes have the following formula:
+</P>
+<P>
+A- (CH2) -
+</P>
+<P>
+wherein A is an organic acid functional moiety selected from the group consisting of -COOH, - C(O)NHOH, and -PO(OETh, wherein n ranges from about O to about 20, wherein y &amp;gt; 1, wherein X either is a single covalent bond or is selected from the gr oup consisting of O, S, and NH, and wherein CNT is a carbon nanotube.
+</P>
+<P>
+18. An organic compound comprising at least first and second functional groups, wherein the first functional group is capable of forming covalent bonds with carbon nanotubes, and where in the second functional group is capable of selectively bonding metal oxides.
+</P>
+<P>
+19. The organic compound of claim 18, wherein said organic compound has a formula selected from the group consisting of:
+</P>
+<P>
+wherein n ranges from about O to about 20, and wherein X either is a single covalent bond or is selected from the group consisting of O, S, and NH.
+</P>
+<P>
+20. An organic precursor compound having a formula selected from the group consisting of:
+</P>
+<P>
+X
+</P>
+<P>
+wherein n ranges from about 0 to about 20, and wherein X either is a single covalent bond or i s selected from the group consisting of O, S, and NH.
+</P>
+</Claims>
+<Also_published_as>
+WO2007077078A1;US2010145034A1;US2009301349A1;US8084012B2;US2008102213A1;KR20080082983A;JP2009522187A;CN101351405A;CN101351405B
+</Also_published_as>
+</BiblioData>

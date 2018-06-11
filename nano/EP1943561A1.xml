@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LITHOGRAPHY SYSTEM AND PROJECTION METHOD
+</Title>
+<PublicationNumber>
+EP1943561A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WIELAND MARCO JAN JACO [NL]
+</Name>
+<Name>
+STEENBRINK STIJN WILLEM KAREL HERMAN [NL]
+</Name>
+<Name>
+DE BOER GUIDO [NL]
+</Name>
+<Name>
+JAGER REMCO [NL]
+</Name>
+<Name>
+KASTELIJN AUKJE ARIANNE ANNETTE [NL]
+</Name>
+<Name>
+WIELAND, MARCO JAN JACO
+</Name>
+<Name>
+STEENBRINK, STIJN WILLEM KAREL HERMAN
+</Name>
+<Name>
+DE BOER, GUIDO
+</Name>
+<Name>
+JAGER, REMCO
+</Name>
+<Name>
+KASTELIJN, AUKJE, ARIANNE, ANNETTE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MAPPER LITHOGRAPHY IP BV [NL]
+</Name>
+<Name>
+MAPPER LITHOGRAPHY IP B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1943561
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060783923
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006NL00458
+</PriorityNumber>
+<PriorityDate>
+2006-09-14
+</PriorityDate>
+<PriorityNumber>
+NL20051029973
+</PriorityNumber>
+<PriorityDate>
+2005-09-16
+</PriorityDate>
+<PriorityNumber>
+US20050717856P
+</PriorityNumber>
+<PriorityDate>
+2005-09-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/20
+</Class>
+<Class>
+H01J37/317
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70F14B
+</Class>
+<Class>
+G03F7/70L2H
+</Class>
+<Class>
+H01J37/317B4
+</Class>
+</NCL>
+<Abstract>
+The inventions relates to a lithography system in which an electronic image pattern is delivered to a exposure tool for projecting an image to a target surface, said exposure tool comprising a control unit for controlling exposure projections, said control unit at least partly being included in the projection space of the said exposure tool, and being provided with control data by means of light signals, said light signals being coupled in to said control unit by using a free space optical interconnect comprising modulated light beams that are emitted to a light sensitive part of said control unit, wherein the modulated light beams are coupled in to said light sensitive part using a holed mirror for on axis incidence of said light beams on said light sensitive part, the hole or, alternatively, holes of said mirror being provided for passage of said exposure projections.
+</Abstract>
+<Claims>
+<P>
+C L A I M S
+</P>
+<P>
+1. A lithography system in which an electronic image pattern is delivered to a exposure tool for projecting an image to a target surface, said exposure tool comprising a control unit for controlling exposure projections, said control unit at least partly being included in the projection space of the said exposure tool, and being provided with control data by means of light signals, said light signals being coupled in to said control unit by using a free space optical interconnect comprising modulated light beams that are emitted to a light sensitive part of said control unit, wherein the modulated light beams are coupled in to said light sensitive part using a holed mirror for on axis incidence of said light beams on said light sensitive part, the hole or, alternatively, holes of said mirror being provided for passage of said exposure projections.
+</P>
+<P>
+2. A lithography system, in particular according to claim 1, in which an electronic image pattern is delivered to an exposure tool formed by a writing tool by means of light projection, utilizing an exposure projection, in particular a multi beam system for mask-less projection of a pattern on to an exposure surface, comprising a vacuum housing within which such writing tool is incorporated, a multi beam projection source being present, creating a plurality of writing beams for writing said pattern, which writing beams are directed to an blanker array comprising a control unit with individual controllers such as electrostatic blanker deflectors for individually controlling a writing beam in accordance received pattern information, in particular deflecting a writing beam or not, to a beam stopping part, a light optical system comprising light transmitting parts being present for transmitting pattern information signals to such controllers, in particular blanker deflectors, which controllers comprise light sensitive elements for receiving such modulated light beams, such light sensitive elements preferably being accommodated within near vicinity of the deflectors, said light optical system comprising a free space optical interconnect, forming a light optical data carrier system, transmitting pattern data carrying, modulated light beams towards said controllers, which free space optical interconnect comprises an emitter part emitting free space interconnect, pattern data carrying light beams to said light sensitive elements, wherein said free space optical interconnect comprises a holey mirror, incorporated in the projection trajectory of said plurality of writing beams, said mirror being arranged relative to said emitter part and said light sensitive elements to realize an on-axis incidence of said light beams on said light sensitive elements, and said mirror- being provided with at least one hole allowing passage of one or more of said writing beams . 3. A system according to claim 2, in which an emitting part is incorporated to emit said light beams at least virtually perpendicular relative to a direction of said exposure projection.
+</P>
+<P>
+4. A system according to claim 1, 2 or 3, in which said free space interconnect is included at a down stream side of the control unit.
+</P>
+<P>
+5. A system according to any one of the preceding claims, in which said free space interconnect, including an emitter and said holey mirror is included in a housing that is mechanically connected to the control unit, in particular a blanker array, more in particular via a holder therefore.
+</P>
+<P>
+6. A system according to any one of the preceding claims, in which a focusing lens is incorporated in said free space optical interconnect in near proximity to said holey mirror, in particular significantly nearer to said mirror than to said emitter, said lens in particular being common to all of the light beams emitted by said emitter.
+</P>
+<P>
+7. A system according to any one of the preceding claims, in which said holey mirror comprises a focussing reflecting surface, said reflecting surface in particular being a concave surface, and said mirror in particular being common to all of the light beams emitted by said emitter.
+</P>
+<P>
+8. A system according to any one of the preceding claims, in which a micro lens is incorporated in said free. space optical interconnect, in particular thereby forming said emitter, in close proximity to a light carrier end, in particular significantly closer to said carrier end than to said holey mirror, in particular each light carrier composing part such as an optic fiber end being provided with a micro lens.
+</P>
+<P>
+9. A system according to any one of the preceding claims, wherein the free space optical interconnect comprises a micro lens and a focusing lens common to a possible plurality of micro-lens completed fibers, the micro lens therein magnifying a fiber transmitted light signal, and the focusing lens de-magnifying the entirety of light signals transmitted by said possible plurality of fibers .
+</P>
+<P>
+10. A system according to any one of the preceding claims, wherein said free space optical interconnect is included in between a control unit formed by a blanker array for blanking writing beams, and a stopping plate for stopping writing beams deflected by said blanker array. 11. A system according to any one of the preceding claims, wherein one or more light signal carriers are fed through a vacuum wall for the exposure tool using vacuum compatible sealing material, and are with end parts thereof subsequently mechanically coupled to a free space optical connect housing located in a vacuum space for the charged particle beam column. 12. A lithography system in which an electronic image pattern is delivered to a writing tool thereof, by projection of modulated, i.e. data carrying light beams (8) to said writing tool, and comprising a free space optical interconnect for finally delivering said image pattern to said writing tool, wherein said system, as a part of said free space optical interconnect, comprises a holed mirror with one or more holes included in said writing tool, for directing said light beams in the direction of projection of said writing tool, thereby allowing passage of said writing tool projection through said hole or holes.
+</P>
+<P>
+13. A system according to claim 12, wherein said writing tool preferably utilizing a multi beam system for preferably mask-less projection of a pattern on to an exposure surface, comprising a vacuum housing within which such lithographic system is incorporated,
+</P>
+<P>
+14. Method of. projecting light beams into a lithography system part, using a mirror for redirecting light beams, provided with one or more holes for letting through writing projections of said lithography system part.
+</P>
+<P>
+15. A lithography system provided with one or more of the characterizing features described in the accompanying description and/or shown in the accompanying drawings . 16. Method comprising one or more of the characterizing steps described in the accompanying description and/or shown in the accompanying drawings .
+</P>
+<P>
+-o-o-o-o-o-o-o-o-
+</P>
+</Claims>
+<Also_published_as>
+WO2007032671A1;KR20080047615A;JP2009509329A
+</Also_published_as>
+</BiblioData>

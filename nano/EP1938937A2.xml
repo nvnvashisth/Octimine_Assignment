@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method of manufacturing soft mold for shaping barrier rib, method of manufacturing barrier rib and lower panel, and plasma display panel
+</Title>
+<PublicationNumber>
+EP1938937A2
+</PublicationNumber>
+<Inventor>
+<Name>
+YANG DONG-YOL [KR]
+</Name>
+<Name>
+RYU SEUNG-MIN [KR]
+</Name>
+<Name>
+PARK SUK-HEE [KR]
+</Name>
+<Name>
+CHOI JONG-SEO [KR]
+</Name>
+<Name>
+CHOI KWI-SEOK [KR]
+</Name>
+<Name>
+LEE BEOM-WOOK [KR]
+</Name>
+<Name>
+YANG, DONG-YOL
+</Name>
+<Name>
+RYU, SEUNG-MIN
+</Name>
+<Name>
+PARK, SUK-HEE
+</Name>
+<Name>
+CHOI, JONG-SEO
+</Name>
+<Name>
+CHOI, KWI-SEOK
+</Name>
+<Name>
+LEE, BEOM-WOOK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SAMSUNG SDI CO LTD [KR]
+</Name>
+<Name>
+SAMSUNG SDI CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1938937
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070124072
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+KR20060138904
+</PriorityNumber>
+<PriorityDate>
+2006-12-29
+</PriorityDate>
+<PriorityNumber>
+KR20070053419
+</PriorityNumber>
+<PriorityDate>
+2007-05-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B29C33/38
+</Class>
+<Class>
+B29C33/42
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+H01J9/24
+</Class>
+</IPC>
+<NCL>
+<Class>
+B29C33/38M2
+</Class>
+<Class>
+B29C33/42
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+H01J9/24B2
+</Class>
+</NCL>
+<Abstract>
+Provided are a method of manufacturing a soft mold for shaping a barrier rib, a method of manufacturing a barrier rib and a lower panel, and a plasma display panel (PDP). The method of manufacturing the soft mold includes: providing a metal mold (150) on which a barrier rib pattern is formed by alternating concave portions and convex portions;  disposing a polymer sheet (180&apos;) opposite the metal mold (150);  pressurizingly transferring the metal mold (150) into the polymer sheet (180&apos;) to form the soft mold (180) having a surface on which an inverted image of the barrier rib pattern is formed;  and releasing the soft mold (180) from the metal mold (150). In this method, a fine barrier rib pattern sufficient for a high-resolution PDP can be accurately formed, and the manufacturing process of the PDP can be simplified.
+</Abstract>
+<Claims>
+<P>
+1. A method of manufacturing a soft mold (180), comprising:
+</P>
+<P>
+providing a metal mold (150) on which a barrier rib pattern with alternating concave portions and convex portions is formed;
+</P>
+<P>
+disposing a polymer sheet (180&apos;) opposite the metal mold (150);
+</P>
+<P>
+transferring the metal mold (150) onto the polymer sheet (180&apos;) under pressure to form the soft mold (180) having a surface on which an inverted image of the barrier rib pattern is formed; and
+</P>
+<P>
+releasing the soft mold (180) from the metal mold (150).
+</P>
+<P>
+2. The method of claim 1, wherein the providing of the metal mold (150) comprises:
+</P>
+<P>
+forming a photoresist (PR) pattern (115) having the shape of a barrier rib on a base substrate (100) having concave portions (111) and convex portions (112) (S101);
+</P>
+<P>
+forming a silicon mold (130) having an inverted pattern conformable to the PR pattern (S103);
+</P>
+<P>
+forming a metal seed layer (135) required for electroplating along a surface of the pattern of the silicon mold (130) (S105);
+</P>
+<P>
+filling the pattern of the silicon mold (130) with an electroplating layer to form the metal mold (180) on the metal seed layer (135) (S107), and
+</P>
+<P>
+releasing the silicon mold from the metal mold (S109).
+</P>
+<P>
+3. The method of claim 2, wherein the forming of the PR pattern (115) comprises patterning a PR layer (110)using exposure and developing processes.
+</P>
+<P>
+4. The method of claim 2, wherein the forming of the silicon mold (130) comprises coating a silicon shaping material to bury the PR pattern (115), and curing the silicon shaping material so that the silicon mold (130) to which the PR pattern (115) is transferred is obtained.
+</P>
+<P>
+5. A method of manufacturing a barrier rib for a plasma display panel, the method comprising:
+</P>
+<P>
+preparing a soft mold (180) for shaping a barrier rib according to claim 1, the mold (180) having a patterned surface (S201);
+</P>
+<P>
+disposing a dielectric sheet (214) opposite the soft mold (180) (S203); and
+</P>
+<P>
+transferring a pattern of the soft mold (180) into the dielectric sheet (214) under pressure to shape a patterned layer (214a) to which pressure is applied and an unpatterned layer (214b) disposed on the reverse side of the patterned layer (214a) (S205).
+</P>
+<P>
+6. The method of claim 5, wherein the barrier rib pattern comprises alternating concave portions (181) and convex portions (182).
+</P>
+<P>
+7. The method of claim 5 or 6, wherein the unpatterned layer (214b) of the dielectric sheet (214) is formed to a sufficient thickness to incorporate electrodes.
+</P>
+<P>
+8. A method of manufacturing a lower panel of a plasma display panel, the method comprising:
+</P>
+<P>
+preparing a soft mold (180) for shaping a barrier rib according to claim 1, the mold (180) having a patterned surface (S201);
+</P>
+<P>
+disposing a dielectric sheet (214) opposite the mold (180) (S203);
+</P>
+<P>
+transferring a pattern of the soft mold (180) onto the dielectric sheet (214) under pressure to shape the dielectric sheet (214) to have a patterned layer (214a) having a first thickness (t1) and an unpatterned layer (214b) having a second thickness (t2) (S205);
+</P>
+<P>
+disposing the unpatterned layer (214b) of the dielectric sheet (214) opposite a plurality of exposed electrodes (212) of a substrate (211); and
+</P>
+<P>
+bonding the dielectric sheet (214) to the substrate (211) under pressure (S207).
+</P>
+<P>
+9. The method of claim 8, wherein the the barrier rib pattern comprises alternating concave portions (181) and convex portions (182).
+</P>
+<P>
+10. The method of claim 8 or 9, further comprising vertically aligning the mold (180) bonded to the dielectric sheet (214) with the electrodes (212) of the substrate (211) after disposing the unpatterned layer (214b) and before bonding the dielectric sheet (214) to the substrate (211) under pressure.
+</P>
+<P>
+11. The method of one of the claims 8 to 10, wherein, in the bonding of the dielectric sheet (214) to the substrate (211) under pressure, the unpatterned layer (214b) of the dielectric sheet (214) buries the electrodes (212) of the substrate (211).
+</P>
+<P>
+12. The method of one of the claims 8 to 11, after the bonding of the dielectric sheet (214) to the substrate (211) under pressure, further comprising the step of
+</P>
+<P>
+releasing the soft mold (S209), and
+</P>
+<P>
+sintering the dielectric sheet (214) and the substrate (21&apos;1) that are bonded to each other (S211).
+</P>
+<P>
+13. A plasma display panel comprising:
+</P>
+<P>
+an upper substrate (221) and a lower substrate (211) disposed opposite each other;
+</P>
+<P>
+a barrier rib layer (214) comprising an unpatterned layer (214b) interposed between the upper and lower substrates (221, 211) parallel to the upper and lower substrates (221, 211) and a patterned layer (214a) integrally formed with the unpatterned layer (214b) to partition a plurality of discharge spaces (230) between the unpatterned layer (214b) and any one of the upper and lower substrates (221, 211);
+</P>
+<P>
+a plurality of discharge electrodes (226) extending across the discharge spaces (230);
+</P>
+<P>
+phosphor layers (215) formed in regions disposed opposite to the discharge spaces (230), respectively; and
+</P>
+<P>
+a discharge gas filled in the discharge spaces (230).
+</P>
+<P>
+14. The plasma display panel of claim 13, wherein the patterned layer (214a) comprises pattern sides obtained by imprinting a mold.
+</P>
+</Claims>
+<Also_published_as>
+EP1938937A3;EP1938937B1;US2008157667A1;JP2008166280A
+</Also_published_as>
+</BiblioData>

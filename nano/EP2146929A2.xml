@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MICROPOROUS CARBON CATALYST SUPPORT MATERIAL
+</Title>
+<PublicationNumber>
+EP2146929A2
+</PublicationNumber>
+<Inventor>
+<Name>
+ATANASOSKI RADOSLAV [US]
+</Name>
+<Name>
+DAVID MOSES M [US]
+</Name>
+<Name>
+SCHMOECKEL ALISON K [US]
+</Name>
+<Name>
+ATANASOSKI, RADOSLAV
+</Name>
+<Name>
+DAVID, MOSES M
+</Name>
+<Name>
+SCHMOECKEL, ALISON K
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+3M INNOVATIVE PROPERTIES CO [US]
+</Name>
+<Name>
+3M INNOVATIVE PROPERTIES COMPANY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2146929
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080795818
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US60732
+</PriorityNumber>
+<PriorityDate>
+2008-04-18
+</PriorityDate>
+<PriorityNumber>
+US20070747606
+</PriorityNumber>
+<PriorityDate>
+2007-05-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+<Class>
+H01M4/86
+</Class>
+<Class>
+H01M4/88
+</Class>
+<Class>
+H01M4/90
+</Class>
+<Class>
+H01M4/92
+</Class>
+<Class>
+H01M8/10
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01M4/86B
+</Class>
+<Class>
+H01M4/88B2
+</Class>
+<Class>
+H01M4/92S2
+</Class>
+<Class>
+H01M8/02C4K2
+</Class>
+<Class>
+H01M8/10B
+</Class>
+<Class>
+Y02E60/52B
+</Class>
+</NCL>
+<Abstract>
+A microporous carbon catalyst support material includes a microporous carbon skeleton layer having an average pore size from 0.1 to 10 nanometers and being substantially free of pores greater than 1 micrometer and a plurality of catalyst particles on or within the microporous carbon skeleton layer.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A microporous carbon catalyst support material comprising:
+</P>
+<P>
+a microporous carbon skeleton having an average pore size from 0.1 to 10 nanometers and being substantially free of pores greater than 1 micrometer; and
+</P>
+<P>
+a plurality of catalyst particles on or within the microporous carbon skeleton.
+</P>
+<P>
+2. A microporous carbon catalyst support material according to claim 1, wherein the microporous carbon skeleton has an average pore size from 1 to 10 nanometers and being substantially free of pores greater than 100 nanometers.
+</P>
+<P>
+3. A microporous carbon catalyst support material according to claim 1, wherein the microporous carbon skeleton layer consists essentially of carbon.
+</P>
+<P>
+4. A microporous carbon catalyst support material according to claim 1, wherein the microporous carbon skeleton layer has a porosity of 10% or greater.
+</P>
+<P>
+5. A microporous carbon catalyst support material according to claim 1, wherein the microporous carbon skeleton layer is hydrophobic.
+</P>
+<P>
+6. A microporous carbon catalyst support material according to claim 1, wherein the microporous carbon skeleton layer forms a layer having a thickness in a range from 0.1 to 10 micrometers and the catalyst is disposed on and within the microporous carbon skeleton layer, and the microporous carbon skeleton layer has an average pore size from 1 to 10 nanometers and is substantially free of pores greater than 100 nanometers.
+</P>
+<P>
+7. A microporous carbon catalyst support material according to claim 1, wherein the catalyst particles are oxygen reducing.
+</P>
+<P>
+8. A fuel cell gas diffusion layer, comprising:
+</P>
+<P>
+a carbon fiber substrate layer;
+</P>
+<P>
+a microporous carbon skeleton layer adjacent the carbon fiber substrate layer, the microporous carbon skeleton layer having an average pore size from 0.1 to 10 nanometers and being substantially free of pores greater than 100 nanometers; and
+</P>
+<P>
+a plurality of catalyst particles on or within the microporous carbon skeleton layer.
+</P>
+<P>
+9. A fuel cell gas diffusion layer according to claim 8, wherein the microporous carbon skeleton layer is hydrophobic.
+</P>
+<P>
+10. A fuel cell gas diffusion layer according to claim 8, further comprising carbon nanotubes disposed on the carbon fiber substrate layer and the microporous carbon skeleton layer is disposed on the nanotubes.
+</P>
+<P>
+11. A fuel cell gas diffusion layer according to claim 8, wherein the microporous carbon skeleton layer has a porosity of 30% or greater.
+</P>
+<P>
+12. A fuel cell gas diffusion layer according to claim 8, wherein the catalyst particles are oxygen reducing.
+</P>
+<P>
+13. A fuel cell, comprising:
+</P>
+<P>
+an electrolyte membrane having a first surface; and
+</P>
+<P>
+a fuel cell gas diffusion layer disposed on the first surface, the fuel cell gas diffusion layer comprising:
+</P>
+<P>
+a carbon fiber substrate layer;
+</P>
+<P>
+a microporous carbon skeleton layer adjacent the carbon fiber substrate layer, the microporous carbon skeleton layer having an average pore size from 0.1 to 10 nanometers and being substantially free of pores greater than 100 nanometers; and
+</P>
+<P>
+a plurality of catalyst particles on or within the microporous carbon skeleton layer,
+</P>
+<P>
+wherein at least selected catalyst particles are in contact with the first surface.
+</P>
+<P>
+14. A fuel cell according to claim 13, wherein the microporous carbon skeleton layer is hydrophobic.
+</P>
+<P>
+15. A fuel cell according to claim 13, further comprising carbon nanotubes disposed on the carbon fiber substrate layer and the microporous carbon skeleton layer is disposed on the nanotubes.
+</P>
+<P>
+16. A fuel cell according to claim 13, wherein the catalyst particles are oxygen reducing.
+</P>
+<P>
+17. A method of forming a fuel cell gas diffusion layer, comprising;
+</P>
+<P>
+forming a hydrocarbon plasma from a hydrocarbon gas;
+</P>
+<P>
+depositing the hydrocarbon plasma adjacent a carbon fiber substrate layer to form a hydrocarbon layer; and
+</P>
+<P>
+heating the hydrocarbon layer and removing at least a portion of the hydrogen to form a microporous carbon skeleton layer having an average pore size from 1 to 10 nanometers and being substantially free of pores greater than 100 nanometers, wherein a plurality of catalyst particles are on or within the microporous carbon skeleton layer.
+</P>
+<P>
+18. A method according to claim 17, wherein the forming step comprises forming a hydrocarbon plasma from a (C1-C10) alkane, (C1-C10) alkene, or (C1-C10) alkyne hydrocarbon gas.
+</P>
+<P>
+19. A method according to claim 17, wherein the heating step comprises heating the hydrocarbon layer in an inert or reducing atmosphere and removing at least a portion of the hydrogen to form a hydrophobic microporous carbon skeleton layer.
+</P>
+<P>
+20. A method according to claim 17, wherein the heating step comprises heating the hydrocarbon layer in an oxidizing atmosphere and removing at least a portion of the hydrogen to form a hydrophilic microporous carbon skeleton layer.
+</P>
+</Claims>
+<Also_published_as>
+US2008280164A1;WO2008140893A2;WO2008140893A3;JP2010526757A;CN101675003A
+</Also_published_as>
+</BiblioData>

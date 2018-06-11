@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SCANNING PROBE MICROSCOPE
+</Title>
+<PublicationNumber>
+EP1978348A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ANDO TOSHIO [JP]
+</Name>
+<Name>
+SAKASHITA MITSURU [JP]
+</Name>
+<Name>
+UCHIHASHI TAKAYUKI [JP]
+</Name>
+<Name>
+ANDO, TOSHIO
+</Name>
+<Name>
+SAKASHITA, MITSURU
+</Name>
+<Name>
+UCHIHASHI, TAKAYUKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV KANAZAWA NAT UNIV CORP [JP]
+</Name>
+<Name>
+NATIONAL UNIVERSITY CORPORATION KANAZAWA UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1978348
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060811703
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP320415
+</PriorityNumber>
+<PriorityDate>
+2006-10-12
+</PriorityDate>
+<PriorityNumber>
+JP20050364797
+</PriorityNumber>
+<PriorityDate>
+2005-12-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q30/06
+</Class>
+<Class>
+G01Q60/24
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q30/06
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</NCL>
+<Abstract>
+A scanning probe microscope is provided, which can be stably used for a long time even if excitation efficiency varies during scan. A cantilever (5) is excited, and the cantilever (5) and a sample are subjected to relative scanning. A second-harmonic component detection circuit (31) detects second-harmonic component amplitude of oscillation of the cantilever (5) as integral-multiple component amplitude. The second-harmonic component amplitude is amplitude of a second-harmonic component having a frequency twice as high as excitation frequency. An excitation intensity adjustment circuit (33) controls excitation intensity based on the detected second-harmonic component amplitude such that the second-harmonic component amplitude is kept constant.
+</Abstract>
+<Claims>
+<P>
+1. A scanning probe microscope for oscillating a cantilever and performing relative scanning between the cantilever and a sample, comprising:
+</P>
+<P>
+an excitation section for exciting the cantilever,
+</P>
+<P>
+an integral-multiple amplitude detection section for detecting an integral-multiple component amplitude that is amplitude of a frequency component as an integral multiple of excitation frequency of the cantilever, and
+</P>
+<P>
+an excitation intensity adjustment section for adjusting excitation intensity of the excitation section based on the detected integral-multiple component amplitude.
+</P>
+<P>
+2. The scanning probe microscope according to claim 1, wherein
+</P>
+<P>
+the integral-multiple amplitude detection section includes a second-harmonic amplitude detection section for detecting second-harmonic component amplitude that is amplitude of a second-harmonic component having a frequency twice as high as the excitation frequency.
+</P>
+<P>
+3. The scanning probe microscope according to claim 1, wherein
+</P>
+<P>
+the excitation intensity adjustment section controls the excitation intensity such that the integral-multiple component amplitude is kept constant.
+</P>
+<P>
+4. The scanning probe microscope according to claim 1, wherein
+</P>
+<P>
+the excitation intensity adjustment section includes a slow control section for adjusting the excitation intensity with a speed corresponding to time for acquiring at least one image by scan of the cantilever.
+</P>
+<P>
+5. The scanning probe microscope according to claim 4, wherein
+</P>
+<P>
+the excitation intensity adjustment section includes an integrating circuit having a time constant corresponding to the time for acquiring at least one image.
+</P>
+<P>
+6. A scanning probe microscope for oscillating a cantilever and performing relative scanning between the cantilever and a sample, comprising:
+</P>
+<P>
+the cantilever,
+</P>
+<P>
+an oscillation circuit for oscillating the cantilever,
+</P>
+<P>
+an integral-multiple amplitude detection circuit for detecting an integral-multiple component amplitude that is amplitude of a component of frequency as an integral multiple of excitation frequency of the cantilever, and
+</P>
+<P>
+an excitation intensity adjustment circuit for adjusting excitation intensity of an excitation source of the cantilever based on the detected integral-multiple component amplitude.
+</P>
+<P>
+7. A cantilever excitation device for exciting a cantilever, which is used in a scanning probe microscope for oscillating the cantilever and performing relative scanning between the cantilever and a sample, the device comprising:
+</P>
+<P>
+an integral-multiple amplitude detection section for detecting an integral-multiple component amplitude that is amplitude of a component of frequency as an integral multiple of excitation frequency of the cantilever, and
+</P>
+<P>
+an excitation intensity adjustment section for adjusting excitation intensity of an excitation source of the cantilever based on the detected integral-multiple component amplitude.
+</P>
+<P>
+8. A cantilever excitation method of exciting a cantilever, which is used in a scanning probe microscope for oscillating the cantilever and performing relative scanning between the cantilever and a sample, the method comprising:
+</P>
+<P>
+exciting the cantilever at a set excitation frequency,
+</P>
+<P>
+detecting an integral-multiple component amplitude, which is amplitude of a component of frequency as an integral multiple of the excitation frequency of the cantilever, and
+</P>
+<P>
+adjusting excitation intensity of an excitation source of the cantilever based on the detected integral-multiple component amplitude.
+</P>
+<P>
+1. A scanning probe microscope for oscillating a cantilever and performing relative scanning between the cantilever and a sample, comprising:
+</P>
+<P>
+an excitation section for exciting the cantilever,
+</P>
+<P>
+an integral-multiple amplitude detection section for detecting an integral-multiple component amplitude that is amplitude of a frequency component as an integral multiple of excitation frequency of the cantilever, and
+</P>
+<P>
+an excitation intensity adjustment section for adjusting excitation intensity of the excitation section based on the detected integral-multiple component amplitude.
+</P>
+<P>
+2. The scanning probe microscope according to claim 1, wherein
+</P>
+<P>
+the integral-multiple amplitude detection section includes a second-harmonic amplitude detection section for detecting second-harmonic component amplitude that is amplitude of a second-harmonic component having a frequency twice as high as the excitation frequency.
+</P>
+<P>
+3. The scanning probe microscope according to claim 1, wherein
+</P>
+<P>
+the excitation intensity adjustment section controls the excitation intensity such that the integral-multiple component amplitude is kept constant.
+</P>
+<P>
+4. The scanning probe microscope according to claim 1, wherein
+</P>
+<P>
+the excitation intensity adjustment section includes a slow control section for adjusting the excitation intensity with a speed corresponding to time for acquiring at least one image by scan of the cantilever.
+</P>
+<P>
+5. The scanning probe microscope according to claim 4, wherein
+</P>
+<P>
+the excitation intensity adjustment section includes an integrating circuit having a time constant corresponding to the time for acquiring at least one image.
+</P>
+<P>
+6. A scanning probe microscope for oscillating a cantilever and performing relative scanning between the cantilever and a sample, comprising:
+</P>
+<P>
+the cantilever,
+</P>
+<P>
+an oscillation circuit for oscillating the cantilever,
+</P>
+<P>
+an integral-multiple amplitude detection circuit for detecting an integral-multiple component amplitude that is amplitude of a component of frequency as an integral multiple of excitation frequency of the cantilever, and
+</P>
+<P>
+an excitation intensity adjustment circuit for adjusting excitation intensity of an excitation source of the cantilever based on the detected integral-multiple component amplitude.
+</P>
+<P>
+7. A cantilever excitation device for exciting a cantilever, which is used in a scanning probe microscope for oscillating the cantilever and performing relative scanning between the cantilever and a sample, the device comprising:
+</P>
+<P>
+an integral-multiple amplitude detection section for detecting an integral-multiple component amplitude that is amplitude of a component of frequency as an integral multiple of excitation frequency of the cantilever, and
+</P>
+<P>
+an excitation intensity adjustment section for adjusting excitation intensity of an excitation source of the cantilever based on the detected integral-multiple component amplitude.
+</P>
+<P>
+8. A cantilever excitation method of exciting a cantilever, which is used in a scanning probe microscope for oscillating the cantilever and performing relative scanning between the cantilever and a sample, the method comprising:
+</P>
+<P>
+exciting the cantilever at a set excitation frequency,
+</P>
+<P>
+detecting an integral-multiple component amplitude, which is amplitude of a component of frequency as an integral multiple of the excitation frequency of the cantilever, and
+</P>
+<P>
+adjusting excitation intensity of an excitation source of the cantilever based on the detected integral-multiple component amplitude.
+</P>
+</Claims>
+<Also_published_as>
+US2009133168A1;US7954165B2;JP4474556B2;WO2007072621A1
+</Also_published_as>
+</BiblioData>

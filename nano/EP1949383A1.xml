@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SEMICONDUCTOR MEMORY DEVICE COMPRISING ONE OR MORE INJECTING BILAYER ELECTRODES
+</Title>
+<PublicationNumber>
+EP1949383A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SOKOLIK IGOR [US]
+</Name>
+<Name>
+KINGSBOROUGH RICHARD P [US]
+</Name>
+<Name>
+MANDELL AARON [US]
+</Name>
+<Name>
+SOKOLIK, IGOR
+</Name>
+<Name>
+KINGSBOROUGH, RICHARD, P
+</Name>
+<Name>
+MANDELL, AARON
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SPANSION LLC [US]
+</Name>
+<Name>
+SPANSION LLC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1949383
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060803004
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US34633
+</PriorityNumber>
+<PriorityDate>
+2006-09-06
+</PriorityDate>
+<PriorityNumber>
+US20050227603
+</PriorityNumber>
+<PriorityDate>
+2005-09-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C13/02
+</Class>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C13/00R5C
+</Class>
+<Class>
+G11C13/00R5C2
+</Class>
+<Class>
+H01L27/28F
+</Class>
+</NCL>
+<Abstract>
+The subject invention provides systems and methods that facilitate formation of semiconductor memory devices comprising memory cells with one or more injecting bilayer electrodes. Memory arrays generally comprise bit cells that have two discrete components;  a memory element and a selection element, such as, for example, a diode. The invention increases the efficiency of a memory device by forming memory cells with selection diodes comprising a bilayer electrode. Memory cells are provided comprising bilayer cathodes and/or bilayer anodes that facilitate a significant improvement in charge injection into the diode layers of memory cells.;  The increased charge (e.g. electrons or holes) density in the diode layers of the selected memory cells results in improved memory cell switching times and lowers the voltage required for the memory cell to operate, thereby, creating a more efficient memory cell.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A memory cell, comprising:
+</P>
+<P>
+a first electrode;
+</P>
+<P>
+an injecting bilayer electrode comprising a first electrode layer and a second electrode layer; and
+</P>
+<P>
+a memory element that couples the first electrode and the first electrode layer of the injecting bilayer electrode.
+</P>
+<P>
+2. The memory cell of claim 1, further comprising a diode layer that couples the first electrode layer of the injecting bilayer electrode and the memory element.
+</P>
+<P>
+3. The memory cell of claim 2, the diode layer comprises an organic material and the memory element comprises a controllably conductive media.
+</P>
+<P>
+4. The memory cell of claim 3, the organic material for the diode material is one of a polymer, an oligomer and a low-molecular weight organic material.
+</P>
+<P>
+5. The memory cell of claim 3, the polymer comprises at least one material selected from a group consisting of polyacetylene, polyphenylacetylene, polydiphenylacetylene, polyaniline, polypyrrole, polyfluorenes and related co-polymers, poly(p-phenylene vinylene), polythiophene, polyporphyrins, porphyrinic macrocycles, thiol derivatized polyporphyrins, poly(p-phenylene)s, poly(imide)s, polymetallocenes such as polyferrocenes and polyphthalocyanines, polyvinylenes, and polystiroles, and co-polymers.
+</P>
+<P>
+6. The memory cell of claim 3, the low-molecular weight material comprises a hole- and an electron-transport material selected from a group consisting of phthalocyanines, diarylamines, triarylamines, starburst materials, NaF, KF, RbF aluminum tris-hydroxyquinolate (AlQ3), and triazine derivatives.
+</P>
+<P>
+7. The memory cell of claim 3, the controllably conductive media comprises at least one active region and at least one passive region.
+</P>
+<P>
+8. The memory cell of claim 1, the first electrode is an anode and the injecting bilayer electrode is an injecting bilayer cathode, the first electrode layer comprises a first cathode layer and the second electrode layer comprises a second cathode layer.
+</P>
+<P>
+9. The memory cell of claim 8, the anode comprises at least one material selected from a group consisting of tungsten, silver, titanium, chromium, germanium, gold, aluminum, copper, molybdenum, tantalum, magnesium, manganese, indium, iron, nickel, palladium, platinum, zinc, strontium, hafnium, zirconium, vanadium, alloys thereof, indium-tin oxide, polysilicon, doped amorphous silicon, conducting polymers, semi-conducting polymers, PEDOT/PSS, polyaniline, polythiophene, polypyrrole, conducting organic polymers, semi-conducting organic polymers, oligomers, monomers, conducting metal oxides, semi-conducting metal oxides, nitrides and silicides.
+</P>
+<P>
+10. The memory cell of claim 8, the first cathode layer comprises a layer about 0.5-1.5 nm thick of at least one material selected from a group consisting of LiF, NaF, KF, RbF and CsF, and the second cathode layer comprises a layer greater than about 200 nm thick of at least one material selected from a group consisting of aluminum, calcium, barium, magnesium, and indium-tin oxide.
+</P>
+<P>
+11. The memory cell of claim 8, the first cathode layer comprises a layer about 10-50 nm thick of at least one material selected from a group consisting of Ca, Ba, Sm, Eu, Yb, Tb, Pr, Cs, Rb, K, Na, and Li, and the second cathode layer comprises a layer greater than about 200 nm thick of at least one material selected from a group consisting of tungsten, silver, titanium, chromium, germanium, gold, aluminum, copper, molybdenum, tantalum, magnesium, manganese, indium, iron, nickel, palladium, platinum, zinc, alloys thereof, indium-tin oxide, polysilicon, doped amorphous silicon, conducting polymers, semi-conducting polymers, PEDOT/PSS, polyaniline, polythiophene, polypyrrole material, conducting organic polymers, semi-conducting organic polymers, oligomers, monomers, conducting metal oxides, semi-conducting metal oxides, nitrides and silicides.
+</P>
+<P>
+12. The memory cell of claim 8, the first cathode layer comprises a layer about 10-50 nm thick of an alloy of at least one material selected from a group consisting of Ca, Ba, Sm, Eu, Yb, Tb, Pr, Cs, Rb, K, Na, and Li and at least one material selected from a group consisting of tungsten, silver, titanium, chromium, germanium, gold, aluminum, copper, molybdenum, tantalum, magnesium, manganese, indium, iron, nickel, palladium, platinum, zinc and the second cathode layer comprises a layer greater than about 200 nm thick of at least one material selected from a group consisting of tungsten, silver, titanium, chromium, germanium, gold, aluminum, copper, molybdenum, tantalum, magnesium, manganese, indium, iron, nickel, palladium, platinum, zinc, alloys thereof, indium-tin oxide, polysilicon, doped amorphous silicon, conducting polymers, semi-conducting polymers, PEDOT/PSS, polyaniline, polythiophene, polypyrrole material, conducting organic polymers, semi-conducting organic polymers, oligomers, monomers, conducting metal oxides, semi-conducting metal oxides, nitrides and silicides.
+</P>
+<P>
+13. The memory cell of claim 8, the first cathode layer comprises a layer about 2-50 nm thick of a diode organic material incorporating atoms or nanoparticles of at least one material selected from a group consisting of Ca, Ba, Mg, K, Na, Sm, Eu, Yb, Tb, Pr, Cs, Rb, and Li, and the second cathode layer comprises a layer greater than about 200 nm thick of at least one material selected from a group consisting of tungsten, silver, titanium, chromium, germanium, gold, aluminum, copper, molybdenum, tantalum, magnesium, manganese, indium, iron, nickel, palladium, platinum, zinc, alloys thereof, indium-tin oxide, polysilicon, doped amorphous silicon, conducting polymers, semi-conducting polymers, PEDOT/PSS, polyaniline, polythiophene, polypyrrole material, conducting organic polymers, semi-conducting organic polymers, oligomers, monomers, conducting metal oxides, semi-conducting metal oxides, nitrides and silicides.
+</P>
+<P>
+14. The memory cell of claim 3, the first electrode is a cathode and the injecting bilayer electrode is an injecting bilayer anode, the first electrode layer comprises a first anode layer and the second electrode layer comprises a second anode layer.
+</P>
+<P>
+15. The memory cell of claim 14, the cathode comprises at least one material selected from a group consisting of barium, calcium, copper, molybdenum, tantalum, tungsten, silver, titanium, chromium, germanium, gold, aluminum, magnesium, manganese, indium, iron, nickel, palladium, platinum, zinc, samarium, europium, terbium, strontium, hafnium, zirconium, vanadium, rhenium, rhodium, osmium, niobium, praseodymium, ytterbium, lanthanum, cesium, rubidium, alloys thereof, indium-tin oxide, polysilicon, doped amorphous silicon, metal silicides, conducting polymers, semi-conducting polymers, PEDOT/PSS, polyaniline, polythiophene material, conducting organic polymers, semi-conducting organic polymers, oligomers, monomers, conducting metal oxides, semi-conducting metal oxides, nitrides and silicides.
+</P>
+<P>
+16. The memory cell of claim 14, the second anode layer comprises a layer greater than about 200 nm thick of at least one material selected from a group consisting of tungsten, silver, titanium, chromium, germanium, gold, aluminum, copper, molybdenum, tantalum, magnesium, manganese, indium, iron, nickel, palladium, platinum, zinc, alloys thereof, indium-tin oxide, polysilicon, doped amorphous silicon, conducting polymers, semi-conducting polymers, PEDOT/PSS, polyaniline, polythiophene, polypyrrole material, conducting organic polymers, semi-conducting organic polymers, oligomers, monomers, conducting metal oxides, semi-conducting metal oxides, nitrides and silicides.
+</P>
+<P>
+17. The memory cell of claim 14, first anode layer is a doped organic layer which comprises at least one material selected from a group consisting of doped PEDOT, polythiophene, polyaniline, polypyrrole, diarylamine, triarylamine, and starburst organic materials.
+</P>
+<P>
+18. The memory cell of claim 17, the dopant for the organic layer comprises at least one material selected from a group consisting of PSS, FeCl3, metal chlorides, NOPF6, TCNQ, F4TCNQ, TCNE, and strong electron acceptors.
+</P>
+<P>
+19. The memory cell of claim 10, the second cathode layer comprises a thin layer greater than about 200 nm thick of at least one material selected from a group consisting of aluminum, calcium, and indium-tin oxide.
+</P>
+<P>
+20. The memory cell of claim 15, the thin layer of polymer or organic mterial comprises at least one material selected from a group consisting of copper phthalocyanine (CuPc), polyaniline (PANI), and polyethylenedioxythiophene (PEDOT).
+</P>
+<P>
+21. A memory array comprising:
+</P>
+<P>
+one or more memory cells, each memory cell comprising a first electrode, a memory element, a diode layer, and an injecting bilayer electrode comprised of a first electrode layer and a second electrode layer.
+</P>
+<P>
+22. The memory array of claim 21, the first electrodes of the one or more memory cells are first control lines.
+</P>
+<P>
+23. The memory array of claim 21, the second electrode layers of the injecting bilayer electrodes are second control lines.
+</P>
+<P>
+24. The memory array of claim 21, the injecting bilayer electrodes are control lines.
+</P>
+<P>
+25. A method of making a memory cell with an injecting bilayer electrode comprising:
+</P>
+<P>
+coupling a first electrode layer of a injecting bilayer electrode to a diode layer; and
+</P>
+<P>
+coupling a second electrode layer of the injecting bilayer electrode to the first electrode layer.
+</P>
+<P>
+26. The method of claim 25, further comprising:
+</P>
+<P>
+coupling a memory element to the diode layer; and
+</P>
+<P>
+coupling a first electrode to the memory element.
+</P>
+<P>
+27. The method of claim 26, the first electrode is an anode and the injecting bilayer electrode is a cathode.
+</P>
+<P>
+28. The method of claim 26, the first electrode is a cathode and the injecting bilayer electrode is a cathode.
+</P>
+<P>
+29. A system for generating a memory cell, comprising:
+</P>
+<P>
+means for forming an injecting bilayer electrode comprising a first electrode layer and a second electrode layer; and
+</P>
+<P>
+means for employing a memory element to couple the first electrode layer of the injecting bilayer electrode with a first electrode.
+</P>
+</Claims>
+<Also_published_as>
+US2007058426A1;US7582893B2;WO2007035259A1
+</Also_published_as>
+</BiblioData>

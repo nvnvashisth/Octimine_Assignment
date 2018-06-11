@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+APPARATUS WITH PLASMA RADIATION SOURCE, METHOD OF FORMING A BEAM OF RADIATION AND LITHOGRAPHIC APPARATUS
+</Title>
+<PublicationNumber>
+EP2111568A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KRIVTSUN VLADIMIR MIHAILOVITCH [RU]
+</Name>
+<Name>
+BANINE VADIM YEVGENYEVICH [NL]
+</Name>
+<Name>
+IVANOV VLADIMIR VITALEVITCH [RU]
+</Name>
+<Name>
+KOROP EVGENY DMITRIEVICH [RU]
+</Name>
+<Name>
+KOSHELEV KONSTANTIN NIKOLAEVITCH [RU]
+</Name>
+<Name>
+SIDELNIKOV YURII VICTOROVITCH [RU]
+</Name>
+<Name>
+YAKUSHEV OLEG [RU]
+</Name>
+<Name>
+KRIVTSUN, VLADIMIR MIHAILOVITCH
+</Name>
+<Name>
+BANINE, VADIM YEVGENYEVICH
+</Name>
+<Name>
+IVANOV, VLADIMIR VITALEVITCH
+</Name>
+<Name>
+KOROP, EVGENY DMITRIEVICH
+</Name>
+<Name>
+KOSHELEV, KONSTANTIN NIKOLAEVITCH
+</Name>
+<Name>
+SIDELNIKOV, YURII VICTOROVITCH
+</Name>
+<Name>
+YAKUSHEV, OLEG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASML NETHERLANDS BV [NL]
+</Name>
+<Name>
+ASML NETHERLANDS B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2111568
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080712608
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008NL50082
+</PriorityNumber>
+<PriorityDate>
+2008-02-14
+</PriorityDate>
+<PriorityNumber>
+US20070705822
+</PriorityNumber>
+<PriorityDate>
+2007-02-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70B6
+</Class>
+<Class>
+G03F7/70P14
+</Class>
+<Class>
+G03F7/70P6
+</Class>
+<Class>
+G03F7/70P6D
+</Class>
+<Class>
+G03F7/70P8B
+</Class>
+</NCL>
+<Abstract>
+An apparatus for forming a beam of electromagnetic radiation includes a plasma radiation source, and a foil trap provided with a plurality of thin foils that extend substantially parallel to the direction of radiation from the plasma source. A grid is disposed between the plasma radiation source and the foil trap. A space is located between the grid and the foil trap. The apparatus also include an electrical potential application circuit that is constructed and arranged to apply an electrical potential to the grid so that the grid repels electrons emitted by the plasma radiation source and creates a positive space charge between the grid and the foil trap to deflect ions emitted by the plasma radiation source to the foil trap.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An apparatus for forming a beam of electromagnetic radiation, the apparatus comprising:
+</P>
+<P>
+a plasma radiation source;
+</P>
+<P>
+a foil trap provided with a plurality of thin foils that extend substantially parallel to the direction of radiation from the plasma source;
+</P>
+<P>
+a grid disposed between the plasma radiation source and the foil trap, wherein a space is located between the grid and the foil trap;
+</P>
+<P>
+an electrical potential application circuit constructed and arranged to apply an electrical potential to the grid so that the grid repels electrons emitted by the plasma radiation source and creates a positive space charge between the grid and the foil trap to deflect ions emitted by the plasma radiation source to the foil trap.
+</P>
+<P>
+2. The apparatus according to claim 1, wherein the electrical potential application circuit comprises a voltage source configured to apply a voltage difference between the grid and at least a surface of the plasma radiation source that faces the grid with a polarity so that the grid is at a negative electrical potential relative to a electrical potential at the surface of the plasma radiation source.
+</P>
+<P>
+3. The apparatus according to claim 1, wherein the electrical potential application circuit is configured to apply the same electrical potential to the grid and a surface of the plasma radiation source that faces the grid.
+</P>
+<P>
+4. The apparatus according to claim 1, wherein the grid has a curved shape conforming to a segment of a sphere, or a plurality of plane segments at angles relative to one another distributed according to a virtual sphere segment.
+</P>
+<P>
+5. The apparatus according to claim 1, further comprising at least one separation that divides the space between the grid and the foil trap into compartments, each compartment having a size larger than a space between foils of the foil trap, the compartments extending from the grid towards the foil trap.
+</P>
+<P>
+6. The apparatus according to claim 5, wherein the at least one separation is an extension of one of the foils of the foil trap.
+</P>
+<P>
+7. The apparatus according to claim 5, wherein the compartments have a diameter between about one-half and two times the distance between the grid and the foil trap.
+</P>
+<P>
+8. The apparatus according to claim 5, wherein the at least one separation comprises a plurality of separations extending at mutual angles from a plurality of lines radiating from the plasma radiation source.
+</P>
+<P>
+9. The apparatus according to claim 1, wherein the grid comprises elongated grid elements that extend further in a first direction from the plasma source to the foil trap than in a second direction transverse to the first direction.
+</P>
+<P>
+10. The apparatus according to claim 1, wherein grid openings of the grid have a size less than or equal to a Debye length of a plasma that is be generated during operation by the plasma source on a plasma source side of the grid, multiplied by the square root of one minus a ratio of a electrical potential of the grid divided by a electrical potential difference between the plasma on a plasma source side of the grid and the electrical potential of the plasma source.
+</P>
+<P>
+11. The apparatus according to claim 1, wherein a distance between the grid and the foil trap is at least equal to one-half of a radius of the foil trap.
+</P>
+<P>
+12. The apparatus according to claim 1, further comprising a second grid between the grid and the plasma source, and a second electrical potential application circuit configured to apply a further electrical potential to the second grid that is higher than an electrical potential applied to the grid by the electrical potential application circuit.
+</P>
+<P>
+13. A method of forming a beam of radiation, the method comprising
+</P>
+<P>
+generating radiation from a plasma radiation source;
+</P>
+<P>
+transmitting the radiation through a foil trap; and
+</P>
+<P>
+generating a net space charge of positively charged ions in a space between the foil trap and the plasma source by applying an electrical potential to a grid located between the plasma source and said space, a level of the electrical potential being such that grid repels electrons emitted by the plasma radiation source.
+</P>
+<P>
+14. The method according to claim 13, further comprising applying a negative electrical potential to the grid relative to an electrical potential of a surface of the plasma source that faces the grid.
+</P>
+<P>
+15. The method according to claim 13, further comprising applying the same electrical potential to the grid and a surface of the plasma source that faces the grid.
+</P>
+<P>
+16. The method according to claim 13, further comprising separating space charge between the grid and the foil trap into separate space charges in a plurality of separated compartments.
+</P>
+<P>
+17. The method according to claim 13, wherein the distance between the grid and the foil trap is at least equal to one-half of a radius of the foil trap.
+</P>
+<P>
+18. The method according to claim 13, further comprising collecting electrons with a second grid between the grid and the plasma source.
+</P>
+<P>
+19. A lithographic apparatus comprising:
+</P>
+<P>
+a beam forming apparatus constructed and arranged for forming a beam of electromagnetic radiation, the beam forming apparatus comprising
+</P>
+<P>
+a plasma radiation source,
+</P>
+<P>
+a foil trap provided with a plurality of thin foils that extend substantially parallel to the direction of radiation from the plasma source, and
+</P>
+<P>
+a grid disposed between the plasma radiation source and the foil trap, wherein a space is located between the grid and the foil trap, and
+</P>
+<P>
+an electrical potential application circuit constructed and arranged to apply an electrical potential to the grid so that the grid repels electrons emitted by the plasma radiation source and creates a positive space charge between the grid and the foil trap to deflect ions emitted by the plasma radiation source to the foil trap;
+</P>
+<P>
+a patterning device constructed and arranged to pattern the beam of electromagnetic radiation; and
+</P>
+<P>
+a projection system constructed and arranged to project the patterned beam of electromagnetic radiation onto a substrate.
+</P>
+<P>
+20. A method of forming a beam of radiation, the method comprising:
+</P>
+<P>
+generating radiation from a plasma radiation source;
+</P>
+<P>
+transmitting the radiation through a foil trap; and
+</P>
+<P>
+applying an electrical potential to a grid located between the plasma radiation source and the foil trap, a level of the electrical potential being such that grid repels electrons emitted by the plasma radiation source, wherein a space charge of positively charged ions is created in a space between the foil trap and the plasma source.
+</P>
+</Claims>
+<Also_published_as>
+US2008192218A1;US7825390B2;US2011013167A1;TW200844679A;WO2008100143A1;KR20120034132A;JP2012044198A;JP2010518642A;CN101606104A;CN101606104B
+</Also_published_as>
+</BiblioData>

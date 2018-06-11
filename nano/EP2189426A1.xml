@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Process for preparing a nanoscale glass or glass- ceramic powder
+</Title>
+<PublicationNumber>
+EP2189426A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ZIMMER JOSE [DE]
+</Name>
+<Name>
+DAIMER JOHANN [DE]
+</Name>
+<Name>
+RINDT MATTHIAS [DE]
+</Name>
+<Name>
+KESSLER SUSANNE [DE]
+</Name>
+<Name>
+BESINGER JOERN [DE]
+</Name>
+<Name>
+SENESCHAL-MERZ KARINE [DE]
+</Name>
+<Name>
+ZIMMER, JOSE
+</Name>
+<Name>
+DAIMER, JOHANN
+</Name>
+<Name>
+RINDT, MATTHIAS
+</Name>
+<Name>
+KESSLER, SUSANNE
+</Name>
+<Name>
+BESINGER, JOERN
+</Name>
+<Name>
+SENESCHAL-MERZ, KARINE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SCHOTT AG [DE]
+</Name>
+<Name>
+SCHOTT AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2189426
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20100000497
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2005-05-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20050744811
+</PriorityNumber>
+<PriorityDate>
+2005-05-25
+</PriorityDate>
+<PriorityNumber>
+DE200410026433
+</PriorityNumber>
+<PriorityDate>
+2004-05-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+<Class>
+C03B19/10
+</Class>
+<Class>
+C03C12/00
+</Class>
+<Class>
+C03C3/00
+</Class>
+<Class>
+C03C4/00
+</Class>
+<Class>
+C08K7/20
+</Class>
+<Class>
+C23C14/06
+</Class>
+<Class>
+H01Q17/00
+</Class>
+<Class>
+C03C
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C03B19/10B4
+</Class>
+<Class>
+C03C12/00
+</Class>
+</NCL>
+<Abstract>
+Glass or glass-ceramic powder including a multicomponent glass containing at least three elements and has a mean particle size of 1 micron, preferably 10 nm (nanoparticles). An independent claim is included for preparation of the material by a PVD process.
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zur Herstellung eines Glas- oder Glaskeramikpulvers in Form von Nanopartikeln, umfassend wenigstens ein Multikomponentenglas mit mindestens drei Elementen, mit wenigstens den Schritten:
+</P>
+<P>
+- Verdampfen aller Ausgangsmaterialien des Multikomponentenglases in einem Plasma,
+</P>
+<P>
+- Abscheiden der verdampften Stoffe, wobei sich diese im glasartigen Zustand organisieren oder in amorpher Form erhalten werden,wobei das Multikomponentenglas als Netzwerkbildner SiO2 und/oder B2O3 und/oder P2O5 zwischen 30 und 95 Gew.-%, bevorzugt zwischen 30 und 80 Gew.-%, insbesondere zwischen 40 und 75 Gew.-%, am bevorzugtesten zwischen 50 und 70 Gew.-% enthält.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass als Gasstrom ein oxidisches Trägergas oder ein nicht-oxidisches Trägergas eingesetzt wird.
+</P>
+<P>
+3. Verfahren nach Anspruch 1 oder 2, dadurch gekennzeichnet, dass zum Verdampfen ein Hochfrequenzverdampfen oder ein Elektronenverdampfen eingesetzt wird.
+</P>
+<P>
+4. Verfahren nach einem der Ansprüche 1 bis 3, dadurch gekennzeichnet, dass als Ausgangmaterialien Metalle oder Metalloxide verwendet werden.
+</P>
+<P>
+5. Verfahren nach einem der Ansprüche 1 bis 4, dadurch gekennzeichnet, dass durch lokale Erwärmung eines Multikomponentenglases als Rohstoff dieser selektiv verdampft und die Rohstoffe als Glaspulver oder Glaskeramikpulver mit Partikelgrössen kleiner 1 [micro]m abgeschieden werden.
+</P>
+<P>
+6. Verfahren nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass durch die schnellen Abkühlraten des PVD-Verfahrens kristallisationsanfällige Gläser in amorpher Form und Gläser, die unter Standardschmelzbedingungen nicht stabil produziert werden können hergestellt werden.
+</P>
+<P>
+7. Verfahren nach mindestens einem der vorangehenden Ansprüche, dadurch gekennzeichnet, dass die Glaszusammensetzung der im PVD-Verfahren abgeschiedenen Nanoglas- oder Nanoglaskeramikpartikel mit den Zusammensetzungen der Ausgangsgläser übereinstimmen, die die nachfolgende Zusammensetzung (in Gew.-% auf Oxidbasis) umfassen:
+</P>
+<P>
+SiO2 0-90
+</P>
+<P>
+B2O3 0-90
+</P>
+<P>
+P2O5 0-90
+</P>
+<P>
+Na2O 0-30
+</P>
+<P>
+Li2O 0-30
+</P>
+<P>
+K2O 0-30
+</P>
+<P>
+CaO 0-30
+</P>
+<P>
+MgO 0-40
+</P>
+<P>
+CsO 0-40
+</P>
+<P>
+BaO 0-40
+</P>
+<P>
+SrO 0-40
+</P>
+<P>
+Al2O3 0-30
+</P>
+<P>
+TiO2 0-20
+</P>
+<P>
+ZnO 0-30
+</P>
+<P>
+Nb2O3 0-40
+</P>
+<P>
+La2O3 0-40
+</P>
+<P>
+PbO 0-70
+</P>
+<P>
+Bi2O3 0-70
+</P>
+<P>
+WO3 0-30
+</P>
+<P>
+ZrO2 0-40
+</P>
+<P>
+Yb2O3 0-40
+</P>
+<P>
+Y2O3 0-40
+</P>
+<P>
+F 0-10
+</P>
+<P>
+Ag2O 0-5
+</P>
+<P>
+CuO 0-10wobei die Summe SiO2+ B2O3+P2O5 grösser 30 Gew% ist.
+</P>
+<P>
+8. Verfahren nach Anspruch 6, dadurch gekennzeichnet, dass die Glaszusammensetzung 4 - 30 Gew% CaO enthält.
+</P>
+<P>
+9. Verfahren nach Anspruch 6, dadurch gekennzeichnet, dass die Glaszusammensetzung 4 - 30 Gew% Na2O enthält.
+</P>
+<P>
+10. Verfahren nach Anspruch 6, dadurch gekennzeichnet, dass die Glaszusammensetzung Ag, Cu, Zn, I enthält.
+</P>
+<P>
+11. Verfahren nach mindestens einem der vorangehenden Ansprüche, dadurch gekennzeichnet, dass die hergestellten Nanopartikel antioxidative, entzündungshemmende, antimikrobielle, remineralisierende Wirkung aufweisen.
+</P>
+</Claims>
+<Also_published_as>
+WO2005115936A2;WO2005115936A3;US2008044488A1;US7816292B2;JP2008500935A;EP1751071A2;DE102004026433A1;CN101094818A
+</Also_published_as>
+</BiblioData>

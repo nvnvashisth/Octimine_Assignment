@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SPHERICAL FERRITE NANOPARTICLE AND METHOD FOR PRODUCTION THEREOF
+</Title>
+<PublicationNumber>
+EP2128095A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ABE MASANORI [JP]
+</Name>
+<Name>
+HANDA HIROSHI [JP]
+</Name>
+<Name>
+NAKAGAWA TAKASHI [JP]
+</Name>
+<Name>
+TADA MASARU [JP]
+</Name>
+<Name>
+SHIMAZU RYUICHI [JP]
+</Name>
+<Name>
+TANAKA TOSHIYUKI [JP]
+</Name>
+<Name>
+ABE, MASANORI
+</Name>
+<Name>
+HANDA, HIROSHI
+</Name>
+<Name>
+NAKAGAWA, TAKASHI
+</Name>
+<Name>
+TADA, MASARU
+</Name>
+<Name>
+SHIMAZU, RYUICHI
+</Name>
+<Name>
+TANAKA, TOSHIYUKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TOKYO INST TECH [JP]
+</Name>
+<Name>
+TAMAGAWA SEIKI CO LTD [JP]
+</Name>
+<Name>
+TOKYO INSTITUTE OF TECHNOLOGY
+</Name>
+<Name>
+TAMAGAWA SEIKI KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2128095
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070860449
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP75246
+</PriorityNumber>
+<PriorityDate>
+2007-12-28
+</PriorityDate>
+<PriorityNumber>
+JP20070000649
+</PriorityNumber>
+<PriorityDate>
+2007-01-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61J3/00
+</Class>
+<Class>
+A61K41/00
+</Class>
+<Class>
+A61K47/02
+</Class>
+<Class>
+A61K47/04
+</Class>
+<Class>
+A61K47/32
+</Class>
+<Class>
+A61K47/34
+</Class>
+<Class>
+A61K47/48
+</Class>
+<Class>
+A61K49/00
+</Class>
+<Class>
+A61K9/50
+</Class>
+<Class>
+C01G49/02
+</Class>
+<Class>
+H01F1/36
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K41/00U
+</Class>
+<Class>
+A61K47/48W8B
+</Class>
+<Class>
+A61K49/18R6
+</Class>
+<Class>
+A61K9/50T
+</Class>
+<Class>
+A61K9/51H2
+</Class>
+<Class>
+A61K9/51P
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C01G49/00C
+</Class>
+<Class>
+C01G49/00C2
+</Class>
+<Class>
+H01F1/00E10
+</Class>
+</NCL>
+<Abstract>
+A method for producing spherical ferrite nanoparticles includes the steps of: preparing a first aqueous solution containing a disaccharide, an alkaline, an oxidation agent, seed particles and divalent iron ions;  and conducting particle growth in the first aqueous solution to produce the spherical ferrite nanoparticles.
+</Abstract>
+<Claims>
+<P>
+1. A method for producing spherical ferrite nanoparticles, comprising the steps of:
+</P>
+<P>
+preparing a first aqueous solution containing a disaccharide, an alkaline, an oxidation agent, seed particles and divalent iron ions; and
+</P>
+<P>
+conducting particle growth in the first aqueous solution to produce the spherical ferrite nanoparticles.
+</P>
+<P>
+2. The method as set forth in claim 1,
+</P>
+<P>
+wherein the first aqueous solution is prepared by adding the seed particles and the divalent iron ions into a second aqueous solution containing the disaccharide, the alkaline and the oxidation agent.
+</P>
+<P>
+3. The method as set forth in claim 1,
+</P>
+<P>
+wherein the first aqueous solution is prepared by adding the alkaline and the seed particles into a third aqueous solution containing the divalent iron ions and the disaccharide to form a fourth aqueous solution and adding the oxidation agent into the fourth aqueous solution.
+</P>
+<P>
+4. The method as set forth in claim 1, further comprising,
+</P>
+<P>
+the step of adding trivalent iron ions into the first aqueous solution.
+</P>
+<P>
+5. The method as set forth in claim 1,
+</P>
+<P>
+wherein a concentration of the disaccharide in the first aqueous solution is set within a range of 0.1M to 5M; and
+</P>
+<P>
+wherein a ratio of a concentration of the divalent iron ions to the concentration of the disaccharide is set within a range of 0.002 to 50.
+</P>
+<P>
+6. The method as set forth in claim 1,
+</P>
+<P>
+wherein the oxidation agent is at least one selected from the group consisting of a nitric acid, a nitrous acid, a nitrate and a nitrite.
+</P>
+<P>
+7. Spherical ferrite nanoparticles produced through a particle growth in a first aqueous solution containing a disaccharide, an alkaline, an oxidation agent, seed particles and divalent iron ions.
+</P>
+<P>
+8. The spherical ferrite nanoparticles as set forth in claim 7,
+</P>
+<P>
+wherein the first aqueous solution is prepared by adding the seed particles and the divalent iron ions into a second aqueous solution containing the disaccharide, the alkaline and the oxidation agent.
+</P>
+<P>
+9. The spherical ferrite nanoparticles as set forth in claim 7,
+</P>
+<P>
+wherein the first aqueous solution is prepared by adding the alkaline and the seed particles into a third aqueous solution containing the divalent iron ions and the disaccharide to form a fourth aqueous solution and adding the oxidation agent into the fourth aqueous solution.
+</P>
+<P>
+10. The spherical ferrite nanoparticles as set forth in claim 7, comprising,
+</P>
+<P>
+a number-averaged particle size within a range of 30 nm to 250 nm,
+</P>
+<P>
+wherein a ratio of the spherical ferrite nanoparticles falling within a range of +-40% for the number-averaged particle size are 95% or more for all of the spherical ferrite nanoparticles.
+</P>
+<P>
+11. Surface-modified ferrite nanoparticles, comprising:
+</P>
+<P>
+spherical ferrite nanoparticles produced through a particle growth in an aqueous solution containing a disaccharide, an alkaline, an oxidation agent, seed particles and divalent iron ions; and
+</P>
+<P>
+at least one surface modification agent selected from the group consisting of a surface-active agent, a hydroxyl acid and a sugar alcohol, the at least one surface modification agent modifying surfaces of the spherical ferrite nanoparticles.
+</P>
+<P>
+12. Composite ferrite nanoparticles, comprising:
+</P>
+<P>
+spherical ferrite nanoparticles produced through a particle growth in an aqueous solution containing a disaccharide, an alkaline, an oxidation agent, seed particles and divalent iron ions; and
+</P>
+<P>
+at least one surface covering agent selected from the group consisting of a polystyrene, a polyethylene, a polyacrylic acid ester, a polymethacrylic acid ester, a polyethylene glycol (PEG), a polyglycidyl methacrylate, a silica, and silane coupling agent; the at least one surface covering agent covering surfaces of the spherical ferrite nanoparticles.
+</P>
+<P>
+13. Composite ferrite nanoparticles, comprising:
+</P>
+<P>
+spherical ferrite nanoparticles produced through a particle growth in an aqueous solution containing a disaccharide, an alkaline, an oxidation agent, seed particles and divalent iron ions;
+</P>
+<P>
+at least one surface modification agent selected from the group consisting of a surface-active agent, a hydroxyl acid and a sugar alcohol, the at least one surface modification agent modifying surfaces of the spherical ferrite nanoparticles; and
+</P>
+<P>
+at least one surface covering agent selected from the group consisting of a polystyrene, a polyethylene, a polyacrylic acid ester, a polymethacrylic acid ester, a polyethylene glycol (PEG), a polyglycidyl methacrylate, a silica, and a silane coupling agent; the at least one surface covering agent covering modified surfaces of the spherical ferrite nanoparticles by the at least one surface modification agent.
+</P>
+<P>
+14. Functional ferrite nanoparticles, comprising:
+</P>
+<P>
+spherical ferrite nanoparticles produced through a particle growth in an aqueous solution containing a disaccharide, an alkaline, an oxidation agent, seed particles and divalent iron ions;
+</P>
+<P>
+linker molecules coupled with surfaces of the spherical ferrite nanoparticles; and
+</P>
+<P>
+probe molecules coupled with the linker molecules and capable of being specifically coupled with a substance to be examined.
+</P>
+<P>
+15. The functional ferrite nanoparticles as set forth in claim 14,
+</P>
+<P>
+wherein the functional ferrite nanoparticles functions as a test regent for recognizing, analyzing or screening at least one selected from the group consisting of a medical agent, an antigenic agent, an antibody, a receptor, a hapten, an enzyme, a protein, a nucleic acid, a hormone, a saccharide, a pathogen and a toxin.
+</P>
+<P>
+16. The functional ferrite nanoparticles as set forth in claim 14,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for detecting at least one selected from the group consisting of a diagnostic agent, a cell marking agent, an enzyme-immobilizing agent and a protein-refining agent.
+</P>
+<P>
+17. The functional ferrite nanoparticles as set forth in claim 14,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed as at least one selected from the group consisting of a magnetic hyperthermia heating element, an MRI contrast medium and a medical agent transferring carrier.
+</P>
+<P>
+18. The functional ferrite nanoparticles as set forth in claim 14,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for a diagnostic method to detect a magnetization by a magnetic detector.
+</P>
+<P>
+19. The functional ferrite nanoparticles as set forth in claim 14,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for chromatography.
+</P>
+<P>
+20. The functional ferrite nanoparticles as set forth in claim 14,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for at least one selected from the group consisting of soil improvement, water purification and air purification.
+</P>
+<P>
+21. The functional ferrite nanoparticles as set forth in claim 14,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed as at least one of an absorbing agent and a sensor.
+</P>
+<P>
+22. Functional ferrite nanoparticles, comprising:
+</P>
+<P>
+surface-modified ferrite nanoparticles including spherical ferrite nanoparticles produced through a particle growth in an aqueous solution containing a disaccharide, an alkaline, an oxidation agent, seed particles and divalent iron ions, and at least one surface modification agent selected from the group consisting of a surface-active agent, a hydroxyl acid and a sugar alcohol, the at least one surface modification agent modifying surfaces of the spherical ferrite nanoparticles;
+</P>
+<P>
+linker molecules coupled with surfaces of the spherical ferrite nanoparticles; and
+</P>
+<P>
+probe molecules coupled with the linker molecules and capable of being specifically coupled with a substance to be examined.
+</P>
+<P>
+23. The functional ferrite nanoparticles as set forth in claim 22,
+</P>
+<P>
+wherein the functional ferrite nanoparticles functions as a test regent for recognizing, analyzing or screening at least one selected from the group consisting of a medical agent, an antigenic agent, an antibody, a receptor, a hapten, an enzyme, a protein, a nucleic acid, a hormone, a saccharide, a pathogen and a toxin.
+</P>
+<P>
+24. The functional ferrite nanoparticles as set forth in claim 22,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for detecting at least one selected from the group consisting of a diagnostic agent, a cell marking agent, an enzyme-immobilizing agent and a protein-refining agent.
+</P>
+<P>
+25. The functional ferrite nanoparticles as set forth in claim 22,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed as at least one selected from the group consisting of a magnetic hyperthermia heating element, an MRI contrast medium and a medical agent transferring carrier.
+</P>
+<P>
+26. The functional ferrite nanoparticles as set forth in claim 22,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for a diagnostic method to detect a magnetization by a magnetic detector.
+</P>
+<P>
+27. The functional ferrite nanoparticles as set forthin claim 22,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for chromatography.
+</P>
+<P>
+28. The functional ferrite nanoparticles as set forthin claim 22,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for at least one selected from the group consisting of soil improvement, water purification and air purification.
+</P>
+<P>
+29. The functional ferrite nanoparticles as set forth in claim 22,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed as at least one of an absorbing agent and a sensor.
+</P>
+<P>
+30. Functional ferrite nanoparticles, comprising:
+</P>
+<P>
+composite ferrite nanoparticles including spherical ferrite nanoparticles produced through a particle growth in an aqueous solution containing a disaccharide, an alkaline, an oxidation agent, seed particles and divalent iron ions, and at least one surface covering agent selected from the group consisting of a polystyrene, a polyethylene, a polyacrylic acid ester, a polymethacrylic acid ester, a polyethylene glycol (PEG), a polyglycidyl methacrylate, a silica, and silane coupling agent, the at least one surface covering agent covering surfaces of the spherical ferrite nanoparticlessurface-modified ferrite nanoparticles including spherical ferrite nanoparticles produced through a particle growth in an aqueous solution containing a disaccharide, an alkaline, an oxidation agent, seed particles and divalent iron ions, and at least one surface modification agent selected from the group consisting of a surface-active agent, a hydroxyl acid and a sugar alcohol, the at least one surface modification agent modifying surfaces of the spherical ferrite nanoparticles;
+</P>
+<P>
+linker molecules coupled with surfaces of the spherical ferrite nanoparticles; and
+</P>
+<P>
+probe molecules coupled with the linker molecules and capable of being specifically coupled with a substance to be examined.
+</P>
+<P>
+31. The functional ferrite nanoparticles as set forth in claim 30,
+</P>
+<P>
+wherein the functional ferrite nanoparticles functions as a test regent for recognizing, analyzing or screening at least one selected from the group consisting of a medical agent, an antigenic agent, an antibody, a receptor, a hapten, an enzyme, a protein, a nucleic acid, a hormone, a saccharide, a pathogen and a toxin.
+</P>
+<P>
+32. The functional ferrite nanoparticles as set forth in claim 30,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for detecting at least one selected from the group consisting of a diagnostic agent, a cell marking agent, an enzyme-immobilizing agent and a protein-refining agent.
+</P>
+<P>
+33. The functional ferrite nanoparticles as set forth in claim 30,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed as at least one selected from the group consisting of a magnetic hyperthermia heating element, an MRI contrast medium and a medical agent transferring carrier.
+</P>
+<P>
+34. The functional ferrite nanoparticles as set forth in claim 30,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for a diagnostic method to detect a magnetization by a magnetic detector.
+</P>
+<P>
+35. The functional ferrite nanoparticles as set forthin claim 30,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for chromatography.
+</P>
+<P>
+36. The functional ferrite nanoparticles as set forthin claim 30,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for at least one selected from the group consisting of soil improvement, water purification and air purification.
+</P>
+<P>
+37. The functional ferrite nanoparticles as set forth in claim 30,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed as at least one of an absorbing agent and a sensor.
+</P>
+<P>
+38. Functional ferrite nanoparticles, comprising:
+</P>
+<P>
+composite ferrite nanoparticles including spherical ferrite nanoparticles produced through a particle growth in an aqueous solution containing a disaccharide, an alkaline, an oxidation agent, seed particles and divalent iron ions, at least one surface modification agent selected from the group consisting of a surface-active agent, a hydroxyl acid and a sugar alcohol, the at least one surface modification agent modifying surfaces of the spherical ferrite nanoparticles, and at least one surface covering agent selected from the group consisting of a polystyrene, a polyethylene, a polyacrylic acid ester, a polymethacrylic acid ester, a polyethylene glycol (PEG), a polyglycidyl methacrylate, a silica, and a silane coupling agent, the at least one surface covering agent covering modified surfaces of the spherical ferrite nanoparticles by the at least one surface modification agent;
+</P>
+<P>
+linker molecules coupled with surfaces of the spherical ferrite nanoparticles; and
+</P>
+<P>
+probe molecules coupled with the linker molecules and capable of being specifically coupled with a substance to be examined.
+</P>
+<P>
+39. The functional ferrite nanoparticles as set forth in claim 38,
+</P>
+<P>
+wherein the functional ferrite nanoparticles functions as a test regent for recognizing, analyzing or screening at least one selected from the group consisting of a medical agent, an antigenic agent, an antibody, a receptor, a hapten, an enzyme, a protein, a nucleic acid, a hormone, a saccharide, a pathogen and a toxin.
+</P>
+<P>
+40. The functional ferrite nanoparticles as set forth in claim 38,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for detecting at least one selected from the group consisting of a diagnostic agent, a cell marking agent, an enzyme-immobilizing agent and a protein-refining agent.
+</P>
+<P>
+41. The functional ferrite nanoparticles as set forth in claim 38,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed as at least one selected from the group consisting of a magnetic hyperthermia heating element, an MRI contrast medium and a medical agent transferring carrier.
+</P>
+<P>
+42. The functional ferrite nanoparticles as set forth in claim 38,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for a diagnostic method to detect a magnetization by a magnetic detector.
+</P>
+<P>
+43. The functional ferrite nanoparticles as set forth in claim 38,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for chromatography.
+</P>
+<P>
+44. The functional ferrite nanoparticles as set forthin claim 38,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed for at least one selected from the group consisting of soil improvement, water purification and air purification.
+</P>
+<P>
+45. The functional ferrite nanoparticles as set forth in claim 38,
+</P>
+<P>
+wherein the functional ferrite nanoparticles are employed as at least one of an absorbing agent and a sensor.
+</P>
+</Claims>
+<Also_published_as>
+EP2128095A4;US2010040553A1;JP2008201666A;WO2008081917A1
+</Also_published_as>
+</BiblioData>

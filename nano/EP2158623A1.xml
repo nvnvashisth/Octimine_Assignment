@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+COUPLED CHARGE TRANSFER NANOTUBE DOPANTS
+</Title>
+<PublicationNumber>
+EP2158623A1
+</PublicationNumber>
+<Inventor>
+<Name>
+RINZLER ANDREW GABRIEL [US]
+</Name>
+<Name>
+REYNOLDS JOHN R [US]
+</Name>
+<Name>
+WALCZAK RYAN M [US]
+</Name>
+<Name>
+RINZLER, ANDREW, GABRIEL
+</Name>
+<Name>
+REYNOLDS, JOHN, R
+</Name>
+<Name>
+WALCZAK, RYAN, M
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV FLORIDA [US]
+</Name>
+<Name>
+UNIVERSITY OF FLORIDA RESEARCH FOUNDATION, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2158623
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080730219
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US54372
+</PriorityNumber>
+<PriorityDate>
+2008-02-20
+</PriorityDate>
+<PriorityNumber>
+US20070890704P
+</PriorityNumber>
+<PriorityDate>
+2007-02-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00A6
+</Class>
+<Class>
+H01L51/00M4D2
+</Class>
+</NCL>
+<Abstract>
+Stable charge-transfer doping of carbon nanotubes is achieved using a dopant containing polymer (DCP) wherein the DCP has a multiplicity of dopant moieties that are capable of donating electrons to or accepting electrons from the nanotubes linked to a polymer. The DCP has a sufficient number of dopant moieties connected to the polymer such that when charge transfer equilibrium between a particular dopant moiety and the nanotubes is in a dissociated, or dedoped, state, the dopant moiety remains tethered by a linking moiety to the polymer and remains in the vicinity of the nanotubes as the polymer remains bound to the tube by at least one bound dopant of the DCP. The linking groups are selected to permit the presentation of the dopant moieties to the nanotubes in a manner that is unencumbered by the polymer backbone and can undergo charge transfer doping.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+We claim:
+</P>
+<P>
+1. A dopant coupled polymer (DCP), comprising: a polymer; a multiplicity of dopant moieties capable of donating or accepting electrons from a carbon nanotube surface; and a linking moiety connects said dopant moiety to said polymer.
+</P>
+<P>
+2. The DCP of claim 1, wherein said polymer comprises a homopolymer or copolymer with an architecture that is linear, branched, hyperbranched, dendritic, star shaped, or as a network.
+</P>
+<P>
+3. The DCP of claim 1, wherein said polymer has a non-conjugated backbone.
+</P>
+<P>
+4. The DCP of claim 1, wherein said polymer has a partially or fully conjugated backbone.
+</P>
+<P>
+5. The DCP of claim 1, wherein said dopant moiety comprises an electron accepting charge transfer unit.
+</P>
+<P>
+6. The DCP of claim 5, wherein said dopant moiety independently comprises derivatives of TCNQs, halogenated-TCNQs, 1,1-dicyanovinylenes, 1,1,2-tricyanovinylenes, benzoquinones, pentafluorophenol, dicyanofluorenone, cyano-fluoroalkylsulfonyl- fluorenones, pyridines, pyrazines, triazines, tetrazines, pyridopyrazines, benzothiadiazoles, heterocyclic thiadiazoles, porphyrins, phthalocyanines, or electron accepting organometallic complexes.
+</P>
+<P>
+7. The DCP of claim 1, wherein said dopant moiety comprises an electron donating charge transfer unit.
+</P>
+<P>
+8. The DCP of claim 7, wherein said dopant moiety independently comprises derivatives of tetrathiafulvalene (TTF), bis-ethylenedithiolo-TTF (BEDT-TTF), amines, polyamines, tetraselenafulvalenes, fused heterocycles, heterocyclic oligomers, and electron donating organometallic complexes.
+</P>
+<P>
+9. The DCP of claim 1, wherein said multiplicity of dopant moieties comprises at least five of said dopant moieties.
+</P>
+<P>
+10. The DCP of claim 1, wherein said linking moiety comprises a non-conjugated chain where one to about 50 atoms, are linearly linked together between said polymer and said dopant moiety.
+</P>
+<P>
+1 1. The DCP of claim 1, wherein said linking moiety comprises a non-conjugated chain where four to about 20 atoms, are linearly linked together between said polymer and said dopant moiety.
+</P>
+<P>
+12. The DCP of claim 1, wherein said linking moiety comprises a normal, branched or cyclic hydrocarbon with or without heteroatoms selected from the group consisting of O, S, or N or a linear, branched, or cyclic siloxane.
+</P>
+<P>
+13. The DCP of claim 1, wherein said wherein said linking moiety comprises a conjugated chain where one to about 50 atoms, are linearly linked together between said polymer and said dopant moiety.
+</P>
+<P>
+14. The DCP of claim 1, further comprising a plurality of carbon nanotubes, wherein a plurality of said dopant moieties forms a charge transfer complex to a surface of said carbon nanotubes.
+</P>
+<P>
+15. A method to dope carbon nanotubes comprising the steps of: providing a DCP comprised of at least one polymer with a multiplicity of dopant moieties linked via a linking moiety to said polymer; providing at least one carbon nanotube; and mixing said polymers with said nanotubes.
+</P>
+<P>
+16. The method of claim 15, wherein the step of providing said DCP comprises providing said DCP as a liquid.
+</P>
+<P>
+17. The method of claim 15, wherein the step of providing said DCP comprises providing said DCP in solution.
+</P>
+<P>
+18. The method of claim 15, wherein the step of providing said DCP comprises providing at least one monomer and a means to polymerize said monomer into said DCP.
+</P>
+<P>
+19. The method of claim 15, further comprising the step of cross-linking said DCP in the presence of said nanotubes.
+</P>
+<P>
+20. The method of claim 15, further comprising the steps of: providing a monomeric dopant capable of doping said nanotubes; and removing said monomeric dopant, wherein a doping level of said doped nanotubes is less than saturated.
+</P>
+<P>
+21. A doped nanotube composition comprising: at least one carbon nanotube; and at least one DCP comprising a polymer containing a multiplicity of dopant moieties linked to said polymer via a linking moiety capable of donating or accepting electrons from said carbon nanotube&apos; s surface, wherein the ratio of the mass of said nanotubes to the mass of said DCP provides a specific conductivity to said composition.
+</P>
+</Claims>
+<Also_published_as>
+WO2008103703A1;US2010099815A1;KR20090127137A;JP2010522780A;CN101636855A;CA2678585A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Stacked organic photosensitive devices
+</Title>
+<PublicationNumber>
+EP1978561A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FORREST STEPHEN R [US]
+</Name>
+<Name>
+XUE JIANGENG [US]
+</Name>
+<Name>
+UCHIDA SOICHI [JP]
+</Name>
+<Name>
+RAND BARRY P [US]
+</Name>
+<Name>
+FORREST, STEPHEN R
+</Name>
+<Name>
+XUE, JIANGENG
+</Name>
+<Name>
+UCHIDA, SOICHI
+</Name>
+<Name>
+RAND, BARRY P
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV PRINCETON [US]
+</Name>
+<Name>
+THE TRUSTEES OF PRINCETON UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1978561
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080011338
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2005-08-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20050778958
+</PriorityNumber>
+<PriorityDate>
+2005-08-02
+</PriorityDate>
+<PriorityNumber>
+US20040911559
+</PriorityNumber>
+<PriorityDate>
+2004-08-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L27/00
+</Class>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L27/30B2
+</Class>
+<Class>
+H01L51/00A8
+</Class>
+<Class>
+H01L51/42F2
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+The inventions relates to a device comprising an anode, a cathode, a plurality of stacked organic photoactive regions, disposed between and electrically connected to the anode and the cathode, each organic photoactive region comprising an organic acceptor material and an organic donor material, and a plurality of exciton block layers, wherein for at least one of the organic photoactive regions, an exciton blocking layer of said plurality of exciton blocking layers is disposed adjacent to and in direct physical contact with the organic acceptor material of the respective organic photoactive region, wherein a LUMO of each exciton blocking layer other than the exciton blocking layer closest to the cathode is not more than about 0.3 eV greater than a LUMO of the adjacent acceptor material.
+</Abstract>
+<Claims>
+<P>
+1. A device, comprising:
+</P>
+<P>
+an anode;
+</P>
+<P>
+a cathode;
+</P>
+<P>
+a plurality of stacked organic photoactive regions, disposed between and electrically connected to the anode and the cathode, each organic photoactive region comprising an organic acceptor material and an organic donor material; and
+</P>
+<P>
+a plurality of exciton block layers, wherein for at least one of the organic photoactive regions, an exciton blocking layer of said plurality of exciton blocking layers is disposed adjacent to and in direct physical contact with the organic acceptor material of the respective organic photoactive region,wherein a LUMO of each exciton blocking layer other than the exciton blocking layer closest to the cathode is not more than about 0.3 eV greater than a LUMO of the adjacent acceptor material.
+</P>
+<P>
+2. The device of claim 1, wherein each photoactive region further comprises:
+</P>
+<P>
+a first organic layer comprising a mixture of an organic acceptor material and an organic donor material;
+</P>
+<P>
+a second organic layer in direct contact with the first organic layer, wherein the second organic layer comprises an unmixed layer of the organic donor material of the first organic layer; and
+</P>
+<P>
+a third organic layer in direct contact with the first organic layer, wherein the third organic layer comprises an unmixed layer of the organic acceptor material of the first organic layer;wherein the exciton blocking layer is disposed adjacent to and in direct physical contact with the third organic layer.
+</P>
+<P>
+3. The device of claim 1, wherein each photoactive region further comprises:
+</P>
+<P>
+a first organic layer comprising a mixture of an organic acceptor material and an organic donor material; and
+</P>
+<P>
+a second organic layer in direct contact with the first organic layer, wherein the second organic layer comprises an unmixed layer of the organic donor material of the first organic layer;wherein the exciton blocking layer is disposed adjacent to and in direct physical contact with the first organic layer.
+</P>
+<P>
+4. The device of claim 1, wherein each photoactive region consists of:
+</P>
+<P>
+a first organic layer comprising a mixture of an organic acceptor material and an organic donor material; and
+</P>
+<P>
+a second organic layer in direct contact with the first organic layer, wherein the second organic layer comprises an unmixed layer of the organic acceptor material of the first organic layer;wherein the exciton blocking layer is disposed adjacent to and in direct physical contact with the second organic layer.
+</P>
+<P>
+5. The device of claim 1, wherein each photoactive region further comprises:
+</P>
+<P>
+a first organic layer comprising an unmixed layer of the acceptor donor material; and
+</P>
+<P>
+a second organic layer in direct contact with the first organic layer comprising an unmixed layer of the organic donor material;wherein the exciton blocking layer is disposed adjacent to and in direct physical contact with the first organic layer.
+</P>
+<P>
+6. The device of claim 1, wherein each photoactive region consists of:
+</P>
+<P>
+a first organic layer comprising a mixture of an organic acceptor material and an organic donor material,wherein the exciton blocking layer is disposed adjacent to and in direct physical contact with the first organic layer.
+</P>
+<P>
+7. The device of one of the preceding claims, further comprising a charge recombination zone disposed between and electrically connected to each adjacent pair of stacked organic photoactive regions.
+</P>
+<P>
+8. The device of one of the preceding claims, wherein a material of the exciton blocking layer closest to the cathode comprises BCP, and a material of every other exciton blocking layer comprises PTCBI.
+</P>
+<P>
+9. The device of claim 7 or 8, wherein the charge recombination zone comprises a layer of a p-doped organic material having nanoparticles dispersed therein.
+</P>
+<P>
+10. The device of claim 9, wherein the p-doped organic material is m-MTDATA doped with F4-TCNQ or BTQBT doped with PTCDA.
+</P>
+<P>
+11. The device of one of the preceding claims, wherein the organic donor material of each organic photoactive region is CuPc and the organic acceptor material of each organic photoactive region is C60.
+</P>
+<P>
+12. The device of one of the preceding claims, wherein a LUMO of an exciton blocking material closest to the cathode is not more than about 0.3 eV greater than a LUMO of the adjacent acceptor material.
+</P>
+<P>
+13. The device of one of the preceding claims, wherein a LUMO of an exciton blocking material closest to the cathode is more than about 0.3 eV greater than a LUMO of the adjacent acceptor material.
+</P>
+<P>
+14. The device of one of the preceding claims, wherein each of the organic acceptor materials is selected from a group consisting of: fullerenes, perylenes, catacondensed conjugated molecular systems, pyrene, coronene, and functionalized variants thereof.
+</P>
+<P>
+15. The device of one of the preceding claims, wherein each of the organic donor materials is selected from a group consisting of: metal containing porphyrins, metal-free porphyrins, rubrene, metal containing phthalocyanines, metal-free phthalocyanines, diamines, and functionalized variants thereof, including naphthalocyanines.
+</P>
+<P>
+16. The device of one of the preceding claims, wherein the device is a photovoltaic device or a photodetector.
+</P>
+<P>
+17. The device in claim 14, wherein the catacondensed conjugated molecular systems include linear polyacenes.
+</P>
+<P>
+18. The device in claim 1, wherein the plurality of stacked organic photoactive regions comprise:
+</P>
+<P>
+a first organic photoactive region comprising a first organic acceptor material and a first organic donor material; and
+</P>
+<P>
+a second organic photoactive region comprising a second organic acceptor material and a second organic donor material,wherein the first organic acceptor material, the first organic donor material, the second organic acceptor material, and the second organic donor material are different materials.
+</P>
+<P>
+19. The device of one of the preceding claims, wherein said device is one of hybrid planar-mixed heterojunction device, a bulk heterojunction device, or a nanocrystalline bulk heterojunction.
+</P>
+<P>
+1. A device, comprising:
+</P>
+<P>
+an anode;
+</P>
+<P>
+a cathode;
+</P>
+<P>
+a plurality of stacked organic photoactive regions, disposed between and electrically connected to the anode and the cathode, each organic photoactive region comprising an organic acceptor material and an organic donor material; and
+</P>
+<P>
+a plurality of exciton block layers, wherein for at least one of the organic photoactive regions, an exciton blocking layer of said plurality of exciton blocking layers is disposed adjacent to and in direct physical contact with the organic acceptor material of the respective organic photoactive region,wherein a LUMO of each exciton blocking layer other than the exciton blocking layer closest to the cathode is not more than about 0.3 eV greater than a LUMO of the adjacent acceptor material.
+</P>
+<P>
+2. The device of claim 1, wherein each photoactive region further comprises:
+</P>
+<P>
+a first organic layer comprising a mixture of an organic acceptor material and an organic donor material;
+</P>
+<P>
+a second organic layer in direct contact with the first organic layer, wherein the second organic layer comprises an unmixed layer of the organic donor material of the first organic layer; and
+</P>
+<P>
+a third organic layer in direct contact with the first organic layer, wherein the third organic layer comprises an unmixed layer of the organic acceptor material of the first organic layer;wherein the exciton blocking layer is disposed adjacent to and in direct physical contact with the third organic layer.
+</P>
+<P>
+3. The device of claim 1, wherein each photoactive region further comprises:
+</P>
+<P>
+a first organic layer comprising a mixture of an organic acceptor material and an organic donor material; and
+</P>
+<P>
+a second organic layer in direct contact with the first organic layer, wherein the second organic layer comprises an unmixed layer of the organic donor material of the first organic layer;wherein the exciton blocking layer is disposed adjacent to and in direct physical contact with the first organic layer.
+</P>
+<P>
+4. The device of claim 1, wherein each photoactive region consists of:
+</P>
+<P>
+a first organic layer comprising a mixture of an organic acceptor material and an organic donor material; and
+</P>
+<P>
+a second organic layer in direct contact with the first organic layer, wherein the second organic layer comprises an unmixed layer of the organic acceptor material of the first organic layer;wherein the exciton blocking layer is disposed adjacent to and in direct physical contact with the second organic layer.
+</P>
+<P>
+5. The device of claim 1, wherein each photoactive region further comprises:
+</P>
+<P>
+a first organic layer comprising an unmixed layer of the acceptor donor material; and
+</P>
+<P>
+a second organic layer in direct contact with the first organic layer comprising an unmixed layer of the organic donor material;wherein the exciton blocking layer is disposed adjacent to and in direct physical contact with the first organic layer.
+</P>
+<P>
+6. The device of claim 1, wherein each photoactive region consists of:
+</P>
+<P>
+a first organic layer comprising a mixture of an organic acceptor material and an organic donor material,wherein the exciton blocking layer is disposed adjacent to and in direct physical contact with the first organic layer.
+</P>
+<P>
+7. The device of one of the preceding claims, further comprising a charge recombination zone disposed between and electrically connected to each adjacent pair of stacked organic photoactive regions.
+</P>
+<P>
+8. The device of one of the preceding claims, wherein a material of the exciton blocking layer closest to the cathode comprises BCP, and a material of every other exciton blocking layer comprises PTCBI.
+</P>
+<P>
+9. The device of claim 7 or 8, wherein the charge recombination zone comprises a layer of a p-doped organic material having nanoparticles dispersed therein.
+</P>
+<P>
+10. The device of claim 9, wherein the p-doped organic material is m-MTDATA doped with F4-TCNQ or BTQBT doped with PTCDA.
+</P>
+<P>
+11. The device of one of the preceding claims, wherein the organic donor material of each organic photoactive region is CuPc and the organic acceptor material of each organic photoactive region is C60.
+</P>
+<P>
+12. The device of one of the preceding claims, wherein a LUMO of an exciton blocking material closest to the cathode is not more than about 0.3 eV greater than a LUMO of the adjacent acceptor material.
+</P>
+<P>
+13. The device of one of the preceding claims, wherein a LUMO of an exciton blocking material closest to the cathode is more than about 0.3 eV greater than a LUMO of the adjacent acceptor material.
+</P>
+<P>
+14. The device of one of the preceding claims, wherein each of the organic acceptor materials is selected from a group consisting of: fullerenes, perylenes, catacondensed conjugated molecular systems, pyrene, coronene, and functionalized variants thereof.
+</P>
+<P>
+15. The device of one of the preceding claims, wherein each of the organic donor materials is selected from a group consisting of: metal containing porphyrins, metal-free porphyrins, rubrene, metal containing phthalocyanines, metal-free phthalocyanines, diamines, and functionalized variants thereof, including naphthalocyanines.
+</P>
+<P>
+16. The device of one of the preceding claims, wherein the device is a photovoltaic device or a photodetector.
+</P>
+<P>
+17. The device in claim 14, wherein the catacondensed conjugated molecular systems include linear polyacenes.
+</P>
+<P>
+18. The device in claim 1, wherein the plurality of stacked organic photoactive regions comprise:
+</P>
+<P>
+a first organic photoactive region comprising a first organic acceptor material and a first organic donor material; and
+</P>
+<P>
+a second organic photoactive region comprising a second organic acceptor material and a second organic donor material,wherein the first organic acceptor material, the first organic donor material, the second organic acceptor material, and the second organic donor material are different materials.
+</P>
+<P>
+19. The device of one of the preceding claims, wherein said device is one of hybrid planar-mixed heterojunction device, a bulk heterojunction device, or a nanocrystalline bulk heterojunction.
+</P>
+</Claims>
+<Also_published_as>
+EP1978561B1;US2006027834A1;US7196366B2;WO2006017530A1;WO2006017530B1;US2008099068A1;US7816715B2;KR20070058485A;JP2008509559A;HK1113227A1;ES2345300T3;ES2313405T3;EP1782470A1;EP1782470B1;CN101044640A;CN101044640B;CA2575818A1;BRPI0513644A;AU2010241522A1;AU2005271600A1;AU2005271600B2
+</Also_published_as>
+</BiblioData>

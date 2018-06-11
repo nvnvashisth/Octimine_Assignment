@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+REFLECTIVE MASK BLANC FOR EUV LITHOGRAPHY
+</Title>
+<PublicationNumber>
+EP1973147A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HAYASHI KAZUYUKI [JP]
+</Name>
+<Name>
+KADOWAKI KAZUO [JP]
+</Name>
+<Name>
+SUGIYAMA TAKASHI [JP]
+</Name>
+<Name>
+HAYASHI, KAZUYUKI
+</Name>
+<Name>
+KADOWAKI, KAZUO
+</Name>
+<Name>
+SUGIYAMA, TAKASHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASAHI GLASS CO LTD [JP]
+</Name>
+<Name>
+ASAHI GLASS COMPANY, LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1973147
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070860104
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP74875
+</PriorityNumber>
+<PriorityDate>
+2007-12-25
+</PriorityDate>
+<PriorityNumber>
+JP20060350932
+</PriorityNumber>
+<PriorityDate>
+2006-12-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F1/16
+</Class>
+<Class>
+G03F7/20
+</Class>
+<Class>
+H01L21/027
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F1/08
+</Class>
+<Class>
+G03F1/24
+</Class>
+</NCL>
+<Abstract>
+To provide a reflective mask blank for EUV lithography having an absorber layer which has a low reflectance in a wavelength region of EUV light or light for inspection of a pattern and which is easy to control to have a desired layer composition and thickness. A reflective mask blank for EUV lithography, which comprises a substrate, and a reflective layer to reflect EUV light and an absorber layer to absorb EUV light, formed in this order on the substrate, wherein the absorber layer contains tantalum (Ta) and hafnium (Hf), and in the absorber layer, the content of Hf is from 20 to 60 at.% and the content of Ta is from 40 to 80 at.%.
+</Abstract>
+<Claims>
+<P>
+1. A reflective mask blank for EUV lithography, which comprises a substrate, and a reflective layer to reflect EUV light and an absorber layer to absorb EUV light, formed in this order on the substrate, wherein the absorber layer contains tantalum (Ta) and hafnium (Hf), and in the absorber layer, the content of Hf is from 20 to 60 at.% and the content of Ta is from 40 to 80 at.%.
+</P>
+<P>
+2. A reflective mask blank for EUV lithography, which comprises a substrate, and a reflective layer to reflect EUV light and an absorber layer to absorb EUV light, formed in this order on the substrate, wherein the absorber layer contains tantalum (Ta), hafnium (Hf) and nitrogen (N), and in the absorber layer, the total content of Ta and Hf is from 40 to 70 at.%, the compositional ratio of Ta to Hf is Ta:Hf=8:2 to 4:6, and the content of N is from 30 to 60 at.%.
+</P>
+<P>
+3. The reflective mask blank for EUV lithography according to Claim 2, wherein in the absorber layer, the compositional ratio of Ta to Hf is Ta:Hf=7:3 to 4:6.
+</P>
+<P>
+4. The reflective mask blank for EUV lithography according to any one of Claims 1 to 3, wherein in the absorber layer, the total content of B, Si and Ge is at most 5 at.%.
+</P>
+<P>
+5. The reflective mask blank for EUV lithography according to any one of Claims 1 to 4, wherein the absorber layer contains from 0.1 to 1.0 at.% of Zr.
+</P>
+<P>
+6. The reflective mask blank for EUV lithography according to any one of Claims 1 to 5, wherein the absorber layer contains at most 5 at.% of Cr.
+</P>
+<P>
+7. The reflective mask blank for EUV lithography according to any one of Claims 1 to 6, wherein the crystalline state of the absorber layer is amorphous.
+</P>
+<P>
+8. The reflective mask blank for EUV lithography according to any one of Claims 1 to 7, wherein the absorber layer has a surface roughness (rms) of at most 0.5 nm at its surface.
+</P>
+<P>
+9. The reflective mask blank for EUV lithography according to any one of Claims 1 to 8, wherein the absorber layer has a thickness of from 50 to 200 nm.
+</P>
+<P>
+10. The reflective mask blank for EUV lithography according to any one of Claims 1 to 9, wherein a low reflective layer against an inspection light to be used for inspection of a mask pattern is formed on the absorber layer, the low reflective layer contains tantalum (Ta), hafnium (Hf) and oxygen (O), and in the low reflective layer, the total content of Ta and Hf is from 30 to 80 at.%, the compositional ratio of Ta to Hf is from 8:2 to 4:6, and the content of O is from 20 to 70 at.%.
+</P>
+<P>
+11. The reflective mask blank for EUV lithography according to Claim 10, wherein in the low reflective layer, the compositional ratio of Ta to Hf is Ta:Hf=7:3, to 4:6.
+</P>
+<P>
+12. The reflective mask blank for EUV lithography according to any one of Claims 1 to 9, wherein a low reflective layer against an inspection light to be used for inspection of a mask pattern is formed on the absorber layer, the low reflective layer contains tantalum (Ta), hafnium (Hf), oxygen (O) and nitrogen (N), and in the low reflective layer, the total content of Ta and Hf is from 30 to 80 at.%, the compositional ratio of Ta to Hf is Ta:Hf=8:2 to 4:6, the total content of N and O is from 20 to 70 at.%, and the compositional ratio of N to O is N:O=9:1 to 1:9.
+</P>
+<P>
+13. The reflective mask blank for EUV lithography according to Claim 12, wherein in the low reflective layer, the compositional ratio of Ta to Hf is Ta:Hf=7:3 to 4:6.
+</P>
+<P>
+14. A reflective mask blank for EUV lithography, which comprises a substrate, and a reflective layer to reflect EUV light, an absorber layer to absorb EUV light and a low reflective layer against an inspection light to be used for inspection of a mask pattern, formed in this order on the substrate, wherein the low reflective layer contains tantalum (Ta), hafnium (Hf) and oxygen (O), and in the low reflective layer, the total content of Ta and Hf is from 30 to 80 at.%, the compositional ratio of Ta to Hf is from 8:2 to 4:6, and the content of O is from 20 to 70 at.%.
+</P>
+<P>
+15. The reflective mask blank for EUV lithography according to Claim 14, wherein in the low reflective layer, the compositional ratio of Ta to Hf is Ta:Hf=7:3 to 4:6.
+</P>
+<P>
+16. A reflective mask blank for EUV lithography, which comprises a substrate, and a reflective layer to reflect EUV light, an absorber layer to absorb EUV light and a low reflective layer to an inspection light to be used for inspection of a mask pattern, formed in this order on the substrate, wherein the low reflective layer contains tantalum (Ta), hafnium (Hf), oxygen (O) and nitrogen (N), and in the low reflective layer, the total content of Ta and Hf is from 30 to 80 at.%, the compositional ratio of Ta to Hf is Ta:Hf=8:2 to 4:6, the total content of N and O is from 20 to 70 at.%, and the compositional ratio of N to O is N:O=9:1 to 1:9.
+</P>
+<P>
+17. The reflective mask blank for EUV lithography according to Claim 16, wherein in the low reflective layer, the compositional ratio of Ta to Hf is Ta:Hf=7:3 to 4:6.
+</P>
+<P>
+18. The reflective mask blank for EUV lithography according to any one of Claims 10 to 17, wherein the low reflective layer contains from 0.1 to 1.0 at.% of Zr.
+</P>
+<P>
+19. The reflective mask blank for EUV lithography according to any one of Claims 10 to 18, wherein the low reflective layer has a surface roughness (rms) of at most 0.5 nm at its surface.
+</P>
+<P>
+20. The reflective mask blank for EUV lithography according to any one of Claims 10 to 19, wherein the low reflective layer has a thickness of from 5 to 30 nm.
+</P>
+<P>
+21. The reflective mask blank for EUV lithography according to any one of Claims 10 to 20, wherein a protective layer to protect the reflective layer during formation of a pattern in the absorber layer, is formed between the reflective layer and the absorber layer, and the contrast between light reflected on the surface of the protective layer and light reflected on the surface of the low reflective layer at a wavelength of light to be used for inspection of the pattern formed in the absorber layer, is at least 30%.
+</P>
+<P>
+22. The reflective mask blank for EUV lithography according to Claim 21, wherein the protective layer is formed of any one selected from the group consisting of Ru, a Ru compound, SiO2 and CrN.
+</P>
+<P>
+23. The reflective mask blank for EUV lithography according to any one of Claims 10 to 22, wherein the reflectance on the surface of the low reflective layer at a wavelength of light to be used for inspection of the pattern formed in the absorber layer, is at most 15%.
+</P>
+<P>
+24. The reflective mask blank for EUV lithography according to Claim 1, wherein the absorber layer is formed by carrying out a sputtering method using a target made of a TaHf compound.
+</P>
+<P>
+25. The reflective mask blank for EUV lithography according to Claim 2, wherein the absorber layer is formed by carrying out a sputtering method using a target made of a TaHf compound in an atmosphere containing nitrogen.
+</P>
+<P>
+26. The reflective mask blank for EUV lithography according to Claim 24 or 25, wherein the target made of a TaHf compound has a composition comprising Ta=30 to 70 at.% and Hf=70 to 30 at.%.
+</P>
+<P>
+27. The reflective mask blank for EUV lithography according to any one of Claims 24 to 26, wherein the target made of a TaHf compound contains from 0.1 to 5.0 at.% of Zr.
+</P>
+<P>
+28. The reflective mask blank for EUV lithography according to Claim 10 or 14, wherein the low reflective layer is formed by carrying out a sputtering method using a target made of a TaHf compound in an atmosphere containing oxygen.
+</P>
+<P>
+29. The reflective mask blank for EUV lithography according to Claim 12 or 16, wherein the low reflective layer is formed by carrying out a sputtering method using a target made of a TaHf compound in an atmosphere containing nitrogen and oxygen.
+</P>
+<P>
+30. The reflective mask blank for EUV lithography according to Claim 28 or 29, wherein the target made of a TaHf compound has a composition comprising Ta=30 to 70 at.% and Hf=70 to 30 at.%.
+</P>
+<P>
+31. The reflective mask blank for EUV lithography according to any one of Claims 29 to 30, wherein the target made of a TaHf compound contains from 0.1 to 5.0 at.% of Zr.
+</P>
+</Claims>
+<Also_published_as>
+EP1973147A4;EP1973147B1;US2008199787A1;US7713666B2;TW200844650A;WO2008084680A1;AT526679T
+</Also_published_as>
+</BiblioData>

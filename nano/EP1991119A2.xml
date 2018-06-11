@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SELF-ASSEMBLED, MICROPATTERNED, AND RADIO FREQUENCY (RF) SHIELDED BIOCONTAINERS
+</Title>
+<PublicationNumber>
+EP1991119A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GRACIAS DAVID H [US]
+</Name>
+<Name>
+GIMI BARJOR [US]
+</Name>
+<Name>
+BHUJWALLA ZAVER M [US]
+</Name>
+<Name>
+GRACIAS, DAVID, H
+</Name>
+<Name>
+GIMI, BARJOR
+</Name>
+<Name>
+BHUJWALLA, ZAVER, M
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV JOHNS HOPKINS [US]
+</Name>
+<Name>
+THE JOHNS HOPKINS UNIVERSITY
+</Name>
+<Name>
+JOHNS HOPKINS UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1991119
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060800247
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-07-24
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US28564
+</PriorityNumber>
+<PriorityDate>
+2006-07-24
+</PriorityDate>
+<PriorityNumber>
+US20050701903P
+</PriorityNumber>
+<PriorityDate>
+2005-07-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61B5/055
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K49/18
+</Class>
+<Class>
+A61K9/00M5D
+</Class>
+<Class>
+A61K9/00Z8
+</Class>
+<Class>
+A61K9/51H2
+</Class>
+<Class>
+A61K9/51H6B
+</Class>
+<Class>
+A61K9/51P
+</Class>
+<Class>
+B82Y5/00
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to a nanoscale or microscale container for encapsulation and delivery of materials or substances, including, but not limited to, cells, drugs, tissue, gels and polymers contained within the container, with subsequent release of the therapeutic materials in situ, methods of fabricating the container by folding a 2D precursor into the 3D container, and the use of the container in in-vivo or in-vitro applications. The container can be in any polyhedral shape and its surfaces can have either no perforations or nano/microscale perforations. The container is coated with a biocompatible metal, e.g. gold, or polymer, e.g. parylene, layer and the surfaces and hinges of the container are made of any metal or polymer combinations.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A three-dimensional container comprising a multitude of two-dimensional faces that form a hollow, polyhedral shape and containing a fillable center chamber, wherein a size of the container is microscale or nanoscale.
+</P>
+<P>
+2. The container according to claim 1, wherein the two-dimensional faces is patterned with perforations or pores.
+</P>
+<P>
+3. The container according to claim 2, wherein the perforations or pores are created photolithographically.
+</P>
+<P>
+4. The container according to claim 2, wherein the perforations or pores have a size from about 0.1 nm to about 100 microns.
+</P>
+<P>
+5. The container according to claim 1, wherein the container is fabricated from at least one material selected from the group consisting of a metal, a polymer, a glass, a semiconductor, an insulator, and combinations thereof.
+</P>
+<P>
+6. The container according to claim 5, wherein the metal is copper or nickel.
+</P>
+<P>
+7. The container according to claim 1, wherein the container is a Faraday cage.
+</P>
+<P>
+8. The container according to claim 1, wherein the container is coated with a biocompatible material.
+</P>
+<P>
+9. The container according to claim 8, wherein the biocompatible material is a metal, a polymer, or a combination thereof.
+</P>
+<P>
+10. The container according to claim 1, wherein the fillable center chamber is filled with at least one substance comprising contents of the container.
+</P>
+<P>
+11. The container according to claim 11, wherein perforations or pores in the two-dimensional faces of the container allow release of the contents of the container.
+</P>
+<P>
+12. The container according to claim 10, wherein at least one substance is a therapeutic agent.
+</P>
+<P>
+13. The container according to claim 12, wherein the therapeutic agent is selected from the group consisting of a cell, a pharmaceutical agent, a composition, a tissue, a gel, and a polymer.
+</P>
+<P>
+14. The container according to claim 1, wherein the container is administered to a subject and location of the container in the subject is non-invasively tracked by magnetic resonance imaging.
+</P>
+<P>
+15. The container according to claim 14, wherein the container is imaged with negative contrast relative to background or positive contrast relative to background.
+</P>
+<P>
+16. A method of fabricating a three-dimensional container comprising a multitude of two-dimensional faces that form a hollow polyhedral shape and containing a fillable center chamber, the method comprising the steps:
+</P>
+<P>
+(a) fabricating a multitude of two dimensional faces;
+</P>
+<P>
+(b) patterning the fabricated two-dimensional faces;
+</P>
+<P>
+(c) patterning at least one hinge on the patterned two dimensional face to form a hinged edge;
+</P>
+<P>
+(d) joining a hinged edge of a first patterned two dimensional face to a hinged edge of a second patterned two dimensional face to form a hinged joint;
+</P>
+<P>
+(e) repeating step (d) to form a two dimensional precursor template having hinged joints between adjacent two dimensional faces; and
+</P>
+<P>
+(f) liquefying the hinges of the two-dimensional template using heat; and
+</P>
+<P>
+(g) self-assembling the three-dimensional container.
+</P>
+<P>
+17. The method according to claim 16, wherein the hinges of step (c) comprise a material that can be liquefied.
+</P>
+<P>
+18. The method according to claim 17, wherein the material is a solder, a metallic alloy, a polymer or a glass.
+</P>
+<P>
+19. The method according to claim 16, step (a) further comprising the steps
+</P>
+<P>
+(i) spinning a sacrificial film on a substrate to form a first layer;
+</P>
+<P>
+(ii) layering a conductive second layer on the first layer; and
+</P>
+<P>
+(iii) patterning the layered substrate by photolithography.
+</P>
+<P>
+20. The container according to claim 16, wherein the container has a size that is microscale or nanoscale.
+</P>
+<P>
+21. The container according to claim 16, wherein in step (b) the two-dimensional faces are patterned with perforations or pores.
+</P>
+<P>
+22. The container according to claim 21, wherein the perforations or pores are created photolithographically.
+</P>
+<P>
+23. The container according to claim 21, wherein the perforations or pores have a size from about 0.1 nm to about 100 microns.
+</P>
+<P>
+24. The container according to claim 16, wherein the container is a Faraday cage.
+</P>
+<P>
+25. A method of imaging a container according to claim 1 that has been implanted into a subject, the method comprising the steps of:
+</P>
+<P>
+(i) loading the fillable center chamber of the container with at least one substance to form a loaded container;
+</P>
+<P>
+(ii) administering the loaded container to the subject; and
+</P>
+<P>
+(iii) noninvasively tracking the container of step (ii) in the subject by magnetic resonance imaging.
+</P>
+<P>
+26. The container according to claim 25 wherein perforations or pores in the two-dimensional faces of the container allow release of the substance in the fillable center chamber.
+</P>
+<P>
+27. The container according to claim 25, wherein the at least one substance of step (i) is a therapeutic agent.
+</P>
+<P>
+28. The container according to claim 27, wherein the therapeutic agent is selected from the group consisting of a cell, a pharmaceutical agent, a composition, a tissue, a gel, and a polymer.
+</P>
+</Claims>
+<Also_published_as>
+EP1991119A4;US2007020310A1;ZA200804386A;WO2007014113A2;WO2007014113A3;CA2629685A1;AU2006272749A1
+</Also_published_as>
+</BiblioData>

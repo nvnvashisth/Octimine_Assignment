@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FABRICATION OF MICROSTRUCTURES AND NANOSTRUCTURES USING ETCHING RESIST
+</Title>
+<PublicationNumber>
+EP2122417A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MIRKIN CHAD A [US]
+</Name>
+<Name>
+HUANG LING [US]
+</Name>
+<Name>
+SANEDRIN RAYMOND [US]
+</Name>
+<Name>
+MIRKIN, CHAD, A
+</Name>
+<Name>
+HUANG, LING
+</Name>
+<Name>
+SANEDRIN, RAYMOND
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV NORTHWESTERN [US]
+</Name>
+<Name>
+NORTHWESTERN UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2122417
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070873494
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US25722
+</PriorityNumber>
+<PriorityDate>
+2007-12-17
+</PriorityDate>
+<PriorityNumber>
+US20060875447P
+</PriorityNumber>
+<PriorityDate>
+2006-12-18
+</PriorityDate>
+<PriorityNumber>
+US20070886839P
+</PriorityNumber>
+<PriorityDate>
+2007-01-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B3/00
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+Nanostructures and microstructures are formed by patterning methods such as Dip Pen Nanolithography (DPN) or microcontact printing of organic molecules functioning as a resist on a substrate followed by an etching step. The etch resist is a patterning composition and can contain on a substrate including polyethylene glycol (PEG). Positive and negative etch methods can be used.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method of forming nanostructures or microstrucrures comprising the steps of: performing direct- write nanolithography to pattern a surface of a substrate with a patterning composition comprising an oligomeric or polymeric compound and to provide an exposed substrate, wherein the patterning composition is physisorbed to the substrate surface; and etching the exposed substrate on the patterned surface to form the nanostructures or microstructures.
+</P>
+<P>
+2. The method of claim 1 , wherein the patterning composition comprises a water soluble oligomeric or polymeric compound.
+</P>
+<P>
+3. The method of claim 1, wherein the oligomeric or polymeric compound comprises a heteroatom in the backbone.
+</P>
+<P>
+4. The method of claim 1, wherein the oligomeric or polymeric compound comprises an oxygen atom.
+</P>
+<P>
+5. The method of claim 1, wherein the patterning composition comprises polyethyleneglycol (PEG) or polyethylene oxide (PEO).
+</P>
+<P>
+6. The method of claim 1, wherein the patterning composition comprises polypropylene glycol, wax, polyethylene imine, or a combination thereof.
+</P>
+<P>
+7. The method of claim 1 , comprising the step of applying the patterning composition to a tip.
+</P>
+<P>
+8. The method of claim 1 , wherein patterning a surface of a substrate comprises transfer of the patterning composition from a tip to the surface of the substrate.
+</P>
+<P>
+9. The method of claim 8, wherein the tip is a scanning probe microscope tip.
+</P>
+<P>
+10. The method of claim 8, wherein the tip is an atomic force microscope tip.
+</P>
+<P>
+11. The method of claim 8, wherein the tip is a hollow tip.
+</P>
+<P>
+12. The method of claim 8 wherein the tip is a non-hollow tip.
+</P>
+<P>
+13. The method of claim 8, wherein patterning a surface of a substrate is carried out at a relative humidity of at least about 40%.
+</P>
+<P>
+14. A method of forming nanostructures or microstructures comprising the steps of: performing microcontact printing to pattern the surface of a substrate with a patterning composition comprising an oligomeric or polymeric compound and to provide an exposed substrate, wherein the patterning composition is physisorbed to the substrate surface; and etching the exposed substrate on the patterned surface to form the nanostructures or microstructures.
+</P>
+<P>
+15. The method of claim 14, wherein the patterning composition comprises a water soluble oligomeric or polymeric compound.
+</P>
+<P>
+16. The method of claim 14, wherein the oligomeric or polymeric compound comprises a heteroatom in the backbone.
+</P>
+<P>
+17. The method of claim 14, wherein the oligomeric or polymeric compound comprises an oxygen atom.
+</P>
+<P>
+18. The method of claim 14, wherein the patterning composition comprises polyethyleneglycol (PEG) or polyethylene oxide (PEO).
+</P>
+<P>
+19. A method of forming nanostructures or microstructures comprising the steps of: performing direct- write nanolithography to pattern a surface of a substrate with a patterning composition comprising an oligomeric or polymeric compound, wherein the patterning composition is physisorbed to the substrate surface; coating the non-patterned region of the substrate surface with a passivating compound; removing the patterning composition to provide exposed substrate; and etching the exposed substrate to form nanostructures or microstructures.
+</P>
+<P>
+20. The method of claim 19, wherein the patterning composition comprises a water soluble oligomeric or polymeric compound.
+</P>
+<P>
+21. The method of claim 19, wherein the oligomeric or polymeric compound comprises a heteroatom in the backbone.
+</P>
+<P>
+22. The method of claim 19, wherein the oligomeric or polymeric compound comprises an oxygen atom.
+</P>
+<P>
+23. The method of claim 19, wherein the patterning composition comprises polyethyleneglycol (PEG) or polyethylene oxide (PEO).
+</P>
+<P>
+24. The method of claim 19, wherein the patterning composition comprises polypropylene glycol, wax, polyethylene imine or a combination thereof.
+</P>
+<P>
+25. The method of claim 19, comprising the step of applying the patterning composition to a tip.
+</P>
+<P>
+26. The method of claim 19, wherein patterning a surface of a substrate comprises transfer of the patterning composition from a tip to the surface of the substrate.
+</P>
+<P>
+27. The method of claim 26, wherein the tip is a scanning probe microscope tip.
+</P>
+<P>
+28. The method of claim 26, wherein the tip is an atomic force microscope tip.
+</P>
+<P>
+29. The method of claim 26, wherein the tip is a hollow tip.
+</P>
+<P>
+30. The method of claim 26 wherein the tip is a non-hollow tip.
+</P>
+<P>
+31. The method of claim 26, wherein patterning a surface of a substrate is carried out at a relative humidity of at least about 40%.
+</P>
+<P>
+32. A method of forming nanostructures or microstructures comprising the steps of: performing microcontact printing to pattern the surface of a substrate with a patterning composition comprising an oligomeric or polymeric compound; coating the non-patterned region the substrate surface with a passivating compound, wherein the patterning composition is physisorbed to the substrate surface; removing the patterning composition and provide exposed substrate; and etching the exposed substrate to form nanostructures or microstructures.
+</P>
+<P>
+33. The method of claim 32, wherein the patterning composition comprises a water soluble oligomeric or polymeric compound.
+</P>
+<P>
+34. The method of claim 32, wherein the oligomeric or polymeric compound comprises a heteroatom in the backbone.
+</P>
+<P>
+35. The method of claim 32, wherein the oligomeric or polymeric compound comprises an oxygen atom.
+</P>
+<P>
+36. The method of claim 32, wherein the patterning composition comprises polyethyleneglycol (PEG) or polyethylene oxide (PEO).
+</P>
+<P>
+37. A method comprising: disposing an ink composition on a tip, wherein the ink composition comprises poly( ethylene glycol) or poly( ethylene oxide), transferring the ink composition to a substrate surface to form a deposit, exposing the substrate to etching conditions.
+</P>
+<P>
+38. The method of claim 37, wherein transferring is carried out by scanning probe contact printing or dip pen nanolithography.
+</P>
+</Claims>
+<Also_published_as>
+WO2008121137A2;WO2008121137A3;US2012141731A1;KR20090101943A;JP2010530126A;CA2671289A1;AU2007350336A1
+</Also_published_as>
+</BiblioData>

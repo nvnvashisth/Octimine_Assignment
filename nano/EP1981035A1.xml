@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CONDUCTIVE MEMBER CONTAINING FIBER NANOCARBON AND CONTACT DEVICE USING SUCH CONDUCTIVE MEMBER
+</Title>
+<PublicationNumber>
+EP1981035A1
+</PublicationNumber>
+<Inventor>
+<Name>
+YAMAMOTO TAKAHISA [JP]
+</Name>
+<Name>
+OKADA SHIGEKI [JP]
+</Name>
+<Name>
+HANDA KOICHI [JP]
+</Name>
+<Name>
+SUBIANTORO [JP]
+</Name>
+<Name>
+TAKAMI HIROSHI [JP]
+</Name>
+<Name>
+WATANABE YOICHIRO [JP]
+</Name>
+<Name>
+YAMAMOTO, TAKAHISA
+</Name>
+<Name>
+OKADA, SHIGEKI
+</Name>
+<Name>
+HANDA, KOICHI
+</Name>
+<Name>
+SUBIANTORO
+</Name>
+<Name>
+TAKAMI, HIROSHI
+</Name>
+<Name>
+WATANABE, YOICHIRO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KOJIMA PRESS KOGYO KK [JP]
+</Name>
+<Name>
+ASAHI RUBBER INC [JP]
+</Name>
+<Name>
+MITSUI BUSSAN [JP]
+</Name>
+<Name>
+KOJIMA PRESS INDUSTRY CO., LTD
+</Name>
+<Name>
+ASAHI RUBBER INC
+</Name>
+<Name>
+MITSUI &amp; CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1981035
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060823556
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP324077
+</PriorityNumber>
+<PriorityDate>
+2006-12-01
+</PriorityDate>
+<PriorityNumber>
+JP20050347808
+</PriorityNumber>
+<PriorityDate>
+2005-12-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+<Class>
+C08K3/04
+</Class>
+<Class>
+C08K7/06
+</Class>
+<Class>
+C08L101/12
+</Class>
+<Class>
+D01F9/127
+</Class>
+<Class>
+H01B1/00
+</Class>
+<Class>
+H01B1/24
+</Class>
+<Class>
+H01Q1/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C08J5/00N
+</Class>
+<Class>
+C08K7/06
+</Class>
+<Class>
+C08L101/12
+</Class>
+<Class>
+D01F9/127
+</Class>
+<Class>
+H01B1/24
+</Class>
+<Class>
+H01Q1/32
+</Class>
+</NCL>
+<Abstract>
+A conductive member composed of a conductive resin transmits a signal by being conductively connected with a body to be connected. The conductive resin includes fiber nanocarbon in the resin.
+</Abstract>
+<Claims>
+<P>
+1. A conductive member comprising a conductive resin, for transmitting electric signals by being conductively connected to an object to be connected, wherein said conductive resin comprises a fibrous nanocarbon in a resin that is a base material.
+</P>
+<P>
+2. The conductive member according to claim 1, wherein the aspect ratio of the fibrous nanocarbon is between 10 and 20000.
+</P>
+<P>
+3. The conductive member according to claim 1 or 2, wherein the fibrous nanocarbon is contained at 4-40 wt% of the total weight of the conductive resin.
+</P>
+<P>
+4. The conductive member according to any one of claims 1-3, wherein the fibrous nanocarbon is a carbon nanotube, a carbon nanofiber or a mixture thereof.
+</P>
+<P>
+5. The conductive member according to claim 4, wherein the carbon nanotube is a multiwalled carbon nanotube.
+</P>
+<P>
+6. The conductive member according to claim 5, wherein the maximum diameter of the cross sections orthogonal to the longitudinal direction of the multiwalled carbon nanotube is 15-150 nm.
+</P>
+<P>
+7. The conductive member according to claim 5 or 6, wherein ID/IG of the multiwalled carbon nanotube measured by Raman spectroscopic analysis is 0.1 or less.
+</P>
+<P>
+8. The conductive member according to any one of claims 5-7, wherein the conductive member is composed of a conductive resin comprising a three-dimensional network-form carbon fibrous structure in a resin that is a base material, said carbon fibrous structure being composed of multiwalled carbon nanotubes that extend from granular parts as origins of growth during a growth process and that are connected to each other, and wherein cross sections orthogonal to the longitudinal direction of said multiwalled carbon nanotubes have polygonal shapes.
+</P>
+<P>
+9. The conductive member according to claim 4, wherein the carbon nanofiber is a carbon nanofiber manufactured by gas phase process.
+</P>
+<P>
+10. The conductive member according to any one of claims 1-9, wherein the resin that is a base material is an elastomer.
+</P>
+<P>
+11. A contact device comprising the conductive member according to any one of claims 1-10.
+</P>
+<P>
+12. A contact device comprising the conductive member according to any one of claims 1-10, a base, and an elastic member mounted on said base, wherein said conductive member is biased by said elastic member so that it is conductively connected to an object to be connected.
+</P>
+</Claims>
+<Also_published_as>
+EP1981035A4;US2009169876A1;WO2007063984A1;CN101322197A
+</Also_published_as>
+</BiblioData>

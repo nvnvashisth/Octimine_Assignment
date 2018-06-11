@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+TRANSFECTION MICROARRAYS
+</Title>
+<PublicationNumber>
+EP2125220A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BIELKE WOLFGANG [DE]
+</Name>
+<Name>
+KANG JIE [DE]
+</Name>
+<Name>
+REIHS KARSTEN [DE]
+</Name>
+<Name>
+BIELKE, WOLFGANG
+</Name>
+<Name>
+KANG, JIE
+</Name>
+<Name>
+REIHS, KARSTEN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+QIAGEN GMBH [DE]
+</Name>
+<Name>
+QIAGEN GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2125220
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070856704
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP10961
+</PriorityNumber>
+<PriorityDate>
+2007-12-13
+</PriorityDate>
+<PriorityNumber>
+US20060869775P
+</PriorityNumber>
+<PriorityDate>
+2006-12-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01L3/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C12N15/87
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01L3/5085
+</Class>
+<Class>
+B01L3/5088
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C12N15/87
+</Class>
+</NCL>
+<Abstract>
+A transfection method of introducing sample molecules into cells is provided, comprising: (a) using a substrate comprising at least one sample spot area which is surrounded by an hydrophobic area;  (b) wherein sample molecules are applied to said at least one sample spot area, thereby placing said sample molecules in the discrete location of said sample spot area;  (c) applying cells to be transfected onto the substrate and incubation under appropriate conditions for entry of the sample molecules into said cells;  (d) whereby at least a portion of said sample molecules are introduced into said cells.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A transfection method of introducing sample molecules into cells, comprising:
+</P>
+<P>
+(a) using a substrate comprising at least one sample spot area which is surrounded by an hydrophobic area;
+</P>
+<P>
+(b) wherein sample molecules are applied to said at least one sample spot area, thereby placing said sample molecules in the discrete location of said sample spot area;
+</P>
+<P>
+(c) applying cells to be transfected onto the substrate under appropriate conditions for entry of the sample molecules into said cells;
+</P>
+<P>
+(d) whereby at least a portion of said sample molecules are introduced into said cells.
+</P>
+<P>
+2. Transfection method according to claim 1 , wherein said sample spot area is wettable by the sample molecules.
+</P>
+<P>
+3. Transfection method according to claim 2, wherein said sample spot area has hydrophilic and/or oleophilic properties.
+</P>
+<P>
+4. Transfection method according to one of the claims 1 to 3, wherein said hydrophobic area is hydrophobic and/ or oleophobic, preferably ultraphobic.
+</P>
+<P>
+5. Transfection method according to claim 4, wherein said ultraphobic area depicts a contact angle in relation to water of at least 140[deg.], preferably at least 150[deg.].
+</P>
+<P>
+6. Transfection method according to claims 4 or 5, wherein said ultraphobic area is nano-structured.
+</P>
+<P>
+7. Transfection method according to at least one of the claims 4 to 6, wherein said ultraphobic area has a surface topography, where the topological frequency f of the individual Fourier components and their amplitudes a(f) expressed by the integral
+</P>
+<P>
+S(log (f))&amp;lt;=&amp;gt;a(f) - f calculated between the integration limits log (fi/[mu]m&amp;lt;&quot;1&amp;gt;)= -3 and log (f2/[mu]m&amp;lt;&quot;1&amp;gt;)= 3 is at least 0.3 and which is made of an hydrophobic or particularly oleophobic material or is coated with a durable hydrophobic and/or particularly durable oleophobic material.
+</P>
+<P>
+8. Transfection method according to at least one of the claims 1 to 7, wherein said sample molecules are covalently or non-covalently bound to said sample spot areas.
+</P>
+<P>
+9. Transfection method according to at least one of the claims 1 to 8, wherein said sample molecules are embedded in a matrix.
+</P>
+<P>
+10. Transfection method according to at least one of the claims 1 to 9, wherein a transfection reagent is applied to the substrate or is mixed with the cells to be transfected.
+</P>
+<P>
+11. Transfection method according to at least one of the claims 1 to 10, wherein at least said sample spot areas are optically transparent or translucent.
+</P>
+<P>
+12. Transfection method according to at least one of the claims 1 to 11 , wherein the surface properties of said at least one sample spot area are modified such to enhance the adherence of the transfection cells to the sample spot area.
+</P>
+<P>
+13. Transfection method according to at least one of the claims 1 to 12, wherein said substrate carries several sample spot areas which are arranged in an array format.
+</P>
+<P>
+14. Transfection method according to at least one of the claims 1 to 13, wherein at least two different kinds of sample molecules are applied to said at least one sample spot area.
+</P>
+<P>
+15. Transfection method according to at least one of the claims 1 to 14, wherein said sample molecule is selected from the group consisting of nucleic acids, peptides, small molecules and is preferably an RNA molecule, more preferably a RNAi mediating compound or a siRNA molecule.
+</P>
+<P>
+16. Transfection array for introducing sample molecules into cells, comprising a substrate comprising several sample spot areas arranged in an array format wherein said sample spot areas are surrounded by a hydrophobic area and wherein said sample spot areas carry sample molecules useful for an transfection assay, whereby said sample molecules are located in the discrete location of said sample spot areas.
+</P>
+<P>
+17. Transfection array according to claim 16, wherein siRNA is used as sample molecules.
+</P>
+<P>
+18. Transfection array according to claim 16 or 17, wherein said sample spot areas have hydrophilic and/or oleophilic properties.
+</P>
+<P>
+19. Transfection array according to one of the claims 16 to 18, wherein the surface chemistry of the sample spot areas comprises a compound selected from the group consisting of 3-aminopropyl-triethoxysilane, 3 mercaptopropyl-trimethoxysilane, Methacryloxypropyl-triethoxysilane, Hexadecyltrimethoxysilane, 2-
+</P>
+<P>
+[Methoxy(polyethylenoxy)propyl]trimethoxysilane, 1 H, 1 H, 2H, 2H Perfluordecyltriethoxy-silane and 3-(phenylamino)propyltrimethyldiethoxysilane, preferably the compound is selected from 3-aminopropyl-triethoxysilane, 3 mercaptopropyl-trimethoxysilane and 3-(phenylamino)propyltrimethyldiethoxysilane.
+</P>
+<P>
+20. Transfection array according to one of the claims 16 to 19, wherein said hydrophobic area is hydrophobic and/or oleophobic, preferably ultraphobic
+</P>
+<P>
+21. Transfection array according to claim 20, wherein said ultraphobic area is nano- structured and depicts a contact angle in relation to water of at least 140[deg.], preferably at least 150[deg.].
+</P>
+<P>
+22. Transfection array according to claims 20 or 21 , wherein said ultraphobic area has a surface topography, where the topological frequency f of the individual Fourier components and their amplitudes a(f) expressed by the integral S(log (f))=a(f) - f calculated between the integration limits log
+</P>
+<P>
+-3 and log (f2/[mu]m&amp;lt;&quot;1&amp;gt;)= 3 is at least 0.3 and which is made of an hydrophobic or particularly oleophobic material or is coated with a durable hydrophobic and/or particularly durable oleophobic material.
+</P>
+<P>
+23. Transfection array according to at least one of the claims 16 to 22, wherein at least said sample spot areas are optically transparent or translucent.
+</P>
+<P>
+24. Transfection array according to at least one of the claims 16 to 22, wherein at least some of the sample spot areas comprise a cell adherence promoting agent.
+</P>
+<P>
+25. Use of a transfection array according to one of the claims 16 to 24 in a transfection method according to claims 1 to 15.
+</P>
+<P>
+26. Use of a transfection array according to claim 25, for performing a genome screening assay.
+</P>
+</Claims>
+<Also_published_as>
+WO2008071430A1;US2010075422A1;JP2010512155A
+</Also_published_as>
+</BiblioData>

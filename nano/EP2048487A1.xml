@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SCANNING PROBE MICROSCOPE
+</Title>
+<PublicationNumber>
+EP2048487A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KOBAYASHI DAI [JP]
+</Name>
+<Name>
+NISHIDA SHUHEI [JP]
+</Name>
+<Name>
+KAWAKATSU HIDEKI [JP]
+</Name>
+<Name>
+KOBAYASHI, DAI
+</Name>
+<Name>
+NISHIDA, SHUHEI
+</Name>
+<Name>
+KAWAKATSU, HIDEKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+JAPAN SCIENCE &amp; TECH AGENCY [JP]
+</Name>
+<Name>
+JAPAN SCIENCE AND TECHNOLOGY AGENCY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2048487
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070790991
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-19
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP64237
+</PriorityNumber>
+<PriorityDate>
+2007-07-19
+</PriorityDate>
+<PriorityNumber>
+JP20060207297
+</PriorityNumber>
+<PriorityDate>
+2006-07-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q60/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</NCL>
+<Abstract>
+There is provided a scanning probe microscope apparatus which has a high sensitivity for the interaction between the cantilever and the sample and comprises a cantilever that can oscillate stably in dynamic mode even when a mechanical Q value is low. A driving signal having a frequency close to the resonant frequency of the cantilever (4) is supplied from the signal generator (9) to the oscillation exciting means (10) to separately (forcibly) oscillate the cantilever (4). And the frequency of the driving signal or the resonant frequency of the cantilever is controlled (by adjusting the distance between the cantilever (4) and the sample (1)), such that the phase difference between the oscillation of the cantilever (4) detected by the oscillation detecting means (5) and the driving signal becomes zero, i.e. the frequency of the driving signal and the resonant frequency of the cantilever (4) match.
+</Abstract>
+<Claims>
+<P>
+1. A scanning probe microscope apparatus for imaging a sample using an interaction between the sample and a mechanical oscillator, the scanning probe microscope apparatus comprising:
+</P>
+<P>
+a first controller;
+</P>
+<P>
+an XYZ scanner for the sample and an XY scanning and imaging system, each being connected to the first controller;
+</P>
+<P>
+a signal generator;
+</P>
+<P>
+an oscillation exciting means connected to the signal generator;
+</P>
+<P>
+a mechanical oscillator forcibly oscillated by an output signal from the oscillation exciting means;
+</P>
+<P>
+an oscillation detecting means for detecting an oscillation of the mechanical oscillator,
+</P>
+<P>
+a phase difference detecting means connected to the oscillation detecting means; and
+</P>
+<P>
+a second controller for receiving a phase difference signal from the phase difference detecting means and transmitting a frequency control signal to the first controller and the signal generator;
+</P>
+<P>
+wherein the signal generator is configured to generate a driving signal with a frequency close to the resonant frequency of the mechanical oscillator and to transmit the driving signal to the oscillation exciting means to oscillate the mechanical oscillator forcibly, and phase difference detected by the phase difference detecting means is kept constant.
+</P>
+<P>
+2. The scanning probe microscope apparatus according to claim 1, wherein the mechanical oscillator is a cantilever.
+</P>
+<P>
+3. The scanning probe microscope apparatus according to claim 1, further comprising:
+</P>
+<P>
+first connecting means for receiving the phase difference signal from the phase difference detecting means;
+</P>
+<P>
+second connecting means for receiving the frequency control signal from the second controller;
+</P>
+<P>
+first switching means for switching between the first connecting means and the second connecting means; and
+</P>
+<P>
+second switching means for switching the frequency control signal from the second controller on and off;wherein the first controller is connected to the output side of the first switching means, and the signal generator is connected to the output side of the second switching means.
+</P>
+<P>
+4. The scanning probe microscope apparatus according to claim 1, further comprising:
+</P>
+<P>
+a device for mixing the phase difference signal and the frequency control signal at an arbitrary ratio and transmitting the mixed signal to the first controller; and
+</P>
+<P>
+a device for adjusting the frequency control signal to an arbitrary intensity and transmitting the adjusted signal to the signal generator.
+</P>
+<P>
+5. The scanning probe microscope apparatus according to any one of claims 1 to 4, wherein a resonant frequency of the mechanical oscillator is measured and an interaction force between the sample and the mechanical oscillator is imaged based on the resonant frequency.
+</P>
+<P>
+6. The scanning probe microscope apparatus according to any one of claims 1 to 4, wherein a resonant frequency of the mechanical oscillator is measured and a surface shape of the sample is imaged based on the resonant frequency.
+</P>
+<P>
+7. The scanning probe microscope apparatus according to any one of claims 1 to 4, wherein a resonant frequency of the mechanical oscillator is measured and a relationship between the resonant frequency and a distance between the mechanical oscillator and the sample is obtained based on the resonant frequency.
+</P>
+</Claims>
+<Also_published_as>
+US2009261249A1;US7904966B2;WO2008015916A1
+</Also_published_as>
+</BiblioData>

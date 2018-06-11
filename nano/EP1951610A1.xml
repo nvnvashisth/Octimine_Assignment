@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD OF FORMING MOULDS FOR NANO IMPRINTING
+</Title>
+<PublicationNumber>
+EP1951610A1
+</PublicationNumber>
+<Inventor>
+<Name>
+LANDIS STEPHAN [FR]
+</Name>
+<Name>
+GOUY JEAN-PHILIPPE [FR]
+</Name>
+<Name>
+LANDIS, STEPHAN
+</Name>
+<Name>
+GOUY, JEAN-PHILIPPE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE ET AUX ENERGIESALTERNATIVES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1951610
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060831096
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006FR02496
+</PriorityNumber>
+<PriorityDate>
+2006-11-09
+</PriorityDate>
+<PriorityNumber>
+FR20050011401
+</PriorityNumber>
+<PriorityDate>
+2005-11-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81C1/00
+</Class>
+<Class>
+G03F1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B81C99/00R6
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F1/34
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+Pour fabriquer un support en un matériau prédéterminé et présentant des motifs :* on réalise, sur un substrat que l&apos;on sait éliminer, une pluralité de couches superposées (1 à 4), chacune des couches étant formée de zones en matériaux différents, la géométrie des zones et les matériaux constitutifs de ces couches superposées étant définis en sorte de former lesdits motifs, à l&apos;envers sur le substrat,* on réalise sur cet empilement de couches une couche du matériau prédéterminé, et* on élimine au moins le substrat, grâce à quoi on obtient, après retournement, ledit support avec lesdits motifs.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Procédé de fabrication d&apos;un support en un matériau prédéterminé et présentant des motifs, selon lequel - on réalise, sur un substrat que l&apos;on sait éliminer, une pluralité de couches superposées, chacune des couches étant formée de zones en matériaux différents, la géométrie des zones et les matériaux constitutifs de ces couches superposées étant définis en sorte de former lesdits motifs, à l&apos;envers sur le substrat, - on réalise sur cet empilement de couches une couche du 10 matériau prédéterminé, et -on élimine au moins le substrat, grâce à quoi on obtient, après retournement, ledit support avec lesdits motifs.
+</P>
+<P>
+2. Procédé selon la revendication 1, caractérisé en ce que lesdits motifs présentent des différences de hauteur. 15
+</P>
+<P>
+3. Procédé selon la revendication 1 ou la revendication 2, caractérisé en ce que certains au moins des motifs, ou au moins certains écarts entre des motifs adjacents, ont une dimension parallèle au support qui est inférieure à une centaine de nanomètres.
+</P>
+<P>
+4. Procédé selon l&apos;une quelconque des revendications 1 à 3, 20 caractérisé en ce que les matériaux constitutifs des couches superposées ont des propriétés différentes vis-à-vis d&apos;au moins un rayonnement, dont au moins un matériau sensiblement transparent à ce rayonnement et un matériau absorbant vis-à-vis de ce rayonnement, lesdits motifs étant délimités par les interfaces, au sein des couches, entre lesdits matériaux. 25
+</P>
+<P>
+5. Procédé selon l&apos;une quelconque des revendications 1 à 3, caractérisé en ce qu&apos;on élimine en outre au moins un des matériaux des couches superposées en sorte de former des motifs en creux et/ou en bosses.
+</P>
+<P>
+6. Procédé selon la revendication 5 selon lequel : on identifie un procédé d&apos;élimination sélectif capable d&apos;attaquer 30 un premier matériau en laissant subsister un second matériau, ce second matériau étant capable d&apos;être déposé sur ce premier matériau en y adhérant et de faire l&apos;objet d&apos;une gravure, - on identifie au moins un matériau au moins compatible avec ce premier matériau, capable d&apos;être déposé sur ce premier matériau en y adhérant, de faire l&apos;objet d&apos;une gravure et d&apos;être consommé par ledit procédé d&apos;élimination sélective, - on identifie au moins un matériau au moins compatible avec ce second matériau, capable d&apos;être déposé sur ces premier et second matériaux en y adhérant, de faire l&apos;objet d&apos;une gravure et de subsister vis-à-vis dudit procédé d&apos;élimination sélective, on réalise un substrat formé dudit premier matériau, on effectue sur ce substrat un cycle de formation de dessin en sorte de former sur ce substrat une première couche formée de zones en un matériau au moins compatible avec le premier matériau et des zones complémentaires en ledit second matériau, - on effectue au moins un autre cycle de formation de dessin en sorte de former sur la couche précédente une autre couche formée de zones en un matériau compatible avec le premier matériau et des zones complémentaires en un matériau au moins compatible avec ce second matériau, en sorte de former un empilement de couches sur le substrat, on solidarise la dernière couche de l&apos;empilement avec une couche porteuse, -on élimine par ledit procédé d&apos;élimination sélective le premier matériau et les zones en matériau au moins compatible avec ce premier matériau en sorte de mettre à nu la superposition des zones complémentaires en second matériau ou en matériau au moins compatible avec ce second matériau, la couche porteuse formant, avec ces zones complémentaires, le support muni de motifs.
+</P>
+<P>
+7. Procédé selon la revendication 6, caractérisé en ce que la formation de dessin se fait par dépôt, gravure et mise à nu.
+</P>
+<P>
+8. Procédé selon la revendication 6 ou la revendication 7, caractérisé en ce qu&apos;on identifie un troisième matériau permettant l&apos;accrochage ou le collage du matériau déterminé du support sur le matériau au moins compatible avec le second matériau, on réalise sur ledit empilement de couches une couche d&apos;accrochage en ledit troisième matériau et on réalise sur cette couche d&apos;accrochage le couche porteuse en ledit matériau prédéterminé.
+</P>
+<P>
+9. Procédé selon l&apos;une quelconque des revendications 6 à 8, caractérisé en ce que le dessin d&apos;au moins une couche est différent du dessin de l&apos;étage précédent, grâce à quoi certains au moins des motifs présentent des différences de hauteur perpendiculairement au support.
+</P>
+<P>
+10. Procédé selon l&apos;une quelconque des revendications 6 à 9, caractérisé en ce que l&apos;un au moins des cycles de formation de dessin comporte une mise à nu réalisée par polissage, physique ou chimique.
+</P>
+<P>
+11. Procédé selon l&apos;une quelconque des revendications 6 à 10, caractérisé en ce que, les motifs comportant des portions en bosses, on identifie dans ces portions en bosse une superposition d&apos;une tranche supérieure et d&apos;au moins une tranche inférieure, les zones complémentaires desdites première et autre(s) couches ayant respectivement la forme de ces tranches supérieure et inférieure(s).
+</P>
+<P>
+12. Procédé selon l&apos;une quelconque des revendications 6 à 11, caractérisé en ce que, les motifs comportant des portions en creux, on identifie dans ces portions en creux une superposition d&apos;une tranche supérieure et d&apos;au moins une tranche inférieure, les zones desdits premier et autre(s) étages en matériau au moins compatible avec le premier matériau ayant respectivement la forme de ces tranches supérieure et inférieure(s).
+</P>
+<P>
+13. Procédé selon l&apos;une quelconque des revendications 6 à 12, caractérisé en ce que le matériau prédéterminé du support est un matériau transparent à un rayonnement donné.
+</P>
+<P>
+14. Procédé selon la revendication 13, caractérisé en ce que le matériau prédéterminé du support est un matériau transparent à la lumière visible.
+</P>
+<P>
+15. Procédé selon la revendication 13, caractérisé en ce que le matériau prédéterminé du support est un matériau transparent aux UV.
+</P>
+<P>
+16. Procédé selon la revendication 13, caractérisé en ce que le matériau prédéterminé du support est du quartz.
+</P>
+<P>
+17. Procédé selon la revendication 13, caractérisé en ce que le matériau prédéterminé du support est de la silice fondue.
+</P>
+<P>
+18. Procédé selon l&apos;une quelconque des revendications 6 à 17, caractérisé en ce que le second matériau est constitué de silice et/ou d&apos;oxyde 5 thermique et le matériau au moins compatible avec ce second matériau est constitué de silice et/ou d&apos;oxyde de silicium.
+</P>
+<P>
+19. Procédé selon l&apos;une quelconque des revendications 6 à 18, caractérisé en ce que le premier matériau et le matériau au moins compatible avec ce premier matériau sont essentiellement constitués de silicium. 10
+</P>
+<P>
+20. Procédé selon la revendication 19, caractérisé en ce que le premier matériau est du silicium monocristallin et le matériau au moins compatible avec ce premier matériau est du silicium polycristallin ou amorphe, du nitrure de silicium ou un alliage de silicium-germanium.
+</P>
+<P>
+21. Procédé selon la revendication 19 ou la revendication 20, 15 caractérisé en ce que le procédé d&apos;élimination sélective comporte une attaque par gravure humide sur oxyde de type TMAH ou KOH.
+</P>
+<P>
+22. Procédé selon l&apos;une quelconque des revendications 6 à 18, caractérisé en ce que le premier matériau et le matériau au moins compatible avec ce premier matériau sont essentiellement formés d&apos;aluminium. 20
+</P>
+<P>
+23. Procédé selon la revendication 22, caractérisé en ce que le procédé d&apos;élimination sélective comporte une attaque par un bain de H3PO4.
+</P>
+<P>
+24. Procédé selon l&apos;une quelconque des revendications 6 à 18, caractérisé en ce que le premier matériau et le matériau au moins compatible avec ce premier matériau sont essentiellement constitués de chrome. 25
+</P>
+<P>
+25. Moule pour lithographie par nano-impression obtenu par le procédé selon l&apos;une quelconque des revendications 1 à 24, ce moule étant formé d&apos;un support et de motifs d&apos;impression portés par ce support, les matériaux constitutifs de ce support et de ces motifs étant transparents à des rayonnements visibles UV, DUV ou EUV. 30
+</P>
+<P>
+26. Moule selon la revendication 25, caractérisé en ce que certains au moins des motifs, ou au moins certains écarts entre des motifs adjacents ont une dimension parallèle au support qui est comprise entre quelques nanomètres et plusieurs micromètres.
+</P>
+<P>
+27. Masque de lithographie interférométrique obtenu par le procédé selon l&apos;une quelconque des revendications 1 à 24, ce masque étant formé d&apos;un support et de motifs portés par ce support, les matériaux constitutifs de ce support et de ces motifs étant transparents à des rayonnements UV de longueur d&apos;onde inférieure à 248 nanomètres.
+</P>
+<P>
+28. Masque optique à décalage de phase pour lithographie optique, obtenu par le procédé selon l&apos;une quelconque des revendications 1 à 24, ce masque étant formé d&apos;un support et de motifs portés par ce support, les matériaux constitutifs de ce support et d&apos;une partie de ces motifs étant transparents à des rayonnements UV tandis qu&apos;une autre partie de ces motifs est en matériau réfléchissant vis-à-vis de ces rayonnements, certains au moins des motifs, ou au moins certains écarts entre des motifs adjacents, ayant une dimension parallèle au support qui est de l&apos;ordre de quelques dizaines de nanomètres, et le support avec ses motifs présentant des épaisseurs différentes de matériaux transparents.
+</P>
+</Claims>
+<Also_published_as>
+EP1951610B1;FR2893018A1;US2008268351A1;US8048354B2;JP2009515350A;WO2007054643A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MULTIPLE FREQUENCY ATOMIC FORCE MICROSCOPE
+</Title>
+<PublicationNumber>
+EP2038087A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PROKSCH ROGER [US]
+</Name>
+<Name>
+PROKSCH, ROGER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASYLUM RES CORP [US]
+</Name>
+<Name>
+ASYLUM RESEARCH CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2038087
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060839174
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US46779
+</PriorityNumber>
+<PriorityDate>
+2006-12-06
+</PriorityDate>
+<PriorityNumber>
+US20060795151P
+</PriorityNumber>
+<PriorityDate>
+2006-04-25
+</PriorityDate>
+<PriorityNumber>
+US20060811264P
+</PriorityNumber>
+<PriorityDate>
+2006-06-05
+</PriorityDate>
+<PriorityNumber>
+US20060839749P
+</PriorityNumber>
+<PriorityDate>
+2006-08-24
+</PriorityDate>
+<PriorityNumber>
+US20060544130
+</PriorityNumber>
+<PriorityDate>
+2006-10-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</NCL>
+<Abstract>
+An apparatus and technique for extracting information carried in higher eigenmodes or harmonics of an oscillating cantilever or other oscillating sensors in atomic force microscopy and related MEMs work is described.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method of operating an atomic force microscope, comprising:
+</P>
+<P>
+exciting the probe tip of the cantilever at or near a resonant frequency of the cantilever keeping the tip sufficiently far from the sample surface that it oscillates at the free amplitude A10 unaffected by the proximity of the cantiliver to the sample surface and without making contact with the sample surface;
+</P>
+<P>
+reducing the relative distance in the Z direction between the base of the cantilever and the sample surface so that the detected amplitude A1 of a first eigenmode of the cantilever is affected by the proximity of the sample surface without the probe tip making contact with the sample surface;
+</P>
+<P>
+scanning the sample by creating relative movement between the probe tip of the cantiliver and the sample surface while using a feedback loop to control the distance between the base of the cantilever and the sample surface so that the amplitude A1 of the first eigenmode of the cantilever is maintained at an essentially constant value;
+</P>
+<P>
+exciting the probe tip of the cantilever at or near a second eigenmode of the cantilever at an amplitude A2 while keeping the first eigenmode drive and feedback loop with the same values;
+</P>
+<P>
+adjusting the detected amplitude A2 of the second eigenmode of the cantilever until said amplitude indicates the second eigenmode is interacting with the sample surface with predominantly repulsive forces;
+</P>
+<P>
+allowing the amplitude A2 of the second eigenmode of the cantilever to vary over a large range of values while not including said amplitude as an input to the feedback loop; and
+</P>
+<P>
+measuring the amplitude and phase of the first and second eigenmodes of the cantilever.
+</P>
+<P>
+2. The method of claim 1, further comprising
+</P>
+<P>
+a display confiaured to display information including at least one information tvue selected from the group consisting of information indicative of the phase component of the first cigeninode of the cantilever, information indicative of thevhase component of the second eiaenmode of the cantilever, information indicative of the amplitude component of the first cigenmode of the cantilever and information indicative of the amplitude comnonent of the second eigenmode of the cantilever.
+</P>
+<P>
+3. A method of operating an atomic force microscope comprising:
+</P>
+<P>
+generating an oscillatory drive signal for a cantilever, the drive signal including a first frequency component and a different second frequency component;
+</P>
+<P>
+applying the oscillatory drive signal to a first end of the cantilever opposite an ineraction end of the cantilever, wherein the interaction end of the cantilever includes a probe tip;
+</P>
+<P>
+positioning the cantilever proximate to a sample surface so that the probe tip interacts with the surface of the sample;
+</P>
+<P>
+detecting information indicative of the amplitude of oscillation of the probe tip;
+</P>
+<P>
+analyzing the information indicative of the amplitude of oscillation of the probe tip to determine a first amplitude component for the first frequency and a second amplitude component for the second frequency; and
+</P>
+<P>
+using a feedback loop to control the cantilever based on the first amplitude component and allowing the amplitude of oscillation of the second amplitude component to vary.
+</P>
+<P>
+4. The method of claim 3, wherein using the feedback loop to control th&amp; cantilever based on the first amplitude component comprises comparing the first amplitude component to a reference first amplitude component and changing a distance between a base of the cantilever and the sample surface based on the comparison.
+</P>
+<P>
+5. The method of claim 4, wherein changing the distance between the base of the cantilever and the sample surface based on a comparison comprises changing the distance between the base of the cantilever and the sample surface to maintain the first amplitude component essentially equal to the reference first amplitude component.
+</P>
+<P>
+6. The method of claim 3, wherein the first frequency component is a first eigenrnode frequency of the cantilever, and wherein the second frequency component is a second different elgenmode frequency of the cantilever.
+</P>
+<P>
+7. The method of claim 3, wherein the second amplitude component is indicative of a repulsive interaction between the probe tip and the sample surface.
+</P>
+<P>
+8. The method of claim 3, wherein the second amplitude component is indicative of an attractive interaction between the probe tip and the sample surface.
+</P>
+<P>
+9. The system of claim 3, further comprising a display configured to display information including at least one information type selected from the group consisting of information indicative of the first amplitude component and ififormation indicative of the second amplitude component.
+</P>
+<P>
+10. A scanning probe system comprising:
+</P>
+<P>
+a drive system configured to generate an oscillatory drive signal for a cantilever, the drive signal including a first frequency component and a different second frequency component;
+</P>
+<P>
+a positioning system configured to position the cantilever in response to a cantilever control signal;
+</P>
+<P>
+a measurement system configured to receive a signal indicative of the oscillation of the cantilever and to generate information indicative of the oscillation amplitude based on the received signal;
+</P>
+<P>
+an analysis system configured to receive the information indicative of the oscillation amplitude of the cantilever and to determine a first amplitude component for the first frequency and a second amplitude component for the second frequency; and
+</P>
+<P>
+a feedback system to generate the cantilever control signal based on the first amplitude component and not on the oscillation amplitude.
+</P>
+<P>
+11. The system of claim 10, further comprising a cantilever holder configured to oscillate a back end of the cantilever opposite a probe tip end of the cantilever.
+</P>
+<P>
+12. The system of claim 11, further comprising the cantilever.
+</P>
+<P>
+13. The system of claim 10, wherein the drive system comprises a frequency synthesizer configured to generate a signal at the first frequency component a signal at the second frequency component.
+</P>
+<P>
+14. The system of claim 10, wherein the analysis system comprises a first lock-An amplifier configured to generate a signal indicative of the first amplitude component for the first frequency and a second lock-in amplifier configured to generate a signal indicative of the second amplitude component for the second frequency.
+</P>
+<P>
+15. The system of claim 10, wherein the measurement system comprises an optical lever system.
+</P>
+<P>
+16. The system of claim 10, wherein the drive system is configured to generate an oscillatory drive signal for a cantilever, and wherein the drive signal further includes a third frequency component.
+</P>
+<P>
+17. The system of claim 10, wherein the scanning probe system is an atomic force microscope.
+</P>
+<P>
+18. The system of claim 10, wherein the positioning system includes a scan system configured to create relative movement between a probe tip of the cantilever and a sample surface.
+</P>
+<P>
+19. The system of claim 18, wherein the scan system comprises a stage including one or more piezos and flexures.
+</P>
+<P>
+20. The system of claim 10, wherein the measurement system is further configured to generate information indicative of the oscillation phase of the cantilever based on the received signal and the analysis system is further configured to receive the information indicative of the oscillation phase of the cantilever and to determine a first phase component for the first frequency and a second phase component for the second frequency.
+</P>
+<P>
+21. The system of claim 20, further comprising a display configured to display information including at least one information type selected from the group consisting of information indicative of the first phase component, information indicative of the second phase component, information indicative of the first amplitude component, and information indicative of the second amplitude component.
+</P>
+</Claims>
+<Also_published_as>
+US2007245815A1;US7603891B2;WO2007133262A2;WO2007133262A3;US2010043107A1
+</Also_published_as>
+</BiblioData>

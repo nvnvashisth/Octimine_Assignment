@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method for preparing metal phosphide nanocrystal from phosphite compound and method for passivating nanocrystal core with the same
+</Title>
+<PublicationNumber>
+EP1985583A2
+</PublicationNumber>
+<Inventor>
+<Name>
+JUN SHIN AE [KR]
+</Name>
+<Name>
+JANG EUN JOO [KR]
+</Name>
+<Name>
+LIM JUNG EUN [KR]
+</Name>
+<Name>
+JUN, SHIN AE
+</Name>
+<Name>
+JANG, EUN JOO
+</Name>
+<Name>
+LIM, JUNG EUN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SAMSUNG ELECTRONICS CO LTD [KR]
+</Name>
+<Name>
+SAMSUNG ELECTRONICS CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1985583
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080154444
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+KR20070037385
+</PriorityNumber>
+<PriorityDate>
+2007-04-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B19/00
+</Class>
+<Class>
+C01B25/08
+</Class>
+<Class>
+C01G11/02
+</Class>
+<Class>
+C01G15/00
+</Class>
+<Class>
+C09K11/70
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B19/00P
+</Class>
+<Class>
+C01B25/08
+</Class>
+<Class>
+C01B25/08D
+</Class>
+<Class>
+C01G11/02
+</Class>
+</NCL>
+<Abstract>
+Disclosed herein is a method for the preparation of metal phosphide nanocrystals using a phosphite compound as a phosphorous precursor. More specifically, disclosed herein is a method for preparing metal phosphide nanocrystals by reacting a metal precursor with a phosphite compound in a solvent. A method is also provided for passivating a metal phosphide layer on the surface of a nanocrystal core by reacting a metal precursor with a phosphite compound in a solvent. The metal phosphide nanocrystals have uniform particle sizes and various shapes.
+</Abstract>
+<Claims>
+<P>
+1. A method for preparing metal phosphide nanocrystals by wet chemical synthesis, wherein the method comprises:
+</P>
+<P>
+reacting a metal precursor with a phosphite compound in a solvent.
+</P>
+<P>
+2. A method according to claim 1, wherein the method comprises:
+</P>
+<P>
+adding a metal precursor and a phosphite compound to a solution comprising a nanocrystal core, and
+</P>
+<P>
+passivating the nanocrystal core by reacting the metal precursor with the phosphite compound to form a metal phosphide layer on the surface of the nanocrystal core.
+</P>
+<P>
+3. The method of claim 1 further comprising:
+</P>
+<P>
+adjusting a temperature of the metal precursor solution to a predetermined temperature; the metal precursor solution comprising a metal precursor, a dispersant and a solvent;
+</P>
+<P>
+preparing the phosphite compound solution;
+</P>
+<P>
+feeding the phosphite compound solution to the metal precursor solution to form a mixture;
+</P>
+<P>
+reacting the mixture, to grow metal phosphide nanocrystals; and
+</P>
+<P>
+separating the metal phosphide nanocrystals from the mixture.
+</P>
+<P>
+4. The method of claim 2 further comprising:
+</P>
+<P>
+preparing the nanocrystal core solution comprising a nanocrystal core, a metal precursor, and a dispersant;
+</P>
+<P>
+preparing the phosphite compound solution comprising a phosphite compound in a solvent;
+</P>
+<P>
+feeding the phosphite compound solution to the nanocrystal core solution to form a mixture;
+</P>
+<P>
+reacting the mixture to prepare metal phosphide nanocrystals; and
+</P>
+<P>
+separating the metal phosphide nanocrystals from the mixture.
+</P>
+<P>
+5. The method of any of claims 1-4, wherein the metal precursor is an organometallic compound having an element selected from the group consisting of Zn, Cd, Hg, Pb, Sn, Ge, Ga, In, Tl, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Y, Zr, Nb, Mo, Tc, Pd, Ag, Pt, and Au, a salt of Zn, Cd, Hg, Pb, Sn, Ge, Ga, In, Tl, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Y, Zr, Nb, Mo, Tc, Pd, Ag, Pt, and Au, and a combination comprising at least one of the foregoing elements or salts.
+</P>
+<P>
+6. The method of claim 5, wherein the metal precursor is an organometallic compound selected from the group consisting of gallium acetylacetonate, gallium chloride, gallium fluoride, gallium oxide, gallium nitrate, gallium sulfate, indium acetate, indium acetylacetonate, indium chloride, indium oxide, indium nitrate, indium sulfate, thallium acetate, thallium acetylacetonate, thallium chloride, thallium oxide, thallium ethoxide, thallium nitrate, thallium sulfate, thallium carbonate, alloys thereof, and combinations comprising at least one of the foregoing organometallic compounds.
+</P>
+<P>
+7. The method of any of claims 1-6, wherein the phosphite compound is represented by Formula 1 below:
+</P>
+<P>
+P(OR)3 (Formula 1)
+</P>
+<P>
+wherein R is selected from the group consisting of a substituted or an unsubstituted C1-C20 alkyl, aryl, ether, ethylene, oxide, and propylene oxide.
+</P>
+<P>
+8. The method of claim 7, wherein R of Formula 1 is a substituted alkyl with a functional group selected from the group consisting of unsaturated, carboxyl, amide, phenyl, amine, acryl, silane, phosphine, phosphinic acid, cyano, and thiol group.
+</P>
+<P>
+9. The method of any of claims 1-8, wherein the metal phosphide nanocrystals comprise a metal phosphide compound selected from the group consisting of AlP, InP, GaP, Zn3P2, Cd3P2, MnP, FeP, Fe2P, Co2P Ni2P, and a combination comprising at least one of the foregoing metal phosphide compounds.
+</P>
+<P>
+10. The method of claim 2, wherein the nanocrystal core is comprised of semiconductor compound nanocrystals selected from the group consisting of CdS, CdSe, CdTe, ZnS, ZnSe, ZnTe, HgS, HgSe, HgTe, GaN, GaP, GaAs, InP and InAs; metal oxide nanocrystals selected from TiO2, SiO2, CdO, Fe2O3, CuO, AgO and ZrO; metal nanocrystals selected from the group consisting of Pt, Pd, Ru, Rh, Ir, Au, Ag, Fe, Co, Ni, Si and Ge; and a combination comprising at least one of the foregoing semiconductor, metal oxide, or metal nanocrystals.
+</P>
+<P>
+11. The method of claim 3 or 4, wherein the solvent is selected from the group consisting of primary alkyl amines, secondary alkyl amines, heterocyclic compounds containing at least one nitrogen or sulfur atom, alkanes, alkenes, alkynes, trioctylphosphine, trioctylphosphine oxide, polar primary alcohols, secondary alcohols, tertiary alcohols, ketones and esters, aqueous solutions, and a combination comprising at least one of the foregoing solvents.
+</P>
+<P>
+12. The method of claim 3, wherein the reacting is conducted at a temperature of about 200 deg. C to about 350 deg. C.
+</P>
+<P>
+13. The method of claim 4, wherein the reacting is conducted at a temperature of about 150 deg. C to about 350 deg. C.
+</P>
+<P>
+14. Metal phosphide nanocrystals prepared by the method according to any of the preceding claims.
+</P>
+<P>
+15. An inorganic-organic hybrid electroluminescence device comprising a plurality of organic and inorganic layers interposed between a pair of electrodes wherein the organic layer comprises a luminescent layer comprising the metal phosphide nanocrystals according to claim 14.
+</P>
+</Claims>
+<Also_published_as>
+EP1985583A3;US2008258159A1;KR20080093539A;KR100871961B1
+</Also_published_as>
+</BiblioData>

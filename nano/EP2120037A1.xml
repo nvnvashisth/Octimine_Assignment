@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Measuring probe for a scanning microscope and method of operation thereof
+</Title>
+<PublicationNumber>
+EP2120037A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ILLERS HARTMUT [DE]
+</Name>
+<Name>
+HIDAKA KAZUHIKO [NL]
+</Name>
+<Name>
+SAITO AKINORI [JP]
+</Name>
+<Name>
+DANZEBRINK DR HANS-ULLRICH [DE]
+</Name>
+<Name>
+ILLERS, HARTMUT
+</Name>
+<Name>
+HIDAKA, KAZUHIKO
+</Name>
+<Name>
+SAITO, AKINORI
+</Name>
+<Name>
+DANZEBRINK, DR. HANS-ULLRICH
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MITUTOYO CORP [JP]
+</Name>
+<Name>
+BUNDESREPUBLIK DEUTSCHLAND END [DE]
+</Name>
+<Name>
+MITUTOYO CORPORATION
+</Name>
+<Name>
+BUNDESREPUBLIK DEUTSCHLAND ENDVERTRETEN DURCH DENPRAESIDENTEN DER PHYSIKALISCH-TECHNISCHEN BUNDESANS
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2120037
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080009133
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20080009133
+</PriorityNumber>
+<PriorityDate>
+2008-05-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q30/02
+</Class>
+<Class>
+G01Q70/04
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q70/04
+</Class>
+</NCL>
+<Abstract>
+A measuring probe for a measuring instrument comprises a body having a measuring tip connected thereto and an actuator adapted to exhibit a force between a first part of the body and a second part of the body. The body has an elastic mode of oscillation wherein an amplitude of a displacement of a first part of the body relative to a second part of the body is smaller than an amplitude of a displacement of the measuring tip relative to a rest position of the measuring tip.
+</Abstract>
+<Claims>
+<P>
+1. A measuring probe for a measuring instrument, comprising:
+</P>
+<P>
+a body having a measuring tip connected thereto; and
+</P>
+<P>
+an actuator element adapted to exhibit a force between a first part of said body and a second part of said body;characterized by
+</P>
+<P>
+said body having an elastic mode of oscillation wherein an amplitude of a displacement of said first part of said body relative to said second part of said body is smaller than an amplitude of a displacement of said measuring tip relative to a rest position of said measuring tip.
+</P>
+<P>
+2. A measuring probe according to claim 1, wherein said body comprises a stylus and a first countermass, wherein said tip is provided at a first end of said stylus and said actuator is provided between a second end of said stylus and said first countermass.
+</P>
+<P>
+3. A measuring probe according to claim 2 wherein said elastic mode of operation comprises a longitudinal oscillation of said stylus.
+</P>
+<P>
+4. A measuring probe according to claim 2 or 3, wherein said stylus is detachably connected to said actuator and said first countermass.
+</P>
+<P>
+5. A measuring probe according to any of claims 2 to 4, wherein said first countermass comprises a mirror portion for optical measurement of a position of said first countermass.
+</P>
+<P>
+6. A measuring probe according to any of claims 2 to 5, further comprising a second countermass, wherein said second countermass is provided between said second end of said stylus and said actuator element.
+</P>
+<P>
+7. A measuring probe according to any of claims 2 to 6, wherein at least one of a mass of said first countermass, a mass of said second countermass and a sum of said mass of said second countermass and said mass of said first countermass is greater than a mass of said stylus.
+</P>
+<P>
+8. A measuring probe according to claim 6 or 7, wherein a mass of said first countermass is greater than a mass of said second countermass.
+</P>
+<P>
+9. A measuring probe according to any of claims 6 to 8, wherein said second end of said stylus is fixed to said second countermass, and said actuator element connects said second countermass to said first countermass.
+</P>
+<P>
+10. A measuring probe according to any of claims 1 to 9, further comprising a damping element adapted to reduce a Q-factor of elastic modes of oscillation of said body other than said elastic mode of oscillation.
+</P>
+<P>
+11. A measuring probe according to claim 10, wherein said damping element comprises a support element adapted for attachment of said body to another component of said measuring instrument.
+</P>
+<P>
+12. A measuring probe according to claim 10 or 11, wherein said body comprises a stylus, a first countermass and a second countermass, said tip being provided at a first end of said stylus, a second end of said stylus being connected to said second countermass, said actuator element connecting said second countermass to said first countermass, and wherein said support element is attached to said second countermass.
+</P>
+<P>
+13. A measuring probe according to any of claims 1 to 12, wherein said actuator element comprises a piezoelectric material, a first electrode, a second electrode and a power source adapted to apply a voltage of operation being smaller than a maximum voltage of operation between said first and said second electrode, wherein said piezoelectric material is provided between said first and said second electrode; and said piezoelectric material has a coercitive field being greater than an electric field strength occurring in said piezoelectric material if said maximum voltage of operation is applied between said first electrode and said second electrode, greater than two times said electric field strength and/or greater than ten times said electric field strength.
+</P>
+<P>
+14. A measuring probe according to any of claims 1 to 13, wherein said actuator element comprises a piezoelectric washer.
+</P>
+<P>
+15. A method of operating a measuring instrument comprising a measuring probe according to any of claims 1 to 14, wherein said actuator element comprises a piezoelectric actuator element having a first and a second electrode, said method comprising:
+</P>
+<P>
+creating a sensor output signal on the basis of a current flow through said first and said second electrode of said piezoelectric actuator element; and
+</P>
+<P>
+simultaneously applying an alternating voltage between said first electrode and said second electrode.
+</P>
+</Claims>
+</BiblioData>

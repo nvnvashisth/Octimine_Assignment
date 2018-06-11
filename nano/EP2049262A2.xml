@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANONOZZLE DEVICE ARRAYS: THEIR PREPARATION AND USE FOR MACROMOLECULAR ANALYSIS
+</Title>
+<PublicationNumber>
+EP2049262A2
+</PublicationNumber>
+<Inventor>
+<Name>
+CAO HAN [US]
+</Name>
+<Name>
+DESHPANDE PARIKSHIT A [US]
+</Name>
+<Name>
+AUSTIN MICHAEL D [US]
+</Name>
+<Name>
+BOYCE-JACINO MICHAEL [US]
+</Name>
+<Name>
+CAO, HAN
+</Name>
+<Name>
+DESHPANDE, PARIKSHIT, A
+</Name>
+<Name>
+AUSTIN, MICHAEL, D
+</Name>
+<Name>
+BOYCE-JACINO, MICHAEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BIONANOMATRIX INC [US]
+</Name>
+<Name>
+BIONANOMATRIX, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2049262
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070872156
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-19
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US16408
+</PriorityNumber>
+<PriorityDate>
+2007-07-19
+</PriorityDate>
+<PriorityNumber>
+US20060831772P
+</PriorityNumber>
+<PriorityDate>
+2006-07-19
+</PriorityDate>
+<PriorityNumber>
+US20070908582P
+</PriorityNumber>
+<PriorityDate>
+2007-03-28
+</PriorityDate>
+<PriorityNumber>
+US20070908584P
+</PriorityNumber>
+<PriorityDate>
+2007-03-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01L3/00
+</Class>
+<Class>
+B81C1/00
+</Class>
+<Class>
+G01N27/447
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01L3/5027H
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12Q1/68E
+</Class>
+<Class>
+G01N33/487B5
+</Class>
+</NCL>
+<Abstract>
+Constricted nanochannel devices suitable for use in analysis of macromolecular structure, including DNA sequencing, are disclosed. Also disclosed are methods for fabricating such devices and for analyzing macromolecules using such devices.
+</Abstract>
+<Claims>
+<P>
+What is claimed:
+</P>
+<P>
+1. A method for characterizing one or more features of a macromolecule, comprising:
+</P>
+<P>
+linearizing a macromolecule residing at least in part within a nanochannel,
+</P>
+<P>
+at least a portion of the nanochannel being capable of physically constraining at least a portion of the macromolecule so as to maintain in linear form that portion of the macromolecule, and
+</P>
+<P>
+the nanochannel comprising at least one constriction;
+</P>
+<P>
+transporting at least a portion of the macromolecule within at least a portion of the nanochannel such that at least a portion of the macromolecule passes through the constriction;
+</P>
+<P>
+monitoring at least one signal arising in connection with the macromolecule passing through the constriction; and
+</P>
+<P>
+correlating the at least one signal to one or more features of the macromolecule.
+</P>
+<P>
+2. The method of claim 1, wherein the macromolecule comprises a polynucleotide, a polynucleoside, a polymer, a copolymer, a dendrimer, a surfactant, a lipid, a carbohydrate, a polypeptide, a protein, or any combination thereof.
+</P>
+<P>
+3. The method of claim 1, wherein the macromolecule resides within a fluid.
+</P>
+<P>
+4. The method of claim 1, wherein the transporting comprises exposing the macromolecule to a gradient.
+</P>
+<P>
+5. The method of claim 4, wherein the gradient comprises an electroosmotic field, an electrophoretic field, a magnetic field, an electric field, an electromagnetic field, a flow field, a radioactive field, a mechanical force, an electroosmotic force, an electrophoretic force, an electrokinetic force, a temperature gradient, a pressure gradient, a surface property gradient, a capillary flow, or any combination thereof.
+</P>
+<P>
+6. The method of claim 4, wherein the gradient is constant.
+</P>
+<P>
+7. The method of claim 4, wherein the gradient varies.
+</P>
+<P>
+8. The method of claim 1, wherein the signal comprises a visual signal, an infrared signal, an ultraviolet signal, a radioactive signal, a magnetic signal, an electrical signal, an electromagnetic signal, or any combination thereof.
+</P>
+<P>
+9. The method of claim 1, wherein the macromolecule comprises one or more labels.
+</P>
+<P>
+10. The method of claim 9, wherein the one or more labels comprise an electron spin resonance molecule, a fluorescent molecule, a chemiluinescent molecule, a radiosotope, and enzyme substrate, a biotin molecule, an avidin molecule, an electrical charged transferring molecule, a semiconductor nanocrystal, a semiconductor nanoparticle, a colloid gold nanocrystal, a ligand, a microbead, a magnetic bead, a paramagnetic particle, a quantum dot, a chromogenic substrate, an affinity molecule, a protein, a peptide, a nucleic acid, a carbohydrate, an antigen, a hapten, an antibody, an antibody fragment, a lipid, a polymer, an electrically charged particle, modified nucleotide, or any combination thereof.
+</P>
+<P>
+11. The method of claim 8, wherein the signal is inherently emitted by the macromolecule.
+</P>
+<P>
+12. The method of claim 8, wherein the signal is generated by illuminating the molecule.
+</P>
+<P>
+13. The method of claim 12, wherein the illuminating comprises exposing at least a portion of the macromolecule to visible light, ultraviolet light, infrared light, x-rays, gamma rays, electromagnetic radiation, radio waves, radioactive particles, or any combination thereof.
+</P>
+<P>
+14. The method of claim 8, wherein a feature of the macromolecule comprises the size of the macromolecule, the molecular composition of the macromolecule, the molecular sequence of the macromolecule, an electrical property of one or more molecules of the macromolecule, a chemical property of one or more molecules of the macromolecule, a radioactive property of one or more molecules of the macromolecule, a magnetic property of one or more molecules of the macromolecule, or any combination thereof.
+</P>
+<P>
+15. The method of claim 9, wherein a feature of the macromolecule comprises the location of one or more labels of the macromolecule.
+</P>
+<P>
+16. The method of claim 14, wherein the molecular composition of the macromolecule comprises the position of one or more molecules of the macromolecule, DNA polymorphisms, DNA copy number polymorphisms, amplifications within DNA, deletions within DNA, translocations within DNA, inversions of particular loci within DNA, the location of a methyl group within the macromolecule, or any combination thereof.
+</P>
+<P>
+17. The method of claim 15, further comprising the detection of binding sites between a drug and the macromolecule, macromolecule-drug complexes, DNA repairing sites, DNA binding sites, DNA cleaving sites, SiRNA binding sites, anti-sense binding sites, transcription factor binding sites, regulatory factor binding sites, restriction enzyme binding sites, restriction enzyme cleaving sites, or any combination thereof.
+</P>
+<P>
+18. A device for analyzing a linearized macromolecule, comprising:
+</P>
+<P>
+two or more fluid reservoirs; and
+</P>
+<P>
+a nanochannel comprising a constriction,
+</P>
+<P>
+the nanochannel placing the at least two fluid reservoirs in fluid communication with one another.
+</P>
+<P>
+19. The device of claim 18, wherein the constriction resides at one end of the nanochannel.
+</P>
+<P>
+20. The device of claim 18, wherein the constriction resides within the nanochannel.
+</P>
+<P>
+21. The device of claim 18, wherein the nanochannel comprises a length in the range of at least about 10 nm.
+</P>
+<P>
+22. The device of claim 18, wherein the nanochannel comprises a length in the range of at least about 50 nm.
+</P>
+<P>
+23. The device of claim 18, wherein the nanochannel comprises a length in the range of at least about 100 nm.
+</P>
+<P>
+24. The device of claim 18, wherein the nanochannel comprises a length in the range of at least about 500 nm.
+</P>
+<P>
+25. The device of claim 18, wherein the nanochannel comprises a length at least equal to the length of the linearized macromolecule.
+</P>
+<P>
+26. The device of claim 18, wherein the nanochannel comprises an effective inner diameter in the range of from about 0.5 nm to about 1000 nm.
+</P>
+<P>
+27. The device of claim 18, wherein the nanochannel comprises an effective inner diameter in the range of from about 10 nm to about 500 nm.
+</P>
+<P>
+28. The device of claim 18, wherein the nanochannel comprises an effective inner diameter in the range of from about 100 nm to about 300 nm.
+</P>
+<P>
+29. The device of claim 18, wherein the nanochannel comprises an effective inner diameter in the range of from about 150 nm to about 250 nm.
+</P>
+<P>
+30. The device of claim 18, wherein the nanochannel comprises an effective inner diameter capable of physically constraining at least a portion of a macromolecule so as to maintain that portion in linearized form.
+</P>
+<P>
+31. The device of claim 18, wherein the constriction comprises an effective inner diameter in the range of from about 0.5 nm to about 100 nm.
+</P>
+<P>
+32. The device of claim 18, wherein the constriction comprises an effective inner diameter in the range of from about 10 to about 50 nm.
+</P>
+<P>
+33. The device of claim 18, wherein the constriction comprises an effective inner diameter capable of maintaining a linearized macromolecule passing across the constriction in linearized form.
+</P>
+<P>
+34. The device of claim 18, wherein the device further comprises a gradient.
+</P>
+<P>
+35. The device of claim 34, wherein the gradient comprises an electroosmotic field, an electrophoretic field, capillary flow, a magnetic field, an electric field, a radioactive field, a mechanical force, an electroosmotic force, an electrophoretic force, an electrokinetic force, a temperature gradient, a pressure gradient, a surface property gradient, a capillary flow, or any combination thereof.
+</P>
+<P>
+36. The device of claim 34, wherein the gradient is capable of linearizing at least a portion of a macromolecule residing within at least a portion of the nanochannel.
+</P>
+<P>
+37. The device of claim 34, wherein the gradient is capable of transporting at least a portion of a macromolecule located within the nanochannel along at least a portion of the nanochannel.
+</P>
+<P>
+38. The device of claim 34, further comprising a gradient generator.
+</P>
+<P>
+39. The device of claim 38, wherein the gradient generator comprises a voltage source, a magnet, a acoustic source, a pressure source, or any combination thereof.
+</P>
+<P>
+40. The device of claim 34, wherein the gradient generator is capable of applying a constant gradient.
+</P>
+<P>
+41. The device of claim 34, wherein the gradient generator is capable of applying a variable gradient.
+</P>
+<P>
+42. The device of claim 18, wherein the two or more fluid reservoirs comprise the same fluid.
+</P>
+<P>
+43. The device of claim 18, wherein the two or more fluid reservoirs comprise different fluids.
+</P>
+<P>
+44. The device of claim 18, further comprising a detector capable of detecting a signal arising from at least a portion of the linearized macromolecule passing through the constriction.
+</P>
+<P>
+45. The device of claim 44, wherein the detector comprises a charge coupled device (CCD) detection system, a complementary metal-oxide semiconductor (CMOS) detection system, a photodiode detection system, a photo-multplying tube detection system, a scintillation detection system, a photon counting detection system, an electron spin resonance detection system, a fluorescent detection system, a photon detection system, an electrical detection system, a photographic film detection system, a chemiluminescent detection system, an enzyme detection system, an atomic force microscopy (AFM) detection system, a scanning tunneling microscopy (STM) detection system, a scanning electron microscopy (SEM) detection system, an optical detection system, a nuclear magnetic resonance (NMR) detection system, a near field detection system, a total internal reflection (TIRF) detection system, a patch clamp detection system, an electrical current detection system, an electrical amplification detection system, a resistance measurement system, a capacitive detection system, or any combination thereof.
+</P>
+<P>
+46. The device of claim 44, wherein the detector is capable of monitoring one or more locations within one or more of the fluid reservoirs.
+</P>
+<P>
+47. The device of claim 44, wherein the detector is capable of monitoring a location within the nanochannel
+</P>
+<P>
+48. The device of claim 44, wherein the detector is capable of monitoring a location proximate to an end of the nanochannel..
+</P>
+<P>
+49. The device of claim 18, further comprising an illuminator.
+</P>
+<P>
+50. The device of claim 49, wherein the illuminator comprises a laser, a source of visible light, a source of radioactive particles, a magnet, a source of ultraviolet light, a source of infrared light, or any combination thereof.
+</P>
+<P>
+51. The device of claim 18, further comprising a data processor.
+</P>
+<P>
+52. A method for transporting a macromolecule, comprising:
+</P>
+<P>
+providing at least two fluid reservoirs;
+</P>
+<P>
+providing an at least partially linearized macromolecule,
+</P>
+<P>
+at least a portion of the macromolecule residing in a nanochannel,
+</P>
+<P>
+the nanochannel placing the at least two reservoirs in fluid communication with one another,
+</P>
+<P>
+the nanochannel comprising a constriction; and applying a gradient to the macromolecule,
+</P>
+<P>
+the gradient giving rise to at least a portion of the linearized macromolecule being transported within at least a portion of the nanochannel.
+</P>
+<P>
+53. The method of claim 52, wherein the nanochannel comprises a length greater than about 10 nm.
+</P>
+<P>
+54. The method of claim 52, wherein the nanochannel comprises a length greater than about 50 nm.
+</P>
+<P>
+55. The method of claim 52, wherein the nanochannel comprises a length greater than about 100 nm.
+</P>
+<P>
+56. The method of claim 52, wherein the nanochannel comprises a length greater than about 500 nm.
+</P>
+<P>
+57. The method of claim 52, wherein the nanochannel comprises a length greater than about the length of the linearized macromolecule.
+</P>
+<P>
+58. The method of claim 52, wherein the gradient comprises an electroosmotic field, an electrophoretic field, capillary flow, a magnetic field, an electric field, a radioactive field, a mechanical force, an electroosmotic force, an electrophoretic force, an electrokinetic force, a temperature gradient, a pressure gradient, a surface property gradient, a capillary flow, or any combination thereof.
+</P>
+<P>
+59. The method of claim 58, wherein the gradient is constant.
+</P>
+<P>
+60. The method of claim 58, wherein the gradient varies.
+</P>
+<P>
+61. A method for fabricating a constricted nanochannel, comprising:
+</P>
+<P>
+providing a nanochannel
+</P>
+<P>
+the nanochannel having an internal diameter in the range of from about 0.5 nm to about 1000 nm, and the nanochannel having a length of at least about 10 nm;
+</P>
+<P>
+reducing the internal diameter of the nanochannel either at a location within the nanochannel, at a location proximate to the end of the nanochannel, or both, so as to give rise to a constriction within or adjacent to the nanochannel, the constriction having an internal diameter in fluidic communication with the nanochannel,
+</P>
+<P>
+the nanochannel being capable of maintaining a linearized macromolecule in its linearized form, and
+</P>
+<P>
+the reduced internal diameter being capable of permitting the passage of at least a portion of a linearized macromolecule.
+</P>
+<P>
+62. The method of claim 61, wherein the internal diameter of the nanochannel is reduced by additively depositing one or more materials within, or exterior to, the nanochannel.
+</P>
+<P>
+63. The method of claim 62, wherein the additive deposition comprises sputtering, spraying, physical vapor deposition, chemical vapor deposition, or any combination thereof.
+</P>
+<P>
+64. The method of claim 62, wherein the additive deposition ceases before the nanochannel is completely occluded.
+</P>
+<P>
+65. The method of claim 62, wherein the additive deposition ceases after the nanochannel is completely occluded.
+</P>
+<P>
+66. The method of claim 65, further comprising the step of re-opening the sealed nanochannel by removing at least a portion of the deposited additive material.
+</P>
+<P>
+67. The method of claim 66, wherein the removing is accomplished by etching.
+</P>
+<P>
+68. The method of claim 67, wherein the etching comprises contacting one side of deposited additive material with an first species capable of etching the deposited additive material.
+</P>
+<P>
+69. The method of claim 68, further comprising contacting the other side of the deposited additive material with a second species capable of retarding the etching activity of the etch species upon contact with the first species.
+</P>
+<P>
+70. The method of claim 68, further comprising contacting the other side of the deposited additive material with a second species capable of halting the etching activity of the etch species upon contact with the first species.
+</P>
+<P>
+71. The method of claim 69, further comprising adjusting the conditions in the nanochannel, the relative amounts of the first and second species, or any combination thereof, so as to achieve the desired reduced internal diameter.
+</P>
+<P>
+72. The method of claim 61, wherein affecting the internal diameter of the nanochannel comprises the steps of (a) placing a sacrificial material within the nanochannel, (b) depositing additive material proximate to the sacrificial material so as to fully occlude the nanochannel, and (c) selectively removing at least a portion of the sacrificial material so as to give rise to a reduced internal diameter of the nanochannel of the dimension of the removed sacrificial material.
+</P>
+<P>
+73. A method for linearizing a macromolecule, comprising:
+</P>
+<P>
+placing a macromolecule in a nanochannel,
+</P>
+<P>
+at least a portion of the nanochannel being capable of physically constraining at least a portion of the macromolecule so as to maintain in linear form that portion of the macromolecule.
+</P>
+<P>
+74. The method of claim 73, wherein the nanochannel comprises a constriction.
+</P>
+<P>
+75. The method of claim 73, further comprising applying a gradient to the macromolecule, such that at least a portion of the macromolecule passes, linearly, through the nanochannel constriction.
+</P>
+<P>
+76. The method of claim 75, wherein the gradient comprises an electroosmotic field, an electrophoretic field, capillary flow, a magnetic field, an electric field, a radioactive field, a mechanical force, an electroosmotic force, an electrophoretic force, an electrokinetic force, a temperature gradient, a pressure gradient, a surface property gradient, a capillary flow, or any combination thereof.
+</P>
+<P>
+77. The method of claim 73, wherein the nanochannel places two or more fluid reservoirs in fluid communication with one another.
+</P>
+<P>
+78. The method of claim 73, wherein the nanochannel comprises an internal diameter of less than about two times the radius of gyration of the linear conformation of the macromolecule.
+</P>
+<P>
+79. The method of claim 73, wherein the nanochannel comprises a length of at least about 10 nm.
+</P>
+<P>
+80. The method of claim 79, wherein the nanochannel comprises a length of at least about 50 nm.
+</P>
+<P>
+81. The method of claim 79, wherein the nanochannel comprises a length of at least about 100 nm.
+</P>
+<P>
+82. The method of claim 79, wherein the nanochannel comprises a length of at least about 500 nm.
+</P>
+<P>
+83. The method of claim 73, wherein the nanochannel comprises an inner diameter in the range of from about 0.5 nm to about 1000 nm.
+</P>
+<P>
+84. The method of claim 83, wherein the nanochannel comprises an inner diameter in the range of from about 5 nm to about 200 nm.
+</P>
+<P>
+85. The method of claim 84, wherein the nanochannel comprises an inner diameter in the range of from about 50 nm to about 100 nm.
+</P>
+</Claims>
+<Also_published_as>
+WO2008079169A2;WO2008079169A3;US2009305273A1;SG173398A1;JP2010510476A;CA2658122A1;AU2007338862A1
+</Also_published_as>
+</BiblioData>

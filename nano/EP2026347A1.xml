@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Electric field read/write head, method of manufacturing the same, and information storage device comprising electric field read/write head
+</Title>
+<PublicationNumber>
+EP2026347A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KO HYOUNG-SOO [KR]
+</Name>
+<Name>
+JUNG JU-HWAN [KR]
+</Name>
+<Name>
+PARK CHUL-MIN [KR]
+</Name>
+<Name>
+HONG SEUNG-BUM [KR]
+</Name>
+<Name>
+JEON DAE-YOUNG [KR]
+</Name>
+<Name>
+KO, HYOUNG-SOO
+</Name>
+<Name>
+JUNG, JU-HWAN
+</Name>
+<Name>
+PARK, CHUL-MIN
+</Name>
+<Name>
+HONG, SEUNG-BUM
+</Name>
+<Name>
+JEON, DAE-YOUNG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SAMSUNG ELECTRONICS CO LTD [KR]
+</Name>
+<Name>
+SAMSUNG ELECTRONICS CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2026347
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080158946
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+KR20070078208
+</PriorityNumber>
+<PriorityDate>
+2007-08-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B9/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B9/02
+</Class>
+</NCL>
+<Abstract>
+An electric field read/write head, a method of manufacturing the electric field read/write head, and an information storage device including the electric field read/write head are provided. The electric field read/write head includes: a substrate (10) having a first surface (S1) facing a recording medium and a second surface (S2) that is perpendicular to the first surface (S1);  and a protrusion (P1) formed on the second surface (S2) and having at least a portion facing the recording medium, wherein a resistance sensor comprising a source (20), a drain (30), and a channel (S1) is included in the protrusion. An insulating layer (40) and electric field shield layers (50) are further sequentially formed on opposite sides of the protrusion, respectively, and at least one of the electric field shield layers is a write electrode.
+</Abstract>
+<Claims>
+<P>
+1. An electric field head comprising:
+</P>
+<P>
+a substrate having a first surface for facing a recording medium and a second surface that is perpendicular to the first surface; and
+</P>
+<P>
+a protrusion formed on the second surface and having at least a portion for facing the recording medium,
+</P>
+<P>
+wherein the protrusion includes a resistance sensor comprising a source, a drain, and a channel.
+</P>
+<P>
+2. The electric field head of claim 1, wherein the protrusion is extended from a first end to a second end of the second surface and is perpendicular to the first surface.
+</P>
+<P>
+3. The electric field head of claim 1 or 2, wherein an insulating layer and an electric field shield layer are further sequentially formed on each of opposite sides of the protrusion that are not for facing the recording medium.
+</P>
+<P>
+4. The electric field head of claim 3, wherein the electric field shield layer is a conductive layer.
+</P>
+<P>
+5. The electric field head of claim 3 or 4, wherein at least one of the electric field shield layers on opposite sides of the protrusion is a writing electrode.
+</P>
+<P>
+6. The electric field head of any preceding claim, wherein the source, the drain, and the channel are formed in the protrusion adjacent to the first surface so as to be perpendicular to the first surface, the source and the drain are formed at a first side and a second side of the protrusion, and the channel is formed between the source and the drain.
+</P>
+<P>
+7. The electric field head of claim 6, wherein the source and the drain respectively extend to the substrate on opposite sides of the protrusion.
+</P>
+<P>
+8. The electric field head of claim 1, further comprising an air bearing surface pattern layer on the first surface of the substrate.
+</P>
+<P>
+9. An information storage device comprising:
+</P>
+<P>
+the electric field head of any preceding claim; and
+</P>
+<P>
+a recording medium including a ferroelectric recording layer
+</P>
+<P>
+10. A method of manufacturing an electric field head comprising a reading unit, the method comprising:
+</P>
+<P>
+forming a protrusion on a substrate; and
+</P>
+<P>
+forming a source and a drain on a portion of the protrusion arranged for facing a recording medium.
+</P>
+<P>
+11. The method of claim 10, further comprising, after forming the source and the drain:
+</P>
+<P>
+forming an insulating layer covering the protrusion on the substrate; and
+</P>
+<P>
+forming an electric field shield layer on the insulating layer formed on sides of the protrusion that face away from each other.
+</P>
+<P>
+12. The method of claim 10 or 11, wherein the protrusion is extended from a first point to a second point on the substrate, and is perpendicular to a surface of the electric field head arranged for facing the recording medium.
+</P>
+<P>
+13. The method of claim 12, wherein the source and the drain are formed at a first side and a second side of the portion of the protrusion facing the recording medium and so as to be perpendicular to the recording medium.
+</P>
+<P>
+14. The method of claim 13, wherein the source and the drain are respectively formed to extend to the substrate on opposite sides of the protrusion.
+</P>
+<P>
+15. The method of any of claims 10 to 14, further comprising, after forming the source and the drain, forming an air bearing surface pattern layer on a surface of the electric field head facing the recording medium.
+</P>
+</Claims>
+<Also_published_as>
+EP2026347B1;US2009034120A1;US8107354B2;KR20090014006A
+</Also_published_as>
+</BiblioData>

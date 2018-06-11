@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+QUANTUM DOT SWITCHING DEVICE
+</Title>
+<PublicationNumber>
+EP1989737A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MCCARTHY WIL [US]
+</Name>
+<Name>
+POWERS RICHARD M [US]
+</Name>
+<Name>
+SNYDER GARY E [US]
+</Name>
+<Name>
+MCCARTHY, WIL
+</Name>
+<Name>
+POWERS, RICHARD M
+</Name>
+<Name>
+SNYDER, GARY E
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+RAVENBRICK LLC [US]
+</Name>
+<Name>
+RAVENBRICK, LLC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1989737
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070778364
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US62432
+</PriorityNumber>
+<PriorityDate>
+2007-02-20
+</PriorityDate>
+<PriorityNumber>
+US20060774714P
+</PriorityNumber>
+<PriorityDate>
+2006-02-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L29/15
+</Class>
+<Class>
+H01L29/66
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L29/66Q
+</Class>
+<Class>
+H01L31/0352
+</Class>
+<Class>
+H01L35/32
+</Class>
+</NCL>
+<Abstract>
+A multifunctional, programmable quantum confinement switching device uses the quantum confinement of charge carriers to operate on an input signal or energy and to release an output signal or energy. Energy enters the device through an input path and leaves through an output path, after being selectively blocked or modified by the switching action of the device under the influence of a control path. The quantum confinement of charge carriers as an artificial atom within a layer of the device in a quantum well or a quantum dot operates as the switch. The artificial atoms serve as dopants within a material supporting the device and are directly related to the voltage between the control path and a ground plane. The electrical, optical, thermal, or other energy passing through the device is selectively blocked, regulated, filtered, or modified by the doping properties of the artificial atoms. The remaining, unblocked energy is then free to exit the device through the output path.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A multifunctional quantum switching device comprising
+</P>
+<P>
+a material fashioned into a thin, flexible film;
+</P>
+<P>
+a quantum dot physically connected with the material;
+</P>
+<P>
+a control path physically connected with the material and operatively coupled with the quantum dot, wherein the control path is adapted to carry energy from a controllable energy source to the quantum dot;
+</P>
+<P>
+an input path operatively coupled with the quantum dot and adapted to input energy to the quantum dot;
+</P>
+<P>
+an output path operatively coupled with the quantum dot and adapted to output energy from the quantum dot; and
+</P>
+<P>
+a plurality of charge carriers capable of being confined within the quantum dot to form a an artificial atom; wherein
+</P>
+<P>
+the energy is adapted to cause an electric potential across the quantum dot to thereby confine a respective subset of the plurality of charge carriers in a controlled configuration within the quantum dot to form a respective the artificial atom;
+</P>
+<P>
+the energy determines the size, shape, atomic number, and/or energy level of the artificial atom; and
+</P>
+<P>
+the artificial atom alters the electrical, optical, thermal, and/or magnetic properties of the quantum switching device such that a quantity and type of energy received via the input path is modified before exiting through the output path.
+</P>
+<P>
+2. The quantum switching device of claim 1, wherein
+</P>
+<P>
+the quantum dot comprises a plurality of quantum dots;
+</P>
+<P>
+the control path comprises a plurality of control paths each connected to a respective one of the plurality of quantum dots;
+</P>
+<P>
+the input path comprises a plurality of input paths each connected to a respective one of the plurality of quantum dots; and
+</P>
+<P>
+the output path comprises a plurality of output paths each connected to a respective one of the plurality of quantum dots; and wherein
+</P>
+<P>
+the energy source is differentiable between each of the plurality of control paths and the subset of the plurality of charge carriers is differentiable between each respective quantum dot.
+</P>
+<P>
+3. The device of claim 2, wherein each of the plurality of control paths is coupled with a respective group of the plurality of quantum dots.
+</P>
+<P>
+4. The quantum switching device of claim 1, wherein
+</P>
+<P>
+the quantum dot is a quantum dot device further comprising
+</P>
+<P>
+a transport layer; and
+</P>
+<P>
+a barrier layer; wherein
+</P>
+<P>
+the transport layer and the barrier layer together form a heterojunction; and
+</P>
+<P>
+the quantum switching device further comprises an electrode supported on the film and operatively coupled with the control path; wherein
+</P>
+<P>
+the charge carriers are confined by an electric field generated by the electrode within a gas layer of the heterojunction to form the artificial atom.
+</P>
+<P>
+5. The quantum switching device of claim 1, wherein
+</P>
+<P>
+the quantum dot is a quantum dot device further comprising
+</P>
+<P>
+a first barrier layer;
+</P>
+<P>
+a second barrier layer; and
+</P>
+<P>
+a transport layer located between the first barrier layer and the second barrier layer; and
+</P>
+<P>
+the quantum switching device further comprises an electrode supported on the film and operatively coupled with the control path; wherein
+</P>
+<P>
+the charge carriers are confined by an electric field generated by the electrode within the transport layer to form the artificial atom.
+</P>
+<P>
+6. The quantum switching device of claim 4 further comprising an insulating medium that insulates the electrode from the quantum dot device.
+</P>
+<P>
+7. The quantum switching device of claim 5 further comprising an insulating medium that insulates the electrode from the quantum dot device.
+</P>
+<P>
+8. The quantum switching device of claim 1, wherein the control path comprises an electrode grid.
+</P>
+<P>
+9. The quantum switching device of claim 1, wherein the control path comprises an array of electrodes electrically insulated from each other on the material.
+</P>
+<P>
+10. The quantum switching device of claim 1, wherein the control path comprises an electrode having cleats that extend within the quantum dot.
+</P>
+<P>
+11. The quantum switching device of claim 1, wherein the quantum switching device operates as at least one of the following: a solid state electrical device, an optical shutter, an optical filter, a thermovoltaic generator, a photovoltaic generator, an electromotive generator, a thermal memory, a thermal logic gate, a thermal switch, and a thermal regulator.
+</P>
+<P>
+12. A device for producing quantum effects, comprising
+</P>
+<P>
+a thin, flexible film further comprising;
+</P>
+<P>
+a transport layer; and
+</P>
+<P>
+a barrier layer; wherein
+</P>
+<P>
+the transport layer and the barrier layer together form a heterojunction;
+</P>
+<P>
+at least one electrode supported on the film;
+</P>
+<P>
+at least one control path operatively coupled with the at least one electrode, wherein the at least one control path is adapted to carry energy from a controllable energy source to the at least one electrode;
+</P>
+<P>
+at least one input path operatively coupled with the transport layer and adapted to input energy to the transport layer;
+</P>
+<P>
+at least one output path operatively coupled with the transport layer and adapted to output energy from the transport layer; and
+</P>
+<P>
+a plurality of charge carriers capable of being confined within the transport layer of the heterojunction to form at least one artificial atom; wherein
+</P>
+<P>
+when energized, the at least one electrode produces an electric field that interacts with the heterojunction causing the formation of one or more potential barriers, which create at least one quantum dot;
+</P>
+<P>
+at least one subset of the charge carriers is confined in the at least one quantum dot in the gas layer of the heterojunction in a controlled configuration to form the at least one artificial atom;
+</P>
+<P>
+the energy determines the size, shape, atomic number, and/or energy level of the at least one artificial atom; and
+</P>
+<P>
+the at least one artificial atom alters the electrical, optical, thermal, and/or magnetic properties of the quantum switching device such that a quantity and type of energy received via the at least one input path is modified before exiting through the at least one output path.
+</P>
+<P>
+13. The quantum switching device of claim 12, wherein
+</P>
+<P>
+the at least one electrode comprises a plurality of electrodes, which are electrically insulated from each other on the film;
+</P>
+<P>
+the at least one control path comprises a plurality of control paths; and
+</P>
+<P>
+a subset of the plurality of control paths is electrically coupled with a respective subset of the plurality of electrodes.
+</P>
+<P>
+14. The quantum switching device of claim 12, wherein the at least one electrode comprises a grid.
+</P>
+<P>
+15. The quantum switching device of claim 12 further comprising an insulating medium that insulates the at least one electrode from the transport layer, the barrier layer, or both.
+</P>
+<P>
+16. The quantum switching device of claim 12, wherein the electrode further comprises at least one cleat that extends within the transport layer, the barrier layer, or both.
+</P>
+<P>
+17. The quantum switching device of claim 12, wherein the quantum switching device operates as at least one of the following: a solid state electrical device, an optical shutter, an optical filter, a thermovoltaic generator, a photovoltaic generator, an electromotive generator, a thermal memory, a thermal logic gate, a thermal switch, and a thermal regulator.
+</P>
+<P>
+18. A device for producing quantum effects, comprising
+</P>
+<P>
+a thin, flexible film further comprising
+</P>
+<P>
+a first barrier layer;
+</P>
+<P>
+a second barrier layer; and
+</P>
+<P>
+a transport layer located between the first barrier layer and the second barrier layer;
+</P>
+<P>
+at least one electrode supported on the film;
+</P>
+<P>
+at least one control path operatively coupled with the at least one electrode, wherein the at least one control path is adapted to carry energy from a controllable energy source to the at least one electrode;
+</P>
+<P>
+at least one input path operatively coupled with the transport layer and adapted to input energy to the transport layer;
+</P>
+<P>
+at least one output path operatively coupled with the transport layer and adapted to output energy from the transport layer; and
+</P>
+<P>
+a plurality of charge carriers capable of being confined within one or more specific areas of the transport layer to form a at least one artificial atom; wherein
+</P>
+<P>
+when energized, the at least one electrode produces an electric field that interacts with the first barrier layer, the second barrier layer, and the transport layer causing the formation of one or more potential barriers, which create at least one quantum dot;
+</P>
+<P>
+at least one subset of the charge carriers is confined in the at least one quantum dot in a controlled configuration to form the at least one artificial atom;
+</P>
+<P>
+the energy determines the size, shape, atomic number, and/or energy level of the at least one artificial atom; and
+</P>
+<P>
+the at least one artificial atom alters the electrical, optical, thermal, and/or magnetic properties of the quantum switching device such that a quantity and type of energy received via the at least one input path is modified before exiting through the at least one output path.
+</P>
+<P>
+19. The quantum switching device of claim 18, wherein
+</P>
+<P>
+the at least one electrode comprises a plurality of electrodes, which are electrically insulated from each other on the film;
+</P>
+<P>
+the at least one control path comprises a plurality of control paths; and
+</P>
+<P>
+a subset of the plurality of control paths is electrically coupled with a respective subset of the plurality of electrodes.
+</P>
+<P>
+20. The quantum switching device of claim 18, wherein the at least one electrode comprises a grid.
+</P>
+<P>
+21. The quantum switching device of claim 18 further comprising an insulating medium that insulates the at least one electrode from one, more, or all of the first barrier layer, the second barrier layer, or the transport layer.
+</P>
+<P>
+22. The quantum switching device of claim 21, wherein the insulating layer encapsulates surfaces of the first barrier layer and the transport layer exposed above the second barrier layer.
+</P>
+<P>
+23. The quantum switching device of claim 22, wherein the electrode encapsulates exposed surfaces of the insulating layer.
+</P>
+<P>
+24. The quantum switching device of claim 18, wherein the electrode further comprises at least one cleat that extends within one, more, or all of the first barrier layer, the second barrier layer, or the transport layer.
+</P>
+<P>
+25. The quantum switching device of claim 18, wherein the quantum switching device operates as at least one of the following: a solid state electrical device, an optical shutter, an optical filter, a thermovoltaic generator, a photovoltaic generator, an electromotive generator, a thermal memory, a thermal logic gate, a thermal switch, and a thermal regulator.
+</P>
+<P>
+26. A quantistor comprising
+</P>
+<P>
+a quantum dot;
+</P>
+<P>
+a control path operatively coupled with the quantum dot, wherein the control path is adapted to carry energy from a controllable energy source to the quantum dot;
+</P>
+<P>
+an input path operatively coupled with the quantum dot and adapted to input energy to the quantum dot;
+</P>
+<P>
+an output path operatively coupled with the quantum dot and adapted to output energy from the quantum dot; and
+</P>
+<P>
+a plurality of charge carriers capable of being confined within the quantum dot to form a an artificial atom; wherein
+</P>
+<P>
+the energy is adapted to cause an electric potential across the quantum dot to thereby confine a respective subset of the plurality of charge carriers in a controlled configuration within the quantum dot to form a respective the artificial atom;
+</P>
+<P>
+the energy determines the size, shape, atomic number, and/or energy level of the artificial atom; and
+</P>
+<P>
+the artificial atom alters the electrical, optical, thermal, and/or magnetic properties of the quantistor such that a quantity and type of energy received via the input path is modified before exiting through the output path.
+</P>
+</Claims>
+<Also_published_as>
+EP1989737A4;US2007194297A1;WO2007120983A1;CN101405866A;CA2647105A1;AU2007238477A1
+</Also_published_as>
+</BiblioData>

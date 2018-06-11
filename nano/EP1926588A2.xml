@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A POLARIZER BASED ON A NANOWIRE GRID
+</Title>
+<PublicationNumber>
+EP1926588A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SMIRNOV VALERY K [RU]
+</Name>
+<Name>
+KIBALOV DMITRY S [RU]
+</Name>
+<Name>
+SMIRNOV, VALERY K
+</Name>
+<Name>
+KIBALOV, DMITRY S
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+WOSTEC INC [US]
+</Name>
+<Name>
+WOSTEC, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1926588
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060851545
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-06-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US21564
+</PriorityNumber>
+<PriorityDate>
+2006-06-01
+</PriorityDate>
+<PriorityNumber>
+US20050686495P
+</PriorityNumber>
+<PriorityDate>
+2005-06-01
+</PriorityDate>
+<PriorityNumber>
+US20060421384
+</PriorityNumber>
+<PriorityDate>
+2006-05-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B5/30
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B5/30P2
+</Class>
+</NCL>
+<Abstract>
+The preferred embodiment provides for development and use of an array of nanowires with a period smaller then 150 nm for applications such as an optical polarizer. To manufacture such structures the preferred embodiment employs a hard nanomask. This nanomask includes a substantially periodic array of substantially parallel elongated elements having a wavelike cross-section.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method of forming an optical polarizer comprising:
+</P>
+<P>
+depositing a layer of metal on top of a surface of an optically transparent substrate;
+</P>
+<P>
+depositing a first material to form a surface layer on top of the surface of the metal layer;
+</P>
+<P>
+inducing a substantially uniform stress in the surface layer, wherein the stress is substantially oriented in a first direction,
+</P>
+<P>
+irradiating a surface of the surface layer with a flow of ions until a hard nanomask is formed, the nanomask comprising a substantially periodic array of substantially parallel elongated elements having a wavelike cross-section, at least some of the elements having the following structure in cross-section: an inner region of first material, and a first outer region of a second material covering a first portion of the inner region;
+</P>
+<P>
+etching through the surface layer and through the metal layer up to the surface of the optically transparent surface while using the nanomask to transfer the pattern of the elongated elements into the metal layer; and
+</P>
+<P>
+removing portions of the surface layer, remaining after the etching, from the metal layer.
+</P>
+<P>
+2. The method of claim 1, wherein a plane of ion incidence of the ion flow is substantially perpendicular to the first direction.
+</P>
+<P>
+3. The method of claim 1, wherein a wavelength of the substantially periodic array is in a range from 20 to 150 nm.
+</P>
+<P>
+4. The method of claim 1, wherein the first material is selected from a group consisting of silicon, amorphous silicon, silicon oxide, gallium arsenide and epitaxial gallium arsenide, germanium and silicon-germanium.
+</P>
+<P>
+5. The method of claim 1, wherein the ion flow comprises a flow of nitrogen N2&amp;lt;+&amp;gt; , N+, nitrogen-oxygen NO&amp;lt;+&amp;gt; , nitrogen-hydrogen NHm&amp;lt;+&amp;gt; , oxygen O2&amp;lt;+&amp;gt; , argon Ar&amp;lt;+&amp;gt; , krypton Kr&amp;lt;+&amp;gt; , xenon Xe&amp;lt;+&amp;gt; , and a mixture of argon Ar&amp;lt;+&amp;gt; and nitrogen N2&amp;lt;+&amp;gt; ions.
+</P>
+<P>
+6. The method of claim 1, wherein a thickness of the first outer region is at least 4 nm.
+</P>
+<P>
+7. The method of the claim 1, wherein the nanomask further comprises a second outer region of the second material covering a second portion of the inner region and connecting with the first outer region at a wave crest, wherein the first outer region is substantially thicker than the second outer region, and wherein the second material is formed by modifying the first material by said ion flow.
+</P>
+<P>
+8. The method of claim 7, wherein the thickness of the second outer region is no more than 2 mm.
+</P>
+<P>
+9. The method of claim 7, wherein the second material is silicon nitride, silicon-germanium nitride, silicon oxide, gallium arsenide nitride or gallium arsenide oxide.
+</P>
+<P>
+10. The method of claim 1, wherein the inducing step comprises polishing the surface layer in the first direction.
+</P>
+<P>
+11. The method of claim 10, wherein the step of polishing is performed using a slurry comprising small particles chosen from a group consisting of alumina particles, silica particles and chromium oxide particles.
+</P>
+<P>
+12. The method of claim 10, wherein the step of polishing is performed using water or toluene based slurry comprising alumina, silica, or chromium oxide particles.
+</P>
+<P>
+13. The method of claim 10, wherein the step of polishing is performed using a slurry comprising small particles, wherein the particle size is not greater than a value approximately equal to two wavelengths of the substantially periodic array.
+</P>
+<P>
+14. The method of claim 1, wherein the depositing step and inducing step are combined in one step by depositing a surface layer with a substantially uniform anisotropic stress oriented in first direction.
+</P>
+<P>
+15. A hard nanomask, comprising:
+</P>
+<P>
+a substantially periodic array of substantially parallel elongated elements having a wavelike cross-section, at least some of the elements having the following structure in cross-section: an inner region of first material, and a first outer region of a second material covering a first portion of the inner region.
+</P>
+<P>
+16. The nanomask of claim 15, wherein a wavelength of the substantially periodic array is in a range from 20 to 150 nm.
+</P>
+<P>
+17. The nanomask of claim 15, wherein the first material is selected from a group consisting of silicon, amorphous silicon, silicon oxide, gallium arsenide and epitaxial gallium arsenide, germanium and silicon-germanium.
+</P>
+<P>
+18. The nanomask of claim 15 wherein the thickness of the first outer region is at least 4 nm.
+</P>
+<P>
+19. The nanomask of the claim 15, further comprising a second outer region of the second material covering a second portion of the inner region connecting with the first outer region at a wave crest, wherein the first outer region is substantially thicker than the second outer region, and wherein the second material is formed by modifying the first material by an ion flow.
+</P>
+<P>
+20. The nanomask of the claim 19, wherein a thickness of the second outer region is no more than 2 nm.
+</P>
+<P>
+21. The nanomask of claim 19, wherein the second material is silicon nitride, silicon-germanium nitride, silicon oxide, gallium arsenide nitride or gallium arsenide oxide.
+</P>
+<P>
+22. A method of forming a hard nanomask for transferring a substantially periodic pattern into a thin film comprising:
+</P>
+<P>
+depositing a first material to form a surface layer on top of a surface of the thin film;
+</P>
+<P>
+inducing a substantially uniform stress in the surface layer, wherein the stress is substantially oriented in a first direction,
+</P>
+<P>
+irradiating a surface of the surface layer with a flow of ions until a hard nanomask is formed, the nanomask comprising a substantially periodic array of substantially parallel elongated elements having a wavelike cross-section, at least some of the elements having the following structure in cross-section: an inner region of first material, a first outer region of a second material covering a first portion of the inner region, and a second outer region of the second material covering a second portion of the inner region and connecting with the first outer region at a wave crest, wherein the first outer region is substantially thicker than the second outer region, and wherein the second material is formed by modifying the first material by said ion flow.
+</P>
+<P>
+23. The method of claim 22, wherein a wavelength of the substantially periodic array is in a range from 20 to 150 nm.
+</P>
+<P>
+24. The method of claim 22, wherein the first material is selected from a group consisting of silicon, amorphous silicon, silicon oxide, gallium arsenide and epitaxial gallium arsenide, germanium and silicon-germanium.
+</P>
+<P>
+25. The method of claim 22, wherein the ion flow comprises a flow of nitrogen N2&amp;lt;+&amp;gt; , N&amp;lt;+&amp;gt; , nitrogen-oxygen NO&amp;lt;+&amp;gt; , nitrogen-hydrogen NHm&amp;lt;+&amp;gt; , oxygen O2&amp;lt;+&amp;gt; , argon Ar&amp;lt;+&amp;gt; , krypton Kr&amp;lt;+&amp;gt; , xenon Xe&amp;lt;+&amp;gt; , and a mixture of argon Ar&amp;lt;+&amp;gt; and nitrogen N2&amp;lt;+&amp;gt; ions.
+</P>
+<P>
+26. The method of claim 22, wherein a thickness of the first outer region is at least 4 nm.
+</P>
+<P>
+27. The method of claim 22, wherein a thickness of the second outer region is no more than 2 nm.
+</P>
+<P>
+28. The method of claim 22, wherein the second material is silicon nitride, silicon-germanium nitride, silicon oxide, gallium arsenide nitride or gallium arsenide oxide.
+</P>
+<P>
+29. The method of claim 22, wherein the inducing step comprises polishing the surface layer in the first direction.
+</P>
+<P>
+30. The method of claim 22, wherein the flow of ions is substantially homogeneous and a plane of ion incidence is substantially perpendicular to the first direction.
+</P>
+<P>
+31. The method of claim 30, wherein the step of polishing is performed using a slurry comprising small particles selected from a group consisting of alumina particles, silica particles and chromium oxide particles.
+</P>
+<P>
+32. The method of claim 30, wherein the step of polishing is performed using water or toluene based slurry comprising alumina, silica, or chromium oxide particles.
+</P>
+<P>
+33. The method of claim 30, wherein the step of polishing is performed using a slurry containing small particles, wherein a particle size is not greater than a value approximately equal to two wavelengths of said substantially periodic array.
+</P>
+<P>
+34. The method of claim 22, wherein the depositing step and inducing step are combined in one step by depositing a surface layer with a substantially uniform anisotropic stress oriented in the first direction.
+</P>
+</Claims>
+<Also_published_as>
+EP1926588A4;US2006273067A1;US7768018B2;WO2008036064A2;WO2008036064A3;RU2007149077A;RU2413255C2
+</Also_published_as>
+</BiblioData>

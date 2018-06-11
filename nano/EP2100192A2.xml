@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DEVICES AND METHODS FOR PATTERN GENERATION BY INK LITHOGRAPHY
+</Title>
+<PublicationNumber>
+EP2100192A2
+</PublicationNumber>
+<Inventor>
+<Name>
+ROGERS JOHN A [US]
+</Name>
+<Name>
+MENARD ETIENNE [US]
+</Name>
+<Name>
+ROGERS, JOHN A
+</Name>
+<Name>
+MENARD, ETIENNE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV ILLINOIS [US]
+</Name>
+<Name>
+THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2100192
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070863549
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-10-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US82633
+</PriorityNumber>
+<PriorityDate>
+2007-10-26
+</PriorityDate>
+<PriorityNumber>
+US20060863248P
+</PriorityNumber>
+<PriorityDate>
+2006-10-27
+</PriorityDate>
+<PriorityNumber>
+US20070675659
+</PriorityNumber>
+<PriorityDate>
+2007-02-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03B27/04
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F9/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F1/14
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+H01L51/00A4F
+</Class>
+</NCL>
+<Abstract>
+The present invention provides methods, devices and device components for fabricating patterns on substrate surfaces, particularly patterns comprising structures having microsized and/or nanosized features of selected lengths in one, two or three dimensions and including relief and recess features with variable height, depth or height and depth. Composite patterning devices comprising a plurality of polymer layers each having selected mechanical and thermal properties and physical dimensions provide high resolution patterning on a variety of substrate surfaces and surface morphologies. Gray-scale ink lithography photomasks for gray-scale pattern generation or molds for generating embossed relief features on a substrate surface are provided. The particular shape of the fabricated patterned can be manipulated by varying the three-dimensional recess pattern on an elastomeric patterning device which is brought into conformal contact with a substrate to localize patterning agent to the recess portion of the pattern.
+</Abstract>
+<Claims>
+<P>
+We claim:
+</P>
+<P>
+1. A method of processing a surface of substrate, said method comprising the steps of:
+</P>
+<P>
+a) providing an elastomeric patterning device having a three-dimensional pattern of recessed features on an external side, wherein said external side has at least one contact surface disposed thereon;
+</P>
+<P>
+b) providing a patterning agent on at least a portion of the surface of the substrate; and
+</P>
+<P>
+c) contacting the elastomeric patterning device with the substrate in a manner establishing conformal contact between at least a portion of the contact surface of the elastomeric patterning device and the surface of the substrate having said patterning agent, wherein said conformal contact results in said patterning agent filling at least a portion of said recessed features of said elastomeric pattern device, thereby processing said surface of said substrate.
+</P>
+<P>
+2. The method of claim 1, wherein said elastomeric patterning device is at least partially transparent; said method further comprising exposing said elastomeric patterning device in conformal contact with said substrate to electromagnetic radiation; wherein said patterning agent in said recessed features of said elastomeric pattern device modulates an optical property of electromagnetic radiation transmitted by the elastomeric patterning device and the patterning agent in said recessed features.
+</P>
+<P>
+3. The method of claim 2, wherein said optical property is selected from the group consisting of intensity, phase, wavelength, polarization state, and any combination of these.
+</P>
+<P>
+4. The method of claim 3 wherein said patterning agent in said recessed features of said elastomeric pattern device absorbs, scatters or reflects electromagnetic radiation exposed to said elastomeric patterning device, thereby generating said electromagnetic radiation transmitted by said elastomeric patterning device and said patterning agent in said recessed features, wherein said transmitted electromagnetic radiation has a selected two-dimensional spatial distribution of said optical properties.
+</P>
+<P>
+5. The method of claim 3, wherein said substrate comprises a layer of photosensitive material on a supporting material in conformal contact with said contact surface; and wherein said electromagnetic radiation transmitted by said elastomeric patterning device and said patterning agent in said recessed features interacts with said layer of photosensitive material.
+</P>
+<P>
+6. The method of claim 5, wherein the photosensitive material comprises a photoresist.
+</P>
+<P>
+7. The method of claim 4, wherein said transmitted electromagnetic radiation selected two-dimensional spatial distribution is generated by shaping said three-dimensional pattern of recessed features, thereby generating said selected two-dimensional spatial distribution.
+</P>
+<P>
+8. The method of claim 7, wherein said shaping comprises varying one or more of position, length, depth or cross-sectional shape of one or more of said recessed features.
+</P>
+<P>
+9. The method of claim 8, wherein said recessed feature has a non-uniform depth, a cross-sectional shape that varies with depth, or both.
+</P>
+<P>
+10. The method of claim 4, wherein said selected two-dimensional spatial distribution of said optical property is generated by providing patterning agent in droplet form, wherein one or more droplets has a different composition from that of at least one other droplet, thereby differentially modulating said optical property of electromagnetic radiation.
+</P>
+<P>
+11. The method of claim 4, wherein said two-dimensional spatial distribution of said optical property varies in one or two spatial dimensions.
+</P>
+<P>
+12. The method of claim 11, wherein said two-dimensional spatial distribution of said optical property comprises intensity, wherein said intensity varies continuously in one or two spatial dimensions.
+</P>
+<P>
+13. The method of claim 5, wherein said interaction of said transmitted electromagnetic radiation with said layer of photosensitive material generates a pattern of chemically modified regions in said photosensitive layer, said method further comprising the step of processing the photosensitive material to generate a three-dimensional pattern in said photosensitive layer.
+</P>
+<P>
+14. The method of claim 13, wherein the chemically modified regions are removed during the processing step.
+</P>
+<P>
+15. The method of claim 13, wherein regions that are not chemically modified are removed during the processing step.
+</P>
+<P>
+16. The method of claim 1, wherein said elastomeric patterning device and said patterning agent in said recessed features comprise an amplitude photomask for generating three-dimensional features on a substrate surface.
+</P>
+<P>
+17. The method of claim 1, wherein said elastomeric patterning device and said patterning agent in said recessed features comprise a phase-shift photomask for generating three-dimensional features on a substrate surface.
+</P>
+<P>
+18. The method of claim 1, wherein said recessed features of said elastomeric patterning device comprise a mold, said method further comprising the steps of:
+</P>
+<P>
+a) causing a physical or chemical change in said patterning agent in said recessed features of said elastomeric pattern device; and
+</P>
+<P>
+b) separating said patterning device from said surface of said substrate, thereby generating a pattern of relief features embossed on said surface of said substrate.
+</P>
+<P>
+19. The method of claim 18, wherein said embossed features comprise a photomask.
+</P>
+<P>
+20. The method of claim 19 further comprising exposing said photomask in contact with said substrate to electromagnetic radiation; wherein said photomask modulates an optical property of electromagnetic radiation transmitted by said photomask.
+</P>
+<P>
+21. The method of claim 18, wherein said change in said patterning agent is selected from the group consisting of phase change and polymerization reaction.
+</P>
+<P>
+22. The method of claim 18, wherein said patterning agent is a prepolymer.
+</P>
+<P>
+23. The method of claim 18, wherein said change is caused by exposing said patterning agent to a signal, said signal selected from the group consisting of electromagnetic radiation, temperature and polymerizing agent.
+</P>
+<P>
+24. The method of claim 1, wherein said patterning agent provided to said surface of substrate comprises one or more droplets.
+</P>
+<P>
+25. The method of claim 24, wherein said droplets are applied in a pattern of droplets.
+</P>
+<P>
+26. The method of claim 24, wherein said one or more droplets are optionally addressed to selected regions of substrate surface.
+</P>
+<P>
+27. The method of claim 1, wherein said substrate surface undergoing processing comprises selected hydrophobic regions, selected hydrophilic regions, or both.
+</P>
+<P>
+28. The method of claim 1, wherein said three-dimensional pattern comprises selected hydrophobic regions, selected hydrophilic regions, or both.
+</P>
+<P>
+29. The method of claim 1, wherein said patterning agent is provided to said surface of substrate in a pattern.
+</P>
+<P>
+30. The method of claim 1, wherein said patterning agent is provided to said surface of substrate in a layer or a thin-film that covers at least a portion of said surface of substrate.
+</P>
+<P>
+31. The method of claim 1 further comprising aligning said elastomeric patterning device with said surface of the substrate.
+</P>
+<P>
+32. The method of claim 31, wherein the aligning comprises aligning a lock and key registration feature.
+</P>
+<P>
+33. The method of claim 32 further comprising applying a force to strain said elastomeric patterning device, thereby engaging said lock and key registration feature.
+</P>
+<P>
+34. The method of claim 1, wherein said surface of substrate is distorted, said method further comprising applying a force to strain said elastomeric patterning device to match said substrate distortion to facilitate said conformal contact.
+</P>
+<P>
+35. The method of claim 1, wherein at least a portion of said surface of substrate is nonplanar.
+</P>
+<P>
+36. The method of claim 1, wherein said elastomeric patterning device comprises a single elastomeric layer.
+</P>
+<P>
+37. The method of claim 1, wherein said elastomeric patterning device is a composite patterning device comprising multiple elastomeric layers.
+</P>
+<P>
+38. The method of claim 1 further comprising extracting air from the patterning device to facilitate filling of said recessed features with said patterning agent.
+</P>
+<P>
+39. The method of claim 1 further comprising treating the contact surface, recessed features, surface of substrate, or any combination thereof with HMDS, plasma O2, UVO, or any combination thereof.
+</P>
+<P>
+40. A method of generating a pattern on a photosensitive surface of a substrate, said method comprising:
+</P>
+<P>
+a) providing a patterning agent on at least a portion of the surface of the substrate, wherein said patterning agent is applied in a pattern to at least partially coat said surface with said patterning agent;
+</P>
+<P>
+b) applying electromagnetic radiation to said coated surface to generate a two-dimensional spatial distribution of electromagnetic radiation on said surface of the substrate; and
+</P>
+<P>
+c) processing said substrate to obtain the pattern.
+</P>
+<P>
+41. The method of claim 40, wherein said patterning agent comprises a droplet.
+</P>
+<P>
+42. The method of claim 40, wherein said patterning agent comprises a thin film.
+</P>
+<P>
+43. The method of claim 40, wherein the surface comprises one or more regions that are hydrophobic or hydrophilic.
+</P>
+<P>
+44. The method of claim 43 wherein the patterning agent is applied to hydrophilic regions.
+</P>
+<P>
+45. The method of claim 40 further comprising:
+</P>
+<P>
+a) providing an elastomeric patterning device having a three-dimensional pattern of recessed features on an external side, wherein said external side has at least one contact surface disposed thereon; and
+</P>
+<P>
+b) contacting the elastomeric patterning device with the substrate in a manner establishing conformal contact between at least a portion of the contact surface of the elastomeric patterning device and the surface of the substrate having said patterning agent, wherein said conformal contact results in said patterning agent filling at least a portion of said recessed features of said elastomeric pattern device.
+</P>
+<P>
+46. The method of claim 45 further comprising removing excess patterning agent
+</P>
+<P>
+47. A patterning device for generating three-dimensional patterns on a substrate surface, said device comprising:
+</P>
+<P>
+a) an elastomeric layer comprising an external surface and an internal surface, said external surface having a three-dimensional relief pattern;
+</P>
+<P>
+b) means of providing patterning agent to said substrate surface or said relief pattern; and
+</P>
+<P>
+c) means for establishing conformal contact between said relief pattern and said substrate surface.
+</P>
+<P>
+48. The device of claim 47, wherein said means for establishing conformal contact comprises an actuator, said actuator operably connected to said elastomeric layer internal surface.
+</P>
+<P>
+49. The device of claim 48, wherein said actuator applies a uniform pressure, a uniform displacement, or both to said elastomeric layer to establish conformal contact.
+</P>
+<P>
+50. The device of claim 47, wherein said substrate surface has one or more hydrophilic regions, and wherein means of providing patterning agent comprises droplet application to said one or more hydrophilic regions.
+</P>
+<P>
+51. The method of claim 1 further comprising applying a thin film to selected regions of said elastomeric patterning device, wherein said thin film modulates an optical property of electromagnetic radiation and said regions are selected from the group consisting of recessed features, relief features, and top surface.
+</P>
+<P>
+52. The method of claim 1 further comprising embedding particles within said elastomeric patterning device, wherein said particles modulate an optical property of electromagnetic radiation.
+</P>
+<P>
+53. The method of claim 52, wherein said particles are embedded in a pattern.
+</P>
+<P>
+54. The method of claim 1 further comprising depositing particles on a top surface of said elastomeric patterning device, wherein said particles modulate an optical property of electromagnetic radiation.
+</P>
+</Claims>
+<Also_published_as>
+US2008055581A1;WO2008055054A2;WO2008055054A3;TW200848956A;KR20090077836A;JP2010508662A
+</Also_published_as>
+</BiblioData>

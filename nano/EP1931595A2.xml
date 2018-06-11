@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CARBON NANOSTRUCTURES MANUFACTURED FROM CATALYTIC TEMPLATING NANOPARTICLES
+</Title>
+<PublicationNumber>
+EP1931595A2
+</PublicationNumber>
+<Inventor>
+<Name>
+ZHANG CHENG [US]
+</Name>
+<Name>
+FRANSSON MARTIN [US]
+</Name>
+<Name>
+LIU CHANGKUN [US]
+</Name>
+<Name>
+ZHOU BING [US]
+</Name>
+<Name>
+ZHANG, CHENG
+</Name>
+<Name>
+FRANSSON, MARTIN
+</Name>
+<Name>
+LIU, CHANGKUN
+</Name>
+<Name>
+ZHOU, BING
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEADWATERS TECH INNOVATION LLC [US]
+</Name>
+<Name>
+HEADWATERS TECHNOLOGY INNOVATION LLC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1931595
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060836228
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US39303
+</PriorityNumber>
+<PriorityDate>
+2006-10-06
+</PriorityDate>
+<PriorityNumber>
+US20050724323P
+</PriorityNumber>
+<PriorityDate>
+2005-10-06
+</PriorityDate>
+<PriorityNumber>
+US20060539042
+</PriorityNumber>
+<PriorityDate>
+2006-10-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J21/18
+</Class>
+<Class>
+B01J23/40
+</Class>
+<Class>
+C01B31/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J21/18
+</Class>
+<Class>
+B01J21/18C
+</Class>
+<Class>
+B01J23/40
+</Class>
+<Class>
+B01J23/74
+</Class>
+<Class>
+B01J37/08B2
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+H01M4/88
+</Class>
+<Class>
+H01M4/90S2
+</Class>
+<Class>
+H01M4/96
+</Class>
+<Class>
+Y02E60/50
+</Class>
+</NCL>
+<Abstract>
+Methods for manufacturing carbon nanostractures include: 1) forming a plurality of catalytic templating particles using a plurality of dispersing agent molecules;  2) forming an intermediate carbon nanostructure by polymerizing a carbon precursor in the presence of the plurality of templating nanoparticles;  3) carbonizing the intermediate carbon nanostructure to form a composite nanostructure;  and 4) removing the templating nanoparticles from the composite nanostructure to yield the carbon nanostructures. The carbon nanostructures are well-suited for use as a catalyst support. The carbon nanostructures exhibit high surface area, high porosity, and high graphitization. Carbon nanostructures according to the invention can be used as a substitute for more expensive and likely more fragile carbon nanotubes.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method for manufacturing carbon nanostructures, comprising: (i) forming a plurality of catalytic templating nanoparticles by:
+</P>
+<P>
+(a) reacting a plurality of precursor catalyst atoms with a plurality of organic dispersing agent molecules to form complexed catalyst atoms; and
+</P>
+<P>
+(b) allowing or causing the complexed catalyst atoms to form the templating nanoparticles;
+</P>
+<P>
+(ii) forming one or more intermediate carbon nanostructures by polymerizing a carbon precursor in the presence of the templating nanoparticles;
+</P>
+<P>
+(iii) carbonizing the intermediate carbon nanostructures to form a plurality of composite nanostructures; and
+</P>
+<P>
+(iv) removing the templating nanoparticles from the composite nanostructures to yield the carbon nanostructures.
+</P>
+<P>
+2. A method as defined in claim 1, wherein the catalyst atoms comprise at least one of iron, nickel, or cobalt. 3. A method as defined in claim 1, wherein the dispersing agent molecules are capable of bonding with the catalyst atoms and comprise at least one functional group selected from the group consisting of a hydroxyl, a carboxyl, a carbonyl, an amine, an amide, a nitrile, a nitrogen with a free lone pair of electrons, an amino acid, a thiol, a sulfonic acid, a sulfonyl halide, an acyl halide, and combinations thereof.
+</P>
+<P>
+4. A method as defined in claim 1, wherein the dispersing agent molecules comprise at least one member selected from the group consisting of oxalic acid, malic acid, malonic acid, maleic acid, succinic acid, glycolic acid, lactic acid, glucose, citric acid, pectins, cellulose, ethanolamine, mercaptoethanol, 2- mercaptoacetate, glycine, sulfobenzyl alcohol, sulfobenzoic acid, sulfobenzyl thiol, sulfobenzyl amine, polyacrylates, polyvinylbenzoates, polyvinyl sulfate, polyvinyl sulfonates, polybisphenol carbonates, polybenzimidizoles, polypyridine, sulfonated polyethylene terephthalate, and combinations thereof. 5. A method as defined in claim 1, wherein the carbon precursor comprises a hydrothermally polymerizable organic substrate.
+</P>
+<P>
+6. A method as defined in claim 5, wherein the hydrothermally polymerizable organic substrate comprises at least one of citric acid, acrylic acid, benzoic acid, acrylic ester, butadiene, styrene, or cinnamic acid.
+</P>
+<P>
+7. A method as defined in claim 1, wherein the carbon precursor comprises at least one of resorcinol-formaldehyde-gel, phenol resin, melamine- formaldehyde gel, poly(furfuryl alcohol), or poly(acrylonitrile).
+</P>
+<P>
+8. A method as defined in claim 1, wherein the templating nanoparticles are formed prior to being mixed with the carbon precursor.
+</P>
+<P>
+9. A method as defined in claim 1, wherein carbonization is carried out at a temperature in a range of about 500 &amp;lt;0&amp;gt;C to about 2500 &amp;lt;0&amp;gt;C. 10. A method as defined in claim 1, wherein at least a portion of the templating nanoparticles are removed from the composite nanostructure by etching with at least one of an acid or a base.
+</P>
+<P>
+11. A composition of matter comprising carbon nanostructures manufactured according to the method of claim 1.
+</P>
+<P>
+12. A method of manufacturing a supported catalyst comprising placing metal catalyst particles on carbon nanostructures manufactured according to claim 1. 13. A method as defined in claim 12, wherein the metal catalyst particles comprise at least one noble metal.
+</P>
+<P>
+14. A supported catalyst manufactured according to claim 12. 15. A method for manufacturing carbon nanostructures in high yield, comprising:
+</P>
+<P>
+(i) providing a plurality of solid catalytic templating nanoparticles consisting essentially of one or more types of metal catalyst atoms and optionally one or more types of organic dispersing agent molecules; (ii) mixing the solid catalytic templating nanoparticles with a carbon precursor and polymerizing the carbon precursor to form a plurality of intermediate carbon nanostructures;
+</P>
+<P>
+(iii) carbonizing the intermediate carbon nanostructures to form a plurality of composite nanostructures; and (iv) removing the templating nanoparticles from the composite nanostructures to yield the carbon nanostructures.
+</P>
+<P>
+16. A method as defined in claim 15, wherein the metal catalyst atoms comprise at least one of iron, nickel, or cobalt.
+</P>
+<P>
+17. A method as defined in claim 15, wherein the dispersing agent molecules are capable of bonding with the catalyst atoms and comprise at least one functional group selected from the group consisting of a hydroxyl, a carboxyl, a carbonyl, an amine, an amide, a nitrile, a nitrogen with a free lone pair of electrons, an amino acid, a thiol, a sulfonic acid, a sulfonyl halide, an acyl halide, and combinations thereof.
+</P>
+<P>
+18. A method as defined in claim 15, wherein the dispersing agent molecules comprise at least one member selected from the group consisting of oxalic acid, malic acid, malonic acid, maleic acid, succinic acid, glycolic acid, lactic acid, glucose, citric acid, pectins, cellulose, ethanolamine, mercaptoethanol, 2- mercaptoacetate, glycine, sulfobenzyl alcohol, sulfobenzoic acid, sulfoben2yl thiol, sulfobenzyl amine, polyacrylates, polyvinylbenzoates, polyvinyl sulfate, polyvinyl sulfonates, polybisphenol carbonates, polybenzimidizoles, polypyridine, sulfonated polyethylene terephthalate, and combinations thereof. 19. A method as defined in claim 15, wherein the carbon precursor comprises a hydrothermally polymerizable organic substrate.
+</P>
+<P>
+20. A method as defined in claim 19, wherein the hydrothermally polymerizable organic substrate comprises at least one of citric acid, acrylic acid, benzoic acid, acrylic ester, butadiene, styrene or cinnamic acid.
+</P>
+<P>
+21. A method as defined in claim 15, wherein the carbon precursor comprises at least one of resorcinol-formaldehyde-gel, phenol resin, melamine- formaldehyde gel, poly(furfuryl alcohol), or poly(acrylonitrile).
+</P>
+<P>
+22. A method as defined in claim 15, wherein carbonization is carried out at a temperature in a range of about 500 &amp;lt;0&amp;gt;C to about 2500 &amp;lt;0&amp;gt;C.
+</P>
+<P>
+23. A method of manufacturing a supported catalyst comprising placing metal catalyst particles on the carbon nanostructures manufactured according to claim 22.
+</P>
+<P>
+24. A method as defined in claim 23, wherein the metal catalyst particles comprise at least one noble metal.
+</P>
+<P>
+25. A composition of matter comprising a plurality of carbon nanostructures manufactured according to a process comprising:
+</P>
+<P>
+(i) providing a plurality of solid catalytic templating nanoparticles consisting essentially of one or more types of metal catalyst atoms and optionally one or more types of organic dispersing agent molecules;
+</P>
+<P>
+(ii) mixing the solid catalytic templating nanoparticles with a carbon precursor and polymerizing the carbon precursor to form a plurality of intermediate carbon nanostructures;
+</P>
+<P>
+(iii) carbonizing the intermediate carbon nanostructures to form a plurality of composite nanostructures; and
+</P>
+<P>
+(iv) removing the templating nanoparticles from the composite nanostructures to yield the carbon nanostructures.
+</P>
+</Claims>
+<Also_published_as>
+EP1931595A4;WO2007044614A2;WO2007044614A3;US2010125035A1;US2007265162A1;US7718155B2;KR20080053470A;JP2009514762A;CA2619065A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHODS AND APPARATUS FOR GENERATING TERAHERTZ RADIATION
+</Title>
+<PublicationNumber>
+EP2127047A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BELKIN MIKHAIL A [US]
+</Name>
+<Name>
+CAPASSO FEDERICO [US]
+</Name>
+<Name>
+BELYANIN ALEXEY [US]
+</Name>
+<Name>
+BELKIN, MIKHAIL, A
+</Name>
+<Name>
+CAPASSO, FEDERICO
+</Name>
+<Name>
+BELYANIN, ALEXEY
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HARVARD COLLEGE [US]
+</Name>
+<Name>
+THE PRESIDENT AND FELLOWS OF HARVARD COLLEGE
+</Name>
+<Name>
+THE TEXAS A&amp;M UNIVERSITY SYSTEM
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2127047
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080825821
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US03431
+</PriorityNumber>
+<PriorityDate>
+2008-03-14
+</PriorityDate>
+<PriorityNumber>
+US20070895258P
+</PriorityNumber>
+<PriorityDate>
+2007-03-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S1/02
+</Class>
+<Class>
+H01S5/34
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S1/02
+</Class>
+<Class>
+H01S5/34A2
+</Class>
+</NCL>
+<Abstract>
+Apparatus and methods for generating radiation via difference frequency generation (DFG). In one exemplary implementation, a quantum cascade laser (QCL) has a significant second-order nonlinear susceptibility (?(2)) integrated in an active region of the QCL. The QCL is configured to generate first radiation at a first frequency ?1, second radiation at a second frequency ?2, and third radiation at a third frequency ?3 = ?1 - ?2based on difference frequency generation (DFG) arising from the nonlinear susceptibility. In one aspect, the QCL may be configured to generate appreciable THz radiation at room temperature.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. An apparatus, comprising: a quantum cascade laser (QCL) having a significant second-order nonlinear susceptibility fo&amp;lt;(2)&amp;gt;) integrated in an active region of the QCL, the QCL configured to generate first radiation at a first frequency [omega]\, second radiation at a second frequency a&amp;gt;2, and third radiation at a third frequency [omega]3 = a&amp;gt;\ - [omega]2 based on difference frequency generation (DFG) arising from the nonlinear susceptibility.
+</P>
+<P>
+2. The apparatus of claim 1, wherein the QCL comprises: a first quantum cascade (QC) structure configured to generate the first radiation; and a second QC structure configured to generate the second radiation, wherein the nonlinear susceptibility is integrated in at least one of the first QC structure and the second QC structure.
+</P>
+<P>
+3. The apparatus of claim 2, wherein the nonlinear susceptibility is integrated in both of the first QC structure and the second QC structure.
+</P>
+<P>
+4. The apparatus of claim 2, wherein the nonlinear susceptibility is integrated in only one of the first QC structure and the second QC structure.
+</P>
+<P>
+5. The apparatus of claim 2, wherein the nonlinear susceptibility is integrated in the second QC structure and not the first QC structure.
+</P>
+<P>
+6. The apparatus of any of claims 2 through 5, wherein: the first QC structure includes at least one two-phonon structure; and the second QC structure includes at least one bound-to-continuum structure.
+</P>
+<P>
+7. The apparatus of claim 6, wherein: the first QC structure includes from approximately 20 to 30 two-phonon structures; and the second QC structure includes approximately 30 bound-to-continuum structures.
+</P>
+<P>
+8. The apparatus of claim 1, wherein the QCL comprises a single quantum cascade (QC) structure to generate the first, second and third radiation.
+</P>
+<P>
+9. The apparatus of claim 8, wherein the single QC structure includes at least one modified two-phonon structure.
+</P>
+<P>
+10. The apparatus of any of the foregoing claims, wherein the first radiation and the second radiation have respective first and second wavelengths in the mid-infrared band of the electromagnetic spectrum, and the third radiation has a wavelength in the terahertz (THz) band of the electromagnetic spectrum.
+</P>
+<P>
+11. The apparatus of claim 10, wherein: the first and second wavelengths are in a range of approximately 5 to 10 micrometers; and the third wavelength is in a range of approximately 30 to 300 micrometers.
+</P>
+<P>
+12. The apparatus of any of the foregoing claims, wherein the apparatus is configured to operate at room temperature.
+</P>
+<P>
+13. The apparatus of any of claims 1 to 11, wherein the apparatus is configured to operate at temperatures below and up to approximately 250 degrees Kelvin.
+</P>
+<P>
+14. The apparatus of any of claims 1 to 11, wherein the apparatus is configured to operate at temperatures below and up to approximately 150 degrees Kelvin.
+</P>
+<P>
+15. The apparatus of any of claims 1 to 11, wherein the apparatus is configured to operate at temperatures below and up to approximately 80 degrees Kelvin.
+</P>
+<P>
+16. The apparatus of any of the foregoing claims, wherein the apparatus is configured to variably tune the first, second and third frequencies based on controlled variations of operating temperature.
+</P>
+<P>
+17. The apparatus of any of the foregoing claims, further comprising a thermoelectric cooler coupled to the QCL to control the operating temperature of the QCL.
+</P>
+<P>
+18. The apparatus of claim 17, wherein the thermoelectric cooler is configured to provide the operating temperature over a range from approximately 195 to 295 degrees Kelvin.
+</P>
+<P>
+19. The apparatus of any of the foregoing claims, wherein the apparatus is configured to operate in a continuous-wave (CW) mode.
+</P>
+<P>
+20. The apparatus of any of claims 1 through 18, wherein the apparatus is configured to operate in a pulsed mode.
+</P>
+<P>
+21. The apparatus of any of the foregoing claims, wherein the QCL comprises a surface plasmon waveguide structure.
+</P>
+<P>
+22. The apparatus of claim 21, wherein the surface plasmon waveguide structure includes at least one conducting plane that substantially confines the third radiation.
+</P>
+<P>
+23. The apparatus of claim 22, wherein the surface plasmon waveguide structure is configured such that the first and second radiation do not significantly overlap with the at least one conducting plane
+</P>
+<P>
+24. The apparatus of claim 23, wherein the surface plasmon waveguide structure comprises: first and second conducting planes, wherein the active region is disposed between the first and second conducting planes; and a low-doped buffer material disposed with the active region between the first and second conducting planes.
+</P>
+<P>
+25. The apparatus of claim 24, wherein the first and second conducting planes include metal contacts for facilitating an application of electric current to the apparatus.
+</P>
+<P>
+26. The apparatus of any of claims 21 through 25, further comprising a grating disposed on the surface plasmon waveguide structure and configured to extract the third radiation along a length of the surface plasmon waveguide structure.
+</P>
+<P>
+27. The apparatus of any of the foregoing claims, wherein the QCL has a waveguide structure including a back facet and a front facet from which at least a portion of the third radiation emanates.
+</P>
+<P>
+28. The apparatus of claim 27, wherein the waveguide structure includes a tapered section proximate to the front facet.
+</P>
+<P>
+29. The apparatus of claims 27 or 28, further comprising a lens in optical communication with the front facet.
+</P>
+<P>
+30. A method, comprising:
+</P>
+<P>
+A) integrating a significant second-order nonlinear susceptibility fo&amp;lt;(2)&amp;gt;) in an active region of a quantum cascade laser (QCL) so as to facilitate generation of first radiation at a first frequency co\, second radiation at a second frequency [omega]2, and third radiation at a third frequency [omega]3 = [omega]\ - a&amp;gt;2 based on difference frequency generation (DFG) arising from the nonlinear susceptibility.
+</P>
+<P>
+31. The method of claim 30, wherein the QCL comprises a first quantum cascade (QC) structure configured to generate the first radiation and a second QC structure configured to generate the second radiation, and wherein A) comprises: integrating the nonlinear susceptibility in at least one of the first QC structure and the second QC structure.
+</P>
+<P>
+32. The method of claim 31 , wherein A) comprises: integrating the nonlinear susceptibility in both of the first QC structure and the second QC structure.
+</P>
+<P>
+33. The method of claim 31 , wherein A) comprises: integrating the nonlinear susceptibility in only one of the first QC structure and the second QC structure.
+</P>
+<P>
+34. The method of claim 31 , wherein A) comprises: integrating the nonlinear susceptibility in the second QC structure and not the first QC structure.
+</P>
+<P>
+35. The method of any of claims 31 through 34, wherein: the first QC structure includes at least one two-phonon structure; and the second QC structure includes at least one bound-to-continuum structure.
+</P>
+<P>
+36. The method of claim 35, wherein: the first QC structure includes approximately 20 two-phonon structures; and the second QC structure includes approximately 30 bound-to-continuum structures.
+</P>
+<P>
+37. The method of claim 30, wherein the QCL comprises a single quantum cascade (QC) structure to generate the first, second and third radiation.
+</P>
+<P>
+38. The method of claim 37, wherein the single QC structure includes at least one modified two-phonon structure.
+</P>
+<P>
+39. The method of any of claims 30 through 38, wherein the first radiation and the second radiation have respective first and second wavelengths in the mid-infrared band of the electromagnetic spectrum, and the third radiation has a wavelength in the terahertz (THz) band of the electromagnetic spectrum.
+</P>
+<P>
+40. The method of claim 39, wherein: the first and second wavelengths are in a range of approximately 5 to 10 micrometers; and the third wavelength is in a range of approximately 30 to 300 micrometers.
+</P>
+<P>
+41. The method of any of claims 30 through 40, further comprising : operating the QCL at room temperature.
+</P>
+<P>
+42. The method of any of claims 30 through 40, further comprising: operating the QCL at temperatures below and up to approximately 250 degrees Kelvin.
+</P>
+<P>
+43. The method of any of claims 30 through 40, further comprising: operating the QCL at temperatures below and up to approximately 150 degrees Kelvin.
+</P>
+<P>
+44. The method of any of claims 30 through 40, further comprising: operating the QCL at temperatures below and up to approximately 80 degrees Kelvin.
+</P>
+<P>
+45. The method of any of claims 30 through 44, further comprising: controllably varying an operating temperature of the QCL so as to variably tune the first, second and third frequencies.
+</P>
+<P>
+46. The method of claim 45, wherein controllably varying an operating temperature comprises controllably varying the operating temperature over a range from approximately 195 to 295 degrees Kelvin.
+</P>
+<P>
+47. The method of any of claims 30 through 46, further comprising: applying a continuous electric current to the QCL so as to operate the QCL in a continuous-wave (CW) mode.
+</P>
+<P>
+48. The method of any of claims 30 through 46, further comprising: applying a pulsed electric current to the QCL so as to operate the QCL in a pulsed mode.
+</P>
+</Claims>
+<Also_published_as>
+EP2127047B1;WO2008143737A2;WO2008143737A3;US2011222564A1;US2010135337A1;US7974325B2;JP2010521815A;CN101730961A;AT509398T
+</Also_published_as>
+</BiblioData>

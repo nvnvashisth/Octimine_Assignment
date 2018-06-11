@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+WAVEGUIDE HAVING LOW INDEX SUBSTRATE
+</Title>
+<PublicationNumber>
+EP1946165A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KORNILOVICH PAVEL [US]
+</Name>
+<Name>
+MARDILOVICH PETER [US]
+</Name>
+<Name>
+KORNILOVICH, PAVEL
+</Name>
+<Name>
+MARDILOVICH, PETER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1946165
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060800585
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-07-31
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US29854
+</PriorityNumber>
+<PriorityDate>
+2006-07-31
+</PriorityDate>
+<PriorityNumber>
+US20050249534
+</PriorityNumber>
+<PriorityDate>
+2005-10-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B6/122
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B6/122P
+</Class>
+</NCL>
+<Abstract>
+An optical waveguide (160) includes a porous substrate (122) having pores (154) of first width (166), a barrier layer (104) having apertures (152) aligned with the pore openings, and a core material layer (162) adjacent the barrier layer. The apertures have a second width (164) less than the first width.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+An optical waveguide (160) comprising: a porous substrate (122) having pores (154) of a first width (166); a barrier layer (104) having apertures (152) aligned with the pore openings, the apertures having a second width (164) less than the first width; and a core material layer (162) adjacent the barrier layer.
+</P>
+<P>
+2. The optical waveguide of claim 1, wherein the porous substrate comprises anodic alumina.
+</P>
+<P>
+3. The optical waveguide of claim 1 , wherein the barrier layer comprises relatively pure alumina.
+</P>
+<P>
+4. The optical waveguide of claim 1 , wherein the barrier layer comprises a chemically stable oxide.
+</P>
+<P>
+5. The optical waveguide of claim 1 , wherein the core material comprises silicon.
+</P>
+<P>
+6. The optical waveguide of claim 1 , wherein the porous substrate has a porosity within a range of approximately 70% - 95%.
+</P>
+<P>
+7. The optical waveguide of claim 1 , wherein the porous substrate has an index of refraction less than approximately 1.2.
+</P>
+<P>
+8. The optical waveguide of claim 1, wherein the waveguide is a photonic crystal waveguide or a ridge waveguide.
+</P>
+<P>
+9. The optical waveguide of claim 1, wherein the porous substrate has a thickness less than approximately 2[mu]m.
+</P>
+<P>
+10. A method of fabricating a waveguide (160), the method comprising: forming a barrier layer (104) on a substrate (102); forming apertures (152) through the barrier layer and pores (154) in the substrate aligned with the apertures; widening the pores of the substrate; and depositing core material (162) on the barrier layer.
+</P>
+</Claims>
+<Also_published_as>
+WO2007044108A1;US2007086715A1;US7394961B2
+</Also_published_as>
+</BiblioData>

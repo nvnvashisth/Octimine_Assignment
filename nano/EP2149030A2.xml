@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CLOSED LOOP CONTROLLER AND METHOD FOR FAST SCANNING PROBE MICROSCOPY
+</Title>
+<PublicationNumber>
+EP2149030A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SHI JIAN [US]
+</Name>
+<Name>
+SU CHANMIN [US]
+</Name>
+<Name>
+PRATER CRAIG [US]
+</Name>
+<Name>
+MA JI [US]
+</Name>
+<Name>
+SHI, JIAN
+</Name>
+<Name>
+SU, CHANMIN
+</Name>
+<Name>
+PRATER, CRAIG
+</Name>
+<Name>
+MA, JI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+VEECO INSTR INC [US]
+</Name>
+<Name>
+VEECO INSTRUMENTS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2149030
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080827958
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US62467
+</PriorityNumber>
+<PriorityDate>
+2008-05-02
+</PriorityDate>
+<PriorityNumber>
+US20070800679
+</PriorityNumber>
+<PriorityDate>
+2007-05-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01B11/00
+</Class>
+<Class>
+G01B21/00
+</Class>
+<Class>
+G01B7/00
+</Class>
+<Class>
+G01N23/00
+</Class>
+<Class>
+G02B21/00
+</Class>
+<Class>
+G01N13/16
+</Class>
+</IPC>
+<IPC7>
+<Class>
+G01N13/16
+</Class>
+</IPC7>
+<ICM>
+<Class>
+G01B11/00
+</Class>
+<Class>
+G01B21/00
+</Class>
+<Class>
+G01B7/00
+</Class>
+<Class>
+G01N23/00
+</Class>
+<Class>
+G02B21/00
+</Class>
+</ICM>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q10/06
+</Class>
+</NCL>
+<Abstract>
+A method of operating a metrology instrument includes generating relative motion between a probe and a sample at a scan frequency using an actuator. The method also includes detecting motion of the actuator using a position sensor that exhibits noise in the detected motion, and controlling the position of the actuator using a feedback loop and a feed forward algorithm. In this embodiment, the controlling step attenuates noise in the actuator position compared to noise exhibited by the position sensor over the scan bandwidth. Scan frequencies up to a third of the first scanner resonance frequency or greater than 300 Hz are possible.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method of operating a metrology instrument, comprising:
+</P>
+<P>
+generating relative motion between a probe and a sample at a scan frequency using an actuator;
+</P>
+<P>
+detecting motion of the actuator using a position sensor, wherein the position sensor exhibits noise in the detected motion;
+</P>
+<P>
+controlling the position of the actuator using a feedback loop and a feed forward algorithm; and
+</P>
+<P>
+wherein the controlling step attenuates noise in the actuator position compared to the noise in the detected motion in a noise bandwidth of about seven times the scan frequency.
+</P>
+<P>
+2. The method of claim 1, wherein the feed forward algorithm includes using an inversion-based control algorithm.
+</P>
+<P>
+3. The method of claim 2, wherein the inversion-based control algorithm uses at least one transfer function associated with the actuator.
+</P>
+<P>
+4. The method of claim 2, wherein the inversion-based control algorithm adaptively produces a correction that contributes to a control signal that compensates for at least one of the non-linearities and the dynamics of the actuator.
+</P>
+<P>
+5. The method of claim 4, wherein the control signal produces a peak position error of less than about 1% of the total scan range after no more than about 10 iterations of 10 scan lines per iteration.
+</P>
+<P>
+6. The method of claim 5, wherein the control signal produces a peak position error of less than about 1% of the total scan range after no more than about 5 seconds.
+</P>
+<P>
+7. The method of claim 1, wherein the scan frequency is at least 1/100th the fundamental resonant frequency of the actuator.
+</P>
+<P>
+8. The method of claim 7, wherein the scan frequency is at least 1/10th the fundamental resonant frequency of the actuator.
+</P>
+<P>
+9. The method of claim 8, wherein the scan frequency is at least [1/3]&amp;lt;rd &amp;gt; the fundamental resonant frequency of the actuator.
+</P>
+<P>
+10. The method of claim 9, wherein the resonant frequency of the actuator is greater than about 100 Hz and the scan frequency is at least about 10 Hz.
+</P>
+<P>
+11. The method of claim 10, wherein the scan frequency is at least about 100 Hz.
+</P>
+<P>
+12. The method of claim 11, wherein the scan frequency is at least about 300 Hz.
+</P>
+<P>
+13. The method of claim 1, wherein the bandwidth of the feedback loop is less than the scan frequency.
+</P>
+<P>
+14. The method of claim 1, wherein the bandwidth of the feedback loop is less than about 10 hz.
+</P>
+<P>
+15. The method of claim 1, wherein the controlling step attenuates the noise in the actuator position to less than about 1 Angstrom RMS within a noise bandwidth equal to about seven times the scan frequency.
+</P>
+<P>
+16. The method of claim 15, wherein the controlling step includes using a PI controller.
+</P>
+<P>
+17. A method of operating a metrology instrument, comprising:
+</P>
+<P>
+generating, with an actuator, relative motion between a probe and a sample at a scan frequency over a scan size;
+</P>
+<P>
+detecting motion of the actuator using a position sensor; and
+</P>
+<P>
+controlling, with at least one of a feedback loop and a feed forward algorithm, the generating step to substantially follow a reference signal to achieve a position error of the relative motion compared to the reference signal that is less than about 1% of the scan size, and a positioning noise less than about 1 Angstrom RMS within a noise bandwidth equal to at least about seven times the scan frequency.
+</P>
+<P>
+18. The method of claim 17, wherein the feed forward algorithm is an adaptive feed forward algorithm that estimates a transfer function of the actuator in response to the position error and adjusts the generating step based at least in part on the transfer function.
+</P>
+<P>
+19. The method of claim 18, wherein the response of the actuator is dependent on an operating condition.
+</P>
+<P>
+20. The method of claim 19, wherein the operation condition is at least one of scan frequency, size, angle, and offset.
+</P>
+<P>
+21. The method of claim 17, wherein the scan frequency is greater than about 10 Hz.
+</P>
+<P>
+22. The method of claim 21, wherein the scan frequency is greater than about 30 Hz.
+</P>
+<P>
+23. The method of claim 21, wherein the scan frequency is greater than about 100 Hz.
+</P>
+<P>
+24. The method of claim 23, wherein the scan frequency is greater than about 300 Hz.
+</P>
+<P>
+25. The method of claim 17, wherein the bandwidth of the feedback loop is less than the scan frequency.
+</P>
+<P>
+26. The method of claim 17, wherein the bandwidth of the feedback loop is less than about 10 Hz.
+</P>
+<P>
+27. The method of claim 17, wherein the feed forward algorithm includes using an inversion-based control algorithm and iteratively produces a correction that contributes to a control signal that compensates for at least one of the non-linearities and the dynamics of the actuator.
+</P>
+<P>
+28. The method of claim 27, wherein the control signal produces a peak position error of less than about 1% of the total scan range after no more than about 5 seconds.
+</P>
+<P>
+29. The method of claim 27, wherein the correction is a waveform.
+</P>
+<P>
+30. The method of claim 17, wherein the position error is an integral position error.
+</P>
+<P>
+31. A scanning probe microscope (SPM) comprising:
+</P>
+<P>
+an actuator that generates relative motion between a probe and a sample at a scan frequency;
+</P>
+<P>
+a sensor that detects motion of the actuator and generates noise;
+</P>
+<P>
+a controller that generates a position control signal based on the detected motion;
+</P>
+<P>
+wherein the controller attenuates the noise in the actuator position to less than about 1 Angstrom RMS in a noise bandwidth of about seven times the scan frequency.
+</P>
+<P>
+32. The scanning probe microscope of claim 31, further comprising a feed forward algorithm, and wherein the controller includes a feedback loop that attenuates noise in the actuator position compared to noise exhibited by the sensor.
+</P>
+<P>
+33. The scanning probe microscope of claim 32, wherein the bandwidth of the feedback loop is less than the scan frequency.
+</P>
+<P>
+34. The scanning probe microscope of claim 32, wherein the feed forward algorithm includes using an inversion-based control algorithm and iteratively produces a correction that contributes to a control signal that compensates for at least one of the non-linearities and the dynamics of the actuator.
+</P>
+<P>
+35. The scanning probe microscope of claim 34, wherein the correction is a scan table.
+</P>
+<P>
+36. The scanning probe microscope of claim 31, wherein the scan frequency is at least 1/100th the fundamental resonant frequency of the actuator.
+</P>
+<P>
+37. The scanning probe microscope of claim 36, wherein the scan frequency is at least 1/10th the fundamental resonant frequency of the actuator.
+</P>
+<P>
+38. The scanning probe microscope of claim 37, wherein the scan frequency is at least [1/3]&amp;lt;rd &amp;gt; the fundamental resonant frequency of the actuator.
+</P>
+<P>
+39. The scanning probe microscope of claim 31, wherein the scan frequency is greater than about 10 Hz.
+</P>
+<P>
+40. A method of operating a metrology instrument, comprising:
+</P>
+<P>
+generating relative motion between a probe and a sample at a scan frequency using an actuator;
+</P>
+<P>
+detecting motion of the actuator using a position sensor, wherein the position sensor exhibits noise in the detected motion;
+</P>
+<P>
+controlling the position of the actuator using a feedback loop and an adaptive feed forward algorithm; and
+</P>
+<P>
+wherein the controlling step attenuates noise in the actuator position compared to the noise in the detected motion in a noise bandwidth of about seven times the scan frequency;
+</P>
+<P>
+wherein the adaptive feed forward algorithm repeatedly updates the generating step in response to the detected motion of the actuator.
+</P>
+<P>
+41. The method of claim 40, wherein the adaptive feed forward algorithm iteratively determines a correction to the generating step.
+</P>
+<P>
+42. The method of claim 40, wherein the generating step includes using a reference signal that is a triangle wave.
+</P>
+<P>
+43. The method of claim 42, further comprising reducing ripple in the triangle wave using a window.
+</P>
+</Claims>
+<Also_published_as>
+EP2149030A4;US2008277582A1;WO2009025886A2;WO2009025886A3;KR20100029186A;JP2010527002A;CN101711342A
+</Also_published_as>
+</BiblioData>

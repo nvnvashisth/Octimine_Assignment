@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Bistable magnetic nano- switch
+</Title>
+<PublicationNumber>
+EP2105940A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BILHAUT LISE [FR]
+</Name>
+<Name>
+ANDREUCCI PHILIPPE [FR]
+</Name>
+<Name>
+DURAFFOURG LAURENT [FR]
+</Name>
+<Name>
+VIALA BERNARD [FR]
+</Name>
+<Name>
+BILHAUT, LISE
+</Name>
+<Name>
+ANDREUCCI, PHILIPPE
+</Name>
+<Name>
+DURAFFOURG, LAURENT
+</Name>
+<Name>
+VIALA, BERNARD
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE ET AUX ENERGIESALTERNATIVES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2105940
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090156102
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-03-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+FR20080052061
+</PriorityNumber>
+<PriorityDate>
+2008-03-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01H50/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+H01H1/00N
+</Class>
+</NCL>
+<Abstract>
+The device has a magnetic mobile element (50) moved with respect to a fixed element i.e. substrate (52), and an activation unit for activating the mobile element. A magnetic unit (30) defining a plane generates remanent magnetization along a direction contained in the plane. Another magnetic unit (40&apos;) defining another plane generates remanent magnetization in a direction contained in the other plane. A reversing unit i.e. conductor (36), reverses the direction of the remanent magnetization of the magnetic units comprising Cobalt-Platinum multilayered stacks by thermal effects.
+</Abstract>
+<Claims>
+<P>
+1. Dispositif nano-commutateur comportant:
+</P>
+<P>
+- au moins un élément fixe (52) et au moins un élément au moins partiellement en un matériau magnétique et mobile (50) par rapport à l&apos;élément fixe,
+</P>
+<P>
+- des moyens d&apos;activation de l&apos;élément mobile, comportant .
+</P>
+<P>
+- au moins un premier moyen magnétique (30, 30&apos;) de forme plane, définissant un premier plan, pour engendrer une aimantation rémanente selon une direction contenue dans ledit premier plan ou perpendiculaire à ce premier plan,
+</P>
+<P>
+- et au moins un deuxième moyen magnétique (40, 40&apos;) de forme plane, définissant un deuxième plan, pour engendrer une aimantation rémanente selon une direction contenue dans ledit deuxième plan ou perpendiculaire à ce deuxième plan,
+</P>
+<P>
+- des moyens (36, 36&apos;) pour inverser, par effet thermique, la direction de l&apos;aimantation rémanente d&apos;au moins un desdits premier et deuxième moyens magnétiques.
+</P>
+<P>
+2. Dispositif selon la revendication 1, les premier et deuxième moyens magnétiques faisant partie de l&apos;élément fixe.
+</P>
+<P>
+3. Dispositif selon la revendication 2, le ou les premiers moyens magnétiques étant à aimantation rémanente fixe selon une direction contenue dans ledit premier plan.
+</P>
+<P>
+4. Dispositif selon la revendication 3, le ou les deuxièmes moyens magnétiques étant à aimantation rémanente pouvant être inversée, selon une direction contenue dans ledit deuxième plan, ou le ou les deuxièmes moyens magnétiques (40) étant à aimantation rémanente pouvant être inversée, selon une direction perpendiculaire audit deuxième plan.
+</P>
+<P>
+5. Dispositif selon la revendication 2, le ou les deuxièmes moyens magnétiques (40&apos;, 40&apos;-1, 40&apos;-2, 40&apos;-3, 40&apos;-4) étant à aimantation rémanente fixe selon une direction perpendiculaire audit deuxième plan, le ou les premiers moyens magnétiques (30) pouvant être à aimantation rémanente variable selon une direction contenue dans ledit premier plan.
+</P>
+<P>
+6. Dispositif selon la revendication 5, le ou les premiers moyens magnétiques (30) étant à aimantation rémanente variable selon une direction contenue dans ledit premier plan, le dispositif comportant une pluralité de deuxièmes moyens magnétiques (40&apos;-1, 40&apos;-2, 40&apos;-3, 40&apos;-4) à aimantation rémanente fixe selon une direction perpendiculaire audit premier plan.
+</P>
+<P>
+7. Dispositif selon la revendication 1 , l&apos;élément mobile comportant le ou les premiers moyens magnétiques (30&apos;, 30&apos;-1, 30&apos;-2), le ou les deuxièmes moyens magnétiques faisant partie de l&apos;élément fixe.
+</P>
+<P>
+8. Dispositif selon la revendication 7, le ou les premiers moyens magnétiques (30&apos;, 30&apos;-1, 30&apos;-2) étant à aimantation rémanente fixe selon une direction contenue dans ledit premier plan et/ou :
+</P>
+<P>
+- le ou les deuxièmes moyens magnétiques (30&apos;,30&apos;-1, 30&apos;-2) étant à aimantation rémanente variable, selon une direction perpendiculaire audit deuxième plan,
+</P>
+<P>
+- ou le ou les deuxièmes moyens magnétiques (30&apos;, 30&apos;-1, 30&apos;-2) étant à aimantation rémanente variable, selon une direction contenue dans ledit deuxième plan.
+</P>
+<P>
+9. Dispositif selon la revendication 8, le ou les deuxièmes moyens magnétiques (30&apos;, 30&apos;-1, 30&apos;-2) étant à aimantation rémanente variable, selon une direction contenue dans ledit deuxième plan, et les premiers et deuxième moyens magnétiques étant disposés dans le prolongement l&apos;un de l&apos;autre lorsque la partie mobile est en position de repos.
+</P>
+<P>
+10. Dispositif selon l&apos;une des revendications 7 à 8, comportant un axe de rotation (61) autour duquel une première partie et une deuxième partie de l&apos;élément mobile (50) peuvent pivoter, chaque partie de cet élément mobile comportant au moins un premier moyen magnétique (30&apos;-1, 30&apos;-2), l&apos;élément fixe comportant au moins un deuxième moyen magnétique (30-1, 30-2, 40-1, 40-2, 40-3, 40-4), chacun étant disposé pour coopérer avec un premier moyen magnétique de l&apos;élément mobile.
+</P>
+<P>
+11. Dispositif selon la revendication 2, la partie mobile (50) étant disposée dans le même plan que les premiers et deuxièmes moyens magnétiques (30, 30&apos;, 40, 40&apos;) et étant mobile dans ce plan, ou la partie mobile (50) étant disposée, et mobile, dans un plan parallèle à un plan défini par les premiers et deuxièmes moyens magnétiques (30, 30&apos;, 40, 40&apos;).
+</P>
+<P>
+12. Dispositif selon la revendication 11, les premiers et deuxièmes moyens magnétiques (30, 30&apos;) étant à aimantation rémanente selon une direction contenue dans leur plan, au moins une de ces aimantations étant variable.
+</P>
+<P>
+13. Dispositif selon l&apos;une des revendications 1 à 12, au moins un moyen magnétique à aimantation rémanente perpendiculaire à son plan comportant un empilement de multicouches CoPt et au moins une couche (34, 34&apos;) d&apos;un matériau antiferromagnétique et/ou au moins un moyen magnétique à aimantation rémanente selon une direction contenue dans son plan, ou moyen magnétique à aimantation planaire, comportant au moins une couche (32) de matériau ferromagnétique et au moins une couche (34) d&apos;un matériau antiferromagnétique.
+</P>
+<P>
+14. Dispositif selon l&apos;une des revendications 1 à 13, dans lequel au moins l&apos;un desdits premiers ou deuxièmes moyens magnétiques comprend un empilement de couches, par exemple une alternance d&apos;au moins une couche magnétique (F) et d&apos;au moins une couche antiferromagnétique (AF).
+</P>
+<P>
+15. Dispositif selon l&apos;une quelconque des revendications précédentes, au moins l&apos;un desdits premiers ou deuxièmes moyens magnétiques étant à aimantation réversible et étant associé à des moyens (36,37) de retournement de l&apos;aimantation.
+</P>
+</Claims>
+<Also_published_as>
+EP2105940B1;US2009243772A1;JP2009245946A;FR2929443A1
+</Also_published_as>
+</BiblioData>

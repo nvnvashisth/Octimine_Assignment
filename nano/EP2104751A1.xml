@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR THE PRODUCTION OF QUANTUM DOTS EMBEDDED IN A MATRIX, AND QUANTUM DOTS EMBEDDED IN A MATRIX PRODUCED USING THE METHOD
+</Title>
+<PublicationNumber>
+EP2104751A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FUERTES MARRON DAVID [ES]
+</Name>
+<Name>
+LEHMANN SEBASTIAN [DE]
+</Name>
+<Name>
+SADEWASSER SASCHA [DE]
+</Name>
+<Name>
+LUX-STEINER MARTHA CHRISTINA [DE]
+</Name>
+<Name>
+FUERTES MARRON, DAVID
+</Name>
+<Name>
+LEHMANN, SEBASTIAN
+</Name>
+<Name>
+SADEWASSER, SASCHA
+</Name>
+<Name>
+LUX-STEINER, MARTHA CHRISTINA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HELMHOLTZ ZENT B MAT &amp; ENERG [DE]
+</Name>
+<Name>
+HELMHOLTZ-ZENTRUM BERLIN FUER MATERIALIEN UND ENERGIE GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2104751
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070856081
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007DE02230
+</PriorityNumber>
+<PriorityDate>
+2007-12-11
+</PriorityDate>
+<PriorityNumber>
+DE200610060366
+</PriorityNumber>
+<PriorityDate>
+2006-12-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C23C14/00
+</Class>
+<Class>
+C23C14/04
+</Class>
+<Class>
+C23C14/06
+</Class>
+<Class>
+C23C16/04
+</Class>
+<Class>
+C23C16/30
+</Class>
+<Class>
+C23C30/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C23C10/02
+</Class>
+<Class>
+C23C14/04B
+</Class>
+<Class>
+C23C14/06D
+</Class>
+<Class>
+C23C14/46
+</Class>
+<Class>
+C23C16/02H2
+</Class>
+<Class>
+C23C16/30C
+</Class>
+<Class>
+C23C26/00
+</Class>
+<Class>
+C23C8/02
+</Class>
+<Class>
+H01L21/02K4C1E
+</Class>
+<Class>
+H01L21/02K4E2
+</Class>
+<Class>
+H01L21/02K4E3L5
+</Class>
+<Class>
+H01L31/032C
+</Class>
+<Class>
+H01L31/0352
+</Class>
+<Class>
+Y02E10/54B
+</Class>
+</NCL>
+<Abstract>
+Bekannt ist, einen metallischen Precursor, der in einer ein Polymer enthaltenden Lösung gelöst ist, mittels Tröpfchensprühverteilung auf einem Substrat zu deponieren. Eine anschliessende Gasphasenreaktion mit einem chalkogenhaltigen Reagens erzeugt Quantenpunkte in einer Polymermatrix. Zur Erzeugung beliebiger Matrizen sieht das erfindungsgemässe Verfahren nach Aufbringen von Quantenpunkten (QD) aus einem Precursor (PC) das anschliessende Inkontaktbringen der aufgebrachten Quantenpunkte (QD) und des unbedeckten Substrats (SU) mit einem gasphasigen Reagens (RG) vor, das alle Bestandteile der zu erzeugenden Matrix (MA) enthält, wobei eine chemische Reaktion zwischen dem Precursor (PC) und dem Reagens (RG) durch eine zum Inkontaktbringen gleichzeitige oder nachfolgende Temperaturerhöhung herbeigeführt wird.;  Somit kann eine konkordierende Zusammensetzung zwischen Quantenpunkten (QD) und Matrix (MA) erzeugt werden, wobei die Quantenpunkte (QD) eine additive Zusammensetzung aus den Elementen von Precursor (PC) und Reagens (RG) und die Matrix (MA) eine Zusammensetzung ausschliesslich aus den Elementen des Reagens (RG) aufweist. Durch entsprechende Elementwahl können binäre, ternäre oder multinäre Verbindungshalbleiter erzeugt werden, die in der Nanooptik und -elektronik, aber auch bei Solarzellen Anwendung finden.
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zur Herstellung von in einer Matrix (MA) eingebetteten Quantenpunkten auf einem Substrat (SU) mit einem Aufbringen von Quantenpunkten (QD) aus einem Precursor (PC) aus zumindest einem ersten Metall oder einer Metall-Verbindung auf dem Substrat (SU) und einem anschliessenden Inkontaktbringen der aufgebrachten Quantenpunkte (QD) und des unbedeckten Substrats (SU) mit einem gasphasigen Reagens (RG) aus zumindest einem zweiten Metall und/oder einem Chalkogen, das alle Bestandteile der Matrix (MA) enthält, wobei eine chemische Reaktion zwischen dem Precursor (PC) und dem Reagens (RG) durch eine zum Inkontaktbringen gleichzeitige oder nachfolgende Temperaturerhöhung herbeigeführt wird.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, gekennzeichnet durch einen flüssigphasigen Precursor (PC), der in einem verdampfbaren Lösungsmittel gelöst ist, das in Tröpfchenform auf dem Substrat (SU) versprüht und vor, während oder nach der Einleitung der chemischen Reaktion zwischen dem Precursor (PC) und dem Reagens (RG) verdampft wird.
+</P>
+<P>
+3. Verfahren nach Anspruch 1, gekennzeichnet durch einen festphasigen Precursor (PC), der in hoch- bis nanostrukturierter Form auf das Substrat (SU) aufgebracht wird.
+</P>
+<P>
+4. Verfahren nach einem der Ansprüche 1 bis 3, gekennzeichnet durch die Verwendung von Elementen aus den Gruppen I, II, III, IV, V und VI für den Precursor (PC) und das Reagens (RG).
+</P>
+<P>
+5. Verfahren nach Anspruch 4, gekennzeichnet durch die Verwendung von halbleitenden Elementen für den Precursor (PC) und das Reagens (RG).
+</P>
+<P>
+6. Verfahren nach einem der Ansprüche 1 bis 5, gekennzeichnet durch eine Beimischung eines magnetischen Elements in den Precursor (PC).
+</P>
+<P>
+7. Verfahren nach einem der Ansprüche 1 bis 6, gekennzeichnet durch eine Beimischung von Metallhaliden, organometallische Verbindungen und/oder Chalkogenhalide in das Reagens (RG).
+</P>
+<P>
+8. Verfahren nach einem der Ansprüche 1 bis 7, gekennzeichnet durch ein Aufbringen einer Diffusionsbarriere oder einer Passivierungsschicht auf die aufgebrachten Quantenpunkte (QD).
+</P>
+<P>
+9. Mit dem Verfahren nach einem der Ansprüche 1 bis 8 hergestellte, in einer Matrix eingebettete Quantenpunkte, gekennzeichnet durch eine konkordierende Zusammensetzung zwischen Quantenpunkten (QD) und Matrix (MA), wobei die Quantenpunkte (QD) eine additive Zusammensetzung aus den Elementen von Precursor (PC) und Reagens (RG) und die Matrix (MA) eine Zusammensetzung ausschliesslich aus den Elementen des Reagens (RG) aufweist.
+</P>
+<P>
+10. Quantenpunkte in einer Matrix nach Anspruch 9, gekennzeichnet durch eine konkordierende Zusammensetzung auf der Basis von binären, ternären und/oder multinären Halbleiterverbindungen.
+</P>
+</Claims>
+<Also_published_as>
+DE102006060366A1;US2010108986A1;JP2010513032A;WO2008074298A1
+</Also_published_as>
+</BiblioData>

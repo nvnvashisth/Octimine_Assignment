@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR THE PRODUCTION OF AN OPTICAL ELEMENT BY MEANS OF A MOLDING PROCESS, OPTICAL ELEMENT PRODUCED ACCORDING TO SAID METHOD, COLLECTOR, AND LIGHTING SYSTEM
+</Title>
+<PublicationNumber>
+EP2155932A2
+</PublicationNumber>
+<Inventor>
+<Name>
+DINGER UDO [DE]
+</Name>
+<Name>
+BINGEL ULRICH [DE]
+</Name>
+<Name>
+ERXMEYER JEFFREY [DE]
+</Name>
+<Name>
+ERZIN ERAL [DE]
+</Name>
+<Name>
+WEIGL BERNHARD [DE]
+</Name>
+<Name>
+BRUYNOOGHE STEPHANE [DE]
+</Name>
+<Name>
+DINGER, UDO
+</Name>
+<Name>
+BINGEL, ULRICH
+</Name>
+<Name>
+ERXMEYER, JEFFREY
+</Name>
+<Name>
+ERZIN, ERAL
+</Name>
+<Name>
+WEIGL, BERNHARD
+</Name>
+<Name>
+BRUYNOOGHE, STEPHANE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ZEISS CARL SMT AG [DE]
+</Name>
+<Name>
+CARL ZEISS SMT AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2155932
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080801441
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP04273
+</PriorityNumber>
+<PriorityDate>
+2008-05-29
+</PriorityDate>
+<PriorityNumber>
+DE200710025278
+</PriorityNumber>
+<PriorityDate>
+2007-05-31
+</PriorityDate>
+<PriorityNumber>
+US20070932517P
+</PriorityNumber>
+<PriorityDate>
+2007-05-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C23C28/02
+</Class>
+<Class>
+C25D1/06
+</Class>
+<Class>
+C25D7/08
+</Class>
+<Class>
+G02B17/06
+</Class>
+<Class>
+G03F7/20
+</Class>
+<Class>
+G21K1/06
+</Class>
+<Class>
+G21K5/04
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C23C14/00B
+</Class>
+<Class>
+C23C28/00
+</Class>
+<Class>
+C25D1/06
+</Class>
+<Class>
+C25D7/08
+</Class>
+<Class>
+G02B5/08M
+</Class>
+<Class>
+G02B5/08V
+</Class>
+<Class>
+G03F7/70D16D
+</Class>
+<Class>
+G03F7/70P10B
+</Class>
+<Class>
+G21K1/06B
+</Class>
+</NCL>
+<Abstract>
+Disclosed is a method for producing an optical element or part of an optical element having a base. Said method comprises the following steps: - a mold (21, 1000, 2000) is provided that has a surface corresponding to the geometry of the optical element;  - a layer system (7) encompassing at least one separation layer system (15, 1010, 2010) is deposited on the surface of the mold (21, 1000, 2000);  - a base (4, 1030, 2030) is electroformed on the layer system (7);  - at least the base on the separation layer system (15, 1010, 2010) is detached from the mold (21, 1000, 2000).
+</Abstract>
+<Claims>
+<P>
+Patentansprüche
+</P>
+<P>
+1. Verfahren zur Herstellung eines optischen Elementes oder Teil eines optischen Elementes mit einem Grundkörper umfassend folgende Schritte:
+</P>
+<P>
+Bereitstellung eines Abformkörpers (21 , 1000, 2000) mit einer Oberfläche, die der Geometrie des optischen Elementes entspricht; Abscheiden eines Schichtsystems (7), umfassend mindestens ein Trennschichtsystem (15, 1010, 2010) auf der Oberfläche des
+</P>
+<P>
+Abformkörpers (21 , 1000, 2000); Elektroformen eines Grundkörpers (4, 1030, 2030) auf dem Schichtsystem
+</P>
+<P>
+(7);
+</P>
+<P>
+Ablösen wenigstens des Grundkörpers am Trennschichtsystem (15, 1010, 2010) vom Abformkörper (21 , 1000, 2000).
+</P>
+<P>
+2. Verfahren nach Anspruch 1 , dadurch gekennzeichnet, dass das Schichtsystem des Weiteren wenigstens eine Reflexionsschicht (8) umfasst und die wenigstens eine Reflexionsschicht auf dem Trennschichtsystem (15, 1010) abgeschieden wird und das Elektroformen des Grundkörpers auf der wenigstens einen Reflexionsschicht erfolgt.
+</P>
+<P>
+3. Verfahren nach Anspruch 2, dadurch gekennzeichnet, dass die wenigstens eine Reflexionsschicht Teil eines Vielfachschichtsystems (2110) ist.
+</P>
+<P>
+4. Verfahren nach Anspruch 3, dadurch gekennzeichnet, dass das Vielfachschichtsystem (2110) eine Abfolge von Mo/Si-Schichten oder Mo/Be-Schichten ist.
+</P>
+<P>
+5. Verfahren nach Anspruch 3 oder 4, dadurch gekennzeichnet, dass das Trennschichtsystem Au oder Ru umfasst.
+</P>
+<P>
+6. Verfahren nach Anspruch 2, dadurch gekennzeichnet, dass die wenigstens eine Reflexionsschicht Ru umfasst.
+</P>
+<P>
+7. Verfahren nach Anspruch 6, dadurch gekennzeichnet, dass das Trennschichtsystem (15) als Mehrschichtsystem ausgeführt wird und eine auf den Abformkörper abgeschiedene Si[theta]2-Schicht und eine auf die SiO2 abgeschiedene Au-Schicht umfasst.
+</P>
+<P>
+8. Verfahren nach Anspruch 7, dadurch gekennzeichnet, dass das Ablösen vom Abformkörper (21) zwischen Si[theta]2 und Au im Trennsystem (15) erfolgt.
+</P>
+<P>
+9. Verfahren nach Anspruch 1 , dadurch gekennzeichnet, dass der Grundkörper als Teil des optischen Elementes am
+</P>
+<P>
+Trennschichtsystem (15) vom Abformkörper getrennt wird.
+</P>
+<P>
+10. Verfahren nach Anspruch 9, dadurch gekennzeichnet, dass nach Ablösen des Grundkörpers als Teil des optischen Elementes auf dem Grundkörper oder dem Grundkörper mit Trennschichtsystem wenigstens in einem weiteren Verfahrensschritt eine Reflexionsschicht abgeschieden wird.
+</P>
+<P>
+11. Verfahren nach Anspruch 10, dadurch gekennzeichnet, dass die wenigstens eine Reflexionsschicht Teil eines
+</P>
+<P>
+Vielfachschichtsystems (1110) ist.
+</P>
+<P>
+12. Verfahren nach Anspruch 11 , dadurch gekennzeichnet, dass das Vielfachschichtsystem (1110) eine Abfolge von Mo/Si-Schichten oder Mo/Be-Schichten ist.
+</P>
+<P>
+13. Verfahren nach Anspruch 11 oder 12, dadurch gekennzeichnet, dass das Trennschichtsystem Au oder Ru umfasst.
+</P>
+<P>
+14. Verfahren nach Anspruch 10, dadurch gekennzeichnet, dass das Reflexionsschichtsystem Ru umfasst.
+</P>
+<P>
+15. Verfahren nach einem der Ansprüche 1 bis 14, dadurch gekennzeichnet, dass das Elektroformen des Grundkörpers in wenigstens einem ersten Schritt und einem zweiten Schritt erfolgt, wobei nach dem ersten Schritt auf einer ersten Schicht (1020,1 , 2020.1) des Grundkörpers (1030) Kühleinrichtungen (1050, 2050) und/oder Gelenkeinrichtungen (1040,
+</P>
+<P>
+2040) angeordnet werden.
+</P>
+<P>
+16. Verfahren nach Anspruch 14, dadurch gekennzeichnet, dass eine zweite Schicht (1020.2, 2020.2) auf der ersten Schicht des Grundkörpers abgeschieden wird, so dass die Kühlund/oder
+</P>
+<P>
+Gelenkeinrichtungen in den Grundkörper eingebracht sind.
+</P>
+<P>
+17. Verfahren nach einem der Ansprüche 1 bis 15, dadurch gekennzeichnet, dass der Grundkörper ein Metall ausgewählt unter den nachfolgenden Metallen:
+</P>
+<P>
+Ni, Cu, Ni-Legierungen umfasst.
+</P>
+<P>
+18. Verfahren nach einem der Ansprüche 1 bis 17, dadurch gekennzeichnet, dass ein Abformkörper (21) verwendet wird, der aus Quarzglas (SiO2) oder kanigenisiertem Aluminium besteht.
+</P>
+<P>
+19. Verfahren nach einem der Ansprüche 1 bis 17, dadurch gekennzeichnet, dass auf der Oberfläche des Abformkörpers (21) SiO2 abgeschieden wird.
+</P>
+<P>
+20. Verfahren nach Anspruch 19, dadurch gekennzeichnet, dass an dem Abformkörper (21) mit der SiO2-Schicht nach Abscheidung an diesem in einem Konditionierungsschritt über eine vordefinierte Zeitdauer eine Oberflächenbehandlung durchgeführt wird.
+</P>
+<P>
+21. Verfahren nach einem der Ansprüche 18 bis 20, dadurch gekennzeichnet, dass auf die SiO2-Schicht oder das Quarzglas wechselweise Schichten aus Ruthenium (16, 17) und Haftschichten (18, 19) aus Cr abgeschieden werden.
+</P>
+<P>
+22. Verfahren nach einem der Ansprüche 2 bis 21 , dadurch gekennzeichnet, dass die Abscheidung der Reflexionsschicht (8) vorzugsweise in einem Vakuum oder in einer elektrochemischen Umgebung ausgeführt wird.
+</P>
+<P>
+23. Verfahren zur Herstellung eines grazing-incidence optischen Elementes, insbesondere einer Kollektorschale für einen grazing-incidence-Kollektor für den Einsatz bei EUV-Strahlung, insbesondere mit einer geschlossenen Fläche, gekennzeichnet durch die folgenden Schritte: Bereitstellung eines Abformkörpers (21), mit einer Oberfläche, die der Geometrie des grazing incidience optischen Elementes (1) entspricht; - Elektroformen eines Grundkörpers (4) auf dem Abformkörper (21); Ablösen des Grundkörpers (4) vom Abformkörper (21); Abscheiden eines Schichtsystems (7), umfassend mindestens eine Reflexionsschicht (8) auf die Oberfläche des Grundkörpers (4).
+</P>
+<P>
+24. Verfahren nach Anspruch 23, dadurch gekennzeichnet, dass ein Trennschichtsystem vorgesehen ist und mindestens eine auf den Abformkörper abgeschiedene SiO2 -Schicht und eine auf SiO2 abgeschiedene Pd-Schicht oder Au-Schicht umfasst.
+</P>
+<P>
+25. Verfahren nach Anspruch 23, dadurch gekennzeichnet, dass die Ablösung der Kollektorschale (1 ) unter Bildung einer Schale (25) vom Abformkörper (21) zwischen SiO2und Pd bzw. Au im Trennschichtsystem (15) erfolgt.
+</P>
+<P>
+26. Verfahren nach Anspruch 23 dadurch gekennzeichnet, dass das Abscheiden der Schichten des Schichtsystems (7) durch Bedampfen, insbesondere Elektronenstrahlverdampfen oder Sputtern erfolgt.
+</P>
+<P>
+27. Verfahren nach einem der Ansprüche 23 bis 26, dadurch gekennzeichnet, dass der Grundkörper (4) aus Ni oder Ni-Legierungsmaterialien durch Elektroformung, insbesondere einen elektrochemischen Prozess gebildet wird.
+</P>
+<P>
+28. Verfahren nach einem der Ansprüche 23 bis 27, dadurch gekennzeichnet, dass das Elektroformen des Grundkörpers in wenigstens einem ersten Schritt und einem zweiten Schritt erfolgt, wobei nach dem ersten Schritt auf eine erste Schicht Kühleinrichtungen und/oder Gelenkeinrichtungen angeordnet werden und auf der ersten Schicht eine zweite Schicht abgeschieden wird.
+</P>
+<P>
+29. Verfahren zur Herstellung eines normal-incidence-optischen Elementes, insbesondere einer Facette für ein facettiertes optisches Element für den
+</P>
+<P>
+Einsatz bei EUV-Strahlung, gekennzeichnet durch die folgenden Schritte: - Bereitstellen eines Abformkörpers (1000,2000) mit einer Oberfläche, die der
+</P>
+<P>
+Geometrie des normal-incidence optischen Elementes entspricht;
+</P>
+<P>
+Elektroformen eines Grundkörpers (1030, 2030) auf dem Abformkörper
+</P>
+<P>
+(1000, 2000);
+</P>
+<P>
+Ablösen des Grundkörpers vom Abformkörper; - Abscheiden eines Schichtsystems umfassend mindestens eine
+</P>
+<P>
+Reflexionsschicht auf die Oberfläche des Grundkörpers.
+</P>
+<P>
+30. Verfahren nach Anspruch 29, dadurch gekennzeichnet, dass ein Trennschichtsystem vorgesehen ist und das Trennschichtsystem mindestens eine auf den Abformkörper abgeschiedene Metallschicht, insbesondere eine Au-Schicht und/oder Ru-Schicht ist.
+</P>
+<P>
+31. Verfahren nach einem der Ansprüche 29 bis 30, dadurch gekennzeichnet, dass das Abscheiden der Schichten des Schichtsystems durch Bedampfen, insbesondere Elektronstrahlverdampfen oder Sputtern erfolgt.
+</P>
+<P>
+32. Verfahren nach einem der Ansprüche 29 bis 31 , dadurch gekennzeichnet, dass das die wenigstens eine Reflexionsschicht Teil eines Vielfachschichtsystems ist und das Vielfachschichtsystem (1010) eine Abfolge von Mo/Si-Schichten oder Mo/Be-Schichten ist.
+</P>
+<P>
+33. Verfahren nach einem der Ansprüche 29 bis 32, dadurch gekennzeichnet, dass die Reflexionsschicht mindestens eine Ru-Schicht umfasst.
+</P>
+<P>
+34. Verfahren nach einem der Ansrprüche 29 bis 33, dadurch gekennzeichnet, dass das Elektroformen des Grundkörpers in wenigstens einem ersten Schritt und einem zweiten Schritt erfolgt, wobei nach dem ersten Schritt auf einer ersten Schicht (1030.1) Kühleinrichtungen (1050) und/oder Gelenkeinrichtungen (1040) angeordnet werden.
+</P>
+<P>
+35. Verfahren nach Anspruch 34, dadurch gekennzeichnet, dass eine zweite Schicht (1030.2) auf der ersten Schicht des Grundkörpers abgeschieden wird, so dass die Kühlund/oder Gelenkeinrichtungen in den Grundkörper eingebracht sind.
+</P>
+<P>
+36. Verfahren nach Anspruch 29 bis 35, dadurch gekennzeichnet, dass der Grundkörper ein Metall ausgewählt unter den nachfolgenden
+</P>
+<P>
+Metallen: Ni, Cu, Ni-Legierungen.
+</P>
+<P>
+37. Normal-incidence-optisches Element, insbesondere Spiegel für ein facettiertes optisches Element, insbesondere für den Einsatz bei EUVStrahlung umfassend einen Grundkörper (1030, 2030) und wenigstens eine auf den Grundkörper abgeschiedene Reflexionsschicht, dadurch gekennzeichnet, dass der Grundkörper aus einem Metall besteht.
+</P>
+<P>
+38. Normal-incidence-optisches Element gemäss Anspruch 37, dadurch gekennzeichnet, dass die wenigstens eine Reflexionsschicht einen Teil eines Vielfachschichtsystems ist.
+</P>
+<P>
+39. Normal-incidence-optisches Element gemäss Anspruch 38, dadurch gekennzeichnet, dass das Vielfachschichtsystem (1010, 2010) Mo/Si-Schichten bzw. Mo/BeSchichten umfasst.
+</P>
+<P>
+40. Normal-incidence-optisches Element gemäss einem der Ansprüche 37 bis 39, dadurch gekennzeichnet, dass das die wenigstens eine Reflexionsschicht eine Ru-Schicht umfasst.
+</P>
+<P>
+41. Normal-incidence-optisches Element gemäss einem der Ansprüche 37 bis 40, dadurch gekennzeichnet, dass das Metall des Grundkörpers ausgewählt unter den nachfolgenden
+</P>
+<P>
+Metallen ist: Cu, Ni, Ni-Legierungszusammensetzung.
+</P>
+<P>
+42. Normal-incidence-optisches Element, dadurch gekennzeichnet, dass der Grundkörper (1030, 2030) in den Grundkörper eingebrachte
+</P>
+<P>
+Kühleinrichtungen (1050, 2050) und/oder Gelenkeinrichtungen 1040, 2040) umfasst.
+</P>
+<P>
+43. Normal-incidence-optisches Element gemäss einem der Ansprüche 37 bis 42, dadurch gekennzeichnet, dass der Grundkörper (1030, 2030) aus wenigstens zwei Schichten aufgebaut ist, einer ersten Schicht (1020.1) und einer zweiten Schicht
+</P>
+<P>
+(1020.2).
+</P>
+<P>
+44. Normal-incidence-optisches Element gemäss Anspruch 43, dadurch gekennzeichnet, dass die Kühleinrichtung (1050) und/oder die Gelenkeinrichtung (1040) zwischen erster und zweiter Schicht eingebettet sind.
+</P>
+<P>
+45. Kollektorschale (1), insbesondere für einen grazing-incidence-Kollektor, insbesondere für den Einsatz bei EUV-Strahlung, mit einer ringförimig geschlossenen Spiegelflächedadurch gekennzeichnet, dass die ringförmig geschlossene Spiegelfläche eine Reflexionsschicht (8) aufweist, wobei die Reflexionsschicht wenigstens Ruthenium umfasst.
+</P>
+<P>
+46. Kollektorschale, insbesondere für einen grazing-incidence-Kollektor, insbesondere für den Einsatz bei EUV-Strahlung mit einer Spiegelfläche, wobei die Spiegelfläche mit Bezug auf eine Gerade einen Anfangsund einen Endpunkt aufweist und eine Länge (I) in Richtung der Geraden, wobei die Länge (I) von dem Anfangszu dem Endpunkt entlang der Geraden grösser oder gleich 120 mm ist.
+</P>
+<P>
+47. Kollektorschale gemäss Anspruch 46, dadurch gekennzeichnet, dass die Spiegelfläche einen senkrechten Abstand (d/2) am Endpunkt zur Geraden aufweist und der Abstand (d/2) kleiner oder gleich 375 mm ist.
+</P>
+<P>
+48. Kollektorschale gemäss Anspruch 47, dadurch gekennzeichnet, dass der senkrechte Abstand (d/2) kleiner oder gleich 100 mm ist.
+</P>
+<P>
+49. Kollektorschale gemäss Anspruch 47, dadurch gekennzeichnet, dass der senkrechte Abstand (d/2) kleiner oder gleich 40 mm ist.
+</P>
+<P>
+50. Kollektorschale (1) gemäss Anspruch 45, dadurch gekennzeichnet, dass die ringförmig geschlossene Spiegelfläche eine Rotationsfläche um eine Rotationsachse (RA) mit einem Anfangsund einem Endpunkt ist und die Kollektorschale eine Länge (I) in Richtung der Rotationsachse aufweist, wobei die Länge (I) von dem Anfangzu dem Endpunkt grösser oder gleich 120 mm ist.
+</P>
+<P>
+51. Kollektorschale (1 ) gemäss Anspruch 50, dadurch gekennzeichnet, dass die Rotationsfläche einen Durchmesser (d) am Endpunkt aufweist und der Durchmesser (d) kleiner oder gleich 750 mm ist.
+</P>
+<P>
+52. Kollektorschale (1) gemäss Anspruch 51 , dadurch gekennzeichnet, dass der Durchmesser (d) kleiner oder gleich 200 mm ist.
+</P>
+<P>
+53. Kollektorschale (1 ) gemäss einem der Ansprüche 50 bis 53, dadurch gekennzeichnet, dass der Durchmesser (d) grösser oder gleich 80 mm ist.
+</P>
+<P>
+54. Kollektorschale (1) nach einem der Ansprüche 45 bis 53, dadurch gekennzeichnet, dass die Kollektorschale (1) einen Grundkörper (4) und ein Schichtsystem
+</P>
+<P>
+(7) auf dem Grundkörper (4) aufweist, umfassend wenigstens die eine
+</P>
+<P>
+Spiegelfläche (6) ausbildende Reflexionsschicht (8).
+</P>
+<P>
+55. Kollektorschale (1) nach Anspruch 54, dadurch gekennzeichnet, dass der Grundkörper (4) aus galvanisiertem Nickel besteht.
+</P>
+<P>
+56. Kollektorschale (1) nach einem der Ansprüche 45 bis 55, dadurch gekennzeichnet, dass die Schichtdicke (D8) der Reflexionsschicht (8) aus Ruthenium im Bereich zwischen 10 nm bis 150 nm, vorzugsweise 10 nm bis 120 nm, besonders bevorzugt 15 nm bis 100 nm, ganz besonders bevorzugt zwischen 20 und 80 nm beträgt.
+</P>
+<P>
+57. Kollektorschale (1) nach einem der Ansprüche 54 bis 56 dadurch gekennzeichnet, dass das Schichtsystem (7) wenigstens eine zwischen der Reflexionsschicht (8) und dem Grundkörper (4) angeordnete metallische Zwischenschicht (20) umfasst.
+</P>
+<P>
+58. Kollektorschale (1) nach Anspruch 57, dadurch gekennzeichnet, dass die Zwischenschicht (20) von Nickel gebildet wird.
+</P>
+<P>
+59. Kollektorschale (1) nach Anspruch 58, dadurch gekennzeichnet, dass die Schichtdicke von Nickel kleiner oder gleich 30 nm ist.
+</P>
+<P>
+60. Kollektorschale (1) nach einem der Ansprüche 50 bis 59, dadurch gekennzeichnet, dass das Schichtsystem (7) als Mehrschichtsystem ausgeführt ist, umfassend jeweils die Komponenten Ruthenium und Chrom, welche wechselweise in Schichten angeordnet sind.
+</P>
+<P>
+61. Kollektorschale (1 ) nach Anspruch 60, gekennzeichnet durch die folgenden Merkmale: mit einer eine erste, die Spiegelfläche (6) bildenden Rutheniumschicht (16) und einer zweiten Rutheniumschicht (17); mit einer ersten Haftschicht (18) zwischen erster und zweiter Rutheniumschicht (17); mit einer zweiten Haftschicht (19) zwischen zweiter Rutheniumschicht (17) und Grundkörper (4) oder Zwischenschicht (20).
+</P>
+<P>
+62. Kollektorschale (1) nach Anspruch 60, dadurch gekennzeichnet, dass die Haftschichten (18, 19) eine Schichtdicke im Bereich zwischen 1 und einschliesslich 5 nm, vorzugsweise 1 bis 3 nm aufweisen.
+</P>
+<P>
+63. Kollektorschale (1) nach einem der Ansprüche 61 oder 62, dadurch gekennzeichnet, dass die Schichtdicke (D16) der ersten Rutheniumschicht (16) im Bereich zwischen 5 bis 20 nm, vorzugsweise 8 bis 12 nm beträgt.
+</P>
+<P>
+64. Kollektorschale (1) nach einem der Ansprüche 61 bis 62, dadurch gekennzeichnet, dass die zweite Rutheniumschicht (17) durch eine Schichtdicke (D17) charakterisiert ist, die zwischen 20 bis 80 nm, vorzugsweise zwischen 30 und 60 nm beträgt.
+</P>
+<P>
+65. Kollektorschale (1) nach einem der Ansprüche 57 bis 64, dadurch gekennzeichnet, dass die zwischen den beiden Rutheniumschichten (16, 17) ausgebildeten Haftschichten (18, 19) aus Chrom sind.
+</P>
+<P>
+66. Kollektorschale (1) nach einem der Ansprüche 45 bis 65, dadurch gekennzeichnet, dass die optische Fläche (6) eine Mikrorauhigkeit im Bereich von &amp;lt;2 nm RMS bei einer Wellenlänge A = 13 nm aufweist.
+</P>
+<P>
+67. Kollektorschale (1) nach einem der Ansprüche 50 bis 66, dadurch gekennzeichnet, dass die Rotationsfläche ein ringförmiges asphärisches Segment ist.
+</P>
+<P>
+68. Kollektorschale (1) nach Anspruch 67, dadurch gekennzeichnet, dass das ringförmige asphärische Segment ein ringförmiges Segment eines Paraboloides oder eines Ellipsoides oder eines Hyperboloides ist.
+</P>
+<P>
+69. Kollektorschale (1) nach einem der Ansprüche 50 bis 66, dadurch gekennzeichnet, dass die Rotationsfläche ein erstes ringförmiges Segment (9) mit einer ersten optischen Fläche (10) und ein zweites Segment (11) mit einer zweiten optischen Fläche (12) umfasst.
+</P>
+<P>
+70. Kollektor umfassend wenigstens eine Kollektorschale gemäss einem der Ansprüche 45 bis 69.
+</P>
+<P>
+71. Mikrolithographieprojektionsbelichtungsanlage, insbesondere für Nutzwellenlängen im EUV-Bereich von 7 bis 30 nm umfasssend wenigstens ein normal-incindence optisches Element gemäss einem der Ansprüche 37 bis 44.
+</P>
+<P>
+72. Mikrolithographieprojektionsbelichtungsanlage, insbesondere für Nutzwellenlängen im EUV-Bereich von 7 bis 30 nm umfasssend wenigstens ein optisches Element hergestellt nach einem Verfahren 1 bis 36.
+</P>
+</Claims>
+<Also_published_as>
+WO2008145364A2;WO2008145364A3;US2010182710A1;KR20100017443A;JP2010528480A
+</Also_published_as>
+</BiblioData>

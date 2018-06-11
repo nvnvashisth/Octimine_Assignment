@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ACTIVE DAMPING OF HIGH SPEED SCANNING PROBE MICROSCOPE COMPONENTS
+</Title>
+<PublicationNumber>
+EP1992004A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PROKSCH ROGER [US]
+</Name>
+<Name>
+PROKSCH, ROGER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASYLUM RES CORP [US]
+</Name>
+<Name>
+ASYLUM RESEARCH CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1992004
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070757443
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US62760
+</PriorityNumber>
+<PriorityDate>
+2007-02-23
+</PriorityDate>
+<PriorityNumber>
+US20060776385P
+</PriorityNumber>
+<PriorityDate>
+2006-02-23
+</PriorityDate>
+<PriorityNumber>
+US20070678018
+</PriorityNumber>
+<PriorityDate>
+2007-02-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+H01J37/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+F16F7/10A2
+</Class>
+<Class>
+G01Q10/06B
+</Class>
+<Class>
+G01Q70/04
+</Class>
+</NCL>
+<Abstract>
+A technique for actively damping internal vibrations in a scanning probe microscope is disclosed. The excitation of various mechanical movements, including resonances, in the mechanical assembly of an SPM can adversely effect its performance, especially for high speed applications. An actuator is used to compensate for the movements. The actuator may operate in only the z direction, or may operate in other directions. The actuator (s) may be located at positions of antinodes.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS
+</P>
+<P>
+1. A method, comprising: measuring forces on a support in a sensing system that relies on pressing against a sample that is supported by the support; and using an actuator to compensate said motion to thereby damp said motion.
+</P>
+<P>
+2. A method as in claim 1, wherein said sensing system includes components of an atomic force microscope.
+</P>
+<P>
+3. A method as in claim 1, wherein said sensing system includes a measuring cantilever.
+</P>
+<P>
+4. A method as in claim 1, further comprising using a controller to determine a compensation based on said measuring, and to use said compensation to produce an output to said actuator.
+</P>
+<P>
+5. A method as in claim 1, wherein said measuring and said using are carried out with separate structures.
+</P>
+<P>
+6. A method as in claim 1, wherein said measuring and said using are carried out with a single structure that produces an output signal based on motion thereof, and which can move based on an applied signal.
+</P>
+<P>
+7. A method as in claim 1, wherein said measuring comprises determining positions of specified movements by said support, and compensating movements at said positions of said positions .
+</P>
+<P>
+8. A method as in claim 7, wherein said positions of specified movements are anti-nodes.
+</P>
+<P>
+9. A method as in claim 1 wherein said using an actuator comprises using a first actuator oriented in a first direction relative to a direction of motion, and using a second actuator oriented orthogonal to said first actuator.
+</P>
+<P>
+10. A method as in claim 1, further comprising placing said sample on a removable holder, and wherein said measuring comprises measuring motion on the removable holder.
+</P>
+<P>
+11. A method as in claim 2 wherein said measuring comprises measuring in a constant contact type atomic force microscope .
+</P>
+<P>
+12. A method as in claim 2, wherein said measuring comprises measuring in a scanning tip atomic force microscope.
+</P>
+<P>
+13. A method as in claim 1, further comprising further compensating said actuator using a weight.
+</P>
+<P>
+14. A method as in claim 1, wherein said controller operates to determine no motion, and to take no action when no motion is detected.
+</P>
+<P>
+15. A method as in claim 1, wherein said forces are one of movement, position, velocity and/or acceleration.
+</P>
+<P>
+16. A method, comprising: receiving an input indicative of an amount of movement of a support in an atomic force microscope, where said support is one which holds a sample; determining whether said input represents no movement; taking no action if said input represents no movement; and producing a signal which compensates for the movement, when said input represents that movement is detected.
+</P>
+<P>
+17. A method as in claim 16, further comprising using said signal to drive an actuator to compensate for said movement .
+</P>
+<P>
+18. A method as in claim 17, wherein said actuator also produces said input.
+</P>
+<P>
+19. A method as in claim 17, wherein said input is produced by a sensor, separate from said actuator.
+</P>
+<P>
+20. A method as in claim 16, further comprising measuring to determine positions of specified movements by said support, and compensating movements at said positions of said positions.
+</P>
+<P>
+21. A method as in claim 20, wherein said positions of specified movements are anti-nodes.
+</P>
+<P>
+22. A method as in claim 17 wherein said using an actuator comprises using a first actuator oriented in a first direction relative to a direction of motion, and using a second actuator oriented orthogonal to said first actuator.
+</P>
+<P>
+23. A method as in claim 1, further comprising placing said sample on a removable holder, and wherein said measuring comprises measuring motion on the removable holder.
+</P>
+<P>
+24. A method as in claim 16 wherein said measuring comprises measuring in a constant contact type atomic force microscope .
+</P>
+<P>
+25. A method as in claim 16, wherein said measuring comprises measuring in a scanning tip atomic force microscope.
+</P>
+<P>
+26. A method as in claim 17, further comprising further compensating said actuator using a weight.
+</P>
+<P>
+27. An compensating system, comprising: a support for a sample which is to be measured by touching; a sensor, which measures motion of the support and produces an output indicative thereof; a controller, receiving said output from said sensor, and producing a signal based on said output; and an actuator, driven by said signal from said controller, in a way that damps said motion of the support based on said signal .
+</P>
+<P>
+28. A system as in claim 27, wherein said support sensor includes components of an atomic force microscope.
+</P>
+<P>
+29. A system as in claim 27, further comprising a measuring cantilever, which measures said sample.
+</P>
+<P>
+30. A system as in claim 27, further comprising using a controller to determine a compensation based on said measuring, and to use said compensation to produce an output to said actuator.
+</P>
+<P>
+31. A system as in claim 27, wherein said sensor and said actuator are separate structures.
+</P>
+<P>
+32. A system as in claim 27, wherein said sensor and said actuator are a single device that produces an output signal based on motion thereof, and which can move based on an applied signal.
+</P>
+<P>
+33. A system as in claim 32, wherein said single device is a piezo stack.
+</P>
+<P>
+34. A system as in claim 27, wherein said sensor determining positions of specified movements by said support, and said actuator compensates movements at said positions of said positions.
+</P>
+<P>
+35. A system as in claim 34, wherein said positions of specified movements are anti-nodes, and said actuator includes multiple actuator elements, one at each of said antinodes.
+</P>
+<P>
+36. A system as in claim 27 wherein said actuator comprises a first actuator part oriented in a first direction relative to a direction of motion, and a second actuator part oriented orthogonal to said first actuator part.
+</P>
+<P>
+37. A system as in claim 27, further comprising a removable holder that holds said sample, and wherein said sensor measures motion on the removable holder.
+</P>
+<P>
+38. A system as in claim 28 wherein said components are part of a constant contact type atomic force microscope.
+</P>
+<P>
+39. A system as in claim 28, wherein said components are part of a scanning tip atomic force microscope.
+</P>
+<P>
+40. A system as in claim 27, further comprising a mass element, coupled to said actuator.
+</P>
+<P>
+41. A method of operating an atomic force microscope, comprising: energizing a first microactuator to translate a sample with respect to a cantilever where the first microactuator is coupled to a support structure, said microactuator connected to transferring momentum to the support structure by said energizing; sensing the momentum transferred to the support structure by measuring a change in the support structure; energizing a second microactuator by an amount that damps motion of the support structure.
+</P>
+<P>
+42. The method according to claim 41, wherein the first and second microactuators are piezoelectric actuators.
+</P>
+</Claims>
+<Also_published_as>
+EP1992004A4;WO2007101133A2;WO2007101133A3;US2007214864A1;KR20090014339A;JP2009528516A
+</Also_published_as>
+</BiblioData>

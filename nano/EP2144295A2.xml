@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Spin injection device having a shared superconductor electrode
+</Title>
+<PublicationNumber>
+EP2144295A2
+</PublicationNumber>
+<Inventor>
+<Name>
+INOMATA KOUICHIRO [JP]
+</Name>
+<Name>
+MAEKAWA SADAMICHI [JP]
+</Name>
+<Name>
+TAKAHASHI SABURO [JP]
+</Name>
+<Name>
+INOMATA, KOUICHIRO
+</Name>
+<Name>
+MAEKAWA, SADAMICHI
+</Name>
+<Name>
+TAKAHASHI, SABURO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+JAPAN SCIENCE &amp; TECH CORP [JP]
+</Name>
+<Name>
+JAPAN SCIENCE AND TECHNOLOGY CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2144295
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090013548
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-11-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030774094
+</PriorityNumber>
+<PriorityDate>
+2003-11-20
+</PriorityDate>
+<PriorityNumber>
+JP20020349262
+</PriorityNumber>
+<PriorityDate>
+2002-11-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/06
+</Class>
+<Class>
+G01R33/09
+</Class>
+<Class>
+G11B5/39
+</Class>
+<Class>
+H01L21/8246
+</Class>
+<Class>
+H01L27/105
+</Class>
+<Class>
+H01L29/66
+</Class>
+<Class>
+H01L29/82
+</Class>
+<Class>
+H01L39/08
+</Class>
+<Class>
+H01L39/22
+</Class>
+<Class>
+H01L43/08
+</Class>
+<Class>
+H01L43/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/06
+</Class>
+<Class>
+G11B5/39
+</Class>
+<Class>
+G11B5/39C
+</Class>
+<Class>
+G11B5/39C1C
+</Class>
+<Class>
+H01L29/66S
+</Class>
+<Class>
+H01L39/22D
+</Class>
+<Class>
+H01L43/08
+</Class>
+</NCL>
+<Abstract>
+A spin injection device (1) characterized in that it comprises a first and a second tunnel junctions (2, 3) which have a common electrode composed of a superconductor (4&apos;) and each of which has a counterelectrode composed of a first or a second ferromagnet (6, 7), wherein: said first and second tunnel junctions (2, 3) are disposed spaced apart from each other by a distance that is shorter than a spin diffusion length of said superconductor (4&apos;);  said first tunnel junction (2) is a tunnel junction for spin injection therein from said first ferromagnetic metal (6) into said superconductor (4&apos;);  and said second tunnel junction (3) is a tunnel junction for detection between said second ferromagnetic metal (7) and said superconductor (4&apos;) therein of a voltage accompanying the spin injection.
+</Abstract>
+<Claims>
+<P>
+1. A spin injection device (1, 20, 30) characterized in that it comprises a first and a second tunnel junctions (2, 3; 21, 22; 21, 3) which have a common electrode composed of a superconductor (4&apos;) and each of which has a counterelectrode composed of a first or a second ferromagnet (6, 7; 23, 25), wherein:
+</P>
+<P>
+said first and second tunnel junctions (2, 3; 21, 22; 21, 3) are disposed spaced apart from each other by a distance that is shorter than a spin diffusion length of said superconductor (4&apos;);
+</P>
+<P>
+said first tunnel junction (2, 21) is a tunnel junction for spin injection therein from said first ferromagnetic metal (6, 23) into said superconductor (4&apos;); and
+</P>
+<P>
+said second tunnel junction (3, 22) is a tunnel junction for detection between said second ferromagnetic metal (7, 25) and said superconductor (4&apos;) therein of a voltage accompanying the spin injection.
+</P>
+<P>
+2. A spin injection device (1, 20, 30) as set forth in claim 1, characterized in that said first tunnel junction (2, 21) is a tunnel junction having a first insulator (5) interposed between said superconductor (4&apos;) and said first ferromagnet (6, 23), and said second tunnel junction (3, 22) is a tunnel junction having a second insulator (5) interposed between said superconductor (4&apos;) and said second ferromagnet (7).
+</P>
+<P>
+3. A spin injection device (1, 20, 30) as set forth in claim 1, characterized in that at least one of said first and second tunnel junctions (2, 3; 21, 22; 21, 3) is of a tunnel junction structure in which an insulator (5), a first ferromagnet (23), a nonmegnetic metal (24) and a third ferromagnet (25) are successively layered on said superconductor (4&apos;) and that said first and third ferromagnets (23, 25) at both sides of said nonmagnetic metal (24) are magnetically coupled together antiparallel to each other via said nonmagnetic metal (5).
+</P>
+<P>
+4. A spin injection device (1, 20, 30) as set forth in claim 3, characterized in that said first and third ferromagnets (23, 25) magnetically coupled together antiparallel to each other via said nonmagnetic metal (24) are each in the form of a film in which aspect ratio is 1.
+</P>
+<P>
+5. A spin injection device (1, 20, 30) as set forth in claim 1, characterized in that in said second tunnel junction (3, 22) for voltage detection, the layer of said ferromagnet (7, 25) has an antiferromagnet disposed thereon for fixing spins of said ferromagnet (7, 25).
+</P>
+<P>
+6. A spin injection device (1, 20, 30) as set forth in any one of claims 1 to 5, characterized in that said spin injection device (1, 20, 30) is formed on a substrate.
+</P>
+<P>
+7. A magnetic apparatus, characterized in that it has a spin injection device (1, 20, 30) as set forth in any one of claims 1 to 5.
+</P>
+</Claims>
+<Also_published_as>
+EP2144295A3;EP1571712A1;EP1571712A4;US2006022220A1;US7755929B2;KR20050083957A;KR100678758B1;JP2004186274A;WO2004051754A1
+</Also_published_as>
+</BiblioData>

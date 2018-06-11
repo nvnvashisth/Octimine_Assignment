@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method for cost- efficient manufacturing diamond tips for ultra- high resolution electrical measurements and devices obtained thereof
+</Title>
+<PublicationNumber>
+EP2133883A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HANTSCHEL THOMAS [BE]
+</Name>
+<Name>
+VANDERVORST WILFRIED [BE]
+</Name>
+<Name>
+ARSTILA KAI [BE]
+</Name>
+<Name>
+HANTSCHEL, THOMAS
+</Name>
+<Name>
+VANDERVORST, WILFRIED
+</Name>
+<Name>
+ARSTILA, KAI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IMEC [BE]
+</Name>
+<Name>
+IMEC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2133883
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090075263
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-06-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20080060781P
+</PriorityNumber>
+<PriorityDate>
+2008-06-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q60/24
+</Class>
+<Class>
+G01Q60/38
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q60/30
+</Class>
+<Class>
+G01Q60/40
+</Class>
+<Class>
+G01Q70/10
+</Class>
+<Class>
+G01Q70/14
+</Class>
+<Class>
+G01Q70/16
+</Class>
+</NCL>
+<Abstract>
+An Atomic Force Microscopy probe configuration (6) is disclosed, comprising a cantilever (8), and a planar tip (19) attached to the cantilever (8), which only partially overlaps the planar tip (19), and extending along a longitudinal direction (x) thereof. The planar tip (19) is of a two-dimensional geometry having at least one corner (20) remote from the cantilever (8), which corner (20) during use contacts a surface (18) to be scanned.
+</Abstract>
+<Claims>
+<P>
+1. An Atomic Force Microscopy probe configuration (6), comprising;
+</P>
+<P>
+- a cantilever (8), and
+</P>
+<P>
+- a planar tip (19) attached at least to a sidewall (13) of the cantilever (8), and extending along a longitudinal direction (x) thereof.
+</P>
+<P>
+2. The probe configuration (6) according to claim 1,
+</P>
+<P>
+wherein:
+</P>
+<P>
+the planar tip (19) is of a two-dimensional geometry having at least one corner (20) remote from the cantilever (8), which corner (20) during use contacts a surface (18) to be scanned.
+</P>
+<P>
+3. The probe configuration (6) according to claim 2,
+</P>
+<P>
+wherein:
+</P>
+<P>
+the planar tip (19) is triangular shaped.
+</P>
+<P>
+4. The probe configuration (6) according to any of the foregoing claims, wherein:
+</P>
+<P>
+the planar tip (19) is formed of diamond (17).
+</P>
+<P>
+5. The probe configuration (6) according to any of the claims 1 to 3, wherein:
+</P>
+<P>
+at least the remote corner (20) of the planar tip (19) is covered with a diamond layer (16).
+</P>
+<P>
+6. The probe configuration (6) according to claim 5,
+</P>
+<P>
+wherein:
+</P>
+<P>
+the planar tip (19) and the cantilever (8) are formed of the same material.
+</P>
+<P>
+7. The probe configuration (6) according to any of the claims 4, 5 or 6, wherein:
+</P>
+<P>
+diamond nano-crystallites (21) protrude from the diamond surface (24).
+</P>
+<P>
+8. The probe configuration (6) according to any of claims 4,5,6 or 7, wherein:
+</P>
+<P>
+the diamond layer is boron-doped.
+</P>
+<P>
+9. The probe configuration (6) according to any of the foregoing claims, wherein the cantilever (8) further comprises;
+</P>
+<P>
+- a mirror (25) on a major surface (12) thereof,
+</P>
+<P>
+- the mirror (25) having a reflecting surface (29) perpendicular to this major surface (12) and perpendicular to the longitudinal direction (x) of the cantilever (8).
+</P>
+<P>
+10. A method for forming an Atomic Force Microscopy probe configuration (6), comprising a cantilever (8) and a planar tip (19) attached to a sidewall (13) of the cantilever (8) and extending along a longitudinal direction (x) thereof, the method comprising:
+</P>
+<P>
+- providing a flat substrate (14),
+</P>
+<P>
+- forming a planar diamond layer (16) on this flat substrate (14),
+</P>
+<P>
+- forming the planar tip (19) by patterning (17) this planar diamond layer (16) in a two-dimensional geometry having at least one corner (20),
+</P>
+<P>
+- releasing the planar tip (19) from the flat substrate (14), and
+</P>
+<P>
+- attaching the released planar tip (19) to a sidewall (13) of the cantilever (8), such that the at least one corner (20) being remote from the cantilever (8).
+</P>
+<P>
+11. The method according to claim 10, further comprising
+</P>
+<P>
+- forming on the flat substrate (14) a layer of a material which can be etched at least selectively to diamond (17), and
+</P>
+<P>
+- wherein releasing the planar tip comprises underetching the patterned diamond layer (17) by etching this selectively removable layer.
+</P>
+<P>
+12. The method according to any of the claims 10 or 11,
+</P>
+<P>
+wherein;
+</P>
+<P>
+forming the planar diamond layer (16) comprises:
+</P>
+<P>
+- forming on the flat substrate (14) a pattern of nanometer-sized diamond particles,
+</P>
+<P>
+- growing a diamond layer (16) using these diamond particles as seeds, and wherein;
+</P>
+<P>
+forming the planar tip (19) comprises
+</P>
+<P>
+- patterning the diamond layer (16) such that the at least one corner (20) is located at the location of one diamond particle.
+</P>
+<P>
+13. The method according to any of the claims 10, 11 or 12, further comprising the step of:
+</P>
+<P>
+- forming a mirror (25) on a major surface (12) of the cantilever (8),
+</P>
+<P>
+- the mirror (25) having a reflecting surface (29) perpendicular to this major surface (12) and perpendicular to the longitudinal direction of the cantilever (8).
+</P>
+</Claims>
+<Also_published_as>
+EP2133883A3;US2009313730A1;JP2009300440A
+</Also_published_as>
+</BiblioData>

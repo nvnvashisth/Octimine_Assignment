@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PEGYLATION BY THE DOCK AND LOCK (DNL) TECHNIQUE
+</Title>
+<PublicationNumber>
+EP2197468A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MCBRIDE WILLIAM [US]
+</Name>
+<Name>
+CHANG CHIEN-HSING [US]
+</Name>
+<Name>
+ROSSI EDMUND [US]
+</Name>
+<Name>
+GOLDENBERG DAVID [US]
+</Name>
+<Name>
+MCBRIDE, WILLIAM
+</Name>
+<Name>
+CHANG, CHIEN-HSING
+</Name>
+<Name>
+ROSSI, EDMUND
+</Name>
+<Name>
+GOLDENBERG, DAVID
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBC PHARMACEUTICALS INC [US]
+</Name>
+<Name>
+IBC PHARMACEUTICALS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2197468
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080842661
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-10-24
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US81085
+</PriorityNumber>
+<PriorityDate>
+2008-10-24
+</PriorityDate>
+<PriorityNumber>
+US20070925408
+</PriorityNumber>
+<PriorityDate>
+2007-10-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K38/16
+</Class>
+<Class>
+A61K38/18
+</Class>
+<Class>
+A61K38/19
+</Class>
+<Class>
+A61K38/20
+</Class>
+<Class>
+A61K38/21
+</Class>
+<Class>
+A61K47/48
+</Class>
+<Class>
+A61K51/08
+</Class>
+<Class>
+A61K51/10
+</Class>
+<Class>
+C07K14/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K38/18
+</Class>
+<Class>
+A61K38/18B
+</Class>
+<Class>
+A61K38/19B
+</Class>
+<Class>
+A61K38/20
+</Class>
+<Class>
+A61K38/21
+</Class>
+<Class>
+A61K38/21A
+</Class>
+<Class>
+A61K47/48K6P
+</Class>
+<Class>
+A61K47/48R4
+</Class>
+<Class>
+A61K47/48T4B30A
+</Class>
+<Class>
+A61K51/08Z
+</Class>
+<Class>
+A61K51/10B30A
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+</NCL>
+<Abstract>
+The present invention concerns methods and compositions for forming PEGylated complexes of defined stoichiometry and structure. In preferred embodiments, the PEGylated complex is formed using dock-and-lock technology, by attaching a target agent to a DDD sequence and attaching a PEG moiety to an AD sequence and allowing the DDD sequence to bind to the AD sequence in a 2:1 stoichiometry, to form PEGylated complexes with two target agents and one PEG moiety. In alternative embodiments, the target agent may be attached to the AD sequence and the PEG to the DDD sequence to form PEGylated complexes with two PEG moieties and one target agent. In more preferred embodiments, the target agent may comprise any peptide or protein of physiologic or therapeutic activity.;  The PEGylated complexes exhibit a significantly slower rate of clearance when injected into a subject and are of use for treatment of a wide variety of diseases.
+</Abstract>
+<Claims>
+<P>
+1. A PEGylated complex comprising:
+</P>
+<P>
+a) a target agent attached to a DDD (dimerization and docking domain) sequence; and
+</P>
+<P>
+b) a PEG moiety attached to an AD (anchor domain) sequence;
+</P>
+<P>
+wherein two DDD sequences bind to one AD sequence to form a PEGylated complex.
+</P>
+<P>
+2. The complex of claim 1, further comprising disulfide bonds between the DDD and AD sequences.
+</P>
+<P>
+3. The complex of claim 1, wherein the DDD sequence comprises the 44 N-terminal amino acids of PKA RII[alpha].
+</P>
+<P>
+4. The complex of claim 1, wherein the DDD sequence comprises SEQ ID NO:2.
+</P>
+<P>
+5. The complex of claim 1, wherein the PEG moiety is capped at one end with a methoxy group.
+</P>
+<P>
+6. The complex of claim 1, wherein the target agent is selected from the group consisting of an enzyme, a cytokine, a chemokine, a growth factor, a peptide, an aptamer, hemoglobin, an antibody and an antibody fragment.
+</P>
+<P>
+7. The complex of claim 6, wherein the target agent is selected from the group consisting of interferon-[alpha], interferon-[beta], interferon-[gamma], MIF, HMGB-1 (high mobility group box protein 1), TNF-[alpha], IL-1, IL-2, IL-3, IL-4, IL-5, IL-6, IL-7, IL-8, IL-9, IL-10, IL-11, IL-12, IL-13, IL-15, IL-16, IL-17, IL-18, IL-19, IL-23, IL-24, CCL19, CCL21, MCP-1, RANTES, MIP-1A, MIP-1B, ENA-78, MCP-1, IP-10, Gro-[beta], Eotaxin, G-CSF, GM-CSF, SCF, PDGF, MSF, Flt-3 ligand, erythropoietin, thrombopoietin, hGH, CNTF, leptin, oncostatin M, VEGF, EGF, FGF, PlGF, insulin, hGH, calcitonin, Factor VIII, IGF, somatostatin, tissue plasminogen activator, and LIF.
+</P>
+<P>
+8. The complex of claim 1, wherein the PEG moiety attached to an AD sequence comprises IMP350, IMP360, IMP362 or IMP413.
+</P>
+<P>
+9. The complex of claim 1, wherein the target agent is interferon (IFN)-[alpha]2b, G-CSF or erythropoietin.
+</P>
+<P>
+10. The complex of claim 1, wherein the target agent attached to a DDD sequence is a fusion protein.
+</P>
+<P>
+11. The complex of claim 1, wherein each complex comprises one PEG moiety and two target agents.
+</P>
+<P>
+12. The complex of claim 1, wherein the clearance rate of the PEGylated complex from serum is at least an order of magnitude slower than the clearance rate of the unPEGylated target agent.
+</P>
+<P>
+13. A PEGylated complex comprising:
+</P>
+<P>
+a) a target agent attached to an AD sequence; and
+</P>
+<P>
+b) a PEG moiety attached to a DDD sequence;
+</P>
+<P>
+wherein two DDD sequences bind to one AD sequence to form a PEGylated complex.
+</P>
+<P>
+14. The complex of claim 13, wherein each complex comprises two PEG moieties and one target agent.
+</P>
+<P>
+15. The complex of claim 13, wherein the clearance rate of the PEGylated complex from serum is at least an order of magnitude slower than the clearance rate of the unPEGylated target agent.
+</P>
+<P>
+16. A method of PEGylating a target agent comprising:
+</P>
+<P>
+a) attaching a target agent to a DDD sequence;
+</P>
+<P>
+b) attaching a PEG moiety to an AD sequence; and
+</P>
+<P>
+c) allowing the DDD sequence to bind to the AD sequence to form a PEGylated complex comprising two target agent-DDD sequences and one PEG-AD sequence.
+</P>
+<P>
+17. The method of claim 16, wherein the target agent is selected from the group consisting of an enzyme, a cytokine, a chemokine, a growth factor, a peptide, an aptamer, hemoglobin, an antibody and an antibody fragment.
+</P>
+<P>
+18. The method of claim 16, wherein the clearance rate of the PEGylated complex from serum is at least an order of magnitude slower than the clearance rate of the unPEGylated target agent.
+</P>
+<P>
+19. A method of PEGylating a target agent comprising:
+</P>
+<P>
+a) attaching a target agent to an AD sequence;
+</P>
+<P>
+b) attaching a PEG moiety to a DDD sequence; and
+</P>
+<P>
+c) allowing the DDD sequence to bind to the AD sequence to form a PEGylated complex comprising two target agent-DDD sequences and one PEG-AD sequence.
+</P>
+<P>
+20. A method of treating a disease comprising:
+</P>
+<P>
+a) obtaining a PEGylated complex according to claim 1, wherein the target agent is a therapeutic agent for the disease; and
+</P>
+<P>
+b) administering the PEGylated complex to a subject with the disease.
+</P>
+<P>
+21. The method of claim 20, wherein the target agent is selected from the group consisting of MIF, HMGB-1 (high mobility group box protein 1), TNF-[alpha], IL-1, IL-2, IL-3, IL-4, IL-5, IL-6, IL-7, IL-8, IL-9, IL-10, IL-11, IL-12, IL-13, IL-15, IL-16, IL-17, IL-18, IL-19, IL-23, IL-24, CCL19, CCL21, IL-8, MCP-1, RANTES, MIP-1A, MIP-1B, ENA-78, MCP-1, IP-10, Gro-[beta], Eotaxin, interferon-[alpha], -[beta], -[lambda], G-CSF, GM-CSF, SCF, PDGF, MSF, Flt-3 ligand, erythropoietin, thrombopoietin, hGH, CNTF, leptin, oncostatin M, VEGF, EGF, FGF, PlGF, insulin, hGH, calcitonin, Factor VIII, IGF, somatostatin, tissue plasminogen activator, and LIF.
+</P>
+<P>
+22. The method of claim 20, wherein the disease is cancer, hyperplasia, diabetes, autoimmune disease, diabetic retinopathy, macular degeneration, inflammatory bowel disease, Crohn&apos;s disease, ulcerative colitis, rheumatoid arthritis, sarcoidosis, asthma, edema, pulmonary hypertension, psoriasis, corneal graft rejection, neovascular glaucoma, Osler-Webber Syndrome, myocardial angiogenesis, plaque neovascularization, restenosis, neointima formation after vascular trauma, telangiectasia, hemophiliac joints, angiofibroma, fibrosis associated with chronic inflammation, lung fibrosis, deep venous thrombosis or wound granulation.
+</P>
+<P>
+23. The method of claim 20, wherein the autoimmune disease is acute idiopathic thrombocytopenic purpura, chronic idiopathic thrombocytopenic purpura, dermatomyositis, Sydenham&apos;s chorea, myasthenia gravis, systemic lupus erythematosus, lupus nephritis, rheumatic fever, polyglandular syndromes, bullous pemphigoid, juvenile diabetes mellitus, Henoch-Schonlein purpura, post-streptococcal nephritis, erythema nodosurn, Takayasu&apos;s arteritis, Addison&apos;s disease, rheumatoid arthritis, multiple sclerosis, sarcoidosis, ulcerative colitis, erythema multiforme, IgA nephropathy, polyarteritis nodosa, ankylosing spondylitis, Goodpasture&apos;s syndrome, thromboangitis obliterans, Sjogren&apos;s syndrome, primary biliary cirrhosis, Hashimoto&apos;s thyroiditis, thyrotoxicosis, scleroderma, chronic active hepatitis, polymyositis/dermatomyositis, polychondritis, pemphigus vulgaris, Wegener&apos;s granulomatosis, membranous nephropathy, amyotrophic lateral sclerosis, tabes dorsalis, giant cell arteritis/polymyalgia, pernicious anemia, rapidly progressive glomerulonephritis, psoriasis or fibrosing alveolitis.
+</P>
+<P>
+24. The method of claim 22, wherein the cancer is selected from the group consisting of acute lymphoblastic leukemia, acute myelogenous leukemia, biliary cancer, breast cancer, bone cancer, cervical cancer, chronic lymphocytic leukemia, chronic myelogenous leukemia, colorectal cancer, endometrial cancer, esophageal, gastric, head and neck cancer, Hodgkin&apos;s lymphoma, lung cancer, medullary thyroid cancer, non-Hodgkin&apos;s lymphoma, multiple myeloma, renal cancer, ovarian cancer, pancreatic cancer, glioma, melanoma, liver cancer, prostate cancer, and urinary bladder cancer.
+</P>
+<P>
+25. The method of claim 20, wherein the PEGylated complex has only one PEG moiety attached to each PEGylated complex.
+</P>
+</Claims>
+<Also_published_as>
+EP2197468A4;US2009060862A1;US7666400B2;US2011236352A1;WO2009055653A1;US2010261885A1;US7981398B2;MX2010004547A;KR20100085932A;JP2011500842A;CN101951939A;CA2696160A1;AU2008316741A1
+</Also_published_as>
+</BiblioData>

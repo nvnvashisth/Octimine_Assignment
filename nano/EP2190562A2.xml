@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ENRICHED NANOSTRUCTURE COMPOSITION
+</Title>
+<PublicationNumber>
+EP2190562A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GABBAI ERAN [IL]
+</Name>
+<Name>
+GABBAI, ERAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+DO COOP TECHNOLOGIES LTD [IL]
+</Name>
+<Name>
+DO-COOP TECHNOLOGIES LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2190562
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080789814
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-08-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008IL01142
+</PriorityNumber>
+<PriorityDate>
+2008-08-20
+</PriorityDate>
+<PriorityNumber>
+US20070196692P
+</PriorityNumber>
+<PriorityDate>
+2007-08-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01F3/04
+</Class>
+<Class>
+B82B1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C12Q1/68D4
+</Class>
+</NCL>
+<Abstract>
+A method of producing a nanostructure composition from a solid powder is disclosed. The method comprises: (a) heating the solid powder, thereby providing a heated solid powder;  (b) immersing the heated solid powder in a liquid in the presence of a gas medium, the liquid being colder than the heated powder;  and (c) irradiating the cold liquid, the heated solid powder and the gas medium by electromagnetic radiation selected such that nanostructures are formed from particles of the solid powder and a stable gas phase is formed from the gas medium.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method of producing a nanostructure composition from a solid powder, the method comprising:
+</P>
+<P>
+(a) heating the solid powder, thereby providing a heated solid powder;
+</P>
+<P>
+(b) immersing said heated solid powder in a liquid in the presence of a gas medium, said liquid being colder than said heated powder; and
+</P>
+<P>
+(c) irradiating said cold liquid, said heated solid powder and said gas medium by electromagnetic radiation selected such that nanostructures are formed from particles of the solid powder and a stable gas phase is formed from the gas medium.
+</P>
+<P>
+2. The method of claim 1, further comprising passing said heated solid powder through said gas medium prior to said immersion so as to establish said presence of said gas medium.
+</P>
+<P>
+3. The method of claim 1, further comprising introducing said gas medium into said liquid prior to said immersion so as to establish said presence of said gas medium.
+</P>
+<P>
+4. The method of claim 1, wherein said gas medium comprises a hydrophobic gas.
+</P>
+<P>
+5. The method of claim 1, wherein said gas medium is selected from the group consisting of carbon dioxide, oxygen, nitrogen, sulfur dioxide, hydrogen, fluorine, methane, hexane, hexafluoroethane and air.
+</P>
+<P>
+6. The method of claim 1, wherein the solid powder comprises micro- sized particles.
+</P>
+<P>
+7. The method of claim 6, wherein said micro-sized particles are crystalline particles. 8. The method of claim 7, wherein said nanostructures are crystalline nanostructures.
+</P>
+<P>
+9. The method of claim 1, wherein said liquid comprises water.
+</P>
+<P>
+10. The method of claim 1, wherein the solid powder is selected from the group consisting of a ferroelectric material and a ferromagnetic material.
+</P>
+<P>
+11. The method of claim 1 , wherein the solid powder is selected from the group consisting Of BaTiO3, WO3 and Ba2F9Oi2.
+</P>
+<P>
+12. The method of claim 1, wherein the solid powder comprises hydroxyapatite.
+</P>
+<P>
+13. The method of claim 1, wherein the solid powder comprises a material selected from the group consisting of a mineral, a ceramic material, glass, metal and synthetic polymer.
+</P>
+<P>
+14. The method of claim 1, wherein said electromagnetic radiation is in the radiofrequency range.
+</P>
+<P>
+15. The method of claim 14, wherein said electromagnetic radiation is continues wave electromagnetic radiation.
+</P>
+<P>
+16. The method of claim 14, wherein said electromagnetic radiation is modulated electromagnetic radiation.
+</P>
+<P>
+17. A nanostructure composition comprising a liquid, nanostructures and a stable or meta-stable gas phase, wherein at least one of said nanostructures has a core material of a nanometric size and an envelope of ordered fluid molecules being in a steady physical state with said core material. 18. The nanostructure composition of claim 17, being capable of releasing said gas in response to excitation energy applied thereto and collecting said gas when said excitation energy is terminated.
+</P>
+<P>
+19. The nanostructure composition of any of claims 17-18, being prepared in non-atmospheric conditions.
+</P>
+<P>
+20. The nanostructure composition of any of claims 17-19, being prepared in the presence of a gas jet.
+</P>
+<P>
+21. The nanostructure composition of any of claims 17-20, being prepared in the presence of gas at a concentration which is substantially different from natural atmospheric concentration of said gas.
+</P>
+<P>
+22. The nanostructure composition of any of claims 17-21, being prepared in the presence of gas at a temperature which is substantially below an ambient temperature.
+</P>
+<P>
+23. The nanostructure composition of any of claims 17-22, wherein said envelope of fluid molecules is distinguishable from said liquid.
+</P>
+<P>
+24. The nanostructure composition of any of claims 17-23, wherein said core material is crystalline.
+</P>
+<P>
+25. The nanostructure composition of any of claims 17-24, wherein said liquid comprises water.
+</P>
+<P>
+26. The nanostructure composition of any of claims 17-25, wherein said gas phase comprises a hydrophobic gas.
+</P>
+<P>
+27. The nanostructure composition of any of claims 17-26, wherein said gas phase is selected from the group consisting of carbon dioxide, oxygen, nitrogen, sulfur dioxide, hydrogen, fluorine, methane, hexane, hexafluoroethane and air. 28. The nanostructure composition of any of claims 17-27, wherein said gas phase resides in or attached to said envelope.
+</P>
+<P>
+29. The nanostructure composition of any of claims 17-28, wherein said gas phase resides in or attached to said core.
+</P>
+<P>
+30. The nanostructure composition of any of claims 17-27, wherein said gas phase resides in liquid regions between said nanostructures.
+</P>
+<P>
+31. The nanostructure composition of any of claims 17-30, wherein when the nanostructure composition is first contacted with a surface and then washed by a predetermined wash protocol, an electrochemical signature of the composition is preserved on said surface.
+</P>
+<P>
+32. The nanostructure composition of any of claims 17-31, wherein the nanostructure composition is characterized by a zeta potential which is substantial larger than a zeta potential of said liquid per se.
+</P>
+<P>
+33. The nanostructure composition of any of claims 17-32, wherein said nanostructure has a specific gravity which is lower than or equal to a specific gravity of said liquid.
+</P>
+<P>
+34. The nanostructure composition of any of claims 17-33, wherein when the nanostructure composition is mixed with a dyed solution, spectral properties of said dyed solution are substantially changed.
+</P>
+<P>
+35. The nanostructure composition of any of claims 17-34, wherein the nanostructure composition is characterized by an enhanced ultrasonic velocity relative to water.
+</P>
+<P>
+36. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is capable of facilitating increment of bacterial colony expansion rate. 37. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is capable of facilitating increment of phage-bacteria or virus-cell interaction.
+</P>
+<P>
+38. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is capable of enhancing macromolecule binding to solid phase matrix.
+</P>
+<P>
+39. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is capable of at least partially de-folding DNA molecules.
+</P>
+<P>
+40. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is capable of stabilizing enzyme activity.
+</P>
+<P>
+41. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is capable of altering bacterial adherence to biomaterial.
+</P>
+<P>
+42. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is capable of improving affinity binding of nucleic acids to a resin and improving gel electrophoresis separation.
+</P>
+<P>
+43. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is capable of increasing a capacity of a column.
+</P>
+<P>
+44. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is characterized by an enhanced ability to dissolve or disperse a substance relative to water.
+</P>
+<P>
+45. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is characterized by an enhanced buffering capacity relative to water. 46. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is capable of improving efficiency of nucleic acid amplification process.
+</P>
+<P>
+47. A kit for polymerase chain reaction, comprising, in separate packaging:
+</P>
+<P>
+(a) a thermostable DNA polymerase; and
+</P>
+<P>
+(b) the nanostructure composition of any of claims 17-35.
+</P>
+<P>
+48. A method of amplifying a DNA sequence, the method comprising:
+</P>
+<P>
+(a) providing the nanostructure composition of any of claims 17-35; and
+</P>
+<P>
+(b) in the presence of said nanostructure composition, executing a plurality of polymerase chain reaction cycles on the DNA sequence, thereby amplifying the DNA sequence.
+</P>
+<P>
+49. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is capable of improving efficiency of real-time polymerase chain reaction.
+</P>
+<P>
+50. A kit for real-time polymerase chain reaction, comprising:
+</P>
+<P>
+(a) a thermostable DNA polymerase;
+</P>
+<P>
+(b) a double-stranded DNA detecting molecule; and
+</P>
+<P>
+(c) the nanostructure composition of any of claims 17-35.
+</P>
+<P>
+51. The nanostructure composition of any of claims 17-35, wherein the nanostructure composition is capable of allowing the manipulation of at least one macromolecule in the presence of a solid support.
+</P>
+<P>
+52. An antiseptic composition comprising at least one antiseptic agent and the nanostructure composition of any of claims 17-35.
+</P>
+<P>
+53. A method of disinfecting a body surface of an individual comprising providing to an individual in need thereof an antiseptic effective amount of a composition wherein said composition comprises the nanostructure composition of any of claims 17-35, thereby disinfecting a body surface of an individual.
+</P>
+<P>
+54. A method of sterilizing an object comprising contacting the object with a composition which comprises the nanostructure composition of any of claims 17-35, thereby sterilizing the object.
+</P>
+<P>
+55. A cryoprotective composition comprising the nanostructure composition of any of claims 17-35, and at least one cryoprotective agent.
+</P>
+<P>
+56. A method of cryopreserving cellular matter comprising
+</P>
+<P>
+(a) contacting the cellular matter with the nanostructure composition of any of claims 17-35; and
+</P>
+<P>
+(b) subjecting the cellular matter to a cryopreserving temperature, thereby cryopreserving the cellular matter.
+</P>
+<P>
+57. A cryopreservation container comprising the cryoprotective composition of claim 55.
+</P>
+<P>
+58. A pharmaceutical composition comprising:
+</P>
+<P>
+(a) at least one pharmaceutical agent as an active ingredient;
+</P>
+<P>
+(b) the nanostructure composition of any of claims 17-35, being formulated to enhance in vivo uptake of said at least one pharmaceutical agent.
+</P>
+<P>
+59. A method of enhancing in vivo uptake of a pharmaceutical agent into a cell comprising administering the pharmaceutical composition of claim 58 to an individual, thereby enhancing in vivo uptake of the pharmaceutical agent into the cell.
+</P>
+<P>
+60. A method of cell-fusion, the method comprising fusing cells in a medium comprising the nanostructure composition of any of claims 17-35, thereby fusing cells. 61. A method of culturing eukaryotic cells, the method comprising incubating the cells in a medium comprising the nanostructure composition of any of claims 17-35, thereby culturing eukaryotic cells.
+</P>
+<P>
+62. A cell culture medium comprising a eukaryotic cell culture medium and the nanostructure composition of any of claims 17-35.
+</P>
+<P>
+63. An article of manufacture comprising packaging material and a nanostructure composition identified for the culturing of eukaryotic cells being contained within said packaging material, said nanostructure composition comprising the nanostructure composition of any of claims 17-35.
+</P>
+<P>
+64. An article of manufacture comprising packaging material and a nanostructure composition identified for generating monoclonal antibodies being contained within said packaging material, said nanostructure composition comprising the nanostructure composition of any of claims 17-35.
+</P>
+<P>
+65. A method of generating a monoclonal antibody, the method comprising fusing an immortalizing cell with an antibody producing cell to obtain a hybridoma in a medium comprising the nanostructure composition of any of claims 17-35.
+</P>
+<P>
+66. A method of dissolving or dispersing cephalosporin comprising contacting the cephalosporin with the nanostructure composition of any of claims 17- 35 under conditions allowing dispersion or dissolving of the substance.
+</P>
+<P>
+67. A kit for detecting an analyte comprising:
+</P>
+<P>
+(a) a detectable agent; and
+</P>
+<P>
+(b) the nanostructure composition of any of claims 17-35.
+</P>
+<P>
+68. An article of manufacture comprising packaging material and a nanostructure composition identified for enhancing detection of a detectable moiety being contained within said packaging material, said composition comprising the nanostructure composition of any of claims 17-35. 69. Apparatus for recycling gas, comprising a nanostructure composition and an excitation device for exciting said nanostructure composition, said nanostructure composition being capable of releasing gas when said excitation device is active, and collecting said gas upon deactivation of said excitation device.
+</P>
+<P>
+70. Apparatus for attracting insects, comprising the apparatus of claim 69.
+</P>
+<P>
+71. Apparatus for enhancing plant growth comprising the apparatus of claim 69.
+</P>
+<P>
+72. A method of attracting insects, comprising activating the excitation device of the apparatus of claim 69, thereby attracting the insects.
+</P>
+<P>
+73. A method of enhancing plant growth, comprising activating the excitation device of the apparatus of claim 69 during daylight hours, thereby enhancing plant growth.
+</P>
+</Claims>
+<Also_published_as>
+WO2009024976A2;WO2009024976A3;US2011178182A1;KR20100063064A;JP2011501686A;CA2696698A1;AU2008290216A1
+</Also_published_as>
+</BiblioData>

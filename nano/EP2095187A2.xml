@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR PATTERNING A SURFACE
+</Title>
+<PublicationNumber>
+EP2095187A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MAYERS BRIAN T [US]
+</Name>
+<Name>
+CARBECK JEFF [US]
+</Name>
+<Name>
+SAADI WAJEEH [US]
+</Name>
+<Name>
+WHITESIDES GEORGE M [US]
+</Name>
+<Name>
+KUGLER RALF [US]
+</Name>
+<Name>
+KURSAWE MONIKA [DE]
+</Name>
+<Name>
+CANISIUS JOHANNES [GB]
+</Name>
+<Name>
+MAYERS, BRIAN T
+</Name>
+<Name>
+CARBECK, JEFF
+</Name>
+<Name>
+SAADI, WAJEEH
+</Name>
+<Name>
+WHITESIDES, GEORGE M
+</Name>
+<Name>
+KUGLER, RALF
+</Name>
+<Name>
+KURSAWE, MONIKA
+</Name>
+<Name>
+CANISIUS, JOHANNES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANO TERRA INC [US]
+</Name>
+<Name>
+MERCK PATENT GMBH [DE]
+</Name>
+<Name>
+MAYERS BRIAN T [US]
+</Name>
+<Name>
+CARBECK JEFF [US]
+</Name>
+<Name>
+SAADI WAJEEH [US]
+</Name>
+<Name>
+WHITESIDES GEORGE M [US]
+</Name>
+<Name>
+KUGLER RALF [DE]
+</Name>
+<Name>
+KURSAWE MONIKA [DE]
+</Name>
+<Name>
+CANISIUS JOHANNES [GB]
+</Name>
+<Name>
+NANO TERRA INC
+</Name>
+<Name>
+MERCK PATENT GMBH
+</Name>
+<Name>
+MAYERS, BRIAN T
+</Name>
+<Name>
+CARBECK, JEFF
+</Name>
+<Name>
+SAADI, WAJEEH
+</Name>
+<Name>
+WHITESIDES, GEORGE M
+</Name>
+<Name>
+KUGLER, RALF
+</Name>
+<Name>
+KURSAWE, MONIKA
+</Name>
+<Name>
+CANISIUS, JOHANNES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2095187
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070853240
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US24854
+</PriorityNumber>
+<PriorityDate>
+2007-12-05
+</PriorityDate>
+<PriorityNumber>
+US20060872802P
+</PriorityNumber>
+<PriorityDate>
+2006-12-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+The present invention is directed to methods for patterning surfaces using contact printing and pastes, pastes for use with the processes, and products formed therefrom.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method for forming a feature on a substrate, the method comprising:
+</P>
+<P>
+(a) providing a stamp having a surface including at least one indentation therein, the indentation being contiguous with and defining a pattern in the surface of the stamp;
+</P>
+<P>
+(b) applying a paste to the surface of the stamp to provide a coated stamp;
+</P>
+<P>
+(c) contacting the surface of the coated stamp with a substrate to adhere the paste to an area of the substrate; and
+</P>
+<P>
+(d) reacting the paste adhered to the area of the substrate to produce a feature on the substrate; wherein the pattern on the surface of the stamp defines a lateral dimension of the surface feature, and wherein the lateral dimension of the surface feature is about 40 nm to about 100 [mu]m.
+</P>
+<P>
+2. The method of claim 1, wherein the area of the surface onto which the paste is adhered is in contact with the surface of the stamp.
+</P>
+<P>
+3. The method of claim 1, wherein the area of the substrate onto which the paste is adhered is in contact with the at least one indentation in the surface of the stamp.
+</P>
+<P>
+4. The method of claim 1, further comprising: before reacting the paste, removing the stamp from the substrate.
+</P>
+<P>
+5. The method of claim 1, further comprising: after reacting the paste, removing the stamp from the substrate.
+</P>
+<P>
+6. The method of claim 1, further comprising pre-treating at least one of the stamp and the substrate with a process chosen from: cleaning, oxidizing, reducing, derivatizing, functionalizing, exposing to a reactive gas, exposing to a plasma, exposing to a thermal energy, exposing to an electromagnetic radiation, and combinations thereof.
+</P>
+<P>
+7. The method of claim 1, wherein the surface feature is a subtractive non-penetrating surface feature.
+</P>
+<P>
+8. A method for forming a feature on a substrate, the method comprising:
+</P>
+<P>
+(a) evenly applying a paste to a substrate to form a coated substrate;
+</P>
+<P>
+(b) providing a stamp having a surface including at least one indentation therein, the indentation being contiguous with and defining a pattern in the surface of the stamp;
+</P>
+<P>
+(c) contacting the surface of the stamp with an area of the coated substrate to produce a pattern of paste on the substrate defined by the pattern in the surface of the stamp; and
+</P>
+<P>
+(d) reacting the paste to produce a feature on the substrate; wherein the pattern in the surface of the stamp defines a lateral dimension of surface feature, and wherein the lateral dimension of the surface feature is about 40 nm to about 100 [mu]m.
+</P>
+<P>
+9. The method of claim 8, further comprising: before reacting the paste, removing the stamp from the substrate.
+</P>
+<P>
+10. The method of claim 8, further comprising: after reacting the paste, removing the stamp from the substrate.
+</P>
+<P>
+11. The method of claim 8, further comprising pre-treating at least one of the stamp and the substrate with a process chosen from: cleaning, oxidizing, reducing, derivatizing, functionalizing, exposing to a reactive gas, exposing to a plasma, exposing to a thermal energy, exposing to an electromagnetic radiation, and combinations thereof.
+</P>
+<P>
+12. The method of claim 8, wherein the surface feature is a subtractive non-penetrating surface feature.
+</P>
+<P>
+13. A method for forming a feature on a substrate, the method comprising:
+</P>
+<P>
+(a) providing an elastomeric stencil having a surface with an opening therein;
+</P>
+<P>
+(b) contacting the surface of the elastomeric stencil with a substrate, wherein the opening in the elastomeric stencil exposes an area of the substrate;
+</P>
+<P>
+(c) applying a paste to the exposed area of the substrate; and
+</P>
+<P>
+(d) reacting the paste applied to the exposed area of the substrate to produce a feature on the substrate; wherein the lateral dimension of the opening in the elastomeric stencil defines a lateral dimension of the surface feature produced by reacting the paste, and wherein the lateral dimension of the surface feature is about 40 nm to about 100 [mu]m.
+</P>
+<P>
+14. The method of claim 13, further comprising pre-treating at least one of the stamp and the substrate with a process chosen from: cleaning, oxidizing, reducing, derivatizing, functionalizing, exposing to a reactive gas, exposing to a plasma, exposing to a thermal energy, exposing to an electromagnetic radiation, and combinations thereof.
+</P>
+<P>
+15. The method of claim 13, further comprising: before reacting the paste, removing the elastomeric stencil from the substrate.
+</P>
+<P>
+16. The method of claim 13, further comprising: after reacting the paste, removing the elastomeric stencil from the substrate.
+</P>
+<P>
+17. The method of claim 13, wherein the contacting comprises placing at least one area of the surface of the elastomeric stencil in conformal contact with at least one area of the substrate.
+</P>
+<P>
+18. A method for forming a feature on a substrate, the method comprising:
+</P>
+<P>
+(a) providing an elastomeric stamp having a surface including at least one indentation therein, the indentation being contiguous with and defining a pattern in the surface of the elastomeric stamp;
+</P>
+<P>
+(b) applying an ink to the surface of the elastomeric stamp to form a coated elastomeric stamp;
+</P>
+<P>
+(c) contacting the surface of the coated elastomeric stamp with a substrate for an amount of time sufficient to transfer the ink from the surface of the elastomeric stamp to an area of a substrate in a pattern defined by the pattern in the surface of the elastomeric stamp;
+</P>
+<P>
+(c) removing the elastomeric stamp from the substrate;
+</P>
+<P>
+(d) applying a paste to an area of the substrate not coated by the pattern of ink; and
+</P>
+<P>
+(e) reacting the paste with the area of the substrate not coated by the pattern of ink to produce a feature on the substrate; wherein the pattern of the ink defines a lateral dimension of the surface feature, and wherein the lateral dimension of the surface feature is about 40 nm to about 100 [mu]m.
+</P>
+<P>
+19. The method of claim 18, wherein the contacting comprises placing at least one area of the surface of the elastomeric stamp in conformal contact with at least one area of the substrate.
+</P>
+<P>
+20. The method of claim 18, wherein the surface feature is a subtractive non-penetrating surface feature.
+</P>
+</Claims>
+<Also_published_as>
+WO2008070087A2;WO2008070087A3;US2008152835A1;TW200839432A;JP2010512028A;CN101755237A
+</Also_published_as>
+</BiblioData>

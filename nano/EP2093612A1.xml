@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A method of applying a pattern of metal, metal oxide and/or semiconductor material on a substrate
+</Title>
+<PublicationNumber>
+EP2093612A1
+</PublicationNumber>
+<Inventor>
+<Name>
+LUESSEM BJOERN [DE]
+</Name>
+<Name>
+KARIPIDOU ZOI [DE]
+</Name>
+<Name>
+WESSELS JURINA [DE]
+</Name>
+<Name>
+YASUDA AKIO [DE]
+</Name>
+<Name>
+LUESSEM, BJOERN
+</Name>
+<Name>
+KARIPIDOU, ZOI
+</Name>
+<Name>
+WESSELS, JURINA
+</Name>
+<Name>
+YASUDA, AKIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SONY CORP [JP]
+</Name>
+<Name>
+SONY CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2093612
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080003394
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20080003394
+</PriorityNumber>
+<PriorityDate>
+2008-02-25
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+The present application relates to a method of applying a pattern of metal, metal oxide and/or semiconductor material on a substrate, to a pattern created by such method and to uses of such pattern. Furthermore, the present invention relates to an assembly of layers that can be used for printing.
+</Abstract>
+<Claims>
+<P>
+1. A method of applying a pattern of metal, metal oxide and/or semiconductor material on a substrate, comprising the steps:
+</P>
+<P>
+a) providing a first substrate having a surface,
+</P>
+<P>
+b) coating said surface with a layer of water soluble material,
+</P>
+<P>
+c) creating a pattern of metal, metal oxide and/or semiconductor material on said layer of water soluble material,
+</P>
+<P>
+d) covering said pattern of metal, metal oxide and/or semiconductor material and said layer of water soluble material by a layer of polymeric material,
+</P>
+<P>
+e) covering said layer of polymeric material by a support layer,
+</P>
+<P>
+f) immersing said first substrate and the various layers on it, resulting from steps b) - e), in a bulk of water or in a bulk of aqueous solution until said layer of water soluble material is dissolved, such that an assembly consisting of said support layer, said layer of polymeric material and said pattern of metal, metal oxide and/or semiconductor material is detached from said first substrate,
+</P>
+<P>
+g) bringing said pattern of metal, metal oxide and/or semiconductor material of said assembly in conformal contact with a second substrate, and optionally leaving it in contact for a defined period of time with said second substrate, said time being in the range of from 10 s to 48 h, thereby applying said pattern of metal, metal oxide and/or semiconductor material with the layer of polymeric material on it onto said second substrate.
+</P>
+<P>
+2. The method according to claim 1, further comprising the step
+</P>
+<P>
+h) removing said support layer from said layer of polymeric material.
+</P>
+<P>
+3. The method according to claim 2, further comprising the step:
+</P>
+<P>
+i) removing said layer of polymeric material.
+</P>
+<P>
+4. The method according to any of the foregoing claims, wherein said polymeric material is selected from the group comprising polyesters of carboxylic acids, polyanhydrides of carboxylic acids, polycarbonates and mixtures of any of the foregoing.
+</P>
+<P>
+5. The method according to any of the foregoing claims, wherein said polymeric material is selected from the group comprising polymethylmethacrylate (PMMA), polyethylene terephthalate, cellulose acetate and poly(oxycarbonyloxo-1,4-phenylene-isopropylidene-1,4-phenylene)(polycarbonate).
+</P>
+<P>
+6. The method according to any of the foregoing claims wherein said polymeric material is polymethylmethacrylate (PMMA).
+</P>
+<P>
+7. The method according to any of the foregoing claims, wherein said water soluble material is selected from the group comprising polyacrylic acid, polyvinyl alcohol and polyacrylamide.
+</P>
+<P>
+8. The method according to any of the foregoing claims, wherein step c) is performed by optical lithography, nano-imprint lithography, UV nano-imprint lithography, e-beam lithography, or soft lithography.
+</P>
+<P>
+9. The method according to claim 8, wherein step c) is performed by optical lithography.
+</P>
+<P>
+10. The method according to any of claims 8-9, wherein step c) is performed by the following sequence of substeps:
+</P>
+<P>
+ca) applying a layer of metal, metal oxide and/or semiconductor material on said layer of a water soluble material,
+</P>
+<P>
+cb) creating a resist pattern on said layer of metal, metal oxide and/or semiconductor material, cc) removing said layer of metal, metal oxide and/or semiconductor material in positions which are not covered by said resist pattern, by means of an etching technique, and, optionally,
+</P>
+<P>
+cd) removing said resist pattern to leave behind a pattern of metal, metal oxide and/or semiconductor material on said layer of water soluble material.
+</P>
+<P>
+11. The method according to any of the foregoing claims, wherein step f) is performed by placing said first substrate and the various layers on it, resulting from steps b) - e), in said bulk of water or said bulk of aqueous solution and soaking it for a period of from 1 s to 3h, preferably from 1 min to 30 min, more preferably from 5 min to 25 min, preferably at a temperature in the range of from 10[deg.]C to 90[deg.]C.
+</P>
+<P>
+12. The method according to any of the foregoing claims, wherein said support layer is made of a resist material, preferably selected from photoresists, such as epoxy based photoresists.
+</P>
+<P>
+13. The method according to any of claims 11-12, wherein step g) is performed by placing said second substrate in said bulk of water or said bulk of aqueous solution and bringing said pattern of metal, metal oxide and/or semiconductor material in conformal contact with said second substrate in said bulk of water or said bulk of aqueous solution, and optionally performing step h) by etching, preferably plasma etching
+</P>
+<P>
+14. The method according to any of claims 12-13, wherein said support layer has a thickness of from 100nm - 10 [micro]m, preferably from 1 [micro]m - 2 [micro]m.
+</P>
+<P>
+15. The method according to any of claims 12-14, wherein said second substrate has a curved or bent surface or a surface with an edge and is covered with a structured bottom electrode and a layer of organic material, onto which surface said pattern of metal, metal oxide and/or semiconductor material is to be applied.
+</P>
+<P>
+16. The method according to any of claims 1-11, wherein said support layer is made of a polymeric material selected from polydimethyl siloxane (PDMS), polyolefinic plastic (POP) and ionomeric polymers, such as surlyn&amp;lt;(R)&amp;gt;.
+</P>
+<P>
+17. The method according to claim 16, wherein step g) is performed by removing said assembly resulting from step f) out of said bulk of water or said bulk of aqueous solution and bringing said pattern of metal, metal oxide and/or semiconductor material in conformal contact with said second substrate.
+</P>
+<P>
+18. The method according to claim 17, wherein, in step g), said pattern of metal, metal oxide and/or semiconductor material is aligned with said second substrate before and/or while bringing it in conformal contact with said second substrate, wherein, preferably, said alignment is achieved using marker patterns or moiré patterns on said second substrate and said layer of polymeric material and said alignment is achieved using an alignment apparatus.
+</P>
+<P>
+19. The method according to any of claims 17-18, when dependent on any of claims 2-11, wherein step h) is performed by drying said pattern of metal, metal oxide and/or semiconductor material applied in step g) for a defined period of time, said time being in the range of from 10 s to 48 h, and thereafter peeling off said support layer from said layer of polymeric material.
+</P>
+<P>
+20. The method according to claim 19, when dependent on any of claims 3-11, wherein step i) is performed by etching, preferably oxygen plasma etching.
+</P>
+<P>
+21. The method according to any of claims 16-20, wherein said support layer has a thickness of 500[micro]m - 10 mm, preferably 1 mm - 5 mm, more preferably 1 mm - 3 mm.
+</P>
+<P>
+22. The method according to any of the foregoing claims, wherein said layer of water soluble material has a thickness in the range of from 10 nm to 1 [micro]m, preferably 100 nm to 500 nm, more preferably from 200 nm to 450 nm, and even more preferably 300 nm to 400 nm.
+</P>
+<P>
+23. The method according to any of the foregoing claims, wherein said layer of polymeric material has a thickness in the range of from 20 nm to 1 [micro]m, preferably 100 nm to 500 nm, more preferably 200 nm to 400 nm.
+</P>
+<P>
+24. The method according to any of claims 10-23, wherein said layer of metal, metal oxide and/or semiconductor material has a thickness in the range of from 1 nm to 500 nm, preferably 5 nm to 200 nm, more preferably 10 nm to 100 nm.
+</P>
+<P>
+25. The method according to any of the foregoing claims, wherein said metal is selected from the group comprising Au, Ti, Pt, Ag, Cr, Cu, Al, and said metal oxide is selected from the group comprising Al2O3, AgO, TiO2, SiO2, and said semiconductor material is selected from the group comprising Si, Ge, GaAs, GaN, InSb, InP, CdS, ZnSe.
+</P>
+<P>
+26. The method according to any of the foregoing claims, wherein said first substrate is made of a material selected from the group comprising single crystalline materials, polycrystalline materials, materials such as GaAs, Si, SiO2, mica, amorphous composites, such as glass and float glass, and perovskites.
+</P>
+<P>
+27. The method according to any of the foregoing claims, wherein said first substrate is made of silicon.
+</P>
+<P>
+28. The method according to any of the foregoing claims wherein said metal is Au or Al.
+</P>
+<P>
+29. The method according to any of the foregoing claims, wherein said second substrate is structured with bottom electrodes and has a molecular layer on a surface, and said pattern of metal, metal oxide and/or semiconductor material is applied on said surface in step g) of the method according to any of the foregoing claims.
+</P>
+<P>
+30. The method according to the claim 29, wherein said molecular layer is a layer of semi-conducting organic molecules, polymers or a self-assembled monolayer.
+</P>
+<P>
+31. A pattern of metal, metal oxide and/or semiconductor material on a substrate, prepared by the method according to any of the foregoing claims.
+</P>
+<P>
+32. The pattern according to claim 31, which is a pattern of electrodes.
+</P>
+<P>
+33. An assembly of layers comprising a pattern of metal, metal oxide and/or semiconductor material, a layer of polymeric material on it, and a support layer on said layer of polymeric material, said layers and said pattern of metal, metal oxide and/or semiconductor material being as defined in any of claims 1-32.
+</P>
+<P>
+34. Use of the pattern according to any of claims 31-32 in an electronic device comprising at least a bottom electrode, a molecular layer and a top electrode, preferably as electrodes.
+</P>
+<P>
+35. Use of the assembly according to claim 33 for printing a pattern of metal, metal oxide and/or semiconductor material on a surface.
+</P>
+<P>
+36. Use according to claim 35, in a roll-to-roll-printing process.
+</P>
+</Claims>
+<Also_published_as>
+EP2093612B1;US2009214838A1;US8177991B2;CN101521160A;AT545064T
+</Also_published_as>
+</BiblioData>

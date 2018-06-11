@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SOLVENT-ASSISTED LAYER FORMATION FOR IMPRINT LITHOGRAPHY
+</Title>
+<PublicationNumber>
+EP2162795A1
+</PublicationNumber>
+<Inventor>
+<Name>
+LIU WEIJUN [US]
+</Name>
+<Name>
+XU FRANK Y [US]
+</Name>
+<Name>
+FLECTHER EDWARD B [US]
+</Name>
+<Name>
+LIU, WEIJUN
+</Name>
+<Name>
+XU, FRANK, Y
+</Name>
+<Name>
+FLECTHER, EDWARD B
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MOLECULAR IMPRINTS INC [US]
+</Name>
+<Name>
+MOLECULAR IMPRINTS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2162795
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080779665
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US07525
+</PriorityNumber>
+<PriorityDate>
+2008-06-17
+</PriorityDate>
+<PriorityNumber>
+US20070944586P
+</PriorityNumber>
+<PriorityDate>
+2007-06-18
+</PriorityDate>
+<PriorityNumber>
+US20080139911
+</PriorityNumber>
+<PriorityDate>
+2008-06-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+A solid layer is formed by applying a multiplicity of discrete portions of a fluid composition onto a surface of an imprint lithography substrate, and allowing the discrete portions of the composition to spontaneously spread on the surface of the substrate to form a substantially continuous layer. The composition includes a solvent and a solid or a solvent and a polymerizable material. The composition can be a solution or a dispersion. At least some of the solvent is evaporated from the composition, and a solid layer is formed (e.g., polymerized or dried) on the substrate. The solid layer is substantially free of interstitial voids.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An imprint lithography method, comprising:
+</P>
+<P>
+applying a multiplicity of discrete portions of a fluid composition onto a surface of an imprint lithography substrate, wherein the composition comprises a:
+</P>
+<P>
+a solvent; and
+</P>
+<P>
+a polymerizable material;
+</P>
+<P>
+allowing the discrete portions of the composition to spontaneously spread on the surface of the substrate to form a substantially continuous layer;
+</P>
+<P>
+evaporating at least some of the solvent from the composition; and
+</P>
+<P>
+polymerizing the polymerizable material to form a solid layer of polymerized material on the substrate, wherein the solid layer is substantially free of interstitial voids.
+</P>
+<P>
+2. The method of claim 1, wherein applying comprises dispensing with an inkjet.
+</P>
+<P>
+3. The method of claim 1, wherein applying comprises spraying with an atomization spray head.
+</P>
+<P>
+4. The method of claim 2, wherein applying comprises spraying with an ultrasonic spray head.
+</P>
+<P>
+5. The method of claim 1, wherein the discrete portions each have a pre-determined volume, and the pre-determined volume differs for at least two of the discrete portions.
+</P>
+<P>
+6. The method of claim 1, wherein the multiplicity forms a pattern.
+</P>
+<P>
+7. The method of claim 1, further comprising applying discrete portions of the polymerizable material about a perimeter of the multiplicity of discrete portions to limit spreading of the fluid composition on the substrate.
+</P>
+<P>
+8. The method of claim 7, further comprising contacting the fluid composition from which at least some of the solvent has evaporated with an imprint lithography template and polymerizing the polymerizable material between the template and the substrate.
+</P>
+<P>
+9. The method of claim 1, wherein the substantially continuous layer is substantially uniform in thickness.
+</P>
+<P>
+10. The method of claim 1, wherein the surface of the substrate is non-planar.
+</P>
+<P>
+11. The method of claim 1, wherein evaporating at least some of the solvent comprises evaporating substantially all of the solvent.
+</P>
+<P>
+12. The method of claim 1, wherein evaporating at least some of the solvent comprises allowing the solvent to evaporate for a pre-determined length of time.
+</P>
+<P>
+13. The method of claim 12, wherein the pre-determined length of time is greater than about 1 second and less than about 200 seconds.
+</P>
+<P>
+14. The method of claim 1, further comprising applying one or more additional multiplicities of the fluid composition onto the surface of the substrate, wherein each multiplicity is spatially separated from another multiplicity.
+</P>
+<P>
+15. The method of claim 14, wherein the one or more additional multiplicities are applied before polymerizing the polymerizable material.
+</P>
+<P>
+16. The method of claim 1, wherein the polymerizable material comprises a component selected from the group consisting of acrylates, methacrylates, epoxies, isocyanurates, and thiolenes.
+</P>
+<P>
+17. The method of claim 1, wherein the solid layer is a resist layer.
+</P>
+<P>
+18. The method of claim 1, wherein the solid layer is a functional layer.
+</P>
+<P>
+19. An imprint lithography method, comprising:
+</P>
+<P>
+applying a multiplicity of discrete portions of a fluid composition onto a surface of an imprint lithography substrate, wherein the composition comprises:
+</P>
+<P>
+a solvent; and
+</P>
+<P>
+a solid;
+</P>
+<P>
+allowing the discrete portions of the composition to spontaneously spread on the surface of the substrate to form a substantially continuous layer;
+</P>
+<P>
+evaporating at least some of the solvent from the composition to form a layer of the solid on the substrate, wherein the solid layer is substantially free of interstitial voids.
+</P>
+<P>
+20. The method of claim 19, wherein the substrate is a patterned layer.
+</P>
+<P>
+21. The method of claim 19, wherein the layer comprises functional material.
+</P>
+<P>
+22. The method of claim 19, wherein the composition is a solution.
+</P>
+<P>
+23. The method of claim 19, wherein the composition is a dispersion.
+</P>
+<P>
+24. The method of claim 19, wherein the solid comprises a polymeric material.
+</P>
+<P>
+25. The method of claim 19, wherein the solid comprises fullerenes or carbon nanotubes.
+</P>
+<P>
+26. The method of claim 19, wherein the solid comprises metal-containing particles.
+</P>
+<P>
+27. A method of forming a polymerized layer on an imprint lithography substrate, comprising:
+</P>
+<P>
+selecting a fluid composition comprising:
+</P>
+<P>
+a polymerizable material; and
+</P>
+<P>
+a solvent having a structure comprising Rf-X-R, wherein:
+</P>
+<P>
+Rf comprises fluorine and carbon,
+</P>
+<P>
+R comprises an alkyl group, and
+</P>
+<P>
+X is a divalent atom;
+</P>
+<P>
+applying a multiplicity of discrete portions of the composition onto a surface of an imprint lithography substrate;
+</P>
+<P>
+allowing the discrete portions of the composition to spontaneously spread on the surface of the substrate to form a substantially continuous layer;
+</P>
+<P>
+evaporating at least some of the solvent from the composition; and
+</P>
+<P>
+polymerizing the polymerizable material to form a solid layer of polymerized material on the substrate, wherein the solid layer is substantially free of interstitial voids.
+</P>
+<P>
+28. The method of claim 27, wherein polymerizable material comprises a component selected from the group consisting of acrylates, methacrylates, epoxies, isocyanurates, and thiolenes.
+</P>
+<P>
+29. The method of claim 27, wherein a boiling point of the polymerizable material is greater than about 250[deg.] C.
+</P>
+<P>
+30. The method of claim 27, wherein the boiling point of the solvent is less than about 150[deg.] C.
+</P>
+<P>
+31. The method of claim 30, wherein the boiling point of the solvent is less than about 100[deg.] C.
+</P>
+<P>
+32. The method of claim 27, wherein the solvent is a fluorinated ether.
+</P>
+<P>
+33. The method of claim 27, wherein Rf is a fluorinated alkyl group.
+</P>
+<P>
+34. The method of claim 33, wherein Rf is a perfluorinated alkyl group.
+</P>
+<P>
+35. The method of claim 27, wherein R is an alkyl group.
+</P>
+<P>
+36. The method of claim 27, wherein X is oxygen.
+</P>
+<P>
+37. A composition for imprint lithography, the composition comprising:
+</P>
+<P>
+a polymerizable material; and
+</P>
+<P>
+a solvent having a structure comprising Rf-X-R, wherein:
+</P>
+<P>
+Rf comprises fluorine and carbon,
+</P>
+<P>
+R comprises an alkyl group, and
+</P>
+<P>
+X is a divalent atom.
+</P>
+</Claims>
+<Also_published_as>
+EP2162795A4;US2008308971A1;US8142702B2;WO2008156750A1;TW200906600A;KR20100049005A;JP2010530641A;CN101715567A
+</Also_published_as>
+</BiblioData>

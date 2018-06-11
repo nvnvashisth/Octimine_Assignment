@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+BISMUTH OXYFLUORIDE BASED NANOCOMPOSITES AS ELECTRODE MATERIALS
+</Title>
+<PublicationNumber>
+EP1984294A2
+</PublicationNumber>
+<Inventor>
+<Name>
+AMATUCCI GLENN G [US]
+</Name>
+<Name>
+BERVAS MATHIEU [FR]
+</Name>
+<Name>
+AMATUCCI, GLENN, G
+</Name>
+<Name>
+BERVAS, MATHIEU
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV RUTGERS [US]
+</Name>
+<Name>
+RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1984294
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060849720
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-02-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US05908
+</PriorityNumber>
+<PriorityDate>
+2006-02-17
+</PriorityDate>
+<PriorityNumber>
+US20060355430
+</PriorityNumber>
+<PriorityDate>
+2006-02-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B11/24
+</Class>
+<Class>
+C01G29/00
+</Class>
+<Class>
+H01M10/00
+</Class>
+<Class>
+H01M4/48
+</Class>
+<Class>
+H01M4/485
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B11/24
+</Class>
+<Class>
+C01G29/00
+</Class>
+<Class>
+C01G29/00D
+</Class>
+<Class>
+H01M4/485
+</Class>
+<Class>
+Y02E60/12B
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to bismuth oxyfluoride nanocomposites used as positive electrodes in primary and rechargeable electromechanical energy storage systems.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A composition comprising a nanocrystalline bismuth oxyfluoride compound.
+</P>
+<P>
+2. The composition according to claim 1, wherein the bismuth oxyfluoride compound comprises BiOxFz-2x, and wherein 0&amp;lt;x&amp;lt;1.5 and 3&amp;lt;=z&amp;lt;=5.
+</P>
+<P>
+3. The composition according to claim 1, wherein the bismuth oxyfluoride compound is BiOF.
+</P>
+<P>
+4. The composition according to claim 1, wherein the bismuth oxyfluoride compound is BiO0.5F2.
+</P>
+<P>
+5. The composition according to claim 1, wherein the bismuth oxyfluoride compound is comprised of Bi&amp;lt;5+&amp;gt; .
+</P>
+<P>
+6. The composition according to claim 2, wherein the bismuth oxyfluoride compound is comprised of Bi&amp;lt;5+&amp;gt; .
+</P>
+<P>
+7. The composition according to claim 1, wherein the bismuth oxyfluoride compound is comprised of Bi&amp;lt;3+&amp;gt; .
+</P>
+<P>
+8. The composition according to claim 1, wherein the bismuth oxyfluoride compound further comprises a Bi cation, and wherein a metal cation is in partial substitution of the Bi cation.
+</P>
+<P>
+9. The composition according to claim 8, wherein the metal cation is a metal element selected from the group consisting essentially of Fe, B, Co, Ni, Mn, V, Mo, Pb, Sb, Cu, Sn, Nb, Cr, Ag and Zn.
+</P>
+<P>
+10. The composition according to claim 8, wherein the metal cation is a metal element selected from the group consisting of Cu and Mo.
+</P>
+<P>
+11. The composition according to claim 1, wherein the bismuth oxyfluoride compound comprises nanocrystallites that are less than about 100 nm in diameter.
+</P>
+<P>
+12. A composition comprising a nanocrystalline bismuth oxyfluoride compound nanocomposite.
+</P>
+<P>
+13. The composition according to claim 12, wherein the nanocrystalline bismuth oxyfluoride compound nanocomposite comprises BiOxFz-2x, wherein 0&amp;lt;x&amp;lt;1.5 and 3&amp;lt;=z&amp;lt;=5.
+</P>
+<P>
+14. The composition according to claim 12, wherein the bismuth oxyfluoride compound is BiOF.
+</P>
+<P>
+15. The composition according to claim 12, wherein the bismuth oxyfluoride compound is BiO0.5F2.
+</P>
+<P>
+16. The composition according to claim 12, wherein the bismuth oxyfluoride compound further comprises a Bi cation, and wherein a metal cation is in partial substitution of the Bi cation.
+</P>
+<P>
+17. The composition according to claim 18, wherein the metal cation is a metal element selected from the group consisting essentially of Fe, B, Co, Ni, Mn, V, Mo, Pb, Sb, Cu, Sn, Nb, Cr, Ag and Zn.
+</P>
+<P>
+18. The composition according to claim 17, wherein the metal cation is a metal element selected from the group consisting of Cu and Mo.
+</P>
+<P>
+19. The composition according to claim 12, wherein the nanocrystalline bismuth oxyfluoride compound of the nanocomposite is comprised of Bi&amp;lt;5+&amp;gt; .
+</P>
+<P>
+20. The composition according to claim 13, wherein the nanocrystalline bismuth oxyfluoride compound of the nanocomposite is comprised of Bi&amp;lt;5+&amp;gt; .
+</P>
+<P>
+21. The composition according to claim 12, wherein the nanocrystalline bismuth oxyfluoride compound of the nanocomposite is comprised of Bi&amp;lt;3+&amp;gt; .
+</P>
+<P>
+22. The composition according to claim 12, further comprising a conductive matrix.
+</P>
+<P>
+23. The composition according to claim 22, wherein the conductive matrix is a conductive matrix selected from the group consisting of a metal oxide, a metal fluoride and a metal oxyfluoride.
+</P>
+<P>
+24. The composition according to claim 23, wherein a metal from the metal oxide, the metal fluoride and the metal oxyfluoride is a metal selected from the group consisting of Fe, B, Bi, Co, Ni, Mn, V, Mo, Pb, Sb, Cu, Sn, Nb, Cr, Ag and Zn.
+</P>
+<P>
+25. The composition according to claim 22, wherein the conductive matrix is present in an amount that is less than about 50 weight % of the nanocomposite.
+</P>
+<P>
+26. The composition according to claim 24, wherein the conductive matrix is carbon.
+</P>
+<P>
+27. The composition according to claim 28, wherein the carbon is in an amount that is less than about 5 weight percent of the nanocomposite.
+</P>
+<P>
+28. The composition according to claim 12, wherein the nanocrystalline bismuth oxyfluoride nanocomposite further comprises carbon.
+</P>
+<P>
+29. The composition according to claim 28, wherein the carbon is in an amount that is less than about 50 weight percent carbon of the nanocomposite.
+</P>
+<P>
+30. The composition according to claim 12, wherein the nanocrystalline bismuth oxyfluoride compound of the nanocomposite comprises crystallites that are less than about 100 nm in diameter.
+</P>
+<P>
+31. The composition according to claim 12, wherein the nanocomposite has a rechargeable specific capacity when a current passes through the nanocomposite in a direction opposite a discharge direction.
+</P>
+<P>
+32. The composition according to claim 12, wherein the composition is utilized in an electrode of a rechargeable battery.
+</P>
+<P>
+33. The composition according to claim 12, wherein the nanocrystalline bismuth oxyfluoride compound of the nanocomposite is capable of a conversion reaction.
+</P>
+<P>
+34. The composition according to claim 33, wherein the conversion reaction is reversible.
+</P>
+<P>
+35. A composition comprising a bismuth oxyfluoride nanocomposite.
+</P>
+<P>
+36. The composition according to claim 35, wherein the nanocomposite comprises BiOxFz-2x, wherein 0&amp;lt;x&amp;lt;1.5 and 3&amp;lt;=z&amp;lt;=5.
+</P>
+<P>
+37. The composition according to claim 35, wherein the bismuth oxyfluoride compound is BiOF.
+</P>
+<P>
+38. The composition according to claim 35, wherein the bismuth oxyfluoride compound is BiO0.5F2.
+</P>
+<P>
+39. The composition according to claim 35, wherein the bismuth oxyfluoride compound further comprises a Bi cation, and wherein a metal cation is in partial substitution of the Bi cation.
+</P>
+<P>
+40. The composition according to claim 45, wherein the metal cation is a metal element selected from the group consisting essentially of Fe, B, Co, Ni, Mn, V, Mo, Pb, Sb, Cu, Sn, Nb, Cr, Ag and Zn.
+</P>
+<P>
+41. The composition according to claim 45, wherein the metal cation is a metal element selected from the group consisting of Cu and Mo.
+</P>
+<P>
+42. The composition according to claim 35, wherein the bismuth oxyfluoride compound of the nanocomposite is comprised of Bi&amp;lt;5+&amp;gt; .
+</P>
+<P>
+43. The composition according to claim 36, wherein the bismuth oxyfluoride compound of the nanocomposite is comprised of Bi&amp;lt;5+&amp;gt; .
+</P>
+<P>
+44. The composition according to claim 35, wherein the bismuth oxyfluoride compound of the nanocomposite is comprised of Bi&amp;lt;3+&amp;gt; .
+</P>
+<P>
+45. The composition according to claim 35, further comprising a conductive matrix.
+</P>
+<P>
+46. The composition according to claim 45, wherein the conductive matrix is a conductive matrix selected from the group consisting of a metal oxide, a metal fluoride and a metal oxyfluoride.
+</P>
+<P>
+47. The composition according to claim 46, wherein a metal from the metal oxide, the metal fluoride and the metal oxyfluoride is a metal selected from the group consisting of Fe, B, Bi, Co, Ni, Mn, V, Mo, Pb, Sb, Cu, Sn, Nb, Cr, Ag and Zn.
+</P>
+<P>
+48. The composition according to claim 45, wherein the conductive matrix is present in an amount that is less than about 50 weight % of the nanocomposite.
+</P>
+<P>
+49. The composition according to claim 45, wherein the conductive matrix is carbon.
+</P>
+<P>
+50. The composition according to claim 49, wherein the carbon is in an amount that is less than about 5 weight percent of the nanocomposite.
+</P>
+<P>
+51. The composition according to claim 35, wherein the bismuth oxyfluoride nanocomposite further comprises carbon.
+</P>
+<P>
+52. The composition according to claim 51, wherein the carbon is in an amount that is less than about 50 weight percent carbon of the nanocomposite.
+</P>
+<P>
+53. The composition according to claim 35, wherein the bismuth oxyfluoride compound of the nanocomposite comprises crystallites that are less than about 100 nm in diameter.
+</P>
+<P>
+54. The composition according to claim 35, wherein the bismuth oxyfluoride compound of the nanocomposite comprises crystallites that are more than about 100 nm in diameter.
+</P>
+<P>
+55. The composition according to claim 35, wherein the nanocomposite has a rechargeable specific capacity when a current passes through the nanocomposite in a direction opposite a discharge direction.
+</P>
+<P>
+56. The composition according to claim 35, wherein the composition is utilized in an electrode of a rechargeable battery.
+</P>
+<P>
+57. The composition according to claim 35, wherein the bismuth oxyfluoride compound of the nanocomposite is capable of a conversion reaction.
+</P>
+<P>
+58. The composition according to claim 57, wherein the conversion reaction is reversible.
+</P>
+<P>
+59. An electrochemical cell comprising:
+</P>
+<P>
+a negative electrode;
+</P>
+<P>
+a positive electrode comprising a bismuth oxyfluoride compound nanocomposite; and
+</P>
+<P>
+a separator disposed between the negative and positive electrodes.
+</P>
+<P>
+60. The electrochemical cell according to claim 58, wherein the nanocomposite comprises BiOxFz-2x, wherein 0&amp;lt;x&amp;lt;1.5 and 3&amp;lt;=z&amp;lt;=5.
+</P>
+<P>
+61. The electrochemical cell according to claim 58, wherein the bismuth oxyfluoride compound is BiOF.
+</P>
+<P>
+62. The electrochemical cell according to claim 58, wherein the bismuth oxyfluoride compound is BiO0.5F2.
+</P>
+<P>
+63. The electrochemical cell according to claim 58, wherein the bismuth oxyfluoride compound further comprises a Bi cation, and wherein a metal cation is in partial substitution of the Bi cation.
+</P>
+<P>
+64. The electrochemical cell according to claim 63, wherein the metal cation is a metal element selected from the group consisting essentially of Fe, B, Co, Ni, Mn, V, Mo, Pb, Sb, Cu, Sn, Nb, Cr, Ag and Zn.
+</P>
+<P>
+65. The electrochemical cell according to claim 63, wherein the metal cation is a metal element selected from the group consisting of Cu and Mo.
+</P>
+<P>
+66. The electrochemical cell according to claim 59, wherein the bismuth oxyfluoride compound of the nanocomposite is comprised of Bi&amp;lt;5+&amp;gt; .
+</P>
+<P>
+67. The electrochemical cell according to claim 60, wherein the bismuth oxyfluoride compound of the nanocomposite is comprised of Bi&amp;lt;5+&amp;gt; .
+</P>
+<P>
+68. The electrochemical cell according to claim 59, wherein the bismuth oxyfluoride compound of the nanocomposite is comprised of Bi&amp;lt;3+&amp;gt; .
+</P>
+<P>
+69. The electrochemical cell according to claim 59, further comprising a conductive matrix.
+</P>
+<P>
+70. The electrochemical cell according to claim 69, wherein the conductive matrix is a conductive matrix selected from the group consisting of a metal oxide, a metal fluoride and a metal oxyfluoride.
+</P>
+<P>
+71. The electrochemical cell according to claim 70, wherein a metal from the metal oxide, the metal fluoride and the metal oxyfluoride is a metal selected from the group consisting of Fe, B, Bi, Co, Ni, Mn, V, Mo, Pb, Sb, Cu, Sn, Nb, Cr, Ag and Zn.
+</P>
+<P>
+72. The electrochemical cell according to claim 69, wherein the conductive matrix is present in an amount that is less than about 50 weight % of the nanocomposite.
+</P>
+<P>
+73. The electrochemical cell according to claim 69, wherein the conductive matrix is carbon.
+</P>
+<P>
+74. The electrochemical cell according to claim 73, wherein the carbon is in an amount that is less than about 5 weight percent of the nanocomposite.
+</P>
+<P>
+75. The electrochemical cell according to claim 59, wherein the bismuth oxyfluoride nanocomposite further comprises carbon.
+</P>
+<P>
+76. The electrochemical cell according to claim 75, wherein the carbon is in an amount that is less than about 50 weight percent carbon of the nanocomposite.
+</P>
+<P>
+77. The electrochemical cell according to claim 59, wherein the bismuth oxyfluoride compound of the nanocomposite comprises crystallites that are less than about 100 nm in diameter.
+</P>
+<P>
+78. The electrochemical cell according to claim 59, wherein the bismuth oxyfluoride compound of the nanocomposite comprises crystallites that are more than about 100 nm in diameter.
+</P>
+<P>
+79. The electrochemical cell according to claim 59, wherein the nanocomposite has a rechargeable specific capacity when a current passes through the nanocomposite in a direction opposite a discharge direction.
+</P>
+<P>
+80. The electrochemical cell according to claim 59, wherein the composition is utilized in an electrode of a rechargeable battery.
+</P>
+<P>
+81. The electrochemical cell according to claim 59, wherein the bismuth oxyfluoride compound of the nanocomposite is capable of a conversion reaction.
+</P>
+<P>
+82. The electrochemical cell according to claim 81, wherein the conversion reaction is reversible.
+</P>
+<P>
+83. The electrochemical cell according to claim 59, further comprising an electrolyte.
+</P>
+</Claims>
+<Also_published_as>
+EP1984294A4;US2007190414A1;US8039149B2;WO2007123503A2;WO2007123503A3;JP2009526738A
+</Also_published_as>
+</BiblioData>

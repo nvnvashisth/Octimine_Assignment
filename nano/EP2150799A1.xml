@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ATOMIC FORCE MICROSCOPY PROBE
+</Title>
+<PublicationNumber>
+EP2150799A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FAUCHER MARC [FR]
+</Name>
+<Name>
+BUCHAILLOT LIONEL [FR]
+</Name>
+<Name>
+AIME JEAN-PIERRE [FR]
+</Name>
+<Name>
+LEGRAND BERNARD LOUIS AMAND [FR]
+</Name>
+<Name>
+COUTURIER GERARD [FR]
+</Name>
+<Name>
+FAUCHER, MARC
+</Name>
+<Name>
+BUCHAILLOT, LIONEL
+</Name>
+<Name>
+AIME, JEAN-PIERRE
+</Name>
+<Name>
+LEGRAND, BERNARD LOUIS AMAND
+</Name>
+<Name>
+COUTURIER, GERARD
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CENTRE NAT RECH SCIENT [FR]
+</Name>
+<Name>
+UNIV BORDEAUX I [FR]
+</Name>
+<Name>
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE
+</Name>
+<Name>
+UNIVERSITE DE BORDEAUX I
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2150799
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080805499
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008FR00580
+</PriorityNumber>
+<PriorityDate>
+2008-04-23
+</PriorityDate>
+<PriorityNumber>
+FR20070003161
+</PriorityNumber>
+<PriorityDate>
+2007-05-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q20/04
+</Class>
+<Class>
+G01Q30/12
+</Class>
+<Class>
+G01Q60/32
+</Class>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01N13/16
+</Class>
+<Class>
+G12B21/08
+</Class>
+</IPC>
+<IPC7>
+<Class>
+G01N13/16
+</Class>
+<Class>
+G12B21/08
+</Class>
+</IPC7>
+<ICM>
+<Class>
+G01Q20/04
+</Class>
+<Class>
+G01Q30/12
+</Class>
+<Class>
+G01Q60/32
+</Class>
+<Class>
+G01Q60/38
+</Class>
+</ICM>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q20/04
+</Class>
+<Class>
+G01Q30/12
+</Class>
+<Class>
+G01Q60/32
+</Class>
+<Class>
+G01Q60/38
+</Class>
+</NCL>
+<Abstract>
+Sonde pour microscopie à force atomique (SM) comportant un résonateur micromécanique (RMM) et une pointe pour microscopie à force atomique (P1) faisant saillie dudit résonateur, caractérisée en ce que : elle comporte également un moyen (EL1) pour exciter sélectivement un mode d&apos;oscillation de volume dudit résonateur (RMM) ;  et en ce que ladite pointe pour microscopie à force atomique (P1, P1&apos;) fait saillie dudit résonateur sensiblement en correspondance d&apos;un point ventral (PV1) dudit mode d&apos;oscillation de volume.Microscope à force atomique comportant une telle sonde (SM&apos;).Procédé de microscopie à force atomique comportant l&apos;utilisation d&apos;une telle sonde.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Sonde pour microscopie à force atomique (SM&apos;, SM&quot;) comportant un résonateur micromécanique (RMM) et une pointe pour microscopie à force atomique (P1, P1&apos;) faisant saillie dudit résonateur, caractérisée en ce que : - elle comporte également un moyen (EL1) pour exciter sélectivement un mode d&apos;oscillation de volume dudit résonateur (RMM) ; et en ce que -ladite pointe pour microscopie à force atomique (P1, P1&apos;) 10 fait saillie dudit résonateur sensiblement en correspondance d&apos;un point ventral (PV1) dudit mode d&apos;oscillation de volume.
+</P>
+<P>
+2. Sonde pour microscopie à force atomique selon la revendication 1, comportant également un moyen (EL2) pour détecter les oscillations dudit résonateur micromécanique (RMM) selon ledit mode 15 d&apos;oscillation de volume.
+</P>
+<P>
+3. Sonde pour microscopie à force atomique selon la revendication 2, dans laquelle ledit moyen (EL2) pour détecter les oscillations dudit résonateur micromécanique est choisi parmi un capteur capacitif et un capteur piézoélectrique. 20
+</P>
+<P>
+4. Sonde pour microscopie à force atomique selon l&apos;une des revendications précédentes, dans laquelle ledit moyen (EL1) pour exciter sélectivement un mode d&apos;oscillation de volume dudit résonateur est choisi parmi un actionneur capacitif et un actionneur piézoélectrique.
+</P>
+<P>
+5. Sonde pour microscopie à force atomique selon l&apos;une des 25 revendications précédentes, dans laquelle ledit résonateur micromécanique (RMM) présente une structure planaire, et dans laquelle ledit mode d&apos;oscillation de volume est un mode de déformation plane dudit résonateur.
+</P>
+<P>
+6. Sonde pour microscopie à force atomique selon la revendication 5, dans laquelle ledit résonateur micromécanique (RMM) 30 présente une épaisseur comprise entre 0,01 pm et 10 pm, et de préférence entre 0,05 pm et 5 pm.
+</P>
+<P>
+7. Sonde pour microscopie à force atomique selon l&apos;une des revendications 5 ou 6, dans laquelle ledit résonateur micromécanique (RMM) a une forme de disque ou d&apos;anneau.
+</P>
+<P>
+8. Sonde pour microscopie à force atomique selon la 5 revendication 7, dans laquelle ledit mode d&apos;oscillation de volume est un mode elliptique.
+</P>
+<P>
+9. Sonde pour microscopie à force atomique selon l&apos;une des revendications 7 ou 8, dans laquelle ledit résonateur micromécanique (RMM) en forme de disque ou d&apos;anneau. 10
+</P>
+<P>
+10. Sonde pour microscopie à force atomique selon la revendication 9, dans laquelle ledit résonateur micromécanique en forme de disque ou d&apos;anneau présente un rayon extérieur (Rex) compris entre 0,1 dam et 200 pm.
+</P>
+<P>
+11. Sonde pour microscopie à force atomique (SM&apos;) selon 15 l&apos;une des revendications 5 à 10, dans laquelle ladite pointe (P1) pour microscopie à force atomique s&apos;étend dans le plan dudit résonateur micromécanique (RMM), à partir du contour (C) de ce dernier.
+</P>
+<P>
+12. Sonde pour microscopie à force atomique (SM&quot;) selon l&apos;une des revendications 5 à 10, dans laquelle ladite pointe pour microscopie 20 à force atomique (P1&apos;) forme un angle avec le plan dudit résonateur micromécanique (RMM).
+</P>
+<P>
+13. Sonde pour microscopie à force atomique selon l&apos;une des revendications précédentes, dans laquelle ledit mode d&apos;oscillation de volume présente une fréquence propre dans le vide comprise entre 10 MHz et 20 25 GHz, et de préférence entre 50 MHz et 2 GHz.
+</P>
+<P>
+14. Sonde pour microscopie à force atomique selon l&apos;une des revendications précédentes, dans laquelle ledit résonateur micromécanique (RMM) présente, pour ledit mode d&apos;oscillation de volume, un facteur de qualité dans le vide compris entre 103 et 105, et de préférence entre 5.103 et 30 5.104.
+</P>
+<P>
+15. Sonde pour microscopie à force atomique selon l&apos;une des revendications précédentes, dans laquelle ledit résonateur micromécanique (RMM) présente, pour ledit mode d&apos;oscillation de volume, un facteur de qualité dans l&apos;eau compris entre 102 et 5104, et de préférence entre 103 et 104.
+</P>
+<P>
+16. Sonde pour microscopie à force atomique selon l&apos;une des revendications précédentes, dans laquelle ledit mode d&apos;oscillation de volume présente au moins un point nodal (PN1, PN2, PN3, PN4) sur le contour (C) dudit résonateur micromécanique (RMM), et dans laquelle ce dernier présente un moyen de fixation (LF1, LF2, LF3, LF4) à une structure de support (STS) positionné en correspondance dudit point nodal (PN1, PN2, PN3, PN4).
+</P>
+<P>
+17. Sonde pour microscopie à force atomique selon la revendication 16, comportant un seul moyen de fixation à une structure de support, ledit moyen de fixation se présentant sous la forme d&apos;une poutre.
+</P>
+<P>
+18. Sonde pour microscopie à force atomique selon l&apos;une des revendications précédentes, dans laquelle ledit résonateur micromécanique (RMM) a une structure symétrique, ladite sonde présentant au moins un élément d&apos;équilibrage (P2) ayant un moment d&apos;inertie sensiblement égal à celui de la pointe (P1), disposé de manière à préserver la symétrie de ladite structure.
+</P>
+<P>
+19. Sonde pour microscopie à force atomique selon l&apos;une des revendications précédentes, dans laquelle au moins ledit résonateur micromécanique (RMM) et ladite pointe pour microscopie à force atomique (P1, P2) sont réalisés de manière monolithique.
+</P>
+<P>
+20. Sonde pour microscopie à force atomique selon la revendication 19 lorsqu&apos;elle dépend des revendications 3 et 4, dans laquelle ledit résonateur micromécanique (RMM), ladite pointe pour microscopie à force atomique (P1), ledit capteur électrostatique (EL2) et ledit actionneur électrostatique (EL1) sont réalisés de manière monolithique.
+</P>
+<P>
+21. Sonde pour microscopie à force atomique selon l&apos;une des revendications précédentes, dans laquelle au moins ledit résonateurmicromécanique (RMM) et ladite pointe pour microscopie à force atomique (P1) sont réalisés en silicium.
+</P>
+<P>
+22. Sonde pour microscopie à force atomique selon l&apos;une des revendications précédentes, dans laquelle ledit résonateur micromécanique (RMM) est disposé à l&apos;extrémité d&apos;une poutre (STS) constituant une structure de support pour ce dernier.
+</P>
+<P>
+23. Microscope à force atomique comportant une sonde (SM&apos;, SM&quot;) selon l&apos;une des revendications précédentes.
+</P>
+<P>
+24. Procédé de microscopie à force atomique, comportant les 10 étapes consistant à : - approcher d&apos;une surface à imager (SI) la pointe (P1) pour microscopie à force atomique d&apos;une sonde (SM&apos;, SM&quot;) selon l&apos;une des revendications 1 à 22 ; - exciter sélectivement un mode d&apos;oscillation de volume du 15 résonateur micromécanique (RMM) de ladite sonde en utilisant le moyen (EL1) pourvu à cet effet, ledit mode d&apos;oscillation de volume présentant une fréquence propre ; et - détecter les variations de la fréquence propre dudit mode d&apos;oscillation de volume induites par des forces s&apos;exerçant entre ladite surface 20 à imager (SI) et ladite pointe pour microscopie à force atomique (P1).
+</P>
+<P>
+25. Procédé de microscopie à force atomique, comportant les étapes consistant à : - approcher d&apos;une surface à imager (SI) la pointe (P1) pour microscopie à force atomique d&apos;une sonde (SM&apos;, SM&quot;) selon l&apos;une des 25 revendications 1 à 22 ; - exciter sélectivement un mode d&apos;oscillation de volume du résonateur micromécanique (RMM) de ladite sonde en utilisant le moyen (EL1) pourvu à cet effet, ledit mode d&apos;oscillation de volume présentant une fréquence propre ; et 30 - détecter les variations de d&apos;amplitude dudit mode d&apos;oscillation de volume induites par des forces s&apos;exerçant entre ladite surface à imager (SI) et ladite pointe pour microscopie à force atomique (P1).
+</P>
+<P>
+26. Procédé selon l&apos;une des revendications 24 ou 25, dans lequel au moins ladite surface à imager (SI) et ladite pointe pour microscopie à force atomique (P1) sont immergées dans un milieu liquide.
+</P>
+</Claims>
+<Also_published_as>
+FR2915803A1;US2010205698A1;US8091143B2;JP2010526284A;WO2008148951A1
+</Also_published_as>
+</BiblioData>

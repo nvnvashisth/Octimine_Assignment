@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Imprint method for producing structure
+</Title>
+<PublicationNumber>
+EP1942374A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SEKI JUNICHI [JP]
+</Name>
+<Name>
+SUEHIRA NOBUHITO [JP]
+</Name>
+<Name>
+SEKI, JUNICHI
+</Name>
+<Name>
+SUEHIRA, NOBUHITO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1942374
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080153570
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20060120143
+</PriorityNumber>
+<PriorityDate>
+2006-09-05
+</PriorityDate>
+<PriorityNumber>
+JP20050257431
+</PriorityNumber>
+<PriorityDate>
+2005-09-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81C99/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+B29C35/08
+</Class>
+<Class>
+B29C59/02
+</Class>
+<Class>
+B82Y10/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B29C35/08M2
+</Class>
+<Class>
+B29C59/02C
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+In order to alleviate or suppress curing of a photocurable resin material in an area in which the curing of the photocurable resin material is not intended, exposure of the photocurable resin material to light is suppressed through a non-pattern portion at which a light-blocking member is provided by means of a mold having an imprint pattern portion and the non-pattern portion or is suppressed by disposing a light-blocking member so as not to irradiate the photocurable resin material with light not via the mold.
+</Abstract>
+<Claims>
+<P>
+1. An imprint method comprising:
+</P>
+<P>
+oppositely disposing a mold (301; 407; 701) and a substrate (305; 408; 504; 603) on which a first photocurable resin material (304; 409; 505; 604) is provided;
+</P>
+<P>
+determining a first processing area on the substrate (305; 408; 504; 603);
+</P>
+<P>
+deforming the first photocurable resin material (304; 409; 505; 604), in the first processing area, in such a shape that an imprint pattern provided to the mold (301; 407; 701) is reversed;
+</P>
+<P>
+curing the first photocurable resin material in the first processing area by light exposure;
+</P>
+<P>
+separating the cured resin material and the mold (301; 407; 701) from each other;
+</P>
+<P>
+determining a second processing area nonoverlapping with the first processing area;
+</P>
+<P>
+oppositely disposing the mold (301; 407; 701) and a second photocurable resin material (304; 409; 505; 604) provided on the substrate (305; 408; 504; 603);
+</P>
+<P>
+deforming the second photocurable resin material, in the second processing area, in the shape that the imprint pattern provided to the mold (301; 407; 701) is reversed;
+</P>
+<P>
+curing the second photocurable resin material in the second processing area by light exposure while the cured resin material in the first processing area is not exposed to light again in the second processing area; and
+</P>
+<P>
+separating the cured resin and the mold (301; 407; 701) from each other in the second processing area.
+</P>
+<P>
+2. A method according to Claim 1, wherein the first photocurable resin material in the first processing area is cured by light exposure while a part of the first photocurable resin material which flows from the first processing area to an outside the first processing area is not exposed to light.
+</P>
+<P>
+3. A method according to Claim 1 or 2, wherein the first and second photocurable resin materials are independently coated on the substrate for the first and second processing areas, respectively.
+</P>
+<P>
+4. A method according to any one of Claims 1 to 3, wherein the first and second photocurable resin materials are collectively coated on a surface of the substrate including the first and second processing area
+</P>
+</Claims>
+<Also_published_as>
+EP1942374B1;EP1762893A1;US2011284499A1;US2007054097A1;US8011916B2;KR20080059538A;KR100886038B1;KR20070027467A;JP2008168641A;JP2007103924A;CN101666974A;CN1928712A;CN1928712B;AT551631T
+</Also_published_as>
+</BiblioData>

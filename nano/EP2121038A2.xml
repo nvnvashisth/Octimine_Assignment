@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+TANTALUM OXIDE NANOPARTICLES AS IMAGING AGENTS FOR X- RAY/COMPUTED TOMOGRAPHY AND METHODS FOR MAKING SAME
+</Title>
+<PublicationNumber>
+EP2121038A2
+</PublicationNumber>
+<Inventor>
+<Name>
+COLBORN ROBERT EDGAR [US]
+</Name>
+<Name>
+BALES BRIAN [US]
+</Name>
+<Name>
+BONITATIBUS JR PETER [US]
+</Name>
+<Name>
+KULKARNI AMIT [US]
+</Name>
+<Name>
+TORRES ANDREW [US]
+</Name>
+<Name>
+AXELSSON OSKAR [SE]
+</Name>
+<Name>
+DEMOULPIED DAVID [US]
+</Name>
+<Name>
+BUCKLEY PAUL [US]
+</Name>
+<Name>
+COLBORN, ROBERT EDGAR
+</Name>
+<Name>
+BALES, BRIAN
+</Name>
+<Name>
+BONITATIBUS, JR., PETER
+</Name>
+<Name>
+KULKARNI, AMIT
+</Name>
+<Name>
+TORRES, ANDREW
+</Name>
+<Name>
+AXELSSON, OSKAR
+</Name>
+<Name>
+DEMOULPIED,DAVID
+</Name>
+<Name>
+BUCKLEY, PAUL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+GEN ELECTRIC [US]
+</Name>
+<Name>
+GENERAL ELECTRIC COMPANY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2121038
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080728269
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US52007
+</PriorityNumber>
+<PriorityDate>
+2008-01-25
+</PriorityDate>
+<PriorityNumber>
+US20070627529
+</PriorityNumber>
+<PriorityDate>
+2007-01-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K49/04
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K49/04F8N
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C01G27/02
+</Class>
+<Class>
+C01G35/00
+</Class>
+<Class>
+C09C3/12
+</Class>
+</NCL>
+<Abstract>
+The present invention is generally directed to core/shell nanoparticles, wherein such core/shell nanoparticles comprise a nanoparticle core and a nanoshell disposed about the nanoparticle core such that, in the aggregate, they form a core/shell nanoparticle that is operable for use as an imaging agent in X-ray/computed tomography (CT). Typically, such core/shell nanoparticle-based X-ray CT imaging agents further comprise a targeting species for targeting the imaging agent to diseased sites.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An X-ray/computed tomography imaging agent comprising:
+</P>
+<P>
+a) an active nanoparticle core, wherein the active nanoparticle core comprises at least one heavy metal element in a non-zero valent state; and
+</P>
+<P>
+b) a passive nanoshell disposed about the nanoparticle core such that, in the aggregate, the active nanoparticle core and the passive nanoshell form a core/shell nanoparticle that is operable for use as an imaging agent in X-ray/computed tomography imaging.
+</P>
+<P>
+2. The X-ray/computed tomography imaging agent of claim 1, wherein the at least one heavy metal element is selected from the group consisting of gadolinium, tungsten, tantalum, hafnium, bismuth, barium, samarium, neodymium, and dysprosium.
+</P>
+<P>
+3. The X-ray/computed tomography imaging agent of claim 2, wherein the active nanoparticle core comprises the at least one heavy metal element in the form of an oxide of the at least one heavy metal element.
+</P>
+<P>
+4. The X-ray/computed tomography imaging agent of claim 3, wherein the oxide is selected from the group consisting of tungsten oxide, tantalum oxide, hafnium oxide, bismuth oxide, and combinations thereof.
+</P>
+<P>
+5. The X-ray/computed tomography imaging agent of claim 4, wherein the oxide comprises Ta2O5.
+</P>
+<P>
+6. The X-ray/computed tomography imaging agent of claim 1, wherein the nanoparticle has an average diameter from about 1 nm to about 20 nm.
+</P>
+<P>
+7. The X-ray/computed tomography imaging agent of claim 6, wherein the aggregate of the nanoparticle core and the nanoshell has an average diameter from about 3 nm to about 12 nm.
+</P>
+<P>
+8. The X-ray/computed tomography imaging agent of claim 1, wherein the nanoshell comprises a material that is water soluble and biocompatible.
+</P>
+<P>
+9. The X-ray/computed tomography imaging agent of claim 8, wherein the nanoshell comprises material selected from the group consisting of ligands, oligomers, polymers, clusters, carbohydrate species, functionalized silica, and combinations thereof.
+</P>
+<P>
+10. The X-ray/computed tomography imaging agent of claim 9, wherein the nanoshell comprises material selected from the group consisting of polyethylene glycol, polyethylene imine, polymethacrylate, polyvinylsulfate, polyvinylpyrrolidinone, citrate, malate, glycolate, silanes, and combinations thereof.
+</P>
+<P>
+11. The X-ray/computed tomography imaging agent of claim 10 wherein the active nanoparticle core comprises Ta2O5.
+</P>
+<P>
+12. The X-ray/computed tomography imaging agent of claim 1, wherein the nanoparticle is made by a method forming the core and the shell in separate steps.
+</P>
+<P>
+13. The X-ray/computed tomography imaging agent of claim 1, wherein the nanoparticle is made by a method forming the core and the shell in the same step.
+</P>
+<P>
+14. The X-ray/computed tomography imaging agent of claim 1, wherein the nanoparticle is made by a method comprising the step of controlling an average diameter of the nanoparticle.
+</P>
+<P>
+15. An X-ray/computed tomography imaging solution, comprising an ensemble of the imaging agents of claim 1, wherein the mean diameter of the ensemble is not more than about 10 nm.
+</P>
+<P>
+16. An X-ray/computed tomography imaging solution, comprising an ensemble of the imaging agents of claim 1, wherein the mean diameter of the ensemble is not more than about 7 nm.
+</P>
+<P>
+17. A method for making an X-ray/computed tomography imaging agent, the method comprising the steps of:
+</P>
+<P>
+a) providing a first precursor material comprising a heavy metal element;
+</P>
+<P>
+b) forming an active core from the first precursor material, the core comprising the heavy metal element in a non-zero valent state;
+</P>
+<P>
+c) providing a second precursor material; and
+</P>
+<P>
+d) forming a passive shell from the second precursor material, wherein the passive shell is disposed about the core such that the core and the shell form a core/shell nanoparticle.
+</P>
+<P>
+18. The method according claim 17, wherein the at least one heavy metal element is selected from the group consisting of gadolinium, tungsten, tantalum, hafnium, bismuth, barium, samarium, neodymium, and dysprosium.
+</P>
+<P>
+19. The method of claim 17, wherein the passive shell comprises a water soluble material derived from the second precursor material.
+</P>
+<P>
+20. The method of claim 19, wherein second precursor comprises a polymerizable silane and the passive shell comprises a polymer selected from the group consisting of polyethylene glycol, polyethylene imine, polymethacrylate, polyvinylsulfate, and polyvinylpyrrolidinone, and combinations thereof.
+</P>
+<P>
+21. The method of claim 17, wherein steps (a), (b), (c), and (d) occur as sequential steps so as to form the nanoparticle from the active core and the second precursor.
+</P>
+<P>
+22. The method of claim 21, wherein the first precursor comprises the heavy metal element in a non-zero valent state; wherein the core comprises an oxide of the heavy metal element in the same non-zero valent state; and wherein step (b) comprises hydrolysis of the first precursor.
+</P>
+<P>
+23. The method of claim 22, wherein the heavy metal element comprises tantalum(V) and the active core comprises Ta2O5.
+</P>
+<P>
+24. The method of claim 19, wherein the second precursor comprises a carboxylic acid and the passive shell comprises a carboxylic acid selected from the group consisting of citrate, glycolate, and malate.
+</P>
+<P>
+25. The method of claim 24, wherein steps (a) and (c) occur together such that steps (b) and (d) occur together so as to form the nanoparticle directly from the first and second precursors.
+</P>
+<P>
+26. The method of claim 25, wherein the first precursor comprises the heavy metal element in a zero valent state; wherein the core comprises an oxide of the heavy metal element; and wherein steps (b) and (d) together comprise the step of adding the first and second precursors to an oxidizing aqueous solution.
+</P>
+<P>
+27. The method of claim 26, wherein the heavy metal element comprises tantalum and the active core comprises Ta2O5.
+</P>
+<P>
+28. The method of claim 17, further comprising the step of:
+</P>
+<P>
+controlling an average diameter of the nanoparticle.
+</P>
+</Claims>
+<Also_published_as>
+US2007122620A1;WO2008092059A2;WO2008092059A3;JP2010516782A;CN101657218A;CA2674957A1;AU2008207819A1
+</Also_published_as>
+</BiblioData>

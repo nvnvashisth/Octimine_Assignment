@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method and thermal reactor for creating particles
+</Title>
+<PublicationNumber>
+EP1927394A1
+</PublicationNumber>
+<Inventor>
+<Name>
+LEIDOLPH LARS [DE]
+</Name>
+<Name>
+AMBROSIUS STEFAN [DE]
+</Name>
+<Name>
+LEIDOLPH, LARS
+</Name>
+<Name>
+AMBROSIUS, STEFAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBU TEC ADVANCED MATERIALS GMB [DE]
+</Name>
+<Name>
+IBU-TEC ADVANCED MATERIALS AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1927394
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070117558
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+DE200610046803
+</PriorityNumber>
+<PriorityDate>
+2006-09-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J12/02
+</Class>
+<Class>
+B01J19/00
+</Class>
+<Class>
+B01J6/00
+</Class>
+<Class>
+C01B13/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J12/02
+</Class>
+<Class>
+B01J6/00C
+</Class>
+<Class>
+B01J6/00C4
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B13/34
+</Class>
+<Class>
+C01F7/16B
+</Class>
+<Class>
+C01G23/053
+</Class>
+<Class>
+C01G23/053D
+</Class>
+<Class>
+C01G23/07
+</Class>
+<Class>
+C01G9/02
+</Class>
+</NCL>
+<Abstract>
+For the production of fine particles, with a mean particle size of 10 nm to 100 mu m, they are formed in a pulsed hot gas flow by a pulsating thermal reactor (R1) in a combustion chamber (1). The combustion gas (VG) is given a pulsed feed by a valve (2) with a separate and continuous feed of combustion material (BS) into the combustion chamber. The developed particles are separated from the hot gas flow.
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zur Herstellung feinteiliger Partikel (P), insbesondere mit einer mittleren Korngrösse von 10 nm bis 100 m, in einem pulsierenden Heissgasstrom (HGS), der in einer Brennkammer (1) eines als Pulsationsreaktor ausgebildeten thermischen Reaktors (R1) erzeugt wird, wobei ein Verbrennungsgas (VG) über Ventile (2) pulsierend und gasförmiger Brennstoff (BS) davon separat kontinuierlich sowohl bei geschlossenen als auch bei geöffneten Ventilen (2) und eine Rohstoffmischung (RM) von dem Verbrennungsgas (VG) und dem gasförmigen Brennstoff (BS) separat mit oder ohne kalorischen Komponenten in die Brennkammer (1) oder bezogen auf den Heissgasstrom (HGS) an einem nachfolgenden Ort aufgegeben, die Partikel (P) im pulsierenden Heissgasstrom (HGS) gebildet und die gebildeten Partikel (P) anschliessend vom Heissgasstrom (HGS) abgetrennt werden.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass mindestens zwei thermische Reaktoren (R1, R2) miteinander gekoppelt werden, wobei in einem als Pulsationsreaktor ausgebildeten ersten thermischen Reaktor (R1) der pulsierende Heissgasstrom (HGS) erzeugt wird und zumindest in einem als Reaktionsraum, als Trocknungsraum, als Kalzinationsraum und/oder als Kristallisationsraum ausgebildeten zweiten thermischen Reaktor (R2) die Partikel (P) gebildet werden.
+</P>
+<P>
+3. Verfahren nach Anspruch 1 oder 2, wobei zumindest einer der thermischen Reaktoren (R1) mit einer Verbrennungsfrequenz von 5 Hz bis 150 Hz betrieben wird.
+</P>
+<P>
+4. Verfahren nach einem der vorhergehenden Ansprüche, wobei der Heissgasstrom (HGS) zumindest zwischen der ersten und der zweiten Verbrennungsstufe durch Einführen eines Kühlmediums (KG), insbesondere von Kühlgas und/oder Kühlflüssigkeit gekühlt wird und/oder dem Heissgasstrom (HGS) nach dem ersten thermischen Reaktor (R1) mindestens ein weiterer Brennstoff (BS) zugeführt wird.
+</P>
+<P>
+5. Verfahren nach einem der vorhergehenden Ansprüche 1 bis 4, wobei durch die pulsierende Verbrennung im ersten thermischen Reaktor (R1) ein Heissgasstrom (HGS) mit einer Temperatur von grösser 750 deg. C bis 1400 deg. C erzeugt wird und zumindest bei Einbringen eines Kühlmediums (KG) vor dem zweiten thermischen Reaktor (R2) in diesem eine Temperatur von 100 deg. C bis 800 deg. C eingestellt wird.
+</P>
+<P>
+6. Thermischer Reaktor (R1) zur Herstellung von Partikeln (P), insbesondere mit einer mittleren Partikelgrösse von 10 nm bis 100 m, umfassend
+</P>
+<P>
+- eine Brennkammer (1) zur Erzeugung eines pulsierenden Heissgasstrom (HGS), wobei ein Verbrennungsgas (VG) über Ventile (2) pulsierend und gasförmiger Brennstoff (BS) davon separat und kontinuierlich zumindest über eine Zuführung (3) sowohl bei geöffneten als auch bei geschlossenen Ventilen (2) und eine Rohstoffmischung (RM) von dem Verbrennungsgas (VG) und dem gasförmigen Brennstoff (BS) separat mit oder ohne kalorische Komponenten an mindestens einem Zuführungspunkt (6.1 bis 6.n) in die Brennkammer (1) oder bezogen auf den Heissgasstrom (HGS) an einem nachfolgenden Ort zuführbar sind,
+</P>
+<P>
+- ein sich an die Brennkammer (1) anschliessendes Resonanzrohr (5), in das sich der erzeugte pulsierende Heissgasstrom (HGS) aus der Brennkammer (1) ausbreitet und
+</P>
+<P>
+- eine Abscheidevorrichtung (7), in der die gebildeten Partikel (P) vom Heissgasstrom (HGS) abgetrennt werden.
+</P>
+<P>
+7. Thermischer Reaktor nach Anspruch 8, wobei eingangsseitig in einen öffnenden Konus der Brennkammer (1) die insbesondere mehrere Austrittsöffnungen aufweisende Zuführung (3) für den Brennstoff (BS) angeordnet ist.
+</P>
+<P>
+8. Thermischer Reaktor nach einem der Ansprüche 8 bis 10, wobei ausgangsseitig ein schliessender Konus der Brennkammer (1) zumindest mit einem Strömungselement versehen ist, das insbesondere als ein zumindest teilweise in den schliessenden Konus hineinragendes Resonanzrohr (5) ausgebildet ist.
+</P>
+<P>
+9. Vorrichtung zur Herstellung von Partikeln (P), insbesondere mit einer mittleren Partikelgrösse von 10 nm bis 100 m, umfassend mindestens zwei thermische Reaktoren (R1, R2), wobei die zwei thermischen Reaktoren (R1, R2) miteinander gekoppelt sind und der erste thermische Reaktor (R1) als Pulsationsreaktor zur Erzeugung eines pulsierenden Heissgasstroms (HGS) eine Brennkammer (1) umfasst, der ein Verbrennungsgas (VG) über Ventile (2) pulsierend und gasförmiger Brennstoff (BS) davon separat und kontinuierlich zumindest über eine Zuführung (3) sowohl bei geöffneten als auch bei geschlossenen Ventilen (2) in die Brennkammer (1) zuführbar sind, und sich ein zweiter thermischer Reaktor (R2) an ein Resonanzrohr (5) des ersten thermischen Reaktors (R1) anschliesst, wobei dieser zweite thermische Reaktor (R2) als Reaktionsraum, als Trocknungsraum, als Kalzinationsraum und/oder als Kristallisationsraum der Partikelbildung dient, wobei dem ersten und/oder zweiten thermischen Reaktor (R1, R2) eine Rohstoffmischung (RM) von dem Verbrennungsgas (VG) und dem gasförmigen Brennstoff (BS) separat mit oder ohne kalorische Komponenten an mindestens einem Zuführungspunkt (6.1 bis 6.n) in die Brennkammer (1) oder bezogen auf den Heissgasstrom (HGS) an einem nachfolgenden Ort zuführbar ist, und eine Abscheidevorrichtung (7) nach dem zweiten thermischen Reaktor (R2) bezogen auf den Heissgasstrom (HGS) zur Abtrennung der gebildeten Partikel (P) vom Heissgasstrom (HGS) angeordnet ist.
+</P>
+<P>
+10. Vorrichtung nach einem der vorhergehenden Ansprüche 13 oder 14, wobei als zweiter thermischer Reaktor (R2) ein in Form und Abmessung im Wesentlichen mit dem ersten thermischen Reaktor (R1) übereinstimmender thermischer Reaktor vorgesehen ist oder der zweite thermische Reaktor (R2) ein gegenüber dem ersten thermischen Reaktor (R1) grösseres Reaktorvolumen und/oder einen grösseren Querschnitt aufweist.
+</P>
+<P>
+11. Vorrichtung nach einem der vorhergehenden Ansprüche 13 bis 16, wobei als zweiter thermischer Reaktor (R2) ein Pulsationsreaktor oder ein Wirbelschichtreaktor vorgesehen ist, der ein gegenüber dem ersten thermischen Reaktor (R1) ein grösseres Reaktorvolumen und/oder einen grösseren Querschnitt aufweist.
+</P>
+</Claims>
+<Also_published_as>
+EP1927394B1;DE102006046803A1;AT440661T
+</Also_published_as>
+</BiblioData>

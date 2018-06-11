@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+WATER TREATMENT COMPOSITION COMPRISING NANOSTRUCTURED MATERIALS
+</Title>
+<PublicationNumber>
+EP1954634A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHEN HUIMIN [US]
+</Name>
+<Name>
+WANG MEIDONG [US]
+</Name>
+<Name>
+XIAO DANNY [US]
+</Name>
+<Name>
+CLIFFORD DENNIS A [US]
+</Name>
+<Name>
+CHEN, HUIMIN
+</Name>
+<Name>
+WANG, MEIDONG
+</Name>
+<Name>
+XIAO, DANNY
+</Name>
+<Name>
+CLIFFORD, DENNIS, A
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+INFRAMAT CORP [US]
+</Name>
+<Name>
+UNIV HOUSTON [US]
+</Name>
+<Name>
+INFRAMAT CORPORATION
+</Name>
+<Name>
+THE UNIVERSITY OF HOUSTON
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1954634
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060826063
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US40458
+</PriorityNumber>
+<PriorityDate>
+2006-10-16
+</PriorityDate>
+<PriorityNumber>
+US20050726924P
+</PriorityNumber>
+<PriorityDate>
+2005-10-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C02F1/28
+</Class>
+<Class>
+C02F1/62
+</Class>
+<Class>
+C02F1/72
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J20/06
+</Class>
+<Class>
+B01J20/32H8
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C02F1/28B
+</Class>
+<Class>
+C02F1/72K
+</Class>
+</NCL>
+<Abstract>
+A water treatment composition includes an oxidizing component and an absorbing component, wherein one or both of the oxidizing component and absorbing component comprise nanostructured materials. The water treatment compositions are useful in at least partially removing contaminants such as metallic or cationic arsenic, lead, chromium, and/or mercury from water.
+</Abstract>
+<Claims>
+<P>
+1. A water treatment composition, comprising:
+</P>
+<P>
+an oxidizing component; and
+</P>
+<P>
+an absorbing component, wherein one or both of the oxidizing component and absorbing component comprise nanostructured materials.
+</P>
+<P>
+2. The water treatment composition of claim 1, wherein the one or both of the oxidizing component and absorbing component comprising the nanostructured materials are agglomerated to form particles having an average longest dimension of at least one micrometer.
+</P>
+<P>
+3. The water treatment composition of claim 1, wherein the oxidizing component comprises a manganese-, silver-, and/or titanium-containing composition.
+</P>
+<P>
+4. The water treatment composition of claim 1, wherein the oxidizing component comprises an oxide, hydroxide, or oxyhydroxide.
+</P>
+<P>
+5. The water treatment composition of claim 1, wherein the absorbing component comprises a titanium-, zirconium-, aluminum-, and/or iron-containing composition.
+</P>
+<P>
+6. The water treatment composition of claim 1, wherein the absorbing component comprises an oxide, hydroxide, or oxyhydroxide.
+</P>
+<P>
+7. The water treatment composition of claim 1, wherein the absorbing component and/or the oxidizing component is doped.
+</P>
+<P>
+8. The water treatment composition of claim 1, wherein the oxidizing component comprises a manganese oxide, an iron-doped manganese oxide, or a combination comprising at least one of the foregoing.
+</P>
+<P>
+9. The water treatment composition of claim 1, wherein the absorbing component comprises an iron oxide, manganese-doped iron oxide, lanthanum-doped iron oxide, zirconium hydroxide, manganese-doped zirconium hydroxide, iron-doped zirconium hydroxide, titanium hydroxide, manganese-doped titanium hydroxide, iron-doped titanium hydroxide, or a combination comprising at least one of the foregoing.
+</P>
+<P>
+10. The water treatment composition claim 1, further comprising a carrier onto which the oxidizing component and/or the absorbing component is disposed.
+</P>
+<P>
+11. The water treatment composition of claim 1, further comprising a filtration medium into which the oxidizing component and/or the absorbing component is embedded.
+</P>
+<P>
+12. A water treatment composition, comprising:
+</P>
+<P>
+a nanostructured manganese containing composition; and
+</P>
+<P>
+a nanostructured absorbing component, wherein the nanostructure manganese-containing composition and the nanostructured absorbing component are agglomerated to form a particle having an average longest dimension of at least one micrometer.
+</P>
+<P>
+13. The water treatment composition of claim 12, wherein the nanostructured manganese containing composition is a manganese oxide, an iron-doped manganese oxide, or a combination comprising at least one of the foregoing.
+</P>
+<P>
+14. The water treatment composition of claim 12, wherein the nanostructured absorbing component comprises a titanium-, zirconium-, aluminum-, and/or iron-containing composition.
+</P>
+<P>
+15. The water treatment composition of claim 12, wherein the nanostructured absorbing component comprises an iron oxide, manganese-doped iron oxide, lanthanum-doped iron oxide, zirconium hydroxide, manganese-doped zirconium hydroxide, iron-doped zirconium hydroxide, titanium hydroxide, manganese-doped titanium hydroxide, iron-doped titanium hydroxide, or a combination comprising at least one of the foregoing.
+</P>
+<P>
+16. The water treatment composition of claim 12, further comprising a carrier onto which the oxidizing component and/or the absorbing component is disposed.
+</P>
+<P>
+17. The water treatment composition of claim 12, further comprising a filtration medium into which the oxidizing component and/or the absorbing component is embedded.
+</P>
+<P>
+18. A method for treating water, comprising
+</P>
+<P>
+contacting water with a water treatment composition comprising an oxidizing component and an absorbing component, wherein one or both of the oxidizing component and absorbing component are nanostructured; and
+</P>
+<P>
+at least partially removing a contaminant from the water.
+</P>
+<P>
+19. The method of claim 18, wherein the at least partially removing a contaminant comprises:
+</P>
+<P>
+oxidizing the contaminant; and
+</P>
+<P>
+absorbing the oxidized contaminant.
+</P>
+<P>
+20. The method of claim 18, wherein the contaminant comprises metallic or cationic arsenic, lead, mercury, chromium, or a combination comprising at least one of the foregoing.
+</P>
+</Claims>
+<Also_published_as>
+US2007086935A1;US7655148B2;WO2007047624A1;CN102531145A;CN101370737A;CN101370737B
+</Also_published_as>
+</BiblioData>

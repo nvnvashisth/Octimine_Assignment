@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR FORMING MOLECULAR SEQUENCES ON SURFACES
+</Title>
+<PublicationNumber>
+EP1996947A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GULARI ERDOGAN [US]
+</Name>
+<Name>
+ROUILLARD JEAN-MARIE [US]
+</Name>
+<Name>
+GAO XIAOLIAN [US]
+</Name>
+<Name>
+ZHOU XIAOCHUAN [US]
+</Name>
+<Name>
+GULARI, ERDOGAN
+</Name>
+<Name>
+ROUILLARD, JEAN-MARIE
+</Name>
+<Name>
+GAO, XIAOLIAN
+</Name>
+<Name>
+ZHOU, XIAOCHUAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV MICHIGAN [US]
+</Name>
+<Name>
+UNIV HOUSTON [US]
+</Name>
+<Name>
+THE REGENTS OF THE UNIVERSITY OF MICHIGAN
+</Name>
+<Name>
+UNIVERSITY OF HOUSTON
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1996947
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070759251
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US64791
+</PriorityNumber>
+<PriorityDate>
+2007-03-23
+</PriorityDate>
+<PriorityNumber>
+US20060785938P
+</PriorityNumber>
+<PriorityDate>
+2006-03-24
+</PriorityDate>
+<PriorityNumber>
+US20070690368
+</PriorityNumber>
+<PriorityDate>
+2007-03-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C07B61/00
+</Class>
+<Class>
+C07K14/00
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/551
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C40B50/18
+</Class>
+<Class>
+G01N33/543F
+</Class>
+</NCL>
+<Abstract>
+A method for forming molecular sequences includes derivatizing an unconfined substrate surface with at least one linker containing a protected reactive group. The substrate is contacted with a solution containing a photogenerated reagent precursor and a buffer and/or a neutralizer. A photogenerated reagent is generated in at least a portion of the solution. The photogenerated reagent is configured to initiate the formation of at least one active region on the substrate surface. A monomer is coupled to the active region.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method for forming a molecular sequence, comprising:
+</P>
+<P>
+derivatizing an unconfined substrate surface with at least one linker containing a protected reactive group;
+</P>
+<P>
+contacting the substrate with a solution containing a photogenerated reagent precursor and at least one of a buffer or a neutralizer;
+</P>
+<P>
+generating a photogenerated reagent in at least a portion of the solution, the photogenerated reagent configured to initiate the formation of at least one active region on the substrate surface; and
+</P>
+<P>
+coupling a monomer to the at least one active region.
+</P>
+<P>
+2. The method as defined in claim 1 wherein the photogenerated reagent precursor is selected from a photoacid generating molecule and a photobase generating molecule.
+</P>
+<P>
+3. The method as defined in claim 2 wherein the photogenerated reagent is selected from an acid and a base.
+</P>
+<P>
+4. The method as defined in claim 1 wherein generating the photogenerated reagent is accomplished via selectively exposing at least one region of the substrate to electromagnetic radiation.
+</P>
+<P>
+5. The method as defined in claim 4 wherein the photogenerated reagent is substantially confined to the at least one exposed region via the at least one of the buffer or neutralizer.
+</P>
+<P>
+6. The method as defined in claim 1 wherein the photogenerated reagent diffuses to a surface of the substrate where it catalyzes deprotection of the protected reactive group, thereby exposing a reactive group and forming the at least one active region.
+</P>
+<P>
+7. The method as defined in claim 1 wherein prior to coupling the monomer to the at least one active region, the method further comprises removing the solution from the substrate.
+</P>
+<P>
+8. The method as defined in claim 1 wherein the monomer has two ends, one of the two ends being unprotected and an other of the two ends having a protected reactive group attached thereto.
+</P>
+<P>
+9. The method as defined in claim 8 wherein the contacting, the generating, and the coupling steps are repeated to form a predetermined sequence.
+</P>
+<P>
+10. The method as defined in claim 1 wherein the solution further comprises at least one of a sensitizer, a stabilizer, a viscosity additive, or combinations thereof.
+</P>
+<P>
+11. The method as defined in claim 1 wherein the photogenerated reagent is an acid, and wherein the buffer or neutralizer is selected from pyridine, lutidine, piperidine, primary amines, secondary amines, tertiary amines, derivatives thereof, and combinations thereof.
+</P>
+<P>
+12. The method as defined in claim 1 wherein the photogenerated reagent is a base, and wherein the buffer or neutralizer is selected from benzillic acid, aluminum chloride, iron (III) chloride, boron trifluoride, ytterbium (III) triflate, butyric acid, propionic acid, phenol, and combinations thereof.
+</P>
+<P>
+13. The method as defined in claim 1 wherein the monomer has two unprotected ends.
+</P>
+<P>
+14. The method as defined in claim 1 wherein the monomer is in a solution containing at least one activator.
+</P>
+<P>
+15. The method as defined in claim 14 wherein the at least one activator is selected from tetrazole; 4,5,dicyanoimidazole (DCI); pyridiniumtrifluoroacetate; 5-ethlythiotetrazole; (3,5-dintrophenyl)-1H-tetrazole; trimethylchlorosilane; activator 42 (5-(bis-3,5-trifluormethylphenyl)1-H-tetrazole; derivatives thereof, and combinations thereof.
+</P>
+<P>
+16. A molecular sequence formed by the method of claim 1.
+</P>
+<P>
+17. An apparatus, comprising:
+</P>
+<P>
+an unconfined substrate surface; and
+</P>
+<P>
+a molecular sequence coupled to the unconfined substrate surface.
+</P>
+<P>
+18. The apparatus as defined in claim 17 wherein the molecular sequence includes a first monomer coupled to the unconfined substrate surface via a reactive group of a linker.
+</P>
+<P>
+19. The apparatus as defined in claim 18 wherein the reactive group initially contains a protection group that is removed via a photogenerated reagent.
+</P>
+<P>
+20. The apparatus as defined in claim 17 wherein the molecular sequence is formed of a plurality of monomers coupled together.
+</P>
+<P>
+21. The apparatus as defined in claim 20 wherein each of the plurality of monomers is selected from nucleotides, locked nucleic acid monomers, amino acids, monosaccharides, disaccharides, and combinations thereof.
+</P>
+</Claims>
+<Also_published_as>
+US2007224616A1;WO2008118167A1
+</Also_published_as>
+</BiblioData>

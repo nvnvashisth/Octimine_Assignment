@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PROCESS FOR PRODUCING CARBON FIBER STRUCTURE
+</Title>
+<PublicationNumber>
+EP1953274A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SHAN JIAYI [JP]
+</Name>
+<Name>
+TSUKADA TAKAYUKI [JP]
+</Name>
+<Name>
+MUNEKANE FUMINORI [JP]
+</Name>
+<Name>
+KAWAGUCHI HIROSUKE [JP]
+</Name>
+<Name>
+SHAN, JIAYI
+</Name>
+<Name>
+TSUKADA, TAKAYUKI
+</Name>
+<Name>
+MUNEKANE, FUMINORI
+</Name>
+<Name>
+KAWAGUCHI, HIROSUKE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BUSSAN NANOTECH RES INST INC [JP]
+</Name>
+<Name>
+MITSUI BUSSAN [JP]
+</Name>
+<Name>
+BUSSAN NANOTECH RESEARCH INSTITUTE INC
+</Name>
+<Name>
+MITSUI &amp; CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1953274
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060832932
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP323071
+</PriorityNumber>
+<PriorityDate>
+2006-11-20
+</PriorityDate>
+<PriorityNumber>
+JP20050336293
+</PriorityNumber>
+<PriorityDate>
+2005-11-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+<Class>
+D01F9/127
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+D01F9/127
+</Class>
+</NCL>
+<Abstract>
+Disclosed is a method for manufacturing carbon fibrous structures each of which comprises a three dimensional network of carbon fibers, which is characterized in that , in the procedure of carbon fiber vapor phase deposition utilizing decomposition of organic carbon compound, at least two kinds of organic carbon compounds as carbon sources are in existence at least at predetermined thermal decomposition reaction temperature range in a reaction furnace and partial pressures of gases of these compounds are regulated so that these compounds are decomposed at mutually different decomposition temperatures, and/or a raw material gas supplied into the reaction furnace is forced to form a turbulent flow.;  It is possible to obtain efficiently the carbon fibrous structures each of which comprises a three dimensional network of carbon fibers and which are suitable as additives to be added to solid materials, such as resin, ceramics, metal, etc., to improve physical properties, such as electric, mechanical, or thermal properties, of the solid materials, and also as additives to be added to liquid materials, such as fuels, lubricant oils, and etc., to improve physical properties, such as thermal property, of the liquid materials.
+</Abstract>
+<Claims>
+<P>
+1. Method for manufacturing carbon fibrous structures each of which comprises a three dimensional network of carbon fibers, which is characterized in that, in the procedure of carbon fiber vapor phase deposition utilizing decomposition of organic carbon compound, at least two kinds of organic carbon compounds as carbon sources are in existence at least at predetermined thermal decomposition reaction temperature range in a reaction furnace and partial pressures of gases of these compounds are regulated so that these compounds are decomposed at mutually different decomposition temperatures, and/or a raw material gas supplied into the reaction furnace is forced to form a turbulent flow.
+</P>
+<P>
+2. The method for manufacturing carbon fibrous structures carbon fibrous structure according to claim 1, wherein as carbon sources a first organic carbon compound and a second organic carbon compound are in existence at least at predetermined thermal decomposition reaction temperature range in the reaction furnace, and the mixing molar ratio of the first carbon compound and the second carbon compound (first carbon compound / second carbon compound) is be set to be in the range of &amp;gt;1 to 100.
+</P>
+<P>
+3. The method for manufacturing carbon fibrous structures carbon fibrous structure according to claim 1, wherein as a raw material gas toluene is supplied, and the toluene undergoes thermal decomposition in the reaction furnace or a preliminary heating furnace so that as carbon sources two component being of methane and benzene are in existence at the predetermined thermal decomposition reaction temperature range in the reaction furnace.
+</P>
+<P>
+4. The method for manufacturing carbon fibrous structures carbon fibrous structure according to claim 2, wherein methane as the first carbon compound and benzene as the second carbon compound are used.
+</P>
+<P>
+5. The method for manufacturing carbon fibrous structures carbon fibrous structure according to claim 2, wherein as raw material gases toluene and methane is supplied, and the toluene undergoes thermal decomposition in the reaction furnace or a preliminary heating furnace so that as carbon sources two component being of methane and benzene in a predetermined mixing molar ratio are in existence at the predetermined thermal decomposition reaction temperature range in the reaction furnace.
+</P>
+<P>
+6. The method for manufacturing carbon fibrous structures carbon fibrous structure according to claim 5, wherein the methane as raw material gas is supplied by recycling methane included in exhaust gas discharged from the reaction furnace.
+</P>
+<P>
+7. The method for manufacturing carbon fibrous structures carbon fibrous structure according to one of claims 1 -6, wherein the formation of the turbulent flow is performed by placing a collisionmember at a position where the raw material gas flow introduced into the reaction furnace is interfered by the collision member.
+</P>
+<P>
+8. The method for manufacturing carbon fibrous structures carbon fibrous structure according to one of claims 1 -7, wherein each of the obtained carbon fibrous structures comprises a three dimensional network of carbon fibers each having an outside diameter of 15 - 100 nm, wherein the carbon fibrous structure further comprises a granular part with which the carbon fibers are tied together in the state that the concerned carbon fibers are externally elongated therefrom, and wherein the granular part is produced in a growth process of the carbon fibers.
+</P>
+<P>
+9. Method for manufacturing carbon fibrous structures, wherein as carbon sources a methane rich mixture gas is used by decomposing thermally toluene as a raw material gas into methane and benzene at a preliminary heating and supplying thus obtained methane and benzene into the reaction furnace while supplying a part of exhaust gas discharged from the reaction furnace as recycling gas into the reaction furnace in combination with the methane and the benzene.
+</P>
+</Claims>
+<Also_published_as>
+EP1953274A4;US2009047428A1;WO2007058340A1;JP2007138355A
+</Also_published_as>
+</BiblioData>

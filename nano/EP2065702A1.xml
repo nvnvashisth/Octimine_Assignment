@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Microfluid extraction method
+</Title>
+<PublicationNumber>
+EP2065702A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MUELLER MANFRED [DE]
+</Name>
+<Name>
+STAEHLER CORD F [DE]
+</Name>
+<Name>
+STAEHLER PEER F [DE]
+</Name>
+<Name>
+MUELLER, MANFRED
+</Name>
+<Name>
+STAEHLER, CORD F
+</Name>
+<Name>
+STAEHLER, PEER F
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FEBIT HOLDING GMBH [DE]
+</Name>
+<Name>
+FEBIT HOLDING GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2065702
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090002448
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2002-10-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20020781236
+</PriorityNumber>
+<PriorityDate>
+2002-10-10
+</PriorityDate>
+<PriorityNumber>
+DE20011049947
+</PriorityNumber>
+<PriorityDate>
+2001-10-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+B01L3/00
+</Class>
+<Class>
+C12N15/10
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N30/00
+</Class>
+<Class>
+G01N33/53
+</Class>
+<Class>
+G01N30/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12N15/10A2
+</Class>
+<Class>
+C12Q1/68A4
+</Class>
+</NCL>
+<Abstract>
+Isolating target molecules (I) from a sample using a receptor array on a microfluidics carrier, is new. Isolating target molecules (I) from a sample comprises: (a) preparing a microfluidics carrier having an array of many different receptors, at separate positions;  (b) passing a sample containing (I) through the carrier so that (I) can bind specifically to its immobilized receptor;  (c) removal of non-bound sample material from the carrier;  and (d) elution of bound (I). Independent claims are also included for: (1) a similar method in which interferants are bound to the receptors and unbound (I) are eluted;  and (2) isolating target molecules comprising at least one cycle of the new method and at least one cycle of the method of (1).
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zur gezielten parallelen Extraktion von einer Vielzahl von individuellen DNA- oder RNA-Molekülen aus einem Gemisch, umfassend die Schritte
+</P>
+<P>
+(a) Bereitstellen eines aus Hybridisierungssonden bestehenden Arrays auf oder in einem mikrofluidischen Träger als Isolationsmatrix, wobei die Hybridisierungssonden auf unterschiedlichen Positionen auf dem oder im Träger immobilisiert sind,
+</P>
+<P>
+(b) Leiten einer Probe, die mehrere unterschiedliche DNA- und/oder RNA-Moleküle enthält, durch den mikrofluidischen Träger unter Bedingungen, bei denen die zu isolierenden DNA-und RNA-Moleküle spezifisch an die Isolationsmatrix binden,
+</P>
+<P>
+(c) Entfernen von nicht an die Isolationsmatrix gebundenem Material und
+</P>
+<P>
+(d) Eluieren der an die Isolationsmatrix gebunden DNA- oder RNA-Moleküle.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass die Hybridisierungssonden komplementär zu den zu extrahierenden DNA-oder RNA-Molekülen sind.
+</P>
+<P>
+3. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass der Träger in situ hergestellt wird.
+</P>
+<P>
+4. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass sich weitere Synthese- Extraktionszyklen anschliessen.
+</P>
+<P>
+5. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass sich eine Rekonstitution des Trägers anschliesst.
+</P>
+<P>
+6. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass die extrahierten Zielmoleküle in einer oder mehreren Nachfolgereaktionen eingesetzt werden.
+</P>
+<P>
+7. Verfahren nach Anspruch 6, dadurch gekennzeichnet, dass es sich bei der Nachfolgereaktion um eine Amplifikation, PCR, eine Klonierung, Transfektion, Translation oder um eine in vitro-Translation handelt.
+</P>
+<P>
+8. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass in Schritt (c) die Bindung der Zielmoleküle unter Zirkulation des Zielmolekülgemisches erfolgt.
+</P>
+<P>
+9. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass die Ermittlung der geeigneten Hybridisierungssonden mit Hilfe eines Computeralgorithmus erfolgt und diese komplementär zu den Zielmolekülen sind.
+</P>
+<P>
+10. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass mehr als eine Hybridisierungssonde für die Extraktion einer einzigen bestimmen Ziel-Nukleinsäure verwendet wird.
+</P>
+<P>
+11. Verfahren zur selektiven Extraktion von Nukleinsäuren-Zielmolekülen nach Anspruch 1, umfassend
+</P>
+<P>
+(a) Ermitteln von Daten zu den Sequenzen der Zielmoleküle, die aus einer Probe extrahiert werden sollen,
+</P>
+<P>
+(b) Ermitteln von geeigneten Hybridisierungssonden,
+</P>
+<P>
+(c) Bereitstellen eines Gerätes zur in situ-Synthese von Hybridisierungssonden auf einem mikrofluidischen Reaktionsträger,
+</P>
+<P>
+(d) Einspeisen der Hybridisierungssondensequenzen in eine Synthese-Steuerungseinheit,
+</P>
+<P>
+(e) Synthetisieren der Hybridisierungssondensequenzen in oder auf dem mikrofluidischen Reaktionsträger,
+</P>
+<P>
+(f) Zugeben der Probe, aus der die Zielmoleküle extrahiert werden sollen, so dass die Probe in die Kanäle des Reaktionsträgers gespült wird,
+</P>
+<P>
+(g) Equilibrieren des Träger so dass eine Bindung zwischen Zielmolekülen und Hybridisierungssonden erfolgen kann,
+</P>
+<P>
+(h) Spülen des Trägers, um ungebundenes Material zu entfernen,
+</P>
+<P>
+(i) Zerstören der Hybride zwischen Zielmolekülen und Hybridisierungssonden,
+</P>
+<P>
+(j) Ausspülen und Auffangen der abgelösten Zielmoleküle und
+</P>
+<P>
+(k) weiteres Verwenden der selektiv extrahierten Nukleinsäuren.
+</P>
+<P>
+12. Verwendung eines mikrofluidischen Trägers als Isolationsmatrix zur gezielten parallelen Extraktion einer Vielzahl von individuellen DNA- oder RNA-Molekülen aus einem Gemisch, wobei der Träger einen Array aus Hybridisierungssonden umfasst, die komplementär zu den zu extrahierenden DNA- oder RNA-Molekülen sind .
+</P>
+<P>
+13. Verwendung nach Anspruch 12, dadurch gekennzeichnet, dass die Synthese der Hybridisierungssonden in situ mit fluidchemischen Schritten, photochemischen Schritten, elektrochemischen Schritten oder Kombinationen von zwei oder mehreren dieser Schritte erfolgt.
+</P>
+<P>
+14. Verwendung eines Trägers zur gezielten parallelen Extraktion von einer Vielzahl von individuellen DNA- oder RNA-Molekülen aus einem Gemisch, dadurch gekennzeichnet, das der Träger folgende Elemente beinhaltet:
+</P>
+<P>
+(a) Bereiche zur Synthese eines Arrays von immobilisierten Hybridisierungssonden,
+</P>
+<P>
+(b) Bereiche zur Reaktion der immobilisierten Hybridisierungssonden mit in einer über den Träger geleiteten Probe enthaltenen Nukleinsäuren,
+</P>
+<P>
+(c) Einrichtungen zur Temperierung,
+</P>
+<P>
+(d) Einrichtungen für die Zugabe von Puffern und
+</P>
+<P>
+(e) gegebenenfalls Pumpen, Reservoirs und Ventile.
+</P>
+</Claims>
+<Also_published_as>
+EP2065702B1;WO03031965A2;WO03031965A3;US2008146791A1;US7901886B2;US2005040043A1;US7320862B2;EP1436609A2;EP1436609B1;DE10149947A1;AU2002349344A1;AT545019T;AT426158T
+</Also_published_as>
+</BiblioData>

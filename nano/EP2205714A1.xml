@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DETECTION OF MTHYLATED DNA AND DNA MUTATIONS
+</Title>
+<PublicationNumber>
+EP2205714A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ZHOU CHONGWU [US]
+</Name>
+<Name>
+THOMPSON MARK E [US]
+</Name>
+<Name>
+YANG ALLEN S [US]
+</Name>
+<Name>
+COTE RICHARD JAMES [US]
+</Name>
+<Name>
+ZHOU, CHONGWU
+</Name>
+<Name>
+THOMPSON, MARK, E
+</Name>
+<Name>
+YANG, ALLEN, S
+</Name>
+<Name>
+COTE, RICHARD, JAMES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV SOUTHERN CALIFORNIA [US]
+</Name>
+<Name>
+UNIVERSITY OF SOUTHERN CALIFORNIA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2205714
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080835597
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-10-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US78452
+</PriorityNumber>
+<PriorityDate>
+2008-10-01
+</PriorityDate>
+<PriorityNumber>
+US20070976774P
+</PriorityNumber>
+<PriorityDate>
+2007-10-01
+</PriorityDate>
+<PriorityNumber>
+US20070976780P
+</PriorityNumber>
+<PriorityDate>
+2007-10-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12M1/34
+</Class>
+<Class>
+C12M3/00
+</Class>
+<Class>
+C12Q1/68
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12Q1/68B2H
+</Class>
+<Class>
+C12Q1/68B6
+</Class>
+<Class>
+C12Q1/68M6B
+</Class>
+<Class>
+G01N27/414
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to various methods of detecting DNA methylation and defected DNA. In one embodiment, the invention provides a nanosensor bound to a probe that is complementary to a DNA methylation sequence.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method of preparing a nanosensor to detect DNA methylation, comprising: providing a nanosensor; and attaching a probe to the nanosensor, wherein the probe is adapted to bind a methylated DNA sequence.
+</P>
+<P>
+2. The method of claim 1, wherein the nanosensor comprises nanotube and nanowire surfaces.
+</P>
+<P>
+3. The method of claim 1, wherein the nanosensor is an NW/NT sensor.
+</P>
+<P>
+4. The method of claim 1, wherein the probe comprises a polynucleotide.
+</P>
+<P>
+5. The method of claim 1, wherein the probe is adapted to bind an agent.
+</P>
+<P>
+6. The method of claim 5, wherein the agent comprises a signal amplifier.
+</P>
+<P>
+7. The method of claim 1, wherein the probe comprises SEQ. ID. NO.: 1, SEQ. ID. NO.: 2, SEQ. ID. NO.: 3, SEQ. ID. NO.: 4, or a combination thereof.
+</P>
+<P>
+8. The method of claim 1, wherein the probe comprises SEQ. ID. NO.: 5, SEQ. ID. NO.: 6, SEQ. ID. NO.: 7, SEQ. ID. NO.: 8, SEQ. ID. NO.: 9, SEQ. ID. NO.: 10, SEQ. ID. NO.: 11, SEQ. ID. NO.: 12, SEQ. ID. NO.: 13, or a combination thereof.
+</P>
+<P>
+9. A nanosensor for detecting defected DNA, comprising: a NW/NT sensor; and a probe bound thereto, wherein the probe is adapted to bind to a defected DNA.
+</P>
+<P>
+10. The nanosensor of claim 9, wherein the probe is a polynucleotide. 11. The nanosensor of claim 10, wherein the polynucleotide comprises a CG rich sequence.
+</P>
+<P>
+12. The nanosensor of claim 9, wherein the defected DNA comprises a methylated nucleotide.
+</P>
+<P>
+13. The nanosensor of claim 9, wherein the defected DNA comprises a point mutation.
+</P>
+<P>
+14. The nanosensor of claim 9, wherein the probe and defected DNA are adapted to bind as complementary polynucleotides.
+</P>
+<P>
+15. A method of detecting a defected nucleotide in a DNA sample, comprising: providing a nanosensor configured to detectably change when a defected nucleotide bound to a probe on the nanosensor is itself bound by an agent; contacting the nanosensor with a sample; and contacting the nanosensor with the agent, wherein the nanosensor detectably changes if the sample comprises the defected nucleotide.
+</P>
+<P>
+16. The method of claim 15, wherein the agent comprises a methyl-CpG binding protein.
+</P>
+<P>
+17. The method of claim 15, wherein the agent comprises MBDl, MBD2, MBD4 and/or MeCP272.
+</P>
+<P>
+18. The method of claim 15, wherein the agent comprises an antibody.
+</P>
+<P>
+19. The method of claim 15, wherein the defected nucleotide comprises a point mutation.
+</P>
+<P>
+20. The method of claim 15, wherein the agent comprises a DNA repair protein. 21. The method of claim 15, wherein the defected nucleotide comprises a methylated DNA nucleotide.
+</P>
+<P>
+22. A method of diagnosing a disease in an individual in which the presence or absence of methylation for a plurality of genetic loci is associated with the disease, comprising: using a nanosensor to determine the presence or absence in the individual of the methylation in the plurality of genetic loci; and diagnosing the individual as having the disease if the individual demonstrates the presence or absence of the methylation of the plurality of genetic loci.
+</P>
+<P>
+23. The method of claim 22, wherein the disease is cancer.
+</P>
+<P>
+24. A method of treating a disease in an individual in which the presence or absence of methylation for a plurality of genetic loci is associated with the disease, comprising: using a nanosensor to determine the presence or absence in the individual of the methylation in the plurality of genetic loci; diagnosing the individual as having the disease if the individual demonstrates the presence or absence of the methylation of the plurality of genetic loci; and treating the disease, if the individual is diagnosed as having it.
+</P>
+<P>
+25. The method of claim 24, wherein the disease is cancer.
+</P>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method of preparing a nanosensor to detect DNA methylation, comprising: providing a nanosensor; and attaching a probe to the nanosensor, wherein the probe is adapted to bind a methylated DNA sequence.
+</P>
+<P>
+2. The method of claim 1, wherein the nanosensor comprises nanotube and nanowire surfaces.
+</P>
+<P>
+3. The method of claim 1, wherein the nanosensor is an NW/NT sensor.
+</P>
+<P>
+4. The method of claim 1, wherein the probe comprises a polynucleotide.
+</P>
+<P>
+5. The method of claim 1, wherein the probe is adapted to bind an agent.
+</P>
+<P>
+6. The method of claim 5, wherein the agent comprises a signal amplifier.
+</P>
+<P>
+7. The method of claim 1, wherein the probe comprises SEQ. ID. NO.: 1, SEQ. ID. NO.: 2, SEQ. ID. NO.: 3, SEQ. ID. NO.: 4, or a combination thereof.
+</P>
+<P>
+8. The method of claim 1, wherein the probe comprises SEQ. ID. NO.: 5, SEQ. ID. NO.: 6, SEQ. ID. NO.: 7, SEQ. ID. NO.: 8, SEQ. ID. NO.: 9, SEQ. ID. NO.: 10, SEQ. ID. NO.: 11, SEQ. ID. NO.: 12, SEQ. ID. NO.: 13, or a combination thereof.
+</P>
+<P>
+9. A nanosensor for detecting defected DNA, comprising: a NW/NT sensor; and a probe bound thereto, wherein the probe is adapted to bind to a defected DNA.
+</P>
+<P>
+10. The nanosensor of claim 9, wherein the probe is a polynucleotide. 11. The nanosensor of claim 10, wherein the polynucleotide comprises a CG rich sequence.
+</P>
+<P>
+12. The nanosensor of claim 9, wherein the defected DNA comprises a methylated nucleotide.
+</P>
+<P>
+13. The nanosensor of claim 9, wherein the defected DNA comprises a point mutation.
+</P>
+<P>
+14. The nanosensor of claim 9, wherein the probe and defected DNA are adapted to bind as complementary polynucleotides.
+</P>
+<P>
+15. A method of detecting a defected nucleotide in a DNA sample, comprising: providing a nanosensor configured to detectably change when a defected nucleotide bound to a probe on the nanosensor is itself bound by an agent; contacting the nanosensor with a sample; and contacting the nanosensor with the agent, wherein the nanosensor detectably changes if the sample comprises the defected nucleotide.
+</P>
+<P>
+16. The method of claim 15, wherein the agent comprises a methyl-CpG binding protein.
+</P>
+<P>
+17. The method of claim 15, wherein the agent comprises MBDl, MBD2, MBD4 and/or MeCP272.
+</P>
+<P>
+18. The method of claim 15, wherein the agent comprises an antibody.
+</P>
+<P>
+19. The method of claim 15, wherein the defected nucleotide comprises a point mutation.
+</P>
+<P>
+20. The method of claim 15, wherein the agent comprises a DNA repair protein. 21. The method of claim 15, wherein the defected nucleotide comprises a methylated DNA nucleotide.
+</P>
+<P>
+22. A method of diagnosing a disease in an individual in which the presence or absence of methylation for a plurality of genetic loci is associated with the disease, comprising: using a nanosensor to determine the presence or absence in the individual of the methylation in the plurality of genetic loci; and diagnosing the individual as having the disease if the individual demonstrates the presence or absence of the methylation of the plurality of genetic loci.
+</P>
+<P>
+23. The method of claim 22, wherein the disease is cancer.
+</P>
+<P>
+24. A method of treating a disease in an individual in which the presence or absence of methylation for a plurality of genetic loci is associated with the disease, comprising: using a nanosensor to determine the presence or absence in the individual of the methylation in the plurality of genetic loci; diagnosing the individual as having the disease if the individual demonstrates the presence or absence of the methylation of the plurality of genetic loci; and treating the disease, if the individual is diagnosed as having it.
+</P>
+<P>
+25. The method of claim 24, wherein the disease is cancer.
+</P>
+</Claims>
+<Also_published_as>
+EP2205714A4;WO2009046110A1;WO2009085356A2;WO2009085356A3;WO2009085356A8;WO2009046136A2;WO2009046136A3;US2010260745A1;US2011275544A1;US2010292348A1;JP2011518311A;EP2210093A2;CN102016570A;CA2701447A1;CA2701401A1;CA2701380A1
+</Also_published_as>
+</BiblioData>

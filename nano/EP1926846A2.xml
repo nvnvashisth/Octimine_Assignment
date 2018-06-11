@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SYSTEMS AND METHODS FOR FORMATION AND HARVESTING OF NANOFIBROUS MATERIALS
+</Title>
+<PublicationNumber>
+EP1926846A2
+</PublicationNumber>
+<Inventor>
+<Name>
+LASHMORE DAVID S [US]
+</Name>
+<Name>
+BROWN JOSEPH J [US]
+</Name>
+<Name>
+CHAFFEE JARED K [US]
+</Name>
+<Name>
+RESNICOFF BRUCE [US]
+</Name>
+<Name>
+ANTOINETTE PETER [US]
+</Name>
+<Name>
+LASHMORE, DAVID, S
+</Name>
+<Name>
+BROWN, JOSEPH, J
+</Name>
+<Name>
+CHAFFEE, JARED, K
+</Name>
+<Name>
+RESNICOFF, BRUCE
+</Name>
+<Name>
+ANTOINETTE, PETER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOCOMP TECHNOLOGIES INC [US]
+</Name>
+<Name>
+NANOCOMP TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1926846
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060851553
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-07-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US27918
+</PriorityNumber>
+<PriorityDate>
+2006-07-17
+</PriorityDate>
+<PriorityNumber>
+US20050703328P
+</PriorityNumber>
+<PriorityDate>
+2005-07-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B3/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+D01F9/127
+</Class>
+<Class>
+D01F9/133
+</Class>
+<Class>
+D01G1/06
+</Class>
+<Class>
+D02G3/02
+</Class>
+<Class>
+D04H1/4382
+</Class>
+<Class>
+D04H1/4391
+</Class>
+<Class>
+D04H1/44
+</Class>
+<Class>
+D04H1/728
+</Class>
+<Class>
+D04H1/74
+</Class>
+</NCL>
+<Abstract>
+A system that receives nanomaterials, forms nanofibrous materials therefrom, and collects these nanofibrous materials for subsequent applications. The system is coupled to a chamber that generates nanomaterials, typically carbon nanotubes produced from chemical vapor deposition, and includes a mechanism for spinning the nanotubes into yarns or tows. Alternatively, the system includes a mechanism for forming non-woven sheets from the nanotubes. The system also includes components for collecting the formed nanofibrous materials. Methods for forming and collecting the nanofibrous materials are also provided.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A system for forming a nanofibrous yarn, the apparatus comprising:
+</P>
+<P>
+a housing having an inlet for engaging an independent synthesis chamber within which nanotubes are produced;
+</P>
+<P>
+a spindle having an intake end, an opposing outlet end, and a pathway therebetween, the spindle extending from within the housing, across the inlet and into the chamber for collecting the nanotubes through the intake end and twisting the nanotubes into a nanofibrous yarn;
+</P>
+<P>
+a spool positioned within the housing and downstream of the spindle for winding thereonto the yarn from the spindle;
+</P>
+<P>
+a sensor system designed to provide feedback data to control a rate of spin of the spindle and spool, so as to avoid compromising the integrity of the yarn as it is being wound about the spool.
+</P>
+<P>
+2. A system as set forth in claim 1, wherein the housing is substantially airtight to minimize the airborne release of nanotubes and related particulates generated from within the chamber.
+</P>
+<P>
+3. A system as set forth in claim 1, wherein the spindle includes a funnel at the intake end to guide the nanotubes through the intake end and into the spindle.
+</P>
+<P>
+4. A system as set forth in claim 1, wherein the spool is designed to move back and forth along its axis to provide substantially uniform uptake of the yarn about the spool.
+</P>
+<P>
+5. A system as set forth in claim 1, wherein the sensor system is designed to provide data to control yarn tension.
+</P>
+<P>
+6. A system as set forth in claim 1, wherein the sensor system is designed to provide data that can be used to synchronize the rate of spin of the spool to that of the spindle.
+</P>
+<P>
+7. A system as set forth in claim 1, wherein the sensor system is designed to provided data that can be used to synchronize the rate of spin of the spindle and spool to that substantially similar to the rate of synthesis of the nanotubes.
+</P>
+<P>
+8. A system as set forth in claim 1, further including a guide arm situated between the spindle and the spool to direct the yarn exiting from the spindle onto the spool for subsequent winding about the spool.
+</P>
+<P>
+9. A system as set forth in claim 8, wherein the guide arm includes one of a set of pulleys, hooks, eyelets or a combination thereof to define a path on which yarn may be directed along the guide arm toward the spool.
+</P>
+<P>
+10. A method for forming a nanofibrous yarn, the method comprising:
+</P>
+<P>
+receiving a plurality of synthesized nanotubes moving substantially in one direction;
+</P>
+<P>
+twisting the plurality of nanotubes together in a direction substantially transverse to the direction of movement of the nanotubes into a yarn;
+</P>
+<P>
+directing the yarn toward an area for harvesting;
+</P>
+<P>
+collecting the yarn by winding the yarn about an axis substantially transverse to a direction of movement of the yarn; and
+</P>
+<P>
+controlling the winding to a rate that avoids compromising the integrity of the yarn.
+</P>
+<P>
+11. A method as set forth in claim 10, wherein the step of receiving includes funneling, into an airtight environment, the nanotubes towards a constricted area.
+</P>
+<P>
+12. A method as set forth in claim 10, wherein the step of receiving includes bundling the plurality of nanotubes within a constricted area.
+</P>
+<P>
+13. A method as set forth in claim 10, further including, prior to the step of receiving, providing an anchor on which synthesized nanotubes may attach to permit the nanotubes to move substantially in one direction.
+</P>
+<P>
+14. A method as set forth in claim 10, further including, prior to the step of receiving, imparting a vortex flow onto the synthesized nanotubes so as to provide an initial twisting.
+</P>
+<P>
+15. A method as set forth in claim 10, wherein the step of twisting includes increasing points of contact between adjacent nanotubes to enhance the strength of the formed yarn.
+</P>
+<P>
+16. A method as set forth in claim 10, wherein the step of twisting includes impregnating the yarn with a material that can impart crosslinking between the nanotubes to enhance the strength of the formed yarn.
+</P>
+<P>
+17. A method as set forth in claim 10, wherein the step of directing includes moving the yarn along a defined pathway.
+</P>
+<P>
+18. A method as set forth in claim 10, wherein the step of collecting includes advancing along the axis to permit uniform winding.
+</P>
+<P>
+19. A method as set forth in claim 10, wherein the step of controlling includes utilizing feedback data from the steps of twisting and winding to control a rate of twisting and winding.
+</P>
+<P>
+20. A method as set forth in claim 19, wherein the step of utilizing includes synchronizing the rate of winding to that of twisting.
+</P>
+<P>
+21. A method as set forth in claim 10, wherein the step of controlling includes controlling yarn tension.
+</P>
+<P>
+22. A method as set forth in claim 10, wherein the step of controlling includes synchronizing the rate of winding and twisting to that substantially similar to a rate of receiving the nanotubes.
+</P>
+<P>
+23. A system for forming a nanofibrous non-woven sheet, the apparatus comprising:
+</P>
+<P>
+a housing having an inlet for engaging an independent synthesis chamber within which nanotubes are produced;
+</P>
+<P>
+a moving surface positioned adjacent the inlet within the housing for collecting and transporting the nanotubes flowing from the synthesis chamber;
+</P>
+<P>
+a pressure applicator situated adjacent the moving surface to apply a force against the collected nanotubes on the moving surface, so as to compact the nanotubes into a non-woven sheet of intermingled nanotubes;
+</P>
+<P>
+a spool positioned within the housing and downstream of the pressure applicator for winding thereonto the non-woven sheet; and
+</P>
+<P>
+a separator for applying a material onto one side of the non-woven sheet prior to the sheet being wound about the spool to minimize bonding of the non-woven sheet to itself on the spool.
+</P>
+<P>
+24. A system as set forth in claim 23, wherein the housing is substantially airtight to minimize the airborne release of nanotubes and related particulates generated from within the chamber.
+</P>
+<P>
+25. A system as set forth in claim 23, wherein the moving surface is positioned at an angle substantially transverse to the flow of nanotubes from the synthesis chamber to permit the nanotubes to be deposited thereon.
+</P>
+<P>
+26. A system as set forth in claim 23, wherein the moving surface is a belt disposed about opposing rotating elements.
+</P>
+<P>
+27. A system as set forth in claim 26, wherein the belt is porous to permit gas flowing from the synthesis chamber to pass therethrough.
+</P>
+<P>
+28. A system as set forth in claim 23, the pressure applicator includes a plate positioned behind the moving surface to provide a hard surface against which pressure from the applicator can be applied.
+</P>
+<P>
+29. A system as set forth in claim 23, wherein the spool has an axis of rotation that is substantially transverse to the direction of movement of the non-woven sheet.
+</P>
+<P>
+30. A system as set forth in claim 23, further including a blade downstream of the pressure applicator and having an edge against the moving surface to lift and disengage the non-woven sheet from the moving surface for subsequent winding about the spool.
+</P>
+<P>
+31. A system as set forth in claim 23, further including a sensor system designed to provide feedback data to control a rate of spin of the moving surface and spool, so as to avoid compromising the integrity of the non-woven sheet as it is being wound about the spool.
+</P>
+<P>
+32. A system as set forth in claim 23, wherein the sensor system is designed to provide data to control tension of the non-woven sheet between the moving surface and the spool.
+</P>
+<P>
+33. A system as set forth in claim 23, wherein the sensor system is designed to provide data that can be used to synchronize a rate of spin of the spool to that of the moving surface.
+</P>
+<P>
+34. A system as set forth in claim 23, wherein the sensor system is designed to provided data that can be used to synchronize a rate of spin of the moving surface and spool to that substantially similar to the rate of deposit of nanotubes onto the moving surface.
+</P>
+<P>
+35. A method for forming a nanofibrous non-woven sheet, the method comprising:
+</P>
+<P>
+depositing a plurality of synthesized nanotubes onto a surface;
+</P>
+<P>
+transporting the nanotubes away from a point of deposition;
+</P>
+<P>
+applying pressure onto the plurality of nanotubes against the surface, so as to compact the nanotubes into a non-woven sheet of intermingled nanotubes;
+</P>
+<P>
+directing the non-woven sheet toward an area for harvesting;
+</P>
+<P>
+putting a material onto one side of the non-woven sheet to prevent the non-woven sheet from bonding to itself; and
+</P>
+<P>
+collecting the non-woven sheet by winding the sheet about an axis substantially transverse to a direction of movement of the sheet.
+</P>
+<P>
+36. A method as set forth in claim 35, wherein the step of depositing includes continuously depositing the nanotubes onto the surface within an airtight environment.
+</P>
+<P>
+37. A method as set forth in claim 35, wherein the step of transporting includes moving the nanotubes away in a direction substantially transverse to a direction of deposition.
+</P>
+<P>
+38. A method as set forth in claim 35, wherein the step of applying includes forcing the nanotubes to move between the surface and a rolling mechanism.
+</P>
+<P>
+39. A method as set forth in claim 35, wherein the step of directing includes lifting the non-woven sheet from the surface so that it is substantially disengaged for subsequent harvesting.
+</P>
+<P>
+40. A method as set forth in claim 35, wherein, in the step of putting, the material is a non-magnetic material so as to prevent the non-woven sheet from sticking strongly to the material.
+</P>
+<P>
+41. A method as set forth in claim 35, wherein the step of collecting includes controlling a rate of winding, so as to avoid compromising the integrity of the non-woven sheet.
+</P>
+<P>
+42. A method as set forth in claim 35, further including, prior to the step of depositing, generating an electrostatic field through which the nanotubes can be directed to permit substantial alignment of the nanotubes.
+</P>
+<P>
+43. An apparatus for presenting synthesized nanotubes in a twisting manner for subsequent formation of nanofibrous materials, the apparatus comprising:
+</P>
+<P>
+a body portion having a pathway through which synthesized nanotubes may flow;
+</P>
+<P>
+a cap portion attached to a distal end of the body portion and having an opening through which the nanotubes may exit;
+</P>
+<P>
+a channel positioned between the cap portion and the body portion and circumferentially about the pathway;
+</P>
+<P>
+a plurality of exit ports, situated within the channel, in fluid communication with the pathway, so as to impart a vortex flow into the pathway such that nanotubes flowing through the pathway can be presented in a twisting manner after exiting the distal end of the body.
+</P>
+<P>
+44. An apparatus as set forth in claim 43, wherein the pathway in the body portion includes a tapered portion adjacent a proximal end of the body portion and a substantially uniform portion adjacent the distal end of the body portion.
+</P>
+<P>
+45. An apparatus as set forth in claim 43, wherein the pathway in the body portion acts to minimize build up of nanotubes which can compromise the synthesis of the nanotubes.
+</P>
+<P>
+46. An apparatus as set forth in claim 43, wherein the pathway in the body portion is axisymmetric.
+</P>
+<P>
+47. An apparatus as set forth in claim 43, wherein the opening in the cap portion in substantial axial alignment with the pathway to permit nanotubes to exit from the pathway.
+</P>
+<P>
+48. An apparatus as set forth in claim 43, wherein the exit ports are situated tangentially to the pathway so as to impart sufficient tangential velocity to fluid flow into the pathway for the generation of a vortex flow therefrom.
+</P>
+<P>
+49. An apparatus for presenting synthesized nanotubes in a twisting manner for subsequent formation of nanofibrous materials, the apparatus comprising:
+</P>
+<P>
+a body portion having a pathway through which synthesized nanotubes may flow;
+</P>
+<P>
+a plurality of electrical contacts situated within the pathway circumferentially about the body portion, so as to permit an electrical current to be applied to each contact in succession to generate a rotating electrostatic field within the pathway, such that nanotubes flowing through the pathway can be presented in a twisting manner as they exit from the body portion.
+</P>
+<P>
+50. An apparatus for presenting synthesized nanotubes for subsequent formation of nanofibrous materials, the apparatus comprising:
+</P>
+<P>
+disc having a proximal end and a distal end;
+</P>
+<P>
+a passageway extending between the proximal end and the distal end; and
+</P>
+<P>
+a constricted portion at the distal end of the passageway to permit accumulation of the nanotubes thereat for use as a source from which nanotubes may be presented for subsequent formation of nanofibrous materials.
+</P>
+<P>
+51. An apparatus as set forth in claim 50, wherein the disc is made from a graphite material graphite material or any other material that would withstanding relatively high tenperature.
+</P>
+<P>
+52. An apparatus as set forth in claim 50, wherein the passageway is tapered from the proximal end toward the distal end of the disc.
+</P>
+</Claims>
+<Also_published_as>
+EP1926846A4;US2007036709A1;US7993620B2;US2011316183A1;WO2008036068A2;WO2008036068A9;WO2008036068A3;US2009215344A1;JP2009509066A;JP4864093B2;EP2365117A1;CA2616151A1;AU2006345024A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+OPTICAL-BASED, SELF- AUTHENTICATING QUANTUM RANDOM NUMBER GENERATORS
+</Title>
+<PublicationNumber>
+EP2013708A2
+</PublicationNumber>
+<Inventor>
+<Name>
+FIORENTINO MARCO [US]
+</Name>
+<Name>
+BEAUSOLEIL RAYMOND [US]
+</Name>
+<Name>
+SANTORI CHARLES [US]
+</Name>
+<Name>
+FIORENTINO, MARCO
+</Name>
+<Name>
+BEAUSOLEIL, RAYMOND
+</Name>
+<Name>
+SANTORI, CHARLES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2013708
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070775953
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US09769
+</PriorityNumber>
+<PriorityDate>
+2007-04-20
+</PriorityDate>
+<PriorityNumber>
+US20060407513
+</PriorityNumber>
+<PriorityDate>
+2006-04-20
+</PriorityDate>
+<PriorityNumber>
+US20060546158
+</PriorityNumber>
+<PriorityDate>
+2006-10-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G06F7/58
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G06F7/58R
+</Class>
+<Class>
+G06N99/00K
+</Class>
+<Class>
+H04L9/00
+</Class>
+<Class>
+H04L9/08Q
+</Class>
+</NCL>
+<Abstract>
+Various embodiments of the present invention are directed to self-authenticating, quantum random bit generators that can be ingrated into an optoelectric circuit. In one embodiment, a quantum random bit generator (1100, 1400) comprises a transmission layer that includes an electromagnetic radiation source (1106, 1406, 1412) coupled to a waveguide (1108, 1414) branching into a first (1111), second (1110), and third (1112) waveguides. The radiation source generates pulses of electromagnetic radiation in a first polarization state. Polarization rotators (1114-1117) are operably coupled to the second and third waveguides and rotate pulses transmitted in the second waveguide into a second polarization state and rotate pulses transmitted in the third waveguide into a third polarization state.;  The system control (1104) generates a sequence of bits based on polarization basis states of the pulses transmitted in the first waveguide, and tomographically authenticates randomness of the sequence based on polarization basis states of the second and third pulses.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A self-authenticating, quantum random bit generator (1100,1400) comprising: a transmission layer (1102) including, an electromagnetic radiation source (1106,1406,1412) coupled to a waveguide (1108,1414) branching into a first waveguide (11-11), a second waveguide (1110), and a third waveguide (1112), the electromagnetic radiation source configured to generate pulses of electromagnetic radiation in a first polarization state; one or more polarization rotators (1114-1117) positioned and configured to rotate pulses transmitted in the second waveguide into a second polarization state and rotate pulses transmitted in the third waveguide into a third polarization state; and a system control (1104) configured to generate a sequence of bits based on polarization basis states of the pulses transmitted in the first waveguide, and topographically authenticate randomness of the sequence of bits based on polarization basis states of the pulses transmitted in the second and third waveguides.
+</P>
+<P>
+2. The generator of claim 1 further comprises: an attenuator (1140) operably coupled to the first waveguide and configured to reduce the energy of the pulses transmitted in the first waveguide to at most a single photon; and a first polarizing beamsplitter coupled to the first waveguide (1125), a second polarizing beamsplitter (1124) coupled to the second waveguide, and a third polarizing beamspitter coupled to the third waveguide (1126).
+</P>
+<P>
+3. The generator of claim 1 wherein the electromagnetic radiation source further comprises one of: a diode laser; and a ligh-emitting diode coupled to a waveguide polarizer and a polarization rotator.
+</P>
+<P>
+4. The generator of claim 1 wherein each polarization rotator further comprise one of: two or more polarization rotators (1200,1300); a half-wave plate (1422-1424); and a quarter-wave plate (1426).
+</P>
+<P>
+5. The generator of claim 1 wherein the system control further comprises: a pair of avalanche photodiodes (1132,1133) configured to detect photons transmitted in the first waveguide; a first pair of p-i-n photodetectors (1128,1129) configured to detect pulses transmitted in the second waveguide; and a second pair of p-i-n photodetectors (1130,1131) configured to detect pulses transmitted in the third waveguide.
+</P>
+<P>
+6. The generator of claim 1 wherein the waveguides further comprise one of: ridge waveguides; waveguides in a photonic crystal; and optical fibers.
+</P>
+<P>
+7. A method for generating a sequence of random bits, the method comprising: generating a sequence of electromagnetic radiation pulses, each pulse in a first polarization state; splitting each pulse into a first pulse, a second pulse, and a third pulse, all three pulses in the same first polarization state; rotating each second pulse into a second polarization state and each third pulse into a third polarization state using polarization rotators (1200,1300,1422-1424,1426); generating a sequence of bits based on detecting one of two polarization basis states of the first pulse; and based on the polarization states of the second and third pulses, performing tomographic analysis in order to authenticate the randomness of the sequence of bits.
+</P>
+<P>
+8. The method of claim 7 further comprising attenuating the first pulse intensity into a single photon; and splitting the first pulse into two polarization basis states, the second pulse into two polarization basis states, and the third pulse into two polarization basis states.
+</P>
+<P>
+9. The method of claim 7 wherein rotating each second pulse into a second polarization state and each third pulse into a third polarization state further comprises transmitting each second pulse through one or more polarizing beamsplitters and transmitting each third pulse through one or more polarizing beamsplitters.
+</P>
+<P>
+10. The method of claim 7 wherein performing tomographic analysis further comprises constructing the minimum entropy:
+</P>
+<P>
+&amp;lt;H&amp;gt;Min {Ps) &amp;lt;[identical to]&amp;gt; -&amp;lt;lo&amp;gt;[section]2 max Pr (x)
+</P>
+<P>
+where ps is the density matrix for an ensemble of states ^/) = c( H) + d; JF) as a function of Stokes parameters, Pr(x) is the probability of a event x, and max Pr (x)
+</P>
+<P>
+means the maximum probability Pr(x) over every event x in X; and constructing a Toeplitz matrix Tmxn based on the minimum entropy Hmin (ps), where m is the number of random bits, n is the number of raw bits, and m &amp;lt; n .
+</P>
+</Claims>
+<Also_published_as>
+WO2007124088A2;WO2007124088A3;WO2007124121A2;WO2007124121A3;US2008147759A1;US7849122B2;US2008065710A1;US7849121B2;KR20090012226A;KR100987885B1;KR20080111491A;JP2009534750A;JP2010501125A
+</Also_published_as>
+</BiblioData>

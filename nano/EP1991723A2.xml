@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHODS OF MAKING SPATIALLY ALIGNED NANOTUBES AND NANOTUBE ARRAYS
+</Title>
+<PublicationNumber>
+EP1991723A2
+</PublicationNumber>
+<Inventor>
+<Name>
+ROGERS JOHN A [US]
+</Name>
+<Name>
+COSKUN KOCABAS [US]
+</Name>
+<Name>
+SHIM MOONSUB [US]
+</Name>
+<Name>
+KANG SEONG JUN [US]
+</Name>
+<Name>
+PARK JANG-UNG [US]
+</Name>
+<Name>
+ROGERS, JOHN A
+</Name>
+<Name>
+COSKUN, KOCABAS
+</Name>
+<Name>
+SHIM, MOONSUB
+</Name>
+<Name>
+KANG, SEONG JUN
+</Name>
+<Name>
+PARK, JANG-UNG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV ILLINOIS [US]
+</Name>
+<Name>
+THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1991723
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060851125
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-08-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US32125
+</PriorityNumber>
+<PriorityDate>
+2006-08-17
+</PriorityDate>
+<PriorityNumber>
+US20060779714P
+</PriorityNumber>
+<PriorityDate>
+2006-03-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+D01F9/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+<Class>
+H01L51/00A2F
+</Class>
+<Class>
+H01L51/00M4D
+</Class>
+</NCL>
+<Abstract>
+The present invention provides arrays of longitudinally aligned carbon nanotubes having specified positions, nanotube densities and orientations, and corresponding methods of making nanotube arrays using guided growth and guided deposition methods. Also provided are electronic devices and device arrays comprising one or more arrays of longitudinally aligned carbon nanotubes including multilayer nanotube array structures and devices.
+</Abstract>
+<Claims>
+<P>
+W&amp;lt;[beta]&amp;gt;-ttEiMVP
+</P>
+<P>
+1. A method for making an array of longitudinally aligned carbon nanotubes; said method comprising the steps of: providing a guided growth substrate having a receiving surface;
+</P>
+<P>
+patterning said receiving surface with carbon nanotube growth catalyst, thereby generating a two dimensional pattern of catalyst -containing regions of said receiving surface and regions of said receiving surface having substantially no catalyst present; and
+</P>
+<P>
+growing nanotubes on said guided growth substrate via guided growth, wherein at least a portion of said nanotubes grow along nanotube growth axes parallel to at least one principle guided growth axis of said guided i growth substrate, and wherein at least a portion of said nanotubes grow from said catalyst -containing regions to said regions of said receiving surface having substantially no catalyst present, thereby making said array of longitudinally aligned carbon nanotubes.
+</P>
+<P>
+) 2. The method of claim 1 wherein said step of growing nanotubes on said substrate is carried out by exposure of said carbon nanotube growth catalyst patterned on said receiving surface to a precursor gas.
+</P>
+<P>
+3. The method of claim 1 wherein said step of growing nanotubes on said substrate is carried out by chemical vapor deposition.
+</P>
+<P>
+4. The method of claim 1 wherein said step of growing nanotubes on said substrate generates single wailed carbon nanotubes.
+</P>
+<P>
+5. The method of claim 1 wherein said guided growth substrate is single crystalline sapphire or single crystalline quartz.
+</P>
+<P>
+6. The method of claim 1 wherein said guided growth substrate is a Y-cut quartz substrate. [psi]: &amp;lt;&quot;&amp;gt;... &amp;lt;!-&amp;gt; -[tau]h&amp;lt;l&amp;gt;e&quot;-&quot;rf[iota]etl&amp;lt;[iota]&amp;gt;[iota]6d -&amp;lt;1!&amp;gt;oT- claim 6 wherein said Y-cut quartz substrate has a cut angle selected over the range of about 0 degrees to about 42.75 degrees.
+</P>
+<P>
+8. The method of claim 1 wherein said guided growth substrate is an AT cut quartz substrate or an ST cut quartz substrate.
+</P>
+<P>
+9. The method of claim 1 wherein said catalyst -containing regions have a surface concentration of catalyst selected from the range of about 1000 particles [mu]rrf&amp;lt;2&amp;gt; to about 10 particles [mu]m&amp;lt;&quot;2&amp;gt;.
+</P>
+<P>
+10. The method of claim 1 wherein said regions of said receiving surface having substantially no catalyst present have a surface concentration of catalyst less than or equal to about 1 particles [mu]m&amp;lt;&apos;2&amp;gt;.
+</P>
+<P>
+11. The method of claim 1 wherein said catalyst -containing regions are bands of catalyst that are separated from each other by said regions of said receiving surface having substantially no catalyst present.
+</P>
+<P>
+12. The method of claim 1 wherein said bands of catalyst are longitudinal oriented ) along longitudinal catalyst alignment axes that are oriented perpendicular to said principle guided growth axis of said guided growth substrate.
+</P>
+<P>
+13. The method of claim 12 wherein said bands of catalyst comprise a first band and a second band that are longitudinal oriented along parallel catalyst alignment axes, wherein at least a portion of said nanotubes grow along segments of said nanotube growth axes extending from said first band to said second band, thereby generating said array of longitudinally aligned nanotubes extending from said first band to said second band.
+</P>
+<P>
+14. The method of claim 13 wherein the density of longitudinally aligned carbon nanotubes positioned between said first and second bands of catalyst is greater than or equal to about 5 nanotubes [mu]m&amp;lt;&quot;1&amp;gt;.
+</P>
+<P>
+15. The method of claim 1 wherein at least 95% of said longitudinally aligned carbon nanotubes of said array are parallel to each other within about 10 degrees.
+</P>
+<P>
+16. The method of claim 1 wherein at least 95% of said longitudinally aligned carbon nanotubes of said array exhibit a high degree of linearity.
+</P>
+<P>
+17. The method of claim 1 wherein said step of patterning said receiving surface with carbon nanotube growth catalyst comprises the steps of : depositing catalyst onto selected deposition areas of said receiving surface, and preventing catalyst accumulation onto said deposition areas of said receiving surface between said catalyst -containing regions, thereby generating said two dimensional pattern of catalyst-containing and regions of said receiving surface having substantially no catalyst present.
+</P>
+<P>
+18. The method of claim 1 wherein said step of patterning said receiving surface with carbon nanotube growth catalyst comprises the steps of: providing a catalyst layer of said nanotube growth catalyst to said receiving surface;
+</P>
+<P>
+removing catalyst from selected areas of said catalyst layer, thereby ) generating said two dimensional pattern of catalyst-containing and regions of said receiving surface having substantially no catalyst present.
+</P>
+<P>
+19. The method of claim 1 further comprising the step of annealing said guided growth substrate.
+</P>
+<P>
+20. The method of claim 1 further comprising the step of oxidizing said carbon nanotube growth catalyst, reducing said carbon nanotube growth catalyst or both oxidizing and reducing said carbon nanotube growth catalyst.
+</P>
+<P>
+21. The method of claim 1 further comprising the step of transferring said array of longitudinally aligned carbon nanotubes from said receiving surface of said guided growth substrate to a surface of a different substrate.
+</P>
+<P>
+22. The method of claim 21 wherein said step of transferring said array of longitudinally aligned carbon nanotubes from said receiving surface of said &amp;lt;-&amp;gt;gtii[alpha][beta]ei gitiwtft- substrate to said surface of said different substrate is achieved by contact printing, microcontact printing, transfer printing, dry transfer printing or solution printing said array of longitudinally aligned carbon nanotubes.
+</P>
+<P>
+23. A composition of matter comprising an array of longitudinally aligned carbon nanotubes, wherein said longitudinally aligned nanotubes extend lengths that are parallel to within 10 degrees of each other, and wherein said array has a density of longitudinally aligned carbon nanotubes greater than or equal to about 0.1 nanotubes [mu]m&amp;lt;&quot;1&amp;gt;.
+</P>
+<P>
+24. The composition of matter of claim 23 wherein said longitudinally aligned nanotubes in said array extend lengths that are parallel to within 1 degree of each other, and wherein said array has a density of longitudinally aligned carbon nanotubes greater than or equal to about 10 nanotubes [mu]m&amp;lt;&quot;1&amp;gt;.
+</P>
+<P>
+25. The composition of matter of claim 23 wherein said longitudinally aligned nanotubes extend lengths that are parallel to within 10 degree of each other, and wherein said array has a density of longitudinally aligned carbon nanotubes greater than or equal to about 10 nanotubes [mu]m&amp;lt;&quot;1&amp;gt;.
+</P>
+<P>
+26. The composition of matter of claim 23 wherein at least 95% of said nanotubes of said array extend lengths that are parallel to each other with deviations from absolute parallelism less than or equal to 20 degrees.
+</P>
+<P>
+27. The composition of matter of claim 23 wherein said array of longitudinally aligned carbon nanotubes is printable.
+</P>
+<P>
+28. The composition of matter of claim 23 wherein said longitudinally aligned carbon nanotubes are single walled nanotubes.
+</P>
+<P>
+29. The composition of matter of claim 23 wherein at least 95% of said longitudinally aligned carbon nanotubes in said array exhibit a high degree of linearity [omicron]w. &apos;&quot;&apos;i-[pi]e &apos; tro&apos;mpb&apos;sitrbf[iota]&amp;lt;1&amp;gt;of matter of claim 23 further comprising a substrate, wherein said array of longitudinally aligned carbon nanotubes is supported by said substrate.
+</P>
+<P>
+31. The composition of matter of claim 30 wherein said substrate comprises a material selected from the group consisting of: a polymer; a dielectric; a metal; a ceramic, a glass; a semiconductor and paper.
+</P>
+<P>
+32. The composition of matter of claim 30 wherein said substrate comprises a flexible substrate.
+</P>
+<P>
+33. The composition of matter of claim 30 wherein said substrate comprises a guided growth or guide deposition substrate having a receiving surface, wherein said longitudinally aligned nanotubes are supported by said receiving surface and extend lengths that are parallel to within 10 degrees of a principle guided growth axis of said guided growth substrate or a principle guided deposition axis of said guided deposition substrate.
+</P>
+<P>
+34. The composition of matter of claim 33 wherein said guided growth or guided i deposition substrate is a single crystalline quartz substrate.
+</P>
+<P>
+35. The composition of matter of claim 23 further comprising at least one additional array of longitudinally aligned nanotubes that is supported by said array of longitudinally aligned carbon nanotubes.
+</P>
+<P>
+36. The composition of matter of claim 23 further comprising an electrode in electrical contact with at least a portion of said longitudinally aligned nanotubes in said array.
+</P>
+<P>
+37. An electronic device comprising: an array of longitudinally aligned carbon nanotubes, wherein said longitudinally aligned nanotubes extend lengths that are parallel to within 10 degrees of each other, and wherein said array has a density of longitudinally aligned carbon nanotubes greater than or equal to about 0.1 nanotubes [mu]m&amp;lt;&quot;1&amp;gt;; and at least one electrode in electrical contact with at least a portion of said longitudinally aligned carbon nanotubes of said array.
+</P>
+<P>
+38. The electronic device of claim 37 wherein at least 95% of said longitudinally aligned nanotubes extend lengths that are parallel to within 10 degrees of each other, and wherein said array has a density of longitudinally aligned carbon nanotubes greater than or equal to about 10 nanotubes [mu]m&amp;lt;&quot;1&amp;gt;.
+</P>
+<P>
+39. The electronic device of claim 37 further comprising at least one additional array of longitudinally aligned carbon nanotubes supported by said array of longitudinally aligned carbon nanotubes.
+</P>
+<P>
+40. The electronic device of claim 37 comprising a thin film electronic device.
+</P>
+<P>
+41. The electronic device of claim 40 comprising a thin film transistor; wherein a source electrode and drain electrode are provided in electrical contact with at least a portion of said longitudinally aligned carbon nanotubes of said array; and further comprising a gate electrode separated from said source and drain i electrodes, wherein applying an electric potential to said gate electrode affects the flow of electrons through at least a portion said longitudinally aligned carbon nanotubes.
+</P>
+<P>
+42. The electronic device of claim 37 wherein at least 95% of said longitudinally aligned carbon nanotubes in said array exhibit a high degree of linearity.
+</P>
+<P>
+43. An array of electrical devices comprising: a plurality of nanotube arrays, wherein each of said nanotube arrays comprise a plurality of longitudinally aligned carbon nanotubes having lengths that are parallel to within 10 degrees of each other, and wherein each of said arrays have a density of longitudinally aligned carbon nanotubes greater than or equal to about 1 nanotubes [mu]m&amp;lt;&quot;1&amp;gt;; and
+</P>
+<P>
+at least one electrode in electrical contact with at least a portion of said arrays of said longitudinally aligned carbon nanotubes.
+</P>
+<P>
+44. The electronic device of claim 43 wherein each of said arrays comprise a plurality of longitudinally aligned nanotubes having lengths that are parallel to within 1 degree of each other, and wherein each of said arrays have a density of longitudinally aligned carbon nanotubes less than or equal to about 10 nanotubes [mu]m&amp;lt;&quot;1&amp;gt;.
+</P>
+<P>
+45. The array of electrical devices of claim 43 wherein each of said arrays comprise a plurality of longitudinally aligned nanotubes having lengths that are parallel to within 10 degree of each other, and wherein each of said arrays have a density of longitudinally aligned carbon nanotubes greater than or equal to about 10 nanotubes [mu]m&amp;lt;&quot;1&amp;gt;.
+</P>
+<P>
+46. The array of electrical devices of claim 43 comprising an array of thin film electronic devices.
+</P>
+<P>
+47. The array of electrical devices of claim 43 further comprising a flexible substrate, wherein said arrays of longitudinally aligned carbon nanotubes are supported by said flexible substrate.
+</P>
+<P>
+)
+</P>
+<P>
+48. The array of electrical devices of claim 43 further comprising additional arrays of longitudinally aligned nanotubes supported by one or more of said nanotube arrays.
+</P>
+<P>
+49. The array of electrical devices of claim 43 wherein said electrode in electrical contact with at least a portion of said longitudinally aligned carbon nanotubes is a band of catalyst provided on a guided growth substrate.
+</P>
+<P>
+50. A method for making an array of longitudinally aligned carbon nanotubes; said method comprising the steps of: providing a quartz guided growth substrate having a receiving surface;
+</P>
+<P>
+patterning said receiving surface with carbon nanotube growth catalyst, thereby generating a two dimensional pattern of catalyst -containing &amp;lt;-&amp;gt; regions&apos; &amp;lt;-&amp;gt;OT &quot;sai[alpha] receiving surface and regions of said receiving surface having substantially no catalyst present; and
+</P>
+<P>
+growing nanotubes on said quartz guided growth substrate via guided growth, wherein said nanotubes grow along nanotube growth axes parallel to at least one principle guided growth axis of said guided growth substrate, and wherein nanotubes grow from said catalyst -containing regions to said regions of said receiving surface having substantially no catalyst present, thereby making said array of longitudinally aligned carbon nanotubes. i
+</P>
+<P>
+51. A method for making an array of longitudinally aligned carbon nanotubes on a substrate; said method comprising the steps of: providing a solution containing said carbon nanotubes;
+</P>
+<P>
+providing a guided deposition substrate having a receiving surface;
+</P>
+<P>
+contacting said solution containing said carbon nanotubes with said receiving surface of said guided deposition substrate; wherein at least a ) portion of said nanotubes longitudinal align along alignment axes parallel to a principle guided deposition axis of said guided deposition substrate, thereby making said array longitudinally aligned carbon nanotubes on said substrate.
+</P>
+<P>
+52. The method of claim 51 wherein said guided deposition substrate is single crystalline sapphire or single crystalline quartz.
+</P>
+<P>
+53. The method of claim 51 wherein said guided deposition substrate is a Y-cut quartz substrate.
+</P>
+<P>
+54. The method of claim 51 wherein said Y-cut quartz substrate has a cut angle selected over the range of about 0 degrees to about 42.75 degrees.
+</P>
+<P>
+55. The method of claim 51 wherein said guided deposition substrate is an AT cut quartz substrate or an ST cut quartz substrate.
+</P>
+<P>
+56. The method of claim 51 wherein said nanotubes are single walled nanotubes; a multiwalled nanotubes or both single walled nanotubes and multiwalled nanotubes.
+</P>
+<P>
+57. The method of claim 51 wherein the concentration of nanotubes in said solution is selected over the range of 1 nanogram cm&amp;lt;&quot;3&amp;gt; to 1 gram cm&amp;lt;&quot;3&amp;gt;.
+</P>
+<P>
+58. The method of claim 51 wherein said solution further comprises one of more components selected from the group consisting of: a carrier liquid; a solvent; a surfactant; a preservative, a dilutant; an antiagglomeration agent and a stabilizer.
+</P>
+<P>
+59. The method of claim 51 wherein said solution further comprises a surfactant selected from the group consisting of poly-oxyethylene octyl phenyl ether, polyethylene glycol dodecyl ether, polyethylene glycol sorbitan monolaurate, polyvinylpyrrolidone, PEO(polyethyleneoxide)-PBO(polybutyleneoxide)-PEO triblock polymer, and PEO-PPO(polypropyleneoxide)-PEO triblock polymer.
+</P>
+<P>
+60. The method of claim 51 wherein said step of contacting said solution containing i said carbon nanotubes with said receiving surface of said guided deposition substrate is carried out via a solution printing or fluidic delivery method.
+</P>
+<P>
+61. The method of claim 60 wherein said solution printing method is selected from the group consisting of: screen printing, microcontact printing, ink jet printing, thermal transfer printing, and capillary action printing.
+</P>
+<P>
+62. The method of claim 60 wherein said fluidic delivery method selected from the group consisting of drop drying, bar coating, spin coating, and spray coating.
+</P>
+<P>
+63. The method of claim 51 wherein said nanotubes are longitudinally aligned on said guided deposition substrate via self assembly.
+</P>
+<P>
+64. The method of claim 51 further comprising the step of transferring said longitudinally aligned carbon nanotube or nanotube array from said receiving surface of said guided deposition substrate to a surface of a different substrate.
+</P>
+<P>
+65. The method of claim 64 wherein said different substrate is a flexible substrate or substrate prepattemed with functional device components.
+</P>
+<P>
+66. The method of claim 64 wherein said different substrate comprises a material selected from the group consisting of: a polymer; a dielectric; a metal; a ceramic, a glass; a semiconductor and paper.
+</P>
+<P>
+67. The method of claim 64 wherein said step of transferring said array of longitudinally aligned carbon nanotubes from said receiving surface of said guided deposition substrate to said surface of said different substrate is carried out by contact printing, microcontact printing, transfer printing, dry transfer printing or solution printing.
+</P>
+<P>
+68. The method of claim 51 wherein said array of longitudinally aligned carbon nanotubes has a density that is greater than or equal to about 5 nanotubes [mu]m&amp;lt;&quot;1&amp;gt;.
+</P>
+<P>
+69. The method of claim 51 wherein at least 95% of said longitudinally aligned carbon nanotubes in said array extend lengths that are parallel to each other within about 20 degrees.
+</P>
+<P>
+70. The method of claim 51 wherein at least 95% of said longitudinally aligned carbon nanotubes in said array exhibit a high degree of linearity.
+</P>
+<P>
+71. A method of making a multilayer carbon nanotube array structure; said method comprising the steps of: generating a first array of longitudinally aligned carbon nanotubes on a guided growth or guided deposition substrate, thereby generating a first nanotube array layer;
+</P>
+<P>
+generating a second array of longitudinally aligned carbon nanotubes on a guided growth or guided deposition substrate; and
+</P>
+<P>
+transferring said second array of longitudinally aligned carbon nanotubes from said guided growth or guided deposition substrate to said first array ofibngftticl[iota]nally aligned carbon nanotubes; thereby generating a second nanotube array layer supported said first nanotube array layer.
+</P>
+<P>
+72. The method of claim 71 further comprising the step of: transferring said first array of longitudinally aligned carbon nanotubes from said guided growth or guided deposition substrate to the receiving surface of a receiving substrate;
+</P>
+<P>
+73. The method of claim 71 wherein said second array of longitudinally aligned carbon nanotubes is transferred on to an external surface of said first array of longitudinally aligned carbon nanotubes or on to an intermediate layer on an external surface of said first array of longitudinally aligned carbon nanotubes.
+</P>
+<P>
+74. The method of claim 71 wherein said first array and said second array comprise longitudinally aligned carbon nanotubes that are oriented parallel to a central alignment axis.
+</P>
+<P>
+75. The method of claim 71 wherein said first array comprises longitudinally aligned carbon nanotubes that extend along a first set of alignment axes that are parallel to a first central alignment axis, wherein said second array comprises
+</P>
+<P>
+) longitudinally aligned carbon nanotubes that extend along a second set of alignment axes that are parallel to a second central alignment axis, wherein said first and second central alignment axes are not parallel to each other.
+</P>
+<P>
+76. The method of claim 75 wherein said first and second central alignment axes are orthogonal to each other.
+</P>
+<P>
+77. The method of claim 75 wherein said first and second central alignment axes are angularly displaced from each other by a selected number of degrees.
+</P>
+<P>
+78. The method of claim 71 further comprising the steps of: generating one or more additional arrays of longitudinally aligned carbon nanotubes on one or more guided growth or guided deposition substrates; and &amp;lt;-&amp;gt;trar[iota]SteflTngp said additional arrays of longitudinally aligned carbon nanotubes from said guided growth or guided deposition substrate to said first array, second array or both; thereby generating additional nanotube array layers supported by said first array layer, second array layer or both.
+</P>
+<P>
+79. A multilayer carbon nanotube array structure comprising
+</P>
+<P>
+a first array of longitudinally aligned carbon nanotubes, wherein said longitudinally aligned nanotubes of said first array extend lengths that are parallel to within 10 degrees of a first central alignment axis, and wherein said first array has a density of longitudinally aligned carbon nanotubes greater than or equal to about 0.1 nanotubes [mu]m&amp;lt;&quot;1&amp;gt;; and
+</P>
+<P>
+a second first array of longitudinally aligned carbon nanotubes supported by said first array, wherein said longitudinally aligned nanotubes of said second array extend lengths that are parallel to within 10 degrees of a second central alignment axis, and wherein said second array has a density of longitudinally aligned carbon nanotubes greater than or equal to about 0.1 nanotubes [mu]m&amp;lt;&apos;1&amp;gt;
+</P>
+<P>
+80. The multilayer carbon nanotube array structure of claim 79 wherein said first central alignment axis and said second central alignment axis are parallel to each other.
+</P>
+<P>
+81. The multilayer carbon nanotube array structure of claim 79 wherein said first central alignment axis and said second central alignment axis are angularly displaced from each other by a selected number of degrees.
+</P>
+<P>
+82. The multilayer carbon nanotube array structure of claim 79 wherein said first central alignment axis and said second central alignment axis are orthogonal to each other.
+</P>
+<P>
+83. The multilayer carbon nanotube array structure of claim 79 wherein at least 95% of said longitudinally aligned carbon nantoubes of said first and second arrays exhibit a high degree of linearity. &apos;&amp;lt;-&amp;gt;
+</P>
+<P>
+84. &apos; Tft&apos;&amp;&apos;fr[iota]ult[iota]Mye[iota]&quot; Carbon nanotube array structure of claim 79 further comprising at least one additional array of longitudinally aligned carbon nanotubes supported by said first array, said second array or both.
+</P>
+<P>
+85. A method for making an array of longitudinally aligned carbon nanotubes on a substrate; said method comprising the steps of: providing said carbon nanotubes in the gas phase;
+</P>
+<P>
+providing a guided deposition substrate having a receiving surface;
+</P>
+<P>
+contacting said carbon nanotubes in the gas phase with said receiving surface of said guided deposition substrate; wherein at least a portion of said nanotubes longitudinal align along alignment axes parallel to a principle guided deposition axis of said guided deposition substrate, thereby making said array longitudinally aligned carbon nanotubes on said substrate.
+</P>
+</Claims>
+<Also_published_as>
+WO2007126412A2;WO2007126412A3;JP2009528254A;CN101506413A
+</Also_published_as>
+</BiblioData>

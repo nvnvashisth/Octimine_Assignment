@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+COMPOUND SCREENING METHOD AND APPARATUS
+</Title>
+<PublicationNumber>
+EP2008094A1
+</PublicationNumber>
+<Inventor>
+<Name>
+OGURA NOBUHIKO [JP]
+</Name>
+<Name>
+OGURA, NOBUHIKO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FUJIFILM CORP [JP]
+</Name>
+<Name>
+FUJIFILM CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2008094
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070713674
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP50870
+</PriorityNumber>
+<PriorityDate>
+2007-01-16
+</PriorityDate>
+<PriorityNumber>
+JP20060010799
+</PriorityNumber>
+<PriorityDate>
+2006-01-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N33/15
+</Class>
+<Class>
+G01N33/50
+</Class>
+<Class>
+G01N33/543
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N33/543K2
+</Class>
+</NCL>
+<Abstract>
+A compound screening apparatus (160) divides measurement data representing the amount of binding between one kind of protein and each of a plurality of kinds of compounds, obtained by a measurement apparatus (110), into groups, each including data obtained in a same measurement condition. The compound screening apparatus (160) obtains a representative value of measurement data that is obtained when the protein and a compound are not bound to each other for each of the groups by using the measurement data of the respective groups, and sets a threshold value for extracting a hit compound for each of the groups by using corrected measurement data, obtained by correcting the measurement data for each of the groups so that the representative value obtained for each of the groups becomes the same value. Then, a hit compound is extracted by comparing the threshold value with the corrected measurement data.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A compound screening method for extracting, based on measurement data representing the amount of binding between one kind of protein and each of a plurality of kinds of compounds, a hit compound, which binds to the one kind of protein, from the plurality of kinds of compounds by obtaining the measurement data, the method comprising the steps of: dividing the measurement data into groups, each including measurement data obtained in a same measurement condition; obtaining a representative value of measurement data that is obtained when the protein and a compound are not bound to each other for each of the groups by using the measurement data belonging to the respective groups; obtaining corrected measurement data by correcting the measurement data for each of the groups so that the representative value obtained for each of the groups becomes the same; setting a threshold value for extracting the hit compound by using the corrected measurement data; and extracting the hit compound by comparing the threshold value with the value of the corrected measurement data.
+</P>
+<P>
+2. A compound screening method for extracting, based on measurement data representing the amount of binding between one kind of protein and each of a plurality of kinds of compounds, a hit compound, which binds to the one kind of protein, from the plurality of kinds of compounds by obtaining the measurement data, the method comprising the steps of: dividing the measurement data into groups, each including data obtained in a same measurement condition; setting a threshold value for extracting the hit compound for each of the groups by using measurement data belonging to the respective groups; and extracting the hit compound by comparing the threshold value with the value of the measurement data in each of the groups .
+</P>
+<P>
+3. A compound screening method, as defined in Claim 1 or 2, wherein the measurement condition is a measurement date on which the amount of binding between each of the compounds and the protein is measured.
+</P>
+<P>
+4. A compound screening method, as defined in Claim 1 or 2, wherein the measurement condition is a measurement sensor for measuring the amount of binding between each of the compounds and the protein.
+</P>
+<P>
+5. A compound screening method, as defined in Claim 1 or 2, the method comprising: measurement channels for obtaining a plurality of kinds of measurement data based on measurement results obtained by measuring the amount of binding between each of the compounds and the protein in parallel, wherein the measurement condition is the measurement channels.
+</P>
+<P>
+6. A compound screening method, as defined in Claim 1 or 2, wherein the amount of binding between each of the compounds and the protein is measured by dissolving the respective compounds in a buffer solution, and wherein the measurement condition is the production lot of the buffer solution.
+</P>
+<P>
+7. A compound screening method, as defined in Claim 1 or 2, wherein the amount of binding between each of the compounds and the protein is measured by using a plurality of measurement apparatuses, and wherein the measurement condition is the measurement apparatuses .
+</P>
+<P>
+8. A compound screening method, as defined in Claim 1 or 2, wherein the measurement condition is an ambi-ent temperature during measurement for obtaining the measurement data.
+</P>
+<P>
+9. A compound screening method, as defined in Claim 1 or 2, wherein the measurement data representing the amount of binding is obtained by measurement utilizing the principle of surface plasmon resonance, and wherein the measurement condition is one of a measurement container used in measurement, a flow path for measurement provided in the measurement container, an optical system for measuring an attenuated total-reflection angle, the optical system being separately provided for each flow path for measurement of the measurement container, elapsed time after preparation of a compound solution for measurement, the solution being prepared by dissolving each of the compounds used for measurement, and the preparation lot of a refractive-index standard solution used for correction of the measurement. 10. A compound screening apparatus comprising: a measurement unit for obtaining measurement data representing the amount of binding between one kind of protein and each of a plurality of kinds of compounds; and a screening unit for extracting, based on the measurement data, a hit compound, which binds to the one kind of protein, from the plurality of kinds of compounds, wherein the screening unit includes a&apos; storage unit, a grouping unit, a representative value operation unit, a data correction unit, a threshold value setting unit and a hit compound extraction unit, and wherein the storage unit stores the measurement data obtained by the measurement unit, and wherein the grouping unit divides the measurement data stored in the storage unit into groups, each including measurement data obtained by the measurement unit in a same measurement condition, and wherein the representative value operation unit obtains a representative value of measurement data that is obtained when the protein and a compound are not bound to each other for each of the groups by using the measurement data belonging to the respective groups, and wherein the data correction unit obtains corrected measurement data by correcting the measurement data for each of the groups so that the representative value obtained for each of the groups becomes the same value, and wherein the threshold value setting unit sets a threshold value for extracting the hit compound by using the corrected measurement data, and wherein the hit compound extraction unit extracts the hit compound by comparing the threshold value with the value of the corrected measurement data.
+</P>
+<P>
+11. A compound screening apparatus comprising: a measurement unit for obtaining measurement data representing the amount of binding between one kind of protein and each of a plurality of kinds of compounds; and a screening unit for extracting, based on the measurement data, a hit compound, which binds to the one kind of protein, from the plurality of kinds of compounds, wherein the screening unit includes a storage unit, a grouping unit, a threshold value setting unit and a hit compound extraction unit, and wherein the storage unit stores the measurement data obtained by the measurement unit, and wherein the grouping unit divides the measurement data stored in the storage unit into groups, each including measurement data obtained by the measurement unit in a same measurement condition, and wherein the threshold value setting unit sets a threshold value for extracting the hit compound for each of the groups by using measurement data belonging to the respective groups, and wherein the hit compound extraction unit extracts the hit compound by comparing the threshold value with the value of the measurement data in each of the groups.
+</P>
+</Claims>
+<Also_published_as>
+EP2008094A4;WO2007083787A1;US2009306903A1;JP2007192655A
+</Also_published_as>
+</BiblioData>

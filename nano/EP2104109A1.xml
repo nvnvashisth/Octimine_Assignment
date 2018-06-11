@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Nonvolatile resistive memories, latch circuits, and operation circuits having scalable two- terminal nanotube switches
+</Title>
+<PublicationNumber>
+EP2104109A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BERTIN CLAUDE [US]
+</Name>
+<Name>
+RUECKES THOMAS [US]
+</Name>
+<Name>
+WARD JONATHAN [US]
+</Name>
+<Name>
+GUO FRANK [US]
+</Name>
+<Name>
+KONSEK STEVEN [US]
+</Name>
+<Name>
+MEINHOLD MITCHELL [US]
+</Name>
+<Name>
+BERTIN, CLAUDE
+</Name>
+<Name>
+RUECKES, THOMAS
+</Name>
+<Name>
+WARD, JONATHAN
+</Name>
+<Name>
+GUO, FRANK
+</Name>
+<Name>
+KONSEK, STEVEN
+</Name>
+<Name>
+MEINHOLD, MITCHELL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANTERO INC [US]
+</Name>
+<Name>
+NANTERO, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2104109
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090159276
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070840800
+</PriorityNumber>
+<PriorityDate>
+2007-08-08
+</PriorityDate>
+<PriorityNumber>
+US20060836343P
+</PriorityNumber>
+<PriorityDate>
+2006-08-08
+</PriorityDate>
+<PriorityNumber>
+US20060836437P
+</PriorityNumber>
+<PriorityDate>
+2006-08-08
+</PriorityDate>
+<PriorityNumber>
+US20060840586P
+</PriorityNumber>
+<PriorityDate>
+2006-08-28
+</PriorityDate>
+<PriorityNumber>
+US20060855109P
+</PriorityNumber>
+<PriorityDate>
+2006-10-27
+</PriorityDate>
+<PriorityNumber>
+US20070918388P
+</PriorityNumber>
+<PriorityDate>
+2007-03-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C11/00
+</Class>
+<Class>
+G11C11/14
+</Class>
+<Class>
+G11C11/56
+</Class>
+<Class>
+G11C13/02
+</Class>
+<Class>
+G11C17/16
+</Class>
+<Class>
+G11C29/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C11/56
+</Class>
+<Class>
+G11C13/00R25V
+</Class>
+<Class>
+G11C13/00R25W
+</Class>
+<Class>
+G11C13/02N
+</Class>
+<Class>
+G11C14/00
+</Class>
+<Class>
+G11C17/16
+</Class>
+<Class>
+G11C29/86
+</Class>
+<Class>
+H01L27/10C
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+<Class>
+H01L51/05D6
+</Class>
+</NCL>
+<Abstract>
+A non-volatile resistive memory is provided. The memory includes at least one non-volatile memory cell and selection circuitry. Each memory cell has a two-terminal nanotube switching device having and a nanotube fabric article disposed between and in electrical communication with conductive terminals. Selection circuitry is operable to select the two-terminal nanotube switching device for read and write operations. Write control circuitry, responsive to a control signal, supplies write signals to a selected memory cell to induce a change in the resistance of the nanotube fabric article, the resistance corresponding to an informational state of the memory cell. Resistance sensing circuitry in communication with a selected memory cell, senses the resistance of the nanotubc fabric article and provides the control signal to the write control circuitry. Read circuitry reads the corresponding informational state of the memory cell. A non-volatile latch circuit and a non-volatile register file configuration circuit for use with a plurality of non-volatile register files are also provided.
+</Abstract>
+<Claims>
+<P>
+1. A non-volatile memory comprising: a bit line; a word line; at least one non-volatile memory cell, each having:
+</P>
+<P>
+a two-terminal nanotube switching device comprising first and second conductive terminals and a nanotube fabric article disposed between and in electrical communication with the first and second conductive terminals;
+</P>
+<P>
+a cell selection circuit in electrical communication with the bit line and the word line to select the two-terminal nanotube switching device for read and write operations in response to activation of at least one of the bit line and the word line; write control circuitry, responsive to a control signal, for supplying write signals to a selected memory cell to induce a change in the resistance of the nanotube fabric article, wherein the value of the resistance of the nanotube fabric article corresponds to an informational state of the memory cell; resistance sensing circuitry in communication with a selected nonvolatile memory cell, for sensing the resistance of the nanotube fabric article and providing the control signal to the write control circuitry; and read circuitry in communication with a selected nonvolatile memory cell for reading the corresponding informational state of the memory cell.
+</P>
+<P>
+2. The non-volatile memory of claim 1, wherein the first conductive terminal of the nanotube switching device is in electrical communication with the cell selection circuit and the second conductive terminal of the nanotube switching device is in electrical communication with a reference voltage line.
+</P>
+<P>
+3. The non-volatile memory of claim 1, wherein the write control circuitry is in electrical communication with the bit line and the word line.
+</P>
+<P>
+4. The non-volatile memory of claim 1, wherein the first conductive terminal of the nanotube switching device receives the write signals supplied by the write control circuitry and the second conductive terminal of the nanotube switching device is in electrical communication with at least one of the word line and the bit line.
+</P>
+<P>
+5. The non-volatile memory of claim 1, wherein supplying write signals comprises supplying an electrical stimulus having a selected voltage.
+</P>
+<P>
+6. The non-volatile memory of claim 1, wherein supplying write signals comprises supplying an electrical stimulus having a selected current.
+</P>
+<P>
+7. The non-volatile memory and operation circuit of claim 1, wherein the nanotube switching element further comprises first and second insulator regions disposed on substantially opposite sides of the nanotube fabric article.
+</P>
+<P>
+8. The non-volatile memory of claim 7, wherein at least one of the first and second insulator regions includes a dielectric material.
+</P>
+<P>
+9. The non-volatile memory of claim 7, wherein at least a portion of the nanotube fabric article is separated from at least a portion of one of the first and second insulator regions by a gap.
+</P>
+<P>
+10. The non-volatile memory of claim 7, wherein the informational state of the memory cell is capable of being programmed and erased multiple times.
+</P>
+<P>
+11. The non-volatile memory of claim 1, wherein said write control circuitry includes circuitry for writing at least three write signals, each of the at least three write signals being a signal capable of inducing a corresponding resistance value in the nanotube fabric article that is different than the resistance values corresponding to the other write signals.
+</P>
+<P>
+12. The non-volatile memory of claim 11, wherein the corresponding resistance values induced by the at least three write signals include multiple low resistance values and one high resistance value.
+</P>
+<P>
+13. The non-volatile memory of claim 12, wherein the multiple low resistance values each are in the range of approximately one kilo-Ohm to approximately one mega-Ohm and wherein the high resistance value is at least one-hundred mega-Ohms.
+</P>
+<P>
+14. The non-volatile memory of claim 12, wherein the write control circuitry includes circuitry for writing four write signals so that the memory cell is capable of storing one of a first informational state, a second informational state, a third informational state, and a fourth informational state.
+</P>
+<P>
+15. The non-volatile memory of claim 1, wherein the resistance sensing circuitry comprises feedback circuitry in electrical communication with the selected non-volatile memory cell and with a reference resistance value, the feedback circuitry capable of comparing the resistance of the nanotube fabric article of the selected non-volatile memory cell to the reference resistance value and selectively blocking write signals to the selected non-volatile memory cell.
+</P>
+<P>
+16. The non-volatile memory of claim 15, wherein the value of the resistance of the nanotube fabric article is selected from one of a relatively low resistance value and a relatively high resistance value.
+</P>
+<P>
+17. The non-volatile memory of claim 16, wherein the relatively low resistance value corresponds to a first informational state and the relatively high resistance value corresponds to a second informational state.
+</P>
+<P>
+18. The non-volatile memory of claim 15, wherein supplying write signals comprises supplying a plurality of sequential, incrementally varying voltage pulses at selected intervals.
+</P>
+<P>
+19. The non-volatile memory of claim 18, wherein the feedback circuitry senses the resistance of the nanotube fabric article and compares the resistance of the nanotube fabric article to the reference resistance value after each voltage pulse is supplied by the write control circuitry.
+</P>
+<P>
+20. The non-volatile memory of claim 19, capable of a first write operation wherein the voltage pulses are applied until the feedback circuitry senses a relatively low resistance value as the resistance of the nanotube fabric article and selectively blocks write signals.
+</P>
+<P>
+21. The non-volatile memory of claim 20, capable of a second write operation wherein the voltage pulses are applied until the feedback circuitry senses a relatively high resistance value as the resistance of the nanotube fabric article and selectively blocks write signals.
+</P>
+<P>
+22. The non-volatile memory of claim 16, wherein the nanotube switching element comprises a one-time programmable nanotube fuse, the nanotube fabric article capable of only switching from the relatively low resistance value to the relatively high resistance value.
+</P>
+<P>
+23. The non-volatile memory of claim 15, wherein the write control circuitry selects the reference resistance value from a range of resistance values.
+</P>
+<P>
+24. The non-volatile memory of claim 23, wherein the feedback circuitry selectively blocks write signals on the bit line to the nanotube switching device of the selected nonvolatile memory cell when the resistance value of the nanotube switching article is approximately equal to the reference resistance value.
+</P>
+<P>
+25. The non-volatile memory of claim 1, wherein the read circuitry includes a sense amplifier circuit and the resistance sensing circuitry is in electrical communication with the sense amplifier circuit; and wherein the resistance sensing circuitry is responsive to the sense amplifier circuit to provide the control signal to the write control circuitry to selectively stop the write control circuitry from supplying write signals to the selected nonvolatile memory cell.
+</P>
+<P>
+26. The non-volatile memory of claim 25, wherein the control signal provided by the sense amplifier circuitry to the resistance sensing circuitry selectively stops the write control circuitry from inducing a change in the resistance of the nanotube fabric article.
+</P>
+<P>
+27. The non-volatile memory of claim 25, wherein the value of the resistance of the nanotube fabric article is selected from one of a plurality of resistance values comprising multiple low resistance values and a relatively high resistance value.
+</P>
+<P>
+28. The non-volatile memory of claim 25, wherein supplying write signals comprises supplying a plurality of sequential, incrementally varying voltage pulses at selected intervals.
+</P>
+<P>
+29. The non-volatile memory of claim 28, wherein the sense amplifier circuit detects the resistance value of the nanotube fabric article after each voltage pulse is supplied by the write control circuitry.
+</P>
+<P>
+30. The non-volatile memory of claim 29, capable of a first write operation wherein the voltage pulses are supplied to the selected non-volatile memory cell until at least one of the multiple low resistance values is detected by the sense amplifier circuit.
+</P>
+<P>
+31. The non-volatile memory of claim 29, wherein when the sense amplifier circuit detects at least one of the multiple low resistance values in the selected memory cell, the resistance sensing circuitry is responsive to the sense amplifier circuit to selectively stop the write control circuitry from writing the informational state of the selected memory cell.
+</P>
+<P>
+32. The non-volatile memory of claim 30, capable of a second write operation wherein the voltage pulses are supplied to the selected non-volatile memory cell until the relatively high resistance value is detected.
+</P>
+<P>
+33. The non-volatile memory of claim 30, wherein when the sense amplifier circuit detects the relatively high resistance value in the selected non-volatile memory cell, the resistance sensing circuitry is responsive to the sense amplifier circuit to selectively stop the write control circuitry from writing the informational state of the selected memory cell.
+</P>
+<P>
+34. The non-volatile memory of claim 25, wherein the nanotube switching element comprises a one-time programmable nanotube fuse having a nanotube fabric article capable of only switching from a first resistance value to a second resistance value.
+</P>
+</Claims>
+<Also_published_as>
+WO2008021900A2;WO2008021900A3;WO2008021912A2;WO2008021912A3;WO2008021911A2;WO2008021911A3;TW200826302A;TW200832399A;TW200826102A;KR20090057375A;KR20090043552A;KR20090057239A;JP2010515285A;JP2010515241A;JP2010515240A;EP2104108A1;EP2070088A2;EP2070088A4;EP2057683A2;EP2057683A4;EP2057633A2;EP2057633A4
+</Also_published_as>
+</BiblioData>

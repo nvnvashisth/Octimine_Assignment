@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Optical filter that uses localized plasmons
+</Title>
+<PublicationNumber>
+EP2128665A1
+</PublicationNumber>
+<Inventor>
+<Name>
+YAMADA TOMOHIRO [JP]
+</Name>
+<Name>
+KURODA RYO [JP]
+</Name>
+<Name>
+YAMADA, TOMOHIRO
+</Name>
+<Name>
+KURODA, RYO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2128665
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090007003
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-05-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20080142939
+</PriorityNumber>
+<PriorityDate>
+2008-05-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B5/20
+</Class>
+<Class>
+G02B5/18
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B5/00P
+</Class>
+<Class>
+G02B5/20M
+</Class>
+</NCL>
+<Abstract>
+An optical filter includes a light-shielding conductive layer provided with a plurality of apertures on a substrate surface that selectively transmits light of a first wavelength, and a dielectric layer in contact with the conductive layer. A size of the apertures is a size equal to or less than the first wavelength, and a ratio of a surface area of the conductive layer to a surface area of the substrate surface is within a range of equal to or greater than 36% and equal to or less than 74%. A transmissivity of the first wavelength is increased by surface plasmons induced in the apertures by light falling on the conductive layer.
+</Abstract>
+<Claims>
+<P>
+1. An optical filter comprising:
+</P>
+<P>
+a light-shielding conductive layer provided with a plurality of apertures on a substrate surface that selectively transmits light of a first wavelength; and
+</P>
+<P>
+a dielectric layer in contact with the conductive layer,wherein a size of the apertures is a size equal to or less than the first wavelength, and a ratio of a surface area of the conductive layer to a surface area of the substrate surface is within a range of equal to or greater than 36% and equal to or less than 74%, and
+</P>
+<P>
+wherein a transmissivity of the first wavelength is increased by surface plasmons induced in the apertures by light falling on the conductive layer.
+</P>
+<P>
+2. The optical filter according to claim 1,
+</P>
+<P>
+wherein the first wavelength is in a visible range.
+</P>
+<P>
+3. The optical filter according to claim 1,
+</P>
+<P>
+wherein the apertures are of round or regular polygonal shape.
+</P>
+<P>
+4. The optical filter according to claim 1,
+</P>
+<P>
+wherein a thickness of the conductive layer is equal to or less than a wavelength of light in a visible range.
+</P>
+<P>
+5. The optical filter according to claim 1,
+</P>
+<P>
+wherein the conductive layer comprises Al or an alloy or a compound including Al.
+</P>
+<P>
+6. The optical filter according to claim 1,
+</P>
+<P>
+wherein the substrate comprises a dielectric.
+</P>
+<P>
+7. The optical filter according to claim 6,
+</P>
+<P>
+wherein the dielectric comprises any one or more of silicon dioxide, titanium dioxide, and silicon nitride.
+</P>
+<P>
+8. The optical filter according to claim 1,
+</P>
+<P>
+wherein a diameter of the aperture is within a range of equal to or greater than 220 nm and equal to or less than 270 nm, a thickness is within a range of equal to or greater than 10 nm and equal to or less than 200 nm, an arrangement period is within a range of equal to or greater than 310 nm and equal to or less than 450 nm, and a maximum value of a transmission spectrum is demonstrated within a wavelength range of equal to or greater than 600 nm and equal to or less than 700 nm.
+</P>
+<P>
+9. The optical filter according to claim 1,
+</P>
+<P>
+wherein a diameter of the aperture is within a range of equal to or greater than 180 nm and equal to or less than 220 nm, a thickness is within a range of equal to or greater than 10 nm and equal to or less than 200 nm, an arrangement period is within a range of equal to or greater than 250 nm and equal to or less than 310 nm, and a maximum value of a transmission spectrum is demonstrated within a wavelength range of equal to or greater than 500 nm and equal to or less than 600 nm.
+</P>
+<P>
+10. The optical filter according to claim 1,
+</P>
+<P>
+wherein a diameter of the aperture is within a range of equal to or greater than 100 nm and equal to or less than 180 nm, a thickness is within a range of equal to or greater than 10 nm and equal to or less than 200 nm, an arrangement period is within a range of equal to or greater than 170 nm and equal to or less than 250 nm, and a maximum value of a transmission spectrum is demonstrated within a wavelength range of equal to or greater than 400 nm and equal to or less than 500 nm.
+</P>
+<P>
+11. The optical filter according to claim 1,
+</P>
+<P>
+wherein the apertures are arranged with a plurality of periods in the in-plane direction of the substrate.
+</P>
+<P>
+12. The optical filter according to claim 1,
+</P>
+<P>
+wherein a plurality of conductive layers are disposed on the substrate.
+</P>
+<P>
+13. A light detection element having the optical filter according to claim 1.
+</P>
+<P>
+14. An image pick-up element having the light detection element according to claim 13.
+</P>
+<P>
+15. A camera having the image pick-up element according to claim 14.
+</P>
+<P>
+16. A spectral element having the optical filter according to claim 1.
+</P>
+<P>
+17. An optical filter which makes use of a plasmon resonance, the filter comprising:
+</P>
+<P>
+a substrate,
+</P>
+<P>
+a conductive layer with a plurality of apertures provided periodically on the substrate, and
+</P>
+<P>
+a dielectric layer in which the conductive layer is embedded,wherein a size of the apertures is a size equal to or less than a resonance wavelength of the plasmon resonance so that localized surface plasmons are generated by a visible light falling thereon, and a maximum value of transmissivity at the resonance wavelength of the filter is equal to or greater than approximately 50%.
+</P>
+<P>
+18. A camera comprising an image pick-up device with the optical filter according to claim 17.
+</P>
+</Claims>
+<Also_published_as>
+US2012038995A1;US2009296246A1;US8067723B2;KR20120041184A;KR20090125012A;JP2010009025A;CN101592751A
+</Also_published_as>
+</BiblioData>

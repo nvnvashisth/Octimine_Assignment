@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LOW TEMPERATURE METHODS FOR FORMING PATTERNED ELECTRICALLY CONDUCTIVE THIN FILMS AND PATTERNED ARTICLES THEREFROM
+</Title>
+<PublicationNumber>
+EP1941561A2
+</PublicationNumber>
+<Inventor>
+<Name>
+RINZLER ANDREW GABRIEL [US]
+</Name>
+<Name>
+WU ZHUANGCHUN [US]
+</Name>
+<Name>
+RINZLER, ANDREW, GABRIEL
+</Name>
+<Name>
+WU, ZHUANGCHUN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV FLORIDA [US]
+</Name>
+<Name>
+UNIVERSITY OF FLORIDA RESEARCH FOUNDATION, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1941561
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060803944
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US36723
+</PriorityNumber>
+<PriorityDate>
+2006-09-21
+</PriorityDate>
+<PriorityNumber>
+US20050719256P
+</PriorityNumber>
+<PriorityDate>
+2005-09-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00A2B2
+</Class>
+<Class>
+H01L51/00A2B2B
+</Class>
+<Class>
+H01L51/00A8
+</Class>
+<Class>
+H01L51/00M4D
+</Class>
+</NCL>
+<Abstract>
+A method of forming patterned thin films includes the steps of providing a porous membrane and a solution including a plurality of solid constituents and at least one surface stabilizing agent for preventing the solid constituents from flocculating out of suspension. The solution is dispensed onto a surface of the membrane. The solution is then removed by filtration through the membrane, wherein a patterned film coated membrane comprising a plurality of primarily spaced apart patterned regions are formed on the membrane. In one embodiment the method further includes the step of blocking liquid passage through selected portions of the membrane to form a plurality of open membrane portions and a plurality of blocked membrane portions before the dispensing step. The dispensing step includes ink jet printing the solution.;  An article having a patterned nanotube-including film thereon includes a substrate, and a patterned nanotube including film disposed on the substrate. The film includes a plurality of primarily spaced apart patterned regions, wherein nanotubes in the film are preferentially aligned parallel to a long direction of the patterned regions. The preferential alignment is generally most pronounced towards an edge of the patterned regions.
+</Abstract>
+<Claims>
+<P>
+We claim:
+</P>
+<P>
+1. A method of forming patterned thin films, comprising the steps of:
+</P>
+<P>
+providing a porous membrane and a solution comprising a plurality of solid constituents and at least one surface stabilizing agent for preventing said solid constituents from flocculating out of suspension;
+</P>
+<P>
+dispensing said solution onto a surface of said membrane, and
+</P>
+<P>
+removing said solution by filtration through said membrane, wherein a patterned film coated membrane comprising a plurality of primarily spaced apart patterned regions on said membrane is formed.
+</P>
+<P>
+2. The method of claim 1, further comprising the step of blocking liquid passage through selected portions of said membrane to form a plurality of open membrane portions and a plurality of blocked membrane portions before said dispensing step.
+</P>
+<P>
+3. The method of claim 1, wherein said dispensing step comprises ink jet printing said solution.
+</P>
+<P>
+4. The method of claim 1, wherein said solid constituents comprise single walled carbon nanotubes (SWNT).
+</P>
+<P>
+5. The method of claim 4, wherein said surface stabilizing agent is a surfactant, further comprising the step of rinsing said patterned film with a solvent for removing surfactant remaining on said SWNTs after said filtration step, wherein after said rinsing step said SWNTs come into intimate contact with one another.
+</P>
+<P>
+6. The method of claim 4, wherein said solid constituents comprise &amp;gt;99% by weight said single walled carbon nanotubes (SWNTs).
+</P>
+<P>
+7. The method of claim 1, further comprising the step of placing said patterned film coated membrane on a surface to be processed, and then selectively dissolving said porous membrane to leave said patterned film on said surface to be processed.
+</P>
+<P>
+8. The method of claim 1, wherein said surface to be processed comprises a semiconductor surface.
+</P>
+<P>
+9. The method of claim 1, wherein said patterned regions comprise plurality of interpenetrated SWNTs, said patterned regions for a thickness of 100 nm provides a sheet resistance of less than 100 ohm/sq and at least 30% optical transmission throughout a wavelength range from 0.4 to 5 [mu]m.
+</P>
+<P>
+10. An article having a patterned nanotube-comprising film thereon, comprising:
+</P>
+<P>
+a substrate, and
+</P>
+<P>
+a patterned nanotube comprising film disposed on said substrate comprising a plurality of primarily spaced apart patterned regions, wherein nanotubes in said film are preferentially aligned parallel to a long direction of said patterned regions.
+</P>
+<P>
+11. The article of claim 10, wherein said preferential alignment is most pronounced towards an edge of said patterned regions.
+</P>
+<P>
+12. The article of claim 10, wherein said substrate comprises a semiconductor.
+</P>
+<P>
+13. The article of claim 10, wherein said patterned regions provide for a thickness of 100 nm a sheet resistance of less than 100 ohm/sq.
+</P>
+<P>
+14. The article of claim 13, wherein said patterned regions provide at least 30% optical transmission throughout a wavelength range from 0.4 to 5 [mu]m.
+</P>
+<P>
+15. The article of claim 10, wherein said patterned regions are &amp;gt;99% by weight single walled carbon nanotubes (SWNTs).
+</P>
+</Claims>
+<Also_published_as>
+US2007065977A1;US7572743B2;WO2007035838A2;WO2007035838A3;KR20080063341A;KR101114783B1;JP2009509358A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CARBON NANOTUBE FIELD EFFECT TRANSISTOR
+</Title>
+<PublicationNumber>
+EP2038933A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PESETSKI AARON ANTHONY [US]
+</Name>
+<Name>
+ZHANG HONG [US]
+</Name>
+<Name>
+ADAM JOHN DOUGLAS [US]
+</Name>
+<Name>
+PRZYBYSZ JOHN [US]
+</Name>
+<Name>
+MURDUCK JIM [US]
+</Name>
+<Name>
+GOLDSTEIN NORMAN [US]
+</Name>
+<Name>
+BAUMGARDNER JAMES [US]
+</Name>
+<Name>
+PESETSKI, AARON, ANTHONY
+</Name>
+<Name>
+ZHANG, HONG
+</Name>
+<Name>
+ADAM, JOHN, DOUGLAS
+</Name>
+<Name>
+PRZYBYSZ, JOHN
+</Name>
+<Name>
+MURDUCK, JIM
+</Name>
+<Name>
+GOLDSTEIN, NORMAN
+</Name>
+<Name>
+BAUMGARDNER, JAMES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NORTHROP GRUMMAN SYSTEMS CORP [US]
+</Name>
+<Name>
+NORTHROP GRUMMAN SYSTEMS CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2038933
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070872522
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US13522
+</PriorityNumber>
+<PriorityDate>
+2007-06-08
+</PriorityDate>
+<PriorityNumber>
+US20060449758
+</PriorityNumber>
+<PriorityDate>
+2006-06-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L29/76
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00M4D
+</Class>
+</NCL>
+<Abstract>
+A carbon nanotube field effect transistor includes a substrate, a source electrode, a drain electrode and a carbon nanotube. The carbon nanotube forms a channel between the source electrode and the drain electrode. The carbon nanotube field effect transistor also includes a gate dielectric and a gate electrode. The gate electrode is separated from the carbon nanotube by the gate dielectric, and an input radio frequency voltage is applied to the gate electrode.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A high speed carbon nanotube field effect transistor, comprising: a substrate; a source electrode; a drain electrode; a carbon nanotube, wherein the carbon nanotube forms a channel between the source electrode and the drain electrode; a gate dielectric; and a gate electrode, wherein the gate electrode is separated from the carbon nanotube by the gate dielectric, is positioned not to overlap the source or drain electrodes and comprises a top-gated geometry, and wherein an input radio frequency voltage is applied to the gate electrode.
+</P>
+<P>
+2. The carbon nanotube field effect transistor of claim 1 , further comprising: additional carbon nanotubes, the additional carbon nanotubes increasing a size of the channel between the source electrode and the drain electrode.
+</P>
+<P>
+3. The carbon nanotube field effect transistor of claim 1 , wherein the gate dielectric has a dielectric constant K that is greater than or equal to 15 for dielectrics over 30 nm thick, a dielectric constant that is greater than or equal to 7 for dielectrics between 3 nm and 30 nm in thickness, or a dielectric constant greater than or equal to 4 for dielectrics under 3nm thick.
+</P>
+<P>
+4. The carbon nanotube field effect transistor of claim 1 , wherein the substrate comprises quartz.
+</P>
+<P>
+5. The carbon nanotube field effect transistor of claim 1 , wherein the carbon nanotube is less than 1 [mu]m long.
+</P>
+<P>
+6. The carbon nanotube field effect transistor of claim 1 , wherein a direct current (DC) flows through the channel formed by the carbon nanotube and the input radio frequency voltage applied to the gate electrode produces an output radio frequency voltage between the source electrode and drain electrode.
+</P>
+<P>
+7. The carbon nanotube field effect transistor of claim 1 , wherein a DC voltage is applied across the source and drain contacts and the input radio frequency voltage applied to the gate electrode produces an output radio frequency current flowing through the channel.
+</P>
+<P>
+8. The carbon nanotube field effect transistor of claim 1 , wherein one or both of the drain electrode and the source electrode include ohmic contacts.
+</P>
+<P>
+9. The carbon nanotube field effect transistor of claim 1 , further comprising: a bias voltage, wherein the bias voltage is applied between the drain and source electrodes below a voltage level where optical phonons are generated in the channel formed by the carbon nanotube.
+</P>
+<P>
+10. The carbon nanotube field effect transistor of claim 1 , wherein the channel is formed by a semiconductor from a group comprising of Si, Ge, SiGe, GaAs, GaN,
+</P>
+<P>
+SiC, BN, InAs or InP, and wherein the channel is less than 3 nanometers wide.
+</P>
+<P>
+11. The carbon nanotube field effect transistor of claim 1 , wherein the gate dielectric is selected from one or more Of TiO2, HfO2, ZrO2, Ta2O5, BaSrTiO3, AIOx, AIN, Si3N4 and SiO2.
+</P>
+<P>
+12. The carbon nanotube field effect transistor of claim 1 , wherein the frequency of the input RF voltage ranges from 200 MHz to 6 THz.
+</P>
+<P>
+13. The carbon nanotube field effect transistor of claim 1 , wherein the substrate is selected from a group comprising sapphire, GaAs, SiC, high resistivity Si1 polytetrafluroethylene, plastic, alumina, glass, beryllia, TiO2, ferrite or ceramic.
+</P>
+<P>
+14. A linear carbon nanotube field effect transistor comprising: a substrate; a source electrode; a drain electrode; a carbon nanotube, wherein the carbon nanotube forms a channel between the source electrode and the drain electrode; a gate dielectric, wherein the gate dielectric has a dielectric constant K that is greater than or equal to 15 for dielectrics over 30 nm thick, a dielectric constant that is greater than or equal to 7 for dielectrics between 3 nm and 30 nm in thickness, or a dielectric constant greater than or equal to 4 for dielectrics under 3nm thick; and a gate electrode separated from the carbon nanotube by the gate dielectric, wherein an input radio frequency voltage is applied to the gate electrode.
+</P>
+<P>
+15. The carbon nanotube field effect transistor of claim 14, further comprising: additional carbon nanotubes, the additional carbon nanotubes increasing a size of the channel between the source electrode and the drain electrode.
+</P>
+<P>
+16. The carbon nanotube field effect transistor of claim 14, wherein the substrate comprises quartz.
+</P>
+<P>
+17. The carbon nanotube field effect transistor of claim 14, wherein the gate electrode is positioned not to overlap any portion of the source or drain electrodes, and forms a top-gated geometry.
+</P>
+<P>
+18. The carbon nanotube field effect transistor of claim 14, wherein a DC current flows through the channel formed by the carbon nanotube and the input radio frequency voltage applied to the gate electrode produces an output radio frequency voltage between the source electrode and drain electrode.
+</P>
+<P>
+19. The carbon nanotube field effect transistor of claim 14, wherein a DC voltage is applied between the source electrode and drain electrode and the input radio frequency voltage applied to the gate electrode produces an output radio frequency current that flows through the channel formed by the carbon nanotube.
+</P>
+<P>
+20. The carbon nanotube field effect transistor of claim 14, wherein one or both of the drain electrode and the source electrode include ohmic contacts.
+</P>
+<P>
+21. The carbon nanotube field effect transistor of claim 14, wherein the channel is formed by a semiconductor from a group comprising of Si, Ge, SiGe, GaAs1
+</P>
+<P>
+GaN, SiC, BN, InAs or InP, and wherein the channel is less than 3 nanometers wide.
+</P>
+<P>
+22. The carbon nanotube field effect transistor of claim 14, further comprising: a bias voltage, wherein the bias voltage is applied between the drain and source electrodes below a voltage level where optical phonons are generated in the channel formed by the carbon nanotube.
+</P>
+<P>
+23. The carbon nanotube field effect transistor of claim 14, wherein the gate dielectric is selected from a group comprising TiO2, HfO2, AIOx, AIN, Ta2O5, ZrO2, or BaSrTiO3.
+</P>
+<P>
+24. The carbon nanotube field effect transistor of claim 14, wherein the input radio frequency voltage ranges from 200 MHz to 6 THz.
+</P>
+<P>
+25. The carbon nanotube field effect transistor of claim 14, wherein the substrate is selected from a group comprising sapphire, GaAs, SiC, high resistivity Si, alumina, polytetrafluroethylene, plastic, glass, beryllia, TiO2, ferrite or ceramic.
+</P>
+<P>
+26. A radiation hardened carbon nanotube field effect transistor comprising: a substrate, wherein the substrate is selected from a group comprising GaAs, Sapphire, Si, SiOx, InP, GaN, AIN1 SiC or Diamond; a source electrode; a drain electrode, a carbon nanotube, wherein the carbon nanotube forms a channel between the source electrode and the drain electrode; a gate dielectric, wherein the gate dielectric is no greater than 10 nm in thickness; and a gate electrode, wherein the gate electrode is separated from the carbon nanotube by the gate dielectric.
+</P>
+<P>
+27. The carbon nanotube field effect transistor of claim 26, further comprising: additional carbon nanotubes, the additional carbon nanotubes increasing a size of the channel between the source electrode and the drain electrode.
+</P>
+<P>
+28. The carbon nanotube field effect transistor of claim 26, wherein an input radio frequency voltage is applied to the gate electrode.
+</P>
+<P>
+29. The carbon nanotube field effect transistor of claim 28, wherein the input radio frequency voltage ranges from 200 MHz to 6 THz.
+</P>
+<P>
+30. The carbon nanotube field effect transistor of claim 26, wherein the gate electrode is not deposited directly over any portion of the source electrode or the drain electrode, and comprises a top-gated geometry.
+</P>
+<P>
+31. The carbon nanotube field effect transistor of claim 26, wherein a DC current flows through the channel formed by the carbon nanotube and an input radio frequency voltage applied to the gate electrode produces an output radio frequency voltage between the source electrode and drain electrode.
+</P>
+<P>
+32. The carbon nanotube field effect transistor of claim 26, wherein a DC voltage is applied between the source electrode and drain electrode and an input radio frequency voltage applied to the gate electrode produces an output radio frequency current that flows through the channel formed by the carbon nanotube.
+</P>
+<P>
+33. The carbon nanotube field effect transistor of claim 26, wherein the gate dielectric has a dielectric constant K that is greater than or equal to 15 for dielectrics over 30 nm thick, a dielectric constant that is greater than or equal to 7 for dielectrics between 3 nm and 30 nm in thickness, or a dielectric constant greater than or equal to 4 for dielectrics under 3nm thick.
+</P>
+<P>
+34. The carbon nanotube field effect transistor of claim 26, wherein one or both of the drain electrode and the source electrode include ohmic contacts.
+</P>
+<P>
+35. The carbon nanotube field effect transistor of claim 26, further comprising: a bias voltage, wherein the bias voltage is applied between the drain and source electrodes below a voltage level where optical phonons are generated in the channel formed by the carbon nanotube.
+</P>
+<P>
+36. The carbon nanotube field effect transistor of claim 26, wherein the gate dielectric is selected from a group comprising Si3N4, GaAs, AIN, SiOx, AIOx or
+</P>
+<P>
+Ta2O5.
+</P>
+<P>
+37. A carbon nanotube field effect transistor, comprising: a substrate; a source electrode; a drain electrode; a carbon nanotube, wherein the carbon nanotube forms a channel between the source electrode and the drain electrode; a first gate dielectric, wherein the carbon nanotube is deposited over a portion of the gate dielectric; and a first gate electrode, wherein the gate dielectric is deposited over the first gate electrode, and the first gate electrode is separated from the carbon nanotube by the gate dielectric; a second dielectric deposited on the carbon nanotube; a second gate electrode, wherein the second gate electrode is deposited on the second gate dielectric and is separated from the carbon nanotube by the second gate dielectric.
+</P>
+<P>
+38. The carbon nanotube field effect transistor of claim 37, wherein the first gate electrode is positioned not to overlap the source or drain electrodes.
+</P>
+<P>
+39. The carbon nanotube field effect transistor of claim 37, wherein an input radio frequency voltage is applied to one or both of the first gate electrode and the second gate electrode.
+</P>
+<P>
+40. The carbon nanotube field effect transistor of claim 37, wherein the second gate electrode is positioned not to overlap the source or drain electrodes.
+</P>
+<P>
+41. The carbon nanotube field effect transistor of claim 37, wherein the first gate electrode and second gate electrode are coupled to surround a portion of the carbon nanotube and are separated from the portion of the carbon nanotube by the first and second gate dielectrics.
+</P>
+<P>
+42. The carbon nanotube field effect transistor of claim 41 , wherein the first and second dielectrics comprise a single dielectric.
+</P>
+</Claims>
+<Also_published_as>
+WO2008091273A2;WO2008091273A3;US2009224230A1;US7714386B2;JP2009540576A
+</Also_published_as>
+</BiblioData>

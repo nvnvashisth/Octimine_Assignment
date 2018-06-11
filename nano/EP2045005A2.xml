@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Devices and methods for carrying out chemical reactions using photogenerated reagents
+</Title>
+<PublicationNumber>
+EP2045005A2
+</PublicationNumber>
+<Inventor>
+<Name>
+ZHOU XIAOCHUAN [US]
+</Name>
+<Name>
+ZHOU TIECHENG [US]
+</Name>
+<Name>
+SUN DAVID [US]
+</Name>
+<Name>
+ZHOU, XIAOCHUAN
+</Name>
+<Name>
+ZHOU, TIECHENG
+</Name>
+<Name>
+SUN, DAVID
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+XEOTRON CORP [US]
+</Name>
+<Name>
+XEOTRON CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2045005
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080168964
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2001-07-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20010952397
+</PriorityNumber>
+<PriorityDate>
+2001-07-03
+</PriorityDate>
+<PriorityNumber>
+US20000215719P
+</PriorityNumber>
+<PriorityDate>
+2000-07-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+B01L3/00
+</Class>
+<Class>
+B81B1/00
+</Class>
+<Class>
+B81B7/04
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C07H21/04
+</Class>
+<Class>
+C12M1/00
+</Class>
+<Class>
+C12M1/32
+</Class>
+<Class>
+C12N15/09
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N37/00
+</Class>
+<Class>
+C40B40/06
+</Class>
+<Class>
+C40B40/10
+</Class>
+<Class>
+C40B40/12
+</Class>
+<Class>
+C40B60/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B01J19/00R
+</Class>
+<Class>
+B01L3/5025
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C07K1/04B
+</Class>
+<Class>
+C07K1/04C
+</Class>
+</NCL>
+<Abstract>
+Fluidic methods and devices for conducting parallel chemical reactions are disclosed. The methods are based on the use of in situ photogenerated reagents such as photogenerated acids, photogenerated bases, or any other suitable chemical compounds that produce active reagents upon light radiation. The present invention describes devices and methods for performing a large number of parallel chemical reactions without the use of a large number of valves, pumps and other complicated fluidic components. The present invention provides microfluidic devices that contain a plurality of microscopic vessels for carrying out discrete chemical reactions.;  Other applications may include the preparation of microarrays of DNA and RNA oligonucleotides, peptides, oligosacchrides, phospholipids and other biopolymers on a substrate surface for assessing gene sequence information, screening for biological and chemical activities, identifying intermolecular complex formation, and determining structural features of molecular complexes.
+</Abstract>
+<Claims>
+<P>
+1. A microfluidic reactor comprising:
+</P>
+<P>
+a plurality of flow-through reaction cells for parallel chemical reactions, each reaction cell comprising:
+</P>
+<P>
+i. at least one illumination chamber, and
+</P>
+<P>
+ii. at least one reaction chamber,wherein the illumination chamber and the reaction chamber are in flow communication
+</P>
+<P>
+and are spatially separated in the reaction cell; and
+</P>
+<P>
+wherein said at least one illumination chamber receives a photogenerated acid precursor and is illuminated to produce a photogenerated acid.
+</P>
+<P>
+2. A microfluidic reactor according to claim 1, wherein the reactor comprises at least 10 reaction cells, at least 100 reaction cells, at least 1,000 reaction cells, at least 10,000 reaction cells, or 900 to 10,000 reaction cells.
+</P>
+<P>
+3. A microfluidic reactor according to claim 1, wherein the reactor comprises a silicon or plastic microfluidic template.
+</P>
+<P>
+4. A microfluidic reactor according to claim 1, wherein a distance between reaction cells which are adjacent to each other is 10 to 5,000 microns, 10 to 2,000 microns, 10 to 500 microns, 10 to 200 microns, or larger than 5,000 microns.
+</P>
+<P>
+5. A microfluidic reactor according to claim 1, wherein the reactor comprises a microfluidic template and at least one window plate.
+</P>
+<P>
+6. A microfluidic reactor according to claim 1, wherein the reactor further comprises at least one shadow mask.
+</P>
+<P>
+7. A microfluidic reactor according to claim 1, wherein the reactor further comprises an inlet channel and an inlet restriction gap connected to the illumination chamber, and an outlet channel and an outlet restriction gap connected to the illumination chamber.
+</P>
+<P>
+8. A microfluidic reactor according to claim 1, wherein the reactor further comprises inlet channels and inlet restriction gaps in fluid communication with the illumination chambers of the reaction cells, and wherein the reactor further comprises outlet channels and outlet restriction gaps in fluid communication with the reaction chambers of the reaction cells, and wherein illumination chambers and reaction chambers of the reaction cells are connected by connection channels.
+</P>
+<P>
+9. A microfluidic reactor according to claim 1, wherein the reactor further comprises one common inlet channel, branch inlet channels, branch outlet channels, and one common outlet channel.
+</P>
+<P>
+10. A microfluidic reactor according to claim 1, wherein the reactor further comprises immobilized molecules in the reaction chamber.
+</P>
+<P>
+11. A microfluidic reactor according to claim 21, wherein the immobilized molecules are oligonucleotides.
+</P>
+<P>
+12. A microfluidic reactor according to claim 1, wherein the reaction chambers are in capillary form.
+</P>
+<P>
+13. A microfluidic reactor according to claim 31, wherein the reaction chambers in capillary form have diameters of 0.05 micrometers to 500 micrometers or 0.1 micrometers to 100 micrometers.
+</P>
+<P>
+14. A microfluidic reactor according to claim 1, wherein the reactor comprises an array of oligonucleotides in the reaction chamber, a microfluidic template made of silicon, and first and second window plates made of glass and attached to the template.
+</P>
+<P>
+15. A microfluidic reactor according to claim 1, wherein the device comprises an array of oligonucleotides in the reaction chambers, a microfluidic template made of silicon, window plates, a shadow mask, inlet channels and inlet restriction gaps connected to the illumination chambers, outlet channels and outlet restriction gaps connected to the reaction chambers, distribution channels for parallel reactions in the reaction cells, and connection channels to connect illumination and reaction chambers.
+</P>
+</Claims>
+<Also_published_as>
+EP2045005A3;WO0202227A2;WO0202227A3;WO0202227A8;US2002012616A1;US2007281357A1;US2006188413A1;US2003091476A1;JP2004501665A;EP1301268A2;CN1427742A;CN1232343C;CA2415258A1;AU7315601A
+</Also_published_as>
+</BiblioData>

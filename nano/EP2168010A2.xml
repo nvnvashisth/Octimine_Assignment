@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DEBRIS PREVENTION SYSTEM AND LITHOGRAPHIC APPARATUS
+</Title>
+<PublicationNumber>
+EP2168010A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SOER WOUTER ANTHON [NL]
+</Name>
+<Name>
+VAN HERPEN MAARTEN MARINUS JOH [NL]
+</Name>
+<Name>
+SOER, WOUTER ANTHON
+</Name>
+<Name>
+VAN HERPEN, MAARTEN MARINUS JOHANNES WILHELMUS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASML NETHERLANDS BV [NL]
+</Name>
+<Name>
+ASML NETHERLANDS B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2168010
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080779048
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008NL50502
+</PriorityNumber>
+<PriorityDate>
+2008-07-22
+</PriorityDate>
+<PriorityNumber>
+US20070878306
+</PriorityNumber>
+<PriorityDate>
+2007-07-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B08B1/00
+</Class>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B08B1/00
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70D16D
+</Class>
+<Class>
+G03F7/70P8B
+</Class>
+<Class>
+G03F7/70P8D
+</Class>
+</NCL>
+<Abstract>
+A debris prevention system is constructed and arranged to prevent debris emanating from a radiation source from propagating with radiation from the radiation source into or within a lithographic apparatus. The debris prevention system includes a first foil trap that is rotatable around an axis of rotation, and a second foil trap that at least partly encloses the first foil trap. The second foil trap includes a plurality of foils optically open respective to a central location for placement of a radiation source and optically closed respective to directions perpendicular to the axis of rotation.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A debris prevention system constructed and arranged to prevent debris emanating from a radiation source from propagating with radiation from the radiation source into or within a lithographic apparatus, the debris prevention system, comprising: a first foil trap rotatable around an axis of rotation; and a second foil trap at least partly enclosing said first foil trap, said second foil trap comprising a plurality of foils optically open respective to a central location for placement of a radiation source and optically closed respective to directions perpendicular to the axis of rotation.
+</P>
+<P>
+2. A debris prevention system according to claim 1, further comprising an optical system, wherein an optical axis defined by the optical system coincides with the axis of rotation of the first foil trap.
+</P>
+<P>
+3. A debris prevention system according to claim 1, further comprising an optical system, wherein an optical axis defined by the optical system is directed generally transverse to the axis of rotation of the first foil trap.
+</P>
+<P>
+4. A debris prevention system according to claim 1, wherein, for an angle [beta] increasing between 0 and 90[deg.] relative to the rotation axis, the foils of the second foil trap have an interspacing at distances decreasing with said angle 6.
+</P>
+<P>
+5. A debris prevention system according to claim 4, wherein the interspacing is such that for each line perpendicular to the axis of rotation, at least one foil and at most three foils of the second foil trap are intersected.
+</P>
+<P>
+6. A debris prevention system according to claim 1, wherein a debris outlet channel is arranged at or near a lowest point of the second foil trap.
+</P>
+<P>
+7. A debris prevention system according to claim 1, wherein the second foil trap is rotatable, and wherein a cleaning system is arranged to provide a cleaning action during rotation of the second foil trap.
+</P>
+<P>
+8. A debris prevention system according to claim 7, wherein said cleaning system comprises a wiper arranged to perform a mechanical cleaning action. 9. A debris prevention system according to claim 7, wherein said cleaning system comprises a nozzle, arranged to direct a chemical cleaning substance towards the second foil trap.
+</P>
+<P>
+10. A debris prevention system according to claim 7, wherein said second foil trap is arranged to rotate with a frequency ranging between about 0.1 Hz and about 10 Hz.
+</P>
+<P>
+11. A debris prevention system according to claim 1, wherein the plurality of foils are generally conical in shape.
+</P>
+<P>
+12. A debris prevention system according to claim 1, wherein the plurality of foils are generally planar in shape.
+</P>
+<P>
+13. A debris prevention system according to claim 1, whererin the plurality of foils are generally rotationally symmetric about the axis of rotation of the first foil trap.
+</P>
+<P>
+14. A debris prevention system according to claim 1, further comprising a discharge produced or a laser produced plasma source.
+</P>
+<P>
+15. A debris prevention system according to claim 14, wherein the source comprises a plasma produced discharge source for generating extreme ultraviolet radiation, the discharge source comprising a pair of electrodes to be provided with a voltage difference, and a system for producing a discharge between said pair of electrodes so as to provide a pinched plasma in a central area between said electrodes.
+</P>
+<P>
+16. A debris prevention system according to claim 15, wherein said plasma source comprises tin, lithium or xenon.
+</P>
+<P>
+17. A debris prevention system according to claim 1, further comprising a collector element defining a collection angle, wherein said second foil trap is arranged between said first foil trap and said collector.
+</P>
+<P>
+18. A debris prevention system according to claim 17, wherein said collector element is cylindrically symmetric and comprises concentrically curved reflective surfaces.
+</P>
+<P>
+19. A debris prevention system according to claim 18, wherein said reflective surfaces are stacked at a distance ranging substantially between about 2 cm and about 7 cm. 20. A debris prevention system according to claim 19, wherein said collector element is of a normal incidence type.
+</P>
+<P>
+21. A lithographic apparatus comprising: an illumination system configured to condition a radiation beam; a support constructed to support a patterning device, the patterning device being configured to impart the radiation beam with a pattern in its cross-section to form a patterned radiation beam; a substrate table constructed to hold a substrate; and a projection system configured to project the patterned radiation beam onto a target portion of the substrate; and a debris prevention system configured to provide said radiation beam, the debris prevention system being constructed and arranged to prevent debris emanating from a radiation source from propagating with radiation from the radiation source into or within the lithographic apparatus, the debris prevention system, comprising a first foil trap rotatable around an axis of rotation; and a second foil trap at least partly enclosing said first foil trap, said second foil trap comprising a plurality of foils optically open respective to a central location for placement of a radiation source and optically closed respective to directions perpendicular to the axis of rotation.
+</P>
+</Claims>
+<Also_published_as>
+WO2009014439A2;WO2009014439A3;US2009027637A1;TW200907601A;NL1035710A1;KR20100061450A;JP2010534414A;CN101755239A
+</Also_published_as>
+</BiblioData>

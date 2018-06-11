@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC TRANSDUCER
+</Title>
+<PublicationNumber>
+EP2176170A2
+</PublicationNumber>
+<Inventor>
+<Name>
+WALDOEFNER NORBERT [DE]
+</Name>
+<Name>
+STIEF KERSTIN [DE]
+</Name>
+<Name>
+WALDOEFNER, NORBERT
+</Name>
+<Name>
+STIEF, KERSTIN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MAGFORCE NANOTECHNOLOGIES AG [DE]
+</Name>
+<Name>
+MAGFORCE NANOTECHNOLOGIES AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2176170
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090700283
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-01-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2009DE00038
+</PriorityNumber>
+<PriorityDate>
+2009-01-09
+</PriorityDate>
+<PriorityNumber>
+DE200810003615
+</PriorityNumber>
+<PriorityDate>
+2008-01-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K41/00
+</Class>
+<Class>
+B01J19/10
+</Class>
+<Class>
+C01G49/02
+</Class>
+<Class>
+C01G49/06
+</Class>
+<Class>
+C01G49/08
+</Class>
+<Class>
+C09C1/24
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K41/00U
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G49/02
+</Class>
+<Class>
+C01G49/06
+</Class>
+<Class>
+C01G49/08
+</Class>
+<Class>
+C09C1/24
+</Class>
+</NCL>
+<Abstract>
+Die vorliegende Erfindung betrifft die Herstellung biokompaktibler magnetischer Nanopartikel mit einem hohen SAR-Wert, die, wenn sie einem magnetischen Wechselfeld ausgesetzt werden, ein hohes Mass an Wärme erzeugen. Die erzeugte Wärme kann unter anderem für therapeutische Zwecke genutzt werden, insbesondere für die Bekämpfung von Krebs.
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zur Herstellung von Partikeln umfassend die folgenden Schritte:
+</P>
+<P>
+A1) Bereitstellung einer Zusammensetzung mindestens einer eisenhaltigen Verbindung A in mindestens einem organischen Lösungsmittel L1,
+</P>
+<P>
+B1) Erhitzen der Zusammensetzung für mindestens 10 Minuten auf eine Temperatur im Bereich von 50[deg.]C bis zu einer Temperatur von 50[deg.]C unterhalb der eigentlichen Reaktionstemperatur gemäss Schritt C1 der eisenhaltigen Verbindung A,
+</P>
+<P>
+C1) Erhitzen der Zusammensetzung auf eine Temperatur zwischen 200[deg.]C und 400[deg.]C,
+</P>
+<P>
+D1) Reinigung der erhaltenen Partikel,
+</P>
+<P>
+E1) Suspendierung der gereinigten Nanopartikel in Wasser oder einer wässrigen Lösung einer Säure,
+</P>
+<P>
+F1) Zugabe einer oberflächenaktiven Verbindung zur wässrigen Suspension erhalten gemäss Schritt E1),
+</P>
+<P>
+G1) Behandlung der wässrigen Suspension gemäss Schritt F1) mit Ultraschall,
+</P>
+<P>
+H1) Reinigung der gemäss Schritt G1) erhaltenen wässrigen Dispersion der Partikel,
+</P>
+<P>
+I1) Herstellung einer Dispersion der Partikel gemäss Schritt H1) in einem Lösungsmittelgemisch aus Wasser und einem mit Wasser mischbaren Lösungsmittel
+</P>
+<P>
+J1) Zugabe eines Alkoxysilans zur Dispersion der Partikel in dem Lösungsmittelgemisch gemäss Schritt I1),
+</P>
+<P>
+K1) Reinigung der Partikel.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, des weiteren umfassend den auf Schritt A1 folgenden Schritt A2):
+</P>
+<P>
+A2) Zugabe eines Additivs ausgewählt aus der Gruppe umfassend: Tenside, Silane, Si- oder Al-organische Verbindungen, Phosphine, gesättigte oder ungesättigte Fettsäuren, Amine, Diamine, Carbonsäuren und deren Salze, gesättigte und ungesättigte Fettsäuren, Polymere.
+</P>
+<P>
+3. Verfahren nach Anspruch 1 oder 2, des weiteren umfassend den auf Schritt B1 folgenden Schritt B2):
+</P>
+<P>
+B2) Zugabe eines Additivs ausgewählt aus der Gruppe umfassend: Tenside, Silane, Si- oder Al-organische Verbindungen, Phosphine, gesättigte oder ungesättigte Fettsäuren, Amine, Diamine, Carbonsäuren und deren Salze, gesättigte und ungesättigte Fettsäuren, Polymere oder
+</P>
+<P>
+B2) Zugabe einer Zusammensetzung mindestens einer eisenhaltigen Verbindung B in mindestens einem organischen Lösungsmittel 12 oder
+</P>
+<P>
+B2) Zugabe einer Zusammensetzung mindestens einer eisenhaltigen Verbindung B in mindestens einem organischen Lösungsmittel 12 und Zugabe eines Additivs ausgewählt aus der Gruppe umfassend: Tenside, Silane, Si- oder Al-organische Verbindungen, Phosphine, gesättigte oder ungesättigte Fettsäuren, Amine, Diamine, Carbonsäuren und deren Salze, gesättigte und ungesättigte Fettsäuren, Polymere.
+</P>
+<P>
+4. Verfahren nach Anspruch 3, wobei die mindestens eine eisenhaltige Verbindung B aus der Gruppe ausgewählt wird umfassend Eisen-Komplexverbindungen, Eisencarbonyl-Verbindungen, Eisen-Salze, organische Eisenverbindungen, Eisensalze von gesättigten/ungesättigten Fettsäuren und Eisen-Sandwich-Komplexe.
+</P>
+<P>
+5. Verfahren nach Anspruch 3, wobei das mindestens eine Lösungsmittel 12 einen Siedepunkt von mindestens 200[deg.]C besitzt.
+</P>
+<P>
+6. Verfahren nach Anspruch 3, wobei das mindestens eine Lösungsmittel 12 ausgewählt wird aus der Gruppe umfassend hochsiedende Amine, Alkane, Olefine, Alkohole oder Ether, Alkylenglykolmonoether, Alkylenglykoldiether, Ethylenglykolmonoether, Ethylenglykoldiether, Propylenglykolmonoether, Propylenglykoldiether, Glycerinmonoether, Glycerindiether, Glycerintriether, Glykol-Diether (Glymes).
+</P>
+<P>
+7. Verfahren nach Anspruch 3, wobei die mindestens eine eisenhaltige Verbindung B identisch zur mindestens einen eisenhaltigen Verbindung A ist und/oder das mindestens eine organische Lösungsmittel L1 identisch zum mindestens einen organischen Lösungsmittel 12 ist.
+</P>
+<P>
+8. Verfahren nach einem der vorherigen Ansprüche, des weiteren umfassend den auf Schritt C1 oder D1 oder E1 oder F1 oder G1 oder H1 oder 11 oder J1 oder K1 folgenden Schritt X2):
+</P>
+<P>
+X2) Oxidation der gebildeten Partikel.
+</P>
+<P>
+9. Verfahren nach einem der vorherigen Ansprüche, wobei die mindestens eine eisenhaltige Verbindung A aus der Gruppe ausgewählt wird umfassend Eisen-Komplexverbindungen, Eisencarbonyl-Verbindungen, Eisen-Salze, organische Eisenverbindungen, Eisensalze von gesättigten/ungesättigten Fettsäuren und Eisen-Sandwich-Komplexe.
+</P>
+<P>
+10. Verfahren nach einem der vorherigen Ansprüche, wobei das mindestens eine Lösungsmittel einen Siedepunkt von mindestens 200[deg.]C besitzt.
+</P>
+<P>
+11. Verfahren nach einem der vorherigen Ansprüche, wobei das mindestens eine Lösungsmittel L1 ausgewählt wird aus der Gruppe umfassend hochsiedende Amine, Alkane, Olefine, Alkohole, Ether, Alkylenglykolmonoether, Alkylenglykoldiether, Ethylenglykolmonoether, Ethylenglykoldiether, Propylenglykolmonoether, Propylenglykoldiether, Glycerinmonoether, Glycerindiether, Glycerintriether, Glykol-Diether (Glymes).
+</P>
+<P>
+12. Verfahren nach einem der vorherigen Ansprüche, wobei das Erhitzen gemäss Schritt C1) über einen Zeitraum von mindestens 30 Minuten durchgeführt wird.
+</P>
+<P>
+13. Verfahren nach einem der vorherigen Ansprüche, wobei die Reinigung gemäss Schritt D1) mittels einer Soxhlet-Extraktion erfolgt.
+</P>
+<P>
+14. Verfahren nach einem der vorherigen Ansprüche, wobei im Reinigungsschritt gemäss Schritt D1) die eventuell vorhandenen Additive weitgehend entfernt werden.
+</P>
+<P>
+15. Verfahren nach einem der vorherigen Ansprüche, wobei die wässrige Lösung der Mineralsäure einen pH-Wert von 2 bis 6, vorzugsweise von 3 bis 5 aufweist.
+</P>
+<P>
+16. Verfahren nach einem der vorherigen Ansprüche, wobei die Mineralsäure gemäss Schritt E1) ausgewählt wird aus der Gruppe umfassend: Salzsäure, Phosphorsäure, Schwefelsäure, Bromwasserstoffsäure, Borsäure oder Salpetersäure.
+</P>
+<P>
+17. Verfahren nach einem der vorherigen Ansprüche, wobei die oberflächenaktive Verbindung gemäss Schritt F1) ausgewählt wird aus der Gruppe umfassend: Fettsäuren, Fettsäurensalze, Tenside, Polymere, Polyvinylalkohol, Polyethylenglykol, Polyacrylsäure, Dextran, PLGA, Chitosan und Polyethylenimin.
+</P>
+<P>
+18. Verfahren nach einem der vorherigen Ansprüche, wobei das Lösungsmittelgemisch gemäss Schritt 11) ein Alkohol-Wasser-Gemisch mit einem Volumenverhältnis von Alkohol zu Wasser von 1:1 bis 1:5 ist.
+</P>
+<P>
+19. Verfahren nach Anspruch 18, wobei das Lösungsmittelgemisch des weiteren ein Amin oder Ammoniak enthält.
+</P>
+<P>
+20. Verfahren nach Anspruch 18, wobei der Alkohol aus der Gruppe ausgewählt wird, umfassend: Methanol, Ethanol, Propanol und Isopropanol.
+</P>
+<P>
+21. Verfahren nach einem der vorherigen Ansprüche, wobei das Alkoxysilan gemäss Schritt J1) aus der Gruppe ausgewählt wird, umfassend: Tetraalkoxysilane, Trialkoxysilane, Dialkoxysilane sowie Monoalkoxysilane.
+</P>
+<P>
+22. Verfahren nach einem der vorherigen Ansprüche, wobei das molare Verhältnis von Partikel zu Alkoxysilan gemäss Schritt J1) 1:1 bis 1:5 beträgt.
+</P>
+<P>
+23. Verfahren nach einem der vorherigen Ansprüche, wobei das Alkoxysilan gemäss Schritt J1) unter Ultraschall-Behandlung zugesetzt wird.
+</P>
+<P>
+24. Verfahren nach einem der vorherigen Ansprüche, wobei die gemäss Schritt J1) erhaltene Dispersion für 1-8 Stunden mit Ultraschall behandelt wird.
+</P>
+<P>
+25. Verfahren nach einem der vorherigen Ansprüche, des weiteren umfassend der Schritt L1):
+</P>
+<P>
+L1) Anbindung von einem Antikrebsmittel, monoklonalen Antikörper, Aptamer, Nukleinsäure, Aminosäure, Peptid, Protein, Kohlenhydrat, Lipid, Glycoprotein, Glycan, Lipoprotein, oder von einem anti-proliferativen, anti-migrativen, anti-angiogenen, anti-thrombotischen, antiinflammatorischen, antiphlogistischen, zytostatischen, zytotoxischen, anti-koagulativen, anti-bakteriellen, anti-viralen oder anti-mykotischen Wirkstoff an die gemäss Schritt K1) erhaltenen Partikel.
+</P>
+<P>
+26. Eisenhaltige Partikel erhältlich nach einem Verfahren gemäss eines der Patentansprüche 1-25.
+</P>
+<P>
+27. Eisenhaltige Partikel mit einem SAR-Wert von mindestens 20 mW/mg Fe bei einer Feldstärke von 6 KA/m erhältlich nach einem Verfahren gemäss eines der Patentansprüche 1-25.
+</P>
+<P>
+28. Pharmazeutische Zusammensetzung enthaltend eisenhaltige Partikel gemäss Anspruch 25.
+</P>
+<P>
+29. Pharmazeutische Zusammensetzung gemäss Anspruch 28 in Form einer Infusionslösung, Injektionslösung, eines Pulvers, Inhalationspulvers oder eines Lyophilisates.
+</P>
+<P>
+30. Eisenhaltige Partikel gemäss Anspruch 26 zur Verwendung in der Medizin.
+</P>
+<P>
+31. Verwendung der eisenhaltigen Partikel gemäss Anspruch 26 zur Herstellung einer pharmazeutischen Zusammensetzung zur Behandlung und/oder Prophylaxe von proliferativen Erkrankungen, Krebs, Tumoren, Rheuma, Arthritis, Arthrose und bakteriellen Infektionen.
+</P>
+<P>
+32. Verwendung der eisenhaltigen Partikel gemäss Anspruch 26 in Kombination mit einem Antikrebsmittel.
+</P>
+</Claims>
+<Also_published_as>
+DE102008003615A1;US2011052609A1;RU2010123367A;KR20100102691A;JP2011509233A;DE112009000543A5;WO2009086824A2;WO2009086824A3;CN102295313A;CN101888976A;CA2707523A1;AU2009203851A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Synthesis of mono- disperse and highly- crystalline nano- particles of metals, alloys, metal oxides, and multi- metallic oxides without a size- selection process
+</Title>
+<PublicationNumber>
+EP2127788A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HYEON TAEG-HWAN [KR]
+</Name>
+<Name>
+HYEON, TAEG-HWAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SEOUL NAT UNIV IND FOUNDATION [KR]
+</Name>
+<Name>
+SEOUL NATIONAL UNIVERSITY INDUSTRY FOUNDATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2127788
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090010256
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2002-01-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20020716478
+</PriorityNumber>
+<PriorityDate>
+2002-01-22
+</PriorityDate>
+<PriorityNumber>
+KR20010063077
+</PriorityNumber>
+<PriorityDate>
+2001-10-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B22F1/00
+</Class>
+<Class>
+B22F9/30
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C01B13/36
+</Class>
+<Class>
+C01G49/06
+</Class>
+<Class>
+C01G51/00
+</Class>
+<Class>
+G11B5/706
+</Class>
+<Class>
+G11B5/714
+</Class>
+<Class>
+G11B5/842
+</Class>
+<Class>
+H01F1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B22F1/00A2B4
+</Class>
+<Class>
+B22F9/30C
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B13/36
+</Class>
+<Class>
+C01B13/36H
+</Class>
+<Class>
+G11B5/706B
+</Class>
+<Class>
+H01F1/00E10
+</Class>
+<Class>
+H01F1/00E12
+</Class>
+</NCL>
+<Abstract>
+A synthetic method of fabricating highly crystalline and monodisperse nanoparticles of metals, multi-metallic alloys, monometallic oxides and multi-metallic oxides without a size selection process are disclosed. A typical synthetic method comprises the steps of, synthesis of a metal surfactant complex from the reaction of a metal precursor and a surfactant, high temperature thermal decomposition of the metal surfactant complex to produce monodisperse metal nanoparticles, and completing the formation of synthesized metal, metal alloy or metal oxide nanoparticles by adding a poor solvent followed by centrifuging. For obtaining highly crystalline monodisperse nanoparticles, additional steps are necessary as described in the invention. The resulting nanoparticles have excellent magnetic property for many applications.
+</Abstract>
+<Claims>
+<P>
+1. A method of direct synthesis of metal oxide nanoparticles comprising:
+</P>
+<P>
+synthesizing monodisperse metal oxide nanoparticles by adding a metal precursor, an oxidant, and a surfactant to a solvent in one container to prepare a mixed solution followed by a heating process; and
+</P>
+<P>
+completing the formation of said metal oxide nanoparticles by adding a solvent that cannot disperse nanoparticles effectively and induces the precipitation of the nanoparticles, followed by a centrifugation process.
+</P>
+<P>
+2. The method of claim 1, wherein said mixed solution is heat-treated at a temperature in the range of 30[deg.]C to 500[deg.]C for a duration from 1 minute to 24 hours continuously to synthesize said metal oxide nanoparticles.
+</P>
+<P>
+3. The method of claim 1, wherein said metal precursor comprises a metal selected from the group consisting of Fe, Co, Ni, Cr, Mn, Ba, Sr, Ti, Zr, Pt, and Pd.
+</P>
+<P>
+4. The method of claim 3, wherein the metal precursor comprises a metallic ligand selected from the group consisting of CO, NO, C5H5 and alkoxides.
+</P>
+<P>
+5. The method of claim 1, wherein said metal precursor is selected from the group consisting of iron pentacarbonyl [Fe(CO)5], ferrocene, cobalt tricarbonylnitrosyl [Co(CO)3(NO)], cyclopentadienylcobalt-tricarbonyl [Co(CO) 3(C5H5)], dicobalt octacarbonyl [Co2(CO)8], chromium hexacarbonyl [Cr(CO)6], nickel tetracarbonyl [Ni(CO)4], dimanganese decacarbonyl [Mn2(CO)10], iron acetylacetonate [Fe(acac)3], cobalt acetylacetonate [Co(acac)3], barium acetylacetonate [Ba(acac)2], strontium acetylacetonate [Sr(acac)2], platinum acetylacetonate [Pt(acac)2], palladium acetylacetonate [Pd(acac)2], titanium tetraisopropoxide [Ti(OC3H7)4], zirconium tetrabutoxide [Zr(OC4H9)4], iron (III) chloride [FeCl3], iron (II) chloride [FeCl2], iron (II) sulfate [FeSO4], iron (III) nitrate [Fe(NO3)3], cobalt (III) chloride [COCl3], cobalt (II) chloride [CoCl2], cobalt (III) nitrate [Co(NO3)3], nickel (II) sulfate [NiSO4], nickel (II) chloride [NiCl], nickel (II) nitrate [Ni(NO3)2], titanium tetrachloride [TiCl4], zirconium tetrachloride [ZrCl4], hydrogen hexachloroplatinate (IV) [H2PtCl6], hydrogen hexachloropalladiate (IV) [H2PdCl6], barium chloride [BaCl2], barium sulfate [BaSO4], strontium chloride [SrCl2], and strontium sulfate [SrSO4].
+</P>
+<P>
+6. The method of claim 1, wherein said oxidant is selected from the group consisting of amine N-oxide, hydrogen peroxide, and oxygen.
+</P>
+<P>
+7. The method of claim 6, wherein the amine N-oxide is selected from the group consisting of pyridine N-oxide and trimethylamine N-oxide.
+</P>
+<P>
+8. The method of claim 1, wherein said surfactant is selected from the group consisting of cationic surfactants, neutral surfactants, and anionic surfactants.
+</P>
+<P>
+9. The method of claim 8, wherein said cationic surfactant is an alkyltrimethylammonium halide system, wherein said neutral surfactant is selected from the group consisting of oleic acid, trioctylphosphine oxide (TOPO), triphenylphosphine (TOP), and alkyl amine, and wherein said anionic surfactant is selected from the group consisting of sodium alkylsulfate and sodium alkylphosphate.
+</P>
+<P>
+10. The method of claim 1, wherein said solvent is selected from the group consisting of ether compounds, heterocyclic compounds, aromatic compounds, dimethyl sulfoxide (DMSO), dimethylformamide (DMF), alcohols, hydrocarbons, and water.
+</P>
+<P>
+11. The method of claim 10, wherein the ether compound is selected from the group consisting of octyl ether, butyl ether, hexyl ether, and decyl ether.
+</P>
+<P>
+12. The method of claim 10, wherein the heterocyclic compound is selected from the group consisting of pyridine and tetrahydrofurane (THF).
+</P>
+<P>
+13. The method of claim 10, wherein the aromatic compound is selected from the group consisting of toluene, xylene, mesitylene and benzene.
+</P>
+<P>
+14. The method of claim 10, wherein the alcohol is selected from the group consisting of octylalcohol and decanol.
+</P>
+<P>
+15. The method of claim 10, wherein the hydrocarbon is selected from the group consisting of pentane, hexane, heptane, octane, decane, dodecane, tetradecane and hexadecane.
+</P>
+</Claims>
+<Also_published_as>
+EP2127788A3;WO03031323A1;US2004247503A1;US7407527B2;KR20030030728A;KR100867281B1;JP2008169110A;JP2005504888A;ES2331232T3;EP1441977A1;EP1441977A4;EP1441977B1;CN1568285A;CN1568285B;AT439203T
+</Also_published_as>
+</BiblioData>

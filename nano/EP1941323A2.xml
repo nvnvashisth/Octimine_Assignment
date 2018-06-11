@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+IMPRINT APPARATUS, IMPRINT METHOD, AND MOLD FOR IMPRINT
+</Title>
+<PublicationNumber>
+EP1941323A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SUEHIRA NOBUHITO [JP]
+</Name>
+<Name>
+SEKI JUNICHI [JP]
+</Name>
+<Name>
+INA HIDEKI [JP]
+</Name>
+<Name>
+SUEHIRA, NOBUHITO
+</Name>
+<Name>
+SEKI, JUNICHI
+</Name>
+<Name>
+INA, HIDEKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1941323
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060812158
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP321187
+</PriorityNumber>
+<PriorityDate>
+2006-10-18
+</PriorityDate>
+<PriorityNumber>
+JP20050302679
+</PriorityNumber>
+<PriorityDate>
+2005-10-18
+</PriorityDate>
+<PriorityNumber>
+JP20060230222
+</PriorityNumber>
+<PriorityDate>
+2006-08-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+An imprint apparatus for imprinting a pattern provided to a mold onto a substrate or a member on the substrate includes a light source for irradiating a surface of the mold disposed opposite to the substrate and a surface of the substrate with light;  an optical system for guiding the light from the light source to the surface of the mold and the surface of the substrate and guiding reflected lights from these surfaces to a spectroscope;  a spectroscope for dispersing the reflected lights guided by the optical system into a spectrum;  and an analyzer for analyzing a distance between the surface of the mold and the surface of the substrate. The analyzer calculates the distance between the surface of the mold and the surface of the substrate by measuring a distance between the surface of the mold and a surface formed at a position away from the surface of the mold.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. An imprint apparatus for imprinting a pattern provided to a mold onto a substrate or a member on the substrate, said imprint apparatus comprising: a light source for irradiating a surface of&apos; the mold disposed opposite to the substrate and a surface of the substrate with light; an optical system for guiding the light from said light source to the surface of the mold and the surface of the substrate and guiding reflected lights from these surfaces to a spectroscope; a spectroscope for dispersing the reflected lights guided by said optical system into a spectrum; and an analyzer for analyzing a distance between the surface of the mold and the surface of the substrate; wherein said analyzer calculates the distance between the surface of the mold and the surface of the substrate by measuring a distance between the surface of the mold and a surface formed at a position away from the surface of the mold.
+</P>
+<P>
+2. An apparatus according to Claim 1, wherein the surface formed at the position away from the surface of the mold is a back surface of the mold.
+</P>
+<P>
+3. An apparatus according to Claim 1, wherein the surface formed at the position away from the surface of the mold is provided between the surface of the mold and the back surface of the mold.
+</P>
+<P>
+4. An apparatus according to Claim 1, wherein the surface formed at the position away from the surface of the mold is an interface between a first member constituting the surface of the mold and a second member comprising a material different in refractive index from a material for the first member.
+</P>
+<P>
+5. An imprint method for imprinting a pattern provided to a mold onto a substrate or a member on the substrate, said imprint method comprising: a first measuring step of measuring a distance between a surface of the mold and a surface formed at a position away from the surface of the mold by an optical measurement method; a second measuring step of measuring a distance between the surface formed at the position away from the surface of the mold and a surface of the substrate by the optical measurement method; and a calculating step of calculating a distance between the surface of the mold and the surface of the substrate by subtracting the distance measured in said first measuring step from, the distance measured in said second measuring step.
+</P>
+<P>
+6. A method according to Claim 5, wherein the surface formed at the position away from the surface of the mold is a back surface of the mold.
+</P>
+<P>
+7. A method according to Claim 5, wherein the surface formed at the position away from the surface of the mold is provided between the surface of the mold and the back surface of the mold.
+</P>
+<P>
+8. A method according to Claim 5, wherein the surface formed at the position away from the surface of the mold is an interface between a first member constituting the surface of the mold and a second member comprising a material different in refractive index from a material for the first member.
+</P>
+<P>
+9. A method according to Claim 5, wherein the optical measurement method in said first and second steps uses optical interferometer.
+</P>
+<P>
+10. A mold for being used in an imprint apparatus including an optical measuring device, comprising: a first member constituting a surface of said mold; and a second member different in refractive index from said first member; wherein said first member has an optical thickness of 1/4 or more of a wavelength of light used in optical measurement.
+</P>
+<P>
+11. A process for producing a structure by using an imprint method, comprising: an imprint method according to Claim 5.
+</P>
+<P>
+12. An imprint apparatus for imprinting a pattern provided to a mold onto a substrate or a member on the substrate, said imprint apparatus comprising: a light source for irradiating a surface of the mold disposed opposite to the substrate and a surface of the substrate with light; a first optical system for guiding the light from said light source to the surface of the mold and the surface of the substrate and guiding reflected lights from these surfaces to a spectroscope so as to measure a distance between the surface of the mold and the surface of the substrate; and a second optical system for guiding the light from said light source to the surface of the mold and the surface of the substrate and guiding reflected lights from these surfaces to an image pickup device so as to measure in-plane positions of the surface of the mold and the surface of the substrate; wherein said first optical system and said second optical system shares a part of their optical axes .
+</P>
+<P>
+13. An apparatus according to Claim 12, wherein said second optical system has a numerical aperture larger than that of said first optical system.
+</P>
+<P>
+14. An apparatus according to Claim 12, wherein said second optical system has a magnification larger than that of said first optical system.
+</P>
+<P>
+15. A process for producing a structure by using an imprint apparatus, comprising: using an imprint apparatus according to Claim 12.
+</P>
+</Claims>
+<Also_published_as>
+WO2007046528A2;WO2007046528A3;WO2007046528B1;US2008099941A1;US8047828B2;US2009283938A1;KR20080053503A;JP2007139752A;EP2090928A2;EP2090928A3
+</Also_published_as>
+</BiblioData>

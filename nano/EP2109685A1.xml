@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SYSTEMS AND METHODS FOR POLYMER CHARACTERIZATION
+</Title>
+<PublicationNumber>
+EP2109685A1
+</PublicationNumber>
+<Inventor>
+<Name>
+POLONSKY STANISLAV [US]
+</Name>
+<Name>
+ROSSNAGEL STEPHEN [US]
+</Name>
+<Name>
+STOLOVITZKY GUSTAVO ALEJANDRO [US]
+</Name>
+<Name>
+POLONSKY, STANISLAV
+</Name>
+<Name>
+ROSSNAGEL, STEPHEN
+</Name>
+<Name>
+STOLOVITZKY, GUSTAVO, ALEJANDRO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBM [US]
+</Name>
+<Name>
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2109685
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080701574
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP50562
+</PriorityNumber>
+<PriorityDate>
+2008-01-18
+</PriorityDate>
+<PriorityNumber>
+US20070670621
+</PriorityNumber>
+<PriorityDate>
+2007-02-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N15/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12Q1/68E
+</Class>
+<Class>
+G01N33/487B5
+</Class>
+</NCL>
+<Abstract>
+Techniques for controlling the position of a charged polymer (112) inside a nanopore (105) are provided. For example, one technique includes using electrostatic control to position a linear charged polymer inside a nanopore, and creating an electrostatic potential well (114) inside the nanopore, whereby the electrostatic potential well controls the position of the linear charged polymer inside the nanopore. By sequentially locking each monomer unit in the potential well (114), nanopore sequencing of DNA with single base resolution can be achieved.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method for controlling a position of a linear charged polymer inside a nanopore, comprising the steps of: using electrostatic control to position a linear charged polymer inside a nanopore; and creating an electrostatic potential well inside the nanopore, wherein the electrostatic potential well controls a position of the linear charged polymer inside the nanopore.
+</P>
+<P>
+2. The method of claim 1, wherein the step of using electrostatic control to position a linear charged polymer inside a nanopore comprises detecting entry of the linear charged polymer inside the nanopore.
+</P>
+<P>
+3. The method of claim 2, wherein the step of detecting entry of the linear charged polymers comprises measuring a variation of ion current between two or more drag electrodes.
+</P>
+<P>
+4. A method for characterizing a linear charged polymer, comprising the steps of: applying a time-dependent voltage to each of two or more drag electrodes to attract a linear charged polymer from a first part of a reservoir to a second part of a reservoir; detecting entry of the linear charged polymer inside a nanopore; reducing the time-dependent voltage from each drag electrode; applying a time-dependent voltage to each of one or more locking electrodes to create an electrostatic potential well, wherein the electrostatic potential well controls a position of the linear charged polymer; and performing one or more characterization activities on a monomer of the linear charged polymer.
+</P>
+<P>
+5. The method of claim 4, wherein the linear charged polymer comprises DNA, and wherein performing one or more characterization activities comprises DNA sequencing.
+</P>
+<P>
+6. The method of claim 4, further comprising the steps of: reducing the time-dependent voltage from each of the one or more locking electrodes and the electrostatic potential well; and increasing the time-dependent voltage to each the two or more drag electrodes to translocate the linear charged polymer by one or more monomers.
+</P>
+<P>
+7. The method of claim 6, further comprising the step of repeating the steps of: reducing the time-dependent voltage from each of the two or more drag electrodes; increasing the time-dependent voltage to each of the one or more locking electrodes to create an electrostatic potential well, wherein the electrostatic potential well controls a position of the linear charged polymer; performing one or more characterization activities on a monomer of the linear charged polymers; reducing the time-dependent voltage from each of the one or more locking electrodes and the electrostatic potential well; and increasing the time-dependent voltage to each of the two or more drag electrodes to translocate the linear charged polymer by one or more monomers.
+</P>
+<P>
+8. The method of claim 7, wherein the steps are repeated for the entire linear charged polymer.
+</P>
+<P>
+9. The method of any preceding claim, wherein the linear charged polymer comprises one of deoxyribonucleic acid (DNA), ribonucleic acid (RNA) and a protein molecule.
+</P>
+<P>
+10. The method of claim 4, wherein one or more characterization activities comprise counting a number of polymers with a given characteristic that are present in a solution.
+</P>
+<P>
+11. The method of claim 4, wherein one or more characterization activities comprise counting a number of monomers in each polymer.
+</P>
+<P>
+12. The method of claim 4, wherein one or more characterization activities comprise chemical modification of the linear charged polymer.
+</P>
+<P>
+13. The method of claim 4, wherein one or more characterization activities comprise separating two or more polymers according to one or more characteristics.
+</P>
+<P>
+14. The method of claim 4, wherein the one or more locking electrodes comprise a first locking electrode and a second locking electrode, such that the one or more characterization activities comprise measuring tunnel current between the first locking electrode and the second locking electrode.
+</P>
+<P>
+15. The method of claim 4, wherein the one or more locking electrodes comprise a first locking electrode and a second locking electrode, such that the one or more characterization activities comprise measuring capacitance change between the first locking electrode and the second locking electrode.
+</P>
+<P>
+16. The method of claim 4, wherein the step of increasing the time-dependent voltage to each of the two or more drag electrodes comprises increasing the time-dependent voltage to each of the two or more drag electrodes for a time interval, wherein the time interval is sufficient to translocate each polymer by one monomer.
+</P>
+<P>
+17. The method of claim 4, wherein the step of increasing the time-dependent voltage to each of the two or more drag electrodes to translocate the linear charged polymer by one or more monomers comprises translocating the linear charged polymer in both directions.
+</P>
+<P>
+18. An apparatus for controlling a position of a linear charged polymer inside a nanopore, comprising: a reservoir separated by a membrane into two parts, wherein the membrane is formed as a stack of one or more locking electrodes; a nanopore in the membrane, wherein the nanopore connects the two parts of the reservoir; a drag electrode in each of the two parts of the reservoir; and a control unit, wherein the control unit controls the output of a time-dependent voltage to each locking electrode and each drag electrode to control a position of a linear charged polymer inside the nanopore.
+</P>
+<P>
+19. The apparatus of claim 18, wherein the one or more locking electrodes comprise a first locking electrode and a second locking electrode, and wherein the stack of one or more locking electrodes comprises the first locking electrode and the second locking electrode separated by one or more insulators.
+</P>
+<P>
+20. The apparatus of claim 18, wherein the control unit implements the steps of: applying a time-dependent voltage to each drag electrode to attract a linear charged polymer from a first part of a reservoir to a second part of the reservoir; and applying a time-dependent voltage to each locking electrode to create an electrostatic potential well, wherein the electrostatic potential well controls the position of the linear charged polymer.
+</P>
+<P>
+21. The apparatus of claim 20, wherein the control unit further implements the steps of: detecting entry of the linear charged polymer inside the nanopore; and reducing the time-dependent voltage from the each drag electrode.
+</P>
+<P>
+22. The apparatus of claim 21, wherein the control unit further implements the steps of: performing one or more characterization activities on a monomer of the linear charged polymer; reducing the time-dependent voltage from each locking electrode and the electrostatic potential well; and increasing the time-dependent voltage to each drag electrode to translocate the linear charged polymer by one or more monomers.
+</P>
+<P>
+23. The apparatus of claim 22, wherein the linear charged polymer comprises DNA, and wherein performing one or more characterization activities comprises DNA sequencing.
+</P>
+<P>
+24. The apparatus of claim 22, wherein the control unit further implements repetition of the following steps: reducing the time-dependent voltage from each drag electrode; increasing the time-dependent voltage to each locking electrode to create an electrostatic potential well, wherein the electrostatic potential well controls a position of the linear charged polymer; performing one or more characterization activities on a monomer of the linear charged polymer; reducing the time-dependent voltage from each locking electrode and the electrostatic potential well; and increasing the time-dependent voltage to each drag electrode to translocate the linear charged polymer by one or more monomers.
+</P>
+<P>
+25. The apparatus of claim 24, wherein the control unit implements repetition of the steps for the entire linear charged polymer.
+</P>
+<P>
+26. The apparatus of claim 18, wherein each locking electrode and each drag electrode are controlled independently.
+</P>
+<P>
+27. The apparatus of claim 18, wherein the electrostatic potential well comprises one or more spatially dependent profiles.
+</P>
+<P>
+28. The apparatus of claim 18, wherein the one or more locking electrodes comprise one or more geometries.
+</P>
+<P>
+29. The apparatus of claim 28, wherein the one or more geometries comprise a half plain geometry.
+</P>
+<P>
+30. The apparatus of claim 28, wherein the one or more geometries comprise a cylindrical geometry.
+</P>
+</Claims>
+<Also_published_as>
+WO2008092760A1;US2008187915A1;US8003319B2;US2010025249A1;CA2708782A1
+</Also_published_as>
+</BiblioData>

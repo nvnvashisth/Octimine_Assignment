@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+OPTICAL BONDING COMPOSITION FOR LED LIGHT SOURCE
+</Title>
+<PublicationNumber>
+EP2092576A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BARNES AMY S [US]
+</Name>
+<Name>
+THOMPSON D SCOTT [US]
+</Name>
+<Name>
+KOLB BRANT U [US]
+</Name>
+<Name>
+BALLEN TODD A [US]
+</Name>
+<Name>
+ROLF JACQUELINE C [US]
+</Name>
+<Name>
+BROTT ROBERT L [US]
+</Name>
+<Name>
+BARNES, AMY S
+</Name>
+<Name>
+THOMPSON, D. SCOTT
+</Name>
+<Name>
+KOLB, BRANT U
+</Name>
+<Name>
+BALLEN, TODD A
+</Name>
+<Name>
+ROLF, JACQUELINE C
+</Name>
+<Name>
+BROTT, ROBERT L
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+3M INNOVATIVE PROPERTIES CO [US]
+</Name>
+<Name>
+3M INNOVATIVE PROPERTIES COMPANY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2092576
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070864450
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US84806
+</PriorityNumber>
+<PriorityDate>
+2007-11-15
+</PriorityDate>
+<PriorityNumber>
+US20060866280P
+</PriorityNumber>
+<PriorityDate>
+2006-11-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L33/58
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01L33/58
+</Class>
+</NCL>
+<Abstract>
+Disclosed herein is an optical bonding composition that may be used in optical applications. An LED light source that utilizes the composition is also disclosed, as well as a method of making it. The LED light source may comprise: an LED die;  an optical element optically coupled to the LED die;  and a bonding layer comprising surface-modified metal oxide nanoparticles in an amorphous silicate network, the bonding layer bonding the LED die and the optical element together. Efficiency of the LED light source may be increased when using an optical extractor as the optical element.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An LED light source comprising: an LED die; an optical element optically coupled to the LED die; and a bonding layer comprising surface-modified metal oxide nanoparticles in an amorphous silicate network, the bonding layer bonding the LED die and the optical element together.
+</P>
+<P>
+2. The LED light source of claim 1, the amorphous silicate network derived from silicate, silane, silicic acid, polymeric forms of silicic acid, alkoxysilane, or combinations thereof.
+</P>
+<P>
+3. The LED light source of claim 1, the surface-modified metal oxide nanoparticles comprising metal oxide nanoparticles selected from the group consisting of zirconium oxide, titanium oxide, zinc oxide, tantalum oxide, niobium oxide, lanthanum oxide, strontium oxide, yttrium oxide, hafnium oxide, tin oxide, antimony oxide, and combinations thereof.
+</P>
+<P>
+4. The LED light source of claim 1, the surface-modified metal oxide nanoparticles comprising mixed metal oxide nanoparticles of at least two metal oxides selected from the group consisting of silicon oxide, aluminum oxide, zirconium oxide, titanium oxide, zinc oxide, tantalum oxide, niobium oxide, lanthanum oxide, strontium oxide, yttrium oxide, hafnium oxide, tin oxide, antimony oxide, and combinations thereof.
+</P>
+<P>
+5. The LED light source of claim 4, the mixed metal oxide nanoparticles comprising silicon oxide and zirconium oxide.
+</P>
+<P>
+6. The LED light source of claim 4, the mixed metal oxide nanoparticles comprising silicon oxide and titanium oxide.
+</P>
+<P>
+7. The LED light source of claim 4, the mixed metal oxide nanoparticles comprising silicon oxide, zirconium oxide, and titanium oxide.
+</P>
+<P>
+8. The LED light source of claim 1, the surface-modified metal oxide nanoparticles comprising crystalline zirconium oxide nanoparticles having a refractive index of greater than about 1.8.
+</P>
+<P>
+9. The LED light source of claim 1, the surface-modified metal oxide nanoparticles comprising crystalline titanium oxide nanoparticles having a refractive index of greater than about 2.0.
+</P>
+<P>
+10. The LED light source of claim 1, the surface-modified metal oxide nanoparticles being surface-modified with a surface-modifier, the surface-modifier comprising hydrophilic groups.
+</P>
+<P>
+11. The LED light source of claim 1 , the surface-modified metal oxide nanoparticles being surface-modified with a surface-modifier, the surface-modifier comprising a carboxylic acid, a phosphonic acid, an alkoxysilane, or a combination or mixture thereof.
+</P>
+<P>
+12. The LED light source of claim 11, the alkoxysilane comprising a poly ethylenegly col alkoxysilane.
+</P>
+<P>
+13. The LED light source of claim 1, the bonding layer comprising from about 40 to about 95% by weight of the surface-modified metal oxide nanoparticles.
+</P>
+<P>
+14. The LED light source of claim 1, the LED die comprising a light emitting layer having a refractive index of greater than 1.9, and the bonding layer having a thickness of from about 50 nm to about 100 um.
+</P>
+<P>
+15. The LED light source of claim 1, the LED die comprising a light emitting layer having a refractive index of less than or equal to 1.9, and the bonding layer having a thickness of from greater than about 5 nm to about 300 nm.
+</P>
+<P>
+16. The LED light source of claim 1, wherein the LED die comprises a light emitting surface, the optical element comprises a light input surface, and the bonding layer bonds the light emitting surface and the light input surface together.
+</P>
+<P>
+17. The LED light source of claim 1, the optical element having a refractive index of at least about 2.0.
+</P>
+<P>
+18. The LED light source of claim 1, the optical element comprising an optical glass having a refractive index of at least about 1.7.
+</P>
+<P>
+19. The LED light source of claim 1, the optical element comprising a diverging or converging extractor.
+</P>
+<P>
+20. A method of making an LED light source, the method comprising: a) providing an LED die; b) providing an optical element; c) providing a optical bonding composition comprising surface-modified metal oxide nanoparticles and a source of silicon in an aqueous solution having a pH greater than about 8, the source of silicon selected from the group consisting of silicate, silane, silicic acid, polymeric forms of silicic acid, alkoxysilane, and combinations thereof; and d) bonding the LED die and the optical element together by contacting the LED die and the optical element with the optical bonding composition.
+</P>
+<P>
+21. The method of claim 20, wherein contacting the LED die and the optical element with the optical bonding composition is carried out at room temperature.
+</P>
+<P>
+22. The method of claim 20, wherein an assembly is formed from bonding the LED die and the optical element together, and the method further comprises heating the assembly.
+</P>
+<P>
+23. An optical bonding composition comprising: surface-modified metal oxide nanoparticles; and a source of silicon in an aqueous solution having a pH greater than about 8, the source of silicon comprising silicate, silane, silicic acid, polymeric forms of silicic acid, alkoxysilane, or combinations thereof.
+</P>
+<P>
+24. The optical bonding composition of claim 23, wherein the surface-modified metal oxide nanoparticles are present in an amount greater than one-half the source of silicon on a weight basis.
+</P>
+<P>
+25. The optical bonding composition of claim 23, the surface-modified metal oxide nanoparticles comprising zirconium oxide surface-modified with a polyethyleneglycol alkoxysilane.
+</P>
+</Claims>
+<Also_published_as>
+WO2008064070A1;US2010059776A1;US8026115B2;TW200835765A;KR20090089431A;JP2010510671A;CN101548397A;CN101548397B
+</Also_published_as>
+</BiblioData>

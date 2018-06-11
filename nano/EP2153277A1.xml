@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+HIGH HARMONICS GENERATION OF LIGHT
+</Title>
+<PublicationNumber>
+EP2153277A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MOISEYEV NIMROD [IL]
+</Name>
+<Name>
+FLEISCHER AVNER [IL]
+</Name>
+<Name>
+MOISEYEV, NIMROD
+</Name>
+<Name>
+FLEISCHER, AVNER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TECHNION RES &amp; DEV FOUNDATION [IL]
+</Name>
+<Name>
+TECHNION RESEARCH &amp; DEVELOPMENT FOUNDATION LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2153277
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080738316
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008IL00615
+</PriorityNumber>
+<PriorityDate>
+2008-05-05
+</PriorityDate>
+<PriorityNumber>
+US20070924314P
+</PriorityNumber>
+<PriorityDate>
+2007-05-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02F1/35
+</Class>
+<Class>
+G02F1/355
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02F1/35W
+</Class>
+</NCL>
+<Abstract>
+A method of generating light is disclosed. The method comprises irradiating a substance (12) with first optical field (16) of a first frequency and second optical field (20) of a second frequency. The second frequency being higher than a cutoff frequency of a harmonics generation HGS spectrum characterizing the interaction of the substance (12) with the first optical field (16). Furthermore, an apparatus (10) comprises the substance (12), a first light source (14) for generating the first optical field (16) and a second light source (18)- for generating the second optical field (20).
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method of generating light, comprising irradiating a substance with first optical field of a first frequency and second optical field of a second frequency, said second frequency being higher than a cutoff frequency of a harmonics generation spectrum characterizing the interaction of said substance with said first optical field.
+</P>
+<P>
+2. Apparatus for generating light, comprising a substance, a first light source for generating in the direction of said substance first optical field of a first frequency and a second light source for generating in the direction of said substance second optical field of a second frequency, said second frequency being higher than a cutoff frequency of a harmonics generation spectrum characterizing the interaction of said substance with said first optical field.
+</P>
+<P>
+3. An imaging system for imaging an object or a scene, comprising the apparatus of claim 2 arranged to direct light to the object or scene, and an imager configured for imaging the object or scene based on light emitted thereby, reflected therefrom or transmitted therethrough.
+</P>
+<P>
+4. A spectroscopy system for determining the concentration of analyte in a sample, comprising the apparatus of claim 2 arranged to direct light to the sample, and a light detector configured for detecting light emitted by, reflected from or transmitted through the sample.
+</P>
+<P>
+5. A lithography system, comprising the apparatus of claim 2 arranged to direct a light beam to a substrate to form patterns thereon, and alignment mechanism for aligning said substrate with said light beam.
+</P>
+<P>
+6. A micro-machining system, comprising the apparatus of claim 2.
+</P>
+<P>
+7. The method, apparatus or system of claim 1, 2, 3, 4, 5 or 6, wherein said first frequency is in the infrared range.
+</P>
+<P>
+8. The method, apparatus or system of claim 1, 2, 3, 4, 5 or 6, wherein said second frequency is in the ultraviolet range.
+</P>
+<P>
+9. The method, apparatus or system of claim 1, 2, 3, 4, 5 or 6, wherein said second frequency is in the extreme ultraviolet range.
+</P>
+<P>
+10. The method, apparatus or system of claim 1, 2, 3, 4, 5 or 6, wherein said second frequency is in the X-ray range.
+</P>
+<P>
+11. The method, apparatus or system of claim 1, 2, 3, 4, 5 or 6, wherein the ratio between said second frequency and said first frequency is an integer.
+</P>
+<P>
+12. The method, apparatus or system of claim 1, 2, 3, 4, 5 or 6, wherein the ratio between said second frequency and said first frequency is non-integer.
+</P>
+<P>
+13. The method, apparatus or system of claim 1, 2, 3, 4, 5 or 6, wherein said first optical field has an intensity which is substantially higher than the intensity of said second optical field.
+</P>
+<P>
+14. The method, apparatus or system of claim 1, 2, 3, 4, 5 or 6, wherein said first optical field has an intensity which approximately equals the intensity of said second optical field.
+</P>
+<P>
+15. The method, apparatus or system of claim 1, 2, 3, 4, 5 or 6, wherein said first optical field has an intensity which is lower than the intensity of said second optical field.
+</P>
+<P>
+16. The method, apparatus or system of claim 1, 2, 3, 4, 5 or 6, wherein a combination of said first optical field and said second optical field results in emission of a harmonics generation spectrum from said substance, said emitted harmonics generation spectrum having at least one harmonic which is enhanced relative to a respective harmonic of the harmonics generation spectrum that would have been emitted had said substance been irradiated solely by said first optical field.
+</P>
+</Claims>
+<Also_published_as>
+WO2008139449A1;US2010207034A1
+</Also_published_as>
+</BiblioData>

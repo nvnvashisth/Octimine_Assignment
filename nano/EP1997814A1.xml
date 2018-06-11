@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Functionalized Metal Nanoparticle, Buffer Layer Including the Same and Electronic Device Including the Buffer Layer
+</Title>
+<PublicationNumber>
+EP1997814A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MOON HYUN SIK [KR]
+</Name>
+<Name>
+PARK JONG JIN [KR]
+</Name>
+<Name>
+KOO BON WON [KR]
+</Name>
+<Name>
+HAHN JUNG SEOK [KR]
+</Name>
+<Name>
+KIM DO HWAN [KR]
+</Name>
+<Name>
+MOON, HYUN SIK
+</Name>
+<Name>
+PARK, JONG JIN
+</Name>
+<Name>
+KOO, BON WON
+</Name>
+<Name>
+HAHN, JUNG SEOK
+</Name>
+<Name>
+KIM, DO HWAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SAMSUNG ELECTRONICS CO LTD [KR]
+</Name>
+<Name>
+SAMSUNG ELECTRONICS CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1997814
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080155875
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+KR20070051514
+</PriorityNumber>
+<PriorityDate>
+2007-05-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C07D271/113
+</Class>
+<Class>
+C07F7/18
+</Class>
+<Class>
+H01L51/00
+</Class>
+<Class>
+H01L51/50
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+C07D271/113
+</Class>
+<Class>
+C07F7/18C4B
+</Class>
+<Class>
+H01L51/50J
+</Class>
+<Class>
+H01L51/50J2
+</Class>
+</NCL>
+<Abstract>
+Disclosed herein is a functionalized metal nanoparticle, a buffer layer including the functionalized metal nanoparticle, and an electronic device including the buffer layer. The buffer layer including the functionalized metal nanoparticle according to example embodiments may improve the injection of electrons or holes and the charge mobility between layers in the electronic device, may form ohmic contacts, and may improve the selectivity between electrodes and the buffer layer at the time of forming the buffer layer on the electrodes, thereby improving the efficiency of the electronic device.
+</Abstract>
+<Claims>
+<P>
+1. A functionalized metal nanoparticle represented by Formula 1:
+</P>
+<P>
+[Formula 1] M-X-F-Rn
+</P>
+<P>
+wherein M is a metal atom selected from the group consisting of gold (Au), silver (Ag), copper (Cu), palladium (Pd) and platinum (Pt),
+</P>
+<P>
+X is sulfur (S) or a cyano group (CN),
+</P>
+<P>
+F is a functionalized group selected from the group consisting of an adhesion-enhancing functionalized group, a hole-injection functionalized group, a hole-transportation functionalized group, an electron injection functionalized group, and an electron transportation functionalized group,
+</P>
+<P>
+R is a reactive group that can be covalently bonded with electrodes composed of metal oxides, and
+</P>
+<P>
+n is an integer of about 0 or about 1.
+</P>
+<P>
+2. The functionalized metal nanoparticle according to claim 1, wherein the F in the above Formula 1 is selected from the group consisting of substituted or unsubstituted alkyl groups of about 1 to about 20 carbon atoms; oxadiazole compounds; porphyrin compound derivatives including N,N&apos; -diphenyl-N,N&apos; -di(3-methylphenyl)-4,4&apos; -diaminobiphenyl, N,N&apos; -diphenyl-N,N&apos; - dinaphthyl-4,4&apos; -diaminobiphenyl, and N,N,N&apos; ,N&apos; -tetraphenyl-21H,23H-porphyrin; triarylamine derivatives including polymers having aromatic tertiary amines in main chains or side chains thereof, 1,1-bis(4-di-p-tolylaminophenyl)cyclohexane, N,N,N-tri(p-tolyl)amine, and 4,4&apos; ,4&apos; -tris[N-(3-methylphenyl)-N-phenylamino]trimethylamine; carbazole derivatives including N-phenylcarbazole and polyvinylcarbazole; phthalocyanine derivatives including nonmetallic phthalocyanine and copper phthalocyanine; starburst amine derivatives; enamine stilbene derivatives; derivatives of aromatic tertiary amine-containing styryl amine compounds; spirobifluorenyl anthracene; tetrafluorene; thiophene; aniline; pyrrole; and phenylene vinylene.
+</P>
+<P>
+3. The functionalized metal nanoparticle according to claim 2, wherein the substituted alkyl groups are represented by Formulas 3 to 5 below:
+</P>
+<P>
+[Formula 3] (CH2CH2O)n
+</P>
+<P>
+wherein n is an integer of about 1 to about 5.
+</P>
+<P>
+[Formula 4] (CH2)n-A1-(CH2)n
+</P>
+<P>
+wherein A1 is selected from the group consisting of O, S, a carbonyl group, an ester group, a carbonyl amine group, and an ester amine group, and
+</P>
+<P>
+n is an integer of about 1 to about 10.
+</P>
+<P>
+[Formula 5] (CH2)n-A1-(CH2)n-A2-(CH2)n
+</P>
+<P>
+wherein A1 and A2 are each independently selected from the group consisting of O, S, a carbonyl group, an ester group, a carbonyl amine group, and an ester amine group, and
+</P>
+<P>
+n is an integer of about 1 to about 10.
+</P>
+<P>
+4. The functionalized metal nanoparticle according to any of claims 1-3, wherein the R in the above Formula 1 is selected from the group consisting of a trimethoxysilane group (-Si(OCH3)3), a trichlorosilane group (-SiCl3), a phosphate group (-PO3&amp;lt;-&amp;gt; ) and - P(O)(OH)2.
+</P>
+<P>
+5. The functionalized metal nanoparticle according to claim 1, wherein the nanoparticle is represented by Formula 2:
+</P>
+<P>
+[Formula 2] M-X-F
+</P>
+<P>
+wherein M is a metal atom selected from the group consisting of gold (Au), silver (Ag), copper (Cu), palladium (Pd) and platinum (Pt),
+</P>
+<P>
+X is sulfur (S) or a cyano group (CN), and
+</P>
+<P>
+F is a functionalized group selected from the group consisting of an adhesion-enhancing functionalized group, a hole-injection functionalized group, a hole-transportation functionalized group, an electron injection functionalized group, and an electron transportation functionalized group.
+</P>
+<P>
+6. The functionalized metal nanoparticle according to claim 5, wherein the F in the above Formula 2 is selected from the group consisting of substituted or unsubstituted alkyl groups of about 1 to about 20 carbon atoms; oxadiazole compounds; porphyrin compound derivatives including N,N&apos; -diphenyl-N,N&apos; -di(3-methylphenyl)-4,4&apos; -diaminobiphenyl, N,N&apos; -diphenyl-N,N&apos; - dinaphthyl-4,4&apos; -diaminobiphenyl, and N,N,N&apos; ,N&apos; -tetraphenyl-21H,23H-porphyrin; triarylamine derivatives including polymers having aromatic tertiary amines in main chains or side chains thereof, 1,1-bis(4-di-p-tolylaminophenyl)cyclohexane, N,N,N-tri(p-tolyl)amine, and 4,4&apos; ,4&apos; -tris[N-(3-methylphenyl)-N-phenylamino]trimethylamine; carbazole derivatives including N-phenylcarbazole and polyvinylcarbazole; phthalocyanine derivatives including nonmetallic phthalocyanine and copper phthalocyanine; starburst amine derivatives; enamine stilbene derivatives; derivatives of aromatic tertiary amine-containing styryl amine compounds; spirobifluorenyl anthracene; tetrafluorene; thiophene; aniline; pyrrole; and phenylene vinylene.
+</P>
+<P>
+7. The functionalized metal nanoparticle according to claim 6, wherein the substituted alkyl groups are represented by Formulas 3 to 5 below:
+</P>
+<P>
+[Formula 3] (CH2CH2O)n
+</P>
+<P>
+wherein n is an integer of about 1 to about 5.
+</P>
+<P>
+[Formula 4] (CH2)n - A1 - (CH2) n [Formula 4]
+</P>
+<P>
+wherein A1 is selected from the group consisting of O, S, a carbonyl group, an ester group, a carbonyl amine group, and an ester amine group, and
+</P>
+<P>
+n is an integer of about 1 to about 10.
+</P>
+<P>
+[Formula 5] (CH2)n - A1 - (CH2) n - A2 - (CH2) n
+</P>
+<P>
+wherein A1 and A2 are each independently selected from the group consisting of O, S, a carbonyl group, an ester group, a carbonyl amine group, and an ester amine group, and
+</P>
+<P>
+n is an integer of about 1 to about 10.
+</P>
+<P>
+8. The functionalized metal nanoparticle according to claim 1, wherein the nanoparticle is represented by Formula 6 or 7 below:
+</P>
+<P>
+9. A buffer layer comprising the functionalized metal nanoparticle according to any of claims 1-8.
+</P>
+<P>
+10. The buffer layer according to claim 9, wherein the buffer layer is a monolayer.
+</P>
+<P>
+11. The butter layer according to claim 9 or 10, wherein the buffer layer has a thickness of about 0.01 nm to about 100 nm.
+</P>
+<P>
+12. An electronic device comprising the buffer layer according to any of claims 9-11 on a surface of electrode.
+</P>
+<P>
+13. The electronic device according to claim 12, wherein the electronic device is selected from the group consisting of an organic thin film transistor (OTFT), an organic light emitting diode (OLED), a solar cell, and an organic photovoltaic conversion device.
+</P>
+</Claims>
+<Also_published_as>
+US2008299382A1;KR20080104572A
+</Also_published_as>
+</BiblioData>

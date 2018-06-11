@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ABRASIVE PARTICULATE MATERIAL, AND METHOD OF PLANARIZING A WORKPIECE USING THE ABRASIVE PARTICULATE MATERIAL
+</Title>
+<PublicationNumber>
+EP1934300A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HAERLE ANDREW G [US]
+</Name>
+<Name>
+WANG JUN [US]
+</Name>
+<Name>
+HAERLE, ANDREW, G
+</Name>
+<Name>
+WANG, JUN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SAINT GOBAIN CERAMICS [US]
+</Name>
+<Name>
+SAINT-GOBAIN CERAMICS AND PLASTICS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1934300
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060825992
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US40295
+</PriorityNumber>
+<PriorityDate>
+2006-10-13
+</PriorityDate>
+<PriorityNumber>
+US20050251633
+</PriorityNumber>
+<PriorityDate>
+2005-10-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01F7/02
+</Class>
+<Class>
+C09G1/02
+</Class>
+<Class>
+C09K3/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01F7/02
+</Class>
+<Class>
+C09K3/14B
+</Class>
+<Class>
+C09K3/14D2
+</Class>
+</NCL>
+<Abstract>
+An abrasive particulate material is disclosed that includes alumina particles. The alumina particles include a transition alumina and at least 5.0 wt % of an amorphous phase. The transition alumina particles also have a density not greater than about 3.20 g/cm&amp;lt;3&amp;gt;.
+</Abstract>
+<Claims>
+<P>
+1. An abrasive particulate material comprising:
+</P>
+<P>
+alumina particles comprising transition alumina and at least 5.0 wt % of an amorphous phase, the alumina particles having a density not greater than about 3.20 g/cm&amp;lt;3&amp;gt; .
+</P>
+<P>
+2. The abrasive particulate material of claim 1, wherein the transition alumina comprises at least one of gamma phase alumina and delta phase alumina.
+</P>
+<P>
+3. The abrasive particulate material of claim 2, wherein the transition alumina comprises delta phase alumina.
+</P>
+<P>
+4. The abrasive particulate material of claim 2, wherein the alumina particles comprise not less than about 20 wt % gamma phase alumina.
+</P>
+<P>
+5. The abrasive particulate material of claim 1, wherein the transition alumina comprises theta phase alumina.
+</P>
+<P>
+6. The abrasive particulate material of claim 5, wherein the alumina particles comprise not less than about 5 wt % theta phase alumina.
+</P>
+<P>
+7-11. (canceled)
+</P>
+<P>
+12. The abrasive particulate material of claim 1, wherein the alumina particles comprise not less than about 5.0 wt % amorphous phase and not greater than about 40 wt % amorphous phase, the balance of the particles consisting essentially of the transition alumina.
+</P>
+<P>
+13. The abrasive particulate material of claim 1, wherein the alumina particles have a density not greater than about 3.00 g/cm&amp;lt;3&amp;gt; .
+</P>
+<P>
+14. The abrasive particulate material of claim 13, wherein the alumina particles have a density not greater than about 2.95 g/cm&amp;lt;3&amp;gt; .
+</P>
+<P>
+15-16. (canceled)
+</P>
+<P>
+17. The abrasive particulate material of claim 1, wherein the alumina particles have a specific surface area not less than about 100 m&amp;lt;2&amp;gt; /g
+</P>
+<P>
+18. The abrasive particulate material of claim 17, wherein the specific surface area is not less than about 125 m&amp;lt;2&amp;gt; /g.
+</P>
+<P>
+19. The abrasive particulate material of claim 18, wherein the specific surface area is not less than about 150 m&amp;lt;2&amp;gt; /g.
+</P>
+<P>
+20. The abrasive particulate material of claim 1, wherein the alumina particles comprise an elongated morphology.
+</P>
+<P>
+21. The abrasive particulate material of claim 20, wherein the alumina particles are platelet-shaped, having a primary aspect ratio not less than about 3:1 and a secondary aspect ratio not less than about 3:1
+</P>
+<P>
+22. The abrasive particulate material of claim 20, wherein the alumina particles are needle-shaped, having a primary aspect ratio not less than about 3:1 and a secondary aspect ratio not greater than about 3:1
+</P>
+<P>
+23. The abrasive particulate material of claim 1, wherein the alumina particles have an average primary particle size not greater than about 85 nm.
+</P>
+<P>
+24. The abrasive particulate material of claim 23, wherein the average primary particle size is not greater than about 40 nm.
+</P>
+<P>
+25. (canceled)
+</P>
+<P>
+26. The abrasive particulate material of claim 1, wherein the alumina particles have an average secondary particle size not greater than about 200 nm.
+</P>
+<P>
+27. The abrasive particulate material of claim 26, wherein the average secondary particle size is not greater than about 150 nm.
+</P>
+<P>
+28. (canceled)
+</P>
+<P>
+29. The abrasive particulate material of claim 1, wherein the abrasive particulate material comprises a slurry.
+</P>
+<P>
+30-34. (canceled)
+</P>
+<P>
+35. The abrasive particulate material of claim 29, wherein the slurry has a colloidal stability as determined by a sedimentation height of about 0.0 mm after 3 days.
+</P>
+<P>
+36. (canceled)
+</P>
+<P>
+37. An abrasive particulate material comprising:
+</P>
+<P>
+alumina particles comprising transition alumina and at least 5.0 wt % of an amorphous phase, wherein the transition alumina includes theta phase and at least one of gamma phase and delta phase.
+</P>
+<P>
+38. The abrasive particulate material of claim 37, wherein the alumina particles comprise not less than about 20% gamma phase alumina.
+</P>
+<P>
+39. The abrasive particulate material of claim 37, wherein the transition alumina comprises delta phase alumina.
+</P>
+<P>
+40. (canceled)
+</P>
+<P>
+41. The abrasive particulate material of claim 37, wherein a majority of the transition alumina comprises at least one of or a combination of gamma phase and delta phase, the alumina particles comprising 30 to 70 wt % of at least one of or a combination of gamma phase and delta phase, and 5 to 45 wt % theta phase.
+</P>
+<P>
+42. The abrasive particulate material of claim 37, wherein the alumina particles comprise not less than about 10 wt % amorphous phase.
+</P>
+<P>
+43-55. (canceled)
+</P>
+<P>
+56. A method of forming an abrasive particulate material comprising:
+</P>
+<P>
+providing feedstock particles containing principally transition alumina; and
+</P>
+<P>
+milling the feedstock particles to form alumina particles comprising transition alumina and not less than about 5.0 wt % of an amorphous phase, the alumina particles having a density not greater than about 3.20 g/cm&amp;lt;3&amp;gt; .
+</P>
+<P>
+57-85. (canceled)
+</P>
+</Claims>
+<Also_published_as>
+EP1934300B1;US2007084134A1;ZA200803185A;WO2007047547A2;WO2007047547A3;TWI308928B;RU2008114107A;RU2401856C2;NZ567318A;NO20082195A;MY145461A;KR20080066799A;JP2009511719A;CN101370896A;CA2625273A1;CA2625273C;BRPI0617413A2;AU2006304356A1;AU2006304356B2;AT555179T
+</Also_published_as>
+</BiblioData>

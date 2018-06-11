@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FIELD EMISSION SOURCE FOR ELECTRONS AS A FIELD EMISSION CATHODE
+</Title>
+<PublicationNumber>
+EP2130211A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TRAUTMANN CHRISTINA [DE]
+</Name>
+<Name>
+BLAUM KLAUS [DE]
+</Name>
+<Name>
+QUINT WOLFGANG [DE]
+</Name>
+<Name>
+SCHABINGER BIRGIT [DE]
+</Name>
+<Name>
+ALONSO JOSEBA [DE]
+</Name>
+<Name>
+ULMER STEFAN [DE]
+</Name>
+<Name>
+MAURER FLORIAN [DE]
+</Name>
+<Name>
+BROETZ JOACHIM [DE]
+</Name>
+<Name>
+TRAUTMANN, CHRISTINA
+</Name>
+<Name>
+BLAUM, KLAUS
+</Name>
+<Name>
+QUINT, WOLFGANG
+</Name>
+<Name>
+SCHABINGER, BIRGIT
+</Name>
+<Name>
+ALONSO, JOSEBA
+</Name>
+<Name>
+ULMER, STEFAN
+</Name>
+<Name>
+MAURER, FLORIAN
+</Name>
+<Name>
+BROETZ, JOACHIM
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+GSI HELMHOLTZZENTR SCHWERIONEN [DE]
+</Name>
+<Name>
+GSI HELMHOLTZZENTRUM FUER SCHWERIONENFORSCHUNG GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2130211
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080716002
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP01454
+</PriorityNumber>
+<PriorityDate>
+2008-02-23
+</PriorityDate>
+<PriorityNumber>
+DE200710010297
+</PriorityNumber>
+<PriorityDate>
+2007-03-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01J1/304
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01J1/304
+</Class>
+<Class>
+H01J37/073
+</Class>
+<Class>
+H01J37/317B
+</Class>
+</NCL>
+<Abstract>
+The source i.e. field emission cathode, has nanowires provided on an electrically conducting substrate and developed in a polymer-ion track-membrane over which electrical potential difference is made between the cathode and an anode. The cathode emits over a surface of ensembles of a field emission structure with the potential difference from a point of the structure. Another field emission structure automatically transfers the emission during failure of the structure. The cathode is made of corrosion-resistant material, and the nanowires are made of magnetic or non-magnetic material.
+</Abstract>
+<Claims>
+<P>
+1. Feldemissionsquelle für Elektronen als Feldemissionskathode,
+</P>
+<P>
+wobei die Elektronenemission aus den freien Spitzen von elektrisch leitenden Nanodrähten, die auf einem elektrisch leitenden Substrat stehen und in einer Polymer-Ionenspur-Membran gewachsen sind, über die einstellbare elektrische Potentialdifferenz zwischen der Feldemissionskathode und einer Anode erfolgt,
+</P>
+<P>
+dadurch gekennzeichnet, dass:
+</P>
+<P>
+die Feldemissionskathode in einer Anlage, in der ein freier Elektronenstrahl benötigt wird, eingebaut ist und im Betrieb eine stabile Elektronenquelle für Ströme im Bereich vom unteren nA- bis in den [mu]A-Bereich bildet,
+</P>
+<P>
+die Emission durch elektrische Potentialunterschiede zwischen der Feldemissionsquelle und einer Anode steuerbar ist
+</P>
+<P>
+- Feldemission,
+</P>
+<P>
+wobei die Emission durch thermische Energie zumindest vernachlässigbar ist,
+</P>
+<P>
+die Feldemissionskathode ein Ensemble stochastisch verteilter Feldemissionsstrukturen/Spitzen aus frei stehenden Nanodrähten oder daraus gebildeten Nanodrahtbündeln aus elektrochemisch abscheidbaren, metallischen Materialien ist, wobei:
+</P>
+<P>
+die Feldemissionsstrukturen der Feldemissionskathode mit 10&amp;lt;3&amp;gt; bis 10&amp;lt;9&amp;gt; cm&amp;lt;-2&amp;gt; dicht stehen,
+</P>
+<P>
+die einzelne Emissionsstruktur zu den benachbarten Emissionsstrukturen einen mittleren Abstand &amp;lt;a&amp;gt; im Bereich von 0,1 bis 50 [mu]m hat,
+</P>
+<P>
+der Durchmesser d der Nanodrähte im Bereich von 10 nm bis 10 [mu]m und
+</P>
+<P>
+die Höhe h der Nanodrähte im Bereich von 1 bis 100 [mu] liegen,
+</P>
+<P>
+die Feldemissionskathode über die Fläche des Ensembles aus Feldemissionsstrukturen bei entsprechend eingestelltem Potentialunterschied aus der Spitze mindestens einer Feldemissionsstruktur emittiert und beim Ausfall einer Feldemissionsstruktur selbsttätig eine andere Feldemissionsstruktur die Emission übernimmt oder selbsttätig andere Feldemissionsstrukturen die Emission übernehmen.
+</P>
+<P>
+2. Feldemissionskathode nach Anspruch 1, dadurch gekennzeichnet, dass die Feldemissionskathode aus korrosionsbeständigem Material ist oder zumindest mit ihrem exponierten Bereich mit einem solchen überzogen ist.
+</P>
+<P>
+3. Feldemissionskathode nach Anspruch 2, dadurch gekennzeichnet, dass zumindest die Nanodrähte aus magnetischem oder nichtmagnetischem Material sind.
+</P>
+<P>
+4. Feldemissionskathode nach Anspruch 3, dadurch gekennzeichnet, dass die Nanodrähte in ihrem Kern und ihrer Länge aus einer Materialart oder wenigstens zwei verschiedenen Materialarten bestehen.
+</P>
+<P>
+5. Feldemmissionskathode nach Anspruch 4, dadurch gekennzeichnet, dass das Substrat der Feldemissionskathode, auf dem die Feldemitter stehen, metallisch oder halbleitend, ein- oder mehrschichtig ist.
+</P>
+</Claims>
+<Also_published_as>
+EP2130211B1;DE102007010297A1;WO2008107084A1;AT521079T
+</Also_published_as>
+</BiblioData>

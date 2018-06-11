@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Force measuring device
+</Title>
+<PublicationNumber>
+EP2199769A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GAO SAI [DE]
+</Name>
+<Name>
+LI ZHI [DE]
+</Name>
+<Name>
+HERRMANN KONRAD [DE]
+</Name>
+<Name>
+GAO, SAI
+</Name>
+<Name>
+LI, ZHI
+</Name>
+<Name>
+HERRMANN, KONRAD
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BUNDESREP DEUTSCHLAND [DE]
+</Name>
+<Name>
+BUNDESREPUBLIK DEUTSCHLAND, VERTR. DURCH DAS BUNDESMINISTERIUM F. WIRTSCHAFT UND TECHNOLOGIE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2199769
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090015554
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-12-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+DE200810063797
+</PriorityNumber>
+<PriorityDate>
+2008-12-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01L1/08
+</Class>
+<Class>
+G01L1/14
+</Class>
+<Class>
+G01L1/24
+</Class>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q20/00
+</Class>
+<Class>
+G01Q20/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01L1/08C
+</Class>
+<Class>
+G01L1/14A6
+</Class>
+<Class>
+G01L1/24
+</Class>
+</NCL>
+<Abstract>
+The device (10) has a shaft (14) for receiving force to be measured. A meander-shaped spring (16.1) is fixed in a substrate fixing point (18.1) on a substrate (12) i.e. semiconductor substrate. The spring includes two sections, where each section is designed as an end section (20.1) and is fixed in a shaft fixing point (21.1) at the shaft. A capacitive sensor (24.1) detects a position of the end sections relative to the substrate. An electrostatic comb drive compensates the force to be measured. A path measuring device measures a change of position of the shaft relative to the substrate.
+</Abstract>
+<Claims>
+<P>
+1. Kraftmessgerät, das ausgebildet ist für zu messende Kräfte unterhalb von 1 Mikronewton, mit
+</P>
+<P>
+(a) einem Substrat (12),
+</P>
+<P>
+(b) einem Schaft (14) zum Aufnehmen der zu messenden Kraft (F),
+</P>
+<P>
+(c) einer mäandrierend geformten Feder (16), die
+</P>
+<P>
+- in einer Substrat-Befestigungsstelle (18) an dem Substrat (12) befestigt ist und
+</P>
+<P>
+- einen ersten Abschnitt und zumindest einen zweiten Abschnitt in Form eines Endabschnitts (20), der in einer Schaft-Befestigungsstelle (21) am Schaft (14) befestigt ist, aufweist, und
+</P>
+<P>
+(d) einem kapazitiven Sensor (24), der angeordnet ist zum Erfassen einer Position zumindest eines Abschnitts (20) relativ zum Substrat (12).
+</P>
+<P>
+2. Kraftmessgerät nach Anspruch 1, dadurch gekennzeichnet, dass der kapazitive Sensor (24) angeordnet ist zum Erfassen einer Position des Endabschnitts (20) relativ zum Substrat (12).
+</P>
+<P>
+3. Kraftmessgerät nach Anspruch 1 oder 2, gekennzeichnet durch
+</P>
+<P>
+(e) eine zweite mäandrierend geformten Feder (16.2), die
+</P>
+<P>
+- in einer Substrat-Befestigungsstelle (18.2) an dem Substrat (12) befestigt ist,
+</P>
+<P>
+- einen ersten Abschnitt und zumindest einen zweiten Abschnitt in Form eines zweiten Endabschnitts (20.2), der in einer zweiten Schaft-Befestigungsstelle (21.2) an dem Schaft (14) befestigt ist, aufweist und
+</P>
+<P>
+- bezüglich einer zu einer Schaft-Längsachse (L) des Schafts (14) senkrecht stehenden Quer-Symmetrieebene (SQ) symmetrisch zur ersten Feder (16.1) ausgebildet ist, und
+</P>
+<P>
+(f) einen zweiten kapazitiven Sensor (24.2) zum Erfassen einer Position zumindest eines Abschnitts, insbesondere des zweiten Endabschnitts (20.2), der zweiten Feder (16.2) relativ zum Substrat (12).
+</P>
+<P>
+4. Kraftmessgerät nach Anspruch 3, dadurch gekennzeichnet, dass der zweite kapazitive Sensor (24.2) angeordnet ist zum Erfassen einer Position des zweiten Endabschnitts (20.2) relativ zum Substrat (12).
+</P>
+<P>
+5. Kraftmessgerät nach einem der vorstehenden Ansprüche, gekennzeichnet durch
+</P>
+<P>
+(g) eine dritte mäandrierend geformte Feder (16.3), die
+</P>
+<P>
+- in einer dritten Substrat-Befestigungsstelle (18.3) an dem Substrat (12) befestigt ist,
+</P>
+<P>
+- einen ersten Abschnitt und zumindest einen zweiten Abschnitt in Form eines dritten Endabschnitts (20.3), der in einer dritten Schaft-Befestigungsstelle (21.3) an dem Schaft (14) befestigt ist und
+</P>
+<P>
+- bezüglich einer parallel zur Schaft-Längsachse (L) verlaufenden Längs-Symmetrieebene (SL) symmetrisch zur ersten Feder (16.2) ausgebildet ist, aufweist,
+</P>
+<P>
+(h) einen dritten kapazitiven Sensor zum Erfassen einer Position zumindest eines Abschnitts, insbesondere des dritten Endabschnitts (20.3), der dritten Feder relativ zum Substrat (12),
+</P>
+<P>
+(i) eine vierte mäandrierend geformten Feder (16.4), die
+</P>
+<P>
+- in einer vierten Substrat-Befestigungsstelle (18.4) an dem Substrat (12) befestigt ist,
+</P>
+<P>
+- einen ersten Abschnitt und zumindest einen zweiten Abschnitt in Form eines vierten Endabschnitts, der in einer Schaft-Befestigungsstelle an dem Schaft (14) befestigt ist, aufweist und
+</P>
+<P>
+- bezüglich einer parallel zur Schaft-Längsachse (L) verlaufenden Längs-Symmetrieebene (SL) symmetrisch zur zweiten Feder (16.2) ausgebildet ist, und
+</P>
+<P>
+(j) einen vierten kapazitiven Sensor (24.4) zum Erfassen einer Position zumindest eines Abschnitts, insbesondere des vierten Endabschnitts, der vierten Feder (16.4) relativ zum Substrat (12).
+</P>
+<P>
+6. Kraftmessgerät nach einem der vorstehenden Ansprüche, dadurch gekennzeichnet, dass alle Endabschnitte (20) im Wesentlichen geradlinig verlaufen.
+</P>
+<P>
+7. Kraftmessgerät nach einem der vorstehenden Ansprüche, dadurch gekennzeichnet, dass die mäandrierend geformten Federn (16) eine Vielzahl von im Wesentlichen geradlinig verlaufenden Abschnitten (30) umfassen, die im kraftfreien Zustand alle parallel zueinander angeordnet sind.
+</P>
+<P>
+8. Kraftmessgerät nach einem der vorstehenden Ansprüche, dadurch gekennzeichnet, dass die Abschnitte einen gleichen Querschnitt (Q) aufweisen, der ein Aspektverhältnis von mehr als 5 aufweist.
+</P>
+<P>
+9. Kraftmessgerät nach einem der vorstehenden Ansprüche, dadurch gekennzeichnet, dass die Zahl der Abschnitte der ersten Feder (16) in Form von Faltungen der Feder minimal 6 beträgt.
+</P>
+<P>
+10. Kraftmessgerät nach einem der vorstehenden Ansprüche, gekennzeichnet durch einen elektrostatischen Kammantrieb (32), der angeordnet ist zum Aufbringen einer Kraft auf den Schaft (14), insbesondere zum Kompensieren der am Schaft (14) anliegenden zu messenden Kraft (F).
+</P>
+<P>
+11. Kraftmessgerät nach einem der vorstehenden Ansprüche, dadurch gekennzeichnet, dass die mindestens eine Feder (16) und der mindestens eine kapazitive Sensor (24) lithographisch aus dem Substrat (12) hergestellt sind.
+</P>
+<P>
+12. Kraftmessgerät nach einem der vorstehenden Ansprüche, dadurch gekennzeichnet, dass zumindest einer der Sensoren (24) eingerichtet ist, um die Position von zumindest zwei Abschnitten der jeweiligen Feder relativ zum Substrat (12) zu erfassen.
+</P>
+<P>
+13. Kraftmessgerät nach einem der vorstehenden Ansprüche, gekennzeichnet durch eine Wegmessvorrichtung, die ausgebildet ist zum Messen einer Änderung einer Position des Schafts (14) relativ zum Substrat (14).
+</P>
+<P>
+14. Kraftmessgerät nach Anspruch 13, dadurch gekennzeichnet, dass die Wegmessvorrichtung ein Interferometer umfasst.
+</P>
+<P>
+15. Kraftmessgerät nach Anspruch 14, dadurch gekennzeichnet, dass das Interferometer einen Interferogrammzähler in Form eines kapazitiven Sensors umfasst.
+</P>
+</Claims>
+<Also_published_as>
+DE102008063797A1
+</Also_published_as>
+</BiblioData>

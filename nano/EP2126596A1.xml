@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+OPERATIONAL METHOD FOR A MAGNETIC FIELD SENSOR BASED ON THE TUNNEL MAGNETO RESISTANCE EFFECT AND ASSOCIATED ARRANGEMENT FOR CARRYING OUT SAID METHOD
+</Title>
+<PublicationNumber>
+EP2126596A1
+</PublicationNumber>
+<Inventor>
+<Name>
+RUEHRIG MANFRED [DE]
+</Name>
+<Name>
+RUEHRIG, MANFRED
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SIEMENS AG [DE]
+</Name>
+<Name>
+SIEMENS AKTIENGESELLSCHAFT
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2126596
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080717084
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP52250
+</PriorityNumber>
+<PriorityDate>
+2008-02-25
+</PriorityDate>
+<PriorityNumber>
+DE200710009175
+</PriorityNumber>
+<PriorityDate>
+2007-02-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/09
+</Class>
+<Class>
+G11B5/39
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G01R33/09T
+</Class>
+<Class>
+G11B5/39C1
+</Class>
+<Class>
+G11B5/39C1C
+</Class>
+<Class>
+H01F10/32N4
+</Class>
+</NCL>
+<Abstract>
+The method involves designing magnetic field sensor as magnetic field-dependant resistance, which is excited by an alternating current of predetermined fundamental frequency and amplitude. The response signal of resistance is measured by a frequency that is different from the fundamental frequency. The measuring frequency depends on the fundamental frequency in a predetermined manner such that the measuring frequency forms a harmonic, preferably another harmonic form, of the fundamental frequency. The arrangement has the tunnel barriers made aluminium-oxide (Al2O3) or magnesium oxide (MgO). An independent claim is also included for arrangement for the execution of the method.
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zum Betreiben eines Magnetfeldsensors basierend auf dem Tunnelmagnetowiderstandseffekt, mit folgenden Massnahmen:
+</P>
+<P>
+- der Magnetfeldsensor, der als magnetfeldabhängiger Widerstand ausgeführt ist, wird mit einer Wechselspannung vorgegebener Grundfrequenz (f0) und Amplitude angeregt,
+</P>
+<P>
+- das Antwort-Signal des Widerstandes wird bei einer von der Grundfrequenz (f0) verschiedenen Frequenz (f1) gemessen.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass die Messfrequenz (f1) in vorgegebener Art von der Grundfrequenz (f0) abhängt.
+</P>
+<P>
+3. Verfahren nach Anspruch 2, dadurch gekennzeichnet, dass die Messfrequenz (f1) eine Harmonische, vorzugsweise die zweite Harmonische, von der Grundfrequenz (f0) bildet.
+</P>
+<P>
+4. Verfahren nach einem der vorhergehenden Ansprüche mit folgenden Massnahmen:
+</P>
+<P>
+- Es wird eine Verstärkung des Messsignals durch einen schmalbandigen Verstärker vorgenommen,
+</P>
+<P>
+- anschliessend erfolgt eine Demodulation, indem das Messsignal mit einem Referenzsignal phasensynchron multipliziert wird,
+</P>
+<P>
+- danach wird das modulierte Signal durch einen Tiefpassfilter geglättet.
+</P>
+<P>
+5. Verfahren nach einem der vorhergehenden Ansprüche, dadurch gekennzeichnet, dass die Amplitude der gleichen Spannung ausgewählt wird, bei der der TMR-Effekt auf die Hälfte abgesunken ist.
+</P>
+<P>
+6. Verfahren nach Anspruch 5, dadurch gekennzeichnet, dass der durch die Spannung der ausgewählten Amplitude erzeugte Tunnelstrom ein magnetisches Drehmoment zwischen Referenzschicht und Messschicht überträgt, das gross genug ist, um die Magnetisierung der Messschicht reversibel aus der statischen Gleichgewichtslage zu drehen.
+</P>
+<P>
+7. Verfahren nach Anspruch 6, wobei der reversibel übertragene Drehimpuls verwendet wird, um Irreversibilitäten der Messschicht zu unterdrücken.
+</P>
+<P>
+8. Verfahren nach einem der vorhergehenden Ansprüche, wobei die Amplitude einer oder mehrer Oberwellen der Grundfrequenz als Messsignal zur Bestimmung von Magnetfeldern genutzt wird.
+</P>
+<P>
+9. Anordnung zur Durchführung des Verfahrens nach Anspruch 1 oder einem der Ansprüche 2 bis 8, mit einem Magnetfeldsensor nach dem Tunnelmagnetoeffekt (TMR), der mit einer Spannung anregbar ist und Mittel zur Detektion und Auswertung von Sensor-Signalen aufweist, dadurch gekennzeichnet, dass die Spannungsquelle eine Wechselspannungsquelle (51) ist und dass die Mittel (10) zur Detektion des Sensor-Signals bei einer anderen Frequenz (f1) als die Frequenz (f0) der Versorgungsspannungsquelle (51) vorhanden sind.
+</P>
+<P>
+10. Anordnung nach Anspruch 9, dadurch gekennzeichnet, dass ein Lock-in-Verstärker (10) vorhanden ist.
+</P>
+<P>
+11. Anordnung nach Anspruch 9, dadurch gekennzeichnet, dass Mittel (57, 58) zur phasenempfindlichen Gleichrichtung vorhanden sind.
+</P>
+<P>
+12. Anordnung nach Anspruch 9, dadurch gekennzeichnet, dass wenigstens ein Tiefpassfilter vorhanden ist.
+</P>
+<P>
+13. Anordnung nach Anspruch 9, dadurch gekennzeichnet, dass die Tunnelbarriere einen Flächenwiderstand (RA) &amp;lt; 1000 [omega][mu]m&amp;lt;2&amp;gt; besitzt, vorteilhafterweise &amp;lt; 100 [omega][mu]m&amp;lt;2&amp;gt;.
+</P>
+<P>
+14. Anordnung nach Anspruch 9, wobei die Tunnelbarrieren (4) vorzugsweise aus Aluminiumoxid (Al2O3) oder Magnesiumoxid (MgO) bestehen.
+</P>
+<P>
+15. Anordnung nach Anspruch 9, dadurch gekennzeichnet, dass das Messsignal über mindestens zwei Messkontakte auf gegenüberliegenden Seiten der Tunnelbarriere abgegriffen wird.
+</P>
+<P>
+16. Anordnung nach Anspruch 9, dadurch gekennzeichnet, dass das Messsignal durch eng benachbarte Kontakte auf lediglich einer Seite der Tunnelbarriere abgegriffen wird
+</P>
+<P>
+17. Anordnung nach Anspruch 9, dadurch gekennzeichnet, dass das Messsignal über mindestens zwei Messkontakte auf gegenüberliegenden Seiten der Tunnelbarriere abgegriffen wird.
+</P>
+<P>
+18. Anordnung nach Anspruch 9, dadurch gekennzeichnet, dass das Messsignal durch eng benachbarte Kontakte auf lediglich einer Seite der Tunnelbarriere abgegriffen wird
+</P>
+</Claims>
+<Also_published_as>
+EP2126596B1;DE102007009175A1;DE102007009175B4;WO2008104518A1;AT504847T
+</Also_published_as>
+</BiblioData>

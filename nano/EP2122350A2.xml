@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DETECTION OF ANALYTES
+</Title>
+<PublicationNumber>
+EP2122350A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GABBAI ERAN [IL]
+</Name>
+<Name>
+GABBAI, ERAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+DO COOP TECHNOLOGIES LTD [IL]
+</Name>
+<Name>
+DO-COOP TECHNOLOGIES LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2122350
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080702612
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008IL00024
+</PriorityNumber>
+<PriorityDate>
+2008-01-03
+</PriorityDate>
+<PriorityNumber>
+US20070878388P
+</PriorityNumber>
+<PriorityDate>
+2007-01-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12M1/00
+</Class>
+<Class>
+C12M1/34
+</Class>
+<Class>
+C12M3/00
+</Class>
+<Class>
+G01N33/53
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/544
+</Class>
+<Class>
+G01N33/551
+</Class>
+<Class>
+G01N33/553
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N33/58J
+</Class>
+</NCL>
+<Abstract>
+A kit and article of manufacture for detecting an analyte is disclosed. The kit comprises: (i) a detectable agent;  and (ii) a liquid composition having a liquid and nanostructures, each of the nanostructures comprising a core material of a nanometric size surrounded by an envelope of ordered fluid molecules, the core material and the envelope of ordered fluid molecules being in a steady physical state.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A kit for detecting an analyte comprising: (i) a detectable agent; and
+</P>
+<P>
+(ii) a liquid composition having a liquid and nanostructures, each of said nanostructures comprising a core material of a nanometric size surrounded by an envelope of ordered fluid molecules, said core material and said envelope of ordered fluid molecules being in a steady physical state.
+</P>
+<P>
+2. The kit of claim 1 , wherein the analyte is a biomolecule.
+</P>
+<P>
+3. The kit of claim 2, wherein said biomolecule is selected from the group consisting of a polypeptide, a polynucleotide, a carbohydrate, a lipid and a combination thereof.
+</P>
+<P>
+4. The kit of claim 1, wherein said detectable agent is non-directly detectable.
+</P>
+<P>
+5. The kit of claim 4, wherein said non-directly detectable agent is a substrate for an enzymatic reaction capable of generating a detectable product.
+</P>
+<P>
+6. The kit of claim 1, wherein said detectable agent is directly detectable.
+</P>
+<P>
+7. The kit of claim 1, wherein said detectable agent comprise an affinity recognition moiety.
+</P>
+<P>
+8. The kit of claim 7, wherein said affinity recognition moiety is selected from the group consisting of an avidin derivative, a polynucleotide and an antibody.
+</P>
+<P>
+9. The kit of claim 6, wherein said directly detectable agent is selected from the group consisting of a phosphorescent agent, a chemiluminescent agent and a fluorescent agent.
+</P>
+<P>
+10. The kit of claim 5, further comprising an enhancer of said enzymatic reaction.
+</P>
+<P>
+11. The kit of claim 10, wherein said enhancer is selected from the group consisting of p-iodophenol, 3,4-dichlorophenol, p-hydroxycinnamic acid, 1,2,4- triazole, 3,3&apos;, 5,5&apos;-tetramethyl- benzidine, phenol, 2-naphthol, 10-methylphenothiazine, cetyltrimethyl ammonium bromide, and mixtures thereof.
+</P>
+<P>
+12. The kit of claim 5, further comprising an oxidizing agent.
+</P>
+<P>
+13. The kit of claim 12, wherein said oxidizing agent is selected from the group consisting of hydrogen peroxide, urea hydrogen peroxide, sodium carbonate hydrogen peroxide, a perborate salt, potassium ferricyanide and Nitro blue tetrazolium (NBT).
+</P>
+<P>
+14. The kit of claim 5, further comprising an enzyme for said enzymatic reaction.
+</P>
+<P>
+15. The kit of claim 14, wherein said enzyme is selected from the group consisting of alkaline phosphatase, [beta]-galactosidase, horseradish peroxidase (HRP), chloramphenicol acetyl transferase, luciferase and [beta]-glucuronidase.
+</P>
+<P>
+16. The kit of claim 14, wherein said enzyme is conjugated to an antibody or an avidin derivative.
+</P>
+<P>
+17. The kit of claim 5, further comprising an inhibitor of said enzymatic reaction.
+</P>
+<P>
+18. The kit of claim 5, wherein said detectable product is selected from the group consisting of a fluorescent product, a chemiluminescent product, a phosphorescent product and a chromogenic product.
+</P>
+<P>
+19. The kit of claim 18, wherein a substrate capable of generating said fluorescent product comprises a fluorophore.
+</P>
+<P>
+20. The kit of claim 19, wherein said fluorophore is derived from a molecule selected from the group consisting of coumarin, fluorescein, rhodamine, resorufin and DDAO.
+</P>
+<P>
+21. The kit of claim 18, wherein a substrate capable of generating said fluorescent product is selected from the group consisting of fluorescein di-[beta]-D- galactopyranoside (FDG), resorufin [beta]-D-galactopyranoside, DDAO galactoside, [beta]- methylumbelliferyl [beta]-D-galactopyranoside, 6,8-Difluoro-4-methylumbelliferyl [beta]-D- galactopyranoside, 3-carboxyumbelliferyl-[beta]-D-galactopyranoside, ELF 97 phosphate, 5-chloromethylfluorescein di-[beta]-D-galactopyranoside (CMFDG), 4- methylumbelliferyl-[beta]-D-glucuronide, Fluorescein di-[beta]-D-glucuronide, PFB Aminofluorescein Diglucuronide, ELF 97-[beta]-D-glucuronide, BODIPY FL chloramphenicol substrate(TM), and 10-acetyl-3,7-dihydroxyphenoxazine.
+</P>
+<P>
+22. The kit of claim 18, wherein a substrate capable of generating said chromogenic product is selected from the group consisting of BCIP, 5-bromo-4- chloro-3-indolyl-[beta]-D-glucuronic acid (X-GIcU) and 5-bromo-6-chloro-3-indolyl -[beta]-D- glucuronide, 5-bromo-4-chloro-3-indolyl -[beta]-D-galactopyranoside (X-GaI), diaminobenzidine (DAB), Tetramethylbenzidine (TMB) and o-Phenylenediamine (OPD).
+</P>
+<P>
+23. The kit of claim 18, wherein a substrate capable of generating said chemiluminescent product is selected from the group consisting of luciferin, luminol, isoluminol, acridane, phenyl- lO-methylacridane-9-carboxylate, 2,4,6-trichlorophenyl- 1- O-methylacridane-9-carboxylate, pyrogallol, phloroglucinol and resorcinol.
+</P>
+<P>
+24. The kit of claim 1, wherein at least a portion of said fluid molecules are identical to molecule of said liquid.
+</P>
+<P>
+25. The kit of claim 1, wherein said at least a portion of said fluid molecules are in a gaseous state.
+</P>
+<P>
+26. The kit of claim 1, wherein a concentration of said nanostructures is lower than 10&amp;lt;20&amp;gt; nanostructures per liter.
+</P>
+<P>
+27. The kit of claim 1, wherein said nanostructures are capable of forming clusters of said nanostructures.
+</P>
+<P>
+28. The kit of claim 1, wherein said nanostructures are capable of maintaining long range interaction thereamongst.
+</P>
+<P>
+29. The kit of claim 1, wherein said liquid composition comprises a buffering capacity greater than a buffering capacity of water.
+</P>
+<P>
+30. The kit of claim 1, wherein said liquid composition is formulated from hydroxyapatite.
+</P>
+<P>
+31. An article of manufacture comprising packaging material and a liquid composition identified for enhancing detection of a detectable moiety being contained within said packaging material, said liquid composition having a liquid and nanostructures, each of said nanostructures comprising a core material of a nanometric size surrounded by an envelope of ordered fluid molecules, said core material and said envelope of ordered fluid molecules being in a steady physical state.
+</P>
+<P>
+32. The article of manufacture of claim 31, wherein said detectable moiety is selected from the group consisting of a fluorescent moiety, a chemiluminescent moiety and a phosphorescent moiety.
+</P>
+<P>
+33. The article of manufacture of claim 31, wherein at least a portion of said fluid molecules are identical to molecule of said liquid.
+</P>
+<P>
+34. The article of manufacture of claim 31, wherein said at least a portion of said fluid molecules are in a gaseous state.
+</P>
+<P>
+35. The article of manufacture of claim 31, wherein a concentration of said nanostructures is lower than 10&amp;lt;20&amp;gt; nanostructures per liter.
+</P>
+<P>
+36. The article of manufacture of claim 31 , wherein said nanostructures are capable of forming clusters of said nanostructures.
+</P>
+<P>
+37. The article of manufacture of claim 31 , wherein said nanostructures are capable of maintaining long range interaction thereamongst.
+</P>
+<P>
+38. The article of manufacture of claim 31, wherein said liquid composition comprises a buffering capacity greater than a buffering capacity of water.
+</P>
+<P>
+39. The article of manufacture of claim 31 , wherein said nanostructures are formulated from hydroxyapatite.
+</P>
+<P>
+40. A method of dissolving or dispersing cephalosporin comprising contacting the cephalosporin with nanostructures and liquid under conditions which allow dispersion or dissolving of the substance, wherein said nanostructures comprise a core material of a nanometric size enveloped by ordered fluid molecules of said liquid, said core material and said envelope of ordered fluid molecules being in a steady physical state.
+</P>
+</Claims>
+<Also_published_as>
+EP2122350A4;WO2008081455A2;WO2008081455A3;ZA200904558A;US2010086929A1;KR20090095674A;JP2010528256A;CA2674118A1;AU2008203627A1;AU2008203627A2
+</Also_published_as>
+</BiblioData>

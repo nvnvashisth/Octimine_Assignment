@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Substrates, devices, and methods for cellular assays
+</Title>
+<PublicationNumber>
+EP2093565A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MURPHY CHRISTOPHER [US]
+</Name>
+<Name>
+ISRAEL BARBARA [US]
+</Name>
+<Name>
+ABBOTT NICHOLAS [US]
+</Name>
+<Name>
+MURPHY, CHRISTOPHER
+</Name>
+<Name>
+ISRAEL, BARBARA
+</Name>
+<Name>
+ABBOTT, NICHOLAS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PLATYPUS TECHNOLOGIES INC [US]
+</Name>
+<Name>
+PLATYPUS TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2093565
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090006232
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-05-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030799809
+</PriorityNumber>
+<PriorityDate>
+2003-05-22
+</PriorityDate>
+<PriorityNumber>
+US20020382446P
+</PriorityNumber>
+<PriorityDate>
+2002-05-22
+</PriorityDate>
+<PriorityNumber>
+US20030443419
+</PriorityNumber>
+<PriorityDate>
+2003-05-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01L3/00
+</Class>
+<Class>
+C12N5/00
+</Class>
+<Class>
+C12Q1/00
+</Class>
+<Class>
+C12Q1/02
+</Class>
+<Class>
+C12Q1/04
+</Class>
+<Class>
+C12Q1/06
+</Class>
+<Class>
+C12Q1/25
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N1/00
+</Class>
+<Class>
+G01N33/50
+</Class>
+<Class>
+G01N33/52
+</Class>
+<Class>
+G01N33/53
+</Class>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01N33/569
+</Class>
+<Class>
+G01N35/00
+</Class>
+<Class>
+G01N37/00
+</Class>
+<Class>
+B01L9/00
+</Class>
+<Class>
+G01N15/10
+</Class>
+<Class>
+A61B
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01L3/5027H
+</Class>
+<Class>
+B01L3/50853
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N33/50D2E6
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to the field of molecular diagnostics, and in particular to diagnostics based on a liquid crystal assay format. In particular, the present invention provided improved substrates and methods of using liquid crystal assays for quantitating the amount of an analyte in a sample. The present invention also provides materials and methods for detecting non-specific binding of an analyte to a substrate by using a liquid crystal assay format.
+</Abstract>
+<Claims>
+<P>
+1. An apparatus comprising a substrate having thereon at least one assay region, wherein said at least one assay region is configured to culture cells and comprises an optically opaque region and an optically transparent region.
+</P>
+<P>
+2. The apparatus of Claim 1, wherein said assay regions are configured for readouts selected from the group consisting of colorimetric, fluorimetric, optical density, and light scattering readouts.
+</P>
+<P>
+3. The assay apparatus of Claim 1, wherein said optically opaque region further comprises at least one cell seeding region, preferably said at least one cell seeding region contains at least one cell, further preferably said at least one cell is vitally stained.
+</P>
+<P>
+4. The assay apparatus of Claim 1, wherein said at least one assay region is configured to orient mesogens.
+</P>
+<P>
+5. The assay apparatus of Claim 1, further comprising at least one reservoir, preferably said at least one reservoir contains a first test compound.
+</P>
+<P>
+6. The assay apparatus of Claim 5, wherein said at least one reservoir contains a first test compound, preferably said test compound is suspected of promoting or inhibiting movement of said at least one cell.
+</P>
+<P>
+7. The assay apparatus of Claim 5, wherein said at least one reservoir is fluidically connected to at least one microfluidic channel.
+</P>
+<P>
+8. The assay apparatus of Claim 6, wherein said at least one reservoir fluidically contacts said at least one assay region.
+</P>
+<P>
+9. The assay apparatus of Claims 1 comprising 6, 12, 24, 36, 96, 384, or 1536 assay regions, preferably said 24, 36, 96, 384, or 1536 of said assay regions are arranged in an array.
+</P>
+<P>
+10. The assay apparatus of Claim 9, wherein said array of said assay regions is configured to correspond to the reading positions of a plate reader device.
+</P>
+<P>
+11. A method of analyzing cells comprising:
+</P>
+<P>
+a) providing:
+</P>
+<P>
+i) cells, and
+</P>
+<P>
+ii) an apparatus comprising a substrate having thereon at least one assay region, wherein said at least one assay region is configured to culture cells and comprises an optically opaque region and an optically transparent region; and
+</P>
+<P>
+b) applying said cells to said assay region; and
+</P>
+<P>
+c) analyzing said cells.
+</P>
+<P>
+12. The method of Claim 15, wherein said assay region further comprises at least one cell seeding region.
+</P>
+<P>
+13. The method of Claim 12, wherein said at least one cell seeding well contains at least one cell, preferably said at least one cell is vitally or non-vitally stained and/or said at least one cell contains a fluorescent marker.
+</P>
+<P>
+14. The method of Claim 11, wherein said substrate has therein at least one reservoir containing a first test compound, preferably said test compound is suspected of promoting or inhibiting movement of said at least one cell.
+</P>
+<P>
+15. The method of Claim 11, wherein said analyzing comprises analysis by densitometric, light scattering, colorimetric, or fluorometric methods.
+</P>
+</Claims>
+<Also_published_as>
+EP2093565A3;WO2004041061A2;WO2004041061A8;WO2004041061A3;US2005221271A1;US7018838B2;US2006141446A1;JP2006501860A;EP1549953A2;EP1549953A4;CA2486812A1;AU2008202499A1;AU2003299522A1;AU2003299522B2
+</Also_published_as>
+</BiblioData>

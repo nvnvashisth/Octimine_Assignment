@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LED WITH UPSTANDING NANOWIRE STRUCTURE AND METHOD OF PRODUCING SUCH
+</Title>
+<PublicationNumber>
+EP2126986A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SAMUELSON LARS [SE]
+</Name>
+<Name>
+PEDERSEN BO [DK]
+</Name>
+<Name>
+OHLSSON JONAS [SE]
+</Name>
+<Name>
+SAMUELSON, LARS
+</Name>
+<Name>
+PEDERSEN, BO
+</Name>
+<Name>
+OHLSSON, JONAS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+QUNANO AB [SE]
+</Name>
+<Name>
+QUNANO AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2126986
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070861099
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007SE01170
+</PriorityNumber>
+<PriorityDate>
+2007-12-22
+</PriorityDate>
+<PriorityNumber>
+SE20060002841
+</PriorityNumber>
+<PriorityDate>
+2006-12-22
+</PriorityDate>
+<PriorityNumber>
+SE20070000102
+</PriorityNumber>
+<PriorityDate>
+2007-01-12
+</PriorityDate>
+<PriorityNumber>
+US20070812225
+</PriorityNumber>
+<PriorityDate>
+2007-06-15
+</PriorityDate>
+<PriorityNumber>
+SE20070002404
+</PriorityNumber>
+<PriorityDate>
+2007-10-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+H01L29/06
+</Class>
+<Class>
+H01L33/24
+</Class>
+<Class>
+H01L33/18
+</Class>
+<Class>
+H01L33/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01L33/24
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to nanostructured light emitting diodes, LEDs. The nanostructured LED device according to the invention comprises an array of a plurality of individual nanostructured LEDs. Each of the nanostructured LEDs has an active region wherein light is produced. The nanostructured device further comprise a plurality of reflectors, each associated to one individual nanostructured LED (or a group of nanostructured LEDs. The individual reflectors has a concave surface facing the active region of the respective individual nanostructured LED or active regions of group of nanostructured LEDs.
+</Abstract>
+<Claims>
+<P>
+1. A nanostructured LED device (101) comprising an array comprising a plurality of individual nanostructured LEDs (100), each nanostructured LED (100) of said plurality of LEDs comprising an active region (120) for light emission, and a plurality of reflectors (135), each associated to an individual nanostructured LED (100) of said plurality of LEDs or a group of nanostructured LEDs (100) of said plurality of LEDs, and each reflector (135) of said plurality of reflectors having a concave surface facing an active region of the respective individual nanostructured LED or active regions of the respective group of nanostructured LEDs.
+</P>
+<P>
+2. The nanostructured LED device (101) according to claim 1, wherein each reflector (135) of said plurality of reflectors is positioned over a centre of the respective individual nanostructured LED (100) as seen from a top of the nanostructured LEDs.
+</P>
+<P>
+3. The nanostructured LED device (101) according to claim 1, wherein each reflector (135) of said plurality of reflectors covers a combined upper surfaces of the respective group of nanostructured LEDs.
+</P>
+<P>
+4. The nanostructured LED device (101) according to claim 2, wherein each reflector (135) of said plurality of reflectors covers an upper surface of the respective nanostructured LED (100).
+</P>
+<P>
+5. The nanostructured LED device (101) according to claim 4, wherein the concave surface of each reflector (135) of said plurality of reflectors is defined by a shape of the upper surface of the respective nanostructured LED (100).
+</P>
+<P>
+6. The nanostructured LED device (101) according to claim 5, wherein the plurality of nanostructured LEDs (100) comprise a plurality of elongated structures, each having a pointed upper part and a vertical side surface, wherein the respective reflector (135) of said plurality of reflectors covers at least the pointed upper part of the respective elongated structure.
+</P>
+<P>
+7. The nanostructured LED device (101) according to claim 6, wherein the respective reflector (135) of said plurality of reflectors covers a portion of the vertical side surface of the respective elongated structure.
+</P>
+<P>
+8. The nanostructured LED device (101) according to claim 5, wherein the plurality of nanostructured LEDs (100) comprise a plurality of pyramidal structures.
+</P>
+<P>
+9. The nanostructured LED device (101) according to claim 1, wherein the reflectors (135) also are an upper contact to the respective nanostructured LED or the respective group of nanostructured LEDs.
+</P>
+<P>
+10. The nanostructured LED device (101) according to claim 1, wherein the array forms a photonic crystal that is arranged to inhibit a wavelength of the light emitted from the active regions of the plurality of nanostructured LEDs in a direction close to a plane of the array.
+</P>
+<P>
+11. The nanostructured LED device (101) according to claim 1, wherein the plurality of reflectors (135) are joined to form a continuous reflecting layer (535) covering the plurality of nanostructured LEDs (100).
+</P>
+<P>
+12. The nanostructured LED device (101) according to claim 11, further comprising a fill layer (507) that covers a portion of the plurality of nanostructured LEDs, and wherein the continuous reflecting layer (535) covers at least an upper surface of the plurality of nanostructured LEDs and the fill layer in between nanostructured LEDs of said plurality of LEDs.
+</P>
+<P>
+13. The nanostructured LED device (101) according to claim 1, wherein the plurality of nanostructured LEDs (100) comprise waveguides adapted to direct at least a portion of emitted light towards a respective reflector (135) of the plurality of reflectors.
+</P>
+<P>
+14. The nanostructured LED device (101) according to claim 1, wherein the plurality of nanostructured LEDs forms a LED array layer, with a corresponding plurality of active regions (120) arranged in the LED array layer, and a reflector layer (181) arranged in a plane parallel to the LED array layer (180), the reflector layer comprising a plurality of reflectors (135) each having a concave surface facing one or a group of the active regions (120) and arranged to direct light through the LED array (180).
+</P>
+<P>
+15. The nanostructured LED device (101) according to claim 14, wherein individual nanostructured LEDs in the LED array layer (180) and individual reflectors in the reflector layer (181) are periodically repeated and a periodicity of the individual reflectors (135) of the reflector layer (181) is related to a periodicity of the individual nanostructured LEDs in the LED array layer (180).
+</P>
+<P>
+16. The nanostructured LED device (101) according to claim 14, wherein each reflector (135) of the reflector layer (181) is positioned over a centre of the respective nanostructured LED (100) of the LED array layer (180) as seen from a top of the nanostructured LEDs.
+</P>
+<P>
+17. The nanostructured LED device (101) according to claim 15, wherein the periodicity of the reflectors (135) of the reflector layer (181) is related to the periodicity of the individual nanostructured LEDs in the LED array layer (180) as a series of n or 1/n, wherein n is an integer.
+</P>
+<P>
+18. The nanostructured LED device (101) according to claim 14, wherein individual nanostructured LEDs in the LED array layer (180) and individual reflectors in the reflector layer (181) are periodically repeated and a periodicity of the individual reflectors (135) of the reflector layer (181) is uncorrelated to a periodicity of the individual nanostructured LEDs in the LED array layer (180).
+</P>
+<P>
+19. The nanostructured LED device (101) according to claim 14, wherein each reflector (135) of the reflector layer (181) covers an upper surface of the respective nanostructured LED (100) of the LED array layer (180).
+</P>
+<P>
+20. The nanostructured LED device (101) according to claim 14, wherein individual reflectors (135) of the plurality of reflectors are joined to form a continuous reflecting layer (535) covering the plurality of nanostructured LEDs (100).
+</P>
+<P>
+21. The nanostructured LED device (101) according to claim 20, further comprising a fill layer (507) that covers a portion of the plurality of nanostructured LEDs, and wherein the continuous reflecting layer (535) covers at least an upper surface of the plurality of nanostructured LEDs and the fill layer in between nanostructured LEDs of said plurality of LEDs.
+</P>
+<P>
+22. The nanostructured LED device (101) according to claim 14, wherein the array forms a photonic crystal in the LED array layer (180), the photonic crystal arranged to inhibit a wavelength of the light emitted from the active regions of the LED array layer (180) in a direction close to a plane of the array.
+</P>
+<P>
+23. A method of fabricating a nanostructured LED device comprising a plurality of nanostructured LEDs, comprising the steps of:
+</P>
+<P>
+(a) defining growth positions on a substrate by lithography;
+</P>
+<P>
+(b) growing nanostructured LEDs from the substrate on the defined growth positions; and
+</P>
+<P>
+(c) depositing a reflector material at least on top of the grown nanostructured LEDs, thereby forming individual reflectors for each of the nanostructured LEDs.
+</P>
+<P>
+24. The method of fabricating a nanostructured LED according to claim 23, further comprising a step, to be taken after the step of growing of nanostructured LEDs and prior to the step of depositing a reflector material, of forming upper parts of the nanostructured LEDs to define a shape of an inner surface of the reflectors covering the nanostructured LEDs.
+</P>
+<P>
+25. The method of fabricating a nanostructured LED according to claim 24, wherein the step of forming the upper parts of the nanostructured LEDs comprises removing a material from the upper parts of the nanostructured LEDs to provide the nanostructured LEDs with a predetermined shape.
+</P>
+<P>
+26. The method of fabricating a nanostructured LED according to claim 24, wherein the step of forming the upper parts of the nanostructured LEDs comprises adding a transparent material at least on top of the nanostructured LEDs to form a predetermined shape to define the inner surface of the reflectors.
+</P>
+<P>
+27. The nanostructured LED device according to claim 8, wherein for an individual pyramidal structure of said plurality of pyramidal structures, an active region of a nanostructured LED is formed on the pyramidal structure, said active region comprises a p-n junction.
+</P>
+<P>
+28. The nanostructured LED device (101) according to claim 1, wherein the plurality of nanostructured LEDs forms a LED array layer, with a corresponding plurality of active regions (120) arranged in the LED array layer, and a reflector layer (181) arranged in a plane parallel to the LED array layer (180), wherein individual reflectors of the reflector layer having a random configuration or a periodicity which is not correlated to a periodicity of individual nanostructured LEDs of the LED array layer.
+</P>
+</Claims>
+<Also_published_as>
+US2010283064A1;KR20090096704A;JP2010514207A;JP2010514206A;EP2095425A1;CN102255018A;CN101681918A
+</Also_published_as>
+</BiblioData>

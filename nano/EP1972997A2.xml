@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Nano-imprinting apparatus and method
+</Title>
+<PublicationNumber>
+EP1972997A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HEIDARI BABAK [SE]
+</Name>
+<Name>
+HEIDARI, BABAK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+OBDUCAT AB [SE]
+</Name>
+<Name>
+OBDUCAT AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1972997
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080102544
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20070907053P
+</PriorityNumber>
+<PriorityDate>
+2007-03-19
+</PriorityDate>
+<PriorityNumber>
+US20070808890
+</PriorityNumber>
+<PriorityDate>
+2007-06-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B29C59/04
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+An apparatus and a method in connection with the lithography of structures on a micro or nanometer scale. A nano-imprinting apparatus according to an embodiment of the invention comprises two rotatably mounted rollers for transferring a pattern of micro or nanometer size to the substrate to be patterned. A first rotatably mounted roller has a patterned circumferential surface for transferring a pattern from the first rotatably mounted roller to a deformable substrate by contacting the patterned surface with the substrate. A second rotatably mounted roller has a principally smooth circumferential surface which faces the patterned surface of the first rotatably mounted roller. Furthermore, the second rotatably mounted roller is rotatably coupled with the first rotatably mounted roller for synchronized rotation of the first and second rollers.;  The substrate is movable between the first and second rollers such that, when these rollers rotate with respect to each other, the patterned surface of the first rotatably mounted roller comes into contact with the substrate whereby this pattern is transferred from the patterned surface to the substrate.
+</Abstract>
+<Claims>
+<P>
+1. A nano-imprinting apparatus (1), comprising:
+</P>
+<P>
+a first rotatably mounted roller (10) having a patterned circumferential surface (11) for transferring a pattern from the first rotatably mounted roller (10) to a deformable substrate (20) by contacting said patterned surface (11) with said substrate (20);
+</P>
+<P>
+a second rotatably mounted roller (30) having a principally smooth circumferential surface (31) which faces the patterned surface (11) of the first rotatably mounted roller (10), the second rotatably mounted roller (30) being rotatably coupled with the first rotatably mounted roller (10) for synchronized rotation of said rollers (10, 30); wherein
+</P>
+<P>
+the substrate (20) is movable between said rollers (10, 30) such that, when said rollers (10, 30) rotate with respect to each other, the patterned surface (11) of the first rotatably mounted roller (10) comes into contact with said substrate (20) whereby said pattern is transferred from the patterned surface (11) to the substrate (20).
+</P>
+<P>
+2. A nano-imprinting apparatus (1) according to claim 1, wherein at least one of the first and the second roller (10, 30) is arranged to apply a pressure against the other roller (10, 30) when said rollers (10, 30) rotate with respect to each other.
+</P>
+<P>
+3. A nano-imprinting apparatus (1) according to claim 2, wherein the mentioned pressure is within the range of 1-100 bar positive pressure, preferably within the range of 10-40 bar positive pressure.
+</P>
+<P>
+4. A nano-imprinting apparatus (1) according to any of the claims 1-3, wherein the second rotatably mounted roller (30) comprises a tubular-shaped cavity (32) for a medium having a certain pressure, a wall of said cavity (32) consisting of a membrane (33) of which one side, which faces away from the cavity (32), forms said principally smooth circumferential surface (31).
+</P>
+<P>
+5. A nano-imprinting apparatus (1) according to claim 4, further comprising means for adjusting the pressure of said medium to a pressure within a range of 1-100 bar positive pressure, preferably within a range of 1-40 bar.
+</P>
+<P>
+6. A nano-imprinting apparatus according to claim 4 or 5, wherein the membrane (33) is made of a flexible material, preferably a polymer material or a thin metal, even more preferably a plastic, a rubber or a thin metal, the membrane (33) having a thickness of up to 10 mm, preferably up to 3 mm or even more preferably up to 1 mm.
+</P>
+<P>
+7. A nano-imprinting apparatus according to any of the claims 4-6, wherein the medium comprises a gas.
+</P>
+<P>
+8. A nano-imprinting apparatus according to claim 7, wherein said medium comprises air.
+</P>
+<P>
+9. A nano-imprinting apparatus according to any of the preceding claims, wherein the first rotatably mounted roller (10) has a diameter of up to 5 m, preferably up to 2 m, and even more preferably up to 1 m.
+</P>
+<P>
+10. A nano-imprinting apparatus according to claim 9, wherein the first rotatably mounted roller (10) has a length of up to 2,5 m, preferably up to 1.5 m, and even more preferably up to 1 m.
+</P>
+<P>
+11. A nano-imprinting apparatus according to claim 10, wherein the ratio between the diameter and the length of the first rotatably mounted roller (10) is 1:2.
+</P>
+<P>
+12. A nano-imprinting apparatus according to any of the preceding claims, wherein the second rotatably mounted roller (30) has a diameter of up to 5 m, preferably up to 2 m, and even more preferably up to 1 m.
+</P>
+<P>
+13. A nano-imprinting apparatus according to claim 12, wherein the second rotatably mounted roller (30) has a length of up to 2,5 m, preferably up to 1.5 m, and even more preferably up to 1 m.
+</P>
+<P>
+14. A nano-imprinting apparatus according to claim 13, wherein the ratio between the diameter and the length of the second rotatably mounted roller (30) is 1:2.
+</P>
+<P>
+15. A nano-imprinting apparatus according to any of the preceding claims, further comprising a heating means (40) for heating the substrate (20), wherein the heating means is positioned to heat the substrate (20) before said substrate moves between said first and second rollers (10, 30).
+</P>
+<P>
+16. A nano-imprinting apparatus according to claim 15, wherein the heating means is a heating chamber positioned such that the substrate (20) is moveable through said heating chamber such that, during operation, heating of the substrate (20) is performed before said substrate moves between said first and second rollers (10, 30).
+</P>
+<P>
+17. A nano-imprinting apparatus according to claim 15, wherein the heating means comprises at least one further rotatably mounted roller (40a, 40b) with a principally plane circumferential and heated surface (41a, 41b) positioned such that the substrate (20) is moveable onto said heated surface (41a, 41b) such that, during operation, heating of the substrate (20) is performed via said heated surface (41a, 41b) before said substrate moves between said first and second rollers (10, 30).
+</P>
+<P>
+18. A nano-imprinting apparatus according to any of the preceding claims, further comprising a cooling means (50) for cooling the substrate (20), wherein the cooling means (50) is positioned to cool the substrate (20) after said substrate has passed between said first and second rollers (10, 30).
+</P>
+<P>
+19. A nano-imprinting apparatus according to claim 18, wherein the cooling means (50) is a cooling chamber positioned such that the substrate (20) is moveable through said cooling chamber such that, during operation, cooling of the substrate (20) is performed after said substrate has passed between said first and second rollers (10, 30).
+</P>
+<P>
+20. A nano-imprinting apparatus according to claim 18, wherein the cooling means (50) comprises at least one further rotatably mounted roller (50a, 50b) with a principally plane circumferential and cooling surface (51a, 51b) positioned such that the substrate (20) is moveable onto said cooling surface (51a, 51b) such that, during operation, cooling of the substrate (20) is performed via said cooling surface (51a, 51b) after said substrate has moved between said first and second rollers (10, 30).
+</P>
+<P>
+21. A nano-imprinting apparatus according to any of the preceding claims, wherein the substrate is a continuous substrate.
+</P>
+<P>
+22. A nano-imprinting apparatus according to claim 21, wherein the substrate is a foil or a thin film.
+</P>
+<P>
+23. A nano-imprinting method performed by an apparatus having a first rotatably mounted roller with a patterned circumferential surface for transferring a pattern from the first rotatably mounted roller to a deformable substrate by contacting said patterned surface with said substrate, and a second rotatably mounted roller with a principally smooth circumferential surface which faces the patterned surface of the first rotatably mounted roller, the second rotatably mounted roller being rotatably coupled with the first rotatably mounted roller for synchronized rotation of said rollers, the method comprising the steps of:
+</P>
+<P>
+rotating said rollers with respect to each other; and
+</P>
+<P>
+moving the substrate between said rollers such that, when said rollers rotate with respect to each other, the patterned surface of the first rotatably mounted roller comes into contact with said substrate whereby said pattern is transferred from the patterned surface to the substrate.
+</P>
+<P>
+24. A nano-imprinting method according to claim 23, further comprising the step of:
+</P>
+<P>
+applying a pressure against either of or both of said rollers when said rollers rotate with respect to each other.
+</P>
+<P>
+25. A nano-imprinting method according to claim 23 or 24, wherein the second rotatably mounted roller comprises a tubular-shaped cavity for a medium having a certain pressure, a wall of said cavity consisting of a membrane of which one side, which faces away from the cavity, forms said principally smooth circumferential surface, the method further comprising the step of:
+</P>
+<P>
+adjusting the pressure of said medium to a pressure within a range of 1-100 bar positive pressure, preferably within a range of 10-40 bar.
+</P>
+<P>
+26. A nano-imprinting method according to claim 25, wherein the medium comprises a gas.
+</P>
+<P>
+27. A nano-imprinting method according to claim 26, wherein the medium comprises air.
+</P>
+<P>
+28. A nano-imprinting method according to any of the claims 23-27, further comprising the step of:
+</P>
+<P>
+heating the substrate before said substrate moves between said first and second rollers.
+</P>
+<P>
+29. A nano-imprinting method according to any of the claims 23-28, further comprising the step of:
+</P>
+<P>
+cooling the substrate after said substrate has passed between said first and second rollers.
+</P>
+<P>
+30. A nano-imprinting method according to any of the claims 23-29, wherein the substrate is a continuous substrate.
+</P>
+<P>
+31. A nano-imprinting apparatus according to claim 30, wherein the substrate is a foil or a thin film.
+</P>
+<P>
+32. A nano-imprinting apparatus or method according to the preceding description and drawings.
+</P>
+</Claims>
+<Also_published_as>
+EP1972997A3;EP1972997B1;US2008229941A1;TW200848248A;KR20080085773A;JP2008284873A
+</Also_published_as>
+</BiblioData>

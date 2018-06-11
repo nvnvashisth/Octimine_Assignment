@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR THE MANUFACTURING OF A NANOROD
+</Title>
+<PublicationNumber>
+EP2035603A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WILLANDER MAGNUS [SE]
+</Name>
+<Name>
+HU QUIHONG [SE]
+</Name>
+<Name>
+WILLANDER, MAGNUS
+</Name>
+<Name>
+HU, QUIHONG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+STORMLED AB [SE]
+</Name>
+<Name>
+STORMLED AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2035603
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070786894
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP56502
+</PriorityNumber>
+<PriorityDate>
+2007-06-28
+</PriorityDate>
+<PriorityNumber>
+EP20060116370
+</PriorityNumber>
+<PriorityDate>
+2006-06-30
+</PriorityDate>
+<PriorityNumber>
+EP20070786894
+</PriorityNumber>
+<PriorityDate>
+2007-06-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01G9/02
+</Class>
+<Class>
+C30B29/06
+</Class>
+<Class>
+C30B7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G9/02
+</Class>
+<Class>
+C30B29/16
+</Class>
+<Class>
+C30B29/62
+</Class>
+<Class>
+C30B7/00B
+</Class>
+</NCL>
+<Abstract>
+A nano rod (1) comprising an oblong Zinc oxide nano construct, wherein the oblong Zinc oxide nano construct (3) is, as grown, free standing. A nano contact and a nano electric device are also disclosed. Also, a method for manufacturing a nano rod at low temperatures is also disclosed. A bath for growing nano rods is also disclosed.
+</Abstract>
+<Claims>
+<P>
+1. Nanorod (1) comprising an oblong Zinc oxide nano construct (3), wherein the oblong Zinc oxide nano construct (3) is, as grown, freestanding.
+</P>
+<P>
+2. Nanorod according to claim 1, wherein the nano construct (3) further comprises an end (5) presenting an electrically conductive layer (7).
+</P>
+<P>
+3. Nanorod according to claim 1, wherein the electrically conductive layer (7) is essentially flat.
+</P>
+<P>
+4. Nanorod according to claim 1, wherein the electrically conductive layer (7) is a nucleation layer.
+</P>
+<P>
+5. Nanorod according to claim 1, wherein the electrically conductive layer (7) belongs to the group of a metallic layer, an electrically conductive ceramic layer, and a transparent conductive oxide layer.
+</P>
+<P>
+6. Nanorod according to claim 5, wherein the metallic layer belongs to the groups of a layer of a transition metal, a layer of a noble metal, a layer of a metal, and a layer of a metal alloy.
+</P>
+<P>
+7. Nanorod according to claim 6, wherein the layer of a noble metal is constituted by one from the group of Gold (Au), Platinum (Pt), Silver (Ag), Cupper (Cu), Palladium (Pd), and Tantalum.
+</P>
+<P>
+8. Nanorod according to claim 5, wherein the transparent conductive oxide layer is an Indium Tin oxide (ITO) layer.
+</P>
+<P>
+9. Nanorod according to claim 1, wherein the nominal thickness of the electrically conductive layer (7) is between 1 and 3 nanometers.
+</P>
+<P>
+10. Nanorod according to claim 1, wherein the nominal thickness of the electrically conductive layer (7) is more than 0.5 nanometers.
+</P>
+<P>
+11. Nano contact (9, 17) comprising two contact pads (11, 13; 19, 21) of opposite polarity and nanorods (17) according to any one of claims 1 to 10 electrically connecting the two contact pads (11, 13; 19, 21).
+</P>
+<P>
+12. Nano contact according to claim 11, wherein the electrically conductive layer (7) presents a nominal thickness between 2 and 200 nanometers.
+</P>
+<P>
+13. Nano contact according to claim 11, wherein the electrically conductive layer (7) presents a nominal thickness between 5 and 200 nanometers.
+</P>
+<P>
+14. Nano contact according to claim 12, wherein the nano contact is of one of a Schottky contact and an Ohmic contact.
+</P>
+<P>
+15. Nano contact according to claim 11, wherein one of the contact pads (11, 13; 19, 21) is constituted by a single wall carbon nanotube (SWCNT).
+</P>
+<P>
+16. Nano electric device (25) comprising a substrate (27) at a surface of which a plurality of nanorods (1) according to any one of claims 2 to 10 are electrically connected.
+</P>
+<P>
+17. Nano electric device according to claim 16, wherein the substrate (27), or a part thereof, is constituted by one of the group of glass, conductive plastic, conductive polymer, Silicon (Si), Silicon Carbide (SiC), Sapphire (Al2O3), Silicon nitride, Poly(3,4-ethylene-dioxythiophene) (PEDOT), and p-SrCu2O2.
+</P>
+<P>
+18. Method for manufacturing a nanorod (17), comprising:
+</P>
+<P>
+- providing an assembly by providing an electrically conductive layer (7) on a surface of a substrate (15, 23, 27),
+</P>
+<P>
+- heat treating the assembly in a mixture of a Zinc containing precursor and tetramine in water, and
+</P>
+<P>
+- drying the assembly.
+</P>
+<P>
+19. Method according to claim 18, wherein the step of providing comprises covering all surfaces of the substrate with the electrically conductive layer (7).
+</P>
+<P>
+20. Method according to claim 18, wherein the providing of the electrically conductive layer (7) is achieved by heterogeneous nucleation.
+</P>
+<P>
+21. Method according to claim 18, wherein the providing of the electrically conductive layer (7) is achieved by dispersing colloidal particles related to the electrically conductive layer (7) on the surface of the substrate (15, 23, 27).
+</P>
+<P>
+22. Method according to claim 18, wherein the providing of an electrically conductive layer (7) results in presenting a nominal thickness of the electrically conductive layer (7) being more than 0.5 nanometers.
+</P>
+<P>
+23. Method according to claim 18, wherein the heat treating is done in a temperature interval of 30 and 120 degrees Celsius.
+</P>
+<P>
+24. Method according to claim 18, wherein the heat treating is done in a temperature interval of 50 to 95 degrees Celsius.
+</P>
+<P>
+25. Method according to claim 18, further comprising adding at least one precursor to the mixture.
+</P>
+<P>
+26. Method according to claim 18, wherein the adding at least one precursor comprises adding a salt comprising at least of Mg&amp;lt;2+&amp;gt; and Cd&amp;lt;2+&amp;gt; to the mixture.
+</P>
+<P>
+27. Method according to claim 18, wherein the at least one additional precursor comprises adding at least one dopant substance to the mixture.
+</P>
+<P>
+28. Method according to claim 25, wherein the relation between the precursor and the at least one additional precursor is 67-99%:33-1%.
+</P>
+<P>
+29. Method according to claim 18, further comprising controlling at least one of:
+</P>
+<P>
+- size (and pattern) of at least one region of electrically conductive layer (7) on the substrate, and
+</P>
+<P>
+- position on the substrate.
+</P>
+<P>
+30. Bath for growing a nanorod on an electrically conductive layer (7), comprising a zinc containing precursor, tetramine, and at least one additional precursor.
+</P>
+<P>
+31. Bath according to claim 30, wherein the at least one additional precursor is a salt comprising at least of Mg&amp;lt;2+&amp;gt; and Cd&amp;lt;2+&amp;gt; .
+</P>
+<P>
+32. Bath according to claim 30, wherein the at least one additional precursor is a dopant substance.
+</P>
+<P>
+33. Bath according to claim 30, wherein the relation between Zinc containing precursor and the at least one additional precursor is 67-99%:33-1%.
+</P>
+<P>
+34. Bath according to claim 30, wherein the nanorod is a nanorod according to any one of claims 1 to 10.
+</P>
+</Claims>
+<Also_published_as>
+EP1873279A1;WO2008000802A1;WO2008000801A1
+</Also_published_as>
+</BiblioData>

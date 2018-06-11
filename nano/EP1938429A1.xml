@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD AND APPARATUS FOR ELECTROMAGNETIC RESONANCE USING NEGATIVE INDEX MATERIAL
+</Title>
+<PublicationNumber>
+EP1938429A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BRATKOVSKI ALEXANDRE M [US]
+</Name>
+<Name>
+BEAUSOLEIL RAYMOND G [US]
+</Name>
+<Name>
+WANG SHIH-YUAN [US]
+</Name>
+<Name>
+BRATKOVSKI, ALEXANDRE M
+</Name>
+<Name>
+BEAUSOLEIL, RAYMOND G
+</Name>
+<Name>
+WANG, SHIH-YUAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1938429
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060788057
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-07-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US28305
+</PriorityNumber>
+<PriorityDate>
+2006-07-21
+</PriorityDate>
+<PriorityNumber>
+US20050230216
+</PriorityNumber>
+<PriorityDate>
+2005-09-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B6/122
+</Class>
+<Class>
+H01S5/10
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B1/00M3
+</Class>
+<Class>
+G02B6/122P
+</Class>
+</NCL>
+<Abstract>
+An electromagnetic resonance device includes an input reflector, an output reflector, and a periodic dielectric medium (PDM) disposed between the input reflector and the output reflector. The input reflector and output reflector are configured to be reflective to radiation having a wavelength of interest. The PDM includes a periodic structure having a dielectric periodicity between a first surface and a second surface. The dielectric periodicity is configured with a negative refraction for the wavelength of interest. A first radiation is reflected by the input reflector toward the first surface of the PDM, passes through the PDM, and is focused on the output reflector as a second radiation. The second radiation is reflected by the output reflector toward the second surface of the PDM, passes through the PDM, and is focused on the input reflector as the first radiation.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An electromagnetic resonance device, comprising:
+</P>
+<P>
+an input reflector substantially reflective to a first radiation having a wavelength of interest;
+</P>
+<P>
+an output reflector in a plane substantially parallel to the input reflector and substantially reflective to a second radiation having the wavelength of interest;
+</P>
+<P>
+a periodic dielectric medium disposed between the input reflector and the output reflector and comprising a dielectric periodicity between a first surface and a second surface, the periodic dielectric medium configured with a negative refraction at the wavelength of interest, wherein the negative refraction:
+</P>
+<P>
+focuses the first radiation impinging on the first surface as the second radiation at a second focal location; and
+</P>
+<P>
+focuses the second radiation impinging on the second surface as the first radiation at a first focal location.
+</P>
+<P>
+2. The device of claim 1, wherein the periodic dielectric medium comprises a 2D photonic crystal comprising a first material including a plurality of periodically spaced columns of a second material.
+</P>
+<P>
+3. The device of claim 2, wherein the first material comprises a dielectric material and the second material comprises air.
+</P>
+<P>
+4. The device of claim 2, wherein the first material comprises air and the second material comprises a dielectric material.
+</P>
+<P>
+5. The device of claim 1, wherein the input reflector comprises a Bragg reflector.
+</P>
+<P>
+6. The device of claim 1, wherein the output reflector comprises a Bragg reflector.
+</P>
+<P>
+7. The device of claim 1, wherein the first focal location is substantially near an interior surface of the input reflector.
+</P>
+<P>
+8. The device of claim 1, wherein the second focal location is substantially near an interior surface of the output reflector.
+</P>
+<P>
+9. The device of claim 1, wherein at least a portion of a pump radiation at the wavelength of interest is transmitted through the input reflector to enter the electromagnetic radiation device as the first radiation.
+</P>
+<P>
+10. The device of claim 1, wherein at least a portion of the second radiation is transmitted through the output reflector as an emitting radiation.
+</P>
+<P>
+11. The device of claim 10, further comprising an aperture formed adjacent to the output reflector and configured to define a size and a shape of the emitting radiation.
+</P>
+<P>
+12. A method of intensifying an electromagnetic radiation beam, comprising:
+</P>
+<P>
+providing a periodic dielectric medium comprising a negative refractive index at a wavelength of interest;
+</P>
+<P>
+reflecting a first radiation toward a first surface of the periodic dielectric medium;
+</P>
+<P>
+reflecting a second radiation toward a second surface of the periodic dielectric medium;
+</P>
+<P>
+focusing the second radiation at a second focal location by passing the first radiation through the periodic dielectric medium from the first surface to the second surface; and
+</P>
+<P>
+focusing the first radiation at a first focal location by passing the second radiation through the periodic dielectric medium from the second surface to the first surface.
+</P>
+<P>
+13. The method of claim 12, wherein providing the periodic dielectric medium further comprises providing a 2D photonic crystal comprising a first material including a plurality of periodically spaced columns of a second material.
+</P>
+<P>
+14. The method of claim 12, wherein reflecting the first radiation comprises reflecting the first radiation with an input reflector.
+</P>
+<P>
+15. The method of claim 14, wherein focusing the first radiation further comprises locating the first focal location substantially near an interior surface of the input reflector.
+</P>
+<P>
+16. The method of claim 14, further comprising:
+</P>
+<P>
+directing a pump radiation having the wavelength of interest at an exit surface of the input reflector; and
+</P>
+<P>
+transmitting at least a portion of the pump radiation through the input reflector.
+</P>
+<P>
+17. The method of claim 14, wherein reflecting the second radiation comprises reflecting the first radiation with an output reflector.
+</P>
+<P>
+18. The method of claim 17, wherein focusing the second radiation further comprises locating the second focal location substantially near an interior surface of the output reflector.
+</P>
+<P>
+19. The method of claim 17, further comprising transmitting at least a portion of the second radiation through the output reflector.
+</P>
+<P>
+20. The method of claim 12, wherein reflecting the second radiation comprises reflecting the first radiation with an output reflector.
+</P>
+<P>
+21. The method of claim 20, wherein focusing the second radiation further comprises locating the second focal location substantially near an interior surface of the output reflector.
+</P>
+<P>
+22. The method of claim 20, further comprising transmitting at least a portion of the second radiation through the output reflector.
+</P>
+<P>
+23. The method of claim 20, wherein reflecting the first radiation comprises reflecting the first radiation with an input reflector.
+</P>
+<P>
+24. The method of claim 23, wherein focusing the first radiation further comprises locating the first focal location substantially near an interior surface of the input reflector.
+</P>
+<P>
+25. The method of claim 23, further comprising:
+</P>
+<P>
+directing a pump radiation having the wavelength of interest at an exit surface of the input reflector; and
+</P>
+<P>
+transmitting at least a portion of the pump radiation through the input reflector.
+</P>
+</Claims>
+<Also_published_as>
+EP1938429B1;US2007065069A1;US8098971B2;WO2007040727A1;JP2009509204A;JP4829971B2;CN101268593A;CN101268593B
+</Also_published_as>
+</BiblioData>

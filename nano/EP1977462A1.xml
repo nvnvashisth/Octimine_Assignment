@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+TRANSISTOR STRUCTURES AND METHODS OF FABRICATION THEREOF
+</Title>
+<PublicationNumber>
+EP1977462A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TESSLER NIR [IL]
+</Name>
+<Name>
+MARGALIT MOTI [IL]
+</Name>
+<Name>
+GLOBERMAN ODED [IL]
+</Name>
+<Name>
+SHENHAR ROY [IL]
+</Name>
+<Name>
+TESSLER, NIR
+</Name>
+<Name>
+MARGALIT, MOTI
+</Name>
+<Name>
+GLOBERMAN, ODED
+</Name>
+<Name>
+SHENHAR, ROY
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TECHNION RES &amp; DEV FOUNDATION [IL]
+</Name>
+<Name>
+TECHNION RESEARCH AND DEVELOPMENT FOUNDATION LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1977462
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070700717
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IL00025
+</PriorityNumber>
+<PriorityDate>
+2007-01-09
+</PriorityDate>
+<PriorityNumber>
+US20060756997P
+</PriorityNumber>
+<PriorityDate>
+2006-01-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/05
+</Class>
+<Class>
+H01L51/10
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00A8
+</Class>
+<Class>
+H01L51/00M2D
+</Class>
+<Class>
+H01L51/00M2F
+</Class>
+<Class>
+H01L51/05B2B10
+</Class>
+<Class>
+H01L51/05B2B12
+</Class>
+<Class>
+H01L51/05B2B2
+</Class>
+<Class>
+H01L51/10B
+</Class>
+</NCL>
+<Abstract>
+An electronic device is presented, such as a thin film transistor. The device comprises a patterned electrically-conductive layer associated with an active element of the electronic device. The electrically-conductive layer has a pattern defining an array of spaced-apart electrically conductive regions. This technique allows for increasing an electric current through the device.
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. An electronic device comprising a patterned electrically-conductive layer associated with an active element of the electronic device, said electrically- conductive layer has a pattern defining an array of spaced-apart electrically conductive regions, thereby increasing an electric current through the device.
+</P>
+<P>
+2. The device of Claim 1, comprising a thin film transistor structure.
+</P>
+<P>
+3. The device of Claim 2, wherein said thin film transistor has a channel made of a semiconductor material.
+</P>
+<P>
+4. The device of Claim 2, wherein said thin film transistor has a channel made of a polymer material.
+</P>
+<P>
+5. The device of Claim 2, wherein said thin film transistor has a channel made of a poly silicon.
+</P>
+<P>
+6. The device of Claim 2, wherein said thin film transistor has a channel made of amorphous silicon. 7. The device of any one of Claims 2 to 6, wherein said transistor structure is configured and operable as a field effect transistor structure with source and drain electrodes arranged in a spaced-apart relationship in the same layer, said patterned electrically-conductive layer being associated with the transistor channel between the source and drain electrodes. 8. . The device of Claim 7, wherein said electrically conductive layer is in the form of the array of islands of the electrically conductive material arranged in spaced-apart relationship in a region along the channel element above said channel element.
+</P>
+<P>
+9. The device of Claim 7, wherein said electrically conductive layer is in the form of the array of islands of the electrically conductive material arranged in spaced-apart relationship in a region along the channel element below said channel element.
+</P>
+<P>
+10. The device of Claim 7, wherein said electrically conductive layer is in the form of the array of elongated regions of the electrically conductive material arranged in spaced-apart relationship in a region along the channel element above said channel element.
+</P>
+<P>
+11. The device of Claim 7, wherein said electrically conductive layer is in the form of the array of elongated regions of the electrically conductive material arranged in spaced-apart relationship in a region along the channel element below said channel element. 12. The device of any one of Claims 8 to 11, wherein said array extends along at least one axis inclined with respect to the channel axis.
+</P>
+<P>
+13. The device of any one of Claims 4 and 8-12, comprising a block copolymer layer serving as a substrate for said patterned electrically conductive layer. 14. The device of Claim 13, wherein said block copolymer layer serves as a template for said pattern in the electrically conductive layer.
+</P>
+<P>
+15. The device of any one of Claims 7 to 14, wherein said transistor device comprises a gate electrode, a channel element with its associated patterned electrically conductive layer located above said gate and electrically insulated therefrom, and a layer containing said source and drain electrodes located above the channel and having electrical contact thereto.
+</P>
+<P>
+16. The device of Claim 15, wherein said source and drain containing layer is said patterned electrically conductive layer comprising the electrically conductive region serving as a second floating gate electrode located between and electrically insulated from the source and drain electrodes and from said channel element.
+</P>
+<P>
+17. The device of Claim 15, wherein said source and drain electrodes have extended regions thereof extending above corresponding regions of the channel element and electrically insulated therefrom. 18. The device of Claim 6, wherein said transistor structure comprises a gate electrode covered by an electrical insulator, the amorphous silicon channel layer on top of said electrical insulator, and a layer containing said source and drain electrodes above the channel with regions of n+ amorphous silicon in between the channel and the source and drain electrodes, said layer containing said source and drain electrodes being said patterned electrically conductive layer defining the array of spaced-apart electrically conductive regions within a region above the channel in between the source and drain electrodes.
+</P>
+<P>
+19. The device of Claim 18, wherein each of said spaced-apart electrically conductive regions is a stack formed by n+ amorphous silicon and metal on top thereof.
+</P>
+<P>
+20. The device of Claim 15, wherein each of said spaced-apart electrically conductive regions is formed by n+ amorphous silicon.
+</P>
+<P>
+21. The device of Claim 15, wherein each of said spaced-apart electrically conductive regions is formed by metal. 22. The device of Claim 6, wherein said transistor structure comprises a gate electrode covered by an electrical insulator, the array of spaced-apart electrically conductive regions of said patterned electrically conductive layer on top of said electrical insulator, the amorphous silicon channel layer on top of said patterned electrically conductive layer, and source and drain electrodes above the channel with regions of n+ amorphous silicon in between the channel and the source and drain electrodes.
+</P>
+<P>
+23. The device of Claim 22, wherein said patterned electrically conductive layer is made of n+ amorphous silicon.
+</P>
+<P>
+24. The device of Claim 6, wherein said transistor structure comprises a gate electrode covered by a first electrical insulator, the amorphous silicon channel layer on top of said electrical insulator, a second electrical insulator layer on top of said channel layer, and a layer containing said source and drain electrodes above said second insulator such that the source and drain electrode have electrical contact to the channel, said layer containing said source and drain electrodes being said patterned electrically conductive layer defining the array of spaced-apart electrically conductive regions within a region above the channel in between the source and drain electrodes.
+</P>
+<P>
+25. The device of any one of Claims 2 to 6, wherein said transistor structure is configured and operable as a thin film transistor structure with source and drain electrodes arranged in different layers, said patterned electrically- conductive layer being either one of the source and drain electrodes.
+</P>
+<P>
+26. The device of Claim 25, wherein said patterned electrode is. the source electrode located above a gate electrode, the source electrode metal being selected to operate as a barrier to charge injection into a semiconductor layer between the source and drain electrodes.
+</P>
+<P>
+27. The device of Claim 25, wherein said patterned electrode is the drain electrode located above a gate electrode, the source electrode metal being selected to operate as a barrier to charge injection into a semiconductor layer between the source and drain electrodes.
+</P>
+<P>
+28. The device of Claim 27, wherein said transistor structure comprises an additional layer structure between the source electrode layer and a channel element, said additional layer structure being configured to optimize the charge injection properties and/or enhance the chemical compatibility of the source and channel elements.
+</P>
+<P>
+29. The device of Claim 28, wherein said additional layer structure is a dielectric structure.
+</P>
+<P>
+30. The device of Claim 27, wherein said transistor structure comprises a dielectric structure placed between a channel element and the source electrode. 31. The device of Claim 25, wherein the patterned electrode is a perforated metal layer.
+</P>
+<P>
+32. The device of Claim 25, wherein said transistor structure comprises a block copolymer configured to operate as an insulator material and as template for the patterned source or drain electrode. 33. The device of Claim 32, wherein the transistor structure comprises a gate electrode, a gate dielectric structure on top of the gate electrode, a patterned layer of the source electrode on top of the gate dielectric structure and carrying a semiconductor channel element, and the top drain electrode, said gate dielectric structure including the dielectric and the block polymer thin film.
+</P>
+<P>
+34. The device of Claim 32, wherein the transistor structure comprises a gate electrode, a gate dielectric structure on top of the gate electrode, a patterned layer of the drain electrode on top of the gate dielectric structure and carrying a semiconductor channel element, and the top source electrode, said gate dielectric structure including the dielectric and the block polymer thin film.
+</P>
+<P>
+35. The device of Claim 33, wherein the patterned source electrode is a perforated metal layer with perforations of a characteristic diameter comparable to the thickness of the semiconductor layer.
+</P>
+<P>
+36. The device of Claim 33, wherein said transistor structure is Si- based structure with Ag-electrodes.
+</P>
+<P>
+37. The device of Claim 33, wherein the source electrode is porous metal layer produced by nanoscale patterning of surface energy.
+</P>
+<P>
+38. The device of Claim 37, wherein the source electrode is configured as a network of metal stripes. 39. The device of any one of preceding Claims, wherein said pattern is in the form of the two-dimensional array of the electrically conductive regions.
+</P>
+<P>
+40. A lateral configuration thin film transistor device comprising a channel element between source and drain electrodes, said channel element having a pattern in the form of a two-dimensional array of spaced-apart regions of a material of higher electrical conductivity spaced by regions of lower electrical conductivity.
+</P>
+<P>
+41. The device of Claim 40, wherein said channel element comprises a layer of the first, lower electrical conductivity material selectively doped with a second material of the higher electrical conductivity within said spaced-apart regions arranged in the two-dimensional array.
+</P>
+<P>
+42. The device of Claim 40, wherein said channel element comprises a first continuous layer of the lower electrical conductivity material, and a second layer located close to said first layer and being patterned to define said two dimensional array of the regions of the higher electrical conductivity material.
+</P>
+<P>
+43. The device of Claim 42, wherein said second patterned layer is located between the first layer and the source and drain containing layer.
+</P>
+<P>
+44. The device of Claim 43, comprising an insulating layer between the first layer and the patterned second layer. 45. The device of Claim 42, wherein said second patterned layer is located below the first layer, on top of a gate insulator layer.
+</P>
+</Claims>
+<Also_published_as>
+WO2007080575A1;US2009008634A1;KR20090034791A;JP2009522802A;WO2007080576A1;CN101401224A
+</Also_published_as>
+</BiblioData>

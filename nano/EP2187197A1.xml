@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CANTILEVER EVALUATION SYSTEM, CANTILEVER EVALUATION METHOD, AND CANTILEVER EVALUATION PROGRAM
+</Title>
+<PublicationNumber>
+EP2187197A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WATANABE NAOKI [JP]
+</Name>
+<Name>
+TSUKADA MASARU [JP]
+</Name>
+<Name>
+WATANABE, NAOKI
+</Name>
+<Name>
+TSUKADA, MASARU
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MIZUHO INFORMATION &amp; RES INST [JP]
+</Name>
+<Name>
+UNIV WASEDA [JP]
+</Name>
+<Name>
+MIZUHO INFORMATION &amp; RESEARCH INSTITUTE INC
+</Name>
+<Name>
+WASEDA UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2187197
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080842062
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-10-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP69155
+</PriorityNumber>
+<PriorityDate>
+2008-10-22
+</PriorityDate>
+<PriorityNumber>
+JP20070279315
+</PriorityNumber>
+<PriorityDate>
+2007-10-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01N13/10
+</Class>
+<Class>
+G01N13/16
+</Class>
+</IPC>
+<IPC7>
+<Class>
+G01N13/10
+</Class>
+<Class>
+G01N13/16
+</Class>
+</IPC7>
+<ICM>
+<Class>
+G01Q60/38
+</Class>
+</ICM>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q30/04
+</Class>
+<Class>
+G01Q30/12
+</Class>
+</NCL>
+<Abstract>
+A controller (21) of a cantilever evaluation system (20) calculates a stream function value Èx(x, y;  t + 1) and vorticity Éz(x, y;  t + 1) at a subsequent time step t + 1 using boundary conditions according to displacement h(z;  t) of a cantilever (C) and velocity h/ t(z;  t), a stream function value Èz(x, y;  t) and vorticity Éz(x, y;  t) in two-dimensional planes (S2-3). The controller (21) uses the calculated stream function value Èz(x, y) and vorticity Éz(x, y) to calculate a fluid drag force (Fliq) acting on the cantilever (C) (S2-6). The controller (21) substitutes the calculated fluid drag force (Fliq) into a displacement calculation equation (6) to calculate the displacement h(z;  t + 1) of the one-dimensional beam at the subsequent time step t + 1 (S3-2). The controller (21) repeats such calculation for each grid point and further repeats it at each time step.
+</Abstract>
+<Claims>
+<P>
+1. A cantilever evaluation system (20) comprising a parameter storage (22), a grid coordinate data storage (24), a fluid distribution data storage (23), and a controller (21), the system being characterized in that:
+</P>
+<P>
+a cantilever (C) has a proximal end (11) and a distal end (12);
+</P>
+<P>
+the parameter storage (22) stores a structural parameter based on the shape of the cantilever (C), a material physical property value of the material of the cantilever (C), and a fluid physical property value of fluid around the cantilever (C) (S1-1);
+</P>
+<P>
+the grid coordinate data storage (24) stores data on displacement of each grid point, the grid points distributed along the longitudinal direction of a one-dimensional structure (C) into which the cantilever (C) is modeled;
+</P>
+<P>
+the fluid distribution data storage (23) stores data on the distribution of the fluid in each of a plurality of vertical planes, the vertical planes each containing one or more of the grid points and being perpendicular to the longitudinal direction;
+</P>
+<P>
+the controller (21) calculates vibration characteristics of the cantilever (C),
+</P>
+<P>
+the controller (21) includes a proximal end displacement managing section, an object-to-be-computed identifying section, a fluid motion calculating section (41), a fluid drag force calculating section (42), a coordinate calculating section (44), and a time step processing section (33);
+</P>
+<P>
+the proems! end displacement managing section stores displacement of the proximal end (11) produced when a forced vibration is applied to the proximal end (11) in the grid coordinate data storage (24) for each of a plurality of time steps, the plurality of time steps including a preceding time step, a current time step, and a subsequent time step in which order time elapses;
+</P>
+<P>
+the object-to-be-computed identifying section identifies a grid point to be computed from the plurality of grid points, the vertical plane containing the grid point to be computed being a plane to be computed,
+</P>
+<P>
+wherein, for the identified grid point,
+</P>
+<P>
+the fluid motion calculating section (41) acquires the displacement of the grid point at the preceding time step from the grid coordinate data storage (24), uses the acquired displacement as a boundary condition, and uses the fluid physical property value and the corresponding fluid distribution stored in the fluid distribution data storage (23) to calculate the fluid distribution in the plane to be computed (S1-2, S2-3),
+</P>
+<P>
+the fluid drag force calculating section (42) uses the fluid distribution in the plane to be computed and the fluid physical property value to calculate a fluid drag force (Fliq) (S2-6),
+</P>
+<P>
+the coordinate calculating section (44) calculates the coordinate of the grid point to be computed by using the fluid drag force (Fliq), the structure parameter, and the material physical property value to calculate the equation of motion for the one-dimensional structure (C), and stores the calculated coordinate in the grid coordinate data storage (24) (S1-4, S3-2), and
+</P>
+<P>
+the time step processing section (33) causes the fluid motion calculating section (41), the fluid drag force calculating section (42), and the coordinate calculating section (44) to repeatedly calculate the coordinate for each grid point to be computed.
+</P>
+<P>
+2. The cantilever evaluation system (20) according to claim 1,
+</P>
+<P>
+characterized in that the controller (21) further includes a forced-vibration setting section (32) and a frequency characteristic calculating section (36),
+</P>
+<P>
+the forced-vibration setting section (32) successively changes the frequency of the forced-vibration, and
+</P>
+<P>
+the frequency characteristic calculating section (36) calculates the amplitude of the distal end (12) for each of the frequencies and outputs the frequency characteristics of the vibration of the distal end (12).
+</P>
+<P>
+3. The cantilever evaluation system (20) according to claim 1 or 2,
+</P>
+<P>
+characterized in that the distal end (12) is provided with a probe (13),
+</P>
+<P>
+a sample to be measured is placed on a substrate,
+</P>
+<P>
+the probe (13) is used to tap the sample to be measured,
+</P>
+<P>
+the controller (21) further includes an action force calculating section (43),
+</P>
+<P>
+the action force calculating section (43) calculates an action force (Fin) that the probe (13) receives at the grid point of the distal end (12) from at least one of the sample to be measured and the substrate (S1-3), and
+</P>
+<P>
+the controller (21) calculates the equation of motion for the one-dimensional structure (C) with the action force (Fin) acting thereon (S1-4).
+</P>
+<P>
+4. The cantilever evaluation system (20) according to any one of claims 1 to 3, characterized by a distal end inclination angle calculating section (37) and a reflected spot position calculating section (37),
+</P>
+<P>
+the distal end inclination angle calculating section (37) uses the coordinate of the grid point of the distal end (12) and the coordinate of the grid point adjacent to the grid point of the distal end (12) to calculate the inclination angle of the distal end (12), and
+</P>
+<P>
+the reflected spot position calculating section (37) uses the coordinate of the grid point of the distal end (12) and the inclination angle of the distal end (12) to identify the reflection path of laser light with which the grid point of the distal end (12) is illuminated so as to calculate the position of the reflected laser spot (S1-5).
+</P>
+<P>
+5. A cantilever evaluation method for causing a computer (20) to calculate vibration characteristics of a cantilever (C), the computer (20) including a parameter storage (22), a grid coordinate data storage (24), and a fluid distribution data storage (23), the cantilever (C) having a proximal end (11) and a distal end (12), the method being characterized by:
+</P>
+<P>
+storing in the parameter storage (22) a structural parameter based on the shape of the cantilever (C), a material physical property value of the material of the cantilever (C), and a fluid physical property value of fluid around the cantilever (C) (S1-1);
+</P>
+<P>
+storing data on displacement of each grid point in the grid coordinate data storage (24), the grid points distributed along the longitudinal direction of a one-dimensional structure (C) into which the cantilever (C) is modeled;
+</P>
+<P>
+storing data on the distribution of the fluid in each of a plurality of vertical planes in the fluid distribution data storage (23), the vertical planes each containing one or more of the grid points and being perpendicular to the longitudinal direction:
+</P>
+<P>
+storing displacement of the proximal end (11) produced when a forced vibration is applied to the proximal end (11) in the grid coordinate data storage (24) for each of a plurality of time steps, the plurality of time steps including a preceding time step, a current time step, and a subsequent time step in which order time elapses;
+</P>
+<P>
+identifying a grid point to be computed from the plurality of grid points, the vertical plane containing the grid point to be computed being a plane to be computed;
+</P>
+<P>
+the method further including, for the identified grid point:
+</P>
+<P>
+acquiring the displacement of the grid point at the preceding time step from the grid coordinate data storage (24), using the acquired displacement as a boundary condition, and using the fluid physical property value and the corresponding fluid distribution stored in the fluid distribution data storage (23) to calculate the fluid distribution in the plane to be computed (S1-2, S2-3);
+</P>
+<P>
+using the fluid distribution in the plane to be computed and the fluid physical property value to calculate a fluid drag force (Fliq) (S2-6);
+</P>
+<P>
+calculating the coordinate of the grid point to be computed by using the fluid drag force (Fliq), the structural parameter, and the material physical property value to calculate the equation of motion for the one-dimensional structure (C), and storing the calculated coordinate in the grid coordinate data storage (24) (S1-4, S3-2), and
+</P>
+<P>
+repeatedly calculating the coordinate for each grid point to be computed.
+</P>
+<P>
+6. A cantilever evaluation program causing a computer (20) to calculate vibration characteristics of a cantilever (C), the computer (20) including a parameter storage (22), a grid coordinate data storage (24), and a fluid distribution data storage (23), the cantilever (C) having a proximal end (11) and a distal end (12), the cantilever evaluation program characterized by causing the computer (20) to carry out:
+</P>
+<P>
+storing in the parameter storage (22) a structural parameter based on the shape of the cantilever (C), a material physical property value of the material of the cantilever (C), and a fluid physical property values of fluid around the cantilever (C) (S1-1);
+</P>
+<P>
+storing data on displacement of each grid point in the grid coordinate data storage (24), the grid points distributed along the longitudinal direction of a one-dimensional structure (C) into which the cantilever (C) is modeled;
+</P>
+<P>
+storing data on the distribution of the fluid in each of a plurality of vertical planes in the fluid distribution data storage (23), the vertical planes each containing one or more of the grid points and being perpendicular to the longitudinal direction;
+</P>
+<P>
+storing displacement of the proximal end (11) produced when a forced vibration is applied to the proximal end (11) in the grid coordinate data storage (24) for each of a plurality of time steps, the plurality of time steps including a preceding time step, a current time step, and a subsequent time step in which order time elapses;
+</P>
+<P>
+identifying a grid point to be computed from the plurality of grid points, the vertical plane containing the grid point to be computed being a plane to be computed:
+</P>
+<P>
+the program further causing the computer (20) to carry out, for the identified grid point:
+</P>
+<P>
+acquiring the displacement of the grid point at the preceding time step from the grid coordinate data storage (24), using the acquired displacement as a boundary condition, and using the fluid physical property value and the corresponding fluid distribution stored in the fluid distribution data storage (23) to calculate the fluid distribution in the plane to be computed (S1-2, S2-3);
+</P>
+<P>
+using the fluid distribution in the plane to be computed and the fluid physical property value to calculate a fluid drag force (Fliq) (S2-6);
+</P>
+<P>
+calculating the coordinate of the grid point to be computed by using the fluid drag force (Fliq), the structural parameter, and the material physical property value to calculate the equation of motion for the one-dimensional structure (C), and storing the calculated coordinate in the grid coordinate data storage (24) (S1-4, S3-2); and
+</P>
+<P>
+repeatedly calculating the coordinate for each grid point to be computed.
+</P>
+</Claims>
+<Also_published_as>
+US2010204968A1;WO2009054417A1;JP2009109235A
+</Also_published_as>
+</BiblioData>

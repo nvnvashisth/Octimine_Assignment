@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PIEZOELECTRIC SLIP- STICK DRIVE
+</Title>
+<PublicationNumber>
+EP2162929A1
+</PublicationNumber>
+<Inventor>
+<Name>
+RYCHEN JOERG [CH]
+</Name>
+<Name>
+RYCHEN, JOERG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SPECS ZURICH GMBH [CH]
+</Name>
+<Name>
+SPECS ZURICH GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2162929
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070720178
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007CH00281
+</PriorityNumber>
+<PriorityDate>
+2007-06-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L41/04
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q10/02
+</Class>
+<Class>
+H02N2/06D2
+</Class>
+</NCL>
+<Abstract>
+The driver (10) for a piezoelectric slip-stick drive charges a capacitor (15) while applying a ramp voltage to a piezoelectric actuator (11) in such a manner that the charges on the capacitor (15) and the actuator (11) are equal but of opposite sign. At the end of the ramp, a switch (14) is used to connect the actuator (11) to the capacitor (15), which leads to a fast discharge.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. [Alpha] piezoelectric slip-stick drive comprising at least one piezoelectric actuator (11) and at least one driver (10) for applying a voltage to said actuator (11) , wherein said driver (10) is adapted to operate said actuator (11) in cycles, each cycle&amp;lt;&apos;&amp;gt; comprising a ramp phase (R) and a transition phase (T) , wherein, in said ramp phase (R) a voltage ovex said actuator (11) varies much more slowly than in said transition phase (T) , wherein said drive comprises a capacitor (15) and a switch (14) for connecting said capacitor (15) to said actuator (11) , thereby initiating a charge transfer between said actuator (11) and said capacitor (15) for generating said transition phase (T) , and wherein said driver (10) comprises a first output (12) for applying said voltage over said actuator (11) during said ramp phase (R) and a second output (13) for charging said capacitor (15) .
+</P>
+<P>
+2. The drive of claim 1 further comprising a first amplifier (3, 3&apos;) connected to said first output (12) and a second amplifier (4, 4&apos;) connected to said second output (13) .
+</P>
+<P>
+3. The drive of any of the claims 1 or 2 wherein, during said ramp phase (R) , a current through said first output (12) is opposite to a current through said second output (13) . 4. The drive of any of the preceding claims further comprising a measuring device (16, 18, R) measuring a current through said actuator (11) or a voltage over said actuator (11) .
+</P>
+<P>
+5. The drive of claim 4 comprising a current source (4) connected to said second output (13), wherein, during said ramp phase (R) , said current source (4) gen-erates a current equal magnitude as but of opposite sign to the current measured by said measuring device.
+</P>
+<P>
+6. A method for operating a slip-stick drive comprising at least one actuator (11), wherein said ac- tuator (11) is operated in cycles, each cycle comprising a ramp phase (R) and a transition phase (T) , wherein, in said ramp phase (R) a voltage over said actuator (11) varies much more slowly than in said transition phase (T) , said method comprising the steps of during said ramp phase (R) , charging said actuator (11) with a first charge and charging a capacitor (15) with a second charge, and during said transition phase (T) , connecting said actuator (11) to said capacitor (15) , thereby initi- ating a charge transfer between said actuator (11) and said capacitor (15) for generating a voltage step over said actuator (11) .
+</P>
+<P>
+7. The method of claim 6 wherein, in said ramp phase (R) , said actuator (11) - and said capacitor (15) are charged with equal but opposite charges.
+</P>
+<P>
+8. The method of any of the claims 6 or 7 wherein at least part of said cycles comprise an initialization phase (I) prior to said ramp phase (R) , wherein, during at least part of said initialization phase, said actuator (11) and said capacitor (15) are connected and a desired starting voltage is applied over the actuator (11) and the capacitor (15) .
+</P>
+<P>
+9. The method of any of the claims 6 to 8 wherein, during said ramp phase (R) , a current that is equal to but opposite to a current fed to said actuator (11) is fed to said capacitor (15) .
+</P>
+<P>
+10. The method of any of the claims 6 to 9 comprising the step of measuring the current through or a voltage over said actuator (11) during said ramp phase (R) -
+</P>
+<P>
+11. The method of claim 10 wherein the measured current through or voltage over said actuator (11) is used to determine at least one parameter from the following group: a) a temperature of said actuator (11) , b) a depolarization of said actuator (11) , and c) an undesired discharge in said actuator
+</P>
+<P>
+(11) -
+</P>
+<P>
+12. Use of the drive or the method of any of the preceding claims for positioning applications in scanning probe microscopy.
+</P>
+</Claims>
+<Also_published_as>
+EP2162929B1;WO2008148224A1;ES2370157T3;AT519235T
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Suspended-gate MOS transistor with non- volatile operation by piezoelectric activation and manufacturing method thereof
+</Title>
+<PublicationNumber>
+EP2014611A2
+</PublicationNumber>
+<Inventor>
+<Name>
+COLLONGE MICHAEL [FR]
+</Name>
+<Name>
+THOMAS OLIVIER [FR]
+</Name>
+<Name>
+VINET MAUD [FR]
+</Name>
+<Name>
+COLLONGE, MICHAEL
+</Name>
+<Name>
+THOMAS, OLIVIER
+</Name>
+<Name>
+VINET, MAUD
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE ET AUX ENERGIESALTERNATIVES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2014611
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080159904
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+FR20070056347
+</PriorityNumber>
+<PriorityDate>
+2007-07-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81B3/00
+</Class>
+<Class>
+B81B7/02
+</Class>
+<Class>
+G11C23/00
+</Class>
+<Class>
+H01L21/28
+</Class>
+<Class>
+H01L21/336
+</Class>
+<Class>
+H01L29/423
+</Class>
+<Class>
+H01L29/49
+</Class>
+<Class>
+H01L29/51
+</Class>
+<Class>
+H01L29/68
+</Class>
+<Class>
+H01L29/78
+</Class>
+<Class>
+H01L27/20
+</Class>
+<Class>
+H01L41/09
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C23/00
+</Class>
+<Class>
+H01L29/51C
+</Class>
+</NCL>
+<Abstract>
+The device has a metal oxide semiconductor transistor comprising a semi-conducting zone (102) of a channel covering a dielectric zone (111) of a gate on silicon on insulator type substrate (100). A movable gate (116) is suspended above and separated from a gate dielectric. The gate and the dielectric zone are separated by an empty space (170). The gate is situated at adjustable distance from the dielectric zone. A piezoelectric actuating unit moves the gate with respect to a channel zone, and includes stackings (120) formed from a piezoelectric material layer resting on lower electrode (122). An independent claim is also included for a method for forming a microelectronic device equipped with movable suspended gate transistor and piezoelectric activation.
+</Abstract>
+<Claims>
+<P>
+1. Dispositif microélectronique comprenant au moins un transistor comportant :
+</P>
+<P>
+- sur un substrat, une zone semi-conductrice (102, 202) de canal recouverte d&apos;une zone (111, 211) de diélectrique de grille,
+</P>
+<P>
+- une grille (116, 216) mobile, suspendue au-dessus du diélectrique de grille et disjointe du diélectrique de grille, la grille (116, 216) et la zone diélectrique (111, 211) de grille étant séparées par un espace vide (170, 270), la grille étant située à une distance ajustable de ladite zone de diélectrique de grille,
+</P>
+<P>
+- des moyens d&apos;actionnement piézoélectriques, les moyens d&apos;actionnement piézoélectriques étant aptes à déplacer la grille par rapport à ladite zone de canal.
+</P>
+<P>
+2. Dispositif microélectronique selon la revendication 1, dans lequel les moyens d&apos;actionnement piézoélectriques comprennent un empilement (120, 220) formé d&apos;au moins une couche de matériau piézoélectrique (125, 225) reposant sur une première électrode (122, 222) de polarisation, une deuxième électrode (128, 228) de polarisation reposant sur la couche de matériau piézoélectrique, la grille (116, 216) étant rattachée audit empilement (120, 220) et en contact avec, ladite première électrode (122, 222).
+</P>
+<P>
+3. Dispositif microélectronique selon l&apos;une des revendications 1 ou 2, dans lequel la grille est située dans une cavité (180, 280) formée entre ledit empilement (120, 220) et ledit substrat.
+</P>
+<P>
+4. Dispositif microélectronique selon l&apos;une des revendications 1 à 3, comprenant en outre au moins un élément isolant (231, 231b, 231c) dit de soutien , autour dudit empilement (120, 220), et apte à maintenir ledit empilement au-dessus du substrat, ou plusieurs éléments isolants (231b, 231c) de soutien dudit empilement, dont au moins un élément de soutien (231b) contre un flanc dudit empilement et au moins un autre élément de soutien (231c) contre un autre flanc dudit empilement, ledit empilement (120, 220) comprenant une ou plusieurs faces latérales ou flancs, libres.
+</P>
+<P>
+5. Dispositif microélectronique selon l&apos;une des revendications 1 à 4, comprenant en outre : une pluralité de plots conducteurs dont,
+</P>
+<P>
+- au moins un premier plot conducteur (253, 353, 453) connecté à la région de source (204) dudit transistor,
+</P>
+<P>
+- au moins un deuxième plot conducteur (255, 355, 455) connecté à la région de drain (206) dudit transistor,
+</P>
+<P>
+- au moins un troisième plot conducteur (257, 357, 457) connecté à la grille dudit transistor, le troisième plot étant en contact avec la première électrode (222) ou avec la grille (216).
+</P>
+<P>
+6. Dispositif microélectronique selon la revendication 5, comprenant en outre : au moins un quatrième plot conducteur (249) connecté avec la deuxième électrode (228).
+</P>
+<P>
+7. Dispositif microélectronique selon la revendication 6, dans lequel ledit premier plot (253) ou ledit deuxième plot (255), est également connecté à la deuxième électrode (228).
+</P>
+<P>
+8. Dispositif microélectronique selon l&apos;une des revendications 1 à 7, dans lequel le transistor a une tension de seuil variable, susceptible de varier par déplacement de la grille (116, 216) mobile à l&apos;aide des moyens d&apos;actionnement piézoélectriques, le dispositif étant apte à adopter au moins une première position dans laquelle la grille (116) est située à une première distance du canal, et à adopter au moins une deuxième position dans laquelle la grille est située à une deuxième distance du canal, différente de la première distance.
+</P>
+<P>
+9. Dispositif microélectronique selon la revendication 8, dans lequel dans la première position la couche piézoélectrique (125, 225) est dans une position, dite de repos dans laquelle la couche piézoélectrique est plane ou sensiblement plane, la grille (116, 216) étant à une distance prédéterminée non-nulle du canal dite distance de repos , et dans lequel dans la deuxième position, la couche piézoélectrique (125, 225) est fléchie, la grille (116, 216) étant en contact avec la zone de diélectrique (111, 211) de grille.
+</P>
+<P>
+10. Dispositif microélectronique selon l&apos;une des revendications 8 ou 9, comprenant en outre des moyens d&apos;alimentation aptes à alimenter le transistor et les moyens d&apos;actionnement, le dispositif étant apte à adopter une position donnée parmi lesdites première position et deuxième position, et apte en outre à maintenir la grille dans ladite position donnée après arrêt ou extinction desdits moyens d&apos;alimentation.
+</P>
+<P>
+11. Dispositif microélectronique selon l&apos;une des revendications 8 à 10, apte à adopter un état dans lequel, les moyens d&apos;actionnement piézoélectriques sont mis dans un état de polarisation donné, et dans lequel la grille (116, 216) est mise en contact avec le diélectrique (111, 211) de grille à l&apos;aide des moyens d&apos;actionnement piézoélectriques en contact, le dispositif étant apte à adopter un autre état dans lequel les moyens d&apos;actionnement piézoélectriques ne sont pas polarisés, et dans lequel la grille (116, 216) est maintenue par des forces d&apos;adhésion ou de collage moléculaire en contact avec le diélectrique (111, 211) de grille.
+</P>
+<P>
+12. Dispositif microélectronique selon la revendication 11, le dispositif étant apte à adopter un état dans lequel les moyens d&apos;actionnement piézoélectriques sont mis dans un état de polarisation donné, permettant de décoller la grille (116, 216) du diélectrique (111, 211) de grille.
+</P>
+<P>
+13. Cellule de mémoire non volatile comprenant au moins un dispositif microélectronique selon l&apos;une des revendications 1 à 12.
+</P>
+<P>
+14. Procédé de réalisation d&apos;un dispositif microélectronique doté d&apos;au moins un transistor à grille (216) mobile suspendue et à actionnement piézoélectrique, comprenant les étapes de :
+</P>
+<P>
+a) formation sur un substrat (200) d&apos;au moins une zone semi-conductrice dans laquelle des zones de source (204), de drain (206) et de canal (205) d&apos;un transistor sont destinées à être formées, et d&apos;une zone de diélectrique (211) de grille recouvrant ladite zone semi-conductrice (205),
+</P>
+<P>
+b) formation d&apos;au moins une première couche sacrificielle (213) sur ladite zone de diélectrique (211) de grille,
+</P>
+<P>
+c) formation d&apos;une grille (216) pour ledit transistor sur ladite couche sacrificielle (213),
+</P>
+<P>
+d) formation sur la grille (216) d&apos;un empilement (220) comprenant au moins une première couche conductrice (222) destinée à former une première électrode, au moins une couche de matériau piézoélectrique (225) reposant sur ladite première couche conductrice, et au moins une deuxième couche conductrice (228) sur ladite couche de matériau piézoélectrique et destinée à former une deuxième électrode, ledit empilement (220) étant destiné à la formation de moyens d&apos;actionnement piézoélectriques,
+</P>
+<P>
+e) retrait au moins partiel de ladite couche sacrificielle (213) sur la zone de diélectrique (211) de grille, de manière à détacher la grille (216) du diélectrique (211) de grille.
+</P>
+<P>
+15. Procédé selon la revendication 14, comprenant après l&apos;étape c) et préalablement à l&apos;étape e), les étapes de :
+</P>
+<P>
+- formation d&apos;une deuxième couche sacrificielle (219) autour de la grille (216), sur laquelle ledit empilement (220) est destiné à être réalisé, puis, après l&apos;étape d) :
+</P>
+<P>
+- gravure dudit empilement (220) et de la deuxième couche sacrificielle (219), de manière à former au moins un bloc.
+</P>
+<P>
+16. Procédé selon l&apos;une des revendications 14 ou 15, comprenant après l&apos;étape c) et préalablement à l&apos;étape d), la gravure de la couche isolante (231) de soutien de manière à conserver au moins un premier élément de soutien (231b) contre au moins une première face latérale dudit empilement (220), et au moins un deuxième élément de soutien (231c) contre au moins une deuxième face latérale dudit empilement (220), la gravure de la couche isolante (231) de soutien, étant réalisée de manière à libérer les deux autres faces latérales dudit empilement (220).
+</P>
+<P>
+17. Procédé selon l&apos;une des revendications 14 à 16, comprenant après l&apos;étape d) et préalablement à l&apos;étape e), la réalisation d&apos;au moins une ouverture dévoilant la couche sacrificielle (213) et la deuxième couche sacrificielle (219), l&apos;étape e) comprenant : le retrait, à travers ladite ouverture de la première couche sacrificielle (213) et de la deuxième couche sacrificielle (219).
+</P>
+<P>
+18. Procédé selon l&apos;une des revendications 14 à 17, la première couche sacrificielle étant à base d&apos;un matériau apte à être gravé de manière sélective au moins vis-à-vis, de la grille et du diélectrique de grille ou/et la deuxième couche sacrificielle étant à base d&apos;un matériau susceptible apte à être gravé de manière sélective au moins vis-à-vis, de la grille et du diélectrique de grille ou/et la première couche sacrificielle (213), et la deuxième couche sacrificielle (219) étant à base du même matériau.
+</P>
+</Claims>
+<Also_published_as>
+EP2014611A3;EP2014611B1;US2009014769A1;US7812410B2;FR2918796A1;AT523466T
+</Also_published_as>
+</BiblioData>

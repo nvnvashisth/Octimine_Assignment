@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Memory element array comprising a switching element with a nanogap and a tunnel element
+</Title>
+<PublicationNumber>
+EP2006912A2
+</PublicationNumber>
+<Inventor>
+<Name>
+FURUTA SHIGEO [JP]
+</Name>
+<Name>
+MASUDA YUICHIRO [JP]
+</Name>
+<Name>
+TAKAHASHI TSUYOSHI [JP]
+</Name>
+<Name>
+ONO MASATOSHI [JP]
+</Name>
+<Name>
+FURUTA, SHIGEO
+</Name>
+<Name>
+MASUDA, YUICHIRO
+</Name>
+<Name>
+TAKAHASHI, TSUYOSHI
+</Name>
+<Name>
+ONO, MASATOSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FUNAI ELECTRIC CO [JP]
+</Name>
+<Name>
+FUNAI EAA TECH RES INST INC [JP]
+</Name>
+<Name>
+FUNAI ELECTRIC CO., LTD
+</Name>
+<Name>
+FUNAI ELECTRIC ADVANCED APPLIED TECHNOLOGY RESEARCH INSTITUTE INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2006912
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080010468
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070165383
+</PriorityNumber>
+<PriorityDate>
+2007-06-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L27/24
+</Class>
+<Class>
+H01L45/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C11/16
+</Class>
+<Class>
+G11C13/00R25C
+</Class>
+<Class>
+H01L27/10C
+</Class>
+<Class>
+H01L27/24D2
+</Class>
+</NCL>
+<Abstract>
+Disclosed is a memory element array (100) comprising a plurality of memory elements arranged in an array, wherein the memory elements are switching elements (70) each including a gap (71) of nanometer order in which a switching phenomenon of resistance is caused by applying a predetermined voltage between electrodes, and the memory element array is provided with tunnel elements (40) respectively connected to the switching elements in series, each of the tunnel elements preventing generation of a sneak path current flowing to another switching element at a time of applying the predetermined voltage.
+</Abstract>
+<Claims>
+<P>
+1. A memory element array comprising a plurality of memory elements arranged in an array, wherein
+</P>
+<P>
+the memory elements are switching elements each including a gap of nanometer order in which a switching phenomenon of resistance is caused by applying a predetermined voltage between electrodes, and
+</P>
+<P>
+the memory element array is provided with tunnel elements respectively connected to the switching elements in series, each of the tunnel elements preventing generation of a sneak path current flowing to another switching element at a time of applying the predetermined voltage.
+</P>
+<P>
+2. The memory element array according to Claim 1, wherein the switching elements and the tunnel elements are connected with each other through conductive protection films respectively.
+</P>
+<P>
+3. A memory element array comprising a plurality of memory elements arranged in an array, wherein
+</P>
+<P>
+the memory elements are switching elements each including a gap of nanometer order in which a switching phenomenon of resistance is caused by applying a predetermined voltage between electrodes,
+</P>
+<P>
+the memory element array is provided with tunnel elements respectively connected to the switching elements in series, each of the tunnel elements preventing generation of a sneak path current flowing to another switching element at a time of applying the predetermined voltage, and
+</P>
+<P>
+the switching elements and the tunnel elements are arranged to be aligned in a vertical direction, and to be connected with each other through conductive protection films respectively.
+</P>
+</Claims>
+<Also_published_as>
+EP2006912A3;US2008316797A1;US7679946B2;KR20080112976A;JP2009004641A;CN101330093A;CN101330093B
+</Also_published_as>
+</BiblioData>

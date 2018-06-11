@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PRODUCTION OF METAL NANOPARTICLES FROM PRECURSORS HAVING LOW REDUCTION POTENTIALS
+</Title>
+<PublicationNumber>
+EP2024119A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KIM HYUNGRAK [US]
+</Name>
+<Name>
+KIM, HYUNGRAK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CABOT CORP [US]
+</Name>
+<Name>
+CABOT CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2024119
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070784258
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-31
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US70153
+</PriorityNumber>
+<PriorityDate>
+2007-05-31
+</PriorityDate>
+<PriorityNumber>
+US20060443262
+</PriorityNumber>
+<PriorityDate>
+2006-05-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B22F1/02
+</Class>
+<Class>
+B22F9/24
+</Class>
+</IPC>
+<NCL>
+<Class>
+B22F1/00A2B4
+</Class>
+<Class>
+B22F1/02B
+</Class>
+<Class>
+B22F9/24
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H05K1/09D4
+</Class>
+</NCL>
+<Abstract>
+Metallic nanoparticles and processes for forming metallic nanoparticles. In one aspect, the invention is to a process for forming nanoparticles comprising the step of heating a solution comprising a first metal precursor and a nucleating agent (e.g., nucleate nanoparticles or a nucleate precursor) in the presence of a base under conditions effective to form the nanoparticles. The first metal precursor preferably comprises a cationic metal species having a low reduction potential. The invention is also to a nanoparticle or plurality of nanoparticles, each nanoparticle comprising a core having a largest dimension less than about 10 nm;  and a metal layer substantially surrounding the core and having a largest dimension less than about 200 nm.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A nanoparticle, comprising:
+</P>
+<P>
+(a) a core having a largest dimension less than about 10 nm; and (b) a metal layer substantially surrounding the core and having a largest dimension less than about 200 nm.
+</P>
+<P>
+2. The nanoparticle of claim 1, wherein the metal layer comprises a metal having a cationic form with a reduction potential less than about 0.6 V.
+</P>
+<P>
+3. The nanoparticle of claim 2, wherein the metal has a cationic form with a reduction potential less than about 0.3 V.
+</P>
+<P>
+4. The nanoparticle of claim 3, wherein the metal has a cationic form with a reduction potential less than about 0 V.
+</P>
+<P>
+5. The nanoparticle of claim 1, wherein the metal layer comprises a metal selected from the group consisting of: nickel, copper, cobalt, iron, and chromium.
+</P>
+<P>
+6. The nanoparticle of claim 1, wherein the core comprises either a metal selected from the group consisting of silver, copper, platinum, palladium and gold or an oxide selected from the group consisting of silica, titania, alumina and zirconia or metal alloy selected from Ag/Pt, Ag/Pd, Ag/Au.
+</P>
+<P>
+7. The nanoparticle of claim 1, wherein the metal layer has a surface and the nanoparticle further comprises a dispersing agent disposed on at least a portion of the surface of the metal layer.
+</P>
+<P>
+8. The nanoparticle of claim 7, wherein the dispersing agent comprises PVP.
+</P>
+<P>
+9. The nanoparticle of claim 1, wherein the nanoparticle is part of an aggregate of nanoparticles, the aggregate having a particle size of from about 1 [mu]m to about 5 [mu]m.
+</P>
+<P>
+10. The nanopaiticle of claim 1, wherein the metal layer comprises an alloy.
+</P>
+<P>
+11. The nanoparticle of claim 1, wherein the nanoparticles are quasi-spherical.
+</P>
+<P>
+12. A powder comprising a plurality of the nanoparticles of claim 1.
+</P>
+<P>
+13. An ink comprising a plurality of the nanoparticles of claim 1 and a liquid vehicle.
+</P>
+<P>
+14. A process for forming nanoparticles comprising the step of heating a solution comprising a first metal precursor and a nucleating agent in the presence of a base under conditions effective to form the nanoparticles.
+</P>
+<P>
+15. The process of claim 14, wherein the first metal precursor comprises a cationic metal species having a reduction potential less than about 0.6 V.
+</P>
+<P>
+16. The process of claim 15, wherein the cationic metal species has a reduction potential less than about 0.3 V.
+</P>
+<P>
+17. The process of claim 16, wherein the cationic metal species has a reduction potential less than about 0 V.
+</P>
+<P>
+18. The process of claim 14, wherein the first metal precursor comprises a metal selected from the group consisting of: nickel, copper, cobalt, iron, and chromium.
+</P>
+<P>
+19. The process of claim 14, wherein the first metal precursor is selected from the group consisting of nickel nitrate, nickel acetate, copper nitrate, copper acetate, cobalt nitrate, cobalt acetate, iron nitrate and iron acetate.
+</P>
+<P>
+20. The process of claim 14, wherein the first metal precursor comprises a first metal, wherein the solution further comprises a second metal precursor to a second metal, and wherein the nanoparticles comprise an alloy of the first metal and the second metal.
+</P>
+<P>
+21. The process of claim 14, wherein the base is selected from the group consisting of sodium hydroxide, potassium hydroxide, ammonium hydroxide, and an organic base.
+</P>
+<P>
+22. The process of claim 14, wherein the solution further comprises a solvent selected from the group consisting of a polyol, ethylene glycol, propylene glycol, 1,3- propanediol, and combinations thereof.
+</P>
+<P>
+23. The process of claim 14, wherein the nucleating agent comprises a nucleate nanoparticle comprising either a metal selected from the group consisting of silver, copper, platinum, palladium and gold or an oxide selected from the group consisting of: silica, titania, alumina and zirconia or metal alloy selected from Ag/Pt, Ag/Pd, Ag/Au.
+</P>
+<P>
+24. The process of claim 14, wherein the nucleating agent comprises a nucleate precursor having a reduction potential that is greater than the reduction potential of the first metal precursor.
+</P>
+<P>
+25. The process of claim 14, wherein the nucleating agent comprises a nucleate precursor having reduction potential that is at least 0.2 V greater than the reduction potential of the first metal precursor.
+</P>
+<P>
+26. The process of claim 25, wherein the reduction potential of the nucleate precursor is at least 0.4 V greater than the reduction potential of the first metal precursor.
+</P>
+<P>
+27. The process of claim 26, wherein the reduction potential of the nucleate precursor is at least 0.6 V greater than the reduction potential of the first metal precursor.
+</P>
+<P>
+28. The process of claim 14, wherein the heating increases the temperature of the solution to a maximum temperature ranging from about 150&amp;lt;0&amp;gt;C to about 200&amp;lt;0&amp;gt;C.
+</P>
+<P>
+29. The process of claim 28, wherein the heating comprises maintaining the maximum temperature for a period of time ranging from about 5 minutes to about 90 minutes.
+</P>
+<P>
+30. The process of claim 14, wherein the process further comprises the step of adding a dispersing agent to the solution.
+</P>
+<P>
+31. The process of claim 30, wherein the dispersing agent comprises PVP.
+</P>
+<P>
+32. The process of claim 14, wherein the solution is cooled, after the heating, at a rate of from about 5[deg.]C/minute to about 50[deg.]C/minute to room temperature.
+</P>
+<P>
+33. The process of claim 14, wherein the nanoparticles have an average particle size of less than about 200 nm.
+</P>
+<P>
+34. The process of claim 33, wherein the nanoparticles have an average particle size of less than about 150 nm.
+</P>
+<P>
+35. The process of claim 34, wherein the nanoparticles have an average particle size of less than about 100 nm.
+</P>
+<P>
+36. The process of claim 14, wherein the nanoparticles have an average particle size of less than about 200 nm, and the nanoparticles are aggregated to form aggregates having an average particle size of from about 1 [mu]m to about 5 [mu]m.
+</P>
+<P>
+37. The process of claim 14, wherein the nanoparticles are quasi-spherical.
+</P>
+<P>
+38. A process for forming nanoparticles, the process comprising the steps of:
+</P>
+<P>
+(a) providing a solution comprising a first metal precursor to a first metal, a base, a and a solvent;
+</P>
+<P>
+(b) heating the solution;
+</P>
+<P>
+(c) adding a nucleating agent to the solution; and (d) adding a dispersing agent to the solution; wherein the process forms nanoparticles comprising the first metal.
+</P>
+<P>
+39. The process of claim 38, wherein step (c) occurs before step (b).
+</P>
+<P>
+40. The process of claim 38, wherein step (c) occurs during step (b).
+</P>
+<P>
+41. The process of claim 38, wherein step (d) occurs during step (b).
+</P>
+<P>
+42. The process of claim 38, wherein step (d) occurs after step (b).
+</P>
+<P>
+43. The process of claim 38, wherein the first metal precursor comprises a cationic metal species having a reduction potential less than about 0.6 V.
+</P>
+<P>
+44. The process of claim 43, wherein the cationic metal species has a reduction potential less than about 0.3 V.
+</P>
+<P>
+45. The process of claim 44, wherein the cationic metal species has a reduction potential less than about 0 V.
+</P>
+<P>
+46. The process of claim 38, wherein the first metal is selected from the group consisting of: nickel, copper, cobalt, iron, and chromium.
+</P>
+<P>
+47. The process of claim 38, wherein the first metal precursor is selected from the group consisting of nickel nitrate, nickel acetate, copper nitrate, copper acetate, cobalt nitrate, cobalt acetate, iron nitrate and iron acetate.
+</P>
+<P>
+48. The process of claim 38, wherein the solution further comprises a second metal precursor to a second metal, and wherein the nanoparticles comprise an alloy of the first metal and the second metal.
+</P>
+<P>
+49. The process of claim 38, wherein the base is selected from the group consisting of sodium hydroxide, potassium hydroxide, ammonium hydroxide and an organic base.
+</P>
+<P>
+50. The process of claim 38, wherein the solvent is selected from the group consisting of a polyol, ethylene glycol, propylene glycol, 1,3-propanediol, and combinations thereof.
+</P>
+<P>
+51. The process of claim 38, wherein the nucleating agent comprises either a metal selected from the group consisting of: silver, copper, platinum, palladium and gold or an oxide selected from the group consisting of: silica, titania, alumina and zirconia or metal alloy selected from Ag/Pt, Ag/Pd, Ag/ Au.
+</P>
+<P>
+52. The process of claim 38, wherein the nucleating agent comprises a nucleate precursor having a reduction potential that is greater than the reduction potential of the first metal precursor.
+</P>
+<P>
+53. The process of claim 38, wherein the nucleating agent comprises a nucleate precursor having reduction potential that is at least 0.2 V greater than the reduction potential of the first metal precursor.
+</P>
+<P>
+54. The process of claim 53, wherein the reduction potential of the nucleate precursor is at least 0.4 V greater than the reduction potential of the first metal precursor.
+</P>
+<P>
+55. The process of claim 54, wherein the reduction potential of the nucleate precursor is at least 0.6 V greater than the reduction potential of the first metal precursor.
+</P>
+<P>
+56. The process of claim 38, wherein the heating increases the temperature of the solution to a maximum temperature ranging from about 150&amp;lt;0&amp;gt;C to about 200&amp;lt;0&amp;gt;C.
+</P>
+<P>
+57. The process of claim 38, wherein the heating comprises maintaining the maximum temperature for a period of time ranging from about 5 minutes to about 90 minutes.
+</P>
+<P>
+58. The process of claim 38, wherein the dispersing agent comprises PVP.
+</P>
+<P>
+59. The process of claim 38, wherein the solution is cooled, after the heating, at a rate of from about 5[deg.]C/minute to about 50[deg.]C/minute to room temperature.
+</P>
+<P>
+60. The process of claim 38, wherein the nanoparticles have an average particle size of less than about 200 nm.
+</P>
+<P>
+61. The process of claim 60, wherein the nanoparticles have an average particle size of less than about 150 nm.
+</P>
+<P>
+62. The process of claim 61, wherein the nanoparticles have an average particle size of less than about 100 nm.
+</P>
+<P>
+63. The process of claim 38, wherein the nanoparticles have an average particle size of less than about 200 nm, and the nanoparticles are aggregated to form aggregates having an average particle size of from about 1 [mu]m to about 5 [mu]m.
+</P>
+<P>
+64. The process of claim 38, wherein the nanoparticles are quasi-spherical.
+</P>
+</Claims>
+<Also_published_as>
+WO2007140479A1;US2007290175A1;US7625637B2
+</Also_published_as>
+</BiblioData>

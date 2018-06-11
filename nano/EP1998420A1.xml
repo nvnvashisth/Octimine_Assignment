@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+2-DIMENSIONAL PHOTONIC CRYSTAL SURFACE EMITTING LASER LIGHT SOURCE
+</Title>
+<PublicationNumber>
+EP1998420A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SAKAI KYOSUKE [JP]
+</Name>
+<Name>
+MIYAI EIJI [JP]
+</Name>
+<Name>
+NODA SUSUMU [JP]
+</Name>
+<Name>
+OHNISHI DAI [JP]
+</Name>
+<Name>
+KUNISHI WATARU [JP]
+</Name>
+<Name>
+SAKAI, KYOSUKE
+</Name>
+<Name>
+MIYAI, EIJI
+</Name>
+<Name>
+NODA, SUSUMU
+</Name>
+<Name>
+OHNISHI, DAI
+</Name>
+<Name>
+KUNISHI, WATARU
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV KYOTO [JP]
+</Name>
+<Name>
+ROHM CO LTD [JP]
+</Name>
+<Name>
+KYOTO UNIVERSITY
+</Name>
+<Name>
+ROHM CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1998420
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070736925
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP00268
+</PriorityNumber>
+<PriorityDate>
+2007-03-20
+</PriorityDate>
+<PriorityNumber>
+JP20060077472
+</PriorityNumber>
+<PriorityDate>
+2006-03-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/125
+</Class>
+<Class>
+H01S5/18
+</Class>
+<Class>
+H01S5/10
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G11B7/127
+</Class>
+<Class>
+H01S5/125
+</Class>
+<Class>
+H01S5/18
+</Class>
+</NCL>
+<Abstract>
+An objective of the present invention is to provide a surface emitting laser capable of selectively generating a laser oscillation in the fundamental mode and thereby emitting a single-wavelength laser light. In a surface emitting laser including an active layer and a two-dimensional photonic crystal provided on one side of the active layer, a reflector 45 or 46 is provided at least at a portion of the circumference of the two-dimensional photonic crystal. The reflector has a reflectance distribution in which the reflectance has a maximum value at a position where the amplitude envelope of the fundamental mode of an internal resonance light created within the two-dimensional photonic crystal.;  This design strengthens the fundamental mode while suppressing the second mode, thus enabling the laser oscillation in the fundamental mode to be selectively obtained, so that a single-wavelength laser light can be emitted.
+</Abstract>
+<Claims>
+<P>
+1. A two-dimensional photonic crystal surface emitting laser light source, comprising:
+</P>
+<P>
+a) an active layer;
+</P>
+<P>
+b) a two-dimensional photonic crystal provided on one side of the active layer; and
+</P>
+<P>
+c) a reflector provided at least at a portion of a circumference of the two-dimensional photonic crystal, the reflector having a reflectance distribution in which a reflectance has a maximum value at a position where an amplitude envelope of a fundamental mode of an internal resonance light created within the two-dimensional photonic crystal has a maximum value.
+</P>
+<P>
+2. The two-dimensional photonic crystal surface emitting laser light source according to claim 1, wherein the reflector is created by providing a member for reflecting the internal resonance light only at one or more sections of a line surrounding the two-dimensional photonic crystal, each section including a position where the amplitude envelope of the fundamental mode has a maximum value.
+</P>
+<P>
+3. The two-dimensional photonic crystal surface emitting laser light source according to claim 1 or 2, wherein a portion of the reflector is located inside an outer edge of the two-dimensional photonic crystal.
+</P>
+<P>
+4. The two-dimensional photonic crystal surface emitting laser light source according to one of claims 1 to 3, wherein the two-dimensional photonic crystal has an outer edge that is at least partially curved at a position other than the position where the amplitude envelope of the fundamental mode has a maximum value.
+</P>
+<P>
+5. The two-dimensional photonic crystal surface emitting laser light source according to one of claims 1 to 4, wherein:
+</P>
+<P>
+the two-dimensional photonic crystal is a slab-shaped body in which a plurality of areas whose refractive index differs from that of the body are arranged in a square lattice pattern;
+</P>
+<P>
+the reflector is provided along a rectangle surrounding the two-dimensional photonic crystal; and
+</P>
+<P>
+the reflectance distribution has a maximum value at a central portion of each side of the rectangle.
+</P>
+<P>
+6. The two-dimensional photonic crystal surface emitting laser light source according to one of claims I to 5, wherein:
+</P>
+<P>
+the two-dimensional photonic crystal is created in a slab-shaped member;
+</P>
+<P>
+the reflector includes a plurality of grooves parallel to an outer edge of the two-dimensional photonic crystal; and
+</P>
+<P>
+the reflectance distribution is created by changing the number of the grooves.
+</P>
+<P>
+7. A two-dimensional photonic crystal surface emitting laser light source, comprising:
+</P>
+<P>
+a) an active layer;
+</P>
+<P>
+b) a two-dimensional photonic crystal provided on one side of the active layer; and
+</P>
+<P>
+c) a reflector provided at least at a portion of a circumference of the two-dimensional photonic crystal, the reflector being formed so that a change in a phase of light that occurs when the light is reflected by the reflector is greater than -0.5 and less than 0.5 .
+</P>
+<P>
+8. A super-resolution laser beam generator, comprising:
+</P>
+<P>
+the two-dimensional photonic crystal surface emitting laser light source according to claim 7; and
+</P>
+<P>
+a focusing lens for converging a laser beam generated by the two-dimensional photonic crystal surface emitting laser to a diameter equal to or smaller than a diffraction limit.
+</P>
+<P>
+9. An optical pickup, wherein the super-resolution laser beam generator according to claim 8 is provided as a light source.
+</P>
+<P>
+10. A laser-processing apparatus, wherein the two-dimensional photonic crystal surface emitting laser light source according to claim 7 is provided as a light source for irradiating a workpiece with light.
+</P>
+</Claims>
+<Also_published_as>
+EP1998420A4;US2009285255A1;US7936801B2;WO2007119273A1;JP2007258262A
+</Also_published_as>
+</BiblioData>

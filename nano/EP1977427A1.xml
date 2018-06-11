@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MIXED-SCALE ELECTRONIC INTERFACE
+</Title>
+<PublicationNumber>
+EP1977427A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SNIDER GREGORY S [US]
+</Name>
+<Name>
+WILLIAMS R STANLEY [US]
+</Name>
+<Name>
+SNIDER, GREGORY, S
+</Name>
+<Name>
+WILLIAMS, R., STANLEY
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1977427
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070709841
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US01988
+</PriorityNumber>
+<PriorityDate>
+2007-01-26
+</PriorityDate>
+<PriorityNumber>
+US20060342076
+</PriorityNumber>
+<PriorityDate>
+2006-01-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L27/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L27/28F
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+</NCL>
+<Abstract>
+Embodiments of the present invention are directed to mixed-scale electronic interfaces, included in integrated circuits and other electronic devices, that provide for dense electrical interconnection between microscale features of a predominantly microscale or submicroscale layer and nanoscale features of a predominantly nanoscale layer. The predominantly nanoscale layer, in one embodiment of the present invention, comprises a tessellated pattern of submicroscale or microscale pads densely interconnected by nanowire junctions between sets of parallel, closely spaced nanowire bundles. The predominantly submicroscale or microscale layer includes pins positioned complementarily to the submicroscale or microscale pads in the predominantly nanoscale layer.
+</Abstract>
+<Claims>
+<P>
+1. A nanoscale/microscale interface comprising:
+</P>
+<P>
+a predominantly microscale layer with a surface having regularly patterned pins; and
+</P>
+<P>
+a predominantly nanoscale layer comprising an ordered arrangement of pad-interconnected nanowire units, a first pad of a pad-interconnected nanowire unit overlying a first pin of the predominantly microscale layer to electrically interconnect the first pin to a second pin through a pad-interconnected nanowire unit overlying the second pin and connected to the first pad-interconnected nanowire unit through a conductive nanowire junction.
+</P>
+<P>
+2. The nanoscale/microscale interface of claim 1 wherein the pins have submicroscale or microscale dimensions.
+</P>
+<P>
+3. The nanoscale/microscale interface of claim 1 wherein the pads of the pad-interconnected nanowire units have submicroscale or microscale dimensions.
+</P>
+<P>
+4. The nanoscale/microscale interface of claim 1 wherein each pad-interconnected nanowire unit comprises a pad from which a number of nanowires emanate.
+</P>
+<P>
+5. The nanoscale/microscale interface of claim 4 wherein two nanowires emanate, in opposite directions, from the pad of each pad-interconnected nanowire unit.
+</P>
+<P>
+6. The nanoscale/microscale interface of claim 5 wherein the predominantly nanoscale layer includes a first sub-layer containing pad-interconnected nanowire units arranged to center the pads on parallel row lines at a fixed repeat distance, with each pad-interconnected nanowire unit rotated by a fixed angle [theta] with respect to the row line.
+</P>
+<P>
+7. The nanoscale/microscale interface of claim 6 wherein the nanowires of the pad-interconnected nanowire units centered on a row line form parallel, closely spaced bundles of nanowires.
+</P>
+<P>
+8. The nanoscale/microscale interface of claim 7 wherein the predominantly nanoscale layer includes a second sub-layer containing pad-interconnected nanowire units arranged to center the pads on parallel row lines at a fixed repeat distance, with each pad-interconnected nanowire unit rotated by a fixed angle [theta] with respect to the row line, the row lines of the second sub-layer oriented approximately orthogonally to the row lines of the first sub-layer.
+</P>
+<P>
+9. The nanoscale/microscale interface of claim 8 wherein pads of pad-interconnected nanowire units of the first and second sub-layers overlie pins of the predominately microscale layer, with pads of pad-interconnected nanowire units of the first sub-layer arranged to form grid points of a first rectilinear grid and pads of pad-interconnected nanowire units of the second sub-layer arranged to form grid points of a second rectilinear grid offset from the first rectilinear grid so that each pad of pad-interconnected nanowire units of the second sub-layer are positioned at the center of a first rectilinear-grid cell.
+</P>
+<P>
+10. The nanoscale/microscale interface of claim 9 wherein nanowire junctions at intersections between first sub-layer and second sub-layer pad-interconnected nanowire units are selectively configured to interconnect pairs of pins.
+</P>
+<P>
+11. An integrated circuit comprising the nanoscale/microscale interface of claim 1 with additional microscale or submicroscale logic elements and functional components within the predominantly microscale layer.
+</P>
+<P>
+12. A method for fabricating a nanoscale/microscale interface, the method comprising:
+</P>
+<P>
+providing a substrate with a surface having regularly patterned conductive pins; fabricating, by nanoimprinting, a first nanoscale sub-layer above the substrate composed of a regular pattern of pad-interconnected nanowire units with pads of the pad-interconnected nanowire units overlying pins of the substrate; and
+</P>
+<P>
+fabricating, by nanoimprinting, a second nanoscale sub-layer above the first nanoscale sub-layer with pads of the pad-interconnected nanowire units overlying pins of the substrate.
+</P>
+<P>
+13. The method of claim 12 wherein fabricating, by nanoimprinting, a first nanoscale sub-layer above the substrate further includes:
+</P>
+<P>
+depositing a layer of nanoimprint resist;
+</P>
+<P>
+imprinting nanoscale basins and troughs within the nanoimprint resist;
+</P>
+<P>
+applying a conductive material to fill the nanoscale basins and troughs; and
+</P>
+<P>
+removing the nanoimprint resist and undesired conductive material to leave nanoscale features occupying the volumes of the nanoscale basins and troughs.
+</P>
+<P>
+14. The method of claim 13 wherein imprinting nanoscale basins and troughs within the nanoimprint resist further includes:
+</P>
+<P>
+imprinting the nanoimprint resist using a nanoimprint stamp to form the basins and troughs; and
+</P>
+<P>
+etching nanoimprint resist from the floor of the basins and troughs.
+</P>
+<P>
+15. The method of claim 13 wherein removing the nanoimprint resist and undesired conductive material comprises a liftoff step in which the remaining nanoimprint resist and overlying conductive material are removed together.
+</P>
+<P>
+16. The method of claim 12 further including, following fabricating, by nanoimprinting, a first nanoscale sub-layer above the substrate, fabricating vias of conductive material above selected conductive pins of the microscale substrate by a second nanoimprint step.
+</P>
+<P>
+17. The method of claim 16 further including, following fabricating, by nanoimprinting, a first nanoscale sub-layer above the substrate, applying a dielectric material to produce a planar surface with exposed pad-interconnected nanowire units and vias.
+</P>
+<P>
+18. The method of claim 17 wherein fabricating, by nanoimprinting, a second nanoscale sub-layer above the first nanoscale sub-layer with pads of the pad-interconnected nanowire units overlying pins of the substrate further includes:
+</P>
+<P>
+applying a nanowire-junction material;
+</P>
+<P>
+applying a layer of titanium above the nanowire-junction material;
+</P>
+<P>
+fabricating pad-interconnected nanowire units of the second nanoscale sub-layer using a nanoimprint process; and
+</P>
+<P>
+etching to remove any nanowire-junction material and titanium not underlying pad-interconnected nanowire units of the second nanoscale sub-layer.
+</P>
+<P>
+19. The method of claim 18 further including applying a second layer of dielectric.
+</P>
+<P>
+20. The method of claim 12 further including fabricating, by nanoimprinting, additional nanoscale sub-layers above the second nanoscale sub-layer.
+</P>
+</Claims>
+<Also_published_as>
+EP1977427B1;US2007176168A1;US7544977B2;WO2007089522A1;US2007205483A1;US7692215B2;US2010081238A1;US7833842B2;KR20080094011A;KR101099988B1;JP2009525193A;EP2096672A2;EP2096672A3;EP2096672B1;CN101375344A;CN101375344B
+</Also_published_as>
+</BiblioData>

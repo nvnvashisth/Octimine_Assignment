@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MULTILAYER REFLECTIVE OPTICAL ELEMENT FOR EUV LITHOGRAPHY DEVICES COMPRISING FIRST AND SECOND ADDITIONAL INTERMEDIATE LAYERS
+</Title>
+<PublicationNumber>
+EP2115751A1
+</PublicationNumber>
+<Inventor>
+<Name>
+YAKSHIN ANDREY E [NL]
+</Name>
+<Name>
+VAN DE KRUIJS ROBBERT W E [NL]
+</Name>
+<Name>
+BIJKERK FRED [NL]
+</Name>
+<Name>
+LOUIS ERIC [NL]
+</Name>
+<Name>
+NEDELCU ILEANA [NL]
+</Name>
+<Name>
+YAKSHIN, ANDREY, E
+</Name>
+<Name>
+VAN DE KRUIJS, ROBBERT, W., E
+</Name>
+<Name>
+BIJKERK, FRED
+</Name>
+<Name>
+LOUIS, ERIC
+</Name>
+<Name>
+NEDELCU, ILEANA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ZEISS CARL SMT AG [DE]
+</Name>
+<Name>
+CARL ZEISS SMT AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2115751
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080715682
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP00842
+</PriorityNumber>
+<PriorityDate>
+2008-02-02
+</PriorityDate>
+<PriorityNumber>
+DE200710006423
+</PriorityNumber>
+<PriorityDate>
+2007-02-05
+</PriorityDate>
+<PriorityNumber>
+US20070888144P
+</PriorityNumber>
+<PriorityDate>
+2007-02-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G21K1/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G21K1/06B
+</Class>
+</NCL>
+<Abstract>
+Zur Erhöhung der maximalen Reflektivität reflektiver optischer Elemente bei einer Arbeitswellenlänge im EUV- oder weichen Röntgenwellenlängenbereich wird zwischen den Absorberlagen (22) und den Spacerlagen (21) eine erste zusätzlich Zwischenlage (23a, b) zur Erhöhung der Reflektivität und eine zweite zusätzliche Zwischenlage (24a, b) zur Verhinderung chemischer Interaktion zwischen der ersten zusätzlichen Zwischenlage (23a, b) und der angrenzenden Spacerlage (21) bzw. Absorberlage (22) vorgesehen.
+</Abstract>
+<Claims>
+<P>
+1. Reflektives optisches Element für eine Arbeitswellenlänge im welchen Röntgen- und extremen ultravioletten Wellenlängenbereich, insbesondere zur Verwendung in einer EUV-Lithographievorrichtung, das ein Viellagensystem aus mindestens zwei alternierenden Materialien mit unterschiedlichem Realteil des Brechungsindex bei der Arbeitswellenlänge aufweist, dadurch gekennzeichnet, dass angrenzend an mindestens einem der beiden alternierenden Materialien (21, 22) zwei zusätzliche Lagen (23, 23a, b, 24, 24a, b) eines jeweils weiteren Materials angeordnet sind.
+</P>
+<P>
+2. Reflektives optischen Element nach Anspruch 1, dadurch gekennzeichnet, dass an mindestens einem Übergang zwischen den beiden alternierenden Materialien (21, 22) eine erste zusätzliche Lage (23a, b) eines weiteren Materials angeordnet ist, das zu einer Erhöhung der maximalen Reflektivität bei der Arbeitswellenlänge verglichen mit der Reflektivität ohne zusätzliche Lage führt, und eine zweite zusätzliche Lage (24a, b) eines anderen weiteren Materials angeordnet ist, das als Barriere zwischen den angrenzenden Lagen wirkt.
+</P>
+<P>
+3. Reflektives optisches Element nach Anspruch 1 oder 2, wobei auf dem Viellagensystem eine Schutzbeschichtung aufgebracht ist, dadurch gekennzeichnet, dass am Übergang zwischen Viellagensystem (2) und Schutzbeschichtung (4) eine erste zusätzliche Lage (23) eines weiteren Materials angeordnet ist, das zu einer Erhöhung der maximalen Reflektivität bei der Arbeitswellenlänge verglichen mit der Reflektivität ohne zusätzliche Lage führt, und eine zweite zusätzliche Lage (24) eines anderen weiteren Materials angeordnet ist, das als Barriere zwischen den angrenzenden Lagen wirkt.
+</P>
+<P>
+4. Reflektives optische Element nach einem der Ansprüche 1 bis 3, dadurch gekennzeichnet, dass an einem Übergang vom Material (22) mit niedrigerem Realteil des Brechungsindex zum Material (21) mit höherem Realteil des Brechungsindex die erste zusätzliche Lage (23a, b) aus einem anderen Material ist als an einem Übergang vom Material (21) mit höherem Realteil des Brechungsindex zum Material (22) mit niedrigerem Realteil des Brechungsindex.
+</P>
+<P>
+5. Reflektives optisches Element nach einem der Ansprüche 1 bis 4, dadurch gekennzeichnet, dass das Material der zweiten zusätzlichen Lage (24, 24a, b) ebenfalls zu einer höheren maximalen Reflektivität bei der Arbeitswellenlänge verglichen mit der Reflektivität ohne zusätzliche Lage führt.
+</P>
+<P>
+6. Reflektives optisches Element nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass zumindest das Material der ersten zusätzlichen Lage (23a, b) einen Brechungsindex aufweist, dessen Wert des Realteils des Brechungsindex bei der Arbeitswellenlänge entweder grösser als der entsprechende Wert des alternierenden Materials (21) mit dem höheren Realteil des Brechungsindex oder geringer als der entsprechende Wert des alternierenden Materials (22) mit dem niedrigerem Realteil des Brechungsindex ist.
+</P>
+<P>
+7. Reflektives optisches Element nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass zumindest das Material der ersten zusätzlichen Lage (23a, b) einen Brechungsindex aufweist, dessen Wert des Realteils des Brechungsindex bei der Arbeitswellenlänge zwischen den entsprechenden Werten der alternierenden Materialien (21, 22) liegt.
+</P>
+<P>
+8. Reflektives optisches Element nach einem der Ansprüche 1 bis 7, dadurch gekennzeichnet, dass die Dicke (d) der zusätzlichen Lagen (23a, b, 24a, b) geringer ist als die der Lagen (21, 22) aus den alternierenden Materialien.
+</P>
+<P>
+9. Reflektives optisches Element nach einem der Ansprüche 1 bis 8, dadurch gekennzeichnet, dass die Dicke (d) der zusätzlichen Lagen (23, 23a, b, 24, 24a, b) geringer ist als ein Viertel der Arbeitswellenlänge, insbesondere geringer als ein Achtel der Arbeitswellenlänge ist.
+</P>
+<P>
+10. Reflektives optisches Element nach einem der Ansprüche 1 bis 9, dadurch gekennzeichnet, dass das Material (22) mit niedrigerem Realteil des Brechungsindex bei der Arbeitswellenlänge Molybdän ist und das Material (21) mit höherem Realteil des Brechungsindex bei der Arbeitswellenlänge Silizium ist.
+</P>
+<P>
+11. Reflektives optisches Element nach einem der Ansprüche 1 bis 10, dadurch gekennzeichnet, dass die erste zusätzliche Lage (23, 23a, b) ein Material aus der Gruppe Ruthenium, Rhodium, Yttrium, Niobium aufweist.
+</P>
+<P>
+12. Reflektives optisches Element nach einem der Ansprüche 1 bis 11, dadurch gekennzeichnet, dass die zweite zusätzliche Lage (24, 24a, b) Borkarbid aufweist.
+</P>
+<P>
+13. Projektionssystem (120), insbesondere für eine EUV-Lithographievorrichtung, mit mindestens einem reflektiven optischen Element (121, 122) gemäss Anspruch 1 bis 12.
+</P>
+<P>
+14. Belichtungssystem (140), insbesondere für eine EUV-Lithographievorrichtung, mit mindestens einem reflektiven optischen Element (141, 142) gemäss Anspruch 1 bis 12.
+</P>
+<P>
+15. EUV-Lithographievorrichtung (100) mit mindestens einem reflektiven optischen Element (121, 122, 141, 142) gemäss Anspruch 1 bis 12.
+</P>
+</Claims>
+<Also_published_as>
+DE102008007387A1;US2010027107A1;US8144830B2;TW200835943A;JP2010518594A;WO2008095663A1;WO2008095663A8
+</Also_published_as>
+</BiblioData>

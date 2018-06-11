@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SURFACE-EMITTING LASER ARRAY, OPTICAL SCANNING DEVICE, AND IMAGE FORMING DEVICE
+</Title>
+<PublicationNumber>
+EP2054980A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SATO SHUNICHI [JP]
+</Name>
+<Name>
+ITOH AKIHIRO [JP]
+</Name>
+<Name>
+SUGAWARA SATORU [JP]
+</Name>
+<Name>
+SHOUJI HIROYOSHI [JP]
+</Name>
+<Name>
+SATO, SHUNICHI
+</Name>
+<Name>
+ITOH, AKIHIRO
+</Name>
+<Name>
+SUGAWARA, SATORU
+</Name>
+<Name>
+SHOUJI, HIROYOSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+RICOH KK [JP]
+</Name>
+<Name>
+RICOH COMPANY, LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2054980
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070792988
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP66508
+</PriorityNumber>
+<PriorityDate>
+2007-08-20
+</PriorityDate>
+<PriorityNumber>
+JP20060226561
+</PriorityNumber>
+<PriorityDate>
+2006-08-23
+</PriorityDate>
+<PriorityNumber>
+JP20060226562
+</PriorityNumber>
+<PriorityDate>
+2006-08-23
+</PriorityDate>
+<PriorityNumber>
+JP20070134856
+</PriorityNumber>
+<PriorityDate>
+2007-05-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/183
+</Class>
+<Class>
+H01S5/42
+</Class>
+<Class>
+B41J2/47
+</Class>
+<Class>
+B82Y20/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/183C2D
+</Class>
+<Class>
+H01S5/42B
+</Class>
+</NCL>
+<Abstract>
+A surface-emitting laser array includes a plurality of surface-emitting laser elements (1). Each surface-emitting laser element includes a first reflection layer (102) formed on a substrate (101), a resonator cavity (103, 104, 105) formed in contact with the first reflection layer and containing an active layer (104), and a second reflection layer (106, 107) formed over the first reflection layer and in contact with the resonator cavity. The second reflection layer contains a selective oxidation layer (107). The first reflection layer contains on the active layer side at least a low refractive index layer (1021), made e.g. of AlAs, having an oxidation rate equivalent to or larger than an oxidation rate of the selective oxidation layer (107) contained in the second reflection layer. The resonator cavity is made of an AlGaInPAs base material containing at least In. A bottom of a mesa structure is located below the selective oxidation layer and above the first reflection layer.
+</Abstract>
+<Claims>
+<P>
+- Il l -
+</P>
+<P>
+CLAI MS
+</P>
+<P>
+1. A surface-emitting laser array including a plurality of surface-emitting laser elements, each of the plurality of surface- emitting laser elements comprising: a first reflection layer formed on a substrate to constitute a semiconductor Bragg reflector; a resonator formed in contact with the first reflection layer and containing an active layer; and a second reflection layer formed over the first reflection layer and in contact with the resonator to constitute the semiconductor Bragg reflector, the second reflection layer containing a selective oxidation layer therein, wherein the first reflection layer contains on the active layer side at least a low refractive index layer having an oxidation rate equivalent to or larger than an oxidation rate of a selective oxidation layer contained in the second reflection layer, the resonator is made of an AlGaInPAs base material containing at least In, and a bottom of a mesa structure in each surface-emitting laser element is located under the selective oxidation layer and over the first reflection layer.
+</P>
+<P>
+2. The surface-emitting laser array of claim 1, wherein the resonator has an etching rate smaller than an etching rate of the second reflection layer.
+</P>
+<P>
+3. The surface-emitting laser array of claim 1, wherein the second reflection layer containing on the active layer side a layer made of the AlGaInPAs base material containing at least In .
+</P>
+<P>
+4. The surface-emitting laser array of claim 1, wherein the bottom of the mesa structure is located inside the resonator or at an interface between the second reflection layer and the resonator.
+</P>
+<P>
+5. The surface-emitting laser array of claim 1, wherein the first reflection layer contains the low refractive index layer, which is made of AlAs, over an entire area of the surface-emitting laser element.
+</P>
+<P>
+6. The surface-emitting laser array of claim 1, wherein the selective oxidation layer contained in the second reflection layer constitutes a selective oxidation type current narrowing portion.
+</P>
+<P>
+7. The surface-emitting laser array of claim 1, wherein a difference between an etching depth in ari&amp;gt; inter-element gap of the plurality of surface-emitting laser elements and an etching depth of a peripheral portion of the plurality of surface-emitting laser elements is equal to or smaller than 1/2 of a beam-emission wavelength of each surface-emitting laser element .
+</P>
+<P>
+8. The surface-emitting laser array of claim 7, wherein the inter-element gap between two adjacent ones of the plurality of surface- emitting laser elements is set to a smaller one of a gap between top surface positions of two mesa structures in the plurality of surface- emitting laser elements and a gap between bottom surface positions of the two mesa structures, and is equal to or smaller than 20 micrometers.
+</P>
+<P>
+9. The surface-emitting laser array of claim 1, wherein a side of the first reflection layer is covered by a protection film.
+</P>
+<P>
+10. The surface-emitting laser array of claim 9, wherein the protection film is made of any of SiO2, SiN and SiON.
+</P>
+<P>
+11. The surface-emitting laser array of claim 1, wherein a content of aluminum of the low refractive index layer arranged on the resonator side of the first reflection layer is larger than a content of aluminum of the selective oxidation layer.
+</P>
+<P>
+12. The surface-emitting laser array of claim 1, wherein a content of aluminum of a low refractive index layer arranged on the resonator side of the first reflection layer is the same as a content of aluminum of the selective oxidation layer, and a thickness of the low refractive index layer arranged on the resonator side of the first reflection layer is larger than a thickness of the selective oxidation layer .
+</P>
+<P>
+13. An optical scanning device comprising : the surface-emitting laser array according to claim 1; a deflection unit deflecting a plurality of laser beams emitted by the surface-emitting laser array, and a scanning optical element drawing the laser beams from the deflection unit on a scanned surface of a photoconductor .
+</P>
+<P>
+14. An image forming device in which the optical scanning device according to claim 13 is provided .
+</P>
+<P>
+15. An image forming device in which the surface-emitting laser array according to claim 1 is provided as a light source emitting a plurality of laser beams.
+</P>
+<P>
+16. A surface-emitting laser element having a mesa structure which emits a laser beam, comprising : a substrate; a first reflection layer formed on the substrate to constitute a semiconductor Bragg reflector; a resonator formed in contact with the first reflection layer and containing an active layer; a second reflection layer formed in contact with the resonator to constitute the semiconductor Bragg reflector; and an absorption layer arranged to absorb a difference of an etching depth in an in-surface direction of the substrate when forming the mesa structure , wherein a bottom of the mesa structure is located in the absorption layer in a direction perpendicular to the substrate, and the absorption layer is formed in at least a part of the resonator in a thickness direction of the resonator.
+</P>
+<P>
+17. The surface-emitting laser element of claim 16, wherein the absorption layer is formed in an entire area of the resonator in a thickness direction of the resonator.
+</P>
+<P>
+18. The surface-emitting laser element of claim 16, wherein the absorption layer is formed in an entire area of the resonator in a thickness direction of the resonator and formed partially in a thickness direction of the second reflection layer.
+</P>
+<P>
+19. The surface-emitting laser element of claim 16, wherein the absorption layer contains at least In.
+</P>
+<P>
+20. A method of manufacturing a surface- emitting laser array, the surface-emitting laser array including: an element-arrangement portion provided on a substrate and having a plurality of surface-emitting laser elements arranged; and a flat part provided on the substrate and arranged in a circumference of the element- arrangement portion in an in-surface direction of the substrate, each of the plurality of surface-emitting laser elements including a mesa structure which emits a laser beam, and the flat part and the element-arrangement portion including an absorption layer arranged to absorb a difference of an etching depth in the in- surface direction when forming the mesa structure, the method comprising the steps of: forming a multilayer semiconductor film on the substrate; and etching the multilayer semiconductor film to cause a bottom of the mesa structure to be located in the absorption layer, so that the element-arrangement portion and the flat part are formed.
+</P>
+</Claims>
+<Also_published_as>
+WO2008023813A1;US2009295902A1;TW200812180A;KR20080063350A;KR100990702B1;CN102136677A
+</Also_published_as>
+</BiblioData>

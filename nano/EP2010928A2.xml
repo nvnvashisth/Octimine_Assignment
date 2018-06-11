@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ORGANO-MAGNETORESISTIVE SENSOR AND USES THEREOF
+</Title>
+<PublicationNumber>
+EP2010928A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PAETZOLD RALPH [DE]
+</Name>
+<Name>
+SCHMID GUENTER [DE]
+</Name>
+<Name>
+PAETZOLD, RALPH
+</Name>
+<Name>
+SCHMID, GUENTER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SIEMENS AG [DE]
+</Name>
+<Name>
+SIEMENS AKTIENGESELLSCHAFT
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2010928
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070728209
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP53747
+</PriorityNumber>
+<PriorityDate>
+2007-04-18
+</PriorityDate>
+<PriorityNumber>
+DE200610019483
+</PriorityNumber>
+<PriorityDate>
+2006-04-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/09
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+</NCL>
+<Abstract>
+The arrangement has an organic electronic thin layer component e.g. organic field-effect transistor, with three layers, three different electrical contacts and a magnetic field-generating device, where one of the layers of the organic electronic thin layer component is structured. The arrangement is formed in such a manner that the magnetic field-generating device causes a magneto-resistive change in the thin layer component.
+</Abstract>
+<Claims>
+<P>
+1. Anordnung zumindest ein organisches elektronisches Dünnschichtbauteil mit zumindest drei Schichten und zumindest drei unterschiedlichen elektrischen Kontakten und zumindest eine magnetfelderzeugende Vorrichtung umfassend, wobei die Anordnung derart ist, dass die magnetfelderzeugende Vorrichtung im organischen elektronischen Dünnschichtbauteil eine magnetoresistive Veränderung hervorruft.
+</P>
+<P>
+2. OMR-Anordnung nach Anspruch 1, wobei zumindest eine der drei Schichten des organischen elektronischen Dünnschichtbauteils strukturiert ist.
+</P>
+<P>
+3. OMR-Anordnung nach Anspruch 1, wobei das organische elektronische Dünnschichtbauteil ein Transistor ist.
+</P>
+<P>
+4. Verwendung einer OMR-Anordnung nach einem der Ansprüche 1 bis 3 zur Positionsmessung bei linearen Bewegungen, Drehbewegungen, Winkelmessungen, bei der Strommessung über das vom Strom hervorgerufene Magnetfeld und/oder Messungen von Magnetfeldern.
+</P>
+</Claims>
+<Also_published_as>
+DE102006019483A1;WO2007125036A2;WO2007125036A3;CN101427145A
+</Also_published_as>
+</BiblioData>

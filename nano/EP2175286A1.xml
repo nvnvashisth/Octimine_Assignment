@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SPM probe with adjustment aid opposite the sampling tip and method for producing same
+</Title>
+<PublicationNumber>
+EP2175286A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SULZBACH THOMAS [DE]
+</Name>
+<Name>
+KRAUSE OLIVER [DE]
+</Name>
+<Name>
+BURRI MATHIEU [CH]
+</Name>
+<Name>
+DETTERBECK MANFRED [DE]
+</Name>
+<Name>
+IRMER BERNDT [DE]
+</Name>
+<Name>
+PENZKOFER CHRISTIAN [DE]
+</Name>
+<Name>
+SULZBACH, THOMAS
+</Name>
+<Name>
+KRAUSE, OLIVER
+</Name>
+<Name>
+BURRI, MATHIEU
+</Name>
+<Name>
+DETTERBECK, MANFRED
+</Name>
+<Name>
+IRMER, BERNDT
+</Name>
+<Name>
+PENZKOFER, CHRISTIAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOWORLD AG [CH]
+</Name>
+<Name>
+NANOWORLD AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2175286
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080017867
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-10-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20080017867
+</PriorityNumber>
+<PriorityDate>
+2008-10-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q70/08
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q70/08
+</Class>
+</NCL>
+<Abstract>
+The method involves prefabricating a support unit (2) with a cantilever (3), and producing a scanning tip (4) and a mark (8) on the cantilever in a self-aligning manner by using a particle-beam-induced material deposition based on a gas-induced process. An etch masking layer is applied on a front side and a rear side of a silicon wafer, and a local masking is produced on the front side of the silicon wafer. Another local mashing is produced in the rear side of the silicon wafer, and the thickness of the wafer is reduced to a predetermined thickness of the cantilever. An independent claim is also included for a scanning probe microscope-probe comprising a support unit and a cantilever.
+</Abstract>
+<Claims>
+<P>
+1. SPM-Sonde (1), mit einem Halteelement (2), einem Federbalken (3) und einer Abtastspitze (4), dadurch gekennzeichnet, dass die Abtastspitze (4) aus einem Vollmaterial besteht und der Federbalken (3) auf der der Abtastspitze (4) gegenüberliegenden Seite eine Markierung (8) aufweist, die die Position der Abtastspitze (4) eindeutig kennzeichnet.
+</P>
+<P>
+2. SPM-Sonde nach Anspruch 1, dadurch gekennzeichnet, dass der Federbalken (3) und die Abtastspitze (4) aus einem einkristallinem Silizium gefertigt sind und die Markierung (8) aus einem anderen Material besteht.
+</P>
+<P>
+3. SPM-Sonde nach Anspruch 2, dadurch gekennzeichnet, dass der Federbalken (3) und die Abtastspitze (4) aus einkristallinem Silizium gefertigt sind und die Markierung (8) durch Materialabscheidung mittels fokussierter Teilchenstrahlen aufgebracht ist.
+</P>
+<P>
+4. SPM-Sonde nach Anspruch 1, dadurch gekennzeichnet, dass der Federbalken (3) und die Abtastspitze (4) aus einkristallinem Silizium gefertigt sind und die Markierung (8) aus einer Vertiefung im Silizium besteht.
+</P>
+<P>
+5. SPM-Sonde nach Anspruch 1, dadurch gekennzeichnet, dass der Federbalken (3) aus einem ersten Material und die Abtastspitze (4) durch Materialabscheidung eines zweiten Materials mittels fokussierter Teilchenstrahlen erzeugt ist.
+</P>
+<P>
+6. SPM-Sonde nach Anspruch 5, dadurch gekennzeichnet, dass die Markierung (8) das gleiche Material wie die Abtastspitze (4) aufweist und durch Materialabscheidung mittels fokussierter Teilchenstrahlen aufgebracht ist.
+</P>
+<P>
+7. SPM-Sonde nach Anspruch 6, dadurch gekennzeichnet, dass die Abtastspitze (4) und die Markierung (8) in einem Verfahrensschritt selbstjustierend gefertigt sind.
+</P>
+<P>
+8. Verfahren zur Herstellung einer SPM-Sonde (1) nach Anspruch 1, gekennzeichnet durch die folgenden Schritte:
+</P>
+<P>
+A Auftragen einer Ätzmaskierungsschicht (12, 13) auf eine Vorderseite (10) und eine Rückseite (11) einer Siliziumscheibe (9);
+</P>
+<P>
+B Erzeugen einer ersten lokalen Maskierung (14) auf der Vorderseite (10) der Siliziumscheibe (9) durch fotografische Strukturierung an der Stelle, an der die Abtastspitze (4) vorgesehen ist;
+</P>
+<P>
+C Ausbilden der Abtastspitze (4) durch Unterätzen der ersten lokalen Maskierung (14) auf der Vorderseite (10) der Siliziumscheibe (9);
+</P>
+<P>
+D Entfernen der ersten lokalen Maskierung (14) und Abdecken der Vorderseite (10) der Siliziumscheibe (9) mit einer neuen Ätzmaskierungsschicht (15);
+</P>
+<P>
+E Erzeugen einer zweiten lokalen Maskierung (21) auf der Rückseite (11) der Siliziumscheibe (9) durch fotografische Strukturierung an der Stelle, die das Halteelement (2) bilden soll;
+</P>
+<P>
+F lokales Abdünnen der Siliziumscheibe (9) auf die vorgesehene Dicke des Federbalkens (3) mit einem Tiefenätzverfahren;
+</P>
+<P>
+G Abdecken der Dünnstellen (17) für den Federbalken (3) auf der Rückseite (11) der Siliziumscheibe (9) mit einer weiteren Ätzmaskierungsschicht (18);
+</P>
+<P>
+H Ausbilden eines Ätzfensters (19) in der weiteren Ätzmaskierungsschicht (18) für die Erzeugung der Markierung (8) durch fotografische Strukturierung, mit exakt zur Vorderseite (10) justierter Lithografie;
+</P>
+<P>
+I Erzeugen der Markierung (8) durch Ätzen in dem Ätzfenster (19);
+</P>
+<P>
+J Übertragen der Form des Federbalkens (3) auf die Vorderseite (10) der Siliziumscheibe (9) durch ein fotolithografisches Verfahren exakt ausgerichtet zur Abtastspitze (4);
+</P>
+<P>
+K Herstellen des Federbalkens (3) durch Ätzen der Vorderseite (10) der Siliziumscheibe (9); und
+</P>
+<P>
+L Entfernen der verbliebenen Ätzmaskierungsschichten (13, 15, 18) auf der Vorder- und der Rückseite (10, 11) der Siliziumscheibe (9).
+</P>
+<P>
+9. Verfahren zur Herstellung einer SPM-Sonde (1) nach Anspruch 8, dadurch gekennzeichnet, dass der Schritt I entfällt und bei dem Schritt L bei der Entfernung der verbliebenen Ätzmaskenschichten (13, 15, 18) der Siliziumscheibe (9), die Stellen auf der Rückseite (11) des Federbalkens (3) ausgenommen werden.
+</P>
+<P>
+10. Verfahren zur Herstellung einer SPM-Sonde (1) nach Anspruch 1, gekennzeichnet durch die folgenden Schritte:
+</P>
+<P>
+A Bereitstellen einer nach einem bekannten Verfahren hergestellten SPM-Sonde (1), mit einem Halteelement (2) und einem daran befestigten Federbalken (3) ohne Abtastspitze (4) und Markierung (8);
+</P>
+<P>
+B Einleiten einer lokalen teilchenstrahlinduzierten Materialabscheidung auf dem Federbalken (3), basierend auf einem gasinduzierten Prozess, wobei der Teilchenstrahl (20), vorzugsweise ein Elektronenstrahl, auf diejenige Stelle der Unterseite (10) des Federbalkens (3) gerichtet ist, an der die Abtastspitze (4) entstehen soll.
+</P>
+<P>
+C Einstellen der Strahlparameter des Teilchenstrahls (20) derart, dass die Materialabscheidung als Markierung (8) bevorzugt auf der Oberseite (11) des Federbalkens (3) durch rückwärts gestreute Sekundärteilchen erfolgt.
+</P>
+<P>
+D Verändern der Strahlparameter des Teilchenstrahls (20) derart, dass die Materialabscheidung als Abtastspitze (4) bevorzugt auf der Unterseite (10) des Federbalkens (3) durch vorwärts gestreute Sekundärteilchen, der Markierung (8) exakt gegenüberliegend erfolgt.
+</P>
+<P>
+11. Verfahren nach Anspruch 10, dadurch gekennzeichnet, dass zur Bestimmung des Ortes der bevorzugten Materialabscheidung im wesentlichen die Strahlparameter Strahlleistung und Fokusebene des Teilchenstrahls (20) verwendet werden.
+</P>
+<P>
+Geänderte Patentansprüche gemäss Regel 137(2) EPÜ.
+</P>
+<P>
+1. Verfahren zur Herstellung einer SPM-Sonde (1), mit einem Halteelement (2), einem Federbalken (3), einer Abtastspitze (4) und mit einer als Erhöhung (8&quot;) ausgebildeten Markierung (8) auf der der Abtastspitze (4) gegenüberliegenden Seite des Federbalkens (3), die die Position der Abtastspitze (4) eindeutig kennzeichnet, durch gekennzeichnet, dass das Haltelement (2) mit dem Federbalken (3) in herkömmlicher Weise vorgefertigt werden und anschliessend die Abtastspitze (4) und die Markierung (8) durch eine teilchenstrahlinduzierte Materialabscheidung, basierend auf einem gasinduzierten Prozess, auf dem Federbalken (3) erzeugt werden.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, durch gekennzeichnet, dass die Abtastspitze (4) und die Markierung (8) selbstjustierend gefertigt werden.
+</P>
+<P>
+3. Verfahren nach Anspruch 1 oder 2, durch gekennzeichnet, dass als Material für die Abscheidung der Abtastspitze (4) und der Markierung (8) ein mit dem Federbalken (3) übereinstimmendes Material verwendet wird.
+</P>
+<P>
+4. Verfahren nach Anspruch 1 oder 2, durch gekennzeichnet, dass als Material für die Abscheidung der Abtastspitze (4) und der Markierung (8) ein von dem Federbalken (3) abweichendes Material verwendet wird.
+</P>
+<P>
+5. Verfahren nach einem der vorstehenden Ansprüche, gekennzeichnet durch die folgenden Schritte:
+</P>
+<P>
+A Bereitstellen einer nach einem bekannten Verfahren hergestellten SPM-Sonde (1), mit einem Halteelement (2) und einem daran befestigten Federbalken (3) ohne Abtastspitze (4) und Markierung (8);
+</P>
+<P>
+B Einleiten einer lokalen teilchenstrahlinduzierten Materialabscheidung auf dem Federbalken (3), basierend auf einem gasinduzierten Prozess, wobei der Teilchenstrahl (20), vorzugsweise ein Elektronenstrahl, auf diejenige Stelle der Unterseite (6) des Federbalkens (3) gerichtet ist, an der die Abtastspitze (4) entstehen soll.
+</P>
+<P>
+C Einstellen der Strahlparameter des Teilchenstrahls (20) derart, dass die Materialabscheidung als Markierung (8) bevorzugt auf der Oberseite (7) des Federbalkens (3) durch vorwärts gestreute Sekundärteilchen erfolgt.
+</P>
+<P>
+D Verändern der Strahlparameter des Teilchenstrahls (20) derart, dass die Materialabscheidung als Abtastspitze (4) bevorzugt auf der Unterseite (6) des Federbalkens (3) durch rückwärts gestreute Sekundärteilchen, der Markierung (8) exakt gegenüberliegend, erfolgt.
+</P>
+<P>
+6. Verfahren nach Anspruch 5, dadurch gekennzeichnet, dass zur Bestimmung des Ortes der bevorzugten Materialabscheidung im wesentlichen die Strahlparameter Strahlleistung und Fokusebene des Teilchenstrahls (20) verwendet werden.
+</P>
+</Claims>
+<Also_published_as>
+US2010095409A1;US8209768B2;JP2010091571A
+</Also_published_as>
+</BiblioData>

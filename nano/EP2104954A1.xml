@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+OPTICAL SYSTEMS FABRICATED BY PRINTING- BASED ASSEMBLY
+</Title>
+<PublicationNumber>
+EP2104954A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ROGERS JOHN [US]
+</Name>
+<Name>
+NUZZO RALPH [US]
+</Name>
+<Name>
+MEITL MATTHEW [US]
+</Name>
+<Name>
+MENARD ETIENNE [US]
+</Name>
+<Name>
+BACA ALFRED J [US]
+</Name>
+<Name>
+MOTALA MICHAEL [US]
+</Name>
+<Name>
+AHN JONG-HYUN [US]
+</Name>
+<Name>
+PARK SANG-IL [US]
+</Name>
+<Name>
+YU CHANG-JAE [US]
+</Name>
+<Name>
+KO HEUNG CHO [US]
+</Name>
+<Name>
+STOYKOVICH MARK [US]
+</Name>
+<Name>
+YOON JONGSEUNG [US]
+</Name>
+<Name>
+ROGERS, JOHN
+</Name>
+<Name>
+NUZZO, RALPH
+</Name>
+<Name>
+MEITL, MATTHEW
+</Name>
+<Name>
+MENARD, ETIENNE
+</Name>
+<Name>
+BACA, ALFRED, J
+</Name>
+<Name>
+MOTALA, MICHAEL
+</Name>
+<Name>
+AHN, JONG-HYUN
+</Name>
+<Name>
+PARK, SANG-IL
+</Name>
+<Name>
+YU, CHANG-JAE
+</Name>
+<Name>
+KO, HEUNG, CHO
+</Name>
+<Name>
+STOYKOVICH, MARK
+</Name>
+<Name>
+YOON, JONGSEUNG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV ILLINOIS [US]
+</Name>
+<Name>
+SEMPRIUS INC [US]
+</Name>
+<Name>
+THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS
+</Name>
+<Name>
+SEMPRIUS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2104954
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070874095
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-10-31
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US22959
+</PriorityNumber>
+<PriorityDate>
+2007-10-31
+</PriorityDate>
+<PriorityNumber>
+US20070885306P
+</PriorityNumber>
+<PriorityDate>
+2007-01-17
+</PriorityDate>
+<PriorityNumber>
+US20070944611P
+</PriorityNumber>
+<PriorityDate>
+2007-06-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L27/15
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L27/12T
+</Class>
+<Class>
+H01L31/052B
+</Class>
+<Class>
+H01L31/0725
+</Class>
+<Class>
+H01L31/18C
+</Class>
+<Class>
+Y02E10/52
+</Class>
+</NCL>
+<Abstract>
+The present invention provides optical devices and systems fabricated, at least in part, via printing-based assembly and integration of device components Optical systems of the present invention comprise semiconductor elements assembled, organized and/or integrated with other device components via printing techniques that exhibit performance characteristics and functionality comparable to 10 single crystalline semiconductor based devices fabricated using conventional high temperature processing methods Optical systems of the present invention have device geometries and configurations, such as form factors, component densities, and component positions, accessed by printing that provide a range of useful device functionalities.
+</Abstract>
+<Claims>
+<P>
+WE CLAIM:
+</P>
+<P>
+1. A method of making a semiconductor-based optical system, said method comprising the steps of:
+</P>
+<P>
+providing a device substrate having a receiving surface; and
+</P>
+<P>
+assembling a printable semiconductor element on said receiving surface of said substrate via contact printing; wherein said printable semiconductor element comprises a semiconductor structure having a length selected from the range of
+</P>
+<P>
+0.0001 millimeters to 1000 millimeters, a width selected from the range of 0.0001 millimeters to 1000 millimeters and a thickness selected from the range of 0.00001 millimeters to 3 millimeters.
+</P>
+<P>
+2. The method of claim 1 wherein said printable semiconductor element comprises a semiconductor structure having a length selected from the range of 0.02 millimeters to 30 millimeters, and a width selected from the range of 0.02 millimeters to 30 millimeters.
+</P>
+<P>
+3. The method of claim 1 wherein said printable semiconductor element comprises a semiconductor structure having a length selected from the range of 0.1 millimeters to 1 millimeter, and a width selected from the range of 0.1 millimeters to 1 millimeter.
+</P>
+<P>
+4. The method of claim 1 wherein said printable semiconductor element comprises a semiconductor structure having a length selected from the range of 1 millimeters to 10 millimeters, and a width selected from the range of 1 millimeter to 10 millimeters.
+</P>
+<P>
+5. The method of claim 1 wherein said printable semiconductor element comprises a semiconductor structure having a thickness selected from the range of 0.0003 millimeters to 0.3 millimeters.
+</P>
+<P>
+6. The method of claim 1 wherein said printable semiconductor element comprises a semiconductor structure having a thickness selected from the range of 0.002 millimeters to 0.02 millimeters.
+</P>
+<P>
+7. The method of claim 1 comprising assembling a plurality of printable semiconductor elements on said receiving surface of said substrate via contact printing; wherein each of said printable semiconductor elements comprise a semiconductor structure having a length selected from the range of 0.0001 millimeters to 1000 millimeters, a width selected from the range of 0.0001 millimeters to 1000 millimeters and a thickness selected from the range of
+</P>
+<P>
+0.00001 millimeters to 3 millimeters.
+</P>
+<P>
+8. The method of claim 1 further comprising the step of prepatterning said receiving surface of said device substrate with one or more device components.
+</P>
+<P>
+9 The method of claim 1 further comprising providing one or more optical components in optical communication with said printable semiconductor element.
+</P>
+<P>
+10. The method of claim 7 further comprising the step of providing an array of optical components selected from the group consisting of diffusing optics, dispersive optics, collecting optics, concentrating optics, and optical fiber, wherein said array of optical components is provided in optical communication with at least a portion of said printable semiconductor elements.
+</P>
+<P>
+11. The method of claim 10 wherein an optical component of said array is individually addressed to each of said printable semiconductor elements.
+</P>
+<P>
+12. The method of claim 10 wherein said array of optical components is fabricated via replica molding; wherein said printable semiconductor elements are assembled on a receiving surface of said array of optical components via contact printing.
+</P>
+<P>
+13. The method of claim 1 further comprising patterning first and second electrodes in electrical contact with an exposed surface of said printable semiconductor element.
+</P>
+<P>
+14. The method of claim 1 wherein said printable semiconductor element is assembled on said receiving surface via dry transfer contact printing.
+</P>
+<P>
+15. The method of claim 1 wherein said printable semiconductor element is assembled on said receiving surface using a conformable transfer device.
+</P>
+<P>
+16. The method of claim 15 wherein said assembling step comprises: providing said conformable transfer device having a contact surface;
+</P>
+<P>
+establishing conformal contact between an external surface of said printable semiconductor element and said contact surface of said conformable transfer device, wherein said conformal contact bonds said printable semiconductor element to said contact surface;
+</P>
+<P>
+contacting said printable semiconductor element bonded to said contact surface and said receiving surface of said device substrate; and
+</P>
+<P>
+separating said printable semiconductor element and said contact surface of said conformable transfer device, thereby assembling said printable semiconductor element on said receiving surface of said device substrate.
+</P>
+<P>
+17. The method of claim 1 wherein said printable semiconductor element is assembled on said receiving surface using an elastomeric transfer device.
+</P>
+<P>
+18. The method of claim 1 wherein said printable semiconductor element is assembled on said receiving surface using an elastomeric stamp.
+</P>
+<P>
+19. The method of claim 1 wherein said printable semiconductor element is an electronic device or component of an electronic device.
+</P>
+<P>
+20. The method of claim 1 wherein said printable semiconductor element is an electronic device selected from the group consisting of: an LED, a laser, a solar cell, a sensor, a diode, a transistor, a p-n junction, an integrated circuit, and a photodiode.
+</P>
+<P>
+21. The method of claim 1 wherein said printable semiconductor element comprises said semiconductor structure integrated with at least one additional structure
+</P>
+<P>
+&amp;lt;*&amp;gt; selected from the group consisting of: another semiconductor structure; a dielectric structure; conductive structure, and an optical structure.
+</P>
+<P>
+22. The method of claim 1 wherein said printable semiconductor element comprises said semiconductor structure integrated with at least one electronic device component selected from the group consisting of: an electrode, a dielectric layer, an optical coating, a metal contact pad and a semiconductor channel.
+</P>
+<P>
+23. The method of claim 7 wherein said printable semiconductor elements include at least two electronic devices selected from the group consisting of: an LED, a laser, a solar cell, a sensor, a diode, a transistor, a p-n junction, an integrated circuit, and a photodiode.
+</P>
+<P>
+24. The method of claim 1 wherein said printable semiconductor element has a thickness selected from the range of 100 nanometers to 100 microns
+</P>
+<P>
+25. The method of claim 1 further comprising the steps of: providing an adhesive layer on said receiving surface; and contacting said printable semiconductor element with said adhesive layer, thereby bonding said printable semiconductor element to said receiving surface of said substrate.
+</P>
+<P>
+26. The method of claim 25 wherein said adhesive layer is one or more polymer layers, prepolymer layers, elastomer layers, metal layers, or a combination thereof.
+</P>
+<P>
+27. The method of claim 1 further comprising the step of providing a laminating or encapsulating layer in contact with said printable semiconductor element; said laminating or encapsulating layer capable of at least partially encapsulating or laminating said printable semiconductor element assembled on said receiving surface.
+</P>
+<P>
+28. The method of claim 7 wherein said printable semiconductor elements are assembled over an area of said receiving substrate selected over the range of 10000 microns&amp;lt;2&amp;gt; to 1 meter&amp;lt;2&amp;gt;.
+</P>
+<P>
+29. The method of claim 7 wherein said printable semiconductor elements are assembled on said receiving surface of said substrate with a density equal to or greater than 5 semiconductor elements mm&amp;lt;&apos;1&amp;gt;.
+</P>
+<P>
+30 The method of claim 1 wherein said printable semiconductor element has at least one longitudinal physical dimension less than or equal to 200 microns.
+</P>
+<P>
+31. The method of claim 1 wherein said printable semiconductor element has a cross-sectional physical dimension selected over the range of 10 nanometers to 10 microns.
+</P>
+<P>
+32. The method of claim 7 wherein the positions of said printable semiconductor elements assembled on said receiving surface relative to each other are selected to within 10,000 nanometers.
+</P>
+<P>
+33. The method of claim 7 wherein said printable semiconductor elements on said receiving surface are longitudinally aligned with respect to each other; wherein said longitudinally aligned semiconductor elements extend lengths that are parallel to within 3 degrees of each other.
+</P>
+<P>
+34. The method of claim 1 wherein said optical system is selected from the group consisting of: a array of light emitting diodes, an array of lasers, an array of VCSELs, a passive matrix LED display, an active matrix LED display, an optical sensor and an array of optical sensors; a sheet scanner and an array of solar cells.
+</P>
+<P>
+35. The method of claim 1 wherein said printable semiconductor element comprises a unitary inorganic semiconductor structure.
+</P>
+<P>
+36. The method of claim 1 wherein said printable semiconductor element comprises a single crystalline semiconductor material.
+</P>
+<P>
+37. The method of claim 7 further comprising the step of providing a electrically conducting grid or mesh in electrical contact with at least a portion of said printable semiconductor elements, said grid or mesh providing one or more electrodes or electrical interconnection structures in said optical system.
+</P>
+<P>
+38. The method of claim 37 wherein said mesh or grid comprise one or more metals.
+</P>
+<P>
+39. The method of claim 37 wherein said electrically conducting grid or mesh is more than 50% optically transparent.
+</P>
+<P>
+40. The method of claim 37 wherein said electrically conducting grid or mesh is a laminated structure.
+</P>
+<P>
+41. The method of claim 37 wherein said electrically conducting grid or mesh is bonded to an elastomer layer.
+</P>
+<P>
+42. The method of claim 37 further comprising the step of assembling said grid or mesh on the receiving surface of said device substrate or on external surfaces surface of at least a portion of said printable semiconductor elements, thereby establishing electrical contact between said grid or mesh and said at least a portion of said printable semiconductor elements.
+</P>
+<P>
+43. The method of claim 42 wherein electrical connection from said metal grid or mesh to said printable semiconductor elements is established by assembling said grid or mesh on the receiving surface of said device substrate or on external surfaces surface of at least a portion of said printable semiconductor elements by contact printing.
+</P>
+<P>
+44. A method of making a semiconductor-based optical system, said method comprising the steps of: providing an optical component having an internal surface;
+</P>
+<P>
+providing an electrically conducting grid or mesh on said internal surface of said optical component; providing a device substrate having a receiving surface;
+</P>
+<P>
+assembling a plurality of printable semiconductor elements on said receiving surface of said substrate via contact printing; wherein each of said printable semiconductor elements comprise a semiconductor structure having a length selected from the range of 0.0001 millimeters to 1000 millimeters, a width selected from the range of 0.0001 millimeters to 1000 millimeters and a thickness selected from the range of 0.00001 millimeters to 3 millimeters; and
+</P>
+<P>
+transferring said optical component having said grid or mesh to said device substrate, wherein said optical component is positioned on top of said semiconductor elements assembled on said on said receiving surface of said substrate, wherein said grid or mesh is provided between said optical component and said semiconductor elements, and wherein said grid or mesh is provided in electrical contact with at least a portion of said printable semiconductor elements.
+</P>
+<P>
+45. The method of claim 44 wherein each of said printable semiconductor elements comprises a semiconductor structure having a length selected from the range of 0.02 millimeters to 30 millimeters, and a width selected from the range of 0.02 millimeters to 30 millimeters.
+</P>
+<P>
+46. The method of claim 44 wherein each of said printable semiconductor elements comprises a semiconductor structure having a length selected from the range of 0.1 millimeters to 1 millimeter, and a width selected from the range of 0.1 millimeters to 1 millimeter.
+</P>
+<P>
+47. The method of claim 44 wherein each of said printable semiconductor elements comprises a semiconductor structure having a length selected from the range of 1 millimeters to 10 millimeters, and a width selected from the range of 1 millimeter to 10 millimeters.
+</P>
+<P>
+48. The method of claim 44 wherein each of said printable semiconductor elements comprises a semiconductor structure having a thickness selected from the range of 0.0003 millimeters to 0.3 millimeters.
+</P>
+<P>
+49. The method of claim 44 wherein each of said printable semiconductor elements comprises a semiconductor structure having a thickness selected from the range of 0.002 millimeters to 0.02 millimeters.
+</P>
+<P>
+50. The method of claim 44 wherein said mesh or grid comprise one or more metals.
+</P>
+<P>
+51. The method of claim 44 wherein said grid or mesh is more than 50% optically transparent.
+</P>
+<P>
+52. The method of claim 44 wherein said grid or mesh is a laminated structure.
+</P>
+<P>
+53. The method of claim 44 wherein said grid or mesh is bonded to an elastomer layer.
+</P>
+<P>
+54. The method of claim 53 wherein said elastomer layer is coupled to a glass substrate, wherein said elastomer layer is position between said grid or mesh and said glass substrate.
+</P>
+<P>
+55. The method of claim 44 wherein said grid or mesh has a fill factor less than 30%.
+</P>
+<P>
+56. The method of claim 44 wherein said step of transferring said optical component on top of said semiconductor elements assembled on said on said receiving surface of said substrate comprises assembling said optical component on top of said semiconductor elements assembled on said on said receiving surface of said substrate using contact printing.
+</P>
+<P>
+57. The method of claim 44 wherein said grid or mesh is assembled on said internal surface of said optical component via contact printing.
+</P>
+<P>
+58. The method of claim 44 wherein said grid or mesh is assembled on said internal surface of said optical component using a conformable transfer device.
+</P>
+<P>
+59. The method of claim 44 wherein said grid or mesh is assembled on said internal surface of said optical component using an elastomeric transfer device.
+</P>
+<P>
+60. The method of claim 44 wherein said printable semiconductor elements are assembled on said receiving surface using dry transfer contact printing.
+</P>
+<P>
+61. The method of claim 44 wherein said optical component is a light collecting optical component, a light concentrating optical component, a light diffusing optical component, a dispersing optical component or a light filtering optical component.
+</P>
+<P>
+62. The method of claim 44 wherein said optical component is a lens or lens array.
+</P>
+<P>
+63. The method of claim 44 wherein said optical component is a PDMS molded lens or a PDMS molded lens array.
+</P>
+<P>
+64. The method of claim 44 wherein said printable semiconductor elements are an electronic device or component of an electronic device.
+</P>
+<P>
+65. The method of claim 44 wherein said printable semiconductor element are one or more electronic device selected from the group consisting of: an LED, a laser, a solar cell, a sensor, a diode, a transistor, a p-n junction, an integrated circuit, and a photodiode.
+</P>
+<P>
+66. The method of claim 44 wherein said printable semiconductor element comprises said semiconductor structure integrated with at least one additional structure selected from the group consisting of: another semiconductor structure; a dielectric structure; conductive structure, and an optical structure.
+</P>
+<P>
+67. The method of claim 44 wherein said printable semiconductor element comprises said semiconductor structure integrated with at least one electronic device component selected from the group consisting of: an electrode, a dielectric layer, an optical coating, a metal contact pad and a semiconductor channel.
+</P>
+<P>
+68. The method of claim 44 wherein said printable semiconductor element has a thickness selected from the range of 100 nanometers to 100 microns
+</P>
+<P>
+69. A method of making a semiconductor-based optical system, said method comprising the steps of:
+</P>
+<P>
+providing a device substrate having a receiving surface;
+</P>
+<P>
+assembling a printable semiconductor element on said receiving surface of said substrate via contact printing; and
+</P>
+<P>
+planarizing said printable semiconductor element assembled on said receiving surface, thereby making said semiconductor-based optical system.
+</P>
+<P>
+70. The method of claim 69 wherein said planarizing step comprises embedding said printable semiconductor element into said device substrate.
+</P>
+<P>
+71. The method of claim 69 further comprising the step of providing a planarizing layer on said receiving surface of said substrate, wherein said planarizing step comprises embedding said printable semiconductor element in said planarizing layer provided on said receiving surface of said device substrate.
+</P>
+<P>
+72. The method of claim 71 wherein said planarizing layer is provided to said receiving surface prior to said step of assembling said printable semiconductor element on said receiving surface.
+</P>
+<P>
+73. The method of claim 71 wherein said planarizing layer is provided to said receiving surface after said step of assembling said printable semiconductor element on said receiving surface.
+</P>
+<P>
+74. The method of claim 71 wherein said planarizing layer has a thickness selected from the range of 10 nanometers to 1000 microns.
+</P>
+<P>
+75. The method of claim 71 wherein said planarizing layer comprises a prepolymer or a polymer.
+</P>
+<P>
+76. The method of claim 71 further comprising the step of curing, polymerizing or cross linking said planarizing layer having said printable semiconductor element embedded therein, thereby fixing said printable semiconductor element in said planarizing layer.
+</P>
+<P>
+77. The method of claim 69 wherein said planarizing step generates a substantially planar top surface on said device substrate having said printable semiconductor element.
+</P>
+<P>
+78. The method of claim 77 further comprising the steps of patterning one or more electrical interconnects to an exposed surface of said planarized printable semiconductor element of said substantially planar top surface.
+</P>
+<P>
+79. The method of claim 69 wherein said printable semiconductor element is a printable electronic device or electronic device component.
+</P>
+<P>
+80. The method of claim 69 wherein said printable semiconductor element is an LED, a laser, a solar cell, a sensor, a diode, a transistor, a p-n junction, an integrated circuit, or a photodiode.
+</P>
+<P>
+81. The method of claim 69 wherein said printable semiconductor element comprises said semiconductor structure integrated with at least one additional structure selected from the group consisting of: another semiconductor structure; a dielectric structure; conductive structure, and an optical structure.
+</P>
+<P>
+82. The method of claim 69 wherein said printable semiconductor element comprises said semiconductor structure integrated with at least one electronic device component selected from the group consisting of: an electrode, a dielectric layer, an optical coating, a metal contact pad and a semiconductor channel.
+</P>
+<P>
+83. The method of claim 69 wherein said printable semiconductor element has a length selected from the range of 0.0001 millimeters to 1000 millimeters, a width selected from the range of 0.0001 millimeters to 1000 millimeters and a thickness selected from the range of 0.00001 millimeters to 3 millimeters.
+</P>
+<P>
+84. The method of claim 69 wherein said printable semiconductor element comprises a semiconductor structure having a length selected from the range of 0.02 millimeters to 30 millimeters, and a width selected from the range of 0.02 millimeters to 30 millimeters.
+</P>
+<P>
+85. The method of claim 69 wherein said printable semiconductor element comprises a semiconductor structure having a length selected from the range of 0.1 millimeters to 1 millimeter, and a width selected from the range of 0.1 millimeters to 1 millimeter.
+</P>
+<P>
+86. The method of claim 69 wherein said printable semiconductor element comprises a semiconductor structure having a length selected from the range of 1 millimeters to 10 millimeters, and a width selected from the range of 1 millimeter to 10 millimeters.
+</P>
+<P>
+87. The method of claim 69 wherein said printable semiconductor element comprises a semiconductor structure having a thickness selected from the range of 0.0003 millimeters to 0.3 millimeters.
+</P>
+<P>
+88. The method of claim 69 wherein said printable semiconductor element comprises a semiconductor structure having a thickness selected from the range of 0.002 millimeters to 0.02 millimeters.
+</P>
+<P>
+89. The method of claim 69 comprising the steps: assembling a plurality of printable semiconductor elements on said receiving surface of said substrate via contact printing; and
+</P>
+<P>
+planarizing said plurality of printable semiconductor elements assembled on said receiving surface.
+</P>
+<P>
+90. The method of claim 89 wherein said plurality of printable semiconductor elements comprises one or more electronic devices selected from the group consisting of: a LED, a laser, a solar cell, a sensor, a diode, a transistor, a p-n junction, an integrated circuit, and a photodiode.
+</P>
+<P>
+91. A method of making a semiconductor-based optical system, said method comprising the steps of:
+</P>
+<P>
+providing an optical component having a receiving surface; and
+</P>
+<P>
+assembling a printable semiconductor element on said receiving surface of said optical component via contact printing; wherein said printable semiconductor elements comprises a semiconductor structure having a length selected from the range of 0.0001 millimeters to 1000 millimeters, a width selected from the range of 0.0001 millimeters to 1000 millimeters and a thickness selected from the range of 0.00001 millimeters to 3 millimeters.
+</P>
+<P>
+92. The method of claim 91 wherein said printable semiconductor element comprises a semiconductor structure having a length selected from the range of 0.02 millimeters to 30 millimeters, and a width selected from the range of 0.02 . millimeters to 30 millimeters.
+</P>
+<P>
+93. The method of claim 91 wherein said printable semiconductor element comprises a semiconductor structure having a length selected from the range of 0.1 millimeters to 1 millimeter, and a width selected from the range of 0.1 millimeters to 1 millimeter.
+</P>
+<P>
+94. The method of claim 91 wherein said printable semiconductor element comprises a semiconductor structure having a length selected from the range of 1 millimeters to 10 millimeters, and a width selected from the range of 1 millimeter to 10 millimeters.
+</P>
+<P>
+95. The method of claim 91 wherein said printable semiconductor element comprises a semiconductor structure having a thickness selected from the range of 0.0003 millimeters to 0.3 millimeters.
+</P>
+<P>
+96. The method of claim 91 wherein said printable semiconductor element comprises a semiconductor structure having a thickness selected from the range of 0.002 millimeters to 0.02 millimeters.
+</P>
+<P>
+97. The method of claim 91 comprising assembling a plurality of printable semiconductor elements on said receiving surface of said optical component via contact printing; wherein each of said printable semiconductor element comprises a semiconductor structure having a length selected from the range of 0.0001 millimeters to 1000 millimeters, a width selected from the range of 0.0001 millimeters to 1000 millimeters and a thickness selected from the range of 0.00001 millimeters to 3 millimeters.
+</P>
+<P>
+98. The method of claim 91 wherein said optical component is a light collecting optical component, a light concentrating optical component, a light diffusing optical component, a light dispersing optical component or a light filtering optical component.
+</P>
+<P>
+99. The method of claim 91 wherein said optical component is selected from the group consisting of a lens, a lens array, a reflector, an array of reflectors, a waveguide, an array of waveguides, an optical coating, an array of optical coatings, an optical filter, an array of optical filters, a fiber optic element and an array of fiber optic elements.
+</P>
+<P>
+100. The method of claim 91 wherein said optical component is a lens array fabricated by replica molding.
+</P>
+<P>
+101. The method of claim 91 wherein said optical component is an array of light collecting optical components, light concentrating optical components, light diffusing optical components, dispersing optical components or light filtering optical components.
+</P>
+<P>
+102. The method of claim 101 wherein each of said components in said array is spatially aligned with respect to at least one of said printable semiconductor elements.
+</P>
+<P>
+103. The method of claim 101 wherein each of said components in said array is individually addressed to at least one of said printable semiconductor elements.
+</P>
+<P>
+104. The method of claim 91 wherein said printable semiconductor element are electronic devices or components of electronic devices.
+</P>
+<P>
+105. The method of claim 91 wherein said printable semiconductor elements are one or more electronic device selected from the group consisting of: an LED, a laser, a solar cell, a sensor, a diode, a transistor, a p-n junction, an integrated circuit, and a photodiode.
+</P>
+<P>
+106. The method of claim 91 wherein said printable semiconductor element comprises said semiconductor structure integrated with at least one additional structure selected from the group consisting of: another semiconductor structure; a dielectric structure; conductive structure, and an optical structure.
+</P>
+<P>
+107. The method of claim 91 wherein said printable semiconductor element comprises said semiconductor structure integrated with at least one electronic device component selected from the group consisting of: an electrode, a dielectric layer, an optical coating, a metal contact pad and a semiconductor channel.
+</P>
+<P>
+108. The method of claim 91 wherein each of said printable semiconductor element has a thickness selected from the range of 100 nanometers to 100 microns.
+</P>
+<P>
+109. The method of claim 91 wherein said printable semiconductor element is assembled on said receiving surface via dry transfer contact printing.
+</P>
+<P>
+110. The method of claim 91 wherein said printable semiconductor element is assembled on said receiving surface using a conformable transfer device.
+</P>
+<P>
+111. The method of claim 110 wherein said assembling step comprises: providing said conformable transfer device having a contact surface;
+</P>
+<P>
+establishing conformal contact between an external surface of said printable semiconductor element and said contact surface of said conformable transfer device, wherein said conformal contact bonds said printable semiconductor element to said contact surface; contacting said printable semiconductor element bonded to said contact surface and said receiving surface of said optical component; and
+</P>
+<P>
+separating said printable semiconductor element and said contact surface of said conformable transfer device, thereby assembling said printable semiconductor element on said receiving surface of said optical component.
+</P>
+<P>
+112. The method of claim 91 wherein said printable semiconductor element is assembled on said receiving surface using an elastomeric transfer device.
+</P>
+<P>
+113. The method of claim 91 wherein said printable semiconductor element is assembled on said receiving surface using an elastomeric stamp.
+</P>
+<P>
+114. The method of claim 91 further comprising the step of providing an adhesive layer or planarizing layer to said receiving surface of said optical component.
+</P>
+<P>
+115. A semiconductor-based optical system comprising a device made by a method comprising the steps of:
+</P>
+<P>
+providing a device substrate having a receiving surface; and
+</P>
+<P>
+assembling a printable semiconductor element on said receiving surface of said substrate via contact printing; wherein said printable semiconductor element comprises a semiconductor structure having a length selected from the range of 0.0001 millimeters to 1000 millimeters, a width selected from the range of
+</P>
+<P>
+0.0001 millimeters to 1000 millimeters and a thickness selected from the range of 0.00001 millimeters to 3 millimeters.
+</P>
+<P>
+116. A semiconductor-based optical system comprising:
+</P>
+<P>
+a device substrate having a receiving surface; and
+</P>
+<P>
+a planarized printable semiconductor element supported by said receiving surface; wherein said device substrate having said printable semiconductor element has said substantially planar top surface that includes said printable semiconductor element, wherein said planarized printable semiconductor element comprises a semiconductor structure having a length selected from the range of 0.0001 millimeters to 1000 millimeters, a width selected from the range of 0.0001 millimeters to 1000 millimeters and a thickness selected from the range of 0.00001 millimeters to 3 millimeters.
+</P>
+<P>
+117. A semiconductor-based optical system comprising:
+</P>
+<P>
+a device substrate having a receiving surface;
+</P>
+<P>
+a plurality of printable semiconductor elements supported by said receiving surface; wherein each of said printable semiconductor element comprises a semiconductor structure having a length selected from the range of 0.0001 millimeters to 1000 millimeters, a width selected from the range of 0.0001 millimeters to 1000 millimeters and a thickness selected from the range of
+</P>
+<P>
+0.00001 millimeters to 3 millimeters; and
+</P>
+<P>
+a grid or mesh provided in electrical contact with at least a portion of said plurality of printable semiconductor elements supported by said receiving surface, said grid or mesh comprising an electrically conductive material, wherein said grid or mesh provides an electrical interconnect structure or electrode of said optical system.
+</P>
+</Claims>
+<Also_published_as>
+WO2008143635A1;US2011266561A1;US2010283069A1;US7972875B2;TW200848812A;JP2010517265A;CN102176486A;CN101617406A;CN101617406B
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method, system, holder and assembly for transferring templates during imprint lithography processes
+</Title>
+<PublicationNumber>
+EP2177951A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MEISSL MARIO J [US]
+</Name>
+<Name>
+CHOI BYUNG-JIN [US]
+</Name>
+<Name>
+BABBS DANIEL A [US]
+</Name>
+<Name>
+BAILEY HILLMAN L [US]
+</Name>
+<Name>
+MEISSL, MARIO J
+</Name>
+<Name>
+CHOI, BYUNG-JIN
+</Name>
+<Name>
+BABBS, DANIEL, A
+</Name>
+<Name>
+BAILEY, HILLMAN, L
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MOLECULAR IMPRINTS INC [US]
+</Name>
+<Name>
+MOLECULAR IMPRINTS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2177951
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20100151773
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-05-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040751888
+</PriorityNumber>
+<PriorityDate>
+2004-05-11
+</PriorityDate>
+<PriorityNumber>
+US20030438224
+</PriorityNumber>
+<PriorityDate>
+2003-05-14
+</PriorityDate>
+<PriorityNumber>
+US20030437476
+</PriorityNumber>
+<PriorityDate>
+2003-05-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B41F11/00
+</Class>
+<Class>
+B41L39/00
+</Class>
+<Class>
+B81C99/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+B29C
+</Class>
+</IPC>
+<NCL>
+<Class>
+B41F11/00
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+Disclosed are a method system holder (40a) and template for transferring template (26). A motion stage having a template transfer holder is provided. The transfer holder is adapted to have a patterned mold facing the motion stage.
+</Abstract>
+<Claims>
+<P>
+1. A template transfer assembly (340; 440; 540; 640) comprising:
+</P>
+<P>
+a template transfer substrate (344; 444; 544; 644);
+</P>
+<P>
+a template (326; 426; 526; 626) having first and second sides, with said first side facing away from said template transfer substrate (344; 444; 544; 644) and said second side facing said template transfer substrate and having mold pattern (328; 428; 528; 628) formed thereon; and
+</P>
+<P>
+polymerized imprint material (334; 434; 534; 634) disposed between said second side and said template transfer substrate (344; 444; 544; 644) to fixedly attach said template to said template transfer substrate.
+</P>
+<P>
+2. The template transfer assembly as recited in claim 1 wherein said polymerized imprint material (334; 434; 534; 634) surrounds a sub-section of said mold or surrounds said entire mold.
+</P>
+<P>
+3. The template transfer assembly as recited in claim 1 or in claim 2 wherein said polymerized imprint material (434; 534; 634) hermetically seals a sub-portion of said mold.
+</P>
+<P>
+4. The template transfer assembly as recited in claim 1 or in claim 2 wherein said polymerized imprint material (334; 434; 534; 634) encapsulates said entire mold hermetically sealing said mold from an ambient.
+</P>
+<P>
+5. The template transfer assembly as recited in any one of claims 1 to 4 wherein said template further includes a perimeter groove (537; 638) surrounding said mold with said polymerized imprint material (534; 634) disposed between said template transfer substrate and a region of said second side that is in superimposition with said perimeter groove.
+</P>
+<P>
+6. The template transfer assembly as recited in any one of the preceding claims wherein said template transfer substrate (344; 444; 544; 644) comprises a semiconductor wafer, optionally wherein said semiconductor wafer has an additional template coupled thereto.
+</P>
+<P>
+7. The template transfer assembly as recited in any one of the preceding claims wherein mold pattern (628) has grooves (628a) and protrusions (628b), the grooves (628a) including a nadir surface (628c) and the protrusions (628b) including an apex surface (628d).
+</P>
+<P>
+8. The template transfer assembly as recited in claim 7, wherein:
+</P>
+<P>
+one or more of nadir surfaces (628c) are spaced apart from major surface (626a) a first distance,
+</P>
+<P>
+one or more apex surfaces (628d) are spaced-apart from major surface (626a) a second distance,
+</P>
+<P>
+a surface (638) circumscribes either all or a subset of the grooves (628a) and the protrusions (628b), said surface (638) being spaced apart from major surface (626a) a third distance.
+</P>
+<P>
+9. The template transfer assembly as recited in claim 8, wherein a mesa (636) is defined by third distance differing from both first and second distances; preferably wherein the third distance is less than either of first and second distances.
+</P>
+<P>
+10. The template transfer assembly as recited in claim 9, wherein imprinting material (634) is disposed in regions between surface (638) and surface (631) of template transfer substrate (644) to maintain a fixed position between template (626) and template transfer substrate (644) without imprint material (634) contacting mold pattern (628) on template (626).
+</P>
+<P>
+11. An imprint lithography system comprising:
+</P>
+<P>
+an imprint head (18);
+</P>
+<P>
+a template transfer assembly (340; 440; 540; 640) according to any one of the preceding claims.
+</P>
+<P>
+12. A method of transferring an imprint lithography template, said method comprising:
+</P>
+<P>
+providing a template transfer substrate (344; 444; 544; 644);
+</P>
+<P>
+forming a selected volume of imprinting fluid onto said template transfer substrate (344; 444; 544; 644);
+</P>
+<P>
+placing said template (326; 426; 526; 626) upon said selected volume; and
+</P>
+<P>
+converting said imprinting fluid to solid imprint material (334; 434; 534; 634), with said selected volume being a quantity sufficient to fixedly attach said template to said template transfer substrate while maintaining a space between a mold (328; 428; 528; 628) and said template transfer substrate.
+</P>
+<P>
+13. The method as recited in claim 12 wherein converting further includes urging said template (326; 426; 526; 626) upon said selected volume so that, upon converting said imprint material, said solid imprint material (334; 434; 534; 634) either surrounds said mold entirely or surrounds a portion of said mold.
+</P>
+<P>
+14. The method as recited in claim 11 or 12 wherein converting further includes urging said template (326; 426; 526; 626) upon said selected volume so that, upon converting said imprint material, said solid imprint material either hermetically seals a sub-portion of said mold or encapsulates said mold hermetically sealing said mold from an ambient.
+</P>
+<P>
+15. A method of removing a template from an imprint head in an imprint lithography system including:
+</P>
+<P>
+loading (722) the template transfer substrate (444) onto a wafer chuck (21) in the imprint lithography system (10);
+</P>
+<P>
+dispensing (724) a selected volume of imprinting fluid onto the surface of the template transfer substrate (444);
+</P>
+<P>
+achieving a relative movement (726) between the imprint head (18) holding a template and the template transfer substrate (444) so that the template contacts the imprinting fluid;
+</P>
+<P>
+converting (728) the imprinting fluid to solid imprint material; and
+</P>
+<P>
+releasing the template from the imprint head (18).
+</P>
+</Claims>
+<Also_published_as>
+WO2004103666A2;WO2004103666A3;KR20060017514A;JP2007504683A;EP1622750A2;EP1622750A4;EP1622750B1;AT487579T
+</Also_published_as>
+</BiblioData>

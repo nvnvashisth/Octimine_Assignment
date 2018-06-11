@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A novel SyAF structure to fabricate Mbit MTJ MRAM
+</Title>
+<PublicationNumber>
+EP1968130A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HORNG CHENG T [US]
+</Name>
+<Name>
+RU-YING TONG [US]
+</Name>
+<Name>
+TORNG CHYU-JIUH [US]
+</Name>
+<Name>
+LIU GUANGLI [US]
+</Name>
+<Name>
+HORNG, CHENG T
+</Name>
+<Name>
+RU-YING, TONG
+</Name>
+<Name>
+TORNG, CHYU-JIUH
+</Name>
+<Name>
+LIU, GUANGLI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MAGIC TECHNOLOGIES INC [US]
+</Name>
+<Name>
+MAGIC TECHNOLOGIES INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1968130
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080368008
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20070715728
+</PriorityNumber>
+<PriorityDate>
+2007-03-08
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01F10/32
+</Class>
+<Class>
+H01L43/10
+</Class>
+<Class>
+H01L43/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01F10/32N6A
+</Class>
+<Class>
+H01F41/30D4D
+</Class>
+<Class>
+H01L43/10
+</Class>
+<Class>
+H01L43/12
+</Class>
+</NCL>
+<Abstract>
+A MTJ that minimizes error count (EC) while achieving high MR value, low magnetostriction, and a RA of about 1100  CR -[mu]m 2 for 1 Mbit MRAM devices is disclosed. The MTJ has a composite AP1 pinned layer made of a lower amorphous Co 60 Fe 20 B 20 layer and an upper crystalline Co 75 Fe 25 layer to promote a smoother and more uniform AlOx tunnel barrier. A &quot;stronger oxidation&quot; state is realized in the AlOx layer by depositing a thicker than normal Al layer or extending the ROX cycle time for Al oxidation and thereby reduces tunneling hot spots. The NiFe free layer has a low Fe content of about 8 to 21 atomic % and the Hf content in the NiFeHf capping layer is from 10 to 25 atomic %. A Ta hard mask is formed on the capping layer. EC (best) is reduced from &amp;gt;100 ppm to &amp;lt;10 ppm by using the preferred MTJ configuration.
+</Abstract>
+<Claims>
+<P>
+1. A MTJ element for a magnetic memory device, comprising:
+</P>
+<P>
+a pinned layer having an AP2/coupling layer/AP1 configuration wherein the AP2 layer is formed on an AFM layer and the AP1 layer is a composite having a lower amorphous CoFeB layer and an upper crystalline CoFe layer;
+</P>
+<P>
+an AlOx tunnel barrier formed on the crystalline CoFe layer;
+</P>
+<P>
+a free layer with low magnetostriction and low Hc formed on the AlOx tunnel barrier;
+</P>
+<P>
+and a capping layer formed on the free layer wherein the capping layer is comprised of NiFeM where M is a metal having an oxidation potential greater than that of Ni and Fe.
+</P>
+<P>
+2. The MTJ element of claim 1 wherein the amorphous CoFeB AP1 pinned layer has a composition represented by CoXFeYBZ where x+y+z = 100, x is from about 40 to 60 atomic %, y is from about 20 to 40 atomic %, and z is from about 15 to 25 atomic %, and the upper crystalline CoFe layer has a composition represented by CoVFeW where v+w = 100 and w is about 20 to 50 atomic %.
+</P>
+<P>
+3. The MTJ element of claim 1 wherein the free layer is comprised of NiRFeS where r+s = 100 and s is from about 8 to 21 atomic%.
+</P>
+<P>
+4. The MTJ element of claim 3 wherein M = Hf and the NiFeHf layer has a composition represented by (NiRFeS)100-THfT where T is about 10 to 25 atomic %.
+</P>
+<P>
+5. The MTJ element of claim 4 wherein the capping layer is further comprised of a Ta layer formed on the NiFeHf layer.
+</P>
+<P>
+6. The MTJ element of claim 5 wherein the capping layer is further comprised of a Ru layer formed on the Ta layer to give a NiFeHf/Ta/Ru capping layer configuration.
+</P>
+<P>
+7. The MTJ element of claim 1 wherein a Ta hard mask about 400 to 600 Angstroms thick is formed on the capping layer.
+</P>
+<P>
+8. The MTJ element of claim 1 wherein the magnetic memory device is a 1 Mbit MRAM and the MTJ is further comprised of a seed layer formed on a substrate and an AFM layer formed on the seed layer, said AFM layer contacts the AP2 layer in the pinned layer.
+</P>
+<P>
+9. A method of forming an MTJ element on a substrate in a magnetic device, comprising:
+</P>
+<P>
+(a) forming a pinned layer in a MTJ stack of layers on a substrate wherein the pinned layer has an AP2/coupling layer/AP1 configuration in which the AP2 layer is formed on an AFM layer and the AP1 layer is a composite having a lower amorphous CoFeB layer and an upper crystalline CoFe layer;
+</P>
+<P>
+(b) forming an AlOx tunnel barrier on the upper crystalline CoFe pinned layer by a method that comprises a radical oxidation (ROX) or plasma oxidation of an Al layer;
+</P>
+<P>
+(c) forming a free layer having a low magnetostriction on the AlOx tunnel barrier; and
+</P>
+<P>
+(d) forming a capping layer on said free layer wherein the capping layer is comprised of NiFeM where M is a metal having an oxidation potential greater than that of Ni and Fe.
+</P>
+<P>
+10. The method of claim 9 wherein the substrate is a bottom conductor in a MRAM device and the MTJ stack is further comprised of a seed layer on the substrate and an AFM layer on the seed layer, said AFM layer contacts the AP2 layer.
+</P>
+<P>
+11. The method of claim 9 wherein all layers in the MTJ stack are laid down in a low pressure sputter deposition system having multiple chambers including an oxidation chamber for the ROX or plasma oxidation step.
+</P>
+<P>
+12. The method of claim 9 wherein the amorphous CoFeB AP1 pinned layer has a composition represented by CoXFeYBZ where x+y+z = 100, x is about 40 to 60 atomic %, y is about 20 to 40 atomic %, and z is about 15 to 25 atomic %, and the upper crystalline CoFe layer has a composition represented by CoVFeW where v+w = 100 and w is about 20 to 50 atomic %.
+</P>
+<P>
+13. The method of claim 9 wherein the free layer is comprised of NiRFeS where r+s = 100 and s is about 8 to 21 atomic%.
+</P>
+<P>
+14. The method of claim 9 wherein forming the AlOx tunnel barrier comprises depositing an Al layer about 8.25 to 9 Angstroms thick on the upper crystalline CoFe layer followed by a ROX process comprising about 500 to 800 Watts RF power and with a flow rate of about 0.3 to 0.6 slm O2 for about 50 to 120 seconds.
+</P>
+<P>
+15. The method of claim 13 wherein M = Hf, Zr, or Nb and the NiFeM capping layer has a thickness of about 15 to 50 Angstroms.
+</P>
+<P>
+16. The method of claim 15 wherein M = Hf and the NiFeHf layer has a composition represented by (NiRFeS)100-THfT where T is about 10 to 25 atomic %.
+</P>
+<P>
+17. The method of claim 16 further comprised of forming a Ta layer on the NiFeHf layer to give a NiFeHf/Ta capping layer configuration.
+</P>
+<P>
+18. The method of claim 17 further comprised of forming a Ru layer on the Ta layer to give a NiFeHf/Ta/Ru capping layer configuration.
+</P>
+<P>
+19. The method of claim 9 further comprised of forming a Ta hard mask having a thickness of about 400 to 600 Angstroms on the capping layer.
+</P>
+<P>
+20. The method of claim 9 further comprised of annealing said MTJ element by applying about a 10000 Oe magnetic field in a certain direction at a temperature between about 250 deg. C and 300 deg. C for a period of about 1 to 5 hours.
+</P>
+</Claims>
+<Also_published_as>
+EP1968130A3;US2008217710A1;US7663131B2;JP2008227499A
+</Also_published_as>
+</BiblioData>

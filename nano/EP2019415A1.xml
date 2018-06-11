@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Multi-beam source
+</Title>
+<PublicationNumber>
+EP2019415A1
+</PublicationNumber>
+<Inventor>
+<Name>
+PLATZGUMMER ELMAR DR [AT]
+</Name>
+<Name>
+PLATZGUMMER, ELMAR, DR
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IMS NANOFABRICATION AG [AT]
+</Name>
+<Name>
+IMS NANOFABRICATION AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2019415
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080450110
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+AT20070001174
+</PriorityNumber>
+<PriorityDate>
+2007-07-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01J37/12
+</Class>
+<Class>
+H01J37/30
+</Class>
+<Class>
+H01J37/317
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01J37/12
+</Class>
+<Class>
+H01J37/30A4
+</Class>
+<Class>
+H01J37/317B4
+</Class>
+</NCL>
+<Abstract>
+A multi-beam source (101) for generating a plurality of beamlets (112) of energetic electrically charged particles, the multi-beam source comprising an illumination system (102) generating an illuminating beam of charged particles and a beam-forming system (103) being arranged after the illumination system as seen in the direction of the beam and adapted to form a plurality of telecentric or homocentric beamlets (112) out of the illuminating beam, said beam forming system (103) comprising a beam-splitting means and an electrical zone device (109), said electrical zone comprising a composite electrode (110) being composed of a number of substantially planar partial electrodes, adapted to be applied different electrostatic potentials and thus influencing the beamlets.
+</Abstract>
+<Claims>
+<P>
+1. A multi-beam source (101) for generating a plurality of beamlets (112) of energetic electrically charged particles, preferably ions, the multi-beam source comprising an illumination system (102) and a beam-forming system (103), wherein
+</P>
+<P>
+the illumination system (102) is adapted to generate energetic electrically charged particles and to form said particles into a wide illuminating beam, and
+</P>
+<P>
+the beam forming system (103) is configured to be illuminated by the illuminating beam emerging from the illumination system and is adapted to form a plurality of preferably substantially homocentric or telecentric beamlets (112) out of the beam, said beam forming system comprising
+</P>
+<P>
+- a beam-splitting means having a plurality of apertures transparent to the energetic particles of the particle beam to form a plurality of beamlets out of the beam, and
+</P>
+<P>
+- an electrical zone device (109), said electrical zone device comprising a composite electrode (110) being positioned along a two-dimensional plane oriented orthogonally to an optical axis (113) of the electrical zone device and having lateral dimensions covering at least an area permeated by the particle beam, said composite electrode being composed of a number of substantially planar partial electrodes, said partial electrodes being arranged adjoining to each other according to a partitioning of the surface area of the electrical zone device and said partial electrodes being adapted to be applied different electrostatic potentials, the electrical zone device further comprising a plurality of openings transparent to the energetic particles of the particle beam.
+</P>
+<P>
+2. The multi-beam source of claim 1, wherein the beam-splitting means and the electrical zone device are arranged in consecutive order and the openings of the electrical zone device are aligned with the apertures of the beam-splitting means.
+</P>
+<P>
+3. The multi-beam source of claim 1 or 2, wherein the beam-splitting means is integrated in the electrical zone device.
+</P>
+<P>
+4. The multi-beam source of any one of claims 1 to 3, having at least one additional electrode, in particular an annular electrode (108), said electrode being positioned in proximity of the electrical zone device (109) but out of plane of the composite electrode (110) of said electrical zone device.
+</P>
+<P>
+5. The multi-beam source of claim 4, wherein the at least one additional electrode comprises at least one multi-pole electrode, the at least one multi-pole electrode being positioned out of plane of the composite electrode (110) of the electrical zone device (109).
+</P>
+<P>
+6. The multi-beam source of any one of claims 1 to 5, wherein the partial electrodes (718, 741) of the electrical zone device (709) are arranged such that each opening (722) of the electrical zone device is associated with a set of partial electrodes (718, 741), preferably four partial electrodes, being located adjoining to the respective opening.
+</P>
+<P>
+7. The multi-beam source of any one of claims 1 to 6, wherein the partial electrodes (418, 418&apos;, 418&quot;, 618) of the at least one electrical zone device are shaped as concentric rings, centered at an optical axis of the electrical zone device, or as sectors arranged around an optical axis of the electrical zone device, or as sectors arranged around a central area of the electrical zone device, which central area is formed by at least one further central partial electrode (419).
+</P>
+<P>
+8. The multi-beam source of any one of claims 1 to 7, wherein a resistive material (521&apos;) is provided in the gaps (421, 521, 621, 821) between neighboring partial electrodes (418, 418&apos;, 418&quot;, 518, 618, 818) of the at least one electrical zone device (409, 409&apos;, 409&quot;, 509, 609&apos;, 809).
+</P>
+<P>
+9. The multi-beam source of any one of claims 1 to 8, wherein openings (522, 722, 822) of the plurality of openings of the electrical zone device (509, 709, 809) are present only within the areas of each of the partial electrodes of the electrical zone device.
+</P>
+<P>
+10. The multi-beam source of any one of claims 1 to 9, wherein at least one of said electrical zone devices (209, 909, 909&apos;, 1109, 1109&apos;) is positioned immediately in front of or after a beam-splitting means (211, 911, 1111) as seen along the direction of the particle beam.
+</P>
+<P>
+11. The multi-beam source of any one of claims 1 to 10, wherein a first electrical zone device (209, 909, 1109) is positioned immediately in front of the beam-splitting means (211, 911, 1111) (the first one, if more than one are present) as seen along the direction of the particle beam and a second electrical zone device (909&apos;,1109&apos;) is positioned immediately after the beam-splitting means (211, 911, 1111) (the last one, if more than one are present) as seen along the direction of the particle beam.
+</P>
+<P>
+12. The multi-beam source of claim 11, wherein the partial electrodes (518, 718) of the electrical zone device (509, 709) are arranged such that each opening (522, 722) of the plurality of openings of the electrical zone device is associated with a set of said partial electrodes being located adjoining to the respective opening.
+</P>
+<P>
+13. The multi-beam source of any one of claims 1 to 12, comprising a blanking device (214, 314) for switching off the passage of selected beamlets, said blanking device (214, 314) being realized in a substantially plate-like shape, comprising a plurality of openings, each opening being provided with at least one controllable deflection means (315) for deflecting particles radiated through the opening off their nominal path.
+</P>
+<P>
+14. The multi-beam source of any one of claims 1 to 13, comprising at least one correction lens arrangement (1029, 1029&apos;) for the correction of geometric aberrations of the multi-beam source, the correction lens arrangement (1029, 1029&apos;) being realized having substantially a plate-like shape and comprising a plurality of orifices (1044), the orifices (1044) widening to opening spaces at the beginning or the end of the orifice (1044) as seen in the direction of the particle beam, said opening spaces configured to act as correction lenses upon receiving the respective beamlets, said opening spaces further having a width varying over the area of the correction lens arrangement, thus defining a varying correction lens strength, the correction lens arrangement (1029, 1029&apos;) being located in front of or after the electrical zone device as seen in the direction of the particle beam.
+</P>
+<P>
+13. The multi-beam source of any one of claims 1 to 12, wherein the electrical zone device (109, 209, 309) is provided with a cover layer, preferably made of electrically conductive material, to protect subsequent structures of the electrical zone device.
+</P>
+<P>
+14. An electrical zone device (109, 209) for use in a multi-beam source (101, 201) according to any one of claims 1 to 13, said electrical zone device comprising a composite electrode (110) having lateral dimensions covering the whole of the electrical zone device, said composite electrode being composed of a number of substantially planar partial electrodes, said partial electrodes being arranged adjoining to each other according to a partitioning of the surface area of the electrical zone device and said partial electrodes being adapted to be applied different electrostatic potentials, the electrical zone device further comprising a plurality of openings.
+</P>
+<P>
+15. An apparatus for multi-beam lithography (1431, 1531, 1631, 1731) for irradiating a target (1433, 1533, 1633, 1733) by means of a beam of energetic electrically charged particles, comprising - a multi-beam source (1501, 1701) as described in any one of claims 1 to 13 for generating a plurality of substantially telecentric/parallel beamlets out of the beam of energetic electrically charged particles, and
+</P>
+<P>
+- a multi-beam optical system (1637,1737) positioned after the multi-beam source as seen in the direction of the beam for focusing the beamlets onto the surface of the target.
+</P>
+<P>
+16. Apparatus of claim 15, wherein at least one blanking means is provided for switching off the passage of selected beamlets, said blanking means having a plurality of openings, each opening corresponding to a respective aperture of the beam-splitting means of the multi-beam source described in claim 1, each opening being provided with a controllable deflection means for deflecting particles radiated through the opening off their path to an absorbing surface within the multi-beam lithography apparatus, said blanking means being located before the multi-beam optical system as seen in the direction of the particle beam and/or being integrated in the multi-beam optical system.
+</P>
+<P>
+17. Apparatus of claim 15 or 16, wherein for each beamlet a deflection unit (1639, 1739, 1640,1740) is provided, said deflection unit being positioned within or before the multi-beam optical system as seen in the direction of the beam, said deflection unit being adapted to correct individual imaging aberrations of its respective beamlet with respect to a desired position on the target and/or to position its respective beamlet during a writing process on the target.
+</P>
+<P>
+18. Apparatus of any one of claims 15 to 17, wherein for each beamlet an electrostatic lens arrangement (1639, 1739) is provided as a means to adjust the diameter of the beamlet and/or the position of the beamlet on the target, wherein the electrostatic lens array (1639, 1739) is placed within the multi-beam optical system.
+</P>
+</Claims>
+<Also_published_as>
+US2009026389A1;US8183543B2;JP2009032691A
+</Also_published_as>
+</BiblioData>

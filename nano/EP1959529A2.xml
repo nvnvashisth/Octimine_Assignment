@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Red surface emitting laser element, image forming device, and image display apparatus
+</Title>
+<PublicationNumber>
+EP1959529A2
+</PublicationNumber>
+<Inventor>
+<Name>
+TAKEUCHI TETSUYA [JP]
+</Name>
+<Name>
+UCHIDA MAMORU [JP]
+</Name>
+<Name>
+MIYAMOTO TOMOYUKI [JP]
+</Name>
+<Name>
+KOYAMA FUMIO [JP]
+</Name>
+<Name>
+TAKEUCHI, TETSUYA
+</Name>
+<Name>
+UCHIDA, MAMORU
+</Name>
+<Name>
+MIYAMOTO, TOMOYUKI
+</Name>
+<Name>
+KOYAMA, FUMIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1959529
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080002642
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070033788
+</PriorityNumber>
+<PriorityDate>
+2007-02-14
+</PriorityDate>
+<PriorityNumber>
+JP20080024485
+</PriorityNumber>
+<PriorityDate>
+2008-02-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G06K7/10
+</Class>
+<Class>
+H01S5/183
+</Class>
+<Class>
+H01S5/343
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/343E
+</Class>
+</NCL>
+<Abstract>
+A red surface emitting laser element (3000) includes a first reflector (302), a second reflector (308) including a p-type semiconductor multilayer film, an active layer (305) between the first reflector (302) and the second reflector (308), and a p-type semiconductor spacer layer (307) between the active layer (305) and the second reflector (308), the p-type semiconductor spacer layer (307) having a thickness of 100 nm or more and 350 nm or less.
+</Abstract>
+<Claims>
+<P>
+1. A red surface emitting laser element (3000) comprising:
+</P>
+<P>
+a first reflector (302);
+</P>
+<P>
+a second reflector (308) including a p-type semiconductor multilayer film;
+</P>
+<P>
+an active layer (305) between the first reflector (302) and the second reflector (308); and
+</P>
+<P>
+a p-type semiconductor spacer layer (307) between the active layer (305) and the second reflector (308), the p-type semiconductor spacer layer (307) having a thickness of 100 nm or more and 350 nm or less.
+</P>
+<P>
+2. The red surface emitting laser element (3000) according to claim 1, wherein the thickness of the p-type semiconductor spacer layer (307) is 150 nm or more and 300 nm or less.
+</P>
+<P>
+3. The red surface emitting laser element (3000) according to claim 1 or 2, wherein the p-type semiconductor spacer layer (307) contains aluminum, indium, and phosphorus.
+</P>
+<P>
+4. The red surface emitting laser element (3000) according to claim 1, wherein the p-type semiconductor spacer layer (307) contains AlxGayIn1-x-yP (0.45 x + y 0.55, 0.25 x 0.55, 0 y 0.30).
+</P>
+<P>
+5. The red surface emitting laser element (3000) according to claim 4, wherein the p-type semiconductor spacer layer (307) contains AlxGayIn1-x-yP (0.50 x + y 0.52, 0.35 x 0.52, 0 y 0.17).
+</P>
+<P>
+6. The red surface emitting laser element (3000) according to any one of claims 1 to 5, wherein the p-type semiconductor multilayer film contains aluminum and arsenic.
+</P>
+<P>
+7. The red surface emitting laser element (3000) according to any one of claims 1 to 6, wherein the p-type semiconductor multilayer film includes a plurality of pairs of layers stacked, each pair including a first layer and a second layer having different refractive indices; and
+</P>
+<P>
+wherein at least one of the first layer and the second layer contains aluminum, gallium, and arsenic.
+</P>
+<P>
+8. The red surface emitting laser element (3000) according to any one of claims 1 to 7, wherein the second reflector (308) is composed of a semiconductor material having a lattice matching with GaAs.
+</P>
+<P>
+9. The red surface emitting laser element (3000) according to any one of claims 1 to 8, wherein the active layer (305) is a quantum well active layer including a layer composed of GaInP and a layer composed of AlGaInP.
+</P>
+<P>
+10. The red surface emitting laser element (3000) according to any one of claims 1 to 9, wherein the first reflector (302) includes an n-type semiconductor multilayer film, and the red surface emitting laser element (3000) further comprises an n-type semiconductor spacer layer (303) between the first reflector and the active layer.
+</P>
+<P>
+11. The red surface emitting laser element (3000) according to any one of claims 1 to 10, further comprising another spacer layer between the p-type semiconductor spacer layer and the active layer.
+</P>
+<P>
+12. The red surface emitting laser element (3000) according to claim 10, wherein the active layer (305), the p-type semiconductor spacer layer (307), and the n-type semiconductor spacer layer (303) constitute a resonator, and the resonator has an asymmetrical structure in which the active layer (305) is not located at the center of the resonator in a cavity length direction.
+</P>
+<P>
+13. The red surface emitting laser element (3000) according to claim 12, wherein a thickness of the p-type semiconductor spacer layer (307) is larger than a thickness of the n-type semiconductor spacer layer (303).
+</P>
+<P>
+14. The red surface emitting laser element (3000) according to any one of claims 1 to 13, wherein a cavity length of a resonator including the active layer (305) is 1.5 wavelength or more and 4 wavelength or less.
+</P>
+<P>
+15. A red surface emitting laser element comprising:
+</P>
+<P>
+a first reflector (302);
+</P>
+<P>
+a second reflector (308) including a p-type AlGaAs semiconductor multilayer film;
+</P>
+<P>
+an active layer (305) between the first reflector (302) and the second reflector (308); and
+</P>
+<P>
+a p-type AlInP semiconductor spacer layer or a p-type AlGaInP semiconductor spacer layer (307) having a thickness of 100 nm or more and 350 nm or less between the active (305) layer and the second reflector (308).
+</P>
+<P>
+16. A red surface emitting laser element comprising:
+</P>
+<P>
+a first reflector (302);
+</P>
+<P>
+a second reflector (308) including a p-type semiconductor multilayer film;
+</P>
+<P>
+an active layer (305) between the first reflector (302) and the second reflector (308); and
+</P>
+<P>
+a p-type semiconductor spacer layer (307) between the active layer (305) and the second reflector (308),
+</P>
+<P>
+wherein a conduction band edge at X point of the p-type semiconductor multilayer film is lower than a conduction band edge at X point of the p-type semiconductor spacer layer (307), and
+</P>
+<P>
+a thickness of the p-type semiconductor spacer layer (307) is 100 nm or more and 350 nm or less.
+</P>
+<P>
+17. The red surface emitting laser element (3000) according to any one of claims 1 to 16, wherein the active layer (305) comprises a plurality of active layers.
+</P>
+<P>
+18. An image-forming device comprising:
+</P>
+<P>
+the red surface emitting laser element (3000) according to any one of claims 1 to 17; and
+</P>
+<P>
+a deflector (910) for reflecting a laser beam output from the laser element (3000) to conduct scanning.
+</P>
+<P>
+19. The image-forming device according to claim 18, further comprising:
+</P>
+<P>
+a photosensitive member (900) for forming an electrostatic latent image by a beam deflected by the deflector (910);
+</P>
+<P>
+a charger (902);
+</P>
+<P>
+a developer (904); and
+</P>
+<P>
+a fixer (908).
+</P>
+<P>
+20. An image-display apparatus comprising:
+</P>
+<P>
+the red surface emitting laser element (3000) according to any one of claims 1 to 17; and
+</P>
+<P>
+a deflector (910) for reflecting a laser beam output from the laser element (3000) to conduct scanning.
+</P>
+</Claims>
+<Also_published_as>
+EP1959529A3;EP1959529B1;US2010322669A1;US2009252532A1;US8116344B2;US2008212631A1;US7809040B2
+</Also_published_as>
+</BiblioData>

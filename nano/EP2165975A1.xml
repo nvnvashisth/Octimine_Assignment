@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC IRON OXIDE PARTICLE, MAGNETIC MATERIAL, AND RADIO WAVE ABSORBER
+</Title>
+<PublicationNumber>
+EP2165975A1
+</PublicationNumber>
+<Inventor>
+<Name>
+OHKOSHI SHIN-ICHI [JP]
+</Name>
+<Name>
+SAKURAI SHUNSUKE [JP]
+</Name>
+<Name>
+YORINAGA TAKENORI [JP]
+</Name>
+<Name>
+MATSUMOTO KAZUYUKI [JP]
+</Name>
+<Name>
+SASAKI SHINYA [JP]
+</Name>
+<Name>
+OHKOSHI, SHIN-ICHI
+</Name>
+<Name>
+SAKURAI, SHUNSUKE
+</Name>
+<Name>
+YORINAGA, TAKENORI
+</Name>
+<Name>
+MATSUMOTO, KAZUYUKI
+</Name>
+<Name>
+SASAKI, SHINYA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV TOKYO [JP]
+</Name>
+<Name>
+DOWA ELECTRONICS MATERIALS CO [JP]
+</Name>
+<Name>
+THE UNIVERSITY OF TOKYO
+</Name>
+<Name>
+DOWA ELECTRONICS MATERIALS CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2165975
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080764894
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP59976
+</PriorityNumber>
+<PriorityDate>
+2008-05-30
+</PriorityDate>
+<PriorityNumber>
+JP20070146182
+</PriorityNumber>
+<PriorityDate>
+2007-05-31
+</PriorityDate>
+<PriorityNumber>
+JP20070260071
+</PriorityNumber>
+<PriorityDate>
+2007-10-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01G49/00
+</Class>
+<Class>
+C01G51/00
+</Class>
+<Class>
+H01F1/00
+</Class>
+<Class>
+H01F1/37
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G49/00D
+</Class>
+<Class>
+C01G51/00D
+</Class>
+<Class>
+C01G53/00D
+</Class>
+<Class>
+C04B35/26H
+</Class>
+<Class>
+C04B35/26K
+</Class>
+<Class>
+C04B35/628B2B
+</Class>
+<Class>
+C04B35/628B2D
+</Class>
+<Class>
+C04B35/628B2H8
+</Class>
+<Class>
+H01F1/34B2
+</Class>
+<Class>
+H01F1/37
+</Class>
+<Class>
+H01Q17/00
+</Class>
+</NCL>
+<Abstract>
+Disclosed is a magnetic material having high Hc and and High Curie point, which is capable of controlling such magnetic characteristics without requiring rare or expensive raw materials. Specifically disclosed is a magnetic material composed of particles of a magnetic iron oxide which is represented by the following general formula: [mu]-A x B y Fe 2-x-y O 3 or [mu]-A x B y C z Fe 2-x-y-z O 3 (wherein A, B and C each represents a metal excluding Fe and different from each other, satisfying 0 &amp;lt; x, y, z &amp;lt; 1), with [mu]-Fe 2 O 3 as a main phase.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic iron oxide particle, with [epsilon]-Fe2O3 as a main phase, which is expressed by a general formula [epsilon]-AxByFe2-x-yO3(wherein A and B are mutually different metals excluding Fe, satisfying 0 &amp;lt; x, y &amp;lt; 1).
+</P>
+<P>
+2. A magnetic iron oxide particle, with [epsilon]-Fe2O3 as a main phase, which is expressed by a general formula [epsilon]- AxByCzFe2-x-yO3 (wherein A and B are mutually different metals excluding Fe, satisfying 0 &amp;lt; x, y, z &amp;lt; 1).
+</P>
+<P>
+3. The magnetic iron oxide particle according to the claim 1 or 2, wherein A is bivalent metal, B is quadrivalent metal, and C is trivalent metal.
+</P>
+<P>
+4. The magnetic iron oxide particle according to any one of claims 1 to 3, wherein A is one or more kinds of metals selected from Co, Ni, Mn, and Zn.
+</P>
+<P>
+5. The magnetic iron oxide particle according to any one of claims 1 to 4, wherein B is Ti.
+</P>
+<P>
+6. The magnetic iron oxide particle according to any one of claims 2 to 5, wherein C is one or more kinds of metals selected from In, Ga, and Al.
+</P>
+<P>
+7. The magnetic iron oxide particle according to any one of claims 1 to 6, wherein a longest length of the magnetic iron oxide particle is 5nm or more and 120nm or less.
+</P>
+<P>
+8. The magnetic iron oxide particle according to any one of claims 1 to 7, wherein a coercive force Hc is 39.8kA/m or more and 1194.3kA/m or less.
+</P>
+<P>
+9. The magnetic iron oxide particle according to any one of claims 1 to 8, wherein saturation magnetization [sigma]s at 25[deg.]C is 0.1Am&amp;lt;2&amp;gt;/kg or more and 100Am&amp;lt;2&amp;gt;/kg or less.
+</P>
+<P>
+10. A magnetic material containing the magnetic iron oxide particle of any one of claims 1 to 9, and a binder.
+</P>
+<P>
+11. A radio wave absorber, with the magnetic iron oxide particle of any one of claims 1 to 9 dispersed in rubber or resin.
+</P>
+</Claims>
+<Also_published_as>
+EP2165975A4;US2010171066A1;WO2008149785A1;CN101687665A
+</Also_published_as>
+</BiblioData>

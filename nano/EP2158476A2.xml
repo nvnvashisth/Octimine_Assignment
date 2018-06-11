@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CHEMICAL FUNCTIONALIZATION OF SOLID- STATE NANOPORES AND NANOPORE ARRAYS AND APPLICATIONS THEREOF
+</Title>
+<PublicationNumber>
+EP2158476A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MELLER AMIT [US]
+</Name>
+<Name>
+WANUNU MENI [US]
+</Name>
+<Name>
+MELLER, AMIT
+</Name>
+<Name>
+WANUNU, MENI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TRUSTEES OF THE BOSTON UNIVERS [US]
+</Name>
+<Name>
+THE TRUSTEES OF THE BOSTON UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2158476
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080827096
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US63066
+</PriorityNumber>
+<PriorityDate>
+2008-05-08
+</PriorityDate>
+<PriorityNumber>
+US20070928158P
+</PriorityNumber>
+<PriorityDate>
+2007-05-08
+</PriorityDate>
+<PriorityNumber>
+US20070928160P
+</PriorityNumber>
+<PriorityDate>
+2007-05-08
+</PriorityDate>
+<PriorityNumber>
+US20070928260P
+</PriorityNumber>
+<PriorityDate>
+2007-05-08
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81C1/00
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N27/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N33/487B5
+</Class>
+</NCL>
+<Abstract>
+Chemical functionalization of solid-state nanopores and nanopore arrays and applications thereof. Nanopores are extremely sensitive single-molecule sensors. Recently, electron beams have been used to fabricate synthetic nanopores in thin solid-state membranes with sub-nanometer resolution. A new class of chemically modified nanopore sensors are provided with two approaches for monolayer coating of nanopores by: (1) self-assembly from solution, in which nanopores -10 nm diameter can be reproducibly coated, and (2) self-assembly under voltage-driven electrolyte flow, in which 5 nm nanopores may be coated. Applications of chemically modified nanopore are provided including: the detection of biopolymers such as DNA and RNA;  immobilizing enzymes or other proteins for detection or for generating chemical gradients;  and localized pH sensing.
+</Abstract>
+<Claims>
+<P>
+Claims:
+</P>
+<P>
+1. A coated nanopore comprising: a solid-state insulating membrane having a thickness between approximately 5 nanometers and approximately 100 nanometers, the membrane having an aperture with at least one surface; and a chemical coating disposed on the surface of the aperture; wherein the chemical coating modifies at least one surface characteristic of the aperture.
+</P>
+<P>
+2. The coated nanopore of claim 1, wherein the solid state insulating membrane comprises a silicon nitride material.
+</P>
+<P>
+3. The coated nanopore of claim 1, wherein the chemical coating disposed on the surface of the aperture comprises a layer substantially conformal to the surface of the aperture.
+</P>
+<P>
+4. The coated nanopore of claim 3, the chemical coating having a selected thickness and distribution.
+</P>
+<P>
+5. The coated nanopore of claim 4, wherein the selected thickness is less than or equal to approximately 2.5 nanometers.
+</P>
+<P>
+6. The coated nanopore of claim 1 , wherein the surface characteristic includes at least one of concavity, surface charge, polarity, pH sensitivity, hydrophobicity, and chemical functionality.
+</P>
+<P>
+7. The coated nanopore of claim 1, wherein the chemical coating comprises an organic monolayer coating.
+</P>
+<P>
+8. The coated nanopore of claim 1, wherein the chemical coating comprises one of an epoxy, a methoxyethylene glycol, an amine, a carboxylic acid, and an aldehyde.
+</P>
+<P>
+9. The coated nanopore of claim 1, wherein the chemical coating comprises a methoxyethelyne glycol-terminated silane monolayer. 10. The coated nanopore of claim 9, wherein the organic monolayer coating comprises a reactive monolayer forming covalent bonds with the surface of the aperture.
+</P>
+<P>
+11. The coated nanopore of claim 1, wherein the chemical coating comprises a substantially uniform layer of chain molecules including organosilanes.
+</P>
+<P>
+12. An electrically-addressable nanopore array comprising: a solid-state insulating membrane having a thickness between approximately 5 nanometers and approximately 100 nanometers; a plurality of nanopores in the membrane, each nanopore having a surface; a plurality of electrodes disposed adjacent to the plurality of nanopores; and a chemical coating disposed on the surface of each nanopore, the chemical coating modifying a surface characteristic of the nanopore; wherein the plurality of electrodes selectively address each nanopore in the array to detect changes in electrical stimulus at each nanopore in the array.
+</P>
+<P>
+13. The nanopore array of claim 12, wherein the chemical coating disposed on the surface of each nanopore is selected to detect ions.
+</P>
+<P>
+14. An optically-addressable nanopore array comprising: a solid-state insulating membrane having a thickness between approximately 5 nanometers and approximately 100 nanometers; a plurality of nanopores in the membrane, each nanopore having a surface; a plurality of electrodes disposed adjacent to the plurality of nanopores; and a chemical coating disposed on the surface of each nanopore, the chemical coating modifying a surface characteristic of the nanopore; wherein the plurality of optical sensors selectively address each nanopore in the array to detect energy emission variations at each nanopore in the array.
+</P>
+<P>
+15. The nanopore array of claim 14, wherein the chemical coating disposed on the surface of each nanopore comprises a pH-sensitive dye comprising a fluorophore.
+</P>
+<P>
+16. A method of making a coated solid-state nanopore comprising: fabricating a nanoscale aperture in a solid-state substrate; cleaning a surface of the aperture; chemically modifying the surface of the aperture to fabricate a chemical coating, the chemical coating substantially conformally disposed on the surface; wherein the coated solid-state nanopore is fabricated with a chemical coating of a selected composition and distribution.
+</P>
+<P>
+17. The method of claim 16, wherein chemically modifying the surface of the aperture comprises a sequence of chemical coating steps.
+</P>
+<P>
+18. The method of claim 17, wherein the sequence of chemical coating steps includes for each coating step, immersing in solution, drying, and heating the solid- state substrate.
+</P>
+<P>
+19. The method of claim 18, wherein each coating step comprises an ex situ chemical process.
+</P>
+<P>
+20. The method of claim 17, wherein the sequence of chemical coating steps includes for each coating step exposing the aperture to a sequence of chemical solutions, each chemical solution in the sequence having a selected composition.
+</P>
+<P>
+21. The method of claim 16, wherein chemically modifying the surface of the aperture comprises an in situ coating process wherein variations in current adjacent to the aperture are monitored while the aperture surface is chemically modified.
+</P>
+<P>
+22. The method of claim 21, wherein the nanoscale aperture comprises an aperture having a diameter less than or equal to approximately 10 nanometers.
+</P>
+<P>
+23. The method of claim 16, wherein cleaning the surface of the aperture comprises treating the surface with a piranha solution.
+</P>
+<P>
+24. The method of claim 16, further comprising characterizing the coating to detect the selected concentration and distribution.
+</P>
+<P>
+25. The method of claim 16, wherein chemically modifying the surface comprises coating with at least one of epoxy, methoxyethylene glycol, amine, carboxylic acid, and aldehyde.
+</P>
+<P>
+26. The method of claim 16, wherein chemically modifying the surface comprises coating with at least one of glycidyloxypropyltrimethoxysilane, methoxyethoxyundecyltrichlorosilane, 3 -aminopropyltrimethoxysilane, adipoyl chloride, 1,4-diaminobutane, and glutaraldehyde.
+</P>
+<P>
+27. A method for characterizing an analyte comprising: forming a nanopore in a solid-state membrane having a thickness between approximately 5 nanometers and approximately 100 nanometers; chemically modifying a surface of a nanopore; receiving the analyte through the nanopore; detecting variations in current adjacent to the nanopore, wherein the variations in current correspond to interactions between the analyte and nanopore surface.
+</P>
+<P>
+28. The method of claim 27, wherein chemically modifying the surface of the nanopore comprises an in situ coating process wherein variations in current adjacent to the nanopore are monitored while the aperture surface is chemically modified.
+</P>
+<P>
+29. The method of claim 27, wherein chemically modifying the surface of the nanopore comprises tuning the interaction between the analyte and the nanopore.
+</P>
+<P>
+30. The method of claim 29, wherein chemically modifying the surface of the nanopore comprises coating the nanopore with a substantially uniform layer of short chain molecules including organosilanes.
+</P>
+<P>
+31. The method of claim 27, wherein the analyte comprises a biopolymer.
+</P>
+<P>
+32. The method of claim 31 , wherein the biopolymer comprises one of single- stranded DNA, double-stranded DNA, RNA, and a nucleic acid polypeptide.
+</P>
+<P>
+33. The method of claim 32, wherein chemically modifying the surface of the nanopore comprises providing a chemical coating to substantially slow DNA translocation.
+</P>
+<P>
+34. The method of claim 32, wherein chemically modifying the surface of the nanopore comprises providing a chemical coating to substantially prevent sticking between the biopolymer and the surface of the nanopore.
+</P>
+<P>
+35. The method of claim 32, wherein the nanopore dimensions are selected to substantially slow DNA translocation. 36. The method of claim 27, wherein detecting variations in current comprises detecting variations in local ion current with electrodes disposed adjacent to the nanopore.
+</P>
+<P>
+37. The method of claim 36, wherein detecting variations in local ion current comprises detecting an open nanopore current and a blocked nanopore current, the blocked nanopore current varying with respect to analyte-coated nanopore interaction characteristics.
+</P>
+<P>
+38. The method of claim 37, wherein the analyte comprises a DNA and the blocked nanopore current varies with respect to DNA length.
+</P>
+<P>
+39. A method of identifying a biomolecule, comprising: modifying a surface of a nanopore with a chemical coating; immobilizing the biomolecule on the surface of the nanopore; exposing the nanopore to a chemical environment; detecting variations in current adjacent to the nanopore, wherein the variations in current correspond to interactions between the biomolecule and the chemical environment and wherein selected interactions identify the biomolecule.
+</P>
+<P>
+40. The method of claim 39, wherein chemically modifying the surface of the nanopore comprises an in situ coating process wherein variations in current adjacent to the nanopore are monitored while the aperture surface is chemically modified.
+</P>
+<P>
+41. The method of claim 39, wherein immobilizing the biomolecule comprises chemically grafting the molecule in a central portion of the nanopore.
+</P>
+<P>
+42. The method of claim 41, wherein modifying the surface with the chemical coating comprises providing a glutaraldehyde-functionalized nanopore.
+</P>
+<P>
+43. The method of claim 39, wherein modifying the surface with the chemical coating comprises providing an organic monolayer coating.
+</P>
+<P>
+44. The method of claim 43, wherein the organic monolayer coating comprises a reactive monolayer forming covalent bonds with the surface of the aperture.
+</P>
+<P>
+45. The method of claim 39, wherein exposing the nanopore to a chemical environment includes providing a chemical gradient having a first chemical environment on a first side of the nanopore and a second chemical environment on a second side of the nanopore.
+</P>
+<P>
+46. The method of claim 45, wherein immobilizing the biomolecule comprises providing a selective transport path between the first and second chemical environments.
+</P>
+<P>
+47. The method of claim 46, wherein the molecule comprises a beta-pore forming protein including a single [alpha]-hemolysin channel an a [alpha]-hemolysin channel mutant; and wherein the chemical coating comprises a methoxyethelyne glycol-terminated silane monolayer.
+</P>
+<P>
+48. The method of claim 39, wherein the chemical coating comprises an aldehyde reactive terminal layer.
+</P>
+<P>
+49. A method of sensing a chemical environmental comprising: forming a nanopore in a solid-state membrane, the membrane having an thickness between approximately 5 nanometers and approximately 100 nanometers; chemically modifying a surface of the nanopore; exposing the nanopore to a chemical environment; applying a voltage to at least a portion of the chemical environment in proximity to the membrane; and optically probing the membrane to detect energy emission variations, wherein energy emission variations correspond to interactions between the chemical environment and the surface of the nanopore.
+</P>
+<P>
+50. The method of claim 49, wherein chemically modifying the surface of the nanopore comprises coating the surface with a pH-sensitive dye.
+</P>
+<P>
+51. The method of claim 50, wherein the pH-sensitive dye comprises one of a fluorophore and a protein modulating group.
+</P>
+<P>
+52. The method of claim 51, further comprising detecting variations in florescent intensity, wherein variations in florescent intensity correspond to variations in the chemical environment. 53. The method of claim 49, wherein exposing the nanopore to a chemical environment comprises providing a chemical gradient having a first chemical environment on a first side of the membrane and a second chemical environment on a second side of the membrane.
+</P>
+<P>
+54. A method of sensing a chemical environmental comprising: forming a nanopore in a solid-state membrane, the membrane having an thickness between approximately 5 nanometers and approximately 100 nanometers; chemically modifying a surface of the nanopore; exposing the nanopore to a chemical environment; applying a voltage to at least a portion of the chemical environment in proximity to the membrane; and detecting variations in current adjacent to the nanopore, wherein the variations in current correspond to interactions between the chemical environment and nanopore surface.
+</P>
+<P>
+55. The method of claim 54, wherein chemically modifying the surface of the nanopore comprises coating the surface with a pH-sensitive molecule.
+</P>
+<P>
+56. The method of claim 54, wherein exposing the nanopore to a chemical environment comprises providing a chemical gradient having a first chemical environment on a first side of the membrane and a second chemical environment on a second side of the membrane.
+</P>
+<P>
+57. The method of claim 54, wherein chemically modifying the surface of the nanopore comprises coating the surface with a selected ion-sensitive compound.
+</P>
+</Claims>
+<Also_published_as>
+WO2009020682A2;WO2009020682A3;US2011053284A1
+</Also_published_as>
+</BiblioData>

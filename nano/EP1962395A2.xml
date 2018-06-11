@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Nitride semiconductor laser element
+</Title>
+<PublicationNumber>
+EP1962395A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MICHIUE ATSUO [JP]
+</Name>
+<Name>
+MORIZUMI TOMONORI [JP]
+</Name>
+<Name>
+TAKAHASHI HIROAKI [JP]
+</Name>
+<Name>
+MICHIUE, ATSUO
+</Name>
+<Name>
+MORIZUMI, TOMONORI
+</Name>
+<Name>
+TAKAHASHI, HIROAKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NICHIA CORP [JP]
+</Name>
+<Name>
+NICHIA CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1962395
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080151908
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070046260
+</PriorityNumber>
+<PriorityDate>
+2007-02-26
+</PriorityDate>
+<PriorityNumber>
+JP20070048426
+</PriorityNumber>
+<PriorityDate>
+2007-02-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/028
+</Class>
+<Class>
+H01S5/10
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/028
+</Class>
+<Class>
+H01S5/22
+</Class>
+</NCL>
+<Abstract>
+A nitride semiconductor laser element has a first nitride semiconductor layer (11), an active layer (12), a second nitride semiconductor layer (13), and a first protective film (25) in contact with a cavity end face of the nitride semiconductor layer, wherein the first protective film (25) in contact with at least the active layer (13) of the cavity end face has a region thinner than the maximum thickness of the first protective film (25).
+</Abstract>
+<Claims>
+<P>
+1. A nitride semiconductor laser element having a first nitride semiconductor layer, an active layer, a second nitride semiconductor layer, and a first protective film in contact with a cavity end face of the nitride semiconductor layer,
+</P>
+<P>
+wherein the first protective film in contact with at least the active layer of the cavity end face has a region thinner than the maximum thickness of the first protective film.
+</P>
+<P>
+2. The laser element according to Claim 1, wherein a ridge is formed on the surface of the second nitride semiconductor layer, and the first protective film in contact with the active layer has a region thinner than the maximum thickness of the first protective film under the ridge and nearby.
+</P>
+<P>
+3. The laser element according to Claim 1 or 2, wherein the first protective film is formed of a material having a hexagonal system crystal structure.
+</P>
+<P>
+4. The laser element according to Claim 1, 2 or 3, wherein the first protective film is formed of nitrides.
+</P>
+<P>
+5. The laser element according to any preceding Claim, wherein the first protective film has the maximum thickness of 50 A to 1000 A.
+</P>
+<P>
+6. The laser element according to any preceding Claim, wherein the first protective film has a crystal structure that has the same axial orientation as that of the nitride semiconductor layer constituting the end face of the cavity.
+</P>
+<P>
+7. The laser element according to Any preceding Claim, wherein the end face of the cavity is the M-plane(1-100), A-plane(11-20), C-plane(0001) or R-plane(1-102).
+</P>
+<P>
+8. The laser element according to Any preceding Claim, wherein a second protective film is further formed on the first protective film in contact with the cavity end face.
+</P>
+<P>
+9. The laser element according to Any preceding Claim, wherein the region thinner than the maximum thickness of the first protective film has a thickness which is thin at least 5 % of the maximum thickness.
+</P>
+<P>
+10. The laser element according to Any preceding Claim, wherein the region thinner than the maximum thickness of the first protective film is an optical waveguide region of the cavity end face.
+</P>
+<P>
+11. The laser element according to Any preceding Claim, wherein the region thinner than the maximum thickness of the first protective film has a horizontally elliptical shape on the cavity end face.
+</P>
+<P>
+12. A nitride semiconductor laser element having a first nitride semiconductor layer, an active layer, a second nitride semiconductor layer, a first protective film in contact with a cavity end face of the nitride semiconductor layer, and a second protective film formed on the first protective film,
+</P>
+<P>
+wherein the second protective film has a thick part protruding from a face on the cavity end face side and from a face opposite the cavity end face.
+</P>
+<P>
+13. The laser element according to Claim 12, wherein the thick part of the second protective film is formed on an optical waveguide region of the cavity end face and nearby.
+</P>
+<P>
+14. The laser element according to Claim 12 or 13, wherein a ridge is formed on the surface of the second nitride semiconductor layer, and the second protective film has the thick part under the ridge and nearby.
+</P>
+<P>
+15. The laser element according to Claim 12,13 or 14, wherein the thick part has a horizontally elliptical shape on the cavity end face.
+</P>
+<P>
+16. The laser element according to any one of Claims 12 to 15,
+</P>
+<P>
+wherein the thick part has a thickness which is thick at least 5 % of the other part of the second protective film.
+</P>
+<P>
+17. The laser element according to any one of Claims 12 to 16,
+</P>
+<P>
+wherein the thick part of the second protective film has the thickness of 1000 A to 3000 A.
+</P>
+<P>
+18. The laser element according to any one of Claims 12 to 17,
+</P>
+<P>
+wherein the second protective film is formed of oxides.
+</P>
+<P>
+19. The laser element according to any one of Claims 12 to 18,
+</P>
+<P>
+wherein the surface area of the thick part formed on a face on the cavity end face side is smaller than the surface area of the thick part formed on the opposite face.
+</P>
+<P>
+20. The laser element according to any one of Claims 12 to 19,
+</P>
+<P>
+wherein the first protective film has a region in contact with at least the active layer of the cavity end face, and the thickness of the region is thinner than the maximum thickness of the first protective film.
+</P>
+<P>
+21. The laser element according to any one of Claims 12 to 20,
+</P>
+<P>
+wherein the first protective film is formed of a material having a hexagonal system crystal structure.
+</P>
+<P>
+22. The laser element according to any one of Claims 12 to 21,
+</P>
+<P>
+wherein the first protective film has a crystal structure that has the same axial orientation as that of the nitride semiconductor layer constituting the end face of the cavity.
+</P>
+<P>
+23. The laser element according to any one of Claims 12 to 22,
+</P>
+<P>
+wherein the end face of the cavity is the M-plane(1-100), A-plane(11-20), C-plane(0001) or R-plane(1-102).
+</P>
+</Claims>
+<Also_published_as>
+EP1962395A3;EP1962395B1;US2008205464A1;US7764722B2;KR20080079217A;EP2086076A2;EP2086076A3
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LUMINESCENT PARTICLE AND METHOD OF DETECTING A BIOLOGICAL ENTITY USING A LUMINESCENT PARTICLE
+</Title>
+<PublicationNumber>
+EP1955074A2
+</PublicationNumber>
+<Inventor>
+<Name>
+VAN DER ZAAG PIETER JAN [DE]
+</Name>
+<Name>
+BAKKERS ERIK PETRUS ANTONIUS M [DE]
+</Name>
+<Name>
+VAN DER MARK MARTINUS BERNARDU [DE]
+</Name>
+<Name>
+VAN DER ZAAG, PIETER, JAN
+</Name>
+<Name>
+BAKKERS, ERIK, PETRUS, ANTONIUS, MARIA
+</Name>
+<Name>
+VAN DER MARK, MARTINUS, BERNARDUS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONINKL PHILIPS ELECTRONICS NV [NL]
+</Name>
+<Name>
+KONINKLIJKE PHILIPS ELECTRONICS N.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1955074
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060821496
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006IB54330
+</PriorityNumber>
+<PriorityDate>
+2006-11-20
+</PriorityDate>
+<PriorityNumber>
+EP20050111075
+</PriorityNumber>
+<PriorityDate>
+2005-11-22
+</PriorityDate>
+<PriorityNumber>
+EP20060821496
+</PriorityNumber>
+<PriorityDate>
+2006-11-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N33/58
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/58J
+</Class>
+</NCL>
+<Abstract>
+The invention provides a luminescent particle and a method of detecting a biological entity using a luminescent particle, the luminescent particle comprising a core area and a shell area, the core area being covered by the shell area, the core area conferring a luminescent behavior on the luminescent particle for at least one excitation wavelength and for at least one emission wavelength by means of a nanocrystal material, and the shell area being provided such that it realizes an antireflective coating of the core area.
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. Luminescent particle (10) comprising a core area (20) and a shell area (30), the core area (20) being covered by the shell area (30), the core area (20) conferring a luminescent behavior on the luminescent particle (10) for at least one excitation wavelength (40) and for at least one emission wavelength (50) by means of a nanocrystal material (21), and the shell area (30) being provided such that it realizes an antireflective coating (31) of the core area (20).
+</P>
+<P>
+2. Luminescent particle (10) according to claim 1, wherein the core area (20) is provided as a quantum dot structure realized by means of a non-Cd-based nanocrystal material (21).
+</P>
+<P>
+3. Luminescent particle (10) according to claim 1 , wherein the core area (20) is provided as a quantum dot structure realizsed by means of a non-toxic nanocrystal material (21).
+</P>
+<P>
+4. Luminescent particle (10) according to claim 1, 2 or 3, wherein the shell area (30) is provided as a non-Cd-based material and/or a non-toxic material.
+</P>
+<P>
+5. Luminescent particle (10) according to claim 1, wherein the core area (20) is provided as a quantum dot structure realized by means of an InP-based-material.
+</P>
+<P>
+6. Luminescent particle (10) according to claim 1, wherein the excitation wavelength (40) and the emission wavelength (50) are provided in the near infrared portion (51) of the electromagnetic spectrum.
+</P>
+<P>
+7. Luminescent particle (10) according to claim 6, wherein the excitation wavelength (40) and the emission wavelength (50) are provided in a spectral window of minimal infra red absorption in main components of human tissue, especially in human tissue liquid and/or lipid.
+</P>
+<P>
+8. Luminescent particle (10) according to claim 7, wherein the excitation wavelength (40) and the emission wavelength (50) are provided between 700 nm and 800 nm.
+</P>
+<P>
+9. Luminescent particle (10) according to claim 6 or 7, wherein the excitation wavelength (40) is provided around 720 nm and/or the emission wavelength (50) is provided around 780 nm.
+</P>
+<P>
+10. Luminescent particle (10) according to claim 6 or 7, wherein the excitation wavelength (40) and the emission wavelength (50) are separated by approximately 60 nm.
+</P>
+<P>
+11. Luminescent particle (10) according to claim 1 , wherein the thickness (D) of the shell area (30) is provided substantially homogeneously around the core area (20).
+</P>
+<P>
+12. Luminescent particle (10) according to claim 11 , wherein the thickness (D) of the shell area (30) is provided such that the reflectance of excitation radiation (41) and/or the reflectance of emission radiation (51) between the inside of the core area (20) and the outside of the luminescent particle (10) is comparatively low.
+</P>
+<P>
+13. Luminescent particle (10) according to claim 1 , wherein the thickness (D) of the shell area (30) is at least partially provided such that the reflectance of excitation radiation (41) and/or the reflectance of emission radiation (51) between the inside of the core area (20) and the outside of the luminescent particle (10) is comparatively low.
+</P>
+<P>
+14. Luminescent particle (10) according to claim 12 or 13, wherein the thickness (D) of the shell area (30) is provided such that the transmittance of excitation radiation (41) and/or the transmittance of emission radiation (51) between the inside of the core area (20) and the outside of the luminescent particle (10) is higher than 50% below, preferably higher than 25% below, most preferably higher than 10% below the maximum transmittance for a given first index of refraction (ni) of the nanocrystal material (21), a given second index of refraction (n2) of the antireflective coating (31), and a given third index of refraction (n3) of the environment of the luminescent particle (10).
+</P>
+<P>
+15. Luminescent particle (10) according to claim 1, wherein the shell area (30) comprises a dielectric material (31).
+</P>
+<P>
+16. Luminescent particle (10) according to claim 15, wherein the dielectric material (31) is provided as TiO2 and/or GaP and/or InGaP2 and/or other ternary compound(s).
+</P>
+<P>
+17. Complex comprising a luminescent particle (10) according to claim 1 and further comprising a labeling substrate (110).
+</P>
+<P>
+18. Contrast agent comprising a luminescent particle (10) according to claim 1 or a complex according to claim 17 or a mixture thereof.
+</P>
+<P>
+19. Method of detecting a biological entity (120) using a luminescent particle (10) comprising a core area (20) and a shell area (30), the core area (20) being covered by the shell area (30), the core area (20) conferring a luminescent behavior on the luminescent particle (10) for at least one excitation wavelength (40) and for at least one emission wavelength (50) by means of a nanocrystal material (21), and the shell area (30) being provided such that it realizes an antireflective coating (31) of the core area (20), the method comprising the steps of:
+</P>
+<P>
+- forming a complex between the luminescent particle (10) and a labeling substrate (110) by means of a physical and/or a chemical and/or a biological binding (111),
+</P>
+<P>
+- using the labeling substrate (110) for achieving a specific binding (121) to the biological entity (120), - irradiating at least the complex of the luminescent particle (10) and the labeling substrate (110) with radiation of the excitation wavelength (40), and
+</P>
+<P>
+- detecting the biological entity (120) by means of radiation emitted by the luminescent particle (10).
+</P>
+<P>
+20. Method according to claim 19, wherein the complex of the luminescent particle (10) and a labeling substrate (110) is used in vivo.
+</P>
+<P>
+21. Method according to claim 19, wherein the complex of the luminescent particle (10) and the labeling substrate (110) is used in vitro.
+</P>
+<P>
+22. Use of the luminescent particle (10) according to claim 1 in a biomedical assay and/or an in vitro application.
+</P>
+<P>
+23. Use of a luminescent particle (10) according to claim 1 for producing a complex according to claim 17 or a contrast agent according to claim 18 for use in a biomedical assay and/or an in vitro assay.
+</P>
+</Claims>
+<Also_published_as>
+WO2007060591A2;WO2007060591A3;US2008286826A1;JP2009516763A;CN101313222A
+</Also_published_as>
+</BiblioData>

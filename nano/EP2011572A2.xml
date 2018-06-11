@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method for forming catalyst nanoparticles for growing elongated nanostructures
+</Title>
+<PublicationNumber>
+EP2011572A2
+</PublicationNumber>
+<Inventor>
+<Name>
+RADISIC ALEKSANDER [BE]
+</Name>
+<Name>
+VEREECKEN PHILIPPE M [BE]
+</Name>
+<Name>
+RADISIC, ALEKSANDER
+</Name>
+<Name>
+VEREECKEN, PHILIPPE M
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IMEC INTER UNI MICRO ELECTR [BE]
+</Name>
+<Name>
+IMEC
+</Name>
+<Name>
+INTERUNIVERSITAIR MICROELEKTRONICA CENTRUM (IMEC)
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2011572
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070075889
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-10-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20070948382P
+</PriorityNumber>
+<PriorityDate>
+2007-07-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J35/00
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+H01L21/768
+</Class>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J23/75
+</Class>
+<Class>
+B01J35/00C
+</Class>
+<Class>
+B01J37/06
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+<Class>
+C01B31/02B6
+</Class>
+<Class>
+H01L21/768C3S6
+</Class>
+<Class>
+H01L21/768C4B
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a method for forming at least one catalyst nanoparticle (8) on at least one sidewall (10) of a three-dimensional structure on a main surface of a substrate (1a, 1 b), the main surface lying in a plane and the sidewall (10) of the three-dimensional structure lying in a plane substantially perpendicular to the plane of the main surface of the substrate (1a, 1b). The method comprises obtaining a three-dimensional structure on the main surface, the three-dimensional structure comprising catalyst nanoparticles (7) embedded in a non-catalytic matrix (5) and selectively removing at least part of the non-catalytic matrix (5) at the sidewalls (10) of the three-dimensional structure to thereby expose at least one catalyst nanoparticle (8).;  The present invention also provides a method for forming at least one elongated nanostructure (9), such as e.g. a nanowire or carbon nanotube, using the catalyst nanoparticles (8) formed by the method according to embodiments of the invention as a catalyst. The methods according to embodiments of the invention may be used in, for example, semiconductor processing. The methods according to embodiments of the present invention are scalable and fully compatible with existing semiconductor processing technology.
+</Abstract>
+<Claims>
+<P>
+1. Method for providing at least one catalyst nanoparticle (8) on at least one sidewall (10) of a three-dimensional structure on a main surface (15) of a substrate (1a, 1 b), the main surface (15) lying in a plane and the sidewall (10) of the three-dimensional structure lying in a plane substantially perpendicular to the plane of the main surface (15) of the substrate (1 a, 1 b), the method comprising:
+</P>
+<P>
+- obtaining a three-dimensional structure on the main surface (15), the three-dimensional structure comprising catalyst nanoparticles (7) embedded in a non-catalytic matrix (5) , and
+</P>
+<P>
+- selectively removing at least part of the non-catalytic matrix (5) at the sidewalls (10) of the three-dimensional structure to thereby expose at least one catalyst nanoparticle (8).
+</P>
+<P>
+2. Method according to claim 1, wherein obtaining a three-dimensional structure is performed by:
+</P>
+<P>
+- providing a sacrificial pattern (3) on the main surface (15) of the substrate (1a, 1b), the sacrificial pattern (3) comprising at least one opening (2),
+</P>
+<P>
+- filling the at least one opening (2) with a material comprising a non-catalytic matrix (5) with embedded therein catalyst nanoparticles (7), and
+</P>
+<P>
+- removing the sacrificial pattern (3) to form the three-dimensional structure.
+</P>
+<P>
+3. Method according to claim 2, wherein filling the at least one opening (2) with a material comprising a non-catalytic matrix (5) with embedded therein catalyst nanoparticles (7) comprises:
+</P>
+<P>
+- filling the at least one opening (2) with a material comprising a non-catalytic matrix with embedded therein a catalytic material, and
+</P>
+<P>
+- performing an annealing step to form the catalyst nanoparticles (7).
+</P>
+<P>
+4. Method according to claim 3, wherein the annealing step is performed by a Rapid Thermal Anneal at a temperature between 350 deg. C and 900 deg. C.
+</P>
+<P>
+5. Method according to any of claims 3 or 4, wherein filling the at least one opening (2) with a material comprising a non-catalytic matrix with embedded therein a catalytic material is performed by a co-deposition technique.
+</P>
+<P>
+6. Method according to claim 5, wherein filling the at least one opening (2) with a material comprising a non-catalytic matrix with embedded therein a catalytic material is performed by electrochemical deposition or by electroless deposition.
+</P>
+<P>
+7. Method according to any of claims 2 to 6, wherein providing a sacrificial pattern (3) is performed by:
+</P>
+<P>
+- providing a layer of sacrificial material onto the main surface (15) of the substrate (1a, 1 b), and
+</P>
+<P>
+- forming at least one opening (2) in the layer of sacrificial material according to a predetermined pattern, thereby exposing a part of the main surface (15) of the substrate (1a, 1b).
+</P>
+<P>
+8. Method according to claim 7, wherein providing a layer of sacrificial material is performed by providing a layer of organic material.
+</P>
+<P>
+9. Method according to claim 7 or 8, wherein forming at least one opening (2) is performed by patterning the sacrificial layer using photolithography and an anisotropic dry etch process to transfer the predetermined pattern to the sacrificial layer.
+</P>
+<P>
+10. Method according to any of the previous claims, furthermore comprising providing a capping layer (6) on top of the non-catalytic matrix (5) before selectively removing at least part of the non-catalytic matrix (5) at the sidewalls (10) of the three-dimensional structure.
+</P>
+<P>
+11. Method according to any of the previous claims, wherein the substrate comprises a carrier (1 a) and a seed layer (1 b) for initiating electrochemical deposition or electroless deposition.
+</P>
+<P>
+12. Method according to claim 11, wherein the carrier (1a) is a semiconductor wafer.
+</P>
+<P>
+13. Method according to claim 11 or 12, wherein the seed layer (1b) is a continuous or discontinuous layer comprising WCN or Cu.
+</P>
+<P>
+14. Method according to any of claims 11 to 13, wherein the seed layer (1 b) is a continuous or discontinuous layer comprising Pd, Pt and/or Ru particles.
+</P>
+<P>
+15. Method according to any of claims 11 to 14, wherein the method furthermore comprises, after removing the sacrificial pattern (3), removing exposed parts of the seed layer (1 b).
+</P>
+<P>
+16. Method for forming at least one elongated nanostructure (9) on at least one sidewall (10) of a three-dimensional structure on a main surface (15) of a substrate (1a, 1b), the main surface (15) lying in a plane and the sidewall (10) of the three-dimensional structure lying in a plane substantially perpendicular to the plane of the main surface (15) of the substrate (1a, 1 b), the method comprising:
+</P>
+<P>
+- obtaining a three-dimensional structure on the main surface (15) of the substrate, the three-dimensional structure comprising catalyst nanoparticles (7) embedded in a non-catalytic matrix (5),
+</P>
+<P>
+- selectively removing at least part of the non-catalytic matrix (5) at the sidewalls (10) of the three-dimensional structure to thereby expose at least one catalyst nanoparticle (8), and
+</P>
+<P>
+- growing at least one elongated nanostructure (9) using the at least one exposed catalyst nanoparticle (8) as a catalyst.
+</P>
+<P>
+17. Method according to claim 16, wherein growing at least one elongated nanostructure (9) is performed such that the at least one elongated nanostructure (9) lies in a plane substantially parallel to the plane of the main surface (15) of the substrate (1a, 1b).
+</P>
+<P>
+18. Method according to claim 16 or 17, wherein growing at least one elongated nanostructure (9) is performed by chemical vapour deposition, Vapour Liquid Solid or Vapour Solid Solid.
+</P>
+<P>
+19. Method according to any of claims 16 to 18, furthermore comprising providing a capping layer (6) on top of the non-catalytic matrix (5) before selectively removing at least part of the non-catalytic matrix (5) at the sidewalls (10) of the three-dimensional structure.
+</P>
+<P>
+20. Use of the method according to any of claims 1 to 19 in the manufacturing process of a semiconductor device.
+</P>
+<P>
+21. Use of the method according to any of claims 16 to 19 in the formation of interconnects in a semiconductor device.
+</P>
+<P>
+22. A semiconductor device comprising at least one three-dimensional structure on a main surface (15) of a substrate (1a, 1b), the main surface (15) lying in a plane, wherein the semiconductor device furthermore comprises at least one elongated nanostructure (9) formed on at least one sidewall (10) of the semiconductor device, the at least one elongated nanostructure (9) lying in a plane substantially parallel to the plane of the main surface (15) of the substrate (1a, 1b) and being formed by the method according to any of claims 16 to 19.
+</P>
+</Claims>
+<Also_published_as>
+EP2011572A3;US2009072222A1;US7718531B2;JP2009255025A
+</Also_published_as>
+</BiblioData>

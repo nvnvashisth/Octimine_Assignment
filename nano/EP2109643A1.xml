@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOPARTICLE INKS BASED ON SILICON/GERMANIUM, DOPED PARTICLES, PRINTING AND PROCESSES FOR SEMICONDUCTOR APPLICATIONS
+</Title>
+<PublicationNumber>
+EP2109643A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HIESLMAIR HENRY [US]
+</Name>
+<Name>
+DIOUMAEV VLADIMIR K [US]
+</Name>
+<Name>
+CHIRUVOLU SHIVKUMAR [US]
+</Name>
+<Name>
+DU HUI K [US]
+</Name>
+<Name>
+HIESLMAIR, HENRY
+</Name>
+<Name>
+DIOUMAEV, VLADIMIR, K
+</Name>
+<Name>
+CHIRUVOLU, SHIVKUMAR
+</Name>
+<Name>
+DU, HUI, K
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOGRAM CORP [US]
+</Name>
+<Name>
+NANOGRAM CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2109643
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080712916
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US00004
+</PriorityNumber>
+<PriorityDate>
+2008-01-02
+</PriorityDate>
+<PriorityNumber>
+US20070878239P
+</PriorityNumber>
+<PriorityDate>
+2007-01-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C09C1/28
+</Class>
+<Class>
+C09D11/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09C1/30D12
+</Class>
+<Class>
+C09D11/30
+</Class>
+<Class>
+C09D11/38
+</Class>
+<Class>
+H01L21/02K4C1A3
+</Class>
+<Class>
+H01L21/02K4C5M5
+</Class>
+<Class>
+H01L21/02K4E3L5
+</Class>
+<Class>
+H01L31/18C
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+Highly uniform silicon/germanium nanoparticles can be formed into stable dispersions with a desirable small secondary particle size. The silicon/germanium particles can be surface modified to form the dispersions. The silicon/germanium nanoparticles can be doped to change the particle properties. The dispersions can be printed as an ink for appropriate applications. The dispersions can be used to form selectively doped deposits of semiconductor materials such as for the formation of photovoltaic cells or for the formation of printed electronic circuits.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A dispersion of silicon/germanium nanoparticles comprising a liquid and at least about 0.1 weight percent silicon/germanium nanoparticles, wherein the silicon/germanium nanoparticle have an average primary particle size of no more than about 100 nm, and a volume-average secondary particle size of no more than about three times that average primary particle size.
+</P>
+<P>
+2. The dispersion of claim 1 wherein the silicon/germanium nanoparticles have a distribution of secondary particle sizes such that at least about 95 percent of the secondary particles have a particle size greater than about 40 percent of the average diameter and less than about 250 percent of the average particle size.
+</P>
+<P>
+3. The dispersion of claim 1 wherein the silicon/germanium particles in the dispersion have a DLS particle size distribution by volume with a full width at half-height of no more than about 50 percent of the volume-average particle size.
+</P>
+<P>
+4. The dispersion of claim 1 wherein effectively no secondary particle sizes are greater than about five times the volume-average particle size as determined by DLS measurements
+</P>
+<P>
+5. The dispersion of claim 1 wherein the dispersion comprises at least about 5 weight percent silicon/germanium particles.
+</P>
+<P>
+6. The dispersion of claim 1 wherein the nanoparticles have a surface modification moiety chemically bonded to the surface of nanoparticles.
+</P>
+<P>
+7. The dispersion of claim 1 wherein the liquid comprises an organic liquid.
+</P>
+<P>
+8. The dispersion of claim 1 wherein the silicon nanoparticles comprise a dopant a concentration of at least about 1.0*10&amp;lt;-7 &amp;gt; atomic percent of the material.
+</P>
+<P>
+9. A method for surface modifying silicon/germanium nanoparticles, the method comprising blending the surface modifying composition into a dispersion of the silicon/germanium nanoparticles in a dispersing liquid wherein the silicon/germanium nanoparticles have a volume-average secondary particle size of no more than about a factor of 5 times the average primary particle size, wherein the silicon/germanium nanoparticles have an average primary particle size of no more than about 100 nm and wherein the surface modifying composition chemically bonds with the silicon/germanium particle surfaces to form surface modified nanoparticles with a surface modification moiety chemically bonded to the nanoparticle surfaces.
+</P>
+<P>
+10. The method of claim 9 wherein the blending comprises adding the surface modifying agent dissolved in a solvent that is soluble in the dispersing liquid.
+</P>
+<P>
+11. The method of claim 9 wherein the volume-average particle size is no more than about 200 nm.
+</P>
+<P>
+12. The method of claim 9 wherein the dispersion has a concentration of at least about 1 weight percent silicon/germanium nanoparticles.
+</P>
+<P>
+13. The method of claim 9 further comprising forming a more concentrated dispersion of the surface modified nanoparticles.
+</P>
+<P>
+14. A method for depositing silicon nanoparticles, the method comprising printing an ink comprising a dispersing liquid and silicon/germanium particles, the silicon/germanium nanoparticle having an average particle size of no more than about 75 nm and a volume-average secondary particle of no more than about 150 nm and wherein the ink has a viscosity of no more than about 400 mPa.s at room temperature.
+</P>
+<P>
+15. The method of claim 14 wherein the printing is performed with an inkjet printer.
+</P>
+<P>
+16. The method of claim 14 wherein the ink has a viscosity of no more than about 300 mPa.s at room temperature.
+</P>
+<P>
+17. The method of claim 14 wherein the ink has a concentration of at least about 2 weight percent silicon/germanium particles and wherein the silicon/germanium particles have a surface modification moiety chemically bonded to their surface.
+</P>
+<P>
+18. The method of claim 17 wherein the surface modification moiety is formed through the reaction of a surface modification compound with the particle, the surface modification compound comprising an alkoxysilane.
+</P>
+<P>
+19. The method of claim 14 wherein the ink comprises a viscosity modifying organic composition and an organic surfactant.
+</P>
+<P>
+20. The method of claim 14 wherein the ink has a surface tension from about 2.0 N/m&amp;lt;2 &amp;gt; to about 6.0 N/m&amp;lt;2&amp;gt; .
+</P>
+<P>
+21. A printed substrate comprising a substrate surface having a selected pattern covering no more than about 90 percent of the surface area, the pattern comprising silicon/germanium nanoparticles, the nanoparticles having an average primary particle size of no more than about 100 nm, wherein the silicon/germanium nanoparticles have a distribution of secondary particle sizes such that at least about 95 percent of the secondary particles have a particle size greater than about 40 percent of the average particle size and less than about 250 percent of the average particle size.
+</P>
+<P>
+22. The printed substrate of claim 21 wherein the pattern comprises a plurality of discrete and isolated islands.
+</P>
+<P>
+23. The printed substrate of claim 21 wherein the silicon/germanium nanoparticles are doped.
+</P>
+<P>
+24. The printed substrate of claim 21 wherein the nanoparticles have an average primary particle size of no more than about 50 nm.
+</P>
+<P>
+25. The printed substrate of claim 21 wherein the nanoparticles have a surface modification moiety chemically bonded to the surface or the particles.
+</P>
+</Claims>
+<Also_published_as>
+EP2109643A4;US2008160265A1;US2011281390A1;US2011109688A1;US7993947B2;WO2008085806A1;US2008160733A1;US7892872B2;KR20090125050A;JP2010514585A;CN101622319A
+</Also_published_as>
+</BiblioData>

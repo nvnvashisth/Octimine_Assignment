@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SOFT MEMS
+</Title>
+<PublicationNumber>
+EP2029300A2
+</PublicationNumber>
+<Inventor>
+<Name>
+LIU CHANG [US]
+</Name>
+<Name>
+ENGEL JONATHAN [US]
+</Name>
+<Name>
+RYU KEE [US]
+</Name>
+<Name>
+LIU, CHANG
+</Name>
+<Name>
+ENGEL, JONATHAN
+</Name>
+<Name>
+RYU, KEE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV ILLINOIS [US]
+</Name>
+<Name>
+THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2029300
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070852379
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US12987
+</PriorityNumber>
+<PriorityDate>
+2007-06-01
+</PriorityDate>
+<PriorityNumber>
+US20060810799P
+</PriorityNumber>
+<PriorityDate>
+2006-06-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B32B7/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01L3/5027A
+</Class>
+<Class>
+B81C1/00G2S
+</Class>
+<Class>
+B82Y10/00
+</Class>
+</NCL>
+<Abstract>
+A microscale polymer-based apparatus comprises a substrate formed from a first polymer material and at least one active region integrated with the substrate. The at least one active region is patterned from a second polymer material that is modified to perform at least one function within the at least one active region.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A microscale polymer-based apparatus comprising: a substrate formed from a first polymer material; at least one active region integrated with said substrate, said at least one active region being patterned from a second polymer material; wherein the second polymer material is modified to perform at least one function within said at least one active region.
+</P>
+<P>
+2. The apparatus of claim 1 , wherein the second polymer material comprises a composite polymer material including the first polymer material and at least one additive.
+</P>
+<P>
+3. The apparatus of claim 1, wherein the first polymer material is substantially nonconductive, and the second polymer material is modified to be conductive.
+</P>
+<P>
+4. The apparatus of claim 3, wherein said at least one active region is embedded within said substrate.
+</P>
+<P>
+5. The apparatus of claim 4, wherein said at least one active region comprises at least one of an electrode, an embedded strain gauge, a conductive sensor, and a heater.
+</P>
+<P>
+6. The apparatus of claim 4, wherein said substrate comprises a non-conductive sheet, and wherein said at least one active region comprises at least one embedded strain gauge.
+</P>
+<P>
+7. The apparatus of claim 4, wherein said substrate includes a microfluidic channel formed therein, and wherein said at least one active region comprises at least one conductive flow rate sensor.
+</P>
+<P>
+8. The apparatus of claim 4, wherein said substrate includes a microfluidic channel formed therein, and wherein said at least one active region comprises at least one resistive heater.
+</P>
+<P>
+9. The apparatus of claim 4, wherein said substrate includes a plurality of nonconductive layers, and wherein said at least one active region comprises a plurality of active regions, each of said plurality of nonconductive layers including a plurality of active regions.
+</P>
+<P>
+10. The apparatus of claim 4, wherein said substrate includes a plurality of nonconductive layers; wherein said at least one active region comprises a plurality of embedded electrodes, each of said plurality of nonconductive layers including a plurality of embedded electrodes; wherein the embedded electrodes are arranged orthogonally with respect to adjacent nonconductive layers to provide a capacitive array.
+</P>
+<P>
+11. The apparatus of claim 4, wherein said at least one active region comprises a plurality of active regions embedded within said substrate such that each of the plurality of active regions are separated from one another by a portion of said substrate.
+</P>
+<P>
+12. The apparatus of claim 3, further comprising: at least one electrical contact electrically coupled to said at least one active region.
+</P>
+<P>
+13. The apparatus of claim 2, wherein the first polymer material comprises an elastomer, and wherein the second polymer material comprises an elastomer modified to become conductive.
+</P>
+<P>
+14. The apparatus of claim 2, wherein the first polymer material comprises polydimethlysiloxane (PDMS), and wherein the second polymer material comprises PDMS modified to become conductive.
+</P>
+<P>
+15. The apparatus of claim 14, wherein the second polymer material comprises PDMS combined with multiwall carbon nanotubes
+</P>
+<P>
+(MWNT).
+</P>
+<P>
+16. A method of forming a microscale polymer-based device, the method comprising: patterning a photoresist on a substrate to provide a photoresist mold; applying a modified polymer to the photoresist mold to form at least one modified polymer structure; removing said patterned photoresist; forming nonmodified polymer around the at least one modified polymer structure to provide a nonmodified polymer structure and capture the at least one modified polymer structure within the nonmodified polymer structure; and releasing the at least one modified polymer structure and the nonmodified polymer structure from the substrate.
+</P>
+<P>
+17. The method of claim 16 wherein the modified polymer comprises the nonmodified polymer and an additive to make the modified polymer conductive.
+</P>
+<P>
+18. The method of claim 17, wherein the nonmodif[iota]ed polymer comprises polydimethylsiloxane (PDMS), and wherein the modified polymer comprises PDMS combined with multiwall carbon nanorubes (MWNT).
+</P>
+<P>
+19. The method of claim 16, wherein the at least one modified polymer structure comprises at least one of an electrode, a flow sensor, a heater, strain gauge, a capacitor plate, a chemical sensor, a biosensor, and a porous region.
+</P>
+<P>
+20. An integrated, polymer-based structure comprising: a modified polymer-based means; a non-modified polymer-based means integrated with said modified polymer-based means, said modified polymer-based means being patterned in or on said non-modified polymer-based means to provide one or more active regions.
+</P>
+</Claims>
+<Also_published_as>
+WO2008030284A2;WO2008030284A3;US2010072565A1;KR20090051009A;JP2009539625A;CA2653557A1;AU2007293476A1;AU2007293476B2
+</Also_published_as>
+</BiblioData>

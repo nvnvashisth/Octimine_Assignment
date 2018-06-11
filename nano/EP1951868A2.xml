@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INTEGRATION OF SAMPLE STORAGE AND SAMPLE MANAGEMENT FOR LIFE SCIENCE
+</Title>
+<PublicationNumber>
+EP1951868A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MULLER-COHN JUDY [US]
+</Name>
+<Name>
+MULLER ROLF [US]
+</Name>
+<Name>
+MULLER-COHN, JUDY
+</Name>
+<Name>
+MULLER, ROLF
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BIOMATRICA INC [US]
+</Name>
+<Name>
+BIOMATRICA, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1951868
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060848927
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US45661
+</PriorityNumber>
+<PriorityDate>
+2006-11-29
+</PriorityDate>
+<PriorityNumber>
+US20050291267
+</PriorityNumber>
+<PriorityDate>
+2005-12-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A01N1/00
+</Class>
+<Class>
+A01N1/02
+</Class>
+<Class>
+B01L3/00
+</Class>
+<Class>
+C12N1/04
+</Class>
+<Class>
+C12N11/00
+</Class>
+<Class>
+C12N9/96
+</Class>
+<Class>
+G01N35/00
+</Class>
+<Class>
+G01N35/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+A01H4/00B
+</Class>
+<Class>
+A01N1/00
+</Class>
+<Class>
+A01N1/02
+</Class>
+<Class>
+A01N1/02C4
+</Class>
+<Class>
+B01L3/5085
+</Class>
+<Class>
+B01L3/545
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12N1/04
+</Class>
+<Class>
+C12N5/00M
+</Class>
+<Class>
+C12N9/96
+</Class>
+</NCL>
+<Abstract>
+Compositions and methods are disclosed for automated storing, tracking, retrieving and analyzing biological samples, including dry storage at ambient temperatures of nucleic acids, proteins (including enzymes), and cells using a dissolvable dry storage matrix that permits recovery of biologically active materials. RFID-tagged biological sample storage devices featuring dissolvable or dissociable matrices are described for use as supports of biological samples, which matrices can be dried and subsequently rehydrated for sample recovery. Also disclosed are computer-implemented systems and methods for managing sample data.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A matrix for substantially dry storage of a biological sample, comprising:
+</P>
+<P>
+(a) a matrix material that dissolves or dissociates in a solvent; and
+</P>
+<P>
+(b) at least one stabilizer,
+</P>
+<P>
+wherein the stabilizer is not lactitol, lactose, maltose, maltitol, mannitol, sucrose, sorbitol, cellobiose, inositol or chitosan, and
+</P>
+<P>
+wherein if the at least one stabilizer comprises a first stabilizer that is trehalose, then a trehalase inhibitor is also present as a second stabilizer.
+</P>
+<P>
+2. A matrix for substantially dry storage of a biological sample, comprising:
+</P>
+<P>
+(a) a matrix material that dissolves or dissociates in a solvent; and
+</P>
+<P>
+(b) at least two stabilizers,
+</P>
+<P>
+wherein the stabilizer is not lactitol, lactose, maltose, maltitol, mannitol, sucrose, sorbitol, cellobiose, inositol or chitosan, and
+</P>
+<P>
+wherein if one of the at least two stabilizers comprises a first stabilizer that is trehalose, then a trehalase inhibitor is also present as a second stabilizer.
+</P>
+<P>
+3. A matrix for substantially dry storage of a biological sample, comprising:
+</P>
+<P>
+(a) a matrix material that dissolves or dissociates in a solvent; (b) at least one stabilizer; and (c) at least one biological sample, wherein the stabilizer is not lactitol, lactose, maltose, maltitol, mannitol, sucrose, sorbitol, cellobiose, inositol or chitosan, and wherein if the at least one stabilizer comprises a first stabilizer that is trehalose, then a trehalase inhibitor is also present as a second stabilizer.
+</P>
+<P>
+4. A matrix for substantially dry storage of a biological sample, comprising:
+</P>
+<P>
+(a) a matrix material that dissolves or dissociates in a solvent, said matrix material comprising polyvinyl alcohol; and
+</P>
+<P>
+(b) at least one stabilizer.
+</P>
+<P>
+5. A matrix for substantially dry storage of a biological sample, comprising:
+</P>
+<P>
+(a) a matrix material that dissolves or dissociates in a solvent; and
+</P>
+<P>
+(b) at least one stabilizer, wherein said at least one stabilizer comprises a trehalase inhibitor.
+</P>
+<P>
+6. A matrix for substantially dry storage of a biological sample, comprising:
+</P>
+<P>
+(a) a matrix material that dissolves or dissociates in a solvent; and
+</P>
+<P>
+(b) at least one and no more than two stabilizers, wherein the stabilizer is not trehalose, lactitol, lactose, maltose, maltitol, mannitol, sucrose, sorbitol, cellobiose, inositol or chitosan.
+</P>
+<P>
+7. A matrix for substantially dry storage of a biological sample, comprising:
+</P>
+<P>
+(a) a matrix material that dissolves or dissociates in a solvent; and
+</P>
+<P>
+(b) at least one stabilizer, wherein said at least one stabilizer comprises a glycosidase inhibitor that is selected from the group consisting of:
+</P>
+<P>
+(i) a trehalase inhibitor,
+</P>
+<P>
+(ii) a chitinase inhibitor,
+</P>
+<P>
+(iii) an [alpha]-glucosidase inhibitor,
+</P>
+<P>
+(iv) a glycogen phosphorylase inhibitor,
+</P>
+<P>
+(vi) a neuramimidase inhibitor,
+</P>
+<P>
+(vi) a ceramide glucosyltransferase inhibitor, and
+</P>
+<P>
+(vii) a lysosomal glycosidase inhibitor.
+</P>
+<P>
+8. The matrix according to any one of claims 1-3 and 5 wherein the trehalase inhibitor is selected from the group consisting of suidatrestin, validamycin A, validoxylamine A, MDL 26537, trehazolin, salbostatin and casuarine-6-O-[alpha]-D-glucopyranoside.
+</P>
+<P>
+9. The matrix according to any one of claims 1-7 wherein the matrix material dissolves in a solvent.
+</P>
+<P>
+10. A matrix for substantially dry storage of a biological sample according to any one of claims 1-6, wherein at least one stabilizer comprises an inhibitor that is a biological inhibitor or a biochemical inhibitor.
+</P>
+<P>
+11. The matrix of any one of claims 1-7 wherein the solvent comprises a biocompatible solvent.
+</P>
+<P>
+12. The matrix of claim 11 wherein the matrix material dissolves in the biocompatible solvent.
+</P>
+<P>
+13. The matrix of any one of claims 1-3 and 5-7 wherein the matrix material comprises polyvinyl alcohol.
+</P>
+<P>
+14. The matrix of claim 13 wherein the matrix is dried from a solution that comprises from about 0.1% to about 10% weight-to-volume polyvinyl alcohol.
+</P>
+<P>
+15. The matrix of claim 13 wherein the matrix is dried from a solution that comprises from about 0.5% to about 5% weight-to-volume polyvinyl alcohol.
+</P>
+<P>
+16. The matrix of claim 13 wherein the matrix is dried from a solution that comprises from about 1% to about 5% weight-to-volume polyvinyl alcohol.
+</P>
+<P>
+17. The matrix of claim 13 wherein the matrix is dried from a solution that comprises from about 0.5% to about 1.5% weight-to-volume polyvinyl alcohol.
+</P>
+<P>
+18. The matrix of claim 13 wherein the matrix is dried from a solution that is selected from the group consisting of:
+</P>
+<P>
+(i) a solution that comprises about 1% weight-to-volume polyvinyl alcohol,
+</P>
+<P>
+(ii) a solution that comprises about 3% weight-to-volume polyvinyl alcohol,
+</P>
+<P>
+(iii) a solution that comprises about 5% weight-to-volume polyvinyl alcohol,
+</P>
+<P>
+(iv) a solution that comprises about 1% weight-to-volume polyvinyl alcohol and about 5% weight-to-volume trehalose,
+</P>
+<P>
+(v) a solution that comprises about 1% weight-to-volume polyvinyl alcohol and about 5% weight-to-volume validamycin, and
+</P>
+<P>
+(vi) a solution that comprises about 1% weight-to-volume polyvinyl alcohol, about 5% weight-to-volume trehalose and about 5% weight-to-volume validamycin.
+</P>
+<P>
+19. The matrix of claim 13 wherein the matrix is dried from a solution that is selected from the group consisting of:
+</P>
+<P>
+(i) a solution that comprises from about 1% weight-to-volume to about 5% weight-to-volume polyvinyl alcohol and about 5% weight-to-volume of a trehalase inhibitor,
+</P>
+<P>
+(ii) a solution that comprises about 1% weight-to-volume polyvinyl alcohol and about 1% to about 10% weight-to-volume of a trehalase inhibitor, and
+</P>
+<P>
+(iii) a solution that comprises about 1% weight-to-volume polyvinyl alcohol, about 5% weight-to-volume trehalose and about 5% weight-to-volume of a trehalase inhibitor.
+</P>
+<P>
+20. A matrix according to claim 19 wherein the trehalase inhibitor is selected from the group consisting of suidatrestin, validamycin A, validoxylamine A, MDL 26537, trehazolin, salbostatin and casuarine-6-O-[alpha]-D-glucopyranoside.
+</P>
+<P>
+21. The matrix of any one of claims 1-3 and 5-7 wherein the matrix material comprises at least one material selected from the group consisting of polyethylene glycol, agarose, poly-N-vinylacetamide, polyvinylpyrrolidone, poly(4-vinylpyridine), polyphenylene oxide, crosslinked acrylamide, polymethacrylate, carbon nanotubes, polylactide, lactide/glycolide copolymer, hydroxymethacrylate copolymer, calcium pectinate, hydroxypropyl methylcellulose acetate succinate, heparin sulfate proteoglycan, hyaluronic acid, glucuronic acid, thrombospondin-1 N-terminal heparin-binding domain, fibronectin, a peptide/water-soluble polymeric modifier conjugate and collagen.
+</P>
+<P>
+22. The matrix of any one of claims 1-4 and 6 wherein at least one stabilizer that is present comprises a trehalase inhibitor.
+</P>
+<P>
+23. The matrix of claim 22 wherein the trehalase inhibitor comprises validamycin.
+</P>
+<P>
+24. A matrix according to claim 22 wherein the trehalase inhibitor is selected from the group consisting of suidatrestin, validamycin A, validoxylamine A, MDL 26537, trehazolin, salbostatin and casuarine-6-O-[alpha]-D-glucopyranoside.
+</P>
+<P>
+25. The matrix of claim 3 wherein the biological sample comprises at least one of
+</P>
+<P>
+(i) an isolated biomolecule that is selected from the group consisting of DNA, RNA, a protein, a polypeptide, a lipid, a glyconconjugate, an oligosaccharide, and a polysaccharide, and
+</P>
+<P>
+(ii) a biological material that is selected from the group consisting of a mammalian cell, a bacterium, a yeast cell, a virus, a vaccine, blood, urine, a biological fluid, and a buccal swab.
+</P>
+<P>
+26. A matrix for substantially dry storage of a biological sample, comprising:
+</P>
+<P>
+(a) a matrix material that dissolves or dissociates in a solvent, said matrix material comprising polyvinyl alcohol; and
+</P>
+<P>
+(b) a first stabilizer which comprises trehalose; and
+</P>
+<P>
+(c) a second stabilizer which comprises validamycin A.
+</P>
+<P>
+27. A matrix for substantially dry storage of a biological sample according to any one of claims 1-7 and 26, further comprising a buffer that is capable of maintaining a desired pH.
+</P>
+<P>
+28. The matrix of claim 27 wherein the buffer comprises a compound that is selected from the group consisting of Tris, citrate, acetate, phosphate, borate, HEPES, MES, MOPS, PIPES, carbonate and bicarbonate.
+</P>
+<P>
+29. The matrix of claim 10 wherein the biological inhibitor or biochemical inhibitor is selected from the group consisting of validamycin A, TL-3, sodium orthovanadate, sodium fluoride, N-[alpha]-tosyl-Phe-chloromethylketone, N-[alpha]-tosyl-Lys-chloromethylketone, aprotinin, phenylmethylsulfonyl fluoride and diisopropylfluoro-phosphate.
+</P>
+<P>
+30. The matrix of claim 10 wherein the biological inhibitor or biochemical inhibitor is selected from the group consisting of a kinase inhibitor, a phosphatase inhibitor, a caspase inhibitor, a granzyme inhibitor, a cell adhesion inhibitor, a cell division inhibitor, a cell cycle inhibitor, a lipid signaling inhibitor and a protease inhibitor.
+</P>
+<P>
+31. The matrix of claim 10 wherein the biological inhibitor or biochemical inhibitor is selected from the group consisting of a reducing agent, an alkylating agent and an antimicrobial agent.
+</P>
+<P>
+32. The matrix of any one of claims 1-3 wherein the matrix material comprises at least one material selected from the group consisting of hydroxyectoine and polystyrene.
+</P>
+<P>
+33. A matrix for substantially dry storage of a biological sample according to any one of claims 1-7 and 26, which comprises at least one detectable indicator.
+</P>
+<P>
+34. The matrix of claim 33 wherein the detectable indicator comprises a colorimetric indicator.
+</P>
+<P>
+35. The matrix of claim 33 wherein the detectable indicator comprises one or a plurality of GCMS tag compounds.
+</P>
+<P>
+36. The matrix of claim 33 wherein the detectable indicator is selected from the group consisting of a fluorescent indicator, a luminescent indicator, a phosphorescent indicator, a radiometric indicator, a dye, an enzyme, a substrate of an enzyme, an energy transfer molecule, and an affinity label.
+</P>
+<P>
+37. The matrix of claim 33 wherein the detectable indicator is capable of detectably indicating presence of at least one of an amine, an alcohol, an aldehyde, water, a thiol, a sulfide, a nitrite, avidin, biotin, an immunoglobulin, an oligosaccharide, a nucleic acid, a polypeptide, an enzyme, a cytoskeletal protein, a reactive oxygen species, a metal ion, pH, Na&amp;lt;+&amp;gt; , K&amp;lt;+&amp;gt; , Cl&amp;lt;-&amp;gt; , a cyanide, a phosphate and selenium.
+</P>
+<P>
+38. The matrix of claim 33 wherein the detectable indicator is selected from the group consisting of phenol red, ethidium bromide, a DNA polymerase, a restriction endonuclease, cobalt chloride, Reichardt&apos;s dye and a fluorogenic protease substrate.
+</P>
+<P>
+39. The matrix material of any one of claims 1-7 and 26 wherein the matrix material is capable of dry storage of the biological sample without refrigeration.
+</P>
+<P>
+40. A matrix for substantially dry storage of a biological sample, comprising:
+</P>
+<P>
+(a) at least one matrix material comprising a polymer that dissolves or dissociates in a solvent; and
+</P>
+<P>
+(b) at least one stabilizer, wherein the stabilizer is not lactitol, lactose, maltose, maltitol, mannitol, sucrose, sorbitol, cellobiose, inositol or chitosan, and wherein if the at least one stabilizer comprises a first stabilizer that is trehalose, then a trehalase inhibitor is also present as a second stabilizer,
+</P>
+<P>
+wherein:
+</P>
+<P>
+(I) the matrix material of (a) does not covalently self-assemble and has the structure:
+</P>
+<P>
+-[-X-]n-
+</P>
+<P>
+wherein X is -CH3, -CH2-, -CH2CH(OH)-, substituted -CH2CH(OH)-, -CH2CH(COOH)-, substituted -CH2CH(COOH)-, -CH-CH2, -CH-CH-, C1-C24 alkyl or substituted alkyl, C2-24 alkenyl or substituted alkenyl, polyoxyethylene, polyoxypropylene, or a random or block copolymer thereof;
+</P>
+<P>
+and wherein n is an integer having a value of about 1-100, 101-500, 501-1000, 1001-1500, or 1501-3000;
+</P>
+<P>
+and wherein
+</P>
+<P>
+(II) the stabilizer is not covalently linked to the polymer and comprises trehalose, a trehalase inhibitor, or a compound comprising a structure that is selected from the group consisting of formulae (i)-(xv):
+</P>
+<P>
+EMI5.0
+</P>
+<P>
+EMI6.0
+</P>
+<P>
+wherein R is selected from -H, -OH, -CH2OH, -NHAc and -OAc.
+</P>
+<P>
+41. The matrix of claim 40 wherein the polymer is capable of non-covalent self-assembly by forming one or a plurality of hydrogen bonds.
+</P>
+<P>
+42. The matrix of claim 40 wherein the polymer is capable of forming at least one hydrogen bond with at least one stabilizer.
+</P>
+<P>
+43. The matrix of claim 40 wherein the polymer is capable of forming at least one hydrogen bond with at least one of a nucleic acid molecule and a polypeptide.
+</P>
+<P>
+44. A method of storing a biological sample, comprising:
+</P>
+<P>
+contacting a biological sample with a matrix for substantially dry storage of a biological sample, the matrix comprising (i) a matrix material that dissolves or dissociates in a solvent; and (ii) at least one stabilizer, wherein the stabilizer is not lactitol, lactose, maltose, maltitol, mannitol, sucrose, sorbitol, cellobiose, inositol, or chitosan, and wherein if the at least one stabilizer comprises a first stabilizer that is trehalose, then a trehalase inhibitor is also present as a second stabilizer, and thereby storing said biological sample.
+</P>
+<P>
+45. The method of claim 44, comprising maintaining the matrix without refrigeration subsequent to the step of contacting.
+</P>
+<P>
+46. A method of storing a biological sample, comprising:
+</P>
+<P>
+(a) contacting a biological sample with a matrix for substantially dry storage of a biological sample, the matrix comprising (i) a matrix material that dissolves or dissociates in a solvent; and (ii) at least one stabilizer, wherein the stabilizer is not lactitol, lactose, maltose, maltitol, mannitol, sucrose, sorbitol, cellobiose, inositol, or chitosan, and wherein if the at least one stabilizer comprises a first stabilizer that is trehalose, then a trehalase inhibitor is also present as a second stabilizer; and
+</P>
+<P>
+(b) drying the matrix, and thereby storing said biological sample.
+</P>
+<P>
+47. The method of claim 46, comprising maintaining the matrix without refrigeration subsequent to the steps of contacting and drying.
+</P>
+<P>
+48. The method of claim 47 wherein biological activity of the sample subsequent to the step of maintaining is substantially the same as biological activity of the sample prior to the step of contacting.
+</P>
+<P>
+49. The method of claim 47 wherein degradation of the biological sample is decreased relative to degradation of a control biological sample maintained without refrigeration in the absence of the matrix material.
+</P>
+<P>
+50. The method of claim 46 wherein the step of contacting comprises simultaneously dissolving or dissociating the matrix material in a solvent.
+</P>
+<P>
+51. The method of claim 46 wherein the step of contacting is preceded by dissolving or dissociating the matrix material in a solvent.
+</P>
+<P>
+52. The method of claim 46 wherein the step of contacting is followed by dissolving or dissociating the matrix material in a solvent.
+</P>
+<P>
+53. A method of preparing a biological sample storage device for one or a plurality of biological samples, comprising:
+</P>
+<P>
+(a) administering a matrix to one or a plurality of sample wells of a biological sample storage device, wherein (1) said biological sample storage device comprises (i) a lid, and (ii) a sample plate comprising one or a plurality of sample wells that are capable of containing a biological sample, and wherein (2) the matrix comprises (i) a matrix material that dissolves or dissociates in a solvent; and (ii) at least one stabilizer, wherein the stabilizer is not lactitol, lactose, maltose, maltitol, mannitol, sucrose, sorbitol, cellobiose, inositol, or chitosan, and wherein if the at least one stabilizer comprises a first stabilizer that is trehalose, then a trehalase inhibitor is also present as a second stabilizer; and
+</P>
+<P>
+(b) drying one or more of the sample wells, and thereby preparing the biological sample storage device.
+</P>
+<P>
+54. The method of claim 53 wherein the step of administering comprises administering a liquid solution or a liquid suspension that contains the matrix material and the solvent.
+</P>
+<P>
+55. The method of claim 53 wherein at least one well comprises at least one detectable indicator.
+</P>
+<P>
+56. The method of claim 55 wherein the detectable indicator comprises a colorimetric indicator.
+</P>
+<P>
+57. The method of claim 55 wherein the detectable indicator comprises one or a plurality of GCMS tag compounds.
+</P>
+<P>
+58. The method of claim 55 wherein the detectable indicator is selected from the group consisting of a fluorescent indicator, a luminescent indicator, a phosphorescent indicator, a radiometric indicator, a dye, an enzyme, a substrate of an enzyme, an energy transfer molecule, and an affinity label.
+</P>
+<P>
+59. The method of claim 55 wherein the detectable indicator is capable of detectably indicating presence of at least one of an amine, an alcohol, an aldehyde, water, a thiol, a sulfide, a nitrite, avidin, biotin, an immunoglobulin, an oligosaccharide, a nucleic acid, a polypeptide, an enzyme, a cytoskeletal protein, a reactive oxygen species, a metal ion, pH, Na&amp;lt;+&amp;gt; , K&amp;lt;+&amp;gt; , Cl&amp;lt;-&amp;gt; , a cyanide, a phosphate and selenium.
+</P>
+<P>
+60. The method of claim 55 wherein the detectable indicator is selected from the group consisting of phenol red, ethidium bromide, a DNA polymerase, a restriction endonuclease, cobalt chloride, Reichardt&apos;s dye and a fluorogenic protease substrate.
+</P>
+<P>
+61. The method of claim 53 wherein at least one well comprises at least one stabilizer that is a biological inhibitor or a biochemical inhibitor.
+</P>
+<P>
+62. A method of recovering a stored biological sample, comprising:
+</P>
+<P>
+(a) contacting, simultaneously or sequentially and in either order in a biological sample storage device, one or a plurality of biological samples with a matrix for substantially dry storage of a biological sample, wherein (1) said biological sample storage device comprises (i) a lid, and (ii) a sample plate comprising one or a plurality of sample wells that are capable of containing the biological sample, wherein one or more of said wells comprises the matrix, and wherein (2) the matrix comprises (i) a matrix material that dissolves or dissociates in a solvent, and (ii) at least one stabilizer, wherein the stabilizer is not lactitol, lactose, maltose, maltitol, mannitol, sucrose, sorbitol, cellobiose, inositol, or chitosan, and wherein if the at least one stabilizer comprises a first stabilizer that is trehalose, then a trehalase inhibitor is also present as a second stabilizer;
+</P>
+<P>
+(b) drying one or more of the sample wells;
+</P>
+<P>
+(c) maintaining the biological sample storage device without refrigeration subsequent to the steps of contacting and drying; and
+</P>
+<P>
+(d) resuspending or redissolving the biological sample in a second solvent, and therefrom recovering the stored biological sample.
+</P>
+<P>
+63. The method of claim 62 wherein biological activity of the sample subsequent to the step of maintaining is substantially the same as biological activity of the sample prior to the step of contacting.
+</P>
+<P>
+64. The method of claim 62 wherein the second solvent is selected from the group consisting of (i) a solvent that is the same as the first solvent and (ii) a solvent that is different from the first solvent.
+</P>
+<P>
+65. The method of claim 62 wherein at least one of the first solvent and the second solvent is an activity buffer.
+</P>
+<P>
+66. A matrix for substantially dry storage of a biological sample, comprising:
+</P>
+<P>
+(a) a matrix material that dissolves or dissociates in a solvent;
+</P>
+<P>
+(b) at least one stabilizer; and
+</P>
+<P>
+(c) a sample treatment composition.
+</P>
+<P>
+67. The matrix of claim 66 wherein the sample treatment composition comprises a composition that is selected from the group consisting of an activity buffer, a cell lysis buffer, a free radical trapping agent, a sample denaturant and a pathogen-neutralizing agent.
+</P>
+</Claims>
+<Also_published_as>
+US2006099567A1;WO2007075253A2;WO2007075253A3;US2009291427A1;US2009298132A1;RU2008126716A;KR20080085003A;JP2009517086A;CN101360822A;CA2632203A1;BRPI0619105A2;AU2006330034A1
+</Also_published_as>
+</BiblioData>

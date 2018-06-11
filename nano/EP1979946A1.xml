@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOWIRE TUNNELING TRANSISTOR
+</Title>
+<PublicationNumber>
+EP1979946A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HURKX FRED [AT]
+</Name>
+<Name>
+AGARWAL PRABHAT [AT]
+</Name>
+<Name>
+HURKX, FRED
+</Name>
+<Name>
+AGARWAL, PRABHAT
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NXP BV [NL]
+</Name>
+<Name>
+NXP B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1979946
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070700680
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-24
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IB50241
+</PriorityNumber>
+<PriorityDate>
+2007-01-24
+</PriorityDate>
+<PriorityNumber>
+EP20060100816
+</PriorityNumber>
+<PriorityDate>
+2006-01-25
+</PriorityDate>
+<PriorityNumber>
+EP20070700680
+</PriorityNumber>
+<PriorityDate>
+2007-01-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/336
+</Class>
+<Class>
+H01L29/06
+</Class>
+<Class>
+H01L29/10
+</Class>
+<Class>
+H01L29/78
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+<Class>
+H01L29/06C6W6
+</Class>
+<Class>
+H01L29/10D2B4
+</Class>
+<Class>
+H01L29/66M6T6F12
+</Class>
+<Class>
+H01L29/78C
+</Class>
+</NCL>
+<Abstract>
+A transistor comprises a nanowire (22, 22&apos;) having a source (24) and a drain (29) separated by an intrinsic or lowly doped region (26, 28). A potential barrier is formed at the interface of the intrinsic or lowly doped region (26, 28) and one of the source (24) and the drain (29). A gate electrode (32) is provided in the vicinity of the potential barrier such that the height of the potential barrier can be modulated by applying an appropriate voltage to the gate electrode (32).
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. Transistor comprising a nanowire (22, 22&apos;) having a source (24) and a drain (29) separated by an intrinsic or lowly doped region (26, 28), wherein a potential barrier is formed at the interface of the intrinsic or lowly doped region (26, 28) and one of the source (24) and the drain (29), wherein a gate electrode (32) is provided in the vicinity of the potential barrier such that the effective height and/or width of the potential barrier can be modulated by applying an appropriate voltage to the gate electrode (32).
+</P>
+<P>
+2. Transistor according to claim 1, wherein a barrier region (27) is located inside the intrinsic or lowly doped region (26, 28) between the source (24) and the drain (29).
+</P>
+<P>
+3. Transistor according to claim 1 wherein the barrier (27) is a highly doped semiconductor material.
+</P>
+<P>
+4. Transistor according to claim 3, wherein the semiconductor material forming the barrier region (27) is indium arsenide (InAs) while the adjacent intrinsic or lowly doped regions are made of silicon (Si) or gallium arsenide (GaAs).
+</P>
+<P>
+5. Transistor according to claim 1, wherein the barrier (27) is made from a metal.
+</P>
+<P>
+6. Transistor according to claim 1, wherein the nanowire (22) is grown on a semiconductor substrate (23).
+</P>
+<P>
+7. Transistor according to claim 1, wherein the nanowire (22) has highly doped end portions forming the source (24) and the drain (29) of the transistor.
+</P>
+<P>
+8. Transistor according to claim 5, wherein the outer surface of the nanowire (22) is covered by an insulating layer (31).
+</P>
+<P>
+9. Transistor according to claim 8 wherein on the surface of the insulating layer (31) a metal layer (37) is deposited forming a gate electrode (32).
+</P>
+<P>
+10. Transistor according to claim 8, wherein the insulating layer (31) is a dielectric layer or a wide band gap semiconductor forming a Schottky barrier to the gate electrode (32).
+</P>
+<P>
+11. Transistor according to claim 10, wherein the wide band gap semiconductor forming the Schottky barrier to the gate electrode (32) contains a delta-doped layer.
+</P>
+</Claims>
+<Also_published_as>
+EP1979946B1;WO2007086009A1;US2009008631A1;US7791108B2;KR20080096789A;JP2009524924A;CN101375398A;CN101375398B;AT529894T
+</Also_published_as>
+</BiblioData>

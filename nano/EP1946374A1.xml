@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SEMICONDUCTOR DEVICE AND MANUFACTURING METHOD THEREOF
+</Title>
+<PublicationNumber>
+EP1946374A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KUSUMOTO NAOTO [JP]
+</Name>
+<Name>
+OHSAWA NOBUHARU [JP]
+</Name>
+<Name>
+YUKAWA MIKIO [JP]
+</Name>
+<Name>
+DOZEN YOSHITAKA [JP]
+</Name>
+<Name>
+KUSUMOTO, NAOTO
+</Name>
+<Name>
+OHSAWA, NOBUHARU
+</Name>
+<Name>
+YUKAWA, MIKIO
+</Name>
+<Name>
+DOZEN, YOSHITAKA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SEMICONDUCTOR ENERGY LAB [JP]
+</Name>
+<Name>
+SEMICONDUCTOR ENERGY LABORATORY CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1946374
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060832471
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP322418
+</PriorityNumber>
+<PriorityDate>
+2006-11-02
+</PriorityDate>
+<PriorityNumber>
+JP20050325448
+</PriorityNumber>
+<PriorityDate>
+2005-11-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/28
+</Class>
+<Class>
+H01L21/336
+</Class>
+<Class>
+H01L27/10
+</Class>
+<Class>
+H01L27/105
+</Class>
+<Class>
+H01L27/28
+</Class>
+<Class>
+H01L29/417
+</Class>
+<Class>
+H01L29/423
+</Class>
+<Class>
+H01L29/49
+</Class>
+<Class>
+H01L29/786
+</Class>
+<Class>
+H01L51/05
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C13/00R5C
+</Class>
+<Class>
+H01L27/12
+</Class>
+<Class>
+H01L27/12T
+</Class>
+<Class>
+H01L27/12T30A2
+</Class>
+<Class>
+H01L27/28B
+</Class>
+<Class>
+H01L29/45S2
+</Class>
+<Class>
+H01L51/00A24
+</Class>
+</NCL>
+<Abstract>
+To provide a semiconductor device which is higher functional and reliable and a technique capable of manufacturing the semiconductor device with a high yield at low cost without complexing the apparatus or process. At least one of a first conductive layer and a second conductive layer is formed containing one kind or plural kinds of indium, tin, lead, bismuth, calcium, manganese, or zinc;  or oxidation treatment is performed at least one of interfaces between an organic compound layer and the first conductive layer and between the organic compound layer and the second conductive layer. The first conductive layer, the organic compound layer, and the second conductive layer which are formed over a first substrate with a peeling layer interposed therebetween can be peeled from the first substrate with the peeling layer, and transposed to a second substrate.
+</Abstract>
+<Claims>
+<P>
+1. A manufacturing method of a semiconductor device, comprising:
+</P>
+<P>
+forming a first conductive layer over a first substrate;
+</P>
+<P>
+performing oxidation treatment to a surface of the first conductive layer;
+</P>
+<P>
+forming an organic compound layer over the first conductive layer subjected to the oxidation treatment;
+</P>
+<P>
+forming a second conductive layer over the organic compound layer to manufacture a memory element;
+</P>
+<P>
+attaching a second substrate having flexibility to the second conductive layer;
+</P>
+<P>
+peeling the memory element from the first substrate; and
+</P>
+<P>
+attaching the memory element to a third substrate with an adhesion layer,
+</P>
+<P>
+wherein the second conductive layer comprises one kind or plural kinds of indium, tin, lead, bismuth, calcium, manganese, and zinc.
+</P>
+<P>
+2. A semiconductor device comprising:
+</P>
+<P>
+a memory element which comprises an organic compound layer between a first conductive layer and a second conductive layer,
+</P>
+<P>
+wherein at least one of the first conductive layer and the second conductive layer comprises one kind or plural kinds of indium, tin, lead, bismuth, calcium, manganese, and zinc.
+</P>
+<P>
+3. A semiconductor device comprising:
+</P>
+<P>
+a memory element which comprises an organic compound layer between a first conductive layer and a second conductive layer,
+</P>
+<P>
+wherein at least one of the first conductive layer and the second conductive layer is in contact with the organic compound layer via a film containing an oxide.
+</P>
+<P>
+4. A semiconductor device comprising:
+</P>
+<P>
+a memory element which comprises an organic compound layer between a first conductive layer and a second conductive layer,
+</P>
+<P>
+wherein the first conductive layer is in contact with the organic compound layer via a film containing an oxide, and
+</P>
+<P>
+wherein the second conductive layer comprises one kind or plural kinds of indium, tin, lead, bismuth, calcium, manganese, and zinc.
+</P>
+<P>
+5. The semiconductor device according to any one of claims 2 to 4,
+</P>
+<P>
+wherein the first conductive layer contains titanium, and a film containing titanium oxide is provided by oxidation treatment for a surface where the first conductive layer is in contact with the organic compound layer.
+</P>
+<P>
+6. The semiconductor device according to any one of claims 2 to 4,
+</P>
+<P>
+wherein the first conductive layer, the organic compound layer, and the second conductive layer are provided over a substrate having flexibility.
+</P>
+<P>
+7. The semiconductor device according claim 6,
+</P>
+<P>
+wherein the first conductive layer, the organic compound layer, and the second conductive layer are provided over the substrate having flexibility, with an adhesion layer.
+</P>
+<P>
+8. The semiconductor device according to any one of claims 2 to 4,
+</P>
+<P>
+wherein after writing into the memory element by applying electrical action, the first conductive layer and the second conductive layer are partially in contact with each other.
+</P>
+<P>
+9. The semiconductor device according to any one of claims 2 to 4,
+</P>
+<P>
+wherein after writing into the memory element by applying electrical action, thickness of the organic compound layer is changed.
+</P>
+<P>
+10. A manufacturing method of a semiconductor device, comprising:
+</P>
+<P>
+forming a first conductive layer;
+</P>
+<P>
+forming an organic compound layer over the first conductive layer; and
+</P>
+<P>
+forming a second conductive layer over the organic compound layer to manufacture a memory element,
+</P>
+<P>
+wherein at least one of the first conductive layer and the second conductive layer comprises one kind or plural kinds of indium, tin, lead, bismuth, calcium, manganese, and zinc.
+</P>
+<P>
+11. A manufacturing method of a semiconductor device, comprising:
+</P>
+<P>
+forming a first conductive layer;
+</P>
+<P>
+performing oxidation treatment to a surface of the first conductive layer;
+</P>
+<P>
+forming a organic compound layer over the first conductive layer subjected to the oxidation treatment; and
+</P>
+<P>
+forming a second conductive layer over the organic compound layer to manufacture a memory element.
+</P>
+<P>
+12. A manufacturing method of a semiconductor device, comprising:
+</P>
+<P>
+forming a first conductive layer;
+</P>
+<P>
+performing oxidation treatment to a surface of the first conductive layer;
+</P>
+<P>
+forming an organic compound layer over the first conductive layer subjected to the oxidation treatment; and
+</P>
+<P>
+forming a second conductive layer over the organic compound layer to manufacture a memory element,
+</P>
+<P>
+wherein the second conductive layer comprises one kind or plural kinds of indium, tin, lead, bismuth, calcium, manganese, and zinc.
+</P>
+<P>
+13. A manufacturing method of a semiconductor device, comprising:
+</P>
+<P>
+forming a first conductive layer over a first substrate;
+</P>
+<P>
+forming an organic compound layer over the first conductive layer;
+</P>
+<P>
+forming a second conductive layer over the organic compound layer to manufacture a memory element;
+</P>
+<P>
+attaching a second substrate having flexibility to the second conductive layer;
+</P>
+<P>
+peeling the memory element from the first substrate; and
+</P>
+<P>
+attaching the memory element to a third substrate with an adhesion layer,
+</P>
+<P>
+wherein at least one of the first conductive layer and the second conductive layer comprises one kind or plural kinds of indium, tin, lead, bismuth, calcium, manganese, and zinc.
+</P>
+<P>
+14. A manufacturing method of a semiconductor device, comprising:
+</P>
+<P>
+forming a first conductive layer over a first substrate;
+</P>
+<P>
+performing oxidation treatment to a surface of the first conductive layer;
+</P>
+<P>
+forming an organic compound layer over the first conductive layer subjected to the oxidation treatment;
+</P>
+<P>
+forming a second conductive layer over the organic compound layer to manufacture a memory element;
+</P>
+<P>
+attaching a second substrate having flexibility to the second conductive layer;
+</P>
+<P>
+peeling the memory element from the first substrate; and
+</P>
+<P>
+attaching the memory element to a third substrate with an adhesion layer.
+</P>
+<P>
+15. The semiconductor device according to claim 2,
+</P>
+<P>
+wherein an insulating layer is interposed between the first conductive layer and the organic compound layer.
+</P>
+<P>
+16. The manufacturing method of a semiconductor device, according to any one of claims 1, 10, 11, 13, and 14,
+</P>
+<P>
+wherein the second conductive layer is formed in an oxygen atmosphere.
+</P>
+<P>
+17. The manufacturing method of a semiconductor device, according to any one of claims 1, 10 to 15,
+</P>
+<P>
+wherein the first conductive layer is formed over the first conductive layer with a peeling layer interposed therebetween.
+</P>
+<P>
+18. The semiconductor device according to claim 24,
+</P>
+<P>
+wherein the organic compound layer is one selected from polyimide, acrylic, polyamide, benzocyclobutene, and epoxy resins.
+</P>
+<P>
+19. The manufacturing method of a semiconductor device according to claim 1, 10 to 15,
+</P>
+<P>
+wherein the organic compound layer is one selected from polyimide, acrylic, polyamide, benzocyclobutene, and epoxy resins.
+</P>
+</Claims>
+<Also_published_as>
+US2007105285A1;US7713800B2;US2010190312A1;US8088654B2;WO2007055299A1;CN101950732A;CN101305465A;CN101305465B
+</Also_published_as>
+</BiblioData>

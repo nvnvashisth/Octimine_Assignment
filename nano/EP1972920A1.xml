@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SCAN TYPE PROBE MICROSCOPE
+</Title>
+<PublicationNumber>
+EP1972920A1
+</PublicationNumber>
+<Inventor>
+<Name>
+UCHIHASHI TAKAYUKI [JP]
+</Name>
+<Name>
+ANDO TOSHIO [JP]
+</Name>
+<Name>
+YAMASHITA HAYATO [JP]
+</Name>
+<Name>
+UCHIHASHI, TAKAYUKI
+</Name>
+<Name>
+ANDO, TOSHIO
+</Name>
+<Name>
+YAMASHITA, HAYATO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV KANAZAWA NAT UNIV CORP [JP]
+</Name>
+<Name>
+NATIONAL UNIVERSITY CORPORATION KANAZAWA UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1972920
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060834478
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP324723
+</PriorityNumber>
+<PriorityDate>
+2006-12-12
+</PriorityDate>
+<PriorityNumber>
+JP20050366395
+</PriorityNumber>
+<PriorityDate>
+2005-12-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q30/04
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q30/04
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</NCL>
+<Abstract>
+Provided is an atomic force microscope capable of increasing the phase detection speed of a cantilever vibration. The cantilever (5) is excited and the cantilever (5) and a sample are relatively scanned. Displacement of the cantilever (5) is detected by a sensor. An oscillator (27) generates an excitation signal of the cantilever (5) and generates a reference wave signal having a frequency based on the excitation signal and a fixed phase. According to vibration of the cantilever (5), a trigger pulse generation circuit (41) generates a trigger pulse signal having a pulse position changing in accordance with the vibration of the cantilever (5). According to the reference wave signal and the trigger pulse signal, a phase signal generation circuit (43) generates a signal corresponding to the level of the reference wave signal at the pulse position as a phase signal of vibration of the cantilever (5). As the reference wave signal&apos; a saw tooth wave is used. A phase signal generation circuit (43) is formed by a sample hold circuit.
+</Abstract>
+<Claims>
+<P>
+1. A scanning probe microscope for oscillating a cantilever and performing relative scanning between said cantilever and a sample, comprising:
+</P>
+<P>
+exciting means for exciting said cantilever;
+</P>
+<P>
+a sensor for detecting displacement of said cantilever;
+</P>
+<P>
+reference wave generating means for generating a reference wave signal that has a frequency based on an excitation signal of said cantilever and is of fixed phase difference with respect to said excitation signal;
+</P>
+<P>
+trigger pulse generating means for generating a trigger pulse signal whose pulse position changes dependent on the phase of oscillation of said cantilever, on the basis of the displacement of said cantilever; and
+</P>
+<P>
+phase signal generating means for generating a signal dependent on the magnitude of said reference wave signal at said pulse position as a phase signal of said cantilever oscillation, on the basis of said reference wave signal and said trigger pulse signal.
+</P>
+<P>
+2. The scanning probe microscope according to claim 1, wherein
+</P>
+<P>
+said reference wave generating means generates a signal having the same frequency as said excitation signal and of fixed phase difference with respect to said excitation signal as said reference wave signal; and
+</P>
+<P>
+said trigger pulse generating means generates, as said trigger pulse signal, a pulse signal that expresses the position on a time axis of the oscillation waveform obtained from the displacement of said cantilever.
+</P>
+<P>
+3. The scanning probe microscope according to claim 2, wherein
+</P>
+<P>
+said trigger pulse generating means generates said trigger pulse signal at a position on the oscillation waveform corresponding to the timing of contact or closest approach of said cantilever to said sample.
+</P>
+<P>
+4. The scanning probe microscope according to any of claims 1 to 3, wherein
+</P>
+<P>
+said reference wave generating means generates a sawtooth wave signal as said reference wave signal.
+</P>
+<P>
+5. The scanning probe microscope according to any of claims 1 to 4, comprising an oscillator having a plurality of channels, wherein
+</P>
+<P>
+said oscillator generates said excitation signal of said exciting means and generates said reference wave signal as said reference wave generating means.
+</P>
+<P>
+6. The scanning probe microscope according to any of claims 1 to 5, wherein said trigger pulse generating means includes:
+</P>
+<P>
+a bandpass filter for extracting an oscillation waveform signal of a frequency component of said excitation signal from a displacement signal of said cantilever;
+</P>
+<P>
+a comparator for converting said oscillation waveform signal to a rectangular wave signal; and
+</P>
+<P>
+a differentiator for generating a pulse signal at the rectangular wave generation timing from said rectangular wave signal.
+</P>
+<P>
+7. The scanning probe microscope according to any of claims 1 to 6, wherein said phase signal generating means includes a sample-hold circuit that holds said reference wave signal using said trigger pulse signal as sampling timing.
+</P>
+<P>
+8. The scanning probe microscope according to any of claims 1 to 7, wherein said cantilever has a length of no more than 10 m and a width of no more than 2 m.
+</P>
+<P>
+9. The scanning probe microscope according to any of claims 1 to 8, wherein said scanning probe microscope performs scanning said sample and said cantilever relatively in the Z direction such that the phase signal generated by said phase signal generating means is constant.
+</P>
+<P>
+10. The scanning probe microscope according to claim 9, wherein said scanning probe microscope determines the shape of said sample by specifying the position of said sample in the Z direction from the signal for controlling said phase signal to be constant.
+</P>
+<P>
+11. The scanning probe microscope according to any of claims 1 to 10, wherein said trigger pulse generating means generates a plurality of trigger pulse signals that are mutually offset in one period of said reference wave signal; and
+</P>
+<P>
+said phase signal generating means generates said phase signal from each of said plurality of trigger pulse signals.
+</P>
+<P>
+12. The scanning probe microscope according to claim 11, wherein said phase signal generating means includes a plurality of sample-hold circuits that hold said reference wave signal using said trigger pulse signals as sampling timing, and said plurality of trigger pulse signals are respectively input to said plurality of sample-hold circuits.
+</P>
+<P>
+13. The scanning probe microscope according to claim 12, comprising: means for offsetting a plurality of phase signals generated by said plurality of sample-hold circuits dependent on the offset of said plurality of trigger pulse signals.
+</P>
+<P>
+14. The scanning probe microscope according to claim 12, comprising: means for generating a plurality of reference wave signals that are mutually offset dependent on the offset of said trigger pulse signals, and said plurality of reference wave signals are respectively input together with said plurality of trigger pulse signals to said plurality of sample-hold circuits.
+</P>
+<P>
+15. A scanning probe microscope for oscillating a cantilever and performing relative scanning between said cantilever and a sample, comprising:
+</P>
+<P>
+a cantilever;
+</P>
+<P>
+an oscillator for causing said cantilever to oscillate;
+</P>
+<P>
+a sensor for detecting displacement of said cantilever;
+</P>
+<P>
+a reference wave generating circuit for generating a reference wave signal that has a frequency based on an excitation signal of said cantilever and is of fixed phase difference with respect to said excitation signal;
+</P>
+<P>
+a trigger pulse generating circuit for generating a trigger pulse signal whose pulse position changes dependent on the phase of oscillation of said cantilever, on the basis of the displacement of said cantilever; and
+</P>
+<P>
+a phase signal generating circuit for generating a signal dependent on the magnitude of said reference wave signal at said pulse position as a phase signal of said cantilever oscillation, on the basis of said reference wave signal and said trigger pulse signal.
+</P>
+<P>
+16. A cantilever phase detection device that is applied to a scanning probe microscope for oscillating a cantilever and performing relative scanning between said cantilever and a sample, and that detects the phase of oscillation of said cantilever, comprising:
+</P>
+<P>
+reference wave generating means for generating a reference wave signal that has a frequency based on an excitation signal of said cantilever and is of fixed phase difference with respect to said excitation signal;
+</P>
+<P>
+trigger pulse generating means for generating a trigger pulse signal whose pulse position changes dependent on the phase of oscillation of said cantilever, on the basis of the displacement of said cantilever; and
+</P>
+<P>
+phase signal generating means for generating a signal dependent on the magnitude of said reference wave signal at said pulse position as a phase signal of said cantilever oscillation, on the basis of said reference wave signal and said trigger pulse signal.
+</P>
+<P>
+17. A cantilever phase detection method that is applied to a scanning probe microscope for oscillating a cantilever and performing relative scanning between said cantilever and a sample, and that detects the phase of said cantilever, said method comprising:
+</P>
+<P>
+generating a reference wave signal that has a frequency based on an excitation signal of said cantilever and is of fixed phase difference with respect to said excitation signal;
+</P>
+<P>
+generating a trigger pulse signal whose pulse position changes dependent on the phase of oscillation of said cantilever, on the basis of the displacement of said cantilever; and
+</P>
+<P>
+generating a signal dependent on the magnitude of said reference wave signal at said pulse position as a phase signal of said cantilever oscillation, on the basis of said reference wave signal and said trigger pulse signal.
+</P>
+</Claims>
+<Also_published_as>
+US2008307864A1;US8065908B2;WO2007072706A1
+</Also_published_as>
+</BiblioData>

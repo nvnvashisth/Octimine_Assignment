@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Imprint method, imprint apparatus, and process for producing chip
+</Title>
+<PublicationNumber>
+EP2073059A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SEKI JUNICHI [JP]
+</Name>
+<Name>
+SUEHIRA NOBUHITO [JP]
+</Name>
+<Name>
+SEKI, JUNICHI
+</Name>
+<Name>
+SUEHIRA, NOBUHITO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2073059
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090151853
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20060122371
+</PriorityNumber>
+<PriorityDate>
+2006-10-16
+</PriorityDate>
+<PriorityNumber>
+JP20050302747
+</PriorityNumber>
+<PriorityDate>
+2005-10-18
+</PriorityDate>
+<PriorityNumber>
+JP20060244326
+</PriorityNumber>
+<PriorityDate>
+2006-09-08
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81C99/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+An imprint method for imprinting an imprint pattern of a mold onto a pattern formation material on a substrate so as to realize a high throughput includes the steps of bringing the imprint pattern and the pattern formation material into contact with each other;  applying a first pressure between the mold and the substrate to increase a contact area between the imprint pattern and the pattern formation material;  and adjusting a positional relationship between the mold and the substrate at a second pressure lower than the first pressure.
+</Abstract>
+<Claims>
+<P>
+1. An imprint method for imprinting an imprint pattern of a mold onto a pattern formation material on a substrate, said imprint method comprising:
+</P>
+<P>
+bringing the imprint pattern and the pattern formation material into contact with each other;
+</P>
+<P>
+applying a first pressure between the mold and the substrate to increase a contact area between the imprint pattern and the pattern formation material; and
+</P>
+<P>
+adjusting a positional relationship between the mold and the substrate at a second pressure lower than the first pressure.
+</P>
+<P>
+2. A method according to Claim 1, wherein the first pressure is increased during the increase in contact area between the imprint pattern and the pattern formation material, and the second pressure is lower than the increased first pressure.
+</P>
+<P>
+3. A method according to Claim 1, wherein the first pressure is repetitively increased and decreased during the increase in contact area between the imprint pattern and the pattern formation material, and the second pressure is lower than the increased first pressure.
+</P>
+<P>
+4. A method according to Claim 1, wherein the pattern formation material is a resin material which is cured after the positional relationship between the mold and the substrate is adjusted.
+</P>
+<P>
+5. A method according to Claim 1, wherein the pattern formation material is a resin material which is cured while controlling a position of at least one of the mold and the substrate so as to maintain the positional relationship between the mold and the substrate after the positional relationship is adjusted.
+</P>
+<P>
+6. A method according to Claim 1, wherein the positional relationship is adjust in an in-plane direction perpendicular to a pressure axis of the first pressure.
+</P>
+<P>
+7. A method according to Claim 1, wherein the positional relationship is a gap between the mold and the substrate in a direction parallel to a pressure axis of the first pressure.
+</P>
+<P>
+8. A method according to Claim 1, wherein the substrate or the mold is subjected to ultrasonic vibration during the increase in contact area between the imprint pattern and the pattern formation material.
+</P>
+<P>
+9. A method according to Claim 1, wherein a pressure lower than the second pressure or a negative pressure is applied between the mold and the substrate to alleviate a pressing force after the first pressure is applied between the mold and the substrate and before the second pressure is applied.
+</P>
+<P>
+10. A method according to Claim 1, wherein a pressure applied between the mold and substrate is changed in a pulse-like manner during the increase in contact area between the imprint pattern and the pattern formation material.
+</P>
+<P>
+11. An imprint apparatus for imprinting an imprint pattern of a mold onto a pattern formation material on a substrate, said imprint apparatus comprising:
+</P>
+<P>
+a mold holding portion for holding the mold;
+</P>
+<P>
+a substrate stage for mounting the substrate thereon;
+</P>
+<P>
+a detection portion for detecting a pressure or a load applied between the mold and the substrate;
+</P>
+<P>
+a pressure control portion for controlling the pressure applied between the mold and the substrate;
+</P>
+<P>
+a position adjusting portion for adjusting a positional relationship between the mold and the substrate; and
+</P>
+<P>
+an information acquisition portion for acquiring information about a contact state between the imprint pattern and the pattern formation material on the substrate;wherein said pressure control portion is capable of setting values of a first pressure and a second pressure lower than the first pressure and changes a pressure set value from the first pressure value to the second pressure value on the basis of the information from said information acquisition portion.
+</P>
+<P>
+12. An apparatus according to Claim 11, wherein said position adjusting portion adjusts the positional relationship between the mold and the substrate at the second pressure value.
+</P>
+<P>
+13. An apparatus according to Claim 11, wherein said imprint apparatus further comprises an energy source for curing the pattern formation material, and
+</P>
+<P>
+wherein the pattern formation material is cured at the second pressure value by said energy source.
+</P>
+<P>
+14. A process for producing a chip, comprising:
+</P>
+<P>
+preparing an imprint apparatus according to Claim 11;
+</P>
+<P>
+imprinting an imprint pattern of a mold onto a pattern formation material on a substrate; and
+</P>
+<P>
+effecting etching of the substrate using the pattern formation material as a mask.
+</P>
+<P>
+15. An imprint method for imprinting an imprint pattern of a mold onto a pattern formation material on a substrate, said imprint method comprising:
+</P>
+<P>
+bring the imprint pattern and the pattern formation material into contact with each other;
+</P>
+<P>
+applying a first load between the mold and the substrate to increase a contact area between the imprint pattern and the pattern formation material; and
+</P>
+<P>
+adjusting a positional relationship between the mold and the substrate at a second load smaller than the first load.
+</P>
+<P>
+16. A process for producing a chip, comprising:
+</P>
+<P>
+imprinting an imprint pattern of a mold onto a pattern formation material on a substrate using an imprint method according to Claim 1; and
+</P>
+<P>
+effecting etching of the substrate using the pattern formation material as a mask.
+</P>
+</Claims>
+<Also_published_as>
+EP1795959A1;EP1795959B1;US2011042348A1;US2007145639A1;US7828984B2;KR20070042478A;KR100771747B1;JP2007137051A;ES2323979T3;CN1952777A;CN1952777B;AT433134T
+</Also_published_as>
+</BiblioData>

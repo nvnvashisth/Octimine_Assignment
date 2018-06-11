@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Reagents, methods, and libraries for bead- based sequencing
+</Title>
+<PublicationNumber>
+EP2003214A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MCKERNAN KEVIN [US]
+</Name>
+<Name>
+BLANCHARD ALAN [US]
+</Name>
+<Name>
+KOTLER LEV [US]
+</Name>
+<Name>
+COSTA GINA [US]
+</Name>
+<Name>
+MCKERNAN, KEVIN
+</Name>
+<Name>
+BLANCHARD, ALAN
+</Name>
+<Name>
+KOTLER, LEV
+</Name>
+<Name>
+COSTA, GINA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ADVANCED GENETIC ANALYSIS CORP [US]
+</Name>
+<Name>
+AB ADVANCED GENETIC ANALYSIS CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2003214
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080006533
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-02-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20060720226
+</PriorityNumber>
+<PriorityDate>
+2006-02-01
+</PriorityDate>
+<PriorityNumber>
+US20050649294P
+</PriorityNumber>
+<PriorityDate>
+2005-02-01
+</PriorityDate>
+<PriorityNumber>
+US20050656599P
+</PriorityNumber>
+<PriorityDate>
+2005-02-25
+</PriorityDate>
+<PriorityNumber>
+US20050673749P
+</PriorityNumber>
+<PriorityDate>
+2005-04-21
+</PriorityDate>
+<PriorityNumber>
+US20050699541P
+</PriorityNumber>
+<PriorityDate>
+2005-07-15
+</PriorityDate>
+<PriorityNumber>
+US20050722526P
+</PriorityNumber>
+<PriorityDate>
+2005-09-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12Q1/68
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12Q1/68B10A
+</Class>
+<Class>
+C12Q1/68D
+</Class>
+<Class>
+C12Q1/68E
+</Class>
+</NCL>
+<Abstract>
+The present invention provides methods for determining a nucleic acid sequence by performing successive cycles of duplex extension along a single stranded template. The cycles comprise steps of extension, ligation, and, preferably, cleavage. The invention provides methods of determining information about a sequence using at least two distinguishably labeled probe families.
+</Abstract>
+<Claims>
+<P>
+1. A method for determining information about a sequence of nucleotides in a template polynucleotide using a first collection of at least 2 distinguishably labeled oligonucleotide probe families, the method comprising the steps of:
+</P>
+<P>
+(a) extending an initializing oligonucleotide along the template polynucleotide by ligating an oligonucleotide probe thereto to form an extended duplex, wherein the oligonucleotide probe is a member of the collection of distinguishably labeled oligonucleotide probe families;
+</P>
+<P>
+(b) detecting a label associated with the oligonucleotide probe; and
+</P>
+<P>
+(c) repeating steps (a) and (b) until an ordered list of probe family names is obtained; and
+</P>
+<P>
+(d) using the ordered list of probe family names to eliminate one or more possibilities for the sequence of nucleotides.
+</P>
+<P>
+2. The method of claim 1, wherein step (d) comprises decoding the ordered list of probe family names to determine the sequence.
+</P>
+<P>
+3. The method of claim 1, wherein the method comprises providing a probe-template duplex comprising an initializing oligonucleotide probe hybridized to a template polynucleotide, the probe having an extendable terminus, and wherein the extending step comprises ligating an oligonucleotide probe to said extendable terminus, to form an extended duplex containing an extended oligonucleotide probe, further comprising the step of capping any remaining extendable termini whenever no oligonucleotide probe has ligated to the extendable terminus in the extending step.
+</P>
+<P>
+4. The method of claim 1, wherein the oligonucleotide probes in each probe family comprise a non-extendable moiety at one terminus.
+</P>
+<P>
+5. The method of claim 1, further comprising, after each detecting step, (f) producing an extendable terminus on the most recently ligated oligonucleotide probe, if an extendable terminus is not already present, such that the terminus generated is different from the terminus to which the most recently ligated oligonucleotide probe was ligated.
+</P>
+<P>
+6. The method of claim 1, wherein the oligonucleotide probe comprises a phosphorothiolate linkage and the extendable probe terminus is produced by cleaving the phosphorothiolate linkage with a cleavage agent comprising an atom selected from the group consisting of: Ag, Hg, Cu, Mn, Zn and Cd.
+</P>
+<P>
+7. The method of claim 1, wherein the collection comprises 2 distinguishably labeled probe families.
+</P>
+<P>
+8. The method of claim 1, wherein the collection comprises 3 distinguishably labeled probe families.
+</P>
+<P>
+9. The method of claim 1, wherein the collection comprises 4 distinguishably labeled probe families.
+</P>
+<P>
+10. The method of claim 1, wherein the collection comprises more than 4 distinguishably labeled probe families.
+</P>
+<P>
+11. The method of claim 1, wherein the oligonucleotide probes comprise a constrained portion in which nucleosides are not independently selected, and wherein oligonucleotide probes having constrained portions that differ in sequence are assigned to probe families according to an encoding.
+</P>
+<P>
+12. The method of claim 1, wherein oligonucleotide probes are assigned to first, second, third, and fourth probe families according to one of the 24 encodings set forth in Table 1.
+</P>
+<P>
+13. The method of claim 2, wherein at least one nucleotide in the template has a known identity, and wherein the decoding step comprises:
+</P>
+<P>
+(i) assigning an identity to a nucleotide in the template adjacent to the nucleotide of known identity by determining which identity is consistent with the identity of the known nucleotide and the possible sequences of the constrained portion of the probe whose proximal nucleotide ligated opposite the nucleotide adjacent to the nucleotide of known identity;
+</P>
+<P>
+(ii) assigning an identity to a succeeding nucleotide by determining which identity is consistent with possible sequences of the constrained portion of the probe whose proximal nucleotide ligated opposite the succeeding nucleotide; and
+</P>
+<P>
+(iii) repeating step (ii) until the sequence is determined.
+</P>
+<P>
+14. The method of claim 2, further comprising the step of:
+</P>
+<P>
+(a) determining the identity of a nucleotide in the template, so that the nucleotide has a known identity, and wherein the decoding step comprises:
+</P>
+<P>
+(i) assigning an identity to a nucleotide in the template adjacent to the nucleotide of known identity by determining which identity is consistent with the identity of the known nucleotide and the possible sequences of the constrained portion of the probe whose proximal nucleotide ligated opposite the nucleotide adjacent to the nucleotide of known identity;
+</P>
+<P>
+(ii) assigning an identity to a succeeding nucleotide by determining which identity is consistent with possible sequences of the constrained portion of the probe whose proximal nucleotide ligated opposite the succeeding nucleotide; and
+</P>
+<P>
+(iii) repeating step (ii) until the sequence is determined.
+</P>
+<P>
+15. The method of claim 14, wherein the determining step comprises contacting a template-probe duplex with a labeled nucleotide in the presence of a polymerase under conditions that allow incorporation of the labeled nucleotide if it is complementary to the template at the position adjacent to the duplex.
+</P>
+<P>
+16. The method of claim 1, wherein the decoding step comprises:
+</P>
+<P>
+generating at least one candidate sequence from the ordered list of probe family names; and
+</P>
+<P>
+selecting a candidate sequence as the sequence of nucleotides in the template.
+</P>
+<P>
+17. The method of claim 16, wherein the generating step comprises generating at least 4 candidate sequences.
+</P>
+<P>
+18. The method of claim 16, wherein the generating step comprises:
+</P>
+<P>
+(i) assuming an identity for a first nucleotide in the sequence of nucleotides;
+</P>
+<P>
+(ii) assigning an identity for a nucleotide adjacent to the first nucleotide by determining a possible identity for the adjacent nucleotide based on the name of the probe family that corresponds to the first nucleotide;
+</P>
+<P>
+(iii) assigning an identity to a succeeding nucleotide by determining a possible identity for the succeeding nucleotide based on the name of the probe family that corresponds to the nucleotide whose identity was most recently assigned;
+</P>
+<P>
+(iv) repeating step (iii) until a candidate sequence is generated; and
+</P>
+<P>
+(v) repeating steps (i) - (iv), wherein, in each repetition, a different identity is assumed for the first nucleotide, until a desired number of candidate sequences is generated.
+</P>
+<P>
+19. The method of claim 16, wherein the selecting step comprises comparing at least one candidate sequence with one or more known sequences and selecting a candidate sequence that exhibits a predetermined degree of identity is most nearly identical to one or more of the known sequences.
+</P>
+<P>
+20. The method of claim 19, wherein the template is derived from an organism of interest, and wherein the comparing step comprises comparing at least one candidate sequence with sequences in a database that contains sequences obtained from the organism.
+</P>
+<P>
+21. The method of claim 19, wherein the comparing step comprises comparing at least one candidate sequence with sequences in a database that contains a plurality of comparison sequences, each of which comprises an alternative possible sequence for the sequence of polynucleotides to be determined.
+</P>
+<P>
+22. The method of claim 16, wherein the selecting step comprises:
+</P>
+<P>
+(i) obtaining a second ordered list of probe family names from the template using a second collection of distinguishably labeled encoded probe families, wherein the probe families in the second collection of probe families are encoded differently to the probe families in the first collection of probe families;
+</P>
+<P>
+(ii) generating at least one comparison sequence from the second ordered list of probe family names;
+</P>
+<P>
+(iii) comparing a portion of at least one of the candidate sequences with a portion of at least one of the comparison sequences; and
+</P>
+<P>
+(iv) selecting a candidate sequence that exhibits a predetermined level of identity or is most nearly identical to a comparison sequence over the portion compared in step (c) as the sequence of nucleotides in the template.
+</P>
+<P>
+23. The method of claim 22, wherein the portion compared is a single dinucleotide.
+</P>
+<P>
+24. The method of claim 22, wherein the second ordered list of probe family names contains only a single element.
+</P>
+<P>
+25. The method of claim 1, wherein the oligonucleotide probes in each probe family have the structure 5&apos;-(XY)(N)kNB*-3&apos; or 3&apos;-(XY)(N)kNB*-5&apos;, wherein N represents any nucleoside, NB represents a moiety that is not extendable by ligase, * represents a detectable moiety, XY is a constrained portion of the probe in which X and Y represent nucleosides that are identical or different but are not independently selected, X and Y are at least 2-fold degenerate, at least one internucleoside linkage is a scissile linkage, and k is between 1 and 100, inclusive, with the proviso that a detectable moiety may be present on Y or on any nucleoside of (N)k instead of, or in addition to, NB.
+</P>
+<P>
+26. The method of claim 25, wherein the scissile linkage is a phorphorothiolate linkage.
+</P>
+<P>
+27. The method of claim 25, wherein four distinguishably labeled oligonucleotide probe families are used, and wherein oligonucleotide probes having different sequences for the constrained portion of the probe are assigned to first, second, third, and fourth probe families according to one of the 24 encodings set forth in Table 1.
+</P>
+<P>
+28. The method of claim 1, wherein the detecting step comprises acquiring on average 2 bits of information simultaneously from each of at least 2 nucleotides in the template without acquiring two bits of information from any individual nucleotide.
+</P>
+<P>
+29. The method of claim 1, wherein the detecting step comprises acquiring less than 2 bits of information simultaneously from each of at least 2 nucleotides in the template.
+</P>
+<P>
+30. A method for determining information about a sequence of nucleotides in a template polynucleotide using a first collection of at least 2 distinguishably labeled oligonucleotide probe families, the method comprising the steps of:
+</P>
+<P>
+(a) contacting a probe-template complex comprising a duplex portion with an extendable terminus and a single-stranded portion to be sequenced with at least two distinguishably labeled oligonucleotide probe families, so that hybridization occurs between an oligonucleotide probe that comprises a portion complementary to the portion of the template immediately adjacent to the duplex portion;
+</P>
+<P>
+(b) ligating the hybridized oligonucleotide probe to the extendable terminus, thereby producing a probe-template complex comprising an extended duplex;
+</P>
+<P>
+(c) detecting a label associated with the ligated probe;
+</P>
+<P>
+(d) generating an extendable probe terminus on the extended duplex if one is not already present; and
+</P>
+<P>
+(e) repeating steps (a) to (d) until an ordered list of probe family names is obtained.
+</P>
+<P>
+31. The method of claim 30, wherein the detecting step comprises acquiring on average 2 bits of information simultaneously from each of at least 2 nucleotides in the template without acquiring two bits of information from any individual nucleotide.
+</P>
+<P>
+32. The method of claim 30, wherein the detecting step comprises acquiring less than 2 bits of information simultaneously from each of at least 2 nucleotides in the template.
+</P>
+<P>
+33. A method for determining information about a sequence of nucleotides in a template polynucleotide using a first collection of oligonucleotide probe families, the method comprising the steps of:
+</P>
+<P>
+(a) performing sequential cycles of extension, ligation, detection, and cleavage, wherein the detection step comprises acquiring on average 2 bits of information simultaneously from each of at least 2 nucleotides in the template without acquiring two bits of information from any individual nucleotide; and
+</P>
+<P>
+(b) combining the information obtained in step (a) with at least one bit of additional information to determine the sequence.
+</P>
+<P>
+34. The method of claim 33, wherein the at least one bit of additional information comprises an item selected from the group consisting of: the identity of a nucleotide in the template, information obtained by comparing a candidate sequence with at least one known sequence; and information obtained by repeating the method using a second collection of oligonucleotide probe families.
+</P>
+<P>
+35. A method of distinguishing a single nucleotide polymorphism from a sequencing error comprising steps of:
+</P>
+<P>
+(a) sequencing a plurality of templates using the method of claim 2, wherein the templates represent overlapping fragments of a single nucleic acid sequence;
+</P>
+<P>
+(b) aligning the sequences obtained in step (a); and
+</P>
+<P>
+(c) determining that a difference between the sequences represents a sequencing error if the sequences are substantially identical across a first portion and substantially different across a second portion, each portion having a length of at least 3 nucleotides.
+</P>
+<P>
+36. A method of distinguishing a single nucleotide polymorphism from a sequencing error comprising steps of:
+</P>
+<P>
+(a) obtaining a plurality of ordered lists of probe families by performing steps (a) to (c) of claim 2 using a plurality of templates that represent overlapping fragments of a single nucleic acid sequence;
+</P>
+<P>
+(b) aligning the ordered lists of probe families obtained in step (a) to obtain an aligned region within which the lists are at least 90% identical; and
+</P>
+<P>
+(c) determining that a difference between the ordered lists of probe families represents a sequencing error if the lists differ at only one position within the aligned region; or
+</P>
+<P>
+(d) determining that a difference between the ordered lists of probe families represents a single nucleotide polymorphism if the lists differ at two or more adjacent positions within the aligned region.
+</P>
+<P>
+37. A method for determining information about a sequence of nucleotides in a template polynucleotide using a first collection of oligonucleotide probe families, wherein probes in the probe families comprise a trigger residue, the method comprising the steps of:
+</P>
+<P>
+(a) performing sequential cycles of extension, ligation, detection, and cleavage, wherein the detection step comprises acquiring on average 2 bits of information simultaneously from each of at least 2 nucleotides in the template without acquiring two bits of information from any individual nucleotide; and
+</P>
+<P>
+(b) combining the information obtained in step (a) with at least one bit of additional information to determine the sequence.
+</P>
+<P>
+38. The method of claim 37, wherein the at least one bit of additional information comprises an item selected from the group consisting of: the identity of a nucleotide in the template, information obtained by comparing a candidate sequence with at least one known sequence; and information obtained by repeating the method using a second collection of oligonucleotide probe families.
+</P>
+</Claims>
+<Also_published_as>
+EP2003214A3;WO2006084132A2;WO2006084132A3;US2011077169A1;US2010297626A1;US2008003571A1;US2009181860A1;US2009181385A1;KR20070112785A;JP2008528040A;EP2316977A1;EP2230316A1;EP2233581A1;EP2230315A1;EP2272983A1;EP2239342A2;EP2239342A3;EP1844162A2;CA2596496A1;AU2006210553A1
+</Also_published_as>
+</BiblioData>

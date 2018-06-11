@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SELF-CONSTRAINED ANISOTROPIC GERMANIUM NANOSTRUCTURE FROM ELECTROPLATING
+</Title>
+<PublicationNumber>
+EP2102900A1
+</PublicationNumber>
+<Inventor>
+<Name>
+COHEN GUY [US]
+</Name>
+<Name>
+DELIGIANNI HARIKLIA [US]
+</Name>
+<Name>
+HUANG QIANG [US]
+</Name>
+<Name>
+ROMANKIW LUBOMYR [US]
+</Name>
+<Name>
+COHEN, GUY
+</Name>
+<Name>
+DELIGIANNI, HARIKLIA
+</Name>
+<Name>
+HUANG, QIANG
+</Name>
+<Name>
+ROMANKIW, LUBOMYR
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBM [US]
+</Name>
+<Name>
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2102900
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070857746
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP64118
+</PriorityNumber>
+<PriorityDate>
+2007-12-18
+</PriorityDate>
+<PriorityNumber>
+US20070620391
+</PriorityNumber>
+<PriorityDate>
+2007-01-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C25D3/54
+</Class>
+<Class>
+C25D5/02
+</Class>
+<Class>
+C25D7/12
+</Class>
+<Class>
+H01L21/02
+</Class>
+<Class>
+H01L21/208
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C25D3/54
+</Class>
+<Class>
+C25D5/02B
+</Class>
+<Class>
+C25D7/12
+</Class>
+<Class>
+H01L21/02K4A1
+</Class>
+<Class>
+H01L21/02K4C1A3
+</Class>
+<Class>
+H01L21/02K4C5M6
+</Class>
+<Class>
+H01L21/02K4E3L5
+</Class>
+<Class>
+H01L21/02K4E3S3
+</Class>
+</NCL>
+<Abstract>
+A nanostructure comprising germanium, including wires of less than 1 micrometer in diameter and walls of less than 1 micrometer in width, in contact with the substrate and extending outward from the substrate is provided along with a method of preparation.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method for forming a germanium- containing nanostructure comprising: forming a mask on a semiconductor substrate, wherein said mask has at least one opening to expose said substrate; immersing said semiconductor substrate with said mask into a plating solution containing Ge; applying electric power between said semiconductor substrate and an anode in said plating bath whereby said semiconductor substrate where exposed is plated with germanium; wherein said germanium extends outwardly from said opening in contact with said substrate and any cross section of said germanium taken parallel with said substrate mimics the shape of said opening of the said mask.
+</P>
+<P>
+2. The method of Claim 1 wherein said germanium-containing nanostructure comprises nanowires with a diameter of about 100 to about 300 nanometers.
+</P>
+<P>
+3. The method of Claim 1 wherein said germanium-containing nanostructure comprises wall shaped structures with a width of about 100 to about 300 nanometers.
+</P>
+<P>
+4. The method of Claim 1 wherein said semiconductor substrate is selected from the group consisting of Si, Ge, SiGe, SiC, GeC, SiGeC, III-V materials, and II-VI materials and mixtures thereof.
+</P>
+<P>
+5. The method of Claim 1 wherein said substrate is selected from the group consisting of Si, Ge and GaAs.
+</P>
+<P>
+6. The method of Claim 1 wherein said substrate contains dielectric regions.
+</P>
+<P>
+7. The method of Claim 1 wherein the plating bath contains an alkyl diol solvent.
+</P>
+<P>
+8. The method of Claim 6 wherein the alkyl diol solvent is selected from the group consisting of ethanediol, propanediol, butanediol and pentanediol.
+</P>
+<P>
+9. The method of Claim 8 wherein the alkyl diol is selected from the group consisting of ethylene glycol, propylene glycol and 1,3 -propanediol.
+</P>
+<P>
+10. The method of Claim 6 wherein the current density of the electroplating is about - 2000 to about -8000 milliamps/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+11. The method of Claim 6 wherein the bath is aged for about 3 to about 6 hours prior to the electroplating.
+</P>
+<P>
+12. The method of Claim 6 wherein the source of germanium comprise GeCl4.
+</P>
+<P>
+13. The method of Claim 6 wherein the bath further comprises about 0.5 g/L to about 2 g/L by weight of water.
+</P>
+<P>
+14. A germanium-containing nano-structure formed according to the method of any preceding claim.
+</P>
+</Claims>
+<Also_published_as>
+EP2102900B1;WO2008080828A1;US2008166858A1;US7659200B2;US2009302305A1;US8115191B2;TW200839850A;KR20090095569A;JP2010514944A
+</Also_published_as>
+</BiblioData>

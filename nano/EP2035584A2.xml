@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOSENSORS AND RELATED TECHNOLOGIES
+</Title>
+<PublicationNumber>
+EP2035584A2
+</PublicationNumber>
+<Inventor>
+<Name>
+LIEBER CHARLES M [US]
+</Name>
+<Name>
+FANG YING [US]
+</Name>
+<Name>
+PATOLSKY FERNANDO [IL]
+</Name>
+<Name>
+LIEBER, CHARLES M
+</Name>
+<Name>
+FANG, YING
+</Name>
+<Name>
+PATOLSKY, FERNANDO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HARVARD COLLEGE [US]
+</Name>
+<Name>
+PRESIDENT AND FELLOWS OF HARVARD COLLEGE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2035584
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070861323
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US13700
+</PriorityNumber>
+<PriorityDate>
+2007-06-11
+</PriorityDate>
+<PriorityNumber>
+US20060812884P
+</PriorityNumber>
+<PriorityDate>
+2006-06-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+H01L29/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C12Q1/68B2H
+</Class>
+<Class>
+G01N27/414
+</Class>
+</NCL>
+<Abstract>
+The present invention generally relates to nanotechnology and sub-microelectronic circuitry, as well as associated methods and devices, for example, nanoscale wire devices and methods for use in determining nucleic acids or other analytes suspected to be present in a sample (for example, their presence and/or dynamical information), e.g., at the single molecule level. For example, a nanoscale wire device can be used in some cases to detect single base mismatches within a nucleic acid (e.g., by determining association and/or dissociation rates). In one aspect, dynamical information such as a binding constant, an association rate, and/or a dissociation rate, can be determined between a nucleic acid or other analyte, and a binding partner immobilized relative to a nanoscale wire.;  In some cases, the nanoscale wire includes a first portion comprising a metal-semiconductor compound, and a second portion that does not include a metal-semiconductor compound. The binding partner, in some embodiments, is immobilized relative to at least the second portion of the nanoscale wire, and the size of the second portion of the nanoscale wire may be minimized and/or controlled in some instances. Articles and devices of size greater than the nanoscale are also included in certain embodiments. Still other aspects of the invention include assays, sensors, kits, and/or other devices that include such nanoscale wires, methods of making and/or using such nanoscale wires, or the like.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method, comprising an act of: determining a binding constant and/or a dissociation rate constant between a nucleic acid and a nanoscale wire having immobilized relative thereto a binding partner of the nucleic acid.
+</P>
+<P>
+2. The method of claim 1 , comprising determining a mismatch between the nucleic acid and the binding partner.
+</P>
+<P>
+3. The method of claim 2, comprising determining a mismatch between the nucleic acid and the binding partner of 5 bases or less.
+</P>
+<P>
+4. The method of claim 3, comprising determining a mismatch between the nucleic acid and the binding partner of 3 bases or less
+</P>
+<P>
+5. The method of claim 4, comprising determining a mismatch between the nucleic acid and the binding partner of 2 bases or less.
+</P>
+<P>
+6. The method of claim 1, wherein the nucleic acid is a single nucleic acid molecule.
+</P>
+<P>
+7. The method of claim 1, wherein the binding partner is a nucleic acid.
+</P>
+<P>
+8. The method of claim 7, wherein the binding partner has a length of at least about 10 bases.
+</P>
+<P>
+9. The method of claim 1, wherein the binding partner is DNA.
+</P>
+<P>
+10. The method of claim 1 , wherein the binding partner is PNA.
+</P>
+<P>
+11. The method of claim 1 , wherein the nanoscale wire has relative thereto a plurality of binding partners each immobilized relative to the nanoscale wire in a region of the nanoscale wire having a greatest dimension that is no greater than about 100 run.
+</P>
+<P>
+12. The method of claim 1, wherein the nucleic acid is DNA.
+</P>
+<P>
+13. The method of claim 1 , wherein the nanoscale wire is a nanowire.
+</P>
+<P>
+14. The method of claim 1, wherein the nanoscale wire comprises silicon.
+</P>
+<P>
+15. The method of claim 1 , wherein at least a portion of the nanoscale wire comprises a metal suicide.
+</P>
+<P>
+16. The method of claim 1, wherein the nanoscale wire is doped.
+</P>
+<P>
+17. The method of claim 1, wherein the nanoscale wire comprises a core and a shell surrounding at least a portion of the core.
+</P>
+<P>
+18. The method of claim 1 , wherein the nanoscale wire is part of a FET.
+</P>
+<P>
+19. The method of claim 1 , wherein the nucleic acid specifically binds the binding partner.
+</P>
+<P>
+20. A method, comprising acts of: providing a plurality of nucleic acid molecules, each associated with a respective binding partner immobilized relative to a nanoscale wire; dissociating at least some of the plurality of nucleic acid molecules from the respective binding partners; and determining a rate at which the at least some of the plurality of nucleic acid molecules dissociate from the respective binding partners.
+</P>
+<P>
+21. The method of claim 20, wherein the act of providing a plurality of nucleic acid molecules, each associated with a respective binding partner, comprises: providing a nanoscale wire having a plurality of binding partners immobilized relative thereto; and exposing the binding partners to a plurality of nucleic acid molecules able to specifically bind to at least some of the binding partners.
+</P>
+<P>
+22. The method of claim 20, wherein the nucleic acid molecules are substantially identical.
+</P>
+<P>
+23. The method of claim 20, comprising determining a mismatch between the nucleic acid molecules and the binding partner based on the rate of dissociation.
+</P>
+<P>
+24. The method of claim 23, comprising determining a mismatch between the nucleic acid and the binding partner of 5 bases or less.
+</P>
+<P>
+25. The method of claim 20, wherein at least some of the respective binding partners are nucleic acids.
+</P>
+<P>
+26. The method of claim 20, wherein at least some of the respective binding partners are DNA.
+</P>
+<P>
+27. The method of claim 20, wherein the binding partners are each immobilized relative to the nanoscale wire in a region of the nanoscale wire having a greatest dimension that is no greater than about 100 nm.
+</P>
+<P>
+28. A method, comprising an act of: determining a binding constant and/or a dissociation rate constant between an analyte and a nanoscale wire having a binding partner of the analyte immobilized relative thereto.
+</P>
+<P>
+29. The method of claim 28, wherein the analyte is a single analyte molecule.
+</P>
+<P>
+30. A method, comprising acts of: diffusing at least a portion of a metal into a first portion of a nanoscale wire but not into a second portion of the nanoscale wire; and immobilizing a reaction entity to a second portion of the nanoscale wire.
+</P>
+<P>
+31. The method of claim 30, wherein the metal comprises a transition metal.
+</P>
+<P>
+32. The method of claim 30, wherein the metal comprises nickel.
+</P>
+<P>
+33. The method of claim 30, wherein the nanoscale wire comprises an elemental semiconductor.
+</P>
+<P>
+34. The method of claim 30, wherein the elemental semiconductor comprises Si.
+</P>
+<P>
+35. The method of claim 30, wherein the reaction entity is a nucleic acid.
+</P>
+<P>
+36. The method of claim 30, wherein the reaction entity is DNA.
+</P>
+<P>
+37. The method of claim 30, wherein the first portion is defined by the diffusion of the metal into the nanoscale wire.
+</P>
+<P>
+38. The method of claim 30, wherein the second portion of the nanoscale wire has a greatest dimension no greater than about 100 ran.
+</P>
+<P>
+39. The method of claim 30, comprising controlling the size of the second portion of the nanoscale wire by controlling the temperature of the nanoscale wire.
+</P>
+<P>
+40. The method of claim 39, comprising heating the nanoscale wire to diffuse the metal into the nanoscale wire, and cooling the nanoscale wire when the second portion is less than a predetermined size.
+</P>
+<P>
+41. The method of claim 30, wherein the act of immobilizing the reaction entity to the second portion of the nanoscale wire comprises attaching a silane comprising an aldehyde moiety to the nanoscale wire, and attaching a reaction entity to the silane.
+</P>
+<P>
+42. An article, comprising: a nanoscale wire comprising a first portion comprising a metal suicide; and . a reaction entity immobilized relative to a second portion of the nanoscale wire having a composition different from the first portion.
+</P>
+<P>
+43. The article of claim 42, wherein the metal comprises nickel.
+</P>
+<P>
+44. The article of claim 42, wherein the reaction entity is a nucleic acid.
+</P>
+<P>
+45. The article of claim 42, wherein the reaction entity is DNA.
+</P>
+<P>
+46. The article of claim 42, wherein the second portion of the nanoscale wire has a greatest dimension no greater than about 100 nm.
+</P>
+<P>
+47. The article of claim 46, wherein the second portion of the nanoscale wire has a greatest dimension no greater than about 50 nm.
+</P>
+<P>
+48. The article of claim 47, wherein the second portion of the nanoscale wire has a greatest dimension no greater than about 30 nm.
+</P>
+<P>
+49. The article of claim 42, wherein the nanoscale wire is a single crystal.
+</P>
+<P>
+50. The article of claim 42, wherein the nanoscale wire has an aspect ratio of at least 4:1.
+</P>
+<P>
+51. The article of claim 42, wherein the nanoscale wire is part of a FET.
+</P>
+<P>
+52. The article of claim 42, wherein the metal suicide comprises a stoichiometric ratio of silicon and at least one metal.
+</P>
+<P>
+53. The article of claim 42, wherein the nanoscale wire comprises at least one portion having a smallest dimension of less than about 500 nm.
+</P>
+<P>
+54. A method, comprising acts of: providing a bulk metal adjacent a semiconductor wire; and diffusing at least a portion of the bulk metal into at least a portion of the semiconductor wire in a longitudinal direction along the semiconductor wire for a distance of at least about 10 nm.
+</P>
+<P>
+55. The method of claim 54, comprising diffusing the metal in a longitudinal direction along the semiconductor wire for a distance of at least about 100 nm.
+</P>
+<P>
+56. The method of claim 55, comprising diffusing the metal in a longitudinal direction along the semiconductor wire for a distance of at least about 300 nm.
+</P>
+<P>
+57. The method of claim 56, comprising diffusing the metal in a longitudinal direction along the semiconductor wire for a distance of at least about 500 nm.
+</P>
+<P>
+58. The method of claim 57, comprising diffusing the metal in a longitudinal direction along the semiconductor wire for a distance of at least about 750 nm.
+</P>
+<P>
+59. The method of claim 54, wherein the bulk metal comprises a transition metal.
+</P>
+<P>
+60. The method of claim 54, wherein the bulk metal comprises nickel.
+</P>
+<P>
+61. The method of claim 54, wherein the semiconductor comprises an elemental semiconductor.
+</P>
+<P>
+62. The method of claim 61, wherein the elemental semiconductor comprises at least one of silicon, gallium, germanium, carbon, tin, selenium, tellurium, boron, or phosphorous.
+</P>
+<P>
+63. The method of claim 61, wherein the elemental semiconductor comprises Si.
+</P>
+<P>
+64. An article, comprising: a nanoscale wire comprising a first portion comprising a metal suicide, and a second portion having a composition different from the first portion, wherein the second portion has a greatest dimension no greater than about 100 nm.
+</P>
+<P>
+65. The article of claim 64, further comprising a reaction entity immobilized relative to a second portion of the nanoscale wire.
+</P>
+<P>
+66. The article of claim 64, wherein the reaction entity is a nucleic acid.
+</P>
+<P>
+67. The article of claim 64, wherein the reaction entity is DNA.
+</P>
+<P>
+68. The article of claim 64, wherein the second portion of the nanoscale wire has a greatest dimension no greater than about 50 nm.
+</P>
+<P>
+69. The article of claim 68, wherein the second portion of the nanoscale wire has a greatest dimension no greater than about 30 nm.
+</P>
+<P>
+70. The article of claim 64, wherein the nanoscale wire is part of a FET.
+</P>
+<P>
+71. The article of claim 64, wherein the metal suicide comprises a stoichiometric ratio of silicon and at least one metal.
+</P>
+<P>
+72. The article of claim 64, wherein the nanoscale wire comprises at least one portion having a smallest dimension of less than about 500 nm.
+</P>
+<P>
+73. An article, comprising: a nanoscale wire comprising a first portion and a second portion, the first portion having a binding partner immobilized relative thereto, the second portion being free of the binding partner.
+</P>
+<P>
+74. The article of claim 73, wherein the second portion has a composition different from the first portion.
+</P>
+<P>
+75. The article of claim 73, wherein the second portion has a greatest dimension no greater than about 100 nm.
+</P>
+<P>
+76. The article of claim 73, wherein the first portion comprises a metal suicide.
+</P>
+<P>
+77. The article of claim 73, wherein the binding partner comprises a nucleic acid.
+</P>
+<P>
+78. A solution, comprising: an analyte; and a nanoscale wire comprising a first portion and a second portion, the second portion having immobilized relative thereto a binding partner to the analyte and the first portion free of the binding partner, wherein the analyte has a Debye screening length greater than the greatest dimension of the second portion of the nanoscale wire.
+</P>
+<P>
+79. The solution of claim 78, wherein the analyte comprises a nucleic acid.
+</P>
+<P>
+80. The solution of claim 78, wherein the analyte is charged.
+</P>
+<P>
+81. A method, comprising acts of: determining a number of mismatches between an analyte nucleic acid and a binding partner nucleic acid immobilized relative to a binding partner of the nucleic acid.
+</P>
+<P>
+82. The method of claim 81 , comprising determining a mismatch between the nucleic acid and the binding partner of 5 bases or less.
+</P>
+<P>
+83. The method of claim 82, comprising determining a mismatch between the nucleic acid and the binding partner of 3 bases or less
+</P>
+<P>
+84. The method of claim 83, comprising determining a mismatch between the nucleic acid and the binding partner of 2 bases or less.
+</P>
+<P>
+85. The method of claim 81, wherein the binding partner nucleic acid is PNA.
+</P>
+</Claims>
+<Also_published_as>
+EP2035584B1;WO2008051316A2;WO2008051316A3;US2010087013A1;JP2009540333A;CA2655340A1;AU2007309660A1;AT497023T
+</Also_published_as>
+</BiblioData>

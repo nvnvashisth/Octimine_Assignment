@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CATALYST FOR CARBON NANOSTRUCTURE GROWTH, PROCESS FOR PRODUCING CARBON NANOSTRUCTURE, RAW- MATERIAL GAS AND CARRIER GAS FOR PRODUCING THE SAME, AND APPARATUS FOR PRODUCING THE SAME
+</Title>
+<PublicationNumber>
+EP1987878A1
+</PublicationNumber>
+<Inventor>
+<Name>
+NAKAYAMA YOSHIKAZU [JP]
+</Name>
+<Name>
+NAGASAKA TAKESHI [JP]
+</Name>
+<Name>
+SAKAI TORU [JP]
+</Name>
+<Name>
+SUEKANE OSAMU [JP]
+</Name>
+<Name>
+NAKAYAMA, YOSHIKAZU
+</Name>
+<Name>
+NAGASAKA, TAKESHI
+</Name>
+<Name>
+SAKAI, TORU
+</Name>
+<Name>
+SUEKANE, OSAMU
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TAIYO NIPPON SANSO CORP [JP]
+</Name>
+<Name>
+TAIYO NIPPON SANSO CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1987878
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070714703
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP53203
+</PriorityNumber>
+<PriorityDate>
+2007-02-21
+</PriorityDate>
+<PriorityNumber>
+JP20060047961
+</PriorityNumber>
+<PriorityDate>
+2006-02-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J23/745
+</Class>
+<Class>
+B01J23/825
+</Class>
+<Class>
+B01J23/835
+</Class>
+<Class>
+B01J37/12
+</Class>
+<Class>
+B01J37/14
+</Class>
+<Class>
+B01J37/16
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C01B31/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J23/745
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+</NCL>
+<Abstract>
+It is the purpose of this invention to present a process for producing carbon nanostructure in which the mechanism of continuous carbon nanostructure growth can be optimized and a high-quality carbon nanostructure can be produced, a catalyst for carbon nanostructure growth which is for use in the production, a raw-material gas and a carrier gas for producing the same, and an apparatus for producing the same. The process for carbon nanostructure production, in which the length of the nanostructure can be continuously controlled comprises feeding a carrier gas and a raw-material gas to a reaction chamber (4) to produce a carbon nanostructure (2) with a catalytic structure (6), wherein the concentrations of oxidation gases contained in the carrier gas and raw-material gas, such as oxygen and water (in the case of raw-material acetylene gas, minor ingredients such as DMF and acetone, which are solvents), are regulated to a moderate value. Thus, a carbon nanostructure of good quality can be produced at a high efficiency.
+</Abstract>
+<Claims>
+<P>
+1. A catalyst disposed in a reaction chamber to which a raw-material gas is supplied and which grows a carbon nanostructure while flowing said raw-material gas in said reaction chamber, said catalyst comprising magnetite at least.
+</P>
+<P>
+2. The catalyst according to claim 1, wherein said magnetite is used as a starting catalyst that grows said carbon nanostructure in said reaction chamber.
+</P>
+<P>
+3. A process for producing carbon nanostructure in which a carrier gas and a raw-material gas are supplied in a reaction chamber and said carbon nanostructure grows by a catalyst disposed in said reaction chamber while flowing said raw-material gas in said reaction chamber, said process for producing carbon nanostructure comprising the steps of:
+</P>
+<P>
+disposing beforehand said catalyst comprised of iron element in said reaction chamber, and
+</P>
+<P>
+setting a magnetite conversion process in which said catalyst is converted to magnetite by supplying an oxidation gas in said reaction chamber with said carrier gas before supplying and flowing said raw-material gas in said reaction chamber.
+</P>
+<P>
+4. The process for producing carbon nanostructure according to claim 3, said process further comprising a catalyst initialization process in which a reduction gas is supplied in said reaction chamber before said magnetite conversion process, so that an iron oxide component of said catalyst disposed in said reaction chamber is reduced.
+</P>
+<P>
+5. The process for producing carbon nanostructure according to claim 3 or 4, said process comprising a carbon nanostructure growth process in which said oxidation gas is supplied in said reaction chamber with said raw-material gas and said carrier gas after said magnetite conversion process.
+</P>
+<P>
+6. The process for producing carbon nanostructure according to claim 3, 4 or 5, wherein said oxidation gas is comprised of one or more substances selected from a group of water, oxygen, acetone, alcohol, DMF (dimethylformamide), CO2, CO, 03 and H2O2.
+</P>
+<P>
+7. A raw-material gas for producing carbon nanostructure comprising said raw-material gas mixed with an oxidation gas beforehand.
+</P>
+<P>
+8. The raw-material gas for producing carbon nanostructure according to claim 7, wherein said oxidation gas is water mixed with a range of 0.05ppm- 3%.
+</P>
+<P>
+9. The raw-material gas for producing carbon nanostructure according to claim 7, wherein said oxidation gas is oxygen mixed with a range of 0.01ppb- 1%.
+</P>
+<P>
+10. The raw-material gas for producing carbon nanostructure according to claim 7, wherein said oxidation gas is CO2 mixed with a range of 0.01ppm- 5%.
+</P>
+<P>
+11. The raw-material gas for producing carbon nanostructure according to claim 7, wherein said oxidation gas is CO mixed with a range of 0.01ppm- 5%.
+</P>
+<P>
+12. The raw-material gas for producing carbon nanostructure according to claim 7, wherein said oxidation gas is 03 mixed with a range of 0.01ppb- 1%.
+</P>
+<P>
+13. The raw-material gas for producing carbon nanostructure according to claim 7, wherein said oxidation gas is H2O2 mixed with a range of 0.1ppb- 1%.
+</P>
+<P>
+14. The raw-material gas for producing carbon nanostructure according to claim 7, wherein said oxidation gas is acetone mixed with a range of 1ppm- 10%.
+</P>
+<P>
+15. The raw-material gas for producing carbon nanostructure according to claim 7, wherein said oxidation gas is alcohol mixed with a range of 1ppm- 10%.
+</P>
+<P>
+16. The raw-material gas for producing carbon nanostructure according to claim 7, wherein said oxidation gas is DMF mixed with a range of 0.01 %- 0.5%.
+</P>
+<P>
+17. The raw-material gas for producing carbon nanostructure according to any of claims 7 to 16, wherein a reduction gas is mixed with a range of less than or equal to 1 ppm.
+</P>
+<P>
+18. A carrier gas for producing carbon nanostructure comprising said carrier gas mixed with an oxidation gas beforehand.
+</P>
+<P>
+19. The carrier gas for producing carbon nanostructure according to claim 18, wherein said oxidation gas is water mixed with a range of 0.05ppm- 3%.
+</P>
+<P>
+20. The carrier gas for producing carbon nanostructure according to claim 18, wherein said oxidation gas is oxygen mixed with a range of 0.01ppb- 1%.
+</P>
+<P>
+21. A mixture gas for producing carbon nanostructure comprising said mixture gas in which a raw-material gas, a carrier gas and an oxidation gas for producing carbon nanostructure are mixed beforehand.
+</P>
+<P>
+22. The mixture gas for producing carbon nanostructure according to claim 21, wherein said oxidation gas is water mixed with a range of 0.05ppm-3%.
+</P>
+<P>
+23. The mixture gas for producing carbon nanostructure according to claim 21, wherein said oxidation gas is oxygen mixed with a range of 0.01 ppb-1 %.
+</P>
+<P>
+24. The mixture gas for producing carbon nanostructure according to claim 21, 22 or 23, wherein said mixture gas further comprises a reduction gas with a range of less than or equal to 1 ppm.
+</P>
+<P>
+25. A process for producing carbon nanostructure in which a raw-material gas is supplied in a reaction chamber and said carbon nanostructure grows by a catalyst disposed in said reaction chamber while flowing said raw-material gas in said reaction chamber, said process for producing carbon nanostructure comprising the steps of: disposing beforehand said catalyst comprised of iron element in said reaction chamber, and supplying said raw-material gas in said reaction chamber with an oxidation gas excluding water.
+</P>
+<P>
+26. The process for producing carbon nanostructure according to claim 25, wherein said oxidation gas is comprised of one or more substances selected from a group of oxygen, acetone, alcohol, DMF (dimethylformamide), CO2, CO, 03 and H2O2.
+</P>
+<P>
+27. A process for producing carbon nanostructure in which a raw-material gas is supplied in a reaction chamber and said carbon nanostructure grows by a catalyst disposed in said reaction chamber while flowing said raw-material gas in said reaction chamber, said process for producing carbon nanostructure comprising the steps of: disposing beforehand said catalyst comprised of iron element in said reaction chamber, supplying said raw-material gas in said reaction chamber with an oxidation gas, and controlling variably said raw-material gas concentration in a growth process of said carbon nanostructure by adjusting a supply concentration of said raw-material gas.
+</P>
+<P>
+28. The process for producing carbon nanostructure according to claim 27, wherein a ratio of oxygen contained in said oxidation gas to said raw-material gas is variably controlled in said growth process of said carbon nanostructure.
+</P>
+<P>
+29. The process for producing carbon nanostructure according to claim 27, wherein said ratio is variably controlled by adjustment of said supply concentration of said oxidation gas.
+</P>
+<P>
+30. The process for producing carbon nanostructure according to claim 27, 28 or 29, wherein said oxidation gas is comprised of one or more substances selected from a group of water, oxygen, acetone, alcohol, DMF (dimethylformamide), CO2, CO, 03 and H2O2.
+</P>
+<P>
+31. An apparatus for producing carbon nanostructure comprising a raw-material gas supply means and a catalyst comprised of iron element disposed beforehand in a reaction chamber so as that said raw-material gas is supplied in said reaction chamber by said raw-material gas supply means and said carbon nanostructure grows by said catalyst while flowing said raw-material gas in said reaction chamber, a carrier gas supply means supplying a carrier gas in said reaction chamber, and an oxidation gas supply means supplying an oxidation gas in said reaction chamber, wherein before supplying and flowing said raw-material gas in said reaction chamber, said oxidation gas is supplied in said reaction chamber with said carrier gas by said carrier gas supply means and said oxidation gas supply means, so that said catalyst is converted to magnetite.
+</P>
+<P>
+32. The apparatus for producing carbon nanostructure according to claim 31, wherein said raw-material gas and said oxidation gas are flown for said magnetite in said reaction chamber.
+</P>
+<P>
+33. The apparatus for producing carbon nanostructure according to claim 31 or 32, wherein said oxidation gas is comprised of one or more substances selected from a group of water, oxygen, acetone, alcohol, DMF (dimethylformamide), CO2, CO, 03 and H2O2.
+</P>
+<P>
+34. The apparatus for producing carbon nanostructure according to claim 31, 32 or 33, said apparatus further comprising a reduction gas supply means supplying a reduction gas in said reaction chamber, wherein a reduction gas is supplied in said reaction chamber from said reduction gas supply means before said magnetite conversion of said catalyst, so that an iron oxide component of said catalyst disposed in said reaction chamber is reduced.
+</P>
+<P>
+35. An apparatus for producing carbon nanostructure comprising a raw-material gas supply means supplying a raw-material gas in a reaction chamber, a catalyst comprised of iron element disposed beforehand in said reaction chamber and an oxidation gas supply means supplying an oxidation gas except water in said reaction chamber, so that said raw-material gas is supplied in said reaction chamber by said raw-material gas supply means, said oxidation gas is supplied in said reaction chamber by said oxidation gas supply means and said carbon nanostructure grows by said catalyst while flowing said raw-material gas and said oxidation gas in said reaction chamber.
+</P>
+<P>
+36. An apparatus for producing carbon nanostructure comprising a raw-material gas supply means supplying a raw-material gas in a reaction chamber, a catalyst comprised of iron element, an oxidation gas supply means supplying an oxidation gas in said reaction chamber and an oxygen ratio control means controlling variably an ratio of oxygen contained in said oxidation gas supplied in said reaction chamber by said oxidation gas supply means to said raw-material gas supplied in said reaction chamber by said raw-material gas supply means, so that said raw-material gas is supplied in said reaction chamber by said raw-material gas supply means, said oxidation gas is supplied in said reaction chamber by said oxidation gas supply means and said carbon nanostructure grows by said catalyst while flowing said raw-material gas and said oxidation gas in said reaction chamber, and a concentration of said raw-material gas is variably controlled in said growth process of carbon nanostructure by adjusting a supply concentration of said raw-material gas.
+</P>
+<P>
+37. The apparatus for producing carbon nanostructure according to claim 36, wherein said oxygen ratio in said oxidation gas to said raw-material gas is variably controlled in said growth process of carbon nanostructure.
+</P>
+<P>
+38. The apparatus for producing carbon nanostructure according to claim 36, wherein said oxygen ratio control means controls variably said ratio by adjusting said supply concentration of said oxidation gas.
+</P>
+<P>
+39. The apparatus for producing carbon nanostructure according to claim 29, 30 or 31, wherein said oxidation gas is comprised of one or more substances selected from a group of water, oxygen, acetone, alcohol, DMF (dimethylformamide), CO2, CO, 03 and H2O2.
+</P>
+</Claims>
+<Also_published_as>
+US2010226848A1;KR20080096565A;KR100978691B1;WO2007097367A1;JP2007222803A;CN101389401A;CN101389401B
+</Also_published_as>
+</BiblioData>

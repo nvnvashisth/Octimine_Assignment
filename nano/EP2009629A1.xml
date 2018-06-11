@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INFORMATION STORAGE DEVICE USING PROBE
+</Title>
+<PublicationNumber>
+EP2009629A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MAEDA TAKANORI [JP]
+</Name>
+<Name>
+SUZUKI JUN [JP]
+</Name>
+<Name>
+ISHIMORI MASAHIRO [JP]
+</Name>
+<Name>
+FUJIMOTO KENJIRO [JP]
+</Name>
+<Name>
+ONOE ATSUSHI [JP]
+</Name>
+<Name>
+MAEDA, TAKANORI
+</Name>
+<Name>
+SUZUKI, JUN
+</Name>
+<Name>
+ISHIMORI, MASAHIRO
+</Name>
+<Name>
+FUJIMOTO, KENJIRO
+</Name>
+<Name>
+ONOE, ATSUSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PIONEER CORP [JP]
+</Name>
+<Name>
+PIONEER CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2009629
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070740580
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP57144
+</PriorityNumber>
+<PriorityDate>
+2007-03-30
+</PriorityDate>
+<PriorityNumber>
+JP20060095473
+</PriorityNumber>
+<PriorityDate>
+2006-03-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q70/08
+</Class>
+<Class>
+G11B9/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B9/14M2B
+</Class>
+<Class>
+G11B9/14R4
+</Class>
+<Class>
+H02K41/03
+</Class>
+</NCL>
+<Abstract>
+A first thermal buffer layer (23) and a second thermal buffer layer (24) are arranged between a recording medium (21) and an actuator structure (22). The heat conductivity of the first thermal buffer layer (23) is set low and the heat conductivity of the second thermal buffer layer (24) is set high. Most of the heat generated from a coil wiring (23) of the actuator structure (22) is blocked by the first thermal buffer layer (23), and heat leaked from the first thermal buffer layer (23) is diffused by the second thermal buffer layer (24). Temperature distribution on the recording medium (21) is made uniform, and thus, a configuration wherein the recording medium (21) and the actuator structure (22) are placed one over another can be provided, information reading accuracy or information recording stability can be improved and the sizes of an information storage device can be reduced.
+</Abstract>
+<Claims>
+<P>
+1. An information memory apparatus comprising:
+</P>
+<P>
+a plate-like recording medium having a recording surface;
+</P>
+<P>
+a probe which is disposed above said recording medium if a perpendicular direction to the recording medium is set as a vertical direction, and which records or reads information with respect to said recording medium;
+</P>
+<P>
+an actuator structure which is disposed under said recording medium and which displaces said recording medium in a parallel direction to the recording surface; and
+</P>
+<P>
+a first heat buffer layer which is disposed between said recording medium and said actuator structure and which inhibits conduction of a heat from said actuator structure to said recording medium.
+</P>
+<P>
+2. The information memory apparatus according to claim 1, wherein a thermal conductivity of said first heat buffer layer is less than a thermal conductivity of said recording medium.
+</P>
+<P>
+3. The information memory apparatus according to claim 1, wherein
+</P>
+<P>
+the information memory apparatus comprises a second heat buffer layer which is disposed between said recording medium and said first heat buffer layer, and
+</P>
+<P>
+a thermal conductivity of said second heat buffer layer is greater than a thermal conductivity of said first heat buffer layer.
+</P>
+<P>
+4. The information memory apparatus according to claim 1, wherein
+</P>
+<P>
+the information memory apparatus comprises a third heat buffer layer which is disposed between said actuator structure and said first heat buffer layer, and
+</P>
+<P>
+a thermal conductivity of said third heat buffer layer is greater than a thermal conductivity of said first heat buffer layer.
+</P>
+<P>
+5. The information memory apparatus according to claim 1, wherein said actuator structure comprises a coil for generating a force, which is to displace said recording medium, by an electrically-driven method.
+</P>
+<P>
+6. The information memory apparatus according to claim 1, wherein said actuator structure comprises a comb tooth electrode for generating a force, which is to displace said recording medium, by an electrostatically-driven method.
+</P>
+<P>
+7. The information memory apparatus according to claim 1, comprising a heat release layer which is disposed under said actuator structure and which releases a heat emitted from said actuator structure.
+</P>
+<P>
+8. The information memory apparatus according to claim 1, wherein said actuator structure, said first heat buffer layer and said recording medium are laminated in the vertical direction and are displaced in a unified manner in the parallel direction to the recording surface by a driving force created by said actuator structure.
+</P>
+</Claims>
+<Also_published_as>
+EP2009629A4;US2009178167A1;US7945963B2;JP4353337B2;WO2007114353A1
+</Also_published_as>
+</BiblioData>

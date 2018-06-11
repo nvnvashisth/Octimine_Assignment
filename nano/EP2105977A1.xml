@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Nitride semiconductor element with supporting substrate and method for producing nitride semiconductor element
+</Title>
+<PublicationNumber>
+EP2105977A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SANO MASAHIKO [JP]
+</Name>
+<Name>
+NONAKA MITSUHIRO [JP]
+</Name>
+<Name>
+KAMADA KAZUMI [JP]
+</Name>
+<Name>
+YAMAMOTO MASASHI [JP]
+</Name>
+<Name>
+SANO, MASAHIKO
+</Name>
+<Name>
+NONAKA, MITSUHIRO
+</Name>
+<Name>
+KAMADA, KAZUMI
+</Name>
+<Name>
+YAMAMOTO, MASASHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NICHIA CORP [JP]
+</Name>
+<Name>
+NICHIA CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2105977
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090165592
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-01-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030703055
+</PriorityNumber>
+<PriorityDate>
+2003-01-27
+</PriorityDate>
+<PriorityNumber>
+JP20020019192
+</PriorityNumber>
+<PriorityDate>
+2002-01-28
+</PriorityDate>
+<PriorityNumber>
+JP20020175686
+</PriorityNumber>
+<PriorityDate>
+2002-06-17
+</PriorityDate>
+<PriorityNumber>
+JP20020195179
+</PriorityNumber>
+<PriorityDate>
+2002-07-03
+</PriorityDate>
+<PriorityNumber>
+JP20020233866
+</PriorityNumber>
+<PriorityDate>
+2002-08-09
+</PriorityDate>
+<PriorityNumber>
+JP20020356463
+</PriorityNumber>
+<PriorityDate>
+2002-12-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/02
+</Class>
+<Class>
+H01L27/15
+</Class>
+<Class>
+H01L29/16
+</Class>
+<Class>
+H01L29/26
+</Class>
+<Class>
+H01L33/00
+</Class>
+<Class>
+H01L33/06
+</Class>
+<Class>
+H01L33/10
+</Class>
+<Class>
+H01L33/22
+</Class>
+<Class>
+H01L33/32
+</Class>
+<Class>
+H01L33/38
+</Class>
+<Class>
+H01L33/40
+</Class>
+<Class>
+H01L33/44
+</Class>
+<Class>
+H01L33/62
+</Class>
+<Class>
+H01S5/042
+</Class>
+<Class>
+H01S5/183
+</Class>
+<Class>
+H01S5/343
+</Class>
+<Class>
+H01S5/00
+</Class>
+<Class>
+H01S5/02
+</Class>
+<Class>
+H01S5/022
+</Class>
+<Class>
+H01S5/024
+</Class>
+<Class>
+H01S5/30
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01L33/00G3D
+</Class>
+<Class>
+H01L33/22
+</Class>
+<Class>
+H01L33/32
+</Class>
+<Class>
+H01L33/38
+</Class>
+<Class>
+H01L33/40C
+</Class>
+<Class>
+H01L33/44
+</Class>
+</NCL>
+<Abstract>
+A method comprises a step for growing nitride semiconductor layers on a different material substrate;  subsequently, a step for attaching a supporting substrate to the nitride semiconductor layers;  and subsequently, a step for eliminating the different material substrate. A conductive layer is formed by a eutectic junction in the step for attaching. The step for eliminating the different material substrate is performed by laser irradiation, polishing, or chemical polishing. The method further comprises a step for breaking the nitride semiconductor layers into chips by etching an exposed surface of the nitride semiconductor layers after the step for eliminating the different material substrate. The method further comprises a step for forming an asperity portion on the exposed surface of the nitride semiconductor layers after the step for eliminating the different material substrate.
+</Abstract>
+<Claims>
+<P>
+1. A light-emitting nitride semiconductor element which is capable of emitting light, comprising:
+</P>
+<P>
+a supporting substrate (11);
+</P>
+<P>
+at least one conductive layer (13) formed on the supporting substrate (11);
+</P>
+<P>
+a first terminal (3) formed on at least a part of the conductive layer (13),
+</P>
+<P>
+a nitride semiconductor (2) formed on at least a part of the first terminal (3), the nitride semiconductor (2) including a first conductive type nitride semiconductor layer (2a) and a light-emitting layer (2b); and
+</P>
+<P>
+a second terminal (6) formed on the nitride semiconductor (2);wherein the first terminal (3) is surrounded at a periphery thereof by a first insulating protect layer (4), the first terminal (3) and the first insulating protect layer (4) being interposed between the conductive layer (13) and the first conductive type nitride semiconductor layer (2a) of the nitride semiconductor (2),
+</P>
+<P>
+wherein the nitride semiconductor (2) includes:
+</P>
+<P>
+a terminal portion in which the first terminal (3) is provided, on the side of nitride semiconductor (2) facing towards the conductive layer (13), and
+</P>
+<P>
+an exposed portion facing away from the conductive layer (13) in which the first terminal (3) is not provided,characterized in that the second terminal (6) is provided on the exposed portion of nitride semiconductor (2) and is an opposed terminal of the first terminal (3), and in that the first insulating protect layer (4) is a transparent layer having a contact boundary region with the nitride semiconductor (2) and a region extending laterally outward from the contact boundary region in traverse direction of the nitride semiconductor (2).
+</P>
+<P>
+2. The nitride semiconductor element according to claim 1, characterized in that it further comprises a reflecting layer interposed between the first insulating protect layer (4) and the conductive layer (13).
+</P>
+<P>
+3. The nitride semiconductor element according to claim 2, characterized in that the reflecting layer includes at least one element selected from the group of Al, Ag, and Rh, and in that the reflecting layer contacts the conductive layer (13).
+</P>
+<P>
+4. The nitride semiconductor element according to any one of claims 1-3, characterized in that the second terminal (6) is provided on the exposed portion of nitride semiconductor (2) outside of a region corresponding with the terminal portion of the nitride semiconductor (2).
+</P>
+<P>
+5. The nitride semiconductor element according to any one of claims 1-3, characterized in that the second terminal (6) is provided on the exposed portion of the nitride semiconductor (2) and partially overlaps a region corresponding with the terminal portion of the nitride semiconductor (2), such that the first terminal (3) and the second terminal (6) partially overlap.
+</P>
+<P>
+6. The nitride semiconductor element according to any one of claims 1-5, characterized in that the nitride semiconductor (2) further includes a second conductive type nitride semiconductor layer (2c), wherein the surface of the second conductive type nitride semiconductor layer (2c) on which the second terminal (6) is provided has an asperity portion.
+</P>
+<P>
+7. The nitride semiconductor element according to any one of claims 1-6, further comprising a second insulating protect layer (7) provided on the exposed portion of the nitride semiconductor (2) and on the side wall of the nitride semiconductor (2) over the exposed part of the first insulating protect layer (4) extending laterally outward from the contact boundary region in traverse direction of the nitride semiconductor (2).
+</P>
+<P>
+8. The nitride semiconductor element according to any one of claims 1-7, characterized in that a thickness of the first insulating protect layer (4) is less than a thickness of the nitride semiconductor (2).
+</P>
+<P>
+9. The nitride semiconductor element according to any one of claims 1-8, characterized in that the second insulating protect layer (7) comprises an asperity portion.
+</P>
+<P>
+10. A method for producing a nitride semiconductor element which is capable of emitting light and includes:
+</P>
+<P>
+a supporting substrate (11);
+</P>
+<P>
+at least one conductive layer (13) formed on the supporting substrate (11);
+</P>
+<P>
+a first terminal (3) formed on at least a part of the conductive layer (13),
+</P>
+<P>
+a nitride semiconductor (2) formed on at least a part of the first terminal (3), the nitride semiconductor (2) including a first conductive type nitride semiconductor layer (2a), a light-emitting layer (2b), and a second conductive type nitride semiconductor layer (2c); and
+</P>
+<P>
+a second terminal (6) formed on the nitride semiconductor (2); the method comprising:
+</P>
+<P>
+a growing step for growing:
+</P>
+<P>
+the nitride semiconductor (2) having at least a second conductive type nitride semiconductor layer (2c), the light-emitting layer (2b),and a first conductive type nitride semiconductor layer (2a), on a substrate (1) different from the supporting substrate (11); and
+</P>
+<P>
+a first terminal (3) and a first insulating protect layer (4) as a transparent layer on the nitride semiconductor (2),
+</P>
+<P>
+an attaching step for attaching the supporting substrate (11) to the first conductive type nitride semiconductor layer (2a) side of the nitride semiconductor (2) with the first terminal (3) interposed therebetween,
+</P>
+<P>
+a step for eliminating the substrate (1) different from the supporting substrate (11) so as to expose the second conductive type nitride semiconductor layer (2c); and subsequently,
+</P>
+<P>
+a step of etching the nitride semiconductor (2) so as to expose the first insulating protect layer (4) so as to form an extending region which extends from the contact boundary in traverse direction of the nitride semiconductor (2); and
+</P>
+<P>
+a step of forming a second terminal (6) on the second conductive type nitride semiconductor layer (2c) in a location overlapping the first insulating protect layer (4).
+</P>
+<P>
+11. The method for producing the nitride semiconductor element according to claim 10, further comprising, after the step for eliminating the substrate (1) different from the supporting substrate (11), a step for forming an asperity portion on the surface of the second conductivity type nitride semiconductor layer (2c) of nitride semiconductor (2).
+</P>
+<P>
+12. The method for producing the nitride semiconductor element according to claim 10 or 11, further comprising, after the step for eliminating the substrate (1) different from the supporting substrate (11), a step for forming a second insulating protect layer (7) on the second conductivity type nitride semiconductor layer (2c) of the nitride semiconductor (2).
+</P>
+<P>
+13. The method for producing the nitride semiconductor element according to claim 12, further comprising a step for forming an asperity portion on the second insulating protect layer (7).
+</P>
+<P>
+14. The method for producing the nitride semiconductor element according to claims 12 or 13, characterized in that the second insulating protect layer (7) is also formed on the extending region of the first insulating protect layer (4).
+</P>
+</Claims>
+<Also_published_as>
+US2003141506A1;US6744071B2;US2005035364A1;US6946683B2;US2004104390A1;US6916676B2;US2005211993A1;US7049635B2;TWI278995B;KR20070058713A;JP2008294482A;JP4207781B2;WO03065464A1;EP2262008A2;EP2262008A3;EP2262007A2;EP2262007A3;EP1471583A1;EP1471583A4;EP1471583B1;CN1613156A;CN100405619C;CA2754097A1;CA2466141A1;AU2003207287B2;AT445233T
+</Also_published_as>
+</BiblioData>

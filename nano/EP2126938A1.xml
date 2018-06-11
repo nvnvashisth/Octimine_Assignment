@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SPIN-TRANSFER TORQUE OSCILLATOR
+</Title>
+<PublicationNumber>
+EP2126938A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FIRASTRAU IOANA [RO]
+</Name>
+<Name>
+EBELS URSULA [FR]
+</Name>
+<Name>
+DIENY BERNARD [FR]
+</Name>
+<Name>
+FIRASTRAU, IOANA
+</Name>
+<Name>
+EBELS, URSULA
+</Name>
+<Name>
+DIENY, BERNARD
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2126938
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070712275
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP51676
+</PriorityNumber>
+<PriorityDate>
+2007-02-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01F10/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+H01F10/32N4
+</Class>
+<Class>
+H03B15/00B
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a method of operating a spin-transfer torque structure to generate voltage oscillations, said structure comprising a first layer of magnetic material having a fixed magnetization vector, a spacer of non magnetic material and a second layer of magnetic material having a free magnetization vector. The method includes the application of a current (j op) through said structure and a magnetic field (H ext ) in the plane of the second layer. It makes use of a region of bistability and hysteretic behaviour to trigger and stop the voltage oscillations.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. Method of operating a spin-transfer torque structure to generate voltage oscillations, said structure comprising a first layer of magnetic material having a fixed magnetization vector, a spacer of non magnetic material and a second layer of magnetic material having a free magnetization vector, said method including the application of a current through said structure and characterized by the steps of: - setting the operating point of said structure in a region of bistability where the magnetization vector of the second layer can be either in a stable static state or in a stable precessing state; - increasing the current in absolute values above a first threshold value, thereby inducing a precession of the magnetization vector of the second layer; and then decreasing the current in absolute values below said first threshold value, the magnetizing vector of the free layer being thereby kept in said precessing state.
+</P>
+<P>
+2. Method of operating a spin-transfer torque structure to generate voltage oscillations, said structure comprising a first layer of magnetic material having a fixed magnetization vector, a spacer of non magnetic material and a second layer of magnetic material having a free magnetization vector, said method including the application of a current through said structure and characterized by the steps of: setting the operating point of said structure in a region of bistability where the magnetization vector of the second layer can be either in a stable static state or in a stable precessing state; increasing the current in absolute values above a first threshold value, thereby causing the magnetization vector of the second layer to move out of the plane thereof; and then decreasing the current in absolute values below a threshold value causing the magnetizing vector of the second layer thereby to enter a stable precessing state.
+</P>
+<P>
+3. Method according to claim 1 or 2, characterized in that the steps of increasing and then decreasing the current are performed by applying a current pulse.
+</P>
+<P>
+4. Method according to any preceding claim, characterized in that it further comprises the application of a magnetic field (Hext) in the plane of said second layer.
+</P>
+<P>
+5. Method according to any preceding claim, characterized in that it further comprises a step of stopping said voltage oscillations by decreasing the current in absolute values until the operating point is moved out of said region of bistability into a region where only a static state of said magnetization vector is stable.
+</P>
+<P>
+6. Method according to claim 5, characterized in that the step of stopping said voltage oscillations is performed by applying a current pulse.
+</P>
+<P>
+7. Method according to claim 4, characterized in that it further comprises a step of stopping said voltage oscillations by varying the magnetic field in a predetermined direction until the operating point is moved out of said region of bistability into a region where only a static state of said magnetization vector is stable.
+</P>
+<P>
+8. Method according to claim 7, characterized in that the step of stopping said voltage oscillations is performed by applying a magnetic field pulse.
+</P>
+<P>
+9. Method of operating a spin-transfer torque structure to generate voltage oscillations, said structure comprising a first layer of magnetic material having a fixed magnetization vector, a spacer of non magnetic material and a second layer of magnetic material having a free magnetization vector, said method including the application of a current (jop) through said structure and a magnetic field (Hext) in the plane of said second layer, said method being characterized by the steps of: - setting the operating point of the spin- transfer structure in a region of bistability where the magnetization vector of the free layer can be either in a stable static state or a stable precessing state; varying the magnetic field in a predetermined direction until it crosses a third threshold value, thereby inducing a precession of the magnetization vector of the second layer; varying the magnetic field in the opposite direction until it crosses back said third threshold value, the magnetizing vector of the free layer being thereby kept in said precessing state.
+</P>
+<P>
+10. Method according to claim 9, characterized in that said steps of increasing the magnetic field in said predetermined direction and in said opposite direction are performed by applying a magnetic field pulse .
+</P>
+<P>
+11. Method according to claim 9 or 10, characterized in that it further comprises a step of stopping said voltage oscillations by varying the magnetic field in said opposite direction until the operating point is moved out of said region of bistability into a region where only a static state of said magnetization vector is stable.
+</P>
+<P>
+12. Method according to claim 11, characterized in that the step of stopping said voltage oscillations is performed by applying a magnetic field pulse.
+</P>
+<P>
+13. Method according to claim 9 or 10, characterized in that it further comprises a step of stopping said voltage oscillations by decreasing the current in absolute values until the operating point is moved out of said region of bistability into a region where only a static state of said magnetization vector is stable.
+</P>
+<P>
+14. Method according to claim 13, characterized in that the step of stopping said voltage oscillations is performed by applying a current pulse.
+</P>
+<P>
+15. Method according to any preceding claim, characterized in that the magnetization vector of said first layer is orthogonal to the plane of this layer.
+</P>
+<P>
+16. Method according to any preceding claim, characterized in that said spacer is a layer of non magnetic metal.
+</P>
+<P>
+17. Method according to any claim 1 to 15, characterized in that said spacer is a layer of insulating material.
+</P>
+<P>
+18. Method according to any preceding claim, characterized in that the first layer of magnetic material and the second layer of magnetic material are made out of ferromagnetic material.
+</P>
+</Claims>
+<Also_published_as>
+WO2008101545A1;US2010039181A1;US8063709B2;JP2010519760A
+</Also_published_as>
+</BiblioData>

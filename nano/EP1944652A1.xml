@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A method for operating a euv lithography apparatus, and a euv lithography apparatus
+</Title>
+<PublicationNumber>
+EP1944652A1
+</PublicationNumber>
+<Inventor>
+<Name>
+YAKSHIN ANDREY E [NL]
+</Name>
+<Name>
+VAN DE KRUIJS ROBBERT W E [NL]
+</Name>
+<Name>
+BIJKERK FRED [NL]
+</Name>
+<Name>
+LOUIS ERIC [NL]
+</Name>
+<Name>
+YAKSHIN, ANDREY E
+</Name>
+<Name>
+VAN DE KRUIJS, ROBBERT W.E
+</Name>
+<Name>
+BIJKERK, FRED
+</Name>
+<Name>
+LOUIS, ERIC
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ZEISS CARL SMT AG [DE]
+</Name>
+<Name>
+CARL ZEISS SMT AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1944652
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070000471
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070000471
+</PriorityNumber>
+<PriorityDate>
+2007-01-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G02B27/00C
+</Class>
+<Class>
+G02B5/08V
+</Class>
+<Class>
+G03F1/24
+</Class>
+<Class>
+G03F7/70P14
+</Class>
+<Class>
+G03F7/70P6D
+</Class>
+<Class>
+G03F7/70P8B
+</Class>
+<Class>
+G03F7/70P8F
+</Class>
+</NCL>
+<Abstract>
+The proposed EUV/SX lithography apparatus (100) allows providing an atmosphere containing atomic nitrogen inside the apparatus, in particular during operation of the lithography apparatus to avoid degradation of the reflective optical element (113,121,122,130,141,142) due to oxidation or carbon contamination. Through the nitrogen inlet (123,143) either atomic nitrogen or molecular nitrogen can be provided, the molecular nitrogen being split into atomic nitrogen by irradiation with EUV/SX radiation during operation of the apparatus. The atomic nitrogen will react with the oxygen from water dissociated by irradiation with EUV/SX radiation during operation to volatile nitrogen oxides. Depending on the surface material of the reflective optical element (113,121,122,130,141,142), the atomic nitrogen can also react with it to form a thin layer of nitride, which is often resistant against oxidation.
+</Abstract>
+<Claims>
+<P>
+1. A method for operating a lithography apparatus (100) for the extreme ultraviolet or soft x-ray wavelength range having a reflective optical element for the extreme ultraviolet or soft x-ray wavelength range, characterized in that at least adjacent to the reflective optical element (1, 112, 113, 121, 122, 130, 141, 142) an atmosphere containing atomic nitrogen is provided.
+</P>
+<P>
+2. The method according to claim 1, characterized in that the atmosphere containing atomic nitrogen is provided during irradiation of the reflective optical element (1, 112, 113, 121, 122, 130, 141, 142).
+</P>
+<P>
+3. The method according to claim 1 or 2, characterized by comprising the steps:
+</P>
+<P>
+- providing an atmosphere containing molecular nitrogen at least adjacent to the reflective optical element (1, 112, 113, 121, 122, 130, 141, 142), the partial pressure of molecular nitrogen being higher than the partial pressure of other components of the atmosphere;
+</P>
+<P>
+- irradiating the reflective optical element (1, 112, 113, 121, 122, 130, 141, 142) with extreme ultraviolet or soft x-ray radiation.
+</P>
+<P>
+4. The method according to claim 3, characterized by further comprising the steps:
+</P>
+<P>
+- measuring the partial pressures of molecular nitrogen and other components inside the lithography apparatus (100);
+</P>
+<P>
+- providing a partial pressure of molecular nitrogen being a factor of around 10 or higher than the measured partial pressures of the components other than nitrogen.
+</P>
+<P>
+5. The method according to claim 4, characterized in that the partial pressures of water and/or hydrocarbons are measured.
+</P>
+<P>
+6. The method according to any of claims 3 to 5, characterized in that a partial pressure of molecular nitrogen of ca. 10&amp;lt;-6&amp;gt; mbar or higher, preferably of ca. 10&amp;lt;-4&amp;gt; mbar or higher, most preferably of ca. 10&amp;lt;-3&amp;gt; mbar or higher is provided.
+</P>
+<P>
+7. The method according to any of claims 1 to 6, characterized in that the amount per time of atomic nitrogen at least adjacent to the reflective optical element (1, 112, 113, 121, 122, 130, 141, 142) is higher than the amount per time of oxygen radicals.
+</P>
+<P>
+8. The method according to any of claims 1 to 7, characterized in that the reflective optical element (1, 112, 113, 121, 122, 130, 141, 142) has a multilayer structure (2), the top layer (21, 4) of which comprises a material that reacts with atomic nitrogen to a nitride.
+</P>
+<P>
+9. A method for producing a reflective optical element for the extreme ultraviolet or soft x-ray wavelength range having a multilayer structure, characterized in that after depositing the topmost layer (21, 4), the reflective optical element (1, 112, 113, 121, 122, 130, 141, 142) is exposed to an atmosphere containing atomic nitrogen.
+</P>
+<P>
+10. The method according to claim 9, characterized in that a topmost layer (21, 4) is deposited that comprises a material that reacts with atomic nitrogen to a nitride.
+</P>
+<P>
+11. The method according to claim 9 or 10, characterized in that a topmost layer (21, 4) is deposited comprising a material of the group silicon and ruthenium.
+</P>
+<P>
+12. A lithography apparatus (100) for the extreme ultraviolet or soft x-ray wavelength range having a reflective optical element (1, 112, 113, 121, 122, 130, 141, 142) for the extreme ultraviolet or soft x-ray wavelength range, characterized in that it comprises a plasma source (143), in particular for providing atomic nitrogen.
+</P>
+<P>
+13. The lithography apparatus according to claim 12, characterized in that it comprises means (124, 144) for measuring the partial pressure of components of the atmosphere inside the apparatus (100).
+</P>
+<P>
+14. The lithography apparatus according to claim 12 or 13, characterized in that it comprises a nitrogen inlet (123).
+</P>
+<P>
+15. An illumination system (120) for a lithography apparatus (100) for the extreme ultraviolet or soft x-ray wavelength range having a reflective optical element (121, 122) for the extreme ultraviolet or soft x-ray wavelength range, characterized in that it comprises a plasma source (143), in particular for providing atomic nitrogen.
+</P>
+<P>
+16. A projection system (140) for a lithography apparatus (100) for the extreme ultraviolet or soft x-ray wavelength range having a reflective optical element (141, 142) for the extreme ultraviolet or soft x-ray wavelength range, characterized in that it comprises a plasma source (143), in particular for providing atomic nitrogen.
+</P>
+</Claims>
+</BiblioData>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHODS FOR NANOSTRUCTURE DOPING
+</Title>
+<PublicationNumber>
+EP1938381A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PAN YAOLING [US]
+</Name>
+<Name>
+CHEN JIAN [US]
+</Name>
+<Name>
+LEON FRANCISCO [US]
+</Name>
+<Name>
+MOSTARSHED SHAHRIAR [US]
+</Name>
+<Name>
+ROMANO LINDA T [US]
+</Name>
+<Name>
+SAHI VIJENDRA [US]
+</Name>
+<Name>
+STUMBO DAVID P [US]
+</Name>
+<Name>
+PAN, YAOLING
+</Name>
+<Name>
+CHEN, JIAN
+</Name>
+<Name>
+LEON, FRANCISCO
+</Name>
+<Name>
+MOSTARSHED, SHAHRIAR
+</Name>
+<Name>
+ROMANO, LINDA T
+</Name>
+<Name>
+SAHI, VIJENDRA
+</Name>
+<Name>
+STUMBO, DAVID P
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOSYS INC [US]
+</Name>
+<Name>
+NANOSYS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1938381
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060803951
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US36738
+</PriorityNumber>
+<PriorityDate>
+2006-09-21
+</PriorityDate>
+<PriorityNumber>
+US20050719576P
+</PriorityNumber>
+<PriorityDate>
+2005-09-23
+</PriorityDate>
+<PriorityNumber>
+US20060523098
+</PriorityNumber>
+<PriorityDate>
+2006-09-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/225
+</Class>
+<Class>
+H01L29/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B81C1/00G8
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L21/225A4D2
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+</NCL>
+<Abstract>
+Methods of doping nanostructures, such as nanowires, are disclosed. The methods provide a variety of approaches for improving existing methods of doping nanostructures. The embodiments include the use of a sacrificial layer to promote uniform dopant distribution within a nanostructure during post-nanostructure synthesis doping. In another embodiment, a high temperature environment is used to anneal nanostructure damage when high energy ion implantation is used. In another embodiment rapid thermal annealing is used to drive dopants from a dopant layer on a nanostructure into the nanostructure. In another embodiment a method for doping nanowires on a plastic substrate is provided that includes depositing a dielectric stack on a plastic substrate to protect the plastic substrate from damage during the doping process.;  An embodiment is also provided that includes selectively using high concentrations of dopant materials at various times in synthesizing nanostructures to realize novel crystallographic structures within the resulting nanostructure.
+</Abstract>
+<Claims>
+<P>
+W
+</P>
+<P>
+- 23 -
+</P>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method for doping nanostructures, comprising:
+</P>
+<P>
+(a) cleaning a nanostructure;
+</P>
+<P>
+(b) coating the nanostructure with a sacrificial layer;
+</P>
+<P>
+(c) depositing a dopant on a surface of the sacrificial layer;
+</P>
+<P>
+(d) forcing the dopant through the sacrificial layer into the nanostructure;
+</P>
+<P>
+(e) removing the sacrificial layer; and
+</P>
+<P>
+(f) further forcing the dopant into the nanostructure.
+</P>
+<P>
+2. The method of claim 1, wherein the nanostructure is a nanowire, nanorod or nanotube.
+</P>
+<P>
+3. The method of claim 1, wherein the nanostructure comprises Si and the sacrificial layer comprises one of SiO2, SiNx, Al2O3 and WN.
+</P>
+<P>
+4. The method of claim 1, wherein cleaning a nanostructure comprises using HF vapor to remove a native oxide from the nanostructure.
+</P>
+<P>
+5. The method of claim 3, further comprising removing organics from the nanostructure with one of O2 vapor, IPA vapor, and acetone vapor.
+</P>
+<P>
+6. The method of claim 1, further comprising varying a thickness of the sacrificial layer to control a profile of the dopant within the nanostructure.
+</P>
+<P>
+7. The method of claim 1, further comprising varying a composition of the sacrificial layer to control a profile of the dopant within the nanostructure.
+</P>
+<P>
+8. The method of claim 1, wherein forcing a dopant through the sacrificial layer into the nanostructure comprises thermal annealing.
+</P>
+<P>
+9. The method of claim 8, wherein forcing a dopant through the sacrificial layer into the nanostructure further comprises varying a temperature or a time to control a profile of the dopant within the nanostructure.
+</P>
+<P>
+10. The method of claim 1, wherein further forcing a dopant into the nanostructure comprises thermal annealing.
+</P>
+<P>
+11. A method for doping nanostructures, comprising:
+</P>
+<P>
+(a) heating a growth wafer containing nanostructures to a temperature;
+</P>
+<P>
+(b) implanting ion dopants into the nanostructures; and
+</P>
+<P>
+(c) annealing the nanostructures with the implanted ion dopants.
+</P>
+<P>
+12. The method of claim 11, further comprising rotating the growth wafer containing nanostructures around a vertical and/or horizontal axis of the growth wafer relative to a source of ion implantation.
+</P>
+<P>
+13. The method of claim 11, wherein the nanostructure is a nanowire, nanotube, or nanorod.
+</P>
+<P>
+14. The method of claim 11, wherein the temperature is a sufficient temperature such that damage caused by ion implantation is annealed out during the implantation.
+</P>
+<P>
+15. The method of claim 11 , wherein the temperature is between about 100 to 200[deg.] Celsius.
+</P>
+<P>
+16. A method for doping nanowires, comprising: (a) forming a dopant layer on the surface of a nanostructure;
+</P>
+<P>
+(b) using rapid thermal annealing to drive dopants from the dopant layer into the nanostructure; and
+</P>
+<P>
+(c) stripping excess dopants from the surface of the nanostructure.
+</P>
+<P>
+17. The method of claim 16, wherein the nanostructure includes nanowires, nanotubes or nanorods.
+</P>
+<P>
+18. The method of claim 16, wherein the dopants include n-type or p-type dopants.
+</P>
+<P>
+19. The method of claim 16, further comprising using chemical vapor deposition to control formation of the dopant layer.
+</P>
+<P>
+20. The method of claim 19, wherein the chemical vapor deposition process parameters include pressure, partial pressure, temperature and time.
+</P>
+<P>
+21. The method of claim 16, further comprising forming a sacrificial barrier layer to limit dopant diffusion in order to achieve a desired dopant level.
+</P>
+<P>
+22. A method for doping nanowires, comprising:
+</P>
+<P>
+(a) forming a dopant layer on the surface of a nanostructure;
+</P>
+<P>
+(b) using fast ramping rate annealing to drive dopants from the dopant layer into the nanostructure; and
+</P>
+<P>
+(c) stripping excess dopants from the surface of the nanostructure.
+</P>
+<P>
+23. The method of claim 22, wherein the nanostructure includes nanowires, nanotubes or nanorods.
+</P>
+<P>
+24. The method of claim 22, wherein the dopants include n-type or p-type dopants.
+</P>
+<P>
+25. The method of claim 22, further comprising forming a sacrificial barrier layer to limit dopant diffusion in order to achieve a desired dopant level.
+</P>
+<P>
+26. The method of claim 22, wherein step (b) comprises using laser annealing, flash lamp arc annealing or plasmas fusion annealing to drive dopants from the dopant layer into the nanostructure.
+</P>
+<P>
+27. A method for doping nanowires on a plastic substrate, comprising:
+</P>
+<P>
+(a) depositing a dielectric stack on the plastic substrate;
+</P>
+<P>
+(b) depositing nanowires on the dielectric stack;
+</P>
+<P>
+(c) depositing dopants on the nanowires; and
+</P>
+<P>
+(d) laser annealing the dopants into the nanowires, wherein said dielectric stack reflects laser energy from damaging the plastic substrate.
+</P>
+<P>
+28. The method of claim 27, wherein said dielectric stack comprises SiN, SiO2, Al2O3 or AlON.
+</P>
+<P>
+29. A method of synthesizing an ordered doped nanowire having a novel structure, comprising synthesizing nanowires, wherein a high concentration of dopants is introduced during the step of synthesizing the nanowire.
+</P>
+<P>
+30. The method of claim 29, wherein the nanowires comprise silicon and the dopants comprise boron, further comprising introducing about ten percent BCl3 with SiCl4 during the step of synthesizing the nanowire.
+</P>
+<P>
+31. A method of synthesizing a nanowire with electrical contacts, comprising:
+</P>
+<P>
+(a) initiating nanowire growth, wherein a high concentration of dopants are introduced, wherein an end portion of the nanowire will exhibit metallic characteristics;
+</P>
+<P>
+(b) reducing the concentration of dopants for a period of time, wherein a middle portion of the nanowire will exhibit semiconductor characteristics; and
+</P>
+<P>
+(c) increasing the concentration of dopants near the end of the nanowire growth, wherein a second end portion of the nanowire will exhibit metallic characteristics.
+</P>
+<P>
+32. The method of claim 31, wherein the nanowire comprises silicon and the dopant comprise boron.
+</P>
+</Claims>
+<Also_published_as>
+WO2007038164A2;WO2007038164A3;US2010167512A1;JP2009513368A
+</Also_published_as>
+</BiblioData>

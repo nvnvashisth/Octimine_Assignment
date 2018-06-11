@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+POLYMER NANOPARTICLES COATED BY MAGNETIC METAL OXIDE AND USES THEREOF
+</Title>
+<PublicationNumber>
+EP2205282A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MARGEL SHLOMO [IL]
+</Name>
+<Name>
+PERLSTEIN BENNY [IL]
+</Name>
+<Name>
+BRODIE CHAYA [US]
+</Name>
+<Name>
+MIKKELSEN TOM [US]
+</Name>
+<Name>
+MARGEL, SHLOMO
+</Name>
+<Name>
+PERLSTEIN, BENNY
+</Name>
+<Name>
+BRODIE, CHAYA
+</Name>
+<Name>
+MIKKELSEN, TOM
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV BAR ILAN [IL]
+</Name>
+<Name>
+FORD HENRY HOSPITAL [US]
+</Name>
+<Name>
+BAR-ILAN UNIVERSITY
+</Name>
+<Name>
+HENRY FORD HOSPITAL
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2205282
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080808087
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-09-24
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008IL01286
+</PriorityNumber>
+<PriorityDate>
+2008-09-24
+</PriorityDate>
+<PriorityNumber>
+US20070960270P
+</PriorityNumber>
+<PriorityDate>
+2007-09-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K41/00
+</Class>
+<Class>
+A61K47/48
+</Class>
+<Class>
+A61K49/18
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K41/00U
+</Class>
+<Class>
+A61K47/48W8
+</Class>
+<Class>
+A61K49/18R2N4
+</Class>
+<Class>
+B82Y5/00
+</Class>
+</NCL>
+<Abstract>
+The invention provides nanoparticles consisting of a polymer which is a metal chelating agent coated with a magnetic metal oxide, wherein at least one active agent is covalently bound to the polymer, said nanoparticles may optionally further comprise at least one active agent physically or covalently bound to the outer surface of the magnetic metal oxide. Pharmaceutical compositions comprising these nanoparticles may be used, inter alia, for detection and treatment of tumors and inflammations.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A nanoparticle consisting of a polymer which is a metal chelating agent coated with a magnetic metal oxide, wherein at least one active agent is covalently bound to the polymer.
+</P>
+<P>
+2. The nanoparticle of claim 1, the size of which is less than 0.3 [mu]m, preferably less than 0.1 [mu]m.
+</P>
+<P>
+3. The nanoparticle of claim 1, wherein said polymer has functional groups capable of binding metal ions selected from amino, hydroxyl, carboxylate, -SH, ether, imine, phosphate or sulfide groups.
+</P>
+<P>
+4. The nanoparticle of claim 3, wherein said polymer is selected from gelatin, polymethylenimine, chitosan or polylysine, preferably gelatin.
+</P>
+<P>
+5. The nanoparticle of claim 1, wherein said magnetic metal oxide is an iron oxide or a ferrite derived from an iron oxide, preferably iron oxide.
+</P>
+<P>
+6. The nanoparticle of claim 5, wherein said iron oxide is selected from magnetite, maghemite, or a mixture thereof, and said ferrite is an oxide of the formula (Fe5M)SO4, wherein M represents a transition metal ion, preferably selected from Zn&amp;lt;2+&amp;gt;, Co&amp;lt;2+&amp;gt;, Mn&amp;lt;2+&amp;gt; Or Ni&amp;lt;2+&amp;gt;.
+</P>
+<P>
+7. The nanoparticle of claim 1, wherein said at least one active agent) is selected from a fluorescent dye, a contrast agent, a peptide, a peptidomimetic, a polypeptide or a small molecule.
+</P>
+<P>
+8. The nanoparticle of claim 7, wherein said fluorescent dye is rhodamine or fluorescein; said peptide or peptidomimetic is a cyclic RGD (cRGD) peptide or peptidomimetic, preferably the cRGD peptide of SEQ ID NO: 1, or an acyclic RGD-containing peptide or peptidomimetic; said polypeptide is a cytokine, an enzyme, an antibody, preferably avastin or remicade, or a hormone, preferably insulin, obestatin or ghrelin; said cytokine is selected from tumor necrosis factor (TNF)-[alpha], TNF-[beta], a TNF-related cytokine selected from TNF-related apoptosis- inducing ligand (TRAIL)5 TALL-I, the TNF-like ligand TLlA, lymphotoxin-beta (LT-[beta]), a CD30 ligand, a CD27 ligand, a CD40 ligand, an OX40 ligand, a 4-1BB ligand, an Apo-1 ligand, or an Apo-3 ligand, preferably TRAIL, or an interleukin (IL), preferably IL having an anti- tumor activity, more preferably IL- 12, IL-23 or IL-27; and said small molecule is selected from an antifolate drug such as methotrexate, an antibiotic, an amine-derived hormone, a lipid- or phospholipid- derived hormone, an anti-inflammatory agent, or an anthracycline chemotherapeutic agent selected from daunorubicin, doxorubicin, epirubicin, idarubicin or mitoxantrone, preferably doxorubicin.
+</P>
+<P>
+9. The nanoparticle of claim 8, wherein said polymer is gelatin, said magnetic metal oxide is iron oxide, said at least one active agent is selected from (i) a fluorescent dye, preferably rhodamine or fluorescein; (ii) a TNF or a TNF-related cytokine, preferably TRAIL; (iii) an anthracycline chemotherapeutic agent, preferably doxorubicin: (iv) an antifolate drug, preferably methotrexate; or (v) a combination thereof.
+</P>
+<P>
+10. The nanoparticle of any one of claims 1 to 9, further comprising at least one active agent physically or covalently bound to the outer surface of the magnetic metal oxide, wherein said at least one active agent is the same or different from the at least one active agent covalently bound to the polymer.
+</P>
+<P>
+11. The nanoparticle of claim 10, wherein said at least one active agent is covalently bound to the outer surface of the magnetic metal oxide via a molecule containing a functional group attached to the magnetic metal oxide surface.
+</P>
+<P>
+12. The nanoparticle of claim 11, wherein said molecule containing a functional group comprises a polymer selected from polysaccharides, preferably chitosan, proteins, preferably gelatin or albumin, peptides, or polyamines. 13. The nanoparticle of claim 11, wherein said at least one active agent is covalently bound to the outer surface of the magnetic metal oxide via an activating ligand attached to the magnetic metal oxide surface.
+</P>
+<P>
+14. The nanoparticle of claim 13, wherein said activating ligand is selected from acryloyl chloride, divinyl sulfone (DVS), dicarbonyl imidazole, ethylene glycolbis(sulfosuccinimidylsuccinate) or m-maleimidobenzoic acid N- hydroxysulfosuccinimide ester, preferably DVS.
+</P>
+<P>
+15. The nanoparticle of claim 10, wherein said at least one active agent bound to the outer surface of the magnetic metal oxide is selected from a peptide, a peptidomimetic, a polypeptide or a small molecule.
+</P>
+<P>
+16. The nanoparticle of claim 15, wherein said peptide or peptidomimetic is a cyclic RGD (cRGD) peptide or peptidomimetic, preferably the cRGD peptide of SEQ ID NO: 1, or an acyclic RGD-containing peptide or peptidomimetic; said polypeptide is a cytokine, an enzyme, an antibody, preferably avastin or remicade, or a hormone, preferably insulin, obestatin or ghrelin; said cytokine is selected from tumor necrosis factor (TNF)-[alpha], TNF-[beta], a TNF-related cytokine selected from TNF- related apoptosis-inducing ligand (TRAIL)5 TALL-I, the TNF-like ligand TLlA, lymphotoxin-beta (LT-[beta]), a CD30 ligand, a CD27 ligand, a CD40 ligand, an OX40 ligand, a 4- IBB ligand, an Apo-1 ligand, or an Apo-3 ligand, preferably TRAIL, or an interleukin (IL), preferably IL having an anti-tumor activity, more preferably IL- 12, IL-23 or IL-27; and said small molecule is selected from an antifolate drug such as methotrexate, an antibiotic, an amine-derived hormone, a lipid- or phospholipid- derived hormone, an anti-inflammatory agent, or an anthracycline chemotherapeutic agent selected from daunombicin, doxorubicin, epirubicin, idarubicin or mitoxantrone, preferably doxorubicin.
+</P>
+<P>
+17. The nanoparticle of claim 10, wherein said polymer is gelatin, said magnetic metal oxide is iron oxide, said at least one active agent covalently bound to the polymer is selected from (i) a fluorescent dye, preferably rhodamine or fluorescein; (ii) a TNF or a TNF-related cytokine, preferably TRAIL; (iii) an anthracycline chemotherapeutic agent, preferably doxorubicin: (iv) an antifolate drug, preferably methotrexate; or (v) a combination thereof, and said at least one active agent bound to the outer surface of the magnetic metal oxide is selected from: (vi) a TNF or a TNF-related cytokine, preferably TRAIL; (vii) a cRGD peptide, preferably the cRGD peptide of SEQ ID NO: 1; (viii) an interleukin having an anti-tumor activity, preferably IL- 12; or (ix) a combination thereof.
+</P>
+<P>
+18. The nanoparticle of claim 17, wherein said at least one active agent covalently bound to the polymer is a fluorescent dye or TRAIL, and said at least one active agent bound to the outer surface of the magnetic metal oxide is TRAIL.
+</P>
+<P>
+19. A pharmaceutical composition comprising nanoparticles according to any one of claims 1 to 18 and a pharmaceutically acceptable carrier.
+</P>
+<P>
+20. The pharmaceutical composition of claim 19, for use in diagnostics, drug stabilization, drug delivery or controlled release of drugs.
+</P>
+<P>
+21. The pharmaceutical composition of claim 20 for use in tumor detection comprising a fluorescent dye covalently bound to the polymer.
+</P>
+<P>
+22. The pharmaceutical composition of claim 20 for use in diagnostics comprising a contrast agent covalently bound to the polymer for X-ray imaging or magnetic resonance imaging (MRI) and optionally comprising a molecule capable of binding a tumor specific cellular marker bound to the outer surface of the magnetic metal oxide.
+</P>
+<P>
+23. The pharmaceutical composition of claim 19, for use in reducing or inhibiting the growth of a tumor, or for reducing or inhibiting the growth of tumor cells remaining at a site in a patient from which a tumor has been surgically removed, wherein said at least one active agent covalently bound to the polymer and said at least one active agent bound to the outer surface of the magnetic metal oxide, the same or different, are selected from TNF-[alpha], TNF-[beta], a TNF-related cytokine selected from TNF-related apoptosis-inducing ligand (TRAIL), TALL-I, the TNF-like ligand TLlA, lymphotoxin-beta (LT-[beta]), a CD30 ligand, a CD27 ligand, a CD40 ligand, an OX40 ligand, a 4- IBB ligand, an Apo-1 ligand, or an Apo-3 ligand, an interleukin having an anti-tumor activity selected from IL- 12, IL- 23 or IL-27, a cRGD peptide, preferably the cRGD peptide of SEQ ID NO: 1, a cRGD peptidomimetic, an RGD containing peptide or peptidomimetic, an antibody, preferably avastin, an anthracycline chemotherapeutic agent selected from daunorubicin, doxorubicin, epirubicin, idarubicin or mitoxantrone, an antifolate drug, or a combination thereof.
+</P>
+<P>
+24. The pharmaceutical composition of claim 23, wherein said at least one active agent covalently bound to the polymer is selected from TRAIL, doxorubicin, methotrexate or a combination thereof, and said at least one active agent bound to the outer surface of the magnetic metal oxide is selected from TRAIL, the cRGD peptide of SEQ ID NO: 1, IL- 12, or a combination thereof.
+</P>
+<P>
+25. The pharmaceutical composition of claim 19, for use in reducing or inhibiting the growth of a tumor and monitoring the size thereof, wherein said at least one active agent covalently bound to the polymer is a fluorescent dye or a contrast agent, and said at least one active agent bound to the outer surface of the magnetic metal oxide is selected from TNF-[alpha], TNF-[beta], a TNF-related cytokine selected from TNF-related apoptosis-inducing ligand (TRAIL), TALL- I, the TNF- like ligand TLlA, lymphotoxin-beta (LT-[beta]), a CD30 ligand, a CD27 ligand, a CD40 ligand, an OX40 ligand, a 4- IBB ligand, an Apo-1 ligand, or an Apo-3 ligand, an interleukin having an anti-tumor activity selected from IL- 12, IL-23 or IL-27, a cRGD peptide, preferably the cRGD peptide of SEQ ID NO: 1, a cRGD peptidomimetic, an RGD containing peptide or peptidomimetic, an antibody, preferably avastin, an anthracycline chemotherapeutic agent selected from daunorubicin, doxorubicin, epirubicin, idarubicin or mitoxantrone, an antifolate drug, or a combination thereof. 26. The pharmaceutical composition of claim 25, wherein said at least one active agent bound to the outer surface of the magnetic metal oxide is selected from TRAIL, the cRGD peptide of SEQ ID NO: 1, IL- 12, or a combination thereof.
+</P>
+<P>
+27. The pharmaceutical composition of any one of claims 21 to 26, wherein said tumor is selected from glioma, brain tumors, colon cancer, lung cancer, breast cancer, prostate cancer, bladder cancer, kidney cancer, ovarian cancer, melanoma, leukemia or multiple myeloma, preferably glioma.
+</P>
+<P>
+28. The pharmaceutical composition of claim 20, for use in detection of a site of inflammation and treatment of said inflammation in an individual, wherein said magnetic metal oxide is iron oxide, said at least one active agent covalently bound to the polymer is a fluorescent dye or a contrast agent and said at least one active agent bound to the outer surface of the magnetic metal oxide is an anti- inflammatory agent.
+</P>
+<P>
+29. The pharmaceutical composition of claim 19, for use in treatment of type 2 diabetes wherein said at least one active agent covalently bound to the polymer and said at least one active agent bound to the outer surface of the magnetic metal oxide, each independently, is insulin.
+</P>
+<P>
+30. The pharmaceutical composition of claim 19, for use in treatment of obesity wherein said at least one active agent covalently bound to the polymer and said at least one active agent bound to the outer surface of the magnetic metal oxide, each independently, is obestatin.
+</P>
+<P>
+31. The pharmaceutical composition of claim 19, for use in treatment of anorexia wherein said at least one active agent covalently bound to the polymer and said at least one active agent bound to the outer surface of the magnetic metal oxide, each independently, is ghrelin.
+</P>
+<P>
+32. A method for detection of a tumor comprising administering to an individual in need a pharmaceutical composition of claim 21 or 22. 33. A method for reducing or inhibiting the growth of a tumor or for reducing or inhibiting the growth of tumor cells left at a site in a patient from which a tumor has been surgically removed, comprising administering to said patient a pharmaceutical composition according to claim 23 or 24.
+</P>
+<P>
+34. A method for reducing or inhibiting the growth of a tumor and monitoring the size thereof in a patient comprising administering to said patient a pharmaceutical composition according to claim 25 or 26.
+</P>
+<P>
+35. The method of claim 33 or 34, in combination with radiotherapy.
+</P>
+<P>
+36. A method for evaluating responsiveness of tumor cells to treatment with a candidate compound, which comprises contacting cells from a biopsy taken from said tumor with nanoparticles according to claim 10 and monitoring the viability of the tumor cells, wherein the active agent bound to the outer surface of the magnetic metal oxide in the nanoparticles is the candidate compound to be evaluated and is selected from TNF-[alpha], TNF-[beta], a TNF-related cytokine selected from TNF-related apoptosis-inducing ligand (TRAIL), TALL-I, the TNF-like ligand TLlA, lymphotoxin-beta (LT-[beta]), a CD30 ligand, a CD27 ligand, a CD40 ligand, an OX40 ligand, a 4- IBB ligand, an Apo-1 ligand, or an Apo-3 ligand, an interleukin having an anti-tumor activity selected from IL- 12, IL-23 or IL-27, a cRGD peptide, preferably the cRGD peptide of SEQ ID NO: 1, a cRGD peptidomimetic, an RGD containing peptide or peptidomimetic, an antibody, preferably avastin, an anthracycline chemotherapeutic agent selected from daunorubicin, doxorubicin, epirubicin, idambicin or mitoxantrone, an antifolate drug, or a combination thereof, and the nanoparticles comprise a fluorescent dye or a contrast agent covalently bound to the polymer.
+</P>
+<P>
+37. A method for X-ray imaging or magnetic resonance imaging (MRI) comprising administering to an individual in need a pharmaceutical composition according to claim 19, wherein the nanoparticles comprise a contrast agent covalently bound to the polymer. 38. A method for detection of a site of inflammation and treatment of said inflammation comprising administering to an individual in need a pharmaceutical composition according to claim 28.
+</P>
+<P>
+39. A method for treatment of type 2 diabetes comprising administering to an individual in need a pharmaceutical composition according to claim 29.
+</P>
+<P>
+40. A method for treatment of obesity comprising administering to an individual in need a pharmaceutical composition according to claim 30.
+</P>
+<P>
+41. A method for treatment of anorexia comprising administering to an individual in need a pharmaceutical composition according to claim 31.
+</P>
+<P>
+42. A nanoparticle consisting of a polymer which is a metal chelating agent coated with a magnetic metal oxide, wherein at least one agent having an anti-tumor activity selected from a peptide, a peptidomimetic, a polypeptide or a small molecule is bound to the outer surface of the magnetic metal oxide.
+</P>
+<P>
+43. The nanoparticle of claim 42, the size of which is less than 300 run, preferably less than 100 run.
+</P>
+<P>
+44. The nanoparticle of claim 42, wherein said polymer has functional groups capable of binding metal ions selected from amino, hydroxyl, carboxylate, -SH, ether, imine, phosphate or sulfide groups.
+</P>
+<P>
+45. The nanoparticle of claim 42, wherein said polymer is selected from gelatin, polymethylenimine, chitosan or polylysine, preferably gelatin.
+</P>
+<P>
+46. The nanoparticle of claim 42, wherein said magnetic metal oxide is an iron oxide or a ferrite derived from an iron oxide, preferably iron oxide.
+</P>
+<P>
+47. The nanoparticle of claim 46, wherein said iron oxide is selected from magnetite, maghemite, or a mixture thereof, and said ferrite is an oxide of the formula (Fe9M)SO4, wherein M represents a transition metal ion, preferably selected from Zn&amp;lt;2+&amp;gt;, Co&amp;lt;2+&amp;gt;, Mn&amp;lt;2+&amp;gt; or Ni&amp;lt;2+&amp;gt;.
+</P>
+<P>
+48. The nanoparticle of claim 42, wherein said at least one agent is covalently bound to the outer surface of the magnetic metal oxide.
+</P>
+<P>
+49. The nanoparticle of claim 42, wherein said at least one agent is physically bound to the outer surface of the magnetic metal oxide.
+</P>
+<P>
+50. The nanoparticle of claim 48, wherein said at least one agent is bound via a molecule containing a functional group attached to the magnetic metal oxide surface.
+</P>
+<P>
+51. The nanoparticle of claim 50, wherein said molecule containing a functional group comprises a polymer selected from polysaccharides, preferably chitosan, proteins, preferably gelatin or albumin, peptides or poly amines.
+</P>
+<P>
+52. The nanoparticle of claim 48, wherein said at least one active agent is bound via an activating ligand attached to the magnetic metal oxide surface.
+</P>
+<P>
+53. The nanoparticle of claim 52, wherein said activating ligand is selected from acryloyl chloride, divinyl sulfone (DVS), dicarbonyl imidazole, ethylene glycolbis(sulfosuccinimidylsuccinate) or m-maleimidobenzoic acid N- hydroxysulfosuccinimide ester, preferably DVS.
+</P>
+<P>
+54. The nanoparticle of claim 42, wherein said peptide or peptidomimetic is a cRGD peptide or peptidomimetic, preferably the cRGD peptide of SEQ ID NO: I5 or an acyclic RGD-containing peptide or peptidomimetic; said polypeptide is a cytokine selected from TNF-[alpha], TNF-[beta], a TNF-related cytokine selected from TNF- related apoptosis-inducing ligand (TRAIL), TNF-[alpha], TNF-[beta], TALL-I, the TNF-like ligand TLlA, lymphotoxin-beta (LT-[beta]), a CD30 ligand, a CD27 ligand, a CD40 ligand, an OX40 ligand, a 4- IBB ligand, an Apo-1 ligand, or an Apo-3 ligand, preferably TRAIL, an interleukin (IL), preferably IL- 12, IL-23 or IL-27, or an antibody, preferably avastin; said small molecule is an antifolate drug selected from methotrexate or an anthracycline chemotherapeutic agent selected from daunorubicin, doxorubicin, epimbicin, idarubicin and mitoxantrone, preferably doxorubicin; or a combination thereof.
+</P>
+<P>
+55. The nanoparticle of claim 54, wherein said polymer is gelatin, said magnetic metal oxide is iron oxide, and said at least one agent is a TNF or a TNF- related cytokine, an anthracycline chemotherapeutic agent, an antifolate drug or a combination thereof.
+</P>
+<P>
+56. The nanoparticle of claim 55, wherein said at least one agent is TRAIL.
+</P>
+<P>
+57. A pharmaceutical composition comprising nanoparticles according to any one of claims 42 to 56 and a pharmaceutically acceptable carrier, for use in reducing or inhibiting the growth of a tumor.
+</P>
+<P>
+58. The pharmaceutical composition of claim 57, wherein the at least one agent is TRAIL, the cRGD peptide of SEQ ID NO: 1, IL- 12, doxorubicin, methotrexate or a combination thereof.
+</P>
+<P>
+59. The pharmaceutical composition of claim 57 or 58, wherein said tumor is selected from glioma, brain tumors, colon cancer, lung cancer, breast cancer, prostate cancer, bladder cancer, kidney cancer, ovarioan cancer, melanoma, leukemia or multiple myeloma, preferably glioma.
+</P>
+<P>
+60. The nanoparticles according to any one of claims 42 to 56, for use in reducing or inhibiting the growth of a tumor or for reducing or inhibiting the growth of tumor cells left at a site in a patient from which a tumor has been surgically removed.
+</P>
+<P>
+61. The nanoparticles according to claim 60, for use in combination with radiotherapy. 62. A method for reducing or inhibiting the growth of a tumor or for reducing or inhibiting the growth of tumor cells left at a site in a patient from which a tumor has been surgically removed, comprising administering to said patient a pharmaceutical composition according to claim 57 or 58.
+</P>
+<P>
+63. The method of claim 62, in combination with radiotherapy
+</P>
+<P>
+64. A method for evaluating responsiveness of tumor cells to treatment with a candidate compound, which comprises contacting cells from a biopsy taken from said tumor with nanoparticles according to claim 42 and monitoring the viability of the tumor cells, wherein the antitumor agent bound to the outer surface of the magnetic metal oxide of the nanoparticles is the candidate compound to be evaluated.
+</P>
+</Claims>
+<Also_published_as>
+WO2009040811A2;WO2009040811A3;US2012141380A1;US2009110644A1;RU2010116167A;JP2011207887A;JP2010540513A;EP2399610A2
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+REFLECTIVE MASK BLANK FOR EUV LITHOGRAHY AND SUBSTRATE WITH FUNCTIONAL FILM FOR THE SAME
+</Title>
+<PublicationNumber>
+EP2024789A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HAYASHI KAZUYUKI [JP]
+</Name>
+<Name>
+KADOWAKI KAZUO [JP]
+</Name>
+<Name>
+SUGIYAMA TAKASHI [JP]
+</Name>
+<Name>
+MIKAMI MASAKI [JP]
+</Name>
+<Name>
+HAYASHI, KAZUYUKI
+</Name>
+<Name>
+KADOWAKI, KAZUO
+</Name>
+<Name>
+SUGIYAMA, TAKASHI
+</Name>
+<Name>
+MIKAMI, MASAKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASAHI GLASS CO LTD [JP]
+</Name>
+<Name>
+ASAHI GLASS COMPANY, LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2024789
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070745320
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP62064
+</PriorityNumber>
+<PriorityDate>
+2007-06-08
+</PriorityDate>
+<PriorityNumber>
+JP20060159414
+</PriorityNumber>
+<PriorityDate>
+2006-06-08
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F1/14
+</Class>
+<Class>
+G21K1/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F1/22
+</Class>
+<Class>
+G03F1/24
+</Class>
+<Class>
+G21K1/06B
+</Class>
+</NCL>
+<Abstract>
+To provide an EUV mask blank of which the decrease in the reflectance during EUV exposure is suppressed, and a substrate with a functional film to be used for production of such an EUV mask blank. A substrate with a reflective layer for EUV lithography, comprising a substrate, and a reflective layer for reflecting EUV light and a protective layer for protecting the reflective layer formed in this order on the substrate, wherein the protective layer contains ruthenium (Ru) and at least one element selected from the group consisting of boron (B) and zirconium (Zr);  and in the protective layer, the Ru content is from 70 at% to 95 at% and the total content of B and Zr is from 5 at% to 30 at%.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A substrate with a reflective layer for EUV lithography, comprising a substrate, and a reflective layer for reflecting EUV light and a protective layer for protecting the reflective layer formed in this order on the substrate, wherein the protective layer contains ruthenium (Ru) and at least one element selected from the group consisting of boron (B) and zirconium (Zr) ; and in the protective layer, the Ru content is from 70 at% to 95 at% and the total content of B and Zr is from 5 at% to 30 at%.
+</P>
+<P>
+2. A substrate with a reflective layer for EUV lithography, comprising a substrate, and a reflective layer for reflecting EUV light and a protective layer for protecting the reflective layer formed in this order on the substrate, wherein the protective layer contains ruthenium (Ru) and at least one element selected from the group consisting of boron (B) and zirconium (Zr) ; the protective layer is a gradient composition film wherein the total content of B and Zr in the protective layer changes along the thickness direction of the protective layer so that the total content of B and Zr is high on the reflective layer side and the total content of B and Zr is low on the surface side; the total content of B and Zr is from 5 at% to 30 at% on the reflective layer side; and the total content of B and Zr is from 0 at% to 20 at% on the surface side.
+</P>
+<P>
+3. The substrate with a reflective layer for EUV lithography according to Claim 1 or 2 , wherein the protective layer comprises any one of the following solid solutions : a solid solution of Ru and B, a solid solution of Ru and Zr, and a solid solution of Ru, B and Zr.
+</P>
+<P>
+4. The substrate with a reflective layer for EUV lithography according to any one of Claims 1 to 3 , wherein the protective layer is in an amorphous state.
+</P>
+<P>
+5. A substrate with a reflective layer for EUV lithography, comprising a substrate, and a reflective layer for reflecting EUV light and a protective layer for protecting the reflective layer formed in this order on the substrate, wherein the protective layer contains ruthenium (Ru) and at least one element selected from the group consisting of boron (B) and zirconium (Zr) ; in the protective layer, the Ru content is from 70 at% to 95 at% and the total content of B and Zr is from 5 at% to 30 at%; and the protective layer has an amorphous structure.
+</P>
+<P>
+6. A substrate with a reflective layer for EUV lithography, comprising a substrate, and a reflective layer for reflecting EUV light and a protective layer for protecting the reflective layer formed in this order on the substrate, wherein the protective layer contains ruthenium (Ru) and at least one element selected from the group consisting of boron (B) and zirconium (Zr) ; the protective layer is a gradient composition film wherein the total content of B and Zr in the protective layer changes along the thickness direction of the protective layer so that the total content of B and Zr is high on the reflective layer side and the total content of B and Zr is low on the surface side; the total content of B and Zr is from 5 at% to 30 at% on the reflective layer side; the total content of B and Zr is from 0 at% to 20 at% on the surface side; and the protective layer has an amorphous structure .
+</P>
+<P>
+7. The substrate with a reflective layer for EUV lithography according to Claim 5 or 6 , wherein the protective layer comprises any one of the following solid solutions : a solid solution of Ru and B, a solid solution of Ru and Zr, and a solid solution of Ru, B and Zr.
+</P>
+<P>
+8. The substrate with a reflective layer for EUV lithography according to any one of Claims 3 to 7, wherein the protective layer contains Ru and B, and the protective layer keeps being in an amorphous state up to 200[deg.]C in vacuum (at most 1 Pa) .
+</P>
+<P>
+9. The substrate with a reflective layer for EUV lithography according to any one of Claims 3 to 7 , wherein the protective layer contains Ru and Zr, and the protective layer keeps being in an amorphous state up to 400[deg.]C in vacuum (at most 1 Pa) .
+</P>
+<P>
+10. The substrate with a reflective layer for EUV lithography according to any one of Claims 1 to 9, wherein the surface roughness on the surface of the protective layer is at most 0.5 nm rms . 11. The substrate with a reflective layer for EUV lithography according to any one of Claims 1 to 10, wherein the protective layer has a thickness of from 1 to
+</P>
+<P>
+10 nm.
+</P>
+<P>
+12. A reflective mask blank for EUV lithography, comprising the substrate with a reflective layer for EUV lithography as defined in any one of Claims 1 to 11, and an absorber layer formed on the protective layer of the substrate.
+</P>
+<P>
+13. The reflective mask blank for EUV lithography according to Claim 12, wherein the absorber layer is made of a material containing tantalum (Ta) as the main component .
+</P>
+<P>
+14. The reflective mask blank for EUV lithography according to Claim 12 or 13, wherein the etching selectivity of the absorber layer to the protective layer is at least 10 in the case of plasma etching.
+</P>
+<P>
+15. The reflective mask blank for EUV lithography according to any one of Claims 12 to 14, wherein a low reflective layer to inspection light to be used for inspection of a mask pattern is formed by a material containing tantalum (Ta) as the main component on the absorber layer.
+</P>
+<P>
+16. The reflective mask blank for EUV lithography- according to Claim 15, wherein the contrast is at least 30% as between the reflected light on the surface of the protective layer and the reflected light on the surface of the low reflective layer at a wavelength of light to be used for inspection of a pattern to be formed on the absorber layer.
+</P>
+<P>
+17. A reflective mask for EUV lithography, which is prepared by forming a pattern on the reflective mask blank for EUV lithography as defined in any one of Claims 12 to 16.
+</P>
+</Claims>
+<Also_published_as>
+WO2007142365A1;US2008318140A1;US7833682B2;TW200804970A;KR20090016664A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MULTILAYER REFLECTING MIRROR, MULTILAYER REFLECTING MIRROR MANUFACTURING METHOD, OPTICAL SYSTEM, EXPOSURE APPARATUS AND DEVICE MANUFACTURING METHOD
+</Title>
+<PublicationNumber>
+EP1947682A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SHIRAISHI MASAYUKI [JP]
+</Name>
+<Name>
+SHIRAISHI, MASAYUKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NIPPON KOGAKU KK [JP]
+</Name>
+<Name>
+NIKON CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1947682
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060811216
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP319876
+</PriorityNumber>
+<PriorityDate>
+2006-10-04
+</PriorityDate>
+<PriorityNumber>
+JP20050295856
+</PriorityNumber>
+<PriorityDate>
+2005-10-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B5/08
+</Class>
+<Class>
+G03F7/20
+</Class>
+<Class>
+G21K1/06
+</Class>
+<Class>
+H01L21/027
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G02B5/08M2
+</Class>
+<Class>
+G02B5/08V
+</Class>
+<Class>
+G03F7/70F20
+</Class>
+<Class>
+G03F7/70L6B
+</Class>
+<Class>
+G03F7/70P10B
+</Class>
+<Class>
+G03F7/70P8B
+</Class>
+<Class>
+G21K1/06B
+</Class>
+</NCL>
+<Abstract>
+A multilayer-film reflective mirror, including: a mirror substrate;  a multilayer film provided on a surface of the mirror substrate, having alternating layers of Mo including film and Si including film, the multilayer film in a vicinity of a surface thereof being removed so as to have a thickness distribution;  an intermediate-layer of Si or of a material having Si, provided on the surface of the multilayer film, the thickness of the intermediate-layer being substantially same as the removal thickness of the multilayer film, the surface of the intermediate-layer being flat;  and a capping layer having a substantially uniform thickness provided on a surface of the intermediate-layer.
+</Abstract>
+<Claims>
+<P>
+1. A multilayer-film reflective mirror, comprising:
+</P>
+<P>
+a mirror substrate;
+</P>
+<P>
+a multilayer film provided on a surface of the mirror substrate, having alternating layers of a first material and a second material, at least one of the layers of the first material in a vicinity of a surface of the multilayer film having a thickness distribution;
+</P>
+<P>
+an intermediate-layer of Si or of a material having Si provided on the surface of the multilayer film, a surface of the intermediate-layer provided substantially at a position corresponding to a surface of the second material of the multilayer film; and
+</P>
+<P>
+a capping layer having a substantially uniform thickness provided on a surface of the intermediate-layer.
+</P>
+<P>
+2. The multilayer-film reflective mirror of claim 1, wherein the multilayer film is reflective to EUV light having a wavelength in a range of 11 nm to 14 nm.
+</P>
+<P>
+3. The multilayer-film reflective mirror of claim 1, wherein the first material comprises Mo and the second material comprises Si.
+</P>
+<P>
+4. The multilayer-film reflective mirror of claim 1, wherein the intermediate-layer comprises a material selected from the group consisting of Si, SiO2, SiC, or combinations thereof.
+</P>
+<P>
+5. The multilayer-film reflective mirror of claim 4, wherein the intermediate-layer comprises multiple layers each comprising a different material selected from the group.
+</P>
+<P>
+6. The multilayer-film reflective mirror of claim 1, wherein the intermediate-layer has a substantially flat surface.
+</P>
+<P>
+7. The multilayer-film reflective mirror of claim 1, wherein the capping layer comprises a material selected from the group consisting of Ru, Ru alloys, Rh, Rh alloys, Nb, Nb alloys, Pt, Pt alloys, Mo, Mo alloys, TiO2 SiO2 ZrO2 MoSi2, and SiC, and combinations thereof.
+</P>
+<P>
+8. The multilayer-film reflective mirror of claim 7, wherein the capping layer comprises multiple layers each comprising a different material selected from the group.
+</P>
+<P>
+9. The multilayer-film reflective mirror of claim 1,
+</P>
+<P>
+wherein the layer of the first material in the vicinity of the surface of the multilayer film having a thickness distribution is formed by removing the multilayer film in the vicinity of the surface thereof, and
+</P>
+<P>
+wherein the thickness of the intermediate-layer is substantially the same as the removal thickness of the multilayer film.
+</P>
+<P>
+10. The multilayer-film reflective mirror of claim 9,
+</P>
+<P>
+wherein, when the thickness of the intermediate-layer is denoted as d1 (nm), and the thickness of the multilayer film is denoted as d2 (nm), a relationship d2 - 0.4 d1 d2 - 1.2 is fulfilled.
+</P>
+<P>
+11. A method of manufacturing multilayer-film reflective mirror comprising:
+</P>
+<P>
+a multilayer film formation step, in which a multilayer film is formed on a surface of a mirror substrate, so as to have alternating layers of a first material and a second material;
+</P>
+<P>
+a multilayer film removal step, in which a surface of the multilayer film is removed, so as to have a distribution of a removal amount across the surface of the multilayer film;
+</P>
+<P>
+an intermediate-layer film formation step, in which an intermediate-layer of Si, or of a material including Si is formed on the surface of the multilayer film in a region in which the multilayer film has been removed in the multilayer film removal step, so as to have a thickness substantially same as the removal thickness of the multilayer film and to have an even surface; and
+</P>
+<P>
+a capping layer film formation step, in which a capping layer is formed on the surface of the intennediate-layer, so as to have a substantially uniform thickness.
+</P>
+<P>
+12. The method of manufacturing multilayer-film reflective mirror of claim 11, wherein the intermediate-layer film formation step comprises:
+</P>
+<P>
+a step in which the intermediate-layer of Si, or of a material including Si is deposited, so as to have a predetermined thickness; and
+</P>
+<P>
+a step in which the intermediate-layer is flattened so that the surface of the intennediate-layer is situated substantially the same as a surface of the second material.
+</P>
+<P>
+13. The method of manufacturing multilayer-film reflective mirror of claim 12,
+</P>
+<P>
+wherein, when the thickness of the intermediate-layer is denoted as d1 (nm), and the thickness of the multilayer film is denoted as d2 (nm), a relationship d2 - 0.4 d1 d2-1.2 is fulfilled.
+</P>
+<P>
+14. An optical system, comprising a multilayer-film reflective mirror as recited in any one of claims 1 to 10.
+</P>
+<P>
+15. An exposure system, comprising an optical system including the multilayer-film reflective mirror as recited in any one of claims 1 to 10.
+</P>
+<P>
+16. An exposure system, comprising an optical system including a multilayer-film reflective mirror manufactured by the method as recited in any one of claims 11 to 13.
+</P>
+<P>
+17. A method of manufacturing a microdevice, comprising:
+</P>
+<P>
+an exposure step in which an image of a pattern is exposed on an object using the exposure system as recited in any one of claims 15 or 16; and
+</P>
+<P>
+a step in which the pattern exposed in the exposure step on the object is developed.
+</P>
+</Claims>
+<Also_published_as>
+EP1947682A4;EP1947682B1;KR20080056763A;WO2007043414A1;CN101278376A;CN100559551C
+</Also_published_as>
+</BiblioData>

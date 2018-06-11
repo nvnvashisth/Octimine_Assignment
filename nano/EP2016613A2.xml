@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Nanoimprint Lithography System
+</Title>
+<PublicationNumber>
+EP2016613A2
+</PublicationNumber>
+<Inventor>
+<Name>
+RESNICK DOUBLAS J [US]
+</Name>
+<Name>
+MAISSL MARIO J [US]
+</Name>
+<Name>
+CHOI BYUNG-JIN [US]
+</Name>
+<Name>
+SREENIVASAN SIDIGATA V [US]
+</Name>
+<Name>
+RESNICK, DOUBLAS, J
+</Name>
+<Name>
+MAISSL, MARIO, J
+</Name>
+<Name>
+CHOI, BYUNG-JIN
+</Name>
+<Name>
+SREENIVASAN, SIDIGATA, V
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MOLECULAR IMPRINTS INC [US]
+</Name>
+<Name>
+MOLECULAR IMPRINTS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2016613
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070734513
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IB01202
+</PriorityNumber>
+<PriorityDate>
+2007-05-09
+</PriorityDate>
+<PriorityNumber>
+US20060799496P
+</PriorityNumber>
+<PriorityDate>
+2006-05-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+H01L21/67
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+H01L21/67S2M
+</Class>
+<Class>
+H01L21/67S2V
+</Class>
+</NCL>
+<Abstract>
+A nanoimprint lithography template including, inter alia, a body having first and second opposed sides with a first surface disposed on the first side, the second side having a recess disposed therein, the body having first and second regions with the second region surrounding the first region and the recess in superimposition with the first region, with a portion of the first surface in superimposition with the first region being spaced-apart from the second side a first distance and a portion of the first surface in superimposition with the second region being spaced-apart from the second side a second distance, with the second distance being greater than the first distance;  and a mold disposed on the first side of the body in superimposition a portion of the first region.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A nanoimprint lithography template comprising: a body having first and second opposed sides with a first surface disposed on said first side, said second side having a recess disposed therein, said body having first and second regions with said second region surrounding said first region and said recess in superimposi- tion with said first region, with a portion of said first surface in superimposition with said first region being spaced-apart from said second side a first distance and a portion of said first surface in superimposition with said second region being spaced-apart from said second side a second distance, with said second distance being greater than said first distance; and a mold disposed on said first side of said body in superimposition with a portion of said first region.
+</P>
+<P>
+2. The template as recited in claim 1 wherein said recess has a geometric shape selected from a group of geometric shapes consisting of square, rectangular, circular, and elliptical.
+</P>
+<P>
+3. The template as recited in claim 1 wherein said recess comprises a nadir surface, with said portion of said first surface in superimposition with said first region being spaced-apart from said nadir surface a first distance.
+</P>
+<P>
+4. The template as recited in claim 1 wherein said second distance has a magnitude of approximately 0.25 inches.
+</P>
+<P>
+5. The template as recited in claim 1 wherein said first distance has a magnitude of approximately 700 microns.
+</P>
+<P>
+6. The template as recited in claim 1 wherein said first distance has a magnitude in a range of 1 micron to 0.25 inches.
+</P>
+<P>
+7. The template as recited in claim 1 wherein said mold comprises a plurality of protrusions and recessions.
+</P>
+<P>
+8. A nanoimprint lithography template comprising: a body having first and second opposed sides with a first surface disposed on said first side being substantially planar, said body having first and second regions with said second region surrounding said first region, with a portion of said body in superimposition with said first region having a first thickness and a portion of said body in superimposition with said second region having a second thickness, with said second thickness being greater than said first thickness; and a mold disposed on said first side in superimposition with a portion of said first region.
+</P>
+<P>
+9. The template as recited in claim 8 wherein said second side of said body has a recess disposed therein, with said recess being in superimposition with said first region of said body.
+</P>
+<P>
+10. The template as recited in claim 9 wherein said recess has a geometric shape selected from a group of geometric shapes consisting of square, rectangular, circular, and elliptical.
+</P>
+<P>
+11. The template as recited in claim 8 wherein said second thickness has a magnitude of approximately 0.25 inches.
+</P>
+<P>
+12. The template as recited in claim 8 wherein said first distance has a magnitude of approximately 700 microns.
+</P>
+<P>
+13. The template as recited in claim 8 wherein said first distance has a magnitude in a range of 1 micron to 0.25 inches.
+</P>
+<P>
+14. The template as recited in claim 8 wherein said mold comprises a plurality of protrusions and recessions.
+</P>
+<P>
+15. A nanoimprint lithography system comprising: a body having first and second opposed sides with a first surface disposed on said first side, said second side having a recess disposed therein, said body having first and second regions with said second region surrounding said first region and said recess in superimposition with said first region, with a portion of said first surface in superimposition with said first region being spaced-apart from said second side a first distance and a portion of said first sur-face in superimposition with said second region being spaced-apart from said second side a second distance, with said second distance being greater than said first distance, said body further having a mold disposed on said first side in superimposition with a portion of said first region; and an actuator coupled to said body to apply a force to said body to bow said first region of said body away from said second side of said body.
+</P>
+<P>
+16. The system as recited in claim 15 further including a plurality of actuators.
+</P>
+<P>
+17. The system as recited in claim 15 wherein said force of said actuator may vary dimensions of said body.
+</P>
+<P>
+18. The system as recited in claim 15 wherein said recess has a geometric shape selected from a group of geometric shapes consisting of square, rectangular, circular, and elliptical.
+</P>
+<P>
+19. The system as recited in claim 15 wherein said actuator is coupled to a periphery of said body.
+</P>
+<P>
+20. The system as recited in claim 15 wherein said recess comprises a nadir surface spaced-apart from said first side and said body comprises a boundary surface defined between said nadir surface and said second side, with said actuator being coupled to said boundary surface.
+</P>
+</Claims>
+<Also_published_as>
+EP2016613A4;WO2007132320A2;WO2007132320A3;US2011171340A1;US2010291257A1;US2008160129A1;TW200801819A;KR20090017469A;JP2009536591A
+</Also_published_as>
+</BiblioData>

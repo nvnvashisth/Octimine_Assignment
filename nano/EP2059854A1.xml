@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LIQUID SUPRAMOLECULAR NANOSTAMPING (LISUNS)
+</Title>
+<PublicationNumber>
+EP2059854A1
+</PublicationNumber>
+<Inventor>
+<Name>
+STELLACCI FRANCESCO [US]
+</Name>
+<Name>
+YU ARUM AMY [US]
+</Name>
+<Name>
+STELLACCI, FRANCESCO
+</Name>
+<Name>
+YU, ARUM, AMY
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MASSACHUSETTS INST TECHNOLOGY [US]
+</Name>
+<Name>
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2059854
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070837219
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US18592
+</PriorityNumber>
+<PriorityDate>
+2007-08-23
+</PriorityDate>
+<PriorityNumber>
+US20060840434P
+</PriorityNumber>
+<PriorityDate>
+2006-08-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+The present invention is directed to methods and materials for producing complements and reproductions of a master, including such preparation in a high throughput setting, using, inter-alia, liquid supramolecular nanostamping (LiSuNS).
+</Abstract>
+<Claims>
+<P>
+CLAIMS What is claimed is:
+</P>
+<P>
+1. A method of forming a complement of a master, said method comprising the steps of: a) contacting a master comprising a first set of molecules bound to a first substrate with a second set of molecules, wherein each molecule in said second set of molecules comprises: i) a spacer fragment; ii) a recognition component that is attracted to or binds to one or more of the first set of molecules, or a fragment thereof, wherein said recognition component is attached to said spacer fragment; b) contacting said spacer fragment of said second set of molecules with a prepolymer; c) polymerizing said prepolymer in (b) to form a second substrate; and d) breaking the attractive force or bonds formed between said first set of molecules and said second set of molecules; thereby forming a complement of the master.
+</P>
+<P>
+2. The method of claim 1, wherein said spacer fragment comprises a terminally located reactive functional group, which contacts said prepolymer.
+</P>
+<P>
+3. The method of claim 1 , wherein said first set of molecules, said second set of molecules or a combination thereof comprise nucleic acids.
+</P>
+<P>
+4. The method of claim 3, wherein said first set of molecules and said second set of molecules comprise nucleic acids.
+</P>
+<P>
+5. The method of claim 4, wherein said recognition component comprises a nucleic acid with a sequence complementary to that of said first set of molecules, or a fragment thereof.
+</P>
+<P>
+6. The method of claim 4, wherein said spacer fragment comprises a string of nucleotides having no complementary sequence in said first set of molecules.
+</P>
+<P>
+7. The method of claim 3, wherein said spacer fragment ranges in size from about 1 - 100 nucleotides in length.
+</P>
+<P>
+8. The method of claim 1 , wherein said prepolmer comprises a photopolymerizable polymer.
+</P>
+<P>
+9. The method of claim 8, wherein said prepolymer comprises an acrylate, diacrylate, oligoacrylate, methacrylate, dimethacrylate, oligomethacrylate, cinnamate, dicinnamate, oligocinnamate, or a combination thereof.
+</P>
+<P>
+10. The method of claim 8, further comprising the addition of a photoinitiator or organic initiator in step
+</P>
+<P>
+(C).
+</P>
+<P>
+1 1. The method of claim 8, wherein said prepolymer comprises poly (dimethylsiloxane) or a polyurethane based UV curable polymer.
+</P>
+<P>
+12. The method of claim 1, wherein said reactive functional group comprises a terminally located amine, acrydite, aldehyde or thiol group.
+</P>
+<P>
+13. The method of claim 1, wherein breaking said attractive force or bonds formed between said first set of molecules and said second set of molecules is accomplished at a specific temperature.
+</P>
+<P>
+14. The method of claim 13, wherein said prepolymer polymerizes at a temperature that is less than said specific temperature.
+</P>
+<P>
+15. A kit for the formation of a complement of a master comprising: a) a master comprising a first set of molecules bound to a first substrate b) a second set of molecules, wherein each molecule in said second set of molecules comprises: i) ) a spacer fragment; ii) a recognition component that is attracted to or binds to one or more of the first set of molecules, or a fragment thereof, wherein said recognition component is attached to said spacer fragment; c) a prepolymer; and d) optionally, agents for initiating or enhancing polymerization of said prepolymer whereby attachment of said second set of molecules to said prepolymer, polymerization of said prepolymer to form a second substrate and breaking of attractive force or bonds formed between said first set of molecules or a fragment thereof and said second set of molecules forms a complement of the master.
+</P>
+<P>
+16. The kit of claim 15, wherein said spacer fragment comprises a terminally located reactive functional group, which contacts said prepolymer.
+</P>
+<P>
+17. The kit of claim 15, wherein said first set of molecules, said second set of molecules or a combination thereof comprise nucleic acids.
+</P>
+<P>
+18. The kit of claim 17, wherein said first set of molecules and said second set of molecules comprise nucleic acids
+</P>
+<P>
+19. The kit of claim 17, wherein said recognition component comprises a nucleic acid with a sequence complementary to that of said first set of molecules or a fragment thereof.
+</P>
+<P>
+20. The kit of claim 17, wherein said spacer fragment comprises a string of nucleotides having no complementary sequence in said first set of molecules.
+</P>
+<P>
+21. The kit of claim 17. wherein said spacer fragment ranges in size from about 1 - 100 nucleotides in length.
+</P>
+<P>
+22. The kit of claim 15. wherein said prepolmer comprises a photopolymerizable polymer.
+</P>
+<P>
+23. The kit of claim 15, wherein said prepolymer comprises an acrylate, diacrylate, oligoacrylate, methacrylate, dimethacrylate, oligomethacrylate, cinnamate, dicin[pi]amate, oligocinnamate, or a combination thereof.
+</P>
+<P>
+24. The kit of claim 15, further comprising a photoinitiator or organic initiator.
+</P>
+<P>
+25. The kit of claim 15, wherein said prepolymer comprises poly (dimethyls! loxane) or a polyurethane based UV curable polymer.
+</P>
+<P>
+26. The kit of claim 15, wherein said reactive functional group comprises a terminally located amine, acrydile, aldehyde or thiol group.
+</P>
+<P>
+27. The kit of claim 15, further comprising a first substrate and reagents for attaching said first set of molecules to said first substrate to create said master.
+</P>
+<P>
+28. The kit of claim 15, wherein breaking said attractive force or bonds formed between said first set of molecules and said second set of molecules is accomplished at a specific temperature.
+</P>
+<P>
+29. The kit of claim 28, comprising a prepolymer, which polymerizes at a temperature that is less than said specific temperature.
+</P>
+<P>
+30. A method of forming a reproduction of a master, or portion thereof, comprising the steps of: a) contacting a master comprising a first set of molecules bound to a first substrate with a second set of molecules, wherein each molecule in said second set of molecules comprises: i) a spacer fragment; ii) a recognition component that is attracted to or binds to one or more of the first set of molecules, or a fragment thereof, wherein said recognition component is attached to said spacer fragment; b) contacting said spacer fragment of said second set of molecules with a prepolymer; c) polymerizing said prepolymer in (b) to form a second substrate; d) breaking the attractive force or bonds formed between said first set of molecules or a fragment thereof and said second set of molecules e) assembling via bond formation a third set of molecules on said second set of molecules of the complement image, wherein each molecule in the third set of molecules comprises: i) a spacer fragment; ii) a recognition component that is attracted to or binds to one or more of the second set of molecules, or a fragment thereof, wherein said recognition component is attached to said spacer fragment; f) contacting said spacer fragment of said third set of molecules with a prepolymer; g) polymerizing said prepolymer in (d) to form a third substrate; and h) breaking the attractive force or bonds formed between said second set of molecules or a fragment thereof and said third set of molecules; whereby attachment of said second set of molecules to said prepolymer, polymerization of said prepolymer to form a second substrate and breaking of attractive force or bonds formed between said first set of molecules or a fragment thereof and said second set of molecules forms a complement of the master and attachment of said third set of molecules to said prepolymer, polymerization of said prepolymer to form a third substrate and breaking of attractive force or bonds formed between said second set of molecules or a fragment thereof and said third set of molecules forms a reproduction of the master.
+</P>
+<P>
+31. The method of claim 30, wherein said spacer fragment comprises a terminally located reactive functional group, which contacts said prepolymer.
+</P>
+<P>
+32. The method of claim 30, wherein said first set of molecules, said second set of molecules, said third set of molecules or a combination thereof comprise nucleic acids.
+</P>
+<P>
+33. The method of claim 32, wherein said recognition component comprises a nucleic acid with a sequence complementary to that of said first or second set of molecules, or fragments thereof.
+</P>
+<P>
+34. The method of claim 32, wherein said spacer fragment comprises a string of nucleotides having no complementary sequence in said first or second set of molecules.
+</P>
+<P>
+35. The method of claim 32, wherein said spacer fragment ranges in size from about 1 - 100 nucleotides in length.
+</P>
+<P>
+36. The method of claim 30, wherein said prepolmer comprises a photopolymerizable polymer.
+</P>
+<P>
+37. The method of claim 30, wherein said prepolymer comprises an acrylate, diacrylate, oligoacrylate, methacrylate, dimethacrylate, oligomethacrylate, cinnamate, dicinnamate, oligocinnamate, or a combination thereof.
+</P>
+<P>
+38. The method of claim 30, further comprising the addition of a photoinitiator or organic initiator in step (C) or (e).
+</P>
+<P>
+39. The method of claim 30, wherein said prepolymer comprises poly (dimethylsiloxane) or a polyurethane based UV curable polymer.
+</P>
+<P>
+40. The method of claim 30, wherein said reactive functional group comprises a terminally located amine, acrydite, aldehyde or thiol group.
+</P>
+<P>
+41. The method of claim 30, wherein breaking said attractive force or bonds formed between said first set of molecules and said second set of molecules, or said second set of molecules and said third set of molecules, or a combination thereof, is accomplished at a specific temperature.
+</P>
+<P>
+42. The method of claim 41 , wherein said prepolymer polymerizes at a temperature that is less than said specific temperature.
+</P>
+<P>
+43. A kit for the reproduction of a master comprising: a) a master comprising a first set of molecules bound to a first substrate b) a second set of molecules, wherein each molecule in said second set of molecules comprises: i) a spacer fragment; ii) a recognition component that is attracted to or binds to one or more of the first set of molecules, or a fragment thereof, wherein said recognition component is attached to said spacer fragment; c) a third set of molecules, wherein each molecule in the third set of molecules comprises: i) a spacer fragment; ii) a recognition component that is attracted to or binds to one or more of the first set of molecules, or a fragment thereof, wherein said recognition component is attached to said spacer fragment; d) at least one prepolymer; and d) optionally, agents for initiating or enhancing polymerization of said prepolymer whereby attachment of said second set of molecules to said prepolymer, polymerization of said prepolymer to form a second substrate and breaking of attractive force or bonds formed between said first set of molecules or a fragment thereof and said second set of molecules forms a complement of the master and attachment of said third set of molecules to said prepolymer, polymerization of said prepolymer to form a third substrate and breaking of attractive force or bonds formed between said second set of molecules or a fragment thereof and said third set of molecules forms a reproduction of the master..
+</P>
+<P>
+44. The kit of claim 43, wherein said spacer fragment comprises a terminally located reactive functional group, which contacts said prepolymer
+</P>
+<P>
+45. The kit of claim 43, wherein said first or second or third set of molecules, or a combination thereof comprise nucleic acids.
+</P>
+<P>
+46. The kit of claim 45, wherein said first and second and third set of molecules comprise nucleic acids
+</P>
+<P>
+47. The kit of claim 45, wherein said recognition component comprises a nucleic acid with a sequence complementary to that of said first or second set of molecules, or fragments thereof.
+</P>
+<P>
+48. The kit of claim 45, wherein said spacer fragment comprises a string of nucleotides having no complementary sequence in said first or second set of molecules.
+</P>
+<P>
+49. The kit of claim 48, wherein said spacer fragment ranges in size from about 1 - 100 nucleotides in length.
+</P>
+<P>
+50. The kit of claim 43, wherein said prepolmer comprises a photopolymerizable polymer.
+</P>
+<P>
+51. The kit of claim 43, wherein said prepolymer comprises an acrylate. diacrylate, oligoacrylate, methacrylate, dimethacrylate, oligomethacrylate, cinnamate, dicinnamate, oligocinnamate, or a combination thereof.
+</P>
+<P>
+52. The kit of claim 43, further comprising a photoinitiator or organic initiator.
+</P>
+<P>
+53. The kit of claim 43, wherein said prepolymer comprises poly (dimethylsiloxane) or a polyurethane based UV curable polymer.
+</P>
+<P>
+54. The kit of claim 43, wherein said reactive functional group comprises a terminally located amine, acrydite, aldehyde or thiol group.
+</P>
+<P>
+55. The kit of claim 43, further comprising a first substrate and reagents for attaching said first set of molecules to said first substrate to create said master.
+</P>
+<P>
+56. The kit of claim 43, wherein breaking said attractive force or bonds formed between said first set of molecules and said second set of molecules is accomplished at a specific temperature.
+</P>
+<P>
+57. The kit of claim 56, comprising a prepolymer, which polymerizes at a temperature that is less than said specific temperature.
+</P>
+</Claims>
+<Also_published_as>
+WO2008027262A1;US2010105796A1
+</Also_published_as>
+</BiblioData>

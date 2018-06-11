@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SURFACE-COATED ALUMINUM OXIDE NANOPARTICLE AND RESIN COMPOSITION THEREOF
+</Title>
+<PublicationNumber>
+EP2048189A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FUJITA NAOKO [JP]
+</Name>
+<Name>
+KAWA MANABU [JP]
+</Name>
+<Name>
+SOMA MINORU [JP]
+</Name>
+<Name>
+ODA TAKASHI [JP]
+</Name>
+<Name>
+UNNO HARUO [JP]
+</Name>
+<Name>
+MOROHOSHI KATSUMI [JP]
+</Name>
+<Name>
+ITO TOMOHIRO [JP]
+</Name>
+<Name>
+KAI YASUAKI [JP]
+</Name>
+<Name>
+MURAMATSU HIRONOBU [JP]
+</Name>
+<Name>
+FUJITA, NAOKO
+</Name>
+<Name>
+KAWA, MANABU
+</Name>
+<Name>
+SOMA, MINORU
+</Name>
+<Name>
+ODA, TAKASHI
+</Name>
+<Name>
+UNNO, HARUO
+</Name>
+<Name>
+MOROHOSHI, KATSUMI
+</Name>
+<Name>
+ITO, TOMOHIRO
+</Name>
+<Name>
+KAI, YASUAKI
+</Name>
+<Name>
+MURAMATSU, HIRONOBU
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NISSAN MOTOR [JP]
+</Name>
+<Name>
+NISSAN MOTOR CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2048189
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070791670
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-31
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP64985
+</PriorityNumber>
+<PriorityDate>
+2007-07-31
+</PriorityDate>
+<PriorityNumber>
+JP20060212261
+</PriorityNumber>
+<PriorityDate>
+2006-08-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01F7/02
+</Class>
+<Class>
+C08K9/06
+</Class>
+<Class>
+C08L69/00
+</Class>
+<Class>
+C09C1/40
+</Class>
+<Class>
+C09C3/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C08K9/04
+</Class>
+<Class>
+C08K9/06
+</Class>
+<Class>
+C09C1/40F
+</Class>
+</NCL>
+<Abstract>
+Surface-coated aluminum oxide nanoparticles capable of being uniformly blended into polycarbonate resin in a good dispersed state while maintaining a molecular weight of the polycarbonate resin at a specific level or more. Surfaces of the surface-coated aluminum oxide nanoparticles are coated with a dispersant and a silylation reagent.;  In a case where a monochromated Al-Ka ray is irradiated onto a sample surface by using an X-ray photoelectron spectroscope, when a surface element composition is calculated from an obtained photoelectron peak area, contents (atm%) of nitrogen atoms, thiol-derived sulfur atoms, and halogen atoms in the surface-coated aluminum oxide nanoparticles are individually 2 or less, and when the surface element composition is calculated from obtained photoelectron peak areas of Al2p and Si2s, a concentration (mol%) of silicon atoms with respect to aluminum atoms is 0.05 to 30.
+</Abstract>
+<Claims>
+<P>
+1. Surface-coated aluminum oxide nanoparticles of which surfaces are coated with a dispersant and a silylation reagent,
+</P>
+<P>
+wherein contents (atm%) of nitrogen atoms, thiol-derived sulfur atoms, and halogen atoms in the surface-coated aluminum oxide nanoparticles are individually 2 or less when a monochromated Al-Ka ray is irradiated onto a sample surface by using an X-ray photoelectron spectroscope, and a surface element composition is calculated from an obtained photoelectron peak area, and
+</P>
+<P>
+a concentration (mol%) of silicon atoms with respect to aluminum atoms is 0.05 to 30 when the monochromated Al-Ka ray is irradiated onto the sample surface by using the X-ray photoelectron spectroscope, and the surface element composition is calculated from obtained photoelectron peak areas of Al2p and Si2s.
+</P>
+<P>
+2. A surface-coated aluminum oxide nanoparticles according to claim 1,
+</P>
+<P>
+wherein the dispersant is one type or two or more types selected from the group consisting of organic sulfonic acid, organic phosphoric acid and derivatives of these.
+</P>
+<P>
+3. A surface-coated aluminum oxide nanoparticles according to claim 1,
+</P>
+<P>
+wherein the dispersant comprises an organic acid with at least carbon number of 8 or more.
+</P>
+<P>
+4. A surface-coated aluminum oxide nanoparticles according to claim 1,
+</P>
+<P>
+wherein residues of the silylation reagent have alkyl groups and/or aryl groups.
+</P>
+<P>
+5. Organic sol comprising a surface-coated aluminum oxide nanoparticles according to claim 1.
+</P>
+<P>
+6. A resin composition comprising:
+</P>
+<P>
+a surface-coated aluminum oxide nanoparticles according to claim 1; and polycarbonate resin.
+</P>
+<P>
+7. A resin composition comprising: surface-coated aluminum oxide nanoparticles of which surfaces are coated with a dispersant and a silylation reagent; and polycarbonate resin, wherein haze measured by a method of JIS K7105 is 40% or less.
+</P>
+<P>
+8. A resin composition according to claim 7, wherein a concentration (mol%) of silicon atoms derived from the silylation reagent with respect to aluminum atoms in the resin composition is 0.05 to 30.
+</P>
+<P>
+9. A resin composition according to claim 7, wherein the dispersant comprises organic acid with at least carbon number of 8 or more.
+</P>
+<P>
+10. A production method of surface-coated aluminum oxide nanoparticles, comprising: treating aluminum oxide nanoparticles with a silylation reagent,
+</P>
+<P>
+wherein the silylation reagent is a monofunctional silylation reagent and/or a bifunctional silylation reagent, and atomic ratios of nitrogen atoms, sulfur atoms and halogen atoms with respect to silicon atoms in the silylation reagent are individually 0.05 or less.
+</P>
+<P>
+11. A production method of surface-coated aluminum oxide nanoparticles according to claim 10, wherein the silylation reagent is a silylation reagent represented by a following general formula (1) and/or a silylation reagent represented by a following general formula (2):
+</P>
+<P>
+R&amp;lt;1&amp;gt;R&amp;lt;2&amp;gt;R&amp;lt;3&amp;gt;SiX (1)
+</P>
+<P>
+R&amp;lt;4&amp;gt;R&amp;lt;5&amp;gt;SiX&amp;lt;1&amp;gt;X&amp;lt;2&amp;gt; (2)
+</P>
+<P>
+where, in the formulas (1) and (2), R&amp;lt;1&amp;gt; to R&amp;lt;5&amp;gt; represent alkyl groups or aryl groups independently of one another, and X, X&amp;lt;1&amp;gt; and X&amp;lt;2&amp;gt; represent hydrogen atoms, hydrolytic substituents or hydroxyl groups independently of one another.
+</P>
+<P>
+12. A production method of surface-coated aluminum oxide nanoparticles according to claim 11, wherein X, X&amp;lt;1&amp;gt; and X&amp;lt;2&amp;gt; are hydrogen atoms, acetoxy groups, alkoxy groups with a carbon number of 1 to 4, or hydroxyl groups independently of one another.
+</P>
+<P>
+13. A production method of surface-coated aluminum oxide nanoparticles according to claim 11, wherein the silylation reagent is represented by the general formula (1).
+</P>
+<P>
+14. A production method of surface-coated aluminum oxide nanoparticles according to claim 10, wherein an usage amount of the silylation reagent with respect to 1 weight part of the aluminum oxide nanoparticles is within a range of 0.001 to 50 weight parts.
+</P>
+<P>
+15. A production method of surface-coated aluminum oxide nanoparticles according to claim 10, wherein the treating the aluminum oxide nanoparticles with the silylation reagent is performed in a vapor phase.
+</P>
+<P>
+16. A production method of surface-coated aluminum oxide nanoparticles according to claim 10, further comprising: treating the aluminum oxide nanoparticles with a dispersant.
+</P>
+<P>
+17. A production method of surface-coated aluminum oxide nanoparticles according to claim 10, wherein a dispersant comprises an organic acid with at least carbon number of 8 or more.
+</P>
+<P>
+18. A production method of an organic sol, comprising: treating aluminum oxide nanoparticles with a silylation reagent, wherein the silylation reagent is a monofunctional silylation reagent and/or a bifunctional silylation reagent, and atomic ratios of nitrogen atoms, sulfur atoms and halogen atoms with respect to silicon atoms in the silylation reagent are individually 0.05 or less.
+</P>
+<P>
+19. A production method of an organic sol according to claim 18, wherein the silylation reagent is a silylation reagent represented by a following general formula (1) and/or a silylation reagent represented by a following general formula (2):
+</P>
+<P>
+R&amp;lt;1&amp;gt;R&amp;lt;2&amp;gt;R&amp;lt;3&amp;gt;SiX (1)
+</P>
+<P>
+R&amp;lt;4&amp;gt;R&amp;lt;5&amp;gt;SiX&amp;lt;1&amp;gt;X&amp;lt;2&amp;gt; (2)
+</P>
+<P>
+where, in the formulas (1) and (2), R&amp;lt;1&amp;gt; to R&amp;lt;5&amp;gt; represent alkyl groups or aryl groups independently of one another, and X, X&amp;lt;1&amp;gt; and X&amp;lt;2&amp;gt; represent hydrogen atoms, hydrolytic substituents or hydroxyl groups independently of one another.
+</P>
+<P>
+20. A production method of an organic sol according to claim 19, wherein X, X&amp;lt;1&amp;gt; and X&amp;lt;2&amp;gt; are hydrogen atoms, acetoxy groups, alkoxy groups with a carbon number of 1 to 4, or hydroxyl groups independently of one another.
+</P>
+<P>
+21. A production method of an organic sol according to claim 19, wherein the silylation reagent is represented by the general formula (1).
+</P>
+<P>
+22. A production method of an organic sol according to claim 18, wherein a usage amount of the silylation reagent with respect to 1 weight part of the aluminum oxide nanoparticles is within a range of 0.001 to 50 weight parts.
+</P>
+<P>
+23. A production method of an organic sol according to claim 18, wherein the treating aluminum oxide nanoparticles with the silylation reagent is performed in a vapor phase.
+</P>
+<P>
+24. A production method of an organic sol according to claim 18, further comprising: treating the aluminum oxide nanoparticles with a dispersant.
+</P>
+<P>
+25. A production method of an organic sol according to claim 18, wherein the dispersant comprises an organic acid with at least carbon number of 8 or more.
+</P>
+<P>
+26. A molded body comprising: a resin composition according to claim 6.
+</P>
+<P>
+27. A molded body comprising: a resin composition according to claim 7.
+</P>
+<P>
+28. A molded body of a polycarbonate resin composition containing aluminum oxide nanoparticles, wherein haze is 5% or less, and a modulus of elasticity in tension is 5 GPa or more.
+</P>
+<P>
+29. A molded body of a polycarbonate resin composition containing aluminum oxide nanoparticles, wherein haze is 5% or less, and a coefficient of linear thermal expansion is 45 ppm/K or less.
+</P>
+</Claims>
+<Also_published_as>
+EP2048189A4;US2009326097A1;WO2008016048A1;CN101501124A
+</Also_published_as>
+</BiblioData>

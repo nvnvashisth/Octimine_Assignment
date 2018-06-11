@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FORMATION OF ORGANIC NANOSTRUCTURE ARRAY
+</Title>
+<PublicationNumber>
+EP2089418A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GAZIT EHUD [IL]
+</Name>
+<Name>
+RECHES MEITAL [IL]
+</Name>
+<Name>
+GAZIT, EHUD
+</Name>
+<Name>
+RECHES, MEITAL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV RAMOT [IL]
+</Name>
+<Name>
+RAMOT AT TEL-AVIV UNIVERSITY LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2089418
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070827468
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IL01495
+</PriorityNumber>
+<PriorityDate>
+2007-12-04
+</PriorityDate>
+<PriorityNumber>
+US20060872499P
+</PriorityNumber>
+<PriorityDate>
+2006-12-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+<Class>
+C07K5/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B81C1/00C2A
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C07K17/14
+</Class>
+<Class>
+C07K5/06A2
+</Class>
+</NCL>
+<Abstract>
+A nanostructure array is disclosed. The nanostructure array comprises a plurality of elongated organic nanostructures arranged generally perpendicularly to a plane.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A nanostructure array, comprising a substrate and a plurality of elongated organic nanostructures arranged generally perpendicularly on said substrate.
+</P>
+<P>
+2. A nanostructure array, comprising a planar arrangement of a plurality of elongated organic nanostructures aligned generally parallel to each other.
+</P>
+<P>
+3. A method of fabricating a nanostructure array, comprising dispensing on a substrate organic monomers dissolved in an organic volatile solvent, and evaporating said solvent while generating conditions for self assembling of said organic monomers such as to form a plurality of elongated organic nanostructures arranged generally perpendicularly on said substrate.
+</P>
+<P>
+4. The method of claim 3, wherein said organic volatile solvent is selected so as to allow dispersion of said organic monomers in said solvent prior to said evaporation.
+</P>
+<P>
+5. The method of claim 3, wherein said organic monomers are peptide monomers dissolved in said organic volatile solvent at a concentration of at least 10 mg/ml
+</P>
+<P>
+6. The method of claim 3, wherein said organic monomers are electrically charged.
+</P>
+<P>
+7. A method of fabricating a nanostructure array, comprising: incubating organic monomers and nanoparticles being responsive to a force field under conditions for self assembling of said organic monomers to elongated organic nanostructures and self coating of said elongated organic nanostructures by said nanoparticles; and applying a force field to said elongated organic nanostructures such as to align said elongated organic nanostructures generally parallel to each other.
+</P>
+<P>
+8. The method of claim 7, wherein said nanoparticles are magnetic nanoparticles and said force field is a magnetic field.
+</P>
+<P>
+9. The method of claim 7, wherein said nanoparticles are electrically charged nanoparticles and said force field is an electric field.
+</P>
+<P>
+10. The method of claim 3 or 7, wherein said organic monomers comprise peptide monomers.
+</P>
+<P>
+11. The nanostructure array or method of claim 1, 2 or 10, wherein said organic nanostructures are multi-walled nanostructures.
+</P>
+<P>
+12. The nanostructure array or method of claim 1, 2 or 10, wherein said organic nanostructures are peptide nanostructures.
+</P>
+<P>
+13. The nanostructure array or method of claim 1, 2 or 12, wherein each of said peptide nanostructures comprises a plurality of peptides.
+</P>
+<P>
+14. The nanostructure array or method of claim 13, wherein each peptide in said plurality of peptides comprises from 2 to 15 amino acid residues.
+</P>
+<P>
+15. The nanostructure array or method of claim 13, wherein each of said peptides in said plurality of peptides comprises at least one aromatic amino acid residue.
+</P>
+<P>
+16. The nanostructure array or method of claim 13, wherein at least one peptide in said plurality of peptides is an end-capping modified peptide.
+</P>
+<P>
+17. The nanostructure array or method of claim 15, wherein at least one peptide in said plurality of peptides consists essentially of aromatic amino acid residues.
+</P>
+<P>
+18. The nanostructure array or method of claim 13, wherein at least one peptide in said plurality of peptides is a dipeptide.
+</P>
+<P>
+19. The nanostructure array or method of claim 18, wherein each peptide in said plurality of peptides is a phenylalanine-phenylalanine dipeptide.
+</P>
+<P>
+20. The nanostructure array or method of any of claims 12-19, wherein at least one of said peptide nanostructures is coated by at least one layer of nanoparticles.
+</P>
+<P>
+21. The nanostructure array or method of claim 20, wherein said nanoparticles are magnetic nanoparticles.
+</P>
+<P>
+22. The nanostructure array or method of claim 20, wherein said nanoparticles are electrically charged.
+</P>
+<P>
+23. The nanostructure array of any of claims 12-19, wherein at least one peptide nanostructure comprises a functional group attached thereto.
+</P>
+<P>
+24. The nanostructure array of any of claims 1-19, wherein said organic nanostructures are electrically charged.
+</P>
+<P>
+25. A field effect transistor, comprising the nanostructure array of any of claims 1- 24.
+</P>
+<P>
+26. A conductive layer, comprising the nanostructure array of claim 2.
+</P>
+<P>
+27. A sensor comprising the nanostructure array of any of claims 1-24.
+</P>
+<P>
+28. A medical lead comprising the nanostructure array of any of claims 1-24.
+</P>
+<P>
+29. A stimulating electrode comprising the nanostructure array of any of claims 1- 24.
+</P>
+<P>
+30. A device for transferring thermal energy, comprising the nanostructure array of any of claims J -24.
+</P>
+<P>
+31. An analyte collecting device, comprising the nanostructure array of any of claims 1-24.
+</P>
+</Claims>
+<Also_published_as>
+WO2008068752A2;WO2008068752A3;US2012021954A1;JP2010512015A;CN101652382A
+</Also_published_as>
+</BiblioData>

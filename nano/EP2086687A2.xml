@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CARBON COATED MAGNETIC NANOPARTICLES AND THEIR USE IN SEPARATION PROCESSES
+</Title>
+<PublicationNumber>
+EP2086687A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GRASS ROBERT N [CH]
+</Name>
+<Name>
+STARK WENDELIN JAN [CH]
+</Name>
+<Name>
+GRASS, ROBERT N
+</Name>
+<Name>
+STARK, WENDELIN JAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ETH ZUERICH [CH]
+</Name>
+<Name>
+ETH ZURICH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2086687
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070816227
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007CH00544
+</PriorityNumber>
+<PriorityDate>
+2007-11-02
+</PriorityDate>
+<PriorityNumber>
+EP20060023307
+</PriorityNumber>
+<PriorityDate>
+2006-11-09
+</PriorityDate>
+<PriorityNumber>
+EP20070816227
+</PriorityNumber>
+<PriorityDate>
+2007-11-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B03C1/015
+</Class>
+<Class>
+H01F1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B03C1/015
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+H01F1/00E10
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a process for separating a dispersed phase from a continuous phase comprising the steps of i) contacting said phases with an effective amount of nanoparticles;  ii) applying a magnetic field gradient to the obtained system;  iii) separating the obtained phases wherein said nanoparticles are of the core shell type, said core consists of a metal or alloy having soft magnetic properties and said shell contains a graphene layers which are optionally functionalized;  to new nanoparticles and method of manufacturing such nanoparticles.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. Process for separating a dispersed phase or dissolved material from a continuous phase comprising the steps of i) contacting said phases with an effective amount of nanoparticles; ii) applying a magnetic field gradient to the obtained system; iii) separating the obtained phases wherein said nanoparticles are of the core shell type, said core consists of a metal or alloy having soft magnetic properties and said shell contains one or more graphene-layers which are optionally functionalized.
+</P>
+<P>
+2. Process according to claim 1 further comprising the steps of iv) applying a magnetic field gradient or a chemical cleavage reaction to the phase containing the nanoparticles ; v) separating said nanoparticles from the remaining phase / material and vi) optionally recycling the separated nanoparticles to step i) .
+</P>
+<P>
+3. Process for separating a dispersed phase from a continuous phase according to claim 1 or 2, comprising the steps of i) contacting said phases with an effective amount of nanoparticles; ii) applying a magnetic field gradient to the obtained system; iii) separating the obtained phases wherein said nanoparticles are of the core shell type, said core consists of a metal or alloy having soft magnetic properties and said shell contains one or more graphene-layers which are optionally functionalized.
+</P>
+<P>
+4. Process for separating dissolved material from a continuous phase according to claim 1 or 2 comprising the steps of i) contacting said phase with an effective amount of nanoparticles; ii) applying a magnetic field gradient to the obtained system; iii) separating the obtained phases wherein said nanoparticles are of the core shell type, said core consists of a metal or alloy having soft magnetic properties and said shell contains one or more graphene-layers which are functionalized.
+</P>
+<P>
+5. Process according to claim 4 wherein said continuous phase is a polar continuous phase.
+</P>
+<P>
+6. Process according to any of the preceding claims wherein said nanoparticles have a core diameter of 10 - 200 nm and a shell thickness of 0.3 - 10 nm.
+</P>
+<P>
+7. Process according to any of the preceding claims wherein the maximal geometric standard deviation [sigma]g of the diameter of said nanoparticles is smaller than 1.6.
+</P>
+<P>
+8. Process according to any of the preceding claims wherein said nanoparticles have a saturation magnetization of at least 80 A m&amp;lt;2&amp;gt; / kg
+</P>
+<P>
+9. Process according to any of the preceding claims wherein said nanoparticles have a coercivity of below 30O00 A / m.
+</P>
+<P>
+10. Process according to any of the preceding claims wherein the core of said nanoparticles contains Fe, Co, Ni or its alloys.
+</P>
+<P>
+11. Process according to any of claims 1 - 3, 6 - 10, wherein the shell of said nanoparticles consists of one or more graphene layers which are not further functionalized.
+</P>
+<P>
+12. Process according to any of the preceding claims wherein the shell of said nanoparticles consists of one or more graphene layers which are functionalized with one or more functional groups selected from the group amines, hydroxy, carboxyls, ethers, ketones, epoxides or with substituents of formula (I)
+</P>
+<P>
+wherein n is an integer between 1 and 5; m is an integer between 0 and 20; Z represents a spacer selected from the group of alkyl, alkenyl, alkyloxy, peptides, amino acids saccarides; FG represents independent from each other OH, OR,
+</P>
+<P>
+NO2, NH2, NHR, NR2, COH, COR, COOH, COOR, SO2, SOR, SO2R, halogen, P(O)OH, P(O)OR, P(O)2OH,
+</P>
+<P>
+P(O)2OR
+</P>
+<P>
+R represents Ci-C4al kyl , Ci-C4alkoxy, C3-Ciocyclo- alkyl , C4-Ci0 aryl , or a 5-membered heterocycle containing at least one atom selected from the group of N,O,S or a 6-membered heterocycle containing at least one atom selected from the group of N,O,S or a metal chelating group selected from the group consisting of polycarboxylic acids, polyamides, aminoacids, polyaminocarboxylates, polyamines, polysulfides; and its salts.
+</P>
+<P>
+13. Process according to any of claims 1 to 9 wherein said process is a mineral oil treatment process or a water treatment process or a chemical reaction process or a biochemical reaction process or a process where cells, viruses or bacteria are removed from a continuous phase.
+</P>
+<P>
+14. Use of nanoparticles of the core shell type, wherein said core consists of a metal or alloy having soft magnetic properties and said shell essentially consists of one or more graphene layers which are non-functionalized or functionalized, in a process for separating a dispersed phase from a continuous phase .
+</P>
+<P>
+15. Use of nanoparticles of the core shell type, wherein said core consists of a metal or alloy having soft magnetic properties and said shell essentially consists of one or more graphene layers which are functionalized, in a process for separating a dissolved material from a continuous phase.
+</P>
+<P>
+16. Use according to claim 14 or 15 wherein the continuous phase is hydrophilic.
+</P>
+<P>
+17. Nanoparticle of the core shell type, wherein said core consists of a metal or alloy having soft magnetic properties and said shell contains one or more graphene layers which are functionalized by one or more of the groups according to formula (I) :
+</P>
+<P>
+wherein n is an integer between 1 and 5; m is an integer between 0 and 20;
+</P>
+<P>
+Z represents a spacer selected from the group of alkyl, alkenyl, alkyloxy, peptides, amino acids saccarides;
+</P>
+<P>
+FG represents independent from each other OH, OR, NO2, NH2, NHR, NR2, COH, COR, COOH, COOR, SO2,
+</P>
+<P>
+SOR, SO2R, halogen, P(O)OH, P(O)OR, P(O)2OH, P(O)2OR R represents Ci-C4alkyl, Ci-C4alkoxy, C3-Ci0cyclo- alkyl, C4-Ci0 aryl, or a 5-membered heterocycle containing at least one atom selected from the group of N,O,S or a 6-membered heterocycle containing at least one atom selected from the group of N,O,S or a metal chelating group selected from the group consisting of polycarboxylic acids, polyamides, polyamides, aminoacids, polyaminocarboxylates, polyamines, polysulfides; and its salts.
+</P>
+<P>
+18. Nanoparticle according to claim 17 wherein n represents 1 and FG is in the para-position.
+</P>
+<P>
+19. Nanoparticle according to claim 17 or 18 wherein R represents a metal chelating group selected from the group consisting of polycarboxylic acids, polyamides, aminoacids, polyaminocarboxylates (in particular EDTA, DTPA, EDDS), polyamines (in particular spermine, polyethyleneamine) or polysulfides .
+</P>
+<P>
+20. Nanoparticle according to claim 17 or 18 wherein FG represents NR3&amp;lt;+&amp;gt;X&amp;lt;&quot;&amp;gt; or PR3&amp;lt;+&amp;gt;X&amp;lt;&quot;&amp;gt; wherein R represents Ci- C4alkyl, and X represents halogen, OH&amp;lt;&quot;&amp;gt;, SO4&amp;lt;2&quot;&amp;gt;, SO3&amp;lt;2&quot;&amp;gt;, NO3&amp;lt;&quot;&amp;gt;, NO2&amp;lt;&quot;&amp;gt;, CO3&amp;lt;2&quot;&amp;gt;, HCO3&amp;lt;&quot;&amp;gt;.
+</P>
+<P>
+21. Process for manufacturing a nanoparticle according to any of claims 17 to 20 comprising the step of reacting a nanoparticle of the core shell type, wherein said core consists of a metal or alloy having soft magnetic properties and said shell contains graphene layers with a diazo-compound of formula (II)
+</P>
+<P>
+wherein X represents a suitable anion, such as halogen, m, n, Z, FG are as defined in any of claims 17 to 20, optionally in the presence of a diluent and optionally in the presence of a reaction aid.
+</P>
+<P>
+22. Use of nanoparticles according to any of claims 17 to 20 in biological and biochemical applications, in particular in the separation of a dispersed phase / dissolved material comprising compounds from the group of DNA, RNA, proteins, enzymes, viruses, bacteria and / or cells from a continuous liquid phase, or in the synthesis of a pharmaceutical including the step of separating a desired compound in particular a pharmaceutically active ingredient, protein, mono- or poly-saccharide, antibody, mono- or poly nucleic acid, enzyme or toxine) from a continuous liquid phase.
+</P>
+<P>
+23. Use of nanoparticles according to any of claims 17 to 20 in diagnostic and clinical medicine and biological detection, in particular where said nanoparticles serve as a reagent carrier.
+</P>
+<P>
+24. Use of nanoparticles according to any of claims 17 to 20 in the treatment of contaminated water or in the preparation of drinking water or in the preparation of process water, in particular where said nanoparticles are covered with functional groups that include one or more chelating groups selected from the group consisting of polycarboxylic acids, polyamides, aminoacids, polyamines, polysulfides, polyaminocarboxylates; in particular EDTA, DTPA, EDDS, spermine, polyethylene amine.
+</P>
+<P>
+25. Use of nanoparticles according to any of claims 17 to 20 in the refinement and / or separation of mining ores, in particular where the ores are suspended in a liquid phase and said nanoparticles attach specifically to the desired ore.
+</P>
+</Claims>
+<Also_published_as>
+WO2008055371A2;WO2008055371A3;ZA200902486A;US2010059449A1
+</Also_published_as>
+</BiblioData>

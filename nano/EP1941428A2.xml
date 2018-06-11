@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+QUANTUM INFORMATION CONVERSION BETWEEN MATTER AND LIGHT REPRESENTATIONS
+</Title>
+<PublicationNumber>
+EP1941428A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BEAUSOLEIL RAYMOND G [US]
+</Name>
+<Name>
+MUNRO WILLIAM J [GB]
+</Name>
+<Name>
+SPILLER TIMOTHY P [GB]
+</Name>
+<Name>
+NEMOTO KAE [JP]
+</Name>
+<Name>
+BEAUSOLEIL, RAYMOND, G
+</Name>
+<Name>
+MUNRO, WILLIAM, J
+</Name>
+<Name>
+SPILLER, TIMOTHY, P
+</Name>
+<Name>
+NEMOTO, KAE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1941428
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060788134
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-07-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US28406
+</PriorityNumber>
+<PriorityDate>
+2006-07-21
+</PriorityDate>
+<PriorityNumber>
+US20050252964
+</PriorityNumber>
+<PriorityDate>
+2005-10-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G06N99/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G06N99/00K
+</Class>
+<Class>
+H04B10/30
+</Class>
+</NCL>
+<Abstract>
+Structures and methods allow: transfer of quantum information represented using the states of light (160) to a representation using the states of matter systems (120);  transfer of quantum information represented by the states of matter systems (120) to a representation using the states of light (134);  and error resistant encoding of quantum information using entangled states of matter and light to minimize errors.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A process comprising: producing a photonic state of an input mode (162), wherein the photonic state represents quantum information to be written into a matter system (120); initializing the matter system (120) in a known state that is a combination of a first basis state and a second basis state; applying to the matter system (120) an excitation capable of exciting at least one of the first and second basis states to a corresponding excited state; and measuring a combined state of the input mode (162) and an emission mode (132) of the matter system (120), wherein the measuring of the combined state is such that states of the emission mode (132) and the matter system (120) become disentangled and the state of the matter system (120) depends on the quantum information.
+</P>
+<P>
+2. The process of claim 1, wherein measuring the combined state comprises determining the combined state is a Bell state.
+</P>
+<P>
+3. The process of claim 1, wherein measuring the combined state comprises: measuring a parity of the combined state; and measuring a state of one of the input mode (162) and the emission mode (132) in a diagonal basis.
+</P>
+<P>
+4. The process of claim 1, wherein measuring the combined state comprises: applying one of the input mode (165) and the emission mode (135) to control a CNOT gate (330) through which the other of the input mode (165) and the emission mode (135) passes; and measuring a state of one of the input mode (165) and the emission mode (135) in a diagonal basis.
+</P>
+<P>
+5. The process of claim 1, wherein measuring the combined state comprises: applying the input mode (132) and the emission mode (162) to a first beam splitter
+</P>
+<P>
+(340); measuring parity of a state of output modes of the first beam splitter (340); in response to measuring an even parity, directing the output modes of the first beam splitter (340) to input modes of a second beam splitter and identifying a state of output modes of the second beam splitter as corresponding to a Bell state; and in response to measuring an odd parity, measuring the state of the output modes of the first beam splitter (340).
+</P>
+<P>
+6. The process of any of claims 1 to 5, further comprising performing on the matter system a state correction operation that is identified by results of the measuring of the combined state.
+</P>
+<P>
+7. A system comprising: an input mode (162) for a photonic state representing quantum information; a matter system (120) having quantum states including a first basis state and a second basis state; an excitation system (140) capable of exciting at least one of the first and second basis states to a corresponding excited state; an emission mode (132) for photons emitted from the matter system (120) when the matter system (120) transitions from the excited state; and a first measurement system (300) capable of measuring a combined state of the input mode (162) and the emission mode (132), wherein the measuring of the combined state is such that states of the emission mode (132) and the matter system (120) become disentangled and the resulting state of the matter system (120) depends on the quantum information.
+</P>
+<P>
+8. The system of claim 7, wherein the first measurement system (300) comprises a Bell state analyzer (310).
+</P>
+<P>
+9. The system of claim 7, wherein the first measurement system (300) comprises: a non-absorbing parity detector (320); and a detector (325) of photons corresponding to a diagonal basis of one of the input mode (162) and the emission mode (132).
+</P>
+<P>
+10. The system of claim 7, wherein the first measurement system (300) comprises: a CNOT gate (330); and a detector (334) of photons corresponding to a diagonal basis of one of the input mode (162) and the emission mode (132).
+</P>
+<P>
+11. The system of claim 7, wherein the measurement system (300) comprises: a beam splitter (340); a parity detector (342); an optical switch (344) that operates under control of a measurement result from the parity detector (342); a first measurement subsystem (346) in one output path of the optical switch (344); and a second measurement subsystem (348) in an alternative output path of the optical switch.
+</P>
+<P>
+12. The system of claim 7, comprising: a second measurement system (540) configured to measure the matter system (120); a state correction system (560); and an optical switch operable to direct emission mode (132) into the first measurement system for an operation that writes the quantum information to the matter system (120) and operable to direct the emission mode (134) to the state correction system (560) for an operation selected according to a result from the second measurement system (540).
+</P>
+<P>
+13. The system of claim 12, further comprising a source (710) coupled to produce a known photon state of an auxiliary mode (715) that passes through the state correction system.
+</P>
+<P>
+14. A process comprising: representing quantum information using a state of a matter system (120), wherein quantum states of the matter system (120) include a first basis state and a second basis state; applying to the matter system (120) an excitation capable of exciting at least one of the first and second basis states to a corresponding excited state; waiting a period of time such that the excited state is likely to decay and a photon resulting from the decay is likely to enter an emission mode (130); and measuring the matter system (120) in a diagonal basis.
+</P>
+<P>
+15. The process of claim 14, further comprising performing on the emission mode (130) a state correction operation that is identified by results of the measuring of the matter system (120).
+</P>
+<P>
+16. The process of claim 14, further comprising: preparing an auxiliary mode (715) in a known state; and measuring a combined state of the auxiliary mode (715) and the emission mode (134), wherein the measuring of the combined state and the matter system (120) are such that states of the emission mode (134) and the matter system (120) become disentangled and the combined state of the auxiliary mode (715) and the emission mode (134) is an entangled state that depends on the quantum information.
+</P>
+<P>
+17. A system comprising: a matter system (120) having quantum states including a first basis state and a second basis state; an excitation system (140) capable of exciting at least one of the first basis state and the second basis state to a corresponding excited state; an emission mode (134) for photons emitted from the matter system (120) when the matter system (120) transitions from the excited state; and a measurement system (540) configured to measure the matter system (120); and a state correction system (560) through which the emission mode (134) passes, wherein the state correction system (560) is coupled to perform an operation selected according to a result from the measurement system (540).
+</P>
+<P>
+18. The system of claim 17, further comprising a source (710) coupled to produce a known photon state of an auxiliary mode (715) that passes through the state correction system.
+</P>
+<P>
+19. A process for manipulating quantum information comprising: encoding the quantum information using a representation including basis states that are products including a first state of a first system and a second state of a second system, wherein the first system includes a matter system (120) and a photon mode (130), and the first state is an entangled state of the first matter system (120) and the first photon mode (130); and measuring the first photon mode (130) to detect loss of a photon.
+</P>
+<P>
+20. The process of claim 19, wherein when the measuring of the first photon mode
+</P>
+<P>
+(130) indicates loss of a photon, the process further comprises: measuring the first matter system (120); and performing an operation on the second state, wherein the operation is selected according to results from the measuring of the first matter system (120), and after the operation, a system associated with the second state is in a state representing the quantum information.
+</P>
+</Claims>
+<Also_published_as>
+WO2007046906A2;WO2007046906A3;US2007145271A1;US8023828B2;JP2009515205A;CN101375301A
+</Also_published_as>
+</BiblioData>

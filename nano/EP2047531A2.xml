@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+THIN-FILM TRANSISTOR
+</Title>
+<PublicationNumber>
+EP2047531A2
+</PublicationNumber>
+<Inventor>
+<Name>
+FINK RICHARD LEE [US]
+</Name>
+<Name>
+YANIV ZVI [US]
+</Name>
+<Name>
+FINK, RICHARD LEE
+</Name>
+<Name>
+YANIV, ZVI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+APPLIED NANOTECH HOLDINGS INC [US]
+</Name>
+<Name>
+APPLIED NANOTECH HOLDINGS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2047531
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070825373
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IB03071
+</PriorityNumber>
+<PriorityDate>
+2007-07-09
+</PriorityDate>
+<PriorityNumber>
+US20060819574P
+</PriorityNumber>
+<PriorityDate>
+2006-07-10
+</PriorityDate>
+<PriorityNumber>
+US20070772711
+</PriorityNumber>
+<PriorityDate>
+2007-07-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/10
+</Class>
+<Class>
+H01L51/40
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00A2B2B
+</Class>
+<Class>
+H01L51/05B2B4
+</Class>
+<Class>
+H01L51/10B
+</Class>
+</NCL>
+<Abstract>
+Fabrication of thin-film transistor devices on polymer substrate films that is low-temperature and fully compatible with polymer substrate materials. The process produces micron-sized gate length struc not  tures that can be fabricated using inkjet and other standard printing techniques. The process is based on microcrack technology developed for surface conduction emitter configurations for field emission devices.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A thin film transistor comprising: a substrate; a source electrode on the substrate; a drain electrode on the substrate positioned a distance from the source electrode; a layer of metal oxide deposited on the substrate between the source and drain electrodes, wherein the layer of metal oxide is reduced to metal to form a microcrack in the layer between the source and drain electrodes, wherein the microcrack separates a first portion of the metal layer contacting the source electrode from a second portion of the metal layer contacting the drain electrode; an active semiconductor material deposited so that it bridges the microcrack, contacting both the first and second portions of the metal layer; a gate dielectric material deposited over the active semiconductor material; and a gate electrode deposited on the gate dielectric material and not contacting the metal layer or the active semiconductor material.
+</P>
+<P>
+2. The thin film transistor as recited in claim 1 , further comprising a layer of carbon in the microcrack.
+</P>
+<P>
+3. The thin film transistor as recited in claim 1 , wherein the active semiconductor material comprises carbon nanotubes.
+</P>
+<P>
+4. The thin film transistor as recited in claim 1 , wherein the active semiconductor material com- prises semiconducting nanowires.
+</P>
+<P>
+5. The thin film transistor as recited in claim 1, wherein the active semiconductor material comprises organic semiconductors.
+</P>
+<P>
+6. The thin film transistor as recited in claim 1 , wherein the substrate comprises a plastic.
+</P>
+<P>
+7. The thin film transistor as recited in claim 1 , wherein the metal oxide is PdO.
+</P>
+<P>
+8 The thin film transistor as recited in claim 7, wherein the metal layer is Pd.
+</P>
+<P>
+9. A method of manufacturing a thin film transistor comprising: inkjet printing conductive ink on a substrate to form source and drain electrodes spaced apart from each other; inkjet printing a PdO layer on the substrate between the source and drain electrodes; reducing the PdO layer to Pd metal resulting in formation of a microcrack in the PdO layer; inkjet printing an active semiconductor on the reduced PdO layer across the microcrack; inkjet printing a gate dielectric over the active semiconductor; and inkjet printing a gate electrode over the gate dielectric.
+</P>
+</Claims>
+<Also_published_as>
+WO2008007226A2;WO2008007226A3;US2008173865A1;US7960718B2;TW200824051A;JP2010507223A
+</Also_published_as>
+</BiblioData>

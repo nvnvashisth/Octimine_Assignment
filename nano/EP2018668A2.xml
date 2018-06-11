@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SOLAR CELL EFFICIENCIES THROUGH PERIODICITY
+</Title>
+<PublicationNumber>
+EP2018668A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BERMEL PETER [US]
+</Name>
+<Name>
+JOANNOPOULOS JOHN D [US]
+</Name>
+<Name>
+LUO CHIYAN [US]
+</Name>
+<Name>
+BERMEL, PETER
+</Name>
+<Name>
+JOANNOPOULOS, JOHN D
+</Name>
+<Name>
+LUO, CHIYAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MASSACHUSETTS INST TECHNOLOGY [US]
+</Name>
+<Name>
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2018668
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070759997
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US65830
+</PriorityNumber>
+<PriorityDate>
+2007-04-03
+</PriorityDate>
+<PriorityNumber>
+US20060400911
+</PriorityNumber>
+<PriorityDate>
+2006-04-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L31/0216
+</Class>
+<Class>
+H01L31/0232
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B1/00M1
+</Class>
+<Class>
+H01L31/0216B3B
+</Class>
+<Class>
+H01L31/0232
+</Class>
+<Class>
+H01L31/052B4
+</Class>
+<Class>
+Y02E10/52
+</Class>
+</NCL>
+<Abstract>
+A solar cell includes a photovoltaic material region. The photovoltaic material region is covered by a uniform anti-reflection coating. A photonic crystal structure is positioned on the photovoltaic material region. The photonic crystal structure provides a medium to produce a plurality of spatial orientations of an incident light signal received by the solar cell so as to allow trapping of a selective frequency of incident light in the solar cell.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A solar cell comprising:
+</P>
+<P>
+a photovoltaic material region;
+</P>
+<P>
+a uniform anti-reflection coating that is positioned on said photovoltaic material region; and
+</P>
+<P>
+a photonic crystal structure that that is positioned below the photovoltaic material region, said photonic crystal structure provides a medium to produce a plurality of spatial orientations of an incident light signal received by said solar cell so as to allow trapping of a selected frequency range of incident light in said solar cell.
+</P>
+<P>
+2. The solar cell of claim 1, wherein said photovoltaic material region comprises silicon, or another indirect bandgap semiconductor
+</P>
+<P>
+3. The solar cell of claim 1, wherein the diffractive component of said photonic crystal structure comprises holes of air or dielectric materials.
+</P>
+<P>
+4. The solar cell of claim 1, wherein the reflective component of said photonic crystal structure comprises alternating layers of high and low index.
+</P>
+<P>
+5. The solar cell of claim 1, wherein said photonic crystal structure comprises a 1D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+6. The solar cell of claim 1, wherein said photonic crystal structure comprises a 2D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+7. The solar cell of claim 1, wherein said photonic crystal structure comprises a 3D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+8. The solar cell of claim 2, wherein the diffractive component of said photonic crystal structure comprises a periodically etched grating on a DBR.
+</P>
+<P>
+9. A method of forming a solar cell comprising:
+</P>
+<P>
+providing a photovoltaic material region;
+</P>
+<P>
+forming a uniform anti-reflection coating that is positioned on said photovoltaic material region; and
+</P>
+<P>
+forming a photonic crystal structure that that is positioned below the photovoltaic material region, said photonic crystal structure provides a medium to produce a plurality of spatial orientations of an incident light signal received by said solar cell so as to allow trapping of a selected frequency range of incident light in said solar cell.
+</P>
+<P>
+10. The method of claim 9, wherein said photovoltaic material region comprises silicon, or another indirect bandgap semiconductor.
+</P>
+<P>
+11. The method of claim 9, wherein the diffractive component of said photonic crystal structure comprises holes of air or dielectric materials.
+</P>
+<P>
+12. The method of claim 9, wherein the reflective component of said photonic crystal structure comprises alternating layers of high and low index.
+</P>
+<P>
+13. The method of claim 9, wherein said photonic crystal structure comprises a 1D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+14. The method of claim 9, wherein said photonic crystal structure comprises a 2D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+15. The method of claim 9, wherein said photonic crystal structure comprises a 3D photonic crystal structure with a reflector on the bottom.
+</P>
+<P>
+16. The method of claim 10, wherein the diffractive component of said photonic crystal structure comprises a periodically etched grating on a DBR.
+</P>
+<P>
+17. A method of trapping light in a solar cell comprising:
+</P>
+<P>
+providing a photovoltaic material region;
+</P>
+<P>
+forming a planar top surface;
+</P>
+<P>
+positioning a uniform anti-reflection coating on top of the said photovoltaic material region; and
+</P>
+<P>
+positioning a photonic crystal structure on said photovoltaic material region, said photonic crystal structure provides a medium to produce a plurality of spatial orientations of an incident light signal received by said solar cell so as to allow trapping of a selective frequency of incident light in said solar cell.
+</P>
+<P>
+18. The method of claim 17, wherein said photovoltaic material region comprises silicon, or another indirect bandgap semiconductor.
+</P>
+<P>
+19. The method of claim 17, wherein said photonic crystal structure comprises holes of air or dielectric.
+</P>
+<P>
+20. The method of claim 17, wherein the reflective component of said photonic crystal structure comprises alternating layers of high and low index.
+</P>
+<P>
+21. The method of claim 17, wherein said photonic crystal structure comprises a 1D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+22. The method of claim 17, wherein said photonic crystal structure comprises a 2D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+23. The method of claim 17, wherein said photonic crystal structure comprises a 3D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+24. The method of claim 18, wherein the diffractive component of said photonic crystal structure comprises a periodically etched grating on a DBR.
+</P>
+<P>
+25. A solar cell comprising:
+</P>
+<P>
+a photovoltaic material region;
+</P>
+<P>
+a planar top surface of said photovoltaic material region;
+</P>
+<P>
+a uniform anti-reflection coating on top of said photovoltaic material region; and
+</P>
+<P>
+a photonic crystal structure that surrounds a portion of said photovoltaic material region, said photonic crystal structure provides a medium to produce a plurality of spatial orientations of an incident light signal received by said solar cell so as to allow trapping of a selective frequency of incident light in said solar cell.
+</P>
+<P>
+26. The solar cell of claim 25, wherein said photovoltaic material region comprises silicon or another indirect bandgap semiconductor
+</P>
+<P>
+27. The solar cell of claim 25, wherein said photonic crystal structure comprises holes of air or dielectric materials.
+</P>
+<P>
+28. The solar cell of claim 25, wherein the reflective component of said photonic crystal structure comprises alternating layers of high and low index.
+</P>
+<P>
+29. The solar cell of claim 25, wherein said photonic crystal structure comprises a 1D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+30. The solar cell of claim 25, wherein said photonic crystal structure comprises a 2D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+31. The solar cell of claim 1, wherein said photonic crystal structure comprises a 3D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+32. The solar cell of claim 26, wherein said photonic crystal structure comprises a periodically etched grating on a DBR.
+</P>
+<P>
+33. A method of forming a solar cell comprising
+</P>
+<P>
+forming a photovoltaic material region;
+</P>
+<P>
+forming a planar surface on the top of said photovoltaic material region;
+</P>
+<P>
+a uniform anti-reflection coating on top of said photovoltaic material region; and
+</P>
+<P>
+forming a photonic crystal structure that only surrounds a portion of said photovoltaic material region, said photonic crystal structure provides a medium to produce a plurality of spatial orientations of an incident light signal received by said solar cell so as to allow trapping of a selective frequency of incident light in said solar cell.
+</P>
+<P>
+34. The method of claim 33, wherein said photovoltaic material region comprises silicon or another indirect bandgap semiconductor.
+</P>
+<P>
+35. The method of claim 33, wherein said photonic crystal structure comprises holes of air or another dielectric material.
+</P>
+<P>
+36. The method of claim 33, wherein the reflective component of said photonic crystal structure comprises alternating layers of high and low index.
+</P>
+<P>
+37. The method of claim 33, wherein said photonic crystal structure comprises a 1D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+38. The method of claim 33, wherein said photonic crystal structure comprises a 2D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+39. The method of claim 33, wherein said photonic crystal structure comprises a 3D periodic dielectric structure with a reflector on the bottom.
+</P>
+<P>
+40. The method of claim 34, wherein the reflective component of said photonic crystal structure comprises a periodically etched grating on a DBR.
+</P>
+</Claims>
+<Also_published_as>
+US2007235072A1;WO2007121082A2;WO2007121082A3;JP2009533875A
+</Also_published_as>
+</BiblioData>

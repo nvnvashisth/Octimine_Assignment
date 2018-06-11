@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD OF MAKING A NON- VOLATILE MEMORY DEVICE
+</Title>
+<PublicationNumber>
+EP2106618A1
+</PublicationNumber>
+<Inventor>
+<Name>
+RAO RAJESH [US]
+</Name>
+<Name>
+MURALIDHAR RAMACHANDRAN [US]
+</Name>
+<Name>
+RAO, RAJESH
+</Name>
+<Name>
+MURALIDHAR, RAMACHANDRAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FREESCALE SEMICONDUCTOR INC [US]
+</Name>
+<Name>
+FREESCALE SEMICONDUCTOR, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2106618
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080727500
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US50693
+</PriorityNumber>
+<PriorityDate>
+2008-01-10
+</PriorityDate>
+<PriorityNumber>
+US20070625882
+</PriorityNumber>
+<PriorityDate>
+2007-01-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/28
+</Class>
+<Class>
+H01L21/336
+</Class>
+<Class>
+H01L29/423
+</Class>
+<Class>
+H01L29/788
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L21/28F
+</Class>
+<Class>
+H01L29/423D2B2B
+</Class>
+<Class>
+H01L29/423D2B2C
+</Class>
+<Class>
+H01L29/66M6T6F17
+</Class>
+<Class>
+H01L29/788B
+</Class>
+</NCL>
+<Abstract>
+A method forms a nonvolatile memory device using a semiconductor substrate. A charge storage layer is formed overlying the semiconductor substrate and a layer of gate material is formed overlying the charge storage layer to form a control gate electrode. A protective layer overlies the layer of gate material. Dopants are implanted into the semiconductor substrate and are self-aligned to the control gate electrode on at least one side of the control gate electrode to form a source and a drain in the semiconductor substrate on opposing sides of the control gate electrode. The protective layer prevents the dopants from penetrating into the control gate electrode. The protective layer that overlies the layer of gate material is removed. Electrical contact is made to the control gate electrode, the source and the drain. In one form a select gate is also provided in the memory device.
+</Abstract>
+<Claims>
+<P>
+1. A method for forming a nonvolatile memory device using a semiconductor substrate, comprising:
+</P>
+<P>
+forming a charge storage layer overlying the semiconductor substrate;
+</P>
+<P>
+forming a layer of gate material overlying the charge storage layer to form a control gate electrode;
+</P>
+<P>
+forming a protective layer overlying the layer of gate material;
+</P>
+<P>
+implanting dopants into the semiconductor substrate self-aligned to the control gate electrode on at least one side of the control gate electrode, the dopants forming a source and a drain in the semiconductor substrate on opposing sides of the control gate electrode, the protective layer preventing the dopants from penetrating into the control gate electrode;
+</P>
+<P>
+removing the protective layer that overlies the layer of gate material; and
+</P>
+<P>
+forming electrical contacts to the control gate electrode, the source and the drain.
+</P>
+<P>
+2. The method of claim 1 wherein the protective layer comprises a material that can be etched without removing any exposed silicon, silicon nitride and silicon oxide surfaces of the nonvolatile memory device.
+</P>
+<P>
+3. The method of claim 2 further comprising using one of silicon germanium or titanium nitride as the protective layer.
+</P>
+<P>
+4. The method of claim 1 further comprising implementing the charge storage using a layer of nanoclusters or a layer of material comprising nitride.
+</P>
+<P>
+5. The method of claim 1 further comprising:
+</P>
+<P>
+forming a select gate electrode adjacent to and electrically isolated from the control gate electrode prior to implanting the charged ions into the semiconductor substrate to form the source and the drain.
+</P>
+<P>
+6. The method of claim 5 further comprising:
+</P>
+<P>
+electrically separating the select gate electrode from the control gate electrode by forming a first spacer adjacent the control gate electrode and between the control gate electrode and the select gate electrode and forming a second spacer overlying the control gate electrode.
+</P>
+<P>
+7. The method of claim 1 wherein forming the protective layer further comprises:
+</P>
+<P>
+forming a first layer of material, the first layer comprising either silicon germanium or a nitrided material; and
+</P>
+<P>
+forming a second layer of material overlying the first layer of material, the second layer of material comprising an oxide.
+</P>
+<P>
+8. The method of claim 1 wherein the implanting of dopants into the semiconductor substrate is self-aligned to the control gate electrode on two opposing sides of the control gate electrode.
+</P>
+<P>
+9. A method for forming a nonvolatile memory device using a semiconductor substrate, comprising:
+</P>
+<P>
+forming a charge storage layer, the charge storage layer comprising a material that stores electrical charge;
+</P>
+<P>
+forming a control gate electrode overlying the charge storage layer;
+</P>
+<P>
+forming a protective layer overlying the control gate electrode, the protective layer permitting etch selectivity by being able to be etched by an etchant that does not etch oxide, silicon and nitride;
+</P>
+<P>
+forming a first sidewall spacer adjacent the control gate electrode;
+</P>
+<P>
+forming a second sidewall spacer adjacent the first sidewall spacer;
+</P>
+<P>
+removing the second sidewall spacer from one side of the control gate electrode while leaving a remainder second sidewall spacer adjacent an opposing side of the control gate electrode;
+</P>
+<P>
+forming first and second current electrode regions in the semiconductor substrate respectively aligned to an outer edge of the first sidewall spacer and to an outer edge of the second sidewall spacer;
+</P>
+<P>
+forming a select gate electrode from the remainder second sidewall spacer;
+</P>
+<P>
+removing the protective layer overlying the control gate electrode; and
+</P>
+<P>
+making electrical contact to the control gate electrode, the select gate electrode and the first and second current electrode regions.
+</P>
+<P>
+10. The method of claim 9 further comprising forming the charge storage layer as a layer of nanoclusters.
+</P>
+<P>
+11. The method of claim 9 wherein forming the protective layer further comprises:
+</P>
+<P>
+forming a first layer of material, the first layer comprising either silicon germanium or a nitrided material; and
+</P>
+<P>
+forming a second layer of material overlying the first layer of material, the second layer of material comprising an oxide.
+</P>
+<P>
+12. The method of claim 9 further comprising:
+</P>
+<P>
+forming the first sidewall spacer from a dielectric material; and
+</P>
+<P>
+forming the second sidewall spacer from a conductive material.
+</P>
+<P>
+13. The method of claim 9 further comprising:
+</P>
+<P>
+forming a third sidewall spacer adjacent the remainder second sidewall spacer and exposed portions of the first sidewall spacer, the third sidewall spacer comprising a dielectric material.
+</P>
+<P>
+14. The method of claim 13 further comprising:
+</P>
+<P>
+forming a fourth sidewall spacer overlying a portion of the control gate electrode and adjacent an exposed inner sidewall of the first sidewall spacer, the fourth sidewall spacer comprising electrically insulating material; and
+</P>
+<P>
+forming a fifth sidewall spacer laterally outside the third sidewall spacer, the fifth sidewall spacer also comprising electrically insulating material.
+</P>
+<P>
+15. A method for forming a nonvolatile memory device using a semiconductor substrate, comprising:
+</P>
+<P>
+forming a charge storage layer overlying the semiconductor substrate;
+</P>
+<P>
+forming a control gate electrode overlying the charge storage layer;
+</P>
+<P>
+forming a protective layer overlying the control gate electrode comprising a material that provides etch selectivity by being able to be etched by an etchant that does not etch oxide, silicon and nitride;
+</P>
+<P>
+forming an insulating sidewall spacer adjacent exposed sides of the charge storage layer, the control gate electrode and the protective layer;
+</P>
+<P>
+forming first and second current electrode regions in the semiconductor substrate aligned to opposite sides of the control gate electrode, the first and second current electrode regions being formed by dopants that are blocked from the control gate electrode by the protective layer;
+</P>
+<P>
+removing the protective layer from above the control gate electrode by the etchant that does not etch oxide, silicon and nitride to leave the insulating sidewall spacer extending above the control gate electrode; and
+</P>
+<P>
+making electrical contact to the control gate electrode and the first and second current electrode regions.
+</P>
+<P>
+16. The method of claim 15 wherein forming the insulating sidewall spacer further comprises forming an oxide sidewall spacer adjacent sidewalls of the charge storage layer, the control gate electrode and the protective layer followed by forming a nitride sidewall spacer adjacent the oxide sidewall spacer and further removed from the control gate electrode than the oxide sidewall spacer.
+</P>
+<P>
+17. The method of claim 15 further comprising using one of silicon germanium or titanium nitride as the protective layer.
+</P>
+<P>
+18. The method of claim 15 wherein forming the protective layer further comprises:
+</P>
+<P>
+forming a first layer of material, the first layer comprising either silicon germanium or a nitrided material; and
+</P>
+<P>
+forming a second layer of material overlying the first layer of material, the second layer of material comprising an oxide.
+</P>
+<P>
+19. The method of claim 15 wherein forming the charge storage layer further comprises forming a plurality of nanoclusters in an oxide layer.
+</P>
+<P>
+20. The method of claim wherein forming the control gate electrode further comprises forming a P conductivity polysilicon layer of material for the control gate electrode prior to forming the protective layer, and the nonvolatile memory device is subjected to dopants which transform the first and second current electrode regions into N conductivity regions without using a masking layer and without modifying the P conductivity polysilicon layer of material.
+</P>
+</Claims>
+<Also_published_as>
+EP2106618A4;US2008176371A1;US7557008B2;WO2008091736A1;TW200847444A;KR20090115715A;JP2010517270A;CN101578706A;CN101578706B
+</Also_published_as>
+</BiblioData>

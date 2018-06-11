@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Hyperbranched polymer conjugates via non- enzymatic cleavable linker
+</Title>
+<PublicationNumber>
+EP2090323A1
+</PublicationNumber>
+<Inventor>
+<Name>
+VETTER DIRK [DE]
+</Name>
+<Name>
+HERSEL ULRICH [DE]
+</Name>
+<Name>
+RAU HARALD [DE]
+</Name>
+<Name>
+SCHNEPF ROBERT [DE]
+</Name>
+<Name>
+WEGGE THOMAS [DE]
+</Name>
+<Name>
+VETTER, DIRK
+</Name>
+<Name>
+HERSEL, ULRICH
+</Name>
+<Name>
+RAU, HARALD
+</Name>
+<Name>
+SCHNEPF, ROBERT
+</Name>
+<Name>
+WEGGE, THOMAS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMPLEX BIOSYSTEMS GMBH [DE]
+</Name>
+<Name>
+COMPLEX BIOSYSTEMS GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2090323
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090161150
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-10-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040765740
+</PriorityNumber>
+<PriorityDate>
+2004-10-01
+</PriorityDate>
+<PriorityNumber>
+EP20030022097
+</PriorityNumber>
+<PriorityDate>
+2003-10-02
+</PriorityDate>
+<PriorityNumber>
+EP20090161150
+</PriorityNumber>
+<PriorityDate>
+2004-10-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K47/30
+</Class>
+<Class>
+A61K47/48
+</Class>
+<Class>
+C07K14/61
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K47/48K
+</Class>
+<Class>
+A61K47/48W18
+</Class>
+<Class>
+B82Y5/00
+</Class>
+</NCL>
+<Abstract>
+The application relates to a composition comprising a hyperbranched polymer attached to a core and a biologically active moiety. The biologically active moiety is attached to the core by means of a substantially non-enzymatically cleavable linker L. The composition can be used to deliver the biologically active moiety to its target.
+</Abstract>
+<Claims>
+<P>
+1. A composition comprising:
+</P>
+<P>
+- a hyperbranched polymer attached to a core; and
+</P>
+<P>
+- a biologically active moiety; whereby the biologically active moiety is attached to the core by means of a substantially non-enzymatically cleavable linker L and wherein the biologically active moiety is selected from somatropins.
+</P>
+<P>
+2. The composition of claim 1, wherein the hyperbranched polymer is water soluble.
+</P>
+<P>
+3. The composition of claim 1 or 2, wherein the hyperbranched polymer contains at least two molecular chains, which molecular chains are of sufficient length to be so arranged as to form a cavity to accommodate the biologically active moiety.
+</P>
+<P>
+4. The composition according to any of the above claims, wherein the polymer chains contain linear, branched or cyclical alkyl chains and wherein optionally further groups are present in the polymer chains, the further groups being selected from the groups consisting of S, N, O, (-S-S)-, oxyethylene, oxypropylene and oxybutylene, amide -C(O)NH- or C(O)NR-, -S-succinimido, amino (-NR-), carboxylic ester (-C(O)O-), sulfonamide (-S(O)2-NR-), carbamate (-O-C(O)-NR-), carbonate (-OC(O)-O-), sulfone (-S(O)2-), ether (-O-), oxime (-CR=N-O-), hydrazone (-CR=N-NR-), urea (-NR-C(O)-NR-), thiourea (-NR-C(S)-NR-), carbohydrate, glyceryl, phosphate (-O-P(O)(OR)O-), phosphonate (-P(O)(OR)O-), saturated and nonsaturated (hetero)cyclic groups, in which R is H, a linear, branched or cyclical alkyl groups which may contain further functional groups or hetero atoms.
+</P>
+<P>
+5. The composition according to any one of the above claims, wherein the molecular chains contain sterically demanding capping groups C.
+</P>
+<P>
+6. The composition according to claim 5, wherein the capping groups C within the molecular chains contain linear, branched or cyclical alkyl chains and wherein optionally the capping groups C contain further groups selected from the groups consisting of S, N, O, (-S-S)-, oxyethylen, oxypropylene and oxybutylene, amide -C(O)NH- or C(O)NR-, -S-succinimido, amino (-NR-), carboxylic ester (-C(O)O-), sulfonamide (-S(O)2-NR-), carbamate (-O-C(O)-NR-), carbonate (-O-C(O)-O-), sulfone (-S(O)2-), ether (-O-), oxime (-CR=N-O-), hydrazone (-CR=N-NR-), urea (-NR-C(O)-NR-), thiourea (-NR-C(S)-NR-), carbohydrate, glyceryl, phosphate (-OP(O)(OR)O-), phosphonate (-P(O)(OR)O-), saturated and nonsaturated (hetero)cyclic groups in which R is H, linear, branched or cyclical alkyl groups which may contain further functional groups or hetero atoms.
+</P>
+<P>
+7. The composition according to claim 5 or 6, wherein the capping groups C are highly branched molecules containing branching centers with a branching degree of between 2 and 6.
+</P>
+<P>
+8. The composition of any one of the above claims, wherein the hyperbranched molecule comprises a first branching unit B with
+</P>
+<P>
+- a first branching centre Bc
+</P>
+<P>
+- at least two first branching functional groups Bfg
+</P>
+<P>
+- at least two molecular chains connected to the at least two first branching functional groups Bfg.
+</P>
+<P>
+9. The composition of claim 8, wherein the first branching center Bc contains groups selected from &amp;gt;C&amp;lt;, &amp;gt;CH-, &amp;gt;CR-, &amp;gt;N-, &amp;gt;P- which are linked to the first branching functional groups Bfg.
+</P>
+<P>
+10. The composition of claim 8 or 9, wherein the first branching unit B contains linear, branched or cyclical alkyl chains and wherein optionally the first branching unit B further comprises groups selected from the groups consisting of S, N, O, (-S-S)-, oxyethylen, oxypropylene and oxybutylene, amide -C(O)NH- or C(O)NR-, -S-succinimido, amino (-NR-), carboxylic ester (-C(O)O-), sulfonamide (-S(O)2-NR-, carbamate (-O-C(O)-NR-), carbonate (-O-C(O)-O-), sulfone (-S(O)2-), ether (-O-), oxime (-CR=N-O), hydrazone (-CR=N-NR-), urea (-NR-C(O)-NR-), thiourea (-NR-C(S)-NR-), carbohydrate, glyceryl, phosphate (-O-P(O)(OR)O-), phosphonate (-P(O)(OR)O-), saturated and nonsaturated (hetero)cyclic compounds, in which R is H or a linear, branched or cyclical alkyl groups which may contain further functional groups or hetero atoms.
+</P>
+<P>
+11. The composition of any one of claims 8 to 10, wherein the first branching functional groups Bfg are selected from amino (-NRH), carboxylic acid (-C(O)OH) and derivatives, sulfonic acid (-S(O)2-OH) and derivatives, carbonate (-O-C (O) -O-) and derivatives, hydroxyl (-OH), aldehyde (-CHO), ketone (-CRO), hydrazine (H2N-NR-), isocyanate (-NCO), isothiocyanate (-NCS), phosphoric acid (-O-P(O)(OR)(OH) and derivatives, phosphonic acid (-P(O)(OR)OH) and derivatives, haloacetyl, alkyl halides, maleimide, acryloyl, arylating agents like aryl fluorides, hydroxylamine, disulfides like pyridyl disulfide, vinyl sulfone, vinyl ketone, diazoalkanes, diazoacetyl compounds, epoxide, oxirane, aziridine, in which R is H or a linear, branched or cyclical alkyl group which may contain further functional or hetero atoms or aryl groups.
+</P>
+<P>
+12. The composition of any one of the above claims, wherein the cleavable linker L can be cleaved by TCEP, TFA, DTT, or buffer.
+</P>
+<P>
+13. The composition of any one of the above claims, wherein the cleavable linker L further contains linker functional groups adapted to react between the cleavable linker L and the biologically active moiety by the formation of a chemical bond.
+</P>
+<P>
+14. The composition of claim 13, wherein the linker functional groups are selected from the groups consisting of amino (-NRH), carboxylic acid (-C(O)OH) and derivatives, sulfonic acid (-S(O)2-OH) and derivatives, carbonate (-O-C(O)-O) and derivatives, hydroxyl (-OH), aldehyde (-CHO), ketone (-CRO), isocyanate (-NCO), isothiocycanate (-NCS), haloacetyl, alkyl halides, maleimide, acryloyl, arylating agents, aryl fluorides, disulfides, pyridyl disulfide, vinyl sulfone, vinyl ketone, diazoalkanes, diazoacetyl compounds, epoxide, oxirane, aziridine, in which R is H or a linear, branched or cyclical alkyl group which may contain further functional groups or hetero atoms or aryl groups.
+</P>
+<P>
+15. The composition of any one of the above claims, wherein the cleavable linker L is a traceless prodrug linker and contains a carbamate.
+</P>
+</Claims>
+<Also_published_as>
+WO2005034909A2;WO2005034909A3;US2011172390A1;US2007020224A1;US7879588B2;EP1682186A2;EP1525890A1
+</Also_published_as>
+</BiblioData>

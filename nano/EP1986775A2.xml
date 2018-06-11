@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PROCESS FOR CONTINUOUSLY PREPARING CATALYSTS
+</Title>
+<PublicationNumber>
+EP1986775A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BUCHHOLZ SIGURD [DE]
+</Name>
+<Name>
+MICHELE VOLKER [DE]
+</Name>
+<Name>
+MLECZKO LESLAW [DE]
+</Name>
+<Name>
+MUENNICH CHRISTIAN [DE]
+</Name>
+<Name>
+RUDOLF REINER [DE]
+</Name>
+<Name>
+WOLF AUREL [DE]
+</Name>
+<Name>
+BUCHHOLZ, SIGURD
+</Name>
+<Name>
+MICHELE, VOLKER
+</Name>
+<Name>
+MLECZKO, LESLAW
+</Name>
+<Name>
+MUENNICH, CHRISTIAN
+</Name>
+<Name>
+RUDOLF, REINER
+</Name>
+<Name>
+WOLF, AUREL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BAYER MATERIALSCIENCE AG [DE]
+</Name>
+<Name>
+BAYER MATERIALSCIENCE AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1986775
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070703395
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP01160
+</PriorityNumber>
+<PriorityDate>
+2007-02-12
+</PriorityDate>
+<PriorityNumber>
+DE200610007147
+</PriorityNumber>
+<PriorityDate>
+2006-02-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J23/889
+</Class>
+<Class>
+B01J37/03
+</Class>
+<Class>
+C01B31/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J23/889B
+</Class>
+<Class>
+B01J23/889M
+</Class>
+<Class>
+B01J37/03B2
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+<Class>
+C01B31/02B4B4
+</Class>
+</NCL>
+<Abstract>
+Die Erfindung betrifft ein neues Verfahren zur kontinuierlichen Herstellung von Katalysatoren. Diese Katalysatoren werden zur Produktion von Kohlenstoffnanoröhrchen durch Zersetzung von gasförmigen Kohlenstoffverbindungen eingesetzt.
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zur kontinuierlichen Herstellung von Katalysatoren für die Bildung von Kohlenstoffnanoröhrchen, unfassend die kontinuierliche Zugabe mindestens einer Metallsalzlösung in einen Reaktor, in dem Bedingungen herrschen, die zu einer Fällung des Katalysators führen, sowie die kontinuierliche Entnahme des durch Fällung gebildeten Katalysators, wobei die Bedingungen, die zu einer Fällung des Katalysators führen, hervorgerufen werden durch eine Änderung Temperatur, der Konzentration, des pH-Wertes und/oder durch die Zugabe eines Fällungsagenzes.
+</P>
+<P>
+2. Verfahren gemäss Anspruch 1, dadurch gekennzeichnet, dass die Bedingungen, die zu einer Fällung des Katalysators führen, hervorgerufen werden durch eine Zugabe eines Fällungsagenzes ausgewählt aus der Gruppe bestehend aus Ammoniumcarbonat, Ammoniumhydroxid, Harnstoff, Alkali- bzw. Erdalkalicarbonaten, Aklkali- bzw. Erdalkalihydroxiden.
+</P>
+<P>
+3. Verfahren gemäss Anspruch 2, dadurch gekennzeichnet, dass die Metallsalzlösung und das Fällungsagenz mittels Förderapparaten in einem Mischorgan mit hoher Mischintensität vermischt werden.
+</P>
+<P>
+4. Verfahren gemäss einem der Ansprüche 1 bis 3, dadurch gekennzeichnet, dass die Metallsalzlösung mindestens ein Metall ausgewählt aus Fe, Ni, Cu, W, V, Cr, Sn, Co, Mn und Mo enthält.
+</P>
+<P>
+5. Verfahren gemäss einem der Ansprüche 1 bis 4, dadurch gekennzeichnet, dass zusätzlich eine kontinuierliche Zugabe einer Lösung einer weiteren Komponente, die in weiteren Schritten der Katalysatorbehandlung ein Trägermaterial oder eine katalytische aktive Mischverbindung formt, erfolgt.
+</P>
+<P>
+6. Verfahren gemäss Anspruch 5, dadurch gekennzeichnet, dass die weitere Komponente Al, Mg, Si, Zr oder Ti enthält.
+</P>
+<P>
+7. Katalysator erhältlich nach einem Verfahren gemäss einem der Ansprüche 1 bis 6.
+</P>
+<P>
+8. Katalysator gemäss Anspruch 7, dadurch gekennzeichnet, dass er 2-98 mol.-% Mn und 2-98 mol.-% Co bezogen auf den Gehalt aktiver Komponenten in metallischer Form enthält.
+</P>
+<P>
+9. Verfahren zur Herstellung von Kohlenstoffnanoröhrchen umfassend die Zersetzung eines Kohlenstoff abgebenden Edukts an einem Katalysator gemäss Anspruch 7 oder 8.
+</P>
+<P>
+10. Kohlenstoffnanoröhrchen erhältlich nach einem Verfahren gemäss Anspruch 9.
+</P>
+<P>
+11. Verwendung der Kohlenstoffnanoröhrchen nach Anspruch 10 in Polymerkompositmaterialien, Keramik- oder Metallkompositmaterialien zur Verbesserung der elektrischen oder Wärme-Leitfähigkeit und mechanischen Eigenschaften, zur Herstellung von leitfähigen Beschichtungen und Kompositmaterialien, als Farbstoff, in Batterien, Kondensatoren, Displays (z.B. Flat Screen Displays) oder Leuchtmitteln, als Field Effect Transistor, als Speichermedium z.B. für Wasserstoff oder Lithium, in Membranen z.B. für die Reinigung von Gasen, als Katalysator oder als Trägermaterial z.B. für katalytisch aktive Komponenten in chemischen Reaktionen, in Brennstoffzellen, im medizinischen Bereich z.B. als Gerüst zur Wachstumssteuerung von Zellgewebe, im diagnostischen Bereich z.B. als Macker, sowie in der chemischen und physikalischen Analytik (z.B. in Rasterkraftmikroskopen).
+</P>
+</Claims>
+<Also_published_as>
+DE102006007147A1;US2008003169A1;US8093176B2;TW200800392A;SG169994A1;KR20080094690A;JP2009526726A;WO2007093337A2;WO2007093337A3;CN101384358A
+</Also_published_as>
+</BiblioData>

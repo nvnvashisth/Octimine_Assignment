@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CONTROLLED MODIFICATION OF SEMICONDUCTOR NANOCRYSTALS
+</Title>
+<PublicationNumber>
+EP2165185A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TING ALICE [US]
+</Name>
+<Name>
+BAWENDI MOUNGI [US]
+</Name>
+<Name>
+HOWARTH MARK [US]
+</Name>
+<Name>
+LIU WENHAO [US]
+</Name>
+<Name>
+TING, ALICE
+</Name>
+<Name>
+BAWENDI, MOUNGI
+</Name>
+<Name>
+HOWARTH, MARK
+</Name>
+<Name>
+LIU, WENHAO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MASSACHUSETTS INST TECHNOLOGY [US]
+</Name>
+<Name>
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2165185
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080771583
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US67649
+</PriorityNumber>
+<PriorityDate>
+2008-06-20
+</PriorityDate>
+<PriorityNumber>
+US20070946281P
+</PriorityNumber>
+<PriorityDate>
+2007-06-26
+</PriorityDate>
+<PriorityNumber>
+US20070990485P
+</PriorityNumber>
+<PriorityDate>
+2007-11-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N21/64
+</Class>
+<Class>
+G01N33/58
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N33/58J
+</Class>
+</NCL>
+<Abstract>
+A controlled valency semiconductor nanocrystal can have a desired number of compounds associated with it. The semiconductor nanocrystal can have exactly one compound associated with it, and the compound can have exactly one binding site for an affinity target. The semiconductor nanocrystal can be used to image single copies of cell-surface proteins.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method of making a controlled valency semiconductor nanocrystal, comprising: contacting a population of semiconductor nanocrystals with a compound having an affinity for the semiconductor nanocrystal to form a distribution of compound-associated nanocrystals; and separating the members of the distribution of compound-associated nanocrystals according to the number of compounds associated with each nanocrystal.
+</P>
+<P>
+2. The method of claim 1, further comprising isolating members of the distribution of compound-associated nanocrystals which have exactly one compound associated with a nanocrystal.
+</P>
+<P>
+3. The method of claim 2, wherein the compound is capable of selectively binding a ligand.
+</P>
+<P>
+4. The method of claim 3, wherein the compound is capable of selectively binding exactly one ligand.
+</P>
+<P>
+5. The method of claim 2, wherein the compound is an avidin or a streptavidin.
+</P>
+<P>
+6. The method of claim 5, wherein the compound is a monovalent avidin or a monovalent streptavidin.
+</P>
+<P>
+7. The method of claim 5, wherein the compound includes a polyhistidine tag.
+</P>
+<P>
+8. The method of claim 3, wherein the compound is an antibody.
+</P>
+<P>
+9. The method of claim 8, wherein the compound is a single-chain antibody.
+</P>
+<P>
+10. The method of claim 1, wherein the semiconductor nanocrystal further comprises an outer layer including a compound of formula (I): R&amp;lt;1&amp;gt;-L&amp;lt;1&amp;gt;-R&amp;lt;2&amp;gt;-L&amp;lt;2&amp;gt;-R&amp;lt;3&amp;gt;(I)
+</P>
+<P>
+wherein
+</P>
+<P>
+R&amp;lt;1&amp;gt; is a straight or branched C1-C10 alkyl, alkenyl or alkynyl chain, optionally interrupted by one or more of -O-, -S-, -C(O)-, -N(R&amp;lt;4&amp;gt;)-, or -C(O)N(R&amp;lt;4&amp;gt;)-; and substituted with two or more groups selected from hydroxy, thiol, amino, nitroxide, phosphine, or phosphine oxide;
+</P>
+<P>
+L&amp;lt;1&amp;gt; is -C(O)-, -N(R&amp;lt;4&amp;gt;)C(0)-, -C(O)N(R&amp;lt;4&amp;gt;)-, -O-, -N(R&amp;lt;4&amp;gt;)-, -0-N(R&amp;lt;4&amp;gt;)C(0)-, -C(0)N(R&amp;lt;4&amp;gt;)-0-, or -(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;)n-;
+</P>
+<P>
+R&amp;lt;2&amp;gt; is -[(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;)n-X-(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;)n]m-, wherein X is O, S, C(=O), or N(R&amp;lt;4&amp;gt;); and m is an integer in the range 0 to 20;
+</P>
+<P>
+L&amp;lt;2&amp;gt; is -C(O)-, -N(R&amp;lt;4&amp;gt;)C(0)-, -C(O)N(R&amp;lt;4&amp;gt;)-, -O-, -N(R&amp;lt;4&amp;gt;)-, -0-N(R&amp;lt;4&amp;gt;)C(0)-, -C(0)N(R&amp;lt;4&amp;gt;)-0-, or -(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;)n-;
+</P>
+<P>
+R&amp;lt;3&amp;gt; is -(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;)p-R&amp;lt;7&amp;gt; where R&amp;lt;7&amp;gt; is -COOH, -OP(O)(OH)OH, amino, alkylamino, dialkylamino, or trialkylamino; and p is O, 1, 2, 3, 4, 5, or 6; R&amp;lt;4&amp;gt; is H or C1-C6 alkyl; each R&amp;lt;5&amp;gt; and each R&amp;lt;6&amp;gt; are, independently, selected from H, hydroxy, amino, thio, nitro, alkylamino, dialkylamino, alkyl, cycloalkyl, alkenyl, alkynyl, alkoxy, aryl, and heteroaryl; and each n is independently 0, 1, 2, 3, 4, 5, or 6.
+</P>
+<P>
+11. A method of imaging a single particle, comprising: joining an affinity tag to a cell-surface protein; contacting the cell with a composition comprising a valency controlled semiconductor nanocrystal associated with exactly one compound having exactly one binding site for the affinity tag; and imaging the cell and semiconductor nanocrystal substantially simultaneously.
+</P>
+<P>
+12. The method of claim 11 , wherein the affinity tag is biotin.
+</P>
+<P>
+13. The method of claim 12, wherein joining an affinity tag to a cell-surface protein includes contacting a fusion protein including an acceptor peptide (AP) sequence with a biotin ligase.
+</P>
+<P>
+14. The method of claim 13, wherein the semiconductor nanocrystal is associated with exactly one monovalent avidin or exactly one monovalent streptavidin.
+</P>
+<P>
+15. The method of claim 14, wherein the semiconductor nanocrystal includes an outer layer including a compound of formula (I):
+</P>
+<P>
+R&amp;lt;1&amp;gt;-L&amp;lt;1&amp;gt;-R&amp;lt;2&amp;gt;-L&amp;lt;2&amp;gt;-R&amp;lt;3&amp;gt; (I)
+</P>
+<P>
+wherein
+</P>
+<P>
+R&amp;lt;1&amp;gt; is a straight or branched C1-C10 alkyl, alkenyl or alkynyl chain, optionally interrupted by one or more of -O-, -S-, -C(O)-, -N(R&amp;lt;4&amp;gt;)-, or -C(O)N(R&amp;lt;4&amp;gt;)-; and substituted with two or more groups selected from hydroxy, thiol, amino, nitroxide, phosphine, or phosphine oxide;
+</P>
+<P>
+L&amp;lt;1&amp;gt; is -C(O)-, -N(R&amp;lt;4&amp;gt;)C(0)-, -C(O)N(R&amp;lt;4&amp;gt;)-, -O-, -N(R&amp;lt;4&amp;gt;)-, -0-N(R&amp;lt;4&amp;gt;)C(0)-, -C(0)N(R&amp;lt;4&amp;gt;)-0-, or -(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;V;
+</P>
+<P>
+R&amp;lt;2&amp;gt; is -[(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;)n-X-(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;)n]m-, wherein X is O, S, C(=O), or N(R&amp;lt;4&amp;gt;); and m is an integer in the range 0 to 20; L&amp;lt;2&amp;gt; is -C(O)-, -N(R&amp;lt;4&amp;gt;)C(0)-, -C(O)N(R&amp;lt;4&amp;gt;)-, -O-, -N(R&amp;lt;4&amp;gt;)-, -0-N(R&amp;lt;4&amp;gt;)C(0)-, -C(0)N(R&amp;lt;4&amp;gt;)-0-, or -(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;V;
+</P>
+<P>
+R&amp;lt;3&amp;gt; is -(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;VR&amp;lt;7&amp;gt; where R&amp;lt;7&amp;gt; is -COOH, -OP(O)(OH)OH, amino, alkylamino, dialkylamino, or trialkylamino; and p is 0, 1, 2, 3, 4, 5, or 6;
+</P>
+<P>
+R&amp;lt;4&amp;gt; is H or C1-C6 alkyl; each R and each R are, independently, selected from H, hydroxy, amino, thio, nitro, alkylamino, dialkylamino, alkyl, cycloalkyl, alkenyl, alkynyl, alkoxy, aryl, and heteroaryl; and each n is independently 0, 1, 2, 3, 4, 5, or 6.
+</P>
+<P>
+16. The method of claim 15, wherein the compound of formula (I) has the formula:
+</P>
+<P>
+or the formula:
+</P>
+<P>
+17. A semiconductor nanocrystal comprising an outer layer including compound of formula (I): R&amp;lt;1&amp;gt;-L&amp;lt;1&amp;gt;-R&amp;lt;2&amp;gt;-L&amp;lt;2&amp;gt;-R&amp;lt;3&amp;gt;(I)
+</P>
+<P>
+wherein R&amp;lt;1&amp;gt; is a straight or branched Ci-Cio alkyl, alkenyl or alkynyl chain, optionally interrupted by one or more of -O-, -S-, -C(O)-, -N(R&amp;lt;4&amp;gt;)-, or -C(O)N(R&amp;lt;4&amp;gt;)-; and substituted with two or more groups selected from hydroxy, thiol, amino, nitroxide, phosphine, or phosphine oxide;
+</P>
+<P>
+L&amp;lt;1&amp;gt; is -C(O)-, -N(R&amp;lt;4&amp;gt;)C(0)-, -C(O)N(R&amp;lt;4&amp;gt;)-, -O-, -N(R&amp;lt;4&amp;gt;)-, -0-N(R&amp;lt;4&amp;gt;)C(0)-, -C(0)N(R&amp;lt;4&amp;gt;)-0-, or -(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;)n-; R&amp;lt;2&amp;gt; is -[(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;)n-X-(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;)n]m-, wherein X is O, S, C(=O), or N(R&amp;lt;4&amp;gt;); and m is an integer in the range 0 to 20;
+</P>
+<P>
+L&amp;lt;2&amp;gt; is -C(O)-, -N(R&amp;lt;4&amp;gt;)C(0)-, -C(O)N(R&amp;lt;4&amp;gt;)-, -O-, -N(R&amp;lt;4&amp;gt;)-, -0-N(R&amp;lt;4&amp;gt;)C(0)-, -C(0)N(R&amp;lt;4&amp;gt;)-0-, or -(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;)n-;
+</P>
+<P>
+R&amp;lt;3&amp;gt; is -(CR&amp;lt;5&amp;gt;R&amp;lt;6&amp;gt;)p-R&amp;lt;7&amp;gt; where R&amp;lt;7&amp;gt; is -COOH, -OP(O)(OH)OH, amino, alkylamino, dialkylamino, or trialkylamino; and p is 0, 1, 2, 3, 4, 5, or 6;
+</P>
+<P>
+R&amp;lt;4&amp;gt; is H or Ci-C6 alkyl; each R&amp;lt;5&amp;gt; and each R&amp;lt;6&amp;gt; are, independently, selected from H, hydroxy, amino, thio, nitro, alkylamino, dialkylamino, alkyl, cycloalkyl, alkenyl, alkynyl, alkoxy, aryl, and heteroaryl; and each n is independently 0, 1, 2, 3, 4, 5, or 6.
+</P>
+<P>
+18. The semiconductor nanocrystal of claim 17, wherein R&amp;lt;1&amp;gt; is HS-CH2CH2CH(SH)-(CH2V.
+</P>
+<P>
+19. The semiconductor nanocrystal of claim 17, wherein R&amp;lt;2&amp;gt; is a poly(alkylene oxide).
+</P>
+<P>
+20. The semiconductor nanocrystal of claim 19, wherein R&amp;lt;2&amp;gt; is a poly(ethylene glycol).
+</P>
+<P>
+21. The semiconductor nanocrystal of claim 17, wherein R&amp;lt;2&amp;gt; has the formula -[CH2-O-CH2]m-, wherein m is approximately 8.
+</P>
+<P>
+22. The semiconductor nanocrystal of claim 17, wherein R&amp;lt;3&amp;gt; is -CH2-R&amp;lt;7&amp;gt; wherein R&amp;lt;7&amp;gt; is amino, alkylamino, dialkylamino, or trialkylamino.
+</P>
+<P>
+23. The semiconductor nanocrystal of claim 17, wherein R&amp;lt;7&amp;gt; is -COOH.
+</P>
+<P>
+24. The semiconductor nanocrystal of claim 17, wherein R&amp;lt;3&amp;gt; is -CH2COOH.
+</P>
+<P>
+25. The semiconductor nanocrystal of claim 17, wherein R&amp;lt;1&amp;gt; is
+</P>
+<P>
+HS-CH2CH2CH(SH)-(CH2)4-, R&amp;lt;2&amp;gt; is a poly(alkylene oxide), and R&amp;lt;7&amp;gt; is -COOH, amino, alkylamino, dialkylamino, or trialkylamino.
+</P>
+<P>
+26. The semiconductor nanocrystal of claim 17, wherein the compound has the formula:
+</P>
+<P>
+or the formula:
+</P>
+</Claims>
+<Also_published_as>
+EP2165185A4;WO2009002837A1;US2011059467A1;JP2011508793A
+</Also_published_as>
+</BiblioData>

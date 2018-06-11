@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+RESIN COMPOSITION AND METHOD FOR PRODUCING SAME
+</Title>
+<PublicationNumber>
+EP2006332A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KUWAHARA HIROAKI [JP]
+</Name>
+<Name>
+HONDA SUSUMU [JP]
+</Name>
+<Name>
+BANDO YOSHIO [JP]
+</Name>
+<Name>
+ZHI CHUNYI [JP]
+</Name>
+<Name>
+TANG CHENGCHUN [JP]
+</Name>
+<Name>
+GOLBERG DMITRI [JP]
+</Name>
+<Name>
+KUWAHARA, HIROAKI
+</Name>
+<Name>
+HONDA, SUSUMU
+</Name>
+<Name>
+BANDO, YOSHIO
+</Name>
+<Name>
+ZHI, CHUNYI
+</Name>
+<Name>
+TANG, CHENGCHUN
+</Name>
+<Name>
+GOLBERG, DMITRI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TEIJIN LTD [JP]
+</Name>
+<Name>
+NAT INST FOR MATERIALS SCIENCE [JP]
+</Name>
+<Name>
+TEIJIN LIMITED
+</Name>
+<Name>
+NATIONAL INSTITUTE FOR MATERIALS SCIENCE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2006332
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070714332
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP52802
+</PriorityNumber>
+<PriorityDate>
+2007-02-09
+</PriorityDate>
+<PriorityNumber>
+JP20060033524
+</PriorityNumber>
+<PriorityDate>
+2006-02-10
+</PriorityDate>
+<PriorityNumber>
+JP20060036145
+</PriorityNumber>
+<PriorityDate>
+2006-02-14
+</PriorityDate>
+<PriorityNumber>
+JP20060153486
+</PriorityNumber>
+<PriorityDate>
+2006-06-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C08J3/20
+</Class>
+<Class>
+C08J5/00
+</Class>
+<Class>
+C08K3/38
+</Class>
+<Class>
+C08K7/24
+</Class>
+<Class>
+C08L77/00
+</Class>
+<Class>
+C08L79/08
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C08J3/205D
+</Class>
+<Class>
+C08J3/20H
+</Class>
+<Class>
+C08J5/00N
+</Class>
+<Class>
+C08J5/18
+</Class>
+</NCL>
+<Abstract>
+The object of this invention consists in providing a polyamide resin composition excellent in insulating properties, mechanical properties and dimensional stability. This invention is a resin composition containing 100 parts by weight of a polyamide resin and 0.01 to 50 parts by weight of boron nitride nanotubes.
+</Abstract>
+<Claims>
+<P>
+1. A resin composition comprising 100 parts by weight of a polyamide and 0.01 to 50 parts by weight of boron nitride nanotubes.
+</P>
+<P>
+2. The resin composition of claim 1, wherein the content of the boron nitride nanotubes per 100 parts by weight of the polyamide is 0.01 to 30 parts by weight.
+</P>
+<P>
+3. The resin composition of claim 1, wherein the boron nitride nanotubes have an average diameter of 0.4 nm to 1 m and an aspect ratio of 5 or more.
+</P>
+<P>
+4. The resin composition of claim 1, wherein the polyamide mainly contains recurring units of the following formula (1),
+</P>
+<P>
+wherein X is
+</P>
+<P>
+in which each of R&amp;lt;1&amp;gt; , R&amp;lt;2&amp;gt; and R&amp;lt;3&amp;gt; is independently an aliphatic hydrocarbon group having 2 to 16 carbon atoms or an aromatic hydrocarbon group having 6 to 20 carbon atoms,
+</P>
+<P>
+Ar&amp;lt;1&amp;gt; is an aromatic hydrocarbon group having 6 to 20 carbon atoms,
+</P>
+<P>
+Ar&amp;lt;2&amp;gt; is an aromatic hydrocarbon group having 6 to 20 carbon atoms or an aliphatic hydrocarbon group having 2 to 16 carbon atoms, and
+</P>
+<P>
+each of Y&amp;lt;1&amp;gt; and Y&amp;lt;2&amp;gt; is independently a hydrogen atom or an alkyl group having 1 to 16 carbon atoms.
+</P>
+<P>
+5. The resin composition of claim 1, wherein the polyamide mainly contains recurring units of the following formula (2),
+</P>
+<P>
+in which each of R&amp;lt;1&amp;gt; and R&amp;lt;2&amp;gt; is independently an aliphatic hydrocarbon group having 4 to 16 carbon atoms.
+</P>
+<P>
+6. The resin composition of claim 5, wherein R&amp;lt;1&amp;gt; is a tetramethylene group, a hexamethylene group, a decamethylene group or a 1,4-cyclohexylene group and R&amp;lt;2&amp;gt; is a tetramethylene group, a hexamethylene group, a nonamethylene group or a 1,4-cyclohexylene group in the formula (2).
+</P>
+<P>
+7. The resin composition of claim 1, wherein the polyamide mainly contains recurring units of the following formula (3),
+</P>
+<P>
+in which R&amp;lt;3&amp;gt; is a divalent aliphatic hydrocarbon group having 2 to 12 carbon atoms.
+</P>
+<P>
+8. The resin composition of claim 7, wherein R&amp;lt;3&amp;gt; is a pentamethylene group, a decamethylene group or an undecamethylene group in the formula (3).
+</P>
+<P>
+9. The resin composition of claim 1, wherein the polyamide mainly contains recurring units of the following formula (2),
+</P>
+<P>
+in which each of R&amp;lt;1&amp;gt; and R&amp;lt;2&amp;gt; is independently an aromatic hydrocarbon group having 6 to 20 carbon atoms.
+</P>
+<P>
+10. The resin composition of claim 1, wherein the polyamide mainly contains recurring units of the following formula (2),
+</P>
+<P>
+wherein R&amp;lt;1&amp;gt; is an aromatic hydrocarbon group having 6 to 20 carbon atoms, and
+</P>
+<P>
+R&amp;lt;2&amp;gt; is an aliphatic hydrocarbon group having 2 to 20 carbon atoms.
+</P>
+<P>
+11. The resin composition of claim 1, wherein the polyamide mainly contains recurring units of the following formula (4),
+</P>
+<P>
+wherein Ar&amp;lt;1&amp;gt; is a trivalent aromatic hydrocarbon group having 5 to 20 carbon atoms, and
+</P>
+<P>
+Ar&amp;lt;2&amp;gt; is a divalent aromatic hydrocarbon group having 5 to 20 carbon atoms.
+</P>
+<P>
+12. The resin composition of claim 11, wherein Ar&amp;lt;1&amp;gt; is
+</P>
+<P>
+and Ar&amp;lt;2&amp;gt; is
+</P>
+<P>
+or
+</P>
+<P>
+13. The resin composition of claim 1, wherein the polyamide main contains recurring units of the following formula (2),
+</P>
+<P>
+in which R&amp;lt;1&amp;gt; is a phenylene group, and
+</P>
+<P>
+R&amp;lt;2&amp;gt; is an aliphatic hydrocarbon group having 3 to 16 carbon atoms and having a side chain or an alicyclic hydrocarbon group having 5 to 16 carbon atoms.
+</P>
+<P>
+14. The resin composition of claim 1, wherein the polyamide is amorphous.
+</P>
+<P>
+15. The resin composition of claim 1, wherein the polyamide is crystalline.
+</P>
+<P>
+16. The resin composition of claim 1, wherein the boron nitride nanotubes are coated with a conjugated polymer.
+</P>
+<P>
+17. The resin composition of claim 1, wherein the conjugated polymer is polyphenylenevinylene, polythiophene, polyphenylene, polypyrrole, polyaniline or polyacetylene.
+</P>
+<P>
+18. A formed article from the resin composition of claim 1.
+</P>
+<P>
+19. The formed article of claim 14, which is a film or a fiber.
+</P>
+<P>
+20. A process for the production of the resin composition of claim 1, which comprises the steps of
+</P>
+<P>
+(i) mixing 0.01 to 50 parts by weight of boron nitride nanotubes with a solvent to obtain a dispersion,
+</P>
+<P>
+(ii) adding a polyamide to the dispersion to obtain a dope such that the amount of the boron nitride nanotubes is 0.01 to 50 parts by weight per 100 parts by weight of the polyamide, and
+</P>
+<P>
+(iii) removing the solvent.
+</P>
+<P>
+21. The process for the production of a resin composition as recited in claim 1, wherein the polyamide and the boron nitride nanotubes are melt-kneaded.
+</P>
+<P>
+22. The process for the production of a resin composition as recited in claim 1, wherein the polyamide is produced by polycondensation in the presence of the boron nitride nanotubes.
+</P>
+<P>
+23. A process for the production of a formed article, which comprises wet-forming a dope containing 100 parts by weight of a polyamide, 0.01 to 50 parts by weight of boron nitride nanotubes and a solvent into the formed article.
+</P>
+<P>
+24. A process for the production of a formed article, which comprises melt-forming a resin composition containing 100 parts by weight of a polyamide and 0.01 to 50 parts by weight of boron nitride nanotubes into the formed article.
+</P>
+</Claims>
+<Also_published_as>
+EP2006332A4;US2009221734A1;WO2007091737A1
+</Also_published_as>
+</BiblioData>

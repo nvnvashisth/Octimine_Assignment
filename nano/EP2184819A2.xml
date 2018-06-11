@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Optically pumped semiconductor devices for generating radiation, fabrication of the same and method for compensating tensions within their layer sequences
+</Title>
+<PublicationNumber>
+EP2184819A2
+</PublicationNumber>
+<Inventor>
+<Name>
+STOLZ WOLFGANG DR [DE]
+</Name>
+<Name>
+LUTGEN STEPHAN [DE]
+</Name>
+<Name>
+STOLZ, WOLFGANG DR
+</Name>
+<Name>
+LUTGEN, STEPHAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV MARBURG PHILIPPS [DE]
+</Name>
+<Name>
+PHILIPPS-UNIVERSITAET MARBURG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2184819
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090014857
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-11-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040802833
+</PriorityNumber>
+<PriorityDate>
+2004-11-25
+</PriorityDate>
+<PriorityNumber>
+DE20031055357
+</PriorityNumber>
+<PriorityDate>
+2003-11-25
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/04
+</Class>
+<Class>
+H01S5/183
+</Class>
+<Class>
+H01S5/34
+</Class>
+<Class>
+H01S5/343
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/04B
+</Class>
+</NCL>
+<Abstract>
+The semiconductor layer sequence has one or more layers produces by the use of tertiary butyl arsine and/or tertiary butyl phosphine sources in a conventional epitaxial process. The at least one layer is implemented as a strain compensating layer for the surrounding or layer(s) of the semiconductor device. Independent claims are also included for the following: (A) optically pumped semiconductor devices for generating radiation (B) and a method of manufacturing semiconductor layer structures (C) the use of TBAs or/and TBP sources for epitaxial processes for manufacturing strain compensating semiconducting layers.
+</Abstract>
+<Claims>
+<P>
+1. Halbleiter-Schichtfolge, die als Licht erzeugende Schicht wenigstens einen Quantenfilm und die mindestens eine verspannungskompensierende Schicht für die umgebende oder umgebenden Schichte(n) enthält, wobei die verspannungskompensierende Schicht eine zug- und/oder kompressionsverspannte Halbleiterschicht ist, die Arsen und/oder Phosphor aus TBAs- und/oder TBP-Quellen enthält, dadurch gekennzeichnet, dass der Quantenfilm aus InGaAsN oder InGaAsNSb und die verspannungskompensierende Schicht aus Ga(NAs) oder/und (Galn)(NAs) besteht.
+</P>
+<P>
+2. Halbleiterschichtfolge nach Anspruch 1, dadurch gekennzeichnet, dass die Halbleiterschichtfolge mittels metallorganischer Gasphasenepitaxie (MOVPE) zwischen 300[deg.]C und 600[deg.]C erhältlich ist.
+</P>
+<P>
+3. Halbleiterschichtfolge nach einem der Ansprüche 1 oder 2, dadurch gekennzeichnet, dass die verspannungskompensierende Schicht innerhalb der in ihrer einzelnen oder gemeinsamen Spannung zu kompensierenden Schichten abgeschieden ist.
+</P>
+<P>
+4. Halbleiter-Schichtfolge nach einem der Ansprüche 1 bis 3, dadurch gekennzeichnet, dass sie einen aktiven Bereich aufweist und eine oder mehrere der zug- und/oder kompressionsverspannten Halbleiterschicht(en) in diesem aktiven Bereich angeordnet ist (sind).
+</P>
+<P>
+5. Halbleiter-Schichtfolge nach einem der Ansprüche 1 bis 4, dadurch gekennzeichnet, dass mindestens eine der zug- und/oder kompressionsverspannten Halbleiterschichten im Bereich der als Reflektor oder Ein- oder Vielschichtspiegel aufgeführten Halbleiterschichten angeordnet ist.
+</P>
+<P>
+6. Optisch gepumpte Halbleitervorrichtung zur Erzeugung von Strahlung, dadurch gekennzeichnet, dass sie eine oder mehrere der Halbleiter-Schichtfolgen nach einem der Ansprüche 1 bis 5 aufweist.
+</P>
+<P>
+7. Halbleitervorrichtung nach Anspruch 6, dadurch gekennzeichnet, dass sie mindestens ein Quantenwellpaket aufweist, welches ein oder zwei Quantenfilme aufweist.
+</P>
+<P>
+8. Halbleitervorrichtung nach einem der Ansprüche 6 oder 7, dadurch gekennzeichnet, dass sie 5 bis 25 Quantenwellpakete aufweist.
+</P>
+<P>
+9. Verfahren zur Herstellung von Halbleiter-Schichtfolgen nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass die verspannungskompensierende Schicht durch metallorganische Gasphasenepitaxie (MOVPE) bei einer Temperatur von 300[deg.]C bis 600[deg.]C und unter Verwendung von TBAs-Quellen oder/und TBP-Quellen erhalten und zug- oder/und kompressionsverspannt wird.
+</P>
+<P>
+10. Verfahren nach Anspruch 8, dadurch gekennzeichnet, dass die verspannungskompensierende Schicht innerhalb der in ihrer einzelnen oder gemeinsamen Spannung zu kompensierenden Schichten abgeschieden wird.
+</P>
+<P>
+11. Verfahren nach Anspruch 8 oder 9, dadurch gekennzeichnet, dass die umgebende Schicht eine kompressionsverspannte Halbleiterschicht ist.
+</P>
+</Claims>
+<Also_published_as>
+WO2005053125A1;US2007217457A1;EP1700363A1;EP1700363B1;AT473531T
+</Also_published_as>
+</BiblioData>

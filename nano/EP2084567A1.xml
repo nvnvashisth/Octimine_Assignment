@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+OPTICAL ELEMENT, METHOD FOR PRODUCTION THEREOF, AND USAGE THEREOF
+</Title>
+<PublicationNumber>
+EP2084567A1
+</PublicationNumber>
+<Inventor>
+<Name>
+THIEL MICHAEL [DE]
+</Name>
+<Name>
+VON FREYMANN GEORG [DE]
+</Name>
+<Name>
+WEGENER MARTIN [DE]
+</Name>
+<Name>
+THIEL, MICHAEL
+</Name>
+<Name>
+VON FREYMANN, GEORG
+</Name>
+<Name>
+WEGENER, MARTIN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KARLSRUHE FORSCHZENT [DE]
+</Name>
+<Name>
+FORSCHUNGSZENTRUM KARLSRUHE GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2084567
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070786566
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP06912
+</PriorityNumber>
+<PriorityDate>
+2007-08-04
+</PriorityDate>
+<PriorityNumber>
+DE200610050580
+</PriorityNumber>
+<PriorityDate>
+2006-10-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B27/28
+</Class>
+<Class>
+G02B5/18
+</Class>
+<Class>
+G02B5/30
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B1/00M1
+</Class>
+<Class>
+G02B27/28C
+</Class>
+<Class>
+G02B5/18E
+</Class>
+<Class>
+G02B5/18M2
+</Class>
+<Class>
+G02B5/30R
+</Class>
+</NCL>
+<Abstract>
+The isolator has a component (1) that possess a function of a quarter wave plate i.e. achromatic or superachromatic wave plate, and another component (2) i.e. cholesteric liquid crystal, adjacent to the former component, where the latter component includes a circular dichroism. A third component is adjacent to the latter component, where the third component possesses the function of the quarter wave plate. An optical-axis of the third component is arranged perpendicularly to an optical-axis of the former component. Structures made of lamellas are arranged parallel to each other as wave plate. Independent claims are also included for the following: (1) an arrangement with an optical isolator (2) a method for manufacturing of an optical isolator.
+</Abstract>
+<Claims>
+<P>
+1. Optischer Isolator für ein Frequenzfenster aus dem elektromagnetischen Spektrum, der eine erste Komponente, die die Funktion einer Viertelwellenplatte besitzt, und eine sich hieran anschliessende zweite Komponente, die einen zirkularen Dichroismus aufweist, umfasst.
+</P>
+<P>
+2. Optischer Isolator nach Anspruch 1, der zusätzlich eine sich an die zweite Komponente anschliessende dritte Komponente aufweist, wobei die dritte Komponente die Funktion einer Viertelwellenplatte besitzt und die optische Achse der dritten Komponente senkrecht zur optischen Achse der ersten Komponente angeordnet ist.
+</P>
+<P>
+3. Optischer Isolator nach Anspruch 1 oder 2 mit einer achromatischen oder superachromatischen Verzögerungsplatte als Viertelwellenplatte.
+</P>
+<P>
+4. Optischer Isolator nach Anspruch 1 oder 2 mit einer Struktur aus parallel zueinander angeordneten Lamellen als Viertelwellenplatte.
+</P>
+<P>
+5. Optischer Isolator nach einem der Ansprüche 1 bis 4 mit einem chiralen photonischen Kristall als zweite Komponente.
+</P>
+<P>
+6. Optischer Isolator nach Anspruch 5 mit einem photonischen Kristall aus einer Vielzahl von parallel zueinander angeordneten Spiralen, deren Längsachsen senkrecht zur optischen Achse der ersten Komponente angeordnet sind.
+</P>
+<P>
+7. Optischer Isolator nach Anspruch 5 mit einem photonischen Kristall, der aus gegeneinander um einen Winkel ungleich 90 deg. verdrehten doppelbrechenden anisotropen Schichten aufgebaut ist.
+</P>
+<P>
+8. Optischer Isolator nach einem der Ansprüche 1 bis 4 mit cholesterischen Flüssigkristallen als zweite Komponente.
+</P>
+<P>
+9. Anordnung mit einem optischen Isolator nach einem der Ansprüche 2 bis 8, der zwischen zwei gleich orientierten Polarisatoren angeordnet ist.
+</P>
+<P>
+10. Verfahren zur Herstellung eines optischen Isolators nach einem der Ansprüche 1 bis 7 mittels direktem Laserschreiben oder mittels Holographie.
+</P>
+<P>
+11. Verfahren zur Herstellung eines optischen Isolators nach Anspruch 8 durch Selbstorganisation der cholesterischen Flüssigkristalle.
+</P>
+<P>
+12. Verwendung eines optischen Isolators nach einem der Ansprüche 1 bis 8 zur Verringerung der Rückkopplung in einen Laser.
+</P>
+<P>
+13. Verwendung eines optischen Isolators nach einem der Ansprüche 1 bis 8 oder einer Anordnung nach Anspruch 9 zur Verringerung der Ausbreitung von ultraviolettem, sichtbarem oder infrarotem Licht in eine Richtung.
+</P>
+</Claims>
+<Also_published_as>
+DE102006050580A1;US2010079863A1;JP2010522891A;WO2008049475A1
+</Also_published_as>
+</BiblioData>

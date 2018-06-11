@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD AND SYSTEM FOR DOUBLE- SIDED PATTERNING OF SUBSTRATES
+</Title>
+<PublicationNumber>
+EP1957249A2
+</PublicationNumber>
+<Inventor>
+<Name>
+CHOI BYUNG-JIN [US]
+</Name>
+<Name>
+SREENIVASAN SIDLGATA V [US]
+</Name>
+<Name>
+CHOI, BYUNG-JIN
+</Name>
+<Name>
+SREENIVASAN, SIDLGATA V
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MOLECULAR IMPRINTS INC [US]
+</Name>
+<Name>
+MOLECULAR IMPRINTS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1957249
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060844789
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US46256
+</PriorityNumber>
+<PriorityDate>
+2006-11-30
+</PriorityDate>
+<PriorityNumber>
+US20050748430P
+</PriorityNumber>
+<PriorityDate>
+2005-12-08
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B29C35/02
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F9/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G03F7/70J
+</Class>
+<Class>
+G03F9/00
+</Class>
+</NCL>
+<Abstract>
+The present invention is directed towards a method and a system of patterning first and second opposed sides of a substrate. The method and system may employ a mold assembly and obtaining a desired spatial relationship between the first and second opposed sides of the substrate and the mold assembly. In a further embodiment, the method and system may employ a first and a second mold assembly.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method for patterning a substrate with a mold assembly, said substrate having first and second opposed sides, said method comprising the steps of:
+</P>
+<P>
+obtaining a first spatial relationship between said substrate and said mold assembly such that said first side of said substrate is in superimposition with said mold assembly, said mold assembly and said first side of said substrate having a material positioned therebetween;
+</P>
+<P>
+forming a pattern in said material on said first side of said substrate with said mold assembly, defining a first patterned layer;
+</P>
+<P>
+obtaining a second spatial relationship, differing from said first spatial relationship, between said substrate and said mold assembly such that said second side of said substrate is in superimposition with said mold assembly, with said mold assembly and said second side of said substrate having a material positioned therebetween; and
+</P>
+<P>
+forming a pattern in said material on said second side of said substrate with said mold assembly, defining a second patterned layer.
+</P>
+<P>
+2. The method as recited in claim 1 wherein the step of obtaining said second spatial relationship further comprises a step of flipping said substrate.
+</P>
+<P>
+3. The method as recited in claim 1 wherein the step of obtaining said second spatial relationship further comprises a step of flipping said substrate 180 degrees with respect to said mold assembly.
+</P>
+<P>
+4. A method for patterning a substrate, said substrate having first and second opposed sides, said method comprising the steps of:
+</P>
+<P>
+positioning a material on said first side of said substrate;
+</P>
+<P>
+obtaining a first spatial relationship between said substrate and a first mold assembly such that said first side of substrate is in superimposition with said first mold assembly;
+</P>
+<P>
+forming a pattern in said material on said first side on said substrate with said first mold assembly, defining a first patterned layer;
+</P>
+<P>
+positioning a material on said second side of said substrate;
+</P>
+<P>
+obtaining a second spatial relationship, differing from said first spatial relationship, between said substrate and said second mold assembly such that said second side of said substrate is in superimposition with said second mold assembly; and
+</P>
+<P>
+forming a pattern in said material on said second side of said substrate with said second mold assembly, defining a second patterned layer.
+</P>
+<P>
+5. The method as recited in claim 4 wherein the step of forming said pattern in said material on said first side of said substrate further comprises a step of coupling said substrate to said first mold assembly such that said material may be positioned on said second side of said substrate.
+</P>
+<P>
+6. A system for patterning a substrate having first and second opposed sides, said system comprising:
+</P>
+<P>
+a mold assembly; and
+</P>
+<P>
+a robot coupled to said substrate to alternatively place said substrate in first and second positions with respect to said mold assembly such that said mold assembly may contact a material positioned on said first opposed side of said substrate, defining a first patterned layer, and further contact a material positioned on said second opposed side of said substrate, defining a second patterned layer.
+</P>
+<P>
+7. The system as recited in claim 6 further including first and second opposed fluid dispensers, said first fluid dispenser positioning said material on said first side of said substrate and said second fluid dispenser positioning said material on said second side of said substrate.
+</P>
+<P>
+8. The system as recited in claim 6 further including an optical detection system to determine a spatial relationship between said mold assembly and said substrate.
+</P>
+<P>
+9. The system as recited in claim 6 wherein said robot further flips said substrate 180 degrees with respect to said mold assembly.
+</P>
+<P>
+10. A system for patterning a substrate having first and second opposed sides, said system comprising:
+</P>
+<P>
+a first mold assembly;
+</P>
+<P>
+a second mold assembly positioned opposite to said first mold assembly; and
+</P>
+<P>
+a translation stage alternatively placing said substrate in first and second positions with respect to said first and second mold assemblies such that in said first position said first mold assembly contacts a material positioned on said first side of said substrate and in said second position said second mold assembly contacts a material positioned on said second side of said substrate.
+</P>
+<P>
+11. The system as recited in claim 10 further including first and second opposed fluid dispensers, said first fluid dispenser positioning said material on said first side of said substrate and said second fluid dispenser positioning said material on said second side of said substrate.
+</P>
+<P>
+12. The system as recited in claim 10 further including an optical detection system to determine a spatial relationship between said mold assembly and said substrate.
+</P>
+<P>
+13. The system as recited in claim 10 wherein said robot further flips said substrate 180 degrees with respect to said mold assembly.
+</P>
+</Claims>
+<Also_published_as>
+US2007132152A1;US7670529B2;WO2007067488A2;WO2007067488A3;US2010129486A1;US8109754B2;TWI310726B;KR20080080338A;JP2009518863A;CN101535021A
+</Also_published_as>
+</BiblioData>

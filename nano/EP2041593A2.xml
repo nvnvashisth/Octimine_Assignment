@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC SENSOR DEVICE
+</Title>
+<PublicationNumber>
+EP2041593A2
+</PublicationNumber>
+<Inventor>
+<Name>
+KAHLMAN JOSEPHUS ARNOLDUS HENR [NL]
+</Name>
+<Name>
+PRINS MENNO WILLEM JOSE [NL]
+</Name>
+<Name>
+NIEUWENHUIS JEROEN HANS [NL]
+</Name>
+<Name>
+KAHLMAN, JOSEPHUS ARNOLDUS HENRICUS MARIA
+</Name>
+<Name>
+PRINS, MENNO WILLEM JOSE
+</Name>
+<Name>
+NIEUWENHUIS, JEROEN HANS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONINKL PHILIPS ELECTRONICS NV [NL]
+</Name>
+<Name>
+KONINKLIJKE PHILIPS ELECTRONICS N.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2041593
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070789854
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IB52558
+</PriorityNumber>
+<PriorityDate>
+2007-07-02
+</PriorityDate>
+<PriorityNumber>
+EP20060116957
+</PriorityNumber>
+<PriorityDate>
+2006-07-11
+</PriorityDate>
+<PriorityNumber>
+EP20070789854
+</PriorityNumber>
+<PriorityDate>
+2007-07-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N33/543
+</Class>
+<Class>
+G01R33/09
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01N27/74B
+</Class>
+<Class>
+G01N33/543D4B
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G01R33/12
+</Class>
+<Class>
+G01R33/12M
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a magnetic sensor device comprising means (11, 14) for increasing a binding possibility of magnetic or magnetizable objects (15) e.g. magnetic particles, onto the binding sites by applying a moving magnetic field. The present invention furthermore provides a biochip (40) comprising at least one such magnetic sensor and a method for detecting and/or quantifying target moieties in a sample fluid by using such a magnetic sensor.
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. A magnetic sensor device for detecting and/or quantifying target moieties in a sample fluid, the magnetic sensor device comprising:
+</P>
+<P>
+- a first sensor chip (16, 16a) having a top surface and binding sites,
+</P>
+<P>
+- means for attracting magnetic or magnetizable objects (15) towards and onto the top surface of the sensor chip (16, 16a), - at least one sensor element (12) for sensing the presence of magnetic or magnetizable objects (15), and
+</P>
+<P>
+- means (11, 14) for increasing a binding possibility of the magnetic or magnetizable objects (15) onto the binding sites by inducing a moving magnetic field.
+</P>
+<P>
+2. Magnetic sensor device according to claim 1, wherein the at least one sensor element (12) is integrated in the first sensor chip (16, 16a).
+</P>
+<P>
+3. Magnetic sensor device according to claim 1 or 2, wherein the means for increasing a binding possibility of magnetic or magnetizable objects (15) onto the binding sites comprises a plurality of concentric current lines (11) adapted for generating a moving magnetic field.
+</P>
+<P>
+4. Magnetic sensor device according to claim 1 or 2, wherein the means for increasing a binding possibility of magnetic or magnetizable objects (15) onto the binding sites comprises a plurality of parallel current wires (14) adapted for generating a moving magnetic field.
+</P>
+<P>
+5. Magnetic sensor device according to claim 4, wherein the plurality of parallel current wires (17) are positioned so as to form a closed circular configuration.
+</P>
+<P>
+6. Magnetic sensor device according to claim 1 or 2, furthermore comprising at least one container (22) for storing magnetic or magnetizable objects (15).
+</P>
+<P>
+7. A biochip (40) comprising at least one magnetic sensor device according to claim 1.
+</P>
+<P>
+8. A method for detecting and/or quantifying target moieties in a sample fluid, the method comprising:
+</P>
+<P>
+- providing the sample fluid to a magnetic sensor device,
+</P>
+<P>
+- attracting magnetic or magnetizable objects (15) to a sensor chip surface of the magnetic sensor device, the sensor chip surface having binding sites, and
+</P>
+<P>
+- applying a moving magnetic field for increasing a binding possibility of magnetic or magnetizable objects (15) onto the binding sites.
+</P>
+<P>
+9. A method according to claim 8, wherein applying a moving magnetic field may be performed by sequentially actuating a plurality of concentric current lines
+</P>
+<P>
+(11).
+</P>
+<P>
+10. A method according to claim 8, wherein applying a moving magnetic field may be performed by sequentially actuating a plurality of parallel current wires (14).
+</P>
+</Claims>
+<Also_published_as>
+WO2008007291A2;WO2008007291A3;US2009206832A1;JP2009543088A;CN101490576A
+</Also_published_as>
+</BiblioData>

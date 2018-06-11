@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC RESONANCE IMAGING CONTRAST AGENTS COMPRISING ZINC- CONTAINING MAGNETIC METAL OXIDE NANOPARTICLES
+</Title>
+<PublicationNumber>
+EP2131870A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHEON JIN-WOO [KR]
+</Name>
+<Name>
+JUN YOUNG-WOOK [KR]
+</Name>
+<Name>
+JANG JUNG-TAK [KR]
+</Name>
+<Name>
+CHEON, JIN-WOO
+</Name>
+<Name>
+JUN, YOUNG-WOOK
+</Name>
+<Name>
+JANG, JUNG-TAK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IND ACADEMIC COOP [KR]
+</Name>
+<Name>
+INDUSTRY-ACADEMIC COOPERATION FOUNDATION, YONSEI UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2131870
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080741295
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008KR02050
+</PriorityNumber>
+<PriorityDate>
+2008-04-11
+</PriorityDate>
+<PriorityNumber>
+KR20070036054
+</PriorityNumber>
+<PriorityDate>
+2007-04-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K49/06
+</Class>
+<Class>
+A61K49/18
+</Class>
+<Class>
+B22F1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K49/18R2N2H2
+</Class>
+<Class>
+A61K49/18R2N2K8
+</Class>
+<Class>
+A61K49/18R2N2R
+</Class>
+<Class>
+A61K49/18R2N2R2
+</Class>
+<Class>
+A61K49/18R2N2T
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C01G49/00C10
+</Class>
+<Class>
+C01G49/00D
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to an MRI contrast agent that includes zinc-containing water-soluble metal oxide nanoparticles and has an improved contrast effect. The zinc-containing water-soluble metal oxide nanoparticles are characterized by addition of zinc to a matrix comprising the metal oxide nanoparticles or by substitution of metal in the matrix, resulting in the improved contrast effect of MRI. In addition, the zinc-containing metal oxide nanoparticles of the present invention include the MRI contrast agent t having hybrid structures of &quot;zinc-containing metal oxide nanoparticle - biologically/chemically active material&quot; in which the nanoparticle is conjugated with a bioactive material such as proteins, antibodies, and chemical materials.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. An MRI contrast agent comprising: zinc-containing metal oxide nanoparticles.
+</P>
+<P>
+5 2. The MRI contrast agent as set forth in claim 1 , wherein said zinc-containing metal oxide nanoparticles are compounds in which zinc is added to a metal oxide nanoparticle matrix to substitute a matrix metal or to be incorporated into a vacant interstitial hole.
+</P>
+<P>
+3. The MRI contrast agent as set forth in claim 2, wherein said zinc-containing metalo oxide nanoparticles have improved saturation magnetization (Ms) or improved MR contrast effects (R2 or R1 ) as compared to the metal oxide nanoparticle matrix.
+</P>
+<P>
+4. The MRI contrast agent as set forth in claim 3, wherein said zinc-containing metal oxide nanoparticles have improved MRI contrast effect (R2 or R1 ) by at least 40 % as5 compared to the metal oxide nanoparticle matrix.
+</P>
+<P>
+5. The MRI contrast agent as set forth in any one of claims 1 to 3, wherein said zinc-containing metal oxide nanoparticles are compounds in which zinc is added to a metal oxide matrix to substitute a portion of matrix metal atoms or to be o incorporated into vacant interstitial holes, wherein said metal oxide matrix is a compound having a chemical formula of:
+</P>
+<P>
+(a) MaOb (0&amp;lt;a&amp;lt;16, 0&amp;lt;b&amp;lt;8, and M is a magnetic metal atom or an alloy thereof); or
+</P>
+<P>
+5 (0&amp;lt;c&amp;lt;16, 0&amp;lt;d&amp;lt;16, 0&amp;lt;e&amp;lt;8,
+</P>
+<P>
+M is a magnetic metal atom or an alloy thereof; and M&apos; is an element selected from the group consisting of Group 1 elements, Group 2 elements, Group 12 elements, Group 13 elements, Group 14 elements, Group 15 elements, transition metal elements, lanthanide elements, and actinide elements), and o wherein said zinc-containing metal oxide nanoparticles have a chemical formula of:
+</P>
+<P>
+(c) ZnfMa-f0b
+</P>
+<P>
+(0&amp;lt;f&amp;lt;8, 0&amp;lt;a&amp;lt;16, 0&amp;lt;b&amp;lt;8, 0&amp;lt;f/(a-f)&amp;lt;10, and M is a magnetic metal atom or an alloy thereof); or
+</P>
+<P>
+Cd) Zn9M^M dOe5 (0&amp;lt;g&amp;lt;8, 0&amp;lt;c&amp;lt;16, 0&amp;lt;d&amp;lt;16, 0&amp;lt;e&amp;lt;8, 0&amp;lt;g/{(c-g)+d}&amp;lt;10,
+</P>
+<P>
+M is a magnetic metal atom or an alloy thereof; and M&apos; is an element selected from the group consisting of Group 1 elements, Group 2 elements, Group 12 elements, Group 13 elements, Group 14 elements, Group 15 elements, transition metal elements, lanthanide elements, and actinide0 elements).
+</P>
+<P>
+6. The MRI contrast agent as set forth in any one of claims 1 to 3, wherein the dispersibility of the zinc-containing metal oxide nanoparticles to water is in the range of 1 [mu]g/ml to 500 mg/ml, and the hydrodynamic diameter of the nanoparticles that are dispersed in water is in the range of 1 nm to 500 [mu]m.
+</P>
+<P>
+5
+</P>
+<P>
+7. The MRI contrast agent as set forth in claim 5, wherein M&apos; is an element that is selected from the group consisting of Li, Na, K, Rb, Cs, Be, Mg, Ca, Sr, Ba, Ra, Ge, Ga, Bi, In, Si, Ge, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Y, Zr, Nb, Mo, Tc, Ru, Rh, Pd, Ag, Cd, Hf, Ta, W, Re, Os, Ir, R, Au, Hg, lanthanide elements, and actinide elements.0
+</P>
+<P>
+8. The MRI contrast agent as set forth in claim 5, wherein said zinc-containing metal oxide nanoparticles are compounds in which zinc is added to a metal oxide matrix to substitute a portion of matrix metal atoms or to be incorporated into vacant interstitial holes, wherein said metal oxide matrix is a compound having a chemical formula of:5 (e) M&quot;hFeiOj
+</P>
+<P>
+(0&amp;lt;h&amp;lt;16, 0&amp;lt;i&amp;lt;8, 0&amp;lt;j&amp;lt;=8, and M&quot; is a magnetic metal atom or an alloy thereof); and wherein said zinc-containing metal oxide nanoparticles have a chemical formula of:
+</P>
+<P>
+(f) ZnkM&quot;h-kFeiOj o (0&amp;lt;k&amp;lt;8, 0&amp;lt;h&amp;lt;=16, 0&amp;lt;i&amp;lt;8, 0&amp;lt;j&amp;lt;8, 0&amp;lt;k/{(h-k)+i}&amp;lt;10, and M&quot; is a magnetic metal atom or an alloy thereof).
+</P>
+<P>
+9. The MRI contrast agent as set forth in claim 8, wherein said zinc-containing metal oxide nanoparticles are compounds in which zinc is added to a metal oxide matrix to 5 substitute a portion of matrix metal atoms or to be incorporated into vacant interstitial holes, wherein said metal oxide matrix is a compound having a chemical formula of:
+</P>
+<P>
+(g) Fe[iota]Om (0&amp;lt;l&amp;lt;8 and 0&amp;lt;m&amp;lt;8); or
+</P>
+<P>
+(h) MnnFe0Op (0&amp;lt;n&amp;lt;=8, 0&amp;lt;o&amp;lt;8, and 0&amp;lt;p&amp;lt;8) and wherein said zinc-containing metal oxide nanoparticles have a chemical formula of: 0 (i) ZnqFek,Om (0&amp;lt;q&amp;lt;8, 0&amp;lt;l&amp;lt;8, 0&amp;lt;m&amp;lt;8, and 0&amp;lt;q/(l-q)&amp;lt;10); or
+</P>
+<P>
+(j) ZnrMnn-rFeoOp (0&amp;lt;r&amp;lt;8, 0&amp;lt;n&amp;lt;8, 0&amp;lt;o&amp;lt;8, 0&amp;lt;p&amp;lt;8, and 0&amp;lt;r/{(n-r)+o}&amp;lt;10).
+</P>
+<P>
+10. The MRI contrast agent as set forth in any one of claims 1 to 3, wherein in the zinc-containing metal oxide nanoparticles, a stoichiometric ratio of zinc and the other 5 metals satisfies the condition of 0.001 &amp;lt; &apos;zinc / (entire metal - zinc)&apos; &amp;lt; 10.
+</P>
+<P>
+11. The MRI contrast agent as set forth in any one of claims 1 to 3, wherein the zinc- containing metal oxide nanoparticles have saturation magnetization of at least 60 emu/g (magnetic atom).0
+</P>
+<P>
+12. The MRI contrast agent as set forth in any one of claims 1 to 3, wherein the zinc-containing metal oxide nanoparticle itself is dispersed in water, or the zinc-containing metal oxide nanoparticle is coated with water-soluble multi-functional group ligands to be dispersed in an aqueous solution.
+</P>
+<P>
+5 13. The MRI contrast agent as set forth in any one of claims 1 to 3, wherein the zinc- containing metal oxide nanoparticles are prepared by a method comprising the steps of:
+</P>
+<P>
+(1 ) synthesizing water-insoluble, zinc-containing nanoparticles in organic solvents;
+</P>
+<P>
+(2) dissolving the water-insoluble, zinc-containing nanoparticles in a first solvent, and dissolving water soluble multi-functional group ligands in a second solvent; ando (3) mixing the two solutions obtained from step (2) to conjugate the multi-functional group ligands on the surface of the water-insoluble, zinc-containing nanoparticles, followed by separation by dissolving in an aqueous solution.
+</P>
+<P>
+14. The MRI contrast agent as set forth in claim 13, wherein the water soluble multi-5 functional group ligand comprises an attachment region (Li) bonded to the zinc-containing metal oxide nanoparticle.
+</P>
+<P>
+15. The MRI contrast agent as set forth in claim 14, wherein the attachment of the zinc-containing metal oxide nanoparticle and the water soluble multi-functional group ligand is0 formed by using a bond selected from an ionic bond, a covalent bond, a hydrogen bond, a hydrophobic bond, a metal-ligand coordinate covalent bond or combinations thereof.
+</P>
+<P>
+16. The MRI contrast agent as set forth in claim 14, wherein the water-soluble multifunctional group ligand further comprises:5 a reactive region (Ln) for bonding of active materials; a cross-linking region (Lw) for cross-linking of the ligands; or a reactive &amp; cross-linking region (Ln-Lw) that includes both the reactive region (Ln) and the cross-linking region (Lw).
+</P>
+<P>
+0 17. The MRI contrast agent as set forth in claim 14, wherein the attachment region
+</P>
+<P>
+(Li) comprises a functional group selected from the group consisting of -CHO, -COOH, -NH2,
+</P>
+<P>
+-SH, -CONH2, -PO3H, -OPO4H, -SO3H, -OSO3H, -N3, -NR3OH (R = CnH2n+I, 0&amp;lt;n&amp;lt;16), -OH, - SS-, -NO21-CHO, -COX (X = F, Cl, Br, or I), -COOCO-, -CONH-, or -CN, and hydrocarbon having at least two carbon atoms.5
+</P>
+<P>
+18. The MRI contrast agent as set forth in claim 16, wherein the reactive region (Ln) comprises at least one functional group selected from the group consisting of -CHO, -SH, - COOH, -NH2, -OH, -PO3H, -PO4H2, -SO3H, -OSO3H, -NR3&amp;lt;+&amp;gt;X (R= CnHm 0&amp;lt;n&amp;lt;16, 0&amp;lt;m&amp;lt;34, X = OH, Cl, or Br), NR4&amp;lt;+&amp;gt;X(R= CnHm 0&amp;lt;n&amp;lt;16, 0&amp;lt;m&amp;lt;34, X = OH, Cl, or Br), -N3, o -SCOCH3, -SCN, -NCS, -NCO, -CN, -F, -Cl, -I1 -Br, an epoxy group, -ONO2, -PO(OH)2, -
+</P>
+<P>
+C=NNH2, -HC=CH-, and -C[identical to]C.
+</P>
+<P>
+19. The MRI contrast agent as set forth in claim 16, wherein the cross-linking region (Lin) comprises at least one functional group selected from the group consisting of -SH, -CHO, -COOH, -NH2, -OH, -PO3H, -PO4H2, -SO3H, -OSO3H, -NR3&amp;lt;+&amp;gt;X(R= CnHm 0&amp;lt;n&amp;lt;16, 0&amp;lt;m&amp;lt;34, X = OH, Cl, or Br), NR4&amp;lt;+&amp;gt;X(R= CnHm 0&amp;lt;n&amp;lt;16, 0&amp;lt;m&amp;lt;34, X = OH, Cl, or Br), -N3, -SCOCH3, -SCN, -NCS, -NCO, -CN, -F, -Cl, -I, -Br, an epoxy group, -ONO2, -PO(OH)2, - C=NNH2, -HC=CH-, and -C[identical to]C-.
+</P>
+<P>
+20. The MRI contrast agent as set forth in claim 14, wherein the water-soluble multi- functional group ligand is at least one selected from the group consisting of dimercaptosuccinic acid, dimercaptomaleic acid, dimercaptopentadionic acid, tetramethylammoniumhydroxide, and tetraethylammoniumhydroxide.
+</P>
+<P>
+21. The MRI contrast agent as set forth in claim 14, wherein the water-soluble multi- functional group ligand is a peptide that includes at least one amino acid having at least one of -SH, -COOH, -NH2, or -OH as a functional group.
+</P>
+<P>
+22. The MRI contrast agent as set forth in claim 14, wherein the water-soluble multifunctional group ligand is at least one selected from the group consisting of proteins, albumins, avidins, antibodies, secondary antibodies, cytochrome, casein, myosin, glycinin, carotene, collagen, phospholipids, globular proteins, and light proteins.
+</P>
+<P>
+23. The MRI contrast agent as set forth in claim 14, wherein the water soluble multifunctional group ligand includes at least one selected from the group consisting of glucose, mannose, fucose, N-acetyl glucomine, N-acetyl galactosamine, N-acetylneuraminic acid, fructose, xylose, sorbitol, sucrose, maltose, glycoaldehyde, dihydroxyacetone, erythrose, erythrulose, arabinose, xylulose, lactose, trehalose, mellibose, cellobiose, raffinose, melezitose, maltoriose, starchyose, estnodose, xylan, araban, hexosan, fructan, galactan, mannan, agaropectin, alginic acid, hemicellulose, hypromellose, amylose, deoxyacetone, glyceraldehyde, chitin, agarose, dextran, ribose, ribulose, galactose, carboxymethyl cellulose, glycogendextran, carbodextran, polysaccharides, cyclodextran, pullulan, cellulose, starch, glycogen, carbohydrate, polyphosphagen, polylactide, poly(lactic-co- glycolic acid, polycaprolactone, polyanhydride, polymaleic acid, a derivative of polymaleic acid, polyalkylcyanoacrylate, polyhydroxybutylate, polycarbonate, polyorthoester, polyethyleneglycol, poly-L-lysine, polyglycolide, polymetacrylate, polyvinylpyrrolidone.
+</P>
+<P>
+24. The MRI contrast agent as set forth in claim 16, wherein the functional group of the attachment region (Li) includes -COOH or -OH and the functional group of the reactive region (LN) includes -COOH, -NH2, NR4&amp;lt;+&amp;gt;X(R= CnHm 0&amp;lt;n&amp;lt;16 and 0&amp;lt;m&amp;lt;34, X = OH, Cl, orBr), or-SH.
+</P>
+<P>
+25. The MRI contrast agent as set forth in claim 16, wherein the zinc-containing metal oxide nanoparticles are hybrid nanoparticles of zinc-containing metal oxide nanoparticle and biologically/chemically active materials in which active materials are bonded to the reactive region (Ln) of the water soluble multi-functional group ligand.
+</P>
+<P>
+5
+</P>
+<P>
+26. The MRI contrast agent as set forth in claim 25, wherein the active materials is selected from the group consisting of a chemical functional monomer, a polymer, an inorganic support, an inorganic material, and a biofunctional material.
+</P>
+<P>
+l o 27. The MRI contrast agent as set forth in claim 26, wherein the chemical functional monomer is at least one selected from the group consisting of an anti-cancer agent, an antibiotic, a vitamin, a drug comprising a folic acid, a fatty acid, a steroid, hormone, purine, pyrimidine, monosaccharide, and disaccharide.
+</P>
+<P>
+15 28. The MRI contrast agent as set forth in claim 26, wherein the chemical functional monomer includes at least one functional groups selected from COOH, -NH2, -SH, -SS-, - CONH2, -PO3H, -PO4H2, -PO2(OR&amp;lt;1&amp;gt; )(OR&amp;lt;2&amp;gt;) (R&amp;lt;1&amp;gt;, R&amp;lt;2&amp;gt; = CsHtNuOwSxPyXz, X= -F, -Cl, -Br or -I, 0&amp;lt;s&amp;lt;20, 0&amp;lt;t&amp;lt;2(s+u)+1 , 0&amp;lt;u&amp;lt;=2s, 0&amp;lt;w&amp;lt;2s, 0&amp;lt;x&amp;lt;2s, 0&amp;lt;y&amp;lt;2s, and 0&amp;lt;z&amp;lt;2s), - SO3H, -OSO3H, -NO2, -CHO, -COSH, -COX, -COOCO-, -CORCO- (R= QHm, 0&amp;lt;l&amp;lt;3,
+</P>
+<P>
+20 0&amp;lt;m&amp;lt;=2l+1), -COOR, -CN, -N3, -N2, -NROH (R = CsHtNuOwSxPyXz, X= -F, -Cl, -Br or -I, - 0&amp;lt;s&amp;lt;20, 0&amp;lt;t&amp;lt;2(s+u)+1 , 0&amp;lt;u&amp;lt;2s, 0&amp;lt;w&amp;lt;2s, 0&amp;lt;x&amp;lt;=2s, 0&amp;lt;y&amp;lt;2s, and 0&amp;lt;z&amp;lt;2s), - NR&amp;lt;1&amp;gt;NR&amp;lt;2&amp;gt;R&amp;lt;3&amp;gt; (R&amp;lt;1&amp;gt;, R&amp;lt;2&amp;gt;, R&amp;lt;3&amp;gt;= CsHtNuOwSxPyXz, X= -F, -Cl, -Br or -I, 0&amp;lt;s&amp;lt;20, 0&amp;lt;t&amp;lt;2(s+u)+1, 0&amp;lt;u&amp;lt;2s, 0&amp;lt;w&amp;lt;2s, 0&amp;lt;x&amp;lt;2s, 0&amp;lt;y&amp;lt;2s, and 0&amp;lt;z&amp;lt;=2s), -CONHNR&amp;lt;1&amp;gt; R&amp;lt;2&amp;gt; (R&amp;lt;1&amp;gt;, R&amp;lt;2&amp;gt;= CsHtNuOwSxPyXz, X= -F, -Cl, -Br or -1, 0&amp;lt;s&amp;lt;20, 0&amp;lt;t&amp;lt;2(s+u)+1 , 0&amp;lt;u&amp;lt;2s, 0&amp;lt;w&amp;lt;2s,
+</P>
+<P>
+25 0&amp;lt;x&amp;lt;2s, 0&amp;lt;y&amp;lt;2s, and 0&amp;lt;z&amp;lt;2s), -NR&amp;lt;1&amp;gt;R&amp;lt;2&amp;gt;R&amp;lt;3&amp;gt;X (R&amp;lt;1&amp;gt;,R&amp;lt;2&amp;gt;,R&amp;lt;3&amp;gt;= CsHtNuOwSxPyXz, X= -F, -Cl, - Br, or -I, X= F, CT, Br, or l\ 0&amp;lt;s&amp;lt;20, 0&amp;lt;t&amp;lt;2(s+u)+1, 0&amp;lt;u&amp;lt;2s, 0&amp;lt;w&amp;lt;2s, 0&amp;lt;x&amp;lt;2s, 0&amp;lt;y&amp;lt;2s, and 0&amp;lt;z&amp;lt;=2s), -OH, -SCOCH3, -F, -Cl, -Br, -I, -SCN, -NCO, -OCN, an epoxy group, -C=NNH2, -HC=CH-, and -C[identical to]C-.
+</P>
+<P>
+3 o 29. The MRI contrast agent as set forth in claim 26, wherein the polymer is at least one selected from the group consisting of dextran, carbodextran, polysaccharide, cyclodextran, pullulan, cellulose, starch, glycogen, carbohydrate, monosaccharide, bisaccharide, oligosaccharides, polyphosphazene, polylactide, polylactide-co-glycolic acid, polycaprolactone, polyanhydride, polymalic acid, a derivative of the polymalic acid, 35 polyalkylcyanoacrylate, polyhydroxybutylate, polycarbonate, polyorthoester, polyethyleneglycol, poly-L-lysine, polyglycolide, polymethyl methacrylate, and polyvinylpyrrolidone.
+</P>
+<P>
+30. The MRI contrast agent as set forth in claim 26, wherein the inorganic support is
+</P>
+<P>
+4 o selected from the group consisting of metal oxides, metal chalcogen compounds, inorganic ceramic material, carbon material, a semiconductor substrate, and combinations thereof.
+</P>
+<P>
+31. The MRI contrast agent as set forth in claim 26, wherein the inorganic material is selected from the group consisting of:
+</P>
+<P>
+5 metal oxides containing at least one element selected from the group consisting of
+</P>
+<P>
+Group 1 elements, Group 2 elements, transition metal elements, Group 14 elements, Group 15 elements, lanthanide elements and actinide elements; a semiconductor containing at least two selected from the group consisting of Group 13 elements, Group 12 elements, Group 14 elements, Group 15 elements, ando Group 16 elements; transition metal elements; Group 13 elements; Group 14 elements; Group 15 elements; and Group 16 elements.
+</P>
+<P>
+32. The MRI contrast agent as set forth in claim 31 , wherein the inorganic material is5 selected from the group consisting of: metal oxides containing at least one selected from the group consisting of Li, Na, Be, Ca, Ge, Ba, Mg, Sr, Ra, Sc, Ti, V, Y, Tc, Mn, Fe, Co, Ni, Zn, Zr, Nd, Cr, Ru, Rh, Pd, Ag, Cd, Hf, Ta, W, Re, Os, Ir, R, Au, B, Al, Ga, In, C, Si, Ge, An, Pb, P, As, Sb, Bi, Ce, Pr, Nd, Pm, Sm, Tb, Dy, Ho, Er, Tm, Yb, Lu, lanthanide elements, and actinide elements; o semiconductor containing at least two selected from the group consisting of Ga, In, Tl,
+</P>
+<P>
+Zn, Cd, Hg, C, Si, Ge, Sn, Pb, N, P, As, Sb, Bi, O, S, Se, Te, and Po;
+</P>
+<P>
+Au; Ag; R; Cu; Pd; Mo; Os; W; Ti; W; V; C[eta] Zn; Nb; Ru; Rh; Ir; Co; Mn; Fe; Ni; Cr; Y; Zr; Cd; Ta; Re; Al; Ga; In; C; Si; Sn; Pb; As; Sb; Bi; Se; Te; and Po.
+</P>
+<P>
+5 33. The MRI contrast agent as set forth in claim 26, wherein the biologically functional material is at least one selected from the group consisting of DNA, RNA, peptides, target-specific binding substances such as antigens, antibodies, haptens, avidins, streptavidin, neutravidin, protein A, protein G, lectin, selectin, pharmaceutical active materialss such as an anti-cancer agent, an antibiotic, a hormone, a hormone antagonist, o interleukin, interferon, a growth factor, a tumor necrosis factor, endotoxin, lymphotoxin, urokinase, streptokinase, a tissue plasminogen activator, a protease inhibitor, alkyl phosphocholine, a surfactant, cardiovascular pharmaceuticals, gastrointestinal pharmaceuticals, neuro pharmaceuticals, bioactive enzymes such as hydrolase, redox enzyme, lyase, an isomerization enzyme, and a synthetase, an enzyme cofactor, and an5 enzyme inhibitor.
+</P>
+<P>
+34. The MRI contrast agent as set forth in any one of claims 1 to 3, wherein the zinc- containing metal oxide nanoparticle is bonded to a radioactive isotope.
+</P>
+<P>
+o 35. The MRI contrast agent as set forth in claim 34, said MRI contrast agent being used for Single Photon Emission Computer Tomography (SPECT) or Positron Emission Tomography (PET).
+</P>
+<P>
+36. The MRI contrast agent as set forth in any one of claims 1 to 3, wherein the water soluble zinc-containing metal oxide nanoparticles comprise a fluorescent material.
+</P>
+<P>
+37. The MRI contrast agent as set forth in claim 36, wherein said MRI contrast agent is used for the optical imaging and spectroscopy.
+</P>
+<P>
+38. MRI contrast agent as set forth in any one of claims 1 to 3, wherein said zinc- containing metal oxide nanoparticles are combined with X-ray imaging agent and ultrasonic imaging agent.
+</P>
+<P>
+39. The MRI contrast agent as set forth in claim 38, said MRI contrast agent is used for X-ray imaging and ultrasonic imaging.
+</P>
+</Claims>
+<Also_published_as>
+EP2131870A4;WO2008127031A1;US2010143263A1;KR20080092870A;KR101043251B1;JP2010505763A;CN101547706A
+</Also_published_as>
+</BiblioData>

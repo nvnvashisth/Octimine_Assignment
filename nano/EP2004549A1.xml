@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CATALYST AND PROCESS FOR SYNGAS CONVERSION
+</Title>
+<PublicationNumber>
+EP2004549A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BAO XINHE [CN]
+</Name>
+<Name>
+CHEN WEI [CN]
+</Name>
+<Name>
+PAN XIULIAN [CN]
+</Name>
+<Name>
+FAN ZHONGLI [CN]
+</Name>
+<Name>
+DING YUNJIE [CN]
+</Name>
+<Name>
+LUO HONGYUAN [CN]
+</Name>
+<Name>
+BAO, XINHE
+</Name>
+<Name>
+CHEN, WEI
+</Name>
+<Name>
+PAN, XIULIAN
+</Name>
+<Name>
+FAN, ZHONGLI
+</Name>
+<Name>
+DING, YUNJIE
+</Name>
+<Name>
+LUO, HONGYUAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+DAILAN INST OF CHEMICAL PHYSIC [CN]
+</Name>
+<Name>
+BP PLC [GB]
+</Name>
+<Name>
+DAILAN INSTITUTE OF CHEMICAL PHYSICS
+</Name>
+<Name>
+BP P.L.C
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2004549
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060705649
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-02-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006CN00228
+</PriorityNumber>
+<PriorityDate>
+2006-02-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J21/18
+</Class>
+<Class>
+B01J23/56
+</Class>
+<Class>
+B01J23/656
+</Class>
+<Class>
+B01J37/34
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+C07C29/158
+</Class>
+<Class>
+C07C45/49
+</Class>
+<Class>
+C07C67/39
+</Class>
+<Class>
+C10G2/00
+</Class>
+<Class>
+B01F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J21/18C
+</Class>
+<Class>
+B01J23/40
+</Class>
+<Class>
+B01J23/46D
+</Class>
+<Class>
+B01J23/56
+</Class>
+<Class>
+B01J23/656B
+</Class>
+<Class>
+B01J23/74
+</Class>
+<Class>
+B01J23/745
+</Class>
+<Class>
+B01J23/89G16
+</Class>
+<Class>
+B01J37/34B4
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4D
+</Class>
+<Class>
+C01B31/02B4D6
+</Class>
+<Class>
+C07C29/158
+</Class>
+<Class>
+C07C45/49
+</Class>
+<Class>
+C07C67/39
+</Class>
+<Class>
+C10G2/33
+</Class>
+</NCL>
+<Abstract>
+A catalyst and process is described for the conversion of hydrogen and one or more oxides of carbon in which the catalyst comprises an elemental carbon-containing support. Also described is a process for reducing agglomeration in carbon nanotubes, in which carbon nanotubes are suspended in a liquid and simultaneously treated by ultrasound and agitation. The method can be used to prepare carbon nanotube-supported catalysts that show high activity towards the conversion of feedstocks comprising hydrogen and one or more oxides of carbon.
+</Abstract>
+<Claims>
+<P>
+Claims:
+</P>
+<P>
+1. A process for reducing agglomeration of carbon nanotubes comprising suspending carbon nanotubes in a liquid, characterised by the suspended carbon nanotubes being simultaneously treated by ultrasound and agitation. 2. A process as claimed in claim 1, in which agitation is achieved by stirring.
+</P>
+<P>
+3. A process as claimed in claim 1 or claim 2, in which the carbon nanotubes are treated by oxidation so as to introduce surface oxygen groups, either simultaneously with the ultrasound and agitation treatment or beforehand.
+</P>
+<P>
+4. A process as claimed in claim 3, in which the oxidation treatment is with aqueous nitric acid.
+</P>
+<P>
+5. A process as claimed in claim 4, in which the pre-treatment with aqueous nitric acid with a concentration of 60 to 80 wt%.
+</P>
+<P>
+6. A process as claimed in claim 4 or claim 5, in which the oxidising pre-treatment is carried out at the boiling temperature of aqueous nitric acid under reflux. 7. A process as claimed in any one of claims 3-6, in which the oxidation treatment of the carbon nanotubes is carried out before the combined mechanical stirring and ultrasound treatment.
+</P>
+<P>
+8. A process as claimed in any one of claims 1 to 7, in which the weight ratio of carbon nanotubes to the suspending liquid is in the range of from 1 : 10 to 1 : 500. 9. A process as claimed in any one of claims 1 to 8, in which the suspending liquid is selected from water, an alcohol, a carboxylic acid, ethylene glycol or a mixture of two or more thereof.
+</P>
+<P>
+10. A process as claimed in any one of claims 1 to 9, in which the suspending liquid is a solution comprising one or more soluble catalyst components. 11. A process as claimed in claim 10, in which one or more of the catalyst components are metals.
+</P>
+<P>
+12. A process as claimed in claim 11, in which the one or more metals are selected from one or more of Fe, Co and Ni.
+</P>
+<P>
+13. A process as claimed in claim 11, in which rhodium is a catalyst component. 14. A process as claimed in claim 13, in which additional catalyst components are selected from one or more of Ti, V, Fe, Zr, Ru, Pd, Os, Ir and Pt.
+</P>
+<P>
+15. A process as claimed in claim 13 or claim 14, in which the one or more catalyst . components comprise, in addition to rhodium, manganese, an alkali metal selected from lithium, sodium or potassium, and a metal selected from Ti, V, Fe, Zr, Ru, Pd, Os, Ir and Pt.
+</P>
+<P>
+16. A process as claimed in any one of claims 13 to 15, in which the one or more catalyst components comprise, in addition to rhodium, manganese, an alkali metal selected from lithium, sodium or potassium, a metal selected from Ti, V, Fe, Zr, and a metal selected from Ru, Pd, Os, Ir and Pt.
+</P>
+<P>
+17. A process as claimed in any one of claims 13 to 16, in which the catalyst components comprise Rh, Mn, Li, Fe and Ir. 18. A process as claimed in any one of claims 11 to 17, in which one or more of the supported metals are reduced to form supported metal particles.
+</P>
+<P>
+19. A catalyst composition comprising Rh on an elemental carbon-containing support, characterised in that the catalyst additionally comprises one or more elements selected from the group comprising Ti, V, Mn, Fe, Zr, Ru, Pd, Os, Ir and Pt. 20. A catalyst composition as claimed in claim 19, in which the catalyst additionally comprises an alkali metal.
+</P>
+<P>
+21. A catalyst composition as claimed in claim 20 comprising Rh, Mn, one of Li, Na or K, and at least one element selected from Ti, V, Fe, Zr, Ru, Pd, Os, Ir and Pt.
+</P>
+<P>
+22. A catalyst composition as claimed in any one of claims 19 to 21 comprising Rh, Mn, one of Li, Na or K, at least one element selected from Ti, V, Fe, Zr, and at least one element selected from Ru, Pd, Os, Ir and Pt..
+</P>
+<P>
+23. A catalyst composition as claimed in any one of claims 19 to 22 comprising Rh, Mn, Li, Fe and Ir.
+</P>
+<P>
+24. A catalyst composition as claimed in any one of claims 19 to 23, in which the carbon-containing support is selected from activated carbon, carbon molecular sieve and carbon nanotubes.
+</P>
+<P>
+25 A catalyst composition as claimed in any one of claims 19 to 24, in which the carbon-containing support is selected from activated carbon and carbon nanotubes.
+</P>
+<P>
+26. A catalyst composition as claimed in claim 25, in which the carbon-containing support is carbon nanotubes.
+</P>
+<P>
+27. A catalyst composition as claimed in claim 26, which has been prepared by a process according to any one of claims 14 to 18.
+</P>
+<P>
+28. A process for the conversion of hydrogen and one or more oxides of carbon into one or more organic compounds comprising at least one carbon atom in combination with hydrogen, which process comprises contacting hydrogen and carbon monoxide with a catalyst in a reaction zone, characterised in that the catalyst comprises a carbon-containing support.
+</P>
+<P>
+29. A process as claimed in claim 28, in which the hydrogen and one or more oxides of carbon are converted into one or more oxygenated organic compounds having two or more carbon atoms.
+</P>
+<P>
+30. A process as claimed in claim 29, in which the one or more oxygenated compounds having two or more carbon atoms are selected from one or more of ethanol, acetaldehyde, acetic acid and ethyl acetate.
+</P>
+<P>
+31. A process as claimed in any one of claims 28 to 30, in which the catalyst is a catalyst according to any one of claims 19 to 27.
+</P>
+<P>
+32. A process as claimed in any one of claims 28 to 31, in which the reaction zone operates at a temperature of from 100 to 45O&amp;lt;0&amp;gt;C, and a pressure in the range of from 1 to 200 bara (0.1 to 20 MPa).
+</P>
+</Claims>
+<Also_published_as>
+EP2004549A4;WO2007093081A1;WO2007093081A8;US2010234477A1;CN101374761A;CN101374761B
+</Also_published_as>
+</BiblioData>

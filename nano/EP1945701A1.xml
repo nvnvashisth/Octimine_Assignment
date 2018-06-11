@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOPARTICULATE PREPARATION AND METHOD OF HEATING IT
+</Title>
+<PublicationNumber>
+EP1945701A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SAUER HANS-MARTIN [DE]
+</Name>
+<Name>
+CURA ELISABETH [DE]
+</Name>
+<Name>
+LIE LARS HENNING [DE]
+</Name>
+<Name>
+HEMPELMANN ROLF [DE]
+</Name>
+<Name>
+SPIEKERMANN STEFAN [DE]
+</Name>
+<Name>
+SCHWEITZER HEIDI [DE]
+</Name>
+<Name>
+HEEG MELANIE [DE]
+</Name>
+<Name>
+SAUER. HANS-MARTIN
+</Name>
+<Name>
+CURA, ELISABETH
+</Name>
+<Name>
+LIE, LARS, HENNING
+</Name>
+<Name>
+HEMPELMANN, ROLF
+</Name>
+<Name>
+SPIEKERMANN, STEFAN
+</Name>
+<Name>
+SCHWEITZER, HEIDI
+</Name>
+<Name>
+HEEG, MELANIE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SUSTECH GMBH &amp; CO KG [DE]
+</Name>
+<Name>
+SUSTECH GMBH &amp; CO. KG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1945701
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060828920
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006EP10575
+</PriorityNumber>
+<PriorityDate>
+2006-11-03
+</PriorityDate>
+<PriorityNumber>
+DE200510053657
+</PriorityNumber>
+<PriorityDate>
+2005-11-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C08K3/22
+</Class>
+<Class>
+C09J11/04
+</Class>
+<Class>
+C09J5/06
+</Class>
+<Class>
+C09J9/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G49/00C12
+</Class>
+<Class>
+C01G49/00D
+</Class>
+<Class>
+C09C1/22
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a nanoparticulate preparation which comprises a coherent phase and, disperse therein, at least one particulate phase of superparamagnetic, nanoscale particles having a volume-averaged diameter in the range from 2 to 100 nm, the particles exhibiting a field shift effect, and to a method of heating a nanoparticulate preparation of this kind, it being possible to set different temperatures via variation in the strength of the applied magnetic DC field.
+</Abstract>
+<Claims>
+<P>
+Ansprüche
+</P>
+<P>
+1. Nanopartikuläre Zubereitung, die eine kohärente Phase und wenigstens eine darin dispergierte teilchenförmige Phase superparamagnetischer, nanoskaliger Teilchen mit einem volumengemittelten Teilchendurchmesser im Bereich von 2 bis 100 nm umfasst, dadurch gekennzeichnet, dass die Teilchen einen Field-Shift-Effekt aufweisen.
+</P>
+<P>
+2. Nanopartikuläre Zubereitung nach Anspruch 1 , dadurch gekennzeichnet, dass die Teilchen wenigstens aus einem elektrisch neutralen Ferrit der allgemeinen Formel (M&amp;lt;a&amp;gt;1-x-y M&amp;lt;b&amp;gt;x Fex)&amp;lt;11&amp;gt;Fe2&amp;lt;111&amp;gt;O4 ausgewählt sind, wobei
+</P>
+<P>
+M&amp;lt;a&amp;gt; ausgewählt ist aus Mn, Co, Ni, Mg, Ca, Cu, Zn, Y und V, M&amp;lt;b&amp;gt; ausgewählt ist aus Zn und Cd, x für 0,05 bis 0,95, bevorzugt 0,1 bis 0,8, steht, y für 0 bis 0,95 steht, und die Summe aus x und y höchstens 1 beträgt.
+</P>
+<P>
+3. Nanopartikuläre Zubereitung nach Anspruch 1 oder 2, dadurch gekennzeichnet, dass die eingesetzten Teilchen einen Temperaturkoeffizienten des Field-Shift-Effekts [alpha] mit einem vorzeichenunabhängigen Wert grösser 0,05 mT/[deg.]C, insbesondere grösser 0,15 mT/[deg.]C aufweisen.
+</P>
+<P>
+4. Nanopartikuläre Zubereitung nach einem der Ansprüche 1 bis 3, bei dem die Zubereitung unabhängig von der durch die Mikrowellenstrahlung eingetragene Energie nur bis zu einer von der Curie-Temperatur unabhängigen Maximaltemperatur erwärmbar ist, wobei die nanoskaligen Teilchen mit so ausgewählten zweiwertigen Metallen ausgewählt werden, dass die Maximaltemperatur mit der Feldstärke des magnetischen Gleichfelds korreliert.
+</P>
+<P>
+5. Nanopartikuläre Zubereitung nach einem der vorhergehenden Ansprüche, wobei der volumengemittelte Teilchendurchmesser der Teilchen in der eingesetzten Zubereitung in einem Bereich von 4 bis 50 nm, bevorzugt 5 bis 30 nm, besonders bevorzugt 6 bis 15 nm, liegt.
+</P>
+<P>
+6. Nanopartikuläre Zubereitung nach einem der vorhergehenden Ansprüche, wobei die Teilchen der eingesetzten Zubereitung auf zumindest einem Teil ihrer Oberfläche eine einoder mehrlagige Beschichtung aufweisen, enthaltend wenigstens eine Verbindung mit ionogenen, ionischen und/oder nichtionischen oberflächenaktiven Gruppen.
+</P>
+<P>
+7. Nanopartikuläre Zubereitung nach Anspruch 6, wobei die Verbindung mit oberflächenaktiven Gruppen ausgewählt ist unter den Salzen starker anorganischer Säuren, gesättigten und ungesättigten Fettsäuren, quaternären Ammoniumverbindungen, Silanen und Mischungen davon.
+</P>
+<P>
+8. Nanopartikuläre Zubereitung nach einem der vorhergehenden Ansprüche, wobei die kohärente Phase ausgewählt ist aus Wasser, organischen Lösungsmitteln, polymerisierbaren Monomeren, Polymeren und Mischungen davon.
+</P>
+<P>
+9. Nanopartikuläre Zubereitung nach einem der vorhergehenden Ansprüche, wobei M&amp;lt;a&amp;gt; ausgewählt ist aus Mn und Cu und M&amp;lt;b&amp;gt; Zn ist.
+</P>
+<P>
+10. Nanopartikuläre Zubereitung nach einem der vorhergehenden Ansprüche, wobei bis zu 10% der &quot;Fe Ionen durch andere dreiwertige Seltene Erden oder AI, Cr ersetzt sind, insbesondere gemäss der Formel (M&amp;lt;a&amp;gt;1-X.y M&amp;lt;b&amp;gt;x Fey)&quot;(Fe2-zM&amp;lt;c&amp;gt;z) &quot;&amp;lt;1&amp;gt;O4, mit z &amp;lt; 0,2 und wobei M&amp;lt;c&amp;gt; ausgewählt ist aus der Gruppe bestehend aus AI, Cr und den Seltenen Erden oder Kombinationen derer.
+</P>
+<P>
+11. Nanopartikuläre Zubereitung nach einem der vorhergehenden Ansprüche, wobei Interne Magnetisierung Bint der Teilchen bei 20 &amp;lt;0&amp;gt;C grösser 50 mT, insbesondere grösser 250 mT ist.
+</P>
+<P>
+12. Nanopartikuläre Zubereitung nach einem der vorhergehenden Ansprüche, wobei die Zubereitung zwischen 1 und 10 Gewichtsprozent nanoskaliger Teilchen aufweist.
+</P>
+<P>
+13. Nanopartikuläre Zubereitung nach einem der vorhergehenden Ansprüche, wobei die Linienbreite des FMR Absorptionsmaximums [Delta]B der eingesetzten Teilchen kleiner 100 mT, insbesondere kleiner 50 mT ist.
+</P>
+<P>
+14. Verfahren zum Erwärmen einer nanopartikulären Zubereitung, die eine kohärente Phase und wenigstens eine darin dispergierte teilchenförmige Phase superparamagnetischer, nanoskaliger Teilchen mit einem volumengemittelten Teilchendurchmesser im Bereich von 2 bis 100 nm umfasst, wobei man zur Erwärmung die Zubereitung gleichzeitig einer Mikrowellenstrahlung mit einer Frequenz im Bereich von 0,1 bis 300 GHz und einem magnetischen Gleichfeld mit einer Feldstärke im Bereich von 0,001 bis 10 Tesla aussetzt, dadurch gekennzeichnet, dass die eingesetzten Teilchen einen Field-Shift-Effekt aufweist, so dass unterschiedliche Temperaturen über die Variation der Feldstärke des angelegten magnetischen Gleichfelds einstellbar sind.
+</P>
+<P>
+15. Verfahren nach Anspruch 14, dadurch gekennzeichnet, dass die Teilchen wenigstens aus einem elektrisch neutralen Ferrit der allgemeinen Formel (M&amp;lt;a&amp;gt;i-x-y M&amp;lt;b&amp;gt;x Fex)&amp;lt;11&amp;gt;Fe2&amp;lt;111&amp;gt;O4 ausgewählt sind, wobei
+</P>
+<P>
+M&amp;lt;a&amp;gt; ausgewählt ist aus Mn, Co, Ni, Mg, Ca, Cu, Zn, Y und V, M&amp;lt;b&amp;gt; ausgewählt ist aus Zn und Cd, x für 0,05 bis 0,95, bevorzugt 0,1 bis 0,8, steht, y für 0 bis 0,95 steht, und die Summe aus x und y höchstens 1 beträgt.
+</P>
+<P>
+16. Verfahren nach Anspruch 14 oder 15, dadurch gekennzeichnet, dass die eingesetzten Teilchen einen Temperaturkoeffizienten des Field-Shift-Effekts [alpha] mit einem vorzeichenunabhängigen Wert grösser 0,05 mT/[deg.]C, insbesondere grösser 0,15 mT/[deg.]C aufweisen.
+</P>
+<P>
+17. Verfahren nach einem der Ansprüche 14 bis 16, bei dem die Zubereitung unabhängig von der durch die Mikrowellenstrahlung eingetragene Energie nur bis zu einer von der Curie-Temperatur unabhängigen Maximaltemperatur erwärmbar ist, wobei man nanoskalige Teilchen mit so ausgewählten zweiwertigen Metallen einsetzt, dass die Maximaltemperatur mit der Feldstärke des magnetischen Gleichfelds korreliert.
+</P>
+<P>
+18. Verfahren nach einem der vorhergehenden Ansprüche, wobei der volumengemittelte Teilchendurchmesser der Teilchen in der eingesetzten Zubereitung in einem Bereich von 4 bis 50 nm, bevorzugt 5 bis 30 nm, besonders bevorzugt 6 bis 15 nm, liegt. ZU
+</P>
+<P>
+19. Verfahren nach einem der vorhergehenden Ansprüche, wobei die Teilchen der eingesetzten Zubereitung auf zumindest einem Teil ihrer Oberfläche eine einoder mehrlagige Beschichtung aufweisen, enthaltend wenigstens eine Verbindung mit ionogenen, ionischen und/oder nichtionischen oberflächenaktiven Gruppen.
+</P>
+<P>
+20. Verfahren nach Anspruch 19, wobei die Verbindung mit oberflächenaktiven Gruppen ausgewählt ist unter den Salzen starker anorganischer Säuren, gesättigten und ungesättigten Fettsäuren, quaternären Ammoniumverbindungen, Silanen und Mischungen davon.
+</P>
+<P>
+21. Verfahren nach einem der vorhergehenden Ansprüche, wobei die kohärente Phase ausgewählt ist aus Wasser, organischen Lösungsmitteln, polymerisierbaren Monomeren, Polymeren und Mischungen davon.
+</P>
+<P>
+22. Verfahren nach einem der vorhergehenden Ansprüche 14 bis 21 , wobei M&amp;lt;a&amp;gt; ausgewählt ist aus Mn und Cu und M&amp;lt;b&amp;gt; Zn ist.
+</P>
+<P>
+23. Verfahren nach einem der vorhergehenden Ansprüche 14 bis 22, wobei bis zu 10% der &quot;Fe Ionen durch andere dreiwertige Seltene Erden oder AI, Cr ersetzt sind, insbesondere gemäss der Formel (M&amp;lt;a&amp;gt;1-x-y M&amp;lt;b&amp;gt;x Fey)&quot;(Fe2-zM&amp;lt;c&amp;gt;z) &quot;&amp;lt;1&amp;gt;O4, mit z &amp;lt; 0,2 und wobei M&amp;lt;c&amp;gt; ausgewählt ist aus der Gruppe bestehend aus AI, Cr und den Seltenen Erden oder Kombinationen derer.
+</P>
+<P>
+24. Verfahren nach einem der vorhergehenden Ansprüche 14 bis 23, wobei die Linienbreite des FMR Absorptionsmaximums [Delta]B der eingesetzten Teilchen kleiner 100 mT, insbesondere kleiner 50 mT ist.
+</P>
+<P>
+25. Verfahren nach einem der vorhergehenden Ansprüche 14 bis 24, wobei Interne Magnetisierung Bint der Teilchen bei 20 [deg.]C grösser 50 mT, insbesondere grösser 250 mT ist.
+</P>
+<P>
+26. Verfahren nach einem der vorhergehenden Ansprüche14 bis 25, wobei die Zubereitung zwischen 1 und 10 Gewichtsprozent nanoskaliger Teilchen aufweist.
+</P>
+<P>
+27. Verfahren nach einem der vorhergehenden Ansprüche 14 bis 26, wobei man i) auf wenigstens einen Teil einer Oberfläche mindestens eines zu verklebenden
+</P>
+<P>
+Substrates die Zubereitung aufträgt, deren kohärente Phase wenigstens eine
+</P>
+<P>
+Klebstoffzusammensetzung umfasst, ii) die Substratoberflächen im Bereich der aufgetragenen Zubereitung miteinander in
+</P>
+<P>
+Kontakt bringt, und iii) die Substrate im Bereich der aufgetragenen Zubereitung zur Erwärmung auf eine erste
+</P>
+<P>
+Temperatur einer Mikrowellenstrahlung mit einer Frequenz im Bereich von 0,1 bis 300
+</P>
+<P>
+GHz und einem magnetischen Gleichfeld mit einer ersten Feldstärke im Bereich von
+</P>
+<P>
+0,001 bis 10 Tesla aussetzt.
+</P>
+<P>
+28. Verfahren nach Anspruch 27, wobei man iv) zum Lösen der Klebeverbindung diese zur Erwärmung auf eine zweite Temperatur, die höher ist als die erste Temperatur, einer Mikrowellenstrahlung mit einer Frequenz im Bereich von 0,1 bis 300 GHz und einem magnetischen Gleichfeld mit einer zweiten Feldstärke im Bereich von 0,001 bis 10 Tesla, die höher ist als die erste Feldstärke unter iii), aussetzt und sich die Klebeverbindung bei der zweiten höheren Temperatur erweicht, so dass, gegebenenfalls unter mechanischer Belastung, die verklebten Substrate voneinander getrennt werden können.
+</P>
+<P>
+29. Verwendung einer nanopartikulären Zubereitung nach einem der Ansprüche 1 bis 13 in einem Verfahren zum Erwärmen, insbesondere zum Kleben und Entkleben, insbesondere nach einem der Ansprüche 14 bis 28.
+</P>
+</Claims>
+<Also_published_as>
+WO2007054241A1
+</Also_published_as>
+</BiblioData>

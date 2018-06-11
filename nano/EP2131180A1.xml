@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ATOMIC FORCE MICROSCOPE
+</Title>
+<PublicationNumber>
+EP2131180A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FUJIMOTO HIROSHI [JP]
+</Name>
+<Name>
+OOSHIMA TAKASHI [JP]
+</Name>
+<Name>
+FUJIMOTO, HIROSHI
+</Name>
+<Name>
+OOSHIMA, TAKASHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+YOKOHAMA NAT UNIVERSITY [JP]
+</Name>
+<Name>
+YOKOHAMA NATIONAL UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2131180
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080721289
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP53869
+</PriorityNumber>
+<PriorityDate>
+2008-03-04
+</PriorityDate>
+<PriorityNumber>
+JP20070054615
+</PriorityNumber>
+<PriorityDate>
+2007-03-05
+</PriorityDate>
+<PriorityNumber>
+JP20070238220
+</PriorityNumber>
+<PriorityDate>
+2007-09-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q30/06
+</Class>
+<Class>
+G01Q60/36
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q30/06
+</Class>
+<Class>
+G01Q60/36
+</Class>
+</NCL>
+<Abstract>
+An object of the present invention is to provide an atomic force microscope apparatus allowing tracking errors to be made as close to zero as possible to reduce images obtained through high-speed scanning from being degraded. To accomplish the object of the present invention, the present invention provides an atomic force microscope apparatus imaging a surface topography of a sample in a contact mode, the apparatus including a cantilever having a probe interacting with the sample surface via an atomic force and being subjected to a deflection by the atomic force, laser light provision means for allowing first laser light to enter the cantilever, light detection means, a controller estimating the surface topography of the sample surface, and data storage means for recording the estimated surface topography.
+</Abstract>
+<Claims>
+<P>
+1. An atomic force microscope apparatus imaging a surface topography of a sample in a contact mode, the apparatus comprising:
+</P>
+<P>
+a cantilever having a probe interacting with the sample surface via an atomic force and being subjected to a deflection by the atomic force;
+</P>
+<P>
+laser light provision means for allowing first laser light to enter the cantilever;
+</P>
+<P>
+light detection means for detecting second laser light corresponding to the first laser light reflected by the cantilever;
+</P>
+<P>
+a piezo element on which the sample is placed;
+</P>
+<P>
+a controller inputting an input voltage to the piezo element to control the distance between the sample surface and the probe, detecting the deflection of the cantilever as an output voltage based on a relative change in light intensity in a vertical direction to which a photodiode is subjected owing to the second laser light, then during a forward scan, measuring and storing the surface topography, then during a backward scan of the same line as that for the forward scan, using the stored surface topography to generate a tracking error for the backward scan, and measuring the surface topography of the sample surface based on the tracking error; and
+</P>
+<P>
+data storage means for recording the measured tracking error.
+</P>
+<P>
+2. The atomic force microscope apparatus according to Claim 1, wherein the controller reduces the tracking error according to a perfect tracking control method to measure the surface topography of the sample surface.
+</P>
+<P>
+3. An atomic force microscope apparatus imaging a surface topography of a sample in a contact mode, the apparatus comprising:
+</P>
+<P>
+a cantilever having a probe interacting with the sample surface via an atomic force and being subjected to a deflection by the atomic force;
+</P>
+<P>
+laser light provision means for allowing first laser light to enter the cantilever;
+</P>
+<P>
+light detection means for detecting second laser light corresponding to the first laser light reflected by the cantilever;
+</P>
+<P>
+a piezo element on which the sample is placed;
+</P>
+<P>
+a controller inputting an input voltage to the piezo element to control the distance between the sample surface and the probe, detecting the deflection of the cantilever as an output voltage based on a relative change in light intensity in a vertical direction to which a photodiode is subjected owing to the second laser light, then during a forward scan, measuring and storing the surface topography, and during a backward scan of the same line as that for the forward scan, using the stored surface topography for control to estimate the surface topography of the sample surface; and
+</P>
+<P>
+data storage means for recording the surface topography.
+</P>
+<P>
+4. The atomic force microscope apparatus according to Claim 3, wherein the controller uses an inverse system of a discretized plant to estimate the surface shape of the sample surface.
+</P>
+<P>
+5. The atomic force microscope apparatus according to Claim 3, wherein the controller uses a zeroth-order phase error inverse model to estimate the surface shape of the sample surface.
+</P>
+<P>
+6. An atomic force microscope apparatus imaging a surface topography of a sample in a contact mode, the apparatus comprising:
+</P>
+<P>
+a cantilever having a probe interacting with the sample surface via an atomic force and being subjected to a deflection by the atomic force;
+</P>
+<P>
+laser light provision means for allowing first laser light to enter the cantilever;
+</P>
+<P>
+light detection means for detecting second laser light corresponding to the first laser light reflected by the cantilever;
+</P>
+<P>
+a piezo element on which the sample is placed;
+</P>
+<P>
+a controller inputting an input voltage to the piezo element to control the distance between the sample surface and the probe, detecting the deflection of the cantilever as an output voltage based on a relative change in light intensity in a vertical direction to which a photodiode is subjected owing to the second laser light, then during a forward scan and a backward scan of a preceding line, measuring and storing a tracking error, and during a forward scan and a backward scan of a succeeding line, using the stored tracking error for control to measure the surface topography of the sample surface based on the tracking error; and
+</P>
+<P>
+data storage means for recording the measured tracking error.
+</P>
+<P>
+7. The atomic force microscope apparatus according to Claim 6, wherein the controller reduces the tracking error according to a perfect tracking control method to measure the surface topography of the sample surface.
+</P>
+<P>
+8. The atomic force microscope apparatus according to Claim 1, wherein a transfer function from the input voltage to the piezo element to the output voltage is automatically identified by a standard second-order system.
+</P>
+</Claims>
+<Also_published_as>
+US2010115674A1;US8069493B2;JP4862109B2;WO2008111433A1
+</Also_published_as>
+</BiblioData>

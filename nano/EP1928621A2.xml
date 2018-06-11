@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR CARRYING OUT A REACTION IN A MICROREACTION CHAMBER
+</Title>
+<PublicationNumber>
+EP1928621A2
+</PublicationNumber>
+<Inventor>
+<Name>
+ARNDT FRANK [DE]
+</Name>
+<Name>
+JENSEN JENS DAHL [DE]
+</Name>
+<Name>
+KRUEGER URSUS [DE]
+</Name>
+<Name>
+ROENSCH HENDRIK [DE]
+</Name>
+<Name>
+ARNDT, FRANK
+</Name>
+<Name>
+JENSEN, JENS, DAHL
+</Name>
+<Name>
+KRUEGER, URSUS
+</Name>
+<Name>
+ROENSCH, HENDRIK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SIEMENS AG [DE]
+</Name>
+<Name>
+SIEMENS AKTIENGESELLSCHAFT
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1928621
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060806850
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006EP66797
+</PriorityNumber>
+<PriorityDate>
+2006-09-27
+</PriorityDate>
+<PriorityNumber>
+DE200510047758
+</PriorityNumber>
+<PriorityDate>
+2005-09-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01L3/5027H
+</Class>
+<Class>
+B22F1/00A2B4
+</Class>
+<Class>
+B22F1/00B4
+</Class>
+<Class>
+B22F1/02B
+</Class>
+<Class>
+B82Y30/00
+</Class>
+</NCL>
+<Abstract>
+The procedure for carrying out PCR in DNA molecules, in a microreaction chamber, involves continuous supply of nanoparticle compositions into the microreaction chamber through supply channels (15a, 15b, 15c). Different nanoparticle compositions react with one another to form nanoparticle reaction product (25). The formed products are continuously taken from the microreaction cell of the reactor. The first supplied nanoparticle composition is functionalized at the surface before its supply into the chamber. The functionalization is formed on the first nanoparticle composition by a layer. The procedure for carrying out PCR in DNA molecules, in a microreaction chamber, comprises continuous supply of nanoparticle compositions into the microreaction chamber through supply channels (15a, 15b, 15c). Different nanoparticle compositions react with one another to form nanoparticle reaction product (25). The formed reaction products are continuously taken from the microreaction cell of the reactor. The first supplied nanoparticle composition is functionalized at the surface before its supply into the chamber. The functionalization is formed on the first nanoparticle composition by a layer. A controlled energy is supplied to the chamber or withdrawn from the chamber during the reaction of the nanoparticle. The dosage of the nanoparticle is carried out by an electric field (32) or magnetic field (28) stored in the supply channel. The nanoparticles are electrically charged or magnetized before the dosage. A fluidic reaction component (22) is added to the chamber and is involved in the reaction of the nanoparticles.
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zum Durchführen einer Reaktion in einer Mikroreaktionskammer (12), bei dem
+</P>
+<P>
+- Nanopartikel (24c) einer ersten Zusammensetzung durch einen ersten Zuführkanal (15c) in die Mikroreaktionskammer dosiert eingeleitet werden und
+</P>
+<P>
+- Nanopartikel (24a, 25b) mindestens einer weiteren Zusammensetzung durch mindestes einen weiteren Zuführkanal (15a, 15b) in die Mikroreaktionskammer dosiert eingeleitet werden,
+</P>
+<P>
+wobei die Nanopartikel unterschiedlicher Zusammensetzung miteinander reagieren und ein so entstandenes Reaktionsprodukt (25) der Mikroreaktionszelle (12) entnommen wird.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass zumindest die Nanopartikel (24c) der ersten Zusammensetzung an der Oberfläche funktionalisiert werden, bevor sie in die Reaktionskammer eingeleitet werden.
+</P>
+<P>
+3. Verfahren nach Anspruch 2, dadurch gekennzeichnet, dass die Funktionalisierung durch eine Schicht (26) auf den Nanopartikeln (24c) gebildet wird.
+</P>
+<P>
+4. Verfahren nach einem der voranstehenden Ansprüche, dadurch gekennzeichnet, dass der Mikroreaktionskammer (12) während der Reaktion der Nanopartikel (24a, 24b, 24c) kontrolliert Energie zugeführt oder entzogen wird.
+</P>
+<P>
+5. Verfahren nach einem der voranstehenden Ansprüche, dadurch gekennzeichnet, dass das Reaktionsprodukt (25) ebenfalls aus Nanopartikeln besteht.
+</P>
+<P>
+6. Verfahren nach einem der voranstehenden Ansprüche, dadurch gekennzeichnet, dass die Dosierung der Nanopartikel (24c) durch ein Magnetfeld (28) unterstützt wird, welches den betreffenden Zuführkanal (15c) überlagert, wobei die Nanopartikel vor der Dosierung magnetisiert werden.
+</P>
+<P>
+7. Verfahren nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass die Dosierung der Nanopartikel (24a, 24b) durch ein elektrisches Feld (32) unterstützt wird, welches den betreffenden Zuführkanal (15a, 15b) überlagert, wobei die Nanopartikel vor der Dosierung elektrisch geladen werden.
+</P>
+<P>
+8. Verfahren nach einem der voranstehenden Ansprüche, dadurch gekennzeichnet, dass die Nanopartikel (24a, 24b) kontinuierlich zugeführt und die Reaktionsprodukte (20) kontinuierlich entnommen werden.
+</P>
+<P>
+9. Verfahren nach einem der voranstehenden Ansprüche, dadurch gekennzeichnet, dass der Mikroreaktionskammer eine fluidische Reaktionskomponente (22) zugesetzt wird, die an der Reaktion der Nanopartikel (24a, 24b) beteiligt ist.
+</P>
+</Claims>
+<Also_published_as>
+DE102005047758A1;US2009117027A1;US7648555B2;JP2009509741A;JP4926178B2;WO2007036539A2;WO2007036539A3
+</Also_published_as>
+</BiblioData>

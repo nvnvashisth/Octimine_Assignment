@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+BLENDS OF FULLERENE DERIVATIVES, AND USES THEREOF IN ELECTRONIC DEVICES
+</Title>
+<PublicationNumber>
+EP2043952A2
+</PublicationNumber>
+<Inventor>
+<Name>
+KRONHOLM DAVID F [NL]
+</Name>
+<Name>
+HUMMELEN JAN C [NL]
+</Name>
+<Name>
+SIEVAL ALEXANDER B [NL]
+</Name>
+<Name>
+VAN T HOF PATRICK [NL]
+</Name>
+<Name>
+KRONHOLM, DAVID, F
+</Name>
+<Name>
+HUMMELEN, JAN, C
+</Name>
+<Name>
+SIEVAL, ALEXANDER, B
+</Name>
+<Name>
+VAN&apos;T HOF, PATRICK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SOLENNE B V I O [NL]
+</Name>
+<Name>
+SOLENNE B.V. I.O
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2043952
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070799365
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US72965
+</PriorityNumber>
+<PriorityDate>
+2007-07-06
+</PriorityDate>
+<PriorityNumber>
+US20060818888P
+</PriorityNumber>
+<PriorityDate>
+2006-07-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K31/724
+</Class>
+<Class>
+A61K33/44
+</Class>
+<Class>
+C01B31/00
+</Class>
+<Class>
+C01B31/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00M4B2
+</Class>
+</NCL>
+<Abstract>
+Disclosed are compositions of mixed fullerene derivatives with utility in organic semiconductors, and methods of making and using such compositions. In certain embodiments, the present invention relates to compositions of mixed fullerene derivatives further comprising one or more additional fullerene-based components within specified ranges. In certain other embodiments, the invention relates to methods of producing mixed fullerene derivatives of a specific composition from mixed fullerene starting materials, or pure fullerene derivatives of a specific composition from mixed fullerene derivatives. In yet other embodiments, the invention relates to semiconductors and devices comprising a composition of the invention.
+</Abstract>
+<Claims>
+<P>
+We claim:
+</P>
+<P>
+1. A composition, comprising: a C60 chemical derivative selected from the group consisting of methanofullerene derivatives, PCBM derivatives, ThCBM derivatives, Prato derivatives, Bingel derivatives, diazoline derivatives, azafulleroid derivatives, ketolactam derivatives, and Diels-Alder derivatives; a C7o chemical derivative selected from the group consisting of methanofullerene derivatives, PCBM derivatives, ThCBM derivatives, Prato derivatives, Bingel derivatives, diazoline derivatives, azafulleroid derivatives, ketolactam derivatives, and Diels-Alder derivatives; wherein the C60 chemical derivative and the C70 chemical derivative are both members of the same class of chemical derivatives;
+</P>
+<P>
+C60 and C70 in the cumulative range of about 0% to about 50%; one or more C60 bis-adduct chemical derivative, one or more C60 tris-adduct chemical derivative, one or more C7o bis-adduct chemical derivative, and one or more C70 tris-adduct chemical derivative in the cumulative range of about 0% to about 50%; one or more fullerene greater than C70 and one or more chemical derivative of fullerenes greater than C70 in the cumulative range of about 0% to about 3%; one or more oxide of C6o, one or more oxide of C70, one or more oxide of C6o chemical derivatives, and one or more oxide of C7o chemical derivatives in the cumulative range of about 0% to about 5%; and one or more dimer of C60, one or more dimer of C7o, one or more dimer of C60 chemical derivatives, and one or more dimer of C7o chemical derivatives in the cumulative range of about 0% to about 5%. 2. The composition of claim 1, wherein C60 and C70 are in the cumulative range of about 0.01% to about 10%.
+</P>
+<P>
+3. The composition of claim 1, wherein one or more C6o bis-adduct chemical derivative, one or more C60 tris-adduct chemical derivative, one or more C7o bis-adduct chemical derivative, and one or more C7o tris-adduct chemical derivative are in the cumulative range of about 0.01% to about 5%.
+</P>
+<P>
+4. The composition of claim 1, wherein one or more fullerene greater than C70, one or more chemical derivative of fullerenes greater than C70, one or more oxide of fullerenes greater than C70, one or more dimer of fullerenes greater than C70, one or more oxide of chemical derivatives of fullerenes greater than C70, and one or more dimer of chemical derivatives of fullerenes greater than C70 are in the cumulative the range of about 0.001 % to about 0.5%.
+</P>
+<P>
+5. The composition of claim 1, wherein one or more oxide of C60, one or more oxide of C60 chemical derivatives, one or more oxide of C70, and one or more oxide of C70 chemical derivatives are in the cumulative the range of about 0.001% to about 5%. 6. The composition of claim 1, wherein one or more dimer of C60, one or more dimer of C6o chemical derivatives, one or more dimer of C70, and one or more dimer of C70 chemical derivatives are in the cumulative the range of of about 0.001% to about 2%.
+</P>
+<P>
+7. The composition of claim 1, wherein C60 and C70 are in the cumulative the range of about 0.1% to about 5%. 8. The composition of claim 1, wherein one or more C60 bis-adduct chemical derivative, one or more C60 tris-adduct chemical derivative, one or more C70 bis-adduct chemical derivative, and one or more C70 tris-adduct chemical derivative are in the cumulative range of about 0.01% to about 1%.
+</P>
+<P>
+9. The composition of claim 1, wherein one or more fullerene greater than C70, one or more chemical derivative of fullerenes greater than C70, one or more oxide of fullerenes greater than C70, one or more dimer of fullerenes greater than C70, one or more oxide of chemical derivatives of fullerenes greater than C70, and one or more dimer of chemical derivatives of fullerenes greater than C70 are cumulatively less than about 0.1%.
+</P>
+<P>
+10. The composition of claim 1, wherein one or more oxide of C60, one or more oxide of C60 chemical derivatives, one or more oxide of C70, and one or more oxide of C70 chemical derivatives are in the cumulative the range of about 0.01% to about 1%.
+</P>
+<P>
+11. The composition of claim 1, wherein one or more dimer of C60, one or more dimer of C60 chemical derivatives, one or more dimer of C70, and one or more dimer of C70 chemical derivatives are in the cumulative the range of about 0.01% to about 1%. 12. A composition, comprising: a C60 chemical derivative selected from the group consisting of bis- methanofullerene derivatives, bis-PCBM derivatives, bis-ThCBM derivatives, bis-Prato derivatives, bis-Bingel derivatives, bis-diazoline derivatives, bis-azafulleroid derivatives, bis-ketolactam derivatives, and bis-Diels Alder derivatives; a C70 chemical derivative selected from the group consisting of bis- methanofullerene derivatives, bis-PCBM derivatives, bis-ThCBM derivatives, bis-Prato derivatives, bis-Bingel derivatives, bis-diazoline derivatives, bis-azafulleroid derivatives, bis-ketolactam derivatives, and bis-Diels Alder derivatives; wherein the C60 chemical derivative and the C70chemical derivative are both members of the same class of chemical derivatives;
+</P>
+<P>
+C60 and C70 in the cumulative the range of of about 0% to about 50%; one or more C60 mono-adduct chemical derivative, one or more C60 tris-adduct chemical derivative, one or more C70 mono-adduct chemical derivative, and one or more C70 tris-adduct chemical derivative in the cumulative range of about 0% to about 50%; one or more fullerene greater than C70 and one or more chemical derivative of fullerenes greater than C70 in the cumulative range of about 0% to about 3%; one or more oxide of C6o, one or more oxide of C70, one or more oxide of C60 chemical derivatives, and one or more oxide of C70 chemical derivatives in the cumulative range of about 0% to about 5%; one or more dimer of C6O5 one or more dimer of C70, one or more dimer of C60 chemical derivatives, and one or more dimer of C70 chemical derivatives in the cumulative range of about 0% to about 5%.
+</P>
+<P>
+13. The composition of claim 12, wherein C60 and C70 are in the cumulative the range of about 0.01% to about 10%. 14. The composition of claim 12, wherein one or more C60 mono-adduct chemical derivative, one or more C60 tris-adduct chemical derivative, one or more C70 mono-adduct chemical derivative, and one or more C70 tris-adduct chemical derivative are in the cumulative range of about 0.01% to about 5%.
+</P>
+<P>
+15. The composition of claim 12, wherein one or more fullerene greater than C70, one or more chemical derivative of fullerenes greater than C70, one or more oxide of fullerenes greater than C70, one or more dimer of fullerenes greater than C70, one or more oxide of chemical derivatives of fullerenes greater than C70, and one or more dimer of chemical derivatives of fullerenes greater than C70are in the cumulative the range of about 0.001% to about 0.5%.
+</P>
+<P>
+16. The composition of claim 12, wherein one or more oxide of C60, one or more oxide of C6O chemical derivatives, one or more oxide of C70, and one or more oxide of C70 chemical derivatives are in the cumulative the range of about 0.001% to about 5%.
+</P>
+<P>
+17. The composition of claim 12, wherein one or more dimer of C60, one or more dimer of C60 chemical derivatives, one or more dimer of C70, and one or more dimer of C70 chemical derivatives are in the cumulative the range of about 0.001% to about 2%. 18. The composition of claim 12, wherein C60 and C70 are in the cumulative the range of about 0.1% to about 5%.
+</P>
+<P>
+19. The composition of claim 12, wherein one or more C60 mono-adduct chemical derivative, one or more C60 tris-adduct chemical derivative, one or more C70 mono-adduct chemical derivative, and one or more C70 tris-adduct chemical derivative are in the cumulative range of about 0.01% to about 1%.
+</P>
+<P>
+20. The composition of claim 12, wherein one or more fullerene greater than C70, one or more chemical derivative of fullerenes greater than C70, one or more oxide of fullerenes greater than C70, one or more dimer of fullerenes greater than C70, one or more oxide of chemical derivatives of fullerenes greater than C70, and one or more dimer of chemical derivatives of fullerenes greater than C70 are cumulatively less than about 0.1%.
+</P>
+<P>
+21. The composition of claim 12, wherein one or more oxide of C60, one or more oxide of C60 chemical derivatives, one or more oxide of C70, and one or more oxide of C70 chemical derivatives are in the cumulative the range of about 0.01% to about 1%.
+</P>
+<P>
+22. The composition of claim 12, wherein one or more dimer of C60, one or more dimer of C6o chemical derivatives, one or more dimer of C70, and one or more dimer of C70 chemical derivatives are in the cumulative the range of about 0.01% to about 1%.
+</P>
+<P>
+23. A composition, comprising: a compound represented by formula I;
+</P>
+<P>
+a compound represented by formula II;
+</P>
+<P>
+II
+</P>
+<P>
+wherein y is 1;
+</P>
+<P>
+A is a C60 fullerene bonded to -C(X)(Y)- via a methano-bridge; A&apos; is a C70 fullerene bonded to -C(X)(Y)- via a methano-bridge;
+</P>
+<P>
+X is optionally substituted aryl or aralkyl;
+</P>
+<P>
+Y is an optionally substituted alkyl, optionally substituted cycloalkyl, optionally substituted heteroalkyl, optionally substituted heterocycloalkyl, optionally substituted alkenyl, or optionally substituted aralkyl; C60 and C70 in the cumulative range of about 0% to about 50%; one or more C60 bis-adduct chemical derivative, one or more C60 tris-adduct chemical derivative, one or more C70 bis-adduct chemical derivative, and one or more C70 tris-adduct chemical derivative are in the cumulative range of about 0% to about 50%; one or more fullerene greater than C70 and one or more chemical derivative of fullerenes greater than C70 in the cumulative range of about 0% to about 3%; one or more oxide of C60, one or more oxide of C70, one or more oxide of C60 chemical derivatives, and one or more oxide of C70 chemical derivatives in the cumulative range of about 0% to about 5%; and one or more dimer of C60, one or more dimer of C70, one or more dimer of C60 chemical derivatives, and one or more dimer of C70chemical derivatives in the cumulative range of about 0% to about 5%.
+</P>
+<P>
+24. The composition of claim 23, wherein C60 and C70 are in the cumulative range of about 0.01 % to about 10%.
+</P>
+<P>
+25. The composition of claim 23, wherein one or more C60 bis-adduct chemical derivative, one or more C60 tris-adduct chemical derivative, one or more C70 bis-adduct chemical derivative, and one or more C70 tris-adduct chemical derivative are in the cumulative range of about 0.01% to about 5%. 26. The composition of claim 23, wherein one or more fullerene greater than C70, one or more chemical derivative of fullerenes greater than C70, and one or more oxide of fullerenes greater than C70 are in the cumulative range of about 0.001% to about 0.5%.
+</P>
+<P>
+27. The composition of claim 23, wherein one or more oxide of C60, one or more oxide of C60 chemical derivatives, one or more oxide of C70, and one or more oxide of C70 chemical derivatives are in the cumulative range of about 0.001% to about 5%.
+</P>
+<P>
+28. The composition of claim 23, wherein one or more dimer of C60, one or more dimer of C60 chemical derivatives, one or more dimer of C70, and one or more dimer of C70 chemical derivatives are in the cumulative range of about 0.001% to about 2%.
+</P>
+<P>
+29. The composition of claim 23, wherein C60 and C70 are in the cumulative range of about 0.1 % to about 5%.
+</P>
+<P>
+30. The composition of claim 23, wherein one or more C60 bis-adduct chemical derivative, one or more C60 tris-adduct chemical derivative, one or more C70 bis-adduct chemical derivative, and one or more C70 tris-adduct chemical derivative are in the cumulative range of about 0.01% to about 1%. 31. The composition of claim 23, wherein one or more fullerene greater than C70, one or more chemical derivative of fullerenes greater than C70, and one or more oxide of fullerenes greater than C70 are cumulatively less than about 0.1%.
+</P>
+<P>
+32. The composition of claim 23, wherein one or more oxide of C60, one or more oxide of C60 chemical derivatives, one or more oxide of C70, and one or more oxide of C70 chemical derivatives are in the cumulative range of about 0.01% to about 1%.
+</P>
+<P>
+33. The composition of claim 23, wherein one or more dimer of C60, one or more dimer of C6o chemical derivatives, one or more dimer of C70, and one or more dimer of C70 chemical derivatives are in the cumulative range of about 0.01% to about 1%.
+</P>
+<P>
+34. A composition, comprising: a compound represented by formula I;
+</P>
+<P>
+a compound represented by formula II;
+</P>
+<P>
+wherein y is 2;
+</P>
+<P>
+A is a C6o fullerene bonded to -C(X)(Y)- via a methano-bridge; A&apos; is a C70 fullerene bonded to -C(X)(Y)- via a methano-bridge; X is optionally substituted aryl or aralkyl;
+</P>
+<P>
+Y is an optionally substituted alkyl, optionally substituted cycloalkyl, optionally substituted heteroalkyl, optionally substituted heterocycloalkyl, optionally substituted alkenyl, or optionally substituted aralkyl;
+</P>
+<P>
+C6o and C70 in the cumulative range of about 0% to about 50%; one or more C60 mono-adduct chemical derivative, one or more C6o tris-adduct chemical derivative, one or more C70 mono-adduct chemical derivative, and one or more C70 tris-adduct chemical derivative are in the cumulative range of about 0% to about 50%; one or more fullerene greater than C70 and one or more chemical derivative of fullerenes greater than C70 in the cumulative range of about 0% to about 3%; one or more oxide of C60, one or more oxide of C70, one or more oxide of C60 chemical derivatives, and one or more oxide of C70 chemical derivatives in the cumulative range of about 0% to about 5%; one or more dimer of C60, one or more dimer of C70, one or more dimer of C60 chemical derivatives, and one or more dimer of C70chemical derivatives in the cumulative range of about 0% to about 5%.
+</P>
+<P>
+35. The composition of claim 34, wherein C60 and C70 are in the cumulative range of about 0.01% to about 10%.
+</P>
+<P>
+36. The composition of claim 34, wherein one or more C60 mono-adduct chemical derivative, one or more C60 tris-adduct chemical derivative, one or more C70 mono-adduct chemical derivative, and one or more C70 tris-adduct chemical derivative are in the cumulative range of about 0.01% to about 5%. 37. The composition of claim 34, wherein one or more fullerene greater than C70, one or more chemical derivative of fullerenes greater than C70, and one or more oxide of fullerenes greater than C70 are in the cumulative range of about 0.001% to about 0.5%.
+</P>
+<P>
+38. The composition of claim 34, wherein one or more oxide of C60, one or more oxide of C60 chemical derivatives, one or more oxide of C70, and one or more oxide of C70 chemical derivatives are in the cumulative range of about 0.001% to about 5%.
+</P>
+<P>
+39. The composition of claim 34, wherein one or more dimer of C60, one or more dimer of C60 chemical derivatives, one or more dimer of C70, and one or more dimer of C70 chemical derivatives are in the cumulative range of about 0.001% to about 2%.
+</P>
+<P>
+40. The composition of claim 34, wherein C60 and C70 are in the cumulative range of about 0.1% to about 5%.
+</P>
+<P>
+41. The composition of claim 34, wherein one or more C60 mono-adduct chemical derivative, one or more C60 tris-adduct chemical derivative, one or more C70 mono-adduct chemical derivative, and one or more C70 tris-adduct chemical derivative are in the cumulative range of about 0.01% to about 1%.
+</P>
+<P>
+42. The composition of claim 34, wherein one or more fullerene greater than C70, one or more chemical derivative of fullerenes greater than C70, and one or more oxide of fullerenes greater than C70 are cumulatively less than about 0.1%.
+</P>
+<P>
+43. The composition of claim 34, wherein one or more oxide of C60, one or more oxide of C60 chemical derivatives, one or more oxide of C70, and one or more oxide of C70 chemical derivatives are in the cumulative range of about 0.01% to about 1%.
+</P>
+<P>
+44. The composition of claim 34, wherein one or more dimer of C60, one or more dimer of C6O chemical derivatives, one or more dimer of C70, and one or more dimer of C70 chemical derivatives are in the cumulative range of about 0.01% to about 1%. 45. The composition of any one of claims 23-44, wherein X is aryl or aralkyl, each of which is optionally substituted with one or more of halogen, hydroxyl, alkyl, alkoxyl, alkenyl, -N(R&apos;)2, -C(O)R&amp;lt;1&amp;gt;, -OC(O)R&amp;lt;1&amp;gt;, -CO2R&amp;lt;1&amp;gt;, or -N(R^C(O)R&amp;lt;1&amp;gt;; wherein R&amp;lt;1&amp;gt; represents independently for each occurrence H, alkyl, aryl, or aralkyl.
+</P>
+<P>
+46. The composition of any one of claims 23-44, wherein X is aryl or aralkyl, each of which is optionally substituted with one or more of halogen or alkyl.
+</P>
+<P>
+47. The composition of any one of claims 23-44, wherein X is optionally substituted aryl.
+</P>
+<P>
+48. The composition of any one of claims 23-44, wherein X is optionally substituted phenyl or thiophenyl. 49. The composition of any one of claims 23-44, wherein X is phenyl optionally substituted with one or more of halogen, hydroxyl, alkyl, alkoxyl, alkenyl, -N(R^2, - C(O)R&amp;lt;1&amp;gt;, -OC(O)R&amp;lt;1&amp;gt;, -CO2R&amp;lt;1&amp;gt;, or -N(R^C(O)R&amp;lt;1&amp;gt;; wherein R&amp;lt;1&amp;gt; represents independently for each occurrence H, alkyl, aryl, or aralkyl.
+</P>
+<P>
+50. The composition of any one of claims 23-44, wherein X is phenyl optionally substituted with one or more of halogen or alkyl.
+</P>
+<P>
+51. The composition of any one of claims 23-44, wherein X is phenyl.
+</P>
+<P>
+52. The composition of any one of claims 23-44, wherein Y is alkyl, cycloalkyl, heteroalkyl, heterocycloalkyl, alkenyl, or aralkyl, each of which is optionally substituted with one or more of halogen, hydroxyl, alkyl, alkoxyl, alkenyl, -N(R&apos;)2, -C(O)R&amp;lt;1&amp;gt;, - OC(O)R&amp;lt;1&amp;gt;, -CO2R&amp;lt;1&amp;gt;, or -N(R^C(O)R&amp;lt;1&amp;gt;; wherein R&amp;lt;1&amp;gt; represents independently for each occurrence H, alkyl, aryl, or aralkyl.
+</P>
+<P>
+53. The composition of any one of claims 23-44, wherein Y is alkyl, cycloalkyl, or heteroalkyl, each of which is optionally substituted with one or more of halogen, hydroxyl, alkyl, alkoxyl, alkenyl, -N(R^2, -C(O)R&amp;lt;1&amp;gt;, -OC(O)R&amp;lt;1&amp;gt;, -CO2R&amp;lt;1&amp;gt;, or -N(R^C(O)R&amp;lt;1&amp;gt;; wherein R&amp;lt;1&amp;gt; represents independently for each occurrence H, alkyl, aryl, or aralkyl. 54. The composition of any one of claims 23-44, wherein Y is optionally substituted alkyl.
+</P>
+<P>
+55. The composition of any one of claims 23-44, wherein Y is alkyl optionally substituted with one or more Of -C(O)R&amp;lt;1&amp;gt;, -OC(O)R&amp;lt;1&amp;gt;, -CO2R&amp;lt;1&amp;gt;, or -N(R^C(O)R&amp;lt;1&amp;gt;; wherein R&amp;lt;1&amp;gt; represents independently for each occurrence H, alkyl, aryl, or aralkyl. 56. The composition of any one of claims 23-44, wherein Y is C1-C6 alkyl substituted with one or more Of -C(O)R&amp;lt;1&amp;gt;, -OC(O)R&amp;lt;1&amp;gt;, or -CO2R&amp;lt;1&amp;gt;; wherein R&amp;lt;1&amp;gt; represents independently for each occurrence alkyl, aryl, or aralkyl.
+</P>
+<P>
+57. The composition of any one of claims 23-44, wherein Y is C1-C6 alkyl substituted with a -C(O)R&amp;lt;1&amp;gt;, -OC(O)R&amp;lt;1&amp;gt;, or -CO2R&amp;lt;1&amp;gt;; wherein R&amp;lt;1&amp;gt; represents independently for each occurrence alkyl, aryl, or aralkyl.
+</P>
+<P>
+58. The composition of any one of claims 23-44, wherein Y is C1-C6 alkyl substituted with a -CO2R&amp;lt;1&amp;gt;; wherein R&amp;lt;1&amp;gt; is alkyl.
+</P>
+<P>
+59. The composition of any one of claims 23-44, wherein Y is -(CH2)n-CO2R&amp;lt;1&amp;gt;, n is an integer in the range of 1-6, and R&amp;lt;1&amp;gt; is alkyl. 60. The composition of any one of claims 23-44, wherein Y is -(CH2)3-CO2CH3.
+</P>
+<P>
+61. The composition of any one of claims 23-44, wherein X is optionally substituted aryl, and Y is optionally substituted alkyl.
+</P>
+<P>
+62. The composition of any one of claims 23-44, wherein X is optionally substituted phenyl or thiophenyl, and Y is C1-C6 alkyl substituted with a -CO2R&amp;lt;1&amp;gt;; wherein R&amp;lt;1&amp;gt; is alkyl. 63. The composition of any one of claims 23-44, wherein X is phenyl and Y is -(CH2)3- CO2CH3.
+</P>
+<P>
+64. The composition of any one of claims 23-44, wherein X is optionally substituted aryl, and Y is are optionally substituted alkyl.
+</P>
+<P>
+65. The composition of any one of claims 23-44, wherein X is are optionally substituted phenyl or thiophenyl, and Y is are C1-C6 alkyl substituted with a -CO2R&amp;lt;1&amp;gt;; wherein R&amp;lt;1&amp;gt; is alkyl.
+</P>
+<P>
+66. The composition of any one of claims 23-44, wherein X is are phenyl, and Y is - (CH2)3-CO2CH3.
+</P>
+<P>
+67. The composition of any one of claims 23-44, wherein the ratio of the weight percentage of said compound of Formula I to said compound of Formula II is in the range of about 3:1 to about 1:3.
+</P>
+<P>
+68. The composition of any one of claims 23-44, wherein the ratio of the weight percentage of said compound of Formula I to said compound of Formula II is in the range of about 3 : 1 to about 1 :1.
+</P>
+<P>
+69. The composition of any one of claims 23-44, wherein the ratio of the weight percentage of said compound of Formula I to said compound of Formula II is about 2:1.
+</P>
+<P>
+70. The composition of any one of claims 23-44, wherein said compound of Formula I comprises about 5 wt% to about 95 wt% of said composition, and said compound of
+</P>
+<P>
+Formula II comprises about 5 wt% to about 95 wt% of said composition such that the sum of the weight percent of said compound of Formula I and said compound of Formula II equals greater than about 99 wt% of said composition.
+</P>
+<P>
+71. The composition of any one of claims 23-44, wherein said compound of Formula I comprises about 5 wt% to about 95 wt% of said composition, and said compound of
+</P>
+<P>
+Formula II comprises about 5 wt% to about 95 wt% of said composition such that the sum of the weight percent of said compound of Formula I and said compound of Formula II equals greater than about 99 wt% of said composition.
+</P>
+<P>
+72. A method of preparing a mixture of fullerene derivatives, comprising the steps of: reacting a chemical addend moiety with a mixture comprising C60 and C70 to give a first reaction product comprising a chemical derivative of C60 and a chemical derivative of
+</P>
+<P>
+C70; dissolving the first reaction product in a first solvent to give a first solution; combining the first solution with activated charcoal, with or without silica gel, to give a first suspension; filtering the first suspension to give a first filtrate and a first filter cake; combining the first filter cake with a second solvent to give a second suspension; filtering the second suspension to give a second filtrate and a second filter cake. 73. The method of claim 72, further comprising the step of fractionating the first filtrate. 74. The method of claim 72, further comprising the step of fractionating the second filtrate.
+</P>
+<P>
+75. The method of any one of claims 12-1 A, wherein each step is completed at least twice, in series or in parallel.
+</P>
+<P>
+76. The method of any one of claims 72-75, wherein the steps are conducted in a preparatory scale HPLC instrument.
+</P>
+<P>
+77. The method of any one of claims 72-76, wherein the first filtrate or second filtrate comprises substantially pure [60] derivative, substantially pure [70]derivative, substantially pure [76]derivative, substantially pure [78]derivative, or substantially pure [84] derivative.
+</P>
+<P>
+78. The method of any one of claims 72-76, wherein the first filtrate or second filtrate comprises a composition of any one of claims 1-71.
+</P>
+<P>
+79. The method of any one of claims 72-76, wherein the first filtrate or second filtrate comprises a methanofullerene derivative, a PCBM derivative, a ThCBM derivative, a Prato derivative, a Bingel derivative, a diazoline derivative, an azafulleroid derivative, a ketolactam derivative, a Diels Alder derivative, a bis-PCBM derivative, a bis-ThCBM derivative, a bis-Prato derivative, a bis-Bingel derivative, a bis-diazoline derivative, a bis- azafulleroid derivative, a bis-ketolactam derivative, or a bis-Diels Alder derivative.
+</P>
+<P>
+80. The method of any one of claims 72-76, wherein the concentration of the C60 chemical derivative in the first filtrate or second filtrate is in the range of about 0.001% molar to about 99.999% molar. 81. The method of any one of claims 72-76, wherein the concentration of the C70 chemical derivative in the first filtrate or second filtrate is in the range of about 0.001% molar to about 99.999% molar.
+</P>
+<P>
+82. The method of any one of claims 72-76, wherein the concentration of fullerene chemical derivatives greater than C70 in the first filtrate or second filtrate is in the range of about 0.000001% to about 3%.
+</P>
+<P>
+- I l l-
+</P>
+<P>
+83. A semiconductor, comprising a composition of any one of claims 1-71.
+</P>
+<P>
+84. The semiconductor of claim 83, further comprising an N-type semiconductor mixed with a P-type semiconductor.
+</P>
+<P>
+85. The semiconductor of claim 83, further comprising alternating layers of an N-type semiconductor and a P-type semiconductor.
+</P>
+<P>
+86. The semiconductors of any one of claims 84-85, wherein the P-type semiconductor further comprises conjugated polymers, conjugated oligomers, conjugated molecules that are free of repeating units, or semi-conductive nano-particles.
+</P>
+<P>
+87. The semiconductor of claim 86 wherein the P-type semiconductor comprises fused or non-fused thiophene-ring containing oligomers and polymers.
+</P>
+<P>
+88. The semiconductor of claim 86, wherein the P-type semiconductor comprises fused or non-fused benzene-ring containing polymers.
+</P>
+<P>
+89. The semiconductor of claim 86, wherein the P-type semiconductor comprises fused or non- fused pyrrole-ring containing polymers. 90. The semiconductor of claim 86, wherein the P-type semiconductor comprises fused or non-fused thiazoline-ring containing polymers.
+</P>
+<P>
+91. The semiconductor of claim 86, wherein the P-type semiconductor comprises fused or non- fused thiadiazoline-ring containing polymers.
+</P>
+<P>
+92. The semiconductor of claim 86, wherein the P-type semiconductor comprises fused or non-fused pyrazine-ring containing polymers.
+</P>
+<P>
+93. The semiconductor of claim 86, wherein the N-type semiconductor further comprises one or more N-type semiconductor other than those described in claims 1 to 86.
+</P>
+<P>
+94. The use of the materials of any one of claims 1-71 as an electron acceptor in an electronics application. 95. A photovoltaic cell, photodetector, or organic field effect transistor comprising a composition of any one of claims 1-71.
+</P>
+<P>
+96. A photodiode, comprising a photo-active layer, comprising at least one P-type semiconductor, and a composition of any one of claims 1-71 as an N-type semiconductor.
+</P>
+<P>
+97. The photodiode of claim 96, wherein the P-type semiconductor and the N-type semiconductor are present in the photo-active layer in the form of a mixture or as separate sub-layers of one or more N-type semiconductor sub-layers comprising the N-type semiconductor, and one or more P-type semiconductor sub-layers, comprising the P-type semiconductor.
+</P>
+<P>
+98. The photodiode of any one of claims 96-97, wherein the P-type semiconductor is selected from the group consisting of conjugated polymers, conjugated oligomers, conjugated molecules that are free of repeating units, semi-conductive nano-particles.
+</P>
+<P>
+99. The photodiode of claim 98, wherein the P-type semiconductor is selected from the group comprising fused or non-fused thiophene-ring containing oligomers and polymers.
+</P>
+<P>
+100. The photodiode of claim 98, wherein the P-type semiconductor is selected from the group comprising fused or non-fused benzene-ring containing polymers.
+</P>
+<P>
+101. The photodiode of claim 98, wherein the P-type semiconductor is selected from the group comprising fused or non-fused pyrrole-ring containing polymers. 102. The photodiode of claim 98, wherein the P-type semiconductor is selected from the group comprising fused or non-fused thiazoline-ring containing polymers.
+</P>
+<P>
+103. The photodiode of claim 98, wherein the P-type semiconductor is selected from the group comprising fused or non-fused thiadiazoline-ring containing polymers.
+</P>
+<P>
+104. The photodiode of claim 98, wherein the P-type semiconductor is selected from the group comprising fused or non-fused pyrazine-ring containing polymers.
+</P>
+<P>
+105. The photodiode of any one of claims 97-104, wherein the ratio of the weight of P- type semiconductor to the ratio of the weight of N-type semiconductor is in the range of 10:1 to 1 :10.
+</P>
+<P>
+106. The photodiode of any one of claims 97-105, wherein the photodiode is used as a photovoltaic device.
+</P>
+<P>
+107. A photodetector or light intensity meter, comprising a photodiode according to any one of claims 97-105.
+</P>
+<P>
+108. An n-channel field effect transistor, comprising a composition of any one of claims 1-71 as an N-type semiconductor.
+</P>
+<P>
+109. A p-channel field effect transistor, comprising a composition of any one of claims 1 - 71 as a P-type semiconductor.
+</P>
+<P>
+110. A film for time-gated holographic imaging, comprising a composition of any one of claims 1-71. 111. A device, wherein a composition of any one of claims 1-71 is incorporated using a method of solution processing.
+</P>
+</Claims>
+<Also_published_as>
+WO2008006071A2;WO2008006071A3;WO2008006071B1;US2012043507A1;US2010127244A1;US8076050B2;JP2009542725A
+</Also_published_as>
+</BiblioData>

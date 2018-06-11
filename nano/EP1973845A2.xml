@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PRODUCTION OF CARBON NANOTUBES
+</Title>
+<PublicationNumber>
+EP1973845A2
+</PublicationNumber>
+<Inventor>
+<Name>
+CARRUTHERS J DONALD [US]
+</Name>
+<Name>
+XU XUEPING [US]
+</Name>
+<Name>
+WANG LUPING [US]
+</Name>
+<Name>
+CARRUTHERS, J. DONALD
+</Name>
+<Name>
+XU, XUEPING
+</Name>
+<Name>
+WANG, LUPING
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ADVANCED TECH MATERIALS [US]
+</Name>
+<Name>
+NANTERO, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1973845
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060851793
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-19
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US48371
+</PriorityNumber>
+<PriorityDate>
+2006-12-19
+</PriorityDate>
+<PriorityNumber>
+US20050751738P
+</PriorityNumber>
+<PriorityDate>
+2005-12-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J20/20
+</Class>
+<Class>
+B01J21/18C
+</Class>
+<Class>
+B01J23/74
+</Class>
+<Class>
+B01J23/881
+</Class>
+<Class>
+B01J23/882
+</Class>
+<Class>
+B01J23/883
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+</NCL>
+<Abstract>
+A method and apparatus for manufacture of carbon nanotubes, in which a substrate is contacted with a hydrocarbonaceous feedstock containing a catalytically effective metal to deposit the feedstock on the substrate, followed by oxidation of the deposited feedstock to remove hydrocarbonaceous and carbonaceous components from the substrate, while retaining the catalytically effective metal thereon, and contacting of the substrate having retained catalytically effective metal thereon with a carbon source material to grow carbon nanotubes on the substrate. The manufacture can be carried out with a petroleum feedstock such as an oil refining atmospheric tower residue, to produce carbon nanotubes in high volume at low cost. Also disclosed is a composite including porous material having single-walled carbon nanotubes in pores thereof.
+</Abstract>
+<Claims>
+<P>
+THE CLAIMS What is claimed is:
+</P>
+<P>
+1. A method of making carbon nanotubes, comprising: depositing catalytically effective metal for carbon nanotube growth on a substrate to produce a catalytically effective metal-containing substrate; and contacting the catalytically effective metal-containing substrate with a carbon source material that in contact with such substrate enables growth of carbon nanotubes thereon, for sufficient time and under sufficient conditions to grow carbon nanotubes on the substrate.
+</P>
+<P>
+2. The method of claim 1 , wherein the carbon source material comprises a hydrocarbon material.
+</P>
+<P>
+3. The method of claim 2, wherein said hydrocarbon material comprises an oil.
+</P>
+<P>
+4. The method of claim 2, wherein said hydrocarbon material comprises a vaporized mixture of hydrocarbons.
+</P>
+<P>
+5. The method of claim 1 , wherein said depositing comprises contacting the substrate with a hydrocarbon material containing said catalytically effective metal.
+</P>
+<P>
+6. The method of claim 5, wherein said catalytically effective metal comprises nickel.
+</P>
+<P>
+7. The method of claim 5, wherein said catalytically effective metal comprises iron.
+</P>
+<P>
+8. The method of claim 5, wherein said carbon source material comprises a same material as said hydrocarbon material, or said same material having a lower amount of catalytically effective metal therein.
+</P>
+<P>
+9. The method of claim 1, wherein said catalytically effective metal comprises nickel, and is deposited on said substrate by contacting said substrate with a reduced crude oil containing nickel porphyrins therein.
+</P>
+<P>
+10. The method of claim 9, wherein said reduced crude oil contains nickel in a concentration of from about 2 ppm wt. to about 100 ppm wt., based on total weight of said reduced crude oil.
+</P>
+<P>
+1 1. The method of claim 1 , wherein said substrate comprises a material selected from the group consisting of silica, alumina, aluminosilicates, kielselguhr, clays, and macroreticulate polymers.
+</P>
+<P>
+12. The method of claim 1 , wherein said substrate comprises a material in a discontinuous form.
+</P>
+<P>
+13. The method of claim 12, wherein said discontinuous form comprises microparticles.
+</P>
+<P>
+14. The method of claim 13, wherein said microparticles have a form selected from the group consisting of selected from the group consisting of microspheres, microflakes, and microrods.
+</P>
+<P>
+15. The method of claim 1, wherein said substrate comprises a silica-alumina material.
+</P>
+<P>
+16. The method of claim 1, wherein said substrate comprises calcined kaolin microspheres.
+</P>
+<P>
+17. The method of claim 1 , wherein said depositing and contacting each comprises exposing the substrate to a hydrocarbon material containing at least one unsaturated hydrocarbon.
+</P>
+<P>
+18. The method of claim 17, wherein said hydrocarbon material is in a vapor form.
+</P>
+<P>
+19. The method of claim 17, wherein said hydrocarbon material includes aromatic hydrocarbons.
+</P>
+<P>
+20. The method of claim 17, wherein said hydrocarbon material includes non-aromatic hydrocarbons.
+</P>
+<P>
+21. The method of claim 17, wherein said hydrocarbon material includes at least one unsaturated hydrocarbon having a carbon number in a range of Ci - C20-
+</P>
+<P>
+22. The method of claim 17, wherein said hydrocarbon material includes at least one hydrocarbon selected from the group consisting of alkenes, alkynes, cycloalkenes, cycloalkynes, aryls, arylalkyls, and alkaryls.
+</P>
+<P>
+23. The method of claim 17, wherein said hydrocarbon material includes at least one hydrocarbon selected from the group consisting of ethylene, propane, butane, octane, benzene, naphthalene, toluene, and xylene.
+</P>
+<P>
+24. The method of claim 17, wherein said hydrocarbon material includes a petroleum feedstock.
+</P>
+<P>
+25. The method of claim 17, wherein said hydrocarbon material includes a residual oil feedstock.
+</P>
+<P>
+26. The method of claim 17, wherein said hydrocarbon material includes an oil refining atmospheric tower residue.
+</P>
+<P>
+28. A method of forming carbon nanotubes, comprising: contacting a catalytically effective metal-containing feedstock with a substrate to deposit said feedstock on the substrate; exposing the substrate having metal-containing feedstock thereon to elevated temperature effecting burnoff of carbon in the feedstock on the substrate and yielding a catalytic metal- containing substrate; and contacting the catalytic metal-containing substrate with a nanotube-forming carbon source material under conditions producing carbon nanotubes on the substrate.
+</P>
+<P>
+29. The method of claim 28, wherein the nanotube-forming carbon source material is the same as the catalytic metal-containing feedstock, or is a metal-depleted form of said feedstock.
+</P>
+<P>
+30. The method of claim 28, wherein the nanotube-forming carbon source material is different from the catalytic metal-containing feedstock.
+</P>
+<P>
+31. The method of claim 28, wherein the nanotube-forming carbon source material a metal- depleted form of said feedstock.
+</P>
+<P>
+32. The method of claim 28, wherein said feedstock after contacting with the substrate constitutes at least a portion of the nanotubes-forming carbon source material.
+</P>
+<P>
+33. The method of claim 28, conducted in a continuous, batch or semi-batch mode of processing.
+</P>
+<P>
+34. The method of claim 28, conducted in a continuous mode of processing.
+</P>
+<P>
+35. The method of claim 28, conducted in a batch mode of processing.
+</P>
+<P>
+36. The method of claim 28, wherein contacting the catalytically effective metal-containing feedstock with the substrate is conducted at temperature in a range of from about 480 to about 750 &amp;lt;0&amp;gt;C.
+</P>
+<P>
+37. The method of claim 28, wherein contacting the catalytically effective metal-containing feedstock with the substrate is conducted at pressure in a range of 15 to 50 psig.
+</P>
+<P>
+38. The method of claim 28, wherein contacting the catalytically effective metal-containing feedstock with the substrate is conducted at feedstock weight hourly space velocity, WHSV, in a range of from about 5 to about 20 kg feedstock/hr, with residence time of the feedstock in the contacting being in a range of from about 0.5 to about 144 seconds.
+</P>
+<P>
+39. The method of claim 28, wherein contacting the catalytically effective metal-containing feedstock with the substrate is conducted in a fluidized bed contacting zone, through which the feedstock is flowed as a fluidizing medium, at a sufficient superficial velocity to effect fluidization of the substrate.
+</P>
+<P>
+40. The method of claim 28, wherein said elevated temperature burnoff of carbon is conducted at temperature in a range of from about 550 to about 870&amp;lt;0&amp;gt;C.
+</P>
+<P>
+41. The method of claim 28, wherein said elevated temperature burnoff of carbon is conducted at pressure in a range of 5 to 50 psig.
+</P>
+<P>
+42. The method of claim 28, wherein said elevated temperature burnoff of carbon is conducted in a burnoff zone through which oxidant is flowed at flow rate in a range of from 1 to 10 standard cubic feet per minute (CFM) per kilogram of solid and wherein said oxidant has a residence time in said burnoff zone in a range of from 5 to 30 minutes.
+</P>
+<P>
+43. The method of claim 42, wherein the oxidant comprises an oxidizing gas selected from the group consisting of carbon monoxide, carbon dioxide, oxygen, air, and oxygen-enriched air.
+</P>
+<P>
+44. The method of claim 28, wherein contacting the catalytic metal-containing substrate with the nanotube-forming carbon source material is conducted at temperature in a range of from about 480&amp;lt;0&amp;gt;C to about 550 &amp;lt;0&amp;gt;C.
+</P>
+<P>
+45. The method of claim 28, wherein contacting the catalytic metal-containing substrate with the nanotube-forming carbon source material is conducted at pressure in a range of 15 to 50 psig.
+</P>
+<P>
+46. The method of claim 28, wherein contacting the catalytic metal-containing substrate with the nanotube-forming carbon source material comprises flowing the nanotube-forming carbon source material through a contacting zone containing the catalytic metal-containing substrate, at a weight hourly space velocity, WHSV, the weight of oil in kg per weight of solid in kg per hour) in a range of from about 5 to about 20 kg carbon source material/hr., with the residence time in the contacting being in a range of from about 0.5 to 144 seconds.
+</P>
+<P>
+47. The method of claim 28, wherein contacting the catalytic metal-containing substrate with the nanotube-forming carbon source material is conducted in a fluidized bed contacting zone, through which the nanotube-forming carbon source material is flowed as a fluidizing medium, at a sufficient superficial velocity to effect fluidization of the catalytic metal-containing substrate.
+</P>
+<P>
+48. The method of claim 28, wherein said feedstock and said nanotube-forming carbon source material each comprises a hydrocarbon material containing at least one unsaturated hydrocarbon.
+</P>
+<P>
+49. The method of claim 48, wherein said hydrocarbon material is in a vapor form.
+</P>
+<P>
+50. The method of claim 48, wherein said hydrocarbon material includes aromatic hydrocarbons.
+</P>
+<P>
+51. The method of claim 48, wherein said hydrocarbon material includes non-aromatic hydrocarbons.
+</P>
+<P>
+52. The method of claim 48, wherein said hydrocarbon material includes at least one unsaturated hydrocarbon having a carbon number in a range of Ci - C2o-
+</P>
+<P>
+53. The method of claim 48, wherein said hydrocarbon material includes at least one hydrocarbon selected from the group consisting of alkenes, alkynes, cycloalkenes, cycloalkynes, aryls, arylalkyls, and alkaryls.
+</P>
+<P>
+54. The method of claim 48, wherein said hydrocarbon material includes at least one hydrocarbon selected from the group consisting of ethylene, propane, butane, octane, benzene, naphthalene, toluene, and xylene.
+</P>
+<P>
+55. The method of claim 48, wherein said hydrocarbon material includes a petroleum feedstock.
+</P>
+<P>
+56. The method of claim 48, wherein said hydrocarbon material includes a residual oil feedstock.
+</P>
+<P>
+57. The method of claim 48, wherein said hydrocarbon material includes an oil refining atmospheric tower residue.
+</P>
+<P>
+58. The method of claim 1 or claim 28, further comprising recovering carbon nanotubes from said substrate.
+</P>
+<P>
+59. The method of claim 58, wherein said recovering comprises effecting shearing action on the carbon nanotubes on the substrate so that the carbon nanotubes are sheared off.
+</P>
+<P>
+60. The method of claim 59, wherein said sheared off carbon nanotubes are subjected to a separation process selected from the group consisting of filtration, gravitational separation, and eye Ion ing.
+</P>
+<P>
+61. The method of claim 58, wherein said recovering comprises removal of the substrate to release said carbon nanotubes.
+</P>
+<P>
+62. The method of claim 61, wherein said removal comprises a removal process selected from the group consisting of solubilization, sublimation, melting, and volatilization.
+</P>
+<P>
+63. The method of claim 62, wherein the removal additionally comprises a further removal process selected from the group consisting of filtration, gravitational separation, and cycloning.
+</P>
+<P>
+64. The method of claim 61 , wherein said removal comprises a removal process including solubilization of the substrate by a solvent medium and filtration of the carbon nanotubes from the solvent medium.
+</P>
+<P>
+65. The method of claim 58, further comprising manufacturing a product incorporating the carbon nanotubes.
+</P>
+<P>
+66. The method of claim 65, wherein the product comprises a nanomolecular composite.
+</P>
+<P>
+67. The method of claim 65, wherein the product comprises a microelectronic device.
+</P>
+<P>
+68. The method of claim 67, wherein said microelectronic device comprises a device selected from the group consisting of carbon nanotube-based integrated circuitry devices.
+</P>
+<P>
+69. A microsphere having an array of carbon nanotubes grown thereon.
+</P>
+<P>
+70. The microsphere of claim 69, having diameter in a range of from about 40 to about 120 microns.
+</P>
+<P>
+71. The microsphere of claim 69, wherein said array comprises nanotubes having diameter in a range of from about 10 to about 300 nanometers.
+</P>
+<P>
+72. The microsphere of claim 69, formed of calcined kaolin.
+</P>
+<P>
+73. An apparatus for manufacturing carbon nanotubes, comprising: a first vessel adapted to contain a bed of particles therein; a source of a feedstock containing catalytically effective metal for forming carbon nanotubes from a carbon source material therefor, joined in feed relationship with the first vessel for flow of the feedstock through the bed of particles in the first vessel to deposit the feedstock containing catalytically effective metal on the particles; a source of oxidant arranged in feed relationship with the first vessel and adapted for flow of oxidant through the first bed of particles after termination of flow of feedstock therethrough, and burnoff of the feedstock to yield particles having catalytically effective metal thereon in said first vessel; and a second vessel adapted to contain a bed of particles containing catalytically effective metal thereon, wherein said second vessel is coupled in fluid flow relationship with the first vessel and adapted to receive fluid from the first vessel comprising flow of feedstock to contact the bed of particles in the second vessel, for growth of carbon nanotubes thereon.
+</P>
+<P>
+74. The apparatus of claim 73, wherein said first vessel has a heater operatively coupled therewith.
+</P>
+<P>
+75. The apparatus of claim 73, wherein the bed of particles comprises microspherical particles.
+</P>
+<P>
+76. The apparatus of claim 73, wherein the source of a feedstock is joined in feed relationship with the first vessel by a feed conduit having a pump and valve therein.
+</P>
+<P>
+77. The apparatus of claim 73, wherein the source of oxidant is joined in feed relationship with the first vessel by an oxidant feed conduit having a compressor and a valve therein.
+</P>
+<P>
+78. The apparatus of claim 73, wherein the second vessel is coupled with the feedstock source, for circulation of feedstock through the first vessel and thereafter through the second vessel and to the feedstock source.
+</P>
+<P>
+79. The apparatus of claim 78, wherein the second vessel is coupled with the feedstock source by a conduit coupled with a cyclone and a condenser.
+</P>
+<P>
+80. The apparatus of claim 73, as adapted for fluidization of said second bed of particles with a fluidization medium to disengage said carbon nanotubes from particles on which they have been grown.
+</P>
+<P>
+81. The apparatus of claim 80, comprising a cyclone adapted to receive the disengaged carbon nanotubes in the fluidization medium, and to separate the carbon nanotubes from the fluidization medium to yield separated carbon nanotubes as product.
+</P>
+<P>
+82. The apparatus of claim 81, further comprising a fluidizing medium source adapted for flow of the fluidizing medium to the second vessel.
+</P>
+<P>
+83. The apparatus of claim 82, wherein the fluidizing medium is joined in feed relationship to the second vessel by a fluidizing medium feed conduit coupled with a flow control valve and a fluidizing medium compressor.
+</P>
+<P>
+84. The apparatus of claim 81 , further comprising packaging the separated carbon nanotubes.
+</P>
+<P>
+85. A method for manufacturing carbon nanotubes, comprising: contacting a substrate with hydrocarbonaceous feedstock containing a catalytically effective metal to deposit said feedstock thereon; oxidizing the feedstock deposited on the substrate to remove hydrocarbonaceous and carbonaceous components thereof from the substrate, but retaining the catalytically effective metal thereon; and contacting the substrate having retained catalytically effective metal thereon with a carbon source material to grow carbon nanotubes on the substrate.
+</P>
+<P>
+86. The method of claim 85, wherein said carbon source material comprises a same material as said hydrocarbonaceous feedstock, or said same material having a lower amount of catalytically effective metal therein.
+</P>
+<P>
+87. A method of making carbon nanotubes, comprising: providing a substrate including metal that is catalytically effective for carbon nanotube growth on the substrate; contacting the catalytically effective metal-containing substrate with a carbon source material, for sufficient time and under sufficient conditions to grow carbon nanotubes on the substrate; and recovering the carbon nanotubes from the substrate.
+</P>
+<P>
+88. The method of claim 87, wherein the substrate comprises spent fluid catalytic cracking catalyst.
+</P>
+<P>
+89. The method of claim 87, wherein said metal comprises nickel.
+</P>
+<P>
+90. The method of claim 87, wherein said recovering comprises mechanically shearing the carbon nanotubes from the substrate.
+</P>
+<P>
+91. The method of claim 87, wherein said recovering includes energy impingement on the substrate that is effective to delaminate the carbon nanotubes from the substrate.
+</P>
+<P>
+92. The method of claim 87, further comprising recycling the substrate for contacting with the carbon source material after recovering the carbon nanotubes from the substrate.
+</P>
+<P>
+93. A composite comprising porous material having single-walled carbon nanotubes in pores thereof.
+</P>
+<P>
+94. The composite of claim 93, wherein the porous material comprises carbon.
+</P>
+<P>
+95. The composite of claim 93, wherein the single-walled carbon nanotubes have diameters that are predominantly in a range of from 3 to 10 Angstroms.
+</P>
+<P>
+96. The composite of claim 93, wherein the single-walled carbon nanotubes have diameters that are predominantly in a range of from 6 to 9 Angstroms.
+</P>
+<P>
+97. A fluid storage system, comprising a composite including a porous material having single-walled carbon nanotubes in pores thereof, and a dispenser adapted to discharge fluid from the composite under dispensing conditions effecting desorption of fluid from the composite.
+</P>
+<P>
+98. The fluid storage system of claim 97, wherein said composite is of discontinuous form and defines a bed of the porous material having single-walled carbon nanotubes in pores thereof.
+</P>
+<P>
+99. The fluid storage system of claim 98, wherein said bed of the porous material having single-walled carbon nanotubes in pores thereof is disposed in a vessel, and said dispenser is coupled to said vessel.
+</P>
+<P>
+100. The fluid storage system of claim 99, wherein said dispenser is coupled to flow circuitry joined to a fluid -utilizing apparatus.
+</P>
+<P>
+101. The fluid storage system of claim 100, wherein said fluid-utilizing apparatus comprises and apparatus selected from the group consisting of combustion engines and fuel cells.
+</P>
+<P>
+102. The fluid storage system of claim 97, wherein said composite contains fluid.
+</P>
+<P>
+103. The fluid storage system of claim 97, wherein the porous material comprises carbon.
+</P>
+<P>
+104. The fluid storage system of claim 97, wherein the single-walled carbon nanotubes have diameters that are predominantly in a range of from 3 to 10 Angstroms.
+</P>
+<P>
+105. The fluid storage system of claim 97, wherein the single-walled carbon nanotubes have diameters that are predominantly in a range of from 6 to 9 Angstroms.
+</P>
+<P>
+106. The fluid storage system of claim 97 as coupled to a fluid-utilizing unit.
+</P>
+<P>
+107. A method of making a composite material, said method comprising growing single- wall carbon nanotubes in porosity of a porous material.
+</P>
+<P>
+108. The method of claim 107, wherein the porous material comprises porous carbon.
+</P>
+<P>
+109. A method of reversibly storing fluid, comprising contacting said fluid with a composite comprising a porous material having single-walled carbon nanotubes in pores thereof, so that said fluid is taken up by said composite and is releasable from the composite under dispensing conditions involving desorption of the fluid therefrom.
+</P>
+<P>
+1 10. The method of claim 109, comprising dispensing fluid from the composite under dispensing conditions therefor.
+</P>
+<P>
+1 1 1. The method of claim 1 10, wherein said dispensing conditions comprise establishing a reduced pressure at a dispensing locus in relation to pressure at said composite to effect pressure-mediated dispensing of fluid from said composite.
+</P>
+<P>
+1 12. The method of claim 1 10, further comprising utilization of the fluid dispensed from the composite.
+</P>
+<P>
+1 13. A method of forming a single-walled nanotube/activated carbon composite, comprising impregnating a porous activated carbon with a catalyst precursor, reducing the catalyst precursor to form active catalyst in pores of the activated carbon, and catalytically growing single-walled carbon nanotubes in the pores of the activated carbon.
+</P>
+<P>
+1 14. The method of claim 1 13, further comprising treating the composite to open the carbon nanotubes therein.
+</P>
+<P>
+1 15. A method of forming a single-walled nanotube composite, comprising impregnating a porous substrate with a catalyst precursor, reducing the catalyst precursor to form active catalyst in pores of the substrate, and catalytically growing single-walled carbon nanotubes in the pores of the porous substrate.
+</P>
+<P>
+1 16. The method of claim 1 15, wherein said catalytically growing comprises decomposition of carbon-containing molecules on said active catalyst.
+</P>
+<P>
+1 17. The method of claim 1 16, wherein said carbon-containing molecules comprise methane, and said active catalyst comprises iron.
+</P>
+<P>
+1 18. The method of claim 1 16, wherein said carbon-containing molecules comprise carbon monoxide, and said active catalyst comprises molybdenum.
+</P>
+<P>
+1 19. The method of claim 1 16, wherein said carbon-containing molecules comprise carbon monoxide, and said active catalyst comprises molybdenum.
+</P>
+<P>
+120. The method of claim 1 15, wherein said active catalyst comprises alumina and molybdenum.
+</P>
+<P>
+121. The method of claim 1 15, wherein said active catalyst comprises alumina, iron and molybdenum.
+</P>
+<P>
+122. The method of claim 1 16, wherein said carbon-containing molecules comprise ethylene.
+</P>
+<P>
+123. The method of claim 1 15, wherein said catalytically growing single-walled carbon nanotubes comprises forming nanotube bundles.
+</P>
+<P>
+124. The method of claim 123 wherein said bundles have diameters in a range of from 5 Angstroms to 30 Angstroms.
+</P>
+<P>
+125. A method of forming single-walled nanotubes in pores of a porous material, said method comprising:
+</P>
+<P>
+(a) dissolving a metal catalyst precursor in a solvent to form a precursor solution;
+</P>
+<P>
+(b) contacting the porous material with the precursor solution to introduce the precursor solution into the pores of the porous material;
+</P>
+<P>
+(c) drying the porous material to remove solvent from the pores;
+</P>
+<P>
+(d) reducing the metal catalyst in the pores of the porous material to an active metal catalyst form;
+</P>
+<P>
+(e) contacting the porous material with a carbon source vapor at sufficient temperature and for sufficient time to catalytically form single walled nanotubes in the pores of the porous material.
+</P>
+<P>
+126. The method of claim 125, wherein said metal catalyst precursor comprises one of bis(acetylacetonato)-dioxomolybdenum (VI) and ferric nitrate.
+</P>
+<P>
+127. The method of claim 125, wherein the metal catalyst is reduced by heating in hydrogen or in an inert atmosphere.
+</P>
+<P>
+128. The method of claim 125, further comprising treating the porous material containing single walled nanotubes in pores thereof to remove residual active catalyst therefrom and open ends of said single walled nanotubes.
+</P>
+<P>
+129. The method of claim 125, wherein said porous material comprises material selected from the group consisting of activated carbon, silicon, silica, glasses and ceramics.
+</P>
+<P>
+130. The method of claim 125, wherein said porous material comprises activated carbon.
+</P>
+<P>
+131. The method of claim 125, wherein the active catalyst comprises a metal selected from the group consisting of iron, nickel, cobalt, and molybdenum, and combinations including two or more of the foregoing.
+</P>
+<P>
+132. The method of claim 125, wherein the active catalyst comprises at least one of molybdenum and iron.
+</P>
+<P>
+133. The method of claim 125, wherein the active catalyst comprises active catalyst particles.
+</P>
+<P>
+134. The method of claim 133, wherein the active catalyst particles include particles having a diameter not exceeding 3 nanometers.
+</P>
+</Claims>
+<Also_published_as>
+EP1973845A4;WO2008048313A2;WO2008048313A9;WO2008048313A3;US2009099016A1;KR20080078879A;JP2009528238A
+</Also_published_as>
+</BiblioData>

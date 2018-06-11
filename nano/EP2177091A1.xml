@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LITHOGRAPHIC APPARATUS AND DEVICE MANUFACTURING METHOD
+</Title>
+<PublicationNumber>
+EP2177091A1
+</PublicationNumber>
+<Inventor>
+<Name>
+IVANOV VLADIMIR VITALEVICH [RU]
+</Name>
+<Name>
+BANINE VADIM YEVGENYEVICH [NL]
+</Name>
+<Name>
+BLEEKER ARNO JAN [NL]
+</Name>
+<Name>
+KOSHELEV KONSTANTIN NIKOLAEVIC [RU]
+</Name>
+<Name>
+ANTSIFEROV PAVEL STANISLAVOVIC [RU]
+</Name>
+<Name>
+KRIVTSUN VLADIMIR MIHAILOVITCH [RU]
+</Name>
+<Name>
+LOPAEV DMITRIY VICTOROVICH [RU]
+</Name>
+<Name>
+IVANOV, VLADIMIR VITALEVICH
+</Name>
+<Name>
+BANINE, VADIM, YEVGENYEVICH
+</Name>
+<Name>
+BLEEKER, ARNO, JAN
+</Name>
+<Name>
+KOSHELEV, KONSTANTIN NIKOLAEVICH
+</Name>
+<Name>
+ANTSIFEROV, PAVEL STANISLAVOVICH
+</Name>
+<Name>
+KRIVTSUN, VLADIMIR MIHAILOVITCH
+</Name>
+<Name>
+LOPAEV, DMITRIY VICTOROVICH
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASML NETHERLANDS BV [NL]
+</Name>
+<Name>
+ASML NETHERLANDS B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2177091
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080785139
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP06188
+</PriorityNumber>
+<PriorityDate>
+2008-07-28
+</PriorityDate>
+<PriorityNumber>
+US20070889065
+</PriorityNumber>
+<PriorityDate>
+2007-08-08
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H05G2/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70B6
+</Class>
+<Class>
+H05G2/00P2
+</Class>
+</NCL>
+<Abstract>
+A source configured to generate radiation for a lithographic apparatus is disclosed. The source includes an anode, and a cathode. The cathode and the anode are configured to create a discharge in a fuel in a discharge space between the anode and the cathode so as to generate a plasma, the cathode and the anode positioned relative to each other so that, in use, current lines extending between the anode and the cathode are substantially curved so as to create a force that substantially radially compresses the plasma only in a region proximate an upper surface of the cathode or of the anode.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A source configured to generate radiation for a lithographic apparatus, the source comprising: an anode; and a cathode, the cathode and the anode configured to create a discharge in a fuel in a discharge space between the anode and the cathode so as to generate a plasma, the cathode and the anode positioned relative to each other so that, in use, current lines extending between the anode and the cathode are substantially curved so as to create a force that substantially radially compresses the plasma only in a region proximate an upper surface of the cathode or of the anode.
+</P>
+<P>
+2. A source according to claim 1 , wherein the force substantially causes expansion of the plasma along a direction substantially perpendicular to the upper surface and outside the region proximate the upper surface.
+</P>
+<P>
+3. A source according to either claim 1 or claim 2, wherein a distance L separating the cathode and the anode along a direction substantially parallel to the upper surface is larger than a distance I separating the cathode and the anode along a direction substantially perpendicular to the upper surface.
+</P>
+<P>
+4. The source of claim 3 , wherein L &amp;gt; 2* I.
+</P>
+<P>
+5. A source according to any one of the preceding claims, wherein the upper surface is substantially co-planar with an upper surface of the other of the anode or cathode.
+</P>
+<P>
+6. A source according to any one of the preceding claims, wherein the cathode and the anode are rotationally symmetric.
+</P>
+<P>
+7. A source according to any one of the preceding claims, wherein the fuel is arranged on the upper surface. 8. A source according to any one of the preceding claims, wherein the fuel includes at least one of Sn, Xe or Li.
+</P>
+<P>
+9. A source according to any one of the preceding claims, wherein an etendue of the source substantially matches an etendue of the lithographic apparatus.
+</P>
+<P>
+10. A source according to any one of the preceding claims, wherein the etendue of the source is less than about 0.03 mm&amp;lt;2&amp;gt; steradian.
+</P>
+<P>
+11. A source according to any one of the preceding claims, wherein the cathode or the anode includes a first part and a second part and wherein the other of the cathode or anode is positioned between the first part and the second part.
+</P>
+<P>
+12. A source according to any one of the preceding claims, wherein the radiation has a wavelength in the extreme ultraviolet range.
+</P>
+<P>
+13. A source according to any one of the preceding claims, further comprising a radiation source configured to output a radiation beam and an optical system configured to direct the radiation beam on the upper surface, wherein the upper surface is positioned substantially in a focal plane of the optical system.
+</P>
+<P>
+14. A source according to claim 13 , wherein a spot size of the radiation beam on the upper surface is in a range between about 30 [mu]m and 50 [mu]m.
+</P>
+<P>
+15. A source according to any one of the preceding claims, wherein the compression of the plasma in the region proximate the upper surface produces a single radiation emission spot during the discharge.
+</P>
+<P>
+16. A source according to any one of the preceding claims, wherein the upper surface is the upper surface of the cathode.
+</P>
+<P>
+17. A lithographic system comprising: a source configured to generate radiation for a lithographic apparatus, the source including an anode, and a cathode, the cathode and the anode configured to create a discharge in a fuel in a discharge space between the anode and the cathode so as to generate a plasma, the cathode and the anode positioned relative to each other so that, in use, current lines extending between the anode and the cathode are substantially curved so as to create a force that substantially radially compresses the plasma only in a region proximate an upper surface of the cathode or of the anode; a pattern support configured to hold a patterning device, the patterning device configured to pattern the radiation to form a patterned beam of radiation; a substrate support configured to support a substrate; and a projection system configured to project the patterned beam of radiation onto the substrate.
+</P>
+<P>
+18. An apparatus according to claim 17, wherein the force substantially causes expansion of the plasma along a direction substantially perpendicular to the upper surface and outside the region proximate the upper surface.
+</P>
+<P>
+19. An apparatus according to either claim 17 or claim 18, wherein a distance L separating the cathode and the anode along a direction substantially parallel to the upper surface is larger than a distance I separating the cathode and the anode along a direction substantially perpendicular to the upper surface.
+</P>
+<P>
+20. An apparatus according to claim 19, wherein L &amp;gt; 2*1.
+</P>
+<P>
+21. An apparatus according to claims 17 to 20, wherein the upper surface is substantially co-planar with an upper surface of the other of the cathode and the anode.
+</P>
+<P>
+22. An apparatus according to any one of claims 17 to 21 , wherein the compression of the plasma in the region proximate the upper surface produces a single radiation emission spot during the discharge.
+</P>
+<P>
+23. An apparatus according to any one of claims 17 to 22, wherein the fuel is arranged on the upper surface. 24. An apparatus according to any one of claims 17 to 23, wherein the fuel includes at least one of Sn, Xe or Li.
+</P>
+<P>
+25. An apparatus according to any one of claims 17 to 24, wherein an etendue of the source substantially matches an etendue of the lithographic apparatus.
+</P>
+<P>
+26. An apparatus according to any one of claims 17 to 25, wherein the upper surface is the upper surface of the cathode.
+</P>
+<P>
+27. A method for generating radiation for use in a lithographic apparatus, the method comprising: supplying a fuel to a discharge space located between a cathode and an anode; creating a discharge between the cathode and the anode in the fuel to form a plasma that is adapted to emit the radiation; and positioning the cathode and the anode relative to each other so that, in use, current lines extending between the anode and the cathode are substantially curved so as to create a force that substantially radially compresses the plasma only in a region proximate an upper surface of the cathode or of the anode.
+</P>
+<P>
+28. A method according to claim 27, wherein the force substantially causes expansion of the plasma along a direction substantially perpendicular to the upper surface and outside the region proximate the upper surface.
+</P>
+<P>
+29. A method according to either claim 27 or claim 28, wherein a distance L separating the cathode and the anode along a direction substantially parallel to the upper surface is larger than a distance I separating the cathode and the anode along a direction perpendicular to the upper surface.
+</P>
+<P>
+30. A method according to claim 29, wherein L &amp;gt; 2*[pound].
+</P>
+<P>
+31. A method according to any one of claims 27 to 30, wherein the upper surface is substantially co-planar with an upper surface of the other of the cathode and the anode. 32. A method according to any one of claims 27 to 31 , wherein compression of the plasma in the region proximate the upper surface produces a single radiation emission spot during the discharge.
+</P>
+<P>
+33. A method according to any one of claims 27 to 32, wherein the fuel is arranged on the upper surface.
+</P>
+<P>
+34. A method according to any one of claims 27 to 33, wherein the fuel includes at least one of Sn, Xe or Li.
+</P>
+<P>
+35. A method according to any one of claims 27 to 34, wherein the positioning includes positioning the cathode and the anode relative to each other such that an etendue of a source configured to generate the plasma substantially matches an etendue of the lithographic apparatus.
+</P>
+<P>
+36. A device manufacturing method comprising: generating a beam of radiation, the generating including supplying a fuel to a discharge space located between a cathode and an anode, creating a discharge between the cathode and the anode in the fuel to form a plasma that is adapted to emit the radiation, and positioning the cathode and the anode relative to each other so that, in use, current lines extending between the anode and the cathode are substantially curved so as to create a force that substantially radially compresses the plasma only in a region proximate the upper surface of the anode or of the cathode; patterning the beam of radiation to form a patterned beam of radiation; and projecting the patterned beam of radiation onto a substrate.
+</P>
+</Claims>
+<Also_published_as>
+WO2009018933A1;US2009040492A1;US7872244B2;NL1035743A1;KR20100063057A;JP2010536166A;CN101690419A
+</Also_published_as>
+</BiblioData>

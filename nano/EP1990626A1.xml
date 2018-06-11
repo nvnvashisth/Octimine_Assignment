@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Probe arrangement for electrophysiological analysis in an AFM
+</Title>
+<PublicationNumber>
+EP1990626A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MEISTER ANDRE [CH]
+</Name>
+<Name>
+POLESEL-MARIS JEROME [CH]
+</Name>
+<Name>
+GABI MICHAEL [CH]
+</Name>
+<Name>
+ZAMBELLI TOMASO [CH]
+</Name>
+<Name>
+VOEROES JANOS [CH]
+</Name>
+<Name>
+MEISTER, ANDRE
+</Name>
+<Name>
+POLESEL-MARIS, JEROME
+</Name>
+<Name>
+GABI, MICHAEL
+</Name>
+<Name>
+ZAMBELLI, TOMASO
+</Name>
+<Name>
+VOEROES, JANOS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SUISSE ELECTRONIQUE MICROTECH [CH]
+</Name>
+<Name>
+CSEM CENTRE SUISSE D&apos;ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1990626
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080155990
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20070928904P
+</PriorityNumber>
+<PriorityDate>
+2007-05-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q30/14
+</Class>
+<Class>
+G01Q60/02
+</Class>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01Q60/44
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q30/14
+</Class>
+<Class>
+G01Q60/02
+</Class>
+<Class>
+G01Q60/38
+</Class>
+<Class>
+G01Q60/44
+</Class>
+<Class>
+G01Q70/06
+</Class>
+</NCL>
+<Abstract>
+A probe arrangement with a probe for local electrophysiological analysis of cells (4) such as patch-clamp techniques for use with atomic force microscopy, has a probe with a cantilever arm (2) connected to a probe holder (3). The probe has a probe tip (4) at a probing end (5) of the cantilever arm (2) and a fluid channel (6) in the cantilever arm (2) connecting a probe tip aperture (7) with a fluid reservoir (8) via a duct (9). The fluid channel (6), the duct (9) and the fluid reservoir (8) are adapted to be filled with a fluid solution (10) enabling ion transport for electrophysiological analysis. A first electrode (15) for electrophysiological analysis is placed in the fluid reservoir (8) and/or in the duct (9) and/or in the fluid channel (6).
+</Abstract>
+<Claims>
+<P>
+1. A probe arrangement with a probe for analysis of material (4) for use with atomic force microscopy (AFM), c
+</P>
+<P>
+characterized in that
+</P>
+<P>
+said probe arrangement comprises:
+</P>
+<P>
+a cantilever arm (2) connected to a probe holder (3);
+</P>
+<P>
+a probe tip (4) at a probing end (5) of said cantilever arm (2);
+</P>
+<P>
+a fluid channel (6) in the cantilever arm (2) connecting a probe tip aperture (7) with a fluid reservoir (8) via a duct (9), wherein said fluid channel (6), said duct (9) and said fluid reservoir (8) are adapted to be filled with a fluid solution (10) enabling ion transport for electrophysiological analysis,wherein a first electrode (15) is suspended in at least one of the following locations: said fluid reservoir (8); in the duct (9); and in said fluid channel (6).
+</P>
+<P>
+2. The probe arrangement according to claim 1, wherein said probe arrangement is microfabricated and connected to an AFM head via said probe holder (3).
+</P>
+<P>
+3. The probe arrangement according to according to any of the preceding claims, wherein said probe holder (3) is made of a polymer block.
+</P>
+<P>
+4. The probe arrangement according to any of the preceding claims, wherein said probe arrangement comprises:
+</P>
+<P>
+a plurality of cantilever arms (2), at least one of these cantilever arms (2) comprising a fluid transport channel (6), and
+</P>
+<P>
+said probe arrangement comprising a plurality of fluid reservoirs (8), each of said fluid reservoirs (8) being connected via said duct (9) to said respective fluid channel (6) of said plurality of cantilever arms (2).
+</P>
+<P>
+5. The probe arrangement according to any of the preceding claims, wherein said cantilever arm (2) of said probe arrangement comprises at least one of said probe tips (4), and said probe arrangement comprising a plurality of fluid reservoirs (8), each of said fluid reservoirs (8) being connected via a separate duct (9) to said respective fluid channels (6) of said cantilever arm (2).
+</P>
+<P>
+6. The probe arrangement according to any of the preceding claims, wherein at least one of said fluid reservoirs (8) is equipped with a means (13) for pressure and flow control, enabling the probe arrangement to selectably ejecting and sucking fluid via said fluid channel (6).
+</P>
+<P>
+7. The probe arrangement according to any of the preceding claims, wherein said probe tip (4) is tapered and comprises a flattened tip (23), and a probe tip aperture (7) that is centered and aligned with the rotational axis of said tapered shape.
+</P>
+<P>
+8. The probe arrangement according to any of the preceding claims, wherein said probe tip (4) is -tapered and terminates in a sharp tip (22) and a probe tip aperture (7) that is arranged off-axis at the side of the tapered surface.
+</P>
+<P>
+9. The probe arrangement according to any of the preceding claims, wherein said probe tip (4) is tapered and a probe tip aperture (7) is arranged slightly off-axis on a flattened plateau surface slightly below said sharp tip (22).
+</P>
+<P>
+10. The Probe arrangement according to any of the preceding claims, wherein said probe arrangement is adapted to operate in a fluid environment of a fluid chamber comprising a buffer fluid (17) wherein a second electrode (16) is placed in said buffer fluid (17).
+</P>
+<P>
+11. A method for the automatic approach and scanning of cell surfaces and the acquisition of real time topographical images of the cell (14) and features of its membrane by using a force feedback control system for controlling the probe arrangement of claim 1, wherein said method comprises the following steps:
+</P>
+<P>
+obtaining a force-feedback whilst performing at least one of the following in accordance to said force-feedback:
+</P>
+<P>
+selectably bringing the probe into contact with either one of the following: said cell (14), said cell membrane, and into the vicinity of the cell membrane; and
+</P>
+<P>
+selectably performing through at least one fluid channel (6) of said probe either one of the following: releasing and withdrawing a fluid; and
+</P>
+<P>
+performing local electrophysiological measurements.
+</P>
+<P>
+12. The method of claim 11 comprising the step of traversing with the probe tip the cell membrane to the interior of said cell (14).
+</P>
+<P>
+13. The method according to either one of claims 11-12, comprising the step of selectably releasing and withdrawing a fluid to or from the interior of said cell (14).
+</P>
+<P>
+14. The method according to either one of claims 11-13, comprising the step of selectably performing either one electrophysiological measurements before and during and after bringing the probe into contact with either one of said cell membrane.
+</P>
+<P>
+15. The method according to either one of claims 11-14 comprising the step of selectably applying electrical stimulation.
+</P>
+<P>
+16. The method according to either one of claims 11-15 comprising the step of selectably employing an electrochemical current and voltage signal probed by said first electrode (15).
+</P>
+<P>
+17. The method according to either one of claims 11-16 comprising the step of using the probe arrangement in contact on the sample for patch-clamp techniques.
+</P>
+</Claims>
+<Also_published_as>
+US2008302960A1;US7870616B2
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Nonvolatile resistive memories, latch circuits, and operation circuits having scalable two- terminal nanotube switches
+</Title>
+<PublicationNumber>
+EP2104108A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BERTIN CLAUDE [US]
+</Name>
+<Name>
+RUECKES THOMAS [US]
+</Name>
+<Name>
+WARD JONATHAN [US]
+</Name>
+<Name>
+GUO FRANK [US]
+</Name>
+<Name>
+KONSEK STEVEN [US]
+</Name>
+<Name>
+MEINHOLD MITCHELL [US]
+</Name>
+<Name>
+BERTIN, CLAUDE
+</Name>
+<Name>
+RUECKES, THOMAS
+</Name>
+<Name>
+WARD, JONATHAN
+</Name>
+<Name>
+GUO, FRANK
+</Name>
+<Name>
+KONSEK, STEVEN
+</Name>
+<Name>
+MEINHOLD, MITCHELL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANTERO INC [US]
+</Name>
+<Name>
+NANTERO, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2104108
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090159271
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070840800
+</PriorityNumber>
+<PriorityDate>
+2007-08-08
+</PriorityDate>
+<PriorityNumber>
+US20060836343P
+</PriorityNumber>
+<PriorityDate>
+2006-08-08
+</PriorityDate>
+<PriorityNumber>
+US20060836437P
+</PriorityNumber>
+<PriorityDate>
+2006-08-08
+</PriorityDate>
+<PriorityNumber>
+US20060840586P
+</PriorityNumber>
+<PriorityDate>
+2006-08-28
+</PriorityDate>
+<PriorityNumber>
+US20060855109P
+</PriorityNumber>
+<PriorityDate>
+2006-10-27
+</PriorityDate>
+<PriorityNumber>
+US20070918388P
+</PriorityNumber>
+<PriorityDate>
+2007-03-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C11/00
+</Class>
+<Class>
+G11C11/14
+</Class>
+<Class>
+G11C11/56
+</Class>
+<Class>
+G11C13/02
+</Class>
+<Class>
+G11C17/16
+</Class>
+<Class>
+G11C29/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C11/56
+</Class>
+<Class>
+G11C13/00R25V
+</Class>
+<Class>
+G11C13/00R25W
+</Class>
+<Class>
+G11C13/02N
+</Class>
+<Class>
+G11C14/00
+</Class>
+<Class>
+G11C17/16
+</Class>
+<Class>
+G11C29/86
+</Class>
+<Class>
+H01L27/10C
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+<Class>
+H01L51/05D6
+</Class>
+</NCL>
+<Abstract>
+A circuit including a non-volatile register file configuration circuit and a plurality of non-volatile register files, the circuit comprising: an input voltage terminal;  selection circuitry;  a plurality of nanotube elements in electrical communication with the input voltage terminal, each nanotube element in electrical communication with one of the plurality of non-volatile register files, each nanotube element in electrical communication with the selection circuitry;  wherein each of the nanotube elements comprises: a nanotube fabric article and two conductive contacts, the nanotube fabric article disposed between and in electrical communication with the two conductive contacts;  wherein the nanotube element is capable of switching from an on state to an off state, the on state corresponding to a relatively low resistance between the first and second terminals and the off state corresponding to a relatively low resistance between the two conductive contacts in response to electrical stimulus;  wherein when the nanotube element is in the on state, the corresponding non-volatile register file is active and responsive to electrical stimulus at the input voltage terminal and wherein when the nanotube element is in the off state, the corresponding non-volatile register file is inactive and not responsive to electrical stimulus at the input voltage terminal;  wherein the selection circuitry is capable of applying electrical stimulus to each of the selected nanotube elements to selectively bypass the corresponding register file.
+</Abstract>
+<Claims>
+<P>
+1. A non-volatile register file configuration circuit for use with a plurality of non-volatile register files comprising:
+</P>
+<P>
+an input voltage terminal;
+</P>
+<P>
+selection circuitry;
+</P>
+<P>
+a plurality of nanotube fuse elements in electrical communication with the input voltage terminal, each nanotube fuse element in electrical communication with one of the plurality of non-volatile register files, each nanotube fuse element in electrical communication with the selection circuitry;wherein each of the nanotube fuse elements comprises:
+</P>
+<P>
+a nanotube fabric article and two conductive contacts, the nanotube fabric article disposed between and in electrical communication with the two conductive contacts;wherein the nanotube fuse element is capable of switching from an on state to an off state, the on state corresponding to a relatively low resistance between the first and second terminals and the off state corresponding to a relatively low resistance between the two conductive contacts in response to electrical stimulus;
+</P>
+<P>
+wherein when the nanotube fuse element is in the on state, the corresponding non-volatile register file is active and responsive to electrical stimulus at the input voltage terminal and wherein when the nanotube fuse element is in the off state, the corresponding non-volatile register file is inactive and not responsive to electrical stimulus at the input voltage terminal;
+</P>
+<P>
+wherein the selection circuitry is capable of applying electrical stimulus to each of the selected nanotube fuse elements to selectively bypass the corresponding register file.
+</P>
+<P>
+2. A non-volatile register file configuration circuit of claim 1, wherein the selection circuit selectively bypasses one of the plurality of register files in response to said register file being defective.
+</P>
+<P>
+3. A non-volatile register file configuration circuit of claim 1, wherein when one of the plurality of nanotube fuse elements is in the on state, the corresponding non-volatile register file is capable of operating with a plurality of informational states in response to electrical stimuli at the input voltage terminal.
+</P>
+<P>
+4. The non-volatile register file configuration circuit of claim 1, wherein the nanotube fuse element is one-time programmable
+</P>
+<P>
+5. The non-volatile register file configuration circuit of claim 1, wherein the nanotube fuse element is further capable of switching from the off state to the on state.
+</P>
+<P>
+6. The non-volatile register file configuration circuit of claim 1, wherein the selection circuitry is activated to convert the relatively low resistance state of a selected nanotube fuse element to a relatively high voltage level corresponding to a first logic state.
+</P>
+<P>
+7. The non-volatile register file configuration circuit of claim 1, wherein the selection circuitry is activated to convert the relatively high resistance off state of a nanotube fuse element to a relatively low voltage level corresponding to a second logic state.
+</P>
+<P>
+8. The non-volatile register file configuration circuit of claim 1, wherein the selection circuit applies a selection voltage to a multiplexer circuit.
+</P>
+<P>
+9. The nonvolatile register file configuration circuit of claim 8, wherein the multiplexer circuit is electrically arranged in serial communication with and interposed between adjacent non-volatile register files.
+</P>
+<P>
+10. The nonvolatile register file configuration circuit of claim 8, wherein the multiplexer circuit comprises a first input, a second input, an output, and a control signal.
+</P>
+<P>
+11. The nonvolatile register file configuration circuit of claim 10, wherein the first input is connected to the output of a first adjacent nonvolatile register file, the second input is connected to the input of the first adjacent nonvolatile register file, the output is connected to the input of a second adjacent nonvolatile register file, and the control signal is connected to the select circuitry.
+</P>
+<P>
+12. The nonvolatile register file configuration circuit of claim 11, wherein the select circuitry applies a high voltage to the control signal to effectuate a first logic state.
+</P>
+<P>
+13. The nonvolatile register file configuration circuit of claim 11, wherein the select circuitry applies a low voltage to the control signal to effectuate a second logic state.
+</P>
+<P>
+14. The nonvolatile register file configuration circuit of claim 12, wherein the first adjacent nonvolatile register file is operably included when the output of the first adjacent nonvolatile register file is electrically connected to the input of the second adjacent nonvolatile register file.
+</P>
+<P>
+15. The nonvolatile register file configuration circuit of claim 13, wherein the first adjacent nonvolatile register file is operably bypassed when the input of the first adjacent nonvolatile register file is electrically connected to the input of the second adjacent nonvolatile register file stage.
+</P>
+</Claims>
+<Also_published_as>
+WO2008021900A2;WO2008021900A3;WO2008021912A2;WO2008021912A3;WO2008021911A2;WO2008021911A3;TW200826302A;TW200832399A;TW200826102A;KR20090057375A;KR20090043552A;KR20090057239A;JP2010515285A;JP2010515241A;JP2010515240A;EP2104109A1;EP2070088A2;EP2070088A4;EP2057683A2;EP2057683A4;EP2057633A2;EP2057633A4
+</Also_published_as>
+</BiblioData>

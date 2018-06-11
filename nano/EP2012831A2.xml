@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOGEL CONTRAST AGENTS FOR OPTICAL MOLECULAR IMAGING
+</Title>
+<PublicationNumber>
+EP2012831A2
+</PublicationNumber>
+<Inventor>
+<Name>
+LEON JEFFREY WADE [US]
+</Name>
+<Name>
+HARDER JOHN WILLIAM [US]
+</Name>
+<Name>
+QIAO TIECHENG ALEX [US]
+</Name>
+<Name>
+BENNETT JAMES R [US]
+</Name>
+<Name>
+MOUREY THOMAS HENRY [US]
+</Name>
+<Name>
+SLATER GARY L [US]
+</Name>
+<Name>
+DAI LIJUN [US]
+</Name>
+<Name>
+LEON, JEFFREY, WADE
+</Name>
+<Name>
+HARDER, JOHN, WILLIAM
+</Name>
+<Name>
+QIAO, TIECHENG, ALEX
+</Name>
+<Name>
+BENNETT, JAMES, R
+</Name>
+<Name>
+MOUREY, THOMAS, HENRY
+</Name>
+<Name>
+SLATER, GARY, L
+</Name>
+<Name>
+DAI, LIJUN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CARESTREAM HEALTH INC [US]
+</Name>
+<Name>
+CARESTREAM HEALTH, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2012831
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070861275
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US07580
+</PriorityNumber>
+<PriorityDate>
+2007-03-29
+</PriorityDate>
+<PriorityNumber>
+US20060401343
+</PriorityNumber>
+<PriorityDate>
+2006-04-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K47/32
+</Class>
+<Class>
+A61K47/48
+</Class>
+<Class>
+A61K49/00
+</Class>
+<Class>
+A61K9/51
+</Class>
+<Class>
+A61P43/00
+</Class>
+<Class>
+C08F220/26
+</Class>
+<Class>
+C08F220/28
+</Class>
+<Class>
+C08G65/329
+</Class>
+<Class>
+C08G65/334
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K47/48W14B
+</Class>
+<Class>
+A61K47/48W4
+</Class>
+<Class>
+A61K49/00P12
+</Class>
+<Class>
+B82Y5/00
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to a nanogel comprising a polymer network of repetitive, crosslinked, ethylenically unsaturated monomers of Formula I: &amp;lt;?in-line-formulae description=&quot;In-line Formulae&quot; end=&quot;lead&quot;?&amp;gt;(X)m-(Y)n-(Z)o Formula I &amp;lt;?in-line-formulae description=&quot;In-line Formulae&quot; end=&quot;tail&quot;?&amp;gt; wherein X is a water-soluble monomer containing ionic or hydrogen bonding moieties;  Y is a water-soluble macromonomer containing repetitive hydrophilic units bound to a polymerizeable ethylenically unsaturated group;  Z is a multifunctional crosslinking monomer;  m ranges from 50-90 mol %;  n ranges from 2-30 mol %;  and o range from 1-15 mol % and a method for preparing a nanogel comprising preparing a header composition of a mixture of monomers X, Y, and Z, and a first portion of initiators in water;  preparing a reactor composition of a second portion initiators, surfactant, and water;  bringing the reactor composition to the polymerization temperature;  holding the reactor composition at the polymerization temperature, and adding the header composition to the reactor composition to form a nanogel of Formula I.
+</Abstract>
+<Claims>
+<P>
+1. A nanogel comprising a water-compatible, swollen, branched polymer network of repetitive, crosslinked, ethylenically unsaturated monomers of Formula I:
+</P>
+<P>
+(X)m-(Y)n-(Z)o Formula I
+</P>
+<P>
+Wherein:
+</P>
+<P>
+X is a water-soluble monomer containing ionic or hydrogen bonding moieties;
+</P>
+<P>
+Y is a water-soluble macromonomer containing repetitive hydrophilic units bound to a polymerizeable ethylenically unsaturated group;
+</P>
+<P>
+Z is a multifunctional crosslinking monomer;
+</P>
+<P>
+m ranges from 50-90 mol %;
+</P>
+<P>
+n ranges from 2-30 mol %; and
+</P>
+<P>
+o range from 1-15 mol %.
+</P>
+<P>
+2. The nanogel of claim 1 wherein m ranges from 60-80 mol %, n ranges from 10-20 mol %, and o ranges from 2-9 mol %.
+</P>
+<P>
+3. The nanogel of claim 1 wherein X is a water-soluble monomer containing ionic or exchangeable proton-containing moieties.
+</P>
+<P>
+4. The nanogel of claim 1 wherein X comprises at least one member selected from the group consisting of alcohols, primary and secondary amines, primary amides, secondary amides, carboxylic acids, carbamates, imides, ureas, phosphonic acids, sulfonic acids, sulfinic acids, and any other unit which contains a heteroatom (N,O,S,P)-hydrogen bond.
+</P>
+<P>
+5. The nanogel of claim 1 wherein X is represented by Formula II or Formula III:
+</P>
+<P>
+EMI8.0
+</P>
+<P>
+Wherein
+</P>
+<P>
+B is H or CH3;
+</P>
+<P>
+D is H, a nonionic unit with a hydrogen bonding moiety and containing no more than three carbons, or an ionic unit comprised of up to six carbons; and
+</P>
+<P>
+E is H, or CH3.
+</P>
+<P>
+6. The nanogel of claim 1 wherein X is methacrylic acid, acrylic acid, acrylamide, methacrylamide, aminopropyl methacrylamide hydrochloride, sulfopropyl methacrylate, hydroxyethyl acrylate or hydroxyethyl methacrylate, N-methyl acrylamide, or N,N-dimethylacrylamide.
+</P>
+<P>
+7. The nanogel of claim 1 wherein X is x-hydroxyethyl methacrylate or methacrylic acid.
+</P>
+<P>
+8. The nanogel of claim 1 wherein X has a calculated log P value of 0.4 or less.
+</P>
+<P>
+9. The nanogel of claim 1 wherein Y is a water-soluble macromonomer with a molecular weight of from 200 to 20,000, and is comprised of repetitive water-soluble units.
+</P>
+<P>
+10. The nanogel of claim 1 wherein water-soluble macromonomer Y is a poly(ethylene glycol) macromonomer.
+</P>
+<P>
+11. The nanogel of claim 10 wherein Y is selected from the group consisting of poly(ethylene glycol)acrylate, poly(ethylene glycol)methacrylate, N-poly(ethylene glycol)acrylamide, N-poly(ethylene glycol)methacrylamide, and a poly(ethylene glycol) macromonomer with a styrenic terminus.
+</P>
+<P>
+12. The nanogel of claim 1 wherein Y is a poly(ethylene glycol) macromonomer backbone with a radical polymerizeable group at one end of said macromonomer backbone and a different reactive chemical functionality at the other end of said macromonomer backbone, according to Formula I:
+</P>
+<P>
+EMI9.0
+</P>
+<P>
+wherein:
+</P>
+<P>
+X is CH3, CN or H;
+</P>
+<P>
+Y is O, NR1, or S;
+</P>
+<P>
+L is a linking group or spacer;
+</P>
+<P>
+FG is a functional group excluding alkoxy silanes;
+</P>
+<P>
+n is greater than 4 and less than 1000; and
+</P>
+<P>
+wherein R1 and R2 are independently selected from substituted or unsubstituted alkyl, aryl, or heteroyl.
+</P>
+<P>
+13. The nanogel of claim 1 wherein Z is methylenebisacrylamide, N,N&apos;-(1,2-dihydroxyethylene)bisacrylamide, methylenebismethacrylamide divinylbenzene, or ethylene glycol dimethacrylate.
+</P>
+<P>
+14. The nanogel of claim 1 wherein Z is difunctional, trifunctional, or tetrafunctional and has a molecular weight of less than 300 Daltons.
+</P>
+<P>
+15. The nanogel of claim 1 wherein at least 90% of the total of X, Y, and Z is highly hydrophilic or water-soluble.
+</P>
+<P>
+16. The nanogel of claim 1 wherein said nanogel has a volume-median hydrodynamic diameter of from 10 to 50 as determined by quasi-elastic light scattering in phosphate buffered saline (137 mM NaCl, 2.7 mM KCl, 10 mM Na2HPO4, 2 mM KH2PO4 at pH 7.4.).
+</P>
+<P>
+17. The nanogel of claim 1 wherein said nanogel has a weight average molecular weight of from 15,000 to 6,000,000 as measured by static light scattering or by size exclusion chromatography.
+</P>
+<P>
+18. The nanogel of claim 1 wherein the weight average degree of polymerization of said nanogel is from 50 to 86,000.
+</P>
+<P>
+19. The nanogel of claim 1 wherein said nanogel has a [phi]2 parameter of from 0.01 to 0.30 in water.
+</P>
+<P>
+20. The nanogel of claim 1 wherein said nanogel is stable in 1.5M NaCl.
+</P>
+<P>
+21. The nanogel of claim 1 wherein said nanogel has an intrinsic viscosity of from 0.40 dL/g to 0.85 dL/g.
+</P>
+<P>
+22. The nanogel of claim 1 wherein said nanogel experiences a net increase of hydrodynamic diameter upon raising the temperature from 25[deg.] C. to 80[deg.] C.
+</P>
+<P>
+23. The nanogel of claim 1 wherein the degree of polymerization of said nanogel is from 20 to 1500.
+</P>
+<P>
+24. The nanogel of claim 1 wherein the deswelling ratio of said nanogel is from 0.02 to 0.2.
+</P>
+<P>
+25. The nanogel of claim 1 wherein said nanogel is substantially serum protein non-adsorbent to bovine serum albumin (BSA).
+</P>
+<P>
+26. The nanogel of claim 1 wherein said nanogel comprises further comprises at least one carried compound associated with said nanogel.
+</P>
+<P>
+27. The nanogel of claim 26 wherein said at least one carried compound associated with said nanogel is a biological, pharmaceutical or diagnostic compound.
+</P>
+<P>
+28. The nanogel of claim 26 wherein said at least one carried compound associated with said nanogel is non-covalently associated.
+</P>
+<P>
+29. The nanogel of claim 26 wherein said at least one carried compound associated with said nanogel is covalently associated.
+</P>
+<P>
+30. The nanogel of claim 29 wherein said covalent association is formed to X, Y, or Z and polymerized directly into the nanogel during the nanogel preparation.
+</P>
+<P>
+31. The nanogel of claim 26 wherein said at least one carried compound associated with said nanogel is a dye.
+</P>
+<P>
+32. The nanogel of claim 26 wherein said at least one carried compound associated with said nanogel is a dye and a targeting moiety.
+</P>
+<P>
+33. A method for preparing a nanogel comprising:
+</P>
+<P>
+a. preparing a header composition of a mixture of monomers X, Y, and Z, and a first portion of initiators in water, wherein X is a water-soluble monomer containing ionic or hydrogen bonding moieties, Y is a water-soluble macromer containing repetitive hydrophilic units bound to a polymerizeable ethylenically unsaturated group, and Z is a multifunctional crosslinking monomer;
+</P>
+<P>
+b. preparing a reactor composition of a second portion initiators, surfactant, and water sufficient to afford a composition of 1-10% w/w of monomers X, Y, and Z,
+</P>
+<P>
+c. bringing said reactor composition to the polymerization temperature,
+</P>
+<P>
+d. holding said reactor composition at said polymerization temperature for the duration of the reaction, and
+</P>
+<P>
+e. adding said header composition to said reactor composition over time to form a reaction mixture;
+</P>
+<P>
+wherein said nanogel comprises a water-compatible, swollen, branched polymer network of repetitive, crosslinked, ethylenically unsaturated monomers of Formula I:
+</P>
+<P>
+(X)m-(Y)n-(Z)o Formula I
+</P>
+<P>
+wherein:
+</P>
+<P>
+m ranges from 50-90 mol %;
+</P>
+<P>
+n ranges from 2-30 mol %; and
+</P>
+<P>
+o range from 1-15 mol %.
+</P>
+<P>
+34. The method of claim 33 wherein said mixture of monomers X, Y, and Z comprises 50-90 mol % of X, 2-30 mol % of Y, and 1-20 mol % of Z.
+</P>
+<P>
+35. The method of claim 33 wherein said initiator is a water-soluble polymerization initiator.
+</P>
+<P>
+36. The method of claim 35 wherein said water-soluble polymerization initiator is a water-soluble azo initiator.
+</P>
+<P>
+37. The method of claim 33 wherein said initiator is a redox initiator.
+</P>
+<P>
+38. The method of claim 33 wherein said initiator is a two component initiator, wherein one component of said two component initiator is included in said header composition and the other component of said two component initiator is included in said reactor composition, such that free radicals are steadily generated as said header composition and said reactor composition are combined.
+</P>
+<P>
+39. The method of claim 33 wherein said initiator is a water-soluble photoinitiator.
+</P>
+<P>
+40. The method of claim 33 wherein said time for adding said header composition to said reactor composition is from 30 to 1440 minutes.
+</P>
+<P>
+41. The method of claim 33 wherein said adding said header composition to said reactor composition over time occurs at an addition rate sufficient timed so that at least 80% of the total monomer has been reacted when said adding is completed.
+</P>
+<P>
+42. The method of claim 33 wherein said header composition further comprises surfactant.
+</P>
+<P>
+43. The method of claim 33 wherein further comprising heating said reaction mixture for up to 48 hours.
+</P>
+<P>
+44. The method of claim 33 further comprising purifying said reaction mixture by dialysis, ultrafiltration, diafiltration, or treatment with ion exchange resins.
+</P>
+<P>
+45. The method of claim 33 further comprising degassing said header composition and said reactor composition to remove oxygen.
+</P>
+<P>
+46. The method of claim 45 wherein said degassing is by sparging the contents with nitrogen or argon or some other suitably inert gas, or by subjecting the contents to freeze-pump-thaw cycles followed by blanketing the contents with nitrogen or argon.
+</P>
+</Claims>
+<Also_published_as>
+US2007237821A1;WO2008036117A2;WO2008036117A3;CN101511392A
+</Also_published_as>
+</BiblioData>

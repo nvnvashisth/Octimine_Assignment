@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FIELD EFFECT TRANSISTOR WITH CARBON NANOTUBES
+</Title>
+<PublicationNumber>
+EP2150995A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BOURGOIN JEAN-PHILIPPE [FR]
+</Name>
+<Name>
+GOFFMAN MARCELO [FR]
+</Name>
+<Name>
+DERYCKE VINCENT [FR]
+</Name>
+<Name>
+CHIMOT NICOLAS [FR]
+</Name>
+<Name>
+BOURGOIN, JEAN-PHILIPPE
+</Name>
+<Name>
+GOFFMAN, MARCELO
+</Name>
+<Name>
+DERYCKE, VINCENT
+</Name>
+<Name>
+CHIMOT, NICOLAS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2150995
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080805838
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008FR50894
+</PriorityNumber>
+<PriorityDate>
+2008-05-23
+</PriorityDate>
+<PriorityNumber>
+FR20070055391
+</PriorityNumber>
+<PriorityDate>
+2007-05-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/05
+</Class>
+<Class>
+H01L51/30
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00A2B
+</Class>
+<Class>
+H01L51/00M4D
+</Class>
+<Class>
+H01L51/05B2B6
+</Class>
+</NCL>
+<Abstract>
+La présente invention concerne un transistor à effet de champ flexible à base de nanotubes et son procédé de fabrication. Le transistor (1) à effet de champ selon l&apos;invention comporte au moins deux électrodes (3, 4, 5) de contact respectivement de drain et de source, une zone de conduction électrique connectée aux électrodes de contact, ladite zone comportant une pluralité de nanotubes de carbone mono-paroi (13) sensiblement alignés, une électrode de grille (6, 7) pour le contrôle du courant électrique circulant dans ladite zone et un substrat flexible (2) sur lequel sont déposées les électrodes de contact et de grille (3, 4, 5, 6, 7). La densité de nanotubes dans la zone de conduction est strictement supérieure à 10 nanotubes par micron.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Transistor (1) à effet de champ comportant : - au moins deux électrodes (3, 4, 5) de contact respectivement de drain et de source, - une zone de conduction électrique connectée auxdites électrodes de contact, ladite zone comportant une pluralité de nanotubes de carbone mono-paroi (13) sensiblement alignés, - une électrode de grille (6, 7) pour le contrôle du courant électrique circulant dans ladite zone, - un substrat flexible (2) sur lequel sont déposées lesdites électrodes de contact et de grille (3, 4, 5, 6, 7), ledit transistor (1) étant caractérisé en ce que la densité de nanotubes dans ladite zone de conduction est strictement supérieure à 10 nanotubes par micron.
+</P>
+<P>
+2. Transistor (1) selon la revendication 1 caractérisé en ce que la densité de nanotubes est supérieure ou égale à 100 nanotubes par micron.
+</P>
+<P>
+3. Transistor (1) selon l&apos;une des revendications précédentes caractérisé en ce que ladite électrode de grille (6, 7) comporte un revêtement de diélectrique tel qu&apos;un oxyde d&apos;aluminium, ledit revêtement présentant une épaisseur t0 et une permittivité relative Cr telles que le rapport r / t0 est supérieur à 0,2.
+</P>
+<P>
+4. Transistor (1) selon la revendication précédente caractérisé en ce que ledit rapport Cr/ t0 est sensiblement égal à 4.
+</P>
+<P>
+5. Transistor (1) selon l&apos;une des revendications précédente caractérisé en ce que la largeur (L) de ladite zone de conduction électrique est inférieure à 800 nm.
+</P>
+<P>
+6. Transistor (1) selon l&apos;une des revendications précédentes caractérisé en ce que ladite électrode de grille (6,
+</P>
+<P>
+7) est partiellement recouverte par l&apos;électrode de source (4, 5) et/ou par l&apos;électrode de drain (3), la largeur de recouvrement (R) étant inférieure ou égale à 100 nm.7. Transistor (C2) selon l&apos;une des revendications 1 à 5 caractérisé en ce que ladite électrode de grille et lesdites électrodes de contact ne présentent aucun recouvrement.
+</P>
+<P>
+8. Transistor (C2) selon la revendication précédente caractérisé en ce que ladite électrode de grille comporte un revêtement de diélectrique tel qu&apos;un oxyde d&apos;aluminium, ledit revêtement présentant un rapport Cr/ t0 supérieur à 2.
+</P>
+<P>
+9. Transistor (C2) selon l&apos;une des revendications 7 ou 8 caractérisé en ce que les nanotubes situés dans la zone (Z) séparant ladite électrode de grille et lesdites électrodes de contact sont dopés.
+</P>
+<P>
+10. Transistor selon l&apos;une des revendications précédentes caractérisé en ce que lesdits nanotubes sont des nanotubes de diamètre compris entre 0,8 et 2,5 nm.
+</P>
+<P>
+11. Transistor selon l&apos;une des revendications précédentes caractérisé en ce que la couche de nanotubes disposée sur la zone de conduction a une épaisseur inférieure ou égale à 5 nm.
+</P>
+<P>
+12. Transistor selon l&apos;une des revendications précédentes caractérisé en ce que la couche de nanotubes disposée sur la zone de conduction est sensiblement une monocouche de nanotubes.
+</P>
+<P>
+13. Transistor (1) selon l&apos;une des revendications précédentes caractérisé en ce que ledit substrat flexible (2) est un substrat transparent tel qu&apos;un substrat en Poly-ethyleneterephtalate.
+</P>
+<P>
+14. Transistor (1) selon l&apos;une des revendications précédentes caractérisé en ce que ladite électrode de grille (6, 7) est située sous ladite zone de conduction de sorte que ladite zone de conduction est rendue accessible.
+</P>
+<P>
+15. Transistor (1, 8) selon l&apos;une des revendications précédentes caractérisé en ce que ladite électrode de grille comporte deux doigts (6, 7) dans le prolongement d&apos;un plot commun (12), ledit transistor (1, 8) comportant : o deux électrodes de source (4, 5, 9, 10), o deux zones de conductions comportant une pluralité de nanotubes (13) sensiblement alignés, chacune desdites zones connectant l&apos;une des électrodes de source (4, 5) avecl&apos;électrode de drain (3) et chacun desdits doigts (6, 7) commandant respectivement le courant électrique circulant dans l&apos;une desdites zones de conduction.
+</P>
+<P>
+16. Transistor selon la revendication précédente caractérisé en ce que l&apos;électrode de grille comporte une pluralité de doigts de grilles commandant chacun le courant électrique circulant dans une zone de conduction comportant une pluralité de nanotubes sensiblement alignés, ledit transistor comportant autant d&apos;électrodes de source et de drain que de doigts d&apos;électrode de grille, lesdites électrodes de source étant connectées entre elles et lesdites électrodes de drain également.
+</P>
+<P>
+17. Procédé de fabrication d&apos;un transistor selon l&apos;une des revendications 1 à 16, caractérisé en ce qu&apos;il comporte une étape de dépôt des nanotubes de carbone réalisée par un procédé de diélectrophorèse incluant les étapes suivantes : - dépôt d&apos;une goutte de solvant dans laquelle est dispersée une plurali- té de nanotubes de carbone mono-paroi, - application d&apos;un champ électrique alternatif entre deux électrodes de contact.
+</P>
+<P>
+18. Procédé selon la revendication précédente pour la fabrication d&apos;un transistor selon la revendication 15 caractérisé en ce que le champ électrique est appliqué entre les deux électrodes de source.
+</P>
+<P>
+19. Procédé selon l&apos;une des revendications 17 ou 18 caractérisé en ce que la réalisation de chacune des électrodes est obtenue par lithographie à faisceau d&apos;électrons, ladite réalisation comportant les étapes suivantes : o dépôt d&apos;au moins une couche de résine telle du Po- ly(méthacrylate de méthyle) sur le substrat flexible, o recuit de ladite couche de résine, o dépôt d&apos;une couche de métal absorbant peu le faisceau d&apos;électrons et d&apos;épaisseur inférieure à 10 nm, o exposition au faisceau d&apos;électrons pour la réalisation du motif de l&apos;électrode, o retrait de ladite couche de métal, o développement de la résine,o dépôt du matériau métallique pour la réalisation de l&apos;électrode, o retrait de la résine.
+</P>
+<P>
+20. Procédé selon la revendication précédente caractérisé en ce que ledit dépôt de la couche de résine est précédé du dépôt d&apos;une première cou- che de résine telle que du méthacrylate de méthyle.
+</P>
+<P>
+21. Procédé selon l&apos;une des revendications 19 ou 20 caractérisé en ce que ladite couche de métal absorbant peu le faisceau d&apos;électrons est une couche d&apos;aluminium,
+</P>
+<P>
+22. Procédé selon l&apos;une des revendications 17 à 21 caractérisé en ce que ladite électrode de grille est réalisée en aluminium, le procédé comportant une étape d&apos;oxydation de ladite électrode de grille suivant les étapes suivantes : o exposition de ladite électrode d&apos;aluminium à un gaz oxygène, o recuit de ladite électrode d&apos;aluminium pendant une durée suffi-sante pour réaliser un revêtement d&apos;oxyde d&apos;aluminium sur une épaisseur inférieure à 20 nm. 25. Procédé selon l&apos;une des revendications 17 à 22 caractérisé en ce qu&apos;il comprend une étape préalable d&apos;appauvrissement en nanotubes métalliques de la goutte de solvant contenant initialement un mélange indifféren- cié de nanotubes métalliques et semiconducteurs, l&apos;appauvrissement étant réalisé en répétant plusieurs étapes de diélectrophorèse successives. 26. Procédé selon l&apos;une des revendications 17 à 23 caractérisé en ce qu&apos;il comprend une étape de destruction des nanotubes métalliques compris dans ladite pluralité de nanotubes sensiblement alignés. 25. Procédé selon l&apos;une des revendications 17 à 24 pour la réalisation d&apos;un transistor selon la revendication 9 caractérisé en ce que le dopage des nanotubes situés dans la zone séparant ladite électrode de grille et lesdites électrodes de contact est réalisé suivant un traitement chimique permettant d&apos;améliorer la conductivité des nanotubes localisés dans ladite zone. 26. Procédé selon l&apos;une des revendications 17 à 24 pour la réalisation d&apos;un transistor selon la revendication 9 caractérisé en ce que le dopage des nanotubes situés dans la zone séparant ladite électrode de grille et lesditesélectrodes de contact est réalisé par un dépôt de molécules ou d&apos;une couche polymérique sur les nanotubes localisés dans ladite zone. 27. Procédé selon la revendication précédente caractérisé en ce que lesdites molécules ou ladite couche polymérique sont photosensibles de 5 sorte que la conductivité des nanotubes est améliorée par éclairement.
+</P>
+</Claims>
+<Also_published_as>
+FR2916902A1;US2008296563A1;WO2008152281A2;WO2008152281A3
+</Also_published_as>
+</BiblioData>

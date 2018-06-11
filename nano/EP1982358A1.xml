@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PROCESS FOR FABRICATING A NANO WIRE -  BASED VERTICAL TRANSISTOR STRUCTURE
+</Title>
+<PublicationNumber>
+EP1982358A1
+</PublicationNumber>
+<Inventor>
+<Name>
+PRIBAT DIDIER [FR]
+</Name>
+<Name>
+COJOCARU COSTEL-SORIN [FR]
+</Name>
+<Name>
+PRIBAT, DIDIER
+</Name>
+<Name>
+COJOCARU, COSTEL-SORIN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ECOLE POLYTECH [FR]
+</Name>
+<Name>
+ECOLE POLYTECHNIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1982358
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070704360
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP51076
+</PriorityNumber>
+<PriorityDate>
+2007-02-05
+</PriorityDate>
+<PriorityNumber>
+FR20060001074
+</PriorityNumber>
+<PriorityDate>
+2006-02-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L29/06
+</Class>
+<Class>
+H01L29/786
+</Class>
+<Class>
+H01L51/05
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+<Class>
+H01L29/786C
+</Class>
+<Class>
+H01L29/78C
+</Class>
+<Class>
+H01L51/05B2B
+</Class>
+</NCL>
+<Abstract>
+L&apos;invention a pour objet une structure de transistor vertical et son procédé de fabrication comportant un substrat et un empilement de couches dans un plan parallèle au substrat (10), ledit empilement comprenant une première couche conductrice (11) assurant la fonction de source, une dernière couche conductrice (17) assurant la fonction de drain, une membrane comportant des pores , caractérisée en ce que ladite structure comporte des filaments en matériau semiconducteur (16i) à l&apos;intérieur au moins d&apos;une partie des pores et en ce que la membrane comporte un empilement d&apos; au moins trois couches, une première couche de matériau isolant (20), une seconde couche conductrice (12) assurant la fonction de grille et une couche isolante supérieure (13&apos;), définissant trois séries de pores sensiblement empilés.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Structure de transistor vertical comportant sur un substrat (10): une première couche conductrice assurant la fonction d&apos; électrode de source ou de drain (11) une couche conductrice supérieure assurant la fonction d&apos;électrode de drain ou de source (17) une membrane comportant des pores caractérisée en ce que : ladite structure comporte des filaments (16i) en matériau semiconducteur à l&apos;intérieur d&apos; au moins une partie des pores et en ce que la membrane est une membrane hétérogène comportant un empilement d&apos; au moins trois couches, une première couche isolante, une seconde couche conductrice (12) assurant la fonction d&apos; électrode de grille et une couche isolante supérieure (13&apos;), présentant trois séries de pores sensiblement empilés (20j, 12j, 13&apos;j).
+</P>
+<P>
+2. Structure de transistor vertical selon la revendication 1, caractérisée en ce qu&apos;elle comporte des nanofilaments à l&apos;intérieur d&apos;une membrane hétérogène présentant des nanopores.
+</P>
+<P>
+3. Structure de transistor vertical selon l&apos;une des revendications 1 ou 2, caractérisée en ce que les filaments sont en silicium ou en germanium ou en matériau III-V de type GaAs.
+</P>
+<P>
+4. Structure de transistor vertical selon la revendication 3, 25 caractérisée en ce que les filaments en matériau semiconducteur présentent des régions hétérogènes le long de leur hauteur ( 16i,, 16i2, 16i3).
+</P>
+<P>
+5. Structure de transistor vertical selon la revendication 4, caractérisée en ce que les filaments présentent une région en matériau 30 semiconducteur dopée n ou p (16il), une région en matériau semiconducteur intrinsèque (16i2) et une région en matériau semiconducteurs dopée p ou n (16i3).
+</P>
+<P>
+6. Structure de transistor vertical selon la revendication 4, caractérisée en ce que les filaments présentent des régions en matériaux semiconducteurs différents.
+</P>
+<P>
+7. Structure de transistor vertical selon l&apos;une des revendications 1 ou 2, caractérisé en ce que les filaments sont en carbone.
+</P>
+<P>
+8. Structure de transistor vertical selon l&apos;une des revendications 1 à 7, caractérisée en ce que la couche isolante supérieure (13&apos;) est en 10 alumine poreuse.
+</P>
+<P>
+9. Structure de transistor vertical selon l&apos;une des revendications 1 à 8, caractérisée en ce que la première couche isolante (20) est en silice. 15
+</P>
+<P>
+10. Structure de transistor vertical, selon l&apos;une des revendications 1 à 9, caractérisée en ce que les filaments au niveau du plan de la couche conductrice de grille (12) sont enrobés par des éléments isolants (12k) au niveau du plan de la couche conductrice de grille. 20
+</P>
+<P>
+11. Structure de transistor vertical selon l&apos;une des revendications 1 à 10, caractérisée en ce que la seconde couche conductrice est en titane.
+</P>
+<P>
+12. Structure de transistor vertical selon les revendications 9 et 10, caractérisée en ce que les éléments isolants sont en oxyde de titane.
+</P>
+<P>
+13. Structure de transistor vertical selon l&apos;une des revendications 1 à 10, caractérisée en ce que la seconde couche conductrice est en silicium polycristallin dopé.
+</P>
+<P>
+14. Procédé de fabrication d&apos;une structure de transistor selon l&apos;une des revendications 1 à 13, caractérisé en ce qu&apos;il comprend les étapes suivantes : la réalisation d&apos;une membrane consistant en un empilement de couches poreuses comportant au moins une première couche 35 isolante (20), une seconde couche conductrice (12) assurant la 25 30 fonction d&apos;électrode de grille et une couche isolante supérieure (17), à la surface d&apos;un substrat recouvert d&apos;une première couche conductrice (11) assurant la fonction d&apos;électrode de drain ou de source, lesdites couches poreuses présentant des pores sensiblement empilés. la réalisation de filaments en matériau semiconducteur à l&apos;intérieur d&apos;au moins une partie des pores empilés des couches poreuses la réalisation d&apos;une couche conductrice supérieure assurant la fonction d&apos;électrode de source ou de drain à la surface de l&apos;empilement de couches poreuses remplies de filaments en matériau semiconducteur.
+</P>
+<P>
+15. Procédé de fabrication d&apos;une structure de transistor selon la 15 revendication 14, caractérisé en ce que la réalisation de l&apos;empilement de couches poreuses comprend les étapes suivantes : la réalisation d&apos;un empilement de couches comportant une première couche isolante, une seconde couche conductrice et une membrane poreuse isolante constitutive de la couche 20 isolante supérieure la gravure de la première couche isolante et de la seconde couche conductrice à travers la membrane poreuse servant de masque de gravure. 25
+</P>
+<P>
+16. Procédé de fabrication d&apos;une structure de transistor selon la revendication 14, caractérisé en ce que la membrane poreuse est réalisée par oxydation anodique d&apos;une couche d&apos;aluminium.
+</P>
+<P>
+17. Procédé de fabrication d&apos;une structure de transistor selon l&apos;une 30 des revendications 14 à 16, caractérisé en ce que la réalisation des filaments comprend le dépôt d&apos;éléments catalytiques à l&apos;intérieur d&apos;au moins une partie des pores puis croissance de monocristaux de matériau semiconducteur en phase vapeur à partir desdits éléments. 10
+</P>
+<P>
+18. Procédé de fabrication d&apos;une structure de transistor selon la revendication 16, caractérisé en ce que les filaments sont réalisés en silicium.
+</P>
+<P>
+19. Procédé de fabrication d&apos;une structure de transistor selon la revendication 18, caractérisé en ce que la croissance est effectuée par étape en présence de différents gaz à base de silane de manière à obtenir des filaments présentant des régions dopées ou non. io
+</P>
+<P>
+20. Procédé de fabrication d&apos;une structure de transistor selon la revendication 17, caractérisé en ce que les filaments sont en carbone et que la croissance est effectuée en présence de méthane ou d&apos;acétylène.
+</P>
+</Claims>
+<Also_published_as>
+FR2897204A1;US2009035908A1;US8138046B2;WO2007090814A1
+</Also_published_as>
+</BiblioData>

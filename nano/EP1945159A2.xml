@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC NANOSCALE PARTICLE COMPOSITIONS, AND THERAPEUTIC METHODS RELATED THERETO
+</Title>
+<PublicationNumber>
+EP1945159A2
+</PublicationNumber>
+<Inventor>
+<Name>
+IVKOV ROBERT [US]
+</Name>
+<Name>
+IVKOV, ROBERT
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TRITON BIOSYSTEMS INC [US]
+</Name>
+<Name>
+TRITON BIOSYSTEMS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1945159
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060849146
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US60419
+</PriorityNumber>
+<PriorityDate>
+2006-11-01
+</PriorityDate>
+<PriorityNumber>
+US20050732368P
+</PriorityNumber>
+<PriorityDate>
+2005-11-01
+</PriorityDate>
+<PriorityNumber>
+US20050264680
+</PriorityNumber>
+<PriorityDate>
+2005-11-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K41/00
+</Class>
+<Class>
+A61K47/48
+</Class>
+<Class>
+A61K49/18
+</Class>
+<Class>
+A61K51/12
+</Class>
+<Class>
+A61N1/40
+</Class>
+<Class>
+B82Y5/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K41/00U
+</Class>
+<Class>
+A61K47/48W14B
+</Class>
+<Class>
+A61K47/48W8B
+</Class>
+<Class>
+A61K49/18R
+</Class>
+<Class>
+A61K49/18R6
+</Class>
+<Class>
+A61K51/12H4
+</Class>
+<Class>
+A61N1/40T2
+</Class>
+<Class>
+B82Y5/00
+</Class>
+</NCL>
+<Abstract>
+Disclosed are thermotherapeutic compositions for treating disease material, and methods of targeted therapy utilizing such compositions. These compositions comprise a) stable single domain magnetic particles;  b) magnetic nanoparticles comprising aggregates of superparamagnetic grains;  or c) magnetic nanoparticles comprising aggregates of stable single magnetic domain crystals and superparamagnetic grains. These compositions may also comprise a radio isotope, potential radioactive isotope, chemotherapeutic agent. These methods comprise the administration to a patient&apos;s body, body part, body fluid, or tissue of bioprobes (energy susceptive materials attached to a target-specific ligand), and the application of energy to the bioprobes so as to destroy, rupture, or inactivate the target in the patient. Energy forms, such as AMF, are utilized to provide the energy.;  The disclosed methods may be useful in the treatment of a variety of indications, including cancers, diseases of the immune system, central nervous system and vascular system, and pathogen-borne diseases.
+</Abstract>
+<Claims>
+<P>
+We claim:
+</P>
+<P>
+1. A thermotherapeutic magnetic composition, comprising:
+</P>
+<P>
+a) a magnetic nanoparticle that comprises at least one stable single magnetic domain grain that heats when subjected to an alternating magnetic field with frequency in the range of from about 80 kHz to 800 kHz, amplitude in the range of from about 7.98 kA/m and 104 kA/m, and at a temperature in the range of from about 270 to 380 K;
+</P>
+<P>
+b) a coating; and
+</P>
+<P>
+c) a ligand.
+</P>
+<P>
+2. A thermotherapeutic magnetic composition according to claim 1, wherein the coating comprises dextran.
+</P>
+<P>
+3. A thermotherapeutic magnetic composition according to claim 1, further comprising a radio isotope, potential radioactive isotope, a chemotherapeutic agent, or any combination thereof.
+</P>
+<P>
+4. A thermotherapeutic magnetic composition according to claim 3, wherein the radioactive isotope is iodine-131, cobalt-60, iridium-192, yttrium-90, strontium-89, samarium-153, rhenium-186, technetium-99m, or any combination thereof.
+</P>
+<P>
+5. A thermotherapeutic magnetic composition according to claim 3, wherein the potentially radioactive isotope is an isotope possessing a high absorption cross-section to neutrons, protons, electrons, or high energy photons.
+</P>
+<P>
+6. A thermotherapeutic magnetic composition according to claim 5, wherein the potentially radioactive isotope is an isotope possessing has a high absorption cross-section to neutrons, and is one of boron-10, a lanthanide such as samarium-149, gadolinium-157, and gadolinium-155 or any combination thereof.
+</P>
+<P>
+7. A thermotherapeutic magnetic composition according to claim 6, wherein the desired treatment area is exposed to neutrons, protons, electrons, or high energy photons to activate the potentially radioactive isotope in combination with AMF thermotherapy.
+</P>
+<P>
+8. A thermotherapeutic magnetic composition according to claim 3, wherein the chemotherapeutic agent is one of doxorubicin, cisplatin, or any combination thereof.
+</P>
+<P>
+9. A thermotherapeutic magnetic composition, comprising:
+</P>
+<P>
+a) a magnetic nanoparticle that comprises either i) an aggregate of superparamagnetic grains that exhibits a collective magnetic state such that it is apparently blocked when subjected to an alternating magnetic field with frequency in the range of from about 80 kHz to 800 kHz, amplitude in the range of from about 7.98 kA/m and 104 kA/m, and at a temperature in the range of from about 270 to 380 K, or ii) an aggregate of stable single magnetic domain grains and superparamagnetic grains, that exhibits a collective magnetic state such that characteristic relaxation time of the superparamagnetic grains is increased, and the aggregate is apparently blocked when subjected to an alternating magnetic field with frequency in the range of from about 80 kHz to 800 kHz, amplitude in the range of from about 7.98 kA/m and 104 kA/m, and at a temperature in the range of from about 270 to 380 K;
+</P>
+<P>
+b) a coating; and
+</P>
+<P>
+c) a ligand.
+</P>
+<P>
+10. A thermotherapeutic magnetic composition according to claim 9, wherein the coating comprises dextran.
+</P>
+<P>
+11. A thermotherapeutic magnetic composition according to claim 10, further comprising a radio isotope, potential radioactive isotope, a chemotherapeutic agent, or any combination thereof.
+</P>
+<P>
+12. A thermotherapeutic magnetic composition according to claim 11, wherein the radioactive isotope is iodine-131, cobalt-60, iridium-192, yttrium-90, strontium-89, samarium-153, rhenium-186, technetium-99m, or any combination thereof.
+</P>
+<P>
+13. A thermotherapeutic magnetic composition according to claim 11, wherein the potentially radioactive isotope is an isotope possessing a high absorption cross-section to neutrons, protons, electrons, or high energy photons.
+</P>
+<P>
+14. A thermotherapeutic magnetic composition according to claim 13, wherein the potentially radioactive isotope is an isotope possessing has a high absorption cross-section to neutrons, and is one of boron-10, a lanthanide such as samarium-149, gadolinium-157, and gadolinium-155 or any combination thereof.
+</P>
+<P>
+15. A thermotherapeutic magnetic composition according to claim 14, wherein the desired treatment area is exposed to neutrons, protons, electrons, or high energy photons to activate the potentially radioactive isotope in combination with AMF thermotherapy.
+</P>
+<P>
+16. A thermotherapeutic magnetic composition according to claim 11, wherein the chemotherapeutic agent is one of doxorubicin, cisplatin, or any combination thereof.
+</P>
+<P>
+17. A method for treating a patient, comprising:
+</P>
+<P>
+a) administering the thermotherapeutic magnetic composition of claim 1 to at least a portion of a patient, magnetic particle attached to a ligand specific to a predetermined target in the patient; and
+</P>
+<P>
+b) applying an alternating magnetic field (AMF) to the magnetic composition combined with the predetermined target to inductively heat the magnetic material.
+</P>
+<P>
+18. A method according to claim 17, wherein the target is associated with a cancer, a disease of the subject&apos;s vascular system, a disease-causing pathogen, multiple sclerosis, or non-cancerous disease material.
+</P>
+<P>
+19. A method according to claim 20, wherein the target associated with a cancer comprises a marker, and wherein the marker is a) a member of vascular endothelial growth factor receptor (VEGFR) family; b) a member of carcinoembryonic antigen (CEA) family; c) unglycosylated DF3 antigen; d) a member of epidermal growth factor receptor (EGFR) family; e) a cellular adhesion molecule; f) a matrix metalloproteinase; g) a glycoprotein antigen; h) an angiogen; i) a prostate specific membrane antigen (PSMA); j) a small cell lung carcinoma antigen (SCLCA); k) a hormone receptor; l) a tumor suppressor gene antigen; m) a cell cycle regulator antigen; n) an oncogene antigen; o) an oncogene receptor antigen; p) a proliferation marker; q) a malignant transformation related factor; r) an apoptosis-related factor; s) a human carcinoma antigen; t) an integrin; u) a kallikrein; v) a placental growth factor receptor (PGFR); w) an adenovirus-cell surface receptor; x) a hepatocyte growth factor receptor (HGFR); y) a tyrosine kinase; z) a cytokeratin epithelial marker; aa) a proliferating cell nuclear antigen (PCNA); bb) a membrane associated sialidase; cc) a cancer cell signal mediator; dd) a cyclase-C receptor; ee) a transforming growth factor receptor (TGFR); ff) a platelet derived growth factor receptor (PDGFR); gg) a cobalamin receptor; hh) a glioma channel; ii) a brain specific chondroitin sulphate proteoglycan; jj) a catenin; kk) a member of MUC-type mucin family receptors; ll) a member of cluster designation/differentiation (CD) antigen family; mm) a protein antigen; nn) a cytokine receptor; oo) a mesothelin receptor; or pp) any combination of a) through oo).
+</P>
+<P>
+20. A method according to claim 19, wherein the ligand to the marker is a) a polyclonal antibody; b) a monoclonal antibody; c) a chimeric antibody; d) a humanized antibody; e) a human antibody; f) a recombinant antibody; g) a bispecific antibody; h) an antibody fragment; i) a recombinant single chain antibody fragment; or j) any combination of a) through i).
+</P>
+<P>
+21. A method according to claim 19, wherein the marker epidermal growth factor receptor (EGFR) comprises HER-1, HER-2, HER-3, HER-4, EGFRvIII, or any combination thereof.
+</P>
+<P>
+22. A method according to claim 20, wherein the ligand is an antibody to marker HER-2, a variant of antibody to marker HER-2, or any combination thereof.
+</P>
+<P>
+23. A method according to claim 22, wherein the variant of antibody to marker HER-2 is F5 scFv, IDM-1 (MDX-210), or any combination thereof.
+</P>
+<P>
+24. A method according to claim 20, wherein the ligand is an antibody to marker EGFRvIII, a variant of antibody to marker EGFRvIII, or any combination thereof.
+</P>
+<P>
+25. A method according to claim 24, wherein the variant of antibody to marker EGFRvIII is Ua30:2, L8A4, DH8.3, 81C6, or any combination thereof.
+</P>
+<P>
+26. A method according to claim 19, wherein the marker MUC-type mucin family receptors comprises MUC-1, MUC-2, MUC-3, TAG-72, human milk fat globule receptor, or any combination thereof.
+</P>
+<P>
+27. A method according to claim 20, wherein the ligand is an antibody to marker MUC-1, a variant of antibody to marker MUC-1, or any combination thereof.
+</P>
+<P>
+28. A method according to claim 20, wherein the ligand is an antibody to marker TAG-72, a variant of antibody to marker TAG-72, or any combination thereof.
+</P>
+<P>
+29. A method according to claim 28, wherein the variant of antibody to marker TAG-72 is B72.3.
+</P>
+<P>
+30. A method according to claim 20, wherein the ligand is an antibody to marker CEA, a variant of antibody to marker CEA, or any combination thereof.
+</P>
+<P>
+31. A method according to claim 30, wherein the variant of antibody to marker CEA is MFE-23 scFv.
+</P>
+<P>
+32. A method according to claim 19, wherein the marker designation/differentiation protein comprises CD44, and wherein CD44 serves as a cellular adhesion molecule.
+</P>
+<P>
+33. A method according to claim 19, wherein the marker cytokine receptor comprises at least one member of the interleukin (IL) family.
+</P>
+<P>
+34. A method according to claim 20, wherein the ligand is an antibody to marker IL13, a variant of antibody to marker IL13, or any combination thereof.
+</P>
+<P>
+35. A method according to claim 19, wherein the marker matrix metalloproteinase comprises matrix metalloproteinase 9 (MMP-9)
+</P>
+<P>
+36. A method according to claim 19, wherein the marker glycoprotein antigen comprises a 43 kD membrane associated glycoprotein antigen, a 40 kD glycoprotein antigen, or any combination thereof.
+</P>
+<P>
+37. A method according to claim 20, wherein the ligand is an antibody to marker 43 kD membrane associated glycoprotein antigen, a variant of antibody to marker 43 kD membrane associated glycoprotein antigen, or any combination thereof.
+</P>
+<P>
+38. A method according to claim 37, wherein the variant of antibody to marker 43 kD membrane associated glycoprotein antigen is 323/A3.
+</P>
+<P>
+39. A method according to claim 20, wherein the ligand is an antibody to marker 40 kD glycoprotein antigen, a variant of antibody to marker 40 kD glycoprotein antigen, or any combination thereof.
+</P>
+<P>
+40. A method according to claim 39, wherein the variant of antibody to marker 40 kD glycoprotein antigen is NR-LU-10.
+</P>
+<P>
+41. A method according to claim 19, wherein the marker angiogen comprises a vascular endothelial growth factor receptor (VEGFR), integrin [alpha]v[beta]3, a urokinase type plasminogen activator receptor (uPAR), a plasminogen activator inhibitor 1 (PAI-1), VEGFR 2 (KDR/Flk-1), or any combination thereof.
+</P>
+<P>
+42. A method according to claim 41, wherein the vascular endothelial growth factor receptor (VEGFR) comprises FLT1, FLK1, Tie1, Tie2, or any combination thereof.
+</P>
+<P>
+43. A method according to claim 20, wherein the ligand is an antibody to marker integrin [alpha]v[beta]3, a variant of antibody to integrin [alpha]v[beta]3, or any combination thereof.
+</P>
+<P>
+44. A method according to claim 43, wherein the variant of antibody to marker integrin [alpha]v[beta]3 is Ber EP4, LM609, 2C3, or any combination thereof.
+</P>
+<P>
+45. A method according to claim 20, wherein the ligand is an antibody to marker prostate specific membrane antigen, a variant of antibody to marker prostate specific membrane antigen, or any combination thereof.
+</P>
+<P>
+46. A method according to claim 20, wherein the ligand is an antibody to marker prostate specific membrane antigen, a variant of antibody to marker prostate specific membrane antigen, or any combination thereof.
+</P>
+<P>
+47. A method according to claim 46, wherein the variant of antibody to marker prostate specific membrane antigen is MDX-070, 7E11-C5.3, or any combination thereof.
+</P>
+<P>
+48. A method according to claim 19, wherein the marker adenovirus-cell surface receptor comprises coxsackie adenovirus cell surface receptor (CAR).
+</P>
+<P>
+49. A method according to claim 19, wherein the marker cell cycle regulator comprises cyclin A, cyclin D, cyclin E, cdc2, or any combination thereof.
+</P>
+<P>
+50. A method according to claim 19, wherein the marker oncogene comprises ras.
+</P>
+<P>
+51. A method according to claim 19, wherein the marker apoptosis related factor comprises Fas, FasL, or any combination thereof.
+</P>
+<P>
+52. A method according to claim 19, wherein the marker protein tyrosine kinase comprises VSrc, C-Src, or any combination thereof.
+</P>
+<P>
+53. A method according to claim 19, wherein the marker cancer cell signal mediator comprises P13KC2.
+</P>
+<P>
+54. A method according to claim 19, wherein the marker cyclase-C receptor comprises guanylyl cyclase-C (GC-C) receptor.
+</P>
+<P>
+55. A method according to claim 19, wherein the marker platelet derived growth factor receptor (PDGFR) comprises PDGFR-alpha, PDGFR-beta, or any combination thereof.
+</P>
+<P>
+56. A method according to claim 19, wherein the marker the cobalamin receptor comprises methionine synthase, L-methylmalonyl-CoA mutase, or any combination thereof.
+</P>
+<P>
+57. A method according to claim 19, wherein the marker glioma channel comprises glioma chloride channel.
+</P>
+<P>
+58. A method according to claim 19, wherein the marker brain-specific chondroitin sulphate proteoglycan comprises brain enriched hyaluronan binding (BEHAB) protein receptor.
+</P>
+<P>
+59. A method according to claim 19, wherein the marker catenin comprises alpha catenin, beta catenin, gamma catenin, or any combination thereof.
+</P>
+<P>
+60. A method according to claim 19, wherein the marker protein antigen comprises p27, p73, or any combination thereof.
+</P>
+<P>
+61. A method according to claim 20, wherein the ligand is an antibody to marker human milk fat globule receptor (HMFGR), a variant of antibody to marker HMFGR, or any combination thereof.
+</P>
+<P>
+62. A method according to claim 61, wherein the variant of antibody to marker HMFGR is NCL-HMFG1, NCL-HMFG2, or any combination thereof.
+</P>
+<P>
+63. A method according to claim 18, wherein the target associated with a disease of the subject&apos;s vascular system comprises a marker, and wherein the marker is an antigen associated with an apolipoprotein, a lipoprotein, a vascular endothelial growth factor receptor (VEGFR), basic fibroblast growth factor receptor (bFGFR), or any combination thereof.
+</P>
+<P>
+64. A method according to claim 63, wherein the marker lipoprotein comprises oxidized low density lipoprotein (OxLDL), malondialdehyde-modified LDL (MDA-LDL), or any combination thereof.
+</P>
+<P>
+65. A method according to claim 64, wherein the ligand is an antibody to marker OxLDL, a variant of antibody to marker OxLDL, or any combination thereof.
+</P>
+<P>
+66. A method according to claim 65, wherein the variant of antibody to marker OxLDL is MDA-2.
+</P>
+<P>
+67. A method according to claim 64, wherein the ligand is an antibody to marker MDA-LDL, a variant of antibody to marker MDA-LDL, or any combination thereof.
+</P>
+<P>
+68. A method according to claim 67, wherein the variant of antibody to marker MDA-LDL is IK17.
+</P>
+<P>
+69. A method according to claim 16, wherein the target associated with disease causing pathogen target is a virus, and wherein the virus is associated with tuberculosis.
+</P>
+<P>
+70. A method according to claim 69, wherein target associated with tuberculosis comprises a marker, and wherein the marker is an antigen associated with APA.
+</P>
+<P>
+71. A method according to claim 16, wherein the target associated with disease causing pathogen is a virus, and wherein the virus is associated with human immunodeficiency virus (HIV).
+</P>
+<P>
+72. A method according to claim 71, wherein the target comprises a marker, and wherein the marker is T growth factor receptor alpha (TGFR-A) antigen associated with an HIV infected cell.
+</P>
+<P>
+73. A method according to claim 16, wherein the target associated with disease causing pathogen target is a virus, and wherein the virus is associated with malaria.
+</P>
+<P>
+74. A method according to claim 16, wherein the target associated with a central nervous system disease is multiple sclerosis, and wherein the target comprises a marker, and wherein the marker is an [alpha]4-subunit of [alpha]4[beta]1-integrin (VLA-4), an [alpha]4-subunit of [alpha]4[beta]7-integrin, or any combination thereof.
+</P>
+<P>
+75. A method according to claim 16, wherein the target associated with disease causing pathogen comprises a marker, and wherein the marker is an apical membrane antigen-1 (AMA-1) on Plasmodium falciparum.
+</P>
+<P>
+76. A method according to claim 16, wherein the target associated with non-cancerous disease material comprises a marker, and wherein the marker comprises a non-cancerous disease deposit, a non-cancerous disease precursor deposit, or any combination thereof.
+</P>
+<P>
+77. A method according to claim 16, wherein the target associated with non-cancerous disease material is a vascular endothelial growth factor receptor associated with autoimmune joint degradation.
+</P>
+<P>
+78. A method according to claim 17, wherein the AMF is pulsed.
+</P>
+<P>
+79. A method according to claim 78, wherein the AMF &apos;on&apos; pulse times are in the range of from about 0.1 seconds to about 1200 seconds, and the &apos;off&apos; pulse times are in the range of from about 0.1 seconds to about 1200 seconds.
+</P>
+<P>
+80. A method according to claim 17, wherein the administering utilizes a method that is intraperitoneal injection, intravascular injection, intramuscular injection, subcutaneous injection, topical, inhalation, ingestion, rectal insertion, wash, lavage or rinse perisurgically, extracorporeal, or any combination thereof.
+</P>
+<P>
+81. A method according to claim 80, wherein the at least a portion of the subject is extracted from the subject&apos;s body prior to extracorporeal administration of AMF, and wherein the extracted portion is returned to the subject&apos;s body or is transplanted to a recipient&apos;s body after the administration of AMF.
+</P>
+<P>
+82. A method according to claim 81, wherein the extracted portion of the subject is cooled before, during or after the administration of AMF.
+</P>
+<P>
+83. A method according to claim 81, wherein the magnetic nanoparticle is removed from the extracted portion via a magnetic force after the administration of AMF.
+</P>
+<P>
+84. A method for treating a patient, comprising:
+</P>
+<P>
+a) administering the thermotherapeutic magnetic composition of claim 9 to at least a portion of a patient, magnetic particle attached to a ligand specific to a predetermined target in the patient; and
+</P>
+<P>
+b) applying an alternating magnetic field (AMF) to the magnetic composition combined with the predetermined target to inductively heat the magnetic material.
+</P>
+<P>
+85. A method according to claim 84, wherein the magnetic composition further comprises a radio isotope, potential radioactive isotope, a chemotherapeutic agent, or any combination thereof.
+</P>
+<P>
+86. A method according to claim 84, wherein the target is associated with a cancer, a disease of the subject&apos;s vascular system, a disease-causing pathogen, multiple sclerosis, or non-cancerous disease material.
+</P>
+<P>
+87. A method according to claim 86, wherein the target associated with a cancer comprises a marker, and wherein the marker is a) a member of vascular endothelial growth factor receptor (VEGFR) family; b) a member of carcinoembryonic antigen (CEA) family; c) unglycosylated DF3 antigen; d) a member of epidermal growth factor receptor (EGFR) family; e) a cellular adhesion molecule; f) a matrix metalloproteinase; g) a glycoprotein antigen; h) an angiogen; i) a prostate specific membrane antigen (PSMA); j) a small cell lung carcinoma antigen (SCLCA); k) a hormone receptor; l) a tumor suppressor gene antigen; m) a cell cycle regulator antigen; n) an oncogene antigen; o) an oncogene receptor antigen; p) a proliferation marker; q) a malignant transformation related factor; r) an apoptosis-related factor; s) a human carcinoma antigen; t) an integrin; u) a kallikrein; v) a placental growth factor receptor (PGFR); w) an adenovirus-cell surface receptor; x) a hepatocyte growth factor receptor (HGFR); y) a tyrosine kinase; z) a cytokeratin epithelial marker; aa) a proliferating cell nuclear antigen (PCNA); bb) a membrane associated sialidase; cc) a cancer cell signal mediator; dd) a cyclase-C receptor; ee) a transforming growth factor receptor (TGFR); ff) a platelet derived growth factor receptor (PDGFR); gg) a cobalamin receptor; hh) a glioma channel; ii) a brain specific chondroitin sulphate proteoglycan; jj) a catenin; kk) a member of MUC-type mucin family receptors; ll) a member of cluster designation/differentiation (CD) antigen family; mm) a protein antigen; nn) a cytokine receptor; oo) a mesothelin receptor; or pp) any combination of a) through oo).
+</P>
+<P>
+88. A method according to claim 87, wherein the ligand to the marker is a) a polyclonal antibody; b) a monoclonal antibody; c) a chimeric antibody; d) a humanized antibody; e) a human antibody; f) a recombinant antibody; g) a bispecific antibody; h) an antibody fragment; i) a recombinant single chain antibody fragment; or j) any combination of a) through i).
+</P>
+<P>
+89. A method according to claim 88, wherein the ligand is an antibody to marker human milk fat globule receptor (HMFGR), a variant of antibody to marker HMFGR, or any combination thereof.
+</P>
+<P>
+90. A method according to claim 88, wherein the ligand is an antibody to marker EGFRvIII, a variant of antibody to marker EGFRvIII, or any combination thereof.
+</P>
+<P>
+91. A method according to claim 88, wherein the ligand is an antibody to marker OxLDL, a variant of antibody to marker OxLDL, or any combination thereof.
+</P>
+<P>
+92. A method according to claim 88, wherein the ligand is an antibody to marker MDA-LDL, a variant of antibody to marker MDA-LDL, or any combination thereof.
+</P>
+<P>
+93. A method according to claim 84, wherein the AMF is pulsed.
+</P>
+<P>
+94. A method according to claim 84, wherein the administering utilizes a method that is intraperitoneal injection, intravascular injection, intramuscular injection, subcutaneous injection, topical, inhalation, ingestion, rectal insertion, wash, lavage or rinse perisurgically, extracorporeal, or any combination thereof.
+</P>
+</Claims>
+<Also_published_as>
+EP1945159A4;US2006142749A1;US2007112339A9;US7731648B2;WO2007079276A2;WO2007079276A3;JP2009513722A;CA2628106A1
+</Also_published_as>
+</BiblioData>

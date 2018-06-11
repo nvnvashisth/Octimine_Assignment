@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+COMPOSITE PARTICLES
+</Title>
+<PublicationNumber>
+EP1940734A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MIRKIN CHAD A [US]
+</Name>
+<Name>
+STOEVA SAVKA I [US]
+</Name>
+<Name>
+HUO FUNGWEI [US]
+</Name>
+<Name>
+LEE JAE-SEUNG [US]
+</Name>
+<Name>
+MIRKIN, CHAD, A
+</Name>
+<Name>
+STOEVA, SAVKA, I
+</Name>
+<Name>
+HUO, FUNGWEI
+</Name>
+<Name>
+LEE, JAE-SEUNG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV NORTHWESTERN [US]
+</Name>
+<Name>
+NORTHWESTERN UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1940734
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060851623
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-08-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US31118
+</PriorityNumber>
+<PriorityDate>
+2006-08-10
+</PriorityDate>
+<PriorityNumber>
+US20050707128P
+</PriorityNumber>
+<PriorityDate>
+2005-08-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N21/55
+</Class>
+<Class>
+G01N33/58
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+G01N33/543D4D
+</Class>
+</NCL>
+<Abstract>
+Composite particles and methods of synthesizing a composite particle are disclosed, hi particular, methods of synthesizing a composite particle comprising a dielectric component, a magnetic component, and a gold shell are disclosed. Further disclosed herein are methods of detecting a target compound using the composite particles of the present invention. Also disclosed are photonic crystals that can be manipulated with an external magnetic field comprising the composite particles of the present invention.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED:
+</P>
+<P>
+1. A method of preparing a composite particle comprising the steps of
+</P>
+<P>
+(a) admixing a dielectric component and a magnetic component to form a first intermediate,
+</P>
+<P>
+(b) admixing the first intermediate and gold seeds to form a second intermediate, and
+</P>
+<P>
+(c) forming a gold shell on the second intermediate by admixing the second intermediate with a gold source and a reducing agent to form said composite particle.
+</P>
+<P>
+2. The method of claim 1 wherein the dielectric component comprises an inorganic oxide or a surface-modified inorganic oxide.
+</P>
+<P>
+3. The method of claim 2, wherein the inorganic oxide is selected from the group consisting of silica (SiO2), Nb2O5, Cr2O3, ZrO2, ZnO, CdO, CeO2, WO3, Al2O3 (alumina), and TiO2 (titania),
+</P>
+<P>
+4. The method of claim 2, wherein the surface modified inorganic oxide comprises an amino-modified or polymer-modified inorganic oxide.
+</P>
+<P>
+5. The method of claim 4, wherein the polymer is polystyrene, poly(methyl methacrylate), or a combination thereof.
+</P>
+<P>
+6. The method of claim 2 wherein the dielectric component is amino-modified SiO2.
+</P>
+<P>
+7. The method of claim 1 wherein the dielectric component has a thickness of about 50 nm to about 4500 nm.
+</P>
+<P>
+8. The method of claim 1 wherein the magnetic component comprises Fe3O4, FePt, CoFe2O4, M*Fe2O4, or a surface modified version thereof, wherein M* is a divalent cation.
+</P>
+<P>
+9. The method of claim 1 wherein the magnetic component is silica-primed Fe3O4.
+</P>
+<P>
+10. The method of claim 9 wherein the silica-primed Fe3O4 is formed by a method comprising the step of admixing a sodium silicate solution and Fe3O4 to form said silica-primed Fe3O4.
+</P>
+<P>
+11. The method of claim 1 wherein the magnetic component has a thickness from about 2 nm to about 50 nm.
+</P>
+<P>
+12. The method of claim 11 wherein the magnetic component has a thickness from about 10 to about 30 nm.
+</P>
+<P>
+13. The method of claim 11 wherein the magnetic component has a thickness from about 12 to about 16 nm.
+</P>
+<P>
+14. The method of claim 1 wherein the gold seeds have a particle size of about 1 nm to about 20 nm.
+</P>
+<P>
+15. The method of claim 14 wherein the gold seeds have a particle size of about 1 nm to about 10 nm.
+</P>
+<P>
+16. The method of claim 14 wherein the gold seeds have a particle size of about 1 nm to about 3 nm.
+</P>
+<P>
+17. The method of claim 1 wherein the gold source is HAuCl4, AuCl3, Au(CH3CO2)3, KAu(CN)4, KAu(CN)2, or a mixture thereof.
+</P>
+<P>
+18. The method of claim 1 wherein the reducing agent is selected from the group consisting of formaldehyde, sodium borohydride, hydrazine, ascorbic acid, citric acid, glucose, hydroxylamine, tetrakis(hydroxymethyl)phosphonium chloride (THPC), and mixtures thereof.
+</P>
+<P>
+19. The method of claim 1 performed in a sequence of step (a), then step (b), and then step (c).
+</P>
+<P>
+20. A composite particle produced by the method of claim 1.
+</P>
+<P>
+21. The composite particle of claim 20 wherein the dielectric component forms an innermost core, the magnetic component is present on the outer surface of the dielectric component, and the gold shell is over the dielectric component and the magnetic component.
+</P>
+<P>
+22. The composite particle of claim 20 wherein the magnetic component forms an innermost core, the dielectric component is present on the outer surface of the magnetic component, and the gold shell is over the dielectric component and the magnetic component.
+</P>
+<P>
+23. The composite particle of claim 20 wherein the dielectric component has a thickness of about 50 nm to about 4500 nm.
+</P>
+<P>
+24. The composite particle of claim 20 wherein the dielectric component is an inorganic oxide or a surface-modified inorganic oxide, wherein the inorganic oxide is selected from the group consisting of silica (SiO2), Nb2O5, Cr2O3, ZrO2, ZnO, CdO, CeO2, WO3, Al2O3 (alumina), TiO2 (titania), and mixtures thereof.
+</P>
+<P>
+25. The composite particle of claim 24 wherein the surface modified inorganic oxide comprises an amino-modified or polymer-modified inorganic oxide.
+</P>
+<P>
+26. The composite particle of claim 25 wherein the polymer is polystyrene, poly(methyl methacrylate), or a combination thereof.
+</P>
+<P>
+27. The composite particle of claim 20 wherein the magnetic component has a thickness of about 2 nm to about 50 nm.
+</P>
+<P>
+28. The composite particle of claim 20 wherein the magnetic component comprises Fe3O4, FePt, CoFe2O4, M*Fe2O4, or a surface modified version thereof, wherein M* is a divalent cation.
+</P>
+<P>
+29. The composite particle of claim 20 wherein the magnetic component comprises silica-primed Fe3O4.
+</P>
+<P>
+30. The composite particle of claim 20 wherein the gold shell has a thickness of about 5 nm to about 100 nm.
+</P>
+<P>
+31. The composite particle of claim 30 wherein the gold shell has a thickness less than about 50 nm.
+</P>
+<P>
+32. The composite particle of claim 20 wherein the composite particle has a particle size of about 60 nm to about 5000 nm.
+</P>
+<P>
+33. The composite particle of claim 32 wherein the composite particle has a particle size of about 100 nm to about 1000 nm.
+</P>
+<P>
+34. The composite particle of claim 20 wherein the composite particle is superparamagnetic.
+</P>
+<P>
+35. The composite particle of claim 20 further comprising at least one oligonucleotide, wherein the oligonucleotide is bound to the gold shell.
+</P>
+<P>
+36. The composite particle of claim 35 wherein the oligonucleotide is bound to the gold shell via a thiol moiety.
+</P>
+<P>
+37. A photonic crystal comprising a plurality of composite particles according to claim 20.
+</P>
+<P>
+38. A method for identifying a target compound in a sample containing or suspected of containing said target compound comprising the steps of a) contacting the sample with (i) a first composite particle of claim 35, wherein the oligonucleotide of said first composite particle hybridizes to at least a first portion of the target compound and (ii) a second composite particle of claim 35, wherein the oligonucleotide of said second composite particle hybridizes to at least a second portion of the target compound, under conditions that permit complex formation between said oligonucleotide of said first composite particle and said first portion of said target compound and between said oligonucleotide of said second composite particle and said second portion of said target compound, and b) detecting the composite particles bound to said target compound, wherein said detecting identifies the target compound in the sample.
+</P>
+<P>
+39. The method of claim 38, wherein the complex of step (a) is separated from the sample via removal with a magnet.
+</P>
+<P>
+40. A method for identifying a target compound in a sample containing or suspected of containing said target compound comprising the steps of a) contacting the sample with a composite particle of claim 20, wherein the composite particle is modified on its surface with a moiety selected from the group consisting of an oligonucleotide, a polypeptide, a polymer, a polysaccharide, an antibody, a lectin, and an antigen, and wherein said moiety interacts with said target compound to form a complex; b) removing said complex formed in step (a) from the sample using a magnetic field; and c) identifying the target compound using an analytic technique.
+</P>
+<P>
+41. The method of claim 40, wherein the target compound is disassociated from the complex prior to the identifying step.
+</P>
+<P>
+42. The method of claim 40, wherein the analytic technique is selected from the group consisting of liquid chromatography, gas chromatography, mass spectrometry, gel electrophoresis, capillary electrophoresis, nuclear magnetic resonance, and PCR.
+</P>
+<P>
+43. A method for separating a target compound in a mixture comprising the steps of a) contacting the mixture with (i) a composite particle of claim 20, wherein the composite particle is modified on its surface with a moiety selected from the group consisting of an oligonucleotide, a polypeptide, a polymer, a polysaccharide, an antibody, a lectin, and an antigen, and wherein said moiety interacts with said target compound to form a complex with the target compound, and (ii) a detectable probe modified on its surface with a moiety selected from the group consisting of an oligonucleotide, a polypeptide, a polymer, a polysaccharide, an antibody, a lectin, and an antigen, and wherein said moiety interacts with said target compound to form a complex with the target compound, under conditions that allow the composite particle and detectable probe to form an aggregate with the target compound; and b) removing said aggregate formed in step (a) from the sample using a magnetic field, thereby separating the target compound from the mixture.
+</P>
+<P>
+44. The method of claim 43 further comprising the step of separating the target compound from the detectable probe.
+</P>
+<P>
+45. The method of claim 43 further comprising the step of separating the target compound from the composite particle.
+</P>
+<P>
+46. The method of claim 43 further comprising the step of separating the target compound from the composite particle and the detectable probe.
+</P>
+<P>
+47. The method of claim 43 further comprising the step of detecting the detectable probe.
+</P>
+<P>
+48. The method of claim 47 wherein detecting the detectable probe permits identification of the target compound.
+</P>
+</Claims>
+<Also_published_as>
+WO2008036075A2;WO2008036075A3;US2010129793A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD OF PREPARING NANO- STRUCTURED MATERIAL(S) AND USES THEREOF
+</Title>
+<PublicationNumber>
+EP1973985A1
+</PublicationNumber>
+<Inventor>
+<Name>
+YI GUANG-SHUN [SG]
+</Name>
+<Name>
+CHOW GAN-MOOG [SG]
+</Name>
+<Name>
+YI, GUANG-SHUN
+</Name>
+<Name>
+CHOW, GAN-MOOG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV SINGAPORE [SG]
+</Name>
+<Name>
+NATIONAL UNIVERSITY OF SINGAPORE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1973985
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070701162
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007SG00003
+</PriorityNumber>
+<PriorityDate>
+2007-01-05
+</PriorityDate>
+<PriorityNumber>
+US20060756557P
+</PriorityNumber>
+<PriorityDate>
+2006-01-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01D17/00
+</Class>
+<Class>
+C01D3/02
+</Class>
+<Class>
+C01D3/22
+</Class>
+<Class>
+C01F1/00
+</Class>
+<Class>
+C01F11/22
+</Class>
+<Class>
+C01F15/00
+</Class>
+<Class>
+C01F17/00
+</Class>
+<Class>
+C01F5/28
+</Class>
+<Class>
+C09K11/85
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01F17/00J2
+</Class>
+<Class>
+C09K11/02
+</Class>
+<Class>
+C09K11/77S4B
+</Class>
+<Class>
+G01N33/58J
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a method of preparing at least one nano- structured material of formula M1M2Xn comprising the step of treating: at least one compound having the formula [CX3(CX2)n(CH2)mCOO]pM1 ;  and at least one compound having the formula [CX3(CX2)n(CH2)mCOO]pM2 ;  wherein each X is the same or different and is selected from the group consisting of : halogens, O, S, Se, Te, N, P and As ;  each n is the same or different and is 0 = n = 10 ;  each m is the same or different and is 0 = m = 10 ;  each p is the same or different and is 1 = p = 5 ;  each M1 is the same or different and is selected from the group consisting of: Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr, Ba, Ra and NH4 ;  each M2 is the same or different and is a metal ion. The present invention also provides uses of the nano-structured material prepared according to the method of the present invention.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A method of preparing at least one nano-structured material of formula MiM2Xn comprising the step of treating:
+</P>
+<P>
+at least one compound having the formula [CX3(CX2)n(CH2)mCOO]pMi; and
+</P>
+<P>
+at least one compound having the formula [CX3(CX2)n(CH2)mCOO]pM2;
+</P>
+<P>
+wherein
+</P>
+<P>
+each X is the same or different and is selected from the group consisting of: halogens, O, S, Se, Te, N, P and As;
+</P>
+<P>
+each n is the same or different and is 0 &amp;lt; n &amp;lt; 10;
+</P>
+<P>
+each m is the same or different and is 0&amp;lt;m&amp;lt;= 10;
+</P>
+<P>
+each p is the same or different and is 1 &amp;lt;p&amp;lt;5;
+</P>
+<P>
+each Mi is the same or different and is selected from the group consisting of: Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr, Ba, Ra and NH4;
+</P>
+<P>
+each M2 is the same or different and is a metal ion.
+</P>
+<P>
+2. The method according to claim 1 , wherein M2 is selected from the group consisting of: Sc, Y, La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb and Lu.
+</P>
+<P>
+3. The method according to claim 1 or claim 2, wherein the method is for preparing at least one nano-structured material of formula MiM2Xn:Mq comprising the step of treating:
+</P>
+<P>
+at least one compound having the formula [CX3(CX2)n(CH2)mCOO]pM1; at least one compound having the formula [CX3(CX2)n(CH2)mCOO]pM2; and
+</P>
+<P>
+at least one compound having the formula [CX3(CX2)n(CH2)mCOO]pMq, wherein
+</P>
+<P>
+each Mq is the same or different and is selected from the group consisting of Sc, Y, La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb and Lu;
+</P>
+<P>
+n, m, p, X, Mi and M2 are as defined in claim 1 or claim 2; and
+</P>
+<P>
+each q is the same or different and is 0 &amp;lt; q &amp;lt; 10.
+</P>
+<P>
+4. The method according to any one of the preceding claims, wherein M2 is selected from the group consisting of: transition metal ions, inner transition metal ions, and Group I to Group Vl metal ions.
+</P>
+<P>
+5. The method according to any one of the preceding claims, wherein the treating is carried out in the presence of at least one source of energy.
+</P>
+<P>
+6. The method according to claim 5, wherein the source of energy is selected from at least one of the following: light source, electric source, thermal source and magnetic source.
+</P>
+<P>
+7. The method according to at least one of the preceding claims, wherein the treating is carried out at a temperature up to 1000&amp;lt;0&amp;gt;C.
+</P>
+<P>
+8. The method according to any one of the preceding claims, wherein the treating is carried out at a temperature of 200&amp;lt;0&amp;gt;C - 400&amp;lt;0&amp;gt;C.
+</P>
+<P>
+9. The method according to claim 8, wherein the treating is carried out at a temperature of 300[deg.]C - 35O&amp;lt;0&amp;gt;C.
+</P>
+<P>
+10. The method according to claim 8 or claim 9, wherein the treating is carried out at a temperature of 330[deg.]C.
+</P>
+<P>
+11. The method according to claim any one of the preceding claims, wherein the treating is carried out in the presence of at least one polar or non-polar solvent, or a mixture thereof.
+</P>
+<P>
+12. The method according to claim 11 , wherein the polar solvent is selected from the group consisting of: water, methanol, ethanol, propyl alcohol, butanol, pentanol, hexanol, ketone, ethylene glycol, glycerol, propylene glycol; polyethylene glycol, ethyl acetate and a combination thereof.
+</P>
+<P>
+13. The method according to claim 11 , wherein the non-polar solvent is selected from the group consisting of: oleylamine, octadecene, oleic acid, alkyl amine, dialkyl amine, trialkyl amine, alkenyl amine, dialkenyl amine, trialkenyl amine, alkyl acid, alkenyl acid, trialkyl phosphine, trialkyl phosphine oxide, trialkylphosphate, alkane, alkene, alkyl ether, alkenyl ether.
+</P>
+<P>
+14. The method according to any one of the preceding claims, wherein the nano-structured material is selected from the group consisting of: NaIVbF4, LiM2F4, KM2F4, RbM2F4, CsM2F4, BeM2F5, Be(M2)2F8, MgM2F5, Mg(M2)2F8, CaM2F5, Ca(M2)2F8, SrM2F5, Sr(M2)2F8, BaLnF5, Ba(M2)2F8M2F3, wherein each M2 is the same or different and is selected from the group consisting of: Sc, Y, La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb and Lu.
+</P>
+<P>
+15. The method according to claim 14, wherein the nano-structured material is NaYF4.
+</P>
+<P>
+16. The method according to any one of claims 3 to 15, wherein the nano- structured material is selected from the group consisting of: NaM2F4: Mq, LiM2F4:Mq, KM2F4:Mq, RbM2F4:Mq, CsM2F4:Mq, BeM2F5:Mq, Be(M2)2F8:Mq, MgM2F5:Mq, Mg(M2)2F8:Mq, CaM2F5:Mq, Ca(M2)2F8:Mq, SrM2F5:Mq, Sr(M2)2F8:Mq, BaM2F5:Mq, Ba(M2)2F8:Mq, wherein each M2 is the same or different and is selected from the group consisting of: Sc, Y, La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb and Lu, and each Mqis the same or different and is selected from the group consisting of: Yb, Er, Tm and Ho.
+</P>
+<P>
+17. The method according to claim 16, wherein the nano-structured material is NaYF4:Yb,Er, NaYF4:Yb,Tm or NaYF4:Yb,Ho.
+</P>
+<P>
+18. The method according to any one of the preceding claims, wherein the at least one compound of formula [CX3(CX2)n(CH2)mCOO]pMi is selected from the group consisting of: CF3COONa and CF3COOLi.
+</P>
+<P>
+19. The method according to any one of the preceding claims, wherein the at least one compound of formula [CX3(CX2)n(CH2)mCOO]pM2 is selected from the group consisting of: (CF3COO)3Y and (CF3COO)3La.
+</P>
+<P>
+20. The method according to any one of claims 3 to 19, wherein the at least one compound of formula [CX3(CX2)n(CH2)mCOO]pMq is selected from the group consisting of: (CF3COO)3Yb1 (CF3COO)3Er, (CF3COO)3Tm and (CF3COO)3Ho.
+</P>
+<P>
+21. The method according to any one of the preceding claims, wherein the nano-structured material has a structure selected from the group consisting of: hexagonal, cubic, tetragonal, rhombohedral, orthorhombic, monoclinic, triclinic and a combination thereof.
+</P>
+<P>
+22. The method according to claim 21 , wherein the nano-structured material has a hexagonal structure.
+</P>
+<P>
+23. The method according to any one of the preceding claims, wherein the nano-structured material comprises at least one dimension of size &amp;lt; 50 nm.
+</P>
+<P>
+24. The method according to any one of the preceding claims, wherein the nano-structured material comprises at least one dimension of size &amp;lt; 25 nm.
+</P>
+<P>
+25. The method according to any one of the preceding claims, wherein the nano-structured material comprises at least one dimension of size &amp;lt; 10 nm.
+</P>
+<P>
+26. The method according to any one of the preceding claims, wherein the nano-structured material comprises at least one dimension of size &amp;lt; 5 nm.
+</P>
+<P>
+27. The method according to any one of the preceding claims, wherein the nano-structured material is in the form of: nanoparticle(s), nanofilm or monolith.
+</P>
+<P>
+28. The method according to claim 27, wherein the nanoparticle(s) comprise core nanoparticle(s) and/or core-shell nanoparticle(s).
+</P>
+<P>
+29. The method according to claim 27 or claim 28, wherein the nanoparticle is in the form of a core nanoparticle, and the method further comprises applying at least one organic and/or inorganic material (shell) on the core, to obtain a core-shell nanoparticle(s).
+</P>
+<P>
+30. The method according to claim 27 or claim 28, wherein the nanoparticle is in the form of a core nanoparticle, and the nanoparticle further comprises at least one organic and/or inorganic material (shell) applied on the core, to obtain a core-shell nanoparticle(s).
+</P>
+<P>
+31. The method according to claim 29 or claim 30, wherein the shell material has the formula MiIVbXn or MiM2Xn:Mq, wherein Mi, M2, X, n and Mq are as defined in any one of claims 1 to 3.
+</P>
+<P>
+32. The method according to claim 29 or claim 30, wherein the organic shell material comprises at least one polymer, a surfactant or a lipid, or a combination thereof.
+</P>
+<P>
+33. The method according to claim 32, wherein the at least one polymer is selected from the group consisting of: polystyrene (PS), polyethylene (PE), polymethyl methacrylate (PMMA) and polylactic acid (PLA).
+</P>
+<P>
+34. The method according to any one of claims 29 to 31 , wherein the inorganic shell material comprises: NaM2F4, LiMaF4, KM2F4, RbMaF4, CsMaF4, BeM2F5, Be(M2)2F8, MgM2F5, Mg(M2)2F8, CaM2F5, Ca(Ma)2F8, SrM2F5, Sr(M2)2F8, BaLnF5, Ba(M2J2F8M2F3, M2F3, M2CI3, M2Br3, M2I3, M2FCIBr, M2OF, M2OCI, M2OBr, M2OS, (M2)2S3, wherein each M2 is the same or different and is selected from the group consisting of: Sc, Y, La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb and Lu; SiO2; TiO2; ZnS; or a combination thereof.
+</P>
+<P>
+35. The method according to any one of claims 28 to 34, wherein the shell is applied continuously or discontinuously on the core.
+</P>
+<P>
+36. The method according to any one of the preceding claims, wherein the at least one nano-structured material is at least one nanoparticle and the average diameter of the nanoparticle(s) is &amp;lt; 50 nm.
+</P>
+<P>
+37. The method according to any one of the preceding claims, wherein the at least one nano-structured material is at least one nanoparticle and the average diameter of the nanoparticle(s) is &amp;lt; 10 nm.
+</P>
+<P>
+38. The method according to any one of the preceding claims, wherein the nano-structured material is hexagonal phase NaYF4.
+</P>
+<P>
+39. The method according to any one of the preceding claims, wherein the nano-structured material is hexagonal phase NaYF4:Yb,Er, hexagonal phase NaYF4: Yb1Tm or hexagonal phase NaYF4: Yb, Ho.
+</P>
+<P>
+40. The method according to any one of the preceding claims, wherein the surface of the nano-structured material is modified by adding at least one surfactant, lipid, polymer, inorganic material, or a mixture thereof.
+</P>
+<P>
+41. The method according to any one of the preceding claims, wherein the surface of the nano-structured material is modified by adding at least one surfactant.
+</P>
+<P>
+42. The method according to claim 41 , wherein the at least one surfactant has Formula (I):
+</P>
+<P>
+R&amp;lt;1&amp;gt; R&amp;lt;3&amp;gt;
+</P>
+<P>
+R&amp;lt;5&amp;gt; - (CjHK)s-(CzHw)y- R&amp;lt;6&amp;gt; (Formula I)
+</P>
+<P>
+R&amp;lt;2&amp;gt; R&amp;lt;4&amp;gt;
+</P>
+<P>
+wherein
+</P>
+<P>
+each J is the same or different, and 1 &amp;lt;J &amp;lt;9;
+</P>
+<P>
+each K is the same or different, and 0&amp;lt;K&amp;lt;9;
+</P>
+<P>
+each s is the same or different, and 0&amp;lt;s&amp;lt;9;
+</P>
+<P>
+each Z is the same or different, and 1 &amp;lt;Z&amp;lt;9;
+</P>
+<P>
+each W is the same or different, and 0&amp;lt;W&amp;lt;9;
+</P>
+<P>
+each y is the same or different, and 0&amp;lt;y&amp;lt;9;
+</P>
+<P>
+each R&amp;lt;1&amp;gt;, R&amp;lt;2&amp;gt;, R&amp;lt;3&amp;gt;, R&amp;lt;4&amp;gt; and R&amp;lt;5&amp;gt; is the same or different, and is independently selected from the group consisting of: H, substituted or unsubstituted CrC-6 alkyl, substituted or unsubstituted C1-C6 aryl, HS, COOH, NH2 and OH; each Re is the same or different, and is selected from the group consisting of: COOH, NH2, OH, P=O and P;
+</P>
+<P>
+with the proviso that s + y &amp;lt; 10.
+</P>
+<P>
+43. The method according to claim 41 or claim 42, wherein the surfactant is hydrophilic, hydrophobic and/or amphiphilic.
+</P>
+<P>
+44. The method according to any one of the preceding claims, wherein a biomolecule is attached to the nano-structured material.
+</P>
+<P>
+45. The method according to claim 44, wherein the biomolecule is selected from the group consisting of: protein, nucleic acid, nucleosides, nucleotides, DNA, hormone, amino acid, peptide, peptidomimetic, RNA, lipid, albumin, antibody, phospholipids, glycolipid, sterol, vitamins, neurotransmitter, carbohydrate, sugar, disaccharide, monosaccharide, oligopeptide, polypeptide, oligosaccharide, polysaccharide and a mixture thereof.
+</P>
+<P>
+46.A nano-structured material obtainable by the method according to any one of claims 1 to 45.
+</P>
+<P>
+47.A nano-structured material of formula M-M2Xn:Mq as defined in any one of claims 1 to 3, wherein the nano-structured material has a hexagonal lattice structure and comprises at least one dimension of size &amp;lt; 50 nm, with the proviso that the nano-structured material is not LaF3:Yb,Er, LaF3:Yb,Ho or LaF3:Yb,Tm.
+</P>
+<P>
+48. The nano-structured material according to claim 47, wherein the at least one dimension is of size &amp;lt; 10 nm.
+</P>
+<P>
+49. The nano-structured material according to claim 48, wherein the at least one dimension is of size &amp;lt; 5 nm.
+</P>
+<P>
+50. The nano-structured material according to any one of claims 47 to 49, wherein the nano-structured material is hexagonal phase NaYF4IMq.
+</P>
+<P>
+51. The nano-structured material according to claim 50, wherein NaYF4:Mq is NaYF4:Yb,Er, NaYF4:Yb,Ho or NaYF4:Yb,Tm.
+</P>
+<P>
+52.An article of manufacture comprising the nano-structured material according to any one of claims 46 to 51.
+</P>
+<P>
+53. The article of manufacture according to claim 52, wherein the article of manufacture is at least one of the following: a display device, a solar cell, an optical data storage, a bio-probe, a carrier for drug delivery, a lamp, a LED, a LCD, a wear resistance, a laser, optical amplifier, and/or a device for bio- imaging.
+</P>
+<P>
+54.A kit comprising at least one nano-structured material according to any one of claims 46 to 51 and at least one biomolecule.
+</P>
+<P>
+55. The kit according to claim 54, wherein the biomolecule is selected from the group consisting of: protein, nucleic acid, nucleosides, nucleotides, DNA, hormone, amino acid, peptide, peptidomimetic, RNA, lipid, albumin, antibody, phospholipids, glycolipid, sterol, vitamins, neurotransmitter, carbohydrate, sugar, disaccharide, monosaccharide, oligopeptide, polypeptide, oligosaccharide, polysaccharide and a mixture thereof.
+</P>
+<P>
+56.A bio-imaging and/or bio-detection system comprising:
+</P>
+<P>
+- at least one nano-structured material prepared from the method according to any one of claims 1 to 45;
+</P>
+<P>
+- at least one biomolecule;
+</P>
+<P>
+- at least one source of excitation; and - at least one means for delivery of the source of excitation to the system.
+</P>
+<P>
+57. The system according to claim 56, wherein the biomolecule is selected from the group consisting of: protein, nucleic acid, nucleosides, nucleotides, DNA, hormone, amino acid, peptide, peptidomimetic, RNA, lipid, albumin, antibody, phospholipids, glycolipid, sterol, vitamins, neurotransmitter, carbohydrate, sugar, disaccharide, monosaccharide, oligopeptide, polypeptide, oligosaccharide, polysaccharide and a mixture thereof.
+</P>
+<P>
+58. The system according to claim 56 or claim 57, wherein the source of excitation is NIR.
+</P>
+<P>
+59. The system according to claim 58, wherein the NIR is at 980 nm.
+</P>
+<P>
+60. The system according to any one of claims 56 to 59, wherein the means for delivery of the source of excitation to the system is selected from the group consisting of: optical fibres, endoscopes, external light and external laser.
+</P>
+<P>
+61. A method of modifying at least one hydrophobic structure to make it hydrophilic, comprising applying at least one modifier on the structure surface to make a structure-modifier complex, and wherein the modifier is a surfactant, lipid, polymer and/or inorganic material.
+</P>
+<P>
+62. The method according to claim 61 , comprising applying at least one first modifier on the structure surface, and further a second hydrophilic modifier to make a structure-first modifier-second modifier complex, and wherein the first and/or second modifier is a surfactant, lipid, polymer and/or inorganic material.
+</P>
+<P>
+63. The method according to claim 61 or claim 62, comprising applying at least one hydrophilic surfactant on the structure to make a structure-surfactant complex.
+</P>
+<P>
+64. The method according to any one of claims 61 to 63, wherein the structure is the nano-structured material according to any one of claims 46 to 51.
+</P>
+<P>
+65.A method of preparing at least one nano-structured material of formula MaXn comprising the step of treating at least one compound having the formula [CX3(CX2)n(CH2)mCOO]pM2 in the presence of at least one source of energy,
+</P>
+<P>
+wherein
+</P>
+<P>
+each X is the same or different and is selected from the group consisting of: halogens, O, S, Se, Te, N, P and As;
+</P>
+<P>
+each n is the same or different and is 0 &amp;lt; n &amp;lt; 10;
+</P>
+<P>
+each m is the same or different and is 0 &amp;lt; m &amp;lt; 10;
+</P>
+<P>
+each p is the same or different and is 1 &amp;lt;p&amp;lt;5; and
+</P>
+<P>
+each M2 is the same or different and is a metal ion.
+</P>
+<P>
+66. The method according to claim 65, wherein each M2 is the same or different and is selected from the group consisting of: Sc, Y, La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb and Lu.
+</P>
+<P>
+67. The method according to claim 65 or claim 66, wherein the method is for preparing at least one nano-structured material of formula M2Xn:Mq comprising the step of treating:
+</P>
+<P>
+at least one compound having the formula [CX3(CX2)n(CH2)mCOO]pM2; and
+</P>
+<P>
+at least one compound having the formula [CX3(CX2)n(CH2)mCOO]pMq;
+</P>
+<P>
+in the presence of at least one source of energy and wherein each Mq is the same or different and is selected from the group consisting of Sc, Y, La, Ce1Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb and Lu;
+</P>
+<P>
+n, m, p, X and M2 are as defined in claim 65 or claim 66;
+</P>
+<P>
+each q is the same or different and is 0&amp;lt;q &amp;lt; 10.
+</P>
+<P>
+68. The method according to any one of claims 65 to 67, wherein each M2 is the same or different and is selected from the group consisting of: transition metal ions, inner transition metal ions, and Group I to Group Vl metal ions.
+</P>
+<P>
+69. The method according to any one of claims 65 to 68, wherein the at least one source of energy is selected from at least one of the following: light source, electric source, thermal source and magnetic source.
+</P>
+<P>
+70. The method according to any one of claims 65 to 69, wherein the treating is carried out at a temperature up to 1000&amp;lt;0&amp;gt;C.
+</P>
+<P>
+71. The method according to claim 70, wherein the treating is carried out at a temperature of 200&amp;lt;0&amp;gt;C - 400&amp;lt;0&amp;gt;C.
+</P>
+<P>
+72. The method according to claim 71 , wherein the treating is carried out at a temperature of 300[deg.]C - 350[deg.]C.
+</P>
+<P>
+73. The method according to claim 72, wherein the treating is carried out at a temperature of 330&amp;lt;0&amp;gt;C.
+</P>
+<P>
+74. The method according to claim any one of claims 65 to 73, wherein the treating is carried out in the presence of at least one polar or non-polar solvent, or a mixture thereof.
+</P>
+<P>
+75. The method according to claim 74, wherein the polar solvent is selected from the group consisting of: water, methanol, ethanol, propyl alcohol, butanol, pentanol, hexanol, ketone, ethylene glycol, glycerol, propylene glycol, polyethylene glycol, ethyl acetate and a combination thereof.
+</P>
+<P>
+76. The method according to claim 74, wherein the non-polar solvent is selected from the group consisting of: oleylamine, octadecene, oleic acid, alkyl amine, dialkyl amine, trialkyl amine, alkenyl amine, dialkenyl amine, trialkenyl amine, alkyl acid, alkenyl acid, trialkyl phosphine, trialkyl phosphine oxide, trialkylphosphate, alkane, alkene, alkyl ether, alkenyl ether and a combination thereof.
+</P>
+<P>
+77. The method according to any one of claims 65 to 76, wherein the nano- structured material is selected from the group consisting of: M2F3, M2CI3, M2Br3, M2I3, M2FCIBr, M2OF, M2OCI, M2OBr, M2OS, (M2)2S3, wherein each M2 is the same or different and is selected from the group consisting of: Sc, Y, La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb and Lu.
+</P>
+<P>
+78. The method according to claim 77, wherein the nano-structured material is LaF3, CeF3, GdF3, YF3 or YOF.
+</P>
+<P>
+79. The method according to any one of claims 67 to 78, wherein the nano- structured material is selected from the group consisting of: M2F3:Mq, M2CI3:Mq, M2Br3:Mq, M2l3:Mq, M2FCIBr:Mq, M2OF:Mq, M2OCI:Mq, M2OBr:Mq, M2OS:Mq, (M2)2S3:Mq, wherein each M2 is the same or different and is selected from the group consisting of: Sc, Y, La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb and Lu, and Mq is selected from the group consisting of: Yb, Er, Tm and Ho.
+</P>
+<P>
+80. The method according to claim 79, wherein the nano-structured material is YOF:Yb,Er, LaF3:Yb,Er, CeF3:Yb,Er, GdF3:Yb,Er, YF3:Yb,Er, YOF:Yb,Tm, LaF3:Yb,Tm, CeF3:Yb,Tm, GdF3:Yb,Tm or YF3:Yb,Tm.
+</P>
+<P>
+81. The method according to any one of claims 65 to 80, wherein the at least one compound of formula [CX3(CX2)n(CH2)mCOO]pM2 is selected from the group consisting of: (CF3COO)3Y and (CF3COO)3La.
+</P>
+<P>
+82. The method according to any one of claims 67 to 81 , wherein the at least one compound of formula [CX3(CX2)n(CH2)mCOO]pMq is selected from the group consisting of: (CF3COO)3Yb and (CF3COO)3Er.
+</P>
+<P>
+83. The method according to any one of claims 65 to 82, wherein the nano- structured material has a structure selected from the group consisting of: hexagonal, cubic, tetragonal, rhombohedral, orthorhombic, monoclinic, triclinic and a combination thereof.
+</P>
+<P>
+84. The method according to any one of claims 65 to 83, wherein the nano- structured material comprises at least one dimension of size &amp;lt; 50 nm.
+</P>
+<P>
+85. The method according to any one of claims 65 to 84, wherein the nano- structured material comprises at least one dimension of size &amp;lt; 25 nm.
+</P>
+<P>
+86. The method according to any one of claims 65 to 85, wherein the nano- structured material comprises at least one dimension of size &amp;lt; 10 nm.
+</P>
+<P>
+87. The method according to any one of claims 65 to 86, wherein the nano- structured material is in the form of: nanoparticle(s), nanofilm or monolith.
+</P>
+<P>
+88. The method according to claim 87, wherein the nanoparticle(s) comprise core nanoparticle(s) and/or core-shell nanoparticle(s).
+</P>
+<P>
+89. The method according to claim 87 or claim 88, wherein the nanoparticle is in the form of a core nanoparticle, and the method further comprises applying at least one organic and/or inorganic material (shell) on the core, to obtain a core-shell nanoparticle(s).
+</P>
+<P>
+90. The method according to claim 87 or claim 88, wherein the nanoparticle is in the form of a core nanoparticle, and the nanoparticle further comprises at least one organic and/or inorganic material (shell) applied on the core, to obtain a core-shell nanoparticle(s).
+</P>
+<P>
+91. The method according to any one of claims 88 to 90, wherein the shell material has the formula MiM2Xn or MiM2Xn:Mq, wherein Mi, M2, X, n and Mq are as defined in any one of claims 1 to 3 or claims 65 to 67.
+</P>
+<P>
+92. The method according to claim 89 or claim 90, wherein the organic shell material comprises at least one polymer, a surfactant or a lipid, or a combination thereof.
+</P>
+<P>
+93. The method according to claim 92, wherein the at least one polymer is selected from the group consisting of: polystyrene (PS), polyethylene (PE), polymethyl methacrylate (PMMA) and polylactic acid (PLA).
+</P>
+<P>
+94. The method according to any one of claims 89 to 91 , wherein the inorganic shell material comprises: NaM2F4, LiM2F4, KM2F4, RbM2F4, CsM2F4, BeM2F5, Be(M2)2F8, MgM2F5, Mg(M2)2F8, CaM2F5, Ca(M2)2F8, SrM2F5, Sr(M2)2F8, BaLnF5, Ba(M2J2F8M2F3, M2F3, M2CI3, M2Br3, M2I3, M2FCIBr, M2OF, M2OCI, M2OBr, M2OS, (M2)2S3, wherein each M2 is the same or different and is selected from the group consisting of: Sc, Y, La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb and Lu; SiO2; TiO2; ZnS; or a combination thereof.
+</P>
+<P>
+95. The method according to any one of claims 88 to 94, wherein the shell is applied continuously or discontinuously on the core.
+</P>
+<P>
+96. The method according to any one of claims 65 to 95, wherein the at least one nano-structured material is at least one nanoparticle and the average diameter of the nanoparticle(s) is &amp;lt; 50 nm.
+</P>
+<P>
+97. The method according to any one of claims 65 to 96, wherein the at least one nano-structured material is at least one nanoparticle and the average diameter of the nanoparticle(s) is &amp;lt; 10 nm.
+</P>
+<P>
+98. The method according to any one of claims 65 to 97, wherein the surface of the nano-structured material is modified by adding at least one surfactant, lipid, polymer, inorganic material, or a mixture thereof.
+</P>
+<P>
+99. The method according to any one of claims 65 to 98, wherein the surface of the nano-structured material is modified by adding at least one surfactant.
+</P>
+<P>
+100. The method according to claim 99, wherein the at least one surfactant has Formula (I):
+</P>
+<P>
+R&amp;lt;1&amp;gt; R&amp;lt;3&amp;gt;
+</P>
+<P>
+R&amp;lt;5&amp;gt; - (CjHK)s-(CzHw)y - R&amp;lt;6&amp;gt; (Formula I)
+</P>
+<P>
+R&amp;lt;2&amp;gt; R&amp;lt;4&amp;gt;
+</P>
+<P>
+wherein
+</P>
+<P>
+each J is the same or different, and 1 &amp;lt; J&amp;lt;9;
+</P>
+<P>
+each K is the same or different, and 0&amp;lt;=K&amp;lt;9;
+</P>
+<P>
+each s is the same or different, and 0&amp;lt;s&amp;lt;9;
+</P>
+<P>
+each Z is the same or different, and 1 &amp;lt;=Z&amp;lt;9;
+</P>
+<P>
+each W is the same or different, and 0&amp;lt;W&amp;lt;9;
+</P>
+<P>
+each y is the same or different, and 0&amp;lt;y&amp;lt;9; each R&amp;lt;1&amp;gt;, R&amp;lt;2&amp;gt;, R&amp;lt;3&amp;gt;, R&amp;lt;4&amp;gt; and R&amp;lt;5&amp;gt; is the same or different, and is independently selected from the group consisting of: H, substituted or unsubstituted C1-C6 alkyl, substituted or unsubstituted C1-C6 aryl, HS, COOH, NH2and OH;
+</P>
+<P>
+each Re is the same or different, and is selected from the group consisting of: COOH, NH2, OH, P=O and P;
+</P>
+<P>
+with the proviso that s + y &amp;lt; 10.
+</P>
+<P>
+101. The method according to claim 99 or claim 100, wherein the surfactant is hydrophilic, hydrophobic and/or amphiphilic.
+</P>
+<P>
+102. The method according to any one of claims 65 to 101 , wherein a biomolecule is attached to the nano-structured material.
+</P>
+<P>
+103. The method according to claim 102, wherein the biomolecule is selected from the group consisting of: protein, nucleic acid, nucleosides, nucleotides, DNA, hormone, amino acid, peptide, peptidomimetic, RNA, lipid, albumin, antibody, phospholipids, glycolipid, sterol, vitamins, neurotransmitter, carbohydrate, sugar, disaccharide, monosaccharide, oligopeptide, polypeptide, oligosaccharide, polysaccharide and a mixture thereof.
+</P>
+<P>
+104. A nano-structured material obtainable by the method according to any one of claims 65 to 103.
+</P>
+<P>
+105. An article of manufacture comprising the nano-structured material according to claim 104.
+</P>
+<P>
+106. The article of manufacture according to claim 105, wherein the article of manufacture is at least one of the following: a display device, a solar cell, an optical data storage, a bio-probe, a carrier for drug delivery, a lamp, a LED, a LCD, a wear resistance, a laser, optical amplifier, and/or a device for bio- imaging.
+</P>
+<P>
+107. A kit comprising at least one nano-structured material according to claim 104 and at least one biomolecule.
+</P>
+<P>
+108. The kit according to claim 107, wherein the biomolecule is selected from the group consisting of: protein, nucleic acid, nucleosides, nucleotides, DNA, hormone, amino acid, peptide, peptidomimetic, RNA, lipid, albumin, antibody, phospholipids, glycolipid, sterol, vitamins, neurotransmitter, carbohydrate, sugar, disaccharide, monosaccharide, oligopeptide, polypeptide, oligosaccharide, polysaccharide and a mixture thereof.
+</P>
+<P>
+109. A bio-imaging and/or bio-detection system comprising:
+</P>
+<P>
+- at least one nano-structured material prepared from the method according to any one of claims 65 to 103;
+</P>
+<P>
+- at least one biomolecule;
+</P>
+<P>
+- at least one source of excitation; and
+</P>
+<P>
+- at least one means for delivery of the source of excitation to the system.
+</P>
+<P>
+110. The system according to claim 109, wherein the biomolecule is selected from the group consisting of: protein, nucleic acid, nucleosides, nucleotides, DNA, hormone, amino acid, peptide, peptidomimetic, RNA, lipid, albumin, antibody, phospholipids, glycolipid, sterol, vitamins, neurotransmitter, carbohydrate, sugar, disaccharide, monosaccharide, oligopeptide, polypeptide, oligosaccharide, polysaccharide and a mixture thereof.
+</P>
+<P>
+111. The system according to claim 109 or claim 110, wherein the source of excitation is NIR.
+</P>
+<P>
+112. The system according to claim 111 , wherein the NIR is at 980 nm.
+</P>
+<P>
+. The system according to any one of claims 109 to 112, wherein the means for delivery of the source of excitation to the system is selected from the group consisting of: optical fibres, endoscopes, external light and external laser.
+</P>
+</Claims>
+<Also_published_as>
+EP1973985A4;WO2007078262A1;WO2007078262A8;US2009081461A1;EP2460868A2;CN101395247A
+</Also_published_as>
+</BiblioData>

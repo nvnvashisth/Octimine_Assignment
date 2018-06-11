@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Magnetoresistive device
+</Title>
+<PublicationNumber>
+EP2065886A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WUNDERLICH JOERG [GB]
+</Name>
+<Name>
+PARK BYOUNG GUK [GB]
+</Name>
+<Name>
+SHICK ALEXANDER [CZ]
+</Name>
+<Name>
+JUNGWIRTH TOMAS [CZ]
+</Name>
+<Name>
+MACA FRANTISEK [CZ]
+</Name>
+<Name>
+WUNDERLICH, JOERG
+</Name>
+<Name>
+PARK, BYOUNG GUK
+</Name>
+<Name>
+SHICK, ALEXANDER
+</Name>
+<Name>
+JUNGWIRTH, TOMAS
+</Name>
+<Name>
+MACA, FRANTISEK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HITACHI LTD [JP]
+</Name>
+<Name>
+HITACHI LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2065886
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070121701
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070121701
+</PriorityNumber>
+<PriorityDate>
+2007-11-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B5/39
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G01R33/09R
+</Class>
+<Class>
+G11B5/39
+</Class>
+<Class>
+G11C11/155
+</Class>
+<Class>
+H01F10/32L2P
+</Class>
+<Class>
+H01F41/30D
+</Class>
+<Class>
+H01L43/08
+</Class>
+</NCL>
+<Abstract>
+A magnetoresistive device comprises a ferromagnetic region (5), a non-ferromagnetic region (6), an insulating region (7) and a conductive region (8). The insulating region is arranged between the ferromagnetic region and the conductive region so as to provide a tunnel barrier. The non-ferromagnetic region separates the insulating region and the ferromagnetic region.
+</Abstract>
+<Claims>
+<P>
+1. A magnetoresistive device comprising an insulating region arranged between a ferromagnetic region and a conductive region so as to provide a tunnel barrier and further comprising a non-ferromagnetic region which separates the insulating region and the ferromagnetic region.
+</P>
+<P>
+2. A device according to claim 1, wherein the non-ferromagnetic region is configured such that the ferromagnetic region induces a magnetic moment in the non-ferromagnetic region.
+</P>
+<P>
+3. A device according to claim 1 or 2, wherein the non-ferromagnetic region comprises a metallic non-ferromagnetic material.
+</P>
+<P>
+4. A device according to claim 3, wherein the non-ferromagnetic region comprises a transition metal or an alloy including a transition metal.
+</P>
+<P>
+5. A device according to claim 4, wherein the transition metal or alloy comprises platinum.
+</P>
+<P>
+6. A device according to claim 4 or 5, wherein the transition metal or alloy comprises palladium.
+</P>
+<P>
+7. A device according to claim 4, 5 or 6, wherein the transition metal or alloy comprises iridium.
+</P>
+<P>
+8. A device according to claim 1, wherein the non-ferromagnetic region is antiferromagnetic.
+</P>
+<P>
+9. A device according to claim 8, wherein the non-ferromagnetic region comprises a single layer.
+</P>
+<P>
+10. A device according to claim 8 or 9, wherein the non-ferromagnetic region comprises an antiferromagnetic material.
+</P>
+<P>
+11. A device according to claim 8, 9 or 10, wherein the antiferromagnetic material comprises a rare earth element or an alloy including a rare earth element.
+</P>
+<P>
+12. A device according to claim 11, wherein the antiferromagnetic material includes antiferromagnetic dysprosium.
+</P>
+<P>
+13. A device according to claim 11 or 12, wherein the antiferromagnetic material includes antiferromagnetic erbium.
+</P>
+<P>
+14. A device according to claim 11, 12 or 13, wherein the antiferromagnetic material includes gadolinium and europium, preferably GdEuS.
+</P>
+<P>
+15. A device according to claims 8 to 14, wherein the antiferromagnetic material comprises a transition metal or an alloy including a transition metal.
+</P>
+<P>
+16. A device according to claim 15, wherein the antiferromagnetic material includes platinum.
+</P>
+<P>
+17. A device according to claim 15 or 16, wherein the antiferromagnetic material includes manganese.
+</P>
+<P>
+18. A device according to claims 8 to 17, wherein the antiferromagnetic material comprises an antiferromagnetic oxide.
+</P>
+<P>
+19. A device according to claims 18, wherein the antiferromagnetic material includes [alpha]-iron(III)oxide (Fe2O3).
+</P>
+<P>
+20. A device according to any one of claims 9 to 19, wherein the layer has a thickness of one, two or three monolayers.
+</P>
+<P>
+20. A device according to any one of claims 9 to 19, wherein the layer has a thickness of more than three monolayers.
+</P>
+<P>
+22. A device according to claim 8, wherein the non-ferromagnetic region comprises at least two layers.
+</P>
+<P>
+23. A device according to claim 22, wherein the non-ferromagnetic region comprises first and second layers.
+</P>
+<P>
+24. A device according to claim 23, wherein the first layer comprises a first transition metal or an alloy including the first transition metal and the second layer comprises second, different transition metal or an alloy including the second transition metal.
+</P>
+<P>
+25. A device according to claims 24, wherein the first layer comprises chromium.
+</P>
+<P>
+26. A device according to claims 23 or 24, wherein the first layer comprises a ferromagnetic material and is configured such that the material behaves antiferromagnetically.
+</P>
+<P>
+27. A device according to claim 26, wherein the first layer comprises manganese, iron and/or cobalt.
+</P>
+<P>
+28. A device according to any one of claims 23 to 27, wherein the second layer comprises tungsten, palladium, platinum and/or iridium.
+</P>
+<P>
+29. A device according to any one of claims 23 to 28, wherein the first layer has a thickness of one, two or three monolayers.
+</P>
+<P>
+30. A device according to any one of claims 23 to 29, wherein the second layer has a thickness of one, two or three monolayers.
+</P>
+<P>
+31. A device according to any preceding claim, wherein the non-ferromagnetic region is ferrimagnetic.
+</P>
+<P>
+32. A device according to any preceding claim, wherein the ferromagnetic region comprises a metallic ferromagnetic material.
+</P>
+<P>
+33. A device according to claim 32, wherein the metallic ferromagnetic material comprises cobalt, nickel or iron or an alloy comprising cobalt, nickel and/or iron.
+</P>
+<P>
+34. A device according to any preceding claim, wherein the ferromagnetic region comprises at least two ferromagnetic regions separated by a non-ferromagnetic region.
+</P>
+<P>
+35. A device according to claim 34, wherein the non-ferromagnetic region comprises a metallic non-ferromagnetic material.
+</P>
+<P>
+36. A device according to claim 35, wherein the metallic non-ferromagnetic material comprises platinum.
+</P>
+<P>
+37. A device according to any preceding claim, wherein the insulating region comprises an oxide.
+</P>
+<P>
+38. A device according to claim 37, wherein the insulating region comprises aluminium oxide.
+</P>
+<P>
+39. A device according to claim 37, wherein the insulating region comprises magnesium oxide.
+</P>
+<P>
+40. A device according to any preceding claim, wherein the insulating region has a thickness separating the conductive region and the non-ferromagnetic region of at least about 2 nm.
+</P>
+<P>
+41. A device according to claim 40, wherein the thickness of the insulating region is no more than about 10 nm.
+</P>
+<P>
+42. A device according to any one of claims 1 to 41, wherein the conductive region comprises a non-ferromagnetic material.
+</P>
+<P>
+43. A device according to claim 42, wherein the conductive region comprises a transition metal or an alloy including a transition metal.
+</P>
+<P>
+44. A device according to claim 43, wherein the conductive region comprises platinum.
+</P>
+<P>
+45. A device according to any one of claims 1 to 41, wherein the conductive region comprises a ferromagnetic material.
+</P>
+<P>
+46. A device according to any preceding claim, arranged as a multilayer stack including the ferromagnetic region, the non-ferromagnetic region, the insulating region and the conductive region.
+</P>
+<P>
+47. A device according to any preceding claim, arranged as a pillar upstanding from a substrate.
+</P>
+<P>
+48. A device according to claim 47, wherein the pillar has a width no more than about 10 [micro]m or width no more than about 1 [micro]m.
+</P>
+<P>
+49. A device according to claim 47 or 48, wherein the pillar has a width of the order of 10 nm or 100 nm.
+</P>
+<P>
+50. A device according to any preceding claim, wherein the conductive region includes a resonant tunnelling structure for filtering charge carriers.
+</P>
+<P>
+51. A magnetic field sensor comprising a device according to any one of claims 1 to 50.
+</P>
+<P>
+52. A read head for a hard disk drive comprising a device according to any one of claims 1 to 50.
+</P>
+<P>
+53. A switching element comprising a device according to any one of claims 1 to 50.
+</P>
+<P>
+54. A method of operating a magnetoresistive device according to any one of claims 1 to 50, the method comprising:
+</P>
+<P>
+applying a magnetic field to the magnetoresistive device; and
+</P>
+<P>
+applying a bias between the ferromagnetic region and conductive region so as to determine a magnetoresistance.
+</P>
+<P>
+55. A method of fabricating a magnetoresistive device, the method including:
+</P>
+<P>
+forming a ferromagnetic region ;
+</P>
+<P>
+forming a non-ferromagnetic region adjacent to the ferromagnetic region;
+</P>
+<P>
+forming an insulating layer adjacent to the non-ferromagnetic region; and
+</P>
+<P>
+forming a conductive region adjacent to the insulating region.
+</P>
+<P>
+56. A method according to claim 55, further comprising:
+</P>
+<P>
+etching the regions so as to form a pillar.
+</P>
+<P>
+57. A method according to claim 55 or 56, comprising:
+</P>
+<P>
+applying a magnetic field while depositing layers.
+</P>
+<P>
+58. A method according to claim 55, 56 or 57, comprising:
+</P>
+<P>
+applying stress while depositing layers.
+</P>
+</Claims>
+<Also_published_as>
+US2009146232A1;US7939870B2;KR20090054907A;KR101105069B1;JP2009130371A
+</Also_published_as>
+</BiblioData>

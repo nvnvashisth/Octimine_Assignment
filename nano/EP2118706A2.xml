@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+IMPRINT METHOD AND IMPRINT APPARATUS
+</Title>
+<PublicationNumber>
+EP2118706A2
+</PublicationNumber>
+<Inventor>
+<Name>
+OKUSHIMA SHINGO [JP]
+</Name>
+<Name>
+SUEHIRA NOBUHITO [JP]
+</Name>
+<Name>
+SEKI JUNICHI [JP]
+</Name>
+<Name>
+KASUMI KAZUYUKI [JP]
+</Name>
+<Name>
+OKUSHIMA, SHINGO
+</Name>
+<Name>
+SUEHIRA, NOBUHITO
+</Name>
+<Name>
+SEKI, JUNICHI
+</Name>
+<Name>
+KASUMI, KAZUYUKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2118706
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080711085
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP52219
+</PriorityNumber>
+<PriorityDate>
+2008-02-05
+</PriorityDate>
+<PriorityNumber>
+JP20070027168
+</PriorityNumber>
+<PriorityDate>
+2007-02-06
+</PriorityDate>
+<PriorityNumber>
+JP20070050545
+</PriorityNumber>
+<PriorityDate>
+2007-02-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F9/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G03F9/70B6G
+</Class>
+</NCL>
+<Abstract>
+An imprint method for imprinting an imprint pattern provided to a mold onto a pattern forming layer formed on a substrate is constituted by a first step of effecting alignment between the substrate and the mold with feedback control;  a second step of bringing the mold and the pattern forming layer into contact with each other;  a third step of curing the pattern forming layer;  and a fourth step of increasing a gap between the substrate and the mold. The imprint method further includes a step of stopping the feedback control between the first step and the second step and/or between the second step and the third step.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. An imprint method for imprinting an imprint pattern provided to a mold onto a pattern forming layer formed on a substrate, said imprint method comprising : a first step of effecting alignment between the substrate and the mold with feedback control; a second step of bringing the mold and the pattern forming layer into contact with each other; a third step of curing the pattern forming layer; and a fourth step of increasing a gap between the substrate and the mold, wherein said imprint method further comprises a step of stopping the feedback control between said first step and said second step and/or between said second step and said third step.
+</P>
+<P>
+2. A method according to Claim 1, wherein in a state in which the feedback control is stopped after the mold and the pattern forming layer are brought into contact with each other in said second step, the gap between the substrate and the mold is decreased and thereafter alignment between the substrate and the mold is effected with feedback control.
+</P>
+<P>
+3. A method according to Claim 1, wherein in a state in which the feedback control is stopped after the alignment is effected in said first step, said second step is performed and thereafter alignment between the substrate and the mold is effected with feedback control.
+</P>
+<P>
+4. A method according to Claim 1, wherein in a state in which the feedback control is stopped after the mold and the pattern forming layer are brought into contact with each other in said second step, the gap substrate the substrate and the mold is decreased and thereafter alignment between the substrate and the mold with feedback control on the basis of a control parameter or measurement parameter different from that for the feedback control in said first step.
+</P>
+<P>
+5. A method according to Claim 1, wherein in a state in which the feedback control is stopped after the alignment is effected in said first step, said second step is performed and thereafter alignment between the substrate and the mold is effected with feedback control on the basis of a control parameter or measurement parameter different from that for the feedback control in said first step.
+</P>
+<P>
+6. An imprint method for imprint an imprint pattern provided to a mold onto a pattern forming layer formed on a substrate, said imprint method comprising: a first step of effecting alignment between the substrate and the mold with position control; a second step of bringing the mold and the pattern forming layer into contact with each other; a third step of curing the pattern forming layer; and a fourth step of increasing a gap between the substrate and the mold; wherein said mold further comprises a step of stopping the position control between said first step and said second step and/or between said second step and said third step.
+</P>
+<P>
+7. A method according to any one of Claims 1 - 6, wherein the contact between the mold and the pattern forming layer in said second step is detected.
+</P>
+<P>
+8. An imprint apparatus comprising: a mold holding portion for holding a mold; a substrate holding portion for holding a substrate; a positional control portion for controlling a positional relationship between the mold held by said mold holding portion and the substrate held by said substrate holding portion with feedback control; and a contact detection portion for detecting contact between a pattern forming layer on the substrate and the mold, wherein said mold holding portion and said substrate holding portion are moved relative to each other so that the pattern forming layer and the mold contact each other after the feedback control by said positional control portion is stopped or the feedback control is stopped after the contact between the pattern forming layer and the mold is detected by said control detection portion.
+</P>
+<P>
+9. An imprint apparatus comprising: a mold holding portion for holding a mold; a substrate holding portion for holding a substrate; and a positional control portion for controlling a positional relationship between the mold held by said mold holding portion and the substrate held by said substrate holding portion with position control; wherein said mold holding portion and said substrate holding portion are moved relative to each other so that the pattern forming layer and the mold contact each other after the position control by said positional control portion is stopped or the feedback control is stopped after the pattern forming layer and the mold contact each other.
+</P>
+<P>
+10. A process for producing a member, comprising: preparing a substrate obtained through an imprint method according to any one of Claims 1 - 7; and etching the substrate through, as a mask, a pattern forming layer onto which an imprint pattern is transferred.
+</P>
+<P>
+11. An imprint method for transferring an imprint pattern provided to a mold onto a pattern forming layer interposed between the mold and a substrate, said imprint method comprising: a detecting step of detecting states of the mold and the pattern forming layer, during the transfer of the imprint pattern, by at least one of a displacement of the mold or the substrate, a torque of a stage, and an amount of reflected light from the mold or the substrate; and a changing step of changing at least one of a control method, a driving profile, and a control parameter of the stage on the basis of a detected value in said detecting step.
+</P>
+<P>
+12. An imprint method comprising: a position control step of effecting alignment between the mold and the substrate; a contact step of bringing the mold and the pattern forming layer into contact with each other; a curing step of curing the pattern forming layer; and a step of increasing a gap between the substrate and the mold, wherein said imprint method further comprises a step of stopping the alignment control in said position control step between said position control step and said contact step and/or between said contact step and said curing step.
+</P>
+<P>
+13. A method according to Claim 11, wherein the detected value includes a change in differential coefficient and a change in second order differential coefficient .
+</P>
+<P>
+14. A method according to Claim 11, wherein at least one of the control method, the driving profile, and the control parameter is changed before or after the mold and the pattern forming layer contact each other or before or after the pattern forming layer is cured. 15. An imprint method comprising: a gap decreasing step of decreasing a gap between a mold and a substrate in a state in which a pattern forming layer is interposed between the mold and the substrate; and a step of curing the pattern forming layer after said gap decreasing step and transferring a pattern provided to the mold onto the pattern forming layer, wherein in said gap decreasing step, a control condition with respect to movement in a direction perpendicular to an opposing surface between the mold and the substrate is changed between a state in which a load is increased with a decreasing gap and a state in which the load is decreased with the decreasing gap, while detecting the load exerted between the mold and the substrate on a time base.
+</P>
+<P>
+16. An imprint apparatus for transferring a pattern of a mold onto a resin material interposed between the mold and a substrate, said imprint apparatus comprising: a stage for aligning one of the mold and the substrate with the other one of the mold and the substrate; a control portion for controlling said stage; detecting means for detecting states of the mold and the resin material by at least one of a load exerted on the mold or the substrate, a gap between the mold and the substrate, a displacement of the mold or the substrate, a torque of said stage, and an amount of reflected light from the mold or the substrate; and changing means for changing at least one of a control method, a driving profile, and a control parameter of said stage on the basis of a detected value by said detecting means.
+</P>
+<P>
+17. An apparatus according to Claim 16, wherein the control method of said stage comprises either one or both of feedback control and feedforward control.
+</P>
+<P>
+18. An apparatus according to Claim 16, wherein the driving profile of said stage comprises any of an acceleration, a speed, a position, a driving voltage, and a driving current with respect to said stage.
+</P>
+<P>
+19. An apparatus according to Claim 16, wherein the control parameter comprises any of a PID parameter, a feedforward parameter, and a filter parameter.
+</P>
+<P>
+20. An imprint method for imprinting an imprint pattern provided to a mold onto a pattern forming layer formed on a substrate, said imprint method comprising: a first step of effecting alignment between the substrate and the mold with alignment control; a second step of bringing the mold and the pattern forming layer into contact with each other; a third step of curing the pattern forming layer; and a fourth step of increasing a gap between the substrate and the mold, wherein in order to prevent a malfunction of the alignment control occurring during the contact between the mold and the substrate, said imprint method further comprises a step of stopping the feedback control between said first step and said second step and/or between said second step and said third step or comprises a step of changing at least one of a control method, a drive profile, and a control parameter of a stage for effecting the alignment control, between said first step and said second step and/or between said second step and said third step.
+</P>
+</Claims>
+<Also_published_as>
+WO2008099795A2;WO2008099795A3;US2010270705A1;KR20110119807A;JP2008244441A;CN102360162A
+</Also_published_as>
+</BiblioData>

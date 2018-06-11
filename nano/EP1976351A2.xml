@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Wiring structure and method of forming the same
+</Title>
+<PublicationNumber>
+EP1976351A2
+</PublicationNumber>
+<Inventor>
+<Name>
+NIHEI MIZUHISA [JP]
+</Name>
+<Name>
+SATO SHINTARO [JP]
+</Name>
+<Name>
+KONDO DAIYU [JP]
+</Name>
+<Name>
+AWANO YUJI [JP]
+</Name>
+<Name>
+NIHEI, MIZUHISA
+</Name>
+<Name>
+SATO, SHINTARO
+</Name>
+<Name>
+KONDO, DAIYU
+</Name>
+<Name>
+AWANO, YUJI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FUJITSU LTD [JP]
+</Name>
+<Name>
+FUJITSU LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1976351
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080152161
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070089011
+</PriorityNumber>
+<PriorityDate>
+2007-03-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/768
+</Class>
+<Class>
+H01L23/532
+</Class>
+<Class>
+H05K1/00
+</Class>
+<Class>
+H05K1/09
+</Class>
+<Class>
+H05K3/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L21/768C4B
+</Class>
+<Class>
+H01L23/532M3
+</Class>
+<Class>
+H05K1/02M8
+</Class>
+<Class>
+H05K1/09
+</Class>
+</NCL>
+<Abstract>
+A CNT bundle is formed by growing a plurality of CNTs from opposing surfaces of contact blocks toward mutual opposing surfaces, and by contacting the CNTs so that they intersect to electrically connect with each other. Subsequently, a gap of the electrically connected CNT bundle is filled with a metal material, to thereby form a wiring being a composite state of the CNT bundle and the metal material.
+</Abstract>
+<Claims>
+<P>
+1. A wiring structure comprising:
+</P>
+<P>
+a pair of block-shaped base conductors being placed at a predetermined interval and facing each other; and
+</P>
+<P>
+a wiring electrically coupling said base conductors,wherein said wiring is formed of linear structures each made of a carbon element formed vertically from each of opposing surfaces of said respective base conductors, a part of the linear structures intersecting and contacting between the opposing surfaces to electrically connect with each other.
+</P>
+<P>
+2. The wiring structure according to claim 1,
+</P>
+<P>
+wherein said wiring is formed of a composite material composed of the linear structures and a metal material made by filling between said base conductors with the metal material to cover the linear structures.
+</P>
+<P>
+3. The wiring structure according to claims 1 or 2,
+</P>
+<P>
+wherein the respective opposing surfaces is provided with catalyst materials for the linear structures, the linear structures being grown to be formed by using the catalyst materials as nuclei.
+</P>
+<P>
+4. The wiring structure according to any preceding claim,
+</P>
+<P>
+wherein the linear structures are carbon nano tubes or carbon nano fibers.
+</P>
+<P>
+5. The wiring structure according to any preceding claim,
+</P>
+<P>
+wherein said base conductors are made of at least one element selected from the group consisting of titanium (Ti), titanium nitride (TiN), tungsten (W), molybdenum (Mo) and silver (Ag), or made of an alloy containing at least one element selected from the group.
+</P>
+<P>
+6. The wiring structure according to any of claims 2 to 5,
+</P>
+<P>
+wherein the metal material composing the composite material is made of at least one element selected from the group consisting of copper (Cu), titanium (Ti), titanium nitride (TiN), tungsten (W), molybdenum (Mo) and silver (Ag), or made of an alloy containing at least one element selected from the group.
+</P>
+<P>
+7. The wiring structure according to any preceding claim,
+</P>
+<P>
+wherein one or a plurality of pairs of said base conductors are horizontally arranged and said wiring is formed in a lateral direction to construct a layer structure.
+</P>
+<P>
+8. The wiring structure according to claim 7,
+</P>
+<P>
+wherein the layer structure is stacked in a plurality of layers with via portions interposed therebetween electrically connecting upper and lower of said base conductors to form a three-dimensional wiring network structure.
+</P>
+<P>
+9. The wiring structure according to claim 8,
+</P>
+<P>
+wherein the via portions are made of the linear structures.
+</P>
+<P>
+10. The wiring structure according to any preceding claim,
+</P>
+<P>
+wherein one or a plurality of the linear structures are formed from the respective opposing surfaces.
+</P>
+<P>
+11. A method of forming a wiring structure comprising:
+</P>
+<P>
+forming a pair of block-shaped base conductors so that they are placed at a predetermined interval and facing each other; and
+</P>
+<P>
+forming a wiring by growing linear structures each made of a carbon element vertically from each of opposing surfaces of the respective base conductors so that a part of the linear structures intersects and contacts between the opposing surfaces to electrically couple with each other.
+</P>
+<P>
+12. The method of forming the wiring structure according to claim 11, further comprising
+</P>
+<P>
+filling between the base conductors with a metal material to cover the linear structures after growing the linear structures,
+</P>
+<P>
+wherein the wiring is formed of a composite material composed of the linear structures and the metal material.
+</P>
+<P>
+13. The method of forming the wiring structure according to claims 11 or 12, further comprising
+</P>
+<P>
+disposing catalyst materials on each of the opposing surfaces of the respective base conductors placed facing each other,
+</P>
+<P>
+wherein the linear structures are grown using the catalyst materials disposed on the respective opposing surfaces as nuclei.
+</P>
+<P>
+14. The method of forming the wiring structure according to any of claims 11 to 13,
+</P>
+<P>
+wherein the linear structures are carbon nano tubes or carbon nano fibers.
+</P>
+<P>
+15. The method of forming the wiring structure according to any of claims 11 to 14,
+</P>
+<P>
+wherein the base conductors are made of at least one element selected from the group consisting of titanium (Ti), titanium nitride (TiN), tungsten (W), molybdenum (Mo) and silver (Ag), or made of an alloy containing at least one element selected from the group.
+</P>
+<P>
+16. The method of forming the wiring structure according to any of claims 12 to 15,
+</P>
+<P>
+wherein the metal material composing the composite material is made of at least one element selected from the group consisting of copper (Cu), titanium (Ti), titanium nitride (TiN), tungsten (W), molybdenum (Mo) and silver (Ag), or made of an alloy containing at least one element selected from the group.
+</P>
+<P>
+17. The method of forming the wiring structure according to any of claims 11 to 16,
+</P>
+<P>
+wherein one or a plurality of pairs of the base conductors are horizontally arranged and the wiring is formed in a lateral direction to construct a layer structure.
+</P>
+<P>
+18. The method of forming the wiring structure according to claim 17,
+</P>
+<P>
+wherein the layer structure is stacked in a plurality of layers with via portions interposed therebetween electrically connecting upper and lower of the base conductors to form a three-dimensional wiring network structure.
+</P>
+<P>
+19. The method of forming the wiring structure according to claim 18,
+</P>
+<P>
+wherein the via portions are made of the linear structures.
+</P>
+<P>
+20. The method of forming the wiring structure according to claim 19,
+</P>
+<P>
+wherein a buried insulating film is formed to bury at least a part of the base conductors and the wiring when forming the respective layer structures;
+</P>
+<P>
+wherein an interlayer insulating film is formed to bury between the layer structures when forming the via portions; and
+</P>
+<P>
+wherein the buried insulating film and the interlayer insulating film are removed after forming the respective layer structures and the via portions.
+</P>
+</Claims>
+<Also_published_as>
+EP1976351A3;US2008236875A1;KR20100077137A;KR101110804B1;KR20080088377A;KR100979162B1;JP2008251701A;CN101276802A
+</Also_published_as>
+</BiblioData>

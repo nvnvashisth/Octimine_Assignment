@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Organic light- emitting device including fluorine- containing compound and carbon- based compound
+</Title>
+<PublicationNumber>
+EP1950818A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KIM TAE-SHICK [KR]
+</Name>
+<Name>
+SONG OK-KEUN [KR]
+</Name>
+<Name>
+JEONG HYE-IN [KR]
+</Name>
+<Name>
+KOO YOUNG-MO [KR]
+</Name>
+<Name>
+JUN HYUK-SANG [KR]
+</Name>
+<Name>
+KIM, TAE-SHICK
+</Name>
+<Name>
+SONG, OK-KEUN
+</Name>
+<Name>
+JEONG, HYE-IN
+</Name>
+<Name>
+KOO, YOUNG-MO
+</Name>
+<Name>
+JUN, HYUK-SANG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SAMSUNG SDI CO LTD [KR]
+</Name>
+<Name>
+SAMSUNG MOBILE DISPLAY CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1950818
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080100585
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+KR20070007627
+</PriorityNumber>
+<PriorityDate>
+2007-01-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/54
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00M12B
+</Class>
+<Class>
+H01L51/00M2D
+</Class>
+<Class>
+H01L51/00M4B2
+</Class>
+<Class>
+H01L51/50J
+</Class>
+</NCL>
+<Abstract>
+An organic light-emitting device includes a substrate;  a first electrode (10) disposed on the substrate (8);  a hole transport layer (12) disposed on the first electrode;  an emitting layer (13) disposed on the hole transport layer;  and a second electrode (16) disposed on the emitting layer, wherein an organic layer (20) is interposed between the first electrode and the hole transport layer, the organic layer including at least one fluorine-containing compound selected from the group consisting of a fluorine-substituted phthalocyanine derivative, an aliphatic fluorocarbon compound represented by C x F( 2x+2 ), C x F( 2x-2 ), or C x F2 x , where x is an integer of 1 to 500, an aromatic fluorocarbon compound represented by C 6y F 6y-2n , where y is an integer of 1 to 80, n is an integer of 0 to 80, and 6y-2n is a positive integer, and fluorinated fullerene.;  The organic light-emitting device can show high efficiency, a low driving voltage, high brightness, and a long lifetime.
+</Abstract>
+<Claims>
+<P>
+1. An organic light-emitting device comprising:
+</P>
+<P>
+a substrate (8);
+</P>
+<P>
+a first electrode (10) disposed on the substrate (8);
+</P>
+<P>
+a hole transport layer (12) disposed on the first electrode (10);
+</P>
+<P>
+an emitting layer (13) disposed on the hole transport layer (12); and
+</P>
+<P>
+a second electrode (16) disposed on the emitting layer (13),wherein an organic layer (20) is interposed between the first electrode (10) and the hole transport layer (12), the organic layer (20) comprising at least one fluorine-containing compound selected from the group consisting of
+</P>
+<P>
+a) a fluorine-substituted phthalocyanine derivative,
+</P>
+<P>
+b) an aliphatic fluorocarbon compound represented by CxF(2x+2), CxF(2x-2), or CxF2x, where x is an integer of 1 to 500,
+</P>
+<P>
+c) an aromatic fluorocarbon compound represented by C6yF6y-2n, where y is an integer of 1 to 80, n is an integer of 0 to 80, and 6y-2n is a positive integer, and
+</P>
+<P>
+d) a fluorinated fullerene.
+</P>
+<P>
+2. An organic light-emitting device comprising:
+</P>
+<P>
+a substrate (80);
+</P>
+<P>
+a first electrode (100) disposed on the substrate (80);
+</P>
+<P>
+a hole injection layer (110) disposed on the first electrode (100);
+</P>
+<P>
+an emitting layer (130) disposed on the hole injection layer (110); and
+</P>
+<P>
+a second electrode (160) disposed on the emitting layer (130),wherein an organic layer (200) is interposed between the hole injection layer (11) and the emitting layer (130), the organic layer (200) comprising at least one fluorine-containing compound selected from the group consisting of
+</P>
+<P>
+a) a fluorine-substituted phthalocyanine derivative,
+</P>
+<P>
+b) an aliphatic fluorocarbon compound represented by CxF(2x+2), CxF(2x-2), or CxF2x, where x is an integer of 1 to 500,
+</P>
+<P>
+c) an aromatic fluorocarbon compound represented by C6yF6y-2n, where y is an integer of 1 to 80, n is an integer of 0 to 80 and 6y-2n is a positive integer, and
+</P>
+<P>
+d) a fluorinated fullerene .
+</P>
+<P>
+3. The organic light-emitting device of claim 1 or 2, further comprising a buffer layer made of a carbon-based compound disposed on at least one surface of the organic layer (20, 200).
+</P>
+<P>
+4. The organic light-emitting device of claim 1, further comprising a hole injection layer (11) disposed on the organic layer (20).
+</P>
+<P>
+5. The organic light-emitting device of claims 1 and 3, further comprising a hole injection layer (11) disposed on the buffer layer.
+</P>
+<P>
+6. The organic light-emitting device of claim 2, further comprising a hole transport layer disposed on the hole injection layer (110) or the organic layer (200).
+</P>
+<P>
+7. The organic light-emitting device of claims 2 and 3, further comprising a hole transport layer disposed on the buffer layer.
+</P>
+<P>
+8. The organic light-emitting device according to one of the preceding claims, further comprising at least one selected from a hole blocking layer, an electron injection layer (15, 150), and an electron transport layer (14, 140), disposed between the emitting layer (13, 130) and the second electrode (16, 160).
+</P>
+<P>
+9. The organic light-emitting device according to one of the preceding claims, wherein the thickness of the organic layer (20, 200) is 1 to 500 A.
+</P>
+<P>
+10. The organic light-emitting device of claim 3, wherein the thickness of the buffer layer is 20 to 100 A.
+</P>
+<P>
+11. The organic light-emitting device according to one of claims 1 to 10, wherein the fluorine-containing compound is a fluorine-containing phthalocyanine derivative comprising a divalent metal phthalocyanate that is substituted by at least one fluorine and that contains a central metal selected from the group consisting of Cr, Fe, Co, Ni, Cu, and Zn.
+</P>
+<P>
+12. The organic light-emitting device according to one of claims 1 to 10, wherein the fluorine-containing compound is an aliphatic fluorocarbon compound represented by C4F10, C5F12, C6F14, C7F16, C3F4, C4F6, C2F4, C3F6, C4F8, C5F10, C6F12, or C7F14.
+</P>
+<P>
+13. The organic light-emitting device according to one of claims 1 to 10, wherein the fluorine-containing compound is aromatic fluorocarbon compound represented by C6yF6y-2n, wherein y is an integer of 1 to 80, and n is an integer of 0 to 80, and n = y - 1.
+</P>
+<P>
+14. The organic light-emitting device of claim 13, wherein the fluorine-containing compound is aromatic fluorocarbon compound represented by C6F6, C12F10, C18F14, C24F18, or C42F30.
+</P>
+<P>
+15. The organic light-emitting device according to one of claims 1 to 10, wherein the fluorine-containing compound is a fluorinated fullerene represented by C60F41, C60F42, C60F43, C60F48, Or C74F38.
+</P>
+<P>
+16. The organic light-emitting device according to one of claims 1 to 10, wherein the fluorine-containing compound is F16CuPc, C60F42, C6F6, C12F10, C18F14, C24F18, C42F30, C4F10, C5F12, C6F14, C7F16, C3F4, C4F6, C2F4, C3F6, C4F8, C5F10, C6F12, or C7F14.
+</P>
+<P>
+17. The organic light-emitting device of claim 3, wherein the carbon-based compound of the buffer layer is at least one selected from the group consisting of fullerene, a metal-containing fullerene-based complex, carbon nanotube, carbon fibre, carbon black, graphite, carbine, MgC60, CaC60, and SrC60.
+</P>
+<P>
+18. The organic light-emitting device according to one of claims 1, 6 or 7, wherein at least one selected from the group consisting of the hole transport layer (12), and the emitting layer (13, 130), comprises a carbon-based compound.
+</P>
+<P>
+19. The organic light-emitting device according to one of claims 2, 4 or 5, wherein at least one selected from the group consisting of the hole injection layer (11, 110), and the emitting layer (13, 130), comprises a carbon-based compound.
+</P>
+<P>
+20. The organic light-emitting device of claim 8, wherein at least one selected from the group consisting of the hole injection layer (11, 110), the hole transport layer (12), the emitting layer (13, 130), the hole blocking layer, the electron transport layer (14, 140), and the electron injection layer (15, 150), comprises a carbon-based compound.
+</P>
+<P>
+21. The organic light-emitting device of claim 20, wherein the content of the carbon-based compound is 0.005 to 99.95 parts by weight based on 100 parts by weight of each of the hole injection layer, the hole transport layer, the emitting layer, the hole blocking layer, the electron transport layer, and the electron injection layer.
+</P>
+</Claims>
+<Also_published_as>
+EP1950818B1;US2012119192A1;US2008213620A1;KR100846597B1;JP2008182237A;CN101232079A;CN101232079B
+</Also_published_as>
+</BiblioData>

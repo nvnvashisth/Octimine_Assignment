@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETISM DETECTOR AND ITS MANUFACTURING METHOD
+</Title>
+<PublicationNumber>
+EP2071349A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SASAKI YOSHITO [JP]
+</Name>
+<Name>
+SASAKI SHINICHI [JP]
+</Name>
+<Name>
+HIRAYAMA MOTOKI [JP]
+</Name>
+<Name>
+ANDO HIDETO [JP]
+</Name>
+<Name>
+AOKI DAIGO [JP]
+</Name>
+<Name>
+SASAKI, YOSHITO
+</Name>
+<Name>
+SASAKI, SHINICHI
+</Name>
+<Name>
+HIRAYAMA, MOTOKI
+</Name>
+<Name>
+ANDO, HIDETO
+</Name>
+<Name>
+AOKI, DAIGO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ALPS ELECTRIC CO LTD [JP]
+</Name>
+<Name>
+ALPS ELECTRIC CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2071349
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070713901
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP52103
+</PriorityNumber>
+<PriorityDate>
+2007-02-07
+</PriorityDate>
+<PriorityNumber>
+JP20060234404
+</PriorityNumber>
+<PriorityDate>
+2006-08-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/00
+</Class>
+<Class>
+G01R33/09
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/00M
+</Class>
+<Class>
+G01R33/09B
+</Class>
+</NCL>
+<Abstract>
+[Object] To provide a magnetic detection element having stable characteristics in which, in particular, the formation area of a resist layer that covers an insulation protection layer is adjusted so that a magnetic detection element and a connection layer can be formed with high precision on a surface having small steps and the resist layer can be prevented from being separated, and to provide a method of manufacturing the same. [Solving Means] A resist layer 42 is disposed so as to overlap an interconnection layer 35 through the insulation protection layer 41. A lower edge portion 42b1 of a hole formation surface 42b of the resist layer 42 is disposed on the insulation protection layer 41 so that the resist layer 42 does not extend to an exposed surface 35b of the interconnection layer 35.;  Thereby, a magnetic detection element 10, electrode layers connected to the magnetic detection element 10, and a lead layer 17 can be formed on a smooth insulating surface with small steps, and also the resist layer 42 can be prevented from being separated. As a result, a magnetic detection device having stable characteristics can be obtained.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic detection device comprising:
+</P>
+<P>
+a magnetic detection element using a magnetoresistance effect in which an electrical resistance varies in response to an external magnetic field; and
+</P>
+<P>
+a detection circuit which detects a variation in the electrical resistance of the magnetic detection element,
+</P>
+<P>
+wherein the detection circuit having an interconnection layer is disposed on a substrate, and the detection circuit and the substrate are covered with an insulating layer,
+</P>
+<P>
+wherein the insulating layer includes an insulation protection layer extending over from the detection circuit to the substrate and having a hole extending from a portion of the interconnection layer, and a resist layer overlapping the insulation protection layer and having a hole at a position facing the hole formed in the insulation protection layer in a layer thickness direction, thereby eliminating a step on the surface of the insulation protection layer resulting from the level difference between the substrate and the detection circuit,
+</P>
+<P>
+wherein the resist layer extends onto the interconnection layer through the insulation protection layer and a lower edge portion of a hole formation surface of the resist layer is disposed on the insulation protection layer so that the resist layer is not directly in contact with an upper surface of the interconnection layer,
+</P>
+<P>
+wherein the magnetic detection element is disposed on the surface of the insulating layer, a conductive connection layer connected to the magnetic detection element passes through the hole and extends to an exposed surface of the interconnection layer, and the magnetic detection element and the interconnection layer are conductively connected to each other through the connection layer.
+</P>
+<P>
+2. The magnetic detection device according to Claim 1, wherein the hole formation surface of the resist layer is an inclined surface which is inclined such that the size of the hole gradually increases from a lower surface side toward an upper surface side.
+</P>
+<P>
+3. The magnetic detection device according to Claim 1 or 2, wherein a hole formation surface of the insulation protection layer is an inclined surface which is inclined such that the size of the hole gradually increases from a lower surface side toward an upper surface side.
+</P>
+<P>
+4. The magnetic detection device according to any one of Claims 1 to 3, wherein the insulation protection layer is composed of any one of SiN, SiO2, Al2O3, TEOS, and Ta2O5, or a layered structure including any two or more of them.
+</P>
+<P>
+5. The magnetic detection device according to Claim 4,
+</P>
+<P>
+wherein the insulation protection layer is composed of SiN.
+</P>
+<P>
+6. The magnetic detection device according to any one of Claims 1 to 5, wherein the interconnection layer is composed of any one of Al, Cu, Al-Si, Al-Si-Cu, Cr, Ta, W, Au, Ag-Pd, and Ag-Pt-Pd, or a layered structure including any two or more of them.
+</P>
+<P>
+7. The magnetic detection device according to Claim 6,
+</P>
+<P>
+wherein the interconnection layer is composed of Al.
+</P>
+<P>
+8. The magnetic detection device according to any one of Claims 1 to 7, wherein a fixed resistance element which is connected in series to the magnetic detection element and in which an electrical resistance does not vary in response to an external magnetic field is disposed on a surface of the insulating layer, and a connection layer provided between the magnetic detection element and the fixed resistance element is conductively connected to the interconnection layer through the hole.
+</P>
+<P>
+9. The magnetic detection device according to Claim 8,
+</P>
+<P>
+wherein the fixed resistance element is composed of the same material layer as the magnetic detection element.
+</P>
+<P>
+10. A method of manufacturing a magnetic detection device including a magnetic detection element using a magnetoresistance effect in which an electrical resistance varies in response to an external magnetic field, and a detection circuit which detects a variation in the electrical resistance of the magnetic detection element, the method comprising the steps of:
+</P>
+<P>
+(a) forming the detection circuit on a substrate;
+</P>
+<P>
+(b) forming an insulation protection layer by sputtering or CVD so as to extend over from the detection circuit to the substrate, and forming a hole in the insulation protection layer so that a portion of an interconnection layer constituting the detection circuit is exposed;
+</P>
+<P>
+(c) applying a resist layer onto the insulation protection layer so as to at least reduce the level difference between the substrate and the detection circuit covered with the insulation protection layer, forming a hole in the resist layer, the hole overlying the hole formed in the insulation protection layer in a layer thickness direction on the interconnection layer, and disposing a lower edge portion of a hole formation surface of the resist layer on the insulation protection layer so that the resist layer is not directly in contact with an upper surface of the interconnection layer; and
+</P>
+<P>
+(d) forming the magnetic detection element on the insulating surface, forming a conductive connection layer connected to the magnetic detection element so as to extend through the hole to an exposed surface of the interconnecting layer, and conductively connecting the magnetic detection element and the interconnection layer to each other through the connection layer.
+</P>
+<P>
+11. The method of manufacturing the magnetic detection device according to Claim 10, wherein, in the step (b), a hole formation surface of the insulation protection layer is formed into an inclined surface so that the size of the hole gradually increases from a lower surface side toward an upper surface side.
+</P>
+<P>
+12. The method of manufacturing the magnetic detection device according to Claim 10 or 11, wherein, in the step (c), a hole formation surface of the resist layer is formed into an inclined surface so that the size of the hole gradually increases from a lower surface side toward an upper surface side.
+</P>
+<P>
+13. The method of manufacturing the magnetic detection device according to Claim 12, wherein the resist layer is subjected to heat treatment to form the inclined surface before the resist layer is thermally cured.
+</P>
+<P>
+14. The method of manufacturing the magnetic detection device according to any one of Claims 10 to 13, wherein, without forming a hole in the insulation protection layer in the step (b), using the resist layer formed in the step (c) as a mask, the insulation protection layer exposed at the hole of the resist layer is removed, thereby forming a hole in the insulation protection layer in which an upper surface of the interconnection layer is exposed.
+</P>
+<P>
+15. The method of manufacturing the magnetic detection device according to any one of Claims 10 to 14, further comprising, between the step (c) and the step (d), the step of (e) forming an inorganic insulating layer, as an underlying film of the magnetic detection element, on the resist layer.
+</P>
+</Claims>
+<Also_published_as>
+EP2071349A4;US2008054890A1;US7564238B2;WO2008026328A1;CN101512367A
+</Also_published_as>
+</BiblioData>

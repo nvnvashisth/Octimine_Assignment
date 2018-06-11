@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+HEAT PIPE WITH NANOTSTRUCTURED WICKING MATERIAL
+</Title>
+<PublicationNumber>
+EP1996887A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HABIB YOUSSEF M [US]
+</Name>
+<Name>
+RICKARD LYMAN H [US]
+</Name>
+<Name>
+BRYAN JOHN G [US]
+</Name>
+<Name>
+STEINBECK JOHN W [US]
+</Name>
+<Name>
+HABIB, YOUSSEF, M
+</Name>
+<Name>
+RICKARD, LYMAN, H
+</Name>
+<Name>
+BRYAN, JOHN, G
+</Name>
+<Name>
+STEINBECK, JOHN, W
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ILLUMINEX CORP [US]
+</Name>
+<Name>
+ILLUMINEX CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1996887
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070840139
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US63337
+</PriorityNumber>
+<PriorityDate>
+2007-03-05
+</PriorityDate>
+<PriorityNumber>
+US20060778873P
+</PriorityNumber>
+<PriorityDate>
+2006-03-03
+</PriorityDate>
+<PriorityNumber>
+US20070888391P
+</PriorityNumber>
+<PriorityDate>
+2007-02-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+F28D15/04
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C25D11/02
+</Class>
+<Class>
+C25D7/00
+</Class>
+<Class>
+F28D15/04B
+</Class>
+<Class>
+F28F13/18C
+</Class>
+<Class>
+H01L23/427
+</Class>
+</NCL>
+<Abstract>
+A heat pipe with a nanostructured wick is disclosed, with the method of forming the nanostructured wick on a metal substrate. The wicking material is a pattern of metallic nanostructures in the form of bristles or nanowires attached to a substrate, where the bristles are substantially freestanding.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED:
+</P>
+<P>
+1. A heat pipe with an interior surface enclosing a cavity comprised of at least one wicking material residing within said cavity, said wicking material comprised of a plurality nanowires.
+</P>
+<P>
+2. The heat pipe of Claim 1 where the cross sectional dimension of at least one of the plurality of nanowires are between approximately 10 nanometers and approximately 400 nanometers.
+</P>
+<P>
+3. The heat pipe of Claim 1 where the diameter of at least one of the plurality of nanowires are between approximately 50 nanometers and approximately 250 nanometers.
+</P>
+<P>
+4. The heat pipe of Claim 1 where the plurality nanowires are substantially spaced apart between approximately 20 nanometers center to center and approximately 600 nanometers center to center.
+</P>
+<P>
+5. The heat pipe of Claim 1 where the plurality nanowires are substantially spaced apart between approximately 75 nanometers center to center and approximately 500 nanometers center to center.
+</P>
+<P>
+6. The heat pipe of Claim 2 with the limitations of Claim 4, where the diameter of the nanowire is at least equal to the center to center spacing.
+</P>
+<P>
+7. The heat pipe of Claim 3 with the limitations of Claim 5, where the diameter of the nanowire is at least equal to the center to center spacing.
+</P>
+<P>
+8. The heat pipe of Claim 1 where the length of at least one of the nanowires is between approximately 100 nanometers and approximately 250 microns.
+</P>
+<P>
+9. The heat pipe of Claim 1 where the length of at least one of the nanowires is between approximately 50 microns and 150 microns.
+</P>
+<P>
+10. The heat pipe of Claim 1 where the length of the nanowires are between approximately 1 micron and approximately 250 microns, the spacing of the nanowires is between approximately 20 nanometers center to center and 600 nanometers center to center and the diameter of the nanowires is between approximately 10 nanometers and 400 nanometers, where the diameter of the nanowire is at least equal to the center to center spacing and the aspect ratio of the wire is no more than approximately 2500 to 1 and is at least 1 to 1.
+</P>
+<P>
+11. The heat pipe of Claim 10 where the length of the nanowires are between approximately 50 microns and approximately 150 microns.
+</P>
+<P>
+12. The heat pipe of Claim 10 where the cross section dimension of the heat pipe, measured substantially perpendicularly to the axis along which the vapor flows, is between approximately 500 microns and two millimeters.
+</P>
+<P>
+13. The heat pipe of Claim 1 and 10 where the nanowires are substantially free standing.
+</P>
+<P>
+14. A heat pipe comprised of at least one wicking material that is comprised of nanostructures, where the wicking material has a thermal resistance less than approximately .08 [deg.]C-cm2/W when the heat flux is between approximately 100 W/cm2 and approximately 200 W/cm2.
+</P>
+<P>
+15. A heat pipe comprised of at least one wick, where the wick is comprised of nanostructred material with anisotropic flow characteristics whereby the resistance to fluid flow along the longitudinal axis of the pipe is substantially higher than the fluid flow approximately normal to the interior surface of the heat pipe that the wick material is adjacent to,
+</P>
+<P>
+16. A heat pipe of Claims 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 or 14 where the nanowire wicking material occupies at least one selected region along the interior surface of the heat pipe, said region being an area that is less than the interior surface in area.
+</P>
+<P>
+17. The heat pipe of Claim 16 where the selected region is one of a groove, a cross pattern, a trianglular grid, a mesh.
+</P>
+<P>
+18. The heat pipe of Claim 16 where the selected regions are a substantially repeating pattern across the interior surface.
+</P>
+<P>
+19. A heat pipe of Claim 1 where the nanowire wicking material for the region that is substantially evaporating the heat transfer fluid has different nanowire dimensions than the wicking material in the region that is substantially condensing the heat transfer fluid.
+</P>
+<P>
+20. A heat pipe of Claim 19 where the wicking material in the condensing region is not a nanostructure wicking material.
+</P>
+<P>
+21. A method of forming a heat pipe body comprised of an interior surface enclosing an interior cavity, comprised of: growing nano wires on a substrate; attaching the substrate to a heat pipe body with the nanowires facing the interior cavity of the heat pipe.
+</P>
+<P>
+22. The method of Claim 21 comprising growing the nanowires through a template attached to the substrate, said template having at least one pore that substantially penetrates through the template to the surface of the substrate.
+</P>
+<P>
+23. Method of Claim 22 further comprising anodizing a metallic layer to create the template.
+</P>
+<P>
+24. The method of Claim 23 where the metallic layer is aluminum.
+</P>
+<P>
+25. The method of Claim 23 where the template is Aluminum Oxide.
+</P>
+<P>
+26. The method of Claim 23 where the anodized metallic layer is one of: Titania,
+</P>
+<P>
+Silica, Zinc Oxide, Zirconium Oxide, Lanthinum Oxide, Niobium Oxide, Tungsten Oxide, Tin Oxide, Indium Oxide, Indium Tin Oxide, Strontium Oxide, Vanadium Oxide, Molybdinum Oxide, Calcium/Titanium Oxide, blends of such materials.
+</P>
+<P>
+27. The Method of Claim 23 further comprising detecting a substantial spike in anodization current and shutting off the anodization current as a result of such detection.
+</P>
+<P>
+28. The method of Claim 27 where the shutting off occurs as a result of the anodization current spike being between approximately 2 and approximately 3 times its substantially prior steady state value.
+</P>
+<P>
+29. The method of Claim 21 further comprising characterizing the surface of the substrate where the nanowires have been grown by reflecting light energy off the surface and detecting at least one spectral characteristic of the reflected light.
+</P>
+<P>
+30. The method of Claim 29 where the spectral characteristic is detecting the amplitude of reflected light to incident light at approximately the wavelength of the two modes of plasmon resonance in the nanowires.
+</P>
+<P>
+31. The method of Claim 22 comprising growing nanowires within the at least one pore in the template by means of electroplating a metal.
+</P>
+<P>
+32. The method of Claim 31 where the electroplating current is in the range of approximately 200 milliamps to approximately 600 milliamps.
+</P>
+<P>
+33. The method of Claim 31 where the electroplating voltage is approximately .75 volts.
+</P>
+<P>
+34. The method of Claim 31 where the metal is copper.
+</P>
+<P>
+35. The method of Claim 31 where the metal is comprised of one of Cd, Fe, Au, Ag,
+</P>
+<P>
+Ni or Molybdinum.
+</P>
+<P>
+36. The method of Claim 31 further comprising etching the template.
+</P>
+<P>
+37. The method of Claim 36 where the etch solution is one of Phosphoric acid,
+</P>
+<P>
+NaOH, HCl, H2SO4, HF, Sodium Hydroxide.
+</P>
+<P>
+38. The method of Claim 22 where an Anodisk filter is the template.
+</P>
+<P>
+39. A heat pipe comprising at least one wicking material, where the at least one wicking material occupies a region on the surface of the interior of the cavity of the heat pipe, where the boiling surface ratio of the wicking material is between approximately 125 and approximately 3600.
+</P>
+<P>
+40. A heat pipe comprising at least one wicking material, where the at least one wicking material occupies a region on the surface of the interior of the cavity of the heat pipe, where the boiling surface ratio of the wicking material is greater than approximately 125 and less than approximately 1962.
+</P>
+<P>
+41. The heat pipe of Claim 39 where the boiling surface ratio divided by the thickness of the wicking material measured in microns is between approximately 18 and approximately 125.
+</P>
+<P>
+42. The heat pipe of Claim 39 where the boiling surface ratio divided by the thickness of the wicking material measured in microns is between approximately 1500 and 2500.
+</P>
+<P>
+43. The heat pipe of Claims 39, 40, 41 or 42 where the wicking material is nanostructured.
+</P>
+<P>
+44. The heat pipe of Claim 43 where the nanostructures are an array of nanowires.
+</P>
+<P>
+45. A method of forming a heat pipe body comprised of an interior surface enclosing an interior cavity, comprised of: growing nanowires on at least one region of the interior surface.
+</P>
+<P>
+46. The method of Claim 45 comprising growing the nanowires through a template attached to the interior surface, said template having at least one pore that substantially penetrates through the template to the surface of the interior surface.
+</P>
+<P>
+47. Method of Claim 46 further comprising anodizing a metallic layer to create the template.
+</P>
+<P>
+48. The method of Claim 47 where the metallic layer is aluminum.
+</P>
+<P>
+49. The method of Claim 47 where the template is Aluminum Oxide.
+</P>
+<P>
+50. The method of Claim 47 where the anodized metallic layer is one of: Titania,
+</P>
+<P>
+Silica, Zinc Oxide, Zirconium Oxide, Lanthinum Oxide, Niobium Oxide, Tungsten Oxide, Tin Oxide, Indium Oxide, Indium Tin Oxide, Strontium Oxide, Vanadium Oxide, Molybdinum Oxide, Calcium/Titanium Oxide, blends of such materials.
+</P>
+<P>
+51. The Method of Claim 47 further comprising detecting a substantial spike in anodization current and shutting off the anodization current as a result of such detection.
+</P>
+<P>
+52. The method of Claim 51 where the shutting off occurs as a result of the anodization current spike being between approximately 2 and approximately 3 times its substantially prior steady state value.
+</P>
+<P>
+53. The method of Claim 45 further comprising characterizing the surface of the substrate where the nanowires have been grown by reflecting light energy off the surface and detecting at least one spectral characteristic of the reflected light.
+</P>
+<P>
+54. The method of Claim 46 where the spectral characteristic is detecting the amplitude of reflected light to incident light at approximately the wavelength of the two modes of plasmon resonance in the nanowires.
+</P>
+<P>
+55. The method of Claim 46 comprising growing nanowires within the at least one pore in the template by means of electroplating a metal.
+</P>
+<P>
+56. The method of Claim 55 where the electroplating current is in the range of approximately 200 milliamps to approximately 600 milliamps.
+</P>
+<P>
+57. The method of Claim 55 where the electroplating voltage is approximately .75 volts.
+</P>
+<P>
+58. The method of Claim 55 where the metal is copper.
+</P>
+<P>
+59. The method of Claim 55 where the metal is one of Cd, Fe, Au, Ag, Ni, Mb.
+</P>
+<P>
+60. The method of Claim 55 further comprising etching the template.
+</P>
+<P>
+61. The method of Claim 60 where the etch solution is one of Phosphoric acid,
+</P>
+<P>
+NaOH, HCl, H2SO4, HF, Sodium Hydroxide.
+</P>
+<P>
+62. The method of Claim 55 where an Anodisk filter is the template.
+</P>
+<P>
+63. A method of making a heat pipe comprised of a body and an interior cavity, comprising:
+</P>
+<P>
+Cladding a substrate comprised of a first metal with a second metal; Oxidizing the second metal by means of anodization whereby the oxide forms pores; Electroplating a third metal within the pores to form nanowires; Etching the oxide of the second metal, whereby the nanowires become substantially free-standing;
+</P>
+<P>
+Attaching the substrate to the heat pipe body such that the nanowires are inside the interior cavity of the heat pipe.
+</P>
+<P>
+64. A method of making a heat pipe comprised of a metallic body comprised of a cavity with an interior surface comprising: Cladding a region on the interior surface with a second metal;
+</P>
+<P>
+Oxidizing the second metal by means of anodization whereby the oxide forms pores; Electroplating metal within the pores to form nanowires; Etching the metallic oxide, whereby the nanowires become substantially freestanding.
+</P>
+<P>
+65. A heat pipe comprising at least one wicking material, where the at least one wicking material is nanostructured and occupies a region on the surface of the interior of the cavity of the heat pipe, where the boiling surface ratio of the wicking material is between approximately 125 and approximately 3600.
+</P>
+<P>
+66. A heat pipe comprising at least one wicking material, where the at least one wicking material is nanostructured and occupies a region on the surface of the interior of the cavity of the heat pipe, where the boiling surface ratio of the wicking material is greater than approximately 125 and less than approximately 1962.
+</P>
+<P>
+67. The heat pipe of Claim 66 where the boiling surface ratio divided by the thickness of the wicking material measured in microns is between approximately 18 and approximately 125.
+</P>
+<P>
+68. The heat pipe of Claim 65, 66 or 67 where the nanostructured wicking material is comprised of a plurality of nano wires, where the nano wires are between approximately 1 micron and approximately 250 microns in length.
+</P>
+<P>
+69. The heat pipe of Claim 68 where the cross section dimension of the heat pipe, measured substantially perpendicularly to the axis along which the vapor flows, is between approximately 500 microns and two millimeters.
+</P>
+<P>
+70. The heat pipe of Claim 68 where the nanowires are free standing and substantially regularly spaced.
+</P>
+<P>
+71. A method of cooling electronic devices using a nanostructured heat pipe comprised of conducting heat generated by said device into a wicking material comprised of a nanowire array substantially surrounded by a fluid and evaporating said fluid.
+</P>
+<P>
+72. The method of Claim 71 where the nanowire array is comprised of a plurality of nanowires, where the length of the nanowires are between approximately 1 micron and approximately 250 microns, the spacing of the nanowires is between approximately 20 nanometers center to center and 600 nanometers center to center and the diamter of the nanowires is between approximately 10 nanometers and 400 nanometers, where the diameter of the nanowire is at least equal to the center to center spacing and the aspect ratio of the wire is no more than approximately 2500 to 1 and greater than 1 to 1.
+</P>
+<P>
+73. The method of Claim 72 where the length of the nanowires are between approximately 50 microns and approximately 100 microns.
+</P>
+<P>
+74. The method of Claim 72 where the cross section dimension of the heat pipe, measured substantially perpendicularly to the axis along which the vapor flows, is between approximately 500 microns and two millimeters.
+</P>
+<P>
+75. The method of Claim 71 where the nanowires are substantially free standing.
+</P>
+<P>
+76. The heat pipe of any of Claims 1 through Claim 15 where the spacing of the nanowires is graded so that it is relatively sparse in the condenser region and more tightly packed in the evaporator region.
+</P>
+<P>
+77. The method of any of Claims 21 through 26 or 45 through 49 where the nanowire growth occurs on selected regions.
+</P>
+<P>
+78. The method of any of Claims 21 through 26 or 45 through 49 further comprising using micro lithography techniques to change the surface profile of the metal to be anodized prior to anodization.
+</P>
+<P>
+79. The heat pipe of any of Claims 1 through Claim 15 where the nanowires are substantially regularly spaced.
+</P>
+<P>
+80. The heat pipe of any of Claims 1 through Claim 15 where the nanowires are substantially oriented substantially normal to the plane of the substrate.
+</P>
+<P>
+81. The heat pipe of Claim 44 where the nanowire array is comprised of a plurality of nanowires, where the length of the nanowires are between approximately 1 micron and approximately 250 microns, the spacing of the nanowires is between approximately 20 nanometers center to center and 600 nanometers center to center and the diamter of the nanowires is between approximately 10 nanometers and 400 nanometers, where the diameter of the nanowire is at least equal to the center to center spacing and the aspect ratio of the wire is no more than approximately 2500 to 1 and greater than 1 to 1.
+</P>
+</Claims>
+<Also_published_as>
+WO2008016725A2;WO2008016725A3;US2010200199A1;CA2657423A1
+</Also_published_as>
+</BiblioData>

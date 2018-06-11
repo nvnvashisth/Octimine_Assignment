@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ENCLOSURE TAMPER DETECTION AND PROTECTION
+</Title>
+<PublicationNumber>
+EP2016593A2
+</PublicationNumber>
+<Inventor>
+<Name>
+DAUGHTON JAMES W [US]
+</Name>
+<Name>
+DEAK JAMES G [US]
+</Name>
+<Name>
+DAUGHTON, JAMES, W
+</Name>
+<Name>
+DEAK, JAMES, G
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NVE CORP [US]
+</Name>
+<Name>
+NVE CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2016593
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070755879
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US09793
+</PriorityNumber>
+<PriorityDate>
+2007-04-20
+</PriorityDate>
+<PriorityNumber>
+US20060793569P
+</PriorityNumber>
+<PriorityDate>
+2006-04-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/00
+</Class>
+<Class>
+G08B13/08
+</Class>
+<Class>
+G08B21/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G11C11/16
+</Class>
+</NCL>
+<Abstract>
+A tamper detecting enclosure arrangement for enclosures containing an interior space in which a protected item is positioned having a magnetoresistive sensing memory storage cell positioned in or near the protected item in the enclosure having a two state offset magnetoresistance versus externally applied magnetic field. A magnet is positioned at a selected separation distance from the magnetoresistive sensing memory storage cell to thereby provide a magnetic field about the magnetoresistive sensing memory storage cell if said enclosure has not been opened in such a maneer as to result in substantially increasing said separation distance.
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. A tamper detecting enclosure arrangement for enclosures containing an interior space in which a protected item is positioned to which access is to be denied absent providing a subsequent indication that such an access has occurred, said arrangement comprising: a magnetoresistive sensing memory storage cell positioned in or near said protected item in said enclosure having a magnetoresistance versus externally applied magnetic field characteristic with two states of differing resistive values each reached from that other by an externally applied magnetic field having a magnitude change exceeding a corresponding one of a pair of relatively small transition field value intervals each having externally applied magnetic field values occurring therein of a common field direction but with those externally applied magnetic field values occurring therein differing in magnitudes from those in that other transition field value interval, and a magnet positioned at a selected separation distance from said magnetoresistive sensing memory storage cell to thereby provide a magnetic field about said magnetoresistive sensing memory storage cell if said enclosure has not been opened so as to result in substantially increasing said separation distance.
+</P>
+<P>
+2. The arrangement of claim 1 wherein said enclosure has a receptacle with at least part of said interior space therein and a cover which can be positioned so as to render said interior space surrounded by said enclosure, said magnet being positioned in said cover.
+</P>
+<P>
+3. The arrangement of claim 1 wherein said magnetoresistive sensing memory storage cell is formed in a monolithic integrated circuit positioned in said interior space.
+</P>
+<P>
+4. The arrangement of claim 1 further comprising a portion of a layer of magnetically permeable material positioned adjacent said magnetoresistive sensing memory storage cell.
+</P>
+<P>
+5. The arrangement of claim 1 further comprising another magnetoresistive sensing memory storage cell positioned in or near said protected item in said enclosure having a magnetoresistance versus externally applied magnetic field characteristic with two states of differing resistive values each reached from that other by an externally applied magnetic field having a magnitude change exceeding a corresponding one of a pair of relatively small transition field value intervals each having externally applied magnetic field values occurring therein of a common field direction but with those externally applied magnetic field values occurring therein differing in magnitudes from those in that other transition field value interval.
+</P>
+<P>
+6. The arrangement of claim 1 wherein said magnetoresistive sensing memory storage cell has a length along a selected direction and a width substantially perpendicular thereto that is smaller in extent than said length and together have a shaped end portion extending over a portion of said length in which said width gradually reduces to zero at that end thereof.
+</P>
+</Claims>
+<Also_published_as>
+EP2016593A4;WO2007124129A2;WO2007124129A3;US2008042834A1;US7468664B2
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR PROGRAMMING AN ELECTRONIC CIRCUIT AND ELECTRONIC CIRCUIT
+</Title>
+<PublicationNumber>
+EP1999757A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ULLMANN ANDREAS [DE]
+</Name>
+<Name>
+FIX WALTER [DE]
+</Name>
+<Name>
+ULLMANN, ANDREAS
+</Name>
+<Name>
+FIX, WALTER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+POLYIC GMBH &amp; CO KG [DE]
+</Name>
+<Name>
+POLYIC GMBH &amp; CO. KG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1999757
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070723469
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP02512
+</PriorityNumber>
+<PriorityDate>
+2007-03-21
+</PriorityDate>
+<PriorityNumber>
+DE200610013605
+</PriorityNumber>
+<PriorityDate>
+2006-03-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G06K19/07
+</Class>
+<Class>
+G11C17/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C13/00
+</Class>
+<Class>
+G11C13/00R5C
+</Class>
+<Class>
+G11C17/00
+</Class>
+<Class>
+G11C17/14
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a method for producing an electronic circuit and to an electronic circuit, which has at least one organic electric functional layer and at least one data storage unit, the latter being configured with two electrically conductive layer contacts. The two electrically conductive layer contacts lie next to one another and are electrically interconnected by an electrically conductive dry substance, such as dried ink, or by an electrically conductive solidified substance.
+</Abstract>
+<Claims>
+<P>
+Patentansprüche
+</P>
+<P>
+1. Verfahren zum Programmieren einer elektronischen Schaltung, welche mindestens eine organische elektrische Funktionsschicht und mindestens eine DatenspeicherEinheit (1, 2, 7, 8) aufweist, wobei die DatenspeicherEinheit (1, 2, 7, 8) mit zwei elektrisch leitenden Schichtkontakten (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) ausgebildet wird, dadurchgekennzeichnet, dass die zwei elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) benachbart voneinander gebildet werden und dass eine flüssige Substanz enthaltend einen elektrisch leitenden Stoff derart auf die Datenspeicher-Einheit (1, 2, 7, 8) aufgebracht wird, dass die flüssige Substanz beide elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) zumindest teilweise benetzt.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, dadurchgekennzeichnet, dass die flüssige Substanz aufgetropft oder aufgetupft wird.
+</P>
+<P>
+3. Verfahren nach Anspruch 2, dadurchgekennzeichnet, dass ein einzelner Tropfen (3a, 3b) der flüssigen Substanz aufgebracht wird.
+</P>
+<P>
+4. Verfahren nach einem der Ansprüche 2 oder 3, dadurchgekennzeichnet, dass eine Trocknung der flüssigen Substanz erfolgt und eine elektrisch leitende Trockensubstanz (3b&apos;) umfassend den elektrisch leitenden Stoff gebildet wird, welche die beiden elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) elektrisch leitend miteinander verbindet .
+</P>
+<P>
+5. Verfahren nach einem der Ansprüche 1 bis 4, dadurchgekennzeichnet, dass die flüssige Substanz in Form einer Lösung, einer Suspension, einer Tinte oder einer Paste aufgebracht wird.
+</P>
+<P>
+6. Verfahren nach einem der Ansprüche 1 bis 5, dadurchgekennzeichnet, dass die flüssige Substanz mittels eines Tintenstrahldruckers aufgebracht wird.
+</P>
+<P>
+7. Verfahren nach Anspruch 1, dadurchgekennzeichnet, dass die flüssige Substanz in Form einer Schmelze aufgebracht wird, dass eine Abkühlung der flüssigen Substanz erfolgt und dass eine elektrisch leitende erstarrte Substanz umfassend den elektrisch leitenden Stoff gebildet wird, welche die beiden elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) elektrisch leitend miteinander verbindet.
+</P>
+<P>
+8. Verfahren nach Anspruch 7, dadurchgekennzeichnet, dass die Schmelze aufgetropft oder mittels eines Tintenstrahldruckers oder mittels eines Thermotransferverfahrens aufgebracht wird.
+</P>
+<P>
+9. Verfahren nach einem der Ansprüche 1 bis 8, dadurchgekennzeichnet, dass die mindestens eine organische elektrische Funktionsschicht gedruckt wird.
+</P>
+<P>
+10. Verfahren nach einem der Ansprüche 1 bis 9, dadurchgekennzeichnet, dass die zwei elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) einer DatenspeicherEinheit (1, 2, 7, 8) in einer Ebene mit einer elektrisch leitenden Funktionsschicht (11, 12), insbesondere im gleichen Arbeitsgang wie die elektrisch leitende Funktionsschicht (11, 12), gebildet werden.
+</P>
+<P>
+11. Verfahren nach einem der Ansprüche 4 oder 7, dadurchgekennzeichnet, dass auf die elektrisch leitende Trockensubstanz (3b&apos;) oder die elektrisch leitende erstarrte Substanz mindestens eine elektrische Funktionsschicht (14, 15) der elektronischen Schaltung aufgebracht wird.
+</P>
+<P>
+12. Verfahren nach einem der Ansprüche 1 bis 11, dadurchgekennzeichnet, dass die flüssige Substanz einen Gehalt an elektrisch leitendem Stoff im Bereich von 10 bis 100 Gew.-% aufweist .
+</P>
+<P>
+13. Verfahren nach einem der Ansprüche 1 bis 12, dadurchgekennzeichnet, dass die zwei elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) einer DatenspeicherEinheit (1, 2, 7, 8) in einem Abstand A im Bereich von 1 [mu]m bis 100 [mu]m voneinander entfernt angeordnet werden .
+</P>
+<P>
+14. Verfahren nach einem der Ansprüche 1 bis 13, dadurchgekennzeichnet, dass mindestens ein Schichtkontakt (Ia, 2a, 7a, 8a) einer Datenspeicher-Einheit (1, 2, 7, 8) kammförmig mit mindestens zwei Kammzinken ausgebildet ist.
+</P>
+<P>
+15. Verfahren nach Anspruch 14, dadurchgekennzeichnet, dass die flüssige Substanz aufgetropft wird, wobei ein Tropfen-Durchmesser D[tau] grösser als der Abstand A gewählt wird, insbesondere mindestens so gross wie die Summe aus dem doppelten Abstand A und der dreifachen Breite einer Kammzinke gewählt wird.
+</P>
+<P>
+16. Verfahren nach einem der Ansprüche 1 bis 15, dadurchgekennzeichnet, dass die Programmierung der elektronischen Schaltung in einem Rolle-zu-Rolle-Verfahren während der Herstellung der elektronischen Schaltung erfolgt.
+</P>
+<P>
+17. Elektronische Schaltung, welche mindestens eine organische elektrische Funktionsschicht und mindestens eine Datenspeicher-Einheit (1, 2, 7, 8) aufweist, wobei die Datenspeicher-Einheit (1, 2, 7, 8) zwei elektrisch leitende Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) aufweist, insbesondere hergestellt nach einem der Ansprüche 1 bis 14, dadurchgekennzeichnet, dass die zwei elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) benachbart voneinander angeordnet sind und dass a) eine elektrisch leitende Trockensubstanz oder b) eine elektrisch leitende erstarrte Substanz die zwei elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) elektrisch leitend miteinander verbindet .
+</P>
+<P>
+18. Elektronische Schaltung nach Anspruch 17, dadurchgekennzeichnet, dass die elektronische Schaltung eine integrierte Schaltung ist.
+</P>
+<P>
+19. Elektronische Schaltung nach einem der Ansprüche 17 oder 18, dadurchgekennzeichnet, dass die elektronische Schaltung mindestens ein organisches Logikgatter umfasst, welches mit der mindestens einen Datenspeicher-Einheit (1, 2, 7, 8) elektrisch leitend verbunden ist.
+</P>
+<P>
+20. Elektronische Schaltung nach Anspruch 19, dadurchgekennzeichnet, dass das organische Logikgatter durch ein organisches Inverter-Bauelement (6), ein organisches NAND-Gatter oder ein organisches NOR-Gatter gebildet ist.
+</P>
+<P>
+21. Elektronische Schaltung nach Anspruch 19, dadurchgekennzeichnet, dass das organische Inverter-Bauelement durch einen organischen Feldeffekt-Transistor (OFET) gebildet ist, welcher eine Drain-Elektrode (12) und eine SourceElektrode (11), eine Gate-Elektrode (13) sowie eine halbleitende Schicht (14) und eine elektrisch isolierende Schicht (15) aufweist.
+</P>
+<P>
+22. Elektronische Schaltung nach Anspruch 21, dadurchgekennzeichnet, dass die mindestens eine Datenspeicher-Einheit (1, 2) auf Ebene der Drain-Elektrode, der Source-Elektrode oder der Gate-Elektrode angeordnet ist.
+</P>
+<P>
+23. Elektronische Schaltung nach einem der Ansprüche 19 bis 22, dadurchgekennzeichnet, dass die mindestens eine Datenspeicher-Einheit (1, 2, 7, 8) in einem Versorgungs-Spannungspfad des organischen Logikgatters angeordnet ist.
+</P>
+<P>
+24. Elektronische Schaltung nach einem der Ansprüche 19 bis 22, dadurchgekennzeichnet, dass die mindestens eine Datenspeicher-Einheit (1, 2, 7, 8) in einem Signaleingangspfad des organischen Logikgatters angeordnet ist.
+</P>
+<P>
+25. Elektronische Schaltung nach einem der Ansprüche 19 bis 22, dadurchgekennzeichnet, dass die mindestens eine Datenspeicher-Einheit (1, 2, 7, 8) in einem Signalausgangspfad des organischen Logikgatters angeordnet ist.
+</P>
+<P>
+26. Elektronische Schaltung nach einem der Ansprüche 17 bis 25, dadurchgekennzeichnet, dass die zwei elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) jeweils eine Dicke im Bereich von 10 nm bis 2 [mu]m aufweisen.
+</P>
+<P>
+27. Elektronische Schaltung nach einem der Ansprüche 17 bis 26, dadurchgekennzeichnet, dass die zwei elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) jeweils eine Breite im Bereich von 1 [mu]m bis 100 [mu]m aufweisen.
+</P>
+<P>
+28. Elektronische Schaltung nach einem der Ansprüche 17 bis 27, dadurchgekennzeichnet, dass die zwei elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) der mindestens einen Datenspeicher-Einheit (1, 2, 7, 8) in einem Abstand A im Bereich von 1 [mu]m bis 100 [mu]m voneinander entfernt angeordnet sind.
+</P>
+<P>
+29. Elektronische Schaltung nach einem der Ansprüche 17 bis 28, dadurchgekennzeichnet, dass mindestens einer der mindestens zwei elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b) kammförmig mit mindestens zwei Kammzinken ausgebildet ist und die mindestens zwei elektrisch leitenden Schichtkontakte miteinander verzahnt angeordnet sind.
+</P>
+<P>
+30. Elektronische Schaltung nach einem der Ansprüche 17 bis 29, dadurchgekennzeichnet, dass die elektronische Schaltung nebeneinander angeordnet mindestens zwei Datenspeicher-Einheiten (1, 2; 7, 8) aufweist.
+</P>
+<P>
+31. Elektronische Schaltung nach Anspruch 30, dadurchgekennzeichnet, dass die mindestens eine organische elektrische Funktionsschicht der elektronischen Schaltung durch Drucken gebildet ist und dass die mindestens zwei Datenspeicher-Elemente (1, 2) in Druckrichtung der elektronischen Schaltung gesehen auf einer Linie hintereinander angeordnet sind.
+</P>
+<P>
+32. Elektronische Schaltung nach einem der Ansprüche 19 bis 31, dadurchgekennzeichnet, dass ein elektrisch leitender Schichtkontakt (Ib, 7b) einer ersten Datenspeicher-Einheit (1, 7) mit einem elektrisch leitenden Schichtkontakt (2b, 8b) mindestens einer zweiten Datenspeicher-Einheit (2, 8) sowie mit dem organischen Logikgatter elektrisch leitend verbunden ist.
+</P>
+<P>
+33. Elektronische Schaltung nach einem der Ansprüche 17 bis 32, dadurchgekennzeichnet, dass die elektrisch leitenden Schichtkontakte (Ia, Ib; 2a, 2b; 7a, 7b; 8a, 8b) aus einem metallischen oder organischen elektrisch leitenden Material gebildet sind.
+</P>
+<P>
+34. Elektronische Schaltung nach einem der Ansprüche 17 bis 33, dadurchgekennzeichnet, dass in Fall a) die elektrisch leitende Trockensubstanz oder in Fall b) die elektrisch leitende erstarrte Substanz einen elektrisch leitenden Stoff aus der Gruppe der metallischen und/oder organischen leitenden Materialien aufweist.
+</P>
+<P>
+35. Elektronische Schaltung nach einem der Ansprüche 17 bis 34, dadurchgekennzeichnet, dass die elektronische Schaltung auf einem flexiblen Substrat (10) angeordnet ist.
+</P>
+</Claims>
+<Also_published_as>
+EP1999757B1;WO2007107357A1;US2009121218A1;US8144495B2;DE102006013605A1;CN101427322A;CN101427322B;AT480855T
+</Also_published_as>
+</BiblioData>

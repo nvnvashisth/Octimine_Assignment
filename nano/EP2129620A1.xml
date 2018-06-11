@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOWIRE CIRCUIT ARCHITECTURE
+</Title>
+<PublicationNumber>
+EP2129620A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WERNERSSON LARS-ERIK [SE]
+</Name>
+<Name>
+WERNERSSON, LARS-ERIK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+QUNANO AB [SE]
+</Name>
+<Name>
+QUNANO AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2129620
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080724308
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008SE50362
+</PriorityNumber>
+<PriorityDate>
+2008-03-28
+</PriorityDate>
+<PriorityNumber>
+SE20070000794
+</PriorityNumber>
+<PriorityDate>
+2007-03-28
+</PriorityDate>
+<PriorityNumber>
+SE20070000816
+</PriorityNumber>
+<PriorityDate>
+2007-03-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+<Class>
+H01L29/08
+</Class>
+<Class>
+H01L29/78
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+<Class>
+H01L29/786C
+</Class>
+</NCL>
+<Abstract>
+A nanowire circuit architecture is presented. The technology comprises of nanowire transistors (8,9), and optionally nanowire capacitors (12) and nanowire resistors (11), that are integrated using two levels of interconnects only (1,2). Implementations of ring-oscillators, sample- and-hold circuits, and comparators may be realized in this nanowire circuit architecture. Circuit input and circuit output as well as the transistor connections within each circuit are provided in the two levels of interconnects (1,2).
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. [Lambda] nanowire circuit comprising at least a first nanowire transistor (8), wherein the first nanowire transistor comprises a first nanowire (5) protruding from a substrate (4), the first nanowire (5) having a first wrap gate electrode (23) arranged around a portion of its length, characterized in that two interconnects levels (1,2) are used, one of which is a first interconnect level (1) located on the substrate (4) providing an electrode (15) connected to one end of the first nanowire (5) , and the first wrap gate electrode (23) of the first nanowire (5) is provided m one of the two interconnect levels (1,2) .
+</P>
+<P>
+2. A nanowire circuit according to claim 1, wherein the nanowire circuit comprises a second vertical nanowire transistor (9) comprising a second nanowire (6) protruding from the substrate (8); the second nanowire (6) has a second wrap gate electrode (24) arranged around a portion of its length; and the first and the second nanowires (5,6) have the same charge carrier types.
+</P>
+<P>
+3. A nanowire circuit according to claim 1 or 2, wherein Lhe nanowires (5, 6) are arranged on the electrode (15) of the first interconnect level (1).
+</P>
+<P>
+4. A nanowire circuit according to claims 2 or 3, wherein one end of each of the first and the second nanowires (5,
+</P>
+<P>
+6) are connected to a common source/drain electrode in one of the two interconnect levels (1, 2) and the other end of each of the first and the second nanowires (5, 6) are connected to individual electrodes m the other of the two interconnect lcveJ s (1, 2) forming a transistor pair.
+</P>
+<P>
+5. A nanowire circuit according bo claim 4, wherein one end of each of the first and the second nanowires (5, 6) are connected to a common source/drain electrode (15) m the first interconnect level (1) and the other end of each of the first and the second nanowires (5, 6) are connected to individual electrodes (19, 20) m the second interconnect leveJ (2) .
+</P>
+<P>
+6. A nanowire circuit according to any of claims 2-4, wherein the first wrap gate eJectrode (23) is connected Lo a voltage input terminal and the second wrap gate electrode is connected to the common source/drain electrode (15).
+</P>
+<P>
+7. A nanowire circuit according to any of the preceding claims, wherexn the nanowire circuit comprises nanowire resistors ( 11 ) .
+</P>
+<P>
+8. A nanowire circuit according to any of the preceding claims, wherein the nanowire circuit comprises nanowire capacitors (12) having a third wrap gate electrode arranged around a portion of its length, the third wrap gate electrode being provided m one of the two interconnect levels (1,2) .
+</P>
+<P>
+9. A nanowire circuit according to any of claims 4-8, wherein a plurality of transistor pairs, each having an input and an output, are connected m series with the output of one transistor pair connected to the input of another transistor pair to form a rmg-oscillator .
+</P>
+<P>
+10 A nanowire circuit according to claim 9, wherein the first and the second nanowire (5, 6) have different charge carrier type and the output from a node between the first and second vertical nanowire transistors of said one transistor pair is connected to the first and the second wrap gate electrodes (23,24) of said another transistor pair .
+</P>
+<P>
+11. A nanowire circuit according to claim 9, wherein the first and the second vertical nanowire transistor (8, 9) have different threshold voltages and the output from a node between the between the first and second vertical nanowire transistors of said one transistor pair is connected to the first wrap gate electrode (23) of said another transistor pair, the second wrap gate electrode (24) being connected to the output.
+</P>
+<P>
+12. A nanowire circuit according to any of the preceding claims, wherein the circuit is adapted for sample-and-hold applications or to be used as a comparator.
+</P>
+<P>
+13. A nanowire circuit according to any of the preceding claims, wherein the nanowires are made of a III-V semiconductor material.
+</P>
+<P>
+14. [Delta] nanowire circuit according to any of the preceding claims, wherein the substrate is made of a III-V semiconductor material.
+</P>
+<P>
+15. A nanowire circuit according to claim 1 or 2, wherein the electrode (15) of the first interconnect level (1) connects to the nanowires m a wrap around configuration.
+</P>
+</Claims>
+<Also_published_as>
+WO2008118095A1;US2010155702A1;KR20090126311A;JP2010525557A;CN101687631A
+</Also_published_as>
+</BiblioData>

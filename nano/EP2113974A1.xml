@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Nitride semiconductor device
+</Title>
+<PublicationNumber>
+EP2113974A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KOZAKI TOKUYA [JP]
+</Name>
+<Name>
+KOZAKI, TOKUYA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NICHIA CORP [JP]
+</Name>
+<Name>
+NICHIA CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2113974
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090010212
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2001-07-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20010947872
+</PriorityNumber>
+<PriorityDate>
+2001-07-06
+</PriorityDate>
+<PriorityNumber>
+JP20000207576
+</PriorityNumber>
+<PriorityDate>
+2000-07-07
+</PriorityDate>
+<PriorityNumber>
+JP20000306372
+</PriorityNumber>
+<PriorityDate>
+2000-10-05
+</PriorityDate>
+<PriorityNumber>
+JP20000355078
+</PriorityNumber>
+<PriorityDate>
+2000-11-21
+</PriorityDate>
+<PriorityNumber>
+JP20010174903
+</PriorityNumber>
+<PriorityDate>
+2001-06-08
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L33/06
+</Class>
+<Class>
+H01L33/32
+</Class>
+<Class>
+H01S5/343
+</Class>
+<Class>
+H01L33/24
+</Class>
+<Class>
+H01S5/20
+</Class>
+<Class>
+H01S5/30
+</Class>
+<Class>
+H01S5/34
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01L33/06
+</Class>
+<Class>
+H01L33/32
+</Class>
+<Class>
+H01S5/343G
+</Class>
+</NCL>
+<Abstract>
+In the nitride semiconductor device of the present invention, an active layer 12 is sandwiched between a p-type nitride semiconductor layer 11 and an n-type nitride semiconductor layer 13. The active layer 12 has, at least, a barrier layer 2a having an n-type impurity;  a well layer 1a made of a nitride semiconductor that includes In;  and a barrier layer 2c that has a p-type impurity, or that has been grown without being doped. An appropriate injection of carriers into the active layer 12 becomes possible by arranging the barrier layer 2c nearest to the p-type layer side.
+</Abstract>
+<Claims>
+<P>
+1. A nitride semiconductor device having a structure
+</P>
+<P>
+wherein an active layer of a quantum well structure, which has a well layer made of a nitride semiconductor that includes In and a barrier layer made of a nitride semiconductor, is sandwiched between a p-type nitride semiconductor layer and an n-type nitride semiconductor layer,
+</P>
+<P>
+wherein said active layer has at least two said well layers and, as said barrier layer, a first barrier layer arranged in a position nearest to said p-type nitride semiconductor layer and a second barrier layer that is arranged between said well layers or arranged outside of said well layers and on the side closer to said n-type nitride semiconductor layer; the n-type impurity concentration of said first barrier layer being not greater than 1 * 10&amp;lt;17&amp;gt;/cm&amp;lt;3&amp;gt; and the n-type concentration of said second barrier layer is not less than 5 * 10&amp;lt;17&amp;gt;/cm&amp;lt;3&amp;gt;.
+</P>
+<P>
+2. The nitride semiconductor device according to claim 1,
+</P>
+<P>
+wherein the film thickness of said first barrier layer is approximately the same as the film thickness of said second barrier layer.
+</P>
+<P>
+3. The nitride semiconductor device according to claim 1,
+</P>
+<P>
+wherein the film thickness of said first barrier layer is greater than the film thickness of said second barrier layer.
+</P>
+<P>
+4. The nitride semiconductor device according to any of the claims 1 to 3, wherein the number of said second barrier layer is more than one and each of said second barrier layer is adjacent to said well layer.
+</P>
+<P>
+5. The nitride semiconductor device according to any of the claims 1 to 4, wherein the entire barrier layers other than said first barrier layer include an n-type impurity with the concentration not less than 5 * 10&amp;lt;17&amp;gt; cm&amp;lt;-3&amp;gt;.
+</P>
+<P>
+6. The nitride semiconductor device according to any of the claims 1 to 5, wherein said first barrier layer is arranged in the outermost position in said active layer.
+</P>
+<P>
+7. The nitride semiconductor device according to any of the claims 1 to 6, wherein a barrier layer is arranged in the outermost position close to said n-type nitride semiconductor layer within said active layer as said second barrier layer.
+</P>
+<P>
+8. The nitride semiconductor device according to any of the claims 1 to 7, wherein said p-type nitride semiconductor layer has a first p-type nitride semiconductor layer which contacts said active layer and made of a nitride semiconductor containing Al; said active layer has a well layer of which distance dB from the first p-type nitride semiconductor layer is no less than 10 nm and located closest to said p-type nitride semiconductor layer among said well layers and has a first barrier layer within the distance dB.
+</P>
+<P>
+9. The nitride semiconductor device according to claim 8,
+</P>
+<P>
+wherein the distance dB is no more than 40 nm.
+</P>
+<P>
+10. The nitride semiconductor device according to claim 8 or 9, wherein the p-type impurity concentration in a region within the distance dB is less than the p-type impurity concentration of said first p-type semiconductor layer.
+</P>
+<P>
+11. The nitride semiconductor device according to claim 2 or 3,
+</P>
+<P>
+wherein said active layer and has a third barrier layer between the well layers; and
+</P>
+<P>
+the film thickness of said third barrier layer is smaller than the film thickness of said first barrier layer and said second barrier layer.
+</P>
+<P>
+12. The nitride semiconductor device according to any of the claims 1 to 11,
+</P>
+<P>
+wherein said p-type nitride semiconductor layer has an upper clad layer made of a nitride semiconductor that includes Al of which the average mixed crystal ratio x is in the range of 0 &amp;lt; x &amp;lt;= 0.05;
+</P>
+<P>
+said n-type nitride semiconductor layer has a lower clad layer made of a nitride semiconductor that includes Al of which the average mixed crystal ratio x is in the range of 0 &amp;lt; x &amp;lt;= 0.05; and the nitride semiconductor device has a laser device structure.
+</P>
+<P>
+13. The nitride semiconductor device according to Claim any of the claims 1 to 12, wherein said second barrier layer is arranged between well layers and the film thickness ratio Rt of said well layer to the second barrier layer is in the range of 0.5 &amp;lt;= Rt &amp;lt;= 3.
+</P>
+<P>
+14. The nitride semiconductor device according to claim 13,
+</P>
+<P>
+wherein the film thickness dw of said well layer is in the range of 40 A &amp;lt;= dw &amp;lt;= 100 A while the film thickness db of said second barrier layer is in the range of db &amp;lt;= 40 A.
+</P>
+<P>
+15. The nitride semiconductor device according to claim 11 or 12,
+</P>
+<P>
+wherein said p-type nitride semiconductor layer has an-upper clad layer made of a nitride semiconductor that includes Al;
+</P>
+<P>
+said n-type nitride semiconductor layer has a lower clad layer made of a nitride semiconductor; and
+</P>
+<P>
+the nitride semiconductor device has a optical wave guide wherein a light guiding layer is formed between said active layer and said upper or lower clad layer.
+</P>
+<P>
+16. The nitride semiconductor device according to claims 12 or 15, wherein said upper clad layer has a first clad layer arranged near said active layer and a second clad layer arranged to have more distance from said active layer and having a larger band-gap energy than said first clad layer.
+</P>
+<P>
+17. The nitride semiconductor device according to any of the claims 8 to 10, wherein said p-type semiconductor layer has a p-type clad layer; said first p-type semiconductor layer is arranged between said p-type clad layer and said active layer; and said first p-type semiconductor layer has: a higher Al concentration than said p-type clad layer.
+</P>
+<P>
+18. The nitride semiconductor device according to any of the claims 1 to 17, wherein the n-type impurity concentration of said well layer is not more than 1*10&amp;lt;17&amp;gt;cm&amp;lt;-3&amp;gt;.
+</P>
+</Claims>
+<Also_published_as>
+US2002053676A1;US6586762B2;US2005098789A1;US7119378B2;US2008029758A1;US7750337B2;US2003205736A1;US6838693B2;US2006131604A1;US7646009B2;TWI259634B;TWI258904B;TW587355B;KR20060090308A;KR100762949B1;KR20060089758A;KR100803101B1;WO0205399A1;EP2262068A2;EP2262068A3;EP2276125A2;EP2276125A3;EP1313187A1;EP1313187A4;EP1313187B1;CN1790760A;CN1790760B;CN1440579A;CN1440579B;CA2415056A1;CA2415056C;AU6945901A;AT441955T
+</Also_published_as>
+</BiblioData>

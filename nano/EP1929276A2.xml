@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOTUBE SENSOR SYSTEM AND METHOD OF USE
+</Title>
+<PublicationNumber>
+EP1929276A2
+</PublicationNumber>
+<Inventor>
+<Name>
+WARD JONATHAN W [US]
+</Name>
+<Name>
+SEGAL BRENT M [US]
+</Name>
+<Name>
+WARD, JONATHAN W
+</Name>
+<Name>
+SEGAL, BRENT M
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANTERO INC [US]
+</Name>
+<Name>
+NANTERO, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1929276
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060802998
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US34627
+</PriorityNumber>
+<PriorityDate>
+2006-09-06
+</PriorityDate>
+<PriorityNumber>
+US20050714388P
+</PriorityNumber>
+<PriorityDate>
+2005-09-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N21/00
+</Class>
+<Class>
+G01N21/65
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N21/65
+</Class>
+</NCL>
+<Abstract>
+Under one aspect, a system for sensing the presence of an analyte in a fluid includes a nanotube sensor element including a plurality of nanotubes and positioned for exposure to a fluid;  an optical source capable of generating optical radiation, the radiation having a source frequency and a fluence selected to generate a nonlinear optical response by the nanotube sensor element;  an optical detector capable of measuring the nonlinear optical response by the nanotube sensor element;  and logic in electrical communication with the optical detector to sense the presence of an analyte in the fluid based on the nonlinear optical response measured by the optical detector.
+</Abstract>
+<Claims>
+<P>
+1. A system for sensing the presence of an analyte in a fluid, the system comprising: a nanotube sensor element comprising a plurality of nanotubes and positioned for exposure to a fluid; an optical source capable of generating optical radiation, the radiation having a source frequency and a fluence selected to generate a nonlinear optical response by the nanotube sensor element; an optical detector capable of measuring the nonlinear optical response by the nanotube sensor element; and logic in electrical communication with the optical detector to sense the presence of an analyte in the fluid based on the nonlinear optical response measured by the optical detector.
+</P>
+<P>
+2. The system of claim 1, wherein the nanotube sensor element comprises a nonwoven fabric of nanotubes.
+</P>
+<P>
+3. The system of claim 1 , wherein the nonlinear optical response of the nanotube sensor element comprises the nanotube sensor element radiating optical energy at a different frequency than the source frequency.
+</P>
+<P>
+4. The system of claim 3, wherein the nonlinear optical response of the nanotube sensor element comprises radiation at the third harmonic of the source frequency.
+</P>
+<P>
+5. The system of claim 3, wherein attachment of the analyte to the nanotube sensor element changes the nonlinear optical response of the nanotube sensor element.
+</P>
+<P>
+6. The system of claim 5, wherein attachment of the analyte to the nanotube sensor element causes a charge transfer between the nanotube sensor element and the analyte.
+</P>
+<P>
+7. The system of claim 6, wherein the charge transfer changes the nonlinear optical response of the nanotube sensor element.
+</P>
+<P>
+8. The system of claim 5, wherein the logic is capable of determining the change in the nonlinear optical response of the nanotube sensor element caused by attachment of the analyte and thus sensing the presence of the analyte.
+</P>
+<P>
+9. The system of claim 5, wherein the change in the nonlinear response of the nanotube sensor element comprises a change in frequency of optical energy radiated by the nanotube sensor element.
+</P>
+<P>
+10. The system of claim 9, wherein the optical detector detects the change in frequency of optical energy radiated by the nanotube sensor element.
+</P>
+<P>
+11. The system of claim 1 , wherein the nanotubes of the nanotube sensor element comprise pristine nanotubes.
+</P>
+<P>
+12. The system of claim 1 , wherein the nanotubes of the nanotube sensor element comprise nanotubes that are functionalized with analyte-specific molecules.
+</P>
+<P>
+13. The system of claim 1 , wherein the nanotubes of the nanotube sensor element comprise nanotubes that are derivitized with analyte-specific molecules.
+</P>
+<P>
+14. The system of claim 1 , wherein the nanotubes of the nanotube sensor element comprise nanotubes that are functionalized with a nonlinear material.
+</P>
+<P>
+15. The system of claim 14, wherein the nonlinear material causes a change in the nonlinear optical response of the nanotube sensor element.
+</P>
+<P>
+16. The system of claim 15, wherein the change in the nonlinear optical response comprises a change in frequency of optical energy radiated by the nanotube sensor element.
+</P>
+<P>
+17. The system of claim 1 , wherein the nanotubes of the nanotube sensor element are functionalized so as to have or increase an affinity for a particular analyte.
+</P>
+<P>
+18. The system of claim 1 , wherein the nanotubes of the nanotube sensor element are derivitized so as to have or to increase an affinity for a particular analyte.
+</P>
+<P>
+19. The system of claim 1, wherein the nanotube sensor element is functionalized so as to have or to increase an affinity for multiple analytes.
+</P>
+<P>
+20. The system of claim 1, wherein the nanotube sensor element is derivitized so as to have or to increase an affinity for multiple analytes.
+</P>
+<P>
+21. The system of claim 1, wherein the nanotube sensor element comprises supports defining a gap over which at least a portion of the plurality of nanotubes is suspended.
+</P>
+<P>
+22. The system of claim 21 , further comprising material that clamps at least a portion of the plurality of nanotubes to at least a portion of the supports.
+</P>
+<P>
+23. The system of claim 1, wherein the nanotube sensor element comprises a substrate on which the plurality of nanotubes is disposed.
+</P>
+<P>
+24. The system of claim 1, wherein the optical source comprises a laser.
+</P>
+<P>
+25. The system of claim 1, wherein the optical detector comprises a photodiode.
+</P>
+<P>
+26. The system of claim 1, wherein the nanotube sensor element further comprises nanowires.
+</P>
+<P>
+27. The system of claim 1, wherein the system is capable of sensing an analyte selected from the group consisting of a gaseous element, an airborne molecule, an organic molecule, an inorganic molecule, and a biological molecule.
+</P>
+<P>
+28. The system of claim 27, wherein the biological molecule is selected from the group consisting of a peptide, a protein, and a nucleic acid.
+</P>
+<P>
+29. The system of claim 1, wherein the nanotubes of the nanotube sensor element comprise substantially a monolayer of nanotubes.
+</P>
+<P>
+30. A method of using a nanofabric sensor to sense the presence of an analyte in a fluid, the method comprising: characterizing a nanotube sensor element, the nanotube sensor element comprising a plurality of nanotubes, the characterization including: irradiating the nanotube sensor element with a first optical beam having a frequency and a fluence selected to generate a first nonlinear optical response in the nanofabric sensor element, and measuring the first nonlinear optical response of the nanotube sensor element; exposing the nanotube sensor element to a fluid; characterizing the nanotube element after fluid exposure, the characterization including: irradiating the nanotube sensor element with a second optical beam having a frequency and a fluence substantially the same as the frequency and fluence of the first optical beam to generate a second nonlinear optical response in the nanotube sensor element, and measuring the second nonlinear optical response of the nanotube sensor element; and comparing the first and second nonlinear optical responses of the nanotube sensor element to sense the presence of an analyte in the fluid.
+</P>
+<P>
+31. The method of claim 30, wherein the nanotube sensor element comprises a non- woven fabric of nanotubes.
+</P>
+<P>
+32. The method of claim 30, wherein the first nonlinear response of the nanotube sensor element is at a different frequency than the second nonlinear response of the nanotube sensor element.
+</P>
+<P>
+33. The method of claim 32, wherein the frequency of the second nonlinear response of the nanotube sensor element is the third harmonic of the first nonlinear response of the nanotube sensor element.
+</P>
+<P>
+34. The method of claim 30, further comprising functionalizing the nanotubes to have or to enhance an affinity for the analyte.
+</P>
+<P>
+35. The method of claim 30, further comprising derivitizing the nanotubes to have or to enhance an affinity for the analyte.
+</P>
+<P>
+36. The method of claim 30, further comprising functionalizing the nanotubes to have or to enhance an affinity for a plurality of analytes.
+</P>
+<P>
+37. The method of claim 30, further comprising derivitizing the nanotubes to have or to enhance an affinity for a plurality of analytes.
+</P>
+<P>
+38. The method of claim 30, comprising generating the radiation with a laser.
+</P>
+<P>
+39. The method of claim 30, wherein the fluid comprises a gas.
+</P>
+<P>
+40. The method of claim 30, wherein the fluid comprises a liquid.
+</P>
+</Claims>
+<Also_published_as>
+EP1929276A4;EP1929276B1;WO2007030484A2;WO2007030484A3;US2009140167A1;CA2621103A1;AU2006287610A1;AT518131T
+</Also_published_as>
+</BiblioData>

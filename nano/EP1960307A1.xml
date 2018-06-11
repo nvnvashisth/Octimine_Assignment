@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MICRO-ELECTROMECHANICAL SYSTEM COMPRISING A DEFORMABLE PORTION AND A STRESS SENSOR
+</Title>
+<PublicationNumber>
+EP1960307A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ROWE ALISTAIR [FR]
+</Name>
+<Name>
+RENNER CHRISTOPH [GB]
+</Name>
+<Name>
+ARSCOTT STEVE [FR]
+</Name>
+<Name>
+ROWE, ALISTAIR
+</Name>
+<Name>
+RENNER, CHRISTOPH
+</Name>
+<Name>
+ARSCOTT, STEVE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ECOLE POLYTECH [FR]
+</Name>
+<Name>
+ECOLE POLYTECHNIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1960307
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060841917
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006FR02713
+</PriorityNumber>
+<PriorityDate>
+2006-12-12
+</PriorityDate>
+<PriorityNumber>
+FR20050012740
+</PriorityNumber>
+<PriorityDate>
+2005-12-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81B3/00
+</Class>
+<Class>
+G01Q60/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01L1/22E2
+</Class>
+<Class>
+G01L9/00D2B
+</Class>
+<Class>
+G01P15/12
+</Class>
+<Class>
+G01Q20/04
+</Class>
+<Class>
+G01Q60/38
+</Class>
+</NCL>
+<Abstract>
+The system has a stress detector (10) connected to a beam (1) and comprising a base portion (2) and shunt portion (3). The portions are juxtaposed such that the portion (2) is in electrical contact with the portion (3), where materials of the portions are selected such that contact resistance between the portions varies based on system&apos;s deformation. The portion (3) has electrical conductivity greater than that of the portion (2). Electrical connections (4a-4d) are arranged such that the modification of distribution of current in the portions is detected from the connections. An independent claim is also included for a method of forming a micro-electromechanical system from a substrate.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Systeme micro-electromecanique comprenant une partie deformable (1) et au moins un detecteur de contrainte (10, 20) solidaire de ladite partie deformable, chaque detecteur comprenant : - une portion de base (2) et une portion de shunt (3), conductrices electriquement et juxtaposees sur la partie deformable (1) de sorte que la portion de base et la portion de shunt sont en contact electrique rune avec I&apos;autre selon des cotes respectifs accoles desdites portions, la portion de shunt ayant une conductivite electrique superieure a une conductivite de la portion de base, et - un ensemble de connexions electriques (4a-4h, 5a-5h) reliees a la portion de base (2) en dehors d&apos;une zone de contact de ladite portion de base avec la portion de shunt, et agencees de sorte qu&apos;une modification d&apos;une repartition d&apos;un courant electrique dans les portions de base et de shunt peut titre detectee electriquement a partir desdites connexions, systeme dans lequel des materiaux respectifs des portions de base (2) et de shunt (3) sont choisis de sorte qu&apos;une resistance de contact entre lesdites portions varie en fonction d&apos;une deformation du systeme.
+</P>
+<P>
+2. Systeme micro-electromecanique selon la revendication 1, dans lequel la portion de base (2) est en materiau semiconducteur, et la portion de shunt (3) est de type metallique.
+</P>
+<P>
+3. Systeme micro-electromecanique selon la revendication 1 ou 2, dans lequel I&apos;ensemble de connexions (4a-4h, 5a-5h) comprend au moins trois connexions electriques, deux desdites connexions etant adaptees pour alimenter le detecteur (10, 20) en courant electrique et deux desdites connexions etant adaptees pour detecter une tension electrique creee par !edit courant.- 23 -
+</P>
+<P>
+4. Systeme micro-electromecanique selon rune quelconque des revendications precedentes, comprenant deux detecteurs de contrainte (10, 20) solidaires de la partie deformable (1).
+</P>
+<P>
+5. Systeme micro-electromecanique selon la revendication 4, dans lequel les deux detecteurs de contrainte (10, 20) sont disposes sur deux faces opposees de la partie deformable (1).
+</P>
+<P>
+6. Systeme micro-electromecanique selon la revendication 5, dans lequel les deux detecteurs de contrainte (10, 20) sont disposes pour permettre une mesure differentielle d&apos;une deformation de la partie deformable (1).
+</P>
+<P>
+7. Systeme micro-electromecanique selon la revendication 6, comprenant en outre au moins un circuit electronique de mesure differentielle, [edit circuit etant connecte a des connexions electriques (4a-4h, 5a-5h) reliant respectivement les deux detecteurs (10, 20), et etant integre dans le systeme micro-electromecanique.
+</P>
+<P>
+8. Systeme micro-electromecanique selon la revendication 7, dans lequel le circuit electronique de mesure differentielle cornprend un pont, tel qu&apos;un pont de Wheatstone ou un pont de Kelvin.
+</P>
+<P>
+9. Systeme micro-electromecanique selon rune quelconque des revendications precedentes, dans lequel la partie deformable (1) comprend une poutre.
+</P>
+<P>
+10. Systeme micro-electromecanique selon la revendication 9, dans lequel au moins un detecteur de contrainte (10, 20) est dispose sur la poutre (1) sensiblement a mi-longueur de ladite poutre.
+</P>
+<P>
+11. Systeme micro-electromecanique selon la revendication 9 ou 10, comprenant une partie fixe (110) et dans lequel la poutre (1) possede une extremite libre (11) et une extremite rigidement connectee a ladite partie fixe (12).- 24 -
+</P>
+<P>
+12. Systeme micro-electromecanique selon la revendication 11, dans Iequel au moins un detecteur de contrainte (10) est dispose a proximite de I&apos;extremite de la poutre connectee a la partie fixe.
+</P>
+<P>
+13. Systeme micro-electromecanique selon rune quelconque des revendications 9 a 12, dans lequel les connexions electriques (4a-4h, 5a-5h) sont agencees sur la portion de base de chaque detecteur (2) de sorte qu&apos;une deformation de la poutre (1) par flexion peut titre detectee electriquement a partir desdites connexions.
+</P>
+<P>
+14. Systeme micro-electromecanique selon rune quelconque des revendications 9 a 12, dans lequel les connexions electriques (4a-4h, 5a-5h) sont agencees sur la portion de base de chaque detecteur (2) de sorte que des deformations de la poutre (1) de deux modes differents peuvent titre detectees separement a partir desdites connexions.
+</P>
+<P>
+15. Microscope a force atomique comprenant un systeme micro-electromecanique selon rune quelconque des revendications 11 a 13, la poutre (1) formant une partie d&apos;un bras dudit microscope destine a detecter des variations de hauteur ou de friction d&apos;une surface observee.
+</P>
+<P>
+16. Analyseur de composition d&apos;un fluide, comprenant un systeme micro-electromecanique selon rune quelconque des revendications 1 a 14.
+</P>
+<P>
+17. Biodetecteur comprenant un systeme micro-electromecanique selon rune quelconque des revendications 1 a 14, dans lequel la partie deformable (1) est adaptee pour titre deformee lorsque des molecules initialement contenues dans un fluide analyse sont adsorbees dans une zone determines de ladite partie deformable.
+</P>
+<P>
+18. Biodetecteur selon la revendication 17, dans lequel la partie deformable (1) comprend une couche d&apos;or (13) dans ladite zone determines, et dans lequel les molecules (M) contenues dans le fluide analyse sont adsorbees sur la couche d&apos;or par I&apos;intermediaire de terminaisons thiols desdites molecules.- 25 -
+</P>
+<P>
+19. Biodetecteur selon la revendication 17, dares lequel la partie deformable (1) est modifiee en surface dans ladite zone determinee par des fonctions chimiques greffees sur ladite partie deformable, et choisies pour fixer selectivement des molecules (M) contenues dans le fluide analyse.
+</P>
+<P>
+20. Biodetecteur selon la revendication 19, dares lequel la partie deformable (1) comprend une couche d&apos;or (13) dans ladite zone determinee, et dans Iequel les fonctions chimiques sont greffees sur la couche d&apos;or par I&apos;intermediaire de terminaisons thiols desdites fonctions.
+</P>
+<P>
+21. Appareil d&apos;analyse biologique, comprenant un systeme micro-electromecanique selon rune quelconque des revendications 1 a 14.
+</P>
+<P>
+22. Appareil d&apos;analyse biologique selon la revendication 21, adapte pour realiser une analyse medicale.
+</P>
+<P>
+23. Accelerometre comprenant un systeme micro-electromecanique selon rune quelconque des revendications 1 a 14.
+</P>
+<P>
+24. Coussin de securite gonflable comprenant un accelerometre selon la revendication 23, ledit accelerometre etant adapte pour declencher un gonflement du coussin.
+</P>
+<P>
+25. Utilisation d&apos;un systeme micro-electromecanique selon rune quelconque des revendications 1 a 14, pour detecter urie deformation d&apos;un support sur lequel est fixe !edit systeme.
+</P>
+<P>
+26. Utilisation selon la revendication 25, dans Iaquelle le support est une partie d&apos;avion, une partie de structure de batiment, une partie de pont, un rail, ou une partie de tete de forage.
+</P>
+<P>
+27. Utilisation selon la revendication 25, dans laquelle le support est une membrane de separation entre deux compartiments ayant des pressions internes respectives susceptibles de varier rune par rapport a I&apos;autre.
+</P>
+<P>
+28. Capteur d&apos;une grandeur d&apos;un fluide comprenant un systeme microelectromecanique selon rune quelconque des revendications 1 a 14, ladite- 26 - grandeur etant selectionnee parmi une densite, une temperature ou une vitesse d&apos;ecoulement dudit fluide, ou une masse deposee par ledit fluide sur la partie mobile (1), ledit capteur etant agence pour detecter une variation d&apos;une amplitude ou d&apos;une frequence de vibration de la partie mobile provoquee par une variation de ladite grandeur du fluide.
+</P>
+<P>
+29. Procede de realisation d&apos;un systeme micro-electromecanique a partir d&apos;un substrat comportant une partie principale (100) et une couche superieure (102), la couche superieure etant separee de la partie principale du substrat par une couche intermediaire (101), le procede comprenant les etapes suivantes : /a/ former, a la surface de la couche superieure (102), une portion de base (2) en un premier materiau conducteur electriquement ; /b/ former, a la surface de la couche superieure (102) et contre la portion de base (2), une portion de shunt (3) en un second materiau plus 15 conducteur que ledit premier materiau ; /c/ former un ensemble de connexions electriques (4a-4h) reliant la portion de base en dehors d&apos;une zone de contact entre la portion de base et la portion de shunt ; /d/ graver la couche superieure (102) sur au moins deux cotes opposes 20 d&apos;une partie residuelle (1) de ladite couche superieure, ladite partie residuelle s&apos;etendant a partir d&apos;une zone de la couche superieure portant les portions de base (2) et de shunt (3) ; et /e/ retirer la partie principale du substrat (100) et la couche intermediaire (101) dans une zone du substrat contenant la partie residuelle de la 25 couche superieure (1).
+</P>
+<P>
+30. Procede selon la revendication 29, suivant lequel la couche superieure (102) est sensiblement monocristalline, et suivant lequel la portion de base (2) est formee par croissance epitaxiale a partir de ladite couche superieure.- 27 -
+</P>
+<P>
+31. Procede selon la revendication 29 ou 30, suivant lequel au moins une parmi les portions de base (2) et de shunt (3) est formee en utilisant un procede lithographique.
+</P>
+</Claims>
+<Also_published_as>
+FR2894953A1;US2009301176A1;JP2009519454A;WO2007080259A1
+</Also_published_as>
+</BiblioData>

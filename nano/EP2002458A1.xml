@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PARTICLE-BEAM EXPOSURE APPARATUS WITH OVERALL- MODULATION OF A PATTERNED BEAM
+</Title>
+<PublicationNumber>
+EP2002458A1
+</PublicationNumber>
+<Inventor>
+<Name>
+PLATZGUMMER ELMAR [AT]
+</Name>
+<Name>
+PLATZGUMMER, ELMAR
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IMS NANOFABRICATION AG [AT]
+</Name>
+<Name>
+IMS NANOFABRICATION AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2002458
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070710522
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007AT00132
+</PriorityNumber>
+<PriorityDate>
+2007-03-16
+</PriorityDate>
+<PriorityNumber>
+AT20060000566
+</PriorityNumber>
+<PriorityDate>
+2006-04-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01J37/04
+</Class>
+<Class>
+H01J37/317
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01J37/04B
+</Class>
+<Class>
+H01J37/317B2
+</Class>
+<Class>
+H01J37/317B4
+</Class>
+</NCL>
+<Abstract>
+In a charged-particle exposure apparatus (100) for exposure of a target (41) with a beam of electrically charged particles, the illumination system (101) comprises a deflector means (401) adapted to vary the direction of incidence of the illuminating beam upon the pattern definition means, the pattern definition means (20) forms the shape of the illuminating beam into a desired pattern, and the projection optics system (103) projects an image of the beam shape defined in the pattern definition means onto the target (41); ;  the projection optics system comprises a blocking aperture means (204) having an opening and being adapted to block passage of beams traversing outside said opening, namely when the deflector means (401) is activated to tilt the beamlet by a sufficient angle from its non-deflected path, e.g., for blanking out during the process of loading a pattern into the pattern definition means.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A charged-particle exposure apparatus (100) for exposure of a target (41) with a beam of electrically charged particles, said apparatus comprising an illumination system (101), a pattern definition means (20) and a projection optics system (103), the illumination system (101) being adapted to produce the beam illuminating the pattern definition means, the pattern definition means (20) being adapted to form the shape of the illuminating beam into a desired pattern, and the projection optics system (103) being adapted to project an image of the beam shape defined in the pattern definition means onto the target (41), wherein the pattern definition means comprises a plurality of apertures adapted to shape the cross-section of the illuminating beam into a multitude of beamlets, by allowing the passage of the illuminating beam only through said plurality of apertures defining the shape of beamlets permeating said apertures, said means further comprising a blanking means having a plurality of individual beamlet deflectors adapted to selectively divert the respective beamlets from respective nominal imaging paths, wherein the illuminating system (101) further comprises a deflector means (401) adapted to vary the direction of incidence of the illuminating beam upon the pattern definition means from a primary incidence axis, and the projection optics system comprises a blocking aperture means (204) having an opening and being adapted to block passage of beams traversing outside said opening.
+</P>
+<P>
+2. The apparatus according to claim 1, wherein said deflector means (401) is adapted to vary the direction of incidence of the illuminating beam by up to 5 mrad from the primary incidence axis.
+</P>
+<P>
+3. The apparatus according to claim 1 or 2, wherein the common deflector is adapted to vary the direction of incidence of the illuminating beam to varying directions around the primary incidence axis.
+</P>
+<P>
+4. The apparatus according to any one of claims 1 to 3, comprising a control means adapted to generate a common blanking control signal for said deflector means (401) which, as a function of time, switches between two states, namely, a first state wherein the illuminating beam propagates to the pattern definition device along the primary incidence axis (&quot;common blank-in&quot;) and a second state wherein the deflector means (401) is activated to deflect the illuminating beam by a minimum angle sufficient to direct the path of the beam off the opening of the blocking aperture means blocking the entire beam (&quot;common blank- out&quot;).
+</P>
+<P>
+5. The apparatus according to claim 4, wherein the common blanking control signal is synchronized with at least one control signal controlling validity of pattern information represented within the pattern definition means.
+</P>
+<P>
+6. The apparatus according to claim 4 or 5, wherein the common blanking control signal is synchronized with a scanning movement of the image over the target on which the image is formed, said scanning movement comprising first time intervals wherein the position of the image is stabilized onto nominal positions of the target and second time intervals wherein the image would move over the target, said common blanking control signal controlling the deflector means for a common blank-in within said first time intervals.
+</P>
+<P>
+7. The apparatus according to any one of claims 4 to 6, wherein the control means is adapted to control a pulse length of the common blanking control signal for scaling the exposure dose produced by the beam on the target.
+</P>
+<P>
+8. The apparatus according to any one of claims 4 to 7, wherein the control means is adapted to control a time delay of the common blanking control signal for fine controlling the placement of beam image produced on the target.
+</P>
+<P>
+9. The apparatus according to any one of claims 1 to 8, wherein the pattern definition means (20) is positioned at the position of an objective plane of the projection optics system (103).
+</P>
+<P>
+10. The apparatus according to any one of claims 1 to 9, wherein the blocking aperture means (204) is located positioned at or near to the position a crossover (cl,c2) of the beam defined by the projection optics system (103).
+</P>
+<P>
+11. The apparatus according to any one of claims 1 to 10, wherein the blocking aperture means (204) is adapted to block passage of beam portions arising from the illuminating beam being deflected from the primary incidence axis by the deflector means (401) by more than a minimum angle.
+</P>
+<P>
+12. The apparatus according to claim 11, comprising a second blocking aperture means (206) adapted to block passage of beam portions arising from the beam being deflected by at least one of the beamlet deflectors of the pattern definition means.
+</P>
+<P>
+13. The apparatus according to claim 11 or 12, wherein the blocking aperture means (204) is adapted to also block passage of beam portions arising from the beam being deflected by at least one of the beamlet deflectors of the pattern definition means.
+</P>
+<P>
+14. The apparatus according to any one of claims 1 to 13, wherein the primary incidence axis is the optical axis (ex) of the illumination system.
+</P>
+</Claims>
+<Also_published_as>
+EP2002458B1;WO2007112465A1;WO2007112465A8;US2009200495A1;US7781748B2;JP2009532887A
+</Also_published_as>
+</BiblioData>

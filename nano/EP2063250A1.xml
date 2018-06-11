@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ATOMIC FORCE MICROSCOPE
+</Title>
+<PublicationNumber>
+EP2063250A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ANDO TOSHIO [JP]
+</Name>
+<Name>
+UCHIHASHI TAKAYUKI [JP]
+</Name>
+<Name>
+KODERA NORIYUKI [JP]
+</Name>
+<Name>
+TAKAHASHI NAOHISA [JP]
+</Name>
+<Name>
+ANDO, TOSHIO
+</Name>
+<Name>
+UCHIHASHI, TAKAYUKI
+</Name>
+<Name>
+KODERA, NORIYUKI
+</Name>
+<Name>
+TAKAHASHI, NAOHISA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV KANAZAWA NAT UNIV CORP [JP]
+</Name>
+<Name>
+NATIONAL UNIVERSITY CORPORATION KANAZAWA UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2063250
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070791426
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP64732
+</PriorityNumber>
+<PriorityDate>
+2007-07-27
+</PriorityDate>
+<PriorityNumber>
+JP20060238886
+</PriorityNumber>
+<PriorityDate>
+2006-09-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q20/00
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q10/06B
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</NCL>
+<Abstract>
+There is provided an atomic force microscope (AFM) with increase the speed and sensitivity of detection of the resonant frequency shift in a cantilever. An AFM (1) extracts a reference signal and a phase shift signal from a detection signal from a displacement sensor of the cantilever. The reference signal is restrained from a phase change in accordance with the resonant frequency shift. The phase shift signal has a phase shifted in accordance with the resonant frequency shift. The AFM (1) determines the phase difference of the phase shift signal from the reference signal, as the resonant frequency shift. The AFM (1) may detect the phase difference between a plus-minus inversion point on the reference signal and a corresponding plus-minus inversion point on the phase shift signal. The AFM (1) may adjust phase before phase detection.;  The phase adjustment may move the detection point for the resonant frequency shift defined on the oscillation waveforms to the plus-minus inversion point. The detection point is set at a position where the cantilever and a sample are closest to each other on the oscillation waveform.
+</Abstract>
+<Claims>
+<P>
+1. An atomic force microscope that causes a cantilever to self-excitedly oscillate at a resonant frequency and obtains information on a sample on the basis of a resonant frequency shift caused by an interaction between the cantilever and the sample, comprising:
+</P>
+<P>
+a displacement sensor for detecting displacement of the cantilever; and
+</P>
+<P>
+a resonant frequency shift detecting section for detecting the resonant frequency shift caused by the interaction between the cantilever and the sample on the basis of a detection signal from the displacement sensor, wherein
+</P>
+<P>
+the resonant frequency shift detecting section including:
+</P>
+<P>
+a reference signal extracting section for extracting a reference signal from the detection signal from the displacement sensor, the reference signal having a cycle corresponding to oscillation of the cantilever and being restrained from a phase change in accordance with the resonant frequency shift in the cantilever;
+</P>
+<P>
+a phase shift signal extracting section for extracting a phase shift signal from the detection signal from the displacement sensor, the phase shift signal having a cycle corresponding to oscillation of the cantilever and having a phase shifted in accordance with the resonant frequency shift in the cantilever; and a phase detecting section for determining the resonant frequency shift by determining, on the basis of the reference signal and the phase shift signal extracted by the reference signal extracting section and the phase shift signal extracting section, a phase difference of the phase shift signal from the reference signal.
+</P>
+<P>
+2. The atomic force microscope according to claim 1, wherein the reference signal extracting section and the phase shift signal extracting section are a reference signal extracting band pass filter and a phase shift signal extracting band pass filter which have different characteristics from each other, the phase shift signal extracting band pass filter has a peak frequency in the vicinity of a resonant frequency of free oscillation of the cantilever and the reference signal extracting band pass filter has a peak frequency at a position offset from the resonant frequency of free oscillation of the cantilever, and the reference signal extracting band pass filter is set to have a smaller Q value than the phase shift signal extracting band pass filter.
+</P>
+<P>
+3. The atomic force microscope according to claim 1, wherein the phase detecting section detects a phase difference between a plus-minus inversion point on an oscillation waveform of the reference signal and a plus-minus inversion point on an oscillation waveform of the phase shift signal.
+</P>
+<P>
+4. The atomic force microscope according to claim 3, wherein the phase detecting section has:
+</P>
+<P>
+a reference rectangular wave generating section for generating a reference rectangular wave from the reference signal, the reference rectangular wave having a rectangular end positioned at the plus-minus inversion point; and
+</P>
+<P>
+a phase shift rectangular wave generating section for generating a phase shift rectangular wave from the phase shift signal, the phase shift rectangular wave having a rectangular end positioned at the plus-minus inversion point, and
+</P>
+<P>
+the phase detecting section detects a phase difference between the reference rectangular wave and the phase shift rectangular wave.
+</P>
+<P>
+5. The atomic force microscope according to claim 4, wherein the phase detecting section further comprises:
+</P>
+<P>
+a difference rectangular wave generating section for determining a difference rectangular wave between the reference rectangular wave and the phase shift rectangular wave;
+</P>
+<P>
+a difference rectangular wave integrating section for integrating the difference rectangular wave; and
+</P>
+<P>
+an integral value acquiring section for acquiring an integral value after integrating one rectangle of the difference rectangular wave, wherein
+</P>
+<P>
+the phase detecting section detects the integral value as the phase difference between the reference rectangular wave and the phase shift rectangular wave.
+</P>
+<P>
+6. The atomic force microscope according to claim 5, comprising a trigger signal supply section for supplying a trigger signal for integral value acquisition to the integral value acquiring section, at a trigger position delayed from the rectangular end of the phase shift rectangular wave, on the basis of the phase shift rectangular wave generated by the phase shift rectangular wave generating section.
+</P>
+<P>
+7. The atomic force microscope according to claim 3, comprising:
+</P>
+<P>
+a phase adjusting section for adjusting phases of the reference signal and the phase shift signal extracted by the reference signal extracting section and the phase shift signal extracting section, wherein
+</P>
+<P>
+the phase adjusting section adjusts the phases of the reference signal and the phase shift signal so that a detection point for the resonant frequency shift, which is specified on an oscillation waveform of one cycle of each of the unadjusted reference signal and phase shift signal, moves to the plus-minus inversion point, and
+</P>
+<P>
+the phase detecting section uses the reference signal and the phase shift signal having the phases adjusted by the phase adjusting section to detect a phase difference between the plus-minus inversion point on the reference signal and the plus-minus inversion point on the phase shift signal.
+</P>
+<P>
+8. The atomic force microscope according to claim 7, wherein, on the basis of increase and decrease in the resonance frequency shift along the oscillation waveform of one cycle of the unadjusted phase shift signal, the detection point is set to be a point where the resonant frequency shift is maximum on the oscillation waveform of one cycle.
+</P>
+<P>
+9. The atomic force microscope according to claim 7, wherein the detection point is set to be a point where the cantilever and the sample approach or contact each other on amplitude waveforms of the unadjusted reference signal and phase shift signal.
+</P>
+<P>
+10. The atomic force microscope according to claim 7, wherein the phase adjusting section further adjusts the phase of at least one of the reference signal and the phase shift signal so that when the resonant frequency of the cantilever is the free oscillation resonant frequency, the phase of the reference signal matches that of the phase shift signal.
+</P>
+<P>
+11. The atomic force microscope according to claim 1, further comprising:
+</P>
+<P>
+a phase adjusting section for adjusting the phase of at least one of the reference signal and the phase shift signal extracted by the reference signal extracting section and the phase shift signal extracting section, wherein the phase adjusting section carries out phase adjustment such that when the resonant frequency of the cantilever is the free oscillation resonant frequency, the phase of the reference signal matches that of the phase shift signal.
+</P>
+<P>
+12. A resonant frequency shift detecting device for an atomic force microscope that causes a cantilever to self-excitedly oscillate at a resonant frequency and obtains information on a sample on the basis of a resonant frequency shift caused by an interaction between the cantilever and the sample, comprising:
+</P>
+<P>
+a reference signal extracting section for extracting a reference signal from a detection signal of a cantilever displacement, the reference signal having a cycle corresponding to oscillation of the cantilever and being restrained from a phase change in accordance with the resonant frequency shift in the cantilever;
+</P>
+<P>
+a phase shift signal extracting section for extracting a phase shift signal from the detection signal, the phase shift signal having a cycle corresponding to oscillation of the cantilever and having a phase shifted in accordance with the resonant frequency shift in the cantilever; and
+</P>
+<P>
+a phase detecting section for determining the resonant frequency shift by determining, on the basis of the reference signal and the phase shift signal extracted by the reference signal extracting section and the phase shift signal extracting section, a phase difference of the phase shift signal from the reference signal.
+</P>
+<P>
+13. A resonant frequency shift detecting method for an atomic force microscope that causes a cantilever to self-excitedly oscillate at a resonant frequency and obtains information on a sample on the basis of a resonant frequency shift caused by an interaction between the cantilever and the sample, comprising:
+</P>
+<P>
+extracting a reference signal from a detection signal of a cantilever displacement, the reference signal having a cycle corresponding to oscillation of the cantilever and being restrained from a phase change in accordance with the resonant frequency shift in the cantilever;
+</P>
+<P>
+extracting a phase shift signal from the detection signal, the phase shift signal having a cycle corresponding to oscillation of the cantilever and having a phase shifted in accordance with the resonant frequency shift in the cantilever; and
+</P>
+<P>
+determining the resonant frequency shift by determining, on the basis of the reference signal and the phase shift signal, a phase difference of the phase shift signal from the reference signal.
+</P>
+</Claims>
+<Also_published_as>
+EP2063250A4;US2010024082A1;US7975315B2;JP4496350B2;WO2008029562A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PATTERNING CRYSTALLINE COMPOUNDS ON SURFACES
+</Title>
+<PublicationNumber>
+EP1987552A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GOMEZ MARCOS [US]
+</Name>
+<Name>
+ERK PETER [DE]
+</Name>
+<Name>
+RICHTER FRAUKE [DE]
+</Name>
+<Name>
+BAO ZHENAN [US]
+</Name>
+<Name>
+LIU SHUHONG [US]
+</Name>
+<Name>
+GOMEZ, MARCOS
+</Name>
+<Name>
+ERK, PETER
+</Name>
+<Name>
+RICHTER, FRAUKE
+</Name>
+<Name>
+BAO, ZHENAN
+</Name>
+<Name>
+LIU, SHUHONG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BASF SE [DE]
+</Name>
+<Name>
+UNIV LELAND STANFORD JUNIOR [US]
+</Name>
+<Name>
+BASF SE
+</Name>
+<Name>
+THE BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1987552
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070704586
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP51455
+</PriorityNumber>
+<PriorityDate>
+2007-02-14
+</PriorityDate>
+<PriorityNumber>
+US20060353934
+</PriorityNumber>
+<PriorityDate>
+2006-02-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/00
+</Class>
+<Class>
+H01L51/05
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+H01L51/00A2B
+</Class>
+<Class>
+H01L51/00A4F4
+</Class>
+<Class>
+H01L51/05B2B2F2
+</Class>
+</NCL>
+<Abstract>
+A method of patterning the surface of a substrate with at least one organic semiconducting compound, comprising the steps of: (a) providing a stamp having a surface including a plurality of indentations formed therein defining an indentation pattern, said indentations being contiguous with a stamping surface and defining a stamping pattern, (b) coating said stamping surface with at least one compound (C1) capable of binding to the surface of the substrate and of binding at least one organic semiconducting compound (S), (c) contacting at least a portion of the surface of a substrate with said stamping surface to allow deposition of said compound (C1) on the substrate, (d) removing said stamping surface to provide a pattern of binding sites on the surface of the substrate, (e) applying a plurality of crystallites of the organic semiconducting compound (S);  to the surface of the substrate to enable at least a portion of the applied crystallites to bind to at least a portion of the binding sites on the surface of the substrate.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method of patterning the surface of a substrate with at least one crystalline compound, comprising the steps of:
+</P>
+<P>
+(a) providing a stamp having a surface including a plurality of indentations formed therein defining an indentation pattern, said indentations being contiguous with a stamping surface and defining a stamping pattern,
+</P>
+<P>
+(b) coating said stamping surface with at least one compound (C1) capable of binding to the surface of the substrate and of binding at least one crystalline compound,
+</P>
+<P>
+(c) contacting at least a portion of the surface of a substrate with said stamping surface to allow deposition of said compound (C1) on the substrate,
+</P>
+<P>
+(d) removing said stamping surface to provide a pattern of binding sites on the surface of the substrate,
+</P>
+<P>
+(e) applying a crystalline compound to the surface of the substrate to enable at least a portion of the applied crystals to bind to at least a portion of the binding sites on the surface of the substrate.
+</P>
+<P>
+2. A method of patterning the surface of a substrate with at least one crystalline compound, comprising the steps of:
+</P>
+<P>
+(a) providing a stamp having a surface including a plurality of indentations formed therein defining an indentation pattern, said indentations being contiguous with a stamping surface and defining a stamping pattern,
+</P>
+<P>
+(b) coating said stamping surface with at least one compound (C2) capable of binding to the surface of the substrate and to prevent binding of a crystalline compound,
+</P>
+<P>
+(c) contacting at least a portion of the surface of a substrate with said stamping surface to allow deposition of said compound (C2) on the substrate,
+</P>
+<P>
+(d) removing said stamping surface to provide a pattern of sites on the surface of the substrate that prevent binding of a crystalline compound,
+</P>
+<P>
+(e) applying a crystalline compound to the surface of the substrate to enable at least a portion of the applied crystals to bind to at least a portion of the surface of the substrate not covered with (C2).
+</P>
+<P>
+3. The method as claimed in claim 1 or 2, wherein the crystalline compound consists of a plurality of crystallites of at least one organic semiconducting compound (S).
+</P>
+<P>
+4. The method as claimed in claim 3, wherein the organic semiconductor (S) is employed in the form of particles having a maximum dimension of 5 millimeters or less, preferably of 1 mm or less and especially of 500 [mu]m or less.
+</P>
+<P>
+5. The method as claimed in claim 3, wherein the organic semiconductor (S) is employed in the form of particles with a length/width ratio of at least 1.05, preferably of at least 1.5, more preferably of at least 3.
+</P>
+<P>
+6. The method as claimed in claim 1, wherein the substrate with the pattern of binding sites obtained in step d) is contacted with at least one compound (C2) to prevent deposition of the crystalline compound on areas of the substrate not patterned with compound (C1).
+</P>
+<P>
+7. The method of claim 6, wherein the compound (C2) comprises hydrocarbon groups, preferably fluorinated hydrocarbon groups.
+</P>
+<P>
+8. The method as claimed in claim 2, wherein the substrate obtained in step d) with a pattern of sites on the surface that prevent binding of a crystalline compound is contacted with at least one compound (C1) to allow deposition of the crystalline compound on areas of the substrate not patterned with compound (C2).
+</P>
+<P>
+9. The method as claimed in claim 1 or 2, wherein a suspension of solid semiconductor particles in a liquid medium is used for the application of the crystallites of the organic semiconductor (S) to the surface of the substrate in step e).
+</P>
+<P>
+10. The method as claimed in claim 9, wherein the semiconductor has a solubility in the liquid medium of not more than 10 g/l at 25[deg.] C./1013 mbar.
+</P>
+<P>
+11. The method as claimed in claim 10, wherein liquid medium is selected from water and mixtures of water and at least one water-miscible organic solvent.
+</P>
+<P>
+12. The method as claimed in claim 1 or 2, wherein the application of the crystalline compound in step e) is effected by pipetting, dip-coating or spin-coating.
+</P>
+<P>
+13. The method as claimed in claim 1, wherein at least 90 % by weight, preferably at least 95% by weight, especially at least 99% by weight, of the crystalline compound bound to the surface of the substrate is bound to surface areas patterned with (C1).
+</P>
+<P>
+14. The method as claimed in claim 2, wherein at least 90 % by weight, preferably at least 95% by weight, especially at least 99% by weight, of the crystalline compound bound to the surface of the substrate is bound to surface areas not patterned with (C2).
+</P>
+<P>
+15. A method for producing a substrate comprising a pattern of organic field effect transistors, each transistor comprising:
+</P>
+<P>
+a crystallite of an organic semiconductor (S) located on the substrate;
+</P>
+<P>
+a gate structure positioned to control a conductivity of a channel portion of the crystallite; and
+</P>
+<P>
+conductive source and drain electrodes located at opposite ends of the channel portion,
+</P>
+<P>
+wherein the positioning of the crystallites comprises the steps of:
+</P>
+<P>
+(a) providing a stamp having a surface including a plurality of indentations formed therein defining an indentation pattern, said indentations being contiguous with a stamping surface and defining a stamping pattern,
+</P>
+<P>
+(b) coating said stamping surface with at least one compound (C1) capable of binding to the surface of the substrate and also capable of binding at least one organic semiconducting compound (S),
+</P>
+<P>
+(c) contacting at least a portion of the surface of a substrate with said stamping surface to allow deposition of said compound (C1) on the substrate,
+</P>
+<P>
+(d) removing said stamping surface to provide a pattern of binding sites on the surface of the substrate,
+</P>
+<P>
+(e) applying a plurality of crystallites of the organic semiconducting compound (S) to the surface of the substrate to enable at least a portion of the applied crystallites to bind to at least a portion of the binding sites on the surface of the substrate.
+</P>
+<P>
+16. A method for producing a substrate comprising a pattern of organic field effect transistors, each transistor comprising:
+</P>
+<P>
+a crystallite of an organic semiconductor (S) located on the substrate;
+</P>
+<P>
+a gate structure positioned to control a conductivity of a channel portion of the crystallite; and
+</P>
+<P>
+conductive source and drain electrodes located at opposite ends of the channel portion,
+</P>
+<P>
+wherein the positioning of the crystallites comprises the steps of:
+</P>
+<P>
+(a) providing a stamp having a surface including a plurality of indentations formed therein defining an indentation pattern, said indentations being contiguous with a stamping surface and defining a stamping pattern,
+</P>
+<P>
+(b) coating said stamping surface with at least one compound (C2) capable of binding to the surface of the substrate and to prevent binding of at least one organic semiconducting compound (S),
+</P>
+<P>
+(c) contacting at least a portion of the surface of a substrate with said stamping surface to allow deposition of said compound (C2) on the substrate,
+</P>
+<P>
+(d) removing said stamping surface to provide a pattern of sites on the surface of the substrate that prevent binding of a crystalline compound,
+</P>
+<P>
+(e) applying a plurality of crystallites of the organic semiconducting compound (S) to the surface of the substrate to enable at least a portion of the applied crystallites to bind to at least a portion of the surface of the substrate not covered with (C2).
+</P>
+<P>
+17. The method as claimed in claim 15 or 16, wherein the pattern of organic field effect transistors comprises gate structures that include a gate electrode located in the substrate.
+</P>
+<P>
+18. The method as claimed in claim 15 or 16, wherein the pattern of organic field effect transistors comprises conductive source electrodes and/or drain electrodes located on the substrate.
+</P>
+</Claims>
+<Also_published_as>
+US2007190783A1;US7795145B2;KR20090007284A;JP2009526911A;WO2007093622A1;CN101385155A
+</Also_published_as>
+</BiblioData>

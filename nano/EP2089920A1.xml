@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ORGANIC PHOTOVOLTAIC CELLS UTILIZING ULTRATHIN SENSITIZING LAYER
+</Title>
+<PublicationNumber>
+EP2089920A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FORREST STEPHEN R [US]
+</Name>
+<Name>
+YANG FAN [US]
+</Name>
+<Name>
+RAND BARRY P [US]
+</Name>
+<Name>
+FORREST, STEPHEN R
+</Name>
+<Name>
+YANG, FAN
+</Name>
+<Name>
+RAND, BARRY P
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV PRINCETON [US]
+</Name>
+<Name>
+UNIV MICHIGAN [US]
+</Name>
+<Name>
+THE TRUSTEES OF PRINCETON UNIVERSITY
+</Name>
+<Name>
+THE REGENTS OF THE UNIVERSITY OF MICHIGAN
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2089920
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070853199
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US24651
+</PriorityNumber>
+<PriorityDate>
+2007-11-29
+</PriorityDate>
+<PriorityNumber>
+US20060566134
+</PriorityNumber>
+<PriorityDate>
+2006-12-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/42F2
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+A photosensitive device includes a plurality of organic photoconductive materials disposed in a stack between a first electrode and a second electrode, including a first continuous layer of donor host material, a second continuous layer of acceptor host material, and at least one other organic photoconductive material disposed as a plurality of discontinuous islands between the first continuous layer and the second continuous layer. Each of these other photoconductive materials has an absorption spectra different from the donor host material and the acceptor host material. Preferably, each of the discontinuous islands consists essentially of a crystallite of the respective organic photoconductive material, and more preferably, the crystallites are nanocrystals.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A photosensitive device comprising: a first electrode and a second electrode; a plurality of organic photoconductive materials disposed in a stack between the first electrode and the second electrode including a first continuous layer of donor host material; a second continuous layer of acceptor host material; and at least one other organic photoconductive material disposed as a plurality of discontinuous islands between the first continuous layer and the second continuous layer, each of said at least one other photoconductive material having an absorption spectra different from the donor host material and the acceptor host material.
+</P>
+<P>
+2. The photosensitive device of claim 1, wherein each of the discontinuous islands consists essentially of a crystallite of the respective organic photoconductive material.
+</P>
+<P>
+3. The photosensitive device of claim 2, wherein each of the discontinuous islands has no dimension greater than 100 nm.
+</P>
+<P>
+4. The photosensitive device of claim 3, wherein a distance from any point within each of the islands to a boundary of the island is not more than one exciton diffusion length of the respective organic photoconductive material for a majority of the islands of each organic photoconductive material.
+</P>
+<P>
+5. The photosensitive device of claim 2, wherein the first continuous layer is in direct contact with the second continuous layer in-between the islands of said at least one other organic photoconductive material.
+</P>
+<P>
+6. The photosensitive device of claim 2, wherein a first organic photoconductive material of said at least one other organic photoconductive material is a small molecule.
+</P>
+<P>
+7. The photosensitive device of claim 6, wherein the donor host material and the acceptor host material are small molecules.
+</P>
+<P>
+8. The photosensitive device of claim 2, wherein a band gap of a first organic photoconductive material of said at least one other organic photoconductive material is less than a band gap of the donor host material and less than a band gap of the acceptor host material.
+</P>
+<P>
+9. The photosensitive device of claim 2, wherein a band gap of a first organic photoconductive material of said at least one other organic photoconductive material is greater than a band gap of the donor host material and greater than a band gap of the acceptor host material.
+</P>
+<P>
+10. The photosensitive device of claim 2, wherein a band gap of a first organic photoconductive material of said at least one other organic photoconductive material is in between a band gap of the donor host material and a band gap of the acceptor host material.
+</P>
+<P>
+11. The photosensitive device of claim 2, wherein a first organic photoconductive material of said at least one other organic photoconductive material has a hole mobility of less than
+</P>
+<P>
+1 x 10&amp;lt;~9&amp;gt; cm&amp;lt;2&amp;gt;/Vs and an absorption coefficient of at least 5 x 10&amp;lt;4&amp;gt; cm&amp;lt;&quot;1&amp;gt; across a wavelength band from 600 nm to 900 nm.
+</P>
+<P>
+12. The photosensitive device of claim 2, wherein a first organic photoconductive material of said at least one other organic photoconductive material is selected from tin (II) phthalocyanine (SnPc) and lead phthalocyanine (PbPc).
+</P>
+<P>
+13. The photosensitive device of claim 12, wherein the acceptor host material is C60.
+</P>
+<P>
+14. The photosensitive device of claim 2, wherein a first organic photoconductive material of said at least one other organic photoconductive material has an absorption coefficient of at least
+</P>
+<P>
+5 x 10&amp;lt;4&amp;gt; cm&amp;lt;&quot;1&amp;gt; across a wavelength oand from 600 nm to 900 nm.
+</P>
+<P>
+15. The photosensitive device of claim 14, further comprising a reflective surface, wherein at least a portion of the islands of the first organic photoconductive material are disposed at an optical path length of [lambda]\-d + [lambda]i/4 from the reflective surface of the device, where: [lambda]i is a wavelength in the wavelength band from 600 nm to 900 nm, d is an integer &amp;gt; 0, and the reflective surface is reflective to at least 50% of incident light at [lambda]j.
+</P>
+<P>
+16. The photosensitive device of claim 15, wherein the reflective surface is provided by one of the first electrode, the second electrode, and a reflector.
+</P>
+<P>
+17. The photosensitive device of claim 15, the plurality of organic photoconductive materials being part of a first cell in a stack of photoactive cells disposed between the first electrode and the second electrode, the device further comprising a second cell of the stack of photoactive cells, the second cell comprising at least one donor-acceptor heteroj unction, wherein the first cell and the second cell have different absorption characteristics, an average absorption of the first cell being greater than the average absorption of the second cell over a range of wavelengths [lambda]i +- 5%, and an average absorption of the second cell being greater than the average absorption of the first cell over a range of wavelengths [lambda]2 +- 5%, where [lambda] &amp;gt; [lambda]2 + 10%.
+</P>
+<P>
+18. The photosensitive device of claim 2, wherein the plurality of discontinuous islands include islands of a first photoconductive material of said at least one other photoconductive material and islands of a second photoconductive material of said at least one other photoconductive material, the first photoconductive material having an absorption spectra different from the second photoconductive material.
+</P>
+<P>
+19. The photosensitive device of claim 18, wherein a distance from any point within each island of the first photoconductive material to a boundary of the island is not more than one exciton diffusion length of the first organic photoconductive material for a majority of the islands of the first organic photoconductive material, and a distance from any point within each island of the second photoconductive material to a boundary of the island is not more than one exciton diffusion length of the second organic photoconductive material for a majority of the islands of the second organic photoconductive material.
+</P>
+<P>
+20. A method of fabricating a photosensitive optoelectronic device, comprising: depositing a first organic photoconductive material over a first electrode to form a first continuous layer; depositing a second organic photoconductive material over the first continuous layer to form a first discontinuous layer comprising a plurality of islands; depositing a third organic photoconductive material over the first discontinuous layer to form a second continuous layer; and depositing a second electrode over the second continuous layer, wherein one of the first organic photoconductive material and the second organic photoconductive material consists essentially of a donor host material, and an other of the first organic photoconductive material and the second organic photoconductive material consists essentially of an acceptor host material, and the second organic photoconductive material is a sensitizer having an absorption spectra different from the dcnor host material and the acceptor host material.
+</P>
+<P>
+21. The method of claim 20, wherein each island consists essentially of a crystallite of the second organic photoconductive material.
+</P>
+<P>
+22. The method of claim 21, wherein during the depositing of the second organic photoconductive material, each area of material growth contributes no more than 100 nm of growth in any dimension.
+</P>
+<P>
+23. The method of claim 22, wherein a distance from any point within each of the islands to a boundary of the island is not more than one exciton diffusion length of the second organic photoconductive material for a majority of the islands of the second organic photoconductive material.
+</P>
+<P>
+24. The method of claim 21, wherein a thickness of the first discontinuous layer is not greater than 200 A.
+</P>
+<P>
+25. The method of claim 24, wherein a thickness of the first discontinuous layer is not greater than 100 A.
+</P>
+<P>
+26. The method of claim 21, further comprising depositing a fourth organic photoconductive material, after depositing the first discontinuous layer but before depositing the second continuous layer, to form a second discontinuous layer comprising a plurality of islands, each island consisting essentially of a crystallite of the fourth organic photoconductive material, wherein during the depositing of the fourth organic photoconductive material, each area of material growth contributes no more than 100 nm of growth in any dimension, and wherein the fourth organic photoconductive material is a sensitizer having an absorption spectra different from the donor host material, the acceptor host material, and the second organic photoconductive material.
+</P>
+<P>
+27. The method of claim 26, wherein the first, second, third, and fourth organic photoconductive materials are small molecule materials.
+</P>
+<P>
+28. The method of claim 26, further comprising sequentially depositing additional organic photoconductive materials, after depositing the fourth organic photoconductive material but before depositing the second continuous layer, to form additional discontinuous layers comprising islands, each island consisting essentially of a crystallite of the respective organic photoconductive material, wherein during the depositing of each additional organic photoconductive material, each area of material growth contributes no more than 100 nm of growth in any dimension, wherein each additional organic photoconductive material is a sensitizer having an absorption spectra different from the donor host material, the acceptor host material, and the other sensitizers, including the second and fourth organic photoconductive materials, and wherein not more than 1 1 different sensitizers are deposited between the first continuous layer and the second continuous layer.
+</P>
+<P>
+29. The method of claim 21, wherein a band gap of the second organic photoconductive material is less than a band gap of the donor host material and less than a band gap of the acceptor host material.
+</P>
+<P>
+30. The method of claim 21, wherein a band gap of the second organic photoconductive material is greater than a band gap of the donor host material and greater than a band gap of the acceptor host material.
+</P>
+<P>
+31. The method of claim 21 , wherein a band gap of the second organic photoconductive material is in between a band gap of the donor host material and a band gap of the acceptor host material.
+</P>
+</Claims>
+<Also_published_as>
+WO2008066910A1;US2007215868A1;US8013240B2;TW200845448A;KR20090098848A;EP2378583A1;CN101627486A;CA2671323A1;AU2007325639A1
+</Also_published_as>
+</BiblioData>

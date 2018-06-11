@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method of manufacturing nanowires parallel to their support substrate
+</Title>
+<PublicationNumber>
+EP2058847A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DORNEL ERWAN [FR]
+</Name>
+<Name>
+BARBE JEAN-CHARLES [FR]
+</Name>
+<Name>
+ERNST THOMAS [FR]
+</Name>
+<Name>
+DORNEL, ERWAN
+</Name>
+<Name>
+BARBE, JEAN-CHARLES
+</Name>
+<Name>
+ERNST, THOMAS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2058847
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080168359
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-11-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+FR20070058933
+</PriorityNumber>
+<PriorityDate>
+2007-11-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/335
+</Class>
+<Class>
+H01L29/06
+</Class>
+<Class>
+H01L29/76
+</Class>
+<Class>
+H01L29/775
+</Class>
+<Class>
+H01L29/786
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/12W2
+</Class>
+<Class>
+H01L29/423D2B8G
+</Class>
+<Class>
+H01L29/66M6T6D
+</Class>
+<Class>
+H01L29/76D
+</Class>
+<Class>
+H01L29/775
+</Class>
+</NCL>
+<Abstract>
+The method involves forming a structure with regions and a bar of a length, on a support substrate. The bar is subjected to an annealing process under gaseous atmosphere to transform the bar into a nanowire having a radius, where the process is carried out in conditions e.g. temperature or duration, forming a necking on the nanowire during transformation. Dimensions of the bar are determined on the substrate from a ratio of the length and the radius before the formation, where the ratio is lower than 6 if the single necking is desired and higher than 6 if the double necking is desired. Independent claims are also included for the following: (1) a method for manufacturing a nanowire transistor (2) a nanowire transistor comprising a nanowire.
+</Abstract>
+<Claims>
+<P>
+1. Procédé de fabrication d&apos;au moins un nanofil, le nanofil étant parallèle à son substrat support, le procédé comprenant :
+</P>
+<P>
+- une étape de formation sur le substrat support d&apos;une structure comprenant un barreau de longueur Lwire et deux régions, une première extrémité du barreau étant solidaire de l&apos;une des deux régions et une deuxième extrémité du barreau étant solidaire de l&apos;autre région, la largeur du barreau étant inférieure à la largeur des régions,
+</P>
+<P>
+- une étape de soumission du barreau à un recuit sous atmosphère gazeuse pour transformer le barreau en nanofil de rayon r0, le recuit étant effectué dans des conditions permettant la formation d&apos;au moins un pincement se produisant sur le nanofil lors de la transformation du barreau en nanofil,caractérisé en ce que le procédé comprend une étape préliminaire consistant à déterminer les dimensions du barreau à former sur le substrat à partir du rapport Lwire/r0, ce rapport étant inférieur à 6 si un pincement unique est désiré, ce rapport étant supérieur à 6 si un pincement double est désiré.
+</P>
+<P>
+2. Procédé de fabrication selon la revendication 1, dans lequel, un pincement unique étant désiré, le rapport Lwire/r0 est compris entre 3,5 et 6.
+</P>
+<P>
+3. Procédé de fabrication selon la revendication 1, dans lequel, un pincement double étant désiré, le rapport Lwire/r0 est compris entre 6 et 8.
+</P>
+<P>
+4. Procédé de fabrication d&apos;au moins un nanofil selon l&apos;une quelconque des revendications 1 à 3, dans lequel la formation sur le substrat support de la structure comprenant un barreau et deux régions provoque la création d&apos;un évasement à chaque extrémité du barreau dans sa solidarisation avec les deux régions.
+</P>
+<P>
+5. Procédé de fabrication d&apos;au moins un nanofil selon la revendication 4, dans lequel l&apos;évasement se fait selon un angle de 45[deg.] sur chaque bord du nanofil.
+</P>
+<P>
+6. Procédé de fabrication d&apos;au moins un transistor à nanofil, comprenant :
+</P>
+<P>
+- la mise en oeuvre du procédé selon l&apos;une quelconque des revendications 1 à 5, l&apos;une des régions de la structure étant prévue pour constituer le drain du transistor, l&apos;autre région de la structure étant prévue pour constituer la source du transistor,
+</P>
+<P>
+- la formation d&apos;au moins une grille pour le transistor sur le nanofil à l&apos;emplacement dudit au moins un pincement.
+</P>
+<P>
+7. Transistor à nanofil réalisé par le procédé de fabrication de la revendication 6, comprenant un nanofil présentant un pincement unique et une grille unique recouvrant le pincement unique.
+</P>
+<P>
+8. Transistor à nanofil réalisé par le procédé de fabrication de la revendication 6, comprenant un nanofil présentant deux pincements et une grille unique recouvrant les deux pincements.
+</P>
+<P>
+9. Transistor à nanofil réalisé par le procédé de fabrication de la revendication 6, comprenant un nanofil présentant deux pincements et deux grilles, une première grille recouvrant un premier pincement et une deuxième grille recouvrant un deuxième pincement.
+</P>
+</Claims>
+<Also_published_as>
+US2009124050A1;FR2923652A1
+</Also_published_as>
+</BiblioData>

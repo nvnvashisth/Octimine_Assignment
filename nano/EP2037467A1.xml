@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+STACKED SEMICONDUCTOR CERAMIC CAPACITOR WITH VARISTOR FUNCTION AND METHOD FOR MANUFACTURING THE SAME
+</Title>
+<PublicationNumber>
+EP2037467A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TANI SHINSUKE [JP]
+</Name>
+<Name>
+KAWAMOTO MITSUTOSHI [JP]
+</Name>
+<Name>
+TANI, SHINSUKE
+</Name>
+<Name>
+KAWAMOTO, MITSUTOSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MURATA MANUFACTURING CO [JP]
+</Name>
+<Name>
+MURATA MANUFACTURING CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2037467
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070744494
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-31
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP61106
+</PriorityNumber>
+<PriorityDate>
+2007-05-31
+</PriorityDate>
+<PriorityNumber>
+JP20060183549
+</PriorityNumber>
+<PriorityDate>
+2006-07-03
+</PriorityDate>
+<PriorityNumber>
+JP20070018745
+</PriorityNumber>
+<PriorityDate>
+2007-01-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C04B35/46
+</Class>
+<Class>
+H01C7/10
+</Class>
+<Class>
+H01G4/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B32B18/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C04B35/47
+</Class>
+<Class>
+H01C7/115
+</Class>
+<Class>
+H01C7/18
+</Class>
+<Class>
+H01G4/12B2B
+</Class>
+<Class>
+H01G4/12E2
+</Class>
+<Class>
+H01G4/30
+</Class>
+</NCL>
+<Abstract>
+A monolithic semiconductor ceramic capacitor according to the present invention includes semiconductor ceramic layers 1a to 1g made of a semiconductor ceramic having a Sr site and a Ti site. The semiconductor ceramic satisfies the inequality 1.000 &amp;lt; m   1.020, wherein m represents the molar ratio of the Sr site to the Ti site. The semiconductor ceramic contains crystal grains and has grain boundary layers. The crystal grains contain a donor element such as La or Sm in the form of a solid solution. The grain boundary layers contain an acceptor element such as Mn, Co, Ni, or Cr. The amount of the acceptor element therein is equal to or less than 0.5 mol (preferably 0.3 to 0.5 mol) per 100 mol of Ti. The crystal grains have an average size of 1.0 [mu]m or less (preferably 0.5 to 0.8 [mu]m).;  Therefore, the monolithic semiconductor ceramic capacitor has good electrical properties, good resistivity, good dielectric strength, and high reliability and is suitable for thin or compact apparatuses.
+</Abstract>
+<Claims>
+<P>
+1. A monolithic semiconductor ceramic capacitor having a varistor function, comprising a monolithic sintered body and external electrodes located on both end surfaces of the monolithic sintered body, the monolithic sintered body being formed by firing a plurality of semiconductor ceramic layers and internal electrodes alternately arranged, the semiconductor ceramic layers being made of a semiconductor ceramic which is of a boundary insulative layer-type and which contains SrTiO3, the external electrodes being electrically connected to the internal electrodes,
+</P>
+<P>
+wherein the semiconductor ceramic has a Sr site, a Ti site, crystal grains, and grain boundary layers and satisfies the inequality 1.000 &amp;lt; m &amp;lt;= 1.020, where m represents the molar ratio of the Sr site to the Ti site; the crystal grains contain a donor element in the form of a solid solution; the grain boundary layers contain an acceptor element; the amount of the acceptor element therein is greater than 0 mol and equal to or less than 0.5 mol per 100 mol of Ti; and the crystal grains have an average size of 1.0 [micro]m or less.
+</P>
+<P>
+2. The monolithic semiconductor ceramic capacitor according to Claim 1, wherein the amount of the acceptor element is 0.3 to 0.5 mol per 100 mol of Ti.
+</P>
+<P>
+3. The monolithic semiconductor ceramic capacitor according to Claim 1 or 2, wherein the acceptor element is at least one selected from the group consisting of Mn, Co, Ni, and Cr.
+</P>
+<P>
+4. The monolithic semiconductor ceramic capacitor according to any one of Claims 1 to 3, wherein the donor element is at least one selected from the group consisting of La, Sm, Dy, Ho, Y, Nd, Ce, Nb, Ta, and W.
+</P>
+<P>
+5. The monolithic semiconductor ceramic capacitor according to any one of Claims 1 to 4, wherein the crystal grains have an average size of 0.5 to 0.8 [micro]m.
+</P>
+<P>
+6. The monolithic semiconductor ceramic capacitor according to any one of Claims 1 to 5, wherein the amount of a low-melting point oxide is equal to or less than 0.1 mol per 100 mol of Ti.
+</P>
+<P>
+7. The monolithic semiconductor ceramic capacitor according to Claim 6, wherein the low-melting point oxide is SiO2 .
+</P>
+<P>
+8. A method for manufacturing monolithic semiconductor ceramic capacitor, having a varistor function, containing a semiconductor ceramic which is of a boundary insulative layer-type and which contains SrTiO3, the method comprising:
+</P>
+<P>
+a pre-fired powder-preparing step of weighing ceramic raw materials including a donor compound such that the inequality 1.000 &amp;lt; m &amp;lt;= 1.020 holds, mixing the ceramic raw materials, and then pre-firing the mixture to prepare a pre-fired powder, where m represents the molar ratio of a Sr site to a Ti site;
+</P>
+<P>
+a heat-treated powder-preparing step of weighing an acceptor element such that the amount of the acceptor element is greater than 0 mol and equal to or less than 0.5 mol per 100 mol of Ti, mixing the acceptor element with the pre-fired powder, and then heat-treating this mixture to prepare a heat-treated powder;
+</P>
+<P>
+a laminate-preparing step of forming green ceramic sheets from the heat-treated powder and then alternately stacking the green ceramic sheets and internal electrode layers to prepare a laminate; and
+</P>
+<P>
+a firing step of primarily firing the laminate in a reducing atmosphere and then secondarily firing the resulting laminate in a slight reducing, air, or oxidizing atmosphere.
+</P>
+<P>
+9. The method according to Claim 8, wherein that mixture is pre-fired such that crystal grains in the pre-fired powder have an average size of 1.0 [micro]m or less.
+</P>
+<P>
+10. The method according to Claim 8 or 9, wherein the pre-firing temperature of that mixture is higher than the primarily firing temperature of the laminate.
+</P>
+</Claims>
+<Also_published_as>
+EP2037467A4;US2008117561A1;US7583493B2;KR20080037065A;KR100944100B1;JP4666269B2;WO2008004389A1;CN101341558A;CN101341558B
+</Also_published_as>
+</BiblioData>

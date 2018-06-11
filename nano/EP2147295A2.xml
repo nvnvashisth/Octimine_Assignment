@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SERS NANOTAG ASSAYS
+</Title>
+<PublicationNumber>
+EP2147295A2
+</PublicationNumber>
+<Inventor>
+<Name>
+NATAN MICHAEL J [US]
+</Name>
+<Name>
+NATAN, MICHAEL J
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BECTON DICKINSON CO [US]
+</Name>
+<Name>
+BECTON, DICKINSON AND COMPANY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2147295
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080826290
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US60871
+</PriorityNumber>
+<PriorityDate>
+2008-04-18
+</PriorityDate>
+<PriorityNumber>
+US20070912599P
+</PriorityNumber>
+<PriorityDate>
+2007-04-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C40B70/00
+</Class>
+<Class>
+G01N21/65
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C40B70/00
+</Class>
+<Class>
+G01N21/65D
+</Class>
+</NCL>
+<Abstract>
+A method of producing a surface enhanced Raman scattering spectrum which is useful for certain types of assays, in particular proximity assays. The method includes providing two SERS-active nanoparticles. The first SERS-active nanoparticle will absorb a photon at a first wavelength and emit a Raman-shifted photon at a second wavelength. The second SERS-active nanoparticle will absorb a photon at the second wavelength and emit a Raman-shifted photon at a third wavelength. Accordingly, when the first and second SERS-active nanoparticles are proximate to one another and the first SERS-active nanoparticle is illuminated at the first wavelength a Raman-shifted photon at the second wavelength may be emitted. This photon can be absorbed by the second SERS-active nanoparticle causing detectable emission of a second Raman-shifted photon at the third wavelength.;  Various assays may be designed based upon the above. Proximity assays using two SERS-active nanoparticles will have advantageous background signal characteristics.
+</Abstract>
+<Claims>
+<P>
+Claims:
+</P>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method of producing a surface enhanced Raman scattering (SERS) spectrum comprising: providing a first SERS active nanoparticle which, will absorb a photon at a first wavelength and emit a Raman shifted photon at a second wavelength; providing a second SERS active nanoparticle which will absorb a photon at the second wavelength and emit a Raman shifted photon at a third wavelength; bringing the first and second SERS active nanoparticles proximate to one another; and illuminating the first SERS active nanoparticle at the first wavelength causing the first SERS active nanoparticle to emit a Raman shifted photon at the second wavelength which is absorbed by the second SERS active nanoparticle causing emission of a second Raman shifted photon at the third, wavelength.
+</P>
+<P>
+2. The method of producing a surface enhanced Raman scattering (SERS) spectrum of claim 1 wherein the first SERS active nanoparticle and the second SERS active nanoparticle have different shapes.
+</P>
+<P>
+3. The method of producing a surface enhanced Raman scattering (SERS) spectrum of claim 2 wherein the first SERS active nanoparticle is spherical and the second SERS active nanoparticle is non-spherical.
+</P>
+<P>
+4. The method of producing a surface enhanced Raman scattering (SERS) spectrum of claim 2 wherein the first SERS active nanoparticle is solid and the second SERS active nanoparticle is hollow.
+</P>
+<P>
+5. The method of producing a surface enhanced Raman scattering (SERS) spectrum of claim 2 wherein the first SERS active nanoparticle is of uniform composition and the second SERS active nanoparticle has different compositions in a core and shell.
+</P>
+<P>
+6. The method of producing a surface enhanced Raman scattering (SERS) spectrum of claim 2 wherein the first SERS active nanoparticle comprises a single metal and the second SERS active nanoparticle comprises a mixture or alloy of two metals.
+</P>
+<P>
+7. The method of producing a surface enhanced Raman scattering (SERS) spectrum of claim 6 wherein the second SERS active nanoparticle comprises a mixture or alloy of Au and Ag.
+</P>
+<P>
+8. The method of producing a surface enhanced Raman scattering (SERS) spectrum of claim 1 wherein an absorbance maximum of the first SERS active nanoparticle is separated from an absorbance maximum of the second SERS active nanoparticle by between 200cm&amp;lt;&quot;1&amp;gt; and 3500 cm&amp;lt;&quot;1&amp;gt;.
+</P>
+<P>
+9. A proximity assay comprising: a first SERS active nanoparticle which will absorb a photon at a first wavelength and emit a Raman shifted photon at a second wavelength; a second SERS active nanoparticle which will absorb a photon at the second wavelength and emit a Raman shifted photon at a third wavelength; and a light source configured to emit light at the first wavelength; and a detector configured to detect light at the third wavelength.
+</P>
+<P>
+10. The proximity assay of claim 9 wherein the first SERS active nanoparticle and the second SERS active nanoparticle have different shapes.
+</P>
+<P>
+1 1. The proximity assay of claim 10 wherein the first SERS active nanoparticle is spherical and the second SERS active nanoparticle is non-spherical.
+</P>
+<P>
+12. The proximity assay of claim 10 wherein the first SERS active nanoparticle is solid and the second SERS active nanoparticle is hollow.
+</P>
+<P>
+13. The proximity assay of claim 10 wherein the first SERS active nanoparticle is of uniform composition and the second SERS active nanoparticle has different compositions in a core and shell.
+</P>
+<P>
+14. The proximity assay of claim 10 wherein the first SERS active nanoparticle comprises a single metal and the second SERS active nanoparticle comprises a mixture or alloy of two metals.
+</P>
+<P>
+15. The proximity assay of claim 14 wherein the second SERS active nanoparticle comprises a mixture or alloy of Au and Ag.
+</P>
+<P>
+16. The proximity assay of claim 9 wherein an absorbance maximum of the first SERS active nanoparticle is separated from an absorbance maximum of the second. SERS active nanoparticle by between 200cm&amp;lt;&quot;1&amp;gt; and 3500 cm&amp;lt;&quot;1&amp;gt;.
+</P>
+<P>
+17. A method of detecting an analyte of interest comprising: associating the analyte of interest with a Raman reporter having a
+</P>
+<P>
+SERS active vibrational peak at energy vl; illuminating the Raman reporter with light having a frequency of L; and detecting emitted light at a frequency of L-(2vl),
+</P>
+</Claims>
+<Also_published_as>
+EP2147295A4;WO2009009198A2;WO2009009198A3;US2010177306A1;JP2010525333A
+</Also_published_as>
+</BiblioData>

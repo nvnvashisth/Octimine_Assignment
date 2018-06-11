@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+GROUP III NITRIDE WHITE LIGHT EMITTING DIODE
+</Title>
+<PublicationNumber>
+EP2064751A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHUA SOO-JIN [SG]
+</Name>
+<Name>
+CHEN PENG [SG]
+</Name>
+<Name>
+CHEN ZHEN [SG]
+</Name>
+<Name>
+TAKASUKA EIRYO [JP]
+</Name>
+<Name>
+CHUA, SOO-JIN
+</Name>
+<Name>
+CHEN, PENG
+</Name>
+<Name>
+CHEN, ZHEN
+</Name>
+<Name>
+TAKASUKA, EIRYO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+AGENCY SCIENCE TECH &amp; RES [SG]
+</Name>
+<Name>
+SUMITOMO ELECTRIC INDUSTRIES [JP]
+</Name>
+<Name>
+AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH
+</Name>
+<Name>
+SUMITOMO ELECTRIC INDUSTRIES, LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2064751
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060810802
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP319396
+</PriorityNumber>
+<PriorityDate>
+2006-09-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L33/06
+</Class>
+<Class>
+H01L33/30
+</Class>
+<Class>
+H01L33/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01L21/02K4B1B1
+</Class>
+<Class>
+H01L21/02K4C1B1
+</Class>
+<Class>
+H01L21/02K4C3C1
+</Class>
+<Class>
+H01L21/02K4C3C2
+</Class>
+<Class>
+H01L21/02K4C3C8
+</Class>
+<Class>
+H01L33/06
+</Class>
+<Class>
+H01L33/30C
+</Class>
+</NCL>
+<Abstract>
+A white-light emitting diode comprises an n-type semiconductor layer, one or more quantum well structures formed over the n-type semiconductor layer, a p-type semiconductor layer formed on the quantum well structure, a first electrode formed on the p-type semiconductor, and a second electrode formed on at least a portion of the n-type semiconductor layer. Each quantum well structure includes an InxGa1-xN quantum well layer, an InyGa1-yN barrier layer (x&amp;gt;0.3 or x=0.3), and InzGa1-zN quantum dots, where x&amp;lt;y&amp;lt;z=1.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A white-light emitting diode, comprising: an n-type semiconductor layer; one. or more quantum well structures each comprising an InxGai. XN quantum well layer and an InyGai_yN barrier layer, where x&amp;gt;0.3 or
+</P>
+<P>
+X=OJ3 and the quantum well structure encompassing InzGai.zN quantum dots where x&amp;lt;y&amp;lt;z&amp;lt;l, the quantum well structures being formed over the n-type semiconductor layer; a p-type semiconductor layer formed over the quantum well structures; a first electrode formed over the p-type semiconductor; and a second electrode formed over at least a portion of a surface of the second section o&amp;lt;&apos;&amp;gt;f the n-type semiconductor layer.
+</P>
+<P>
+2. A white-light emitting diode, comprising: an n-type semiconductor layer; one or more quantum well structures each comprising an InxGai_ XN quantum well layer and an InyGai_yN barrier layer, where x&amp;gt;y, the quantum well structure encompassing InzGai_zN quantum dots where x&amp;lt;z&amp;lt;l, the well layer InxGai_xN containing p-type dopant, and the quantum well structures being formed over the n-type semiconductor layer; a p-type semiconductor layer formed over the quantum well structures; a first electrode formed over the p-type semiconductor; and a second electrode formed over at least a portion of a surface of the n-type semiconductor layer.
+</P>
+<P>
+3. The diode of claim 2, wherein the InxGai_xN quantum well layer contains both p-type dopant and n-type dopant.
+</P>
+<P>
+4. The diode of claim I, wherein the InxGa^xN quantum well layer contains p-type dopant, and x&amp;gt;0.3 or x=0.3. 5. The diode of claim I5 wherein the InxGai_xN well layer contains both p-type dopant and n-type dopant, and x&amp;gt;0.3 or x=0.3.
+</P>
+<P>
+6. The diode of claim 1, wherein the quantum well structures have a continuous emission spectrum ranging from 420nm to 750nm.
+</P>
+<P>
+7. The diode of any one of claim 1, claim 2, and claim 6, wherein the quantum dots are formed by first flowing at least one of TMIn, TEIn or EDMIn at a first flow rate and a first time to form nuclei, and then flowing at least one of TMIn, TEIn or EDMIn with TMG and ammonia at a second flow rate to make the nuclei grow and be capped in the quantum well layer. 8. The diode of claim 7, wherein the number of the quantum well structures is between about 1 to 30.
+</P>
+<P>
+9. The diode of claim 7, wherein a thickness of the InxGai_xN quantum well layer is about 1 to 10 ran and a thickness of the InyGai_yN quantum barrier layer is about 5 to 30 ran. 10. The diode of claim 7, wherein l&amp;gt;x&amp;gt;y&amp;gt;0 or y=0.
+</P>
+<P>
+11. The diode of claim 7, wherein the n-type semiconductor layer is formed on a substrate and the substrate is made of one of sapphire, SiC, GaN and ZnO.
+</P>
+<P>
+12. The diode of claim 7, wherein at least one of biscyclopentadienyl magnesium, diethyl zinc and silane is used as dopants during the growth of the quantum well layer.
+</P>
+<P>
+13. A quantum well structure that emits white light, which comprises: an InxGa[mu]xN quantum well layer; indium-rich InGaN quantum dots embedded in the InxGai.xN quantum well layer, where x&amp;gt;0.3; and an InyGai_yN quantum barrier layer over the quantum dots and the quantum well layer.
+</P>
+<P>
+14. A quantum well structure that emits white light, which comprises: an InxGai_xN quantum well layer doped with p-type dopant; indium-rich InGaN quantum dots embedded in the InxGai_xN quantum well layer; and an InyGai.yN quantum barrier layer over the quantum dots and the quantum well layer. 15. The quantum well structure of claim 14, wherein the InGaN quantum well layer contains n-type dopant.
+</P>
+<P>
+16. The quantum well structure of claim 13, wherein the InGaN quantum well layer contains p-type dopant.
+</P>
+<P>
+17. The quantum well structure of claim 13, wherein the InGaN quantum well layer contains both p-type dopant and n-type dopant.
+</P>
+<P>
+18. The quantum well structure of any one of claim 13 and claim 14, wherein the quantum well structure is provided to emit light ranging from 420 nm to 750 nm and the light has a continuous emission spectrum ranging from 420nm to 750nm. 19. The quantum well structure of any one of claim 13 and claim 14, wherein the quantum dots are formed by first flowing at least one of TMIn, TEIn or EDMIn at a first flow rate and a first time to form nuclei, and then flowing at least one of TMIn, TEIn or EDMIn with TMG and ammonia at a second flow rate to make the nuclei grow and be capped in the quantum wells. 20. The quantum well structure of any one, of claim 13 and claim 14, wherein a thickness of the InxGai_xN quantum well layer is about 1 to 10 nm and a thickness of the InyGai_yN quantum barrier layer is about 5 to 30 nm.
+</P>
+<P>
+21. The quantum well structure of any one of claim 13 and claim 14, wherein l&amp;gt;x&amp;gt;y&amp;gt;0 or y=0.
+</P>
+<P>
+22. - The quantum well structure of any one of claim 13 and claim 14, wherein at least one of biscyclopentadienyl magnesium, diethyl zinc and silane is used as dopants during the growth of the quantum well layer.
+</P>
+</Claims>
+<Also_published_as>
+WO2008035447A1;US2009302308A1;US8120012B2;JP2010504627A;CN101346827A;CN101346827B;CA2627823A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR THE CREATION OF PLANAR VARIATIONS IN SIZE OR DISTANCE IN NANOSTRUCTURE PATTERNS ON SURFACES
+</Title>
+<PublicationNumber>
+EP2134886A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SPATZ JOACHIM [DE]
+</Name>
+<Name>
+LOHMUELLER THEOBALD [DE]
+</Name>
+<Name>
+ARNOLD MARCO [DE]
+</Name>
+<Name>
+SPATZ, JOACHIM
+</Name>
+<Name>
+LOHMUELLER, THEOBALD
+</Name>
+<Name>
+ARNOLD, MARCO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MAX PLANCK GESELLSCHAFT [DE]
+</Name>
+<Name>
+UNIV RUPRECHT KARLS HEIDELBERG [DE]
+</Name>
+<Name>
+MAX-PLANCK-GESELLSCHAFT ZUR FOERDERUNG DER WISSENSCHAFTEN E.V
+</Name>
+<Name>
+RUPRECHT-KARLS-UNIVERSITAET HEIDELBERG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2134886
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080716484
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP01981
+</PriorityNumber>
+<PriorityDate>
+2008-03-12
+</PriorityDate>
+<PriorityNumber>
+DE200710017032
+</PriorityNumber>
+<PriorityDate>
+2007-04-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C23C18/08
+</Class>
+<Class>
+C23C18/12
+</Class>
+<Class>
+C23C18/14
+</Class>
+<Class>
+G02B1/12
+</Class>
+<Class>
+G02B3/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K47/48W14B
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C23C18/08
+</Class>
+<Class>
+C23C18/12C2D
+</Class>
+<Class>
+C23C18/12G2B
+</Class>
+<Class>
+C23C18/12J18
+</Class>
+<Class>
+C23C18/12J6B
+</Class>
+<Class>
+C23C18/14
+</Class>
+</NCL>
+<Abstract>
+Die Erfindung betrifft ein Verfahren zur Herstellung von flächigen Grössen- oder Abstandsvariationen in Mustern von Nanostrukturen auf Oberflächen. Spezieller umfasst das erfindungsgemässe Verfahren in einer bevorzugten Ausführungsform folgende Schritte: a) Kontaktieren eines Substrats mit einer flüssigen Phase, die mit einer anorganischen Metallverbindung beladene Mizellen eines organischen Zweiblock- oder Multiblockcopolymers enthält, durch Eintauchen in diese flüssige Phase, wobei auf dem Substrat chemisch unterschiedliche Polymerdomänen, die in Mizellen eingeschlossene anorganische Metallverbindungen umfassen, abgeschieden werden;  b) Herausziehen des Substrats aus der flüssigen Phase mit einer vorbestimmten Ziehgeschwindigkeit, wobei die Ziehgeschwindigkeit kontinuierlich oder stufenweise variiert wird, so dass ein Gradient der lateralen Separationslänge der Polymerdomänen auf der Substratoberfläche erzeugt wird;  und c) Überführung der anorganischen Metallverbindungen in den abgeschiedenen Polymerdomänen durch eine Oxidations- oder Reduktionsbehandlung in anorganische Nanopartikel und gegebenenfalls vollständige oder teilweise Entfernung des organischen Polymers durch eine Plasmabehandlung, wobei die Positionen und laterale Separationslänge der erhaltenen Nanopartikel von den Positionen und der lateralen Separationslänge der abgeschiedenen Polymerdomänen bestimmt werden.
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zur flächigen Grössen- oder Abstandsvariation in Mustern von Nanostrukturen auf einem Substrat, umfassend
+</P>
+<P>
+a) Kontaktieren eines Substrats mit einer flüssigen Phase, die mit einer anorganischen Metallverbindung beladene Mizellen eines organischen Zweiblock- oder Multiblockcopolymers enthält, durch Eintauchen in diese flüssige Phase, wobei auf dem Substrat chemisch unterschiedliche Polymerdomänen, die in Mizellen eingeschlossene Metallverbindungen umfassen, abgeschieden werden;
+</P>
+<P>
+b) Herausziehen des Substrats aus der flüssigen Phase mit einer vorbestimmten Ziehgeschwindigkeit, wobei die Ziehgeschwindigkeit kontinuierlich oder stufenweise variiert wird, so dass ein Gradient der lateralen Separationslänge der Polymerdomänen auf der Substratoberfläche erzeugt wird;
+</P>
+<P>
+c) Überführung der Metallverbindungen in den abgeschiedenen Polymerdomänen durch eine Oxidations- oder Reduktionsbehandlung in anorganische Nanopartikel und gegebenenfalls vollständige oder teilweise Entfernung des organischen Polymers durch eine Plasmabehandlung, wobei die Positionen und laterale Separationslänge der erhaltenen Nanopartikel von den Positionen und der lateralen Separationslänge der abgeschiedenen Polymerdomänen bestimmt werden.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, dadurch gekennzeichnet, das die Ziehgeschwindigkeit in Schritt b) in einem Bereich von 0,1 mm/min bis 100 mm/min, vorzugsweise von 1 mm/min bis 20 mm/min, variiert wird.
+</P>
+<P>
+3. Verfahren nach Anspruch 2, dadurch gekennzeichnet, dass nacheinander mehrere verschiedene Separationslängen-Gradienten auf der gleichen Substratoberfläche erzeugt werden.
+</P>
+<P>
+4. Verfahren nach einem der Ansprüche 1-3, dadurch gekennzeichnet, dass die reduktive Überführung der Metallverbindungen in den auf der Substratoberfläche abgeschiedenen Polymerdomänen in Nanopartikel in Schritt c) durch Bestrahlung mit einem lateral entlang der Substratoberfläche intensitätsmodulierten Lichtfeld geschieht, wodurch abhängig von der Lichtintensität an verschiedenen Positionen der Substratoberfläche unterschiedlich grosse Nanopartikel erzeugt werden.
+</P>
+<P>
+5. Verfahren nach einem der Ansprüche 1-4, dadurch gekennzeichnet, dass es ferner die folgenden Schritte umfasst:
+</P>
+<P>
+d) Kontaktieren des Substrats mit den nach Schritt c) erhaltenen Nanopartikeln mit einer flüssigen Phase, die eine Lösung einer anorganischen Metallverbindung enthält, durch Eintauchen in diese flüssige Phase, wobei gelöstes Material auf den Nanopartikeln aufwächst und diese damit vergrössert; und
+</P>
+<P>
+e) Herausziehen des Substrats aus der flüssigen Phase nach einer vorbestimmten Zeitspanne, wodurch eine gewünschte Grösse der Nanopartikel eingestellt wird.
+</P>
+<P>
+6. Verfahren nach Anspruch 5, dadurch gekennzeichnet, dass durch Variation der Ziehgeschwindigkeit in Schritt e) ein Gradient der Partikelgrösse auf der Substratoberfläche erzeugt wird.
+</P>
+<P>
+7. Verfahren nach Anspruch 4 oder 5, dadurch gekennzeichnet, dass die Nanopartikel auf der Substratoberfläche während der Schritte d) und e) mit einem lateral entlang der Substratoberfläche intensitätsmodulierten Lichtfeld bestrahlt werden, wodurch aufgrund der unterschiedlichen Wachstumsgeschwindigkeit der Nanopartikel, welche abhängig von der Lichtintensität ist, an verschiedenen Positionen der Substratoberfläche unterschiedlich grosse Nanopartikel erzeugt werden.
+</P>
+<P>
+8. Verfahren nach Anspruch 4 oder 7, dadurch gekennzeichnet, dass durch die Bestrahlung mit einem intensitätsmodulierten Lichtfeld ein Gradient der Partikelgrösse erzeugt wird.
+</P>
+<P>
+9. Verfahren nach Anspruch 6 oder 8, dadurch gekennzeichnet, dass auf einer nanostrukturierten Substratoberfläche sowohl mindestens ein Separationslängengradient als auch mindestens ein Partikelgrössengradient der Nanopartikel erzeugt wird.
+</P>
+<P>
+10. Verfahren nach einem der Ansprüche 1-9, dadurch gekennzeichnet, dass die anorganische Metallverbindung mindestens ein Salz der Metalle Au, Pt, Pd, Ag, In, Fe, Zr, Al, Co, Ni, Ga, Sn, Zn, Ti, Si oder Ge umfasst.
+</P>
+<P>
+11. Verfahren nach einem der Ansprüche 1-10, dadurch gekennzeichnet, dass das Zweiblock- oder Multiblockcopolymer aus der Gruppe aus Polystyrol(n)-b-Poly(2-vinylpyridin(m), Polystyrol(n)-b-Poly(4-vinylpyridin(m), Polystyrol (n)-b-Poly(ethylenoxid) (m), wobei n und m die Anzahl der Wiederholungseinheiten angeben und unabhängig voneinander ganze Zahlen im Bereich von 10-10000, insbesondere 100- 1000, sind, ausgewählt sind.
+</P>
+<P>
+12. Verfahren zur Erzeugung von Nanopartikeln mit einer lateral variablen Grösse auf einer Substratoberfläche, bei dem ein Polymerfilm, der mindestens eine anorganische Metallverbindung enthält, auf einer Substratoberfläche abgeschieden wird und dann mit einem flächig lateral intensitätsmodulierten Lichtfeld bestahlt wird, wodurch die Metallverbindung reduziert und in Nanopartikel überführt wird und die Grösse der Nanopartikel an einer bestimmten Position auf der Substratoberfläche abhängig von der Intensität des Lichtfelds an dieser Position ist.
+</P>
+<P>
+13. Verfahren nach Anspruch 12, dadurch gekennzeichnet, dass ein Gradient der Partikelgrösse auf der Substratoberfläche erzeugt wird.
+</P>
+<P>
+14. Verfahren nach Anspruch 12 oder 13, dadurch gekennzeichnet, dass der Polymerfilm auf der Substratoberfläche so abgeschieden wird, dass eine geordnete Struktur von metallverbindungshaltigen Polymerdomänen mit einer bestimmten lateralen Separationslänge erzeugt wird, wobei diese Separationslänge nach der Überführung der Metallverbindungen in Nanopartikel die Separationslänge der Nanopartikel bestimmt.
+</P>
+<P>
+15. Verfahren nach Anspruch 14, dadurch gekennzeichnet, dass auf der Substratoberfläche ein Separationslängen-Gradient von Polymerdomänen erzeugt wird.
+</P>
+<P>
+16. Verfahren nach einem der Ansprüche 12-15, dadurch gekennzeichnet, dass das Substrat mit dem abgeschiedenen Polymerfilm nach der Bestrahlung mit Licht einer Plasmabehandlung unterzogen wird, die das Polymer ganz oder teilweise abbaut.
+</P>
+<P>
+17. Verfahren nach einem der Ansprüche 12-16, dadurch gekennzeichnet, dass die Substratoberfläche mit den gebildeten Nanopartikeln anschliessend in eine flüssige Phase eingebracht wird, die eine Lösung einer anorganischen Metallverbindung enthält, wobei gelöstes Material auf den Nanopartikeln aufwächst und diese damit vergrössert, und das Substrat aus der flüssigen Phase nach einer vorbestimmten Zeitspanne herausgezogen wird, wodurch eine gewünschte Grösse der Nanopartikel eingestellt wird.
+</P>
+<P>
+18. Verfahren nach einem der Ansprüche 4, 7 oder 12, dadurch gekennzeichnet, dass die Intensität des Lichtfeldes flächig graduell oder stufenweise durch Interferenz und Beugung an statischen oder dynamisch veränderbaren optischen Elementen eingestellt wird.
+</P>
+</Claims>
+<Also_published_as>
+EP2134886B1;DE102007017032A1;DE102007017032B4;US2010112234A1;WO2008125172A2;WO2008125172A3;EP2295617A1;EP2295617B1;AT547545T;AT500352T
+</Also_published_as>
+</BiblioData>

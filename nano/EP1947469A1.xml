@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Magnetic amplifier device comprising a magnetic sensor with longitudinal sensitivity
+</Title>
+<PublicationNumber>
+EP1947469A1
+</PublicationNumber>
+<Inventor>
+<Name>
+COILLOT CHRISTOPHE [FR]
+</Name>
+<Name>
+LEROY PAUL [FR]
+</Name>
+<Name>
+CHANTEUR GERARD [FR]
+</Name>
+<Name>
+ROUX ALAIN [FR]
+</Name>
+<Name>
+NGUYEN VAN DAU FREDERIC [FR]
+</Name>
+<Name>
+COILLOT, CHRISTOPHE
+</Name>
+<Name>
+LEROY, PAUL
+</Name>
+<Name>
+CHANTEUR, GERARD
+</Name>
+<Name>
+ROUX, ALAIN
+</Name>
+<Name>
+NGUYEN VAN DAU, FREDERIC
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+THALES SA [FR]
+</Name>
+<Name>
+CENTRE NAT RECH SCIENT [FR]
+</Name>
+<Name>
+THALES
+</Name>
+<Name>
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1947469
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080100568
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+FR20070000376
+</PriorityNumber>
+<PriorityDate>
+2007-01-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G01R33/09R
+</Class>
+</NCL>
+<Abstract>
+The device has a magnetic sensor (Cm) e.g. anisotropic magnetoresistive sensor, with longitudinal sensitivity, and two magnetic pieces (P1, P2) including longitudinal slots (F1, F2). The magnetic pieces are separated with an air gap distance, where the magnetic sensor is inserted at the slots. The magnetic pieces include magnetic upper elements (P1S, P2S) and magnetic lower elements (P1i, P2i) which are integrated to each other, where the pieces are made of identical magnetic material e.g. ferrite.
+</Abstract>
+<Claims>
+<P>
+1. Dispositif d&apos;amplification magnétique comportant un capteur magnétique (Cm) de type : AMR, GMR, TMR, GMI dont la sensibilité au champ magnétique est dans le sens transverse caractérisé en ce :
+</P>
+<P>
+- que les dimensions du capteur magnétique sont de l&apos;ordre de quelques millimètres selon les directions Dx et Dy et quelques centaines de microns d&apos;épaisseur et
+</P>
+<P>
+- qu&apos;il comporte une première pièce (P1) en matériau magnétique et une seconde pièce (P2) en matériau magnétique, chacune des pièces comportant une fente longitudinale (F1,F2), lesdites pièces étant séparées d&apos;une distance dite d&apos;entrefer, le capteur magnétique étant inséré au niveau des deux fentes.
+</P>
+<P>
+2. Dispositif d&apos;amplification magnétique selon la revendication 1, caractérisé en ce que chaque pièce en matériau magnétique comporte un élément supérieur (P1S, P2S) en matériau magnétique et un élément inférieur (P1i, P2i) en matériau magnétique, lesdits éléments supérieur et inférieur étant dissociés.
+</P>
+<P>
+3. Dispositif d&apos;amplification magnétique selon la revendication 2, caractérisé en ce que les matériaux magnétiques des éléments supérieurs et inférieurs sont identiques.
+</P>
+<P>
+4. Dispositif d&apos;amplification magnétique selon l&apos;une des revendications 1 à 3, caractérisé en ce que les premières et secondes pièces sont constituées de matériaux magnétiques identiques.
+</P>
+<P>
+5. Dispositif d&apos;amplification magnétique selon l&apos;une des revendications 2 à 4, caractérisé en ce que les éléments supérieur et inférieur sont solidaires et présentent une fente en son centre dans laquelle est positionné le capteur magnétique.
+</P>
+<P>
+6. Dispositif d&apos;amplification magnétique selon l&apos;une des revendications 1 à 5, caractérisé en ce que la distance d&apos;entrefer (d) selon un axe dit longitudinal séparant les extrémités longitudinales des première et seconde pièces est sensiblement égale à la distance (h) selon un axe perpendiculaire à l&apos;axe longitudinal séparant les éléments supérieur et inférieur.
+</P>
+<P>
+7. Dispositif d&apos;amplification magnétique selon l&apos;une des revendications 1 à 6, caractérisé en ce que les première et seconde pièces en matériau magnétique ayant une hauteur de matériau magnétique selon l&apos;axe perpendiculaire à l&apos;axe longitudinal, cette hauteur présente un gradient selon l&apos;axe longitudinal de manière à ce que la plus petite hauteur soit au niveau de l&apos;entrefer.
+</P>
+<P>
+8. Dispositif d&apos;amplification magnétique selon l&apos;une des revendications 1 à 7, caractérisé en ce que les première et seconde pièces en matériau magnétique présentent une forme de clou avec une zone dite extérieure évasée et une zone dite intérieure pointue, ladite zone pointue possédant une fente, le capteur étant inséré dans les fentes desdites première et seconde pièces.
+</P>
+<P>
+9. Dispositif d&apos;amplification magnétique selon l&apos;une des revendications 1 à 8, caractérisé en ce que le capteur magnétique présente selon une direction orthogonale à la direction longitudinale, une partie dite interne insérée dans les deux fentes et une partie dite externe et comportant des contacts conducteurs, la partie interne du capteur présentant une épaisseur plus faible que l&apos;épaisseur de la partie externe.
+</P>
+<P>
+10. Dispositif d&apos;amplification magnétique selon l&apos;une des revendications 1 à 9, les première et seconde pièces en matériau magnétique sont en ferrite.
+</P>
+<P>
+11. Capteur de courant comportant un dispositif d&apos;amplification magnétique selon l&apos;une des revendications 1 à 10, dans lequel les première et seconde pièces sont constituées par un seul élément magnétique fermé.
+</P>
+<P>
+12. Capteur de courant selon la revendication 11, caractérisé en ce que le seul élément magnétique fermé est de forme torique.
+</P>
+</Claims>
+<Also_published_as>
+US2008174308A1;US7759933B2;FR2911690A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOWIRE SENSOR, NANOWIRE SENSOR ARRAY AND METHOD OF FABRICATING THE SAME
+</Title>
+<PublicationNumber>
+EP2049436A1
+</PublicationNumber>
+<Inventor>
+<Name>
+AGARWAL AJAY [SG]
+</Name>
+<Name>
+SINGH NAVAB [SG]
+</Name>
+<Name>
+KUMAR RAKESH [SG]
+</Name>
+<Name>
+LAO IENG KIN [SG]
+</Name>
+<Name>
+BALASUBRAMANIAN NARAYANAN [SG]
+</Name>
+<Name>
+AGARWAL, AJAY
+</Name>
+<Name>
+SINGH, NAVAB
+</Name>
+<Name>
+KUMAR, RAKESH
+</Name>
+<Name>
+LAO, IENG KIN
+</Name>
+<Name>
+BALASUBRAMANIAN, NARAYANAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+AGENCY SCIENCE TECH &amp; RES [SG]
+</Name>
+<Name>
+AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH (A*STAR)
+</Name>
+<Name>
+AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2049436
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060784252
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-08-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006SG00227
+</PriorityNumber>
+<PriorityDate>
+2006-08-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01L3/00
+</Class>
+<Class>
+C40B60/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B81C1/00C2W
+</Class>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+C40B60/12
+</Class>
+</NCL>
+<Abstract>
+A method of fabricating a sensor comprising a nanowire on a support substrate with a first semiconductor layer arranged on the support substrate is disclosed. The method comprises forming a fin structure from the first semiconductor layer, the fin structure comprising at least two supporting portions and a fin portion arranged there between;  oxidizing at least the fin portion of the fin structure thereby forming the nanowire being surrounded by a first layer of oxide;  and forming an insulating layer above the supporting portions;  wherein the supporting portions and the first insulating layer form a microfluidic channel. A nanowire sensor is also disclosed. The nanowire sensor comprises a support substrate, a semiconducting fin structure arranged on the support substrate, the fin structure comprising at least two semiconducting supporting portions and a nanowire arranged there between;  and a first insulating layer on a contact surface of the supporting portions;  wherein the supporting portions and the first insulating layer form a microfluidic channel.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method of fabricating a sensor comprising a nanowire on a support substrate with a first semiconductor layer arranged on the support substrate comprising :
+</P>
+<P>
+forming a fin structure from the first semiconductor layer, the fin structure comprising at least two supporting portions and a fin portion arranged there between;
+</P>
+<P>
+oxidizing at least the fin portion of the fin structure thereby forming the nanowire being surrounded by a first layer of oxide; and
+</P>
+<P>
+forming a first insulating layer above the supporting portions;
+</P>
+<P>
+wherein the supporting portions and the first insulating layer form a microfluidic channel.
+</P>
+<P>
+2. The method of claim 1 , further comprising forming a second layer of oxide on a contact surface of the supporting portions before forming the first insulating layer.
+</P>
+<P>
+3. The method of claim 1 or 2, further comprising forming a first conductive layer on a contact surface of the second layer of oxide before forming the first insulating layer.
+</P>
+<P>
+4. The method of any one of claims 1 to 3, further comprising planarizing the first insulating layer.
+</P>
+<P>
+5. The method of claim 4, wherein planarizing the first insulating layer is performed by a process which includes one of chemical mechanical planarization, chemical polishing, mechanical polishing and ion milling.
+</P>
+<P>
+6. The method of any one of claims 1 to 5, further comprising removing a part of the first insulating layer to form a part of the microfluidic channel to make accessible a contact surface of the first layer of oxide surrounding the nanowire.
+</P>
+<P>
+7. The method of claim 6, wherein removal of the part of the first insulating layer is performed by dry etching.
+</P>
+<P>
+8. The method of any one of claims 1 to 7, further comprising removing the first layer of oxide surrounding the nanowire to expose the nanowire.
+</P>
+<P>
+9. The method of claim 8, wherein removal of the first layer of oxide surrounding the nanowire is performed by wet etching.
+</P>
+<P>
+10. The method of any one of claims 1 to 9, further comprising closing the microfluidic channel with a capping layer.
+</P>
+<P>
+11. The method of any one of claims 1 to 10, further comprising doping the fin portion with at least one dopant.
+</P>
+<P>
+12. The method of claim 11 , wherein the at least one dopant is either p-type or n- type.
+</P>
+<P>
+13. The method of claim 12, wherein the p-type dopant is one or more elements selected from the group consisting of boron, aluminum, gallium and indium.
+</P>
+<P>
+14. The method of claim 12, wherein the n-type dopant is one or more elements selected from the group consisting of phosphorus and arsenic.
+</P>
+<P>
+15. The method of any one of claims 1 to 10, further comprising forming a gap in the nanowire by removing a part of the nanowire.
+</P>
+<P>
+16. The method of claim 15, wherein the removal of the part of the nanowire is by selective etching.
+</P>
+<P>
+17. The method of any one of claims 1 to 10, further comprising covering a part of the nanowire with a dielectric material.
+</P>
+<P>
+18. The method of claim 17, further comprising performing a silicidation process on the nanowire.
+</P>
+<P>
+19. The method of claim 18, wherein performing the silicidation process comprises
+</P>
+<P>
+forming a second conductive layer on the nanowire;
+</P>
+<P>
+performing a first heat treatment to induce a chemical reaction between the nanowire and the second conductive layer, such that the nanowire is suicided; and
+</P>
+<P>
+removing the remaining second conductive layer.
+</P>
+<P>
+20. The method of claim 19, wherein the second conductive layer comprise a metal or a metal alloy.
+</P>
+<P>
+21. The method of any one of claims 1 to 20, wherein a second insulating layer is arranged between the support substrate and the first semiconductor layer.
+</P>
+<P>
+22. The method of claim 21, wherein the second insulating layer comprises a material selected from the group consisting of silicon oxide, a polymer and a dielectric material.
+</P>
+<P>
+23. The method of any one of claims 1 to 22, wherein the support substrate comprises a material selected from the group consisting of silicon, sapphire, polysilicon, silicon oxide and silicon nitride.
+</P>
+<P>
+24. The method of any one of claims 1 to 23, wherein the first semiconductor layer comprises a material selected from the group consisting of silicon, gallium arsenide and silicon-germanium.
+</P>
+<P>
+25. The method of any one of claims 1 to 24, wherein the nanowire comprises of or is made of silicon.
+</P>
+<P>
+26. The method of any one of claims 1 to 25, wherein oxidizing at least the fin portion of the fin structure is performed by a self-limiting oxidation process.
+</P>
+<P>
+27. The method of any one of claims 1 to 26, wherein the first layer of oxide is the same as the second layer of oxide.
+</P>
+<P>
+28. The method of any one of claims 1 to 27, wherein the first layer of oxide is silicon oxide.
+</P>
+<P>
+29. The method of any one of claims 1 to 28, wherein the second layer of oxide is silicon oxide.
+</P>
+<P>
+30. The method of any one of claims 1 to 29, wherein the first conductive layer comprises a metal or a metal alloy.
+</P>
+<P>
+31. The method of any one of claims 1 to 30, wherein the first insulating layer comprises a material selected from the group consisting of silicon oxide, a polymer and a dielectric material.
+</P>
+<P>
+32. The method of claim 10, wherein the capping layer is formed of a material selected from the group consisting of silicon, glass, silica, an organic polymer and polydimethylsiloxane.
+</P>
+<P>
+33. The method of claim 10 or 32, further comprising forming at least two openings in the capping layer.
+</P>
+<P>
+34. The method of claim 33, wherein each opening in the capping layer is positioned at a distance away from each supporting portion.
+</P>
+<P>
+35. The method of claim 33 or 34, further comprising filling each opening with the first conductive layer thereby forming an electrical connection from each opening to the contact surface of the supporting portions.
+</P>
+<P>
+36. The method of any one of claims 1 to 35, further comprising oxidizing the fin structure thereby forming a first layer of oxide around the supporting portions.
+</P>
+<P>
+37. The method of any one of claims 1 to 36, further comprising depositing a second semiconductor layer on the support substrate before depositing the first semiconductor layer.
+</P>
+<P>
+38. The method of claim 37, further comprising forming an electrode from the second semiconductor layer.
+</P>
+<P>
+39. The method of claim 38, further comprising depositing a third insulating layer above the electrode before forming the fin structure.
+</P>
+<P>
+40. The method of claim 38 or 39, wherein the electrode is positioned below the nanowire.
+</P>
+<P>
+41. The method of any one of claims 3 to 40, further comprising forming a passivation layer above the first conductive layer before forming the first insulating layer.
+</P>
+<P>
+42. The method of claim 41 , wherein the passivation layer comprises a material selected from the group consisting of silicon nitride, silicon oxide or aluminum oxide.
+</P>
+<P>
+43. The method of any one of claims 37 to 42, wherein the second semiconductor layer comprises a material selected from the group consisting of silicon, gallium arsenide and silicon-germanium.
+</P>
+<P>
+44. The method of any one of claims 39 to 43, wherein the third insulating layer comprises a material selected from the group consisting of silicon oxide and a dielectric material.
+</P>
+<P>
+45. A nanowire sensor comprising :
+</P>
+<P>
+a support substrate;
+</P>
+<P>
+a semiconducting fin structure arranged on the support substrate, the fin structure comprising at least two semiconducting supporting portions and a nanowire arranged there between; and
+</P>
+<P>
+a first insulating layer on a contact surface of the supporting portions;
+</P>
+<P>
+wherein the supporting portions and the first insulating layer form a microfiuidic channel.
+</P>
+<P>
+46. The nanowire sensor of claim 45, further comprising a first layer of oxide on the contact surface of the supporting portions, between the contact surface of the supporting portions and the insulating layer.
+</P>
+<P>
+47. The nanowire sensor of claim 46, further comprising a first conductive layer on a contact surface of the first layer of oxide, between the contact surface of the first layer of oxide and the insulating layer.
+</P>
+<P>
+48. The nanowire sensor of any one of claims 45 to 47, wherein the nanowire is located above the support substrate.
+</P>
+<P>
+49. The nanowire sensor of any one of claims 45 to 48, wherein the nanowire comprises of a n-type or a p-type dopant.
+</P>
+<P>
+50. The nanowire sensor of any one of claims 45 to 48, wherein the nanowire is formed as a P/N diode junction.
+</P>
+<P>
+51. The nanowire sensor of any one of claims 45 to 50, wherein the nanowire comprises a gap.
+</P>
+<P>
+52. The nanowire sensor of claim 45 or 51 , wherein the nanowire is suicided.
+</P>
+<P>
+53. The nanowire sensor of any one of claims 45 to 52, wherein at least a surface of the nanowire is adapted to bind a biological macromolecule.
+</P>
+<P>
+54. The nanowire sensor of any one of claims 45 to 53, further comprising a capping layer on the insulating layer to close the microfluidic channel.
+</P>
+<P>
+55. The nanowire sensor of claim 54, wherein the capping layer comprises at least two openings, each opening is positioned at a distance away from each supporting portion.
+</P>
+<P>
+56. The nanowire sensor of any one of claims 45 to 55, further comprising a second insulating layer arranged between the support substrate and the semiconductor fin structure.
+</P>
+<P>
+57. The nanowire sensor of any one of claims 47 to 56, further comprising a passivation layer over the first conductive layer, between the first conductive layer and the first insulating layer.
+</P>
+<P>
+58. The nanowire sensor of any one of claims 45 to 57, further comprising an electrode, the electrode positioned below the nanowire and between the support substrate and the nanowire.
+</P>
+<P>
+59. The nanowire sensor of claim 58, further comprising a third insulating layer arranged between the electrode and the nanowire.
+</P>
+<P>
+60. A nanowire sensor array comprising : a plurality of nanowire sensors as defined in any of the claims 45 to 59
+</P>
+<P>
+wherein each nanowire sensor is individually addressable via the supporting portions.
+</P>
+<P>
+61. The nanowire sensor array of claim 60, further comprising a plurality of microfluidic channels.
+</P>
+<P>
+62. The nanowire sensor array of claim 60 or 61, further comprising a control unit for individually addressing each nanowire sensor.
+</P>
+<P>
+63. The nanowire sensor array of any one of claims 60 to 62, wherein one nanowire sensor is used as a reference and another nanowire sensor is used for measurement.
+</P>
+<P>
+64. A detection method using the nanowire sensor array as defined in any one of claims 60 to 63, said method comprising using one nanowire sensor as a reference and using another nanowire sensor for measurement.
+</P>
+<P>
+65. A method of detecting an analyte, said method comprising measuring a first electrical signal of the nanowire sensor as defined in any of 45 to 63, contacting the nanowire sensor with a sample suspected to contain the analyte of interest in order to immobilize the analyte on the nanowire, measuring a second electrical signal of the nanowire and comparing the measured first electrical signal with the second electrical signal, thereby detecting the presence or absence of the analyte.
+</P>
+<P>
+66. The method of claim 65, further comprising providing the surface of the nanowire with capture molecules that bind the analyte; and then bringing a sample suspected to containing the analyte of interest in contact with the capture molecule in order to enable complex formation between the analyte and the capture molecule
+</P>
+<P>
+67. The method of claim 65 or 66, wherein when the difference in the first electrical signal and the second electrical signal exceeds a threshold value, the presence of an analyte is detected.
+</P>
+<P>
+68. The method of any one of claims 65 to 67, wherein the analyte is a biological macromolecule, a biological entity or a small organic molecule.
+</P>
+</Claims>
+<Also_published_as>
+EP2049436A4;WO2008018834A1;US2011193183A1;JP2010500559A
+</Also_published_as>
+</BiblioData>

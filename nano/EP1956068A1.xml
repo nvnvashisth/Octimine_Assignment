@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SEMICONDUCTOR NANOPARTICLE AND METHOD FOR MANUFACTURING SAME
+</Title>
+<PublicationNumber>
+EP1956068A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TORIMOTO TSUKASA [JP]
+</Name>
+<Name>
+KUWABATA SUSUMU [JP]
+</Name>
+<Name>
+OHTANI BUNSHO [JP]
+</Name>
+<Name>
+SHIBAYAMA TAMAKI [JP]
+</Name>
+<Name>
+KUDO AKIHIKO [JP]
+</Name>
+<Name>
+SAKURAOKA MIWA [JP]
+</Name>
+<Name>
+ADACHI TOMOHIRO [JP]
+</Name>
+<Name>
+TORIMOTO, TSUKASA
+</Name>
+<Name>
+KUWABATA, SUSUMU
+</Name>
+<Name>
+OHTANI, BUNSHO
+</Name>
+<Name>
+SHIBAYAMA, TAMAKI
+</Name>
+<Name>
+KUDO, AKIHIKO
+</Name>
+<Name>
+SAKURAOKA, MIWA
+</Name>
+<Name>
+ADACHI, TOMOHIRO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV NAGOYA NAT UNIV CORP [JP]
+</Name>
+<Name>
+UNIV OSAKA [JP]
+</Name>
+<Name>
+UNIV HOKKAIDO NAT UNIV CORP [JP]
+</Name>
+<Name>
+UNIV TOKYO SCI EDUC FOUND [JP]
+</Name>
+<Name>
+NATIONAL UNIVERSITY CORPORATION NAGOYA UNIVERSITY
+</Name>
+<Name>
+OSAKA UNIVERSITY
+</Name>
+<Name>
+NATIONAL UNIVERSITY CORPORATION HOKKAIDO UNIVERSITY
+</Name>
+<Name>
+TOKYO UNIVERSITY OF SCIENCE EDUCATIONAL FOUNDATION ADMINISTRATIVE ORGANIZATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1956068
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060797046
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-08-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP317072
+</PriorityNumber>
+<PriorityDate>
+2006-08-30
+</PriorityDate>
+<PriorityNumber>
+JP20050255656
+</PriorityNumber>
+<PriorityDate>
+2005-09-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C01G9/08
+</Class>
+<Class>
+C09K11/08
+</Class>
+<Class>
+C09K11/62
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09K11/62B2
+</Class>
+</NCL>
+<Abstract>
+The present invention provides semiconductor nanoparticles which emit light at room temperature and include a sulfide or oxide containing zinc, a Group 11 element in the periodic table, and a Group 13 element in the periodic table as a main component or a sulfide or oxide containing a Group 11 element in the periodic table and a Group 13 element in the periodic table as a main component. For example, the semiconductor nanoparticles are represented by Zn( 1-2x )In x Ag x S (0 &amp;lt; x 0.5).
+</Abstract>
+<Claims>
+<P>
+1. A semiconductor nanoparticle which emits light at room temperature, comprising a sulfide or oxide containing zinc, a Group 11 element in the periodic table, and a Group 13 element in the periodic table as a main component or a sulfide or oxide containing a Group 11 element in the periodic table and a Group 13 element in the periodic table as a main component.
+</P>
+<P>
+2. A semiconductor nanoparticle which emits light at room temperature, comprising a sulfide or oxide containing zinc, a Group 11 element in the periodic table, and a Group 13 element in the periodic table as a main component or a sulfide or oxide containing a Group 11 element in the periodic table and a Group 13 element in the periodic table as a main component, the surface of the nanoparticle being modified with a lipid-soluble compound.
+</P>
+<P>
+3. A semiconductor nanoparticle which emits light at room temperature and is produced by mixing a zinc salt, a salt of a Group 11 element in the periodic table, a salt of a Group 13 element in the periodic table, and a ligand containing sulfur or oxygen as a coordinating element or mixing a salt of a Group 11 element in the periodic table, a salt of a Group 13 element in the periodic table, and a ligand containing sulfur or oxygen as a coordinating element to form a complex, heating the complex to form a heat-treated product, and heating the heat-treated product together with a lipid-soluble compound.
+</P>
+<P>
+4. A semiconductor nanoparticle which emits light at room temperature and is produced by mixing a zinc salt, a salt of a Group 11 element in the periodic table, a salt of a Group 13 element in the periodic table, and a ligand containing sulfur or oxygen as a coordinating element or mixing a salt of a Group 11 element in the periodic table, a salt of a Group 13 element in the periodic table, and a ligand containing sulfur or oxygen as a coordinating element to form a complex, and heating the complex together with a lipid-soluble compound.
+</P>
+<P>
+5. The semiconductor nanoparticle according to claim 3 or 4, wherein the zinc salt, the salt of the Group 11 element in the periodic table, the salt of the Group 13 element in the periodic table, and the ligand containing sulfur or oxygen as a coordinating element are mixed so that the ratio between the numbers of atoms of zinc, the Group 11 element in the periodic table, and the Group 13 element in the periodic table is (1 - 2x):x:x (wherein 0 &amp;lt; x &amp;lt; 0.5) or the salt of the Group 11 element in the periodic table, the salt of the Group 13 element in the periodic table, and the ligand containing sulfur or oxygen as a coordinating element are mixed so that the ratio between the numbers of atoms of the Group 11 element in the periodic table and the Group 13 element in the periodic table is 1:1.
+</P>
+<P>
+6. The semiconductor nanoparticle according to claim 5, wherein the property of the luminescent color after excitation with exciting light varies according to the x value.
+</P>
+<P>
+7. The semiconductor nanoparticle according to any one of claims 2 to 6, wherein the lipid-soluble compound is a nitrogen-containing compound having a hydrocarbon group having 4 to 20 carbon atoms.
+</P>
+<P>
+8. The semiconductor nanoparticle according to any one of claims 1 to 7, wherein the Group 11 element in the periodic table is Ag or Cu.
+</P>
+<P>
+9. The semiconductor nanoparticle according to any one of claims 1 to 8, wherein the Group 13 element in the periodic table is Ga or In.
+</P>
+<P>
+10. A method of producing a semiconductor nanoparticle which emits light at room temperature, comprising mixing a zinc salt, a salt of a Group 11 element in the periodic table, a salt of a Group 13 element in the periodic table, and a ligand containing sulfur or oxygen as a coordinating element or mixing a salt of a Group 11 element in the periodic table, a salt of a Group 13 element in the periodic table, and a ligand containing sulfur or oxygen as a coordinating element to form a complex, heating the complex to form a heat-treated product, and heating the heat-treated product together with a lipid-soluble compound.
+</P>
+<P>
+11. A method of producing a semiconductor nanoparticle which emits light at room temperature, comprising mixing a zinc salt, a salt of a Group 11 element in the periodic table, a salt of a Group 13 element in the periodic table, and a ligand containing sulfur or oxygen as a coordinating element or mixing a salt of a Group 11 element in the periodic table, a salt of a Group 13 element in the periodic table, and a ligand containing sulfur or oxygen as a coordinating element to form a complex, and heating the complex together with a lipid-soluble compound.
+</P>
+<P>
+12. The method according to claim 10 or 11, wherein the zinc salt, the salt of the Group 11 element in the periodic table, the salt of the Group 13 element in the periodic table, and the ligand containing sulfur or oxygen as a coordinating element are mixed so that the ratio between the numbers of atoms of zinc, the Group 11 element in the periodic table, and the Group 13 element in the periodic table is (1 - 2x):x:x (wherein 0 &amp;lt; x &amp;lt; 0.5) or the salt of the Group 11 element in the periodic table, the salt of the Group 13 element in the periodic table, and the ligand containing sulfur or oxygen as a coordinating element are mixed so that the ratio between the numbers of atoms of the Group 11 element in the periodic table and the Group 13 element in the periodic table is 1:1.
+</P>
+</Claims>
+<Also_published_as>
+EP1956068A4;US2009278094A1;WO2007026746A1
+</Also_published_as>
+</BiblioData>

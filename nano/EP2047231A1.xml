@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SCANNING ION CONDUCTANCE MICROSCOPY FOR THE INVESTIGATION OF LIVING CELLS
+</Title>
+<PublicationNumber>
+EP2047231A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KORCHEV YURI EVGENIEVICH [GB]
+</Name>
+<Name>
+LAB MAX JOSEPH [GB]
+</Name>
+<Name>
+SANCHEZ-HERRERA DANIEL PAULO [GB]
+</Name>
+<Name>
+KORCHEV, YURI, EVGENIEVICH
+</Name>
+<Name>
+LAB, MAX, JOSEPH
+</Name>
+<Name>
+SANCHEZ-HERRERA, DANIEL, PAULO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IONSCOPE LTD [GB]
+</Name>
+<Name>
+IONSCOPE LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2047231
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070766408
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007GB02924
+</PriorityNumber>
+<PriorityDate>
+2007-08-01
+</PriorityDate>
+<PriorityNumber>
+GB20060015277
+</PriorityNumber>
+<PriorityDate>
+2006-08-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q30/20
+</Class>
+<Class>
+G01Q60/44
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q30/20
+</Class>
+<Class>
+G01Q60/44
+</Class>
+</NCL>
+<Abstract>
+A method for interrogating a surface using scanning probe microscopy comprises bringing a scanning probe into proximity with the surface and controlling the position of the probe relative to the surface to maintain a constant distance, characterised in that pressure is applied to the surface by a regulated flow of liquid through the probe, with subsequent monitoring of the position of the probe, wherein movement of the probe indicates a consequent movement of the surface.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method for interrogating a surface using scanning probe microscopy, comprising bringing a scanning probe into proximity with the surface and controlling the position of the probe relative to the surface to maintain a constant distance, characterised in that pressure is applied to the surface by a regulated flow of liquid through the probe, with subsequent monitoring of the position of the probe, wherein movement of the probe indicates a consequent movement of the surface.
+</P>
+<P>
+2. A method according to claim 1 , wherein positive pressure is applied to the surface.
+</P>
+<P>
+3. A method according to claim 1 , wherein negative pressure is applied to the surface.
+</P>
+<P>
+4. A method according to any preceding claim wherein the probe is a micropipette or nanopipette.
+</P>
+<P>
+5. A method according to any preceding claim, wherein the surface to be interrogated is a cellular or subcellular structure.
+</P>
+<P>
+6. A method according to any of claims 1 to 4, wherein the surface is that of a liquid.
+</P>
+<P>
+7. A method according to claim 6, wherein the liquid is an emulsion.
+</P>
+<P>
+8. A method according to any of claims 1 to 4, wherein the surface is of a non- biological structure.
+</P>
+<P>
+9. A method according to any preceding claim, wherein the scanning probe microscopy is scanning ion-conductance microscopy.
+</P>
+<P>
+10. A method according to any preceding claim, for monitoring electrical or mechanical changes in or at the surface.
+</P>
+<P>
+11. A method for inducing an electrophysiological or chemical change in a cell, comprising bringing a scanning probe into proximity with the cell surface and applying a defined pressure to the surface by means of a regulated flow of liquid through the probe, and monitoring the cell for changes in electrophysiological or chemical signals.
+</P>
+<P>
+12. A method according to claim 11 , wherein the electrophysiological or chemical signal is associated with an ion channel present on a cell.
+</P>
+<P>
+13. A method according to claim 11 or claim 12, wherein scanning ion conductance microscopy is used to bring the probe into proximity with the cell.
+</P>
+<P>
+14. An apparatus for interrogating a surface, comprising a scanning probe microscope, and a means for applying pressure to the surface by a regulated flow of liquid through the probe.
+</P>
+<P>
+15. An apparatus according to claim 14, wherein the scanning probe microscope is a scanning ion-conductance microscope.
+</P>
+</Claims>
+<Also_published_as>
+WO2008015428A1;US2009260114A1;US8006316B2;KR20090063208A;JP2009545736A;JP4912465B2;CN101517393A
+</Also_published_as>
+</BiblioData>

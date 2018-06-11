@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CERIUM OXIDE POWDER FOR ONE- COMPONENT CMP SLURRY, PREPARATION METHOD THEREOF, ONE- COMPONENT CMP SLURRY COMPOSITION COMPRISING THE SAME, AND METHOD OF SHALLOW TRENCH ISOLATION USING THE SLURRY
+</Title>
+<PublicationNumber>
+EP1931597A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHO SEUNG-BEOM [KR]
+</Name>
+<Name>
+NHO JUN-SEOK [KR]
+</Name>
+<Name>
+SHIN DONG-MOK [KR]
+</Name>
+<Name>
+KIM JONG-PIL [KR]
+</Name>
+<Name>
+OH MYOUNG-HWAN [KR]
+</Name>
+<Name>
+KIM JANG-YUL [KR]
+</Name>
+<Name>
+CHOI EUN-MI [KR]
+</Name>
+<Name>
+KO MIN-JIN [KR]
+</Name>
+<Name>
+CHO, SEUNG-BEOM
+</Name>
+<Name>
+NHO, JUN-SEOK
+</Name>
+<Name>
+SHIN, DONG-MOK
+</Name>
+<Name>
+KIM, JONG-PIL
+</Name>
+<Name>
+OH, MYOUNG-HWAN
+</Name>
+<Name>
+KIM, JANG-YUL
+</Name>
+<Name>
+CHOI, EUN-MI
+</Name>
+<Name>
+KO, MIN-JIN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+LG CHEMICAL LTD [KR]
+</Name>
+<Name>
+LG CHEMICAL CO. LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1931597
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060798615
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006KR03467
+</PriorityNumber>
+<PriorityDate>
+2006-09-01
+</PriorityDate>
+<PriorityNumber>
+KR20050081734
+</PriorityNumber>
+<PriorityDate>
+2005-09-02
+</PriorityDate>
+<PriorityNumber>
+KR20050097157
+</PriorityNumber>
+<PriorityDate>
+2005-10-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01F17/00
+</Class>
+<Class>
+C09K3/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01F17/00F
+</Class>
+<Class>
+C09K3/14D2
+</Class>
+</NCL>
+<Abstract>
+Disclosed is cerium oxide powder for one -component CMP slurry, which has a specific surface area of 5 m2/g or more, and a ratio of volume fraction of pores with a diameter of 3 ran or more to that of pores with a diameter less than 3 ran of 8:2~2:8. A method for preparing the same, a one-component CMP slurry comprising the same as an abrasive material, and a method of shallow trench isolation using the one-component CMP slurry are also disclosed. The CMP slurry causes no precipitation of the cerium oxide powder even if it is provided as a one-component CMP slurry, because the CMP slurry uses, as an abrasive material, cerium oxide powder that is obtained via a low-temperature calcination step, optionally a pulverization step, and a high-temperature calcination step and has a high pore fraction and low strength. Also, the one- component CMP slurry provides a significantly decreased polishing rate to a silicon nitride layer and an increased polishing selectivity of silicon oxide layer/silicon nitride layer, and shows uniform polishing quality. Particularly, the one-component CMP slurry provides a high polishing selectivity of silicon oxide layer/silicon nitride layer of 20:1 or more, even in the absence of a separate additive or an excessive amount (10 parts by weight or more based on 100 parts by weight of cerium oxide powder) of a dispersant. Further, the one-component CMP slurry minimizes generation of microscratch during a polishing process, and can provide an improved reliability and productivity when applied to a very large scale integrated semiconductor fabricating process requiring a fine pattern.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. Cerium oxide powder for one-component CMP slurry, which has a specific surface area of 5 m&amp;lt;2&amp;gt;/g or more, and a ratio of volume fraction of pores with a diameter of 3 nm or more to that of pores with a diameter less than 3 nm of 8:2~2:8.
+</P>
+<P>
+2. The cerium oxide powder according to claim 1, which has a crystallite size of 10~60nm.
+</P>
+<P>
+3. The cerium oxide powder according to claim 1, which has an average particle diameter of 50nm~l//m and a largest particle size less than 3[mu]m.
+</P>
+<P>
+4. The cerium oxide powder according to claim 1, which is used as an abrasive material for one-component CMP slurry having a polishing selectivity of silicon oxide layer/silicon nitride layer of 20:1 or more.
+</P>
+<P>
+5. The cerium oxide powder according to claim 1, which shows an increased volume fraction of pores with a diameter of 3nm or more, after polishing a silicon oxide (SiO2) layer deposited on a Si substrate under a pressure of 100~400g/cm&amp;lt;2&amp;gt; at a rotation speed of 50~150 rpm, the volume fraction being increased by 5 vol%~70 vol% as compared to a volume fraction of the pores before polishing.
+</P>
+<P>
+6. The cerium oxide powder according to claim 1, which provides a polishing rate to silicon nitride layer of 2[theta]A/min~3O[theta]A/min, when polishing silicon nitride (Si3N4) layer deposited on a Si substrate under a pressure of 100~400g/cm&amp;lt;2&amp;gt; at a rotation speed of 50~150 rpm.
+</P>
+<P>
+7. A method for preparing the cerium oxide powder as defined in any one of claims 1 to 6, the method comprising the steps of:
+</P>
+<P>
+(a) carrying out low-temperature calcination of cerium carbonate as a starting material at a temperature of 200~400&amp;lt;[deg.]&amp;gt;C for 6-100 hours; and
+</P>
+<P>
+(b) carrying out high-temperature calcination of the product obtained from the preceding step at a temperature of 600~1200&amp;lt;[deg.]&amp;gt;C for 30 minutes~6 hours.
+</P>
+<P>
+8. The method according to claim 7, wherein cerium carbonate comprises pore-forming material, which is decomposed in the low-temperature calcination step to form pores in cerium oxide.
+</P>
+<P>
+9. The method according to claim 8, wherein the pore- forming material includes at least one material selected from the group consisting of aliphatic hydrocarbons, aromatic hydrocarbons, ether compounds, anhydride compounds, carbonate compounds, acrylic compounds, thioether compounds, isocyanate compounds, sulfone compounds, sulfate ion compounds, sulfoxide compounds, alkylene oxide polymers, acrylate polymers, methanol, ethanol, propanol, butanol, ehylene glycol, propylene glycol, acetone, glycerin, formic acid and ethyl acetate, which is an organic molecule or organic polymer capable of being thermally decomposed at a temperature of 450&amp;lt;[deg.]&amp;gt;C or less, or an organic solvent having a dielectric constant of
+</P>
+<P>
+10-80.
+</P>
+<P>
+10. The method according to claim 7, wherein cerium carbonate has an average particle diameter of 0.1-20^m.
+</P>
+<P>
+11. The method according to claim 7, which further comprises a step of pulverizing the calcined cerium oxide powder, after step (a) .
+</P>
+<P>
+12. The method according to claim 11, wherein the pulverization step is performed via a dry pulverization process selected from processes using a jet mill, a disc mill and a beads mill.
+</P>
+<P>
+13. The method according to claim 11, wherein the cerium oxide powder has an average particle diameter of 0.3~2[mu]m after the pulverization step.
+</P>
+<P>
+14. A one-component CMP slurry comprising an abrasive, a dispersant and water, wherein the abrasive comprises the cerium oxide powder as defined in claim 1.
+</P>
+<P>
+15. The one-component CMP slurry according to claim 14, which has a polishing selectivity of silicon oxide layer/silicon nitride layer of 20:1 or more.
+</P>
+<P>
+16. The one-component CMP slurry according to claim 14, which comprises no additive for improving a polishing selectivity of silicon oxide layer/silicon nitride layer.
+</P>
+<P>
+17. The one-component CMP slurry according to claim 16, wherein the additive includes a polycarboxylic acid-based anionic polymer.
+</P>
+<P>
+18. The one-component CMP slurry according to claim 14, which has a polishing rate to a silicon oxide layer of
+</P>
+<P>
+3OO[theta]A/min or more.
+</P>
+<P>
+19. The one-component CMP slurry according to claim 14, wherein the dispersant is used in an amount of 0.5~10 parts by weight based on 100 parts by weight of the cerium oxide powder (solid content basis) .
+</P>
+<P>
+20. The one-component CMP slurry according to claim 14, wherein the dispersant is a nonionic polymer or an anionic polymer.
+</P>
+<P>
+21. The one-component CMP slurry according to claim 14, wherein the dispersant is at least one material selected from the group consisting of polyvinyl alcohol, ethylene glycol, glycerin, polyethylene glycol, polypropylene glycol, polyvinyl pyrrolidone, polyacrylic acid, ammonium polyacrylate and polyacryl maleic acid.
+</P>
+<P>
+22. The one-component CMP slurry according to claim 14, wherein the cerium oxide powder is used in an amount of 0.1 ~50 wt% based on the total weight of the slurry.
+</P>
+<P>
+23. A method of shallow trench isolation characterized by using the one-component CMP slurry as defined in any one of claims 14 to 22.
+</P>
+</Claims>
+<Also_published_as>
+EP1931597A4;WO2007027068A1;US2007081931A1;US7524475B2;TWI338712B;KR20070026145A;KR100725699B1;JP2009505436A;JP4851524B2;CN101258106A;CN101258106B
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Pattern definition device having distinct counter- electrode array plate
+</Title>
+<PublicationNumber>
+EP1993118A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PLATZGUMMER ELMAR [AT]
+</Name>
+<Name>
+PLATZGUMMER, ELMAR
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IMS NANOFABRICATION AG [AT]
+</Name>
+<Name>
+IMS NANOFABRICATION AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1993118
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080450077
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+AT20070000744
+</PriorityNumber>
+<PriorityDate>
+2007-05-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01J37/04
+</Class>
+<Class>
+H01J37/147
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01J37/04B
+</Class>
+<Class>
+H01J37/147D
+</Class>
+<Class>
+H01J37/317B4
+</Class>
+</NCL>
+<Abstract>
+A multi-beam pattern definition device (300) for use in a particle-beam processing or inspection apparatus, which is set up to be irradiated with a beam of electrically charged particles and allow passage of the beam through a plurality of apertures thus forming beamlets, which are imaged onto a target. A deflection array means (302) has a plurality of electrostatic deflector electrodes (321) for each beamlet. Each deflector electrode can be applied an electrostatic potential individually. Counter electrodes (311) are electrically connected to a counter potential independently of the deflection array means through a counter-electrode array means (301). The counter potentials may be a common ground potential or individual potentials in order to improve system reliability.;  In conjunction with an associated counter electrode (311), each deflector electrode deflects its beamlet sufficiently to deflect the beamlet off its nominal path when applied an activating voltage against the respective counter electrode.
+</Abstract>
+<Claims>
+<P>
+1. A multi-beam pattern definition device (300, 600, 700, 800) for use in a particle-beam processing or inspection apparatus (100), said device being adapted to be irradiated with a beam (1p,bp) of electrically charged particles and allow passage of the beam through a plurality of apertures thus forming a corresponding number of beamlets, said device comprising
+</P>
+<P>
+- a deflection array means (302, 602, 702, 802) having a plurality of blanking openings (320, 620) located such that each of the beamlets traverses one of the blanking openings along a nominal path, the deflection array means comprising a plurality of electrostatic deflector electrodes (321, 621, 721, 821), each of which is associated with a blanking opening and is individually provided with a connecting line for applying an electrostatic potential and is, in conjunction with an associated counter electrode (311, 631, 731, 811, 831), configured to deflect a beamlet traversing the respective blanking opening by an amount sufficient to deflect the beamlet off its nominal path when applied an activating voltage against the respective counter electrode, and
+</P>
+<P>
+- a counter-electrode array means (301, 603, 703, 801) providing electrical connection of counter electrodes to a counter potential independently of the deflection array means.
+</P>
+<P>
+2. The device of claim 1, wherein the counter electrodes are components of the counter electrode array means.
+</P>
+<P>
+3. The device of claim 1 or 2, wherein the counter-electrode array means provides electrical connection to a common counter potential.
+</P>
+<P>
+4. The device of any one of claims 1 to 3, wherein the counter-electrode array means provides electrical connections of the counter electrodes to respective counter potentials.
+</P>
+<P>
+5. The device of claim 4, wherein said counter potentials have opposite polarity to the potentials which are applicable to the deflector electrodes, respectively.
+</P>
+<P>
+6. The device of claim 5, with the deflector electrodes and the associated counter electrodes, respectively, forming bi-polar deflectors.
+</P>
+<P>
+7. The device of any one of claims 4 to 6, wherein the electric potentials provided to the deflector electrodes and counter electrodes are chosen sufficiently to deflect a beamlet traversing the respective blanking opening off its nominal path even in the case that only one of the associated deflector and counter electrode is applied the respective electric potential.
+</P>
+<P>
+8. The device of any one of claims 1 to 7, wherein the counter-electrode array means is realized as a generally plate-shaped component having a plurality of openings (310, 630, 820) allowing passage of the beamlets.
+</P>
+<P>
+9. The device of claim 8, wherein the counter-electrode array means (603) is the final component of the pattern definition device and comprises a conductive plane (641) configured to terminate electrical fields produced within the pattern definition device against the space after it, as seen along the direction of the particle beam.
+</P>
+<P>
+10. The device of claim 9, wherein the conductive plane (641) is realized as a conductive layer separated from a base of the counter-electrode array means by an insulating layer (640).
+</P>
+<P>
+11. The device of claim 9 or 10, wherein the conductive plane is realized as a conductive layer sectioned into a composite electrode comprising a number of partial electrodes according to a partitioning of an area covered by the conductive layer into non-overlapping sub-areas, said partial electrodes being contacted individually for applying different electrostatic potentials.
+</P>
+<P>
+12. The device of any one of claims 1 to 11, wherein the deflector electrodes and at least a part of the associated counter electrodes are arranged so as to take opposite positions lateral to the respective beamlets.
+</P>
+<P>
+13. The device of any one of claims 1 to 12, wherein each deflector electrode and at least a part of the associated counter electrodes is located along the path of the respective beamlet.
+</P>
+<P>
+14. The device of any one of claims 1 to 13, wherein the apertures for forming the beamlets are realized as openings in the counter-electrode array means, the width of said apertures being smaller that the width of the corresponding blanking openings.
+</P>
+<P>
+15. The device of any one of claims 1 to 14, further comprising an aperture array means comprising the apertures for forming the beamlets and being independent of the counter-electrode array means, the width of said apertures being smaller that the width of the corresponding blanking openings.
+</P>
+<P>
+16. The device of any one of claims 1 to 15, wherein in addition to first counter electrodes (811) realized as components of the counter-electrode array means (801), second counter electrodes (831) are provided as components of the deflection array means (802), wherein the first and second counter electrodes combine to form composite counter electrodes acting as opposite electrodes of said deflector electrodes (821).
+</P>
+<P>
+17. The device of claim 16, wherein the second counter electrodes are electrically connected on the deflection array means.
+</P>
+<P>
+18. The device of claim 16 or 17, wherein the first and second counter electrodes are shaped so as to be generally congruent.
+</P>
+<P>
+19. The device of any one of claims 1 to 18, wherein the counter electrodes forming components of the counter electrode means are realized having a shape reducing cross-talk between neighboring beamlets and/or improving the thermal conductivity of the counter electrode means as a whole.
+</P>
+<P>
+20. The device of any one of claims 1 to 19, wherein the counter-electrode array means is providing at least one of additional mechanical support of counter electrodes located at the deflection array means and electrical connection of counter electrodes to a counter potential independently of the deflection array means.
+</P>
+</Claims>
+<Also_published_as>
+EP1993118A3;EP1993118B1;US2008283767A1;US7714298B2;JP2009004366A;AT504936T
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOWIRE ON NON- SINGLE CRYSTAL SUBSTRATE FOR OPTOELECTRONIC APPLICATIONS
+</Title>
+<PublicationNumber>
+EP2020034A2
+</PublicationNumber>
+<Inventor>
+<Name>
+WANG SHIH-YUAN [US]
+</Name>
+<Name>
+KOBAYASHI NOBUHIKO [US]
+</Name>
+<Name>
+WANG, SHIH-YUAN
+</Name>
+<Name>
+KOBAYASHI, NOBUHIKO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2020034
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070874436
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US12273
+</PriorityNumber>
+<PriorityDate>
+2007-05-22
+</PriorityDate>
+<PriorityNumber>
+US20060439011
+</PriorityNumber>
+<PriorityDate>
+2006-05-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L29/06
+</Class>
+<Class>
+H01L31/0352
+</Class>
+<Class>
+H01L33/08
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L31/0352B
+</Class>
+<Class>
+H01L33/08
+</Class>
+</NCL>
+<Abstract>
+One embodiment in accordance with the invention is an apparatus that can include a non-single crystal substrate and a nanowire grown from a surface of the non-single crystal substrate. Furthermore, the apparatus can also include an electrode coupled to the nanowire. It is noted that the nanowire can be electrically conductive and/or optically active.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An apparatus comprising:
+</P>
+<P>
+a non-single crystal substrate;
+</P>
+<P>
+a nanowire grown from a surface of said non-single crystal substrate; and
+</P>
+<P>
+an electrode coupled to said nanowire, wherein said nanowire is electrically conductive or optically active.
+</P>
+<P>
+2. The apparatus of claim 1, wherein said nanowire is for emitting electromagnetic wave.
+</P>
+<P>
+3. The apparatus of claim 2, wherein a display device comprises said apparatus.
+</P>
+<P>
+4. The apparatus of claim 1, wherein said nanowire is for absorbing electromagnetic wave and generating a current.
+</P>
+<P>
+5. The apparatus of claim 4, wherein a solar cell comprises said apparatus.
+</P>
+<P>
+6. The apparatus of claim 1, wherein said non-single crystal substrate comprises polycrystalline silicon.
+</P>
+<P>
+7. The apparatus of claim 1, wherein said non-single crystal substrate comprises amorphous silicon.
+</P>
+<P>
+8. The apparatus of claim 1, wherein said non-single crystal substrate comprises microcrystalline silicon.
+</P>
+<P>
+9. An apparatus comprising:
+</P>
+<P>
+a non-single crystal substrate comprising:
+</P>
+<P>
+a first protruding portion; and
+</P>
+<P>
+a second protruding portion; and
+</P>
+<P>
+a nanowire grown from said first protruding portion and coupled to said second protruding portion.
+</P>
+<P>
+10. The apparatus of claim 9, wherein said nanowire is for emitting light.
+</P>
+<P>
+11. The apparatus of claim 9, wherein said nanowire is for absorbing electromagnetic wave and generating a current.
+</P>
+<P>
+12. The apparatus of claim 9, wherein said first protruding portion comprises a material selected from the group consisting of polycrystalline silicon, amorphous silicon, poly-crystal diamond and related carbon-based materials, and microcrystalline silicon.
+</P>
+<P>
+13. The apparatus of claim 9, wherein said non-single crystal substrate comprises a material selected from the group consisting of glass, quartz, Mylar, steel, metal, plastic, and stainless steel.
+</P>
+<P>
+14. The apparatus of claim 9, wherein said apparatus is incorporated with a device selected from the group consisting of a display and a solar cell.
+</P>
+<P>
+15. A method for fabricating an apparatus, the method comprising:
+</P>
+<P>
+disposing a nanowire above a non-single crystal substrate; and
+</P>
+<P>
+coupling an electrode to said nanowire for conducting current.
+</P>
+<P>
+16. The method of claim 15, wherein said nanowire is for emitting light.
+</P>
+<P>
+17. The method of claim 15, wherein said nanowire is for absorbing electromagnetic wave and generating a current.
+</P>
+<P>
+18. The method of claim 15, further comprising:
+</P>
+<P>
+disposing an insulating material above said non-single crystal substrate.
+</P>
+<P>
+19. The method of claim 15, further comprising:
+</P>
+<P>
+disposing a material above said non-single crystal substrate, said material selected from the group consisting of polycrystalline silicon, poly-crystal diamond and related carbon-based materials, amorphous silicon, and microcrystalline silicon,
+</P>
+<P>
+wherein said nanowire is disposed above said material.
+</P>
+<P>
+20. The method of claim 15, wherein said nanowire comprises a material selected from the group consisting of a metal, a group III-V compound semiconductor material and related alloys, a group II-VI compound semiconductor material and related alloys, and a group IV semiconductor material and related alloys.
+</P>
+<P>
+21. The method of claim 15, wherein said apparatus is incorporated with a device selected from the group consisting of a display, a radiation detector, and a solar cell.
+</P>
+<P>
+22. The method of claim 15, wherein said disposing comprises disposing a plurality of nanowires above said non-single crystal substrate, wherein each of said plurality of nanowires has a random orientation.
+</P>
+</Claims>
+<Also_published_as>
+US2007267625A1;US7741647B2;WO2008115191A2;WO2008115191A3;US2011023948A1;JP2009538533A;CN101553934A
+</Also_published_as>
+</BiblioData>

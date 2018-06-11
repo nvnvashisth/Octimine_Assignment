@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DEVICE AND METHOD FOR OBTAINING A SUBSTRATE STRUCTURED ON MICROMETRIC OR NANOMETRIC SCALE
+</Title>
+<PublicationNumber>
+EP2016462A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CAVALLINI MASSIMILIANO [IT]
+</Name>
+<Name>
+MASSACCESI GIANLUCA [IT]
+</Name>
+<Name>
+MATACOTTA FRANCESCO CINO [IT]
+</Name>
+<Name>
+BISCARINI FABIO [IT]
+</Name>
+<Name>
+CAVALLINI, MASSIMILIANO
+</Name>
+<Name>
+MASSACCESI, GIANLUCA
+</Name>
+<Name>
+MATACOTTA, FRANCESCO CINO
+</Name>
+<Name>
+BISCARINI, FABIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SCRIBA NANOTECNOLOGIE S R L [IT]
+</Name>
+<Name>
+SCRIBA NANOTECNOLOGIE S.R.L
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2016462
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070736834
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IT00331
+</PriorityNumber>
+<PriorityDate>
+2007-05-04
+</PriorityDate>
+<PriorityNumber>
+IT2006BO00340
+</PriorityNumber>
+<PriorityDate>
+2006-05-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81C99/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B29C59/02C
+</Class>
+<Class>
+B81C1/00C2T
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+A method for providing a locally rough surface which is spatially structured on micrometric and/or nanometric scale and is formed by a substrate, so as to obtain a product. The method comprises the steps of flattening and/or smoothing the rough substrate in preset regions.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A manufacturing method for obtaining a product which is defined by rough motifs of nanometric and micrometric size on the surface of a substrate, characterized in that it comprises reducing the roughness of the surface of said substrate in definite regions of said substrate.
+</P>
+<P>
+2. The method according to claim I5 characterized in that said reduction step comprises leveling said regions.
+</P>
+<P>
+3. The method according to claim 1 or 2, characterized in that said step of reducing roughness comprises a step of imprinting said substrate. 4. The method according to any one of the preceding claims 1 to 3, characterized in that said step of roughness reduction comprises a step for replica molding said substrate.
+</P>
+<P>
+5. The method according to any one of claims 1 to 4, characterized in that it comprises a step of treating said substrate chemically and/or by means of any physical treatment.
+</P>
+<P>
+6. The method according to any one of the preceding claims 1 to 5, characterized in that said step of reducing roughness comprises a step of exposing said substrate to a solvent or to the vapors of said solvent.
+</P>
+<P>
+7. The method according to any one of the preceding claims 1 to 6, characterized in that said step of reducing roughness comprises a step of heating said substrate.
+</P>
+<P>
+8. The method according to any one of the preceding claims 1 to 7, characterized in that said step of reducing roughness comprises a step of etching said substrate. 9. The method according to any one of the preceding claims, characterized in that said substrate comprises a polymer or a polymeric mixture.
+</P>
+<P>
+10. The method according to claim 9, characterized in that said polymer or mixture of polymers comprises polycarbonate. 11. The method according to any one of the preceding claims, wherein the material of the substrate is selected from the group formed by soluble polymers or precursors capable of polymerization during imprinting (for example polyaniline, polyphenylene vinylene, poly-(3-alkyl-thienyl).
+</P>
+<P>
+12. The method according to any one of the preceding claims, characterized in that said substrate comprises a copolymer.
+</P>
+<P>
+13. The method according to any one of the preceding claims, characterized in that said substrate comprises a mixture of one or more polymers with other materials.
+</P>
+<P>
+14. The method according to any one of the preceding claims, characterized in that said substrate comprises a molecular material.
+</P>
+<P>
+15. The method according to any one of the preceding claims, characterized in that said substrate comprises biological molecules.
+</P>
+<P>
+16. The method according to any one of the preceding claims, characterized in that said substrate comprises a gel. 17. The method according to any one of the preceding claims, characterized in that said substrate is organic.
+</P>
+<P>
+18. The method according to any one of the preceding claims, characterized in that said substrate is biological.
+</P>
+<P>
+19. The method according to any one of the preceding claims, characterized in that said substrate is formed by an inorganic material.
+</P>
+<P>
+20. The method according to any one of the preceding claims 1 to 19, characterized in that said substrate is formed by a spatially structurable material.
+</P>
+<P>
+21. The method according to any one of the preceding claims 1 to 20, characterized in that said substrate is formed by a conducting material and the resulting product is an electronic device, since it is a conductor.
+</P>
+<P>
+22. The method according to any one of the preceding claims 1 to 21, characterized in that said substrate is formed by a semiconductor material and the resulting product is an electronic or optoelectronic device. 23. The method according to any one of the preceding claims 1 to 22, characterized in that said substrate is formed by a magnetic material and the resulting product is a magnetically readable memory element.
+</P>
+<P>
+24. The method according to claim 23, characterized in that said magnetically readable memory element is rewritable, said magnetic material being ferromagnetic.
+</P>
+<P>
+25. The method according to any one of the preceding claims, characterized in that said substrate is formed by an optically active material and the resulting product is an optically readable memory element.
+</P>
+<P>
+26. The method according to any one of the preceding claims, characterized in that the value of the roughness of the regions where roughness is reduced ranges from 0% to 99.9% with respect to the value of the initial roughness of the surface of the substrate.
+</P>
+<P>
+27. The method according to claim 26, characterized in that said substrate is provided by a monolayer or multilayer polymeric film, said multilayer polymeric film optionally comprising a metallic film.
+</P>
+<P>
+28. The method according to claim 25, characterized in that said optically readable memory element is rewritable.
+</P>
+<P>
+29. A spatially structured template or pattern, characterized in that it is obtained according to the method described in any one of the preceding claims 1 to 28, said pattern being formed on the substrate.
+</P>
+<P>
+30. An optically readable memory element, characterized in that it is obtained according to the method described in any one of claims 1 to 28, said substrate being formed by a material having optical and/or spectroscopic properties. 31. An optically readable memory element according to claim 30, characterized in that it is rewritable.
+</P>
+<P>
+32. A magnetically readable memory element, characterized in that it is obtained according to the method described in any one of claims 1 to 28, said substrate being formed by a magnetic material. 33. The magnetically readable memory element according to claim
+</P>
+<P>
+32, characterized in that said substrate is formed by a ferromagnetic material.
+</P>
+<P>
+34. An electrode, characterized in that it is obtained according to the method described in any one of the preceding claims 1 to 28, said substrate being formed by a conducting material.
+</P>
+<P>
+35. An electrode, characterized in that it is obtained according to the method described in any one of the preceding claims 1 to 28, said substrate being formed by a semiconductor material.
+</P>
+<P>
+36. An electrode, characterized in that it is obtained according to the method described in any one of the preceding claims 1 to 28, said substrate being formed by a metallic conducting material.
+</P>
+<P>
+37. A label, characterized in that it comprises a substrate which has a surface provided with a pattern formed by rough motifs alternated with regions having a reduced roughness with respect to said rough motifs, obtainable with the method according to one or more of claims 1 to 28 and bearing binary information according to the alternation of said rough motifs and of said regions with reduced roughness.
+</P>
+<P>
+38. The label according to claim 37, characterized in that said substrate is provided by a monolayer or multilayer polymeric film, said multilayer polymeric film optionally comprising a metallic film.
+</P>
+<P>
+39. The label according to claim 37 or 38, characterized in that said substrate has a morphology which defines a holographic grating.
+</P>
+<P>
+40. The method according to the preceding claims 1 to 28, characterized in that the substrate is formed by a film of a material which is deposited on a medium.
+</P>
+<P>
+41. The method according to the preceding claims 1 to 28 and 40, characterized in that the substrate is structured morphologically in a controlled manner.
+</P>
+<P>
+42. The method according to the preceding claims 1 to 28, 40 and 41, characterized in that said substrate has a morphology which defines an ordered grating.
+</P>
+<P>
+43. The method according to the preceding claims 1 to 28 and 40 to 42, characterized in that said substrate has a morphology which defines a holographic grating. 44. A method for obtaining a product with a surface which has a predetermined distribution of alternating regions of said surface, said alternating regions having different optical or magnetic or electrical or chemical and/or physical properties, comprising the steps of:
+</P>
+<P>
+- providing a surface of said product with a given initial roughness having micrometric or nanometric dimensions, and
+</P>
+<P>
+- reducing said initial roughness in selected regions of said surface, thus forming alternated regions of said surface with said initial roughness and with a roughness which is reduced with respect to said initial roughness, said alternating regions having surfaces with micrometric or nanometric dimensions.
+</P>
+<P>
+45. A product obtainable with the method of any one of claims 1 to 28 and 40 to 44, comprising a substrate with a surface which is provided with rough motifs with nanometric or micrometric dimensions, wherein said surface comprises regions which have a first roughness and regions which have a second roughness and are alternated with the regions which have said first roughness, said regions having nanometric or micrometric dimensions, the ratio between said first roughness and said second roughness ranging from 1 :1 to 1:1000.
+</P>
+</Claims>
+<Also_published_as>
+WO2007129355A1;US2009080323A1;JP2009536104A;ITBO20060340A1
+</Also_published_as>
+</BiblioData>

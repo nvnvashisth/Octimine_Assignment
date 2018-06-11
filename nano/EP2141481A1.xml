@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DEVICE AND METHOD FOR ACQUIRING A FIELD BY MEASUREMENT
+</Title>
+<PublicationNumber>
+EP2141481A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KIMURA KENJIRO [JP]
+</Name>
+<Name>
+KOBAYASHI KEI [JP]
+</Name>
+<Name>
+YAMADA HIROFUMI [JP]
+</Name>
+<Name>
+MATSUSHIGE KAZUMI [JP]
+</Name>
+<Name>
+HORIUCHI TAKASHI [JP]
+</Name>
+<Name>
+SATOH NOBUO [JP]
+</Name>
+<Name>
+NAKAI AKIFUMI [JP]
+</Name>
+<Name>
+KIMURA, KENJIRO
+</Name>
+<Name>
+KOBAYASHI, KEI
+</Name>
+<Name>
+YAMADA, HIROFUMI
+</Name>
+<Name>
+MATSUSHIGE, KAZUMI
+</Name>
+<Name>
+HORIUCHI, TAKASHI
+</Name>
+<Name>
+SATOH, NOBUO
+</Name>
+<Name>
+NAKAI, AKIFUMI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV KYOTO [JP]
+</Name>
+<Name>
+KYOTO UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2141481
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080739255
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP56137
+</PriorityNumber>
+<PriorityDate>
+2008-03-28
+</PriorityDate>
+<PriorityNumber>
+JP20070091856
+</PriorityNumber>
+<PriorityDate>
+2007-03-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q30/04
+</Class>
+<Class>
+G01Q60/50
+</Class>
+<Class>
+G01R33/02
+</Class>
+<Class>
+G01N13/10
+</Class>
+<Class>
+G01N13/22
+</Class>
+</IPC>
+<IPC7>
+<Class>
+G01N13/10
+</Class>
+<Class>
+G01N13/22
+</Class>
+</IPC7>
+<ICM>
+<Class>
+G01Q30/04
+</Class>
+<Class>
+G01Q60/50
+</Class>
+<Class>
+G01R33/02
+</Class>
+</ICM>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01Q30/04
+</Class>
+<Class>
+G01Q60/50
+</Class>
+<Class>
+G01R33/02A
+</Class>
+<Class>
+G01R33/038B
+</Class>
+<Class>
+G01R33/10
+</Class>
+</NCL>
+<Abstract>
+Above the sample (9) having magnetic domains, a distribution of magnetic force in a measurement plane (91) is obtained as a magnetic force image with use of a MFM, an auxiliary magnetic force image is obtained by performing measurement in a measurement plane (92) away from the measurement plane (91) by a minute distance d, and a difference between them is divided by the minute distance d to obtain a magnetic force gradient image. The magnetic force image and the auxiliary magnetic force image are Fourier transformed and substituted into a three-dimensional field obtaining equation derived from a general solution of the Laplace equation, and the three-dimensional field indicating the magnetic force is obtained with high accuracy. A state of the magnetic domains at the surface (93) of the sample (9) can be obtained with high accuracy by obtaining the three-dimensional field.;  The three-dimensional field obtaining method using the three-dimensional field obtaining equation can be used for various fields of magnetic, electric, temperature and gravity potential and so on satisfying the Laplace equation. The obtaining of the three-dimensional field can be extended to obtaining of an n-dimensional field having high-dimension.
+</Abstract>
+<Claims>
+<P>
+1. A three-dimensional field obtaining apparatus for obtaining [phi](x, y, z) (where x, y, z show coordinate parameters in a rectangular coordinate system defined by X, Y, Z directions which are orthogonal to one another) or obtaining a function derived by differentiating [phi](x, y, z) with respect to z one time or more, [phi](x, y, z) being a field function showing a three-dimensional scalar field which is formed at least at circumference or inside of an object due to existence of said object and satisfies the Laplace equation, comprising:
+</P>
+<P>
+a measured value group obtaining part for obtaining a distribution of measured values of one type in a measurement plane as a two-dimensional first measured value group and obtaining a distribution of measured values of another type in said measurement plane as a two-dimensional second measured value group, said measurement plane being set outside or inside an object and satisfying z = 0, said distribution of measured values of one type coming from said three-dimensional scalar field, said distribution of measured values of another type coming from said three-dimensional scalar field; and
+</P>
+<P>
+an operation part for obtaining [phi]z&amp;lt;(q)&amp;gt;(x, y, 0) and [phi]z&amp;lt;(p)&amp;gt;(x, y, 0) which are q times differential and p times differential of [phi](x, y, z) in said measurement plane with respect to z (where p, q are integers which are equal to or larger than 0, and one of them is odd and the other is even), on the basis of said first measured value group and said second measured value group, and calculating [phi]z&amp;lt;(q)&amp;gt;(kx, ky) and [phi]z&amp;lt;(p)&amp;gt;(kx, ky) by Fourier transforming [phi]z&amp;lt;(q)&amp;gt;(x, y, 0) and [phi]z&amp;lt;(p)&amp;gt;(x, y, 0), respectively (where kx, ky are wavenumbers in the X direction and the Y direction), and furthermore calculating [phi] z&amp;lt;(q)&amp;gt;(x, y, z) by deriving a Fourier transformed function of [phi]z&amp;lt;(q)&amp;gt;(x, y, z) from [phi]z&amp;lt;(q)&amp;gt;(kx, ky) and [phi]z&amp;lt;(p)&amp;gt;(kx, ky).
+</P>
+<P>
+2. The three-dimensional field obtaining apparatus according to claim 1, wherein said operation part calculates [phi]z&amp;lt;(q)&amp;gt;(x, y, z) by
+</P>
+<P>
+3. The three-dimensional field obtaining apparatus according to claim 1 or 2, wherein
+</P>
+<P>
+p is (q+1), said first measured value group shows [phi]z&amp;lt;(q)&amp;gt;(x, y, 0), and
+</P>
+<P>
+said measured value group obtaining part comprises:
+</P>
+<P>
+a measuring part for obtaining said distribution of measured values of one type as a two-dimensional measured value group, said distribution of measured values of one type coming from said three-dimensional scalar field; and
+</P>
+<P>
+a differential measured value group generating part for calculating a difference measured value group between said first measured value group obtained in said measurement plane by said measuring part and an intermediate measured value group obtained by said measuring part in a plane away from said measurement plane by a minute distance with respect to the Z direction, to obtain a differential measured value group as said second measured value group, said differential measured value group being derived by dividing said difference measured value group by said minute distance.
+</P>
+<P>
+4. The three-dimensional field obtaining apparatus according to any one of claims 1 to 3, wherein
+</P>
+<P>
+said three-dimensional scalar field is a field of magnetic, electric, temperature or gravity potential.
+</P>
+<P>
+5. The three-dimensional field obtaining apparatus according to claim 4, wherein
+</P>
+<P>
+q is 0 or 1.
+</P>
+<P>
+6. The three-dimensional field obtaining apparatus according to any one of claims 1 to 5, wherein
+</P>
+<P>
+said operating part substitutes a value which indicates a position of a surface of said object or a position close to a surface, into z of [phi]z&amp;lt;(q)&amp;gt;(x, y, z).
+</P>
+<P>
+7. The three-dimensional field obtaining apparatus according to any one of claims 1 to 3, further comprising
+</P>
+<P>
+a field generating part for making a field affect said object, said field varying periodically, wherein
+</P>
+<P>
+said measured value group obtaining part obtains a measured value group in synchronization with a period of said field.
+</P>
+<P>
+8. A magnetic force microscopy comprising
+</P>
+<P>
+the three-dimensional field obtaining apparatus according to any one of claims 1 to 3, for obtaining a three-dimensional field of magnetic potential or a three-dimensional field derived from said field of magnetic potential, wherein
+</P>
+<P>
+said operating part substitutes a value which indicates a position of a surface of said object or a position close to a surface, into z of [phi]z&amp;lt;(q)&amp;gt;(x, y, z).
+</P>
+<P>
+9. The magnetic force microscopy according to claim 8, wherein
+</P>
+<P>
+spatial resolution is less than or equal to 10 nm.
+</P>
+<P>
+10. A current distribution measuring apparatus for measuring a current distribution flowing through an electric circuit of inside of an object, comprising
+</P>
+<P>
+the three-dimensional field obtaining apparatus according to any one of claims 1 to 3, for obtaining a three-dimensional field of magnetic potential caused by allowing a current to flow through said circuit or a three-dimensional field derived from said field of magnetic potential, wherein
+</P>
+<P>
+said operating part substitutes at least one value which indicates a position of inside of said object, into z of [phi]z&amp;lt;(q)&amp;gt;(x, y, z) and calculates a current distribution of said circuit on the basis of a substitution result.
+</P>
+<P>
+11. The current distribution measuring apparatus according to claim 10, wherein
+</P>
+<P>
+said operation part detects a defect in said circuit from said current distribution.
+</P>
+<P>
+12. A biomagnetic field measuring apparatus for measuring a magnetic field of inside of a living body, comprising
+</P>
+<P>
+the three-dimensional field obtaining apparatus according to any one of claims 1 to 3, for obtaining a three-dimensional field of magnetic potential or a three-dimensional field derived from said field of magnetic potential, said field of magnetic potential being caused due to the current flowing inside a living body or existence of magnetic particles administered to a living body.
+</P>
+<P>
+13. A nondestructive inspection apparatus for inspecting inside of a structure, comprising
+</P>
+<P>
+the three-dimensional field obtaining apparatus according to any one of claims 1 to 3, for obtaining a three-dimensional field of magnetic potential or a three-dimensional field derived from said field of magnetic potential, said field of magnetic potential being caused by residual stress or corrosion inside a structure.
+</P>
+<P>
+14. A three-dimensional field obtaining method of obtaining [phi](x, y, z) (where x, y, z show coordinate parameters in a rectangular coordinate system defined by X, Y, Z directions which are orthogonal to one another) or obtaining a function derived by differentiating [phi](x, y, z) with respect to z one time or more, [phi](x, y, z) being a field function showing a three-dimensional scalar field which is formed at least at circumference or inside of an object due to existence of said object and satisfies the Laplace equation, comprising the steps of:
+</P>
+<P>
+a) obtaining a distribution of measured values of one type in a measurement plane as a two-dimensional first measured value group, said measurement plane being set outside or inside an object and satisfying z = 0, said distribution of measured values of one type coming from said three-dimensional scalar field;
+</P>
+<P>
+b) obtaining a distribution of measured values of another type in said measurement plane as a two-dimensional second measured value group, said distribution of measured values of another type coming from said three-dimensional scalar field;
+</P>
+<P>
+c) obtaining [phi]z&amp;lt;(q)&amp;gt;(x, y, 0) and [phi]z&amp;lt;(p)&amp;gt;(x, y, 0) which are q times differential and p times differential of [phi](x, y, z) in said measurement plane with respect to z (where p, q are integers which are equal to or larger than 0, and one of them is odd and the other is even), on the basis of said first measured value group and said second measured value group;
+</P>
+<P>
+d) calculating [phi]z&amp;lt;(q)&amp;gt;(kx, ky) and [phi]z&amp;lt;(p)&amp;gt;(kx, ky) by Fourier transforming [phi]z&amp;lt;(q)&amp;gt;(x, y, 0) and [phi]z&amp;lt;(p)&amp;gt;(x, y, 0), respectively (where kx, ky are wavenumbers in the X direction and the Y direction); and
+</P>
+<P>
+e) calculating [phi]z&amp;lt;(q)&amp;gt;(x, y, z) by deriving a Fourier transformed function of [phi] z&amp;lt;(q)&amp;gt;(x, y, z) from [phi]z&amp;lt;(q)&amp;gt;(kx, ky) and [phi]z&amp;lt;(p)&amp;gt;(kx, ky).
+</P>
+<P>
+15. The three-dimensional field obtaining method according to claim 14, wherein
+</P>
+<P>
+[phi]z&amp;lt;(q)&amp;gt;(x, y, z) is calculated in said step e) by
+</P>
+<P>
+16. The three-dimensional field obtaining method according to claim 14 or 15, wherein
+</P>
+<P>
+p is (q+1), said first measured value group shows [phi]z&amp;lt;(q)&amp;gt;(x, y, 0),
+</P>
+<P>
+said step b) comprises:
+</P>
+<P>
+a step of obtaining said distribution of measured values of one type in a plane away from said measurement plane by a minute distance with respect to the Z direction, as a two-dimensional intermediate measured value group; and
+</P>
+<P>
+a step of obtaining a differential measured value group as said second measured value group, said differential measured value group being derived by dividing a difference measured value group between said first measured value group and said intermediate measured value group by said minute distance, and
+</P>
+<P>
+said step c) is substantially performed by performing said step a) and b).
+</P>
+<P>
+17. A three-dimensional field obtaining program for causing a computer to obtain [phi](x, y, z) (where x, y, z show coordinate parameters in a rectangular coordinate system defined by X, Y, Z directions which are orthogonal to one another) or to obtain a function derived by differentiating [phi](x, y, z) with respect to z one time or more, [phi](x, y, z) being a field function showing a three-dimensional scalar field which is formed at least at circumference or inside of an object due to existence of said object and satisfies the Laplace equation, wherein execution of said program by said computer causes said computer to perform the steps of:
+</P>
+<P>
+a) obtaining [phi]z&amp;lt;(q)&amp;gt;(x, y, 0) and [phi]z&amp;lt;(p)&amp;gt;(x, y, 0) which are q times differential and p times differential of [phi](x, y, z) in a measurement plane with respect to z (where p, q are integers which are equal to or larger than 0, and one of them is odd and the other is even), on the basis of a two-dimensional first measured value group and a two-dimensional second measured value group, said measurement plane being set outside or inside an object and satisfying z = 0, said first measured value group being obtained in said measurement plane as a distribution of measured values of one type which comes from said three-dimensional scalar field, said second measured value group being obtained in said measurement plane as a distribution of measured values of another type which comes from said three-dimensional scalar field;
+</P>
+<P>
+b) calculating [phi]z&amp;lt;(q)&amp;gt;(kx, ky) and [phi]z&amp;lt;(p)&amp;gt;(kx, ky) by Fourier transforming [phi]z&amp;lt;(q)&amp;gt;(x, y, 0) and [phi]z&amp;lt;(p)&amp;gt;(x, y, 0), respectively (where kx, ky are wavenumbers in the X direction and the Y direction); and
+</P>
+<P>
+c) calculating [phi]z&amp;lt;(q)&amp;gt;(x, y, z) by deriving a Fourier transformed function of [phi] z&amp;lt;(q)&amp;gt;(x, y, z) from [phi]z&amp;lt;(q)&amp;gt;(kx, ky) and [phi]z&amp;lt;(p)&amp;gt;(kx, ky).
+</P>
+<P>
+18. The three-dimensional field obtaining program according to claim 17, wherein
+</P>
+<P>
+[phi]z&amp;lt;(q)&amp;gt;(x, y, z) is calculated in said step e) by
+</P>
+<P>
+19. An n-dimensional field obtaining apparatus for obtaining [phi](x1, x2, ..., xn) (where n is an integer equal to or larger than 2, and x1, x2, ..., xn show parameters representing n-dimension) or obtaining a function derived by differentiating [phi](x1, x2, ..., xn) with respect to xm (where m is a positive integer equal to or less than n) one time or more, [phi](x1, x2, ..., xn) being a field function showing an n-dimensional scalar field which is formed at least at circumference or inside of an object due to existence of said object and satisfies
+</P>
+<P>
+, comprising:
+</P>
+<P>
+a measured value group obtaining part for obtaining a distribution of measured values of one type in a (n-1)-dimensional measurement space as a (n-1)-dimensional first measured value group and obtaining a distribution of measured values of another type in said measurement space as a (n-1)-dimensional second measured value group, said measurement space being set outside or inside an object and satisfying xm = 0, said distribution of measured values of one type coming from said n-dimensional scalar field, said distribution of measured values of another type coming from said n-dimensional scalar field; and
+</P>
+<P>
+an operation part for obtaining [phi]xm&amp;lt;(q)&amp;gt;(x1, x2, ..., xm-1, 0, xm+1, ..., xn) and [phi] xm&amp;lt;(p)&amp;gt;(x1, x2, ..., xm-1, 0, xm+1, ..., xn) which are q times differential and p times differential of [phi](x1, x2, ..., xn) in said measurement space with respect to xm (where p, q are integers which are equal to or larger than 0, and one of them is odd and the other is even), on the basis of said first measured value group and said second measured value group, and calculating [phi]xm&amp;lt;(q)&amp;gt;(kx1, kx2, ..., kx(m-1), kx(m+1), ..., kxn) and [phi]xm&amp;lt;(p)&amp;gt;(kx1, kx2, ..., kx(m-1), kx(m+1), ..., kxn) by Fourier transforming [phi]xm&amp;lt;(q)&amp;gt;(x1, x2, ..., xm-1, 0, xm+1, ..., xn) and [phi] xm&amp;lt;(p)&amp;gt;(x1, x2, ..., xm-1, 0, xm+1, ..., xn), respectively (where kx1, kx2, ..., kx(m-1), kx(m+1), ..., kxn are wavenumbers with respect to x1, x2, ..., xm-1, xm+1, ..., xn), and furthermore calculating [phi]xm&amp;lt;(q)&amp;gt;(x1, x2, ..., xn) by deriving a Fourier transformed function of [phi]xm&amp;lt;(q)&amp;gt;(x1, x2, ..., xn) from [phi]xm&amp;lt;(q)&amp;gt;(kx1, kx2, ..., kx(m-1), kx(m+1), ..., kxn) and [phi]xm&amp;lt;(p)&amp;gt;(kx1, kx2, ..., kx(m-1), kx(m+1), ..., kxn).
+</P>
+<P>
+20. The n-dimensional field obtaining apparatus according to claim 19, wherein
+</P>
+<P>
+said operation part calculates [phi]xm&amp;lt;(q)&amp;gt;(x1, x2, ..., xn) by
+</P>
+<P>
+where
+</P>
+<P>
+[psi]xm&amp;lt;(q)&amp;gt; represents [psi]xm&amp;lt;(q)&amp;gt;(kx1,kx2,...,kxm-1,kxm+1,...,kxn),
+</P>
+<P>
+[psi]xm&amp;lt;(p)&amp;gt; represents [psi]xm&amp;lt;(p)&amp;gt;(kx1,kx2,...,kxm-1,kxm+1,...,kxn),
+</P>
+<P>
+and
+</P>
+</Claims>
+<Also_published_as>
+EP2141481A4;EP2141481B1;US2010219819A1;KR20090130369A;JP4878063B2;WO2008123432A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+HIGH QUANTUM YIELD ACRIDINIUM COMPOUNDS AND THEIR USES IN IMPROVING ASSAY SENSITIVITY
+</Title>
+<PublicationNumber>
+EP1946108A2
+</PublicationNumber>
+<Inventor>
+<Name>
+NATRAJAN ANAND [US]
+</Name>
+<Name>
+JIANG QUINGPING [US]
+</Name>
+<Name>
+SHARPE DAVID [US]
+</Name>
+<Name>
+COSTELLO JAMES [US]
+</Name>
+<Name>
+NATRAJAN, ANAND
+</Name>
+<Name>
+JIANG, QUINGPING
+</Name>
+<Name>
+SHARPE, DAVID
+</Name>
+<Name>
+COSTELLO, JAMES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BAYER HEALTHCARE LLC [US]
+</Name>
+<Name>
+BAYER HEALTHCARE LLC
+</Name>
+<Name>
+SIEMENS HEALTHCARE DIAGNOSTICS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1946108
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060771782
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-06-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US21195
+</PriorityNumber>
+<PriorityDate>
+2006-06-01
+</PriorityDate>
+<PriorityNumber>
+US20050142938
+</PriorityNumber>
+<PriorityDate>
+2005-06-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C07D219/04
+</Class>
+<Class>
+C07D219/06
+</Class>
+<Class>
+C07D401/12
+</Class>
+<Class>
+C07D473/08
+</Class>
+<Class>
+C07K1/10
+</Class>
+<Class>
+C09K11/07
+</Class>
+<Class>
+G01N21/76
+</Class>
+<Class>
+G01N21/78
+</Class>
+<Class>
+G01N33/53
+</Class>
+<Class>
+G01N33/532
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/542
+</Class>
+<Class>
+G01N33/566
+</Class>
+<Class>
+G01N33/58
+</Class>
+<Class>
+G01Q80/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+C07D219/04
+</Class>
+<Class>
+C07D219/06
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/542
+</Class>
+<Class>
+G01N33/58D
+</Class>
+<Class>
+G01N33/58J
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to hydrophilic, high quantum yield acridinium compounds. It has been discovered that the placement of electron-donating groups in the acridinium ring system increases the amount of light that is emitted by the corresponding acridinium compound when its chemiluminescence is triggered by alkaline peroxide. More specifically, it has been found that the placement of one or two hydrophilic, alkoxy groups at the C-2 and/or C-7 position of the acridinium ring system of acridinium compounds increases their quantum yield and enhances the aqueous solubility of these compounds. The present hydrophilic, high quantum yield, acridinium compounds are useful chemiluminescent labels for improving the sensitivity of immunoassays.
+</Abstract>
+<Claims>
+<P>
+1. An improved heterogeneous immunoassay for the detection or quantification of an analyte using a hydrophilic, high quantum yield acridinium compound containing electron-donating functional groups at the C-2 and/or the C-7 position of the acridinium ring, wherein the high quantum yield acridinium compound has a relative quantum light yield greater than 1 when compared with a corresponding acridinium compound without electron-donating functional groups at the C-2 and/or the C-7 position of the acridinium ring.
+</P>
+<P>
+2. The heterogeneous immunoassay of claim 1, wherein the electron donating functional group at the C-2 and/or the C-7 position can be the same or different and is selected from the group consisting of OR, OH, SR, SH, NH2, NR&apos;R&apos;&apos;; wherein R, R&apos; and R&apos;&apos; can be the same or different, and are selected from the group consisting of alkyl, alkenyl, alkynyl, aryl, and aralkyl containing up to 20 heteroatoms.
+</P>
+<P>
+3. The heterogeneous immunoassay of claim 2, wherein the electron donating functional group is selected from the group consisting of -OMe, -OCH2CH2CH2SO3&amp;lt;-&amp;gt; and -O(CH2CH2O)n-CH2-CH2-OMe, wherein n=0-5.
+</P>
+<P>
+4. The heterogeneous immunoassay of claim 2, wherein the electron donating functional group is an alkoxy group, OR, wherein R is selected from the group consisting of alkyl, alkenyl, alkynyl, aryl, and aralkyl.
+</P>
+<P>
+5. The heterogeneous immunoassay of claim 1, wherein the acridinium compound is selected from the group consisting of acridinium esters and acridinium sulfonamides.
+</P>
+<P>
+6. A heterogeneous immunoassay for the quantification of a macromolecular analyte comprising:
+</P>
+<P>
+a) providing a conjugate of a binding molecule specific for a macromolecular analyte with a hydrophilic, high quantum yield chemiluminescent acridinium compound containing electron donating functional groups at the C-2 and/or C-7 position of the acridinium ring;
+</P>
+<P>
+b) providing a solid phase immobilized with a second binding molecule specific for said macromolecular analyte;
+</P>
+<P>
+c) mixing the conjugate, the solid phase and a sample suspected of containing the analyte to form a binding complex;
+</P>
+<P>
+d) separating the binding complex captured on the solid phase;
+</P>
+<P>
+e) triggering the chemiluminescence of the binding complex of d) by adding chemiluminescence triggering reagents;
+</P>
+<P>
+f) measuring the amount of light emission with a luminometer; and
+</P>
+<P>
+g) detecting the presence or calculating the concentration of the analyte by comparing the amount of light emitted from the reaction mixture with a standard dose response curve which relates the amount of light emitted to a known concentration of the analyte.
+</P>
+<P>
+7. A heterogeneous immunoassay for the quantification of a small molecule analyte comprising the following steps:
+</P>
+<P>
+(a) providing a conjugate of an analyte with a hydrophilic, high quantum yield chemiluminescent acridinium compound containing electron donating functional groups at the C-2 and/or C-7 position of the acridinium ring;
+</P>
+<P>
+(b) providing a solid phase immobilized with a binding molecule specific for the analyte;
+</P>
+<P>
+(c) mixing the conjugate, solid phase and a sample suspected of containing the analyte to form a binding complex;
+</P>
+<P>
+(d) separating the binding complex captured on the solid phase;
+</P>
+<P>
+(e) triggering the chemiluminescence of the binding complex of d) by adding chemiluminescence triggering reagents;
+</P>
+<P>
+(f) measuring the amount of light with an luminometer; and
+</P>
+<P>
+(g) detecting the presence or calculating the concentration of the analyte by comparing the amount of light emitted from the reaction mixture with a standard dose response curve which relates the amount of light emitted to a known concentration of the analyte.
+</P>
+<P>
+8. A heterogeneous immunoassay for the quantification of a small molecule analyte comprising the following steps:
+</P>
+<P>
+(a) providing a solid phase immobilized with an analyte or an analyte analog;
+</P>
+<P>
+(b) providing a conjugate of a binding molecule specific for the analyte with a hydrophilic, high quantum yield chemiluminescent acridinium compound containing electron donating functional groups at the C-2 and/or C-7 position of the acridinium ring;
+</P>
+<P>
+(c) mixing the solid phase, the conjugate and a sample suspected containing the analyte to form a binding complex;
+</P>
+<P>
+(d) separating the binding complex captured on the solid phase;
+</P>
+<P>
+(e) triggering the chemiluminescence of the binding complex of d) by adding chemiluminescence triggering reagents;
+</P>
+<P>
+(f) measuring the amount of light with an luminometer; and
+</P>
+<P>
+(g) detecting the presence or calculating the concentration of the analyte by comparing the amount of light emitted from the reaction mixture with a standard dose response curve which relates the amount of light emitted to a known concentration of the analyte.
+</P>
+<P>
+9. The heterogeneous immunoassay of claim 1, wherein the hydrophilic, high quantum yield acridinium compound has the following structure:
+</P>
+<P>
+EMI41.0
+</P>
+<P>
+wherein,
+</P>
+<P>
+R1 is an alkyl, alkenyl, alkynyl or aralkyl containing up to 20 heteroatoms;
+</P>
+<P>
+R2 and R3 are the same or different and are hydrogen, halides or R where R is an alkyl, alkenyl, alkynyl, aryl, or aralkyl containing up to 20 heteroatoms at positions other than C(2) and C(7);
+</P>
+<P>
+W1 and W2 are the same or different and are electron-donating groups comprising OR, OH, SR, SH, NH2, NR&apos;R&apos;&apos;; wherein R, R&apos; and R&apos;&apos; can be the same or different, and are selected from the group consisting of alkyl, alkenyl, alkynyl, aryl, and aralkyl containing up to 20 heteroatoms;
+</P>
+<P>
+A&amp;lt;-&amp;gt; is a counter ion which is introduced to pair with the quaternary nitrogen of said acridinium nucleus, and is selected from the group consisting of CH3SO4&amp;lt;-&amp;gt; , FSO3&amp;lt;-&amp;gt; , CF3SO&amp;lt;4&amp;gt; -, C4F9SO4&amp;lt;-&amp;gt; , CH3C6H4SO3&amp;lt;-&amp;gt; , halide, CF3COO&amp;lt;-&amp;gt; , CH3COO&amp;lt;-&amp;gt; , and NO3&amp;lt;-&amp;gt; ; X is oxygen or nitrogen;
+</P>
+<P>
+such that when X is oxygen, Z is omitted and Y is selected from the group consisting of a substituted aryl moiety of the formula:
+</P>
+<P>
+EMI42.0
+</P>
+<P>
+where R4 and R8 are hydrogen, alkyl, alkenyl, alkynyl, alkoxyl (-OR), alkylthiol (-R), or -NR2 groups where R on the nitrogen can be the same or different , R is an alkyl, alkenyl, alkynyl, aryl, or aralkyl containing up to 20 heteroatoms, preferably R4 and R8 are methyl, R4 and R8 can be the same or different;
+</P>
+<P>
+R5 and R7 are the same or different and are hydrogen or the same as R;
+</P>
+<P>
+R6=-R9-R10,
+</P>
+<P>
+where R9 is not required and is branched or straight-chained alkyl, substituted or unsubstituted aryl or aralkyl containing up to 20 heteroatoms, and
+</P>
+<P>
+R10 is a leaving group or an electrophilic functional group attached with a leaving group selected from the group consisting of:
+</P>
+<P>
+EMI43.0
+</P>
+<P>
+a halide or -COOH;
+</P>
+<P>
+R5 and R6, and R6 and R7 are interchangeable;
+</P>
+<P>
+R11 and R12 are the same as R6 defined above and can be the same or different; and
+</P>
+<P>
+when X is nitrogen, Y is the same as R6 defined above, Z is -SO2-Y&apos;, and Y&apos; is a substituted or unsubstituted aryl group or branched or straight chain.
+</P>
+<P>
+10. The heterogeneous immunoassay of claim 9, wherein the acridinium compound has the following structure:
+</P>
+<P>
+EMI44.0
+</P>
+<P>
+where R13 is -OH, -O-N-succinimidyl, -NH-(CH2)5-C(O)-O-N-succinimidyl, -NH-(C2H4O)n-C2H4NH-C(O)-(CH2)3-C(O)-O-N-succinimidyl wherein n=0 to 5, or -NH-R-NHR, and where R1 is an alkyl, alkenyl, alkynyl or aralkyl containing up to 20 heteroatoms; A&amp;lt;-&amp;gt; is a counter ion which is introduced to pair with the quaternary nitrogen of said acridinium nucleus, and is selected from the group consisting of CH3SO4&amp;lt;-&amp;gt; , FSO3&amp;lt;-&amp;gt; , CF3SO4&amp;lt;-&amp;gt; , C4F9SO4&amp;lt;-&amp;gt; , CH3C6H4SO3&amp;lt;-&amp;gt; , halide, CF3COO&amp;lt;-&amp;gt; , CH3COO&amp;lt;-&amp;gt; , and NO3&amp;lt;-&amp;gt; , and where R is an alkyl, alkenyl, alkynyl, aryl, or aralkyl containing up to 20 heteroatoms at positions other than C(2) and C(7).
+</P>
+<P>
+11. The heterogeneous immunoassay of claim 9, wherein the acridinium compound has the following structure:
+</P>
+<P>
+EMI45.0
+</P>
+<P>
+where R13 is -OH, -O-N-succinimidyl, -NH-(CH2)5-C(O)-O-N-succinimidyl, -NH-(C2H4O)n-C2H4NH-C(O)-(CH2)3-C(O)-O-N-succinimidyl wherein n=0 to 5, or -NH-R-NHR, R1 is an alkyl, alkenyl, alkynyl or aralkyl containing up to 20 heteroatoms; A&amp;lt;-&amp;gt; is a counter ion which is introduced to pair with the quaternary nitrogen of said acridinium nucleus, and is selected from the group consisting of CH3SO4&amp;lt;-&amp;gt; , FSO3&amp;lt;-&amp;gt; , CF3SO4&amp;lt;-&amp;gt; , C4F9SO4&amp;lt;-&amp;gt; , CH3C6H4SO3&amp;lt;-&amp;gt; , halide, CF3COO&amp;lt;-&amp;gt; , CH3COO&amp;lt;-&amp;gt; , and NO3&amp;lt;-&amp;gt; and X&amp;lt;+&amp;gt; is a positively charged counterion to pair with the sulfonate moiety and can include H&amp;lt;+&amp;gt; , Na&amp;lt;+&amp;gt; , K&amp;lt;+&amp;gt; , or NH4&amp;lt;+&amp;gt; .
+</P>
+<P>
+12. The heterogeneous immunoassay of claim 9, wherein the acridinium compound has the following structure:
+</P>
+<P>
+EMI46.0
+</P>
+<P>
+where R13 is -OH, -O-N-succinimidyl, -NH-(CH2)5-C(O)-O-N-succinimidyl, -NH-(C2H4O)n-C2H4NH-C(O)-(CH2)3-C(O)-O-N-succinimidyl wherein n=0 to 5, or -NH-R-NHR, R1 is an alkyl, alkenyl, alkynyl or aralkyl containing up to 20 heteroatoms; A&amp;lt;-&amp;gt; is a counter ion which is introduced to pair with the quaternary nitrogen of said acridinium nucleus, and is selected from the group consisting of CH3SO4&amp;lt;-&amp;gt; , FSO3&amp;lt;-&amp;gt; , CF3SO4&amp;lt;-&amp;gt; , C4F9SO4&amp;lt;-&amp;gt; , CH3C6H4SO3&amp;lt;-&amp;gt; , halide, CF3COO&amp;lt;-&amp;gt; , CH3COO&amp;lt;-&amp;gt; , and NO3&amp;lt;-&amp;gt; .
+</P>
+<P>
+13. The heterogeneous immunoassay of claim 9, wherein the acridinium compound has the following structure:
+</P>
+<P>
+EMI47.0
+</P>
+<P>
+where R13 is -OH, -O-N-succinimidyl, -NH-(CH2)5-C(O)-O-N-succinimidyl, -NH-(C2H4O)n-C2H4NH-C(O)-(CH2)3-C(O)-O-N-succinimidyl wherein n=0 to 5, or -NH-R-NHR, R1 is an alkyl, alkenyl, alkynyl or aralkyl containing up to 20 heteroatoms; A&amp;lt;-&amp;gt; is a counter ion which is introduced to pair with the quaternary nitrogen of said acridinium nucleus, and is selected from the group consisting of CH3SO4&amp;lt;-&amp;gt; , FSO3&amp;lt;-&amp;gt; , CF3SO4&amp;lt;-&amp;gt; , C4F9SO4&amp;lt;-&amp;gt; , CH3C6H4SO3&amp;lt;-&amp;gt; , halide, CF3COO&amp;lt;-&amp;gt; , CH3COO&amp;lt;-&amp;gt; , and NO3&amp;lt;-&amp;gt; and X&amp;lt;+&amp;gt; is a positively charged counterion to pair with the sulfonate moiety and can include H&amp;lt;+&amp;gt; , Na&amp;lt;+&amp;gt; , K&amp;lt;+&amp;gt; , or NH4&amp;lt;+&amp;gt; .
+</P>
+<P>
+14. The heterogeneous immunoassay of claim 9, wherein the acridinium compound has the following structure:
+</P>
+<P>
+EMI48.0
+</P>
+<P>
+where R13 is -OH, -O-N-succinimidyl, -NH-(CH2)5-C(O)-O-N-succinimidyl, -NH-(C2H4O)n-C2H4NH-C(O)-(CH2)3-C(O)-O-N-succinimidyl wherein n=0 to 5, or -NH-R-NHR, R1 is an alkyl, alkenyl, alkynyl or aralkyl containing up to 20 heteroatoms; A&amp;lt;-&amp;gt; is a counter ion which is introduced to pair with the quaternary nitrogen of said acridinium nucleus, and is selected from the group consisting of CH3SO4&amp;lt;-&amp;gt; , FSO3&amp;lt;-&amp;gt; , CF3SO4&amp;lt;-&amp;gt; , C4F9SO4&amp;lt;-&amp;gt; , CH3C6H4SO3&amp;lt;-&amp;gt; , halide, CF3COO-, CH3COO&amp;lt;31 &amp;gt; , and NO3&amp;lt;-&amp;gt; , and n=0 to 5.
+</P>
+<P>
+15. The heterogeneous immunoassay of claim 9, wherein the acridinium compound has the following structure:
+</P>
+<P>
+EMI49.0
+</P>
+<P>
+where R13 is -OH, -O-N-succinimidyl, -NH-(CH2)5-C(O)-O-N-succinimidyl, -NH-(C2H4O)n-C2H4NH-C(O)-(CH2)3-C(O)-O-N-succinimidyl wherein n=0 to 5, or -NH-R-NHR, R1 is an alkyl, alkenyl, alkynyl or aralkyl containing up to 20 heteroatoms; A&amp;lt;-&amp;gt; is a counter ion which is introduced to pair with the quaternary nitrogen of said acridinium nucleus, and is selected from the group consisting of CH3SO4&amp;lt;-&amp;gt; , FSO3&amp;lt;-&amp;gt; , CF3SO4&amp;lt;-&amp;gt; , C4F9SO4&amp;lt;-&amp;gt; , CH3C6H4SO3&amp;lt;-&amp;gt; , halide, CF3COO&amp;lt;-&amp;gt; , CH3COO&amp;lt;-&amp;gt; , and NO3&amp;lt;-&amp;gt; . and n=0 to 5.
+</P>
+<P>
+16. The heterogeneous immunoassay of claim 9, wherein the acridinium compound has the following structure:
+</P>
+<P>
+EMI50.0
+</P>
+<P>
+17. The heterogeneous immunoassay of claim 9, wherein the acridinium compound has the following structure:
+</P>
+<P>
+EMI51.0
+</P>
+<P>
+where R13 is -OH, -O-N-succinimidyl, -NH-(CH2)5-C(O)-O-N-succinimidyl, -NH-(C2H4O)n-C2H4NH-C(O)-(CH2)3-C(O)-O-N-succinimidyl wherein n=0 to 5, or -NH-R-NHR, and n=0 to 5.
+</P>
+<P>
+18. The heterogeneous immunoassay of claim 9, wherein the acridinium compound has the following structure:
+</P>
+<P>
+EMI52.0
+</P>
+<P>
+where R13 is -OH, -O-N-succinimidyl, -NH-(CH2)5-C(O)-O-N-succinimidyl, -NH-(C2H4O)n-C2H4NH-C(O)-(CH2)3-C(O)-O-N-succinimidyl wherein n=0 to 5, or -NH-R-NHR, and n=0 to 5.
+</P>
+<P>
+19. The heterogeneous immunoassay of claim 6, wherein the macromolecular analyte is selected from the group consisting of proteins, nucleic acids, oligosaccharides, antibodies, antibody fragments, cells, viruses, and synthetic polymers.
+</P>
+<P>
+20. The heterogeneous immunoassay of claim 7, wherein the small molecule analyte is selected from the group consisting of steroids, vitamins, hormones, therapeutic drugs, and small peptides.
+</P>
+<P>
+21. The heterogeneous immunoassay of claim 8, wherein the small molecule analyte is selected from the group consisting of steroids, vitamins, hormones, therapeutic drugs, and small peptides.
+</P>
+<P>
+22. The heterogeneous immunoassay of claim 6, wherein the macromolecular analyte is thyroid stimulating hormone.
+</P>
+<P>
+23. The heterogeneous immunoassay of claim 7, wherein the small molecule analyte is theophylline.
+</P>
+<P>
+24. The heterogeneous immunoassay of claim 5, wherein the acridinium compound is an acridinium ester.
+</P>
+<P>
+25. The heterogeneous immunoassay of claim 5, wherein the acridinium compound is an acridinium sulfonamide.
+</P>
+</Claims>
+<Also_published_as>
+EP1946108A4;US2005221390A1;US7309615B2;WO2006130736A2;WO2006130736A3;US2008014660A1;US7785904B2
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Visible-range semiconductor nanowire- based photosensor and method for manufacturing the same
+</Title>
+<PublicationNumber>
+EP2110858A2
+</PublicationNumber>
+<Inventor>
+<Name>
+CHOI KYOUNG JIN [KR]
+</Name>
+<Name>
+PARK JAE GWAN [KR]
+</Name>
+<Name>
+KIM DONG WAN [KR]
+</Name>
+<Name>
+CHOI YOUNG JIN [KR]
+</Name>
+<Name>
+PARK KYUN SOO [KR]
+</Name>
+<Name>
+PARK JAE HWAN [KR]
+</Name>
+<Name>
+PYUN JAE CHUL [KR]
+</Name>
+<Name>
+CHOI, KYOUNG JIN
+</Name>
+<Name>
+PARK, JAE GWAN
+</Name>
+<Name>
+KIM, DONG WAN
+</Name>
+<Name>
+CHOI, YOUNG JIN
+</Name>
+<Name>
+PARK, KYUN SOO
+</Name>
+<Name>
+PARK, JAE HWAN
+</Name>
+<Name>
+PYUN, JAE CHUL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KOREA INST SCI &amp; TECH [KR]
+</Name>
+<Name>
+KOREA INSTITUTE OF SCIENCE AND TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2110858
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090156389
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-03-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+KR20080035505
+</PriorityNumber>
+<PriorityDate>
+2008-04-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L31/0296
+</Class>
+<Class>
+H01L31/0352
+</Class>
+<Class>
+H01L31/0224
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01L31/0296
+</Class>
+<Class>
+H01L31/0352C3
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+A semiconductor nanowire-based photosensor (100) includes a substrate (10), at least a top surface of the substrate being formed of an insulator, two electrodes (30) spaced at a predetermined interval apart from each other on the substrate (10), metal catalyst layers (40) disposed respectively on the two electrodes (30), and visible-range semiconductor nanowires (50) grown from the metal catalyst layers on the two electrodes (30). The semiconductor nanowires (50) grown from one of the metal catalyst layers (40) are in contact with the semiconductor nanowires (50) grown from the other metal catalyst layer (40), while the semiconductor nanowires (50) grown respectively from the metal catalyst layers (40) on the two electrodes (30) are floated between the two electrodes (30) over the substrate (10).
+</Abstract>
+<Claims>
+<P>
+1. A semiconductor nanowire-based photosensor comprising:
+</P>
+<P>
+a substrate having a top surface formed of an insulator;
+</P>
+<P>
+two electrodes spaced at a predetermined interval apart from each other on the substrate;
+</P>
+<P>
+metal catalyst layers disposed respectively on the two electrodes; and
+</P>
+<P>
+a plurality of visible-range semiconductor nanowires grown from the metal catalyst layers on the two electrodes,wherein the visible-range semiconductor nanowires grown from one of the metal catalyst layers are in contact with the visible-range semiconductor nanowires grown from the other metal catalyst layer while the visible-range semiconductor nanowires grown respectively from the metal catalyst layers on the two electrodes are floated between the two electrodes over the substrate.
+</P>
+<P>
+2. The semiconductor nanowire-based photosensor of claim 1, wherein the visible-range semiconductor nanowires grown respectively from the metal catalyst layers on the two electrodes have a network structure where the visible-range semiconductor nanowires are weaved together and contacted with each other while floating between the two electrodes.
+</P>
+<P>
+3. The semiconductor nanowire-based photosensor of claim 1, wherein the nanowires are formed of a semiconductor material selected from the group consisting of CdSxSe1-x (0&amp;lt;=x&amp;lt;=1) and ZnSxSe1-x (0&amp;lt;=x&amp;lt;=1).
+</P>
+<P>
+4. The semiconductor nanowire-based photosensor of claim 1, wherein each of the two electrodes is a platinum electrode.
+</P>
+<P>
+5. The semiconductor nanowire-based photosensor of claim 4, wherein a thickness of the platinum electrode ranges from 3000 A to 8000 A, and an interval between the two platinum electrodes ranges from 5 [micro]m to 20[micro]m.
+</P>
+<P>
+6. The semiconductor nanowire-based photosensor of claim 4, further comprising a titanium layer between the platinum electrode and the substrate.
+</P>
+<P>
+7. The semiconductor nanowire-based photosensor of claim 1, wherein each of the metal catalyst layers is a gold (Au) catalyst layer.
+</P>
+<P>
+8. The semiconductor nanowire-based photosensor of claim 7, wherein a thickness of the gold catalyst layer ranges from 20 A to 100 A.
+</P>
+<P>
+9. The semiconductor nanowire-based photosensor of claim 1, wherein the insulator is at least one selected from the group consisting of SiO2, AlN, Si3N4 and TiO2.
+</P>
+<P>
+10. A method for manufacturing a semiconductor nanowire-based photosensor, the method comprising:
+</P>
+<P>
+forming two electrodes on a substrate, the two electrodes being spaced at a predetermined interval apart from each other;
+</P>
+<P>
+forming a metal catalyst layer on each of the two electrodes; and
+</P>
+<P>
+growing visible-range semiconductor nanowires from the metal catalyst layer on each of the two electrodes,wherein the visible-range semiconductor nanowires are grown such that the visible-range semiconductor nanowires grown from one of the metal catalyst layers are in contact with the visible-range semiconductor nanowires grown from the other metal catalyst layer while the visible-range semiconductor nanowires grown respectively from the metal catalyst layers on the two electrodes are floated between the two electrodes over the substrate.
+</P>
+<P>
+11. The method of claim 10, wherein the visible-range semiconductor nanowires grown respectively from the metal catalyst layers on the two electrodes have a network structure where the semiconductor nanowires are weaved together and contacted with each other while floating between the two electrodes.
+</P>
+<P>
+12. The method of claim 10, wherein the nanowires are formed of a semiconductor material selected from the group consisting of CdSxSe1-x (0&amp;lt;=x&amp;lt;=1) and ZnSxSe1-x (0&amp;lt;=x&amp;lt;=1).
+</P>
+<P>
+13. The method of claim 10, wherein each of the two electrodes is formed of platinum.
+</P>
+<P>
+14. The method of claim 13, wherein a thickness of the electrode ranges from 3000 A to 8000 A, and an interval between the two electrodes ranges from 5 [micro]m to 20[micro]m.
+</P>
+<P>
+15. The method of claim 10, wherein the metal catalyst layer is formed of gold.
+</P>
+<P>
+16. The method of claim 15, wherein a thickness of the metal catalyst layer ranges from 20 A to 100 A.
+</P>
+<P>
+17. The method of claim 10, wherein the step of growing the visible-range semiconductor nanowires comprises:
+</P>
+<P>
+disposing the substrate in a reactor for synthesis of nanowires;
+</P>
+<P>
+increasing a temperature in the reactor up to a reaction temperature of 400 [deg.]C to 600 [deg.]C with a heating rate of approximately 20 [deg.]C/min; and
+</P>
+<P>
+synthesizing the semiconductor nanowires of CdSxSe1-x (0&amp;lt;=x&amp;lt;=1) or ZnSxSe1-x (0&amp;lt;=x&amp;lt;=1) on the metal catalyst layer through a pulse laser deposition, while providing a carrier gas including H2 and Ar to the substrate at the reaction temperature with 50 sccm to 200 sccm for 5 min to 30 min.
+</P>
+<P>
+18. The method of claim 10, wherein in the step of forming the electrodes, a plurality of pairs of electrodes are formed on a wafer, each pair of electrodes comprising the two electrodes spaced at a predetermined interval,
+</P>
+<P>
+the steps of forming the metal catalyst layer and growing the semiconductor nanowires are performed on the plurality of the pairs of electrodes on the wafer to manufacture a plurality of photosensor devices on the wafer, and
+</P>
+<P>
+the plurality of the manufactured photosensor devices are then separated into respective unit devices.
+</P>
+</Claims>
+<Also_published_as>
+EP2110858A3;US2009261438A1;KR20090109980A;JP2009260345A;CN101562209A;CN101562209B
+</Also_published_as>
+</BiblioData>

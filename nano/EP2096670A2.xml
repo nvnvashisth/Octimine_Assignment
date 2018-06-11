@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Quantum semiconductor device and method for fabricating the same
+</Title>
+<PublicationNumber>
+EP2096670A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SONG HAI-ZHI [JP]
+</Name>
+<Name>
+OHSHIMA TOSHIO [GB]
+</Name>
+<Name>
+SONG, HAI-ZHI
+</Name>
+<Name>
+OHSHIMA, TOSHIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FUJITSU LTD [JP]
+</Name>
+<Name>
+FUJITSU LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2096670
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090161296
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-05-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030752919
+</PriorityNumber>
+<PriorityDate>
+2003-05-20
+</PriorityDate>
+<PriorityNumber>
+JP20020147287
+</PriorityNumber>
+<PriorityDate>
+2002-05-22
+</PriorityDate>
+<PriorityNumber>
+JP20030034245
+</PriorityNumber>
+<PriorityDate>
+2003-02-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/20
+</Class>
+<Class>
+H01L21/335
+</Class>
+<Class>
+H01L29/06
+</Class>
+<Class>
+H01L29/12
+</Class>
+<Class>
+H01L29/76
+</Class>
+<Class>
+G01Q80/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L21/02K4A1B3
+</Class>
+<Class>
+H01L21/02K4C1B3
+</Class>
+<Class>
+H01L21/02K4E3S3
+</Class>
+<Class>
+H01L29/12W4
+</Class>
+<Class>
+H01L29/66M6T6D
+</Class>
+<Class>
+H01L29/76D
+</Class>
+</NCL>
+<Abstract>
+A quantum semiconductor device comprises a quantum dot (112) formed on a semiconductor substrate (110), a semiconductor layer (118) formed, burying the quantum dot (112), and an electrode (122) formed by self-alignment above a position where strains are generated in the semiconductor layer because of the quantum dot.
+</Abstract>
+<Claims>
+<P>
+1. A quantum semiconductor device comprising:
+</P>
+<P>
+a quantum dot formed on a semiconductor substrate;
+</P>
+<P>
+a semiconductor layer formed, burying the quantum dot; and
+</P>
+<P>
+an electrode formed by self-alignment above a position where strains are generated in the semiconductor layer because of the quantum dot.
+</P>
+<P>
+2. A quantum semiconductor device comprising:
+</P>
+<P>
+a quantum dot formed on a semiconductor substrate;
+</P>
+<P>
+a semiconductor layer formed, burying the quantum dot; and
+</P>
+<P>
+an electrode formed in a concavity formed in a surface of the semiconductor layer in a position above the quantum dot.
+</P>
+<P>
+3. A quantum semiconductor device according to claim 1 or 2, further comprising
+</P>
+<P>
+an interconnection formed in a trench formed in a surface of the semiconductor layer and electrically connected to the electrode.
+</P>
+<P>
+4. A quantum semiconductor device according to claim 1 or 2, further comprising:
+</P>
+<P>
+a line-shaped oxide formed on the surface of the semiconductor layer and having one end located near the electrode;
+</P>
+<P>
+another semiconductor layer formed, burying the electrodes and the line-shaped oxide;
+</P>
+<P>
+another electrode buried in said another semiconductor layer and electrically connected to said electrode; and
+</P>
+<P>
+an interconnection formed in a trench formed in a surface of said another semiconductor layer along the line-shaped oxide and electrically connected to said another electrode.
+</P>
+<P>
+5. A quantum semiconductor device comprising:
+</P>
+<P>
+a quantum dot formed on a semiconductor substrate;
+</P>
+<P>
+a first semiconductor layer formed, burying the quantum dot;
+</P>
+<P>
+a semiconductor dot formed on the first semiconductor layer in a position above the quantum dot;
+</P>
+<P>
+a dot-shaped oxide formed of the partially oxidized semiconductor dot;
+</P>
+<P>
+a second semiconductor layer formed, burying the semiconductor dot; and
+</P>
+<P>
+an electrode formed in a concavity formed in a surface of the second semiconductor layer in a position above the dot-shaped oxide.
+</P>
+<P>
+6. A quantum semiconductor device according to claim 5, further comprising
+</P>
+<P>
+an interconnection formed in a trench formed in the surface of the second semiconductor layer and electrically connected to the electrode.
+</P>
+<P>
+7. A method for fabricating a quantum semiconductor device comprising the steps of:
+</P>
+<P>
+forming a quantum dot on a semiconductor substrate;
+</P>
+<P>
+forming a semiconductor layer, burying the quantum dots; and
+</P>
+<P>
+forming an electrode by self-alignment above a position where strains are generated in the semiconductor layer because of the quantum dot.
+</P>
+<P>
+8. A method for fabricating a quantum semiconductor device comprising the steps of:
+</P>
+<P>
+forming a quantum dot on a semiconductor substrate;
+</P>
+<P>
+forming a semiconductor layer, burying the quantum dot;
+</P>
+<P>
+forming a semiconductor dot on the semiconductor layer in a position above the quantum dot; oxidizing the semiconductor dot and the semiconductor layer immediately below the semiconductor dot to form a dot-shaped oxide partially buried in the semiconductor layer;
+</P>
+<P>
+removing the dot-shaped oxide to form a concavity in a surface of the semiconductor layer; and
+</P>
+<P>
+forming an electrode in the concavity formed in the surface of the semiconductor layer.
+</P>
+<P>
+9. A method for fabricating a quantum semiconductor device according to claim 8, wherein
+</P>
+<P>
+in the step of forming the dot-shaped oxide, a probe-shaped conductor is approached to the semiconductor dot, and a voltage is applied between the semiconductor substrate and the probe-shaped conductor to thereby oxidize the semiconductor dot and the semiconductor layer immediately below the semiconductor dot.
+</P>
+<P>
+10. A method for fabricating a quantum semiconductor device according to any one of claims 7, 8 or 9, which further comprises before the step of forming the electrode, the steps of:
+</P>
+<P>
+oxidizing the semiconductor layer to form on the surface of the semiconductor layer a line-shaped oxide having one end located near a position on the semiconductor layer, where the electrode is to be formed; and
+</P>
+<P>
+removing the line-shaped oxide to form a trench in the surface of semiconductor layer, and in which
+</P>
+<P>
+in the step of forming the electrode, the electrode is formed, and an interconnection electrically connected to the electrode is formed in the trench.
+</P>
+<P>
+11. A method for fabricating a quantum semiconductor device according to any one of claims 7, 8 or 9, further comprising after the step of forming the electrode, the steps of: oxidizing the semiconductor layer to form on a surface of the semiconductor layer a line-shaped oxide having one end located near a position on the semiconductor layer, where the electrode was formed;
+</P>
+<P>
+forming another semiconductor layer, burying the electrode and the line-shaped oxide with concavity formed in a surface thereof in a position above the electrode and a trench formed along the line-shaped oxide;
+</P>
+<P>
+forming in the concavity an opening down to the electrode; and
+</P>
+<P>
+forming another electrode electrically connected to said electrode in the opening and the interconnection electrically connected to the said another electrode in the trench.
+</P>
+<P>
+12. A method for fabricating a quantum semiconductor device according to claim 11, wherein
+</P>
+<P>
+in the step of forming in the concavity the opening down to the electrode, said another semiconductor layer in the concavity is oxidized by approaching a probe-shaped conductor to the concavity and applying a voltage between the semiconductor substrate and the probe-shaped conductor to oxidize said another semiconductor layer in the concavity, and removing an oxide of the said another semiconductor layer in the concavity to thereby form the opening down to said electrode.
+</P>
+<P>
+13. A method for fabricating a quantum semiconductor device comprising the steps of:
+</P>
+<P>
+forming a quantum dot on a semiconductor substrate;
+</P>
+<P>
+forming a first semiconductor layer, burying the quantum dot;
+</P>
+<P>
+forming a semiconductor dot on the first semiconductor layer in a position above the quantum dot;
+</P>
+<P>
+oxidizing a part of the semiconductor dot to form a dot-shaped oxide of the partially oxidized semiconductor dot;
+</P>
+<P>
+forming a second semiconductor layer, burying the dot-shaped oxide and the semiconductor dot with a concavity formed in a surface in a position above the dot-shaped oxide, and
+</P>
+<P>
+forming an electrode in the concavity formed in the surface of the second semiconductor layer.
+</P>
+<P>
+14. A method for fabricating a quantum semiconductor device according to claim 13, wherein
+</P>
+<P>
+in the step of forming the dot-shaped oxide, a part of the semiconductor dot is oxidized by approaching a probe-shaped conductor to the semiconductor dot and applying a voltage between the semiconductor substrate and the probe-shaped conductor.
+</P>
+<P>
+15. A method for fabricating a quantum semiconductor device according to any one of claims 7 to 14, wherein
+</P>
+<P>
+in the step of forming the electrode, the electrode are formed by droplet epitaxy method.
+</P>
+</Claims>
+<Also_published_as>
+EP2096670A3;EP2096670B1;EP1507293A1;EP1507293A4;US2005173695A1;US7307030B2;US2008067498A1;US7755080B2;WO03098697A1;EP2192617A2;EP2192617A3;EP2192617B1;EP2192616A2;EP2192616A3
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ORGANIC PHOTOSENSITIVE OPTOELECTRONIC DEVICES WITH NONPLANAR PORPHYRINS
+</Title>
+<PublicationNumber>
+EP2174362A1
+</PublicationNumber>
+<Inventor>
+<Name>
+THOMPSON MARK E [US]
+</Name>
+<Name>
+PEREZ MARIA DOLORES [AR]
+</Name>
+<Name>
+BOREK CARSTEN [DE]
+</Name>
+<Name>
+THOMPSON, MARK, E
+</Name>
+<Name>
+PEREZ, MARIA, DOLORES
+</Name>
+<Name>
+BOREK, CARSTEN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV SOUTHERN CALIFORNIA [US]
+</Name>
+<Name>
+UNIVERSITY OF SOUTHERN CALIFORNIA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2174362
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080770536
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US66365
+</PriorityNumber>
+<PriorityDate>
+2008-06-09
+</PriorityDate>
+<PriorityNumber>
+US20070762492
+</PriorityNumber>
+<PriorityDate>
+2007-06-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/46
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C07D487/22
+</Class>
+<Class>
+H01L51/00M12
+</Class>
+<Class>
+H01L51/42F
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+Embodiments of the present invention provide an organic photosensitive optoelectronic device comprising at least one nonplanar porphyrin of formula (I), wherein the meanings of M, R and R&apos; are disclosed herein.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An organic photosensitive optoelectronic device comprising at least one nonplanar porphyrin of formula (I),
+</P>
+<P>
+EMI12.0
+</P>
+<P>
+wherein
+</P>
+<P>
+M is selected from the group consisting of Sc, Y, La, Ti, Zr, Hf, V, Nb, Ta, Cr, Mo, W, Mn, Tc, Re, Fe, Ru, Os, Co, Rh, Ir, Ni, Pd, Pt, Cu, Ag, Au, Zn, Cd, Hg, Al, Ga, In, Tl, Si, Ge, Sn, Pb, P, As, Sb, Bi, S, Se, Te, Po, Cl, Br, I, At, lanthanides, actinides and 2H;
+</P>
+<P>
+R&apos; is independently selected from the group consisting of a Cl atom, Br atom, I atom, At atom, and a chemical group comprising a valence atom attached to the meso carbon atom of the porphyrin, wherein the valence atom is selected from the group consisting of B, C, N, O, Si, P, S, Ge, As, Se, In, Sn, Sb, Te, Tl, Pb, Bi and Po; and
+</P>
+<P>
+R is independently selected from the group consisting of a Cl atom, Br atom, I atom, At atom, and a chemical group comprising a valence atom attached to a [beta] carbon atom of a pyrrole ring, wherein the valence atom is selected from the group consisting of B, C, N, O, Si, P, S, Ge, As, Se, In, Sn, Sb, Te, Tl, Pb, Bi and Po, alternatively two adjacent R groups attached to the same pyrrole ring together with the two [beta] carbon atoms of the pyrrole ring form a carbocyclic group or heterocyclic group.
+</P>
+<P>
+2. The device of claim 1, wherein the valence atom in at least one R&apos; or R group is C.
+</P>
+<P>
+3. The device of claim 2, wherein the at least one R&apos; or R group is independently selected from the group consisting of alkyl group, substituted alkyl group, alkenyl group, substituted alkenyl group, alkynyl group, substituted alkynyl group, cycloalkyl group, substituted cycloalkyl group, cycloalkenyl group, substituted cycloalkenyl group, cycloalkynyl group, substituted cycloalkynyl group, aryl group, substituted aryl group, heterocyclic group and substituted heterocyclic group.
+</P>
+<P>
+4. The device of claim 3, wherein
+</P>
+<P>
+the substituted alkyl group is an alkyl group substituted with at least one radical independently selected from the group consisting of cycloalkyl groups, cycloalkenyl groups, cycloalkynyl groups, aryl groups, heterocyclic groups, hydroxy group, alkoxy groups, alkenyloxy groups, alkynyloxy groups, cycloalkoxy groups, cycloalkenyoloxy groups, cycloalkynyloxy groups, aryloxy groups, alkylcarbonyloxy groups, cycloalkylcarbonyloxy groups, cycloalkenylcarbonyloxy groups, cycloalkynylcarbonyloxy groups, arylcarbonyloxy groups, thiol group, alkylthio groups, cycloalkylthio groups, cycloalkenylthio groups, cycloalkynylthio groups, arylthio groups, formyl group, acyl groups, carbamoyl groups, amino group, amino groups substituted with at least one alkyl group, alkenyl group or alkynyl group, acylamino groups, N-acyl-N-alkyl amino groups, N-acyl-N-alkenyl amino groups, N-acyl-N-alkynyl amino groups, N-acyl-N-cycloalkyl amino groups, N-acyl-N-cycloalkenyl amino groups, N-acyl-N-aryl amino groups, nitro group, heterocyclic groups and halogen atoms;
+</P>
+<P>
+the substituted alkenyl group is an alkenyl group substituted with at least one radical independently selected from the group consisting of cycloalkyl groups, cycloalkenyl groups, cycloalkynyl groups, aryl groups, heterocyclic groups, hydroxy group, alkoxy groups, alkenyloxy groups, alkynyloxy groups, cycloalkoxy groups, cycloalkenyoloxy groups, cycloalkynyloxy groups, aryloxy groups, alkylcarbonyloxy groups, cycloalkylcarbonyloxy groups, cycloalkenylcarbonyloxy groups, cycloalkynylcarbonyloxy groups, arylcarbonyloxy groups, thiol group, alkylthio groups, cycloalkylthio groups, cycloalkenylthio groups, cycloalkynylthio groups, arylthio groups, formyl group, acyl groups, carbamoyl groups, amino group, amino groups substituted with at least one alkyl group, alkenyl group or alkynyl group, acylamino groups, N-acyl-N-alkyl amino groups, N-acyl-N-alkenyl amino groups, N-acyl-N-alkynyl amino groups, N-acyl-N-cycloalkyl amino groups, N-acyl-N-cycloalkenyl amino groups, N-acyl-N-aryl amino groups, nitro group, heterocyclic groups and halogen atoms;
+</P>
+<P>
+the substituted alkynyl group is an alkynyl group substituted with at least one radical independently selected from the group consisting of cycloalkyl groups, cycloalkenyl groups, cycloalkynyl groups, aryl groups, heterocyclic groups, hydroxy group, alkoxy groups, alkenyloxy groups, alkynyloxy groups, cycloalkoxy groups, cycloalkenyoloxy groups, cycloalkynyloxy groups, aryloxy groups, alkylcarbonyloxy groups, cycloalkylcarbonyloxy groups, cycloalkenylcarbonyloxy groups, cycloalkynylcarbonyloxy groups, arylcarbonyloxy groups, thiol group, alkylthio groups, cycloalkylthio groups, cycloalkenylthio groups, cycloalkynylthio groups, arylthio groups, formyl group, acyl groups, carbamoyl groups, amino group, amino groups substituted with at least one alkyl group, alkenyl group or alkynyl group, acylamino groups, N-acyl-N-alkyl amino groups, N-acyl-N-alkenyl amino groups, N-acyl-N-alkynyl amino groups, N-acyl-N-cycloalkyl amino groups, N-acyl-N-cycloalkenyl amino groups, N-acyl-N-aryl amino groups, nitro group, heterocyclic groups and halogen atoms;
+</P>
+<P>
+the substituted cycloalkyl group is a cycloalkyl group substituted with at least one radical independently selected from the group consisting of alkyl groups, alkenyl groups, alkynyl groups, cycloalkyl groups, cycloalkenyl groups, cycloalkynyl groups, aryl groups, heterocyclic groups, hydroxy group, alkoxy groups, alkenyloxy groups, alkynyloxy groups, cycloalkoxy groups, cycloalkenyoloxy groups, cycloalkynyloxy groups, aryloxy groups, alkylcarbonyloxy groups, cycloalkylcarbonyloxy groups, cycloalkenylcarbonyloxy groups, cycloalkynylcarbonyloxy groups, arylcarbonyloxy groups, thiol group, alkylthio groups, cycloalkylthio groups, cycloalkenylthio groups, cycloalkynylthio groups, arylthio groups, formyl group, acyl groups, carbamoyl groups, amino group, amino groups substituted with at least one alkyl group, alkenyl group or alkynyl group, acylamino groups, N-acyl-N-alkyl amino groups, N-acyl-N-alkenyl amino groups, N-acyl-N-alkynyl amino groups, N-acyl-N-cycloalkyl amino groups, N-acyl-N-cycloalkenyl amino groups, N-acyl-N-aryl amino groups, nitro group, heterocyclic groups and halogen atoms;
+</P>
+<P>
+the substituted cycloalkenyl group is a cycloalkenyl group substituted with at least one radical independently selected from the group consisting of alkyl groups, alkenyl groups, alkynyl groups, cycloalkyl groups, cycloalkenyl groups, cycloalkynyl groups, aryl groups, heterocyclic groups, hydroxy group, alkoxy groups, alkenyloxy groups, alkynyloxy groups, cycloalkoxy groups, cycloalkenyoloxy groups, cycloalkynyloxy groups, aryloxy groups, alkylcarbonyloxy groups, cycloalkylcarbonyloxy groups, cycloalkenylcarbonyloxy groups, cycloalkynylcarbonyloxy groups, arylcarbonyloxy groups, thiol group, alkylthio groups, cycloalkylthio groups, cycloalkenylthio groups, cycloalkynylthio groups, arylthio groups, formyl group, acyl groups, carbamoyl groups, amino group, amino groups substituted with at least one alkyl group, alkenyl group or alkynyl group, acylamino groups, N-acyl-N-alkyl amino groups, N-acyl-N-alkenyl amino groups, N-acyl-N-alkynyl amino groups, N-acyl-N-cycloalkyl amino groups, N-acyl-N-cycloalkenyl amino groups, N-acyl-N-aryl amino groups, nitro group, heterocyclic groups and halogen atoms;
+</P>
+<P>
+the substituted cycloalkynyl group is a cycloalkynyl group substituted with at least one radical independently selected from the group consisting of alkyl groups, alkenyl groups, alkynyl groups, cycloalkyl groups, cycloalkenyl groups, cycloalkynyl groups, aryl groups, heterocyclic groups, hydroxy group, alkoxy groups, alkenyloxy groups, alkynyloxy groups, cycloalkoxy groups, cycloalkenyoloxy groups, cycloalkynyloxy groups, aryloxy groups, alkylcarbonyloxy groups, cycloalkylcarbonyloxy groups, cycloalkenylcarbonyloxy groups, cycloalkynylcarbonyloxy groups, arylcarbonyloxy groups, thiol group, alkylthio groups, cycloalkylthio groups, cycloalkenylthio groups, cycloalkynylthio groups, arylthio groups, formyl group, acyl groups, carbamoyl groups, amino group, amino groups substituted with at least one alkyl group, alkenyl group or alkynyl group, acylamino groups, N-acyl-N-alkyl amino groups, N-acyl-N-alkenyl amino groups, N-acyl-N-alkynyl amino groups, N-acyl-N-cycloalkyl amino groups, N-acyl-N-cycloalkenyl amino groups, N-acyl-N-aryl amino groups, nitro group, heterocyclic groups and halogen atoms;
+</P>
+<P>
+the substituted aryl group is an aryl group substituted with at least one radical independently selected from the group consisting of alkyl groups, alkenyl groups, alkynyl groups, cycloalkyl groups, cycloalkenyl groups, cycloalkynyl groups, aryl groups, heterocyclic groups, hydroxy group, alkoxy groups, alkenyloxy groups, alkynyloxy groups, cycloalkoxy groups, cycloalkenyoloxy groups, cycloalkynyloxy groups, aryloxy groups, alkylcarbonyloxy groups, cycloalkylcarbonyloxy groups, cycloalkenylcarbonyloxy groups, cycloalkynylcarbonyloxy groups, arylcarbonyloxy groups, thiol group, alkylthio groups, cycloalkylthio groups, cycloalkenylthio groups, cycloalkynylthio groups, arylthio groups, formyl group, acyl groups, carbamoyl groups, amino group, amino groups substituted with at least one alkyl group, alkenyl group or alkynyl group, acylamino groups, N-acyl-N-alkyl amino groups, N-acyl-N-alkenyl amino groups, N-acyl-N-alkynyl amino groups, N-acyl-N-cycloalkyl amino groups, N-acyl-N-cycloalkenyl amino groups, N-acyl-N-aryl amino groups, nitro group, heterocyclic groups and halogen atoms; and
+</P>
+<P>
+the substituted heterocyclic group is a heterocyclic group substituted with at least one radical independently selected from the group consisting of alkyl groups, alkenyl groups, alkynyl groups, cycloalkyl groups, cycloalkenyl groups, cycloalkynyl groups, aryl groups, heterocyclic groups, hydroxy group, alkoxy groups, alkenyloxy groups, alkynyloxy groups, cycloalkoxy groups, cycloalkenyoloxy groups, cycloalkynyloxy groups, aryloxy groups, alkylcarbonyloxy groups, cycloalkylcarbonyloxy groups, cycloalkenylcarbonyloxy groups, cycloalkynylcarbonyloxy groups, arylcarbonyloxy groups, thiol group, alkylthio groups, cycloalkylthio groups, cycloalkenylthio groups, cycloalkynylthio groups, arylthio groups, formyl group, acyl groups, carbamoyl groups, amino group, amino groups substituted with at least one alkyl group, alkenyl group or alkynyl group, acylamino groups, N-acyl-N-alkyl amino groups, N-acyl-N-alkenyl amino groups, N-acyl-N-alkynyl amino groups, N-acyl-N-cycloalkyl amino groups, N-acyl-N-cycloalkenyl amino groups, N-acyl-N-aryl amino groups, nitro group, heterocyclic groups and halogen atoms.
+</P>
+<P>
+5. The device of claim 3, wherein
+</P>
+<P>
+the substituted alkyl group is selected from the group consisting of aralkyl group, cycloalkyl substituted alkyl group, cycloalkenyl substituted alkyl group, hydroxyl substituted alkyl group, alkoxy substituted alkyl group, cycloalkoxy substituted alkyl group, aryloxy substituted alkyl group, alkylcarbonyloxy substituted alkyl group, cycloalkylcarbonyloxy substituted alkyl group, cycloalkenylcarbonyloxy substituted alkyl group, cycloalkynylcarbonyloxy substituted alkyl group, arylcarbonyloxy substituted alkyl group, thiol substituted alkyl group, alkylthio substituted alkyl group, cycloalkylthio substituted alkyl group, formyl substituted alkyl group, acylated alkyl group, carbamoyl substituted alkyl group, amino substituted alkyl group, acylamino substituted alkyl group, nitro substituted alkyl group, halogen substituted alkyl group and heterocyclyl substituted alkyl group;
+</P>
+<P>
+the substituted alkenyl group is selected from the group consisting of aralkenyl group, cycloalkenyl substituted alkenyl group, cycloalkenyl substituted alkenyl group, hydroxyl substituted alkenyl group, alkoxy substituted alkenyl group, cycloalkoxy substituted alkenyl group, aryloxy substituted alkenyl group, alkylcarbonyloxy substituted alkenyl group, cycloalkylcarbonyloxy substituted alkenyl group, cycloalkenylcarbonyloxy substituted alkenyl group, cycloalkynylcarbonyloxy substituted alkenyl group, arylcarbonyloxy substituted alkenyl group, thiol substituted alkenyl group, alkylthio substituted alkenyl group, cycloalkylthio substituted alkenyl group, formyl substituted alkenyl group, acylated alkenyl group, carbamoyl substituted alkenyl group, amino substituted alkenyl group, acylamino substituted alkenyl group, nitro substituted alkenyl group, halogen substituted alkenyl group and heterocyclyl substituted alkenyl group;
+</P>
+<P>
+the substituted alkynyl group is selected from the group consisting of aralkynyl group, cycloalkyl substituted alkynyl group, cycloalkenyl substituted alkynyl group, hydroxyl substituted alkynyl group, alkoxy substituted alkynyl group, cycloalkoxy substituted alkynyl group, aryloxy substituted alkynyl group, alkylcarbonyloxy substituted alkynyl group, cycloalkylcarbonyloxy substituted alkynyl group, cycloalkenylcarbonyloxy substituted alkynyl group, cycloalkynylcarbonyloxy substituted alkynyl group, arylcarbonyloxy substituted alkynyl group, thiol substituted alkynyl group, alkylthio substituted alkynyl group, cycloalkylthio substituted alkynyl group, formyl substituted alkynyl group, acylated alkynyl group, carbamoyl substituted alkynyl group, amino substituted alkynyl group, acylamino substituted alkynyl group, nitro substituted alkynyl group, halogen substituted alkynyl group and heterocyclyl substituted alkynyl group;
+</P>
+<P>
+the substituted cycloalkyl group is selected from the group consisting of alkyl substituted cycloalkyl group, aryl substituted cycloalkyl group, cycloalkyl substituted cycloalkyl group, cycloalkenyl substituted cycloalkyl group, cycloalkynyl substituted cycloalkyl group, hydroxyl substituted cycloalkyl group, alkoxy substituted cycloalkyl group, cycloalkoxy substituted cycloalkyl group, aryloxy substituted cycloalkyl group, alkylcarbonyloxy substituted cycloalkyl group, cycloalkylcarbonyloxy substituted cycloalkyl group, cycloalkenylcarbonyloxy substituted cycloalkyl group, cycloalkynylcarbonyloxy substituted cycloalkyl group, arylcarbonyloxy substituted cycloalkyl group, thiol substituted cycloalkyl group, alkylthio substituted cycloalkyl group, cycloalkylthio substituted cycloalkyl group, formyl substituted cycloalkyl group, acylated cycloalkyl group, carbamoyl substituted cycloalkyl group, amino substituted cycloalkyl group, acylamino substituted cycloalkyl group, nitro substituted cycloalkyl group, halogen substituted cycloalkyl group and heterocyclyl substituted cycloalkyl group;
+</P>
+<P>
+the substituted cycloalkenyl group is selected from the group consisting of alkyl substituted cycloalkenyl group, aryl substituted cycloalkenyl group, cycloalkyl substituted cycloalkenyl group, cycloalkenyl substituted cycloalkenyl group, cycloalkynyl substituted cycloalkenyl group, hydroxyl substituted cycloalkenyl group, alkoxy substituted cycloalkenyl group, cycloalkoxy substituted cycloalkenyl group, aryloxy substituted cycloalkenyl group, alkylcarbonyloxy substituted cycloalkenyl group, cycloalkylcarbonyloxy substituted cycloalkenyl group, cycloalkenylcarbonyloxy substituted cycloalkenyl group, cycloalkynylcarbonyloxy substituted cycloalkenyl group, arylcarbonyloxy substituted cycloalkenyl group, thiol substituted cycloalkenyl group, alkylthio substituted cycloalkenyl group, cycloalkylthio substituted cycloalkenyl group, formyl substituted cycloalkenyl group, acylated cycloalkenyl group, carbamoyl substituted cycloalkenyl group, amino substituted cycloalkenyl group, acylamino substituted cycloalkenyl group, nitro substituted cycloalkenyl group, halogen substituted cycloalkenyl group and heterocyclyl substituted cycloalkenyl group;
+</P>
+<P>
+the substituted cycloalkynyl group is selected from the group consisting of alkyl substituted cycloalkynyl group, aryl substituted cycloalkynyl group, cycloalkyl substituted cycloalkynyl group, cycloalkenyl substituted cycloalkynyl group, cycloalkynyl substituted cycloalkynyl group, hydroxyl substituted cycloalkynyl group, alkoxy substituted cycloalkynyl group, cycloalkoxy substituted cycloalkynyl group, aryloxy substituted cycloalkynyl group, alkylcarbonyloxy substituted cycloalkynyl group, cycloalkylcarbonyloxy substituted cycloalkynyl group, cycloalkenylcarbonyloxy substituted cycloalkynyl group, cycloalkynylcarbonyloxy substituted cycloalkynyl group, arylcarbonyloxy substituted cycloalkynyl group, thiol substituted cycloalkynyl group, alkylthio substituted cycloalkynyl group, cycloalkylthio substituted cycloalkynyl group, formyl substituted cycloalkynyl group, acylated cycloalkynyl group, carbamoyl substituted cycloalkynyl group, amino substituted cycloalkynyl group, acylamino substituted cycloalkynyl group, nitro substituted cycloalkynyl group, halogen substituted cycloalkynyl group and heterocyclyl substituted cycloalkynyl group;
+</P>
+<P>
+the substituted aryl group is selected from the group consisting of alkyl substituted aryl group, aryl substituted aryl group, cycloalkyl substituted aryl group, cycloalkenyl substituted aryl group, cycloalkynyl substituted aryl group, hydroxyl substituted aryl group, alkoxy substituted aryl group, cycloalkoxy substituted aryl group, aryloxy substituted aryl group, alkylcarbonyloxy substituted aryl group, cycloalkylcarbonyloxy substituted aryl group, cycloalkenylcarbonyloxy substituted aryl group, cycloalkynylcarbonyloxy substituted aryl group, arylcarbonyloxy substituted aryl group, thiol substituted aryl group, alkylthio substituted aryl group, cycloalkylthio substituted aryl group, formyl substituted aryl group, acylated aryl group, carbamoyl substituted aryl group, amino substituted aryl group, acylamino substituted aryl group, nitro substituted aryl group, halogen substituted aryl group and heterocyclyl substituted aryl group; and
+</P>
+<P>
+the substituted heterocyclic group is selected from the group consisting of alkyl substituted heterocyclic group, aryl substituted heterocyclic group, cycloalkyl substituted heterocyclic group, cycloalkenyl substituted heterocyclic group, cycloalkynyl substituted heterocyclic group, hydroxyl substituted heterocyclic group, alkoxy substituted heterocyclic group, cycloalkoxy substituted heterocyclic group, aryloxy substituted heterocyclic group, alkylcarbonyloxy substituted heterocyclic group, cycloalkylcarbonyloxy substituted heterocyclic group, cycloalkenylcarbonyloxy substituted heterocyclic group, cycloalkynylcarbonyloxy substituted heterocyclic group, arylcarbonyloxy substituted heterocyclic group, thiol substituted heterocyclic group, alkylthio substituted heterocyclic group, cycloalkylthio substituted heterocyclic group, formyl substituted heterocyclic group, acylated heterocyclic group, carbamoyl substituted heterocyclic group, amino substituted heterocyclic group, acylamino substituted heterocyclic group, nitro substituted heterocyclic group, halogen substituted heterocyclic group and heterocyclyl substituted heterocyclic group.
+</P>
+<P>
+6. The device of claim 3, wherein the at least one R&apos; or R group is independently selected from the group consisting of alkyl groups, alkenyl groups, alkynyl groups, cycloalkyl groups, cycloalkenyl groups, cycloalkynyl groups, aryl groups and heterocyclic groups.
+</P>
+<P>
+7. The device of claim 3, wherein the alkyl group is a C1-C6 alkyl group; the substituted alkyl group is a substituted C1-C6 alkyl group; the alkenyl group is a C2-C6 alkenyl group; the substituted alkenyl group is a substituted C2-C6 alkenyl group; the alkynyl group is a C2-C6 alkynyl group; the substituted alkynyl group is a substituted C2-C6 alkynyl group; the cycloalkyl group is a C3-C8 cycloalkyl group; the substituted cycloalkyl group is a substituted C3-C8 cycloalkyl group; the cycloalkenyl group is a C3-C8 cycloalkenyl group the substituted cycloalkenyl group is a substituted C3-C8 cycloalkenyl group; the cycloalkynyl group is a C3-C8 cycloalkynyl group; the substituted cycloalkynyl group is a substituted C3-C8 cycloalkynyl group; the aryl group is a C6-C10 aryl group; the substituted aryl group is a substituted C6-C10 aryl group; the heterocyclic group is a cyclic group comprising a 4-, 5-, 6-, 7- or 8-membered ring, wherein the ring comprises at least one ring atom selected from the group consisting of N, O and S with C as the remaining ring atom(s); and the substituted heterocyclic group is a substituted cyclic group comprising a 4-, 5-, 6-, 7- or 8-membered ring and at least one ring atom selected group the group consisting of N, O and S with C as the remaining ring atom(s).
+</P>
+<P>
+8. The device of claim 3, wherein the cycloalkyl group, substituted cycloalkyl group, cycloalkenyl group, substituted cycloalkenyl group, cycloalkynyl group, substituted cycloalkynyl group, aryl group, substituted aryl group, heterocyclic group and substituted heterocyclic group are independently monocyclic or multicyclic.
+</P>
+<P>
+9. The device of claim 8, wherein the cycloalkyl group, substituted cycloalkyl group, cycloalkenyl group, substituted cycloalkenyl group, cycloalkynyl group, substituted cycloalkynyl group, aryl group, substituted aryl group, heterocyclic group and substituted heterocyclic group are monocyclic.
+</P>
+<P>
+10. The device of claim 8, wherein the cycloalkyl group, substituted cycloalkyl group, cycloalkenyl group, substituted cycloalkenyl group, cycloalkynyl group, substituted cycloalkynyl group, aryl group, substituted aryl group, heterocyclic group and substituted heterocyclic group are multicyclic.
+</P>
+<P>
+11. The device of claim 7, wherein the heterocyclic group is selected from the group consisting of pyrrolidinyl group, piperidinyl group, piperazinyl group, morpholino group, thiomorpholino group, homopiperidinyl group, chromanyl group, isochromanyl group, chromenyl group, pyrrolyl group, furanyl group, thienyl group, pyrazolyl group, imidazolyl group, furazanyl group, oxazolyl group, isoxazolyl group, thiazolyl group, isothiazolyl group, pyridyl group, pyridazinyl group, pyrimidinyl group, pyrazinyl group, pyranyl group, indolyl group, isoindolyl group, indazolyl group, purinyl group, indolizinyl group, quinolinyl group, isoquinolinyl group, quinazolinyl group, pteridinyl group, quinolizinyl group, benzoxazinyl group, carbazolyl group, phenazinyl group, phenothiazinyl group and phenanthridinyl group; and the substituted heterocyclic group is a substituted pyrrolidinyl group, piperidinyl group, piperazinyl group, morpholino group, thiomorpholino group, homopiperidinyl group, chromanyl group, isochromanyl group, chromenyl group, pyrrolyl group, furanyl group, thienyl group, pyrazolyl group, imidazolyl group, furazanyl group, oxazolyl group, isoxazolyl group, thiazolyl group, isothiazolyl group, pyridyl group, pyridazinyl group, pyrimidinyl group, pyrazinyl group, pyranyl group, indolyl group, isoindolyl group, indazolyl group, purinyl group, indolizinyl group, quinolinyl group, isoquinolinyl group, quinazolinyl group, pteridinyl group, quinolizinyl group, benzoxazinyl group, carbazolyl group, phenazinyl group, phenothiazinyl group or phenanthridinyl group.
+</P>
+<P>
+12. The device of claim 1, wherein two adjacent R groups of at least one pyrrole ring together with the two [beta] carbon atoms of the at least one pyrrole ring form a carbocyclic group, substituted carbocyclic group, heterocyclic group or substituted heterocyclic group.
+</P>
+<P>
+13. The device of claim 12, wherein the two adjacent R groups of the at least one pyrrole ring together with the two [beta] carbon atoms of the at least one pyrrole ring form a carbocyclic group or substituted carbocyclic group.
+</P>
+<P>
+14. The device of claim 13, wherein the carbocyclic group or substituted carbocyclic group is monocyclic.
+</P>
+<P>
+15. The device of claim 13, wherein the carbocyclic group or substituted carbocyclic group is multicyclic.
+</P>
+<P>
+16. The device of claim 13, wherein the carbocyclic group or substituted carbocyclic group is a macrocycle or benzanulated [pi]-system.
+</P>
+<P>
+17. The device of claim 13, wherein the carbocyclic group or substituted carbocyclic group is aromatic.
+</P>
+<P>
+18. The device of claim 12, wherein the two adjacent R groups of the at least one pyrrole ring together with the two 0 carbon atoms of the at least one pyrrole ring form a heterocyclic group or substituted heterocyclic group.
+</P>
+<P>
+19. The device of claim 18, wherein the heterocyclic group or substituted heterocyclic group is monocyclic.
+</P>
+<P>
+20. The device of claim 18, wherein the heterocyclic group or substituted heterocyclic group is multicyclic.
+</P>
+<P>
+21. The device of claim 18, wherein the heterocyclic group or substituted heterocyclic group is aromatic.
+</P>
+<P>
+22. The device of claim 2, wherein the at least one R&apos; or R group is alkyl, substituted alkyl, aryl or substituted aryl.
+</P>
+<P>
+23. The device of claim 22, wherein the at least one R&apos; or R group is phenyl, tolyl, xylenyl, mesityl, methyl, ethyl, n-propyl or isopropyl.
+</P>
+<P>
+24. The device of claim 1, wherein the at least one nonplanar porphyrin of formula (I) is selected from compounds represented by the following formulae:
+</P>
+<P>
+EMI13.0
+</P>
+<P>
+EMI14.0
+</P>
+<P>
+EMI15.0
+</P>
+<P>
+25. The device of claim 1, wherein the valence atom in at least one R&apos; or R group is O.
+</P>
+<P>
+26. The device of claim 25, wherein the at least one R&apos; or R group having O as the valence atom is hydroxy, alkoxy, alkenyloxy, alkynyloxy, cycloakoxy, cycloalkenyloxy, cycloalknyloxy, aralkyloxy, aralkenyloxy, aralkynyloxy, aryloxy, alkylcarbonyloxy, alkenylcarbonyloxy, alkynylcarbonyloxy, hydroxycarbonyloxy or alkoxycarbonyloxy.
+</P>
+<P>
+27. The device of claim 26, wherein the at least one R&apos; or R group having O as the valence atom is hydroxy or alkoxy.
+</P>
+<P>
+28. The device of claim 27, wherein the at least one R&apos; or R group having O as the valence atom is OH, methoxy, ethoxy, n-propoxy or isopropoxy.
+</P>
+<P>
+29. The device of claim 1, wherein at least one R or R&apos; group is independently selected from the group consisting of a Cl atom, Br atom, I atom and At atom.
+</P>
+<P>
+30. The device of claim 1, wherein at least one R or R&apos; group has N as the valence atom.
+</P>
+<P>
+31. The device of claim 30, wherein the at least one R or R&apos; group having N as the valence atom is selected from the group consisting of amino group, alkylamino groups, dialkylamino groups, alkenylamino groups, dialkenylamino groups, alkynylamino groups, dialkynylamino groups, N-alkyl-N-alkenylamino groups, N-alkyl-N-alkynylamino groups, N-alkenyl-N-alkynylamino groups, acylamino groups, N-acyl-N-alkyl amino groups, N-acyl-N-alkenyl amino groups, N-acyl-N-alkynyl amino groups, N-acyl-N-cycloalkyl amino groups, N-acyl-N-cycloalkenyl amino groups, N-acyl-N-aryl amino groups, nitro group, heterocyclic groups comprising a nitrogen valence atom and substituted heterocyclic groups comprising a nitrogen valence atom.
+</P>
+<P>
+32. The device of claim 1, wherein at least one R or R&apos; group has S as the valence atom.
+</P>
+<P>
+33. The device of claim 32, wherein the at least one R or R&apos; group comprising S as the valence atom is selected from the group consisting of thiol group, alkylthio groups, alkenylthio groups, alkynylthio groups, aralkylthio groups, aralkenyltho groups, aralkynylthio groups, cycloalkylalkylthio groups, cycloalkenylalkylthio groups, cycloalkynylalkylthio groups, cycloalkylthio groups, cycloalkenylthio groups, cycloalkynylthio groups, and arylthio groups.
+</P>
+<P>
+34. The device of claim 1, wherein M is Pt, Pd or Ir.
+</P>
+<P>
+35. The device of claim 34, wherein M is Pt.
+</P>
+<P>
+36. The device of claim 34, wherein M is Pd.
+</P>
+<P>
+37. The device of claim 35, wherein the at least one nonplanar porphyrin is Pt(tetraphenyl benzo-porphyrin).
+</P>
+<P>
+38. The device of claim 36, wherein the at least one nonplanar porphyrin is Pd(tetraphenyl benzo-porphyrin).
+</P>
+<P>
+39. The device of claim 1, wherein the device is an organic photovoltaic cell.
+</P>
+<P>
+40. The device of claim 1, wherein the device is a photoconductor cell.
+</P>
+<P>
+41. The device of claim 1, wherein the device is a photodetector.
+</P>
+<P>
+42. The device of claim 1, wherein the device comprises a donor material and an acceptor material, and wherein the donor material comprises the at least one nonplanar porphyrin.
+</P>
+<P>
+43. The device of claim 1, wherein the device comprises a donor material and an acceptor material, and wherein the acceptor material comprises the at least one nonplanar porphyrin.
+</P>
+<P>
+44. The device of claim 1, wherein the device comprises a donor material and an acceptor material, and wherein the donor material comprises a nonplanar porphyrin of formula (I) and the acceptor material comprises another nonplanar porphyrin of formula (I).
+</P>
+<P>
+45. The device of claim 42, wherein the acceptor material comprises C60.
+</P>
+<P>
+46. A method for fabricating an organic photosensitive device, comprising
+</P>
+<P>
+providing a donor material and an acceptor material, wherein the donor material and/or the acceptor material comprises at least one nonplanar porphyrin of formula (I),
+</P>
+<P>
+EMI16.0
+</P>
+<P>
+wherein
+</P>
+<P>
+M is selected from the group consisting of Sc, Y, La, Ti, Zr, Hf, V, Nb, Ta, Cr, Mo, W, Mn, Tc, Re, Fe, Ru, Os, Co, Rh, Ir, Ni, Pd, Pt, Cu, Ag, Au, Zn, Cd, Hg, Al, Ga, In, Tl, Si, Ge, Sn, Pb, P, As, Sb, Bi, S, Se, Te, Po, Cl, Br, I, At, lanthanides, actinides and 2H;
+</P>
+<P>
+R&apos; is independently selected from the group consisting of a Cl atom, Br atom, I atom, At atom, and a chemical group comprising a valence atom attached to the meso carbon atom of the porphyrin, wherein the valence atom is selected from the group consisting of B, C, N, O, Si, P, S, Ge, As, Se, In, Sn, Sb, Te, Tl, Pb, Bi and Po; and
+</P>
+<P>
+R is independently selected from the group consisting of a Cl atom, Br atom, I atom, At atom, and a chemical group comprising a valence atom attached to a [beta] carbon atom of a pyrrole ring, wherein the valence atom is selected from the group consisting of B, C, N, O, Si, P, S, Ge, As, Se, In, Sn, Sb, Te, Tl, Pb, Bi and Po, alternatively two adjacent R groups attached to the same pyrrole ring together with the two [beta] carbon atoms of the pyrrole ring form a carbocyclic group or heterocyclic group; and
+</P>
+<P>
+making the organic photosensitive optoelectronic device comprising putting the donor material in contact with the acceptor material,
+</P>
+<P>
+wherein when both the donor material and acceptor material comprise at least one nonplanar porphyrin of formula (I), the at least one nonplanar porphyrin in the donor material is different from the at least one nonplanar porphyrin in the acceptor material.
+</P>
+<P>
+47. The device of claim 1, wherein the device is selected from the group consisting of organic photosensors, chemical sensors and biological sensors.
+</P>
+</Claims>
+<Also_published_as>
+US2008311304A1;WO2008157118A1;TW200908405A;KR20100075818A;JP2010529695A;CN101809776A;CA2689036A1;AU2008266277A1
+</Also_published_as>
+</BiblioData>

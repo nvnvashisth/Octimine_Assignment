@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOPARTICLE COUPLED TO WAVEGUIDE
+</Title>
+<PublicationNumber>
+EP2022145A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SANTORI CHARLES [US]
+</Name>
+<Name>
+SPILLANE SEAN [US]
+</Name>
+<Name>
+BEAUSOLEIL RAYMOND [US]
+</Name>
+<Name>
+FIORENTINO MARCO [US]
+</Name>
+<Name>
+SANTORI, CHARLES
+</Name>
+<Name>
+SPILLANE, SEAN
+</Name>
+<Name>
+BEAUSOLEIL, RAYMOND
+</Name>
+<Name>
+FIORENTINO, MARCO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2022145
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070777226
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US12242
+</PriorityNumber>
+<PriorityDate>
+2007-05-22
+</PriorityDate>
+<PriorityNumber>
+US20060444222
+</PriorityNumber>
+<PriorityDate>
+2006-05-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/34
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G02B6/02N
+</Class>
+<Class>
+G02B6/42C2
+</Class>
+</NCL>
+<Abstract>
+A nanoparticle (110) is able to emit a single photons. A waveguide (150) is coupled to the nanoparticle (110) and able to receive the single photons. A backreflector (130) is optically coupled to the waveguide (150) and configured to reflect the single photons toward the waveguide (150).
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A device comprising: a nanoparticle able to emit single photons; . a waveguide coupled to the nanoparticle and able to receive the single photons; and a backreflector optically coupled to the waveguide and configured to reflect the single photons toward the waveguide.
+</P>
+<P>
+2. The device as set forth in claim 1 wherein the waveguide is a photonic crystal fiber.
+</P>
+<P>
+3.. The device as set forth in claim 1 , wherein the backreflector is at least partially transparent at an excitation frequency for exciting the nanoparticle.
+</P>
+<P>
+4. The .device as set forth in claim 4, further comprising: an optical fiber coupled to the waveguide, and able to direct a pulse through the waveguide toward the nanoparticle at the excitation frequency.
+</P>
+<P>
+5. The device as set forth in claim 4, further comprising: a lens optically coupled to the backreflector, and able to direct a pulse through the backreflector toward the nanoparticle at the excitation frequency.
+</P>
+<P>
+6. A method for suppressing leaky modes in photon transmission, comprising: coupling a nanoparticle to an end of a waveguide, and coupling a backreflector to the end of the waveguide behind the nanoparticle.
+</P>
+<P>
+7. The method of claim 6 further comprising: exciting the nanoparticle to emit a single photon, reflecting the single photon toward a waveguide, and guiding the photon through the waveguide.
+</P>
+<P>
+8. The method of claim 7 wherein exciting the nanoparticle further comprises directing an optical pulse through the waveguide toward the nanoparticle.
+</P>
+<P>
+9. The method of claim 7 wherein exciting the nanoparticle further comprises directing an optical pulse through the backreflector toward the nanoparticle.
+</P>
+<P>
+10. A device comprising: quantum photon emitting means able to emit single photons; photon guiding means coupled to the emitting means and able to receive the single photons; and photon reflecting means optically coupled to the photon guiding means and configured to reflect the single photons toward the photon guiding means.
+</P>
+</Claims>
+<Also_published_as>
+WO2007142826A2;WO2007142826A3;US2009140275A1;US7546013B1;JP2009539140A;JP4871994B2
+</Also_published_as>
+</BiblioData>

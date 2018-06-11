@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method for obtaining a transparent conductive film
+</Title>
+<PublicationNumber>
+EP1978407A1
+</PublicationNumber>
+<Inventor>
+<Name>
+LAMBERTINI VITO GUIDO [IT]
+</Name>
+<Name>
+LI PIRA NELLO [IT]
+</Name>
+<Name>
+BERNARD STEFANO [IT]
+</Name>
+<Name>
+GRASSO VALENTINA [IT]
+</Name>
+<Name>
+LAMBERTINI, VITO GUIDO
+</Name>
+<Name>
+LI PIRA, NELLO
+</Name>
+<Name>
+BERNARD, STEFANO
+</Name>
+<Name>
+GRASSO, VALENTINA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FIAT RICERCHE [IT]
+</Name>
+<Name>
+C.R.F. SOCIETA CONSORTILE PER AZIONI
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1978407
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070425181
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070425181
+</PriorityNumber>
+<PriorityDate>
+2007-03-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+A method for obtaining a transparent conductive film (2a) comprises the steps of providing a transparent substrate (1), depositing a conductive film (2), of a thickness not greater than 5 [mu]m, on the transparent substrate (1), and removing the entire thickness of conductive film (2) from portions of the surface of the substrate (1) in such a way that the residual parts (2a) of the conductive film (2) on the substrate define a pattern formed by lines of a width of between 1 nm and 2 [mu]m, with distances between the adjacent lines of between 10 nm and 2 [mu]m, said pattern being predetermined in such a way as to obtain a ratio between full spaces and empty spaces corresponding to a desired degree of optical transmittance for the conductive film.
+</Abstract>
+<Claims>
+<P>
+1. A method for obtaining a transparent conductive film, characterized in that it comprises the steps of:
+</P>
+<P>
+- providing a transparent substrate (1);
+</P>
+<P>
+- depositing a conductive film (2), of a thickness not greater than 10 [micro]m, on the transparent substrate (1); and
+</P>
+<P>
+- removing the entire thickness of conductive film (2) from portions of the surface of the substrate (1) in such a way that the residual parts (2a) of conductive film (2) on the substrate define a pattern formed by lines having a width of between 10 nm and 2 [micro]m, with distances between adjacent lines of between 10 nm and 2 [micro]m, said pattern being predetermined in such a way as to obtain a ratio between full spaces and empty spaces corresponding to a desired degree of optical transmittance.
+</P>
+<P>
+2. The method according to Claim 1, characterized in that removal of the parts of conductive film is obtained by means of an operation of etching through a mask (3a; 5a; 31; 2a) obtained by means of a technique chosen from amongst: nano imprinting lithography (NIL), [micro]contact printing, process of polymeric self-assembly, and process of formation of porous alumina.
+</P>
+<P>
+3. The method according to Claim 2, in which the aforesaid mask is obtained by means of technique of nano imprinting lithography, characterized in that a uniform conductive film (2) is initially deposited on top of the substrate (1), a polymeric material (3) is applied on the conductive film (2), a mould (4) is provided with an active surface (4a) carrying nanometric incisions forming a pattern corresponding to the pattern that it is intended to provide with the conductive film, said mould (4) is applied with pressure on the polymeric material so as to obtain on the polymeric material a series of residual portions (3a) of polymeric material spaced apart by empty spaces, and an operation of etching is carried out for removing the entire thickness of the conductive material (2), as far as the surface of the substrate (1), in areas corresponding to the aforesaid empty spaces, in such a way that the residual portions (2a) of conductive film form the desired pattern on the substrate.
+</P>
+<P>
+4. The method according to Claim 3, characterized in that the active surface (4a) of the mould (4) has incisions arranged according to lines of a width of between 10 nm and 500 nm, the distance between adjacent lines being between 10 nm and 500 nm, and the depth of said incisions being between 100 nm and 1000 nm.
+</P>
+<P>
+5. The method according to Claim 3, characterized in that the mould (4) is made of rigid material, preferably silicon or quartz.
+</P>
+<P>
+6. The method according to Claim 3, characterized in that the mould is made of flexible material, and is preferably made of polydimethyl siloxane (PDMS).
+</P>
+<P>
+7. The method according to Claim 3, characterized in that the polymeric film (3) is made of polymethylmethacrylate (PMMA), or of thermoplastic material.
+</P>
+<P>
+8. The method according to Claim 7, characterized in that the conductive film (2) is deposited by means of a technique chosen from among physical vapour deposition (PVD), silk-screen printing, and ink-jet technique.
+</P>
+<P>
+9. The method according to Claim 3, characterized in that the polymeric material is constituted by an epoxy or acrylic resin and in that application of the mould (4) on the polymeric material occurs under pressure and with simultaneous ultraviolet irradiation for bringing about crosslinking of the resin.
+</P>
+<P>
+10. The method according to Claim 3, characterized in that, after removal of the mould, a thin barrier layer (3b) of polymeric material that closes at the bottom each of the empty spaces between the residual portions (3a) of polymeric material is removed by means of an operation of plasma etching or reactive ion etching (RIE).
+</P>
+<P>
+11. The method according to Claim 2, characterized in that it is used for providing a nanometric pattern in micrometric sub-areas (50) of conductive film of a display structure.
+</P>
+<P>
+12. The method according to Claim 2, characterized in that a [micro]contact-printing technique is used, providing said mould (4) on its active surface (4a) with a layer (5) of polymeric material, in such a way that, after application under pressure of the mould on top of the conductive layer (2), the conductive layer (2) remains covered with portions of polymeric material (5a) separated by empty spaces, and in areas corresponding to said empty spaces removal of the entire thickness of the conductive layer (2) is then carried out, as far as the surface of the substrate (1), by means of an etching operation.
+</P>
+<P>
+13. The method according to Claim 3 or Claim 12, characterized in that the polymeric material is a nanocomposite material with inclusions of metals and/or oxides, such as carbon nanotubes (CNTs), lamellae of mormorillonite or sepiolite, spherical inclusions of alumina, silica, carbon C60, or metallic particles of any shape.
+</P>
+<P>
+14. The method according to Claim 2, characterized in that the conductive film (2) is coated with a thin polymer film in blocks and in that an operation is carried out for inducing a phase separation in said polymer in blocks in such a way that it undergoes self-assembly into two separate blocks (31a, 31b) according to a pre-determined pattern, said method comprising a further operation of removal of one of the two blocks (31a, 31b) so that the resulting empty spaces are used for obtaining a removal of the entire thickness of conductive material in areas corresponding to said empty spaces, by means of an etching operation.
+</P>
+<P>
+15. The method according to Claim 10, characterized in that the aforesaid mask (60) used for carrying out the operation of removal of the conductive layer from portions of the substrate is provided by depositing a layer of aluminium and subjecting it to an operation of anodization so as to obtain a honeycomb structure of porous alumina (60) with empty spaces (61) closed at the bottom by a barrier layer, which is removed by means of an operation of plasma etching, so as to give rise to a structure with through cavities (61), which is used for removing the entire thickness of the conductive material as far as the surface of the substrate (1), in areas corresponding to the aforesaid cavities (61), after which the layer of alumina (60) is removed, and the conductive layer is increased in thickness by means of an electro-plating operation.
+</P>
+<P>
+1. A method for obtaining a transparent conductive film, characterized in that it comprises the steps of:
+</P>
+<P>
+- providing a transparent substrate (1);
+</P>
+<P>
+- depositing a conductive film (2), of a thickness not greater than 10 [micro]m, on the transparent substrate (1); and
+</P>
+<P>
+- removing the entire thickness of conductive film (2) from portions of the surface of the substrate (1) in such a way that the residual parts (2a) of conductive film (2) on the substrate define a pattern formed by lines having a width of between 10 nm and 2 [micro]m, with distances between adjacent lines of between 10 nm and 2 [micro]m, said pattern being predetermined in such a way as to obtain a ratio between full spaces and empty spaces corresponding to a desired degree of optical transmittance.
+</P>
+<P>
+2. The method according to Claim 1, characterized in that removal of the parts of conductive film is obtained by means of an operation of etching through a mask (3a; 5a; 31; 2a) obtained by means of a technique chosen from amongst: nano imprinting lithography (NIL), [micro]contact printing, process of polymeric self-assembly, and process of formation of porous alumina.
+</P>
+<P>
+3. The method according to Claim 2, in which the aforesaid mask is obtained by means of technique of nano imprinting lithography, characterized in that a uniform conductive film (2) is initially deposited on top of the substrate (1), a polymeric material (3) is applied on the conductive film (2), a mould (4) is provided with an active surface (4a) carrying nanometric incisions forming a pattern corresponding to the pattern that it is intended to provide with the conductive film, said mould (4) is applied with pressure on the polymeric material so as to obtain on the polymeric material a series of residual portions (3a) of polymeric material spaced apart by empty spaces, and an operation of etching is carried out for removing the entire thickness of the conductive material (2), as far as the surface of the substrate (1), in areas corresponding to the aforesaid empty spaces, in such a way that the residual portions (2a) of conductive film form the desired pattern on the substrate.
+</P>
+<P>
+4. The method according to Claim 3, characterized in that the active surface (4a) of the mould (4) has incisions arranged according to lines of a width of between 10 nm and 500 nm, the distance between adjacent lines being between 10 nm and 500 nm, and the depth of said incisions being between 100 nm and 1000 nm.
+</P>
+<P>
+5. The method according to Claim 3, characterized in that the mould (4) is made of rigid material, preferably silicon or quartz.
+</P>
+<P>
+6. The method according to Claim 3, characterized in that the mould is made of flexible material, and is preferably made of polydimethyl siloxane (PDMS).
+</P>
+<P>
+7. The method according to Claim 3, characterized in that the polymeric film (3) is made of polymethylmethacrylate (PMMA), or of thermoplastic material.
+</P>
+<P>
+8. The method according to Claim 7, characterized in that the conductive film (2) is deposited by means of a technique chosen from among physical vapour deposition (PVD), silk-screen printing, and ink-jet technique.
+</P>
+<P>
+9. The method according to Claim 3, characterized in that the polymeric material is constituted by an epoxy or acrylic resin and in that application of the mould (4) on the polymeric material occurs under pressure and with simultaneous ultraviolet irradiation for bringing about crosslinking of the resin.
+</P>
+<P>
+10. The method according to Claim 3, characterized in that, after removal of the mould, a thin barrier layer (3b) of polymeric material that closes at the bottom each of the empty spaces between the residual portions (3a) of polymeric material is removed by means of an operation of plasma etching or reactive ion etching (RIE).
+</P>
+<P>
+11. The method according to Claim 2, characterized in that it is used for providing a nanometric pattern in micrometric sub-areas (50) of conductive film of a display structure.
+</P>
+<P>
+12. The method according to Claim 2, characterized in that a [micro]contact-printing technique is used, providing said mould (4) on its active surface (4a) with a layer (5) of polymeric material, in such a way that, after application under pressure of the mould on top of the conductive layer (2), the conductive layer (2) remains covered with portions of polymeric material (5a) separated by empty spaces, and in areas corresponding to said empty spaces removal of the entire thickness of the conductive layer (2) is then carried out, as far as the surface of the substrate (1), by means of an etching operation.
+</P>
+<P>
+13. The method according to Claim 3 or Claim 12, characterized in that the polymeric material is a nanocomposite material with inclusions of metals and/or oxides, such as carbon nanotubes (CNTs), lamellae of mormorillonite or sepiolite, spherical inclusions of alumina, silica, carbon C60, or metallic particles of any shape.
+</P>
+<P>
+14. The method according to Claim 2, characterized in that the conductive film (2) is coated with a thin polymer film in blocks and in that an operation is carried out for inducing a phase separation in said polymer in blocks in such a way that it undergoes self-assembly into two separate blocks (31a, 31b) according to a pre-determined pattern, said method comprising a further operation of removal of one of the two blocks (31a, 31b) so that the resulting empty spaces are used for obtaining a removal of the entire thickness of conductive material in areas corresponding to said empty spaces, by means of an etching operation.
+</P>
+<P>
+15. The method according to Claim 10, characterized in that the aforesaid mask (60) used for carrying out the operation of removal of the conductive layer from portions of the substrate is provided by depositing a layer of aluminium and subjecting it to an operation of anodization so as to obtain a honeycomb structure of porous alumina (60) with empty spaces (61) closed at the bottom by a barrier layer, which is removed by means of an operation of plasma etching, so as to give rise to a structure with through cavities (61), which is used for removing the entire thickness of the conductive material as far as the surface of the substrate (1), in areas corresponding to the aforesaid cavities (61), after which the layer of alumina (60) is removed, and the conductive layer is increased in thickness by means of an electro-plating operation.
+</P>
+<P>
+Amended claims in accordance with Rule 137(2) EPC.
+</P>
+<P>
+1. A method for obtaining a transparent conductive film in a display, which comprises the steps of:
+</P>
+<P>
+- providing a transparent substrate (1);
+</P>
+<P>
+- depositing a conductive film (2) on the transparent substrate (1); and
+</P>
+<P>
+- removing the entire thickness of conductive film (2) from portions of the surface of the substrate (1) in such a way that the residual parts (2a) of conductive film (2) on the substrate define a pattern,characterized in that said conductive film (2) is an opaque conductive film of a thickness not greater than 10 [micro]m, said pattern obtained in said film (2) being formed by lines having a width of between 10 nm and 2 [micro]m, with distances between adjacent lines of between 10 nm and 2 [micro]m, said pattern being predetermined in such a way as to obtain a ratio between full spaces and empty spaces corresponding to a desired degree of optical transmittance.
+</P>
+<P>
+2. The method according to Claim 1, characterized in that it is applied to the production of a head-up display.
+</P>
+<P>
+3. The method according to Claim 1, characterized in that removal of the parts of conductive film is obtained by means of an operation of etching through a mask (3a) obtained by means of nano imprinting lithography, wherein a uniform conductive film (2) is initially deposited on top of the substrate (1), a polymeric material (3) is applied on the conductive film (2), a mould (4) is provided with an active surface (4a) carrying nanometric incisions forming a pattern corresponding to the pattern that it is intended to provide with the conductive film, said mould (4) is applied with pressure on the polymeric material so as to obtain on the polymeric material a series of residual portions (3a) of polymeric material spaced apart by empty spaces, and an operation of etching is carried out for removing the entire thickness of the conductive material (2), as far as the surface of the substrate (1), in areas corresponding to the aforesaid empty spaces, in such a way that the residual portions (2a) of conductive film form the desired pattern on the substrate.
+</P>
+<P>
+4. The method according to Claim 3, characterized in that the active surface (4a) of the mould (4) has incisions arranged according to lines of a width of between 10 nm and 500 nm, the distance between adjacent lines being between 10 nm and 500 nm, and the depth of said incisions being between 100 nm and 1000 nm.
+</P>
+<P>
+5. The method according to Claim 3, characterized in that it is used for providing a nanometric pattern in micrometric sub-areas (50) of conductive film of a display structure.
+</P>
+<P>
+6. The method according to Claim 1, characterized in that removal of the parts of conductive film is obtained by means of an operation of etching through a mask (3a) obtained by means of a [micro]contact-printing technique, providing said mould (4) on its active surface (4a) with a layer (5) of polymeric material, in such a way that, after application under pressure of the mould on top of the conductive layer (2), the conductive layer (2) remains covered with portions of polymeric material (5a) separated by empty spaces, and in areas corresponding to said empty spaces removal of the entire thickness of the conductive layer (2) is then carried out, as far as the surface of the substrate (1), by means of an etching operation.
+</P>
+<P>
+7. The method according to Claim 6, characterized in that it is used for providing a nanometric pattern in micrometric sub-areas (50) of conductive film of a display structure.
+</P>
+<P>
+8. The method according to Claim 1, characterized in that the conductive film (2) is coated with a thin polymer film in blocks and in that an operation is carried out for inducing a phase separation in said polymer in blocks in such a way that it undergoes self-assembly into two separate blocks (31a, 31b) according to a pre-determined pattern, said method comprising a further operation of removal of one of the two blocks (31a, 31b) so that the resulting empty spaces are used for obtaining a removal of the entire thickness of conductive material in areas corresponding to said empty spaces, by means of an etching operation.
+</P>
+<P>
+9. The method according to Claim 8, characterized in that it is used for providing a nanometric pattern in micrometric sub-areas (50) of conductive film of a display structure.
+</P>
+<P>
+10. The method according to Claim 1, characterized in that removal of the parts of conductive film is obtained by means of an operation of etching through a mask (3a) obtained by depositing a layer of aluminium and subjecting it to an operation of anodization so as to obtain a honeycomb structure of porous alumina (60) with empty spaces (61) closed at the bottom by a barrier layer, which is removed by means of an operation of plasma etching, so as to give rise to a structure with through cavities (61), which is used for removing the entire thickness of the conductive material as far as the surface of the substrate (1), in areas corresponding to the aforesaid cavities (61), after which the layer of alumina (60) is removed, and the conductive layer is increased in thickness by means of an electro-plating operation.
+</P>
+<P>
+Amended claims in accordance with Rule 137(2) EPC.
+</P>
+<P>
+1. A method for obtaining a transparent conductive film in a display, which comprises the steps of:
+</P>
+<P>
+- providing a transparent substrate (1);
+</P>
+<P>
+- depositing a conductive film (2) on the transparent substrate (1); and
+</P>
+<P>
+- removing the entire thickness of conductive film (2) from portions of the surface of the substrate (1) in such a way that the residual parts (2a) of conductive film (2) on the substrate define a pattern,characterized in that said conductive film (2) is an opaque conductive film of a thickness not greater than 10 [micro]m, said pattern obtained in said film (2) being formed by lines having a width of between 10 nm and 2 [micro]m, with distances between adjacent lines of between 10 nm and 2 [micro]m, said pattern being predetermined in such a way as to obtain a ratio between full spaces and empty spaces corresponding to a desired degree of optical transmittance.
+</P>
+<P>
+2. The method according to Claim 1, characterized in that it is applied to the production of a head-up display.
+</P>
+<P>
+3. The method according to Claim 1, characterized in that removal of the parts of conductive film is obtained by means of an operation of etching through a mask (3a) obtained by means of nano imprinting lithography, wherein a uniform conductive film (2) is initially deposited on top of the substrate (1), a polymeric material (3) is applied on the conductive film (2), a mould (4) is provided with an active surface (4a) carrying nanometric incisions forming a pattern corresponding to the pattern that it is intended to provide with the conductive film, said mould (4) is applied with pressure on the polymeric material so as to obtain on the polymeric material a series of residual portions (3a) of polymeric material spaced apart by empty spaces, and an operation of etching is carried out for removing the entire thickness of the conductive material (2), as far as the surface of the substrate (1), in areas corresponding to the aforesaid empty spaces, in such a way that the residual portions (2a) of conductive film form the desired pattern on the substrate.
+</P>
+<P>
+4. The method according to Claim 3, characterized in that the active surface (4a) of the mould (4) has incisions arranged according to lines of a width of between 10 nm and 500 nm, the distance between adjacent lines being between 10 nm and 500 nm, and the depth of said incisions being between 100 nm and 1000 nm.
+</P>
+<P>
+5. The method according to Claim 3, characterized in that it is used for providing a nanometric pattern in micrometric sub-areas (50) of conductive film of a display structure.
+</P>
+<P>
+6. The method according to Claim 1, characterized in that removal of the parts of conductive film is obtained by means of an operation of etching through a mask (3a) obtained by means of a [micro]contact-printing technique, providing said mould (4) on its active surface (4a) with a layer (5) of polymeric material, in such a way that, after application under pressure of the mould on top of the conductive layer (2), the conductive layer (2) remains covered with portions of polymeric material (5a) separated by empty spaces, and in areas corresponding to said empty spaces removal of the entire thickness of the conductive layer (2) is then carried out, as far as the surface of the substrate (1), by means of an etching operation.
+</P>
+<P>
+7. The method according to Claim 6, characterized in that it is used for providing a nanometric pattern in micrometric sub-areas (50) of conductive film of a display structure.
+</P>
+<P>
+8. The method according to Claim 1, characterized in that the conductive film (2) is coated with a thin polymer film in blocks and in that an operation is carried out for inducing a phase separation in said polymer in blocks in such a way that it undergoes self-assembly into two separate blocks (31a, 31b) according to a pre-determined pattern, said method comprising a further operation of removal of one of the two blocks (31a, 31b) so that the resulting empty spaces are used for obtaining a removal of the entire thickness of conductive material in areas corresponding to said empty spaces, by means of an etching operation.
+</P>
+<P>
+9. The method according to Claim 8, characterized in that it is used for providing a nanometric pattern in micrometric sub-areas (50) of conductive film of a display structure.
+</P>
+<P>
+10. The method according to Claim 1, characterized in that removal of the parts of conductive film is obtained by means of an operation of etching through a mask (3a) obtained by depositing a layer of aluminium and subjecting it to an operation of anodization so as to obtain a honeycomb structure of porous alumina (60) with empty spaces (61) closed at the bottom by a barrier layer, which is removed by means of an operation of plasma etching, so as to give rise to a structure with through cavities (61), which is used for removing the entire thickness of the conductive material as far as the surface of the substrate (1), in areas corresponding to the aforesaid cavities (61), after which the layer of alumina (60) is removed, and the conductive layer is increased in thickness by means of an electro-plating operation.
+</P>
+</Claims>
+<Also_published_as>
+US2009045163A1;JP2008243819A;CN101276079A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FLUID HANDLING DEVICE WITH DIRECTIONALLY- BIASED WETTING SURFACE
+</Title>
+<PublicationNumber>
+EP1927149A2
+</PublicationNumber>
+<Inventor>
+<Name>
+EXTRAND CHARLES W [US]
+</Name>
+<Name>
+WRIGHT MICHAEL [US]
+</Name>
+<Name>
+EXTRAND, CHARLES, W
+</Name>
+<Name>
+WRIGHT, MICHAEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ENTEGRIS INC [US]
+</Name>
+<Name>
+ENTEGRIS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1927149
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060814765
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US36081
+</PriorityNumber>
+<PriorityDate>
+2006-09-15
+</PriorityDate>
+<PriorityNumber>
+US20050228866
+</PriorityNumber>
+<PriorityDate>
+2005-09-16
+</PriorityDate>
+<PriorityNumber>
+US20050229080
+</PriorityNumber>
+<PriorityDate>
+2005-09-16
+</PriorityDate>
+<PriorityNumber>
+US20050229478
+</PriorityNumber>
+<PriorityDate>
+2005-09-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B05D5/12
+</Class>
+<Class>
+F15D1/04
+</Class>
+<Class>
+H01M8/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+F15C5/00
+</Class>
+<Class>
+F16K99/00M
+</Class>
+<Class>
+F16K99/00M2F
+</Class>
+<Class>
+F16K99/00M4D
+</Class>
+</NCL>
+<Abstract>
+A fluid handling device with an anisotropic wetting surface including a substrate with a multiplicity of asymmetric substantially uniformly shaped asperities thereon. Each asperity has a first asperity rise angle and a second asperity rise angle relative to the substrate. The asperities are structured to present a desired retentive force ratio (f1/f2) greater or less than unity caused by asymmetry between the first asperity rise angle and the second asperity rise angle according to the formula: f3/f2 = sin(?3 + 1/2??0)/sin(?2+ 1/2??0)
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A fluid handling device having an anisotropic wetting surface portion, the anisotropic wetting surface portion comprising:
+</P>
+<P>
+a substrate with a multiplicity of asymmetric substantially uniformly shaped microscale or nanoscale asperities thereon, each asperity defining a first asperity rise angle and a second opposing asperity rise angle relative to the substrate, the asperities being structured to present a retentive force ratio (f3/f2) greater or less than unity when the retentive force ratio (f3/f2) is determined according to the formula:
+</P>
+<P>
+f3/f2 = sin([omega]3 + &amp;lt;1&amp;gt;/2[Delta][Theta]0)/sin([omega]2 + Y2AQ0)
+</P>
+<P>
+where [omega]2 is the first asperity rise angle in degrees, [omega]3 is the second asperity rise angle in degrees, and [Delta][theta]o = (0a,o - #r,o) where [Theta]a,o is a true advancing contact angle of a fluid in contact with the surface in degrees, and 0r,o is a true receding contact angle of the fluid on the surface in degrees.
+</P>
+<P>
+2. The fluid handling device of claim 1 , wherein the asperities are projections.
+</P>
+<P>
+3. The fluid handling device of claim 2, wherein the asperities are polyhedrally shaped.
+</P>
+<P>
+4. The fluid handling device of claim 2, wherein each asperity has a generally square transverse cross-section.
+</P>
+<P>
+5. The fluid handling device of claim 2, wherein the asperities are cylindrical, cylindroidal, conical or frusto-conical in shape.
+</P>
+<P>
+6. The fluid handling device of claim 1, wherein the asperities are cavities formed in the substrate.
+</P>
+<P>
+7. The fluid handling device of claim 1, wherein the asperities are positioned in a substantially uniform array.
+</P>
+<P>
+8. The fluid handling device of claim 7, wherein the asperities are positioned in a rectangular array.
+</P>
+<P>
+9. The fluid handling device of claim 1, wherein the fluid handling device is a microfluidic device.
+</P>
+<P>
+10 The fluid handling device of claim 1, wherein the fluid handling device is a fuel cell component.
+</P>
+<P>
+11. A method of an anisotropic wetting surface on a fluid handling device, the method comprising:
+</P>
+<P>
+providing a fluid handling device presenting a surface; and
+</P>
+<P>
+disposing a multiplicity of substantially uniformly shaped microscale or nanoscale asperities on the surface of the fluid handling device to form the anisotropic wetting surface, each asperity having a first asperity rise angle and a second asperity rise angle relative to the surface, wherein the asperities are structured and disposed so as to present a retentive force ratio (f3/f2) greater or less than unity when the retentive force ratio (f3/f2) is determined according to the formula:
+</P>
+<P>
+f3/f2 = sin([omega]3 + %[Delta][Theta]0)/sin([omega]2 + &amp;lt;1&amp;gt;AAQ0)
+</P>
+<P>
+where [omega]2 is the first asperity rise angle in degrees, [omega]3 is the second asperity rise angle in degrees, and [Delta][theta]o = (0a,o - #r,o) where 0a,o is a true advancing contact angle of a fluid in contact with the surface in degrees, and 0r&amp;gt;0 is a true receding contact angle of the fluid on the surface in degrees
+</P>
+<P>
+12. The process of claim 11, wherein the asperities are disposed using a photolithography process.
+</P>
+<P>
+13. The process of claim 11, wherein the asperities are disposed using a process selected from the group consisting of nanomachining, microstamping, microcontact printing, self-assembling metal colloid monolayers, atomic force microscopy nanomachining, sol-gel molding, self-assembled monolayer directed patterning, chemical etching, sol-gel stamping, printing with colloidal inks, and disposing a layer of parallel carbon nanotubes on the substrate.
+</P>
+<P>
+14. A fluid handling device comprising an anisotropic wetting surface with a multiplicity of asymmetric substantially uniformly shaped asperities thereon, each asperity defining a first asperity rise angle and a second opposing asperity rise angle relative to the substrate, the asperities being structured to present a retentive force ratio (f3/f2) greater or less than unity when the retentive force ratio (f3/f2) is determined according to the formula:
+</P>
+<P>
+f,/f2 = sin([omega]3 + &amp;lt;1&amp;gt;/2[Delta][Theta]0)/sin([omega]2 + V2AQ0)
+</P>
+<P>
+where [omega]2 is the first asperity rise angle in degrees, [omega]3 is the second asperity rise angle in degrees, and [Delta][theta]o = ([theta]a,o - #r,0) where 0a,o is a true advancing contact angle of a fluid in contact with the surface in degrees, and 0r,o is a true receding contact angle of the fluid on the surface in degrees.
+</P>
+<P>
+15. The fluid handling device of claim 14, wherein the fluid handling device is tubular in shape.
+</P>
+<P>
+16. The fluid handling device of claim 14, wherein the fluid handling device is a valve.
+</P>
+<P>
+17. The fluid handling device of claim 14, wherein the fluid handling device is a microfluidic device.
+</P>
+<P>
+18 The fluid handling device of claim 1, wherein the fluid handling device is a fuel cell component.
+</P>
+<P>
+19. A method of cleaning a fluid handling device, comprising:
+</P>
+<P>
+providing a fluid handling device presenting an anisotropic wetting surface, the anisotropic wetting surface comprising a substrate with a multiplicity of asymmetric substantially uniformly shaped asperities thereon, each asperity defining a first asperity rise angle and a second opposing asperity rise angle relative to the substrate, the asperities being structured to present a retentive force ratio (f3/f2) greater or less than unity when the retentive force ratio (f3/f2) is determined according to the formula: f3/f2 = sin([omega]3 + &amp;lt;1&amp;gt;/2[Delta][Theta]0)/sin([omega]2 + &amp;lt;1&amp;gt;AAe0)
+</P>
+<P>
+where [omega]2 is the first asperity rise angle in degrees, [omega]3 is the second asperity rise angle in degrees, and [Delta][theta]o = ([theta]a$ - 0r&amp;gt;0) where 0a;0 is a true advancing contact angle of a fluid in contact with the anisotropic wetting surface in degrees, and [theta][tau][beta] is a true receding contact angle of the fluid on the anisotropic wetting surface in degrees; and
+</P>
+<P>
+contacting the anisotropic wetting surface with the fluid.
+</P>
+<P>
+20. The method of claim 19, further comprising imparting a force to the fluid handling device or the fluid to cause the fluid to move on the anisotropic wetting surface.
+</P>
+</Claims>
+<Also_published_as>
+WO2007035511A2;WO2007035511A3;US2009217981A1;US8028722B2;KR20080058398A;JP2009509104A
+</Also_published_as>
+</BiblioData>

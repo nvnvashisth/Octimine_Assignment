@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MULTILAYER MAGNETIC DEVICE, PROCESS FOR THE PRODUCTION THEREOF, MAGNETIC FIELD SENSOR, MAGNETIC MEMORY AND LOGIC GATE USING SUCH A DEVICE
+</Title>
+<PublicationNumber>
+EP2106612A2
+</PublicationNumber>
+<Inventor>
+<Name>
+RODMACQ BERNARD [FR]
+</Name>
+<Name>
+AUFFRET STEPHANE [FR]
+</Name>
+<Name>
+DIENY BERNARD [FR]
+</Name>
+<Name>
+MORITZ JEROME [FR]
+</Name>
+<Name>
+RODMACQ, BERNARD
+</Name>
+<Name>
+AUFFRET, STEPHANE
+</Name>
+<Name>
+DIENY, BERNARD
+</Name>
+<Name>
+MORITZ, JEROME
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2106612
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070872012
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007FR52602
+</PriorityNumber>
+<PriorityDate>
+2007-12-21
+</PriorityDate>
+<PriorityNumber>
+FR20060055943
+</PriorityNumber>
+<PriorityDate>
+2006-12-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/032
+</Class>
+<Class>
+G01R33/06
+</Class>
+<Class>
+G11C11/18
+</Class>
+<Class>
+H01F10/32
+</Class>
+<Class>
+H01F41/30
+</Class>
+<Class>
+H01L43/10
+</Class>
+<Class>
+H01L43/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/032B
+</Class>
+<Class>
+G01R33/032C
+</Class>
+<Class>
+G01R33/07
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+H01F10/32L2P
+</Class>
+<Class>
+H01F10/32N4
+</Class>
+<Class>
+H01F41/30
+</Class>
+<Class>
+H01L43/06
+</Class>
+<Class>
+H01L43/10
+</Class>
+<Class>
+H01L43/14
+</Class>
+</NCL>
+<Abstract>
+This magnetic multilayer device comprises, on a substrate, an alternating sequence of magnetic metallic layers M and oxide, hydride or nitride layers O. The number of layers M equals at least two. The layers M are continuous. There is interfacial magnetic anisotropy perpendicular to the plane of the layers at the level of the M/O interfaces.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic multilayer device comprising, on a substrate, an alternating sequence of magnetic metallic layers M and oxide, hydride or nitride layers O, wherein:
+</P>
+<P>
+the number of layers M equals at least two,
+</P>
+<P>
+the layers M are continuous, have a thickness equal to or less than 5 nm, and would have their magnetization parallel to the plane of the layer in the absence of layers O,
+</P>
+<P>
+and, in a temperature range equal to or larger than ambient temperature, there occurs interfacial magnetic anisotropy perpendicular to the plane of the layers at the M/O and O/M interfaces, able to orient the magnetization of layers M in a direction substantially perpendicular to the plane of the layers.
+</P>
+<P>
+2. A magnetic multilayer device as claimed in claim 1, wherein:
+</P>
+<P>
+the magnetic metallic layers consist of a magnetic element, a magnetic alloy or a multilayer formed by an alternating sequence of non-magnetic and magnetic materials, the latter being selected from the group comprising Fe, Ni, Co or alloys thereof,
+</P>
+<P>
+and the oxide, hydride or nitride layers O have a thickness of at least 0.3 nm and are based on elements selected from the group comprising Al, Mg, Ru, Ta, Cr, Zr, Hf, Ti, V, Si, Cu, W, Co, Ni, Fe or alloys thereof and, more generally, any material or alloy capable of forming stable oxides, hydrides or nitrides.
+</P>
+<P>
+3. A magnetic multilayer device as claimed in claim 1, wherein the substrate is made of silicon covered by thermally or naturally oxidized silicon to a thickness of 2 to 500 nm.
+</P>
+<P>
+4. A magnetic multilayer device as claimed in claim 1, wherein the substrate is made of a transparent material such as glass or magnesium oxide for example.
+</P>
+<P>
+5. A magnetic multilayer device as claimed in claim 1, wherein it comprises a material S that is used as a growth initiator for the first metallic layer M, this material S being selected from the group comprising TiN, CuN, Pt, Ta, Ru, IrMn, PtMn, NiFeCr, oxides and nitrides.
+</P>
+<P>
+6. A magnetic multilayer device as claimed in claim 1, wherein at least one of layers M contains added non-magnetic metals Pd or Pt or elements selected from the group comprising Si, C, B, P.
+</P>
+<P>
+7. A magnetic multilayer device as claim in claim 1, wherein all the layers M are made of the same magnetic material and all the layers O are made of the same non-magnetic material.
+</P>
+<P>
+8. A magnetic multilayer device as claimed in claim 1, wherein all the layers O have the same thickness.
+</P>
+<P>
+9. A magnetic multilayer device as claimed in claim 1, wherein the thickness of at least one of layers O is different from the others.
+</P>
+<P>
+10. A magnetic multilayer device as claimed in claim 5, wherein:
+</P>
+<P>
+each metallic layer M has a thickness of 0.3 to 5 nm,
+</P>
+<P>
+each layer O has a thickness of 0.3 to 5 nm, and,
+</P>
+<P>
+the number of alternating sequences of layers M and layers O is 1.5 to 20, thus constituting a generic structure from M/O/M to (M/O)20.
+</P>
+<P>
+11. A magnetic multilayer device as claimed in claim 8, wherein the chemical composition of at least one of magnetic layers M is different from the others.
+</P>
+<P>
+12. A magnetic multilayer device as claimed in claim 1, wherein the thickness of at least one of magnetic layers M is different from the others.
+</P>
+<P>
+13. A magnetic multilayer device as claimed in claim 1, wherein the chemical composition of at least one of layers O is different from the others.
+</P>
+<P>
+14. A magnetic multilayer device as claimed in claim 1, wherein at least one of layers O itself consists of a plurality of layers made of oxide, hydride or nitride.
+</P>
+<P>
+15. A magnetic multilayer device as claimed in claim 1, wherein one or several M layers are put in contact of a supplementary layer made of a material capable of inducing an antiferromagnetic exchange coupling with said M layer, such as for example IrMn, PtMn, FeMn or NiMn alloys.
+</P>
+<P>
+16. A magnetic multilayer device as claimed in claim 1, wherein its lateral dimensions are less than 1 [mu]m.
+</P>
+<P>
+17. A method for producing a magnetic multilayer device as claimed in claim 1, wherein it comprises the following steps:
+</P>
+<P>
+depositing, on an electrically insulating surface, a first metallic magnetic layer M by cathode sputtering,
+</P>
+<P>
+producing the first layer O on this first layer M,
+</P>
+<P>
+repeating the two previous steps or only the first of them,
+</P>
+<P>
+depositing an electrical contact.
+</P>
+<P>
+18. A method for producing a magnetic multilayer device as claimed in claim 17, wherein the step for depositing the first metallic layer M is preceded by a preliminary step consisting of depositing, on the substrate, a layer made of a growth initiating material.
+</P>
+<P>
+19. A method for producing a magnetic multilayer device as claimed in claim 18, wherein this growth initiating material has a sufficiently small thickness to minimize the quantity of current derived into this layer relative to the current that flows in the active part of the magnetic device when said current is injected parallel to the plane of the layers.
+</P>
+<P>
+20. A method for producing a magnetic multilayer device as claimed in claim 18, wherein said preliminary step is itself preceded by depositing, on the substrate, a layer of an electrically conductive material used to inject an electric current in a direction perpendicular to the plane of the layers.
+</P>
+<P>
+21. A method for producing a magnetic multilayer device as claimed in claim 17, wherein an electrically conductive layer is deposited on said device and in that the latter is cut into a pillar shape with a square, rectangular, circular or elliptical base having lateral dimensions of several hundred nm or less and a current that flows through the stack perpendicular to the plane of the layers makes it possible to measure the magnetoresistance of said stack.
+</P>
+<P>
+22. A method for producing a magnetic multilayer device as claimed in claim 17, wherein layers O are obtained by deposition then natural oxidation, hydriding or nitriding of the corresponding metallic layer.
+</P>
+<P>
+23. A method for producing a magnetic multilayer device as claimed in claim 17, wherein layers O are obtained by deposition then plasma oxidation, hydriding or nitriding of the corresponding metallic layer.
+</P>
+<P>
+24. A method for producing a magnetic multilayer device as claimed in claim 17, wherein layers O are obtained by reactive sputtering of the corresponding metallic layer in the presence of oxygen, hydrogen or nitrogen in the atmosphere inside the deposition chamber.
+</P>
+<P>
+25. A method for producing a magnetic multilayer device as claimed in claim 17, wherein layers O are obtained by direct deposition of oxide, hydride or nitride by radiofrequency cathode sputtering using a composite metallic oxide, hydride or nitride target material.
+</P>
+<P>
+26. A method for producing a magnetic multilayer device as claimed in claim 17, wherein deposition of certain layers takes place at a temperature different from ambient temperature.
+</P>
+<P>
+27. A method for producing a magnetic multilayer device as claimed in claim 17, wherein deposition of certain layers is followed by heat treatment at a temperature higher than said deposition temperature.
+</P>
+<P>
+28. A method for producing a magnetic multilayer device as claimed in claim 17, wherein, after completing the deposition steps, one subjects the assembly thus obtained to heat treatment for a given period in a rarefied atmosphere in order to modify the structure and/or electric transport properties and/or magnetic properties of the device.
+</P>
+<P>
+29. A method for producing a magnetic multilayer device as claimed in claim 17, wherein, after completing the deposition steps, one subjects the assembly thus obtained to heat treatment for a given period in the presence of a certain gas or mixture of different gases in order to modify the structure and/or electric transport properties and/or magnetic properties of the device.
+</P>
+<P>
+30. A magnetic field sensor wherein it consists of a magnetic multilayer device as claimed in claim 1 having a perpendicular anisotropy field that almost counterbalances its demagnetizing field.
+</P>
+<P>
+31. A magnetic memory wherein it consists of a magnetic multilayer device as claimed in claim 1 in which magnetization of the magnetic layers is perpendicular to the plane of the layers in the absence of any external magnetic field.
+</P>
+<P>
+32. A magnetic logic gate wherein it consists of a magnetic multilayer device as claimed in claim 1 in which magnetization of the magnetic layers is perpendicular to the plane of the layers in the absence of any external magnetic field.
+</P>
+<P>
+33. A method for using a magnetic memory as claimed in claim 31, wherein orientation of the magnetizations of the magnetic layers of the magnetic device which comprises them is detected by measuring the extraordinary Hall effect by injecting an electric current in a direction parallel to the plane of the layers.
+</P>
+<P>
+34. A method for using a logic gate as claimed in claim 32, wherein orientation of the magnetizations of the magnetic layers of the magnetic device which comprises them is detected by measuring the extraordinary Hall effect by injecting an electric current in a direction parallel to the plane of the layers.
+</P>
+<P>
+35. A method for using a magnetic memory as claimed in claim 31, wherein relative orientation of the magnetizations of the magnetic layers of the magnetic device which comprises them is detected by measuring the magnetoresistance by injecting an electric current in a direction perpendicular to the plane of the layers.
+</P>
+<P>
+36. A method for using a logic gate as claimed in claim 32, wherein relative orientation of the magnetizations of the magnetic layers of the magnetic device which comprises them is detected by measuring the magnetoresistance by injecting an electric current in a direction perpendicular to the plane of the layers.
+</P>
+<P>
+37. A method for using a magnetic memory as claimed in claim 31, wherein orientation of the magnetizations of the magnetic layers of the magnetic device which comprises them is detected by measuring the magneto-optical Kerr effect or Faraday effect.
+</P>
+<P>
+38. A method for using a logic gate as claimed in claim 32, wherein orientation of the magnetizations of the magnetic layers of the magnetic device which comprises them is detected by measuring the magneto-optical Kerr effect or Faraday effect.
+</P>
+</Claims>
+<Also_published_as>
+US2008151615A1;JP2010515252A;WO2008087345A2;WO2008087345A3;FR2910716A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SUPRAMOLECULAR FUNCTIONALIZATION OF GRAPHITIC NANOPARTICLES FOR DRUG DELIVERY
+</Title>
+<PublicationNumber>
+EP2182799A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DAI HONGJIE [US]
+</Name>
+<Name>
+LIU ZHUANG [US]
+</Name>
+<Name>
+LIN XIAO [US]
+</Name>
+<Name>
+SUN XIAOMING [US]
+</Name>
+<Name>
+DAI, HONGJIE
+</Name>
+<Name>
+LIU, ZHUANG
+</Name>
+<Name>
+LIN, XIAO
+</Name>
+<Name>
+SUN, XIAOMING
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV LELAND STANFORD JUNIOR [US]
+</Name>
+<Name>
+THE BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2182799
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080796551
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-24
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US71032
+</PriorityNumber>
+<PriorityDate>
+2008-07-24
+</PriorityDate>
+<PriorityNumber>
+US20070962192P
+</PriorityNumber>
+<PriorityDate>
+2007-07-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A01N25/26
+</Class>
+<Class>
+A01N25/28
+</Class>
+<Class>
+C01B31/04
+</Class>
+<Class>
+D01F9/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K47/48R
+</Class>
+<Class>
+A61K47/48T
+</Class>
+<Class>
+A61K47/48W14B
+</Class>
+<Class>
+A61K47/48W18
+</Class>
+<Class>
+A61K9/00Z4
+</Class>
+<Class>
+B82Y5/00
+</Class>
+</NCL>
+<Abstract>
+Disclosed are nanoparticles, such as carbon nanotubes or other materials having extended aromatic surfaces (e.g., graphene sheet or nanotube), which are used to deliver active agents such as drugs, labels or dyes (termed for convenience a &quot;drug&quot;) to the interior of cells. The nanoparticles are functionalized by a hydrophilic polymer to render them stable in suspension. This molecule may be covalently attached to the nanoparticle, or may be adsorbed thereto as an amphiphilic molecule. The nanoparticles are coupled to the drug through supramolecular bonding i.e., binding to the exterior of the nanoparticle through p - stacking. The drug may also be covalently bonded to the hydrophilic polymer, which is coupled to the nanoparticle through supramolecular bonding. The drug is therefore capable of release in the cell exterior. The drug is more rapidly released at lower pH, as found e.g., in tumor cells. The drug-coupled, functionalized nanoparticles may also be targeted to specific cells through modification of the hydrophilic polymer, e.g., by adding an RGD peptide, or an antibody, which is targeted to cells expressing integrins, or an antibody directed to a cell surface marker. The drug may also be linked to a branched chain hydrophilic polymer, so that each polymer molecule carries more than one drug bound by a cleavable linker.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A dispersed nanoparticle complex for delivery of an active agent into a cell, comprising:
+</P>
+<P>
+(a) a nanoparticle having an extended aromatic structure; (b) a hydrophilic polymer bound to the nanoparticle; and
+</P>
+<P>
+(c) a small molecule active agent, attached to the surface of the nanoparticle through supramolecular bonding.
+</P>
+<P>
+2. The nanoparticle complex of claim 1 wherein the nanoparticle is a carbon nanotube.
+</P>
+<P>
+3. The nanoparticle complex of claim 2 wherein the carbon nanotube is an SWNT. 4. The nanoparticle complex of claim 1 wherein the nanoparticle comprises boron nitride.
+</P>
+<P>
+5. The nanoparticle complex of claim 1 wherein the nanoparticle comprises a graphitic surface.
+</P>
+<P>
+6. The nanoparticle of claim 5 which is a graphene sheet.
+</P>
+<P>
+7. The nanoparticle of claim 6 wherein the nanoparticle is graphitic oxide, the hydrophilic polymer is covalently bonded to the graphitic oxide, and the active agent is bonded to the graphitic oxide through supramolecular bonding.
+</P>
+<P>
+8. The nanoparticle of claim 6 wherein the graphene sheet is a pristine single layer graphene sheet.
+</P>
+<P>
+9. The nanoparticle complex of claim 5 wherein the nanoparticle is either (i) a coated nanocrystal (ii) a nanotube, or (iii) a graphene sheet.
+</P>
+<P>
+10. The nanoparticle complex of claim 5 wherein the nanoparticle is a graphitic coated metal core.
+</P>
+<P>
+11. The nanoparticle complex of claim 10 wherein the metal core is a nanocrystal and the graphitic coat is a single layer. 12. The nanoparticle complex of claim 11 wherein the nanocrystal comprises FeCo or Au.
+</P>
+<P>
+13. The nanoparticle complex of claim 1 wherein the nanoparticle has an average length of about 50-500 nm. 14. The nanoparticle complex of claim 1 wherein the nanoparticle is an SWNT having a diameter of between about 1 and 2 nm prior to functionalization.
+</P>
+<P>
+15. The nanoparticle complex of claim 1 wherein the hydrophilic polymer comprises PEG and the PEG is from about 10 to 500 polyethylene oxide units. 16. The nanoparticle complex of claim 15 wherein the PEG is amine-terminated.
+</P>
+<P>
+17. The nanoparticle complex of claim 1 where the hydrophilic polymer comprises two to seven branches.
+</P>
+<P>
+18. The nanoparticle complex of claim 17 wherein the hydrophilic polymer has four to six branches. 19. The nanoparticle complex of claim 18 comprising at least two drug molecules linked to different branches.
+</P>
+<P>
+20. The nanoparticle complex of claim 18 wherein the active agent is linked to the hydrophilic polymer by a cleavable linker.
+</P>
+<P>
+21. The nanoparticle complex of claim 17 wherein the hydrophilic polymer is PEG. 22. The nanoparticle complex of claim 17 wherein the hydrophilic polymer is dextran.
+</P>
+<P>
+23. The nanoparticle complex of claim 21 wherein the hydrophilic polymer is further linked to a targeting agent.
+</P>
+<P>
+24. The nanoparticle of claim 23 wherein the targeting agent is an RGD peptide.
+</P>
+<P>
+25. The nanoparticle of claim 23 where the targeting agent is an antibody. 26. The nanoparticle complex of claim 1 wherein the hydrophilic polymer is covalently bound to the nanoparticle.
+</P>
+<P>
+27. The nanoparticle complex of claim 1 wherein the hydrophilic polymer is noncovalently bound to the nanoparticle.
+</P>
+<P>
+28. The nanoparticle complex of claim 1 wherein the hydrophilic polymer is comprised of an organic amphiphilic molecule.
+</P>
+<P>
+29. The nanoparticle complex of claim 28 wherein the organic amphiphilic molecule comprises a polar lipid adsorbed on the nanoparticle through supramolecular hydrophobic bonding. 30. The nanoparticle complex of claim 29 wherein the polar lipid is a phospholipid.
+</P>
+<P>
+31. The nanoparticle complex of claim 1 wherein the active agent is a small molecule drug comprising a fused aromatic ring structure and directly bonded to the nanoparticle by supramolecular bonding. 32. The nanoparticle complex of claim 1 wherein the active agent is a small molecule drug covalently and cleavably bonded to the hydrophilic polymer, said polymer bonded to the nanoparticle by supramolecular bonding, said bonding selected from the group consisting of [pi] stacking and hydrophobic bonding.
+</P>
+<P>
+33. The nanoparticle complex of claim 1 wherein the active agent is a hydrophobic small molecule bonded to a surface of the nanoparticle.
+</P>
+<P>
+34. The nanoparticle complex of claim 1 wherein the active agent is linked to the hydrophilic polymer by a cleavable linkage.
+</P>
+<P>
+35. The nanoparticle complex of claim 34 wherein the cleavable linkage is a linkage, which is one of hydrazone, ester or disulfide. 36. The nanoparticle complex of claim 1 wherein the active agent is selected from the group consisting of doxorubicin, camptothecin, daunorubicin, fluorescein and paclitaxel.
+</P>
+<P>
+37. The nanoparticle complex of claim 1 where about 1 -40% of the nanoparticle surface area is complexed with the hydrophilic polymer and 30-95% is complexed with the active agent. 38. A preparation of the nanoparticle complex of claim 1 in an aqueous suspension.
+</P>
+<P>
+39. A preparation of the nanoparticle complex of claim 1 in unit dosage form.
+</P>
+<P>
+40. The nanoparticle complex of claim 1 wherein the hydrophilic polymer is branched.
+</P>
+<P>
+41. A method for preparing a nanoparticle complex for delivery of an active agent inside a cell, comprising the steps of: (d) obtaining a nanoparticle, which has an extended aromatic surface, in dispersed form
+</P>
+<P>
+(e) attaching a hydrophilic polymer to the nanoparticle;
+</P>
+<P>
+(f) attaching through supramolecular bonding an active agent to the surface of the nanoparticle; and (g) forming a stable aqueous suspension of the complex.
+</P>
+<P>
+42. A method for delivering delivery of an active agent inside a cell, wherein said active agent is in a complex comprising: a nanoparticle having a graphitic surface; a hydrophilic polymer bound to the nanoparticle; and an active agent comprising an aromatic molecule non-covalently adsorbed to the surface of the nanoparticle, comprising the step of: contacting the cell with the complex for a time sufficient to allow internalization of the complex by the cell.
+</P>
+<P>
+43. The method of claim 42 wherein the hydrophilic polymer further comprises a targeting agent for delivering the active agent to a cell type providing a target for the targeting agent.
+</P>
+<P>
+44. The method of claim 42 wherein the adsorbed active agent is more dissociated at low pH.
+</P>
+<P>
+45. The method of claim 42 comprising the step of contacting the complex with serum, whereby the complex does not dissociate in serum.
+</P>
+<P>
+46. The method of claim 42 where the active agent is an anti-cancer drug.
+</P>
+<P>
+47. The method of claim 42 where the drug is hydrophobic. 48. A nanoparticle complex for delivery of an active agent into a cell, comprising:
+</P>
+<P>
+(a) a nanoparticle having an extended aromatic structure;
+</P>
+<P>
+(b) a hydrophilic polymer bound to the nanoparticle by supramolecular bonding; and
+</P>
+<P>
+(c) an active agent coupled to the hydrophilic polymer. 49. The complex of claim 48 further comprising another active agent, which comprises an aromatic structure bonded directly to the nanoparticle through supramolecular bonding.
+</P>
+<P>
+50. The complex of claim 49 where the active agent is a small molecule having fused aromatic rings and the bonding is by pi stacking.
+</P>
+</Claims>
+<Also_published_as>
+WO2009018092A1;US2009087493A1;CA2708319A1
+</Also_published_as>
+</BiblioData>

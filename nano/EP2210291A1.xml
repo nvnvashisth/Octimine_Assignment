@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PROCESSING ADDITIVES FOR FABRICATING ORGANIC PHOTOVOLTAIC CELLS
+</Title>
+<PublicationNumber>
+EP2210291A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BAZAN GUILLERMO [US]
+</Name>
+<Name>
+GAUDIANA RUSSELL [US]
+</Name>
+<Name>
+HEEGER ALAN J [US]
+</Name>
+<Name>
+KOPPE MARKUS [AT]
+</Name>
+<Name>
+LEE JAE KWAN [US]
+</Name>
+<Name>
+MA WANLI [US]
+</Name>
+<Name>
+MORANA MAURO [AT]
+</Name>
+<Name>
+SCHARBER MARKUS [AT]
+</Name>
+<Name>
+WALLER DAVID [US]
+</Name>
+<Name>
+BRABEC CHRISTOPH [AT]
+</Name>
+<Name>
+BAZAN, GUILLERMO
+</Name>
+<Name>
+GAUDIANA, RUSSELL
+</Name>
+<Name>
+HEEGER, ALAN J
+</Name>
+<Name>
+KOPPE, MARKUS
+</Name>
+<Name>
+LEE, JAE KWAN
+</Name>
+<Name>
+MA, WANLI
+</Name>
+<Name>
+MORANA, MAURO
+</Name>
+<Name>
+SCHARBER, MARKUS
+</Name>
+<Name>
+WALLER, DAVID
+</Name>
+<Name>
+BRABEC, CHRISTOPH
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONARKA TECHNOLOGIES INC [US]
+</Name>
+<Name>
+UNIV CALIFORNIA [US]
+</Name>
+<Name>
+KONARKA TECHNOLOGIES, INC
+</Name>
+<Name>
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2210291
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080845953
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-10-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US81514
+</PriorityNumber>
+<PriorityDate>
+2008-10-29
+</PriorityDate>
+<PriorityNumber>
+US20070984229P
+</PriorityNumber>
+<PriorityDate>
+2007-10-31
+</PriorityDate>
+<PriorityNumber>
+US20080257069
+</PriorityNumber>
+<PriorityDate>
+2008-10-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00A2B6
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+Processing additives, as well as related compositions, photovoltaic cells, photovoltaic modules, and methods, are disclosed.
+</Abstract>
+<Claims>
+<P>
+1. What is claimed is: 1. A composition, comprising:
+</P>
+<P>
+a polymer; and
+</P>
+<P>
+a compound selected from a group consisting of an alkane substituted with halo, CN, or COOR, R being H or C1-C10 alkyl; a cyclopentadithiophene optionally substituted with C1-C10 alkyl; a fluorene optionally substituted with C1-C10 alkyl; a thiophene optionally substituted with C1-C10 alkyl; a benzothiadiazole optionally substituted with C1-C10 alkyl; a naphthalene optionally substituted with C1-C10 alkyl; and a 1,2,3,4-tetrahydronaphthalene optionally substituted with C1-C10 alkyl.
+</P>
+<P>
+2. The composition of claim 1, wherein the compound is an alkane substituted with Cl, Br, I, CN, or COOCH3.
+</P>
+<P>
+3. The composition of claim 1, wherein the alkane is a C6-C12 alkane.
+</P>
+<P>
+4. The composition of claim 1, wherein the alkane is an octane.
+</P>
+<P>
+5. The composition of claim 1, wherein the compound is 1,8-diiodooctane, 1,8-dibromooctane, 1,8-dicyanooctane, or 1,8-di(methoxycarbonyl)octane.
+</P>
+<P>
+6. The composition of claim 1, wherein the compound is of the following formula:
+</P>
+<P>
+R1-(CH2)n-R2,
+</P>
+<P>
+in which n is 1-20; and each of R1 and R2, independently, is halo, CN, or COOR, R being H or C1-C10 alkyl.
+</P>
+<P>
+7. The composition of claim 6, wherein n is 6-12.
+</P>
+<P>
+8. The composition of claim 6, wherein n is 8.
+</P>
+<P>
+9. The composition of claim 6, wherein each of R1 and R2, independently, is Cl, Br, I, CN, or COOCH3.
+</P>
+<P>
+10. The composition of claim 1, wherein the composition comprises at least about 1 vol % of the compound.
+</P>
+<P>
+11. The composition of claim 1, wherein the composition comprises at most about 10 vol % of the compound.
+</P>
+<P>
+12. The composition of claim 1, wherein the polymer comprises an electron donor material.
+</P>
+<P>
+13. The composition of claim 12, wherein the electron donor material is selected from the group consisting of polythiophenes, polyanilines, polycarbazoles, polyvinylcarbazoles, polyphenylenes, polyphenylvinylenes, polysilanes, polythienylenevinylenes, polyisothianaphthanenes, polycyclopentadithiophenes, polysilacyclopentadithiophenes, polycyclopentadithiazoles, polythiazolothiazoles, polythiazoles, polybenzothiadiazoles, poly(thiophene oxide)s, poly(cyclopentadithiophene oxide)s, polythiadiazoloquinoxaline, polybenzoisothiazole, polybenzothiazole, polythienothiophene, poly(thienothiophene oxide), polydithienothiophene, poly(dithienothiophene oxide)s, polyfluorenes, polytetrahydroisoindoles, and copolymers thereof.
+</P>
+<P>
+14. The composition of claim 13, wherein the electron donor material comprises polythiophenes, polycyclopentadithiophenes, or copolymers thereof.
+</P>
+<P>
+15. The composition of claim 14, wherein the electron donor material comprises poly(3-hexylthiophene) or poly(cyclopentadithiophene-co-benzothiadiazole).
+</P>
+<P>
+16. The composition of claim 1, further comprising an electron acceptor material.
+</P>
+<P>
+17. The composition of claim 16, wherein the electron acceptor material comprises a material selected from the group consisting of fullerenes, inorganic nanoparticles, oxadiazoles, discotic liquid crystals, carbon nanorods, inorganic nanorods, polymers containing CN groups, polymers containing CF3 groups, and combinations thereof.
+</P>
+<P>
+18. The composition of claim 17, wherein the electron acceptor material comprises a substituted fullerene.
+</P>
+<P>
+19. The composition of claim 18, wherein the substituted fullerene comprises [6,6]-phenyl C61-butyric acid methyl ester or [6,6]-phenyl C71-butyric acid methyl ester.
+</P>
+<P>
+20. The composition of claim 1, further comprising a solvent.
+</P>
+<P>
+21. The composition of claim 20, wherein the solvent comprises chlorobenzene, o-dichlorobenzene, trichlorobenzene, o-xylene, m-xylene, p-xylene, toluene, mesitylene, ethylbenzene, isobutylbenzene, t-butylbenzene, [alpha]-methylnaphthalene, tetralin, N-methylpyrrolidone, methyl ethyl ketone, or acetone.
+</P>
+<P>
+22. An article, comprising:
+</P>
+<P>
+a substrate; and
+</P>
+<P>
+the composition of claim 1, the composition being supported by the substrate.
+</P>
+<P>
+23. A composition, comprising:
+</P>
+<P>
+a polymer; and
+</P>
+<P>
+a compound comprising a substituted alkane;
+</P>
+<P>
+wherein at least one substituent on the alkane is not SH.
+</P>
+<P>
+24. An article, comprising:
+</P>
+<P>
+first and second electrodes; and
+</P>
+<P>
+a photoactive layer between the first and second electrodes, the photoactive layer comprises at least two separated phases, at least one of the separated phases having an average grain size of at least about 20 nm;
+</P>
+<P>
+wherein the article is configured as a photovoltaic cell.
+</P>
+<P>
+25. The article of claim 24, wherein the average grain size is at least about 50 nm.
+</P>
+<P>
+26. The article of claim 24, wherein the average grain size is at least about 100 nm.
+</P>
+<P>
+27. An article, comprising:
+</P>
+<P>
+first and second electrodes; and
+</P>
+<P>
+a photoactive layer between the first and second electrodes, the photoactive layer being formed by applying a solution comprising a compound onto the first or second electrode and the compound being selected from a group consisting of an alkane substituted with halo, CN, or COOR, R being H or C1-C10 alkyl; a cyclopentadithiophene optionally substituted with C1-C10 alkyl; a fluorene optionally substituted with C1-C10 alkyl; a thiophene optionally substituted with C1-C10 alkyl; a benzothiadiazole optionally substituted with C1-C10 alkyl; a naphthalene optionally substituted with C1-C10 alkyl; and a 1,2,3,4-tetrahydronaphthalene optionally substituted with C1-C10 alkyl;
+</P>
+<P>
+wherein the article is configured as a photovoltaic cell.
+</P>
+<P>
+28. A method, comprising:
+</P>
+<P>
+processing a solution comprising a compound to form a photoactive layer, the compound being selected from a group consisting of an alkane substituted with halo, CN, or COOR, R being H or C1-C10 alkyl; a cyclopentadithiophene optionally substituted with C1-C10 alkyl; a fluorene optionally substituted with C1-C10 alkyl; a thiophene optionally substituted with C1-C10 alkyl; a benzothiadiazole optionally substituted with C1-C10 alkyl; a naphthalene optionally substituted with C1-C10 alkyl; and a 1,2,3,4-tetrahydronaphthalene optionally substituted with C1-C10 alkyl.
+</P>
+<P>
+29. The method of claim 28, wherein the compound is an alkane substituted with Cl, Br, I, CN, or COOCH3.
+</P>
+<P>
+30. The method of claim 28, wherein the alkane is a C6-C12 alkane.
+</P>
+<P>
+31. The method of claim 28, wherein the alkane is an octane.
+</P>
+<P>
+32. The method of claim 28, wherein the compound is 1,8-diiodooctane, 1,8-dibromooctane, 1,8-dicyanooctane, or 1,8-di(methoxycarbonyl)octane.
+</P>
+<P>
+33. The method of claim 28, wherein the compound is of the following formula:
+</P>
+<P>
+R1-(CH2)n-R2,
+</P>
+<P>
+in which n is 1-20; and each of R1 and R2, independently, is halo, CN, or COOR, R being H or C1-C10 alkyl.
+</P>
+<P>
+34. The method of claim 33, wherein n is 6-12.
+</P>
+<P>
+35. The method of claim 33, wherein n is 8.
+</P>
+<P>
+36. The method of claim 33, wherein each of R1 and R2, independently, is Cl, Br, I, CN, or COOCH3.
+</P>
+<P>
+37. The method of claim 28, wherein the solution comprises at least about 1 vol % of the compound.
+</P>
+<P>
+38. The method of claim 28, wherein the solution comprises at most about 10 vol % of the compound.
+</P>
+<P>
+39. The method of claim 28, wherein the solution further comprises an electron donor material.
+</P>
+<P>
+40. The method of claim 39, wherein the electron donor material is selected from the group consisting of polythiophenes, polyanilines, polycarbazoles, polyvinylcarbazoles, polyphenylenes, polyphenylvinylenes, polysilanes, polythienylenevinylenes, polyisothianaphthanenes, polycyclopentadithiophenes, polysilacyclopentadithiophenes, polycyclopentadithiazoles, polythiazolothiazoles, polythiazoles, polybenzothiadiazoles, poly(thiophene oxide)s, poly(cyclopentadithiophene oxide)s, polythiadiazoloquinoxaline, polybenzoisothiazole, polybenzothiazole, polythienothiophene, poly(thienothiophene oxide), polydithienothiophene, poly(dithienothiophene oxide)s, polyfluorenes, polytetrahydroisoindoles, and copolymers thereof.
+</P>
+<P>
+41. The method of claim 40, wherein the electron donor material comprises polythiophenes, polycyclopentadithiophenes, or copolymers thereof.
+</P>
+<P>
+42. The method of claim 41, wherein the electron donor material comprises poly(3-hexylthiophene) or poly(cyclopentadithiophene-co-benzothiadiazole).
+</P>
+<P>
+43. The method of claim 28, wherein the solution further comprises an electron acceptor material.
+</P>
+<P>
+44. The method of claim 43, wherein the electron acceptor material comprises a material selected from the group consisting of fullerenes, inorganic nanoparticles, oxadiazoles, discotic liquid crystals, carbon nanorods, inorganic nanorods, polymers containing CN groups, polymers containing CF3 groups, and combinations thereof.
+</P>
+<P>
+45. The method of claim 44, wherein the electron acceptor material comprises a substituted fullerene.
+</P>
+<P>
+46. The method of claim 45, wherein the substituted fullerene comprises [6,6]-phenyl C61-butyric acid methyl ester or [6,6]-phenyl C71-butyric acid methyl ester.
+</P>
+<P>
+47. The method of claim 28, wherein the solution further comprises a solvent.
+</P>
+<P>
+48. The method of claim 47, wherein the solvent comprises chlorobenzene, o-dichlorobenzene, trichlorobenzene, o-xylene, m-xylene, p-xylene, toluene, mesitylene, ethylbenzene, isobutylbenzene, t-butylbenzene, [alpha]-methylnaphthalene, tetralin, N-methylpyrrolidone, methyl ethyl ketone, or acetone.
+</P>
+<P>
+49. The method of claim 28, wherein the processing step comprises applying the solution on a surface.
+</P>
+<P>
+50. The method of claim 49, wherein the processing step further comprises drying the solution after the applying step to form the photoactive layer.
+</P>
+<P>
+51. The method of claim 28, further comprising disposing the photoactive layer between first and second electrodes to form a photovoltaic cell.
+</P>
+</Claims>
+<Also_published_as>
+US2009108255A1;WO2009058811A1;JP2011502363A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FAST SCANNING SPM SCANNER AND METHOD OF OPERATING SAME
+</Title>
+<PublicationNumber>
+EP2137737A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PHAN NGHI [US]
+</Name>
+<Name>
+CUSWORTH CRAIG [US]
+</Name>
+<Name>
+PHAN, NGHI
+</Name>
+<Name>
+CUSWORTH, CRAIG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+VEECO INSTR INC [US]
+</Name>
+<Name>
+VEECO INSTRUMENTS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2137737
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080743961
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US57217
+</PriorityNumber>
+<PriorityDate>
+2008-03-17
+</PriorityDate>
+<PriorityNumber>
+US20070687304
+</PriorityNumber>
+<PriorityDate>
+2007-03-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/02
+</Class>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q30/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q10/02
+</Class>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q30/02
+</Class>
+</NCL>
+<Abstract>
+A high-bandwidth SPM tip scanner is provided that additionally includes an objective that is vertically movable within the scan head to increase the depth of focus for the sensing light beam. Movable optics also are preferably provided to permit targeting of the sensing light beam on the SPM&apos;s probe and to permit the sensing light beam to track the probe during scanning. The targeting and tracking permit the impingement of a small sensing light beam spot on the probe under direct visual inspection of focused illumination beam of an optical microscope integrated into the SPM and, as a result, permits the use of a relatively small cantilever with a commensurately small resonant frequency. A high-bandwidth tip scanner constructed in this fashion has a fundamental resonant frequency greater than greater than 500 Hz and a sensing light beam spot minor diameter of less than 10 mum.;  Images can be scanned on large samples having a largest dimension exceeding 7 mm with a resolution of less than 1 Angstrom and while scanning at rates exceeding 30 Hz.
+</Abstract>
+<Claims>
+<P>
+1. A scanning probe microscope (SPM) tip scanner comprising:
+</P>
+<P>
+an actuator;
+</P>
+<P>
+a probe that is moved by the actuator in at least an x-y plane;
+</P>
+<P>
+an objective that outputs a light beam that impinges on the probe; wherein
+</P>
+<P>
+the tip scanner has a fundamental resonant frequency greater than 2 kHz.
+</P>
+<P>
+2. The tip scanner of claim 1, wherein the tip scanner has a fundamental resonant frequency of greater than 5 kHz.
+</P>
+<P>
+3. The tip scanner of claim 1, wherein the tip scanner has a fundamental resonant frequency of greater than 9 kHz.
+</P>
+<P>
+4. The tip scanner of claim 1, wherein the actuator includes an x-y actuator having mutually orthogonal x and y actuator elements.
+</P>
+<P>
+5. The tip scanner of claim 4, wherein the actuator further includes a z actuator.
+</P>
+<P>
+6. The tip scanner of claim 1, wherein the objective is a scanned objective that is moved by the actuator.
+</P>
+<P>
+7. The tip scanner of claim 6, wherein the actuator further includes a z actuator that is supported on the scanned objective.
+</P>
+<P>
+8. The tip scanner of claim 1, wherein the objective is movable relative to the probe.
+</P>
+<P>
+9. The tip scanner of claim 8, wherein the objective is movable vertically relative to the probe.
+</P>
+<P>
+10. The tip scanner of claim 9, further comprising an objective housing on which the probe is supported and within which the objective is vertically movable.
+</P>
+<P>
+11. A scanning probe microscope (SPM) tip scanner comprising:
+</P>
+<P>
+an actuator; and
+</P>
+<P>
+a scanned objective that is moved by the actuator; wherein the tip scanner has a fundamental resonant frequency greater than 500 Hz and a sensing light beam spot minor diameter of less than 10 microns.
+</P>
+<P>
+12. The SPM tip scanner of claim 11, wherein the tip scanner has a fundamental resonant frequency greater than 1 kHz and a sensing light beam spot minor diameter of less than 5 microns.
+</P>
+<P>
+13. The tip scanner of claim 11, wherein the tip scanner has a fundamental resonant frequency of greater than 5 kHz
+</P>
+<P>
+14. The tip scanner of claim 11, wherein the tip scanner has a fundamental resonant frequency of greater than 9 kHz.
+</P>
+<P>
+15. A scanning probe microscope (SPM) tip scanner comprising:
+</P>
+<P>
+an actuator;
+</P>
+<P>
+a probe that is moved by the actuator in at least an x-y plane;
+</P>
+<P>
+an objective that is moved by the actuator and that outputs a light beam that impinges on the probe; wherein the tip scanner has a fundamental resonant frequency greater than 2 kHz.
+</P>
+<P>
+16. A scanning probe microscope (SPM) comprising:
+</P>
+<P>
+a scanner including
+</P>
+<P>
+a probe;
+</P>
+<P>
+an actuator that moves the probe in an x-y plane at a rate of at least 100 Hz; and
+</P>
+<P>
+an objective that is moved by the actuator that focuses a light beam on the probe, and that directs an image of an object to a receiver.
+</P>
+<P>
+17. The SPM of claim 16, further comprising optics that direct an illumination light beam and a sensing light beam to and from the objective.
+</P>
+<P>
+18. The SPM of claim 16, wherein the optics are movable to pan the light passing therethrough so as to direct a sensing light beam onto a desired portion of the probe.
+</P>
+<P>
+19. The SPM of claim 18, wherein the optics are mounted on a tip/tilt stage that is movable in x, y, and z planes.
+</P>
+<P>
+20. The SPM of claim 19, wherein the tip/tilt stage includes a gimbal.
+</P>
+<P>
+21. The SPM of claim 16, wherein the objective is movable to adjust a focal point of a transmitted light beam relative to the probe.
+</P>
+<P>
+22. A method of operating a scanning probe microscope (SPM) comprising:
+</P>
+<P>
+acquiring data while scanning a probe over a region of a sample at a rate of at least 30 Hz, the sample having a largest dimension of at least 7 mm; and
+</P>
+<P>
+at least one of storing, transmitting, and displaying at least one of the data and information derived from the data.
+</P>
+<P>
+23. The method of claim 22, wherein the probe scans over a sample region having a largest diameter of at least 10 mm.
+</P>
+<P>
+24. The method of claim 23, wherein the probe scans over a sample region having a largest diameter of at least 100 mm.
+</P>
+<P>
+25. The method of claim 22, wherein the scanning step is performed at a rate of at least 50 Hz.
+</P>
+<P>
+26. The method of claim 25, wherein the scanning step is performed at a rate of at least 100 Hz.
+</P>
+<P>
+27. The method of claim 26, wherein the scanning step is performed at a rate of at least 200 Hz.
+</P>
+<P>
+28. The method of claim 27, wherein the scanning step is performed at a rate of at least 400 Hz.
+</P>
+<P>
+29. The method of claim 22, wherein the scanning step comprises scanning a distance of at least 5 [mu]m.
+</P>
+<P>
+30. The method of claim 22, wherein the scanning step comprises scanning a distance of at least 10 [mu]m.
+</P>
+<P>
+31. The method of claim 22, wherein the sample is one of a patterned wafer, a biological sample, a data storage device component, a polymer, and a thin film.
+</P>
+<P>
+32. The method of claim 31, wherein the sample is a semiconductor wafer.
+</P>
+<P>
+33. A method comprising:
+</P>
+<P>
+manipulating optics of a scanning probe microscope (SPM) to target a focused sensing light beam on a probe of the SPM; then
+</P>
+<P>
+manipulating the optics and a scanner of the SPM to locate a reference plane above a sample surface;
+</P>
+<P>
+positioning a probe of the SPM in the reference plane; then
+</P>
+<P>
+manipulating the scanner to engage the sample with the probe; and
+</P>
+<P>
+scanning the sample with the probe while the focused sensing light beam is targeted on the probe.
+</P>
+</Claims>
+<Also_published_as>
+US2008223119A1;US8166567B2;WO2008115862A2;WO2008115862A3;KR20100019415A;JP2010521693A
+</Also_published_as>
+</BiblioData>

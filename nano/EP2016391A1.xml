@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INTEGRATED SURFACE MODE BIOSENSOR
+</Title>
+<PublicationNumber>
+EP2016391A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DEBACKERE PETER [BE]
+</Name>
+<Name>
+SCHEERLINCK STIJN [BE]
+</Name>
+<Name>
+BAETS ROEL [BE]
+</Name>
+<Name>
+BIENSTMAN PETER [BE]
+</Name>
+<Name>
+DEBACKERE, PETER
+</Name>
+<Name>
+SCHEERLINCK, STIJN
+</Name>
+<Name>
+BAETS, ROEL
+</Name>
+<Name>
+BIENSTMAN, PETER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV GENT [BE]
+</Name>
+<Name>
+IMEC INTER UNI MICRO ELECTR [BE]
+</Name>
+<Name>
+UNIVERSITEIT GENT
+</Name>
+<Name>
+INTERUNIVERSITAIR MICROELEKTRONICA CENTRUM
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2016391
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070724378
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-19
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP03441
+</PriorityNumber>
+<PriorityDate>
+2007-04-19
+</PriorityDate>
+<PriorityNumber>
+US20060792966P
+</PriorityNumber>
+<PriorityDate>
+2006-04-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N21/55
+</Class>
+<Class>
+G01N21/77
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01N21/55B2
+</Class>
+<Class>
+G01N21/77B
+</Class>
+<Class>
+G02B6/122S
+</Class>
+</NCL>
+<Abstract>
+An optical detection system (100) for detecting biological, chemical or bio-chemical particles is described. The optical detection system (100) typically comprises a surface mode interference means. The surface mode interference means may comprise a layer (102) such as for example a metal layer like e.g. a gold layer. The surface mode interference means furthermore typically is adapted to create an interference effect between optical interface modes of the layer to detect optical changes in the vicinity of the layer (102). In this way, sample (106) occurring in the vicinity of the surface may be detected. The present invention furthermore relates to a method for performing optical detection and to a method for setting up an optical detection system wherein parameters are selected for tuning the surface mode interference means to a desired wavelength range and/or to a desired range of analyte refractive indices.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1.- An optical detection system (100) for detecting biological, chemical or bio-chemical particles, the optical detection system (100) comprising a surface mode interference means, wherein the surface mode interference means comprises a layer (102) and wherein the surface mode interference means is adapted to create an interference effect between optical interface modes of an irradiation beam in said layer to detect optical changes in the vicinity of the layer (102) or changes of thickness of adsorbed material at the interface between the material and the layer. 2.- An optical detection system (100) according to claim 1 , wherein the surface mode interference means is a surface plasmon resonance means. 3.- An optical detection system (100) according to any of claims 1 to 2, wherein the layer (102) is a metal layer. 4.- An optical detection system (100) according to any of claims 1 to 3, wherein the optical interface modes comprise at least two optical interface modes. 5.- An optical detection system (100) according to any of claims 1 to 4, wherein said layer (102) is a gold layer. 6.- An optical detection system (100) according to any of claims 1 to 4, wherein said layer (102) is a suicide.
+</P>
+<P>
+7.- An optical detection system (100) according to any of claims 1 to 6, wherein said optical interface modes are decoupled optical interface modes of said layer (102). 8.- An optical detection system (100) according to claim 7, wherein the optical interface modes comprise at least an optical interface mode at a first side of the layer (102) and an optical interface mode at a second side of the layer, opposite to the first side of the layer (102).
+</P>
+<P>
+9.- An optical detection system (100) according to any of claims 1 to 8, the system (100) comprising a waveguide made of high refractive index material having first regions and a second region, whereby the layer is in close proximity with a second region of the waveguide.
+</P>
+<P>
+10.- An optical detection system (100) according to claim 9, wherein the layer
+</P>
+<P>
+(102) is at least partly embedded in a second region of the waveguide. 11.- An optical detection system (100) according to claim 10, wherein the layer (102) is completely embedded in the second region of the waveguide.
+</P>
+<P>
+12.- An optical detection system (100) according to claim 1 1 , wherein the surface of the layer (102) is in line with the surface of said waveguide. 13.- An optical detection system (100) according to any of claims 9 to 12, wherein said waveguide made of high refractive index material is a silicon waveguide.
+</P>
+<P>
+14.- An optical detection system (100) according to claim 13, wherein said silicon waveguide is part of a silicon on insulator structure. 15.- An optical detection system (100) according to any of claims 9 to 14, wherein mode cut-off is induced in the waveguide.
+</P>
+<P>
+16.- An optical detection system (100) according to claim 15, wherein the mode cut-off in the waveguide results in said second region of the waveguide having no own propagating mode near the layer (102). 17.- An optical detection system (100) according to any of claims 9 to 16, wherein coupling loss between first regions and second region of the waveguide are lower than -15dB, preferably lower than -12dB, more preferably lower than -1OdB, even more preferably lower than -8dB.
+</P>
+<P>
+18.- An optical detection system (100) according to claim 17, the layer (102) having a surface suitable for being contacted with a sample, wherein the coupling loss to an optical interface mode at the surface opposite to the surface suitable for being contacted with a sample is less than -7dB, preferably less than -6dB, more preferably less than -5dB.
+</P>
+<P>
+19.- An optical detection system (100) according to any of claims 1 to 18, the optical detection system furthermore comprising an irradiation source
+</P>
+<P>
+(108) for generating an irradiation beam and/or a detector (110) for detecting said interference of said optical interface modes.
+</P>
+<P>
+20.- A method for detecting biological, chemical or bio-chemical particles, the method comprising
+</P>
+<P>
+- bringing one side of a layer (102) in contact with a sample (106)
+</P>
+<P>
+- creating interfering interface modes of an irradiation beam in said layer (102)
+</P>
+<P>
+- deriving from said interfering optical interface modes a presence of biological, chemical or bio-chemical particles in the vicinity of said layer (102).
+</P>
+<P>
+21.- A method according to claim 20, wherein said layer (102) is a metal layer. 22.- A method for detecting according to any of claims 20 to 21 , wherein creating interfering optical interface modes of an irradiation beam in said layer (102) comprises
+</P>
+<P>
+- providing an irradiation beam in a waveguide comprising said layer (102) and - generating decoupled optical interface modes of said irradiation beam in said layer (102).
+</P>
+<P>
+23.- A method for detecting according to claim 22, the method further comprising
+</P>
+<P>
+- providing propagation mode cut off in regions of the wave guide where optical interface modes are generated.
+</P>
+<P>
+24.- A method for detecting according to any of claims 20 to 23, the method comprising
+</P>
+<P>
+- coupling an irradiation beam propagation mode to decoupled optical interface modes with a coupling loss of less than -15dB, preferably less than -12dB, more preferably less than -1 OdB, even more preferably less than -8dB.
+</P>
+<P>
+25.- A method for setting up an optical detection system (100), the optical detection system (100) comprising a surface mode interference means having a layer (102), the method comprising selecting design parameters of the surface mode interference means to generate an interference effect between optical interface modes of the layer (102).
+</P>
+<P>
+26.- A method for setting up according to claim 25, wherein said design parameters comprise at least one of a material type of the layer (102), a thickness of a layer cladding region, a length of a layer cladding region, embedding the layer (102) more or less in a high refractive index material, a material type of said high refractive index material, whether or not a grating is applied to reduce penetration depth of the optical surface mode in the sample medium. 27.- A method for setting up according to any of claims 25 to 26, wherein said design parameters are selected in order to tune to a specific wavelength to be used.
+</P>
+<P>
+28.- A method for setting up according to any of claims 25 to 27, wherein said design parameters are selected in order to tune for a specific refractive index range for a sample to be detected.
+</P>
+<P>
+29.- A computer program product for executing a method as claimed in any of claims 25 to 28.
+</P>
+<P>
+30.- A machine readable data storage device storing the computer program product of claim 29. 31.- Transmission of the computer program product according to claim 29 over a local or wide area telecommunications network. 32.- A cartridge for use in an optical detection system for detecting biological, chemical or bio-chemical particles, the cartridge comprising a surface mode interference means, wherein the surface mode interference means comprises a layer and wherein the surface mode interference means is adapted to create an interference effect between optical interface modes of an irradiation beam in said layer (102) to detect optical changes in the vicinity of the layer
+</P>
+<P>
+(102) or changes of thickness of adsorbed material at the layer (102).
+</P>
+</Claims>
+<Also_published_as>
+WO2007118714A1;US2009103099A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+EFFICIENT SOLAR CELLS USING ALL- ORGANIC NANOCRYSTALLINE NETWORKS
+</Title>
+<PublicationNumber>
+EP2171776A1
+</PublicationNumber>
+<Inventor>
+<Name>
+YANG FAN [US]
+</Name>
+<Name>
+FORREST STEPHEN R [US]
+</Name>
+<Name>
+YANG, FAN
+</Name>
+<Name>
+FORREST, STEPHEN, R
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV MICHIGAN [US]
+</Name>
+<Name>
+UNIV PRINCETON [US]
+</Name>
+<Name>
+THE REGENTS OF THE UNIVERSITY OF MICHIGAN
+</Name>
+<Name>
+THE TRUSTEES OF PRINCETON UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2171776
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080796205
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US70208
+</PriorityNumber>
+<PriorityDate>
+2008-07-16
+</PriorityDate>
+<PriorityNumber>
+US20070880210
+</PriorityNumber>
+<PriorityDate>
+2007-07-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/42F2
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+An optoelectronic device and a method of fabricating a photosensitive optoelectronic device includes depositing a first organic semiconductor material on a first electrode to form a continuous first layer;  depositing a layer of a second organic semiconductor material on the first layer to form a discontinuous second layer, portions of the first layer remaining exposed;  and depositing the first organic semiconductor material on the second layer to form a discontinuous third layer, portions of at least the second layer remaining exposed. The depositing of the first and second organic semiconductor materials are alternated a number of times until a final layer of the second organic material is added to form a continuous layer. A second electrode is deposited over this final layer. One of the first electrode and the second electrode is transparent, and the first organic semiconductor material is one or more donor-type materials or one or more acceptor-type materials relative to second organic semiconductor material, which is one or more materials of the other material type.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method of fabricating a photosensitive optoelectronic device, comprising: depositing a first organic semiconductor material over a first electrode to form a continuous first layer; depositing a second organic semiconductor material over the first layer to form a discontinuous second layer, portions of the first layer remaining exposed; depositing the first organic semiconductor material directly on the second layer to form a discontinuous third layer, portions of at least the second layer remaining exposed; alternating deposition of the first and second organic semiconductor materials; depositing the second organic semiconductor material to form a continuous fourth layer; and depositing a second electrode over the fourth layer, wherein at least one of the first electrode and the second electrode is transparent, and the first organic semiconductor material is one or more donor-type materials or one or more acceptor-type materials relative to the second organic semiconductor material, said second organic semiconductor material being one or more materials of the other material type.
+</P>
+<P>
+2. The method of claim 1 , wherein at least one of the first and second organic semiconductor materials are formed of nanocrystals.
+</P>
+<P>
+3. The method of claim 2, wherein said first material is copper phthalocyanine and said second material is C6o-
+</P>
+<P>
+4. The method of claim 3 wherein each of said first and second organic semiconductor materials are deposited via organic vapor phase deposition.
+</P>
+<P>
+5. The method of claim 4 further comprising: depositing an exciton blocking layer between said third layer and said second electrode.
+</P>
+<P>
+6. The method of claim 2 wherein said first, second, third and fourth layers are part of a first organic photoactive region, the method further comprising: forming a second photoactive region between said first photoactive region and said second electrode.
+</P>
+<P>
+7. The method of claim 1 further comprising; depositing additional first organic semiconductor material onto said first layer prior to depositing said second organic semiconductor material onto said first layer.
+</P>
+<P>
+8. A photosensitive optoelectronic device, comprising: a first electrode and a second electrode, at least one of the first electrode and the second electrode being transparent; and a first organic photoactive layer disposed between the first electrode and the second electrode, the organic photoactive layer comprising: a first layer comprising a first organic semiconductor material, the first layer being continuous; a second layer comprising a second organic semiconductor material, the second layer being discontinuous and in direct contact with the first layer, portions of the first layer coinciding with gaps in the second layer; alternating first and second layers to form a third layer; and a fourth layer comprising the second organic semiconductor material, the fourth layer being continuous, and the first organic semiconductor material is one or more donor-type materials or one or more acceptor-type materials relative to the second organic semiconductor material, said second organic semiconductor material being one or more materials of the other material type.
+</P>
+<P>
+9. The device of claim 8, wherein at least one of the first and second organic semiconductor materials are formed of nanocrystals.
+</P>
+<P>
+10. The device of claim 9, wherein said first material is copper phthalocyanine and said second material is C6o-
+</P>
+<P>
+1 1. The device of claim 10, wherein each of said first and second organic semiconductor materials are deposited via organic vapor phase deposition.
+</P>
+<P>
+12. The device of claim. 1 1 further comprising: an exciton blocking layer deposited between said fourth layer and said second electrode.
+</P>
+<P>
+13. The device of claim 9 further comprising: a second organic photoactive layer between said first organic photoactive layer and said second electrode.
+</P>
+<P>
+14. The device of claim 8 wherein said first layer further includes additional first organic semiconductor material deposited onto said continuous layer prior to depositing said second organic semiconductor material onto said first layer.
+</P>
+</Claims>
+<Also_published_as>
+WO2009012324A1;US2010025663A1;TW200913299A;KR20100057618A;JP2010533981A;CN101803055A;CA2692763A1;AU2008276054A1
+</Also_published_as>
+</BiblioData>

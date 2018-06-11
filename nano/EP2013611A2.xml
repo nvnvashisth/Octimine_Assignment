@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOBIOELECTRONICS
+</Title>
+<PublicationNumber>
+EP2013611A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PATOLSKY FERNANDO [US]
+</Name>
+<Name>
+TIMKO BRIAN P [US]
+</Name>
+<Name>
+YU GUIHUA [US]
+</Name>
+<Name>
+LIEBER CHARLES M [US]
+</Name>
+<Name>
+PATOLSKY, FERNANDO
+</Name>
+<Name>
+TIMKO, BRIAN P
+</Name>
+<Name>
+YU, GUIHUA
+</Name>
+<Name>
+LIEBER, CHARLES M
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HARVARD COLLEGE [US]
+</Name>
+<Name>
+THE PRESIDENT AND FELLOWS OF HARVARD COLLEGE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2013611
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070852353
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US06545
+</PriorityNumber>
+<PriorityDate>
+2007-03-15
+</PriorityDate>
+<PriorityNumber>
+US20060783203P
+</PriorityNumber>
+<PriorityDate>
+2006-03-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N27/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G01N33/50D2F4
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/16G
+</Class>
+</NCL>
+<Abstract>
+The present invention generally relates to nanobioelectronics and, in some cases, to circuits comprising nanoelectronic elements, such as nanotubes and/or nanowires, and biological components, such as neurons. In one aspect, cells, such as neurons, are positioned in electrical communication with one or more nanoscale wires. The nanoscale wires may be used to stimulate the cells, and/or determine an electrical condition of the cells. More than one nanoscale wire may be positioned in electrical communication with the cell, for example, in distinct regions of the cell. However, the nanoscale wires may be positioned such that they are relatively close together, for example, spaced apart by no more than about 200 nm.;  The nanoscale wires may be disposed on a substrate, for example, between electrodes, and the cells may be adhered to the substrate, for example, using cell adhesion factors such as polylysine. Also provided in other aspects of the invention are methods for making and using such devices, kits for using the same, and the like.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. An article, comprising: a nanoscale wire; and a cell in electrical communication with the nanoscale wire.
+</P>
+<P>
+2. The article of claim 1, further comprising electrical circuitry constructed and arranged to pass electrical current through the nanoscale wire.
+</P>
+<P>
+3. The article of claim 1, wherein the cell is in physical contact with the nanoscale wire.
+</P>
+<P>
+4. The article of claim 1, wherein the cell is a neuron.
+</P>
+<P>
+5. The article of claim 1, comprising at least 10 nanoscale wires each in electrical communication with the cell.
+</P>
+<P>
+6. The article of claim 1, comprising at least 40 nanoscale wires each in electrical communication with the cell.
+</P>
+<P>
+7. The article of claim 1, wherein the nanoscale wire is a nanowire.
+</P>
+<P>
+8. The article of claim 1, wherein the nanoscale wire is a nanotube.
+</P>
+<P>
+9. The article of claim 1, wherein the nanoscale wire is a semiconductor nanowire.
+</P>
+<P>
+10. The article of claim 1, wherein the cell is in electrical communication with the nanoscale wire such that an electrical state of the cell can be altered by passing current through the nanoscale wire.
+</P>
+<P>
+11. The article of claim 1 , wherein the cell is in electrical communication with a field-effect transistor, the field-effect transistor comprising the nanoscale wire.
+</P>
+<P>
+12. The article of claim 1, wherein the article is a logic gate.
+</P>
+<P>
+13. The article of claim 12, wherein the logic gate is a NOR logic gate.
+</P>
+<P>
+14. The article of claim 12, wherein the logic gate is a multi-input logic gate.
+</P>
+<P>
+15. The article of claim 1 , further comprising a sensing electrode in electrical communication with the cell.
+</P>
+<P>
+16. The article of claim 15, wherein the sensing electrode is a nanoscale wire.
+</P>
+<P>
+17. A method, comprising: passing electrical current through a nanoscale wire in physical contact with a cell.
+</P>
+<P>
+18. The method of claim 17, comprising electrically stimulating the cell with the nanoscale wire.
+</P>
+<P>
+19. The method of claim 17, wherein the cell is a neuron.
+</P>
+<P>
+20. The method of claim 19, comprising passing sufficient electrical current through the nanoscale wire that the neuron depolarizes.
+</P>
+<P>
+21. The method of claim 17, further comprising exposing the cell to a chemical species suspected of being able to alter an electrical state of the cell.
+</P>
+<P>
+22. The method of claim 17, further comprising recording an electrical response in the cell due to the electrical current.
+</P>
+<P>
+23. The method of claim 22, wherein the electrical response is an action potential.
+</P>
+<P>
+24. A method, comprising: determining an electrical state of a cell using a nanoscale wire.
+</P>
+<P>
+25. The method of claim 24, wherein the cell is a neuron.
+</P>
+<P>
+26. The method of claim 25, comprising determining an electrical state of an axon of the neuron.
+</P>
+<P>
+27. The method of claim 25, comprising determining an electrical state of a dendrite of the neuron.
+</P>
+<P>
+28. The method of claim 25, comprising determining an electrical state of a soma of the neuron.
+</P>
+<P>
+29. The method of claim 25, comprising determining an action potential of the cell using the nanoscale wire.
+</P>
+<P>
+30. The method of claim 24, comprising recording the electrical state of a cell using a plurality of nanoscale wires.
+</P>
+<P>
+31. The method of claim 30, comprising recording the electrical state of a cell using at least 10 nanoscale wires.
+</P>
+<P>
+32. The method of claim 30, comprising recording the electrical state of a cell using at least 40 nanoscale wires.
+</P>
+<P>
+33. An article, comprising: a cell; a first electrode in electrical communication with the cell; and a second electrode in electrical communication with the cell, wherein the first electrode and the second electrode are separated by a distance of no more than about 200 nm.
+</P>
+<P>
+34. The article of claim 33, wherein the first electrode and the second electrode are separated by a distance of no more than about 150 nm.
+</P>
+<P>
+35. The article of claim 33, wherein the first electrode and the second electrode are separated by a distance of no more than about 100 nm.
+</P>
+<P>
+36. An article, comprising: a surface of a substrate; a plurality of nanoscale wires substantially parallel on the substrate; and a cell adhesion factor deposited on at least a portion of the substrate.
+</P>
+<P>
+37. The article of claim 36, wherein the cell adhesion factor comprises polylysine.
+</P>
+<P>
+38. A method, comprising: depositing cell adhesion factor on a substrate comprising nanoscale wires.
+</P>
+<P>
+39. An article, comprising: a first electrical connector, a second electrical connector, and a nanoscale wire in physical contact with both the first electrical connector and the second electrical connector; and a cell in physical contact with the nanoscale wire.
+</P>
+<P>
+40. The article of claim 39, wherein the article comprises a plurality of first electrical connectors, second electrical connectors, and nanoscale wires, the cell being in physical contact with at least some of the plurality of nanoscale wires.
+</P>
+<P>
+41. The article of claim 40, wherein the first electrical connectors are substantially parallel to each other and the second electrical connectors are substantially parallel to each other.
+</P>
+<P>
+42. The article of claim 39, wherein the cell is a neuron.
+</P>
+<P>
+43. An article, comprising: a cell; and at least 3 electrodes, each in electrical communication with the cell, each electrode independently measuring a distinct region of the cell.
+</P>
+<P>
+44. The article of claim 43, wherein the article comprises at least 4 electrodes, each in electrical communication with the cell, each electrode independently measuring a distinct region of the cell.
+</P>
+<P>
+45. The article of claim 43, wherein the article comprises at least 10 electrodes, each in electrical communication with the cell, each electrode independently measuring a distinct region of the cell.
+</P>
+<P>
+46. The article of claim 43, wherein the article comprises at least 25 electrodes, each in electrical communication with the cell, each electrode independently measuring a distinct region of the cell.
+</P>
+<P>
+47. The article of claim 43, wherein the article comprises at least 40 electrodes, each in electrical communication with the cell, each electrode independently measuring a distinct region of the cell.
+</P>
+<P>
+48. The article of claim 43, wherein at least one of the electrodes comprises a nanoscale wire.
+</P>
+<P>
+49. An article, comprising: a cell; a first electrode comprising a p-type material in electrical communication with the cell; and a second electrode comprising an n-type material in electrical communication with the cell.
+</P>
+<P>
+50. The article of claim 49, further comprising a third electrode comprising a p-type material in electrical communication with the cell.
+</P>
+<P>
+51. The article of claim 50, further comprising a fourth electrode comprising an n- type material in electrical communication with the cell.
+</P>
+<P>
+52. An article, comprising: a logic gate that can be deactivated upon exposure to a neurotoxin.
+</P>
+<P>
+53. The article of claim 52, wherein the neurotoxin comprises tetrodotoxin.
+</P>
+<P>
+54. The article of claim 52, wherein the logic gate is a NOR logic gate.
+</P>
+</Claims>
+<Also_published_as>
+WO2008027078A2;WO2008027078A3;US2009299213A1;JP2009540798A;CA2643997A1;AU2007290835A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ORGANIC HYBRID PLANAR- NANOCRYSTALLINE BULK HETEROJUNCTIONS
+</Title>
+<PublicationNumber>
+EP2089921A2
+</PublicationNumber>
+<Inventor>
+<Name>
+FORREST STEPHEN R [US]
+</Name>
+<Name>
+YANG FAN [US]
+</Name>
+<Name>
+FORREST, STEPHEN R
+</Name>
+<Name>
+YANG, FAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV PRINCETON [US]
+</Name>
+<Name>
+UNIV MICHIGAN [US]
+</Name>
+<Name>
+THE TRUSTEES OF PRINCETON UNIVERSITY
+</Name>
+<Name>
+THE REGENTS OF THE UNIVERSITY OF MICHIGAN
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2089921
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070867442
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US23912
+</PriorityNumber>
+<PriorityDate>
+2007-11-13
+</PriorityDate>
+<PriorityNumber>
+US20060561448
+</PriorityNumber>
+<PriorityDate>
+2006-11-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L27/30B2
+</Class>
+<Class>
+H01L51/42F2
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+A photosensitive optoelectronic device having an improved hybrid planar bulk heterojunction includes a plurality of photoconductive materials disposed between the anode and the cathode. The photoconductive materials include a first continuous layer of donor material and a second continuous layer of acceptor material. A first network of donor material or materials extends from the first continuous layer toward the second continuous layer, providing continuous pathways for conduction of holes to the first continuous layer. A second network of acceptor material or materials extends from the second continuous layer toward the first continuous layer, providing continuous pathways for conduction of electrons to the second continuous layer. The first network and the second network are interlaced with each other.;  At least one other photoconductive material is interspersed between the interlaced networks. This other photoconductive material or materials has an absorption spectra different from the donor and acceptor materials.
+</Abstract>
+<Claims>
+<P>
+1. A photosensitive optoelectronic device, comprising:
+</P>
+<P>
+an anode and a cathode;
+</P>
+<P>
+a plurality of organic photoconductive materials disposed between the anode and the cathode, including
+</P>
+<P>
+a first continuous layer of donor material and a second continuous layer of acceptor material;
+</P>
+<P>
+a first network of donor material or materials extending from the first continuous layer toward the second continuous layer, providing continuous pathways for conduction of holes to the first continuous layer, and a second network of acceptor material or materials extending from the second continuous layer toward the first continuous layer, providing continuous pathways for conduction of electrons to the second continuous layer, wherein the first network and the second network are interlaced with each other; and
+</P>
+<P>
+at least one other organic photoconductive material interspersed between the interlaced networks, said at least one other organic photoconductive material having an absorption spectra different from the donor and acceptor materials.
+</P>
+<P>
+2. The photosensitive optoelectronic device of claim 1, wherein of the first network, the second network, and said at least one other organic photoconductive material interspersed between the interlaced networks each consist essentially of plural crystallites of the respective organic photoconductive material.
+</P>
+<P>
+3. The photosensitive optoelectronic device of claim 2, wherein each of the crystallites has no dimension greater than 100 nm.
+</P>
+<P>
+4. The photosensitive optoelectronic device of claim 1, wherein said at least one other organic photoconductive material interspersed between the interlaced networks include an organic photoconductive material having a wider bandgap than the donor and acceptor materials.
+</P>
+<P>
+5. The photosensitive optoelectronic device of claim 1, wherein said at least one other organic photoconductive material interspersed between the interlaced networks include an organic photoconductive material having a narrower bandgap than the donor and acceptor materials.
+</P>
+<P>
+6. The photosensitive optoelectronic device of claim 1, wherein said at least one other organic photoconductive material includes a first sensitizer,
+</P>
+<P>
+the first sensitizer having a HOMO that is less than a HOMO of the donor material of the first continuous layer and greater than a HOMO of the acceptor material of the second continuous layer; and
+</P>
+<P>
+the first sensitizer has a LUMO that is less than a LUMO of the donor material of the first continuous layer and greater than a LUMO of the acceptor material of the second continuous layer.
+</P>
+<P>
+7. The photosensitive optoelectronic device of claim 1, wherein said at least one other organic photoconductive material includes a first sensitizer and a second sensitizer, the first sensitizer and the second sensitizer having absorption spectra different from the donor and acceptor materials, and different from each other.
+</P>
+<P>
+8. The photosensitive optoelectronic device of claim 1, wherein the first continuous layer and the first network are composed of a same donor material.
+</P>
+<P>
+9. The photosensitive optoelectronic device of claim 1, wherein the second continuous layer and the second network are composed of a same acceptor material.
+</P>
+<P>
+10. The photosensitive optoelectronic device of claim 1, wherein at least portions of the first network include a donor material different from the donor material of the first continuous layer.
+</P>
+<P>
+11. The photosensitive optoelectronic device of claim 1, wherein at least portions of the second network include an acceptor material different from the acceptor material of the second continuous layer.
+</P>
+<P>
+12. The photosensitive optoelectronic device of claim 1, wherein said at least one other organic photoconductive material comprises a plurality of sensitizers interspersed with a repeating pattern between the first continuous layer and the second continuous layer.
+</P>
+<P>
+13. The photosensitive optoelectronic device of claim 1, further comprising at least one exciton blocking layer arranged between the anode and the first continuous layer, and/or arranged between the cathode and the second continuous layer.
+</P>
+<P>
+14. A method of fabricating a photosensitive optoelectronic device, comprising:
+</P>
+<P>
+depositing a first organic photoconductive material over a first electrode to form a first continuous layer;
+</P>
+<P>
+depositing at least three discontinuous layers of photoconductive material directly over the first continuous layer, material of each discontinuous layer being in direct contact with material of at least one adjacent discontinuous layer, portions of an underlying layer or layers being exposed through gaps in each respective discontinuous layer;
+</P>
+<P>
+depositing a second organic photoconductive material directly over the discontinuous layers to form a second continuous layer, filling exposed gaps and recesses in the discontinuous layers; and
+</P>
+<P>
+depositing a second electrode over the second continuous layer, wherein
+</P>
+<P>
+at least one of the discontinuous layers and one of the continuous layers are composed of donor materials and form continuous pathways for conduction of holes therebetween,
+</P>
+<P>
+at least one of the discontinuous layers and an other of the continuous layers are composed of acceptor materials and form continuous pathways for conduction of electrons therebetween, and
+</P>
+<P>
+at least one of the discontinuous layers is composed of a third organic photoconductive material having an absorption spectra different from the donor and acceptor materials.
+</P>
+<P>
+15. The method of claim 14, wherein during the depositing of each respective discontinuous layer, each growth area of photoconductive material within the discontinuous layer contributes no more than 100 nm of growth in any dimension.
+</P>
+<P>
+16. The method of claim 15, wherein each growth area forms a crystallite of the respective organic photoconductive material.
+</P>
+<P>
+17. The method of claim 16, wherein crystallite nucleation during deposition of each discontinuous layer occurs at an interface with an underlying layer.
+</P>
+<P>
+18. The method of claim 14, wherein the third photoconductive material has a wider bandgap than the donor and acceptor materials.
+</P>
+<P>
+19. The method of claim 14, wherein the third photoconductive material has a narrower bandgap than the donor and acceptor materials.
+</P>
+<P>
+20. The method of claim 14, wherein the first photoconductive material is an acceptor and the second photoconductive material is a donor;
+</P>
+<P>
+the third photoconductive material has a HOMO that is greater than a HOMO of the first organic photoconductive material and less than a HOMO of the second organic photoconductive material; and
+</P>
+<P>
+the third photoconductive material has a LUMO that is greater than a LUMO of the first organic photoconductive material and less than a LUMO of the second organic photoconductive material.
+</P>
+<P>
+21. The method of claim 14, wherein the first photoconductive material is a donor and the second photoconductive material is an acceptor;
+</P>
+<P>
+the third photoconductive material has a HOMO that is less than a HOMO of the first organic photoconductive material and greater than a HOMO of the second organic photoconductive material; and
+</P>
+<P>
+the third photoconductive material has a LUMO that is less than a LUMO of the first organic photoconductive material and greater than a LUMO of the second organic photoconductive material.
+</P>
+<P>
+22. The method of claim 14, wherein the discontinuous layers include at least one layer of a fourth photoconductive material having an absorption spectra different from the donor materials, the acceptor materials, and the third photoconductive material.
+</P>
+<P>
+23. The method of claim 14, wherein a same donor material is used to form one of the continuous layers and at least one of the discontinuous layers.
+</P>
+<P>
+24. The method of claims 14, wherein a same acceptor material is used to form one of the continuous layers and at least one of the discontinuous layers.
+</P>
+<P>
+25. The method of claim 14, wherein depositing the discontinuous layers comprises repeating deposition of a sequence of plural photoconductive materials multiple times.
+</P>
+<P>
+26. The method of claim 14, further comprising depositing at least one exciton blocking layer between the first electrode and the first continuous layer, and/or between the second electrode and the second continuous layer.
+</P>
+<P>
+27. The method of claim 14, wherein said at least one discontinuous layer composed of a donor material and forming conductive pathways with one of the continuous layer includes a first plurality of discontinuous layers, and wherein said at least one discontinuous layer composed of an acceptor material and forming conductive pathways with the other continuous layer includes a second plurality of discontinuous layers.
+</P>
+</Claims>
+<Also_published_as>
+US2008116536A1;US7897429B2;US2011204416A1;WO2008063519A2;WO2008063519A3;WO2008063519A9;TW200832772A;KR20090091781A;JP2010510657A;EP2416394A1;CN101652876A;CN101652876B;CA2670466A1;AU2007322040A1
+</Also_published_as>
+</BiblioData>

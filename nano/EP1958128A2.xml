@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC TAGGING TECHNIQUES
+</Title>
+<PublicationNumber>
+EP1958128A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BLAND JAMES ANTHONY CHARLES [GB]
+</Name>
+<Name>
+LLANDRO JUSTIN [GB]
+</Name>
+<Name>
+ZHELUDEV NIKOLAY [GB]
+</Name>
+<Name>
+VAN BELLE FRIEDA [GB]
+</Name>
+<Name>
+TRYPINIOTIS THEODOSSIS [CY]
+</Name>
+<Name>
+KOPPER KLAUS PETER [DE]
+</Name>
+<Name>
+STEINMULLER STEPHEN [DE]
+</Name>
+<Name>
+MITRELIAS ATHANASIOS [GR]
+</Name>
+<Name>
+BLAND, JAMES, ANTHONY, CHARLES
+</Name>
+<Name>
+LLANDRO, JUSTIN
+</Name>
+<Name>
+ZHELUDEV, NIKOLAY
+</Name>
+<Name>
+VAN BELLE, FRIEDA
+</Name>
+<Name>
+TRYPINIOTIS, THEODOSSIS
+</Name>
+<Name>
+KOPPER, KLAUS, PETER
+</Name>
+<Name>
+STEINMULLER, STEPHEN
+</Name>
+<Name>
+MITRELIAS, ATHANASIOS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV CAMBRIDGE TECH [GB]
+</Name>
+<Name>
+UNIV SOUTHAMPTON [GB]
+</Name>
+<Name>
+CAMBRIDGE UNIVERSITY TECHNICAL SERVICES LIMITED
+</Name>
+<Name>
+UNIVERSITY OF SOUTHAMPTON
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1958128
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060808770
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006GB50406
+</PriorityNumber>
+<PriorityDate>
+2006-11-21
+</PriorityDate>
+<PriorityNumber>
+GB20050023631
+</PriorityNumber>
+<PriorityDate>
+2005-11-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+B01L3/00
+</Class>
+<Class>
+B07C3/16
+</Class>
+<Class>
+B07C5/34
+</Class>
+<Class>
+G01N35/00
+</Class>
+<Class>
+G06K19/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01L3/5027H
+</Class>
+<Class>
+B07C5/34B
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G06K19/06M
+</Class>
+</NCL>
+<Abstract>
+This invention relates to microfluidic apparatus for reading, writing and sorting magnetic tags attached to chemical and biological molecules and other entities. We describe apparatus for separating chemical or biological molecules or moieties each individually attached to a MBM tag miniature multi-bit magnetic tag capable of adopting a plurality of remanent magnetic configurations corresponding to binary information, the apparatus comprising: at least one input for said tagged molecules or moieties;  at least two outputs for said tagged molecules or moieties;  a microfluidic flow channel incorporating: magnetic readers to read said binary information;  magnetic writers to write said binary information;  and a switch to direct said tagged molecules or moieties to a selected said output responsive to said binary information.
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. Apparatus for separating chemical or biological molecules or moieties or biological entities each individually attached to a multi-bit magnetic tag capable of adopting a plurality of remanent magnetic configurations corresponding to binary information, the apparatus comprising: at least one input for said tagged molecules or moieties or entities; at least two outputs for said tagged molecules or moieties or entities; at least one reader to read said binary information; and a switch to direct said tagged molecules or moieties or entities to a selected said output responsive to said binary information.
+</P>
+<P>
+2. Apparatus as claimed in claim 1 further comprising: a microfiuidic flow channel incorporating: one or more magnetic readers to read said binary information; and one or more magnetic writers to write said binary information.
+</P>
+<P>
+3. Apparatus as claimed in claim 2 further comprising one or both of strip lines and electrodes to control one or both of the position and orientation of the tags via electric or magnetic fields.
+</P>
+<P>
+4. An apparatus as claimed in claim 1, 2 or 3 further comprising a writer to write said read information back to a tag from which the information was read.
+</P>
+<P>
+5. An apparatus as claimed in claim 1, 2, 3 or 4 wherein said switch comprises an electromagnet to deflect a said tagged object.
+</P>
+<P>
+6. An apparatus as claimed in any one of claims 1 to 5 wherein a said reader comprises a sensor to sense the initial configuration of the tag, an electromagnet to apply a magnetic field to said tag and ramped in increasing strength and a sensor to monitor switching of magnetic regions in said tag as said field strength is increased.
+</P>
+<P>
+7. An apparatus as claimed in any one of claims [iota] to 6 wherein a said writer comprises an electromagnet to apply a magnetic field to said tag ramped in decreasing strength.
+</P>
+<P>
+8. An apparatus as claimed in any one of claims 1 to 7 including a plurality of channels between said input and said outputs.
+</P>
+<P>
+9. A chain of apparatus each as claimed in any one of claims 1 to 8.
+</P>
+<P>
+10. A micro fluidic chip comprising apparatus as claimed in any one of claims 1 to 9
+</P>
+<P>
+11. A microfiuidic chip as claimed in claim 10 including a fluid channel from said input past said reader to said outputs, and wherein said channel includes a constriction to limit flow of said tags such that they pass said reader substantially one at a time.
+</P>
+<P>
+12. A microfiuidic chip as claimed in claim 11 wherein said constriction has a maximum lateral dimension of 200 microns.
+</P>
+<P>
+13. A method of writing information onto a magnetic tag flowing within a microfiuidic channel, the said tag having a plurality of magnetically switchable regions for storing said information, said regions being separately switchable at different strengths of an external applied field, the method comprising: controlling said external applied field to set each said region in turn into a bistable magnetic state, in order of decreasing external applied field strength.
+</P>
+<P>
+14. A method of writing information onto a magnetic tag flowing within a microfiuidic channel, the said tag having a plurality of magnetically switchable regions for storing said information, said regions being separately switchable at different strengths of an external applied field, the method comprising: applying a set of external applied fields to said tag, each field of said set of applied fields comprising a field of sufficient strength to switch ones of said regions having switching strengths equal to or less than the field strength, said applying comprising applying said fields in turn from a strongest field to a weakest field, whereby after each said field application one or more of said regions is switched to a magnetic state which is substantially unaffected by subsequently applied fields of the set.
+</P>
+<P>
+15. Apparatus for writing information onto a magnetic tag having a plurality of magnetically switchable regions for storing said information, said regions being separately switchable at different strengths of an external applied field, the apparatus comprising means for controlling said external applied field to set each said region in turn into a said bistable magnetic state, in order of decreasing external applied field strength.
+</P>
+<P>
+16. Apparatus for writing information onto a magnetic tag, the tag having a plurality of magnetically switchable regions for storing said information, said regions being separately switchable at different strengths of an external applied field, the apparatus comprising means for applying a set of external applied fields to said tag, each field of said set of applied fields comprising a field of sufficient strength to switch ones of said regions having switching strengths equal to or less than the field strength, said applying comprising applying said fields in turn from a strongest field to a weakest field, whereby after each said field application one or more of said regions is switched to a magnetic state which is substantially unaffected by subsequently applied fields of the set.
+</P>
+<P>
+17. A method of reading information from a magnetic tag having a plurality of magnetically switchable regions storing said information, said regions being separately switchable at different strengths of an external applied field, the method comprising: applying an external applied field to said plurality of switchable regions simultaneously in increasing strength from a strength below a smallest switching strength of a said region to above a greatest switching strength of a said region; and monitoring switching of said regions as said field is increased by monitoring the net magnetic dipole field of said tag.
+</P>
+<P>
+18. A method as claimed in claim 17 wherein said applying comprises applying said applied field in a sweep including strengths intermediate between said switching strengths of said regions.
+</P>
+<P>
+19. A method of reading information from a magnetic tag having a plurality of magnetically switchable regions storing said information, said regions being separately switchable at different strengths of an external applied field, the method comprising magneto-optical detection of the tag moment.
+</P>
+<P>
+20. Apparatus for reading information from a magnetic tag having a plurality of magnetically switchable regions storing said information, said regions being separately switchable at different strengths of an external applied field, the apparatus comprising: means for applying an external applied field to said plurality of switchable regions simultaneously in increasing strength from a strength below a smallest switching strength of a said region to above a greatest switching strength of a said region; and means for monitoring switching of said regions as said field is increased by monitoring the magnetic moment of said tag.
+</P>
+<P>
+21. Apparatus as claimed in claim 20 wherein said means for applying said field . comprises means for applying said applied field in a set of discrete strengths including strengths intermediate between said switching strengths of said regions.
+</P>
+<P>
+22. A miniature magnetic tag for tagging a chemical or biological molecule or moiety or a biological entity, the tag being configured to store a plurality of bits of binary information, the tag comprising: a plurality of physically separate regions of switchable magnetic material; and wherein said switchable magnetic material regions are bistably switchable between at least two different magnetised states by means of an external applied field.
+</P>
+<P>
+23. A magnetic tag as claimed in claim 22 wherein said separate magnetically switchable regions are separately switchable at different strengths of said external applied field; and wherein binary coded data is both writable onto said tag and readable from said tag by controlling said external applied field when applied to the tag as a whole.
+</P>
+<P>
+24. A tag as claimed in claim 22 or 23 wherein said separate regions of switchable magnetic material include regions of the same material and differing in one or both of thickness or size.
+</P>
+<P>
+25. A tag as claimed in claim 22, 23 or 24 wherein said separate regions of switchable magnetic material include regions of different magnetic material compositions.
+</P>
+<P>
+26. A tag as claimed in any one of claims 22 to 25 wherein said regions yield a magnetic configuration which is stable in the absence of an applied field i.e. at remanence.
+</P>
+<P>
+27. A tag as claimed in any one of claims 22 to 26 wherein said magnetic material has a well defined response to a magnetic field which is repeatable.
+</P>
+<P>
+28. A tag as claimed in any one of claims 22 to 27 wherein the shape of each region may be circular, elliptical, ring shaped, square, diamond shaped or triangular or a combination thereof.
+</P>
+<P>
+29. A tag as claimed in any one of claims 22 to 28 further comprising a molecular tether for tethering said tag to a chemical or biological molecule or moiety, or to a biological entity.
+</P>
+<P>
+30. A multibit magnetically encoded tag, as claimed in any one of claims 22 to 29, with a plurality of bits wherein said plurality of bits comprises at least 5 bits, preferably at least 10 or 20 bits.
+</P>
+<P>
+31. A tag as claimed in any one of claims 22 to 30 wherein said tag has a shape suitable for hydrodynamic flow.
+</P>
+<P>
+32. A tag as claimed in any one of claims 22 to 31 wherein said tag has a maximum dimension of 50 microns, most preferably 10 microns.
+</P>
+</Claims>
+<Also_published_as>
+WO2007057718A2;WO2007057718A3;US2009212768A1
+</Also_published_as>
+</BiblioData>

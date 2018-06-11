@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+FERROMAGNETIC SEMICONDUCTOR, METHOD FOR THE PRODUCTION THEREOF, COMPONENTS INCORPORATING THE SAME, AND CORRESPONDING USES OF SAID SEMICONDUCTOR
+</Title>
+<PublicationNumber>
+EP1989716A1
+</PublicationNumber>
+<Inventor>
+<Name>
+JAMET MATTHIEU [FR]
+</Name>
+<Name>
+SAMSON YVES [FR]
+</Name>
+<Name>
+BARSKI ANDRE [FR]
+</Name>
+<Name>
+DEVILLERS THIBAUT [FR]
+</Name>
+<Name>
+JAMET, MATTHIEU
+</Name>
+<Name>
+SAMSON, YVES
+</Name>
+<Name>
+BARSKI, ANDRE
+</Name>
+<Name>
+DEVILLERS, THIBAUT
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1989716
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070730902
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007FR00186
+</PriorityNumber>
+<PriorityDate>
+2007-02-01
+</PriorityDate>
+<PriorityNumber>
+FR20060001149
+</PriorityNumber>
+<PriorityDate>
+2006-02-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01F1/40
+</Class>
+<Class>
+H01F10/193
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+C30B23/06B
+</Class>
+<Class>
+C30B29/52
+</Class>
+<Class>
+G01R33/09
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+H01F10/193
+</Class>
+<Class>
+H01F41/30
+</Class>
+</NCL>
+<Abstract>
+La présente invention concerne un semi-conducteur ferromagnétique du groupe IV, son procédé de fabrication, un composant électronique de type diode pour l&apos;injection ou la collecte de spins dans ou depuis un autre semi-conducteur, respectivement, ou bien de type élément sensible à un champ magnétique, et des utilisations de ce semi-conducteur relatives à ce composant.Un semi-conducteur ferromagnétique (1) selon l&apos;invention comprend au moins un élément magnétique choisi dans le groupe constitué par Mn, Fe, Co, Ni et Cr, et il présente une température de Curie égale ou supérieure à 350 K et avantageusement égale ou supérieure à 400 K.;  Ce semi-conducteur présente une matrice (4) pauvre en élément(s) magnétique(s), à l&apos;intérieur de laquelle est formée une phase discontinue formée de colonnes (3) qui est riche en élément(s) magnétique(s) et qui est ferromagnétique jusqu&apos;à cette température de Curie, de sorte à générer une modulation latérale de la composition dudit semi-conducteur dans le plan de ladite couche mince.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1) Semi-conducteur ferromagnétique (1) du groupe IV comprenant au moins un élément magnétique choisi dans le groupe constitué par le manganèse, le fer, le cobalt, le nickel et le chrome, caractérisé en ce qu&apos;il présente une température de Curie égale ou supérieure à 350 K.
+</P>
+<P>
+2) Semi-conducteur ferromagnétique (1) selon la revendication 1, caractérisé en ce qu&apos;il présente une température de Curie égale ou supérieure à 400 K.
+</P>
+<P>
+3) Semi-conducteur ferromagnétique (1) selon la revendication 1 ou 2, caractérisé en ce qu&apos;il présente un effet Hall extraordinaire (EHE) à une température supérieure à 300 K.
+</P>
+<P>
+4) Semi-conducteur ferromagnétique (1) selon une des revendications précédentes, caractérisé en ce que ledit ou l&apos;un au moins 15 desdits élément(s) magnétique(s) est le manganèse.
+</P>
+<P>
+5) Semi-conducteur ferromagnétique (1) selon une des revendications précédentes, caractérisé en ce qu&apos;il est à base d&apos;au moins un autre élément choisi dans le groupe constitué par le germaniium, le silicium et leurs alliages. 20
+</P>
+<P>
+6) Semi-conducteur ferromagnétique (1) selon les revendications 4 et 5, caractérisé en ce qu&apos;il est à base de germanium et de manganèse.
+</P>
+<P>
+7) Semi-conducteur ferromagnétique (1) selon la revendication 6, caractérisé en ce qu&apos;il est totalement dépourvu de phase 25 métallique de formule Ge3Mn5.
+</P>
+<P>
+8) Semi-conducteur ferromagnétique (1) selon une des revendications précédentes, ledit semi-conducteur formant une couche mince, caractérisé en ce qu&apos;il présente une matrice (4) pauvre en cet ou ces élément(s) magnétique(s), à l&apos;intérieur de laquelle est formée une phase 30 discontinue (3) qui est riche en cet ou ces élément(s) magnétique(s) et qui est ferromagnétique jusqu&apos;à ladite température de Curie, de sorte à générer unemodulation latérale de la composition dudit semi-conducteur dans le plan de ladite couche mince.
+</P>
+<P>
+9) Semi-conducteur ferromagnétique (1) selon la revendication 8, caractérisé en ce que la fraction atomique de cet ou ces 5 élément(s) magnétique(s) dans ladite phase (3) est comprise entre 5 % et 50%.
+</P>
+<P>
+10) Semi-conducteur ferromagnétique (1) selon les revendications 6 et 9, caractérisé en ce que la fraction atomique de cet ou ces élément(s) magnétique(s) dans ladite phase (3) et dans ladite matrice (4) est 10 comprise entre 20 % et 40 % et entre 1 % et 10 %, respectivement.
+</P>
+<P>
+11) Semi-conducteur ferromagnétique (1) selon une des revendications 8 à 10, caractérisé en ce que ladite phase (3) comprend une répartition irrégulière de zones volumiques riches en cet ou ces élément(s) magnétique(s) qui sont séparées entre elles par ladite matrice (4). 15
+</P>
+<P>
+12) Semi-conducteur ferromagnétique (1) selon la revendication 11, caractérisé en ce que lesdites zones volumiques sont respectivement formées par des colonnes (3) sensiblement perpendiculaires à la surface de ladite couche mince.
+</P>
+<P>
+13) Semi-conducteur ferromagnétique (1) selon la 20 revendication 12, caractérisé en ce que lesdites colonnes (3) présentent un diamètre moyen compris entre 1 nm et 10 nm, pour une épaisseur de ladite couche mince comprise entre 60 nm et 100 nm.
+</P>
+<P>
+14) Semi-conducteur ferromagnétique (1) selon la revendication 13, caractérisé en ce que lesdites colonnes (3) sont séparées 25 entre elles d&apos;une distance moyenne comprise entre 5 nm et 15 nm.
+</P>
+<P>
+15) Procédé de fabrication d&apos;un semi-conducteur ferromagnétique (1) selon une des revendications précédentes, caractérisé en ce qu&apos;il consiste en une épitaxie par jets moléculaires comprenant un dépôt simultané d&apos;au moins un élément magnétique choisi dans le groupe constitué 30 par le manganèse, le fer, le cobalt, le nickel et le chrome et d&apos;au moins un autre élément choisi dans le groupe IVA de la classification périodique, sur un substrat dont la température pendant la croissance des cristaux est compriseentre 80 C et 200 C, pour l&apos;obtention d&apos;une couche mince dudit semi-conducteur du groupe IV.
+</P>
+<P>
+16) Procédé de fabrication selon la revendication 15, caractérisé en ce qu&apos;on réalise ledit dépôt desdits éléments en utilisant un rapport moyen [vitesse de dépôt du ou des élément(s) magnétique(s) / vitesses totales de dépôt desdits éléments] qui est compris entre 5 % et 10 %.
+</P>
+<P>
+17) Procédé de fabrication selon la revendication 15 ou 16, caractérisé en ce que ledit ou l&apos;un au moins desdits élément(s) magnétique(s) est le manganèse.
+</P>
+<P>
+18) Procédé de fabrication selon la revendication 17, caractérisé en ce que le(s)dit(s) autre(s) élément(s) déposés simultanément sont le germanium, le silicium ou un alliage de ces derniers.
+</P>
+<P>
+19) Procédé de fabrication selon les revendications 17 et 18, caractérisé en ce que ledit élément magnétique et ledit autre élément déposés simultanément sont respectivement le manganèse et le germanium, pour l&apos;obtention d&apos;un semi-conducteur (1) à base de germanium et de manganèse.
+</P>
+<P>
+20) Procédé de fabrication selon la revendication 19, caractérisé en ce qu&apos;il comprend un dépôt sur ledit substrat d&apos;une couche tampon de germanium, antérieurement audit dépôt simultané de 2.0 germanium et de manganèse pour l&apos;obtention de ladite couche mince.
+</P>
+<P>
+21) Procédé de fabrication selon une des revendications 15 à 20, caractérisé en ce que ledit substrat est à base d&apos;un matériau choisi dans le groupe constitué par le germanium, le silicium et les alliages de ces derniers.
+</P>
+<P>
+22) Composant électronique (C) de type diode pour l&apos;injection ou la collecte de spins dans ou depuis un autre semi-conducteur, respectivement, ou bien de type élément sensible à un champ magnétique, caractérisé en ce qu&apos;il comporte un semi-conducteur ferromagnétique (1) selon une des revendications 1 à 14.
+</P>
+<P>
+23) Composant électronique (C) selon la revendication 22, ledit composant étant de type diode pour l&apos;injection ou la collecte de spins dans ou depuis un autre semi-conducteur, caractérisé en ce qu&apos;il comporte : 25 30 18 - une première couche mince formée d&apos;un premier semi- conducteur ferromagnétique (1), - une seconde couche mince (2) formée d&apos;un second semi-conducteur à base de silicium, de germanium ou d&apos;un de leurs alliages, au contact de laquelle est appliquée ladite première couche mince, et - une source de courant de porteurs couplée à ladite première couche pour, dans un premier cas, en extraire sélectivement un courant polarisé en spin et pour l&apos;injecter dans ladite seconde couche ou bien, dans un second cas, pour extraire sélectivement un courant polarisé en spin de ladite seconde couche et l&apos;injecter dans ladite première couche, caractérisé en ce que ledit premier semi-conducteur est tel que défini à l&apos;une des revendications 7 à 14, pour que ladite phase ferromagnétique et riche en élément(s) magnétique(s) dudit premier semi-conducteur émette ou reçoive ce courant polarisé en spin vers ou depuis ledit second semi-conducteur, respectivement selon lesdits premier ou second cas.
+</P>
+<P>
+24) Composant électronique (C) selon la revendication 23, caractérisé en ce que ledit premier semi-conducteur ferromagnétique (1) est tel que défini à l&apos;une des revendications 11 à 14, pour que lesdites première et seconde couche minces (1 et 2) appliquées l&apos;une sur l&apos;autre forment une diode d&apos;Esaki à effet tunnel, dans laquelle lesdites colonnes (3) et ladite matrice (4) de ladite première couche forment respectivement des jonctions passantes (5) et des jonctions bloquantes (6) avec ladite seconde couche.
+</P>
+<P>
+25) Composant électronique sensible à un champ magnétique selon la revendication 22, notamment pour constituer un capteur de champ magnétique, caractérisé en ce qu&apos;il comporte une couche mince formée d&apos;un semi-conducteur ferromagnétique (1) selon une des revendications 1 à 14, pour la détection ou la mesure dudit champ par mesure d&apos;un effet de magnétorésistance vis-à-vis d&apos;un champ magnétique appliqué perpendiculairement à ladite couche mince ou dans le plan de cette dernière.
+</P>
+<P>
+26) Utilisation d&apos;un semi-conducteur ferromagnétique (1) selon une des revendications 1 à 14 pour injecter ou collecter par contact un courant de porteurs polarisés en spins, respectivement dans ou depuis un 19 autre semi-conducteur à base de silicium, de germanium ou d&apos;un alliage de ces derniers, à une température égale ou supérieure à 350 K et pouvant être égale ou supérieure à 400 K.
+</P>
+<P>
+27) Utilisation d&apos;un semi-conducteur ferromagnétique (1) selon une des revendications 1 à 14 pour mesurer un champ magnétique par mesure d&apos;un effet de magnétorésistance dans ledit semi-conducteur, lequel présente les propriétés de magnétorésistance recherchées jusqu&apos;à une température égale ou supérieure à 350 K et pouvant être égale ou supérieure à 400 K.
+</P>
+</Claims>
+<Also_published_as>
+FR2897195A1;US2009230954A1;WO2007090946A1
+</Also_published_as>
+</BiblioData>

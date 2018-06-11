@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CONDUCTING FORMULATION
+</Title>
+<PublicationNumber>
+EP2201622A1
+</PublicationNumber>
+<Inventor>
+<Name>
+JAMES MARK [GB]
+</Name>
+<Name>
+MCCULLOCH IAIN [GB]
+</Name>
+<Name>
+DUFFY WARREN [GB]
+</Name>
+<Name>
+MAY PHILIP EDWARD [GB]
+</Name>
+<Name>
+WALKER DAN [GB]
+</Name>
+<Name>
+WALLER DAVID P [US]
+</Name>
+<Name>
+CHILDERS RICHARD KENDALL [US]
+</Name>
+<Name>
+RODMAN SHEILA E [US]
+</Name>
+<Name>
+JAMES, MARK
+</Name>
+<Name>
+MCCULLOCH, IAIN
+</Name>
+<Name>
+DUFFY, WARREN
+</Name>
+<Name>
+MAY, PHILIP, EDWARD
+</Name>
+<Name>
+WALKER, DAN
+</Name>
+<Name>
+WALLER, DAVID, P
+</Name>
+<Name>
+CHILDERS, RICHARD, KENDALL
+</Name>
+<Name>
+RODMAN, SHEILA, E
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MERCK PATENT GMBH [DE]
+</Name>
+<Name>
+KONARKA TECHNOLOGIES GMBH [DE]
+</Name>
+<Name>
+MERCK PATENT GMBH
+</Name>
+<Name>
+KONARKA TECHNOLOGIES GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2201622
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080802404
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-09-19
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP07896
+</PriorityNumber>
+<PriorityDate>
+2008-09-19
+</PriorityDate>
+<PriorityNumber>
+EP20070020363
+</PriorityNumber>
+<PriorityDate>
+2007-10-18
+</PriorityDate>
+<PriorityNumber>
+EP20080802404
+</PriorityNumber>
+<PriorityDate>
+2008-09-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00A2B
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+The invention relates to novel formulations comprising an organic semiconductor (OSC) and a conductive additive, to their use as conducting inks for the preparation of organic electronic (OE) devices, especially organic photovoltaic (OPV) cells, to methods for preparing OE devices using the novel formulations, and to OE devices and OPV cells prepared from such methods and formulations.
+</Abstract>
+<Claims>
+<P>
+Patent Claims
+</P>
+<P>
+1. Formulation comprising one or more organic semiconducting (OSC) compounds, one or more organic solvents, and one or more additives that increase the conductivity of the formulation (conductive additives), wherein said conductive additives are volatile and/or are not capable of chemically reacting with the OSC compounds and/or are present in a total concentration of less than 0.5 % by weight.
+</P>
+<P>
+2. Formulation according to claim 1 , characterized in that the conductive additives are selected from the group consisting of non-oxidising organic salts, volatile organic salts, alcohols, volatile carboxylic acids and organic amines.
+</P>
+<P>
+3. Formulation according to claim 2, characterized in that the conductive additives are selected from the group consisting of quaternary ammonium salts, phosphonium salts, imidazolium salts and other heterocyclic salts, wherein the anion is selected from the group consisting of halides, sulfates, acetate, formate, tetrafluoroborate, hexafluorophosphate, methanesulfonate, triflate (trifluoromethanesulfonate) and bis(trifluoromethylsulfonyl)imide.
+</P>
+<P>
+4. Formulation according to claim 2, characterized in that the conductive additives are selected from the group consisting of isopropylalcohol, iso-butanol, hexanol, methanol, ethanol, formic acid, acetic acid, di- or trifluoroacetic acid, and primary or secondary alkyl amines.
+</P>
+<P>
+5. Formulation according to one or more of claims 1 to 4, characterized in that the concentration of the conductive additive(s) is in case of soluble organic salts from 1 ppm to 2% by weight, in case of volatile organic salts from 1 ppm to 2% by weight, in case of volatile carboxylic acids from 0.001 to 2% by weight, in case of organic amines from 000.1 to 2% by weight, in case of alcohols from 5 to 10% by weight. 6. Formulation according to one or more of claims 1 to 5, characterized in that it has a conductivity from 10&amp;lt;~6&amp;gt; to 10&amp;lt;&quot;9&amp;gt; S/m.
+</P>
+<P>
+7. Formulation according to one or more of claims 1 to 6, characterized in that it comprises a first solvent having a good dissolving power for the OSC compounds, and a second solvent being miscible with the first solvent and having a good dissolving power for the conductive additive (&quot;carrier solvent&quot;).
+</P>
+<P>
+8. Formulation according to claim 7, characterized in that the first solvent is selected from the group consisting of toluene, o-, m- or p- xylene, trimethyl benzene, tetralin, anisole, alkyl anisoles, naphthalene and alkyl naphthalene.
+</P>
+<P>
+9. Formulation according to claim 7 or 8, characterized in that the carrier solvent is selected from the group consisting of cyclopentanone, acetonitrile, benzonitrile, nitromethane, tetrahydrofuran and acetone.
+</P>
+<P>
+10. Formulation according to one or more of claims 7 to 8, characterized in that the proportion of the carrier solvent is from 5 to 25 vol. % of the total volume of the formulation.
+</P>
+<P>
+11. Formulation according to one or more of claims 1 to 10, characterized in that the OSC compounds are selected from the group consisting of substituted polyacenes or poly(3-substituted thiophene).
+</P>
+<P>
+12. Formulation according to one or more of claims 1 to 11 , characterized in that it comprises a p type OSC compound and an n type OSC compound.
+</P>
+<P>
+13. Formulation according to one or more of claims 1 to 12, characterized in that it comprises a mixture of poly(3-substituted thiophene) with a Ceo or C7o fullerene or modified C60 molecule. 14. Formulation according to one or more of claims 1 to 13, characterized in that the total concentration of the OSC compounds in the formulation is from 0.1 % to 10% by weight.
+</P>
+<P>
+15. Use of a formulation according to one or more of claims 1 to 14 as coating or printing ink or for the preparation of organic electronic (OE) devices.
+</P>
+<P>
+16. Process of preparing an OE device, comprising the steps of a) depositing the formulation according to one or more of claims 1 to 14 onto a substrate to form a film or layer, b) removing the solvent(s) and any conductive additives that are volatile or capable of chemically reacting with the OSC material, for example by evaporation.
+</P>
+<P>
+17. OE device prepared from a process according to claim 16 or from a formulation according to one or more of claims 1 to 14.
+</P>
+<P>
+18. OE device according to claim 17, characterized in that it is selected from organic field effect transistors (OFET), integrated circuits (IC), thin film transistors (TFT), Radio Frequency Identification (RFID) tags, organic light emitting diodes (OLED), organic light emitting transistors (OLET), electroluminescent displays, organic photovoltaic (OPV) cells, organic solar cells (O-SC), flexible OPVs and O-SCs, organic laser diodes (O-laser), organic integrated circuits (O-IC), lighting devices, sensor devices, electrode materials, photoconductors, photodetectors, electrophotographic recording devices, capacitors, charge injection layers, Schottky diodes, planarising layers, antistatic films, conducting substrates, conducting patterns, photoconductors, electrophotographic devices, organic memory devices, biosensors and biochips.
+</P>
+<P>
+19. OE device according to claim 17 or 18, characterized in that it comprises
+</P>
+<P>
+- a low work function electrode (1 ) and a high work function electrode (2), one of which is transparent, - an active layer (3) comprising a hole transporting material and an electron transporting material,
+</P>
+<P>
+- optionally a conducting polymer layer (4) situated between the active layer (3) and the high work function electrode (2), to modify the work function of the high work function electrode to provide an ohmic contact for holes,
+</P>
+<P>
+- optionally a coating (5) on the side of the low workfunction electrode (1 ) facing the active layer (3), to provide an ohmic contact for electrons.
+</P>
+<P>
+20. OE device according to claim 17 or 18, characterized in that it comprises
+</P>
+<P>
+- a low work function electrode (1 ) and a high work function electrode (2), one of which is transparent,
+</P>
+<P>
+- an active layer (3) comprising a hole transporting material and an electron transporting material,
+</P>
+<P>
+- optionally a conducting polymer layer (4) situated between the active layer (3) and the low work function electrode (1 ) to provide an ohmic contact for electrons,
+</P>
+<P>
+- optionally a coating (5) on the side of the high workfunction electrode (2) facing the active layer (3), to provide an ohmic contact for holes.
+</P>
+</Claims>
+<Also_published_as>
+WO2009049744A1;US2010213455A1;TW200937694A;KR20100090775A;JP2011504650A;CN101828280A
+</Also_published_as>
+</BiblioData>

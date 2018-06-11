@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INTERSUBBAND QUANTUM BOX STACK LASERS
+</Title>
+<PublicationNumber>
+EP2059983A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BOTEZ DAN [US]
+</Name>
+<Name>
+BOTEZ, DAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+WISCONSIN ALUMNI RES FOUND [US]
+</Name>
+<Name>
+WISCONSIN ALUMNI RESEARCH FOUNDATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2059983
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070872735
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US76018
+</PriorityNumber>
+<PriorityDate>
+2007-08-15
+</PriorityDate>
+<PriorityNumber>
+US20060507039
+</PriorityNumber>
+<PriorityDate>
+2006-08-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/20
+</Class>
+<Class>
+H01S5/34
+</Class>
+<Class>
+H01S5/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/34A2
+</Class>
+</NCL>
+<Abstract>
+The present invention provides semiconductor lasers having an Active-Photonic-Crystal (APC) structure that allows scaling of the coherent power by using a waveguide having a periodic structure that selects operation in a single spatial mode from large-aperture devices. The lasers include an active medium that includes an array of quantum box ministacks, each ministack containing 2 to 5 vertically stacked, coupled quantum boxes.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A semiconductor laser having an active photonic crystal structure, the laser comprising:
+</P>
+<P>
+(a) an active medium comprising an array of laterally-spaced quantum box ministacks separated by a current blocking material, wherein each ministack comprises 2 to 5 vertically-stacked, coupled quantum boxes; and
+</P>
+<P>
+(b) a waveguide comprising a plurality of laterally-spaced first regions separated by a plurality of laterally-spaced second regions, wherein the first regions have a lower effective refractive index than the second regions, such that the first regions define laser device elements and the second regions define interelement regions.
+</P>
+<P>
+2. The semiconductor laser of claim 1, wherein the waveguide comprises:
+</P>
+<P>
+(a) a first optical confinement layer disposed above the active medium;
+</P>
+<P>
+(b) a second optical confinement layer disposed below the active medium;
+</P>
+<P>
+(c) a first cladding layer disposed above and adjacent to the first optical confinement layer; and
+</P>
+<P>
+(d) a second cladding layer disposed below and adjacent to the second optical confinement layer;
+</P>
+<P>
+wherein the first and second regions are created by periodic variations in the thicknesses of one of the optical confinement layers and its adjacent cladding layer.
+</P>
+<P>
+3. The semiconductor laser of claim 1, wherein each ministack has only two vertically stacked quantum boxes.
+</P>
+<P>
+4. The semiconductor laser of claim 1, wherein each ministack has only three vertically stacked quantum boxes.
+</P>
+<P>
+5. The semiconductor laser of claim 1, wherein the ministacks have lateral cross-sectional dimensions of no more than about 100 nm and heights of at least about 100 nm.
+</P>
+<P>
+6. The semiconductor laser of claim 1, wherein the ministacks have lateral cross-sectional dimension of no more than about 50 nm and heights of at least about 150 nm.
+</P>
+<P>
+7. The semiconductor laser of claim 1, wherein the ministacks are uniformly spaced in the array and the spacing between ministacks is no more than about 100 nm.
+</P>
+<P>
+8. The semiconductor laser of claim 1, wherein the ministacks are spaced in the array and the spacing between the ministacks is no more than about a ministack diameter.
+</P>
+<P>
+9. The semiconductor laser of claim 1, wherein the quantum boxes comprise an electron injector coupled to an active region coupled to an electron reflector, the active region comprising a quantum well layer that includes at least one deep quantum well.
+</P>
+<P>
+10. The semiconductor laser of claim 9, wherein the electron injector comprises alternating layers of GaAsP and AlGaAs, the electron reflector comprises alternating layers of GaAsP and InGaAs, and the active region comprises a quantum well layer of InGaAs disposed between barrier layers of AlGaAs.
+</P>
+<P>
+11. The semiconductor laser of claim 1, wherein the current blocking material comprises semi-insulating GaAs.
+</P>
+<P>
+12. The semiconductor laser of claim 1, wherein the active medium is formed of a GaAs material system, the first and second optical confinement layers comprises lightly-doped n-type GaAs, the laterally-spaced regions having the lower effective refractive index comprise heavily-doped n-type GaAs, and the laterally-spaced regions having the higher effective refractive index comprise lightly-doped n-type GaAs.
+</P>
+<P>
+13. The semiconductor laser of claim 12, further comprises an additional cladding layer comprising AlGaAs disposed between the second optical confinement layer and the second cladding layer.
+</P>
+<P>
+14. The semiconductor laser of claim 12, further comprising an additional cladding material comprising InGaAs disposed over the first cladding layer.
+</P>
+<P>
+15. The semiconductor laser of claim 14, wherein the additional cladding material comprises a superlattice of alternating layers of InGaAs and GaAs.
+</P>
+<P>
+16. The semiconductor laser of claim 1, having an output power of at least 1 Watt.
+</P>
+<P>
+17. The semiconductor laser of claim 1, having a wallplug efficiency of at least 30%.
+</P>
+<P>
+18. The semiconductor laser of claim 1, having a wallplug efficiency of at least 50%.
+</P>
+<P>
+19. The semiconductor laser of claim 1, wherein the laser emits light with wavelengths in the range of 3 to 5 [mu]m.
+</P>
+<P>
+20. The semiconductor laser of claim 19, wherein the laser operates at room temperature.
+</P>
+<P>
+21. The semiconductor laser of claim 1, wherein spacing between the laser device elements is adapted to allow the semiconductor laser to operate in a resonant in-phase mode.
+</P>
+<P>
+22. The semiconductor laser of claim 1, wherein the spacing between the laser device elements is adapted to allow the semiconductor laser to operate in a resonant out-of-phase mode.
+</P>
+</Claims>
+<Also_published_as>
+EP2059983A4;US2008043794A1;US7408966B2;WO2008094311A2;WO2008094311A3;CA2659946A1
+</Also_published_as>
+</BiblioData>

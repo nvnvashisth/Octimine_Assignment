@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+WHITE LIGHT EMITTING DEVICES
+</Title>
+<PublicationNumber>
+EP1989725A2
+</PublicationNumber>
+<Inventor>
+<Name>
+COE-SULLIVAN SETH A [US]
+</Name>
+<Name>
+BULOVIC VLADIMIR [US]
+</Name>
+<Name>
+STECKEL JONATHAN [US]
+</Name>
+<Name>
+BAWENDI MOUNGI G [US]
+</Name>
+<Name>
+ANIKEEVA POLINA O [US]
+</Name>
+<Name>
+HALPERT JONATHAN E [US]
+</Name>
+<Name>
+COE-SULLIVAN, SETH, A
+</Name>
+<Name>
+BULOVIC, VLADIMIR
+</Name>
+<Name>
+STECKEL, JONATHAN
+</Name>
+<Name>
+BAWENDI, MOUNGI, G
+</Name>
+<Name>
+ANIKEEVA, POLINA, O
+</Name>
+<Name>
+HALPERT, JONATHAN, E
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MASSACHUSETTS INST TECHNOLOGY [US]
+</Name>
+<Name>
+THE MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+</Name>
+<Name>
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1989725
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070750508
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US03677
+</PriorityNumber>
+<PriorityDate>
+2007-02-14
+</PriorityDate>
+<PriorityNumber>
+US20060773119P
+</PriorityNumber>
+<PriorityDate>
+2006-02-14
+</PriorityDate>
+<PriorityNumber>
+US20060828909P
+</PriorityNumber>
+<PriorityDate>
+2006-10-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01L51/50E
+</Class>
+</NCL>
+<Abstract>
+A white light emitting semiconductor nanocrystal includes a plurality of semiconductor nanocrystals.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A light emitting device comprising an emissive layer including a plurality of semiconductor nanocrystals, the plurality of semiconductor nanocrystals generating white light upon excitation.
+</P>
+<P>
+2. A light emitting device comprising: a first electrode; a hole injection layer in contact with the first electrode; a hole transporting layer in contact with the hole injection layer; a hole blocking layer in contact with the hole transporting layer; an electron transporting layer in contact with the hole blocking layer; a second electrode in contact with the electron transporting layer; and a plurality of semiconductor nanocrystals between the electron transporting layer and the hole blocking layer, the plurality of semiconductor nanocrystals including at least two distinct color emissions when excited.
+</P>
+<P>
+3. The device of claim 2, wherein the first electrode is a transparent electrode.
+</P>
+<P>
+4. The device of any one of claims 2 or 3, wherein hole injection layer includes a conducting polymer.
+</P>
+<P>
+5. The device of any one of claims 2-4, wherein the hole transporting layer includes a benzidine.
+</P>
+<P>
+6. The device of any one of claims 2-5, wherein the hole blocking layer includes a triazole.
+</P>
+<P>
+7. The device of any one of claims 2-6, wherein the electron transporting layer includes a metal complex.
+</P>
+<P>
+8. The device of any one of claims 2-7, wherein the second electrode includes a metal.
+</P>
+<P>
+9. The device of any one of claims 2-8, wherein the plurality of semiconductor nanocrystals can include at least three distinct color emissions when excited.
+</P>
+<P>
+10. The device of any one of claims 1-9, wherein the plurality of nanocrystals includes red, green and blue light emitting nanocrystals.
+</P>
+<P>
+11. The device of any one of claims 1-10, wherein a nanocrystal includes a core.
+</P>
+<P>
+12. The device of any one of claims 1 -9 , further comprising an overcoating on the core, the overcoating including a second semiconductor material.
+</P>
+<P>
+13. The device of any one of claims 1-12, wherein the device has an external quantum efficiency of at least 0.20%.
+</P>
+<P>
+14. The device of any one of claims 1-13, wherein the device has CIE coordinates of (0.35, 0.41).
+</P>
+<P>
+15. The device of any one of claims 1-14, wherein the device has a color rendering index (CRI) of 86 as compared to a 5500K black body reference.
+</P>
+<P>
+16. A method of forming a device of any one of claims 1-15, comprising: placing a plurality of semiconductor nanocrystals between a first electrode and a second electrode.
+</P>
+<P>
+17. A method of generating light comprising: applying a light-generating potential to a device of any one of claims 1-16.
+</P>
+<P>
+18. A display including a plurality of light emitting devices of any one of claims 1-17.
+</P>
+</Claims>
+<Also_published_as>
+EP1989725A4;WO2007095173A2;WO2007095173A3;US2010001256A1;KR20080103527A;JP2009527099A
+</Also_published_as>
+</BiblioData>

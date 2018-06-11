@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MULTILAYER-FILM REFLECTIVE MIRROR, EXPOSURE APPARATUS, DEVICE MANUFACTURING METHOD, AND MANUFACTURING METHOD OF MULTILAYER- FILM REFLECTIVE MIRROR
+</Title>
+<PublicationNumber>
+EP2145214A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SHIRAISHI MASAYUKI [JP]
+</Name>
+<Name>
+SHIRAISHI, MASAYUKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NIPPON KOGAKU KK [JP]
+</Name>
+<Name>
+NIKON CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2145214
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080740779
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP57789
+</PriorityNumber>
+<PriorityDate>
+2008-04-16
+</PriorityDate>
+<PriorityNumber>
+US20070907935P
+</PriorityNumber>
+<PriorityDate>
+2007-04-23
+</PriorityDate>
+<PriorityNumber>
+US20080074903
+</PriorityNumber>
+<PriorityDate>
+2008-03-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B5/08
+</Class>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G02B5/08V
+</Class>
+<Class>
+G03F7/70P10B
+</Class>
+<Class>
+G21K1/06B
+</Class>
+</NCL>
+<Abstract>
+Multilayer-film reflective mirrors are disclosed. An exemplary such mirror has a base and a multilayer film formed on the base. The multilayer film includes multiple layer pairs. Each layer pair includes a respective first layer and a respective second layer, wherein the first and second layers are laminated together in an alternating manner. The multilayer film has first and second regions that reflect extreme ultraviolet light. A first group of layers is disposed in the first and second regions and has a first periodic length. A second group disposed in the first region has a second periodic length different from the first periodic length, and a third group disposed in the second region has a substantially same periodic length as the first periodic length.
+</Abstract>
+<Claims>
+<P>
+1. A multilayer-film reflective mirror, comprising:
+</P>
+<P>
+a base; and
+</P>
+<P>
+a multilayer film formed on the base, the multilayer film comprising:
+</P>
+<P>
+multiple layer pairs, each layer pair comprising a respective first layer and a respective second layer, the first and second layers being laminated together in an alternating manner;
+</P>
+<P>
+first and second regions that reflect extreme ultraviolet light;
+</P>
+<P>
+a first group disposed in the first and second regions and having a first periodic length;
+</P>
+<P>
+a second group disposed in the first region and having a second periodic length different from the first periodic length; and
+</P>
+<P>
+a third group disposed in the second region and having a substantially same periodic length as the first periodic length.
+</P>
+<P>
+2. The multilayer-film reflective mirror according to claim 1, wherein the first and second layers of the second group are respectively continuous with the first and second layers of the third group between the first region and the second region.
+</P>
+<P>
+3. The multilayer-film reflective mirror according to claim 1, wherein, in the second region, the first and second layers of the first group and the first and second layers of the third group are successive.
+</P>
+<P>
+4. The multilayer-film reflective mirror according to claim 1, wherein the number of layers of the second group in the first region is equal to the number of layers of the third group in the second region.
+</P>
+<P>
+5. The multilayer-film reflective mirror according to claim 1, wherein the number of layers of the first group in the first region is equal to the number of layers of the first group in the second region.
+</P>
+<P>
+6. The multilayer-film reflective mirror according to claim 1, wherein, in the first region, the first and second layers of the first group and the first and second layers of the second group are successive.
+</P>
+<P>
+7. The multilayer-film reflective mirror according to claim 1, further comprising a diffusion layer formed between the first layer and the second layer and in which a material forming the first layer and a material forming the second layer are diffuse, wherein, in the first region, the diffusion layer of the second group has a thickness larger than a thickness of the diffusion layer of the first group.
+</P>
+<P>
+8. The multilayer-film reflective mirror according to claim 7, wherein the second periodic length is shorter than the first periodic length.
+</P>
+<P>
+9. The multilayer-film reflective mirror according to claim 7, wherein the second group is a portion of one to ten layer pairs from a surface of the multilayer film in the first region.
+</P>
+<P>
+10. The multilayer-film reflective mirror according to claim 1, wherein a difference between a refractive index of the first layer to extreme ultraviolet light and a refractive index of a vacuum is larger than that of the second layer.
+</P>
+<P>
+11. The multilayer-film reflective mirror according to claim 1, wherein the first layer comprises at least one of molybdenum and ruthenium.
+</P>
+<P>
+12. The multilayer-film reflective mirror according to claim 1, wherein the second layer comprises silicon.
+</P>
+<P>
+13. The multilayer-film reflective mirror according to claim 1, further comprising a protective layer arranged so as to cover a surface of the multilayer film.
+</P>
+<P>
+14. The multilayer-film reflective mirror according to claim 13, wherein the protective layer comprises a material selected from a group comprising ruthenium, ruthenium alloys, rhodium, rhodium alloys, niobium, niobium alloys, platinum, platinum alloys, molybdenum, molybdenum alloys, titanium dioxide, silicon dioxide, zirconium dioxide, molybdenum disilicide, silicon carbide, and combinations thereof.
+</P>
+<P>
+15. An exposure apparatus that exposes a substrate with exposure light, comprising the multilayer-film reflective mirror according to claim 1.
+</P>
+<P>
+16. A device manufacturing method, comprising:
+</P>
+<P>
+exposing a substrate by use of the exposure apparatus according to claim 15; and
+</P>
+<P>
+developing the exposed substrate.
+</P>
+<P>
+17. A manufacturing method of a multilayer-film reflective mirror, comprising:
+</P>
+<P>
+forming a multilayer film by alternately laminating first layers and second layers on a base, the multilayer film being capable of reflecting extreme ultraviolet light; and
+</P>
+<P>
+heating at least a part of the multilayer film to form a region comprising a first group with a first periodic length and a second group with a second periodic length different from the first periodic length in the multilayer film.
+</P>
+<P>
+18. The manufacturing method according to claim 17, wherein the heating comprising decreasing a periodic length of the multilayer film at the heated part.
+</P>
+<P>
+19. The manufacturing method according to claim 17, wherein:
+</P>
+<P>
+the heating comprises shrinking the heated part of the multilayer film; and
+</P>
+<P>
+the first and second layers of the heated part are continuous with the first and second layers of the unheated part.
+</P>
+<P>
+20. The manufacturing method according to claim 17, wherein the heating comprising increasing a thickness of a diffusion layer, the diffusion layer being formed between the first layer and the second layer and in which a material forming the first layer and a material forming the second layer are diffuse.
+</P>
+<P>
+21. The manufacturing method according to claim 17, wherein the heating comprises irradiating a surface of the multilayer film with light.
+</P>
+<P>
+22. The manufacturing method according to claim 17, wherein the heating comprises irradiating a surface of the multilayer film with electron beam.
+</P>
+<P>
+23. The manufacturing method according to claim 17, further comprising adjusting heating conditions to adjust a periodic length of at least a part of the multilayer film.
+</P>
+<P>
+24. The manufacturing method according to claim 17, wherein the heating comprises changing a periodic length of at least a portion of one layer pair to ten layer pairs from a surface of a region within a layer surface of the multilayer film.
+</P>
+</Claims>
+<Also_published_as>
+US2008259439A1;US8194322B2;TW200848952A;JP2008270808A;WO2008133254A1
+</Also_published_as>
+</BiblioData>

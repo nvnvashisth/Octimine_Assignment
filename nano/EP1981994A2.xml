@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SERS NANOTAG ASSAYS
+</Title>
+<PublicationNumber>
+EP1981994A2
+</PublicationNumber>
+<Inventor>
+<Name>
+NATAN MICHAEL [US]
+</Name>
+<Name>
+PENN SHARRON GAYNOR [US]
+</Name>
+<Name>
+CROMER REMY [US]
+</Name>
+<Name>
+SHA MICHAEL [US]
+</Name>
+<Name>
+XU HONGXIA [US]
+</Name>
+<Name>
+DOERING WILLIAM E [US]
+</Name>
+<Name>
+NATAN, MICHAEL
+</Name>
+<Name>
+PENN, SHARRON GAYNOR
+</Name>
+<Name>
+CROMER, REMY
+</Name>
+<Name>
+SHA, MICHAEL
+</Name>
+<Name>
+XU, HONGXIA
+</Name>
+<Name>
+DOERING, WILLIAM E
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+OXONICA INC [US]
+</Name>
+<Name>
+OXONICA INC
+</Name>
+<Name>
+BECTON, DICKINSON &amp; COMPANY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1981994
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070763259
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US61878
+</PriorityNumber>
+<PriorityDate>
+2007-02-08
+</PriorityDate>
+<PriorityNumber>
+US20060771766P
+</PriorityNumber>
+<PriorityDate>
+2006-02-08
+</PriorityDate>
+<PriorityNumber>
+US20060832917P
+</PriorityNumber>
+<PriorityDate>
+2006-07-24
+</PriorityDate>
+<PriorityNumber>
+US20060870963P
+</PriorityNumber>
+<PriorityDate>
+2006-12-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C07H21/04
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N33/53
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C12Q1/68B2
+</Class>
+</NCL>
+<Abstract>
+Methods and systems for the use of Surface Enhanced Raman Scattering nanotags (SERS nanotags) to create homogeneous (no-wash), heterogeneous or sequence detection assay platforms. In certain embodiments the SERS nanotags are used in combination with magnetic particles. Multiplexed assay platforms are also disclosed. In certain embodiments, the assay is useful for clinical proteomics. Assay platforms suitable for use within a biological matrix, for example within whole blood or serum are also disclosed.;  The assay formats described herein may be used to detect any analyte of interest including but not limited to the detection of cells, viruses, bacteria, proteins, DNA, RNA, or small molecules in any type of biological (animal or plant kingdom) or environmental samples including but not limited to whole blood or serum, occult samples, urine, feces, air, drinking water, phage, any organism, multicellular clumps of cells, for example, cancer tissue homogenate.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method of detecting a nucleotide of interest comprising: providing a capture probe comprising a capture sequence conjugated to a magnetic particle; providing a detection probe comprising a detection sequence conjugated to a capture molecule; providing a SERS nanotag conjugated to a complementary target capable of selectively binding the capture molecule; hybridizing the capture probe and detection probe in the presence of the nucleotide of interest; contacting the hybridized capture and detection probe with a the SERS nanotag complex; and detecting the Raman spectrum of a Raman reporter molecule associated with the SERS nanotag.
+</P>
+<P>
+2. The method of detecting a nucleotide of interest of claim 1 further comprising magnetically selecting the magnetic particle.
+</P>
+<P>
+3. A method of detecting a nucleotide of interest comprising: providing a capture probe comprising a capture sequence conjugated to a magnetic particle; providing a detection probe comprising a detection sequence conjugated to a SERS nanotag; hybridizing the capture probe and detection probe in the presence of the nucleotide of interest; and detecting the Raman spectrum of a Raman reporter molecule associated with the SERS nanotag.
+</P>
+<P>
+4. The method of detecting a nucleotide of interest of claim 3 further comprising magnetically selecting the magnetic particle.
+</P>
+<P>
+5. A method of detecting a nucleotide of interest comprising: cutting the nucleotide of interest into multiple sections; providing multiple capture probes having distinct hybridization affinities for separate portions of the nucleotide of interest, the multiple capture probes being comprised of capture sequences conjugated to magnetic particles; providing multiple detection probes having distinct hybridization affinities for separate portions of the nucleotide of interest, the detection probes being comprised of detection sequences conjugated to SERS nanotags; hybridizing the capture probes and detection probes in the presence of the cut nucleotide of interest; and detecting the Raman spectrum of a Raman reporter molecule associated with the SERS nanotags.
+</P>
+<P>
+6. The method of detecting a nucleotide of interest of claim 5 wherein the nucleotide is cut into multiple sections with a restriction enzyme.
+</P>
+<P>
+7. The method of detecting a nucleotide of interest of claim 5 further comprising magnetically selecting the magnetic particles.
+</P>
+<P>
+8. A method of detecting a nucleotide of interest comprising: providing a capture probe comprising a capture sequence conjugated to a magnetic particle; providing an RCA probe; hybridizing the capture probe and RCA probe in the presence of the nucleotide of interest; performing rolling circle amplification on the initial hybridization products; providing a detection probe comprising a detection sequence conjugated to a SERS nanotag; incubating the initial hybridization products in the presence of the detection probe; and detecting the Raman spectrum of a Raman reporter molecule associated with the SERS nanotag.
+</P>
+<P>
+9. The method of detecting a nucleotide of interest of claim 8 further comprising magnetically selecting the magnetic particle after performing rolling circle amplification on the initial hybridization products.
+</P>
+<P>
+10. The method of detecting a nucleotide of interest of claim 8 further comprising magnetically selecting the magnetic particle after incubating the initial hybridization products in the presence of the detection probe.
+</P>
+<P>
+11. The method of detecting a nucleotide of interest of claim 9 further comprising magnetically selecting the magnetic particle after incubating the initial hybridization products in the presence of the detection probe.
+</P>
+<P>
+12. An assay for detecting a nucleotide comprising: a capture probe comprising a capture sequence conjugated to a magnetic particle; a detection probe comprising a detection sequence conjugated to a capture molecule; and a SERS nanotag conjugated to a complementary target capable of selectively binding the capture molecule.
+</P>
+<P>
+13. An assay for detecting a nucleotide comprising: a capture probe comprising a capture sequence conjugated to a magnetic particle; and a detection probe comprising a detection sequence conjugated to a SERS nanotag.
+</P>
+<P>
+14. An assay for detecting a nucleotide comprising: means for cutting a nucleotide of interest into multiple sections; multiple capture probes having distinct hybridization affinities for separate portions of the nucleotide of interest, the multiple capture probes being comprised of capture sequences conjugated to magnetic particles; and multiple detection probes having distinct hybridization affinities for separate portions of the nucleotide of interest, the detection probes being comprised of detection sequences conjugated to SERS nanotags.
+</P>
+<P>
+15. A method of detecting a molecule of interest comprising: providing a magnetic bead conjugated to a molecule; hybridizing the magnetic bead with a complementary target capable of selectively binding the molecule, the target being further associated with a detection moiety; contacting the hybridized magnetic bead with a SERS nanotag capable of binding the detection moiety; and detecting the Raman spectrum of a Raman reporter molecule associated with the SERS nanotag.
+</P>
+<P>
+16. The method of claim 15 wherein the target is a nucleic acid molecule.
+</P>
+<P>
+17. A method of detecting a molecule of interest comprising: providing a SERS nanotag conjugated to a molecule; hybridizing the SERS nanotag with a complementary target capable of selectively binding the molecule, the target being further associated with a detection moiety; contacting the hybridized SERS nanotag with a magnetic particle capable of binding the detection moiety; magnetically selecting the magnetic particle; and detecting a Raman spectrum associated with the SERS nanotag.
+</P>
+<P>
+18. The method of claim 17 wherein the target is a nucleic acid molecule.
+</P>
+<P>
+19. A method of detecting a molecule of interest comprising: providing a first SERS nanotag conjugated to a first molecule; providing a second SERS nanotag conjugated to a second molecule wherein the second SERS nanotag presents a different Raman spectrum from the first SERS nanotag upon interrogation; hybridized the first and second SERS nanotags with a complementary target capable of selectively binding one of the first and second molecules, the target being further associated with a detection moiety; contacting the hybridized first and second SERS nanotags with a magnetic particle capable of binding the detection moiety; magnetically selecting the magnetic particle; and detecting the Raman spectrum of one of the first and the second SERS nanotag.
+</P>
+<P>
+20. The method of claim 19 wherein the first and second molecules are nucleic acid molecules.
+</P>
+<P>
+21. A method for detecting an analyte of interest comprising: providing capture particles conjugated with a first molecule capable of selectively binding said analyte; providing SERS nanotag detection particles conjugated with a second molecule capable of selectively binding said analyte; contacting a sample which may contain the analyte of interest with the capture and detection particles, thereby forming a 2-particle complex from capture particles and detection particles bound to the analyte; concentrating the 2 particle complex; and detecting the Raman spectrum of a Raman reporter molecule associated with the SERS nanotag.
+</P>
+<P>
+22. The method of claim 21 wherein the capture particles are magnetic particles.
+</P>
+<P>
+23. The method of claim 22 wherein the concentration step is performed on a magnetic particle concentrator.
+</P>
+<P>
+24. The method of claim 21 wherein the 2 particle complex is concentrated on the interior wall of a test vessel.
+</P>
+<P>
+25. The method of Claim 21 wherein the 2 particle complex is captured on the interior wall of a test vessel.
+</P>
+<P>
+26. A method of detecting a molecule of interest comprising: providing a magnetic bead conjugated to a molecule; hybridizing the magnetic bead with a complementary target capable of selectively binding the molecule, the target being further associated with a detection moiety; contacting the hybridized magnetic bead with a SERS nanotag capable of binding the detection moiety; and detecting the Raman spectrum of a Raman reporter molecule associated with the SERS nanotag.
+</P>
+<P>
+27. The method of claim 26 wherein the target is a nucleic acid molecule.
+</P>
+<P>
+28. A method of detecting a molecule of interest comprising: providing a SERS nanotag conjugated to a molecule; hybridizing the SERS nanotag with a complementary target capable of selectively binding the molecule, the target being further associated with a detection moiety; contacting the hybridized SERS nanotag with a magnetic particle capable of binding the detection moiety; magnetically selecting the magnetic particle; and detecting a Raman spectrum associated with the SERS nanotag.
+</P>
+<P>
+29. The method of claim 28 wherein the target is a nucleic acid molecule.
+</P>
+<P>
+30. A method of detecting a molecule of interest comprising: providing a first SERS nanotag conjugated to a first molecule; providing a second SERS nanotag conjugated to a second molecule wherein the second SERS nanotag presents a different Raman spectrum from the first SERS nanotag upon interrogation; hybridized the first and second SERS nanotags with a complementary target capable of selectively binding one of the first and second molecules, the target being further associated with a detection moiety; contacting the hybridized first and second SERS nanotags with a magnetic particle capable of binding the detection moiety; magnetically selecting the magnetic particle; and detecting the Raman spectrum of one of the first and the second SERS nanotag.
+</P>
+<P>
+31. The method of claim 30 wherein the first and second molecules are nucleic acid molecules.
+</P>
+<P>
+32. A method of detecting an analyte of interest comprising: providing capture particles conjugated with a first molecule capable of selectively binding said analyte; providing SERS nanotag detection particles derivatized with said analyte; contacting a sample which may contain the analyte of interest with the capture and SERS nanotag detection particles, thereby forming both an analyte/capture particle complex and a SERS nanotag detection particle/capture particle complex; concentrating the capture particle complexes; and detecting the Raman spectrum of a Raman reporter molecule associated with the SERS nanotag detection particles.
+</P>
+<P>
+33. The method of claim 32 wherein the capture particles are magnetic particles.
+</P>
+<P>
+34. The method of claim 33 wherein the concentration step is performed on a magnetic particle concentrator.
+</P>
+<P>
+35. A method of detecting an analyte of interest comprising: providing capture particles derivatized with said analyte; providing SERS nanotag detection particles conjugated with a first molecule capable of selectively binding said analyte; contacting a sample which may contain the analyte of interest with the capture and SERS nanotag detection particles, thereby forming both an analyte/SERS nanotag detection particle complex and a capture particle/SERS nanotag detection particle complex; concentrating the capture particle/SERS nanotag detection particle complex; and detecting the Raman spectrum of a Raman reporter molecule associated with the SERS nanotag detection particles.
+</P>
+<P>
+36. The method of claim 35 wherein the capture particles are magnetic particles.
+</P>
+<P>
+37. The method of claim 36 wherein the concentration step is performed on a magnetic particle concentrator.
+</P>
+<P>
+38. A method for detecting an analyte of interest comprising: providing capture particles conjugated with a first molecule capable of selectively binding said analyte; providing SERS nanotag detection particles conjugated with a second molecule capable of selectively binding said analyte; contacting a sample which may contain the analyte of interest with the capture and detection particles, thereby forming a 2-particle complex from capture particles and detection particles bound to the analyte; concentrating the 2 particle complex; and detecting the Raman spectrum of a Raman reporter molecule associated with the SERS nanotag.
+</P>
+<P>
+39. The method of claim 38 wherein the capture particles are magnetic particles.
+</P>
+<P>
+40. The method of claim 39 wherein the concentration step is performed on a magnetic particle concentrator.
+</P>
+<P>
+41. The method of claim 38 wherein the 2 particle complex is concentrated on the interior wall of a test vessel.
+</P>
+</Claims>
+<Also_published_as>
+EP1981994A4;WO2007092941A2;WO2007092941A3;US2012164624A1;JP2009525763A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NON-VOLATILE MAGNETIC MEMORY ELEMENT WITH GRADED LAYER
+</Title>
+<PublicationNumber>
+EP2118893A2
+</PublicationNumber>
+<Inventor>
+<Name>
+RANJAN RAJIV YADAV [US]
+</Name>
+<Name>
+KESHTBOD PARVIZ [US]
+</Name>
+<Name>
+MALMHALL ROGER KLAS [US]
+</Name>
+<Name>
+RANJAN, RAJIV YADAV
+</Name>
+<Name>
+KESHTBOD, PARVIZ
+</Name>
+<Name>
+MALMHALL, ROGER, KLAS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+YADAV TECHNOLOGY INC [US]
+</Name>
+<Name>
+YADAV TECHNOLOGY, INC
+</Name>
+<Name>
+AVALANCHE TECHNOLOGY, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2118893
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080729568
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US53623
+</PriorityNumber>
+<PriorityDate>
+2008-02-11
+</PriorityDate>
+<PriorityNumber>
+US20070674124
+</PriorityNumber>
+<PriorityDate>
+2007-02-12
+</PriorityDate>
+<PriorityNumber>
+US20070739648
+</PriorityNumber>
+<PriorityDate>
+2007-04-24
+</PriorityDate>
+<PriorityNumber>
+US20070740861
+</PriorityNumber>
+<PriorityDate>
+2007-04-26
+</PriorityDate>
+<PriorityNumber>
+US20070776692
+</PriorityNumber>
+<PriorityDate>
+2007-07-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01L43/08
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01F10/32N4
+</Class>
+<Class>
+H01F41/30D2
+</Class>
+<Class>
+H01L27/22M4F
+</Class>
+<Class>
+H01L43/08
+</Class>
+</NCL>
+<Abstract>
+One embodiment of the present invention includes a non-volatile magnetic memory element including layers any of which are graded.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A non-volatile magnetic memory element comprising:
+</P>
+<P>
+a bottom electrode;
+</P>
+<P>
+a seeding layer formed on top of the bottom electrode;
+</P>
+<P>
+an anti-ferromagnetic pinning layer formed on top of the seeding layer;
+</P>
+<P>
+a fixed layer formed on top of the pinning layer;
+</P>
+<P>
+a tunnel layer formed on top of the fixed layer;
+</P>
+<P>
+a graded free layer formed on top of the tunnel layer;
+</P>
+<P>
+a cap layer formed on top of the graded free layer; and
+</P>
+<P>
+a top electrode formed on top of the cap layer,
+</P>
+<P>
+wherein current is applied to through the bottom electrode to switch the magnetization state of the memory element.
+</P>
+<P>
+2. A non-volatile magnetic memory element, as recited in claim 1, wherein the tunnel layer is made of material selected from a group consisting of: titanium dioxide (TiO2), alumina (Al2O3), magnesium oxide (MgO), tantalum oxide (Ta2O5), hafnium oxide (HfO2), zirconium oxide ZrO2, tantalum nitride (TaN), strontium oxide (SrO), ruthenium oxide (RuO), and zinc oxide (ZnO).
+</P>
+<P>
+3. A non-volatile magnetic memory element, as recited in claim 1, wherein MgO, includes less than 50 mol % of the compounds from the list of material of claim 2.
+</P>
+<P>
+4. A non-volatile magnetic memory element, as recited in claim 1, wherein the cap layer serves to insulate the graded free layer from the top electrode and in this manner, serves to isolate the layer 26 from any micro-structural effects of the top electrode 30.
+</P>
+<P>
+5. A non-volatile magnetic memory element, as recited in claim 1, wherein the cap layer serves to isolate the graded free layer from micro-structural effects associated with the top electrode.
+</P>
+<P>
+6. A non-volatile magnetic memory element, as recited in claim 1, wherein the cap layer is made of amorphous materials selected from a group consisting of: nickel niobium (NiNb), nickel zirconium (NiZr), nickel niobium zirconium (NiNbZr), nickel silicon niobium (NiSiNb), and nickel silicon zirconium (NiSiZr).
+</P>
+<P>
+7. A non-volatile magnetic memory element, as recited in claim 1, wherein the cap layer is made of more than one layer wherein one of the more than one layers is made of material selected from a group consisting of: copper (Cu), gold (Au) and ruthenium (Ru).
+</P>
+<P>
+8. A non-volatile magnetic memory element, as recited in claim 1, wherein the cap layer has a thickness of less than 50 nanometers (nm).
+</P>
+<P>
+9. A non-volatile magnetic memory element, as recited in claim 1, wherein the bottom electrode is made of a non-magnetic layer, such as, for example, tantalum (Ta) and using reactive ion etching (RIE) process. The layer 20 is an AF magnetic layer that essentially determines the direction of magnetization of the layer 22.
+</P>
+<P>
+10. A non-volatile magnetic memory element, as recited in claim 1, wherein the bottom electrode is made of tantalum (Ta).
+</P>
+<P>
+11. A non-volatile magnetic memory element, as recited in claim 1, wherein the pinning layer is formed to determine the direction of magnetization of the fixed layer.
+</P>
+<P>
+12. A non-volatile magnetic memory element, as recited in claim 1, wherein the fixed layer is made of a first sub fixed layer formed on top of the pinning layer, a synthetic anti-ferromagnetic coupling layer 34 formed on top of the first sub fixed layer and a second sub fixed layer formed on top of the synthetic anti-ferromagnetic (AF) coupling layer.
+</P>
+<P>
+13. A non-volatile magnetic memory element, as recited in claim 1, wherein the first and second sub fixed layers are each alloys made of one or more ferromagnetic elements, such as Co, Fe and Ni, and contains less than 20 atomic percent of platinum, Pt and further contains up to 20 atomic percent of one or more of the following elements: P, B, Cr, Ta, W, Mo, Zr, and Hf.
+</P>
+<P>
+14. A non-volatile magnetic memory element, as recited in claim 13, wherein the ferromagnetic elements of the first and second sub fixed layers are selected from a group consisting of: copper (Co), iron (Fe) and nickel (Ni) and includes less than 20 atomic percent of platinum (Pt) and further includes up to 20 atomic percent of elements made of material selected from a group consisting of: P, B, Cr, Ta, W, Mo, Zr, and Hf.
+</P>
+<P>
+15. A non-volatile magnetic memory element, as recited in claim 13, wherein the second sub fixed layer is a substantially amorphous alloy.
+</P>
+<P>
+16. A non-volatile magnetic memory element, as recited in claim 13, wherein the second sub fixed layer is made of an alloy cobalt iron boron (CoFeCrB), where the boron, B, content of the alloy is between 10 to 30 atomic percent.
+</P>
+<P>
+17. A non-volatile magnetic memory element, as recited in claim 13, wherein the second sub fixed layer and the graded free layer are amorphous and transformed into a cubic crystal structure having (002) plane parallel to the barrier layer MgO, i.e. the layer 24, having (001) crystal planes matched.
+</P>
+<P>
+18. A non-volatile magnetic memory element, as recited in claim 1, wherein the bottom electrode has a thickness of less than 100 nanometers (nm).
+</P>
+<P>
+19. A non-volatile magnetic memory element, as recited in claim 1, wherein pinning layer has a thickness that is less than 20 nanometers (nm).
+</P>
+<P>
+20. A memory cell comprising:
+</P>
+<P>
+a bit line;
+</P>
+<P>
+a non-volatile magnetic memory element including,
+</P>
+<P>
+a bottom electrode coupled to the bit line;
+</P>
+<P>
+a seeding layer formed on top of the bottom electrode;
+</P>
+<P>
+an anti-ferromagnetic pinning layer formed on top of the seeding layer;
+</P>
+<P>
+a fixed layer formed on top of the pinning layer;
+</P>
+<P>
+a tunnel layer formed on top of the fixed layer;
+</P>
+<P>
+a graded free layer formed on top of the tunnel layer;
+</P>
+<P>
+a cap layer formed on top of the graded free layer; and
+</P>
+<P>
+a top electrode formed on top of the cap layer;
+</P>
+<P>
+an access transistor having a source, drain and gate, the drain of the access transistor coupled to top electrode;
+</P>
+<P>
+a word line coupled to the gate of the access transistor, the bit line and the word line operative to select the memory cell.
+</P>
+<P>
+21. A memory cell as recited in claim 20 further including a Program/Erase line coupled to the source of the access transistor and operative to program or erase the memory cell when the memory cell is selected.
+</P>
+<P>
+22. A non-volatile magnetic memory element, as recited in claim 20, wherein the tunnel layer is made of material selected from a group consisting of: titanium dioxide (TiO2), alumina (Al2O3), magnesium oxide (MgO), tantalum oxide (Ta2O5), hafnium oxide (HfO2), zirconium oxide ZrO2, tantalum nitride (TaN), strontium oxide (SrO), ruthenium oxide (RuO), and zinc oxide (ZnO).
+</P>
+<P>
+23. A non-volatile magnetic memory element, as recited in claim 20, wherein MgO, includes less than 50 mol % of the compounds from the list of material of claim 22.
+</P>
+<P>
+24. A non-volatile magnetic memory element, as recited in claim 20, wherein the cap layer serves to insulate the graded free layer from the top electrode and in this manner, serves to isolate the layer 26 from any micro-structural effects of the top electrode 30.
+</P>
+<P>
+25. A non-volatile magnetic memory element, as recited in claim 20, wherein the cap layer serves to isolate the graded free layer from micro-structural effects associated with the top electrode.
+</P>
+<P>
+26. A non-volatile magnetic memory element, as recited in claim 20, wherein the cap layer is made of amorphous materials selected from a group consisting of: nickel niobium (NiNb), nickel zirconium (NiZr), nickel niobium zirconium (NiNbZr), nickel silicon niobium (NiSiNb), and nickel silicon zirconium (NiSiZr).
+</P>
+<P>
+27. A non-volatile magnetic memory element, as recited in claim 20, wherein the cap layer is made of more than one layer wherein one of the more than one layers is made of material selected from a group consisting of: copper (Cu), gold (Au) and ruthenium (Ru).
+</P>
+<P>
+28. A non-volatile magnetic memory element, as recited in claim 20, wherein the cap layer has a thickness of less than 50 nanometers (nm).
+</P>
+<P>
+29. A non-volatile magnetic memory element, as recited in claim 20, wherein the bottom electrode is made of a non-magnetic layer, such as, for example, tantalum (Ta) and using reactive ion etching (RIE) process. The layer 20 is an AF magnetic layer that essentially determines the direction of magnetization of the layer 22.
+</P>
+<P>
+30. A non-volatile magnetic memory element, as recited in claim 20, wherein the bottom electrode is made of tantalum (Ta).
+</P>
+<P>
+31. A non-volatile magnetic memory element, as recited in claim 20, wherein the pinning layer is formed to determine the direction of magnetization of the fixed layer.
+</P>
+<P>
+32. A non-volatile magnetic memory element, as recited in claim 20, wherein the fixed layer is made of a first sub fixed layer formed on top of the pinning layer, a synthetic anti-ferromagnetic coupling layer 34 formed on top of the first sub fixed layer and a second sub fixed layer formed on top of the synthetic anti-ferromagnetic (AF) coupling layer.
+</P>
+<P>
+33. A non-volatile magnetic memory element, as recited in claim 20, wherein the first and second sub fixed layers are each alloys made of one or more ferromagnetic elements, such as Co, Fe and Ni, and contains less than 20 atomic percent of platinum, Pt and further contains up to 20 atomic percent of one or more of the following elements: P, B, Cr, Ta, W, Mo, Zr, and Hf.
+</P>
+<P>
+34. A non-volatile magnetic memory element, as recited in claim 33, wherein the ferromagnetic elements of the first and second sub fixed layers are selected from a group consisting of: copper (Co), iron (Fe) and nickel (Ni) and includes less than 20 atomic percent of platinum, Pt and further includes up to 20 atomic percent of elements made of material selected from a group consisting of: P, B, Cr, Ta, W, Mo, Zr, and Hf.
+</P>
+<P>
+35. A non-volatile magnetic memory element, as recited in claim 33, wherein the second sub fixed layer is a substantially amorphous alloy.
+</P>
+<P>
+36. A non-volatile magnetic memory element, as recited in claim 33, wherein the second sub fixed layer is made of an alloy copper iron boron (CoFeCrB), where the boron, B, content of the alloy is between 10 to 30 atomic percent.
+</P>
+<P>
+37. A non-volatile magnetic memory element, as recited in claim 33, wherein the second sub fixed layer and the graded free layer are amorphous and transformed into a cubic crystal structure having (002) plane parallel to the barrier layer MgO, i.e. the layer 24, having (001) crystallographic planes matched.
+</P>
+<P>
+38. A non-volatile magnetic memory element, as recited in claim 20, wherein the bottom electrode has a thickness of less than 100 nanometers (nm).
+</P>
+<P>
+39. A non-volatile magnetic memory element, as recited in claim 20, wherein pinning layer has a thickness that is less than 20 nanometers (nm).
+</P>
+<P>
+40. A method of manufacturing a non-volatile magnetic memory element comprising:
+</P>
+<P>
+Forming a bottom electrode;
+</P>
+<P>
+a seeding layer formed on top of the bottom electrode;
+</P>
+<P>
+an anti-ferromagnetic pinning layer formed on top of the seeding layer;
+</P>
+<P>
+Forming a fixed layer on top of the pinning layer;
+</P>
+<P>
+Forming a tunnel layer on top of the fixed layer;
+</P>
+<P>
+Forming a graded free layer on top of the tunnel layer;
+</P>
+<P>
+Forming a cap layer on top of the graded free layer; and
+</P>
+<P>
+Forming a top electrode on top of the cap layer.
+</P>
+<P>
+41. A method of manufacturing a non-volatile magnetic memory element, as recited in claim 40, wherein the forming of the fixed layer includes grading.
+</P>
+<P>
+42. A non-volatile magnetic memory element comprising:
+</P>
+<P>
+a bottom electrode;
+</P>
+<P>
+a seeding layer formed on top of the bottom electrode;
+</P>
+<P>
+an anti-ferromagnetic pinning layer formed on top of the seeding layer;
+</P>
+<P>
+a graded fixed layer formed on top of the pinning layer;
+</P>
+<P>
+a tunnel layer formed on top of the graded fixed layer;
+</P>
+<P>
+a free layer formed on top of the tunnel layer;
+</P>
+<P>
+a cap layer formed on top of the graded free layer; and
+</P>
+<P>
+a top electrode formed on top of the cap layer,
+</P>
+<P>
+wherein current is applied to through the bottom electrode to switch the magnetization state of the memory element.
+</P>
+<P>
+43. A non-volatile magnetic memory element, as recited in claim 42, wherein the free layer is graded.
+</P>
+<P>
+44. A non-volatile magnetic memory element comprising:
+</P>
+<P>
+a bottom electrode;
+</P>
+<P>
+a seeding layer formed on top of the bottom electrode;
+</P>
+<P>
+a pinning layer formed on top of the seeding layer;
+</P>
+<P>
+a fixed layer formed on top of the pinning layer;
+</P>
+<P>
+a tunnel layer formed on top of the graded fixed layer;
+</P>
+<P>
+a free layer formed on top of the tunnel layer;
+</P>
+<P>
+a cap layer formed on top of the graded free layer; and
+</P>
+<P>
+a top electrode formed on top of the cap layer,
+</P>
+<P>
+wherein at least one of the bottom electrode, pinning layer, fixed layer, tunnel layer, free layer, cap layer or top electrode is graded and current is applied to through the bottom electrode to switch the magnetization state of the memory element.
+</P>
+<P>
+45. A non-volatile magnetic memory element, as recited in claim 44, wherein the pinning layer is graded.
+</P>
+<P>
+46. A non-volatile magnetic memory element, as recited in claim 46, wherein the fixed layer is graded.
+</P>
+<P>
+47. A non-volatile magnetic memory element, as recited in claim 46, wherein the free layer is graded.
+</P>
+<P>
+48. A non-volatile magnetic memory element, as recited in claim 46, wherein the bottom electrode is graded.
+</P>
+<P>
+49. A non-volatile magnetic memory element, as recited in claim 46, wherein the top electrode is graded.
+</P>
+<P>
+50. A non-volatile magnetic memory element, as recited in claim 46, wherein the cap layer is graded.
+</P>
+<P>
+51. A non-volatile magnetic memory element, as recited in claim 46, wherein the seeding layer is graded.
+</P>
+</Claims>
+<Also_published_as>
+EP2118893A4;EP2118893B1;US2008191295A1;US8063459B2;US2012026785A1;US2012025338A1;WO2008100871A2;WO2008100871A3;CN101730913A
+</Also_published_as>
+</BiblioData>

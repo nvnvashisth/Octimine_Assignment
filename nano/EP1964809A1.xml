@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CARBON NANOTUBE, SUBSTRATE AND ELECTRON EMITTING ELEMENT EQUIPPED THEREWITH, SUBSTRATE FOR CARBON NANOTUBE SYNTHESIS, PROCESS FOR PRODUCING THEM, AND PRODUCTION APPARATUS
+</Title>
+<PublicationNumber>
+EP1964809A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ANDO TOSHIHIRO [JP]
+</Name>
+<Name>
+NAKAGAWA KIYOHARU [JP]
+</Name>
+<Name>
+GAMO MIKA [JP]
+</Name>
+<Name>
+GAMO HIDENORI [JP]
+</Name>
+<Name>
+ANDO, TOSHIHIRO
+</Name>
+<Name>
+NAKAGAWA, KIYOHARU
+</Name>
+<Name>
+GAMO, MIKA
+</Name>
+<Name>
+GAMO, HIDENORI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NAT INST FOR MATERIALS SCIENCE [JP]
+</Name>
+<Name>
+TOPPAN PRINTING CO LTD [JP]
+</Name>
+<Name>
+NATIONAL INSTITUTE FOR MATERIALS SCIENCE
+</Name>
+<Name>
+TOPPAN PRINTING CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1964809
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060833305
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-24
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP323501
+</PriorityNumber>
+<PriorityDate>
+2006-11-24
+</PriorityDate>
+<PriorityNumber>
+JP20050341181
+</PriorityNumber>
+<PriorityDate>
+2005-11-25
+</PriorityDate>
+<PriorityNumber>
+JP20060070030
+</PriorityNumber>
+<PriorityDate>
+2006-03-14
+</PriorityDate>
+<PriorityNumber>
+JP20060070031
+</PriorityNumber>
+<PriorityDate>
+2006-03-14
+</PriorityDate>
+<PriorityNumber>
+JP20060231314
+</PriorityNumber>
+<PriorityDate>
+2006-08-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+H01J1/304
+</Class>
+<Class>
+H01J9/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J35/00D
+</Class>
+<Class>
+B01J35/00D4
+</Class>
+<Class>
+B01J37/14
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+<Class>
+H01J1/304
+</Class>
+<Class>
+H01J9/02B2
+</Class>
+</NCL>
+<Abstract>
+A novel carbon nanotube (64) is featured in that it has the highest Raman scattering intensity in the vicinity of 1580 cm -1 in its Raman spectrum. Carbon nanotubes can be grown on and from the catalytic fine particles (63) which consist of ultra-fine particles of cobalt oxide catalyst onto a substrate comprising a conductive substrate (62) and fine particles (63) of catalyst formed on a surface thereof. An electron emission device (60) so configured as to emit electrons by applying a voltage to apical ends (64a) of such carbon nanotubes (64) can be reduced in driving voltage and can achieve a current such as to emit a fluorescent material on the market for low-velocity electron beams. The electron emission device (60) needs no gate and can thus simplify the structure and reduce the cost of a surface light-emitting device for which the element is used.;  The carbon material remains unoxidized even in a low vacuum and thus allows realizing a light emitting device that can be paneled more easily, and is longer in operating life than those using a conventional electron emission device.
+</Abstract>
+<Claims>
+<P>
+1. A carbon nanotube characterized in that it has a highest Raman scattering intensity in the vicinity of 1580 cm&amp;lt;-1&amp;gt; in its Raman spectrum.
+</P>
+<P>
+2. The carbon nanotube as set forth in claim 1, characterized in that the Raman scattering intensity in the vicinity of 1580 cm&amp;lt;-1&amp;gt; is two times or more as high as that in the vicinity of 1350 cm&amp;lt;-1&amp;gt; .
+</P>
+<P>
+3. A substrate with carbon nanotubes, characterized in that it comprises:
+</P>
+<P>
+a conductive substrate;
+</P>
+<P>
+fine particles of catalyst formed on a surface of said conductive substrate; and
+</P>
+<P>
+carbon nanotubes grown on said fine particles of catalyst and oriented perpendicular to the surface of said conductive substrate,wherein said fine particles of catalyst consist of an ultra-fine particles of cobalt oxide catalyst.
+</P>
+<P>
+4. The substrate with carbon nanotubes as set forth in claim 3, characterized in that said conductive substrate is a conductive silicon substrate or a conductive diamond substrate.
+</P>
+<P>
+5. The substrate with carbon nanotubes as set forth in claim 3, characterized in that said conductive substrate comprises a substrate and a conductive film deposited onto said substrate wherein said substrate is a glass substrate, a semiconductor substrate, a metal substrate or an oxide substrate and said conductive film consists of a silicon film or a diamond film.
+</P>
+<P>
+6. The substrate with carbon nanotubes as set forth in claim 3, characterized in that said diamond film consists of any one of polycrystalline diamond, nanocrystalline diamond, diamond-like carbon and monocrystalline diamond.
+</P>
+<P>
+7. The substrate with carbon nanotubes as set forth in claim 3, characterized in that the carbon nanotubes have a highest Raman scattering intensity in the vicinity of 1580 cm&amp;lt;-1&amp;gt; in their Raman spectrum.
+</P>
+<P>
+8. The substrate with carbon nanotubes as set forth in claim 3, characterized in that said Raman scattering intensity in the vicinity of 1580 cm&amp;lt;-1&amp;gt; is two times or more as high as that in the vicinity of 1350 cm&amp;lt;-1&amp;gt; .
+</P>
+<P>
+9. An electron emission device, characterized in that it emits electrons by applying a voltage to apical ends of the carbon nanotubes in a substrate with carbon nanotubes as set forth in any one of claims 3 to 7.
+</P>
+<P>
+10. A carbon nanotube synthesizing substrate, characterized in that it comprises a substrate and ultra-fine particles of cobalt oxide formed on said substrate.
+</P>
+<P>
+11. The carbon nanotube synthesizing substrate as set forth in claim 10, characterized in that said ultra-fine particles of cobalt oxide have a degree of oxidation such that the binding energy of a core electron in cobalt shifts positively in a range of 1 eV to 3 eV.
+</P>
+<P>
+12. The carbon nanotube synthesizing substrate as set forth in claim 10 or claim 11, characterized in that said substrate is a silicon substrate or a diamond substrate.
+</P>
+<P>
+13. The carbon nanotube synthesizing substrate as set forth in claim 10 or claim 11, characterized in that said substrate comprises:
+</P>
+<P>
+a glass substrate, a semiconductor substrate, a metal substrate or an oxide substrate and
+</P>
+<P>
+a silicon film or a diamond film formed on said substrate.
+</P>
+<P>
+14. The carbon nanotube synthesizing substrate as set forth in claim 13, characterized in that said diamond film is a film of any one of polycrystalline diamond, nanocrystalline diamond, diamond-like carbon and mono-crystalline diamond.
+</P>
+<P>
+15. The carbon nanotube synthesizing substrate as set forth in any one of claims 10 to 14, characterized in that said ultra-fine particles of cobalt oxide has a particle diameter of not more than 10 nm.
+</P>
+<P>
+16. A method of making a carbon nanotube synthesizing substrate, characterized in that it comprises:
+</P>
+<P>
+depositing a cobalt film on a silicon or diamond substrate, or
+</P>
+<P>
+depositing a cobalt thin film on a substrate which comprises a silicon film or a diamond film formed on any one of a glass substrate, a semiconductor substrate, a metal substrate and an oxide substrate; and
+</P>
+<P>
+thermally oxidizing said deposited cobalt thin film to a degree of oxidation such that the binding energy of a core electron of cobalt in the deposited cobalt thin film shifts positively in a range of 1 eV to 3 eV.
+</P>
+<P>
+17. The method of making a carbon nanotube synthesizing substrate as set forth in claim 16, characterized in that said cobalt thin film is deposited to a film thickness of not more than 10 nm.
+</P>
+<P>
+18. The method of making a carbon nanotube synthesizing substrate as set forth in claim 16, characterized in that said thermal oxidation is effected in air at a temperature in a range of 800 deg. C to 1000 deg. C for a time period in a range between 5 minutes and 20 minutes.
+</P>
+<P>
+19. A method of synthesizing carbon nanotubes, characterized in that it comprises:
+</P>
+<P>
+maintaining a carbon nanotube synthesizing substrate at a temperature of note more than 900 deg. C; and
+</P>
+<P>
+synthesizing carbon nanotubes on said substrate.
+</P>
+<P>
+20. The method of synthesizing carbon nanotubes as set forth in claim 19, characterized in that said carbon nanotubes are synthesized by any one of thermal chemical vapor deposition, plasma chemical vapor deposition and solid-liquid interfacial contact cracking in an organic liquid.
+</P>
+<P>
+21. A method of synthesizing carbon nanotubes by solid-liquid interfacial contact cracking wherein a substrate carrying a catalyst composed of a transition metal or a catalyst composed of a transition metal oxide is heated in an organic liquid of alcohol to synthesize carbon nanotubes on said substrate, characterized in that it comprises:
+</P>
+<P>
+a first synthesis process in which they are synthesized at a low substrate temperature; and
+</P>
+<P>
+a second synthesis process split from the first synthesis process in which they are synthesized at a high substrate temperature.
+</P>
+<P>
+22. The method of synthesizing carbon nanotubes as set forth in claim 21, characterized in that said first synthesis process is performed at a substrate temperature of 500 deg. C to 700 deg. C.
+</P>
+<P>
+23. The method of synthesizing carbon nanotubes as set forth in claim 21, characterized in that said second synthesis process is performed at a substrate temperature of 750 deg. C to 1100 deg. C.
+</P>
+<P>
+24. The method of synthesizing carbon nanotubes as set forth in claim 21, characterized in that said first synthesis process is carried out for a synthesis time period of not less than 10 seconds.
+</P>
+<P>
+25. An electron emission device, characterized by using carbon nanotubes synthesized by using a method of synthesizing carbon nanotubes as set forth in any one of claim 19 to 24.
+</P>
+<P>
+26. A method of synthesizing carbon nanotubes by solid-liquid interfacial contact cracking wherein a substrate carrying a catalyst composed of a transition metal or a transition metal oxide is heated in an organic liquid to synthesize a carbon nanotube on said substrate, characterized in that it comprises a step of slowly cooling said substrate, thereby terminating a reaction to synthesize.
+</P>
+<P>
+27. The method of synthesizing carbon nanotubes as set forth in claim 26, characterized in that said slow cooling step is a step in which in terminating the synthetic reaction, the energy for heating said substrate is switched off and in a predetermined time period thereafter said substrate is removed from said organic liquid into a gaseous atmosphere and is then held in the gaseous atmosphere.
+</P>
+<P>
+28. The method of synthesizing carbon nanotubes as set forth in claim 26, characterized in that said slow cooling step comprises a step in which in terminating the synthetic reaction, said substrate is removed from said organic liquid into a gaseous atmosphere and in a predetermined time period thereafter the energy for heating said substrate is switched off and then said substrate is maintained in the gaseous atmosphere.
+</P>
+<P>
+29. The method of synthesizing carbon nanotubes as set forth in claim 27 or claim 28, characterized in that said organic liquid is alcohol and said predetermined time period is not more than 10 seconds.
+</P>
+<P>
+30. The method of synthesizing carbon nanotubes as set forth in claim 26, characterized in that said slow cooling step is a step in which in terminating the synthetic reaction, said substrate is removed from said organic liquid into a gaseous atmosphere and the energy for heating said substrate is decreased gradually and then switched off.
+</P>
+<P>
+31. An electron emission device, characterized by using carbon nanotubes synthesized by a method of synthesizing carbon nanotubes as set forth in any one of claims 26 to 30.
+</P>
+<P>
+32. A method of making an electron emission device, characterized in that it comprises:
+</P>
+<P>
+a first step of forming a cobalt thin film on a conductive substrate and thermally oxidizing the cobalt thin film to form ultra-fine particles of cobalt oxide on said conductive substrate for use as a carbon nanotube synthesizing substrate;
+</P>
+<P>
+a second step of synthesizing carbon nanotubes on said carbon nanotube synthesizing substrate resulting from the first step, by solid-liquid interfacial contact cracking in an organic liquid of alcohol in which they are synthesized at a low substrate temperature in a first synthesis process and at a high substrate temperature in a second synthesis process; and
+</P>
+<P>
+a third step of slowly cooling said carbon nanotube synthesizing substrate when the second step is terminated, whereby an electron emission device is made.
+</P>
+<P>
+33. The method of making an electron emission device as set forth in claim 32, characterized in that said first step comprises forming the cobalt thin film onto said conductive substrate having a film thickness of not more than 10 nm and thermally oxidizing said cobalt thin film in air at a temperature ranging between 800 deg. C and 1000 deg. C for a time period ranging between 5 minutes and 20 minutes.
+</P>
+<P>
+34. The method of making an electron emission device as set forth in claim 32, characterized in that in said second step, said first synthesis process is performed at a substrate temperature of 500 deg. C to 700 deg. C and said second synthesis process is performed at a substrate temperature of 750 deg. C to 1100 deg. C.
+</P>
+<P>
+35. The method of making an electron emission device as set forth in claim 32, characterized in that in said second step, said first synthesis process is carried out for a synthesis time period of not less than 10 seconds but not more than 3 minutes.
+</P>
+<P>
+36. The method of making an electron emission device as set forth in claim 32, characterized in that said third step comprises a step in which in terminating said second step, the energy for heating said carbon nanotube synthesizing substrate is switched off and in a predetermined time period thereafter said substrate is removed from said organic liquid into a gaseous atmosphere and is then held in the gaseous atmosphere.
+</P>
+<P>
+37. The method of making an electron emission device as set forth in claim 32, characterized in that said third step comprises a step in which in terminating said second step, said carbon nanotube synthesizing substrate is removed from said organic liquid into a gaseous atmosphere and in a predetermined time period thereafter the energy for heating said substrate is switched off and then said substrate is held in the gaseous atmosphere.
+</P>
+<P>
+38. The method of making an electron emission device as set forth in claim 36 or 37, characterized in that said organic liquid is alcohol and said predetermined time period is not more than 10 seconds.
+</P>
+<P>
+39. The method of making an electron emission device as set forth in claim 32, characterized in that said third step comprises a step in which in terminating said second step, said carbon nanotube synthesizing substrate is removed from said organic liquid into a gaseous atmosphere and the energy for heating said substrate is gradually decreased and then switched off.
+</P>
+<P>
+40. An apparatus for synthesizing carbon nanotubes by solid-liquid interfacial contact cracking synthesis wherein a substrate carrying a catalyst composed of a transition metal or a transition metal oxide is heated in an organic liquid to synthesize carbon nanotubes onto said substrate, characterized in that it comprises a means for removing said substrate from said organic liquid into a gaseous atmosphere in a predetermined time period.
+</P>
+</Claims>
+<Also_published_as>
+EP1964809A4;US2010171409A1;KR20080072070A;WO2007061078A1;EP2014616A2;EP2014616A3;EP1988056A2;EP1988056A3
+</Also_published_as>
+</BiblioData>

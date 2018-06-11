@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Fluorescent marker for living organism and fluorescent marking method for the same
+</Title>
+<PublicationNumber>
+EP2053402A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TSUKADA KAZUYA [JP]
+</Name>
+<Name>
+GOAN KAZUYOSHI [JP]
+</Name>
+<Name>
+FURUSAWA NAOKO [JP]
+</Name>
+<Name>
+HOSHINO HIDEKI [JP]
+</Name>
+<Name>
+TSUKADA, KAZUYA
+</Name>
+<Name>
+GOAN, KAZUYOSHI
+</Name>
+<Name>
+FURUSAWA, NAOKO
+</Name>
+<Name>
+HOSHINO, HIDEKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONICA MINOLTA MED &amp; GRAPHIC [JP]
+</Name>
+<Name>
+KONICA MINOLTA MEDICAL &amp; GRAPHIC, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2053402
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090153734
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070707487
+</PriorityNumber>
+<PriorityDate>
+2007-01-26
+</PriorityDate>
+<PriorityNumber>
+JP20060019458
+</PriorityNumber>
+<PriorityDate>
+2006-01-27
+</PriorityDate>
+<PriorityNumber>
+JP20060019459
+</PriorityNumber>
+<PriorityDate>
+2006-01-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C09K11/59
+</Class>
+<Class>
+C12M1/00
+</Class>
+<Class>
+C12N15/09
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N21/78
+</Class>
+<Class>
+G01N33/58
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12Q1/68B2
+</Class>
+<Class>
+G01N33/58J
+</Class>
+</NCL>
+<Abstract>
+A fluorescent label for a biomaterial which comprises inorganic fluorescent nanoparticles characterized by having on a surface of the inorganic fluorescent nanoparticles, a modifying group containing a living organism binding portion capable of specifically binding to a living organism;  and a link forming modifying group which combines the inorganic fluorescent nanoparticles together. Use of this fluorescent label makes it possible to conduct an analysis at an elevated sensitivity and an elevated accuracy in, for example, analyzing a biomaterial such as detecting a DNA or an RNA by the hybridization method or determining the base sequence of a DNA, detecting an antigen by the ELISA method and so on.
+</Abstract>
+<Claims>
+<P>
+1. A fluorescent marker for a living organism comprising inorganic fluorescent nanoparticles having on a surface of the nanoparticles:
+</P>
+<P>
+a modifying group containing a living organism binding portion capable of specifically binding to a living organism; and
+</P>
+<P>
+a link forming modifying group which combines the inorganic fluorescent nanoparticles together.
+</P>
+<P>
+2. The fluorescent marker for a living organism of claim 1, wherein a surface covering ratio of the link forming modifying groups on the surfaces of the inorganic fluorescent nanoparticles is 10-50%.
+</P>
+<P>
+3. The fluorescent marker for a living organism of claims 1 or 2, wherein the inorganic fluorescent nanoparticle is a spherical particle having an average particle diameter of 1-10 nm.
+</P>
+<P>
+4. The fluorescent marker for a living organism of any one of claims 1 to 3, wherein the inorganic fluorescent nanoparticle has a core-shell structure comprising:
+</P>
+<P>
+a core of a semiconductor; and
+</P>
+<P>
+a shell having a different composition from the core.
+</P>
+<P>
+5. The fluorescent marker for a living organism of claim 4, wherein the inorganic fluorescent nanoparticle has:
+</P>
+<P>
+the core of Si; and
+</P>
+<P>
+the shell of SiO2.
+</P>
+<P>
+6. The fluorescent marker for a living organism of any one of claims 1 to 5, wherein the link forming modifying group combines the inorganic fluorescent nanoparticles together through a hydrogen bond, an ionic bond, a covalent bond or a Van der Waals&apos; force.
+</P>
+<P>
+7. The fluorescent marker for a living organism of any one of claims 1 - 6, wherein the inorganic fluorescent nanoparticles are in a form of a cluster having a particle number of 2-20.
+</P>
+<P>
+8. A method of fluorescent marking for a living organism using the fluorescent marker of any one of claims 1 to 7, the method comprising the step of:
+</P>
+<P>
+binding the living organism with the inorganic fluorescent nanoparticle through the reactive portion of the modifying group capable of specifically binding to the living organism.
+</P>
+</Claims>
+<Also_published_as>
+EP1978366A1;EP1978366A4;US2010255462A1;WO2007086501A1
+</Also_published_as>
+</BiblioData>

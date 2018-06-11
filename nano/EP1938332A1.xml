@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOSCALE SHIFT REGISTER AND SIGNAL DEMULTIPLEXING USING MICROSCALE/NANOSCALE SHIFT REGISTERS
+</Title>
+<PublicationNumber>
+EP1938332A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SNIDER GREGORY S [US]
+</Name>
+<Name>
+KUEKES PHILIP J [US]
+</Name>
+<Name>
+SNIDER, GREGORY S
+</Name>
+<Name>
+KUEKES, PHILIP J
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1938332
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060788135
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-07-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US28407
+</PriorityNumber>
+<PriorityDate>
+2006-07-21
+</PriorityDate>
+<PriorityNumber>
+US20050255722
+</PriorityNumber>
+<PriorityDate>
+2005-10-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C13/02
+</Class>
+<Class>
+G11C19/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C13/00R25A
+</Class>
+<Class>
+G11C13/02N
+</Class>
+<Class>
+G11C19/00
+</Class>
+</NCL>
+<Abstract>
+One embodiment of the present invention is a nanoscale shift register that can be used, in certain nanoscale and mixed-scale logic circuits, to distribute an input signal to individual nanowires (1011-1017) of the logic circuit. In a described embodiment, the nanoscale shift register includes two series of nanoscale latches (1030-1037), each series controlled by common latch-control signals. Internal latches of each series of latches (1030-1033) are alternatively interconnected with a previous lacth of the other series (1034-1037) and a next latch of the other series by two series of gates (1023, 1025, 1027, 1029, 1022,1024, 1026, 1028), each controlled by a gate signal line (1006 and 1004).
+</Abstract>
+<Claims>
+<P>
+FOREIGN CLAIMS
+</P>
+<P>
+1. A nanoscale shift register comprising: a first set of nanowires (1010, 1012, 1014, 1016) interconnected through a first set of latches (1030-1033) to a first latch-control signal line (1002); and a second set of nanowires (1011, 1013, 1015, 1017) interconnected through a second set of latches (1034-1037) to a second latch-control signal line (1008), each internal nanowire of the second set of nanowires interconnected through a gate of a first set of gates (1023, 1025, 1027, 1029) controlled by a first gate signal line (1006) to a preceding nanowire of the first set of nanowires and interconnected through a gate of a second set of gates (1022, 1024, 1026, 1028) controlled by a second gate signal line (1004) to a next nanowire of the first set of nanowires.
+</P>
+<P>
+2. The nanoscale shift register of claim 1 wherein the first latch-control signal line (1002), the second latch-control signal line (1008), the first gate signal line, (1006) and the second gate signal line (1004) are all microscale signal lines, are all nanoscale signal lines, or comprise a combination of microscale signal lines and nanoscale signal lines.
+</P>
+<P>
+3. The nanoscale shift register of claim 1 wherein each latch (1010-1017) is a hysteretic resistor comprising a nanowire separated from either the first latch-control signal line (1002) or the second latch-control signal line (1008) by a reversibly switchable layer.
+</P>
+<P>
+4. The nanoscale shift register of claim 1 wherein each gate (1022-1029) is a field-effect transistor comprising a first nanowire connected to a second nanowire by a semiconductor layer, the first and second nanowires and semiconductor layer separated from either the first gate signal line or the second gate signal line by dielectric insulating layer.
+</P>
+<P>
+5. The nanoscale shift register of claim 1 wherein the nanoscale shift register is initialized by inputting one or more signals on the latch-control signal lines (1002, 1008) to place all of the latches (1010-1017) into a first state representing one of two Boolean values; and wherein the nanoscale shift register is loaded with a next single-bit data value by inputting a single-bit data value to a first nanowire interconnected with a first latch of the first set of latches (1030-1033) and inputting one or more control signals to the first latch-control signal line to store the input single-bit data value in the first latch.
+</P>
+<P>
+6. The nanoscale shift register of claim 5 wherein the nanoscale shift register is operated to successively output a single-bit data value to each nanowire succeeding the first nanowire by: inputting a signal to one of the first and second gate signal lines (1004, 1006) to electrically interconnect pairs of nanowires, each pair or nanowires comprising a nanowire of the first set of nanowires (1010, 1012, 1014, 1016) reversibly connected to an adjacent nanowire of the second set of nanowires (1011, 1013, 1015, 1017) by a gate (1022-1029) controlled the one of the first and second gate signal lines (1004, 1006), and inputting one or more control signals to the latch-control signal lines (1002, 1008) to transfer data through the interconnected pairs of nanowires from one of the first set of latches (1030-1033) and the second set of latches (1034-1037) to the other of the first set of latches and the second set of latches.
+</P>
+<P>
+7. The nanoscale shift register of claim 6 wherein data is alternatively transferred from latches of the first set of latches (1030-1033) to succeeding latches of the second set of latches (1034-1037) and from latches of the second set of latches to succeeding latches of the first set of latches so that, at regular intervals, a data value initially placed into the first latch is successively output to each nanowire of the first and second sets of nanowires.
+</P>
+<P>
+8. A method for distributing a received data value to each of a set of nanowires (1011- 1017), the method comprising: inputting the received data value into the first latch of a nanoscale shift register; and inputting signals to latch-control signal lines (1002, 1008) and gate signal lines (1004,
+</P>
+<P>
+1006) of the nanoscale shift register to successively output the received data value to each of the nanowires of the set of nanowires.
+</P>
+<P>
+9. The method of claim 8 wherein the nanoscale shift register comprises: a first set of nanowires (1010, 1012, 1014, 1016) interconnected through a first set of latches (1030-1033) to a first latch-control signal line (1002); and a second set of nanowires (1011, 1013, 1015, 1017) interconnected through a second set of latches (1034-1037) to a second latch-control signal line (1008), each internal nanowire of the second set of nanowires interconnected through a gate of a first set of gates (1023, 1025, 1027, 1029) controlled by a first gate signal line (1006) to a preceding nanowire of the first set of nanowires and interconnected through a gate of a second set of gates (1022, 1024, 1026, 1028) controlled by a second gate signal line (1004) to a next nanowire of the first set of nanowires.
+</P>
+<P>
+10. The method of claim 9 wherein inputting the received data value into the first latch of a nanoscale shift register further comprises inputting one or more signals on the latch-control signal lines (1002, 1008) to place all of the latches into a first state representing one of two Boolean values, and inputting the received data value to a first nanowire interconnected with a first latch of the first set of latches (1030-1033) and inputting one or more control signals to the first latch-control signal line (1002) to store the received data value in the first latch; and wherein inputting signals to latch-control signal lines (1002, 1008) and gate signal lines (1004, 1006) of the nanoscale shift register to successively output the received data value to each of the nanowires of the set of nanowires (1011-1017) further comprises alternatively inputting a signal to the first gate signal line (1006) to electrically interconnect pairs of nanowires, each pair or nanowires comprising a nanowire of the first set of nanowires (1010, 1012, 1014, 1016) reversibly connected to the succeeding nanowire of the second set of nanowires (1011, 1013, 1015, 1017) by a gate controlled by the first gate signal line (1006) and inputting one or more control signals to the latch-control signal lines (1002, 1008) to transfer data through the interconnected pairs of nanowires from the first set of latches (1030- 1033) to the second set of latches (1034-1037), and inputting a signal to the second gate signal line (1004) to electrically interconnect pairs of nanowires, each pair or nanowires comprising a nanowire of the second set of nanowires (1011, 1013, 1015, 1017) reversibly connected to the succeeding nanowire of the first set of nanowires (1010, 1012, 1014, 1016) by a gate controlled the second gate signal line (1004) and inputting one or more control signals to the latch-control signal lines (1002, 1008) to transfer data through the interconnected pairs of nanowires from the second set of latches (1034-1037) to the first set of latches (1030-1033).
+</P>
+</Claims>
+<Also_published_as>
+EP1938332B1;WO2007046907A1;US2009196090A1;US7652911B2;US2007094756A1;US7525833B2;JP2009512966A;JP4827926B2;CN101292300A;CN101292300B
+</Also_published_as>
+</BiblioData>

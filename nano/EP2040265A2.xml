@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method and apparatus for obtaining quantitative measurements using a probe based instrument
+</Title>
+<PublicationNumber>
+EP2040265A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SU CHANMIN [US]
+</Name>
+<Name>
+PHAN NGHI [US]
+</Name>
+<Name>
+SU, CHANMIN
+</Name>
+<Name>
+PHAN, NGHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+VEECO INSTR INC [US]
+</Name>
+<Name>
+VEECO INSTRUMENTS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2040265
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080021755
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2005-04-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20050735949
+</PriorityNumber>
+<PriorityDate>
+2005-04-14
+</PriorityDate>
+<PriorityNumber>
+US20040562116P
+</PriorityNumber>
+<PriorityDate>
+2004-04-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q60/24
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q10/06B
+</Class>
+<Class>
+G01Q60/36D
+</Class>
+</NCL>
+<Abstract>
+A cantilever probe-based instrument (10, 110) is controlled to counteract the lateral loads imposed on the probe as a result of probe sample interaction. The probe preferably includes an active cantilever, such as a so-called bimorph cantilever. Force counteraction is preferably achieved by monitoring a lateral force-dependent property of probe operation such as cantilever free end deflection angle and applying a voltage to at least one of the cantilever and one or more separate actuators under feedback to maintain that property constant as the probe-sample spacing decreases. The probe could further uses at least one of contact flexural and torsional resonances characteristics to determine contact and release points. With the knowledge of the tip profile, quantitative mechanical data for probe sample interaction can be obtained.
+</Abstract>
+<Claims>
+<P>
+1. A method of monitoring probe/sample interaction during an indentation cycle of a probe-based instrument, the indentation cycle including a loading phase in which the probe is driven into the sample to produce an indentation and an unloading phase in which the probe is withdrawn from the indentation, the method comprising:
+</P>
+<P>
+(A) determining an initial contact point occurring when the probe first contacts the sample during the loading phase, and
+</P>
+<P>
+(B) determining a release point occurring when the probe first separates from a bottom of the indentation during the unloading phase of the indentation cycle, the release point being determined by detecting a change in probe dynamic characteristics resulting from interaction between the probe and the indentation.
+</P>
+<P>
+2. The method of claim 1, further comprising determining plastic contact depth by subtracting the contact point from the release point.
+</P>
+<P>
+3. The method of claim 1, wherein the initial contact point and release point are determined by detecting changes in torsional oscillation characteristics of the probe, and a relative xy oscillation between the probe and the sample is generated at least in part by shaking the sample in an xy plane.
+</P>
+<P>
+4. The method of claim 3, wherein the change in xy oscillation is detected by detecting a change in at least one of a torsional resonance frequency and a torsional resonance amplitude of the probe.
+</P>
+<P>
+5. The method of claim 1, wherein the detecting step comprises detecting the onset of a contact resonance peak occurring when any portion of the unloading probe separates from the indentation.
+</P>
+<P>
+6. The method of claim 5, wherein the contact resonance comprises at least one of torsional resonance and flexural resonance when the probe is in contact with the sample.
+</P>
+<P>
+7. The method of claim 1, further comprising monitoring changes in at least one of torsional resonance oscillation amplitude and frequency during the unloading phase and determining contact area from the resulting resonating probe data.
+</P>
+<P>
+8. The method of claim 7 , wherein the contact area determination relies on the unloading resonating probe data and characterized probe data.
+</P>
+<P>
+9. The method of claim 8 , further comprising characterizing the probe by determining a surface area of the probe.
+</P>
+<P>
+10. The method of claim 9 , wherein the characterizing step includes indenting a highly plastic reference sample, exciting torsional resonance in the probe at least during the unloading phase of the indentation cycle, and monitoring changes in at least one of torsional resonance amplitude and phase during the unloading phase of the reference sample indentation cycle.
+</P>
+<P>
+11. The method of claim 1, further comprising using a closed loop feedback process to counteract lateral forces imposed on the probe during the indentation cycle.
+</P>
+<P>
+12. The method of claim 11, wherein the probe includes an active cantilever that is subject to bending forces upon energization thereof, and wherein the counteracting step comprises energizing at least one of the probe and a z position actuator for the probe under feedback
+</P>
+<P>
+13. A method of monitoring probe/sample interaction during an indentation cycle of a probe-based instrument, the indentation cycle including a loading phase in which the probe is driven into the sample to produce an indentation and an unloading phase in which the probe is withdrawn from the indentation, the method comprising:
+</P>
+<P>
+(A) determining a contact point occurring when the probe first contacts the sample during the loading phase; and
+</P>
+<P>
+(B) determining a release point occurring when the probe first separates from a bottom of the indentation during the unloading phase, the release point being determined by detecting a change in relative xy oscillation between the probe and the indentation; and
+</P>
+<P>
+(C) determining a contact depth by subtracting the contact point from the release point.
+</P>
+<P>
+14. A method of monitoring probe sample interaction during an indentation cycle of a probe-based instrument, the indentation cycle including a loading phase in which the probe is driven into the sample to produce an indentation and an unloading phase in which the probe is withdrawn from the indentation, the method comprising:
+</P>
+<P>
+(A) determining a release point occurring when the probe first separates from a bottom of the indentation during the unloading phase, the release point being determined by detecting a change in at least one of a torsional contact oscillation and a flexural contact oscillation of the probe;
+</P>
+<P>
+(B) determining a separation point located between the release point and the sample surface, the separation point being determined by detecting a change in at least one of a torsional contact oscillation and a flexural contact oscillation of the probe; (C) determining an actual contact depth by subtracting the separation point from the release point; and
+</P>
+<P>
+(D) determining contact area from - probe shape data and the determined actual contact depth.
+</P>
+<P>
+15. The method of claim 14, further comprising determining tip shape through at least one of direct measurement and a tip shape reconstruction technique.
+</P>
+<P>
+16. A method of monitoring probe sample interaction during an indentation cycle of a probe-based instrument, the indentation cycle including a loading phase in which the probe is driven into the sample to produce an indentation and an unloading phase in which the probe is withdrawn from the indentation, the method comprising:
+</P>
+<P>
+(A) driving the probe to oscillate in torsional resonance; and
+</P>
+<P>
+(B) determining an initial contact point by detecting a change in at least one of torsional resonance frequency and amplitude occurring as a result of initial probe/sample contact during the loading phase.
+</P>
+<P>
+17. An instrument comprising:
+</P>
+<P>
+(A) a probe including an active cantilever having a base and a free end;
+</P>
+<P>
+(B) a z position actuator that drives at least one of the probe and a sample support to move in a z direction to alter a probe/sample spacing; and
+</P>
+<P>
+(C) a controller that
+</P>
+<P>
+i. energizes at least one of the active cantilever and the z-position actuator to effect an indentation cycle including a loading phase in which the probe is driven into the sample to produce an indentation and an unloading phase in which the probe is withdrawn from the indentation,
+</P>
+<P>
+ii. determines an initial contact point occurring when the probe first contacts the sample during the loading phase, and
+</P>
+<P>
+iii. determines a release point occurring when the probe first separates from a bottom of the indentation during the unloading phase of the indentation cycle, the release point being determined by detecting a change in relative xy oscillation between the probe and the indentation.
+</P>
+<P>
+18. The instrument of claim 17, wherein the controller determines a separation point located between the release point and the sample surface, the separation point being determined by detecting a change in at least one of a torsional contact oscillation and a flexural contact oscillation of the probe, and wherein the controller determines contact depth by subtracting the separation point from the release point.
+</P>
+<P>
+19. The instrument of claim 17, wherein the controller acquires data while monitoring changes in at least one of torsional resonance oscillation amplitude and frequency during the unloading phase and determines contact area from the acquired data.
+</P>
+</Claims>
+<Also_published_as>
+EP2040265A3;WO2005104138A1;US2009222958A1;US8161805B2;US2006000263A1;US7596990B2;KR20120004537A;JP2007532916A;EP1756835A1
+</Also_published_as>
+</BiblioData>

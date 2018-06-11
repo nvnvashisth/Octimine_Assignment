@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+OPTICAL ELEMENT, EXPOSURE APPARATUS EMPLOYING THE OPTICAL ELEMENT, AND DEVICE MANUFACTURING METHOD
+</Title>
+<PublicationNumber>
+EP2109134A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MURAKAMI KATSUHIKO [JP]
+</Name>
+<Name>
+KOMIYA TAKAHARU [JP]
+</Name>
+<Name>
+MURAKAMI, KATSUHIKO
+</Name>
+<Name>
+KOMIYA, TAKAHARU
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NIPPON KOGAKU KK [JP]
+</Name>
+<Name>
+NIKON CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2109134
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080703931
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP51119
+</PriorityNumber>
+<PriorityDate>
+2008-01-25
+</PriorityDate>
+<PriorityNumber>
+JP20070014920
+</PriorityNumber>
+<PriorityDate>
+2007-01-25
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B5/08
+</Class>
+<Class>
+G02B5/26
+</Class>
+<Class>
+G03F7/20
+</Class>
+<Class>
+G21K1/06
+</Class>
+<Class>
+H01L21/027
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G02B17/06C2
+</Class>
+<Class>
+G02B5/08M
+</Class>
+<Class>
+G02B5/26
+</Class>
+<Class>
+G03F7/70F18
+</Class>
+<Class>
+G03F7/70F20
+</Class>
+<Class>
+G03F7/70L4F
+</Class>
+<Class>
+G03F7/70P10B
+</Class>
+<Class>
+G03F7/70P8B
+</Class>
+<Class>
+G21K1/06B
+</Class>
+</NCL>
+<Abstract>
+[PROBLEMS] To provide an optical element in which optical characteristics are enhanced by making the optical element have two properties, i.e., oxidation resistance and absorbability of non-exposure light, at the same time. [MEANS FOR SOLVING PROBLEMS] A protective layer (30) is formed while varying the composition in the depth direction, and includes an interface side layer (31) provided on a thin film layer (L1), i.e., the outermost layer of a multilayer film (20), a surface side layer (32) provided on the inter face side layer (31) as the outermost surface of an optical element (100), and an intermediate layer (33). The interface side layer (31) has such properties as absorbing non-exposure light from a light source relatively. The surface side layer (32) suppresses oxidation of the surface of the multilayer film (20). Consequently, deterioration of reflectance on the surface of the optical element (100) can be suppressed while reducing reflection of the non-exposure light, even if extreme UV-rays are radiated in the exposure device.
+</Abstract>
+<Claims>
+<P>
+1. An optical element, comprising:
+</P>
+<P>
+a substrate used for support;
+</P>
+<P>
+a multilayer film supported on the substrate, the multilayer film reflecting exposure light, the exposure light comprising at least one of extreme ultraviolet radiation and soft X-radiation from source light in a prescribed wavelength region; and
+</P>
+<P>
+a protective layer provided on the multilayer film, the protective layer preventing oxidation of the multilayer film, the protective layer having an absorption index relative to non-exposure light other than the exposure light that is larger than the absorption index relative to the exposure light.
+</P>
+<P>
+2. The optical element according to claim 1, wherein the non-exposure light comprises at least one of ultraviolet radiation, visible light, and infrared light.
+</P>
+<P>
+3. The optical element according to claim 1 or 2, wherein a material composition of the protective layer changes along a depthwise direction.
+</P>
+<P>
+4. The optical element according to any one of claims 1 to 3, wherein the protective layer has a surface-side layer on its outermost surface side in a state where it is saturated by oxidation, and has an interfacial-side layer on a boundary face side with the multilayer film in a state where it is unsaturated by oxidation.
+</P>
+<P>
+5. The optical element according to claim 4, wherein the protective layer prevents oxidation of the multilayer film by the surface-side layer.
+</P>
+<P>
+6. The optical element according to claim 4 or 5, wherein the protective layer conducts relative absorption of the non-exposure light from the source light by the interfacial-side layer.
+</P>
+<P>
+7. The optical element according to any one of claim 4 to 6, wherein the surface-side layer is formed with SiO2, and the interfacial-side layer is formed with SiO.
+</P>
+<P>
+8. The optical element according to any one of claims 4 to 6, wherein the surface-side layer is formed with TiO2, and the interfacial-side layer is formed with TiO.
+</P>
+<P>
+9. The optical element according to any one of claims 4 to 6, wherein the surface-side layer is formed with ZrO2, and the interfacial-side layer is formed with ZrO.
+</P>
+<P>
+10. The optical element according to any one of claims 4 to 9, wherein the protective layer comprises an intermediate layer between the surface-side layer and the interfacial-side layer.
+</P>
+<P>
+11. The optical element according to claim 18, wherein the intermediate layer comprises at least one of Si, SiO, SiO1.5, and SiO2.
+</P>
+<P>
+12. The optical element according to any one of claims 1 to 11, wherein the multilayer film is composed from alternately laminating on top of the substrate a first layer that is composed of material with a small refractive index difference relative to the refractive index of a vacuum in the extreme ultraviolet ray region, and a second layer that is composed of material with a large refractive index difference.
+</P>
+<P>
+13. The optical element according to any one of claims 1 to 12, wherein the protective layer is provided on top of the first layer that is the topmost layer of the multilayer film.
+</P>
+<P>
+14. An optical element, comprising:
+</P>
+<P>
+a substrate used for support;
+</P>
+<P>
+a multilayer film supported on the substrate, the multilayer film reflecting exposure light, exposure light comprising at least one of extreme ultraviolet radiation and soft X-radiation from source light in a prescribed wavelength region; and
+</P>
+<P>
+a protective layer provided on the multilayer film, the protective layer having a surface-side layer on its outermost surface-side in a state where it is saturated by oxidation and having an interfacial-side layer on a boundary face-side with the multilayer film in a state where it is unsaturated by oxidation.
+</P>
+<P>
+15. The optical element according to claim 14, wherein the surface-side layer is formed with SiO2, and the interfacial-side layer is formed with SiO.
+</P>
+<P>
+16. The optical element according to claim 14, wherein the surface-side layer is formed with TiO2, and the interfacial-side layer is formed with TiO.
+</P>
+<P>
+17. The optical element according to claim 14, wherein the surface-side layer is formed with ZrO2, and the interfacial-side layer is formed with ZrO.
+</P>
+<P>
+18. The optical element according to claim 17, wherein the protective layer comprises an intermediate layer between the surface-side layer and the interfacial-side layer.
+</P>
+<P>
+19. The optical element according to claim 18, wherein the intermediate layer comprises at least one of Si, SiO, SiO1.5, and SiO2.
+</P>
+<P>
+20. The optical element according to any one of claims 14 to 19, wherein the multilayer film is composed from alternately laminating on top of the substrate a first layer that is composed of material with a small refractive index difference relative to the refractive index of a vacuum in the extreme ultraviolet ray region, and a second layer that is composed of material with a large refractive index difference.
+</P>
+<P>
+21. The optical element according to any one of claims 14 to 20, wherein the protective layer is provided on top of the first layer that is the topmost layer of the multilayer film.
+</P>
+<P>
+22. An exposure apparatus, comprising:
+</P>
+<P>
+a light source that generates extreme ultraviolet radiation;
+</P>
+<P>
+an illumination optical system that guides the extreme ultraviolet radiation from the light source to a mask used for transference; and
+</P>
+<P>
+a projection optical system that forms a pattern image of the mask on a sensitive substrate, wherein
+</P>
+<P>
+at least one of the mask, the illumination optical system, and the projection optical system comprises the optical element according to any one of claims 1 to 21.
+</P>
+<P>
+23. A device manufacturing method which uses the exposure apparatus according to claim 22.
+</P>
+</Claims>
+<Also_published_as>
+US2010190113A1;US8121254B2;WO2008090988A1
+</Also_published_as>
+</BiblioData>

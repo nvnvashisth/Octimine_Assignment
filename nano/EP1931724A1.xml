@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+TRANSPARENT POLYMER NANOCOMPOSITES CONTAINING NANOPARTICLES AND METHOD OF MAKING SAME
+</Title>
+<PublicationNumber>
+EP1931724A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WONG MINHAO [JP]
+</Name>
+<Name>
+YAMAGUCHI KATSUMI [JP]
+</Name>
+<Name>
+TSUJI RYOTARO [JP]
+</Name>
+<Name>
+WONG, MINHAO
+</Name>
+<Name>
+YAMAGUCHI, KATSUMI
+</Name>
+<Name>
+TSUJI, RYOTARO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KANEKA CORP [JP]
+</Name>
+<Name>
+KANEKA CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1931724
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060798507
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP320157
+</PriorityNumber>
+<PriorityDate>
+2006-10-03
+</PriorityDate>
+<PriorityNumber>
+US20050723344P
+</PriorityNumber>
+<PriorityDate>
+2005-10-03
+</PriorityDate>
+<PriorityNumber>
+US20060830483P
+</PriorityNumber>
+<PriorityDate>
+2006-07-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C08K3/22
+</Class>
+<Class>
+C08K5/375
+</Class>
+<Class>
+C08K5/541
+</Class>
+<Class>
+C08K9/04
+</Class>
+<Class>
+C09C1/04
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09C1/04B
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to transparent nanocomposites comprising of metal oxide nanoparticles dispersed in polymer matrix. The nanoparticles have capping agents attached onto the nanoparticle surfaces and a precursor solution of capped nanoparticles and polymer is prepared and dried to obtain the nanocomposites. The nanocomposites exhibit UV absorption, low haze, and improved thermal stability. The present invention also relates to the methods associated with the preparation of capped nanoparticles, precursor solution and nanocomposites.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A nanocomposite compri sing : nanoparticles of zinc oxide covered by a capping agent and a polymer; wherein the nanocomposite exhibits the following; a) haze level being no more than 5% in the measurement conditions of 100 microns thickness, b) ultraviolet absorption being beyond the effective UV cut-off wavelength, and c) temperature to reduce to 50% of the original weight measured at
+</P>
+<P>
+25&amp;lt;0&amp;gt;C, being at least 10&amp;lt;0&amp;gt;C higher than the polymer without the nanoparticles.
+</P>
+<P>
+2. The nanocomposite of Claim 1, wherein the nanoparticles are surface treated with a thiol compound, serving the role of capping agent(s), having aromatic group of the structure, HS - R1 - AR - R2 or HS - AR - R2, whereby R1, is selected from the group consisting of cycloalkylene, cycloalkenylene, branched or unbranched alkylene, a branched or unbranched alkenylene, a branched or unbranched alkynylene, a branched or unbranched heteroalkylene, a branched or unbranched heteroalkenylene, a branched or unbranched heteroalkynylene; and R2, is selected from the group consisting of sulfonate, phosphonate, halogen, hydrogen, epoxy, allyl, amines, amides, aryl, heteroaryl, cycloalkyl, cycloalkenyl, heterocycloalkyl ester, a branched or unbranched alkyl, a branched or unbranched alkenyl, a branched or unbranched alkynyl, a branched or unbranched heteroalkyl, a branched or unbranched hetero alkenyl, a branched or unbranched heteroalkynyl; and AR is an aromatic group consisting of arylene, cycloarylene, heteroarylene or heterocycloarylene; the abovementioned thiol compound may be used in combination with other types of thiol compounds or non-thiolic capping agents.
+</P>
+<P>
+3. The nanocomposite according to Claim 1, wherein the nanoparticles are surface treated with one or more types of silane compound(s), serving the role of capping agent(s), having the structure, XnY(3.n)Si - (CH2)m- R, whereby X is a hydrolyzable functional group including acryloxy, acyloxy, alkoxy, alkoxyalkoxy, amine, enoxy, halogen, methacryloxy, oxime or phenoxy, Y is any non- hydrolyzable functional group, the number n can be 1, 2 or 3, and number m is an integer ranging from 0 to 18, R is an organic group having a functionality from the group consisting of cycloalkyl, cycloalkenyl, branched or unbranched alkyl, a branched or unbranched alkenyl, a branched or unbranched alkynyl, a branched or unbranched heteroalkyl, a branched or unbranched heteroalkenyl, a branched or unbranched heteroalkynyl, acid anhydride, acyloxy, alkoxy, allyl, amino, amido, carbamate, cyano, epoxy, epoxy cycloalkyl, ester, glycidoxy, halogen, halogenated alkyl, hydrogen, hydroxyl, mercapto, methacryloyl, phenyl, phosphonate, sulfonate, sulfonyl, ureido, vinyl, and combinations thereof; the abovementioned silane compound may be used in combination with other types of silane compounds or non-silane capping agents .
+</P>
+<P>
+4. The nanocomposite according to Claim 1, wherein the nanoparticles are surface treated with one or more types of silane compound(s), serving the role of capping agent(s), having aromatic group of the structure, X&apos;nY&apos;(3.n)Si - R3 - AR - R4 or X&apos;nY&apos;(3-n)Si - AR&apos; - R4, whereby X&apos; is a hydrolyzable functional group including acryloxy, acyloxy, alkoxy, alkoxyalkoxy, amine, enoxy, halogen, methacryloxy, oxime or phenoxy, Y&apos; is any non- hydrolyzable functional group, the number n can be 1, 2 or 3; R3 is selected from the group consisting of cycloalkylene, cycloalkenylene, branched or unbranched alkylene, a branched or unbranched alkenylene, a branched or unbranched alkynylene, a branched or unbranched heteroalkylene, a branched or unbranched hetero alkenylene, a branched or unbranched heteroalkynylene; R4 is an organic group having a functionality from the group consisting of cycloalkyl, cycloalkenyl, branched or unbranched alkyl, a branched or unbranched alkenyl, a branched or unbranched alkynyl, a branched or unbranched heteroalkyl, a branched or unbranched heteroalkenyl, a branched or unbranched heteroalkynyl; both R3 and R4 may also be selected from the group consisting of acid anhydride, acyloxy, alkoxy, allyl, amino, amido, carbamate, cyano, epoxy, epoxy cycloalkyl, ester, glycidoxy, halogen, halogenated alkyl, hydrogen, hydroxyl, mercapto, phosphonate, sulfonate, sulfonyl, ureido, and combinations thereof; and AR&apos; is an aromatic group consisting of arylene, cycloarylene, heteroarylene or heterocycloarylene, including pyridine, pyrrole, thiophene,etc; the abovementioned silane compound may be used in combination with other types of silane compounds or non-silane capping agents .
+</P>
+<P>
+5. The nanocomposite according to Claim 1, wherein the polymer matrix is a hydrophobic polymer or a copolymer comprising of hydrophobic and hydrophilic monomers, with the hydrophilic monomer comprising not more than 40 percent weight of the total polymer; whereby the hydrophilic monomer includes functional groups that contribute hydrophilic character.
+</P>
+<P>
+6. \ The nanocomposite according to Claim 1, wherein the polymer matrix is selected from the group of thermoplastics comprising of polyester, polycarbonate, polyolefin, polyamide, polyurethane, polyacetal, polyvinyl acetal, polyvinyl ketal, vinyl polymer or copolymer comprising vinyl monomer selected from (meth)acrylic ester, aromatic vinyl, vinyl cyanide, vinyl halide, vinylidene halide and combinations thereof.
+</P>
+<P>
+7. The nanocomposite according to Claim 1, wherein the polymer matrix is selected from the group of thermoplastics comprising of polyalkylene terephthalate, polycarbonate of bisphenol compound, vinyl polymer or copolymer comprising vinyl monomer selected from methyl methacrylate, styrene and acrylonitrile.
+</P>
+<P>
+8. The nanocomposite according to Claim 1, wherein the polymer matrix is selected from the group of thermoplastics comprising of poly
+</P>
+<P>
+(meth)acrylates and polystyrene, or copolymer comprising vinyl monomer selected from methyl methacrylate, styrene and acrylonitrile.
+</P>
+<P>
+9. The nanocomposite according to Claim 1, wherein the nanoparticles comprise of zinc oxide, or mixture of inorganic nanoparticles of metal oxides, semiconductor or metals and zinc oxide.
+</P>
+<P>
+10. The nanocomposite according to Claim 1, wherein the nanoparticles have an average particle diameter of 1 to 20 nm.
+</P>
+<P>
+11. The nanocomposite according to Claim 1 , wherein the nanocomposite have an effective UV cut-off wavelength of 380nm or less.
+</P>
+<P>
+12. A coated article comprising a nanocomposite according to Claim 1.
+</P>
+<P>
+13. The coated article of Claim 12, wherein the nanoparticles are surface treated with a thiol compound, serving the role of capping agent, having aromatic group of the structure, HS - R1 - AR - R2 or HS - AR - R2, whereby R1, is selected from the group consisting of cycloalkylene, cycloalkenylene, branched or unbranched alkylene, a branched or unbranched alkenylene, a branched or unbranched alkynylene, a branched or unbranched heteroalkylene, a branched or unbranched heteroalkenylene, a branched or unbranched heteroalkynylene; and R2, is selected from the group consisting of sulfonate, phosphonate, halogen, hydrogen, epoxy, allyl, amines, amides, aryl, heteroaryl, cycloalkyl, cycloalkenyl, heterocycloalkyl ester, a branched or unbranched alkyl, a branched or unbranched alkenyl, a branched or unbranched alkynyl, a branched or unbranched heteroalkyl, a branched or unbranched heteroalkenyl, a branched or unbranched heteroalkynyl; and AR is an aromatic group consisting of arylene, cycloarylene, heteroarylene or heterocycloarylene; the abovementioned thiol compound may be used in combination with other types of thiol compounds or non-thiolic capping agents.
+</P>
+<P>
+14. The coated article according to Claim 12, wherein the nanoparticles are surface treated with one or more types of silane compound(s), serving the role of capping agent(s), having the structure, XnY(3-n)Si - (CH2)m - R, whereby X is a hydrolyzable functional group including acryloxy, acyloxy, alkoxy, alkoxyalkoxy, amine, enoxy, halogen, methacryloxy, oxime or phenoxy, Y is any non-hydrolyzable functional group, the number n can be 1, 2 or 3, and number m is an integer ranging from 0 to 18, R is an organic group having a functionality from the group consisting of cycloalkyl, cycloalkenyl, branched or unbranched alkyl, a branched or unbranched alkenyl, a branched or unbranched alkynyl, a branched or unbranched heteroalkyl, a branched or unbranched heteroalkenyl, a branched or unbranched heteroalkynyl, acid anhydride, acyloxy, alkoxy, allyl, amino, amido, carbamate, cyano, epoxy, epoxy cycloalkyl, ester, glycidoxy, halogen, halogenated alkyl, hydrogen, hydroxyl, mercapto, methacryloyl, phenyl, phosphonate, sulfonate, sulfonyl, ureido, vinyl, and combinations thereof; the abovementioned silane compound may be used in combination with other types of silane compounds or non-silane capping agents.
+</P>
+<P>
+15. The coated article according to Claim 12, wherein the nanoparticles are surface treated with one or more types of silane compound(s), serving the role of capping agent(s), having aromatic group of the structure, X&apos;nY&apos;(3-n)Si - R3 - AR&apos;- R4 or X&apos;nY&apos;(3-n)Si- AR&apos;- R4, whereby X&apos; is a hydrolyzable functional group including acryloxy, acyloxy, alkoxy, alkoxyalkoxy, amine, enoxy, halogen, methacryloxy, oxime or phenoxy, Y&apos; is any non- hydrolyzable functional group, the number n can be 1, 2 or 3; R3 is selected from the group consisting of cycloalkyl ene, cycloalkenylene, branched or unbranched alkylene, a branched or unbranched alkenylene, a branched or unbranched alkynylene, a branched or unbranched heteroalkylene, a branched or unbranched heteroalkenylene, a branched or unbranched heteroalkynyl ene; R4 is an organic group having a functionality from the group consisting of cycloalkyl, cycloalkenyl, branched or unbranched alkyl, a branched or unbranched alkenyl, a branched or unbranched alkynyl, a branched or unbranched heteroalkyl, a branched or unbranched heteroalkenyl, a branched or unbranched heteroalkynyl; both R3 and R4 may also be selected from the group consisting of acid anhydride, acyloxy, alkoxy, allyl, amino, amido, carbamate, cyano, epoxy, epoxy cycloalkyl, ester, glycidoxy, halogen, halogenated alkyl, hydrogen, hydroxyl, mercapto, phosphonate, sulfonate, sulfonyl, ureido and combinations thereof; and AR&apos; is an aromatic group consisting of arylene, cycloarylene, heteroarylene or heterocycloarylene, including pyridine, pyrrole, thiophene,etc; the abovementioned silane compound may be used in combination with other types of silane compounds or non-silane capping agents.
+</P>
+<P>
+5 16. The coated article according to Claim 12, wherein the polymer matrix of at least one layer of coating is a hydrophobic polymer or a copolymer comprising of hydrophobic and hydrophilic monomers, with the hydrophilic monomer comprising not more than 40 percent weight of the total polymer; whereby the hydrophilic monomer includes functional groups that contribute 10 hydrophilic character.
+</P>
+<P>
+17. The coated article according to Claim 12, wherein the polymer matrix of at least one layer of coating is selected from the group of thermoplastics comprising of polyester, polycarbonate, polyolefin, polyamide, polyurethane, polyacetal, polyvinyl acetal, polyvinyl ketal, vinyl polymer or copolymer
+</P>
+<P>
+/J comprising vinyl monomer selected from (meth)acrylic ester, aromatic vinyl, vinyl cyanide, vinyl halide, vinylidene halide and combinations thereof.
+</P>
+<P>
+18. The coated article according to Claim 12, wherein the polymer matrix of at least one layer of coating is selected from the group of thermoplastics comprising of polyalkylene terephthalate, polycarbonate of bisphenol compound,
+</P>
+<P>
+20 vinyl polymer or copolymer comprising vinyl monomer selected from methyl methacrylate, styrene and acrylonitrile.
+</P>
+<P>
+19. The coated article according to Claim 12, wherein the polymer matrix is selected from the group of thermoplastics comprising of poly (meth)acrylates and polystyrene, or copolymer comprising vinyl monomer
+</P>
+<P>
+25 selected from methyl methacrylate, styrene and acrylonitrile.
+</P>
+<P>
+20. The coated article according to Claim 12, wherein the substrate comprises the nanocomposite.
+</P>
+<P>
+21. The coated article according to Claim 12, wherein the nanoparticles comprise of zinc oxide, or mixture of inorganic nanoparticles of metal oxides, semiconductors or metals and zinc oxide.
+</P>
+<P>
+22. The coated article according to Claim 12, wherein the nanoparticles have an average particle diameter of 1 to 20 nm.
+</P>
+<P>
+23. The coated article according to Claim 12, wherein at least one layer of the coating has an effective UV cut-off wavelength of 380nm or less.
+</P>
+<P>
+&amp;lt;&apos;&amp;gt;24. A method for making a nanocomposite;, comprising the steps of:
+</P>
+<P>
+1) treating nanoparticles with a capping agent, 2) preparing a solution of the nanoparticles using a nitrogen- containing solvent including an amine, an amide or a combination thereof;
+</P>
+<P>
+3) mixing the solution of the nanoparticles and a polymer, and
+</P>
+<P>
+4) drying the mixture.
+</P>
+<P>
+25. The method of Claim 24, wherein the nanoparticles are surface treated with a thiol compound, serving the role of capping agent(s), having aromatic group of the structure, HS - Ri - AR - R2 or HS - AR - R2, whereby Ri , is selected from the group consisting of cycloalkylene, cycloalkenylene, branched or unbranched alkylene, a branched or unbranched alkenylene, a branched or unbranched alkynylene, a branched or unbranched heteroalkylene, a branched or unbranched heteroalkenylene, a branched or unbranched heteroalkynylene; and R2, is selected from the group consisting of sulfonate, phosphonate, halogen, hydrogen, epoxy, allyl, amines, amides, aryl, heteroaryl, cycloalkyl, cycloalkenyl, heterocycloalkyl ester, a branched or unbranched alkyl, a branched or unbranched alkenyl, a branched or unbranched alkynyl, a branched or unbranched heteroalkyl, a branched or unbranched hetero alkenyl, a branched or unbranched heteroalkynyl; and AR is an aromatic group consisting of arylene, cycloarylene, heteroarylene or heterocycloarylene; the abovementioned thiol compound may be used in combination with other types of thiol compounds or non-thiolic capping agents.
+</P>
+<P>
+26. The method of Claim 24, wherein the nanoparticles are surface treated with one or more types of silane compound(s), serving the role of capping agent(s), having the structure, XnY(3-n)Si - (CH2)m - R, whereby X is a hydrolyzable functional group including acryloxy, acyloxy, alkoxy, alkoxyalkoxy, amine, enoxy, halogen, methacryloxy, oxime or phenoxy, Y is any non- hydrolyzable functional group, the number n can be 1, 2 or 3, and number m is an integer ranging from 0 to 18, R is an organic group having a functionality from the group consisting of cycloalkyl, cycloalkenyl, branched or unbranched alkyl, a branched or unbranched alkenyl, a branched or unbranched alkynyl, a branched or unbranched heteroalkyl, a branched or unbranched heteroalkenyl, a branched or unbranched heteroalkynyl, acid anhydride, acyloxy, alkoxy, allyl, amino, amido, carbamate, cyano, epoxy, epoxy cycloalkyl, ester, glycidoxy, halogen, halogenated alkyl, hydrogen, hydroxyl, mercapto, methacryloyl, phenyl, phosphonate, sulfonate, sulfonyl, ureido, vinyl, and combinations thereof; the abovementioned silane compound may be used in combination with other types of silane compounds or non-silane capping agents.
+</P>
+<P>
+27. &apos; The method of Claim 24, wherein the nanoparticles are surface treated with one or more types of silane compound(s), serving the role of capping agent(s), having aromatic group of the structure, X&apos;nY&apos;(3-n)Si - R3 - AR&apos; - R4 or X&apos;nY&apos;(3.n)Si - AR&apos; - R4, whereby X&apos; is a hydrolyzable functional group including acryloxy, acyloxy, alkoxy, alkoxyalkoxy, amine, enoxy, halogen, methacryloxy, oxime or phenoxy, Y&apos; is any non- hydrolyzable functional group, the number n can be 1, 2 or 3; R3 is selected from the group consisting of cycloalkylene, cycloalkenylene, branched or unbranched alkylene, a branched or unbranched alkenylene, a branched or unbranched alkynylene, a branched or unbranched heteroalkylene, a branched or unbranched heteroalkenylene, a branched or unbranched heteroalkynylene; R4 is an organic group having a functionality from the group consisting of cycloalkyl, cycloalkenyl, branched or unbranched alkyl, a branched or unbranched alkenyl, a branched or unbranched alkynyl, a branched or unbranched heteroalkyl, a branched or unbranched heteroalkenyl, a branched or unbranched heteroalkynyl; both R1 and R2may also be selected from the group consisting of acid anhydride, acyloxy, alkoxy, allyl, amino, amido, carbamate, cyano, epoxy, epoxy cycloalkyl, ester, glycidoxy, halogen, halogenated alkyl, hydrogen, hydroxyl, mercapto, phosphonate, sulfonate, sulfonyl, ureido and combinations thereof; and AR&apos; is an aromatic group consisting of arylene, cycloarylene, heteroarylene or heterocycloarylene, including pyridine, pyrrole, thiophene,etc; the abovementioned silane compound may be used in combination with other types of silane compounds or non-silane capping agents
+</P>
+<P>
+28. The method of Claim 24 wherein said metal, semiconductor or metal oxide nanoparticle is comprised of a material selected from the group consisting of aluminium, cadmium, cerium, chromium, cobalt, copper, gallium, germanium, gold, indium, iron, iridium, lead, mercury, nickel, platinum, palladium, silicon, silver, tin, zinc, zirconium, aluminum arsenide, aluminum nitride, aluminum phosphide, cadmium selenide, cadmium sulfide, cadmium telluride, gallium arsenide, gallium nitride, gallium phosphide, gallium selenide, gallium sulfide, indium arsenide, indium phosphide, indium nitride, indium selenide, indium sulfide, indium telluride, lead selenide, lead sulfide, lead telluride, mercury selenide, mercury sulfide, mercury telluride, zinc selenide, zinc sulfide, zinc telluride, aluminum oxide, cadmium oxide, cerium oxide, chromium oxide, cobalt oxide, indium oxide, indium tin oxide, iron oxide, lead oxide, nickel oxide, silicon dioxide, tin oxide, titanium oxide, zinc oxide and zirconium oxide
+</P>
+<P>
+29. The method of Claim 24 wherein said nanoparticle is zinc oxide.
+</P>
+<P>
+30. The method of Claim 24 wherein the solvent is selected from the group of N,N-dirnethylformamide or pyridine and combinations thereof.
+</P>
+<P>
+31. The method of Claim 24 wherein the polymer or co-polymer is selected from the group consisting of polyester, polycarbonate, polyolefin, polyamide, polyurethane, polyacetal, polyvinyl acetal, polyvinyl ketal, vinyl polymer or copolymer comprising vinyl monomer selected from (meth)acrylate ester, aromatic vinyl, vinyl cyanide, vinyl halide, vinylidene halide , vinyl alcohol and derivatives, vinyl pyrrolidone and combinations thereof.
+</P>
+<P>
+32. The method of Claim 24 wherein the polymer is selected from the group consisting of poly (meth)acrylate, polystyrene, or copolymer comprising vinyl monomer selected from methyl methacrylate, styrene and acrylonitrile.
+</P>
+</Claims>
+<Also_published_as>
+EP1931724B1;WO2007043496A1;US2009233090A1;KR20080068841A;JP2009510180A
+</Also_published_as>
+</BiblioData>

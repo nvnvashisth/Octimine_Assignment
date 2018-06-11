@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DEVICE FOR DETECTING/STORING ELECTROMAGNETIC BEAMS, METHOD FOR MAKING SAME, AND USE THEREOF AND IMAGER INCORPORATING SAME
+</Title>
+<PublicationNumber>
+EP1997162A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BOURGOIN JEAN-PHILIPPE [FR]
+</Name>
+<Name>
+DERYCKE VINCENT [FR]
+</Name>
+<Name>
+BORGHETTI JULIEN [FR]
+</Name>
+<Name>
+BOURGOIN, JEAN-PHILIPPE
+</Name>
+<Name>
+DERYCKE, VINCENT
+</Name>
+<Name>
+BORGHETTI, JULIEN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1997162
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070731128
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007FR00432
+</PriorityNumber>
+<PriorityDate>
+2007-03-13
+</PriorityDate>
+<PriorityNumber>
+FR20060002233
+</PriorityNumber>
+<PriorityDate>
+2006-03-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L29/775
+</Class>
+<Class>
+H01L51/42
+</Class>
+<Class>
+H01L51/44
+</Class>
+<Class>
+H01L51/46
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/42K
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+The invention concerns a device for detecting and storing electromagnetic beams, an imager incorporating same, a method for making said device and use thereof. The inventive device (1) comprises a field-effect phototransistor including: two source (S) and drain (D) contact electrodes, an electrical conduction unit which is connected to the two contact electrodes and which is coated with a photosensitive polymeric coating (3) capable of absorbing the beams, of detecting, of generating in response the loads detected by said unit and of storing said loads, and a gate electrode (G) which is capable of controlling the electric current in the unit as well as spatially distributing the loads in said coating and which is separated from said unit by a gate dielectric (4). Said device is configured such that the conduction unit comprises at least one semiconductive nanotube or nanowire (2) capable of supplying an electric signal representing a modification of the conductivity of the phototransistor having been exposed to a beam, and that the gate dielectric has a thickness and a permittivity e, which satisfy er&amp;gt;0.2 nm*1, so that the conductivity after exposition may be electrically reset in a reduced time and that the device forms at least one imaging pixel.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1) Dispositif (1 , 101 , 201) de détection et de mémorisation de rayonnements électromagnétiques comprenant un phototransistor à effet de champ qui comporte :
+</P>
+<P>
+- deux électrodes de contact respectivement de source (S) et de drain (D),
+</P>
+<P>
+- une unité nanostructurée de conduction électrique qui est connectée auxdites électrodes de contact et qui est recouverte d&apos;au moins une couche polymérique photosensible (3) apte à absorber lesdits rayonnements à détecter, à générer en réponse des charges électriques détectées par ladite unité de conduction et à stocker ces charges, et
+</P>
+<P>
+- une électrode de grille (G) qui est adaptée pour contrôler le courant électrique dans ladite unité ainsi que la répartition spatiale des charges dans ladite couche photosensible et qui est séparée de ladite unité par un diélectrique de grille (4), caractérisé en ce que ladite unité de conduction comporte au moins un nanotube ou nanofil (2, 102, 202) de type semi-conducteur apte à fournir un signal électrique représentatif d&apos;une modification de la conductivité dudit phototransistor ayant été exposé à un rayonnement, et en ce que ledit diélectrique de grille présente une épaisseur e entre lesdites électrodes de contact et une permittivité relative [epsilon]r qui satisfont à la condition [epsilon]r/e &amp;gt; 0,2 nm&amp;lt;&quot;1&amp;gt;, de telle sorte que ladite conductivité après exposition audit rayonnement puisse être réinitialisée électriquement en un temps minimisé et que ledit dispositif forme au moins un pixel d&apos;imagerie.
+</P>
+<P>
+2) Dispositif (1 , 101 , 201) selon la revendication 1 , caractérisé en ce que ladite unité de conduction est adaptée pour détecter lesdits rayonnements à partir desdites charges photo-induites dans ladite couche photosensible (3) en produisant, pendant toute la durée de chaque exposition auxdits rayonnements et suite à celle-ci, un signal électrique dont l&apos;intensité est représentative de cette exposition.
+</P>
+<P>
+3) Dispositif (1 , 101 , 201) selon la revendication 1 ou 2, caractérisé en ce que ladite couche photosensible (3) est formée d&apos;un film d&apos;épaisseur moyenne comprise entre 3 nm et 10 nm, qui recouvre à la fois lesdites électrodes de contact (S et D), ledit diélectrique de grille (4) et ladite unité de conduction en fonctionnalisant la paroi dudit ou de chaque nanotube ou nanofil (2, 102, 202).
+</P>
+<P>
+4) Dispositif (1 , 101 , 201) selon la revendication 3, caractérisé en ce que ladite épaisseur e et ladite permittivité relative [epsilon]r dudit diélectrique
+</P>
+<P>
+(4) satisfont à la condition [epsilon]r/e &amp;gt; 0,4 nm&amp;lt;&quot;1&amp;gt;.
+</P>
+<P>
+5) Dispositif (1 , 101 , 201) selon une des revendications précédentes, caractérisé en ce que ladite épaisseur e est inférieure ou égale à 20 nm.
+</P>
+<P>
+6) Dispositif (1, 101 , 201) selon une des revendications précédentes, caractérisé en ce que ledit diélectrique de grille (4) est à base d&apos;au moins un oxyde métallique dont la permittivité relative [epsilon]r est égale ou supérieure à 4.
+</P>
+<P>
+7) Dispositif (1 , 101 , 201) selon une des revendications précédentes, caractérisé en ce que ledit ou chaque nanotube ou nanofil (2, 102, 202) de ladite unité est de type semi-conducteur.
+</P>
+<P>
+8) Dispositif (1 , 101 , 201) selon une des revendications précédentes, caractérisé en ce que ladite couche photosensible (3) est à base d&apos;au moins un polymère photoconducteur, notamment dans les domaines visible et ultraviolet proche, qui est apte à générer et à séparer lesdites charges lors de chaque exposition audit rayonnement dans ses bandes d&apos;absorption, sans être altéré par cette exposition.
+</P>
+<P>
+9) Dispositif (1 , 101 , 201) selon la revendication 8, caractérisé en ce que ledit polymère est choisi dans le groupe constitué par les polythiophènes, les polyalkylthiophènes, les poly(N-vinylcarbazole), les polyvinylpyrènes et les polyparaphénylène-vinylène.
+</P>
+<P>
+10) Dispositif (1 , 101 , 201 ) selon une des revendications précédentes, caractérisé en ce qu&apos;il comporte en outre au moins une pastille de positionnement (5) de ladite unité de conduction qui est formée d&apos;une monocouche recouvrant localement ledit diélectrique de grille (4), ledit ou chaque nanotube ou nanofil (2, 102, 202) adhérant à ladite ou chaque pastille correspondante.
+</P>
+<P>
+11 ) Dispositif (1 , 101 , 201) selon la revendication 10, caractérisé en ce que ladite ou chaque pastille (5) est à base d&apos;un aminosilane.
+</P>
+<P>
+12) Dispositif (1 , 101 , 201 ) selon une des revendications précédentes, caractérisé en ce que ledit ou chaque nanotube ou nanofil (2, 102, 202) est un nanotube de carbone monoparoi ou un nanofil de silicium, respectivement.
+</P>
+<P>
+13) Dispositif (1 , 101 , 201 ) selon une des revendications précédentes, caractérisé en ce que lesdites électrodes de contact (S et D) présentent chacune une largeur inférieure à 0,5 [mu]m et sont séparées entre elles d&apos;une distance inférieure à 1 [mu]m.
+</P>
+<P>
+14) Dispositif (1) selon une des revendications précédentes, caractérisé en ce que ladite unité comporte un unique nanotube ou nanofil (2) qui est connecté auxdites électrodes de contact (S et D) par ses extrémités respectives.
+</P>
+<P>
+15) Dispositif (101 , 201) selon une des revendications 1 à 13, caractérisé en ce que ladite unité comporte plusieurs nanotubes ou nanofils (102, 202) dont au moins deux sont respectivement connectés à ladite électrode de source (S) et à ladite électrode de drain (D) et par lesquels la conduction électrique entre ces deux électrodes est exclusivement réalisée par ces nanotubes ou nanofils.
+</P>
+<P>
+16) Dispositif (101) selon la revendication 15, caractérisé en ce que ladite unité comporte plusieurs nanotubes ou nanofils (102), chacun d&apos;eux étant connecté par ses extrémités auxdites électrodes de source (S) et de drain (D).
+</P>
+<P>
+17) Imageur, caractérisé en ce qu&apos;il comporte au moins deux dispositifs (1 , 101 , 201 ) selon une des revendications précédentes formant respectivement des pixels d&apos;imagerie adjacents qui sont chacun à base dudit phototransistor, de telle sorte que les couches photosensibles (3) des phototransistors correspondant auxdits pixels soient respectivement aptes à absorber des bandes de longueurs d&apos;onde identiques ou différentes du spectre électromagnétique.
+</P>
+<P>
+18) Imageur selon la revendication 17, caractérisé en ce que chacun desdits pixels présente une superficie inférieure à 1 [mu]m&amp;lt;2&amp;gt;.
+</P>
+<P>
+19) Imageur selon la revendication 17 ou 18, caractérisé en ce que ladite électrode de grille (G) pourvue dudit diélectrique (4) est commune à l&apos;ensemble desdits pixels.
+</P>
+<P>
+20) Imageur selon la revendication 17 ou 18, caractérisé en ce que ladite électrode de grille (G) est relative à chacun desdits pixels, avec autant d&apos;électrodes de grille correspondantes que de pixels.
+</P>
+<P>
+21) Procédé de fabrication d&apos;un dispositif (1 , 101 , 201) selon une des revendications 1 à 16, caractérisé en ce qu&apos;il comprend essentiellement : a) un dépôt localisé sur ledit diélectrique de grille (4) d&apos;au moins une pastille de positionnement (5) formée d&apos;une monocouche par exemple à base d&apos;un aminosilane, b) un dépôt sélectif, sur ladite ou chaque pastille, dudit ou chaque nanotube ou nanofil (2, 102, 202) en solution, c) la formation desdites électrodes de contact (S et D) sur le(s)dit(s) nanotube(s) par masquage de la zone dudit ou de chaque nanotube apte à être fonctionnalisée selon l&apos;étape d) ci-dessous, suivie d&apos;un dépôt métallique et d&apos;un &quot; lift-off &quot;, puis d) un dépôt de ladite couche polymérique photosensible (3), par exemple réalisé à la toumette, à la fois sur le(s)dit(s) nanotube(s) ou nanofil(s) pour le(s) fonctionnaliser, sur ledit diélectrique de grille et sur lesdites électrodes de contact (S et D) qui sont connectées au(x)dit(s) nanotube(s) ou nanofil(s).
+</P>
+<P>
+22) Procédé de fabrication d&apos;un dispositif (1 , 101 , 201) selon une des revendications 1 à 16, caractérisé en ce que le(s)dit(s) nanotube(s) ou nanofil(s) (2, 102, 202) sont déposés sur un circuit électronique préexistant à des endroits souhaités d&apos;une surface diélectrique apte à constituer ledit diélectrique de grille (4).
+</P>
+<P>
+23) Utilisation d&apos;un dispositif (1 , 101 , 201) selon une des revendications 1 à 16 pour former au moins un pixel d&apos;imagerie détectant et mémorisant des rayonnements électromagnétiques de commande, tels que des rayonnements dans les domaines visible, ultraviolet proche, les rayons X et les rayons gamma, de telle manière que ledit ou chaque pixel puisse être réinitialisé électriquement en un temps minimisé, via une impulsion de tension appliquée à ladite électrode de grille (G).
+</P>
+<P>
+24) Utilisation d&apos;un dispositif (1 , 101 , 201 ) selon Ia revendication 23 pour former une matrice de pixels d&apos;un imageur, tels que des pixels de superficie inférieure à 1 [mu]m ou des pixels pour télescope géant, dans laquelle seul le pixel contenant la couche photosensible (3) qui est spécifiquement apte à absorber la bande de longueurs d&apos;onde du rayonnement de commande détecte et mémorise ce rayonnement, et génère en réponse lesdites charges électriques pour l&apos;obtention de signaux électriques représentatifs dudit rayonnement.
+</P>
+</Claims>
+<Also_published_as>
+WO2007104858A1;US2009179240A1;US7982251B2;FR2898730A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+BROADLY TUNABLE SINGLE- MODE QUANTUM CASCADE LASER SOURCES AND SENSORS
+</Title>
+<PublicationNumber>
+EP2097955A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BELKIN MIKHAIL A [US]
+</Name>
+<Name>
+LEE BENJAMIN G [US]
+</Name>
+<Name>
+AUDET ROSS M [US]
+</Name>
+<Name>
+MACARTHUR JAMES B [US]
+</Name>
+<Name>
+DIEHL LAURENT [US]
+</Name>
+<Name>
+CAPASSO FEDERICO [US]
+</Name>
+<Name>
+PFLUEGL CHRISTIAN [US]
+</Name>
+<Name>
+BELKIN, MIKHAIL, A
+</Name>
+<Name>
+LEE, BENJAMIN, G
+</Name>
+<Name>
+AUDET, ROSS, M
+</Name>
+<Name>
+MACARTHUR, JAMES, B
+</Name>
+<Name>
+DIEHL, LAURENT
+</Name>
+<Name>
+CAPASSO, FEDERICO
+</Name>
+<Name>
+PFLUEGL, CHRISTIAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HARVARD COLLEGE [US]
+</Name>
+<Name>
+PRESIDENT AND FELLOWS OF HARVARD COLLEGE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2097955
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070873659
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US86520
+</PriorityNumber>
+<PriorityDate>
+2007-12-05
+</PriorityDate>
+<PriorityNumber>
+US20060611819
+</PriorityNumber>
+<PriorityDate>
+2006-12-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S3/10
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01N21/17B
+</Class>
+<Class>
+G01N21/39
+</Class>
+<Class>
+H01S5/06L4
+</Class>
+<Class>
+H01S5/40H2
+</Class>
+</NCL>
+<Abstract>
+A broadly tunable single-mode infrared laser source based on semiconductor lasers. The laser source has two parts: an array of closely-spaced DFB QCLs (or other semiconductor lasers) and a controller that can switch each of the individual lasers in the array on and off, set current for each of the lasers and, and control the temperature of the lasers in the array. The device can be used in portable broadband sensors to simultaneously detect a large number of compounds including chemical and biological agents. A microelectronic controller is combined with an array of individually-addressed DFB QCLs with slightly different DFB grating periods fabricated on the same broadband (or multiple wavelengths) QCL material.;  This allows building a compact source providing narrow-line broadly-tunable coherent radiation in the Infrared or Terahertz spectral range (as well as in the Ultraviolet and Visible spectral ranges, using semiconductor lasers with different active region design). The performance (tuning range, line width, power level) is comparable to that of external grating tunable semiconductor lasers, but the proposed design is much smaller and much easier to manufacture.
+</Abstract>
+<Claims>
+<P>
+1. A broadly tunable single-mode laser source comprising:
+</P>
+<P>
+an array of closely-spaced semiconductor lasers; and
+</P>
+<P>
+a controller, wherein said controller switches each laser in the array on and off, sets current for each said laser and controls a temperature of said lasers in said array.
+</P>
+<P>
+2. A broadly tunable single-mode laser source according to claim 1, wherein said single-mode laser source is one of an ultraviolet, visible, infrared and terahertz laser source.
+</P>
+<P>
+3. A broadly tunable single-mode laser source according to claim 1, wherein said semiconductor lasers comprise distributed feedback quantum cascade lasers.
+</P>
+<P>
+4. A broadly tunable single-mode laser source according to claim 3, wherein each laser in said array has a slightly different distributed feedback grating.
+</P>
+<P>
+5. A broadly tunable single-mode laser source according to claim 1, wherein each laser in said array has a slightly different emission wavelength.
+</P>
+<P>
+6. A broadly tunable single-mode laser source according to claim 1, wherein said lasers in said array are fabricated on a single broadband-gain or multiple wavelengths, or any other wafer of quantum cascade laser material.
+</P>
+<P>
+7. A broadly tunable single-mode laser source according to claim 1, wherein a laser in said array may be tuned by changing a temperature of said laser.
+</P>
+<P>
+8. A broadly tunable single-mode laser source according to claim 7, wherein said changing of a temperature of said laser comprises changing a temperature of an active region of said laser.
+</P>
+<P>
+9. A broadly tunable single-mode laser source according to claim 3, wherein each laser in said array has a slightly different emission wavelength and a difference in the emission wavelengths, set by distributed feedback grating, between two distributed feedback quantum cascade lasers in the array that are adjacent in frequency space is sufficiently small such that for any desired wavelength in a wavelength range supported by a broadband-gain, or multiple wavelengths, or any other quantum cascade laser material, said controller may set a temperature of a laser in the array in such a way that said laser emits at the desired wavelength.
+</P>
+<P>
+10. A broadly tunable single-mode laser source according to claim 1, wherein said array of lasers provides continuous spectral coverage in a spectral range available with a broadband-gain quantum cascade laser material.
+</P>
+<P>
+11. A broadly tunable single-mode laser source according to claim 1, wherein said array of lasers provides continuous spectral coverage in a spectral range available within each emission band provided by multiple wavelengths quantum cascade laser material.
+</P>
+<P>
+12. A broadly tunable single-mode laser source according to claim 1, wherein said array of lasers provides continuous spectral coverage in a spectral range available within an emission band of any other quantum cascade laser material.
+</P>
+<P>
+13. A broadly tunable single-mode laser source according to claim 1, wherein said controller comprises a microelectronic controller.
+</P>
+<P>
+14. A broadly tunable single-mode laser source according to claim 1, wherein each laser on a chip can be accessed independently by a compact microelectronic controller.
+</P>
+<P>
+15. A broadly tunable single-mode laser source according to claim 1, wherein a laser in said array may be wavelength-tuned by changing a bias voltage of said laser.
+</P>
+<P>
+16. A broadly tunable single-mode laser source according to claim 1, wherein a laser in said array may be wavelength-tuned by heating or cooling of said laser.
+</P>
+<P>
+17. A broadly tunable single-mode laser source according to claim 1, wherein said lasers in said array are fabricated with first- or second-order distributed feedback gratings.
+</P>
+<P>
+18. A broadly tunable single-mode laser source according to claim 1, wherein said lasers in said array provide surface emission.
+</P>
+<P>
+19. A broadly tunable single-mode laser source according to claim 1, wherein said lasers in said array provide edge emission.
+</P>
+<P>
+20. A broadly tunable single-mode laser source according to claim 1, wherein said semiconductor lasers comprise distributed feedback semiconductor lasers in which the design of the active region of the semiconductor lasers is different from that of quantum cascade lasers.
+</P>
+</Claims>
+<Also_published_as>
+EP2097955A4;US2008144677A1;US7826509B2;WO2008127454A1;JP2010514163A
+</Also_published_as>
+</BiblioData>

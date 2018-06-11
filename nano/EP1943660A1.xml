@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CHARGED PARTICLE BEAM EXPOSURE SYSTEM
+</Title>
+<PublicationNumber>
+EP1943660A1
+</PublicationNumber>
+<Inventor>
+<Name>
+PLATZGUMMER ELMAR [AT]
+</Name>
+<Name>
+KNIPPELMEYER RAINER [US]
+</Name>
+<Name>
+PLATZGUMMER, ELMAR
+</Name>
+<Name>
+KNIPPELMEYER, RAINER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ZEISS CARL SMS GMBH [DE]
+</Name>
+<Name>
+CARL ZEISS SMS GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1943660
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20050801831
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2005-10-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2005EP11593
+</PriorityNumber>
+<PriorityDate>
+2005-10-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01J37/04
+</Class>
+<Class>
+H01J37/317
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01J37/04B
+</Class>
+<Class>
+H01J37/302B
+</Class>
+<Class>
+H01J37/317B4
+</Class>
+</NCL>
+<Abstract>
+A charged particle beam exposure system has a blanking aperture array (31) having groups of apertures (53) controlled by shift registers (75), wherein different inputs (C) to the shift registers influence a different number of apertures. Charged particle beamlets traversing the apertures are scanned across a charged particle sensitive substrate in synchronism with a clock signal of the shift registers.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A charged particle beam system, the system comprising:
+</P>
+<P>
+a charged particle source for generating at least one beam of charged particles;
+</P>
+<P>
+a multi-aperture plate having a plurality of apertures;
+</P>
+<P>
+charged particle optics configured to direct beamlets of charged particles traversing the apertures of the multi- aperture plate onto a charged particle sensitive substrate;
+</P>
+<P>
+a plurality of beamlet manipulating electrodes, wherein each aperture has at least one beamlet manipulating electrode associated therewith for modulating the beamlet traversing the aperture; and
+</P>
+<P>
+a control system comprising a plurality of shift registers, each shift register having at least one input and plural stages, wherein the at least one beamlet manipulating electrode of each aperture is controlled by at least one stage of the shift registers in dependence of an output state of the at least one stage;
+</P>
+<P>
+wherein each input has a group of stages associated therewith, wherein the output states of only the stages of the group of stages are dependent on states of the respective input;
+</P>
+<P>
+wherein the plurality of apertures comprises plural groups of apertures, wherein the apertures of each group of apertures are disposed on the multi-aperture plate along a straight line;
+</P>
+<P>
+wherein the electrodes of the apertures of each group of apertures are controlled by stages of plural groups of stages, wherein a number of apertures having electrodes controlled by a first group of the plural groups of stages differs from a number of apertures having electrodes controlled by a second group of the plural groups of stages .
+</P>
+<P>
+2. The charged particle beam system according to claim 1, wherein the number of the apertures having electrodes controlled by the first group of stages is greater than five times the number of the apertures having electrodes controlled by the second group of stages.
+</P>
+<P>
+3. The charged particle beam system according to claim 1 or 2 , wherein the electrodes of the apertures of each group of apertures are controlled by stages of at least three groups of stages, wherein the number of the apertures having electrodes controlled by one group of stages is different for each of the at least three groups of stages .
+</P>
+<P>
+4. The charged particle beam system according to claim 3 , wherein the number of the apertures having electrodes controlled by one group of stages is an integer multiple of a power of 2.
+</P>
+<P>
+5. The charged particle beam system according to one of claims 1 to 4, wherein the electrodes of each aperture are controlled by only one group of stages .
+</P>
+<P>
+6. The charged particle beam system according to one of claims 1 to 5, wherein each shift register has exactly one input.
+</P>
+<P>
+7. The charged particle beam system according to one of claims 1 to 4, wherein the apertures having electrodes controlled by the second group of stages is a subset of the apertures having electrodes controlled by the first group of stages.
+</P>
+<P>
+8. The charged particle beam system according to claim 7, wherein the electrodes of all apertures of the group of apertures are controlled by the stages of one single shift register.
+</P>
+<P>
+9. The charged particle beam system according to one of claims 1 to 8, wherein the stages controlling the electrodes of the apertures of the group of apertures are supplied with a common clock signal .
+</P>
+<P>
+10. The charged particle beam system according to one of claims 1 to 9, wherein the shift registers are provided on the multi-aperture plate.
+</P>
+<P>
+11. The charged particle beam system according to claim 10, wherein the input of the shift register is connected to a photosensitive element .
+</P>
+<P>
+12. The charged particle beam system according to one of claims 1 to 9, wherein the shift registers are provided on a circuit substrate disposed at a distance from the multi- aperture plate.
+</P>
+<P>
+13. The charged particle beam system according to claim 12 , wherein the control system comprises a plurality of electrical conductors extending from the circuit substrate to the multi-aperture plate, wherein each of the electrical conductors is connected to an output of a stage of a shift register.
+</P>
+<P>
+14. The charged particle beam system according to claim 12 , wherein the control system comprises a plurality of photo- emitters connected to the outputs of the stages of the shift registers and a plurality of photosensitive elements disposed on the multi-aperture plate for receiving radiation emitted from the photo-emitters.
+</P>
+<P>
+15. The charged particle beam system according to claim 14, wherein the control system comprises an imaging optics for imaging an arrangement pattern of the photo-emitters onto an arrangement pattern of the photosensitive elements.
+</P>
+<P>
+16. The charged particle beam system according to one of claims 1 to 15, wherein the charged particle optics comprises a de-magnifying optics, such that a distance between adjacent beamlets incident on the charged particle sensitive substrate is smaller than a distance between adjacent beamlets traversing the multi-aperture plate.
+</P>
+<P>
+17. The charged particle beam system according to one of claims 1 to 16, wherein the charged particle optics comprises a scanning deflector for scanning the plurality of beamlets across the charged particle sensitive substrate.
+</P>
+<P>
+18. The charged particle beam system according to one of claims 1 to 16, further comprising a stage for displaceably mounting the charged particle sensitive substrate relative to the charged particle optics .
+</P>
+<P>
+19. The charged particle beam system according to claim 18, wherein the charged particle optics comprises a scanning deflector for scanning the plurality of beamlets across the charged particle sensitive substrate in a direction transverse to a direction of displacement of the charged particle sensitive substrate relative to the charged particle optics.
+</P>
+</Claims>
+<Also_published_as>
+EP1943660B1;EP1943660B9;WO2007048433A1;US2009212240A1;US8026495B2;JP2009514200A;JP4843679B2;AT424621T
+</Also_published_as>
+</BiblioData>

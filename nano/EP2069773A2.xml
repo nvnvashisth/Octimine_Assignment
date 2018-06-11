@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SEMICONDUCTOR SENSOR DEVICE, DIAGNOSTIC INSTRUMENT COMPRISING SUCH A DEVICE AND METHOD OF MANUFACTURING SUCH A DEVICE
+</Title>
+<PublicationNumber>
+EP2069773A2
+</PublicationNumber>
+<Inventor>
+<Name>
+KAHYA NERIMAN N [NL]
+</Name>
+<Name>
+BAKKERS ERIK P A M [NL]
+</Name>
+<Name>
+KAHYA, NERIMAN, N
+</Name>
+<Name>
+BAKKERS, ERIK, P., A., M
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONINKL PHILIPS ELECTRONICS NV [NL]
+</Name>
+<Name>
+KONINKLIJKE PHILIPS ELECTRONICS N.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2069773
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070826405
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IB53742
+</PriorityNumber>
+<PriorityDate>
+2007-09-17
+</PriorityDate>
+<PriorityNumber>
+EP20060121117
+</PriorityNumber>
+<PriorityDate>
+2006-09-22
+</PriorityDate>
+<PriorityNumber>
+EP20070826405
+</PriorityNumber>
+<PriorityDate>
+2007-09-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N27/414
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G01N27/12E3
+</Class>
+<Class>
+G01N27/414D
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a semiconductor sensor device (10) for sensing a substance comprising at least one mesa- shaped semiconductor region (11) which is formed on a surface of a semiconductor body (12) and which is connected at a first end to a first electrically conducting connection region (13) and at a second end to a second electrically conducting connection region (14) while a fluid (20) comprising a substance (30) to be sensed can flow along the mesa- shaped semiconductor region (11) and the substance (30) to be sensed can influence the electrical properties of the mesa-shaped semiconductor region (11), wherein the mesa-shaped semiconductor region (11) comprises viewed in a longitudinal direction subsequently a first semiconductor subregion (1) comprising a first semiconductor material and a second semiconductor subregion (2);  comprising a second semiconductor material different from the first semiconductor material. According to the invention the first semiconductor material comprises a IV element material and the second semiconductor material comprises a III-V compound. Due to difference in surface chemistry between subregions 1,2 a substance (30) like an antibody to which a protein signaling a disease can be bonded can be more selectively attached to the desired first region (1).
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. Semiconductor sensor device (10) for sensing a substance comprising at least one mesa-shaped semiconductor region (11) which is formed on a surface of a semiconductor body (12) and which is connected at a first end to a first electrically conducting connection region (13) and at a second end to a second electrically conducting connection region (14) while a fluid (20) comprising a substance (30) to be sensed can flow along the mesa- shaped semiconductor region (11) and the substance (30) to be sensed can influence the electrical properties of the mesa- shaped semiconductor region (11), wherein the mesa- shaped semiconductor region (11) comprises viewed in a longitudinal direction subsequently a first semiconductor subregion (1) comprising a first semiconductor material and a second semiconductor subregion (2) comprising a second semiconductor material different from the first semiconductor material, characterized in that the first semiconductor material comprises a IV element material and the second semiconductor material comprises a III -V compound.
+</P>
+<P>
+2. Semiconductor sensor device (10) according to claim 1, characterized in that the mesa-shaped semiconductor region (11) comprises a third subregion (3) bordering the first subregion (1) at a side opposite to the second subregion (2) and comprising a third semiconductor material that comprises a III -V compound, preferably the same III -V compound as the second subregion (2).
+</P>
+<P>
+3. Semiconductor sensor device (10) according to claim 2, characterized in that the second and third subregion (2,3) comprises a material having a higher bandgap than the bandgap of the material of the first subregion (1) and preferably comprise GaP while the first subregion (1) preferably comprises Si.
+</P>
+<P>
+4 Semiconductor sensor device (10) according to claims 2 or 3, characterized in that the second and third subregions (2,3) comprise a first part (2A,3A) bordering the first subregion (1) and comprising a III -V compound with a higher bandgap than the material of the first subregion (1) and a second part (2B,3B) bordering the first part (2A,3A) and comprising a III-V compound with a lower bandgap than the first part (2A,3A) and preferably comprising GaAs.
+</P>
+<P>
+5. Semiconductor sensor device (10) according to any of the preceding claims, characterized in that a free outer surface of the first subregion (1) is functionalized so as to increase the probability that the substance (30) to be detected sticks to said free outer surface.
+</P>
+<P>
+6. Semiconductor sensor device (10) according to claim 5, characterized in that said functionalization comprises the formation on said free outer surface of a self-assembled monolayer (40) of a compound that attracts the substance (30) to be detected.
+</P>
+<P>
+7. Semiconductor sensor device (10) according to claim 6, characterized in that the self assembled monolayer (40) is formed by an amino-alkyl-carbon acid, the alkyl group preferably comprising between 12 and 16 carbon atoms.
+</P>
+<P>
+8. Semiconductor sensor device (10) according to any of the preceding claims, characterized in that a free outer surface of the other than the first subregions (2,3) is functionalized so as to decrease the probability that the substance (30) to be detected sticks to said free outer surface.
+</P>
+<P>
+9. Semiconductor sensor device (10) according to claim 8, characterized in that said functionalization comprises the formation on said free outer surface of a self-assembled monolayer (50) of a compound that repels the substance (30) to be detected.
+</P>
+<P>
+10. Semiconductor sensor device (10) according to claim 9, characterized in that the self-assembled monolayer (50) is formed by a poly-ethylene-glycol polymer.
+</P>
+<P>
+11. Semiconductor sensor device (10) according to any of the preceding claims, characterized in that the at least one mesa-shaped semiconductor region (11) comprises a nano-wire (11), preferably a plurality of mutually parallel nano-wires (11) positioned on the surface of the semiconductor body (12) while their length direction runs perpendicular to said surface.
+</P>
+<P>
+12. Semiconductor sensor device (10) according to any of the preceding claims, characterized in that the mesa- shaped semiconductor region (11) forms a part of a normally off element such as a transistor, preferably a single electron transistor in which the first subregion (1) forms a quantum dot.
+</P>
+<P>
+13. Semiconductor sensor device (10) according to any of the preceding claims, characterized in that the device (10) is suitable for detecting a bio molecules such as an protein bound to an antibody.
+</P>
+<P>
+14. Diagnostic instrument comprising a semiconductor sensor device (10) according to any of the preceding claims.
+</P>
+<P>
+15. Method of manufacturing a semiconductor sensor device (10) for sensing a substance (30) comprising at least one mesa- shaped semiconductor region (11) which is formed at a surface of a semiconductor body (12) and which is connected at a first end to a first electrically conducting connection region (13) and at a second end to a second electrically conducting connection region (14) while a fluid (20) comprising a substance (30) to be sensed can flow along the mesa- shaped semiconductor region (11) and the substance (30) to be sensed can influence the electrical properties of the mesa-shaped semiconductor region (11), wherein the mesa-shaped semiconductor region (11) is formed with viewed in a longitudinal direction subsequently a first semiconductor subregion (1) comprising a first semiconductor material and a second semiconductor subregion (2) comprising a second semiconductor material different from the first semiconductor material, characterized in that the for the first semiconductor material a IV element material is chosen and for the second semiconductor material a III-V compound is selected.
+</P>
+<P>
+16. Method according to claim 15, characterized in that a free outer surface of the first subregion (1) is functionalized so as to increase the probability that the substance (30) to be detected sticks to said free outer surface by forming on said surface a self-assembled monolayer (40) of a compound that attracts the substance to be detected.
+</P>
+<P>
+17. Method according to claim 15 or 16, characterized a free outer surface of the other than the first subregions (2,3) is functionalized so as to decrease the probability that the substance (30) to be detected sticks to said free outer surface by forming on said surface a self-assembled monolayer (50) of a compound that repels the substance to be detected.
+</P>
+<P>
+18. Method according to claim 16 or 17, characterized in that after formation of the self-assembled monolayer (40,50) the device (10) is washed to remove the molecules of the compound that accidentally stick to another part of the outer surface of the mesa- shaped semiconductor region (11) than that where the self-assembled monolayer (40,50) is built.
+</P>
+</Claims>
+<Also_published_as>
+WO2008035273A2;WO2008035273A3;US2010019226A1;JP2010504517A;CN101517404A
+</Also_published_as>
+</BiblioData>

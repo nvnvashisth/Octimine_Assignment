@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MICRORESONATOR SYSTEM AND METHODS OF FABRICATING THE SAME
+</Title>
+<PublicationNumber>
+EP2186172A2
+</PublicationNumber>
+<Inventor>
+<Name>
+TAN MICHAEL [US]
+</Name>
+<Name>
+WANG SHIH-YUAN [US]
+</Name>
+<Name>
+STEWART DUNCAN [US]
+</Name>
+<Name>
+FATTAL DAVID [US]
+</Name>
+<Name>
+TAN, MICHAEL
+</Name>
+<Name>
+WANG, SHIH-YUAN
+</Name>
+<Name>
+STEWART, DUNCAN
+</Name>
+<Name>
+FATTAL, DAVID
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2186172
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080794893
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US09224
+</PriorityNumber>
+<PriorityDate>
+2008-07-30
+</PriorityDate>
+<PriorityNumber>
+US20070888016
+</PriorityNumber>
+<PriorityDate>
+2007-07-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S3/08
+</Class>
+<Class>
+H01S3/109
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B6/12M
+</Class>
+<Class>
+H01S5/10R2
+</Class>
+</NCL>
+<Abstract>
+Various embodiments of the present invention are related to microresonator systems that can be used as a laser, a modulator, and a photodetector and to methods for fabricating the microresonator systems. In one embodiment, a microresonator system (100) comprises a substrate (106) having a top surface layer (104), at least one waveguide (114,116) embedded within the substrate (106), and a microdisk (102) having a top layer (118), an intermediate layer (122), a bottom layer (120), current isolation region (128), and a peripheral annular region (124,126). The bottom layer (120) of the microdisk (102) is in electrical communication with the top surface layer (104) of the substrate (106) and is positioned so that at least a portion of the peripheral annular region (124,126) is located above the at least one waveguide (114,116).;  The current isolation region (128) is configured to occupy at least a portion of a central region of the microdisk and has a relatively lower refractive index and relatively larger bandgap than the peripheral annular region.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A microresonator system ( 100) comprising: a substrate (106) having a top surface layer (104); at least one waveguide (114,116) embedded within the substrate (106) and positioned adjacent to the top surface layer of the substrate; and a microdisk (102) having a top layer (118), an intermediate layer (122), a bottom layer (120), current isolation region (128) and a peripheral annular region (124,126), wherein the bottom layer of the microdisk is attached to and in electrical communication with the top surface layer of the substrate, the microdisk is positioned so that at least a portion of the peripheral annular region is located above the at least one waveguide, and the current isolation region configured to occupy at least a portion of a central region of the microdisk and having a relatively lower index of refraction and relatively larger bandgap than the peripheral annular region.
+</P>
+<P>
+2. The system of claim 1 further comprising: a first electrode (108,502) located on the top surface layer of the microdisk; and at least one second electrode (112,504) located on the top surface layer of the substrate adjacent to the microdisk.
+</P>
+<P>
+3. The system of claim 2 wherein the first electrode further comprises a microring electrode (502) configured to cover at least a portion of the peripheral region of the top surface of the microdisk.
+</P>
+<P>
+4. The system of claim 1 wherein the microdisk further comprises: a top layer; a bottom layer; and an intermediate quantum-well layer sandwiched between the top semiconductor layer and the bottom semiconductor layer. 5. The system of claim 4 wherein the top layer (118) further comprises a p-type semiconductor and the bottom layer (120) further comprise an n-type semiconductor.
+</P>
+<P>
+6. The system of claim 4 wherein the intermediate layer (122) further comprises at least one quantum well.
+</P>
+<P>
+7. The system of claim 1 wherein the microdisk (102) further comprises one of: a circular shape; an elliptical shape; and any other shape that is suitable for supporting a whispering gallery mode.
+</P>
+<P>
+8. A microdisk comprising: a top layer (118); a bottom layer (120); an intermediate layer (122) having at least one quantum well, the intermediate layer sandwiched between the top layer and the bottom layer; a peripheral annular region (124,126) including at least a portion of the top, intermediate, and bottom layers; and a current isolation region (128) configured to occupy at least a portion of a central region of the microdisk including at least a portion of the top, intermediate, and bottom layers and having relatively lower index of refraction than the peripheral annular region.
+</P>
+<P>
+9. The system of claim 8 wherein the top layer (118) further comprises a p-type semiconductor and the bottom layer (120) further comprise an w-type semiconductor.
+</P>
+<P>
+10. The system of claim 8 wherein the microdisk further comprises one of: a circular shape; an elliptical shape; and any other shape that is suitable for supporting a whispering gallery mode.
+</P>
+</Claims>
+<Also_published_as>
+WO2009017769A2;WO2009017769A3;US2009032805A1;US7561770B2;US2009239323A1;US7972882B2;US2009256136A1;US8175429B2;KR20100055398A;JP2010535420A;CN101765949A;CN101765949B
+</Also_published_as>
+</BiblioData>

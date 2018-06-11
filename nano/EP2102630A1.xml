@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ENCAPSULATED DEVICE WITH INTEGRATED GAS PERMEATION SENSOR
+</Title>
+<PublicationNumber>
+EP2102630A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KUMAR RAMADAS SENTHIL [SG]
+</Name>
+<Name>
+BURDEN ADRIAN PAUL [SG]
+</Name>
+<Name>
+CHUA SOO JIN [SG]
+</Name>
+<Name>
+KUMAR, RAMADAS SENTHIL
+</Name>
+<Name>
+BURDEN, ADRIAN PAUL
+</Name>
+<Name>
+CHUA, SOO JIN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+AGENCY SCIENCE TECH &amp; RES [SG]
+</Name>
+<Name>
+AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2102630
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060835997
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006SG00408
+</PriorityNumber>
+<PriorityDate>
+2006-12-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N15/08
+</Class>
+<Class>
+G01N27/12
+</Class>
+<Class>
+G01R31/26
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N27/12B
+</Class>
+<Class>
+H01L27/32I
+</Class>
+</NCL>
+<Abstract>
+An encapsulated device comprising an integrated gas permeation sensor is provided, comprising a base substrate with an electronic component arranged thereon being enclosed within an encapsulation for protecting the electronic component from moisture and/or oxygen;  at least one sensor is arranged within the encapsulation to measure the permeation of gas into the encapsulation;  each sensor comprises an electrically conductive sensing element comprising a moisture and/or oxygen sensitive material, wherein the reaction of said material with moisture and/or oxygen results in a change in the electrical resistance/conductivity of the sensor.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An encapsulated device, comprising a base substrate, an electronic component arranged on the base substrate and enclosed within an encapsulation that protects the electronic component from moisture and/or oxygen, and at least one gas permeation sensor arranged on the base substrate and enclosed within the encapsulation, said gas permeation sensor being capable of measuring the permeation of gas into the encapsulation, wherein each of said at least one gas permeation sensor comprises: an electrically conductive sensing element comprising a moisture and/or oxygen sensitive material, wherein the reaction of said material with moisture and/or oxygen results in a change in the electrical resistance/conductivity of the sensing element, and an electrical connector capable of connecting the sensing element to a signal evaluation unit.
+</P>
+<P>
+2. The device of Claim 1 , wherein a plurality of gas permeation sensors are arranged within the encapsulation.
+</P>
+<P>
+3. The device of Claim 2, wherein the plurality of gas permeation sensors is arranged in a regular grid around the electronic component.
+</P>
+<P>
+4. The device of Claim 2 or 3, wherein the plurality of gas permeation sensors is arranged near the edge of the encapsulation.
+</P>
+<P>
+5. The device of any of Claims 4 to 6, wherein each gas permeation sensor is spaced apart from an adjacent sensor at a distance of at least about 1 cm.
+</P>
+<P>
+6. The device of any one of Claims 1 to 5, wherein each of the at least one gas permeation sensor is spaced apart from the electronic component at a distance of between about 1 [mu]m and about 100 [mu]m.
+</P>
+<P>
+7. The device of any of Claims 1 to 6, wherein the gas permeation sensor is arranged at a location within the encapsulation not occupied by the electronic component.
+</P>
+<P>
+8. The device of any of Claims 1 to 7, wherein an electrically insulating material is interposed between the at least one gas permeation sensor and the electronic component.
+</P>
+<P>
+9. The device of Claim 8, wherein the electrically insulating material is selected from polyimide, parylene, polystyrene, polycarbonate and polyvinyl chloride.
+</P>
+<P>
+10. The device of any of Claims 1 to 9, wherein the at least one gas permeation sensor has at least one physical or physico-chemical property that is at least substantially the same as the electronic component.
+</P>
+<P>
+11. The device of Claims 10, wherein the at least one physical or physico-chemical property is selected from the group consisting of the dimension of the accessible surface of the at least one sensor, surface area-to-volume ratio and reactivity with moisture and/or oxygen.
+</P>
+<P>
+12. The device of any one of Claims 1 to 11 , wherein the sensing element comprises a water and/or oxygen sensitive material selected from the group consisting of a conductive organic polymer, metal, metal alloy, metal oxide, and mixtures and a combination thereof.
+</P>
+<P>
+13. The device of Claim 12, wherein the sensing element comprises a metal selected from the group consisting of calcium, iron, magnesium a combination thereof.
+</P>
+<P>
+14. The device of Claim 12, wherein the conductive organic polymer is selected from the group consisting of polyaniline, polypyrrole and polythiophene, polyacetylene, poly-p-phenylene, and polyvinylpyridine, thiophene-bipyridine copolymers, polypyridine, polybipyridine, organometallic polyphenylenes and a combination thereof.
+</P>
+<P>
+15. The device of Claim 12, wherein the metal oxide is selected from the group consisting of ln2[theta]3, Sn[theta]2, VO2, CrO2, MoO2, LiMn2O4,
+</P>
+<P>
+Cd2SnO4, CdIn2O4, Zn2SnO4 and ZnSnO3, Zn2In2O5 and a combination thereof.
+</P>
+<P>
+16. The device of any one of Claims 1 to 15, further comprising a protective layer covering at least a portion of the sensing element of the sensor.
+</P>
+<P>
+17. The device of Claim 16, wherein the protective layer comprises a material selected from the group consisting of a metal, a metal alloy, a metal oxide, a metal oxide mixture, a metal nitride, an organic polymer and a combination thereof.
+</P>
+<P>
+18. The device of any one of Claims 1 to 17, further comprising a liner layer applied to at least one surface of the sensing element.
+</P>
+<P>
+19. The device of Claim 18, wherein the liner layer is interposed between the sensing element and the base substrate.
+</P>
+<P>
+20. The device of Claim 18 or 19, wherein the liner layer comprises an organic polymer that is substantially permeable to gas.
+</P>
+<P>
+21. The device of Claim 20, wherein the organic polymer is selected from the group consisting of acrylic polymers, parylene type polymers (para-xylylene) and derivatives thereof.
+</P>
+<P>
+22. The device of Claims 18 or 19, wherein the liner layer comprises an inorganic polymer.
+</P>
+<P>
+23. The device of Claim 22, wherein the inorganic polymer comprises a silicone-based polymer.
+</P>
+<P>
+24. The device of any one of Claims 1 to 23, wherein the electrical connector comprises at least two electrodes, said electrodes extending through the encapsulation, thereby providing exposure for contact with a signal evaluation unit.
+</P>
+<P>
+25. The device of any of Claims 1 to 24, wherein the encapsulation comprises a multilayer film.
+</P>
+<P>
+26. The device of Claim 25, wherein the multilayer film comprises at least one barrier layer having low moisture and/or oxygen permeability.
+</P>
+<P>
+27. The device of Claim 26, wherein the at least one barrier layer comprises a material selected from the group consisting of metals, metal oxides, ceramic oxides, inorganic polymers, organic polymers and mixtures and combinations thereof.
+</P>
+<P>
+28. The device of Claims 27, wherein the organic polymers are selected from the group consisting of an epoxy polymer, polysulfide, silicone and polyurethane.
+</P>
+<P>
+29. The device of any of Claims 25 to 28, wherein the multilayer film comprises at least one layer having distributed therein reactive nanoparticles capable of interacting with moisture and/or oxygen to retard the permeation of moisture and/or oxygen into the encapsulation.
+</P>
+<P>
+30. The device of Claim 29, wherein the reactive nanoparticles interact with moisture and/or oxygen through chemical reaction.
+</P>
+<P>
+31. The device of Claim 30, wherein the nanoparticles comprise a material selected from the group consisting of metals, metal oxides and a combination thereof.
+</P>
+<P>
+32. The device of Claim 31 , wherein the nanoparticles comprise a metal selected from the group consisting of Al1 Ti, Mg, Ba and Ca.
+</P>
+<P>
+33. The device of Claim 31 , wherein the nanoparticles comprise a metal oxide selected from the group consisting of TiO2 , AbO3 , ZrO2, ZnO, BaO, SrO, CaO, MgO, VO2, CrO2, MoO2, and LiMn2O4.
+</P>
+<P>
+34. The device of Claim 31 , wherein the nanoparticles comprise a transparent conductive oxide selected from the group consisting of cadmium stannate (Cd2SnO4), cadmium indate (CdIn2O4), zinc stannate (Zn2SnO4 and ZnSnO3), and zinc indium oxide (Zn2In2Oe).
+</P>
+<P>
+35. The device of Claim 29, wherein the reactive nanoparticles interact with moisture and/or oxygen through adsorption.
+</P>
+<P>
+36. The device of Claim 35, wherein the nanoparticles comprise carbon nanotubes.
+</P>
+<P>
+37. The device of any of Claims 29 to 36, wherein the multilayer film further comprises inert nanoparticles capable of obstructing the permeation of moisture and/or oxygen into the encapsulation.
+</P>
+<P>
+38. The device of Claim 37, wherein the inert nanoparticles comprise a material selected from the group consisting of gold, copper, silver, platinum, silica, wollastonite, mullite, monmorillonite, silicate glass, fluorosilicate glass, fluoroborosilicate glass, aluminosilicate glass, calcium silicate glass, calcium aluminum silicate glass, calcium aluminum fluorosilicate glass, titanium carbide, zirconium carbide, zirconium nitride, silicon carbide, silicon nitride, metal sulfides, and a combination thereof.
+</P>
+<P>
+39. The device of any of Claims 1 to 38, wherein the base substrate comprises a polymeric material.
+</P>
+<P>
+40. The device of Claim 39, wherein the polymeric material comprises an organic polymer selected from the group consisting of polycarbonate, polyethylene, polythersulfone, epoxy resins, polyethylene terephthalate, polystyrenes, polyurethanes and polyacrylates.
+</P>
+<P>
+41. The device of Claim 39, wherein the polymeric material comprises an inorganic polymer selected from the group consisting of silicones, polydimethylsiloxanes, biscyclopentadienyl iron, polydichlorophosphazene and derivatives thereof.
+</P>
+<P>
+42. The device of any one of Claims 1 to 41 , wherein the encapsulation comprises a cover substrate arranged on an adhesive layer surrounding the sensor.
+</P>
+<P>
+43. The device of Claim 42, wherein a hollow space is defined within the encapsulation.
+</P>
+<P>
+44. The device of Claim 43, wherein the hollow space is filled with an inert gas.
+</P>
+<P>
+45. The device of any of Claims 42 to 44, wherein the cover substrate and/or the base substrate comprises a material selected from the group consisting of glass, indium tin oxide, and transparent plastics.
+</P>
+<P>
+46. The device of any of Claims 1 to 45, wherein the electronic component is coupled to a first drive circuit, and the gas permeation sensor is coupled to a second drive circuit.
+</P>
+<P>
+47. The device of any of Claims 1 to 45, wherein the electronic component and the gas permeation sensor are coupled to a common drive circuit.
+</P>
+<P>
+48. The device of any of Claims 1 to 47, further comprising a signal evaluation unit, said signal evaluation unit being coupled to the sensor to measure a property associated with the electrical resistance of the sensor.
+</P>
+<P>
+49. The device of Claim 48, further comprising a display unit capable of displaying a quantitative value associated with the amount of moisture and/or oxygen that has permeated into the encapsulation.
+</P>
+<P>
+50. The device of any of Claims 48 or 49, further comprising a feedback controller, wherein said feedback controller is coupled to the signal evaluation unit to receive feedback therefrom to control the electrical power supplied to the electronic component.
+</P>
+<P>
+51. The device of Claim 50, wherein the feedback controller increases the electrical power supplied to the electronic component as the extent of gas permeation into the encapsulation increases.
+</P>
+<P>
+52. The device of any of Claims 1 to 51 , wherein the electronic component is selected from the group consisting of an Organic Light Emitting Device (OLED), charged-coupled device (CCD), micro-electromechanical sensor (MEMS), organic Thin-Film Transistor (TFT), and a solar cell.
+</P>
+<P>
+53. A method of fabricating an encapsulated device according to any of Claims 1 to 52, comprising providing a base substrate for forming an electronic component thereon, forming an electronic component on the base substrate, forming at least one gas permeation sensor on the base substrate under vacuum, said gas permeation sensor being capable of measuring the permeation of gas into an encapsulation, and forming an encapsulation over the electronic component and the sensor.
+</P>
+<P>
+54. The method of Claim 53, wherein the step of forming at least one gas permeation sensor on the base substrate under vacuum is carried out under lowered pressure of between about 10&amp;lt;&apos;6&amp;gt; to about 10&amp;lt;&quot;7&amp;gt; mbar.
+</P>
+<P>
+55. The method of Claim 53 or 54, further comprising cleaning a surface of the substrate with oxygen plasma.
+</P>
+<P>
+56. The method of any of Claims 53 to 55, wherein the electronic component is formed on the base substrate under vacuum.
+</P>
+<P>
+57. The method of any of Claims 53 to 56, wherein the electronic component is formed via inkjet printing.
+</P>
+<P>
+58. The method of any of Claims 53 to 57, wherein the electronic component is selected from the group consisting of an Organic Light Emitting Device (OLED), charged-coupled device (CCD), micro-electro- mechanical sensor (MEMS), organic Thin-Film Transistor (TFT), and a solar cell.
+</P>
+<P>
+59. The method of any of Claims 53 to 58, wherein after the electronic component is formed on the base substrate, the base substrate is transferred under an inert atmosphere to an assembly region prior to forming the sensor.
+</P>
+<P>
+60. The method of any one of Claims 53 to 59, wherein forming the encapsulation comprises: forming over the electronic component and the gas permeation sensor at least one layer having distributed therein reactive nanoparticles, said reactive nanoparticles comprising a material capable of interacting with moisture and/or oxygen to retard the permeation of moisture and/or oxygen into the encapsulation.
+</P>
+<P>
+61. The method of Claim 60, further comprising: applying an ultra-violet light curable adhesive over the layer of reactive nanoparticles, attaching a cover substrate to the adhesive, and exposing the adhesive to ultra-violet light, thereby curing the adhesive.
+</P>
+<P>
+62. The method of any of Claims 53 to 61 , wherein the steps of forming the electronic component, forming the gas permeation sensor and forming the encapsulation are carried out under vacuum.
+</P>
+<P>
+63. A system for fabricating an encapsulated device as defined in any of Claims 1 to 52, comprising a vacuum chamber having arranged therein: a holding jig arranged within the vacuum chamber for receiving a sample, a loadlock connected to the vacuum chamber, said loadlock being adapted to transport the sample onto the holding jig, a plasma source capable of dispensing plasma for cleaning the sample, at least a first material source adapted to form a gas permeation sensor on the sample and a second material source adapted to form an encapsulation over the sample, a linear motion drive capable of applying a normal force onto a sample on the holding jig, a heater coupled to the holding jig for heating a sample, and a UV source for curing a UV-curable polymer.
+</P>
+<P>
+64. The system of Claim 63, wherein the vacuum chamber comprises a plurality of serially connected sub-chambers.
+</P>
+<P>
+65. The system of Claim 64, wherein the first material source and the second material source are each connected to an individual sub-chamber.
+</P>
+<P>
+66. The system of any of Claims 63 to 65, wherein the loadlock comprises an extendable arm that is movable through said plurality of serially connected sub-chambers.
+</P>
+<P>
+67. The system of any of Claims 63 to 66, wherein the linear motion drive is capable of applying a pressure of between about 40 psi to about 80 psi onto a sample present on the holding jig.
+</P>
+<P>
+68. The system of any of Claims 63 to 67, further comprising tracks arranged fixedly with respect to the holding jig for guiding the movement of the linear motion drive towards the holding jig.
+</P>
+<P>
+69. A method of determining the status of an electronic component arranged within an encapsulated device as defined in any one of Claims 1 to 52, said method comprising: measuring the electrical conductivity/resistance of the gas permeation sensor arranged within the encapsulation, determining from said electrical conductivity/resistance of the sensor the amount of moisture and/or oxygen that has permeated into the encapsulation of the encapsulated device, and correlating the amount of moisture and/or oxygen that has permeated into the encapsulation of the encapsulated device to a status of the electronic component.
+</P>
+<P>
+70. The method of Claim 69, further comprising the step of evaluating the electrical and/or physical properties of the electronic component in the encapsulated device to determine whether the electronic component is functional.
+</P>
+<P>
+71. The method of Claim 69 or 70, wherein correlating the amount of moisture and/or oxygen that has permeated into the encapsulation of the encapsulated device to a status of the electronic component comprises: determining the threshold amount of moisture and/or oxygen to which the electronic component may be exposed, comparing the amount of moisture and/or oxygen that has permeated into the encapsulation with said threshold amount, and determining the remaining operational life of the electronic component.
+</P>
+<P>
+72. The method of any of Claims 69 to 71 , further comprising coupling the sensor to a signal evaluation unit.
+</P>
+<P>
+73. The method of Claim 72, wherein said method is performed on the encapsulated device to evaluate the integrity of the encapsulation.
+</P>
+<P>
+74. The method of Claim 72, wherein when the amount of moisture and/or oxygen that has permeated into the encapsulation exceeds a threshold level, the encapsulated device is considered to have deteriorated to the point that it is undependable for normal sustained service.
+</P>
+<P>
+75. The method of Claim 74, wherein said method is performed on a non-functional electronic component to determine whether a breached encapsulation is the cause for the failure of the electronic component.
+</P>
+<P>
+76. A system for determining the status of an electronic component in an encapsulated device, said system comprising an signal evaluation unit adapted to couple to the sensor of an encapsulated device as defined in any one of Claims 1 to 52, said signal evaluation unit being capable of measuring a property associated with the electrical conductivity/resistance of the sensor.
+</P>
+<P>
+77. The system of Claim 76, further comprising a computer that correlates the property associated with the electrical conductivity/resistance of the sensor to a quantitative value associated with the permeation of gas into the encapsulation of the encapsulated device.
+</P>
+<P>
+78. The system of Claim 76 or 77, further comprising a display unit for displaying the quantitative value associated with the permeation of gas into the encapsulation of the encapsulated device.
+</P>
+<P>
+79. The system of any of Claims 76 to 78, further comprising a drive circuit that is coupled to the electronic component in the encapsulated device.
+</P>
+<P>
+80. The system of Claim 79, wherein the signal evaluation unit is comprised in the drive circuit.
+</P>
+<P>
+81. A package capable of protecting an oxygen and/or moisture sensitive object, said package comprising: a base substrate having low oxygen and/or moisture permeability, and at least one gas permeation sensor arranged on the base substrate, said gas permeation sensor being capable of measuring the permeation of gas through the base substrate, wherein each of said at least one gas permeation sensor comprises an electrically conductive sensing element comprising a moisture and/or oxygen sensitive material, wherein the reaction of said material with moisture and/or oxygen results in a change in the electrical resistance/conductivity of the sensing element, and an electrical connector capable of connecting the sensing element to a signal evaluation unit.
+</P>
+<P>
+82. The package of Claim 81 , wherein said base substrate is adapted to form at least a part of an enclosure in which the oxygen and/or moisture sensitive object to be protected is arranged.
+</P>
+<P>
+83. The package of Claim 82, wherein the gas permeation sensor is arranged on a side of the base substrate facing the enclosure.
+</P>
+<P>
+84. The package of any of Claims 81 to 84, wherein said base substrate is comprised in a strip pack, blister package, prefillable syringe, medication tube, parenteral vial, ampul, prefillable inhaler, intravenous container, bottle, caps/closures, or a prescription container.
+</P>
+<P>
+85. The package of any of Claims 81 to 84, wherein the gas permeation sensor is coupled to a signal evaluation unit.
+</P>
+<P>
+86. The package of Claim 85, said signal evaluation unit comprises a display unit capable of displaying a quantitative value associated with the amount of moisture and/or oxygen that has permeated through the base substrate.
+</P>
+<P>
+87. The package of Claim 86, object to be protected is selected from the group consisting of an electronic component, a pharmaceutical drug, a food substance and a diagnostic chemical.
+</P>
+<P>
+88. A packaging laminate capable of being adapted to form an enclosure to protect an oxygen and/or moisture sensitive object, said packaging laminate comprising: a base substrate having low oxygen and/or moisture permeability, and at least one gas permeation sensor arranged on the base substrate, said gas permeation sensor being capable of measuring the permeation of gas through the base substrate, wherein each of said at least one gas permeation sensor comprises an electrically conductive sensing element comprising a moisture and/or oxygen sensitive material, wherein the reaction of said material with moisture and/or oxygen results in a change in the electrical resistance/conductivity of the sensing element, and an electrical connector capable of connecting the sensing element to a signal evaluation unit.
+</P>
+</Claims>
+<Also_published_as>
+EP2102630A4;WO2008082362A1;US2010294024A1;TW200848711A;JP2010515050A;CN101632010A
+</Also_published_as>
+</BiblioData>

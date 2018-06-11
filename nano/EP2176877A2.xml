@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DEVICE FOR PROVIDING A HIGH ENERGY X- RAY BEAM
+</Title>
+<PublicationNumber>
+EP2176877A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HOGHOJ PETER [FR]
+</Name>
+<Name>
+BOULEE PASCAL [FR]
+</Name>
+<Name>
+NTOVA PARASKEVI [FR]
+</Name>
+<Name>
+RODRIGUES SERGIO [FR]
+</Name>
+<Name>
+HOGHOJ, PETER
+</Name>
+<Name>
+BOULEE, PASCAL
+</Name>
+<Name>
+NTOVA, PARASKEVI
+</Name>
+<Name>
+RODRIGUES, SERGIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+XENOCS [FR]
+</Name>
+<Name>
+XENOCS
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2176877
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080828039
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008FR00946
+</PriorityNumber>
+<PriorityDate>
+2008-07-02
+</PriorityDate>
+<PriorityNumber>
+FR20070056227
+</PriorityNumber>
+<PriorityDate>
+2007-07-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01B15/00
+</Class>
+<Class>
+G01N23/00
+</Class>
+<Class>
+G21K1/00
+</Class>
+<Class>
+H01J35/02
+</Class>
+<Class>
+H01J35/10
+</Class>
+<Class>
+H01J35/14
+</Class>
+<Class>
+H01J37/00
+</Class>
+<Class>
+H05G1/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01J35/10
+</Class>
+<Class>
+H01J35/14
+</Class>
+</NCL>
+<Abstract>
+La présente invention concerne le domaine de l&apos;instrumentation analytique par rayons X (RX). Elle concerne plus précisément un dispositif de délivrance d&apos;un faisceau de rayons X à haute énergie, typiquement supérieure à 4 keV, pour des applications analytiques par rayons X.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Dispositif de délivrance d&apos;un faisceau de rayons X à des énergies supérieures à 4keV, comprenant : - une source de rayons X (10) comprenant un canon à électrons (111) adapté pour générer un faisceau continu d&apos;électrons sur une région cible (121) d&apos;une anode (12) pour une émission de rayons X par l&apos;anode (12), o ladite anode (12) formant une pièce de révolution d&apos;un diamètre compris entre 100 et 250 millimètres, et étant montée solidaire d&apos;un arbre moteur (16) de manière à être entrainée en rotation par un système de mise en rotation (15), o le canon à électrons (111) et l&apos;anode (12) étant agencés dans une enceinte sous vide (13), ladite enceinte (13) comprenant une fenêtre de sortie (14) pour transmettre un faisceau de rayons X émis par l&apos;anode (12) en dehors de l&apos;enceinte (13), - un moyen de conditionnement (20) du faisceau de rayons X émis à travers la fenêtre de sortie, le moyen de conditionnement comprenant une optique rayons X (20) adaptée pour conditionner le faisceau de rayons X émis selon un effet optique bidimensionnel, caractérisé en ce que - le canon à électrons (111) est prévu pour émettre un faisceau d&apos;électrons d&apos;une puissance inférieure à 400 watts, et comprend des moyens (112) pour focaliser ledit faisceau d&apos;électrons sur la région cible (121) selon une forme sensiblement allongée définie par une petite dimension (v) et une grande dimension (W), la petite dimension (v) étant comprise entre 10 et 30 micromètres et la grande dimension (W) étant 3 à 20 fois plus grande que la petite dimension (v), - l&apos;anode tournante (12) comprend un système de refroidissement (124) par émission pour évacuer par rayonnement une partie d&apos;énergie transmise par le faisceau d&apos;électrons à l&apos;anode, - le système de mise en rotation (15) comprend un moteur à paliers magnétiques prévu pour une mise en rotation de l&apos;anode tournante (12) à une vitesse supérieure à 20 000 tours/minute, et - la fenêtre de sortie (14) est agencée de manière à transmettre un faisceau de rayons X émis par l&apos;anode (12) de sorte que le faisceau de rayons X émis vers le moyen de conditionnement (20) soit défini par un foyer sensiblement ponctuel de dimension correspondant sensiblement à la petite dimension (v) de la forme de la région cible.
+</P>
+<P>
+2. Dispositif selon la revendication 1, caractérisé en ce que l&apos;optique rayons X (20) est une optique à simple réflexion.
+</P>
+<P>
+3. Dispositif selon la revendication 1, caractérisé en ce que l&apos;optique rayons X (20) est courbé selon deux directions orthogonales de manière à produire un effet optique bidimensionnel par simple réflexion.
+</P>
+<P>
+4. Dispositif selon l&apos;une quelconque des revendications 2 ou 3, caractérisé en ce que l&apos;optique rayons X (20) comprend un revêtement multicouche.
+</P>
+<P>
+5. Dispositif selon l&apos;une quelconque des revendications 1 à 4, caractérisé en ce que la fenêtre de sortie (14) est agencée dans l&apos;enceinte (13) de manière à transmettre un faisceau de rayons X dont la direction moyenne forme un angle (a) par rapport au plan moyen de la région cible compris entre 3 et 20 , et préférentiellement entre 6 et 12 .
+</P>
+<P>
+6. Dispositif selon l&apos;une quelconque des revendications 1 à 5, caractérisé en ce que l&apos;anode (12) a une forme sensiblement cylindrique définie par deux surfaces circulaires formant les bases de l&apos;anode (12), les deux surfaces étant réunies par une paroi latérale formant la tranche de l&apos;anode (12), le canon à électrons (111) étant agencé de manière à focaliser le faisceau d&apos;électrons sur l&apos;une des deux bases l&apos;anode (12).
+</P>
+<P>
+7. Dispositif selon la revendication 6, caractérisé en ce que le canon à électrons (111) est agencé de sorte que le faisceau d&apos;électrons soit sensiblement parallèle à l&apos;arbre moteur (16).
+</P>
+<P>
+8. Dispositif selon l&apos;une quelconque des revendications 6 ou 7, caractérisé en ce que le canon à électrons (111) est agencé du même côté que le système de mise en rotation (15).
+</P>
+<P>
+9. Dispositif selon l&apos;une quelconque des revendications 6 à 8, caractérisé en ce que le canon à électrons (111) comprend des moyens (112) pour focaliser le faisceau d&apos;électrons de sorte que la grande dimension (W) de la région cible soit radiale par rapport à la base de l&apos;anode (12), et que la petite dimension (v) soit tangente par rapport à la base de l&apos;anode (12).
+</P>
+<P>
+10. Dispositif selon l&apos;une quelconque des revendications 6 à 9, caractérisé en ce que le moyen de conditionnement (20) est agencé de sorte que l&apos;entrée de l&apos;optique rayons X (20) soit placée à une distance du foyer de la source de rayons X (10) comprise entre 10 et 30 millimètres.
+</P>
+<P>
+11. Dispositif selon l&apos;une quelconque des revendications précédentes, 35 caractérisé en ce qu&apos;il comprend un moyen d&apos;obturation du faisceau de rayons X disposé à la sortie de l&apos;optique rayons X (20).
+</P>
+<P>
+12. Dispositif selon l&apos;une quelconque des revendications précédentes, caractérisé en ce que le système de mise en rotation (15) pour entrainer l&apos;arbre moteur (16) comprend un rotor d&apos;une pompe turbomoléculaire assurant un vide secondaire dans au moins une partie de l&apos;enceinte.
+</P>
+<P>
+13. Dispositif selon l&apos;une quelconque des revendications précédentes, caractérisé en ce que l&apos;anode (12) comprend une couche de diamant (125) agencée sous la cible (123) définie par la région cible (121).
+</P>
+<P>
+14. Dispositif selon la revendication 13, caractérisé en ce que l&apos;anode a une cible (123) ayant une épaisseur inférieure à 5 pm.
+</P>
+<P>
+15. Dispositif selon l&apos;une quelconque des revendications précédentes, caractérisé en ce qu&apos;il comprend en outre des moyens de contrôle de la position du foyer, et un système d&apos;asservissement comprenant des moyens de déplacement de l&apos;optique rayons X (20), les moyens de déplacement étant aptes à modifier le positionnement de l&apos;optique rayons X (20) par rapport au foyer en fonction de la variation de la position du foyer déterminée par les moyens de contrôle.
+</P>
+<P>
+16. Dispositif selon l&apos;une quelconque des revendications précédentes, caractérisé en qu&apos;il comprend en outre une chambre d&apos;ionisation disposée en sortie de l&apos;optique rayons X.
+</P>
+<P>
+17. Système de métrologie par rayons X pour un échantillon, comprenant un dispositif de délivrance d&apos;un faisceau de rayons X selon l&apos;une des revendications 6 à 16, caractérisé en ce que le système de délivrance de faisceau rayons X est positionné de telle sorte que l&apos;arbre moteur (16) de l&apos;anode (12) soit sensiblement parallèle à un plan moyen de l&apos;échantillon.
+</P>
+<P>
+18. Système de métrologie par rayons X pour un échantillon, comprenant un dispositif de délivrance d&apos;un faisceau de rayons X selon l&apos;une quelconque des revendications 6 à 16, caractérisé en ce que le dispositif est monté en rotation autour d&apos;un axe confondu avec l&apos;arbre moteur (16) et parallèle à un plan moyen de l&apos;échantillon.
+</P>
+</Claims>
+<Also_published_as>
+EP2176877B1;FR2918501A1;US2011255668A1;US8121258B2;WO2009024669A2;WO2009024669A3;AT546823T
+</Also_published_as>
+</BiblioData>

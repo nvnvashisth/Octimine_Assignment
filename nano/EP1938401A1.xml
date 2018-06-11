@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INTERFACE CONDITIONING TO IMPROVE EFFICIENCY AND LIFETIME OF ORGANIC ELECTROLUMINESCENCE DEVICES
+</Title>
+<PublicationNumber>
+EP1938401A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHOONG VI-EN [US]
+</Name>
+<Name>
+CHOULIS STELIOS A [US]
+</Name>
+<Name>
+MATHAI MATHEW [US]
+</Name>
+<Name>
+CHOONG, VI-EN
+</Name>
+<Name>
+CHOULIS, STELIOS A
+</Name>
+<Name>
+MATHAI, MATHEW
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+OSRAM OPTO SEMICONDUCTORS GMBH [DE]
+</Name>
+<Name>
+OSRAM OPTO SEMICONDUCTORS GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1938401
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060792069
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006EP08975
+</PriorityNumber>
+<PriorityDate>
+2006-09-14
+</PriorityDate>
+<PriorityNumber>
+US20050236176
+</PriorityNumber>
+<PriorityDate>
+2005-09-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/50
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01L51/50E
+</Class>
+</NCL>
+<Abstract>
+In at least one embodiment of the invention, an OLED device is disclosed in which the surface of one or more layers of the OLED are conditioned with metal nano-particles such that they are disposed along the interface between adjacent layers.
+</Abstract>
+<Claims>
+<P>
+1. An electroluminescent device, comprising:
+</P>
+<P>
+an anode layer;
+</P>
+<P>
+a cathode layer; and
+</P>
+<P>
+an stack of layers between said anode layer and said cathode layer, said stack of layers including at least one layer comprising organic material, wherein at least one nano-particle is disposed in at least one interface between layers in said stack of layers or between said stack of layers and said cathode layer.
+</P>
+<P>
+2. The device according to claim 1 wherein said stack of layers includes at least one of:
+</P>
+<P>
+an anode buffer layer disposed over said anode layer;
+</P>
+<P>
+an emissive layer, said emissive layer capable of emitting light; and
+</P>
+<P>
+a hole transporting interlayer.
+</P>
+<P>
+3. The device according to claim 2 further wherein any of said layers in said stack of layers may also comprise a light emissive component.
+</P>
+<P>
+4. The device according to claim 1 wherein any layers within said stack of layers are formed at least in part using at least one polymer organic material.
+</P>
+<P>
+5. The device according to claim 1 wherein any layers within said stack of layers are formed at least in part using at least one small molecule material.
+</P>
+<P>
+6. The device according to claim 2 wherein said emissive layer comprises a conjugated poly-p-phenylenevinylene polymer.
+</P>
+<P>
+7. The device according to claim 2 wherein said emissive layer comprises a conjugated polyspiro polymer.
+</P>
+<P>
+8. The device according to claim 2 wherein said emissive layer comprises a conjugated fluorene polymer.
+</P>
+<P>
+9. The device according to claim 1 wherein said at least one nano-particle comprises at least one of Ag, Au, Ni, Fe, Co, Ge, Cu, Pt, Pd, Os, Ti, Si or compounds thereof.
+</P>
+<P>
+10. The device according to claim 3 wherein said light emissive component comprises at least one phosphorescence-based emitter.
+</P>
+<P>
+11. The device according to claim 3 wherein said light emissive component comprises at least one fluorescence-based emitter.
+</P>
+<P>
+12. The device according to claim 3 wherein said light emissive component comprises at least one based-based emitter and at least one fluorescence-based emitter.
+</P>
+<P>
+13. The device according to claim 1 wherein said at least one nano-particle is disposed by at least one of sputtering, spin coating, spray coating, or thermal evaporation.
+</P>
+<P>
+14. The device according to claim 1 wherein said at least one nano-particle forms into an ultra-thin layer of nano-particles upon being disposed.
+</P>
+<P>
+15. The device according to claim 1 wherein each of said at least one nano-particle has a size ranging from 0.01 to 10 nano-meters.
+</P>
+<P>
+16. The device according to claim 1 wherein said at least one nano-particle comprises a core of a first material and a shell of a second different material.
+</P>
+<P>
+17. The device according to claim 16 wherein said first material is silica.
+</P>
+<P>
+18. The device according to claim 17 wherein said second material comprises at least one of Ag, Au, Ni, Fe, Co, Ge, Cu, Pt, Pd, Os, Ti, Si or compounds thereof.
+</P>
+<P>
+19. The device of claim 1 wherein said at least one nano-particle has an absorption spectrum which overlaps the triplet exciton state of the material in either one of the layers defining the interface wherein said at least one nano-particle is disposed.
+</P>
+<P>
+20. The device of claim 19 wherein said at least one nano-particle has a resonance with the triplet exciton state of the material in either one of the layers defining the interface wherein said at least one nano-particle is disposed.
+</P>
+</Claims>
+<Also_published_as>
+US2007069199A1;US8101941B2;KR20080056746A;JP2009510746A;WO2007039062A1;DE112006002463T5;CN101292372A;CN101292372B
+</Also_published_as>
+</BiblioData>

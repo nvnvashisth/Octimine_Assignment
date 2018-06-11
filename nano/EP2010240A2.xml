@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MEDICAL DEVICES HAVING ELECTRICALLY ALIGNED ELONGATED PARTICLES
+</Title>
+<PublicationNumber>
+EP2010240A2
+</PublicationNumber>
+<Inventor>
+<Name>
+WEBER JAN [NL]
+</Name>
+<Name>
+ATANASOSKA LILIANA [US]
+</Name>
+<Name>
+WEBER, JAN
+</Name>
+<Name>
+ATANASOSKA, LILIANA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BOSTON SCIENT LTD [BB]
+</Name>
+<Name>
+BOSTON SCIENTIFIC LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2010240
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070752368
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US05658
+</PriorityNumber>
+<PriorityDate>
+2007-03-05
+</PriorityDate>
+<PriorityNumber>
+US20060368738
+</PriorityNumber>
+<PriorityDate>
+2006-03-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61L27/42
+</Class>
+<Class>
+A61L27/44
+</Class>
+<Class>
+A61L27/48
+</Class>
+<Class>
+A61L29/12
+</Class>
+<Class>
+A61L31/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K47/48W26
+</Class>
+<Class>
+A61L27/28
+</Class>
+<Class>
+A61L27/40
+</Class>
+<Class>
+A61L29/08
+</Class>
+<Class>
+A61L29/12
+</Class>
+<Class>
+A61L31/08
+</Class>
+<Class>
+A61L31/12B
+</Class>
+<Class>
+A61L31/12D
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+</NCL>
+<Abstract>
+Medical devices configured for implantation or insertion into a subject, which contain one or more particle-containing region that comprises electrically aligned, elongated particles within a matrix. Also described are methods for forming the same.
+</Abstract>
+<Claims>
+<P>
+1. A medical device comprising a particle-containing region that comprises electrically aligned, elongated particles within a matrix, wherein said medical device is configured for implantation or insertion into a subject.
+</P>
+<P>
+2. The medical device of claim 1, wherein said medical device is selected from a balloon catheter, a graft, a stent, and a valve.
+</P>
+<P>
+3. The medical device of claim 1, wherein at least a portion of said particle-containing region is freestanding.
+</P>
+<P>
+4. The medical device of claim 1, wherein at least a portion of said particle-containing region is disposed on a substrate.
+</P>
+<P>
+5. The medical device of claim 4, wherein said substrate selected from a balloon, a catheter, and a stent.
+</P>
+<P>
+6. The medical device of claim 4, wherein said substrate selected from a metallic substrate and a polymeric substrate.
+</P>
+<P>
+7. The medical device of claim 1, comprising a plurality of particle-containing regions.
+</P>
+<P>
+8. The medical device of claim 1, comprising a plurality of particle-containing regions disposed laterally with respect to one another over a substrate.
+</P>
+<P>
+9. The medical device of claim 7, comprising a first particle-containing layer disposed at least partially over a second first particle-containing layer.
+</P>
+<P>
+10. The medical device of claim 9, wherein the elongated particles within the first layer are aligned along an axis that is perpendicular to the alignment of the elongated particles within the second layer.
+</P>
+<P>
+11. The medical device of claim 10, wherein the first and second layers are substantially planar.
+</P>
+<P>
+12. The medical device of claim 10, wherein the first and second layers are concentric annuli.
+</P>
+<P>
+13. The medical device of claim 1, wherein said particle-containing region is an annular particle-containing region having an axis.
+</P>
+<P>
+14. The medical device of claim 13, wherein the elongated particles are aligned substantially parallel to the axis of said annular particle-containing region.
+</P>
+<P>
+15. The medical device of claim 13, wherein the elongated particles are circumferentially aligned with respect to said annular particle-containing region.
+</P>
+<P>
+16. The medical device of claim 13, wherein the elongated particles are aligned radially with respect to an axis of said annular particle-containing region.
+</P>
+<P>
+17. The medical device of claim 1, wherein said elongated particles have a permanent dipole.
+</P>
+<P>
+18. The medical device of claim 1, wherein said elongated particles display an induced dipole with subjected to an electric field.
+</P>
+<P>
+19. The medical device of claim 1, wherein said elongated particles comprise ceramic elongated particles.
+</P>
+<P>
+20. The medical device of claim 1, wherein said elongated particles comprise conductive elongated particles.
+</P>
+<P>
+21. The medical device of claim 1, wherein said elongated particles comprise carbon nanofilaments.
+</P>
+<P>
+22. The medical device of claim 1, wherein said elongated particles comprise carbon nanotubes.
+</P>
+<P>
+23. The medical device of claim 1, wherein said elongated particles comprise derivatized carbon nanotubes.
+</P>
+<P>
+24. The medical device of claim 1, wherein said elongated particles comprise polymer-functionalized carbon nanotubes.
+</P>
+<P>
+25. The medical device of claim 1, wherein said elongated particles comprise derivatized polyoxometallates.
+</P>
+<P>
+26. The medical device of claim 1, wherein said matrix is a ceramic matrix.
+</P>
+<P>
+27. The medical device of claim 26, wherein said ceramic matrix comprises a ceramic material selected from alumina, zirconia, glass-ceramics, calcium phosphate, and combinations thereof.
+</P>
+<P>
+28. The medical device of claim 26, wherein said elongated particles comprise polyether functionalized elongated particles.
+</P>
+<P>
+29. The medical device of claim 1, wherein said matrix is a polymeric matrix.
+</P>
+<P>
+30. The medical device of claim 29, wherein said polymeric matrix comprises a block copolymer.
+</P>
+<P>
+31. The medical device of claim 30, wherein said block copolymer comprises a polyalkene block and a poly(vinyl aromatic) block.
+</P>
+<P>
+32. The medical device of claim 31, wherein said elongated particles comprise polymer-derivatized elongated particles in which the derivatizing polymer comprises a polyalkene block, a poly(vinyl aromatic) block, or both.
+</P>
+<P>
+33. The medical device of claim 30, wherein said block copolymer comprises an ether block and a polyamide block.
+</P>
+<P>
+34. The medical device of claim 33, wherein said elongated particles comprise polymer-derivatized elongated particles in which the derivatizing polymer comprises a polyether block, a polyamide block, or both.
+</P>
+<P>
+35. The medical device of claim 1, wherein said particle-containing region comprises elongated particles having a first charge and charged polymers having a second charge that is opposite to that of said first charge.
+</P>
+<P>
+36. A method of providing the medical device of claim 1, comprising:
+</P>
+<P>
+providing a liquid suspension comprising said elongated particles;
+</P>
+<P>
+applying an electric field to said suspension, said electric field having sufficient strength to align said elongated particles in an aligned orientation; and
+</P>
+<P>
+fixing the elongated particles in said aligned orientation.
+</P>
+<P>
+37. The method of claim 36, wherein said field is generated using a DC voltage.
+</P>
+<P>
+38. The method of claim 36, wherein said field is generated using an AC voltage.
+</P>
+<P>
+39. The method of claim 36, wherein said field is generated using an AC voltage with a DC bias.
+</P>
+<P>
+40. The method of claim 36, wherein said liquid suspension further comprises a matrix material and wherein said liquid suspension is solidified to fix said elongated particles in said aligned orientation.
+</P>
+<P>
+41. The method of claim 40, wherein said liquid suspension is selected from (a) a liquid suspension comprising said elongated particles in a polymer melt, (b) a liquid suspension comprising said elongated particles in a polymer solution, (c) a liquid suspension comprising said elongated particles in a curable polymeric liquid, (d) a liquid suspension comprising said elongated particles and ceramic particles.
+</P>
+<P>
+42. The method of claim 36, wherein said elongated particles are fixed upon being electrostatically assembled on a surface of opposite charge.
+</P>
+</Claims>
+<Also_published_as>
+US2007207182A1;WO2007103356A2;WO2007103356A3;JP2009528895A;CA2645049A1
+</Also_published_as>
+</BiblioData>

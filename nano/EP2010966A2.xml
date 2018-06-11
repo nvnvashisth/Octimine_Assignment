@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ALIGNMENT METHOD
+</Title>
+<PublicationNumber>
+EP2010966A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SUEHIRA NOBUHITO [JP]
+</Name>
+<Name>
+SEKI JUNICHI [JP]
+</Name>
+<Name>
+INA HIDEKI [JP]
+</Name>
+<Name>
+SENTOKU KOICHI [JP]
+</Name>
+<Name>
+SUEHIRA, NOBUHITO
+</Name>
+<Name>
+SEKI, JUNICHI
+</Name>
+<Name>
+INA, HIDEKI
+</Name>
+<Name>
+SENTOKU, KOICHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2010966
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070742333
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP58898
+</PriorityNumber>
+<PriorityDate>
+2007-04-18
+</PriorityDate>
+<PriorityNumber>
+JP20060114093
+</PriorityNumber>
+<PriorityDate>
+2006-04-18
+</PriorityDate>
+<PriorityNumber>
+JP20060305239
+</PriorityNumber>
+<PriorityDate>
+2006-11-10
+</PriorityDate>
+<PriorityNumber>
+JP20070036598
+</PriorityNumber>
+<PriorityDate>
+2007-02-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81C99/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G03F9/00
+</Class>
+<Class>
+G03F9/70B6G
+</Class>
+<Class>
+G03F9/70D
+</Class>
+<Class>
+G03F9/70M
+</Class>
+</NCL>
+<Abstract>
+In an alignment method for effecting alignment between two plate-like objects, a first plate-like object provided with a first alignment mark and a second plate-like object provide with a second alignment mark are disposed opposite to each other. A first area and a second area are provided at mutually nonoverlapping positions in an image pickup area for being observed through an image pickup &amp;gt; device. Images of the first and second alignment marks are picked up by the image pickup device from a direction substantially perpendicular to an in-plane direction of the first and second plate-like objects. Alignment control is effected by using first information about a deviation of the first alignment mark from a predetermined position in the first area and second information about a deviation of the second alignment mark from a predetermined position in the second area.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. An alignment method for effecting alignment between two plate-like objects by using a light source. and an image pickup device, said alignment method comprising: disposing a first plate-like object provided with a first alignment mark and a second plate-like object provide with a second alignment mark opposite to each other; providing a first area and a second area at mutually nonoverlapping positions in an image pickup area for being observed through the image pickup device; picking up images of the first and second alignment marks by the image pickup device from a direction substantially perpendicular to an in-plane direction of the first and second plate-like objects; effecting alignment control for aligning positions of the first and second plate-like objects in the in-plane direction with each other by using first information about a deviation of the first alignment mark from a predetermined position in the first area and second information about a deviation of the second alignment mark from a predetermined position in the second area; and adjusting a gap between the first and second plate-like objects so that the gap is 3 [mu]m or less by decreasing the gap while effecting the alignment control.
+</P>
+<P>
+2. A method according to Claim 1, wherein each of the images of the first and second alignment marks picked up by the image pickup device is adjusted in contrast .
+</P>
+<P>
+3. A method according to Claim 1( wherein the first and second areas have an identical planar area.
+</P>
+<P>
+4. A method according to Claim 1, wherein magnification correction of images observed in the first and second areas is made depending on a change in magnification resulting from heights of the first and second plate-like objects.
+</P>
+<P>
+5. A method according to Claim 1, wherein an image of the first area is picked up at a first amount of&apos; light from the light source and an image of the second area is picked up at a second amount of light, different from the first amount of light, from the light source.
+</P>
+<P>
+6. An alignment apparatus for effecting an alignment method according to Claim 1, comprising: first movable means for moving at least one of the first and second plate-like objects in the in-plane direction; and second movable means for moving at least one of the first and second plate-like objects in a direction perpendicular to the in-plane direction.
+</P>
+<P>
+7. An imprint method for effecting alignment between two plate-like objects by using a light source and an image pickup device to imprint an imprint pattern provided to one of the two plate-like objects on the other plate-like object or a pattern forming layer formed on the other plate-like object, said imprint method comprising: disposing a mold as a first plate-like object provided with a first alignment mark and a substrate as a second plate-like object provide with a second alignment mark opposite to each other; providing a first area and a second area at mutually nonoverlapping positions in an image pickup area for being observed through the image pickup device; detecting the first and second alignment marks by the image pickup device from a direction substantially perpendicular to an in-plane direction of the first and second plate-like objects; effecting alignment control for aligning positions of the first, and second plate-like objects in the in-plane direction with each other by using first information about a deviation of the first alignment mark from a predetermined position in the &amp;lt;&apos;&amp;gt;first area and second information about a deviation of the second alignment mark from a predetermined position in the second area; and imprinting an imprint pattern provided to the .mold as the first plate-like object on the substrate as the second plate-like object or a pattern forming layer formed on the substrate.
+</P>
+<P>
+8. An imprint apparatus for &amp;lt;-&amp;gt; effecting an alignment method according to Claim 7, comprising: first movable means for moving at least one of the first and second plate-like objects in the in-plane direction; and second movable means for moving at least one of the first and second plate-like objects in a direction perpendicular to the in-plane direction.
+</P>
+<P>
+9. An alignment method for effecting alignment between two plate-like objects by using an image pickup device, said alignment method comprising: disposing a first plate-like object provided with a first periodic structure with a pitch Pl as an alignment mark and a second plate-like object provide with a second periodic structure with a pitch P2 as an alignment mark opposite to each other; providing a first area and a second area at mutually nonoverlapping positions in an image pickup &amp;lt;&apos;&amp;gt; area for&amp;lt;&apos;&amp;gt;being observed through the image pickup device; picking up images of the .first and second periodic structures in the first and second areas, respectively, by. the image pickup .device from a direction substantially perpendicular ,to an in-plane direction of the first and second plate-like objects; effecting alignment between the first and second plate-like objects in the in-plane direction by extracting basic frequencies corresponding to the. first and second periodic structures, respectively, from information about the picked up images, performing computation with the basic frequencies to extract a moire fringe component, and using information about a positional deviation of the first and second plate-like objects in the in-plane direction obtained from the moire fringe component.
+</P>
+<P>
+10. A position measurement method for measuring positions of two objects by using an image pickup device, said position measurement method comprising: disposing a first object provided with a first periodic structure with a pitch Pl as an alignment mark and a second object provide with a second periodic structure with a pitch P2 as an alignment mark opposite to each other; , providing a first area and a second area at &amp;lt;&apos;&amp;gt; mutually nonoverlapping positions in an image pickup area for being observed through the image pickup device; picking up images of the first and second periodic structures in the first and second areas, respectively, by the image pickup device from a direction substantially perpendicular &amp;lt;&quot;&amp;gt;to an in-plane direction of the first and second objects; effecting position measurement of the first and second objects in the in-plane direction by extracting basic frequencies corresponding to the first and second periodic structures, respectively, from information about the picked up images, and performing computation with the basic frequencies to extract a moire fringe component.
+</P>
+<P>
+11. An imprint method comprising: transferring a pattern formed on a processing surface of a mold onto a resin material provided on a surface of a substrate by curing the resin material, wherein when an alignment mark provided to a mold is observed through an image pickup device, a wavelength of light entering the image pickup device depending on a gap between the mold and the substrate or a thickness of a member constituting the alignment mark.
+</P>
+<P>
+12. An alignment method for effecting alignment between two members by using an image pickup device, said alignment method comprising: disposing a first member provided with a first alignment mark and a second member provide with a second alignment mark opposite to each^ other; obtaining first image information about the first alignment mark in a first area in an image pickup area for being observed through the image pickup device; obtaining second image information about the second alignment mark in a second area, different from the first area, in the image pickup area to be observed by the image pickup device; performing computation of the first image information and the second image information; and effecting alignment between the two members by using the first image information and the second image information.
+</P>
+<P>
+13. A method according to Claim 12, wherein the computation is performed by using the first image information and the second image information which are obtained at portions at which the first area and the second area do not overlap each other.
+</P>
+<P>
+14. An alignment method for effecting alignment between two plate-like objects by using an image pickup device, said alignment method comprising: disposing a first plate-like object provided with a first periodic structure with a pitch Pl as an alignment mark and a second plate-like object provide with a second periodic structure with a pitch P2 as an alignment mark opposite to each other;&quot; providing a first area and a second area at mutually nonoverlapping positions in an image pickup area for being observed through the image pickup device; picking up images of the first and second periodic structures in the first and second areas, respectively, by the image pickup device from a direction substantially perpendicular to an in-plane direction of the first and second plate-like objects; obtaining positional information about a relative position between the first and second plate-like objects by performing computation of image information obtained from the images picked up by the image pickup device; and effecting alignment between the first and second plate-like objects in the in-plane direction by using the positional information.
+</P>
+</Claims>
+<Also_published_as>
+WO2007123249A2;WO2007123249A3;US2009108483A1;KR20090009874A;KR101045434B1;JP2011181944A;JP2008221822A;CN102053490A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAKE AND USE OF SURFACE MOLECULES OF VARIED DENSITIES
+</Title>
+<PublicationNumber>
+EP2038074A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GAO XIAOLIAN [US]
+</Name>
+<Name>
+ZHOU XIAOCHUAN [US]
+</Name>
+<Name>
+ZHANG XIAOLIN [US]
+</Name>
+<Name>
+HONG AILING [US]
+</Name>
+<Name>
+ZHU QI [US]
+</Name>
+<Name>
+YU PEILIN [US]
+</Name>
+<Name>
+GAO, XIAOLIAN
+</Name>
+<Name>
+ZHOU, XIAOCHUAN
+</Name>
+<Name>
+ZHANG, XIAOLIN
+</Name>
+<Name>
+HONG, AILING
+</Name>
+<Name>
+ZHU, QI
+</Name>
+<Name>
+YU, PEILIN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+GAO XIAOLIAN [US]
+</Name>
+<Name>
+ZHOU XIAOCHUAN [US]
+</Name>
+<Name>
+ZHANG XIAOLIN [US]
+</Name>
+<Name>
+HONG AILING [US]
+</Name>
+<Name>
+ZHU QI [US]
+</Name>
+<Name>
+YU PEILIN [US]
+</Name>
+<Name>
+GAO, XIAOLIAN
+</Name>
+<Name>
+ZHOU, XIAOCHUAN
+</Name>
+<Name>
+ZHANG, XIAOLIN
+</Name>
+<Name>
+HONG, AILING
+</Name>
+<Name>
+ZHU, QI
+</Name>
+<Name>
+YU, PEILIN
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2038074
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070812529
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US72609
+</PriorityNumber>
+<PriorityDate>
+2007-06-29
+</PriorityDate>
+<PriorityNumber>
+US20060817498P
+</PriorityNumber>
+<PriorityDate>
+2006-06-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01L3/00
+</Class>
+<Class>
+C12N11/00
+</Class>
+<Class>
+C40B40/04
+</Class>
+<Class>
+G01N33/543
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C40B40/04
+</Class>
+<Class>
+C40B50/14
+</Class>
+<Class>
+G01N33/543F
+</Class>
+<Class>
+G01N33/68A
+</Class>
+<Class>
+G01N33/68A8
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to quantitative and quantity aspects of array synthesis and array uses as a device for high capacity producing synthetic moiecuies for off-array surface applications and as an assay device for on-array surface applications.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+We Claim:
+</P>
+<P>
+1. A method for functionaiizing a surface containing two or more sites comprising;
+</P>
+<P>
+(a) attaching a first set of molecules of predetermined concentrations to at least one site on surface;
+</P>
+<P>
+(b) attaching a second set of molecules of predetermined concentrations to at least one site on surface;
+</P>
+<P>
+(c) repeating steps a and b to form a surface wherein the predetermined densities of the two or more sites are different; (d) treating the surface density-variation sites with first reactive moSecuie;
+</P>
+<P>
+(e) treating the surface density-variation sites with a second reactive moiecuie such that the functionalized sites of different surface densities undergo at ieast two steps of subsequent chemical reactions to cause the formation of at least two new chernicai bonds per reaction site. 2. The surface of claim 1 comprising:
+</P>
+<P>
+(a) at least two or more density-variation sites for each type of molecules;
+</P>
+<P>
+(b) at ieast one or more different types of moiecules;
+</P>
+<P>
+3 The method of ciam 1 wherein functionaiizing reaction comprises adding reaction reagents which may be a regular building block, a terminator, and/or a multiplier in a predetermined concentration.
+</P>
+<P>
+4. The method of clam 1 wherein functionaiizing surface comprises:
+</P>
+<P>
+(a) irradiating at ieast a first site with a predetermined radiation strength to activate at ieast one first site;
+</P>
+<P>
+(b) irradiating at least a second site with a predetermined radiation strength to activate at ieast one second site;
+</P>
+<P>
+(c) repeating steps a and b to form a surface wherein the predetermined irradiation strength causes the densities of activated molecules at the two or more sites are different;
+</P>
+<P>
+5 The method of claim 1 wherein the subsequent reaction is: (a) adding a first monomer to functionalized and activated surface containing density- variation sites.
+</P>
+<P>
+1 (b) adding a second monomer to functionalized and activated surface containing density-variation sites.
+</P>
+<P>
+(c) forming a molecular array wherein the surface contain at least two kinds of moSecuies and each is simultaneously present at more than one density-variation sites;
+</P>
+<P>
+8. The arrays of claim 5 provide molecules on density-variation sites for detection and quantitative analysis of proteins.
+</P>
+<P>
+7. A method for functionalizing a surface containing an array of sites comprising;
+</P>
+<P>
+(a) attaching a first set of molecules of predetermined concentrations to at ieast one site on surface;
+</P>
+<P>
+(b) attaching a second set of molecules of predetermined concentrations to at least one site on surface;
+</P>
+<P>
+(c) repeating steps a and b to form a surface wherein the predetermined densities of an array of sites are different; (d) treating the surface density-variation sites with first reactive molecule;
+</P>
+<P>
+(e) treating the surface density-variation sites with a second reactive moiecuie;
+</P>
+<P>
+(f) repeating steps d and e such that the functionaiized sites of different surface densities undergo at least two steps of subsequent chemical reactions to cause the formation of at ieast two new chemical bonds per array site. 8. The surface of claim 7 comprising;
+</P>
+<P>
+(a) at least an array of density-variation sites for each type of moSecui[beta]s;
+</P>
+<P>
+(b) &amp;t ieast one or more different types of molecules;
+</P>
+<P>
+9 The method of ciam 7 wherein functionalizing reaction comprises adding reaction reagents which may be a regular bu[upsilon]ding block, a terminator, and/or a multipiier in a predetermined concentration,
+</P>
+<P>
+10. The method of ciam 7 wherein functionaSizing surface comprises:
+</P>
+<P>
+(a) irradiating at ieast a first site with a predetermined radiation strength to activate at least one first site;
+</P>
+<P>
+(b) irradiating at ieast a second site with a predetermined radiation strength to activate at ieast one second site;
+</P>
+<P>
+(c) repeating steps a an[upsilon] b to form a surface wherein the predetermined irradiation strength causes the densities of activated moiecuies at the array sites are different;
+</P>
+<P>
+11. The method of claim 7 wherein the subsequent reaction is paraii[beta]i synthesis of an array of moiecuies comprising: (a) adding a first monomer to functionalized and activated surface containing density- variation sites;
+</P>
+<P>
+(b) adding a second monomer to functionalized and activated surface containing density-variation sites.
+</P>
+<P>
+(c) repeating steps a and b to form a molecular array wherein the surface contain at ieast two kinds of moiecuies and each is simultaneously present at more than one density-variation sites;
+</P>
+<P>
+12. The arrays of claim 7 provide molecules on density-variation sites for detection and quantitative analysis of proteins.
+</P>
+<P>
+13. A method of in situ parallel synthesis of a peptide array containing density-variation sites comprising:
+</P>
+<P>
+(a) having an array layout file containing predetermined density-variation sites and peptide sequences at predetermined positions,
+</P>
+<P>
+(b) attaching a first set of molecules of predetermined concentrations to predetermined density-variation sites on surface according to the array layout file; (c) attaching a second set of moiecuies of predetermined concentrations to predetermined density-variation sites on surface according to the array layout file;
+</P>
+<P>
+(d) repeating steps b and c to form a surface wherein the predetermined density- variation sites according to step a are created;
+</P>
+<P>
+(e) treating the surface of step d with first reactive amino acid at predetermined positions according to step a so that reaction occurs between the first reactive moiecuie and the surface functional group:
+</P>
+<P>
+(f) treating the surface of step e with a second reactive amino acid at predetermined positions according to step a so that the reaction occurs between the second reactive molecule and the surface functional group: (g) repeating the treatment steps with reactive amino acids at predetermined positions according to step a to form the peptide array with two or more peptides located in different density-variation sites;
+</P>
+<P>
+14. The peptide array of ciaim 13 has an array layout containing density-variation sites equivalent to those of four or more 96-weli titer plates.
+</P>
+<P>
+15. The surface reaction sites claims 13 contain either protected amino groups or free amino groups,
+</P>
+<P>
+18. The molecule of claim 13 which increases the density at an array site is a side-chain protected lysine.
+</P>
+<P>
+17. The molecule of claim 13 which decreases the density at an array site is an alpha- amino protected amino acid and the protection group is stable under the subsequent synthesis conditions,
+</P>
+<P>
+18. The reactive moiecuSe of claim 13 is protected amono acid for synthesis of peptides. 19. The surface of claim 13 wherein the density-variation sites are made by in situ parallel synthesis.
+</P>
+<P>
+20. The surface of ciaim 13 wherein the peptides are made by in situ paraliel synthesis.
+</P>
+<P>
+21. The peptide array of claim 13 provides moSecuies attached to the surface with sequentially increasing or decreasing densities. 22. The peptide array of ciaim 13 containing peptides which have known binding properties.
+</P>
+<P>
+23. The peptide array of ciaim 13 is for detection of proteins and quantitative analysis of pepfide-protein interactions.
+</P>
+<P>
+24. The peptide array of ciaim 13 is for measurement of protein kinase activities. 25. The peptide array of ciaim 13 is for measurement of protease activities,
+</P>
+<P>
+26. The peptide array of ciaim 13 is for measurement of phosphoprotein-binding protein.
+</P>
+<P>
+27. The peptide array of ciaim 13 is for measurement of antibody binding.
+</P>
+<P>
+28. The peptide array of ciaim 13 is for measurement of protein binding.
+</P>
+<P>
+29. The peptide array of ciaim 13 is for measurement of nucleic acid binding, 30. The peptide array of ciaim 13 is for measurement of polysaccharide binding.
+</P>
+<P>
+31. The peptide array of claims 13 is for measurement of the binding or activities of a biopolyrner or a conjugate of biopolymer.
+</P>
+</Claims>
+<Also_published_as>
+EP2038074A4;WO2008003100A2;WO2008003100A3;US2010210478A1;CN101583580A
+</Also_published_as>
+</BiblioData>

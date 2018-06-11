@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NEGATIVE INDEX MATERIAL WITH COMPENSATED LOSSES
+</Title>
+<PublicationNumber>
+EP1991496A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SHALAEV VLADIMIR M [US]
+</Name>
+<Name>
+DRACHEV VLADIMIR P [US]
+</Name>
+<Name>
+KLAR THOMAS A [DE]
+</Name>
+<Name>
+KILDISHEV ALEXANDER V [US]
+</Name>
+<Name>
+SHALAEV, VLADIMIR, M
+</Name>
+<Name>
+DRACHEV, VLADIMIR, P
+</Name>
+<Name>
+KLAR, THOMAS, A
+</Name>
+<Name>
+KILDISHEV, ALEXANDER, V
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PURDUE RESEARCH FOUNDATION [US]
+</Name>
+<Name>
+PURDUE RESEARCH FOUNDATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1991496
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070751884
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US05152
+</PriorityNumber>
+<PriorityDate>
+2007-02-28
+</PriorityDate>
+<PriorityNumber>
+US20060777873P
+</PriorityNumber>
+<PriorityDate>
+2006-03-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01J3/02
+</Class>
+<Class>
+G02B1/00M3
+</Class>
+<Class>
+G02B6/122P
+</Class>
+<Class>
+G02B6/122S
+</Class>
+<Class>
+H01S3/063F
+</Class>
+</NCL>
+<Abstract>
+A composition of resonant passive metal-dielectric elements with gain medium results in a meta-material with an effective negative refractive index and compensated losses. To compensate for losses, additional energy is supplied using the stimulated emission from active elements made of a gain material. The overall objective is to overcome the fundamental threshold in resolution for conventional optical imaging limited to about a half-wavelength of incident light. The negative index material with compensated losses (NIMCOL) can be used in NIM-based optical imaging and sensing devices with enhanced sub-wavelength resolution. A lasing device based on overcompensating for the loss in NIM structures is disclosed as well.
+</Abstract>
+<Claims>
+<P>
+Claims:
+</P>
+<P>
+1. A device comprising a negative index material with compensated losses using artificial magnetism obtained from elementary optical metal- dielectric resonators and stimulated emission from gain material inclusions to achieve enhanced imaging resolution.
+</P>
+<P>
+2. The device of claim 1 comprising a nanophotonic waveguide.
+</P>
+<P>
+3. The device of claim 1 comprising a photon source and switch.
+</P>
+<P>
+4. The device of claim 1 comprising an on-chip spectrophotometer.
+</P>
+<P>
+5. The device of claim 1 comprising a lens for use in a nanolithographic system.
+</P>
+<P>
+6. The device of claim 1 comprising a lens for use in a nanoscale sensing system.
+</P>
+<P>
+7. The device of claim 1 comprising a lens for use in a nanoscale imaging system.
+</P>
+<P>
+8. The device of claim 1 comprising a beam steering device.
+</P>
+<P>
+9. The device of claim 1 comprising a nonlinear optical multifunctional element.
+</P>
+<P>
+10. A device comprising a negative index material with compensated losses, the negative index material including pairs of shaped metal parts spaced from each other by a distance of between about 3 and 30 nanometers, and a dielectric gain material situated between the shaped metal parts.
+</P>
+<P>
+11. A device of claim 10 wherein the shape of the metal parts is selected from rods, solid particles, and strips.
+</P>
+<P>
+12. The device of claim 10 wherein the metal forming the shaped metal parts is selected from the group consisting of silver and gold.
+</P>
+<P>
+13. The device of claim 12 further comprising a separation material between the pairs of shaped metal parts comprising AI2O3.
+</P>
+<P>
+14. The device of claim 12 wherein the shaped metal parts are sandwiched between an upper and lower layer, each layer comprising InP covered by a positive index polymer matching the index of InP.
+</P>
+<P>
+15. The device of claim 14 wherein at least one of the upper and lower layer includes a quantum well comprising InGaAsP.
+</P>
+<P>
+16. The device of claim 10 wherein the gain material comprises gain beads.
+</P>
+<P>
+17. The device of claim 16 wherein the gain beads are Erbium doped.
+</P>
+<P>
+18. The device of claim 10 comprising a [pi] -conjugated polymer.
+</P>
+<P>
+19. A device comprising a negative index material with compensated losses, the negative index material having a dielectric gain material containing at least one of: a hollow metal particle, a hollow metal rod, a hollow metal strip, or a metal film with random or periodic voids.
+</P>
+</Claims>
+<Also_published_as>
+WO2007103077A2;WO2007103077A3;US2009219623A1
+</Also_published_as>
+</BiblioData>

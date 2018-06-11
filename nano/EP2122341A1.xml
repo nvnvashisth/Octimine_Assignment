@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+AN ELECTROMAGNETIC SYSTEM FOR BIOSENSORS
+</Title>
+<PublicationNumber>
+EP2122341A1
+</PublicationNumber>
+<Inventor>
+<Name>
+VAN LANKVELT PETRUS JOHANNES W [NL]
+</Name>
+<Name>
+PRINS MENNO WILLEM JOSE [NL]
+</Name>
+<Name>
+IMMINK ALBERT HENDRIK JAN [NL]
+</Name>
+<Name>
+VAN LANKVELT, PETRUS JOHANNES WILHELMUS
+</Name>
+<Name>
+PRINS, MENNO WILLEM JOSE
+</Name>
+<Name>
+IMMINK, ALBERT HENDRIK JAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONINKL PHILIPS ELECTRONICS NV [NL]
+</Name>
+<Name>
+KONINKLIJKE PHILIPS ELECTRONICS N.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2122341
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080719517
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008IB50740
+</PriorityNumber>
+<PriorityDate>
+2008-02-29
+</PriorityDate>
+<PriorityNumber>
+EP20070103629
+</PriorityNumber>
+<PriorityDate>
+2007-03-06
+</PriorityDate>
+<PriorityNumber>
+EP20080719517
+</PriorityNumber>
+<PriorityDate>
+2008-02-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N27/72
+</Class>
+<Class>
+G01N35/00
+</Class>
+<Class>
+G01R33/02
+</Class>
+<Class>
+G01R33/09
+</Class>
+<Class>
+G01R33/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01N27/74B
+</Class>
+<Class>
+G01R33/02E
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G01R33/12
+</Class>
+<Class>
+G01R33/12M
+</Class>
+</NCL>
+<Abstract>
+The invention relates to an electromagnetic system for biosensors, in which the system can switch quickly between high magnetic gradients, without the need of movement of mechanical elements. This is realized by two independent electromagnetic units (1,1&apos; 2, 2&apos;) which are separated in the region of the pole shoes over a gap, in which a sample volume is arranged by a cartridge (3), and in which the sensor surfaces of the biosensor are located at one or more inner surfaces of the cartridge (3).
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. An electromagnetic system for biosensors, where two independent electromagnetic units (1, V, 2, 2&quot;) are separated in the region of the pole shoes of the electromagnetic units (1, V, 2, 2&quot;) over a gap, in which a sample volume is arranged by a cartridge (3), and in which the sensor surfaces of the biosensor are located at one or more inner surfaces of the cartridge (3).
+</P>
+<P>
+2. An electromagnetic system according to claim 1, characterized in that the electromagnetic units (1, V, 2, 2&quot;) are arranged in parallel, so that the magnetic cores (1 &apos;, 2&quot;) extend over at least the height of the cartridge (3) out of the upper end of the magnetic units, and the cartridge (3) is arranged between these parallel arranged extending magnetic core parts in a slit.
+</P>
+<P>
+3. An electromagnetic system according to claim 1, characterized in that the electromagnetic units (1, V, 2, 2&quot;) are driven or steered by electric means in that way, that the magnetic polarisation between the magnetic core part can be switched between N-N, N-S, S-N and S-S.
+</P>
+<P>
+4. An electromagnetic system according to claim 1, characterized in that the open side of the cartridge (3) is covered with an optical window (4).
+</P>
+<P>
+5. An electromagnetic system according to claim 4, characterized in that focussing optical readout means (5) are arranged above the optical window (4).
+</P>
+<P>
+6. An electromagnetic system according to claim 4 or 5, characterized in that the cartridge (3) has an U-profile and is made of at least nearly non- susceptible material.
+</P>
+<P>
+7. An electromagnetic system according to claim 1, characterized in that one sensor or sensor surface is located at the bottom of the cartridge (3) and the other is located adjacent to the first mentioned sensor surface, and the readout system is a magnetic readout system (6).
+</P>
+<P>
+8. An electromagnetic system according to claim 1, characterized in that the cartridge (3) is a sample-flow-channel, where fluids to be analysed are pumped or sucked through.
+</P>
+<P>
+9. An electromagnetic system according to claim 1, characterized in that optoelectronic sensor means are arranged in the focus of the optical means (5).
+</P>
+</Claims>
+<Also_published_as>
+WO2008107827A1;US2010117772A1;JP2010520479A;CN101622533A
+</Also_published_as>
+</BiblioData>

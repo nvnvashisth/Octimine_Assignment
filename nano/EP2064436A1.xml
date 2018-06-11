@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NOZZLE ARRANGEMENT FOR USE IN A GAS THRUSTER, GAS THRUSTER, METHOD FOR MANUFACTURING A NOZZLE ARRANGEMENT, METHOD FOR IN- SITU REPAIRING OF A NOZZLE ARRANGEMENT AND A METHOD FOR OPERATING A GAS THRUSTERS
+</Title>
+<PublicationNumber>
+EP2064436A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GROENLAND TOR-ARNE [SE]
+</Name>
+<Name>
+RANGSTEN PELLE [SE]
+</Name>
+<Name>
+JOHANSSON HAAKAN [SE]
+</Name>
+<Name>
+BEJHED JOHAN [SE]
+</Name>
+<Name>
+GROENLAND, TOR-ARNE
+</Name>
+<Name>
+RANGSTEN, PELLE
+</Name>
+<Name>
+JOHANSSON, HAAKAN
+</Name>
+<Name>
+BEJHED, JOHAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOSPACE AB [SE]
+</Name>
+<Name>
+NANOSPACE AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2064436
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070794220
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007SE50615
+</PriorityNumber>
+<PriorityDate>
+2007-09-04
+</PriorityDate>
+<PriorityNumber>
+SE20060001832
+</PriorityNumber>
+<PriorityDate>
+2006-09-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B64G1/40
+</Class>
+<Class>
+F02K9/62
+</Class>
+<Class>
+F03H99/00
+</Class>
+<Class>
+H01R12/58
+</Class>
+<Class>
+F03H5/00
+</Class>
+</IPC>
+<IPC7>
+<Class>
+F03H5/00
+</Class>
+</IPC7>
+<ICM>
+<Class>
+B64G1/40
+</Class>
+<Class>
+F02K9/62
+</Class>
+<Class>
+F03H99/00
+</Class>
+<Class>
+H01R12/58
+</Class>
+</ICM>
+<NCL>
+<Class>
+B64G1/26
+</Class>
+<Class>
+B64G1/40A
+</Class>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+F02K9/62
+</Class>
+<Class>
+F02K9/80
+</Class>
+</NCL>
+<Abstract>
+A nozzle arrangement for use in a gas thruster is presented. At least one heater micro structure (20) is arranged in a stagnation chamber (12) of the gas thruster. The heater microstructure (20) comprises a core of silicon or a silicon compound coated by a surface metal or metal compound coating. The heater microstructure (20) is manufactured in silicon or a silicon compound and covered by a surface metal coating. The heater microstructure (20) is mounted in the stagnation chamber (12) before or after the coverage of the surface metal or metal compound coating. The coverage is performed by heating the heater microstructure and flowing a gas comprising low quantities of a metal compound. The compound decomposes at the heated heater microstructure (20), forming the surface metal or metal compound coating. The same principles of coating can be used for repairing the heater microstructure (20) in situ. The driving gas comprises preferably a compound exhibiting an exothermic reaction when coming into contact with a catalytically active material. If the gas is exposed to heater microstructures being covered with the catalytically active material, the gas is further heated by the catalytic reaction.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. Nozzle arrangement (10) for use in a gas thruster (1), comprising: stagnation chamber (12) having an entrance opening (7) and a nozzle exit (14); and at least one heater microstructure (20) arranged in said stagnation chamber (12), characterized in that said at least one heater micro structure (20) comprises a heater microstructure core (34) of silicon or silicon compounds coated by a surface metal or metal compound coating (36) .
+</P>
+<P>
+2. Nozzle arrangement according to claim 1, characterized in that said surface metal or metal compound coating (36) is a catalytically active material.
+</P>
+<P>
+3. Nozzle arrangement according to claim 2, characterized in that said catalytically active material is selected from the list of: W, Ir, Rh, Pd, Pt and oxides, nitrides, carbides of W, Ir, Rh, Pd and Pt.
+</P>
+<P>
+4. Nozzle arrangement according to claim 1, characterized in that said surface metal or metal compound coating (36) is a high-temperature resistant metal.
+</P>
+<P>
+5. Nozzle arrangement according to claim 4, characterized in that surface metal or metal compound coating (36) is tungsten.
+</P>
+<P>
+6. Nozzle arrangement according to any of the claims 1 to 5, characterized in that said surface metal or metal compound coating (36) is resistant to oxidising and reducing environments.
+</P>
+<P>
+7. Nozzle arrangement according to any of the claims 1 to 6, characterized in that said at least one heater microstructure (20) comprises a shaped thin heater sheet structure (24).
+</P>
+<P>
+8. Nozzle arrangement according to any of the claims 1 to 7, characterized in that said thin heater sheet structure (24) has a meandering shape as seen from said nozzle exit (14).
+</P>
+<P>
+9. Nozzle arrangement according to claim 7 or 8, characterized in that said thin heater sheet structure (24) has a width in a direction towards said nozzle exit (14) that is considerably larger than a thickness of said thin heater sheet structure (24).
+</P>
+<P>
+10. Gas thruster (1), comprising: a container (2) containing driving materia; a nozzle arrangement (10) according to any of the claims 1 to 9; a first valve arrangement (4) connecting said container (2) and said nozzle arrangement (10); and heater control unit (22) connected to said at least one heater microstructure (20) .
+</P>
+<P>
+11. Gas thruster according to claim 10, characterized in that said driving materia is a pressure liquidized gas.
+</P>
+<P>
+12. Gas thruster according to claim 10 or 11, characterized in that said driving materia is a compound exhibiting an exothermic reaction when coming into contact with a catalytically active material.
+</P>
+<P>
+13. Gas thruster according to any of the claims 10 to 12, characterized in that said driving materia comprises low quantities of a compound of a catalytically active material.
+</P>
+<P>
+14. Gas thruster according to any of the claims 10 to 12, characterized by further comprising a coating container (60) comprising a compound of a catalytically active material and a second valve arrangement (62) connecting said coating container (60) and said nozzle arrangement (10).
+</P>
+<P>
+15. Method for manufacturing a nozzle arrangement (10) for use in a gas thruster (1), comprising the steps of: providing (210) a stagnation chamber (12) having an entrance opening (7) and a nozzle exit (14); manufacturing (220) a heater microstructure core (34) in silicon or a silicon compound; covering (230) a surface of said heater microstructure core (34) with a surface metal or metal compound coating (36); said step of covering (230) in turn comprising the steps of: heating (232) said heater microstructure core (34) by conducting an electric current therethrough; flowing (234) a gas comprising low quantities of a metal compound over said heater microstructure core (34); and decomposing (236) said compound at the heated heater microstructure core (34) into said metal or metal compound (36); and mounting (240) said heater microstructure in said stagnation chamber (12).
+</P>
+<P>
+16. Method according to claim 15, characterized in that said step of mounting (240) is performed prior to said step of covering (230), whereby said step of covering (230) is performed in situ in said stagnation chamber (12).
+</P>
+<P>
+17. Method according to claim 16, characterized in that said step of covering (230) comprises the further steps of: monitoring a resistance over said heater microstructure (20); and interrupting at least one of said step of heating (232) and said step of flowing (234), whereby an in-situ resistance tuning is achieved.
+</P>
+<P>
+18. Method according to any of the claims 15 to 17, characterized by the further step of etching away at least a part of said silicon or silicon compound.
+</P>
+<P>
+19. Method for in-situ repairing of a nozzle arrangement (10) for use in a gas thruster (1), said nozzle arrangement (10) comprising at least one heater microstructure (20), composed by silicon or silicon compound with a surface metal or metal compound coating (36), and arranged in a stagnation chamber (12), said method comprising the step of: repairing (250) said heater microstructure (20) by improving said surface metal or metal compound coating (36); said step of repairing (250) in turn comprising the steps of: heating (232) said heater microstructure (20) by conducting an electric current therethrough; flowing (234) a gas comprising low quantities of a metal compound comprising said metal or metal compound over said heater microstructure (20); and decomposing (236) said compound at the heated heater microstructure (20) into said metal or metal compound (36).
+</P>
+<P>
+20. Method according to claim 19, characterized in that said gas used in said step of flowing a gas is further used for driving said gas thruster.
+</P>
+<P>
+21. Method for operating a gas thruster (1), comprising the steps of: releasing (260) gas from a container (2); heating (270) said gas; and flowing (280) said heated gas through an exit nozzle (14) of said gas thruster (1), characterized in that said gas comprises a compound exhibiting an exothermic reaction when coming into contact with a catalytically active material; said step of heating (270) is performed by a heater microstructure (20) of silicon or silicon compound having a surface metal or metal compound coating (36) of said catalytically active metal, whereby said step of heating (280) said gas at least partly is performed by said compound exothermically reacting at said surface metal or metal compound coating (36).
+</P>
+</Claims>
+<Also_published_as>
+WO2008030175A1;US2010139239A1;US2010018764A1;WO2008030176A1;SE0601832A;SE0601832L;SE530415C2;EP2067391A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ORGANIC PHOTODETECTOR HAVING A REDUCED DARK CURRENT
+</Title>
+<PublicationNumber>
+EP2206172A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FUERST JENS [DE]
+</Name>
+<Name>
+HAYDEN OLIVER [DE]
+</Name>
+<Name>
+SCHMID GUENTER [DE]
+</Name>
+<Name>
+FUERST, JENS
+</Name>
+<Name>
+HAYDEN, OLIVER
+</Name>
+<Name>
+SCHMID, GUENTER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SIEMENS AG [DE]
+</Name>
+<Name>
+SIEMENS AKTIENGESELLSCHAFT
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2206172
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080803709
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-09-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP61739
+</PriorityNumber>
+<PriorityDate>
+2008-09-05
+</PriorityDate>
+<PriorityNumber>
+DE200710046444
+</PriorityNumber>
+<PriorityDate>
+2007-09-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/42
+</Class>
+<Class>
+H01L51/44
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/44B
+</Class>
+<Class>
+H01L51/44B2
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+Die Erfindung betrifft einen organischen Photodetektor mit reduziertem Dunkelstrom durch Einbringen einer Elektronenblockierschicht oder Barriereschicht zwischen der unteren Elektrode und der organischen photoaktiven Schicht. Als Material für die Barriereschicht wird eine SAM-Schicht vorgeschlagen.
+</Abstract>
+<Claims>
+<P>
+1. Organischer Photodetektor, eine obere (4) und eine untere Elektrode (2) mit dazwischen zumindest einer photoaktiven Schicht (3) umfassend, dadurch gekennzeichnet, dass zwischen der photoaktiven Schicht (3) und der unteren Elektrode (2), eine Elektronenblockierschicht angeordnet ist, die zumindest eine selbstorganisierte SAM-Schicht umfasst.
+</P>
+<P>
+2. Photodetektor nach Anspruch 1, wobei die SAM-Schicht Moleküle enthält, die jeweils eine Kopf-Gruppe mit pi-pi-Wechselwirkung, eine Ankergruppe sowie dazwischen eine Molekülkette haben.
+</P>
+<P>
+3. Photodetektor nach Anspruch 1, wobei die SAM-Schicht Moleküle enthält, die jeweils eine Kopf-Gruppe ohne Wechselwirkung, eine Ankergruppe sowie dazwischen eine Molekülkette haben.
+</P>
+<P>
+4. Photodetektor nach einem der vorstehenden Ansprüche mit inversem Aufbau, wobei die Kathode die untere Elektrode bildet, auf der die zumindest eine SAM-Schicht angeordnet ist.
+</P>
+<P>
+5. Photodetektor nach einem der vorstehenden Ansprüche, wobei der Photodetektor Moleküle enthält, deren Ankergruppen ausgewählt sind aus der Gruppe folgender Verbindungen:
+</P>
+<P>
+EMI12.1
+</P>
+<P>
+mit folgenden Resten: R1, R2, R3 = H, Cl, Br, J, OH, O-Alkyl, wobei Alkyl = Methyl, Ethyl, n-Propyl, i-Propyl, n-Butyl, sec-Butyl, tert-Butyl, R4 = H, Cl, Br, J, OH, O-SiR1R2R3; O-Alkyl, wobei Alkyl = Methyl, Ethyl, n-Propyl, i-Propyl, n-Butyl, sec-Butyl, tert-Butyl, R5, R6 = H, Cl, Br, J, OH, O-Alkyl, wobei Alkyl = Methyl, Ethyl, n-Propyl, i-Propyl, n-Butyl, sec-Butyl, tert-Butyl, R7 = Cl, Br, J, OH; O-Alkyl, wobei Alkyl = Methyl, Ethyl, n-Propyl, i-Propyl, n-Butyl, sec-Butyl, tert-Butyl sowie deren verzweigte und/oder unverzweigte höhere Homologe.
+</P>
+<P>
+6. Photodetektor nach einem der vorstehenden Ansprüche, wobei die SAM-Schicht Molekülen enthält, deren Molekülkette ausgewählt ist aus der Gruppe folgender Molekülketten: -Alkylkette mit 2-20 Kohlenstoffatomen in der Kette; -fluorierte Alkylkette mit 2-20 Kohlenstoffatomen in der Kette; Alkylkette mit 2-20 Kohlenstoffverbindungen und/oder Arylgruppen als Kopfgruppen und/oder Polyethylenglykol oder eine Polyethylendiaminkette oder eine beliebige Mischung aus diesen Molekülketten.
+</P>
+<P>
+7. Photodetektor nach einem der vorstehenden Ansprüche, wobei die SAM-Schicht Moleküle enthält, deren Kopfgruppe ausgewählt ist aus der Gruppe folgender Gruppen:
+</P>
+<P>
+Methyl-, fluorierte Alkyl-kette; Phenoxy-Gruppe und/oder
+</P>
+<P>
+EMI14.1
+</P>
+<P>
+wobei die Aromaten entweder direkt oder über O, S, N, P, C=C, Ctriple boundC, an die Molekülkette angebunden sind und beliebige Substituenten tragen können.
+</P>
+<P>
+8. Photodetektor nach einem der vorstehenden Ansprüche, wobei die SAM-Schicht erhältlich ist durch Abscheidung aus der Gasphase oder durch Aufbringung aus der Lösung.
+</P>
+<P>
+9. Verwendung einer selbstorganisierenden SAM-Schicht zwischen Anode und photoaktiver Schicht eines organischen Photodetektors, zumindest eine Monolage zumindest einer selbst organisierenden Molekülart enthaltend, wobei die Moleküle jeweils zumindest eine Kopf und eine Ankergruppe sowie ein dazwischen angeordnetes Gerüst enthalten.
+</P>
+<P>
+10. Verwendung einer selbstorganisierenden SAM-Schicht zwischen Anode und photoaktiver Schicht eines organischen Photodetektors, wobei die SAM-Schicht ausgewählt ist aus den in den Ansprüchen 3 bis 6 beanspruchten SAM-Schichten.
+</P>
+<P>
+11. Verwendung nach einem der Ansprüche 7 oder 8, wobei die SAM-Schicht eine Mischung von Molekülen enthält, so dass sie in ihrer Barrierewirkung dem Dunkelstrom und von der Lage ihrer HOMO-LUMO Niveau den Potentialniveau der sie umgebenden Schichten optimal angepasst ist.
+</P>
+</Claims>
+<Also_published_as>
+DE102007046444A1;US2010207112A1;WO2009043683A1
+</Also_published_as>
+</BiblioData>

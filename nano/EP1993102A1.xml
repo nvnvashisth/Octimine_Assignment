@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Cantilever assembly and process of manufacturing the same
+</Title>
+<PublicationNumber>
+EP1993102A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HOOGENBOOM BART W [CH]
+</Name>
+<Name>
+YANG JINLING [CH]
+</Name>
+<Name>
+HUG HANS J [CH]
+</Name>
+<Name>
+MARTIN SASCHA [CH]
+</Name>
+<Name>
+HOOGENBOOM, BART W
+</Name>
+<Name>
+YANG, JINLING
+</Name>
+<Name>
+HUG, HANS J
+</Name>
+<Name>
+MARTIN, SASCHA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOWORLD AG [CH]
+</Name>
+<Name>
+NANOWORLD AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1993102
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080003535
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-11-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040798772
+</PriorityNumber>
+<PriorityDate>
+2004-11-04
+</PriorityDate>
+<PriorityNumber>
+EP20030025187
+</PriorityNumber>
+<PriorityDate>
+2003-11-04
+</PriorityDate>
+<PriorityNumber>
+EP20080003535
+</PriorityNumber>
+<PriorityDate>
+2004-11-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01B11/30
+</Class>
+<Class>
+G01B5/28
+</Class>
+<Class>
+G01B7/34
+</Class>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q70/16
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q70/16
+</Class>
+</NCL>
+<Abstract>
+A cantilever assembly (1) for scanning a sample comprises a cantilever (10) having a cantilever tip (11). The cantilever is mounted to a rigid support (12, 120, 121) and comprises a step-like portion (100) which is arranged near that end of the cantilever (10) which is attached to the support, said step-like portion (100) substantially increasing the thickness of the cantilever (10) on the front side of the cantilever (10).
+</Abstract>
+<Claims>
+<P>
+1. Cantilever assembly for scanning a sample (3), comprising a cantilever (10) having a cantilever tip (11), the cantilever (10) being mounted to a rigid support (12,120, 121), characterized in that the cantilever (10) comprises a step-like portion (100) which is arranged near that end of the cantilever (10) which is attached to the support, said step-like portion (100) substantially increasing the thickness of the cantilever (10) on the front side of the cantilever (10).
+</P>
+<P>
+2. Cantilever assembly according to claim 1, wherein the cantilever (10) is provided on its back side facing away from the sample (3) with an area (110) of a high reflectance material, this area having a boundary (111) sloping towards the support (12).
+</P>
+<P>
+3. Cantilever assembly according to claim 2, wherein extensions (c, [Delta]c) of the area (110) and of the boundary (111) towards the support fulfil the condition
+</P>
+<P>
+where c denotes the extension of the area (110) of the high reflectance material in the direction towards the support (12), and [Delta]c denotes the extension of the sloped boundary (111) of the area (110) of the high reflectance material in the direction towards the support (12).
+</P>
+<P>
+4. Cantilever assembly according to claim 2 or 3, wherein the length of the cantilever (10) is in the range of 1 [micro]m to 100 [micro]m, in particular in the range of 3 [micro]m to 20 [micro]m, and wherein the extension (c) of the area (110) of the high reflectance material towards the support (12) is in the range of 0.5 [micro]m to 10 [micro]m, in particular in the range of 1 [micro]m to 6 [micro]m.
+</P>
+<P>
+5. Cantilever assembly according to any of claims 2 to 4, wherein the support (12) is provided with a sharp edge (120a) that is located a distance (I) from the back side of the cantilever tip (11), such that a straight line extending form the area (110) of the high reflectance material to the sharp edge (120a) forms an angle of at least about 15[deg.] with a direction normal to said area (110).
+</P>
+<P>
+6. Cantilever assembly according to any of claims 1 to 5, wherein the support (12) further comprises a guidance and calibration structure (123, 123a, 123b, 123c) for guiding and calibrating an optical tracking system in focusing on the area (110) of the high reflectance material.
+</P>
+<P>
+7. Cantilever assembly according to any of claims 1 to 6, wherein that portion (120) of the support (12) to which the cantilever (10) is attached has a recessed shape, preferably a partly-octagonal shape, said recessed shape narrowing in the direction towards the cantilever (10).
+</P>
+<P>
+8. Cantilever assembly according to any of the claims 1 to 7, wherein the support (12) comprises at least two steps, the steps (120, 121) being provided with an edge (120a, 121 a), wherein the edge (120a) of the first step (120) and the edge (121a) of the second step (121) are located such that the edge (121a) of the second step (121) does not obstruct a straight line extending from an edge of the area (110) of the high reflectance material adjacent its sloped boundary (111) to the edge (120a) of the first step (120) and beyond said edge (120a).
+</P>
+<P>
+9. Process for manufacturing a cantilever assembly (1) for scanning a sample, wherein a cantilever assembly (1) according to any one of claims 1 to 7 is manufactured.
+</P>
+</Claims>
+<Also_published_as>
+EP1530220A1;US2007271996A1;US8109135B2;JP2007510896A;JP4839220B2;WO2005043551A1;EP1993103A1;EP1680788A1;EP1680788B1;CN101286373A;CN1871665A;CN1871665B;AT524744T
+</Also_published_as>
+</BiblioData>

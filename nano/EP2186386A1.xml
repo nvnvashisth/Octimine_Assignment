@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LITHOGRAPHIC APPARATUS AND DEVICE MANUFACTURING METHOD
+</Title>
+<PublicationNumber>
+EP2186386A1
+</PublicationNumber>
+<Inventor>
+<Name>
+IVANOV VLADIMIR VITALEVITCH [RU]
+</Name>
+<Name>
+BANINE VADIM YEVGENYEVICH [NL]
+</Name>
+<Name>
+KOSHELEV KONSTANTIN NIKOLAEVIT [RU]
+</Name>
+<Name>
+KRIVTSUN VLADIMIR MIHAILOVITCH [RU]
+</Name>
+<Name>
+IVANOV, VLADIMIR VITALEVITCH
+</Name>
+<Name>
+BANINE, VADIM YEVGENYEVICH
+</Name>
+<Name>
+KOSHELEV, KONSTANTIN NIKOLAEVITCH
+</Name>
+<Name>
+KRIVTSUN, VLADIMIR MIHAILOVITCH
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASML NETHERLANDS BV [NL]
+</Name>
+<Name>
+ASML NETHERLANDS B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2186386
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080779074
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-08-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008NL50536
+</PriorityNumber>
+<PriorityDate>
+2008-08-05
+</PriorityDate>
+<PriorityNumber>
+US20070882853
+</PriorityNumber>
+<PriorityDate>
+2007-08-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H05G2/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70B6
+</Class>
+<Class>
+H05G2/00P2
+</Class>
+</NCL>
+<Abstract>
+A lithographic system includes a source configured to generate a radiation, the source including a cathode and an anode, the cathode and the anode configured to create a discharge in a fuel located in a discharge space so as to generate a plasma, the discharge space including, in use, a substance configured to adjust radiation emission by the plasma so as to control a volume defined by the plasma;  a pattern support configured to hold a patterning device, the patterning device configured to pattern the radiation to form a patterned beam of radiation;  a substrate support configured to support a substrate;  and a projection system configured to project the patterned beam of radiation onto the substrate.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method for generating a radiation for use in a lithographic apparatus, the method comprising: supplying a fuel to a discharge space located between a cathode and an anode; creating a discharge between the cathode and the anode in the fuel to form a plasma; and adjusting a volume defined by the plasma by controlling radiation emission by the plasma, the adjusting including supplying a substance to the plasma to control the radiation emission.
+</P>
+<P>
+2. The method of claim 1 , wherein the substance includes at least one of Ga, In, Bi, Pb or Al.
+</P>
+<P>
+3. The method of claim 1 or 2, wherein the fuel includes at least one of Sn, Xe or Li.
+</P>
+<P>
+4. The method of any of the preceding claims, wherein the substance and the fuel are separately supplied to the discharge space.
+</P>
+<P>
+5. The method of any of the preceding claims, wherein the substance is part of a mixture including the fuel.
+</P>
+<P>
+6. The method of claim 5, wherein the mixture is solid or liquid.
+</P>
+<P>
+7. The method of claim 5 or 6, further comprising supplying the mixture to the cathode before creating the discharge.
+</P>
+<P>
+8. The method of any of the preceding claims, wherein the substance is selected to increase radiation emission in a pre-determined wavelength range.
+</P>
+<P>
+9. The method of any of the preceding claims, wherein adjusting a volume defined by the plasma includes reducing a radial size of the plasma. 10. The method of any of the preceding claims, wherein the adjusting includes controlling the volume defined by the plasma such that an etendue of a radiation source configured to generate the plasma substantially matches an etendue of the lithographic apparatus.
+</P>
+<P>
+11. A device manufacturing method comprising: generating a beam of radiation, the generating including supplying a fuel to a discharge space located between a cathode and an anode; creating a discharge between the cathode and the anode in the fuel to form a plasma; and adjusting a volume defined by the plasma by controlling radiation emission by the plasma, the adjusting including supplying a substance to the plasma to control the radiation emission; patterning the beam of radiation to form a patterned beam of radiation; and projecting the patterned beam of radiation onto a substrate.
+</P>
+<P>
+12. The method of claim 11 , wherein the substance includes at least one of Ga, In, Bi, Pb or Al.
+</P>
+<P>
+13. The method of claim 11 or 12, wherein the fuel includes at least one of Sn, Xe or Li.
+</P>
+<P>
+14. The method of any of claims 11-13, wherein the substance and the fuel are separately supplied to the discharge space.
+</P>
+<P>
+15. The method of any of claims 11-14, wherein the substance is selected to increase radiation emission in a pre-determined wavelength range.
+</P>
+<P>
+16. The method of any of claims 11-15, wherein the adjusting includes reducing the volume defined by the plasma such that an etendue of a radiation source configured to generate the plasma substantially matches an etendue of a lithographic apparatus configured to pattern the beam of radiation.
+</P>
+<P>
+17. A source configured to generate a radiation for a lithographic apparatus, the source comprising: a cathode and an anode, the cathode and the anode configured to create a discharge in a fuel located in a discharge space so as to generate a plasma, the discharge space including, in use, a substance configured to adjust radiation emission by the plasma so as to control a volume defined by the plasma.
+</P>
+<P>
+18. The source of claim 17, wherein the substance includes at least one of Ga, In, Bi or Al.
+</P>
+<P>
+19. The source of claim 17 or 18, wherein the fuel includes at least one of Sn, Xe or Li.
+</P>
+<P>
+20. The source of any of claims 17-19, further comprising a fuel supply configured to supply the fuel to the discharge space.
+</P>
+<P>
+21. The source of any of claims 17-20, further comprising a supply configured to supply the substance in the discharge space.
+</P>
+<P>
+22. The source of claim 21, wherein the substance and the fuel are separately supplied to the discharge space.
+</P>
+<P>
+23. The source of any of claims 17-22, wherein the substance is part of a mixture including the fuel.
+</P>
+<P>
+24. The source of claim 23, wherein the mixture is solid or liquid.
+</P>
+<P>
+25. The source of claim 23 or 24, wherein the mixture is located on the cathode. 26. The source of any of claims 17-25, wherein the substance is selected to increase the radiation emission in a pre-determined wavelength range.
+</P>
+<P>
+27. The source of any of claims 17-26, wherein the substance is configured to reduce a radial size of the plasma.
+</P>
+<P>
+28. The source of any of claims 17-27, further comprising a supply configured to supply both the fuel and the substance in the discharge space.
+</P>
+<P>
+29. The source of any of claims 17-28, wherein an etendue of the source substantially matches an etendue of the lithographic apparatus.
+</P>
+<P>
+30. A lithographic system comprising: a source configured to generate a radiation, the source comprising a cathode and an anode, the cathode and the anode configured to create a discharge in a fuel located in a discharge space so as to generate a plasma, the discharge space including, in use, a substance configured to adjust radiation emission by the plasma so as to control a volume defined by the plasma; a pattern support configured to hold a patterning device, the patterning device configured to pattern the radiation to form a patterned beam of radiation; a substrate support configured to support a substrate; and a projection system configured to project the patterned beam of radiation onto the substrate.
+</P>
+<P>
+31. The apparatus of claim 30, wherein the substance includes at least one of Ga, In, Bi or Al.
+</P>
+<P>
+32. The apparatus of claim 30 or 31 , wherein the fuel includes at least one of Sn, Xe or Li.
+</P>
+<P>
+33. The apparatus of any of claims 30-32, further comprising a fuel supply configured to supply the fuel to the discharge space. 34. The apparatus of any of claims 30-33, further comprising a supply configured to supply the substance in the discharge space.
+</P>
+<P>
+35. The apparatus of any of claims 30-34, wherein the substance and the fuel are separately supplied to the discharge space.
+</P>
+<P>
+36. The apparatus of any of claims 30-35, wherein the substance is part of a mixture including the fuel.
+</P>
+<P>
+37. The apparatus of claim 36, wherein the mixture is solid or liquid.
+</P>
+<P>
+38. The apparatus of claim 36 or 37, wherein the mixture is located on the cathode.
+</P>
+<P>
+39. The apparatus of any of claims 30-38, wherein the substance is selected to increase the radiation emission in a pre-determined wavelength range.
+</P>
+<P>
+40. The apparatus of any of claims 30-39, wherein the substance is configured to reduce a radial size of the plasma.
+</P>
+<P>
+41. The apparatus of any of claims 30-40, further comprising a supply configured to supply both the fuel and the substance in the discharge space.
+</P>
+<P>
+42. The apparatus of any of claims 30-41 , wherein an etendue of the source substantially matches an etendue of the lithographic apparatus.
+</P>
+<P>
+43. The apparatus of any of claims 30-42, wherein the patterning device includes a programmable mirror array.
+</P>
+</Claims>
+<Also_published_as>
+WO2009020390A1;US2009040491A1;TW200912999A;NL1035746A1;KR20100029849A;JP2010536142A;CN101779524A
+</Also_published_as>
+</BiblioData>

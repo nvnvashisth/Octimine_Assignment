@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Nanowire multispectral imaging array
+</Title>
+<PublicationNumber>
+EP2037243A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PECZALSKI ANDY M [US]
+</Name>
+<Name>
+COLE BARRETT E [US]
+</Name>
+<Name>
+PECZALSKI, ANDY M
+</Name>
+<Name>
+COLE, BARRETT E
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HONEYWELL INT INC [US]
+</Name>
+<Name>
+HONEYWELL INTERNATIONAL INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2037243
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080164002
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-09-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20070972120P
+</PriorityNumber>
+<PriorityDate>
+2007-09-13
+</PriorityDate>
+<PriorityNumber>
+US20070977767
+</PriorityNumber>
+<PriorityDate>
+2007-10-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01J5/02
+</Class>
+<Class>
+G01J5/08
+</Class>
+<Class>
+G01J5/24
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01J3/36
+</Class>
+<Class>
+G01J5/02
+</Class>
+<Class>
+G01J5/08
+</Class>
+<Class>
+G01J5/24
+</Class>
+<Class>
+H01L27/146P3
+</Class>
+</NCL>
+<Abstract>
+A multispectral imaging array system and method of forming the same. A substrate and a group of antennas can be located with respect to one another on the substrate, such that respective gaps are formed between each antenna group and wherein different antenna sizes may be used for different spectral ranges. Additionally, one or more nanowires can be located within one or more gaps among the respective gaps, such that the nanowires in communication with the antennas and the substrate comprise a multispectral imaging system in which the use of the nanowire(s) decreases the thermal time constant and therefore the read out rate from the antennas while decreasing the ambient gas cooling speed relative to the read out rate to increase the manufacturability of the multispectral imaging array system.
+</Abstract>
+<Claims>
+<P>
+1. A multispectral imaging array system, comprising:
+</P>
+<P>
+a substrate;
+</P>
+<P>
+a plurality of antennas located with respect to one another on said substrate, such that a plurality of respective gaps are formed between each antenna among said plurality of antennas; and
+</P>
+<P>
+at least one nanowire located in at least one gap among said plurality of respective gaps, wherein said at least one nanowire in communication said plurality of antennas and said substrate comprise a multispectral imaging system.
+</P>
+<P>
+2. The system of claim 1 wherein said at least one nanowire decreases a thermal time constant and therefore a read out rate from said plurality of antennas while decreasing an ambient gas cooling speed relative to said read out rate to thereby increase the manufacturability of said multispectral imaging array system.
+</P>
+<P>
+3. The system of claim 1 wherein said plurality of antennas comprises antennas of varying antenna sizes and nanowire lengths with respect to said at least one nanowire in order to respond optimally to different spectral ranges.
+</P>
+<P>
+4. The system of claim 1 wherein said at least one nanowire is thermoresistive.
+</P>
+<P>
+5. The system of claim 1 further comprising a thin dielectric layer located on said substrate, where said plurality of antennas are printed on said thin dielectric layer.
+</P>
+<P>
+6. The system of claim 1 further comprising:
+</P>
+<P>
+a plurality of sensor pixels; and
+</P>
+<P>
+read-out electronics composed of said at least one nanowire located on a same substrate as said sensor pixels.
+</P>
+<P>
+7. A multispectral imaging array system, comprising: a substrate;
+</P>
+<P>
+a plurality of antennas located with respect to one another on said substrate, such that a plurality of respective gaps are formed between each antenna among said plurality of antennas;
+</P>
+<P>
+at least one nanowire located in at least one gap among said plurality of respective gaps, wherein said at least one nanowire in communication said plurality of antennas and said substrate comprise a multispectral imaging system; and
+</P>
+<P>
+a pixel array composed of said plurality of antennas, said at least one nanowire and said substrate, wherein groups of antennas among said plurality of antennas constitutes pixels of said pixel array.
+</P>
+<P>
+8. A method of forming a multispectral imaging array, comprising:
+</P>
+<P>
+providing a substrate;
+</P>
+<P>
+configuring a plurality of antennas located with respect to one another on said substrate, wherein said plurality of antennas includes a plurality of antenna groups;
+</P>
+<P>
+forming a plurality of respective gaps between each antenna group among said plurality of antennas; and
+</P>
+<P>
+locating at least one nanowire in at least one gap among said plurality of respective gaps, wherein said at least one nanowire in communication said plurality of antennas and said substrate comprise a multispectral imaging array.
+</P>
+<P>
+9. The method of claim 8 wherein said at least one nanowire decreases a thermal time constant and therefore a read out rate from said plurality of antennas while decreasing an ambient gas cooling speed relative to said read out rate to thereby increase the manufacturability of said multispectral imaging array system.
+</P>
+<P>
+10. The method of claim 8 further comprising providing said plurality of antennas to comprise antennas of varying antenna sizes and nanowire lengths with respect to said at least one nanowire in order to respond optimally to different spectral ranges.
+</P>
+</Claims>
+<Also_published_as>
+EP2037243A3;US2009072145A1;US7786440B2;JP2009133824A
+</Also_published_as>
+</BiblioData>

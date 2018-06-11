@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ATOMIC FORCE MICROSCOPE AS AN ANALYZING TOOL FOR BIOCHIP
+</Title>
+<PublicationNumber>
+EP2164986A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PARK JOON WON [KR]
+</Name>
+<Name>
+HONG BONG JIN [KR]
+</Name>
+<Name>
+KWON SUNG HONG [KR]
+</Name>
+<Name>
+PARK, JOON WON
+</Name>
+<Name>
+HONG, BONG JIN
+</Name>
+<Name>
+KWON, SUNG HONG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+POSTECH ACAD IND FOUND [KR]
+</Name>
+<Name>
+POSCO [KR]
+</Name>
+<Name>
+POSTECH ACADEMY-INDUSTRY FOUNDATION
+</Name>
+<Name>
+POSCO
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2164986
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080873039
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008IB03959
+</PriorityNumber>
+<PriorityDate>
+2008-06-16
+</PriorityDate>
+<PriorityNumber>
+US20070944056P
+</PriorityNumber>
+<PriorityDate>
+2007-06-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N33/48
+</Class>
+<Class>
+G01N33/543
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01N33/68A10
+</Class>
+<Class>
+G01Q60/42
+</Class>
+</NCL>
+<Abstract>
+The present application discloses a method for detecting a presence of target ligand in a fluid medium which includes the steps of: (i) contacting the fluid medium with a solid substrate that includes an array of dendrons on its surface, wherein each of the dendron includes a central atom, a probe that is attached to the central atom optionally through a linker, and a base portion attached to the central atom and having a plurality of termini that are attached to the surface of the solid support; ;  and (ii) determining the presence of a probe-target ligand complex by measuring binding force between the bound ligand and detection molecule tethered to the tip of an atomic force microscope (&quot;AFM&quot;), which detection molecule has affinity for the ligand, wherein measurement of an increase in force between the probe-target ligand complex and the detection molecule by AFM indicates the presence of the probe-target ligand complex.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method for detecting a presence of target ligand in a fluid medium comprising:
+</P>
+<P>
+(i) contacting the fluid medium with a solid substrate, wherein the solid substrate comprises:
+</P>
+<P>
+array of dendrons on its surface, wherein each of said dendron comprises:
+</P>
+<P>
+a central atom;
+</P>
+<P>
+a probe that is attached to the central atom optionally through a linker; and
+</P>
+<P>
+a base portion attached to the central atom and having a plurality of termini that are attached to the surface of the solid support; and
+</P>
+<P>
+(ii) determining the presence of a probe-target ligand complex by measuring binding force between the bound ligand and detection molecule that has affinity for the ligand, wherein the detection molecule is tethered to surface of a tip of an atomic force microscope (&quot;AFM&quot;), wherein measurement of an increase in force between the probe-target ligand complex and the detection molecule indicates the presence of the probe-target ligand complex.
+</P>
+<P>
+2. The method of claim 1, wherein the probe-target ligand complex is an oligonucleotide-complementary nucleic acid complex.
+</P>
+<P>
+3. The method of claim 1, wherein the probe-target ligand complex is detected in the presence of low concentration of the target ligand, which is at a concentration of at least about 1 aM.
+</P>
+<P>
+4. The method of claim 3, wherein the target ligand is at a concentration of between about 1 aM to about 1000 aM.
+</P>
+<P>
+5. The method of claim 2, wherein said method is capable of discriminating a single nucleotide polymorphism in the oligonucleotide-complementary nucleic acid complex.
+</P>
+<P>
+6. The method of claim 1, wherein the detection molecule is detection nucleic acid.
+</P>
+<P>
+7. The method of claim 1, wherein the detection molecule is comprised of a poly-dT oligomer sufficiently complementary to a poly-dA section of RNA.
+</P>
+<P>
+8. The method of claim 1, wherein the solid substrate is a non-porous solid support.
+</P>
+<P>
+9. The method of claim 8, wherein the solid substrate is a planar non-porous solid support.
+</P>
+<P>
+10. The method of claim 1, wherein the solid substrate is a biochip.
+</P>
+<P>
+11. The method of claim 1, wherein the tip of the atomic force microscope (&quot;AFM&quot;) is coated with dendron.
+</P>
+<P>
+12. The method of claim 1, wherein the target ligand is not labeled.
+</P>
+<P>
+13. The method of claim 1, comprising further cross-linking the probe-ligand complex.
+</P>
+<P>
+14. The method of claim 1, wherein the probe-ligand complex is covalently linked to an affinity molecule, and detection molecule specifically binds to the affinity molecule.
+</P>
+<P>
+15. The method of claim 14, wherein the affinity molecule is an antigen or an antibody.
+</P>
+<P>
+16. The method of claim 1, wherein the detection molecule is a protein that selectively binds to double stranded DNA.
+</P>
+<P>
+17. The method of claim 1, wherein the probe-ligand complex forms a triple helix formation with the detection molecule.
+</P>
+<P>
+18. The method of claim 1, wherein the detection molecule is a DNA intercalating agent.
+</P>
+<P>
+19. The method of claim 1, wherein the detection molecule is a protein, which selectively binds to a mismatched section of a double stranded DNA.
+</P>
+<P>
+20. A system for detection of target nucleic acid, comprising, (i) a biochip immobilized with probe molecules, and (ii) an atomic force microscope (&quot;AFM&quot;) comprising a tip on which is tethered detection molecule.
+</P>
+<P>
+21. The system according to claim 20, wherein the biochip is coated with dendrons on which are tethered probe molecules.
+</P>
+<P>
+22. The system according to claim 21, wherein the tip of the AFM is coated with dendrons, on which are immobilized detection molecules.
+</P>
+</Claims>
+<Also_published_as>
+EP2164986A4;US2009048120A1;US2010261615A9;JP2010529474A;WO2009109809A2;WO2009109809A3;CN101849021A
+</Also_published_as>
+</BiblioData>

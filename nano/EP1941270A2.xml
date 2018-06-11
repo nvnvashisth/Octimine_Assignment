@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+IMPROVED CARBON DIOXIDE NANOSENSOR, AND RESPIRATORY CO2 MONITORS
+</Title>
+<PublicationNumber>
+EP1941270A2
+</PublicationNumber>
+<Inventor>
+<Name>
+CHANG DANIEL M [US]
+</Name>
+<Name>
+CHANG YING-LAN [US]
+</Name>
+<Name>
+GABRIEL JEAN-CHRISTOPHE P [US]
+</Name>
+<Name>
+JOSHI VIKRAM [US]
+</Name>
+<Name>
+MICKELSON WILLIAM [US]
+</Name>
+<Name>
+NIEMANN JOSEPH [US]
+</Name>
+<Name>
+PASSMORE JOHN LOREN [US]
+</Name>
+<Name>
+STAR ALEXANDER [US]
+</Name>
+<Name>
+VALCKE CHRISTIAN [US]
+</Name>
+<Name>
+CHANG, DANIEL M
+</Name>
+<Name>
+CHANG, YING-LAN
+</Name>
+<Name>
+GABRIEL, JEAN-CHRISTOPHE P
+</Name>
+<Name>
+JOSHI, VIKRAM
+</Name>
+<Name>
+MICKELSON, WILLIAM
+</Name>
+<Name>
+NIEMANN, JOSEPH
+</Name>
+<Name>
+PASSMORE, JOHN LOREN
+</Name>
+<Name>
+STAR, ALEXANDER
+</Name>
+<Name>
+VALCKE, CHRISTIAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOMIX INC [US]
+</Name>
+<Name>
+NANOMIX, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1941270
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060851621
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-07-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US28079
+</PriorityNumber>
+<PriorityDate>
+2006-07-18
+</PriorityDate>
+<PriorityNumber>
+US20050700944P
+</PriorityNumber>
+<PriorityDate>
+2005-07-20
+</PriorityDate>
+<PriorityNumber>
+US20050730905P
+</PriorityNumber>
+<PriorityDate>
+2005-10-27
+</PriorityDate>
+<PriorityNumber>
+US20060773138P
+</PriorityNumber>
+<PriorityDate>
+2006-02-13
+</PriorityDate>
+<PriorityNumber>
+US20060390493
+</PriorityNumber>
+<PriorityDate>
+2006-03-27
+</PriorityDate>
+<PriorityNumber>
+US20060437275
+</PriorityNumber>
+<PriorityDate>
+2006-05-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12M3/00
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N21/00
+</Class>
+<Class>
+G01N27/00
+</Class>
+<Class>
+G01N27/12
+</Class>
+<Class>
+G01N33/00
+</Class>
+<Class>
+G01N33/543
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N27/414
+</Class>
+<Class>
+G01N33/00D2D4C
+</Class>
+</NCL>
+<Abstract>
+An electronic system and method for detecting analytes, such as carbon dioxide, is provided, using an improved nanostructure sensor (CO2 sensor). The CO2 sensor may comprise a substrate and a nanostructure, such as a one or more carbon nanotubes disposed over the substrate (e.g., as a network). One or more conductive elements may electrically communicate with the nanostructure. A counter or gate electrode may be positioned adjacent the nanostructure. A functionalization material reactive with carbon dioxide may be included, either disposed in contact with the nanostructure or isolated by a dielectric. The sensor may be connected to a circuit responsive to changes in CO2 concentration in the environment. Embodiments are described of medical sensing systems including one or more CO2 sensors. One embodiment comprises a breath sampling cannula which is connected to a sensor unit.;  In an alternative, the cannula permits supplemental oxygen to be administered, while recovering and measuring analytes in breath samples. The cannula may connect to a portable processor-display unit for monitoring one or more analytes, such as CO2. Another embodiment includes a cannula configured for the monitoring of sleep disorders, such as apnea, comprising one or more sensors disposed adjacent a breath sampling channel, optionally including flow rate or other sensors. The sensors may be connected by wired or wireless links for to a processor/input/display unit. Any of the embodiments may include filters, selectively permeable membranes, absorbents, and the like to precondition the breath sample, may be configured to include complementary chemistry measurements.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A nanostructure sensor for sensing carbon dioxide, comprising: a substrate; a first nanostructure disposed adjacent the substrate; one or more conducting elements in electrical communication with the first nanostructure; and at least one recognition material operatively associated with the first nanostructure, the at least one recognition material configured for interacting with carbon dioxide.
+</P>
+<P>
+2. A nanostructure sensor as in claim 1, wherein the recognition material is in direct contact with the nanostructure.
+</P>
+<P>
+3. A nanostructure sensor as in claim 1, wherein the recognition material is in isolated from the nanostructure by a dielectric layer.
+</P>
+<P>
+4. A nanostructure sensor as in claim 3, wherein the dielectric layer is less than about 500 nm thick.
+</P>
+<P>
+5. A nanostructure sensor as in claim 4, wherein the dielectric layer is between about 50 nm and 1 nm.
+</P>
+<P>
+6. A nanostructure sensor as in claim 5, wherein the dielectric layer is between about 30 nm and 5 nm.
+</P>
+<P>
+7. A nanostructure sensor as in claim 3, wherein the dielectric layer is deposited by atomic layer deposition (ALD).
+</P>
+<P>
+8. A nanostructure sensor as in claim 7, further including at least a second layer deposited by ALD having material properties distinct from the dielectric layer.
+</P>
+<P>
+9. A nanostructure sensor as in claim 8, wherein the second layer includes a recognition material configured for interacting with carbon dioxide.
+</P>
+<P>
+10. A nanostructure sensor as in claim 1, wherein the recognition material further comprises an aqueous solution capable of reacting with carbon dioxide.
+</P>
+<P>
+11. A nanostructure sensor as in claim 10, wherein the recognition material comprises an accelerator configured to catalyze the conversion of aqueous carbon dioxide to carbonic acid.
+</P>
+<P>
+12. A nanostructure sensor as in claim 11, wherein the accelerator comprises carbonic anhydrase.
+</P>
+<P>
+13 A breath analyzer system comprising: a breath sampling cannula including one or more lumens configured to by mounted adjacent at least one of a patient&apos;s nostril and mouth, the lumen having an opening arranged to gather an exhaled breath sample upon patient exhalation; one or more nanostructure sensor comprised as in Claim 1, the sensor in communication with the lumen of the breath sampling cannula, so as to contact at least a portion of the exhaled breath sample; the sensor have a sensitivity carbon dioxide (CO2) in human exhaled breath so at to produce a sensor signal in response to the breath species; a processing unit in communication with the sensor so as to receive the sensor signal, the processor unit configured to use the signal to determine a measurement of one of:
+</P>
+<P>
+(i) the concentration of CO2 in the sample; and
+</P>
+<P>
+(ii) the amount of CO2 in the sample, and an output device in communication with the processing unit and configured to output at least the measurement to a user, so as to provide information related to a human medical state.
+</P>
+<P>
+14. A breath analyzer comprising: one or more first sensors comprised as in Claim 1 having a sensitivity for carbon dioxide; at least one second sensor having a sensitivity for at least one second non-carbon- dioxide species found in human exhaled breath, and wherein the concentration of carbon dioxide and the second species in human exhaled breath has a correlation with a human medical state; a breath sampler configured to sample at least the exhaled breath of a patient, and in communication with the first and second sensors; a processor system in communication with the first and second sensors and configured to measure the concentration of carbon dioxide and the second species, and to the measurements to a user, so as to provide information related to the human medical state.
+</P>
+</Claims>
+<Also_published_as>
+EP1941270A4;WO2008039165A2;WO2008039165A3
+</Also_published_as>
+</BiblioData>

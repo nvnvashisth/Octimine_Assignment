@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ORGANIC PHOTOVOLTAIC CELLS UTILIZING ULTRATHIN SENSITIZING LAYER
+</Title>
+<PublicationNumber>
+EP1952455A2
+</PublicationNumber>
+<Inventor>
+<Name>
+RAND BARRY P [US]
+</Name>
+<Name>
+FORREST STEPHEN R [US]
+</Name>
+<Name>
+RAND, BARRY, P
+</Name>
+<Name>
+FORREST, STEPHEN, R
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV PRINCETON [US]
+</Name>
+<Name>
+THE TRUSTEES OF PRINCETON UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1952455
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060826859
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US41990
+</PriorityNumber>
+<PriorityDate>
+2006-10-26
+</PriorityDate>
+<PriorityNumber>
+US20050263865
+</PriorityNumber>
+<PriorityDate>
+2005-11-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/42F2
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+A photosensitive device includes a series of organic photoactive layers disposed between two electrodes. Each layer in the series is in direct contact with a next layer in the series. The series is arranged to form at least one donor-acceptor heterojunction, and includes a first organic photoactive layer comprising a first host material serving as a donor, a thin second organic photoactive layer comprising a second host material disposed between the first and a third organic photoactive layer, and the third organic photoactive layer comprising a third host material serving as an acceptor. The first, second, and third host materials are different. The thin second layer serves as an acceptor relative to the first layer or as a donor relative to the third layer.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A photosensitive device comprising:
+</P>
+<P>
+a first electrode and a second electrode;
+</P>
+<P>
+a series of organic photoactive layers disposed between the first electrode and the second electrode, each layer in the series being in direct contact with a next layer in the series, the series of organic photoactive layers being arranged to form at least one donor-acceptor heterojunction, the series comprising:
+</P>
+<P>
+a first organic photoactive layer comprising a first host material serving as a donor;
+</P>
+<P>
+a second organic photoactive layer comprising a second host material disposed between the first organic photoactive layer and a third organic photoactive layer; and
+</P>
+<P>
+the third organic photoactive layer comprising a third host material serving as an acceptor;
+</P>
+<P>
+wherein the first host material, the second host material, and the third host material are different, and
+</P>
+<P>
+wherein the second organic photoactive layer serves as an acceptor relative to the first organic photoactive layer or as a donor relative to the third photoactive layer, and a distance from any point within the second host material of the second organic photoactive layer to a boundary of that layer is not more than one exciton diffusion length over a majority of the area of the second organic photoactive layer.
+</P>
+<P>
+2. The photosensitive device of claim 1, wherein the second organic photoactive layer is a unitary layer having openings there through, the first organic photoactive layer being in direct contact with the third organic photoactive layer through said openings.
+</P>
+<P>
+3. The photosensitive device of claim 1, wherein the second organic photoactive layer is a discontinuous layer having a plurality of islands comprising the second host material, the first organic photoactive layer being in direct contact with the third organic photoactive layer in-between the islands.
+</P>
+<P>
+4. The photosensitive device of claim 1, wherein said second host material is a small molecule.
+</P>
+<P>
+5. The photosensitive device of claim 4, wherein said first host material and said third host material are small molecules.
+</P>
+<P>
+6. The photosensitive device of claim 4, wherein the second host material has an absorption coefficient of at least 5*10&amp;lt;4 &amp;gt; cm&amp;lt;-1 &amp;gt; across a wavelength band from 600 nm to 900 nm.
+</P>
+<P>
+7. The photosensitive device of claim 1, wherein each of the first organic photoactive layer, the second organic photoactive layer, and the third organic photoactive layer has a different absorption spectra.
+</P>
+<P>
+8. The photosensitive device of claim 1, wherein the second organic photoactive layer serves as a donor, and the first host material and the second host material have different absorption spectra.
+</P>
+<P>
+9. The photosensitive device of claim 8, wherein a HOMO of the second host material is no more than 0.16 eV above a HOMO of the first host material.
+</P>
+<P>
+10. The photosensitive device of claim 8, wherein a band gap of the second host material is less than a band gap of the first host material.
+</P>
+<P>
+11. The photosensitive device of claim 8, wherein the second host material has a hole mobility of less than 1*10&amp;lt;-9 &amp;gt; cm&amp;lt;2&amp;gt; /Vs and an absorption coefficient of at least 5*10&amp;lt;4 &amp;gt; cm&amp;lt;-1 &amp;gt; across a wavelength band from 600 nm to 900 nm.
+</P>
+<P>
+12. The photosensitive device of claim 8, wherein the second host material is selected from tin (II) phthalocyanine (SnPc) and lead phthalocyanine (PbPc).
+</P>
+<P>
+13. The photosensitive device of claim 12, wherein the third host material is C60.
+</P>
+<P>
+14. The photosensitive device of claim 1, wherein the second organic photoactive layer serves as an acceptor, and the second host material and the third host material have different absorption spectra.
+</P>
+<P>
+15. The photosensitive device of claim 14, wherein a LUMO of the second host material is no more than 0.16 eV below a LUMO of the third host material.
+</P>
+<P>
+16. The photosensitive device of claim 14, wherein a band gap of the second host material is less than a band gap of the third host material.
+</P>
+<P>
+17. The photosensitive device of claim 1, wherein a thickness of the second organic photoconductive layer is not greater than 200 A.
+</P>
+<P>
+18. The photosensitive device of claim 17, wherein the thickness of the second organic photoconductive layer is not greater than 100 A.
+</P>
+<P>
+19. The photosensitive device of claim 1, wherein the second host material has an absorption coefficient of at least 5*10&amp;lt;4 &amp;gt; cm&amp;lt;-1 &amp;gt; across a wavelength band from 600 nm to 900 nm, and wherein at least a portion of the second organic photoactive layer is disposed at an optical path length of [lambda]1.d+[lambda]1/4 from a reflective surface of the device, where:
+</P>
+<P>
+[lambda]1 is a wavelength in the wavelength band from 600 nm to 900 nm,
+</P>
+<P>
+d is an integer &amp;gt;0, and
+</P>
+<P>
+the reflective surface is reflective to at least 50% of incident light at [lambda]1.
+</P>
+<P>
+20. The photosensitive device of claim 19, wherein the reflective surface is provided by one of the first electrode, the second electrode, and a reflector.
+</P>
+<P>
+21. The photosensitive device of claim 19, said series of organic photoactive layers being part of a first cell in a stack of photoactive cells disposed between the first electrode and the second electrode, the device further comprising a second cell of the stack of photoactive cells, the second cell comprising another donor-acceptor heterojunction,
+</P>
+<P>
+wherein the first cell and the second cell have different absorption characteristics,
+</P>
+<P>
+an average absorption of the first cell being greater than the average absorption of the second cell over a range of wavelengths [lambda]1+-5%, and
+</P>
+<P>
+an average absorption of the second cell being greater than the average absorption of the first cell over a range of wavelengths [lambda]25%, where [lambda]1&amp;gt;=[lambda]2+10%.
+</P>
+<P>
+22. The photosensitive device of claim 1, the series of organic photoactive layers further comprising a bulk or mixed donor-acceptor layer disposed between the first organic photoactive layer and the third organic photoactive layer, said bulk or mixed donor-acceptor layer including both the first host material of the first organic photoactive layer and the third host material of the third organic photoactive layer.
+</P>
+<P>
+23. The photosensitive device of claim 1, the series of organic photoactive layers further comprising a fourth organic photoactive layer comprising a fourth host material disposed between the first organic photoactive layer and the third organic photoactive layer,
+</P>
+<P>
+wherein the fourth host material is different from the first host material, the second host material, and the third host material, and
+</P>
+<P>
+wherein said fourth organic photoactive layer serves as an acceptor relative to the first organic photoactive layer or as a donor relative to the third photoactive layer, and a distance from any point within the fourth organic photoactive layer to a boundary of that layer is not more than one exciton diffusion length.
+</P>
+<P>
+24. The photosensitive device of claim 1, wherein the distance from any point within the second host material of the second organic photoactive layer to a boundary of that layer is not more than one exciton diffusion length over an entirety of the area of the second organic photoactive layer.
+</P>
+</Claims>
+<Also_published_as>
+US2007096085A1;US7947897B2;WO2007055931A2;WO2007055931A3;KR20080073314A;JP2009515339A;CN101351904A;CN101351904B;CA2627992A1;AU2006312073A1;AU2006312073B2;AR056164A1
+</Also_published_as>
+</BiblioData>

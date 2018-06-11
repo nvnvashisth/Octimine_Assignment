@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOPARTICLE AND METHODS THEREFOR
+</Title>
+<PublicationNumber>
+EP1960308A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GAO ZHIQIANG [SG]
+</Name>
+<Name>
+GAO, ZHIQIANG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+AGENCY SCIENCE TECH &amp; RES [SG]
+</Name>
+<Name>
+AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1960308
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060813147
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006SG00368
+</PriorityNumber>
+<PriorityDate>
+2006-11-30
+</PriorityDate>
+<PriorityNumber>
+US20050740676P
+</PriorityNumber>
+<PriorityDate>
+2005-11-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+<Class>
+B82B3/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+G01N33/543K2B
+</Class>
+<Class>
+G01N33/58H4
+</Class>
+</NCL>
+<Abstract>
+There is provided an electroactive nanoparticle, which may be used as a label in electrochemical detection assays. The nanoparticle comprises a transition metal oxide and a capping agent, the capping agent comprising a ligand group and a functional group. The capping agent is coordinated to a transition metal centre in the transition metal oxide via the ligand group. Also provided are methods relating to preparation of the nanoparticle and detection of an analyte molecule in a sample using electrochemical methods.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A nanoparticle comprising a transition metal oxide and a capping agent, the capping agent comprising a ligand group and a functional group, the capping agent coordinated to a transition metal centre in the transition metal oxide via the ligand group.
+</P>
+<P>
+2. The nanoparticle of claim 1 wherein the transition metal oxide is a platinum group metal oxide.
+</P>
+<P>
+3. The nanoparticle of claim 1 or claim 2 wherein the transition metal oxide is OsO2.
+</P>
+<P>
+4. The nanoparticle of any one of claims 1 to 3 wherein the functional group is a primary amino group.
+</P>
+<P>
+5. The nanoparticle of any one of claims 1 to 4 wherein the ligand group is an aryl group.
+</P>
+<P>
+6. The nanoparticle of claim 5 wherein the capping agent is isoniazid.
+</P>
+<P>
+7. The nanoparticle of any one of claims 1 to 6 having a diameter of from about 5 to about 50 nm.
+</P>
+<P>
+8. The nanoparticle of claim 7 having a diameter of from about 20 to about 30 nm.
+</P>
+<P>
+9. A method of preparing a nanoparticle comprising:
+</P>
+<P>
+adding a capping agent to a transitional metal oxide precipitate, the capping agent comprising a ligand group and a functional group, the capping agent coordinating with a transition metal centre in the transition metal oxide precipitate via the ligand group.
+</P>
+<P>
+10. The method of claim 9 wherein the transition metal oxide is a platinum group metal oxide.
+</P>
+<P>
+11. The method of claim 9 or claim 10 wherein the transition metal precipitate is formed by adding a hydroxide base to a solution of a transition metal salt.
+</P>
+<P>
+12. The method of claim 11 wherein the transition metal salt comprises one or more alkaline earth metals, one or more halides or an ammonium ion.
+</P>
+<P>
+13. The method of any one of claims 9 to 12 wherein the transition metal oxide is OsO2.
+</P>
+<P>
+14. The method of claim 11 wherein the osmium salt is K2OsCl6.
+</P>
+<P>
+15. The method of any one of claims 11 to 14 wherein the solution comprises 20/80 ratio of water/ethanol.
+</P>
+<P>
+16. The method of any one of claims 11 to 15 wherein the hydroxide base is sodium hydroxide.
+</P>
+<P>
+17. The method of any one of claims 9 to 16 wherein the functional group is a primary amino group.
+</P>
+<P>
+18. The method of any one of claims 9 to 17 wherein the ligand group is an aryl group.
+</P>
+<P>
+19. The method of claim 17 or claim 18 wherein the capping agent is isoniazid.
+</P>
+<P>
+20. A method of detecting an analyte molecule in a sample, the method comprising:
+</P>
+<P>
+labelling the analyte molecule with a nanoparticle to form a nanoparticle/analyte molecule complex, the nanoparticle comprising a transition metal oxide and a capping agent, the capping agent comprising a ligand group and a functional group, the capping agent coordinated to a transition metal centre in the transition metal oxide via the ligand group, the capping agent reacting with the analyte molecule through the functional amino group; contacting the sample with a working electrode, the working electrode having a surface with a capture molecule disposed thereon to capture the analyte molecule from the sample;
+</P>
+<P>
+contacting the captured analyte molecule that forms the nanoparticle-analyte molecule complex with a redox substrate, under conditions that allow for oxidation or reduction of the redox substrate; and
+</P>
+<P>
+detecting current flow at the working electrode.
+</P>
+<P>
+21. The method of claim 20 wherein the labelling occurs prior to contacting the sample with the working electrode.
+</P>
+<P>
+22. The method of claim 20 wherein the labelling occurs after contacting the sample with the working electrode.
+</P>
+<P>
+23. The method of any one of claim 20 to 22 wherein the transition metal oxide is a platinum group metal oxide.
+</P>
+<P>
+24. The method of any one of claims 20 to 23 wherein the transition metal oxide is OsO2.
+</P>
+<P>
+25. The method of any one of claims 20 to 24 wherein the functional group is a primary amino group.
+</P>
+<P>
+26. The method of any one of claims 20 to 25 wherein the ligand group is an aryl group.
+</P>
+<P>
+27. The method of claim 25 or claim 26 wherein the capping agent is isoniazid.
+</P>
+<P>
+28. The method of any one of claims 20 to 27 further comprising rinsing the working electrode prior to contacting the redox substrate with the captured analyte molecule.
+</P>
+<P>
+29. The method of any one of claims 20 to 28 wherein the sample comprises a biological sample, a tissue culture, a tissue culture supernatant, a prepared biochemical sample, a field sample, a cell lysate or a fraction of a cell lysate.
+</P>
+<P>
+30. The method of claim 29 wherein the biological sample comprises a biological fluid and the prepared biochemical sample comprises a prepped nucleic acid sample or a prepped protein sample.
+</P>
+<P>
+31. The method of claim 30 wherein the sample comprises a prepped RNA sample.
+</P>
+<P>
+32. The method of any one of claims 20 to 31 wherein the analyte molecule comprises a protein, a peptide, DNA, mRNA, microRNA or a small molecule.
+</P>
+<P>
+33. The method of claim 20 wherein the analyte molecule is a microRNA.
+</P>
+<P>
+34. The method of any one of claims 20 to 33 wherein the capture molecule comprises a protein, a peptide, DNA, RNA, an oligonucleotide, a ligand, a receptor, an antibody or a small molecule.
+</P>
+<P>
+35. The method of claim 34 wherein the capture molecule comprises an oligonucleotide having a sequence complementary to the sequence of a microRNA.
+</P>
+<P>
+36. The method of any one of claims 20 to 35 wherein the redox substrate is hydrazine or ascorbic acid.
+</P>
+<P>
+37. The method of any one of claims 20 to 36 wherein the working electrode comprises carbon paste, carbon fiber, graphite, glassy carbon, gold, silver, copper, platinum, palladium, a metal oxide or a conductive polymer.
+</P>
+<P>
+38. The method of claim 37 wherein the metal oxide is indium tin oxide and the conductive polymer is poly(3,4-ethylenedioxythiophene) (PEDOT) or polyaniline.
+</P>
+<P>
+39. The method of any one of claims 20 to 38 wherein the analyte molecule is labelled directly with the nanoparticle.
+</P>
+<P>
+40. The method of any one of claims 20 to 38 wherein a labelling molecule is used to label the analyte molecule indirectly with the nanoparticle.
+</P>
+<P>
+41. The method of claim 40 wherein the labelling molecule comprises a protein, a peptide, a ligand, an antibody, a nucleic acid binding protein or protein domain or an oligonucleotide.
+</P>
+</Claims>
+<Also_published_as>
+WO2007064301A1;US2009305247A1
+</Also_published_as>
+</BiblioData>

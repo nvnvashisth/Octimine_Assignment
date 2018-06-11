@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SIMULATOR, SIMULATION METHOD AND SIMULATION PROGRAM
+</Title>
+<PublicationNumber>
+EP2065696A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WATANABE NAOKI [JP]
+</Name>
+<Name>
+TSUKADA MASARU [JP]
+</Name>
+<Name>
+TAGAMI KATSUNORI [JP]
+</Name>
+<Name>
+WATANABE, NAOKI
+</Name>
+<Name>
+TSUKADA, MASARU
+</Name>
+<Name>
+TAGAMI, KATSUNORI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MIZUHO INFORMATION &amp; RES INST [JP]
+</Name>
+<Name>
+UNIV WASEDA [JP]
+</Name>
+<Name>
+MIZUHO INFORMATION &amp; RESEARCH INSTITUTE INC
+</Name>
+<Name>
+WASEDA UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2065696
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070741048
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP57612
+</PriorityNumber>
+<PriorityDate>
+2007-03-29
+</PriorityDate>
+<PriorityNumber>
+JP20060256169
+</PriorityNumber>
+<PriorityDate>
+2006-09-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q30/04
+</Class>
+<Class>
+G01Q30/06
+</Class>
+<Class>
+G01Q90/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q30/04
+</Class>
+</NCL>
+<Abstract>
+A sample atomic configuration creation means (211) in a control section (21) creates the atomic arrangement data of a sample, and a sample surface height calculation means (212) calculates a sample surface height for every mesh. A probe profile creation means (213) creates the atomic arrangement data of a probe, and a probe surface height calculation means (214) calculates the height of the probe surface for every mesh. A probe scanning means (216) supplies the coordinate of a scanning start position in the scanning range to a collision height specification means (215). The collision height specification means (215) calculates the distance between the sample surface and the probe in each mesh. Calculation of this distance is repeated for all meshes of the probe at the coordinate of this measuring position.
+</Abstract>
+<Claims>
+<P>
+1. A simulation apparatus for generating a simulation image from a measurement result of a scanning probe microscope, the apparatus comprising:
+</P>
+<P>
+an atomic arrangement storage unit which records atoms forming a sample model and arrangement coordinates of the atoms forming the sample model;
+</P>
+<P>
+a probe shape storage unit which records a probe model shape; and
+</P>
+<P>
+an arithmetic processing unit for calculating relative positions of the sample model and the probe model;wherein the arithmetic processing unit:
+</P>
+<P>
+divides the sample model using predetermined meshes and specifies a coordinate of a most projected position of the sample model in each mesh based on the arrangement coordinates of the atoms forming the sample model to obtain a representative value for each mesh;
+</P>
+<P>
+moves the probe model to near the sample model and specifies a nearest position of the probe model using the representative values of the sample model; and
+</P>
+<P>
+performs scanning with the probe model and generates a macroscopic image based on the nearest position of the probe model specified at each measurement position.
+</P>
+<P>
+2. The simulation apparatus according to claim 1,
+</P>
+<P>
+wherein:
+</P>
+<P>
+the probe shape storage unit records atoms forming a probe model and arrangement coordinates of the atoms forming the probe model; and the arithmetic processing unit divides the probe model using predetermined meshes and specifies a coordinate of a most projected position of the probe model in each mesh based on the arrangement coordinates of the atoms forming the probe model to obtain a representative value of the probe model for each mesh.
+</P>
+<P>
+3. The simulation apparatus according to any one of claims 1 and 2, wherein the arithmetic processing unit:
+</P>
+<P>
+obtains a measurement image actually measured by the scanning probe microscope and compares the measurement image and the macroscopic image to calculate an evaluation value for a degree of correspondence between the measurement image and the macroscopic image; and
+</P>
+<P>
+repeatedly rotates the sample model by a predetermined angle until the evaluation value becomes greater than or equal to a reference value to generate the macroscopic image.
+</P>
+<P>
+4. The simulation apparatus according to any one of claims 1 to 3, wherein the arithmetic processing unit:
+</P>
+<P>
+calculates, for each mesh of the sample model, a difference between nearest positions of adjacent meshes in the sample model;
+</P>
+<P>
+specifies atoms of the sample in a predetermined range around a mesh of which the calculated difference is less than or equal to a predetermined value and calculates a force acting between the atoms of the sample model and the atoms of the probe model to generate a microscopic image; and
+</P>
+<P>
+superimposes the microscopic image on the macroscopic image in the predetermined range to generate a composite image.
+</P>
+<P>
+5. The simulation apparatus according to claim 2,
+</P>
+<P>
+wherein the arithmetic processing unit calculates distance from the sample model to the probe model for each mesh based on a lowest position of the probe model in each mesh and a highest position of the sample model in each mesh that face each other.
+</P>
+<P>
+6. The simulation apparatus according to claim 5,
+</P>
+<P>
+wherein the arithmetic processing unit calculates distance between the probe model and an atom arranged at the highest position in each mesh of the sample model and does not calculate a distance between the probe model and an atom arranged at a position other than the highest position in each mesh of the sample model.
+</P>
+<P>
+7. The simulation apparatus according to claim 5,
+</P>
+<P>
+wherein the meshes for the probe model have a size that is the same as that of the meshes for the sample model.
+</P>
+<P>
+8. The simulation apparatus according to claim 5,
+</P>
+<P>
+wherein the meshes for the probe model have a size that differs from that of the meshes for the sample model.
+</P>
+<P>
+9. The simulation apparatus according to claim 5,
+</P>
+<P>
+wherein the meshes for the probe model have a variable size and the meshes for the sample model have a variable size.
+</P>
+<P>
+10. A simulation method for generating a simulation image from a measurement result of a scanning probe microscope with a computer, the method comprising:
+</P>
+<P>
+reading atoms forming a sample model and arrangement coordinates of the atoms forming the sample model from an atomic arrangement storage unit, dividing the sample model using predetermined meshes, and specifying a coordinate of a most projected position of the sample model in each mesh from the arrangement coordinates of the atoms forming the sample model to obtaining a representative value for each mesh;
+</P>
+<P>
+reading a shape of a probe model from a probe shape storage unit, moving the probe model to near the sample model, and specifying a nearest position of the probe model using the representative value of the sample model; and
+</P>
+<P>
+performing scanning with the probe model and generating a macroscopic image based on the nearest position of the probe model specified at each measurement position.
+</P>
+<P>
+11. A simulation program for generating a simulation image from a measurement result of a scanning probe microscope with a computer including an atomic arrangement storage unit recording atoms forming a sample model and arrangement coordinates of the atoms forming the sample model, a probe shape storage unit recording a shape of a probe model, and an arithmetic processing unit for calculating relative positions of the sample model and the probe model, the simulation program comprising program code resulting in the arithmetic processing unit:
+</P>
+<P>
+reading the atoms forming the sample model and the arrangement coordinates of the atoms forming the sample model from the atomic arrangement storage unit, dividing the sample model using predetermined meshes, and specifying a coordinate of a most projected position of the sample model in each mesh from the arrangement coordinates of the atoms forming the sample model to obtain a representative value for each mesh;
+</P>
+<P>
+reading a shape of a probe model from a probe shape storage unit, moving the probe model to near the sample model, and specifying a nearest position of the probe model using the representative value of the sample model; and
+</P>
+<P>
+performing scanning with the probe model and generating a macroscopic image based on the nearest position of the probe model specified at each measurement position.
+</P>
+</Claims>
+<Also_published_as>
+US2010042378A1;US8160848B2;WO2008035473A1;JP2008076247A
+</Also_published_as>
+</BiblioData>

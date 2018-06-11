@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SCANNING NEAR FIELD ULTRASOUND HOLOGRAPHY
+</Title>
+<PublicationNumber>
+EP1952204A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SHEKHAWAT GAJENDRA [US]
+</Name>
+<Name>
+DRAVID VINAYAK P [US]
+</Name>
+<Name>
+SHEKHAWAT, GAJENDRA
+</Name>
+<Name>
+DRAVID, VINAYAK P
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV NORTHWESTERN [US]
+</Name>
+<Name>
+NORTHWESTERN UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1952204
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20050808603
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2005-10-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2005US36194
+</PriorityNumber>
+<PriorityDate>
+2005-10-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N29/06
+</Class>
+<Class>
+G03H3/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N29/06D1
+</Class>
+<Class>
+G01N29/06D3
+</Class>
+<Class>
+G01N29/06D4
+</Class>
+<Class>
+G03H3/00
+</Class>
+</NCL>
+<Abstract>
+A high spatial resolution phase-sensitive technique employs a scanning near field ultrasound holography methodology (47) for imaging elastic as well as viscoelastic variations across a sample surface. Scanning near field ultrasound holography (47) uses a near-field approach to measure time-resolved variations in ultrasonic oscillations at a sample surface (12). As such, it overcomes the spatial resolution limitations of conventional phase-resolved acoustic microscopy (i.e. holography) by eliminating the need for far-field acoustic lenses.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A scanning near field ultrasound holography method for surface and subsurface imaging comprising: vibrating a cantilevered tip at a first ultrasonic frequency; vibrating a sample at a second ultrasonic frequency; detecting movement of the cantilevered tip interacting with the vibrating sample to provide a tip deflection signal; and extracting surface acoustic wave (SAW) amplitude and phase information associated with the surface and subsurface of the sample using lock in detection.
+</P>
+<P>
+2. The method of claim 1, wherein said extracting step further comprises extracting surface acoustic wave (SAW) amplitude and phase information associated with the surface and subsurface of the sample using lock in detection and a scanning near field ultrasound holography (SNFUH) electronic module.
+</P>
+<P>
+3. The method of claim 1, wherein said second ultrasonic frequency vibrates said sample at a frequency offset from said first ultrasonic frequency.
+</P>
+<P>
+4. The method of claim 1, wherein said extracting step further includes extracting subsurface mechanical data regarding the sample from the tip deflection signal.
+</P>
+<P>
+5. The method of claim 4, wherein said subsurface mechanical data includes interfacial bonding.
+</P>
+<P>
+6. The method of claim 1, further comprising imaging a spatial variation of surface and subsurface viscoelastic phase.
+</P>
+<P>
+7. The method of claim 1, further comprising defining a characteristic viscoelastic response time of the sample based on said amplitude and phase information.
+</P>
+<P>
+8. The method of claim 1, further comprising maintaining said vibration of a cantilever tip piezo at a tip piezo resonance frequency and said vibration of said sample at a sample resonance frequency.
+</P>
+<P>
+9. The method of claim 8, further comprising providing electrical feedback to maintain said tip piezo resonance frequency and said sample resonance frequency.
+</P>
+<P>
+10. The method of claim 1, wherein at least one of beat frequencies, product frequencies and frequency addition are used to generate said tip deflection signal to monitor said sample in near contact mode.
+</P>
+<P>
+11. The method of claim 1 , further comprising operating in near contact mode without contact between said cantilevered tip and said sample.
+</P>
+<P>
+12. A scanning near field holography method for surface and subsurface imaging comprising: vibrating a cantilevered tip at a first microwave frequency; vibrating a sample at a second microwave frequency; detecting movement of the cantilevered tip interacting with the vibrating sample to provide a tip deflection signal; and extracting surface acoustic wave (SAW) amplitude and phase information associated with the subsurface of the sample from the tip deflection signal using lock in detection.
+</P>
+<P>
+13. The method of claim 12, wherein said extracting step further comprises extracting SAW amplitude and phase information associated with the subsurface of the sample from the tip deflection signal using lock in detection and a scanning near field ultrasound holography (SNFUH) electronic module.
+</P>
+<P>
+14. The method of claim 12, further comprising: using a linear interaction between the cantilevered tip and the sample to detect beats at the surface of the sample; and extracting phase and amplitude signals for said first microwave frequency and said second microwave signal.
+</P>
+<P>
+15. The method of claim 12, further comprising imaging said surface and subsurface of said sample based on said amplitude and phase information of said tip deflection signal.
+</P>
+<P>
+16. An atomic force microscopy system, said system comprising: a cantilever, wherein said cantilever includes a tip at an end of said cantilever; a vibrating device for supplying vibrations at a first frequency to said cantilever to generate vibration at said tip; and a detector for detecting movement of said tip based on an atomic force between said tip and a surface of a sample, wherein said sample is vibrated at a second high frequency excitation different from said first frequency.
+</P>
+<P>
+17. The system of claim 16, further comprising an electronic feedback circuit configured to maintain vibration of said cantilever tip at a resonance frequency.
+</P>
+<P>
+18. The system of claim 17, wherein said electronic feedback circuit comprises a MOSFET-based electronic readout circuit.
+</P>
+<P>
+19. The system of claim 16, wherein said first frequency and said second frequency comprise carrier frequencies which are amplitude modulated individually.
+</P>
+<P>
+20. The system of claim 19, wherein at least one of product frequencies, beat frequencies, and sum frequencies are used to determine said first and second carrier frequencies.
+</P>
+<P>
+21. The system of claim 16, wherein said cantilever operates in near contact mode without contact between said tip and said sample.
+</P>
+<P>
+22. The system of claim 21, wherein at least one of beat frequencies, product frequencies, and frequency addition are used to monitor said sample in near contact mode.
+</P>
+<P>
+23. The system of claim 22, wherein at least one of harmonics and fundamental frequencies are used in generating said at least one of beat frequencies, product frequencies, and frequency addition.
+</P>
+<P>
+24. The system of claim 16, wherein said movement of said tip is used to identify at least one of buried nanostructures, defects, and dopant mapping in said sample.
+</P>
+<P>
+25. The system of claim 16, wherein said first frequency vibration and said second frequency vibration are mixed together to form a mixed acoustic wave signal, and wherein said mixed acoustic wave signal is processed electronically to determine an internal microstructure of said sample based on phase and amplitude of said mixed acoustic wave signal.
+</P>
+<P>
+26. The system of claim 16, wherein said movement comprises a linear interaction between said tip and said sample.
+</P>
+<P>
+27. A scanning near field acoustic holography system, said system comprising: an acoustic wave generator configured to launch a first high frequency acoustic wave from the bottom of a specimen and a second acoustic wave from the base of said cantilever, wherein said cantilever includes a tip at one end, and wherein said tip serves as an antenna receiving phase and amplitude information from an acoustic signal; and a scanning near field acoustic holography module (SNFUH) electronic module capable of mixing the first and second acoustic waves to generate at least one of a product frequency, an addition frequency, and a difference frequency representative of a surface and subsurface of said specimen.
+</P>
+<P>
+28. The system of claim 27, wherein said electronic module further comprises feedback electronics capable of providing feedback to maintain said first and second acoustic waves.
+</P>
+<P>
+29. The system of claim 27, wherein said first and second acoustic waves comprise fundamental resonance frequencies and related harmonics.
+</P>
+<P>
+30. The system of claim 27, wherein said first acoustic wave is perturbed by features beneath the surface of said specimen.
+</P>
+<P>
+31. The system of claim 30, wherein said electronic module detects perturbation of said first acoustic wave and constructs a representation of the wave perturbation indicating the internal microstructure of said specimen.
+</P>
+</Claims>
+<Also_published_as>
+EP1952204A4;WO2007044002A1;KR20080068689A;KR101033342B1;JP2009511876A;JP4746104B2;CN101317138A;CN101317138B
+</Also_published_as>
+</BiblioData>

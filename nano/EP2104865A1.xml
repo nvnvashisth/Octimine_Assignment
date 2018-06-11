@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A SENSOR DEVICE FOR AND A METHOD OF SENSING MAGNETIC PARTICLES
+</Title>
+<PublicationNumber>
+EP2104865A1
+</PublicationNumber>
+<Inventor>
+<Name>
+NIEUWENHUIS JEROEN HANS [NL]
+</Name>
+<Name>
+VERHOECKX GODEFRIDUS JOHANNES [NL]
+</Name>
+<Name>
+PRINS MENNO WILLEM JOSE [NL]
+</Name>
+<Name>
+VAN LANKVELT PETRUS JOHANNES W [NL]
+</Name>
+<Name>
+VAN OMMERING KIM [NL]
+</Name>
+<Name>
+NIEUWENHUIS, JEROEN HANS
+</Name>
+<Name>
+VERHOECKX, GODEFRIDUS JOHANNES
+</Name>
+<Name>
+PRINS, MENNO WILLEM JOSE
+</Name>
+<Name>
+VAN LANKVELT, PETRUS JOHANNES WILHELMUS
+</Name>
+<Name>
+VAN OMMERING, KIM
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONINKL PHILIPS ELECTRONICS NV [NL]
+</Name>
+<Name>
+KONINKLIJKE PHILIPS ELECTRONICS N.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2104865
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070825961
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IB52967
+</PriorityNumber>
+<PriorityDate>
+2007-07-26
+</PriorityDate>
+<PriorityNumber>
+EP20070100466
+</PriorityNumber>
+<PriorityDate>
+2007-01-12
+</PriorityDate>
+<PriorityNumber>
+EP20070825961
+</PriorityNumber>
+<PriorityDate>
+2007-07-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N15/06
+</Class>
+<Class>
+G01R33/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G01R33/12
+</Class>
+<Class>
+G01R33/12S
+</Class>
+</NCL>
+<Abstract>
+A sensor device (50) for sensing particles (15) of a sample, the sensor device (50) comprising a sensing unit (11, 20) adapted for sensing a detection signal indicative of the presence of the particles (15), a viscosity measurement unit (11, 17, 20) adapted for measuring the viscosity of the sample, and a correction unit (20, 30) adapted for correcting the detection signal based on the measured viscosity.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A sensor device (50) for sensing particles (15) of a sample, the sensor device (50) comprising a sensing unit (11, 20) adapted for sensing a detection signal indicative of the presence of the particles (15); a viscosity measurement unit (11, 17, 20) adapted for measuring the viscosity of the sample; a correction unit (20, 30) adapted for correcting the detection signal based on the measured viscosity.
+</P>
+<P>
+2. The sensor device (50) of claim 1 , wherein the sensing unit (11, 20) is adapted for sensing a detection signal indicative of the presence of magnetic particles (15).
+</P>
+<P>
+3. The sensor device (50) of claim 1 , wherein the viscosity measurement unit (11, 17, 20) is adapted for measuring the viscosity of the sample using magnetic particles (15).
+</P>
+<P>
+4. The sensor device (50) of claim 1, wherein the viscosity measurement unit (11, 17, 20) is adapted for measuring the viscosity of the sample by an actuation and by a detection.
+</P>
+<P>
+5. The sensor device (50) of claim 4, wherein the actuation comprises at least one of the group consisting of a magnetic actuation, an optical actuation, and an electrical actuation.
+</P>
+<P>
+6. The sensor device (50) of claim 4, wherein the detection comprises at least one of the group consisting of a magnetic detection, an optical detection, and an electrical detection.
+</P>
+<P>
+7. The sensor device (50, 100, 110) of claim 1, wherein the viscosity measurement unit (11, 17, 20) is adapted for measuring the viscosity of the sample by applying a magnetic field to the sample and by measuring a velocity of magnetic particles (15) of the sample in response to the applied magnetic field.
+</P>
+<P>
+8. The sensor device (50, 100, 110) of claim 7, wherein the viscosity measurement unit (11, 17, 20) is adapted for measuring the velocity of the magnetic particles (15) by measuring a time required by the magnetic particles (15) for moving along a predefined distance in the applied magnetic field.
+</P>
+<P>
+9. The sensor device (100, 110) of claim 7, which comprises a pair of magnetic field generators (12, 12&apos;) with overlapping reaches that can selectively be activated by the viscosity measurement unit (11, 20).
+</P>
+<P>
+10. The sensor device (100, 110) of claim 9, which comprises a magnetic sensor unit (11, 11&apos;) disposed adjacent to at least one of the magnetic field generators (12, 12&apos;) for detecting the transition of magnetic particles (15) from one magnetic field generator (12) to the other (12&apos;).
+</P>
+<P>
+11. The sensor device (110) of claim 10, which comprises two magnetic sensor units (11, 11&apos;) disposed at opposite sides of the pair of magnetic field generators (12, 12&apos;).
+</P>
+<P>
+12. The sensor device (60) of claim 1, wherein the viscosity measurement unit (11, 20) is adapted for measuring the viscosity of the sample by applying a magnetic force to magnetic particles (15) of the sample located in an upper portion (62) of the sensor device (60) and by vertically moving the magnetic particles (15) of the sample under the influence of the applied magnetic force to measure a time interval until the magnetic particles (15) reach a lower portion (63) of the sensor device (60).
+</P>
+<P>
+13. The sensor device (70) of claim 1 , wherein the viscosity measurement unit (11, 20) is adapted for measuring the viscosity of the sample by applying a magnetic force to magnetic particles (15) of the sample and by horizontally moving the magnetic particles (15) of the sample under the influence of the applied magnetic force to measure a time interval until the magnetic particles (15) reach a predefined destination (11) of the sensor device (70).
+</P>
+<P>
+14. The sensor device (120) of claim 1, wherein the viscosity measurement unit is adapted for measuring the viscosity of the sample by monitoring the formation and/or breaking-up of chains ( 18) of magnetic particles (15).
+</P>
+<P>
+15. The sensor device (120) of claim 14, which comprises a &quot;chain- formation magnet&quot; (19) for selectively generating a &quot;chain- forming magnetic field&quot; (Hc) inside the sample in which chains (18) of magnetic particles (15) can build up.
+</P>
+<P>
+16. The sensor device (120) of claim 15, wherein the chain-formation magnet is adapted to selectively generate chain-forming magnetic fields (Hc, Hc&apos;) in at least two different directions.
+</P>
+<P>
+17. The sensor device (120) of claim 14, which comprises a magnetic field generator (12) for generating a &quot;chain-disrupting magnetic field&quot; inside the sample that breaks up chains (18) of magnetic particles (15).
+</P>
+<P>
+18. The sensor device (120) of claim 14, wherein the sensing unit has a different sensitivity for the presence of magnetic particles (15) in regions of chain formation than elsewhere.
+</P>
+<P>
+19. The sensor device (120) of claim 14, which comprises an optical sensor system for detecting the formation of chains (18) of magnetic particles (15), particularly via a change in transmission, reflectance and/or frustrated total internal reflectance.
+</P>
+<P>
+20. The sensor device (50) of claim 1, comprising a viscosity adjustment unit (80) adapted for adjusting the viscosity of the sample to a predefined viscosity value.
+</P>
+<P>
+21. The sensor device (90) of claim 1 , wherein the sensing unit (17, 20) is adapted for sensing the detection signal in a first portion of the sensor device (90) differing from a second portion of the sensor device (90) in which the viscosity measurement unit (11, 17, 20) is adapted for measuring the viscosity.
+</P>
+<P>
+22. The sensor device (90) of claim 1, wherein the sensing unit (17, 20) is adapted for sensing the detection signal based on magnetic particles (15) being bound to a sensing surface (91), and wherein the viscosity measurement unit (11, 17, 20) is adapted for measuring the viscosity of the sample based on unbound magnetic particles (15).
+</P>
+<P>
+23. The sensor device (50) of claim 1, comprising a magnetic field generator unit (12) adapted for generating a magnetic field for at least one of the group consisting of the detection of the presence of the particles (15) and the measurement of the viscosity of the sample.
+</P>
+<P>
+24. The sensor device (50) of claim 1, wherein the correction unit (20, 30) is adapted for correcting the detection signal under consideration of a correlation between the measured viscosity and a change in the detection signal with time.
+</P>
+<P>
+25. A method of sensing particles (15) of a sample, the method comprising sensing a detection signal indicative of the presence of the particles (15); measuring the viscosity of the sample; correcting the detection signal based on the measured viscosity.
+</P>
+<P>
+26. A program element, which, when being executed by a processor (20, 30), is adapted to control or carry out a method of claim 16 of sensing particles (15) of a sample.
+</P>
+<P>
+27. A computer-readable medium, in which a computer program is stored which, when being executed by a processor (20, 30), is adapted to control or carry out a method of claim 16 of sensing particles (15) of a sample.
+</P>
+</Claims>
+<Also_published_as>
+EP2104865B1;WO2008084343A1;US2010109653A1;JP2010515914A;CN101578529A;AT472110T
+</Also_published_as>
+</BiblioData>

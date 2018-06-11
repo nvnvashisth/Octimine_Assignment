@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+OPTICAL ARRANGEMENT, IN PARTICULAR PROJECTION EXPOSURE APPARATUS FOR EUV LITHOGRAPHY, AS WELL AS REFLECTIVE OPTICAL ELEMENT WITH REDUCED CONTAMINATION
+</Title>
+<PublicationNumber>
+EP1927032A2
+</PublicationNumber>
+<Inventor>
+<Name>
+EHM DIRK HEINRICH [DE]
+</Name>
+<Name>
+MUELLENDER STEPHAN [DE]
+</Name>
+<Name>
+STEIN THOMAS [DE]
+</Name>
+<Name>
+MOORS JOHANNES HUBERTUS JOSEPHINA [NL]
+</Name>
+<Name>
+WOLSCHRIJN BASTIAAN THEODOOR [NL]
+</Name>
+<Name>
+KRAUS DIETER [DE]
+</Name>
+<Name>
+VERSLUIS RICHARD [NL]
+</Name>
+<Name>
+MEIJERINK MARCUS GERHARDUS HEN [NL]
+</Name>
+<Name>
+EHM, DIRK, HEINRICH
+</Name>
+<Name>
+MUELLENDER, STEPHAN
+</Name>
+<Name>
+STEIN, THOMAS
+</Name>
+<Name>
+MOORS, JOHANNES, HUBERTUS, JOSEPHINA
+</Name>
+<Name>
+WOLSCHRIJN, BASTIAAN, THEODOOR
+</Name>
+<Name>
+KRAUS, DIETER
+</Name>
+<Name>
+VERSLUIS, RICHARD
+</Name>
+<Name>
+MEIJERINK, MARCUS, GERHARDUS, HENDRIKUS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ZEISS CARL SMT AG [DE]
+</Name>
+<Name>
+ASML NETHERLANDS BV [NL]
+</Name>
+<Name>
+CARL ZEISS SMT AG
+</Name>
+<Name>
+ASML NETHERLANDS B.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1927032
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070818215
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP08113
+</PriorityNumber>
+<PriorityDate>
+2007-09-18
+</PriorityDate>
+<PriorityNumber>
+DE200610044591
+</PriorityNumber>
+<PriorityDate>
+2006-09-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70P2H
+</Class>
+<Class>
+G03F7/70P6D
+</Class>
+<Class>
+G03F7/70P8B
+</Class>
+</NCL>
+<Abstract>
+The invention relates to an optical arrangement, in particular a projection exposure apparatus (1) for EUV lithography, comprising: a housing (2) that encloses an interior space (15);  at least one, in particular reflective, optical element (4 to 10, 12, 14.1 to 14.6) that is arranged in the housing (2);  at least one vacuum generating unit (3) for generating a vacuum in the interior space (15) of the housing (2); ;  and at least one vacuum housing (18, 18.1 to 18.10) that is arranged in the interior space (15) of the housing (2) and that encloses at least the optical surface (17, 17.1, 17.2) of the optical element (4 to 10, 12, 14.1 to 14.5), wherein a contamination reduction unit is associated with the vacuum housing (18.1 to 18.10), which contamination reduction unit reduces the partial pressure of contaminating substances, in particular of water and/or hydrocarbons, at least in close proximity to the optical surface (17, 17.1, 17.2) in relation to the partial pressure of the contaminating substances in the interior space (15).
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. An optical arrangement, in particular a projection exposure apparatus (1 , 1 &apos;) for EUV lithography, comprising: a housing (2) that encloses an interior space (15); at least one, in particular reflective, optical element (4 to 10, 12, 14.1 to
+</P>
+<P>
+14.6) that is arranged in the housing (2); and at least one vacuum generating unit (3) for generating a vacuum in the interior space (15) of the housing (2), characterised by at least one vacuum housing (18, 18.1 to 18.11 , 109) that is arranged in the interior space (15) of the housing (2) and that encloses at least the optical surface (17, 17.1 to 17.5) of the optical element (4 to 10, 12, 14.1 to 14.5), wherein a contamination reduction unit is associated with the vacuum housing (18, 18.1 to 18.11 , 109), which contamination reduction unit reduces the partial pressure of contaminating substances, in particular of water and/or hydrocarbons, at least in close proximity to the optical surface (17, 17.1 to 17.5) in relation to the partial pressure of the contaminating substances in the interior space (15).
+</P>
+<P>
+2. The optical arrangement according to claim 1 , wherein the contamination reduction unit comprises a purge unit (24, 111) for purging at least a partial region of the vacuum housing (18, 18.1 , 18.11 , 109) with an inert gas, preferably He, Ne, Ar, Kr, Xe or H2, N2 or mixtures thereof.
+</P>
+<P>
+3. The optical arrangement according to claim 2, in which the purge unit (24) is ddeessiiggnneedd ffoorr ggeenneerraattiinngg aa ppuurrggee--ggaass pprreessssuurree ooff between 10&amp;lt;&quot;3&amp;gt; mbar and 10 mbar, preferably of between 10&amp;lt;&quot;2&amp;gt; and 10&amp;lt;&quot;1&amp;gt; mbar.
+</P>
+<P>
+4. The optical arrangement according to claim 2 or 3, in which an outlet is provided in the vacuum housing (18.1 1 ) as a suction unit (21 ) for generating a flow of purge gas from the inside of the vacuum housing (18.11 ) to the interior space (15), the layout of the outlet preferably being chosen to
+</P>
+<P>
+5 prevent diffusion of contaminating substances from the interior space (15) to the inside of the vacuum housing (18.11 ).
+</P>
+<P>
+5. The optical arrangement according to any one of the preceding claims, further comprising at least one cleaning head (60) for directing a jet (62) of a o cleaning gas to the optical surface (17.5) for removing contaminating substances from the optical surface (17.5).
+</P>
+<P>
+6. The optical arrangement according to 5, wherein the cleaning head (60) comprises an activation unit (61 ) for generating the jet of cleaning gas by at s least partially activating a flow of purge gas, preferably molecular hydrogen.
+</P>
+<P>
+7. The optical arrangement according to claim 6, wherein the activation unit (61) comprises a heated filament (61 a).
+</P>
+<P>
+0 8. The optical arrangement according to any one of the preceding claims, in which the vacuum housing (18.11 ) at least in one partial region on its inside comprises a material with a low atomic hydrogen recombination rate, preferably glass, in particular quartz glass.
+</P>
+<P>
+5 9. The optical arrangement according to any one of claims 5 to 8, wherein inside of the vacuum housing (18.11 ) only materials are provided which do not generate outgassing products induced by the cleaning gas.
+</P>
+<P>
+10. The optical arrangement according to any one of the preceding claims, o wherein a measuring unit (63, 64) for measuring a contamination status of the optical surface (17.4) is arranged inside the vacuum housing.
+</P>
+<P>
+11.The optical arrangement according to any one of the preceding claims, wherein the vacuum housing (18.11 ) and the optical element (17.3 to 17.5) are temperature-resistant up to a baking temperature of 100[deg.]C or more, preferably of 150&amp;lt;0&amp;gt;C or more.
+</P>
+<P>
+12. The optical arrangement according to claim 11 , further comprising at least one heating unit (65) for heating of the at least one vacuum housing (18.11 ) to the baking temperature.
+</P>
+<P>
+13. The optical arrangement according to any one of the preceding claims, in which the contamination reduction unit is designed to generate a partial pressure of water of less than 10&amp;lt;&quot;7&amp;gt; mbar and/or a partial pressure of hydrocarbons, preferably of non-volatile hydrocarbons, of less than 10&amp;lt;&quot;9&amp;gt; mbar, preferably of less than 10&amp;lt;&quot;13&amp;gt; at the optical surface (17, 17.1 to 17.5).
+</P>
+<P>
+14. The optical arrangement according to any one of the preceding claims, in which the contamination reduction unit is designed to generate a partial pressure of the contaminating substances of less than 10&amp;lt;&quot;9&amp;gt; mbar, preferably of less than 10&amp;lt;&quot;11&amp;gt; mbar, particularly preferably of less than 10&amp;lt;&quot;13&amp;gt; mbar.
+</P>
+<P>
+15. The optical arrangement according to any one of the preceding claims, in which the contamination reduction unit comprises at least one suction unit (21) for removing by suction contaminating substances from the vacuum housing (18, 18.1 to 18.11 , 109), which suction unit (21 ) is preferably provided in close proximity to the optical surface (17, 17.1 to 17.5) and is preferably affixed to the vacuum housing (18, 18.1 to 18.11 , 109).
+</P>
+<P>
+16. The optical arrangement according to claim 15, in which the suction unit (21) is designed such that in the vacuum housing (18) a pressure gradient essentially parallel to the optical surface (17) is generated.
+</P>
+<P>
+17. The optical arrangement according to any one of the preceding claims, in which the vacuum housing (18.1 ; 18) is connected either to a further vacuum housing (18.2) or to the remaining interior space (15) of the housing (2).
+</P>
+<P>
+18. The optical arrangement according to any one of the preceding claims, in which the optical surface (17) of the optical element (4) is arranged in a beam path (19) extending in the housing (2), wherein the beam path (19) extends through an opening (20) in the vacuum housing (18).
+</P>
+<P>
+19. The optical arrangement according to claim 18, in which the vacuum housing (18, 18.1 to 18.11 , 109) encloses the beam path (19) in a jacket-like manner.
+</P>
+<P>
+20. The optical arrangement according to any one of the preceding claims, in which the entire beam path (19) extending in the housing (2) is essentially completely separated from the remaining interior space (15) of the housing (2) by means of one or a plurality of vacuum housings (18.1 to 18.11) that are connected to each other in a gas-proof manner.
+</P>
+<P>
+21.The optical arrangement according to any one of the preceding claims, in which the vacuum housing (18.2) encloses at least the optical surfaces (17.1 , 17.2) of two optical elements (5, 6).
+</P>
+<P>
+22. The optical arrangement according to any one of the preceding claims, in which the contamination reduction unit comprises a cooling unit (22) which cools the vacuum housing (18) to temperatures of less than 290 K, preferably of less than 80 K, particularly preferably of less than 20 K.
+</P>
+<P>
+23. The optical arrangement according to any one of the preceding claims, in which the vacuum housing (18.2) is used as a contamination reduction unit, and at least in one partial region on its inside (23) comprises a gas-binding material, in particular titanium, tantalum, niobium, zircon, thorium, barium, magnesium, aluminium, ruthenium, ytterbium or cerium.
+</P>
+<P>
+24. The optical arrangement according to any one of the preceding claims, in which at least one component (16a) is arranged in the interior space (15), which component (16a) outgasses contaminating particles/molecules, and in which the contamination reduction unit comprises a suction unit (25a) which, by way of suction, removes from the interior space (15) of the housing (2) the particles outgassed by the component (16a).
+</P>
+<P>
+25. The optical arrangement according to claim 24, characterised in that the component (16b, 16c) is affixed on a substrate or on a holding device of the optical element (5).
+</P>
+<P>
+26.An optical arrangement, in particular a projection exposure apparatus (1 ) for
+</P>
+<P>
+EUV lithography, comprising: a housing (2) that encloses an interior space (15); at least one, in particular reflective, optical element (4 to 10, 12, 14.1 to
+</P>
+<P>
+14.6), that is arranged in the housing (2); at least one vacuum generating unit (3) for generating a vacuum in the interior space (15) of the housing (2); and at least one component (16a to 16c) that is arranged in the interior space
+</P>
+<P>
+(15), which component (16a to 16c) outgasses contaminating substances, characterised by at least one suction unit (25a to 25c) associated with the component (16a to
+</P>
+<P>
+16c), which suction unit (25a to 25c) removes by suction from the interior space (15) of the housing (2) the substances outgassed by the component
+</P>
+<P>
+(16a to 16c).
+</P>
+<P>
+27. The optical arrangement according to claim 26, in which a suction opening of the suction unit (25a to 25c) is arranged directly in front of the outgassing component (16a to 16c).
+</P>
+<P>
+28. The optical arrangement according to claim 26 or 27, in which the outgassing component (16b, 16c) is arranged on a substrate (5) or on a holding device of the reflective optical element.
+</P>
+<P>
+29. The optical arrangement according to any one of claims 26 to 28, further comprising a purge unit (24) for purging at least a partial region of the interior space (15) of the housing (2) with an inert gas, preferably He, Ne, Ar, Kr, Xe or H2, N2 or mixtures thereof.
+</P>
+<P>
+30. The optical arrangement according to claim 29, in which the purge unit (24) is designed for generating an inert-gas pressure of between 10&amp;lt;&quot;3&amp;gt; mbar and 10 mbar, preferably of between 10&amp;lt;&quot;2&amp;gt; and 10&amp;lt;&quot;1&amp;gt; mbar.
+</P>
+<P>
+31.The optical arrangement according to any one of the preceding claims, in which a residual gas analyser (27) is provided for determining the partial pressure of the contaminating substances.
+</P>
+<P>
+32. The optical arrangement according to claim 31 , in which on the housing (2) a calibration leakage (28) is provided for introducing an inert gas at a defined leakage rate into the interior space (15) of the housing (2).
+</P>
+<P>
+33. The optical arrangement according to any one of the preceding claims, in which an optical resonator (47) for determining the partial pressure of the contaminating substances is provided.
+</P>
+<P>
+34. The optical arrangement according to claim 33, in which the optical resonator (47) is arranged on the surface (17.2) of the optical element (6).
+</P>
+<P>
+35. The optical arrangement according to claim 33 or 34, which comprises a laser light source (45) for supplying laser pulses to the optical resonator (47) and an analyzing device (48), arranged downstream of the optical resonator (47), for measuring the intensity of the laser pulses.
+</P>
+<P>
+36. A reflective optical element (30), in particular for EUV lithography, comprising: a substrate (31 ), and an electrically conductive multilayer system (33) which on a side opposite the substrate (31 ) comprises a reflective optical surface (34), characterised by an electrically conductive layer (32), arranged between the substrate (31 ) and the multilayer system (33), which is electrically contactable for leading away a photocurrent, for earthing, or for applying a defined voltage.
+</P>
+<P>
+37. The reflective optical element according to claim 36, in which the electrically conductive layer (32) comprises a metal, in particular gold, nickel, ruthenium, rhodium, palladium, molybdenum, iridium, osmium, rhenium, silver, zinc oxide, alloys of these or a further multilayer system.
+</P>
+<P>
+38. The reflective optical element according to claim 36 or 37, in which the electrically conductive layer (32) comprises a thickness of less than 50 nm, preferably of less than 1 nm.
+</P>
+<P>
+39. The reflective optical element according to any one of claims 36 to 38, in which the substrate (31) with the electrically conductive layer (32) protrudes in an edge region of the multilayer system (33), and in the edge region at least one contact (35) is provided for connecting a line (36) to the electrically conductive layer (32).
+</P>
+<P>
+40. A reflective optical element (40), in particular for EUV lithography, comprising: a substrate (41 ), an electrically conductive multilayer system (42) which on a side opposite the substrate (41 ) comprises a reflective optical surface (44), characterised by a material (43) that is arranged on the substrate (41 ) adjacent to the optical surface (44), which material (43) adsorbs contaminating substances.
+</P>
+<P>
+41.The reflective optical element according to claim 40, in which the adsorbent material (43) encloses the optical surface (44) in particular in a ring-shaped manner.
+</P>
+<P>
+42. The reflective optical element according to any one of claims 40 or 41 , in which the adsorbent material (43) is a catalytic material, preferably rhodium, palladium, molybdenum, iridium, osmium, rhenium, silver, zinc oxide or their alloys, in particular ruthenium.
+</P>
+<P>
+43. The reflective optical element according to any one of claims 40 to 42, characterised by a unit (45) for generating a temperature gradient between the optical surface (44) and the adsorbent material (43).
+</P>
+<P>
+44.An optical arrangement, in particular according to any one of claims 1 to 35, comprising at least one reflective optical element (30, 40) according to any one of claims 36 to 39 and/or 40 to 43.
+</P>
+<P>
+45. The optical arrangement according to claim 44, in which the electrically conductive layer (32) is connected, preferably by way of a line (36), to the mass potential and/or to a current- or voltage measuring device (37).
+</P>
+<P>
+46. The optical arrangement according to claim 45, in which the line (36) is adapted for measuring the photocurrent at a frequency of more than 1 kHz.
+</P>
+</Claims>
+<Also_published_as>
+WO2008034582A2;WO2008034582A3;US2009231707A1;TW200834246A;KR20090057368A;JP2010503980A;DE102006044591A1;CN101968609A;CN101495921A
+</Also_published_as>
+</BiblioData>

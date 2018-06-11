@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+USE OF ACID SCAVENGERS FOR THE SYNTHESIS OF STANDARD LENGTH AND LONG- MER NUCLEIC ACID ARRAYS
+</Title>
+<PublicationNumber>
+EP1979088A2
+</PublicationNumber>
+<Inventor>
+<Name>
+KUIMELIS ROBERT G [US]
+</Name>
+<Name>
+MCGALL GLENN H [US]
+</Name>
+<Name>
+GOLDBERG MARTIN J [US]
+</Name>
+<Name>
+XU GUANGYU [US]
+</Name>
+<Name>
+KUIMELIS, ROBERT, G
+</Name>
+<Name>
+MCGALL, GLENN, H
+</Name>
+<Name>
+GOLDBERG, MARTIN, J
+</Name>
+<Name>
+XU, GUANGYU
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+AFFYMETRIX INC [US]
+</Name>
+<Name>
+AFFYMETRIX, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1979088
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060849218
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US62669
+</PriorityNumber>
+<PriorityDate>
+2006-12-28
+</PriorityDate>
+<PriorityNumber>
+US20050755261P
+</PriorityNumber>
+<PriorityDate>
+2005-12-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+C07H21/00
+</Class>
+<Class>
+C40B50/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C07H21/00
+</Class>
+<Class>
+C07K1/04C
+</Class>
+<Class>
+C40B50/14
+</Class>
+</NCL>
+<Abstract>
+Protective groups which may be cleaved with an activatable deprotecting reagent are employed to achieve a highly sensitive, high resolution, combinatorial synthesis of pattern arrays of diverse polymers. In preferred embodiments of the instant invention, the activatable deprotecting reagent is a photoacid generator and the protective groups are DMT for nucleic acids and tBOC for amino acids. This invention has a wide variety of applications and is particularly useful for the solid phase combinatorial synthesis of polymers.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A process for fabricating an array of polymers comprising:
+</P>
+<P>
+providing a solid substrate comprising a reactive group protected by an acid labile protective group;
+</P>
+<P>
+coating said solid substrate with a film, said film comprising an photo acid generator and an acid scavenger;
+</P>
+<P>
+activating said photo acid generator in selected regions of said substrate by selective application of light having a predetermined wavelength to provide an acid;
+</P>
+<P>
+exposing said reactive group having said protective group to said acid in the presence of said scavenger such that said protective group is removed to provide an exposed reactive group;
+</P>
+<P>
+reacting said exposed reactive group with a monomer, wherein the monomer is coupled to said exposed reactive group; and
+</P>
+<P>
+repeating the steps of coating; activating, exposing and reacting to produce the array of polymers.
+</P>
+<P>
+2. A process according to claim 1, wherein said polymer is a nucleic acid.
+</P>
+<P>
+3. A process according to claim 1, wherein said polymer is a polypeptide.
+</P>
+<P>
+4. A process according to claim 3, wherein the polypeptide comprises amino acid residues selected from one or more of alanine, arginine, asparagine, aspartic acid, cysteine, glutamine, glutamic acid, glycine, histidine, isoleucine, leucine, lysine, methionine, phenylalanine, praline, serine, threonine, tryptophan, tyrosine and valine.
+</P>
+<P>
+5. A process according to claim 3, wherein the polypeptide is a peptide nucleic acid.
+</P>
+<P>
+6. A process according to claim 5, wherein the peptide nucleic acid repeat unit is represented by one of the following formulae:
+</P>
+<P>
+EMI5.0
+</P>
+<P>
+wherein B represents a base.
+</P>
+<P>
+7. A process according to claim 6, wherein B is adenine, cytosine, guanine or thymine.
+</P>
+<P>
+8. A process for fabricating an array of oligonucleotides, comprising:
+</P>
+<P>
+providing a substrate comprising a hydroxyl group protected by an acid labile protective group;
+</P>
+<P>
+coating said substrate with a film, said film comprising a photo acid generator (PAG) and an acid scavenger;
+</P>
+<P>
+activating said photo acid generator in selected regions of said substrate by selective application of light having a predetermined wavelength to provide an acid;
+</P>
+<P>
+exposing said hydroxyl group protected by said protective group to said acid in the presence of said scavenger such that said protective group is removed to produce a deprotected hydroxyl group;
+</P>
+<P>
+reacting said deprotected hydroxyl group with a nucleotide monomer, wherein the nucleotide monomer is coupled to said deprotected hydroxyl group; and
+</P>
+<P>
+repeating the steps of coating, activating, exposing and reacting to produce the array of oligonucleotides.
+</P>
+<P>
+9. A process according to claim 8, wherein said hydroxyl group protected by an acid labile protective group is selected from the group consisting of a hydroxyl group of a linker, a 5&apos; hydroxyl group of a deoxynucleotide and a 3&apos; hydroxyl group of a deoxynucleotide.
+</P>
+<P>
+10. A process according to claim 8, wherein said deoxynucleotide is selected from the group consisting of G, A, T and C.
+</P>
+<P>
+11. A process according to claim 8, further comprising the steps of:
+</P>
+<P>
+stripping the film from the substrate with all appropriate solvent after removal of the protective group to provide a partially completed substrate comprising an exposed reactive hydroxyl group;
+</P>
+<P>
+reacting said hydroxyl group with a deoxynucleotide with a reactive group at its 5&apos; or 3&apos; hydroxyl group and an acid labile protective group at the other 5&apos; or 3&apos; hydroxyl group; and
+</P>
+<P>
+repeating the steps of coating, activating, exposing, stripping, and reacting to provide the array of oligonucleotides.
+</P>
+<P>
+12. A process according to claim 8, wherein said film further comprises a polymer.
+</P>
+<P>
+13. A process according to claim 12, wherein said polymer is poly(methyl methacrylate).
+</P>
+<P>
+14. A process according to claim 12, wherein said film is spun coat onto the substrate.
+</P>
+<P>
+15. A process according to claim 8, wherein said acid labile protective group is dimethoxytrityl.
+</P>
+<P>
+16. A process according to claim 8, wherein said PAG is selected from the group consisting of an ionic photoacid generator and a non-ionic photoacid generator.
+</P>
+<P>
+17. A process according to claim 16, wherein said PAG is an ionic photoacid generator.
+</P>
+<P>
+18. A process according to claim 16, wherein said PAG is a non-ionic photoacid generator.
+</P>
+<P>
+19. A process according to claim 18, wherein said non-ionic photoacid generator is 2,6-dinitrobenzyl tosylate.
+</P>
+<P>
+20. A process according to claim 17, wherein said ionic photoacid generator is an onium salt.
+</P>
+<P>
+21. A process according to claim 20, wherein said onium salt is bis-(4-t-butyl phenyl) iodonium PF6&amp;lt;-&amp;gt; .
+</P>
+<P>
+22. A process according to claim 8, wherein said acid scavenger is a compound selected from the group consisting of organic bases and polymeric bases.
+</P>
+<P>
+23. A process according to claim 22, wherein said organic base is selected from the group consisting of primary, secondary and tertiary amines.
+</P>
+<P>
+24. A process according to claim 23, wherein said amines are represented by the structure:
+</P>
+<P>
+EMI6.0
+</P>
+<P>
+wherein R1, R2 and R3 are independently H, an alkyl group, an alkenyl group, an alkynyl group or an aryl group, or one or more of R1, R2 and R3 taken together with the nitrogen atom form a carbocyclic or heterocyclic ring.
+</P>
+<P>
+25. A process according to claim 22, wherein acid scavenger is an organic base selected from the group consisting of:
+</P>
+<P>
+EMI7.0
+</P>
+<P>
+26. A process according to claim 22, wherein acid scavenger is a polymeric base selected from the group consisting of polyvinylpyridone, polyvinylpyridine and polyvinylimidazole.
+</P>
+<P>
+27. A process according to claim 8, wherein said predetermined wavelength of light is 310 nm or higher.
+</P>
+<P>
+28. A process according to claim 27, wherein said predetermined wavelength is 330 to 365 nm.
+</P>
+<P>
+29. A process according to claim 28, wherein said predetermined wavelength of light is about 365 nm.
+</P>
+</Claims>
+<Also_published_as>
+US2007161778A1;US7862996B2;US2012010108A1;US2011124526A1;US8062844B2;WO2007081664A2;WO2007081664A3;US2011015098A1;US7910312B2
+</Also_published_as>
+</BiblioData>

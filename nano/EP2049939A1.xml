@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LIGHT MODULATORS COMPRISING SI- GE QUANTUM WELL LAYERS
+</Title>
+<PublicationNumber>
+EP2049939A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CHRASTINA DANIEL [IT]
+</Name>
+<Name>
+SIGG HANS-CHRISTEN [CH]
+</Name>
+<Name>
+SOICHIRO TSUJINO [CH]
+</Name>
+<Name>
+VON KAENEL HANS [CH]
+</Name>
+<Name>
+CHRASTINA, DANIEL
+</Name>
+<Name>
+SIGG, HANS-CHRISTEN
+</Name>
+<Name>
+SOICHIRO, TSUJINO
+</Name>
+<Name>
+VON KAENEL, HANS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SCHERRER INST PAUL [CH]
+</Name>
+<Name>
+MILANO POLITECNICO [IT]
+</Name>
+<Name>
+PAUL SCHERRER INSTITUT
+</Name>
+<Name>
+POLITECNICO DI MILANO
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2049939
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070801537
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP06974
+</PriorityNumber>
+<PriorityDate>
+2007-08-07
+</PriorityDate>
+<PriorityNumber>
+EP20060016771
+</PriorityNumber>
+<PriorityDate>
+2006-08-11
+</PriorityDate>
+<PriorityNumber>
+EP20070801537
+</PriorityNumber>
+<PriorityDate>
+2007-08-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02F1/017
+</Class>
+<Class>
+H01L21/205
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02F1/017
+</Class>
+</NCL>
+<Abstract>
+Optical modulators include active quantum well structures (200) coherent with pseudosubstrates (100) comprising relaxed buffer layers (104, 106, 108, 110) on a silicon substrate (102). In a preferred method the active structures, consisting of Si1-x Gex barrier and well layers with different Ge contents x, are chosen in order to be strain compensated. The Ge content in the active structures may vary in a step-wise fashion along the growth direction or in the form of parabolas within the quantum well regions. Optical modulation may be achieved by a plurality of physical effects, such as the Quantum Confined or Optical Stark Effect, the Franz-Keldysh Effect, exciton quenching by hole injection, phase space filling or temperature modulation. In a preferred method the modulator structures are grown epitaxially by low-energy plasma-enhanced chemical vapor deposition (LEPCVD).
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A semiconductor quantum well structure, comprising: a) a relaxed Sii-X&apos;GeX&apos; pseudosubstrate (100), b) at least one well layer (204) having a composition Sii_xGex, wherein x is chosen in such a way that the T2&apos; conduction band minimum lies below the Ti5 state, c) barrier layers having a composition Sii_yGey (202) and Sii-y&quot;Gey&apos; (206) such that y, y&apos; &amp;lt; x; and d) a cap layer (300) having a composition Sii-X&apos;Gex&amp;lt;, wherein x&apos; lies in the range of an average Ge content, as calculated from the Ge content in said pseudosubstrate (100) , said at least one well layer (204), said barrier layers (206) and said cap layer.
+</P>
+<P>
+2. The structure of claim 1, wherein layer compositions and thicknesses are chosen such that the optical transitions from heavy hole states to electron states at the r-point occur at wavelengths close to 1.3 or 1.55 nm.
+</P>
+<P>
+3. The structure of claim 1, wherein the pseudosubstrate (100) comprises : a) a graded alloy buffer layer (104) with a final Ge content xf, b) a constant composition buffer layer (106) with Ge content xf, c) a boron doped layer (108) with Ge content Xf, d) an undoped spacer layer (110) with Ge content Xf, wherein the boron doped layer (108) and the undoped spacer layer (110) are preferably grown at lower plasma density and lower substrate temperature than buffer layer (104), and wherein a flux of hydrogen is added to the gas phase, where the hydrogen flux is preferably higher than the flux of dopant gas.
+</P>
+<P>
+4. The structure of claim 1, wherein the pseudosubstrate (100) comprises : a) an alloy buffer layer (104) with a constant Ge content b) a boron doped layer (108) with Ge content x&apos; , c) an undoped spacer layer (110) with Ge content x&apos; , wherein the boron doped layer (108) and the undoped spacer layer (110) are preferably grown at lower plasma density and lower substrate temperature than buffer layer (104), and wherein a flux of hydrogen is added to the gas phase, preferably such that the hydrogen flux is higher than the flux of dopant gas.
+</P>
+<P>
+5. The structure of claim 1, wherein the Ge concentration profile within the active layer structure (200) may have anyone of a plurality of shapes, including: a) parabolic in the region of wells (204), b) sinusoidal in well (204) and barrier (202,206), c) regions, symmetric or asymmetric step-function-like.
+</P>
+<P>
+6. The structure of claim 1, wherein a top electrical contact (400) is provided in anyone of a plurality of ways, including: a) a Schottky contact, b) an n-doped epitaxial-Si or poly-silicon layer c) an n-doped epitaxial Sii_xGex layer, whereby the Ge content x is preferably chosen to be near or equal to that of the pseudosubstrate (100) , d) a metal-insulator layer, e) an ohmic contact.
+</P>
+<P>
+7. The structure of anyone of the preceding claims, wherein the layers (100, 108, 110, 202, 204, 206, 300) are expitaxially deposited by low-energy plasma-enhanced chemical vapour deposition (LEPECVD) .
+</P>
+<P>
+8. A device comprising a structure of anyone of the claims 1 to 7, wherein an electric potential may be applied between a buried contact layer (108) and a top electrode (400) , such that an electric field is present in the active region (200) , wherein the optical response of the device may be altered by changing said electric field.
+</P>
+<P>
+9. A device comprising a structure of anyone of the claims 1 to 7, wherein an external light source providing photons which are absorbed by the quantum well structure (200) is used to alter the optical response of the device.
+</P>
+<P>
+10. A device comprising a structure of anyone of the claims 1 to 7, wherein an external light source providing photons which are not absorbed by the quantum well structure (200) is used to alter the optical response of the device.
+</P>
+<P>
+11. A device comprising a structure of anyone of the claims 1 to I1 wherein a heater (500) integrated with the quantum well structure (200) is used to alter the optical response of the device.
+</P>
+</Claims>
+<Also_published_as>
+WO2008017457A1;US2010117059A1
+</Also_published_as>
+</BiblioData>

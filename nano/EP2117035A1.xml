@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MASK FOR MULTICOLUMN ELECTRON BEAM EXPOSURE, ELECTRON BEAM EXPOSURE DEVICE AND EXPOSURE METHOD EMPLOYING MASK FOR MULTICOLUMN ELECTRON BEAM EXPOSURE
+</Title>
+<PublicationNumber>
+EP2117035A1
+</PublicationNumber>
+<Inventor>
+<Name>
+YAMADA AKIO [JP]
+</Name>
+<Name>
+YABE TAKAYUKI [JP]
+</Name>
+<Name>
+TANAKA HITOSHI [JP]
+</Name>
+<Name>
+YAMADA, AKIO
+</Name>
+<Name>
+YABE, TAKAYUKI
+</Name>
+<Name>
+TANAKA, HITOSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ADVANTEST CORP [JP]
+</Name>
+<Name>
+ADVANTEST CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2117035
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070737688
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP54040
+</PriorityNumber>
+<PriorityDate>
+2007-03-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/027
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01J37/317B4
+</Class>
+</NCL>
+<Abstract>
+A mask for exposure, which is used in a multi-column electron beam exposure apparatus having multiple column cells, includes a stencil pattern group constituted by multiple stencil patterns for each of the multiple column cells. The stencil pattern groups are arranged at intervals corresponding to arrangement intervals of the multiple column cells, and all of the stencil pattern groups are formed on a single mask substrate. The stencil pattern groups include: a first stencil pattern group formed within a deflectable range of an electron beam of each of the multiple column cells;  and a second stencil pattern group having two or more of the first stencil patterns.
+</Abstract>
+<Claims>
+<P>
+1. A mask for exposure, the mask being used in a multi-column electron beam exposure apparatus having a plurality of column cells, comprising:
+</P>
+<P>
+stencil pattern groups each constituted by a plurality of stencil patterns, the stencil pattern groups respectively provided for the plurality of column cells (11); and
+</P>
+<P>
+a single mask substrate (41) mounted on a mask stage (110) for moving the mask for exposure, wherein
+</P>
+<P>
+the stencil pattern groups are arranged at intervals corresponding to arrangement intervals of the plurality of column cells (11), and
+</P>
+<P>
+all of the stencil pattern groups are mounted on the single mask substrate (41).
+</P>
+<P>
+2. The mask for multi-column electron beam exposure according to claim 1, wherein the stencil pattern groups include:
+</P>
+<P>
+first stencil pattern groups (42) each formed within a deflectable range of an electron beam of each of the plurality of column cells (11); and
+</P>
+<P>
+a second stencil pattern group (44) having two or more of the first stencil pattern groups, the second stencil pattern group (44) being formed within a deflectable range of the electron beam of each of the plurality of column cells (11) and within a movable range of the mask stage (110).
+</P>
+<P>
+3. The mask for multi-column electron beam exposure according to claim 2, wherein the stencil pattern groups are the same among the plurality of column cells (11).
+</P>
+<P>
+4. A multi-column electron beam exposure apparatus using any one of the masks for multi-column electron beam exposure according to claims 1 to 3, comprising:
+</P>
+<P>
+a two-dimensionally movable mask stage (110) provided to be shared by all the column cells (11), wherein
+</P>
+<P>
+the mask substrate (41) is mounted on the mask stage (110), and
+</P>
+<P>
+a movable distance of the mask stage (110) is equal to the width of the second stencil pattern group (44) formed on the mask substrate (41).
+</P>
+<P>
+5. The multi-column electron beam exposure apparatus according to claim 4, further comprising:
+</P>
+<P>
+a wafer stage (13) for mounting a sample wafer (12) including a reference mark for correction;
+</P>
+<P>
+a backscattered electron detector; and
+</P>
+<P>
+a mask mounting controller (28) for mounting a mask substrate (41) onto the mask stage (110), wherein
+</P>
+<P>
+a stencil pattern formed on the mask substrate (41) is selected,
+</P>
+<P>
+a pattern formed by an electron beam into a shape of the stencil pattern, is irradiated onto the sample wafer (12) with a position of the reference mark as a target,
+</P>
+<P>
+a position in which the pattern has been actually drawn is determined from an SEM image of the pattern, the SEM image being obtained based on a backscattered electron detected by the backscattered electron detector, and
+</P>
+<P>
+the mounting position of the mask substrate (41) is adjusted by the mask mounting controller (28) when a displacement is detected between the position of the reference mark and the position of the actually drawn pattern.
+</P>
+<P>
+6. A multi-column electron beam exposure method using the multi-column electron beam exposure apparatus according to claim 5, comprising the steps of:
+</P>
+<P>
+selecting stencil patterns located at equivalent positions in the respective column cells (11) by use of respective electron beams on the optical axes in the column cells;
+</P>
+<P>
+measuring the displacement between the position of the stencil pattern and the position irradiated with the electron beam in each of the column cells;
+</P>
+<P>
+adjusting an mounting angle of the mask substrate (41) so as to minimize the displacement measured for each of the column cells; and
+</P>
+<P>
+exposing a sample wafer by using the mask substrate of which mounting angle has been adjusted.
+</P>
+<P>
+7. A mask for multi-column electron beam exposure, the mask for exposure being used in a multi-column electron beam exposure apparatus having a plurality of column cells (11), comprising:
+</P>
+<P>
+stencil pattern groups each constituted by a plurality of stencil patterns, the stencil pattern groups respectively provided for the plurality of column cells (11); and
+</P>
+<P>
+unified substrates (86) in each of which the stencil pattern groups belonging to at least one of column cells (11) is formed, wherein
+</P>
+<P>
+the unified substrates (86) are mounted on a single pedestal substrate (85) at intervals corresponding to arrangement intervals of the plurality of column cells (11), and
+</P>
+<P>
+the single pedestal substrate (85) is mounted on a mask stage (110) for moving the mask for exposure.
+</P>
+<P>
+8. The mask for multi-column electron beam exposure according to claim 7, wherein
+</P>
+<P>
+the stencil pattern group is constituted by:
+</P>
+<P>
+a first stencil pattern group (82) formed in a deflectable range of an electron beam, and
+</P>
+<P>
+a second stencil pattern group (84) having the first stencil pattern groups (82) two-dimensionally arranged.
+</P>
+<P>
+9. The mask for multi-column electron beam exposure according to claim 8, wherein the stencil pattern groups are the same among the plurality of column cells (11).
+</P>
+<P>
+10. The mask for multi-column electron beam exposure according to any one of claims 7 to 9, wherein the unified substrates (86) are detachable from the pedestal substrate (85).
+</P>
+<P>
+11. A multi-column electron beam exposure apparatus using the mask for multi-column electron beam exposure according to claim 10, comprising a two-dimensionally movable mask stage (110) provided to be shared by the column cells (11), wherein
+</P>
+<P>
+the pedestal substrate (85) is mounted on the mask stage (110), and
+</P>
+<P>
+a movable distance of the mask stage is equal to the width of the second stencil pattern group (84) mounted on the pedestal substrate (85) and formed on the unified substrates (86).
+</P>
+<P>
+12. The multi-column electron beam exposure apparatus according to claim 11, further comprising:
+</P>
+<P>
+a wafer stage (13) for mounting a sample wafer (12) including a reference mark for correction;
+</P>
+<P>
+a backscattered electron detector; and
+</P>
+<P>
+a mask mounting controller (28) for mounting the pedestal substrate (85) onto the mask stage (110), wherein
+</P>
+<P>
+a stencil pattern formed on the pedestal substrate (85) is selected,
+</P>
+<P>
+the pattern, formed by an electron beam into a shape of the stencil pattern, is irradiated onto the sample wafer (12) with a position of the reference mark as a target,
+</P>
+<P>
+a position in which the pattern has been actually drawn is determined from an SEM image of the pattern, the SEM image being obtained based on a backscattered electron detected by the backscattered electron detector, and
+</P>
+<P>
+the mounting position of the pedestal substrate (85) is adjusted by the mask mounting controller (28) when a displacement is detected between the position of the reference mark and the position of the actually drawn pattern.
+</P>
+<P>
+13. A multi-column electron beam exposure method using the multi-column electron beam exposure apparatus according to claim 12, comprising the steps of:
+</P>
+<P>
+selecting a stencil pattern at an equivalent position among the column cells (11) by use of an electron beam on an optical axis in each of the column cells (11);
+</P>
+<P>
+measuring a displacement between the position and the position irradiated with the electron beam in each of the column cells (11);
+</P>
+<P>
+adjusting an mounting angle of the pedestal substrate (85) so as to minimize the displacement measured for each of the column cells (11); and
+</P>
+<P>
+exposing a sample wafer (12) by using the pedestal substrate (85) of which mounting angle has been adjusted.
+</P>
+</Claims>
+<Also_published_as>
+US2009311613A1;US8196067B2;WO2008107955A1
+</Also_published_as>
+</BiblioData>

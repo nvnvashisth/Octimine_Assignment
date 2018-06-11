@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SWITCHABLE BIOSENSOR DEVICES
+</Title>
+<PublicationNumber>
+EP1951896A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GHAZAL PETER [GB]
+</Name>
+<Name>
+CAMPBELL COLIN JAMES [GB]
+</Name>
+<Name>
+BUCK AMY [GB]
+</Name>
+<Name>
+DICKINSON PAUL [GB]
+</Name>
+<Name>
+TERRY JONATHAN GORDON [GB]
+</Name>
+<Name>
+WALTON ANTHONY JOHN [GB]
+</Name>
+<Name>
+TERESHKOVA ELENA EDUARDOVNA FE [GB]
+</Name>
+<Name>
+MOUNTFORD CHRISTOPHER [GB]
+</Name>
+<Name>
+CRAIN JASON [GB]
+</Name>
+<Name>
+BEATTIE JOHN SAMUEL [GB]
+</Name>
+<Name>
+MOUNT ANDREW RAYMOND [GB]
+</Name>
+<Name>
+GHAZAL, PETER
+</Name>
+<Name>
+CAMPBELL, COLIN, JAMES
+</Name>
+<Name>
+BUCK, AMY
+</Name>
+<Name>
+DICKINSON, PAUL
+</Name>
+<Name>
+TERRY, JONATHAN, GORDON
+</Name>
+<Name>
+WALTON, ANTHONY, JOHN
+</Name>
+<Name>
+TERESHKOVA, ELENA, EDUARDOVNA, FERAPONTOVA
+</Name>
+<Name>
+MOUNTFORD, CHRISTOPHER
+</Name>
+<Name>
+CRAIN, JASON
+</Name>
+<Name>
+BEATTIE, JOHN, SAMUEL
+</Name>
+<Name>
+MOUNT, ANDREW, RAYMOND
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV EDINBURGH [GB]
+</Name>
+<Name>
+THE UNIVERSITY COURT OF THE UNIVERSITY OF EDINBURGH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1951896
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060808456
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006GB04161
+</PriorityNumber>
+<PriorityDate>
+2006-11-08
+</PriorityDate>
+<PriorityNumber>
+US20050734705P
+</PriorityNumber>
+<PriorityDate>
+2005-11-08
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12Q1/68
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12Q1/68B2
+</Class>
+<Class>
+C12Q1/68B6
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a method for detecting a target analyte in a sample, using a pro-macromolecular structure switch which has an analyte binding site for binding the analyte to form together, a macromolecular switch, with an ion coordination site, and arms flippable between discretely different conformations corresponding to different ion binding conditions. The different conformations provide, with an output signal reading system, characteristic output signals. The pro-switch is contacted with sample and an external input signal applied to the input device to change ion binding conditions to flip switch conformations, and changes in output signal are read out. The invention also provides a pro-macromolecular structure switch.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method for detecting a target analyte in a sample, which method includes the steps of: providing a pro-macromolecular structure switch wherein said pro-switch has an analyte binding site formed and arranged for binding said analyte with high specificity so as to form together therewith, a macromolecular switch, comprising: an oligomeric macromolecular structure having at least one selective ion coordination site, and arms flippable between a plurality of narrowly defined discretely different conformations of said oligomeric macromolecular structure corresponding to different ion binding conditions at said at least one selective ion coordination site, at least in the absence of any other binding to said oligomeric macromolecular structure which would interfere with flipping between said different conformations in response to a change between said different ion binding conditions, wherein said discretely different conformations are capable of providing, in use, with an output signal reading system, characteristic output signals, and wherein said pro- macromolecular structure switch has a substantially different switching functionality from that of said oligomeric macromolecular structure and is substantially incapable of providing, in use, with said output signal reading system, said characteristic output signals; contacting said pro-switch with a said sample under binding conditions, so as to form a said macromolecular structure switch with any said target analyte present; providing a said output signal reading system; applying an external input signal to said at least&amp;lt;*&amp;gt; one input device so as to change the ion binding conditions at said ion binding site so that said macromolecular structure switch is flipped from a first said conformation to a second said conformation; and reading out any change in said output signal.
+</P>
+<P>
+2. A method as claimed in claim 1 wherein said ion binding conditions are changed so as to increase the concentration of a switching ion at said ion binding site
+</P>
+<P>
+3. A method as claimed in claim 1 or claim 2 wherein is used a switching ion selected from Zn&amp;lt;2+&amp;gt;, Ca&amp;lt;2+&amp;gt;, and Mg&amp;lt;2+&amp;gt; .
+</P>
+<P>
+4. A method as claimed in any one of claims 1 to 3 which includes the further steps of: removing said external input signal; and reading out any further change in said output signal.
+</P>
+<P>
+5. A method as claimed in claim 4 which includes the further step of: reading out a said output signal before contacting said pro-switch with a said sample; and comparing all the output signals obtained with a truth table comprising:
+</P>
+<P>
+6. A method as claimed in claim 4 which includes the further step of: comparing all the output signals obtained with a truth table comprising:
+</P>
+<P>
+7. A method of detecting an SNP using a method as claimed in any one of claims 1 to 6, wherein said analyte binding site is formed and arranged, so that said SNP binds to the pro- HJ switch at the junction region of said HJ switch.
+</P>
+<P>
+8. A method of detecting RNA splicing using a method as claimed in any one of claims 1 to 6, wherein said analyte binding site is formed and arranged, so that it corresponds to a target sequence that spans the junction between two exons.
+</P>
+<P>
+9. A method of detecting genetic lesions resulting from insertions in DNA sequences-using a method as claimed in any one of claims 1 to 6, wherein said analyte binding site is formed and arranged, so that it corresponds to a target sequence that spans the junction across the insertion site, preferably with the branch point aligned with the boundary across the insertion site
+</P>
+<P>
+10. A method of detecting genetic lesions resulting from deletions in DNA sequences using a method as claimed in any one of claims 1 to 6, wherein said analyte binding site is formed and arranged, so that it corresponds to a target sequence that spans the junction between deletion break points.
+</P>
+<P>
+11. A pro-macromolecular structure switch suitable for use in detecting an analyte, wherein said pro-switch has an analyte binding site formed and arranged for binding said analyte with high specificity so as to form together therewith, a macromolecular switch, comprising: an oligomeric macromolecular structure having at least one selective ion coordination site, and arms flippable between a plurality of narrowly defined discretely different conformations of said oligomeric macromolecular structure corresponding to different ion binding conditions at said at least one selective ion coordination site, at least in the absence of any other binding to said oligomeric macromolecular structure which would interfere with flipping between said different conformations in response to a change between said different ion binding conditions, wherein said discretely different conformations are capable of providing, in use, with an output signal reading system, characteristic output signals, and wherein said pro- macromolecular structure switch has a substantially different switching functionality from that of said oligomeric macromolecular structure and is substantially incapable of providing, in use, with said output signal reading system, said characteristic output signals.
+</P>
+<P>
+12. A pro-macromolecular structure switch as claimed in claim 11 wherein said oligomeric macromolecular structure comprises at least one of an oligonucleotide, an oligopeptide, and an oligosaccharide, macromolecular structure.
+</P>
+<P>
+13. A pro-macromolecular structure switch as claimed in claim 11 or claim 12 wherein said oligomeric macromolecular structure comprises not more than 500 repeating units selected from nucleotide, amino acid, and saccharide, units.
+</P>
+<P>
+14. A pro-macromolecular structure switch as claimed in any one of claims 11 to 13 wherein said pro-oligomeric macromolecular structure is provided with an output signalling device
+</P>
+<P>
+15. A pro-macromolecular structure switch as claimed in any one of claims 11 to 14 wherein said output signalling device comprises a separation sensitive output signalling device
+</P>
+<P>
+16. A pro-macromolecular structure switch as claimed in any one of claims 11 to 15 wherein said separation sensitive output signalling device comprises first and second components disposed on said pro-oligomeric macromolecular structure, remote from said selective ion coordination site thereof
+</P>
+<P>
+17. A pro-macromolecular structure switch as claimed in any one of claims 11 to 16 wherein said separation sensitive output signalling device comprises a FRET system
+</P>
+<P>
+18. A pro-macromolecular structure switch as claimed in any one of claims 11 to 17 wherein said pro-oligomeric macromolecular structure is anchored to a substrate
+</P>
+<P>
+19. A pro-macromolecular structure switch as claimed in any one of claims 11 to 18 wherein said selective ion coordination site comprises a selective ion coordination pocket
+</P>
+<P>
+20. A pro-macromolecular structure switch as claimed in any one of claims 11 to 19 wherein said oligomeric macromolecular structure comprises an HJ
+</P>
+<P>
+21. A pro-macromolecular structure switch as claimed in any one of claims 11 to 20 wherein said pro-HJ consists essentially of an unimolecular oligonucleotide
+</P>
+<P>
+22. A pro-macromolecular structure switch as claimed in any one of claims 11 to 21 wherein said pro-HJ consists essentially of a plurality of oligonucleotides covalently cross-linked so as to form an unimolecular entity
+</P>
+<P>
+23. A pro-macromolecular structure switch as claimed in any one of claims 11 to 22 wherein said analyte binding site comprises single-stranded pro-arms, each having a length of at least 8 nucleotide base units
+</P>
+<P>
+24. A pro-macromolecular structure switch as claimed in any one of claims 11 to 23 wherein said analyte binding site comprises single-stranded pro-arms, each having a length of from 10 to 60 nucleotide base units
+</P>
+<P>
+25. A pro-HJ oligonucleotide suitable for use as a pro-HJ structure for binding with a target oligonucleotide, said pro-HJ oligonucleotide comprising: first and second, target binding, portions, each having abase sequence such that together they are complementary to the base sequence of said target oligonucleotide, whilst being substantially non-self-complementary; third and fourth portions separated by a fifth, linkage, portion, said third and fourth portions being complementary to each other when folded back across each other about said fifth linkage portion; and sixth and seventh portions separated by a eighth, linkage, portion, said sixth and seventh portions being complementary to each other when folded back across each other about said eighth linkage portion, said third to eighth portions extending serially between said first and second portions.
+</P>
+<P>
+26. A pro-HJ oligonucleotide as claimed in claim 25 wherein said first and second portions are respective terminal portions of the pro-HJ oligonucleotide.
+</P>
+<P>
+27. A pro-HJ oligonucleotide as claimed in claim 25 or claim 26 for use in detecting an SNP, wherein said analyte binding site is formed and arranged, so that said SNP binds to the pro- HJ switch at the junction region of said HJ switch.
+</P>
+<P>
+28. A pro-HJ oligonucleotide as claimed in claim 25 or claim 26 for use in detecting RNA splicing, wherein said analyte binding site is formed and arranged, so that it corresponds to a target sequence that spans the junction between two exons, preferably with the branch point aligned with the boundary between the two exons.
+</P>
+<P>
+29. A pro-HJ oligonucleotide as claimed in claim 25 or claim 26 for use in detecting genetic lesions resulting from insertions in DNA sequences, wherein said analyte binding site is formed and arranged, so that it corresponds to a target sequence that spans the junction across the insertion site, preferably with the branch point aligned with the boundary across the insertion site
+</P>
+<P>
+30. A pro-HJ oligonucleotide as claimed in claim 25 or claim 26 for use in detecting genetic lesions resulting from deletions in DNA sequences, wherein said analyte binding site is formed and arranged, so that it corresponds to a target sequence that spans the junction between deletion break points, preferably with the branch point aligned with the boundary across the deletion break points
+</P>
+<P>
+31. A set of pro-macromolecular structure switches according to any one of claims 11 to 26 for use in transcript profiling, comprising a multiplicity of pro-HJs with analyte binding sites which correspond to a multiplicity of different target sequences.
+</P>
+</Claims>
+<Also_published_as>
+WO2007054682A1
+</Also_published_as>
+</BiblioData>

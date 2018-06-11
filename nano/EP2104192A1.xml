@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SURFACE-EMITTING LASER AND METHOD FOR MANUFACTURING THE SAME
+</Title>
+<PublicationNumber>
+EP2104192A1
+</PublicationNumber>
+<Inventor>
+<Name>
+NAKAGAWA SHIGERU [JP]
+</Name>
+<Name>
+NAKAGAWA, SHIGERU
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBM [US]
+</Name>
+<Name>
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2104192
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070850824
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP74338
+</PriorityNumber>
+<PriorityDate>
+2007-12-18
+</PriorityDate>
+<PriorityNumber>
+JP20060343177
+</PriorityNumber>
+<PriorityDate>
+2006-12-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/183
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/183C7M
+</Class>
+</NCL>
+<Abstract>
+Disclosed is a surface emitting laser including a lower Bragg reflector, a resonator and an upper Bragg reflector. The lower Bragg reflector is provided on top of a semiconductor substrate, and includes a plurality of semiconductor layers. The resonator is provided on top of the lower Bragg reflector and includes an active layer, a lower semiconductor layer and an upper semiconductor layer. The lower semiconductor layer is provided under the active layer, and includes a first insulating layer having an aperture. The upper semiconductor layer is provided on top of the active layer, and includes a second insulating layer having an aperture. The upper Bragg reflector is provided on top of the resonator, and includes a plurality of semiconductor layers.;  In this surface emitting laser, the uppermost layer among the plurality of semiconductor layers in the lower Bragg reflector forms an air gap, which is larger than the aperture of the first insulating layer, while the lowermost layer among the plurality of semiconductor layers in the upper Bragg reflector forms an air gap, which is larger than the aperture of the second insulating layer.
+</Abstract>
+<Claims>
+<P>
+1. A surface emitting laser comprising:
+</P>
+<P>
+a lower Bragg reflector provided on top of a semiconductor substrate, and including a plurality of semiconductor layers;
+</P>
+<P>
+a resonator provided on top of the lower Bragg reflector, and including an active layer, a lower semiconductor layer provided under the active layer, and an upper semiconductor layer provided on top of the active layer, the lower semiconductor layer including a first insulating layer having an aperture, and the upper semiconductor layer including a second insulating layer having an aperture; and
+</P>
+<P>
+an upper Bragg reflector provided on top of the resonator, and including a plurality of semiconductor layers,wherein the uppermost layer among the plurality of semiconductor layers in the lower Bragg reflector forms an air gap, which is larger than the aperture of the first insulating layer, while the lowermost layer among the plurality of semiconductor layers in the upper Bragg reflector forms an air gap, which is larger than the aperture of the second insulating layer.
+</P>
+<P>
+2. The surface emitting laser according to claim 1, wherein the plurality of semiconductor layers in the lower Bragg reflector include: alternately stacking layers of a first semiconductor and layers of a second semiconductor; and the uppermost layer formed of a third semiconductor.
+</P>
+<P>
+3. The surface emitting laser according to claim 2, wherein the plurality of semiconductor layers in the upper Bragg reflector include: the lowermost layer formed of the third semiconductor; and alternately stacking layers of the first semiconductor and layers of the second semiconductor.
+</P>
+<P>
+4. The surface emitting laser according to claim 3, wherein the number of the alternately stacked layers in the lower Bragg reflector is larger than the number of the alternately stacked layers in the upper Bragg reflector.
+</P>
+<P>
+5. The surface emitting laser according to claim 3, wherein the first semiconductor, the second semiconductor, and the third semiconductor are Al0.2Ga0.8As, Al0.9Ga0.1As, and GaAs, respectively.
+</P>
+<P>
+6. The surface emitting laser according to claim 1, wherein the semiconductor substrate is n-type,
+</P>
+<P>
+at least one of the semiconductor layers in the lower Bragg reflector is formed of an n-type semiconductor, and
+</P>
+<P>
+at least one of the semiconductor layers in the upper Bragg reflector is formed of a p-type semiconductor.
+</P>
+<P>
+7. The surface emitting laser according to claim 1, wherein the semiconductor substrate is p-type,
+</P>
+<P>
+at least one of the semiconductor layers in the lower Bragg reflector is formed of a p-type semiconductor, and
+</P>
+<P>
+at least one of the semiconductor layers in the upper Bragg reflector is formed of an n-type semiconductor.
+</P>
+<P>
+8. The surface emitting laser according to claim 1, wherein the first and second insulating layers are oxidized insulating layers formed, by exposing the upper and lower semiconductor layers by means of etching, and then by selectively oxidizing the exposed upper and lower semiconductor layers in the lateral direction.
+</P>
+<P>
+9. The surface emitting laser according to claim 1, wherein the active layer includes an Al0.12In0.22Ga0.66As layer to serve as a strained quantum well.
+</P>
+<P>
+10. The surface emitting laser according to claim 1, wherein an optical length of the resonator is one wavelength of a light emitted by the surface emitting laser.
+</P>
+<P>
+11. A manufacturing method of a surface emitting laser comprising the steps of:
+</P>
+<P>
+forming a lower Bragg reflector, that is, forming a plurality of semiconductor layers on top of a semiconductor substrate;
+</P>
+<P>
+forming a resonator by performing the steps of, forming a lower semiconductor layer on top of the lower Bragg reflector, forming an active layer on top of the lower semiconductor layer, and then forming an upper semiconductor layer on top of the active layer;
+</P>
+<P>
+forming an upper Bragg reflector, that is, forming a plurality of semiconductor layers;
+</P>
+<P>
+forming etching grooves reaching the uppermost layer of the plurality of semiconductor layers of the lower Bragg reflector, that is, etching at least the plurality of semiconductor layers in the upper Bragg reflector, the upper semiconductor layer, the active layer, and the lower semiconductor layer; and
+</P>
+<P>
+forming air gaps in the uppermost layer among the plurality of semiconductor layers in the lower Bragg reflector, and in the lowermost layer among the plurality of semiconductor layers of the upper Bragg reflector, respectively, that is, etching the uppermost and lowermost layers in a lateral direction from the etching grooves; and
+</P>
+<P>
+forming insulating layers having apertures, which are smaller than the respective air gaps, that is, selectively oxidizing at least parts of the respective upper and lower semiconductor layers.
+</P>
+<P>
+12. The method according to claim 11, wherein the step of forming the etching grooves is performed by dry etching.
+</P>
+<P>
+13. The method according to claim 11, wherein the step of forming the lower Bragg reflector in the surface emitting laser comprises the steps of: alternately stacking layers formed of a first semiconductor and layers formed of a second semiconductor; and
+</P>
+<P>
+stacking a third semiconductor as the uppermost layer.
+</P>
+<P>
+14. The method according to claim 13, wherein the step of forming the upper Bragg reflector in the surface emitting laser comprises the steps of:
+</P>
+<P>
+stacking the third semiconductor as the lowermost layer; and
+</P>
+<P>
+alternately stacking layers formed of the first semiconductor and layers formed of the second semiconductor.
+</P>
+<P>
+15. The method according to claim 14, wherein the step of forming the air gaps comprises the step of wet-etching selectively only to the third semiconductor.
+</P>
+<P>
+16. The method according to claim 14, wherein the first semiconductor, the second semiconductor, and the third semiconductor are Al0.2Ga0.8As, Al0.9Ga0.1As, and GaAs, respectively.
+</P>
+<P>
+17. The method according to claim 16, wherein the step of forming the air gaps comprises the step of selectively wet-etching, by using a mixed etchant of NH4OH and H2O2, only to the third semiconductor that is GaAs.
+</P>
+<P>
+18. The method according to claim 11, wherein the step of selectively oxidizing the upper and lower semiconductor layers comprises the steps of:
+</P>
+<P>
+etching the upper and lower semiconductor layers so that peripheries of the upper and lower semiconductor layers are exposed; and
+</P>
+<P>
+selectively oxidizing the exposed upper and lower semiconductor layers from a lateral direction.
+</P>
+<P>
+19. The method according to claim 18, wherein the step of selectively oxidizing the upper and lower semiconductor layers comprises the step of applying selective wet oxidation from a lateral direction to the exposed upper and lower semiconductor layers.
+</P>
+<P>
+20. The method according to claim 11, wherein ohmic electrodes are formed beneath the substrate and above the upper Bragg reflector, respectively.
+</P>
+</Claims>
+<Also_published_as>
+EP2104192A4;US2008151959A1;US2009311812A1;US7923275B2;KR20090097148A;KR101020017B1;JP4870783B2;WO2008075692A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INFORMATION RECORDING/REPRODUCING DEVICE AND METHOD
+</Title>
+<PublicationNumber>
+EP2117004A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MAEDA TAKANORI [JP]
+</Name>
+<Name>
+YABE TOMOTAKA [JP]
+</Name>
+<Name>
+MAEDA, TAKANORI
+</Name>
+<Name>
+YABE, TOMOTAKA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PIONEER CORP [JP]
+</Name>
+<Name>
+PIONEER CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2117004
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070737438
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP53636
+</PriorityNumber>
+<PriorityDate>
+2007-02-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B9/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B9/14M2B4
+</Class>
+<Class>
+G11B9/14R2B
+</Class>
+</NCL>
+<Abstract>
+An information recording/reproducing device is provided with a recording medium (120) with a recording surface, a plurality of probes (135) that carry out at least either record processing or reproduction processing by scanning a plurality of information tracks (210) on the recording surface, a position detecting means that detects a position of at least one information track by using the probe for every plural divided regions into which the recording medium is divided in a direction intersecting the plural information tracks and which contain at least one information track, and a track control means that controls tracking of the probe used for at least either record processing or reproduction processing for every plural divided regions. Thus, the device structure can be simplified.
+</Abstract>
+<Claims>
+<P>
+1. An information recording / reproducing apparatus comprising:
+</P>
+<P>
+a recording medium having a recording surface;
+</P>
+<P>
+a plurality of probes for performing at least one process of information recording and reproduction by scanning a plurality of information tracks in parallel, on the recording surface;
+</P>
+<P>
+a position detecting device for detecting a position of at least one information track by using said probes, in each of a plurality of divided areas obtained by area-dividing the recording surface in a direction crossing the plurality of information tracks and in such a manner that each divided area includes at least one information track; and
+</P>
+<P>
+a tracking control device for performing tracking control on the probes in performing the at least one process, in each of the plurality of divided areas set, on the basis of the detected position of the track.
+</P>
+<P>
+2. The information recording / reproducing apparatus according to claim 1, further comprising a setting device for setting the plurality of divided areas,
+</P>
+<P>
+said position detecting device detecting the position of the information track in each of the plurality of divided areas set.
+</P>
+<P>
+3. The information recording / reproducing apparatus according to claim 1, wherein said setting device sets the plurality of divided areas to be variable in accordance with a value or status of a predetermined type of signal obtained by the scanning of the probes.
+</P>
+<P>
+4. The information recording / reproducing apparatus according to claim 1, further comprising a detecting device for detecting at least one of a temperature related to the recording medium and a temperature related to the probes,
+</P>
+<P>
+said setting device setting the plurality of divided areas to be variable in accordance with the detected temperature.
+</P>
+<P>
+5. The information recording / reproducing apparatus according to claim 1, wherein said setting device sets the plurality of divided areas to be variable in accordance with an amount of the information.
+</P>
+<P>
+6. The information recording / reproducing apparatus according to claim 1, wherein said setting device calculates the number of the information tracks for recording the information on the basis of an amount of the information, and said setting device sets the plurality of divided areas to be variable in accordance with the calculated number of the information tracks.
+</P>
+<P>
+7. The information recording / reproducing apparatus according to claim 1, wherein said position detecting device detects the position of one information track existing on one edge side of the divided area, of the plurality of information tracks, as the position, in each of the plurality of divided areas.
+</P>
+<P>
+8. The information recording / reproducing apparatus according to claim 1, wherein said position detecting device detects the position of one information track existing on a central side of the divided area, of the plurality of information tracks, as the position, in each of the plurality of divided areas.
+</P>
+<P>
+9. The information recording / reproducing apparatus according to claim 7, further comprising a monitoring device for monitoring quality of a predetermined type of signal obtained by the probes scanning one or a plurality of information tracks existing on the other edge side located on an opposite side to the one edge, in the divided area,
+</P>
+<P>
+said setting device resetting the plurality of divided areas so that the process is performed again in the information in which the process has been performed on the one or the plurality of information tracks existing on the other edge side, if the monitored quality does not reach a predetermined threshold value,
+</P>
+<P>
+said information recording / reproducing apparatus further comprising a processing control device for controlling the probes to perform the process again on the one or the plurality of information tracks existing on the other edge side, if the plurality of divided areas are reset.
+</P>
+<P>
+10. The information recording / reproducing apparatus according to claim 8, further comprising a monitoring device for monitoring quality of a predetermined type of signal obtained by the probes scanning one or a plurality of information tracks existing on the other edge side located on an opposite side to the one edge, in the divided area,
+</P>
+<P>
+said setting device resetting the plurality of divided areas so that the process is performed again in the information in which the process has been performed on the one or the plurality of information tracks existing on the other edge side, if the monitored quality does not reach a predetermined threshold value,
+</P>
+<P>
+said information recording / reproducing apparatus further comprising a processing control device for controlling the probes to perform the process again on the one or the plurality of information tracks existing on the other edge side, if the plurality of divided areas are reset.
+</P>
+<P>
+11. The information recording / reproducing apparatus according to claim 1, further comprising a monitoring device for monitoring quality of a predetermined type of signal obtained by the probes scanning,
+</P>
+<P>
+said setting device resetting the plurality of divided areas so that the process is performed again, if the monitored quality does not reach a predetermined threshold value,
+</P>
+<P>
+said information recording / reproducing apparatus further comprising a processing control device for controlling the probes to perform the process again, if the plurality of divided areas are reset.
+</P>
+<P>
+12. The information recording / reproducing apparatus according to claim 1, wherein said position detecting device detects a servo mark recorded in association with the information track on the recording surface.
+</P>
+<P>
+13. The information recording / reproducing apparatus according to claim 1, wherein the information track whose position is detected is an information track only for the tracking control.
+</P>
+<P>
+14. An information recording / reproducing method in an information recording / reproducing apparatus comprising: a recording medium having a recording surface; and a plurality of probes for performing at least one process of information recording and reproduction by scanning a plurality of information tracks in parallel, on the recording surface, said information recording / reproducing method comprising:
+</P>
+<P>
+a position detecting process of detecting a position of at least one information track by using said probes, in each of a plurality of divided areas obtained by area-dividing the recording surface in a direction crossing the plurality of information tracks and in such a manner that each divided area includes at least one information track;
+</P>
+<P>
+a tracking control process of performing tracking control on the probes in performing the at least one process, in each of the plurality of divided areas set, on the basis of the detected position of the track; and
+</P>
+<P>
+a execution process of performing the at least one process by using the probes while performing the tracking control.
+</P>
+</Claims>
+<Also_published_as>
+EP2117004A4;US2010014412A1;US8059519B2;JP4538087B2;WO2008105071A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETORESISTIVE- EFFECT ARRANGEMENT AND USES THEREOF
+</Title>
+<PublicationNumber>
+EP2011172A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SARFERT WIEBKE [DE]
+</Name>
+<Name>
+RIEGER GOTTHARD [DE]
+</Name>
+<Name>
+RUEHRIG MANFRED [DE]
+</Name>
+<Name>
+PAETZODL RALPH [DE]
+</Name>
+<Name>
+SCHMID GUENTER [DE]
+</Name>
+<Name>
+WECKER JOACHIM [DE]
+</Name>
+<Name>
+WEISS ROLAND [DE]
+</Name>
+<Name>
+SARFERT, WIEBKE
+</Name>
+<Name>
+RIEGER, GOTTHARD
+</Name>
+<Name>
+RUEHRIG, MANFRED
+</Name>
+<Name>
+PAETZODL, RALPH
+</Name>
+<Name>
+SCHMID, GUENTER
+</Name>
+<Name>
+WECKER, JOACHIM
+</Name>
+<Name>
+WEISS, ROLAND
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SIEMENS AG [DE]
+</Name>
+<Name>
+SIEMENS AKTIENGESELLSCHAFT
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2011172
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070728096
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP53631
+</PriorityNumber>
+<PriorityDate>
+2007-04-13
+</PriorityDate>
+<PriorityNumber>
+DE200610019482
+</PriorityNumber>
+<PriorityDate>
+2006-04-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/09
+</Class>
+<Class>
+H01L43/08
+</Class>
+<Class>
+H01L43/10
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+H01L43/10
+</Class>
+</NCL>
+<Abstract>
+The arrangement (1) has organic thin layers placed on a substrate (3), where the substrate is a flexible foil. The arrangement is designed in such a manner that a magnetic field-producing device causes a magneto-resistive change in an organic electronic thin layer component. A material of the thin layers is selected in such a manner that hysteretic effects arising with arrangement are suppressed. A functional layer of an organic element is provided such that input voltage and/or operating voltage are purposefully adjustable.
+</Abstract>
+<Claims>
+<P>
+1. Anordnung zumindest ein organisches elektronisches Dünnschichtbauteil mit zumindest drei Schichten auf einem Substrat und zumindest eine magnetfelderzeugende Vorrichtung umfassend, wobei die Anordnung derart ist, dass die magnetfelderzeugende Vorrichtung im organischen elektronischen Dünnschichtbauteil eine magnetoresistive Veränderung hervorruft.
+</P>
+<P>
+2. OMR-Anordnung nach Anspruch 1, wobei das Material der Dünnschichten so gewählt ist, dass die sonst bei herkömmlichen magnetoresistiven Sensoren auftretenden Hystereseeffekte möglichst unterdrückt werden.
+</P>
+<P>
+3. OMR-Anordnung nach einem der vorstehenden Ansprüche 1 oder 2, bei der das Substrat eine flexible Folie ist.
+</P>
+<P>
+4. OMR-Anordnung nach einem der vorstehenden Ansprüche, die als Sensor ausgebildet ist.
+</P>
+<P>
+5. OMR-Anordnung nach einem der vorstehenden Ansprüche, wobei zumindest eine der funktionellen Schichten des organischen Bauelements so dotiert ist, dass die Einsatzspannung und/oder die Betriebsspannung gezielt einstellbar sind.
+</P>
+<P>
+6. OMR-Anordnung nach einem der vorstehenden Ansprüche, wobei eine oder mehrere äussere Schichten des organischen Dünnschichtbauteils transparent sind.
+</P>
+<P>
+7. OMR-Anordnung nach einem der vorstehenden Ansprüche, wobei das organische elektronische Bauteil verkapselt ist.
+</P>
+<P>
+8. OMR-Anordnung nach einem der vorstehenden Ansprüche, die einen Biasmagneten mit umfasst.
+</P>
+<P>
+9. OMR-Anorndung nach Anspruch 9, die eine Isolierschicht zwischen dem organischen elektronischen Dünnschichtbauteil und dem Biasmagneten aufweist.
+</P>
+<P>
+10. Verwendung einer OMR-Anorndung zur Positionsmessung bei linearen Bewegungen, Drehbewegungen, Winkelmessungen, bei der Strommessung über das vom Strom hervorgerufene Magnetfeld und/oder Messungen von Magnetfeldern.
+</P>
+</Claims>
+<Also_published_as>
+EP2011172B1;DE102006019482A1;WO2007125022A1;CN101427395A;AT541325T
+</Also_published_as>
+</BiblioData>

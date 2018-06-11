@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD OF POLISHING GLASS SUBSTRATE
+</Title>
+<PublicationNumber>
+EP2156926A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KOJIMA HIROSHI [JP]
+</Name>
+<Name>
+ITO MASABUMI [JP]
+</Name>
+<Name>
+KOJIMA, HIROSHI
+</Name>
+<Name>
+ITO, MASABUMI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASAHI GLASS CO LTD [JP]
+</Name>
+<Name>
+ASAHI GLASS COMPANY, LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2156926
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080765044
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP60231
+</PriorityNumber>
+<PriorityDate>
+2008-06-03
+</PriorityDate>
+<PriorityNumber>
+JP20070149705
+</PriorityNumber>
+<PriorityDate>
+2007-06-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B24B37/00
+</Class>
+<Class>
+G03F1/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B24B37/04B
+</Class>
+<Class>
+B24B49/16
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C03C19/00
+</Class>
+<Class>
+G03F1/24
+</Class>
+</NCL>
+<Abstract>
+An object of the present invention is to provide a polishing method for diminishing concave defects of a glass substrate used in a reflective mask for EUVL and the like. The invention relates to a method of polishing a glass substrate which comprises polishing a major surface of the glass substrate while feeding a polishing slurry between the glass substrate and a pad surface of a polishing pad, wherein the polishing load of the polishing pad is from 1 to 60 g/cm 2 . The pad surface of the polishing pad is preferably dressing-processed.
+</Abstract>
+<Claims>
+<P>
+1. A method of polishing a glass substrate, which comprises polishing a major surface of the glass substrate while feeding a polishing slurry between the glass substrate and a pad surface of a polishing pad, wherein the polishing load of the polishing pad is from 1 to 60 g/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+2. The method of polishing a glass substrate according to claim 1, wherein the polishing pad is a suede-based pad having a pad surface with the difference in height between the maximum peak and the minimum peak on the surface of 50 [micro]m or less.
+</P>
+<P>
+3. The method of polishing a glass substrate according to claim 1 or 2, wherein the polishing load of the polishing pad is from 1 to 25 g/cm&amp;lt;2&amp;gt;.
+</P>
+<P>
+4. The method of polishing a glass substrate according to any one of claims 1 to 3, wherein the pad surface of the polishing pad is dressing-processed with a dress plate.
+</P>
+<P>
+5. The method of polishing a glass substrate according to claim 4, wherein the dress plate is electrodeposited diamond.
+</P>
+<P>
+6. The method of polishing a glass substrate according to any one of claims 1 to 5, wherein the polishing pad has an average open pore diameter of from 5 to 50 [micro]m.
+</P>
+<P>
+7. The method of polishing a glass substrate according to any one of claims 1 to 6, wherein the polishing pad has as average open pore diameter of from 5 to 30 [micro]m.
+</P>
+<P>
+8. The method of polishing a glass substrate according to any one of claims 1 to 7, wherein the surface to be polished of the glass substrate is preliminarily polished so as to have a surface roughness Rms of 3 nm or less.
+</P>
+<P>
+9. The method of polishing a glass substrate according to any one of claims 1 to 8, wherein the polishing slurry comprises an abrasive material which is silica or ceria having an average primary particle diameter of 60 nm or less.
+</P>
+<P>
+10. The method of polishing a glass substrate according to any one of claims 1 to 9, wherein the glass substrate is a glass substrate for a mask blank.
+</P>
+<P>
+11. A mask for exposure produced using a glass substrate for a mask blank that has been polished by the method of polishing a glass substrate according to any one of claims 1 to 9.
+</P>
+</Claims>
+<Also_published_as>
+US2010075577A1;US8070557B2;TW200906550A;KR20100019989A;JP2009012164A;WO2008149864A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR IMPRINT LITHOGRAPHY UTILIZING AN ADHESION PRIMER LAYER
+</Title>
+<PublicationNumber>
+EP2136933A1
+</PublicationNumber>
+<Inventor>
+<Name>
+XU FRANK Y [US]
+</Name>
+<Name>
+SREENIVASAN SIDLGATA V [US]
+</Name>
+<Name>
+FLETCHER EDWARD B [US]
+</Name>
+<Name>
+XU, FRANK Y
+</Name>
+<Name>
+SREENIVASAN, SIDLGATA V
+</Name>
+<Name>
+FLETCHER, EDWARD B
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MOLECULAR IMPRINTS INC [US]
+</Name>
+<Name>
+MOLECULAR IMPRINTS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2136933
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080744071
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-19
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US57518
+</PriorityNumber>
+<PriorityDate>
+2008-03-19
+</PriorityDate>
+<PriorityNumber>
+US20070734542
+</PriorityNumber>
+<PriorityDate>
+2007-04-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B05D1/00
+</Class>
+<Class>
+B05D3/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C08L59/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G11B5/855
+</Class>
+</NCL>
+<Abstract>
+The invention provides a method of applying an adhesion primer layer for an imprint lithography process that includes contacting a fluid with a surface of a substrate in a coating process and initiating a chemical reaction that forms a covalent bond between a component in the fluid and the surface of the substrate such that an adhesion primer layer is adhered to the surface of the substrate. A polymeric layer may be adhered to the surface of the substrate coated with the adhesion primer layer. The method allows adhesion primer coating for double-sided imprinting applications including patterned magnetic media.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method comprising the steps of:
+</P>
+<P>
+(a) contacting a fluid with a surface of a substrate in a coating process, wherein a component of the fluid has a first functional group on a first end of the component and a second functional group on a second end of the component;
+</P>
+<P>
+(b) initiating a first chemical reaction that forms a first covalent bond between the first end of the component and the surface of the substrate such that an adhesion primer layer is adhered to the surface of the substrate; and
+</P>
+<P>
+(c) adhering a polymeric layer to the surface of the substrate with an imprint lithography process, wherein said adhering comprises:
+</P>
+<P>
+(i) depositing a polymerizable material on the adhesion primer layer on the surface of the substrate,
+</P>
+<P>
+(ii) initiating polymerization of the polymerizable material to form a polymeric layer, and
+</P>
+<P>
+(iii) initiating a second chemical reaction between the second functional group of the component in the adhesion primer layer and the polymerizable material to adhere the polymeric layer to the surface of the substrate.
+</P>
+<P>
+2. The method of claim 1, further comprising substantially simultaneously contacting the fluid with said surface of the substrate and with a second surface of the substrate in the coating process, and substantially simultaneously adhering said adhesion primer layer to said surface of the substrate and a second adhesion primer layer to the second surface of the substrate.
+</P>
+<P>
+3. The method of claim 2, further comprising adhering a second polymeric layer to the second surface of the substrate with an imprint lithography process, wherein said adhering comprises:
+</P>
+<P>
+(a) depositing a second polymerizable material on the second adhesion primer layer on the second surface of the substrate,
+</P>
+<P>
+(b) initiating polymerization of the second polymerizable material to form a second polymeric layer, and
+</P>
+<P>
+(c) initiating the second chemical reaction between the second functional group of the component in the second adhesion primer layer and the second polymerizable material to adhere the second polymeric layer to the second surface of the substrate.
+</P>
+<P>
+4. The method of claim 1, wherein the fluid is a vapor, and wherein the coating process is a chemical vapor deposition process.
+</P>
+<P>
+5. The method of claim 4, further comprising forming the vapor from a liquid.
+</P>
+<P>
+6. The method of claim 1, wherein the fluid is a liquid, and wherein the coating process is a dip-coating process.
+</P>
+<P>
+7. The method of claim 1, further comprising an additional component in the fluid, and copolymerizing said component with said second component.
+</P>
+<P>
+8. The method of claim 1, wherein initiating the first chemical reaction comprises heating.
+</P>
+<P>
+9. The method of claim 1, wherein initiating the second chemical reaction comprises exposing the polymerizable material to UV radiation.
+</P>
+<P>
+10. The method of claim 2, wherein the first surface of the substrate and the second surface of the substrate are substantially parallel.
+</P>
+<P>
+11. The method of claim 1, wherein the substrate comprises silicon.
+</P>
+<P>
+12. The method of claim 1, wherein the substrate is chosen from a group consisting of silicon, silicon oxide silicon nitride, tantalum, aluminum, quartz, and fused silica.
+</P>
+<P>
+13. The method of claim 1, wherein the substrate comprises magnetic media.
+</P>
+<P>
+14. The method of claim 1, wherein the component comprises a first functional group at the first end of the component, and wherein the first functional group is a leaving group.
+</P>
+<P>
+15. A method, comprising:
+</P>
+<P>
+(a) contacting a substrate with a multi-functional component, wherein
+</P>
+<P>
+(i) the multi-functional component comprises has a first end, a second end, and a linker group between the first end and the second end, wherein
+</P>
+<P>
+(ii) the first end comprises a tetravalent atom, and wherein
+</P>
+<P>
+(iii) the linker group is a hydrocarbon group with up to having at most three carbon atoms;
+</P>
+<P>
+(b) covalently bonding the tetravalent atom of the first end of the multi-functional component to the substrate to form an adhesion primer layer; and
+</P>
+<P>
+(c) covalently bonding the second end of the multi-functional component to a polymerizable material during an imprint lithography process.
+</P>
+<P>
+16. The method of claim 15, wherein said multi-functional component has a boiling point that is at most about 350[deg.] C.
+</P>
+<P>
+17. The method of claim 15, wherein said multi-functional component has a viscosity that is at most about 100 cP.
+</P>
+<P>
+18. The method of claim 15, wherein said linker group is -CH2-.
+</P>
+<P>
+19. The method of claim 15, wherein the tetravalent atom is silicon.
+</P>
+<P>
+20. The method of claim 15, wherein said multi-functional component is acryloxymethyltrimethoxysilane.
+</P>
+<P>
+21. The method of claim 15, wherein said multi-functional component is acryloxymethyltriethoxysilane.
+</P>
+<P>
+22. The method of claim 15, wherein said multi-functional component is acryloxypropyltrichlorosilane.
+</P>
+<P>
+23. The method of claim 15, wherein said multi-functional component is acryloxypropyltrimethoxysilane.
+</P>
+<P>
+24. The method of claim 15, further comprising contacting said substrate with one or more additional components.
+</P>
+<P>
+25. The method of claim 24, wherein one of said additional components is 1,2-bis(trimethoxysilyl)ethane.
+</P>
+<P>
+26. The method of claim 24, wherein one of said additional components is 1,6-bis(trichlorosilyl)hexane.
+</P>
+<P>
+27. The method of claim 15, wherein the substrate comprises silicon.
+</P>
+<P>
+28. The method of claim 15, wherein the substrate is chosen from a group consisting of silicon, silicon oxide silicon nitride, tantalum, aluminum, quartz, and fused silica.
+</P>
+</Claims>
+<Also_published_as>
+EP2136933A4;US2007212494A1;WO2008127835A1;TW200903146A;KR20090128473A;JP2010526426A;CN101702886A
+</Also_published_as>
+</BiblioData>

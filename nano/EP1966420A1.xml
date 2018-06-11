@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+VAPOR-GROWN CARBON FIBER AND PRODUCTION PROCESS THEREOF
+</Title>
+<PublicationNumber>
+EP1966420A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HIGASHI TOMOYOSHI [JP]
+</Name>
+<Name>
+KAMBARA EIJI [JP]
+</Name>
+<Name>
+TSUJI KATSUYUKI [JP]
+</Name>
+<Name>
+AOKI TAKANORI [JP]
+</Name>
+<Name>
+HIGASHI, TOMOYOSHI
+</Name>
+<Name>
+KAMBARA, EIJI
+</Name>
+<Name>
+TSUJI, KATSUYUKI
+</Name>
+<Name>
+AOKI, TAKANORI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SHOWA DENKO KK [JP]
+</Name>
+<Name>
+SHOWA DENKO K.K
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1966420
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060715701
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-03-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP305473
+</PriorityNumber>
+<PriorityDate>
+2006-03-14
+</PriorityDate>
+<PriorityNumber>
+JP20050369933
+</PriorityNumber>
+<PriorityDate>
+2005-12-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+<Class>
+D01F9/127
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+<Class>
+D01F9/127
+</Class>
+<Class>
+D01F9/127B2
+</Class>
+<Class>
+D01F9/127H
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a process for producing a vapor-grown carbon fiber by supplying a raw material at least containing a carbon source and a catalyst and/or catalyst precursor compound into a heating zone, wherein the raw material further containing an oxygen-containing carbon source compound which is selected from the group consisting of ketones and ethers. The process for producing a vapor-grown carbon fiber according to the present invention does not leave a residue in a reaction device because a raw material used contains a particular oxygen-containing carbon source compound and, thereby, can continuously produce a vapor-grown carbon fiber.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A process for producing a vapor-grown carbon fiber by supplying a raw material at least containing a carbon source and a catalyst and/or catalyst precursor compound into a heating zone, wherein the raw material further contains an oxygen-containing carbon source compound selected from the group consisting of ketones and ethers.
+</P>
+<P>
+2. The process for producing a vapor-grown carbon fiber according to claim 1, wherein the catalyst and/or catalyst precursor compound is in a solid or liquid state at an ordinary temperature and pressure, the oxygen- containing carbon source compound is in a liquid state at an ordinary temperature and pressure, and the catalyst and/or catalyst precursor compound is dissolved or suspended in the oxygen-containing carbon source compound to be supplied into the heating zone.
+</P>
+<P>
+3. The process for producing a vapor-grown carbon fiber according to claim 2, wherein the oxygen-containing carbon source compound in which the catalyst and/or catalyst precursor compound has been dissolved or suspended is vaporized before being supplied into the heating zone.
+</P>
+<P>
+4. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 3, wherein the oxygen-containing carbon source compound has a boiling point of 80&amp;lt;0&amp;gt;C or more at an ordinary pressure.
+</P>
+<P>
+5. The process for producing a vapor-grown carbon fiber according to claim 4, wherein the oxygen-containing carbon source compound has a boiling point of 115[deg.]C or more at an ordinary pressure.
+</P>
+<P>
+6. The process for producing a vapor-grown carbon fiber according to claim 5, wherein the oxygen-containing carbon source compound has a boiling point of 15O&amp;lt;0&amp;gt;C or more at an ordinary pressure.
+</P>
+<P>
+7. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 6, wherein the solubility of the catalyst and/or catalyst precursor compound at 25[deg.]C in the oxygen-containing carbon source compound is 1 g or more per 100 g of the oxygen- containing carbon source compound.
+</P>
+<P>
+8. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 7, wherein the ketones are acetone, 2-butanone, 2-pentanone, 3- pentanone, 3-methyl-2-butanone, acetylacetone, 3-hydroxy- 3-methyl-2-butanone, 3, 3-dimethyl-2-butanone, 2-methyl-3- pentanone, 3-methyl-2-pentanone, 4-methyl-2-pentanone, 2- hexanone, 3-hexanone, cyclopentanone, hydroxyacetone, 2- heptanone, 3-heptanone, 4-heptanone, 2, 4-dimethyl-3- pentanone, 4-methoxy-4-methyl-2-pentanone, 4-hydroxy-4- methyl-2-pentanone, cyclohexanone, 2, 6-dimethyl-4- heptanone, 3-methylcyclohexanone, and isophorone.
+</P>
+<P>
+9. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 8, wherein the ethers are anisole, ethoxybenzene, 2-methoxytoluene, 3- methoxytoluene, 4-methoxytoluene, furan, tetrahydrofuran, 2, 3-dihydrofuran, 2, 5-dihydrofuran, 1, 3-dioxolane, . pyrane, tetrahydropyrane, 1,3-dioxane, 1,4-dioxane, diethyl ether, di-n-propyl ether, di-i-propyl ether, n- butyl methyl ether, s-butyl methyl ether, t-butyl methyl ether, n-butyl ethyl ether, t-butyl ethyl ether, di-n- butyl ether, di-s-butyl ether, ethyleneglycol monomethyl ether, ethyleneglycol monoethyl ether, ethyleneglycol mono-n-propyl ether, ethyleneglycol mono-i-propyl ether, ethyleneglycol mono-n-butyl ether, ethyleneglycol mono-s- butyl ether, ethyleneglycol mono-i-butyl ether, ethyleneglycol mono-t-butyl ether, ethyleneglycol mono-2- ethylhexyl ether, ethyleneglycol dimethyl ether, ethyleneglycol diethyl ether, ethyleneglycol di-n-propyl ether, ethyleneglycol di-i-propyl ether, ethyleneglycol di-n-butyl ether, ethyleneglycol di-s-butyl ether, ethyleneglycol di-i-butyl ether, ethyleneglycol di-t- butyl ether, propyleneglycol monomethyl ether, propyleneglycol monoethyl ether, propyleneglycol mono-n- propyl ether, propyleneglycol mono-i-propyl ether, propyleneglycol mono-n-butyl ether, propyleneglycol mono- s-butyl ether, propyleneglycol mono-i-butyl ether, propyleneglycol mono-t-butyl ether, propyleneglycol dimethyl ether, propyleneglycol diethyl ether, propyleneglycol di-n-propyl ether, propyleneglycol di-i- propyl ether, propyleneglycol di-n-butyl ether, propyleneglycol di-s-butyl ether, propyleneglycol di-i- butyl ether, propyleneglycol di-t-butyl ether, diethyleneglycol, diethyleneglycol monomethyl ether, diethyleneglycol monoethyl ether, diethyleneglycol mono- n-propyl ether, diethyleneglycol mono-i-propyl ether, diethyleneglycol mono-n-butyl ether, diethyleneglycol mono-s-butyl ether, diethyleneglycol mono-i-butyl ether, diethyleneglycol mono-t-butyl ether, diethyleneglycol dimethyl ether, diethyleneglycol diethyl ether, diethyleneglycol di-n-propyl ether, diethyleneglycol di- i-propyl ether, diethyleneglycol di-n-butyl ether, diethyleneglycol di-s-butyl ether, diethyleneglycol di-i- butyl ether, diethyleneglycol di-t-butyl ether, dipropyleneglycol, dipropyleneglycol monomethyl ether, dipropyleneglycol monoethyl ether, dipropyleneglycol mono-n-propyl ether, dipropyleneglycol mono-i-propyl ether, dipropyleneglycol mono-n-butyl ether, dipropyleneglycol mono-s-butyl ether, dipropyleneglycol mono-i-butyl ether, dipropyleneglycol mono-t-butyl ether, dipropyleneglycol dimethyl ether, dipropyleneglycol diethyl ether, dipropyleneglycol di-n-propyl ether, dipropyleneglycol di-i-propyl ether, dipropyleneglycol di-n-butyl ether, dipropyleneglycol di-s-butyl ether, dipropyleneglycol di-i-butyl ether, dipropyleneglycol di- t-butyl ether, triethyleneglycol dimethyl ether, tetraethyleneglycol dimethyl ether, 3-methoxy-l-butahol, 3-methoxy-3-methyl-l-butahol, tetrahydrofurfuryl alcohol, ethyleneglycol monomethyl ether acetate, ethyleneglycol monoethyl ether acetate, ethyleneglycol monobutyl ether acetate, propyleneglycol monomethyl ether acetate, propyleneglycol monoethyl ether acetate, diethyleneglycol monoethyl ether acetate, and diethyleneglycol monobutyl ether acetate. 10. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 9, wherein the carbon source is at least one compound selected from the group consisting of carbon monoxide, carbon dioxide, methane, ethane, propane, butane, pentane, hexane, heptane, cyclohexane, ethylene, propylene, butene, butadiene, acetylene, benzene, toluene and xylene.
+</P>
+<P>
+11. The process for producing a vapor-grown carbon fiber according to claim 10, wherein the carbon source is at least one compound selected from the group consisting of carbon monoxide, carbon dioxide, methane, ethane, propane, butane, pentane, hexane, heptane, cyclohexane, ethylene, propylene, butene, butadiene and acetylene.
+</P>
+<P>
+12. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 11, wherein the carbon source comprises at least methane.
+</P>
+<P>
+13. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 12, wherein the content of methane in the raw material is at or more than 15 mol% to less than 100 mol%, and the temperature in the high-temperature part of the heating zone is from 1,100 to 1,500&amp;lt;0&amp;gt;C.
+</P>
+<P>
+14. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 13, wherein the temperature at the raw material-introducing part of the heating zone is 700[deg.]C or less.
+</P>
+<P>
+15. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 14, wherein the supplied raw material resides in the law temperature part of the heating zone which is at a temperature of 600 to 1,000&amp;lt;0&amp;gt;C for 0.05 seconds or more before arriving at the high-temperature part of the heating zone.
+</P>
+<P>
+16. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 15, wherein the residence time at a temperature of 1,100&amp;lt;0&amp;gt;C or more in the heating zone is 0.001 second or more. 17. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 16, wherein the total amount of carbon atoms contained in the carbon source other than methane is 60% or less of the amount of carbon atoms contained in methane. 18. The process for producing a vapor-grown carbon fiber according to claim 17, wherein the total amount of carbon atoms contained in the carbon source other than methane is 10% or less of the amount of carbon atoms contained in methane. 19. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 18, wherein the ratio of the atomic number of a catalyst element, and the number of carbon atoms in the raw material satisfies the following relationship: (Atomic number of a catalyst element) /
+</P>
+<P>
+(Number of carbon atoms) = 0.000005 to 0.0015.
+</P>
+<P>
+20. The process for producing a vapor-grown carbon fiber according to any one of claims 1 to 19, wherein the all or a part of the gas after reaction is circulated and reused.
+</P>
+<P>
+21. The process for producing a vapor-grown carbon fiber according to claim 1, wherein a carbon fiber having an average fiber diameter of 10 nm or more is produced.
+</P>
+<P>
+22. A vapor-grown carbon fiber produced by the process for producing a vapor-grown carbon fiber according to any one of claims 1 to 21.
+</P>
+<P>
+23. The vapor-grown carbon fiber according to claim 22, having an average fiber length of 10 [mu]m or more.
+</P>
+<P>
+24. The vapor-grown carbon fiber according to claim 23, having the average fiber length of 13 [mu]m or more.
+</P>
+</Claims>
+<Also_published_as>
+EP1966420A4;WO2007072584A1;US2009176100A1;KR20080069705A
+</Also_published_as>
+</BiblioData>

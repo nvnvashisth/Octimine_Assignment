@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PROCESS FOR PRODUCTION OF SURFACE- COATED INORGANIC PARTICLES
+</Title>
+<PublicationNumber>
+EP2184262A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HANDA HIROSHI [JP]
+</Name>
+<Name>
+HATAKEYAMA MAMORU [JP]
+</Name>
+<Name>
+ABE MASANORI [JP]
+</Name>
+<Name>
+SAKAMOTO SATOSHI [JP]
+</Name>
+<Name>
+MASAIKE YUKA [JP]
+</Name>
+<Name>
+NISHIO KOSUKE [JP]
+</Name>
+<Name>
+KITA YOSHINORI [JP]
+</Name>
+<Name>
+KISHI HIROSHI [JP]
+</Name>
+<Name>
+HANDA, HIROSHI
+</Name>
+<Name>
+HATAKEYAMA, MAMORU
+</Name>
+<Name>
+ABE, MASANORI
+</Name>
+<Name>
+SAKAMOTO, SATOSHI
+</Name>
+<Name>
+MASAIKE, YUKA
+</Name>
+<Name>
+NISHIO, KOSUKE
+</Name>
+<Name>
+KITA, YOSHINORI
+</Name>
+<Name>
+KISHI, HIROSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TOKYO INST TECH [JP]
+</Name>
+<Name>
+TOKYO INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2184262
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080791605
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP63361
+</PriorityNumber>
+<PriorityDate>
+2008-07-25
+</PriorityDate>
+<PriorityNumber>
+JP20070194233
+</PriorityNumber>
+<PriorityDate>
+2007-07-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K49/00
+</Class>
+<Class>
+B22F1/02
+</Class>
+<Class>
+C01G49/00
+</Class>
+<Class>
+H01F1/20
+</Class>
+<Class>
+H01F1/34
+</Class>
+<Class>
+H01F1/36
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K41/00U
+</Class>
+<Class>
+A61K49/18R2N2B
+</Class>
+<Class>
+A61K49/18R2N2H
+</Class>
+<Class>
+A61K49/18R2N2H2
+</Class>
+<Class>
+A61K49/18R2N2K
+</Class>
+<Class>
+A61K49/18R2N2K4
+</Class>
+<Class>
+B22F1/00A2B4D
+</Class>
+<Class>
+B22F1/00A4C
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+C01G49/00
+</Class>
+<Class>
+C09C1/24
+</Class>
+<Class>
+C09C3/08
+</Class>
+<Class>
+C09C3/10
+</Class>
+<Class>
+C09C3/12
+</Class>
+<Class>
+G01N33/543M
+</Class>
+<Class>
+H01F1/00E10
+</Class>
+</NCL>
+<Abstract>
+Nano-sized inorganic particles having uniform particle sizes and precisely controlled particle diameters have already been produced by synthesis in an organic solvent, but these nano-sized inorganic particles are hindered from dispersing in a polar solvent because of the adsorption of a long-chain fatty acid on the surfaces of the particles. Further, it was difficult to form nano-sized inorganic particles dispersible in a polar solvent by replacing the long-chain fatty acid coats.;  According to the invention, various surface-coated inorganic particles dispersible in polar solvents can be produced from fatty acid-coated inorganic particles by adding a temporary coating substance such as thiomalic acid to a nonpolar solvent containing fatty acid-coated inorganic particles dispersed therein to replace the fatty acid coats by the temporary coating substance, dispersing the inorganic particles coated with the temporary coating substance in a polar solvent, and then adding a coating substance dispersible in a polar solvent, e.g., citric acid to the obtained dispersion to replace the temporary coating substance coats covering the inorganic particles by the coating substance dispersible in a polar solvent.
+</Abstract>
+<Claims>
+<P>
+1. A process for production of surface covering inorganic particles, comprising:
+</P>
+<P>
+a covering step of temporal covering material wherein a temporal covering material is added to release an aliphatic acid covering from aliphatic acid covering inorganic particles which are dispersed in a non-polar solvent and substitute the aliphatic acid covering with the temporal covering material in the non-polar solvent, thereby obtaining inorganic particles covered with the temporal covering material; and
+</P>
+<P>
+a covering step of polar solvent dispersion covering material wherein the inorganic particles covered with the temporal covering material are dispersed in a polar solvent while a polar solvent dispersion covering material with dispersibility for the polar solvent is added into the polar solvent to substitute the temporal covering material with the polar solvent dispersion covering material, thereby obtaining inorganic particles covered with the polar solvent dispersion covering material.
+</P>
+<P>
+2. The process as set forth in claim 1,
+</P>
+<P>
+wherein the temporal covering material is a compound where both thiol group and carboxyl group are bonded with one carbon atom.
+</P>
+<P>
+3. The process as set forth in claim 2,
+</P>
+<P>
+wherein the compound is at least one selected from the group consisting of thiomalic acid, thiolactic acid and thioacetic acid.
+</P>
+<P>
+4. The process as set forth in claim 1,
+</P>
+<P>
+wherein the temporal covering material is at least one selected from the group consisting of L-cystein methylester, L-cystein ethylester, cysteic acid and salt thereof.
+</P>
+<P>
+5. The process as set forth in claim 1,
+</P>
+<P>
+wherein the temporal covering material is dithiothreitol.
+</P>
+<P>
+6. The process as set forth in claim 1,
+</P>
+<P>
+wherein the temporal covering material is aromatic monocyclic hydrocarbon or condensed polycyclic hydrocarbon which contain at least one functional group selected from the group consisting of sulfonic acid group, sulfonate, sulfuric acid group and sulfate.
+</P>
+<P>
+7. The process as set forth in claim 6,
+</P>
+<P>
+wherein the aromatic monocyclic hydrocarbon or condensed polycyclic hydrocarbon is 1-amino-8-naphtol-3, 6-disulfonic acid or salt thereof.
+</P>
+<P>
+8. The process as set forth in claim 1,
+</P>
+<P>
+wherein the polar solvent dispersion covering material is nitric acid.
+</P>
+<P>
+9. The process as set forth in claim 1,
+</P>
+<P>
+wherein the polar solvent dispersion covering material is a compound containing phenolic hydroxyl group or derivative thereof.
+</P>
+<P>
+10. The process as set forth in claim 1,
+</P>
+<P>
+wherein the polar solvent dispersion covering material is oligopeptide or polypeptide.
+</P>
+<P>
+11. The process as set forth in claim 1,
+</P>
+<P>
+wherein the polar solvent dispersion covering material is an organic material containing at least one functional group selected from the group consisting of carboxyl group, hydroxyl group, sulfonic acid group, thiol group, phosphoric acid group, carboxylate, hydroxide, sulfonate, thiol salt, phosphate, silanediol and silanetriol.
+</P>
+<P>
+12. The process as set forth in claim 1,
+</P>
+<P>
+wherein the polar solvent dispersion covering material is nucleic acid or derivative thereof.
+</P>
+<P>
+13. The process as set forth in claim 1,
+</P>
+<P>
+wherein the polar solvent dispersion covering material is a polymer containing at least one functional group selected from the group consisting of hydroxyl group, sulfonic acid group, carboxyl group and phosphoric acid group.
+</P>
+<P>
+14. The process as set forth in claim 13,
+</P>
+<P>
+wherein the polar solvent dispersion covering material is an aromatic material containing hydroxyl group.
+</P>
+<P>
+15. The process as set forth in claim 1,
+</P>
+<P>
+further comprising a covering step of additional polar solvent dispersion covering material wherein the inorganic particles covered with the polar solvent dispersion covering material is covered with an additional polar solvent dispersion covering material.
+</P>
+<P>
+16. The process as set forth in claim 15,
+</P>
+<P>
+wherein the additional polar solvent dispersion covering material is silica generated through hydrolysis of tetraethoxysilane.
+</P>
+<P>
+17. The process as set forth in claim 1,
+</P>
+<P>
+wherein the inorganic particles are magnetic particles.
+</P>
+<P>
+18. The process as set forth in claim 1,
+</P>
+<P>
+wherein the polar solvent is water.
+</P>
+<P>
+19. Inorganic particles covered with a temporal covering material,
+</P>
+<P>
+wherein the temporal covering material substitutes an aliphatic acid covering of aliphatic acid covering inorganic particles in a non-polar solvent and is to be substituted with a polar solvent dispersion covering material in a polar solvent to be released from the inorganic particles.
+</P>
+<P>
+20. The inorganic particles as set forth in claim 19,
+</P>
+<P>
+wherein the temporal covering material is a compound where both thiol group and carboxyl group are bonded with one carbon atom.
+</P>
+<P>
+21. Surface covering inorganic particles covered with a polar solvent dispersion covering material,
+</P>
+<P>
+wherein a temporal covering material substitutes an aliphatic acid covering of aliphatic acid covering inorganic particles in a non-polar solvent to obtain inorganic particles covered with the temporal covering material, the temporal covering material being to be substituted with a polar solvent dispersion covering material in a polar solvent thereafter to be released; and the polar solvent dispersion covering material with dispersibility for the polar solvent substitutes the temporal covering material under the condition that the inorganic particles covered with the temporal covering material are dispersed in the polar solvent to release the temporal covering material from the inorganic particles, thereby obtaining the surface covering inorganic particles covered with the polar solvent dispersion covering material.
+</P>
+<P>
+22. The surface covering inorganic particles as set forth in claim 21,
+</P>
+<P>
+wherein the surface covering inorganic particles are rendered monodispersity state in a polar solvent.
+</P>
+<P>
+23. The surface covering inorganic particles as set forth in claim 21,
+</P>
+<P>
+wherein an additional polar solvent dispersion covering material covers the surface covering inorganic particles in addition to the polar solvent dispersion covering material.
+</P>
+<P>
+24. The surface covering inorganic particles as set forth in claim 21,
+</P>
+<P>
+wherein the inorganic particles are magnetic particles with an average diameter within a range of 3 nm to 40 nm.
+</P>
+<P>
+25. An MRI contrast medium,
+</P>
+<P>
+wherein a temporal covering material substitutes an aliphatic acid covering of aliphatic acid covering magnetic particles in a non-polar solvent to obtain magnetic particles covered with the temporal covering material, the temporal covering material being to be substituted with a polar solvent dispersion covering material in a polar solvent thereafter to be released and the magnetic particles having an average diameter within a range of 3 nm to 10 nm and a standard deviation of particle diameter distribution of 15% or less for the average diameter, and a polar solvent dispersion covering material with dispersibility for the polar solvent substitutes the temporal covering material under the condition that the magnetic particles covered with the temporal covering material are dispersed in the polar solvent to release the temporal covering material from the magnetic particles, thereby obtaining surface covering magnetic particles covered with the polar solvent dispersion covering material as the MRI contrast medium.
+</P>
+<P>
+26. An MRI positive contrast medium,
+</P>
+<P>
+wherein a temporal covering material substitutes an aliphatic acid covering of aliphatic acid covering magnetic particles in a non-polar solvent to obtain magnetic particles covered with the temporal covering material, the temporal covering material being to be substituted with a polar solvent dispersion covering material in a polar solvent thereafter to be released and the magnetic particles having an average diameter within a range of 3 nm to 10 nm and a standard deviation of particle diameter distribution of 15% or less for the average diameter, and a polar solvent dispersion covering material with dispersibility for the polar solvent substitutes the temporal covering material under the condition that the magnetic particles covered with the temporal covering material are dispersed in the polar solvent to release the temporal covering material from the magnetic particles, thereby obtaining surface covering magnetic particles covered with the polar solvent dispersion covering material as the MRI positive contrast medium.
+</P>
+<P>
+27. An MRI negative contrast medium,
+</P>
+<P>
+wherein a temporal covering material substitutes an aliphatic acid covering of aliphatic acid covering magnetic particles in a non-polar solvent to obtain magnetic particles covered with the temporal covering material, the temporal covering material being to be substituted with a polar solvent dispersion covering material in a polar solvent thereafter to be released and the magnetic particles having an average diameter within a range of 3 nm to 10 nm and a standard deviation of particle diameter distribution of 15% or less for the average diameter, and a polar solvent dispersion covering material with dispersibility for the polar solvent substitutes the temporal covering material under the condition that the magnetic particles covered with the temporal covering material are dispersed in the polar solvent to release the temporal covering material from the magnetic particles, thereby obtaining surface covering magnetic particles covered with the polar solvent dispersion covering material as the MRI negative contrast medium.
+</P>
+<P>
+28. Magnetic hyperthermia carriers,
+</P>
+<P>
+wherein a temporal covering material substitutes an aliphatic acid covering of aliphatic acid covering magnetic particles in a non-polar solvent to obtain magnetic particles covered with the temporal covering material, the temporal covering material being to be substituted with a polar solvent dispersion covering material in a polar solvent thereafter to be released and the magnetic particles having an average diameter within a range of 3 nm to 10 nm and a standard deviation of particle diameter distribution of 15% or less for the average diameter, and a polar solvent dispersion covering material with dispersibility for the polar solvent substitutes the temporal covering material under the condition that the magnetic particles covered with the temporal covering material are dispersed in the polar solvent to release the temporal covering material from the magnetic particles, thereby obtaining surface covering magnetic particles covered with the polar solvent dispersion covering material as the magnetic hyperthermia carriers.
+</P>
+<P>
+29. Magnetic separation carriers,
+</P>
+<P>
+wherein a temporal covering material substitutes an aliphatic acid covering of aliphatic acid covering magnetic particles in a non-polar solvent to obtain magnetic particles covered with the temporal covering material, the temporal covering material being to be substituted with a polar solvent dispersion covering material in a polar solvent thereafter to be released and the magnetic particles having an average diameter within a range of 3 nm to 10 nm and a standard deviation of particle diameter distribution of 15% or less for the average diameter; and a polar solvent dispersion covering material with dispersibility for the polar solvent substitutes the temporal covering material under the condition that the magnetic particles covered with the temporal covering material are dispersed in the polar solvent to release the temporal covering material from the magnetic particles, thereby obtaining surface covering magnetic particles covered with the polar solvent dispersion covering material as the magnetic separation carriers.
+</P>
+<P>
+30. Biosensor carriers,
+</P>
+<P>
+wherein a temporal covering material substitutes an aliphatic acid covering of aliphatic acid covering inorganic particles in a non-polar solvent to obtain inorganic particles covered with the temporal covering material, the temporal covering material being to be substituted with a polar solvent dispersion covering material in a polar solvent thereafter to be released; a polar solvent dispersion covering material with dispersibility for the polar solvent substitutes the temporal covering material under the condition that the inorganic particles covered with the temporal covering material are dispersed in the polar solvent to release the temporal covering material from the inorganic particles, thereby obtaining surface covering inorganic particles covered with the polar solvent dispersion covering material; and a substance recognition base material is fixed to the surface covering inorganic particles covered with the polar solvent dispersion covering material to obtain the biosensor carriers.
+</P>
+</Claims>
+<Also_published_as>
+EP2184262A4;US2010254908A1;KR20100046182A;WO2009014201A1;CN101765562A;CA2694536A1
+</Also_published_as>
+</BiblioData>

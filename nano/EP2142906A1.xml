@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PROBE MICROSCOPY AND PROBE POSITION MONITORING APPARATUS
+</Title>
+<PublicationNumber>
+EP2142906A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ULCINAS ARTURAS [GB]
+</Name>
+<Name>
+ENGLEDEW DAVID JOHN [GB]
+</Name>
+<Name>
+PICCO LOREN MICHAEL [GB]
+</Name>
+<Name>
+MILES MERVYN JOHN [GB]
+</Name>
+<Name>
+ANTOGNOZZI MASSIMO [GB]
+</Name>
+<Name>
+ULCINAS, ARTURAS
+</Name>
+<Name>
+ENGLEDEW, DAVID, JOHN
+</Name>
+<Name>
+PICCO, LOREN, MICHAEL
+</Name>
+<Name>
+MILES, MERVYN, JOHN
+</Name>
+<Name>
+ANTOGNOZZI, MASSIMO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV BRISTOL [GB]
+</Name>
+<Name>
+THE UNIVERSITY OF BRISTOL
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2142906
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080736908
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008GB01236
+</PriorityNumber>
+<PriorityDate>
+2008-04-09
+</PriorityDate>
+<PriorityNumber>
+GB20070006732
+</PriorityNumber>
+<PriorityDate>
+2007-04-09
+</PriorityDate>
+<PriorityNumber>
+GB20070012923
+</PriorityNumber>
+<PriorityDate>
+2007-07-04
+</PriorityDate>
+<PriorityNumber>
+GB20070018094
+</PriorityNumber>
+<PriorityDate>
+2007-09-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q60/22
+</Class>
+<Class>
+G01N13/14
+</Class>
+<Class>
+G12B21/06
+</Class>
+</IPC>
+<IPC7>
+<Class>
+G01N13/14
+</Class>
+<Class>
+G12B21/06
+</Class>
+</IPC7>
+<ICM>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q60/22
+</Class>
+</ICM>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q60/22
+</Class>
+</NCL>
+<Abstract>
+A near-field probe microscopy method for collecting sample data. The probe tip of a probe is placed contact with the sample surface or in a near-field region above the sample surface. Probe position monitoring apparatus monitors an at least one dimensional position of the probe tip in a probe tip plane, the probe tip plane being a plane which contains the probe tip and which is substantially parallel to the plane of the sample surface, to generate probe tip position data whereby a change in probe tip position data is representative of a force on the probe tip. In certain embodiments the probe is sufficiently small and soft and the probe position monitoring apparatus is sufficiently sensitive to enable a force on the probe tip which is lower than 1 pN to generate a change in the probe tip position data with a settling time lower than 1 ms. In certain embodiments the probe is less than 1 [mu]m long and/or wide and/or thick.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A near-field probe microscopy method for collecting sample data, the microscopy method comprising: providing a sample on a sample stage; positioning the probe tip of a probe in contact with the sample surface or in a near-field region above the sample surface; bending the probe along its length; and monitoring with probe position monitoring apparatus an at least one dimensional position of the probe tip in a probe tip plane, the probe tip plane being a plane which contains the probe tip and which is substantially parallel to the plane of the sample surface, to generate probe tip position data whereby a change in probe tip position data is representative of a force on the probe tip, wherein the probe is sufficiently small and soft and the probe position monitoring apparatus is sufficiently sensitive to enable a force on the probe tip which is lower than 1 pN to generate a change in the probe tip position data with a settling time lower than 1 ms.
+</P>
+<P>
+2. The method of claim 1 wherein the probe is less than 1 [mu]m long and/or wide and/or thick.
+</P>
+<P>
+3. A near-field probe microscopy method for collecting sample data, the microscopy method comprising: providing a sample on a sample stage; positioning the probe tip of a probe in contact with the sample surface or in a near-field region above the sample surface; bending the probe along its length; and monitoring an at least one dimensional position of the probe tip in a probe tip plane, the probe tip plane being a plane which contains the probe tip and which is substantially parallel to the plane of the sample surface, to generate probe tip position data whereby a change in probe tip position data is representative of a characteristic of the sample, wherein the probe is less than 1 [mu]m long and/or wide and/or thick. 4. The method of any preceding claim wherein the probe has a resonant frequency in air which is greater than 2OkHz, preferably greater than 1 MHz1 and more preferably greater than 10MHz.
+</P>
+<P>
+5. The method of any preceding claim further comprising causing the probe to flex at a frequency greater than 2OkHz, preferably greater than 1MHz1 and more preferably greater than 10MHz.
+</P>
+<P>
+6. The method of claim 5 wherein the probe flexes in a direction which is substantially parallel to the sample surface.
+</P>
+<P>
+7. The method of any preceding claim wherein the probe is sufficiently small and soft and the probe position monitoring apparatus is sufficiently sensitive to enable a force on the probe tip which is lower than 0.5 pN to generate a change in the probe tip position data with a settling time lower than 1 ms.
+</P>
+<P>
+8. The method of any preceding claim wherein the probe is sufficiently small and soft and the probe position monitoring apparatus is sufficiently sensitive to enable a force on the probe tip which is lower than 1 pN to generate a change in the probe tip position data with a settling time lower than 0.1 ms.
+</P>
+<P>
+9. The method of any preceding claim wherein the probe is sufficiently small and soft and the probe position monitoring apparatus is sufficiently sensitive to enable a force on the probe tip which is lower than 0.5 pN to generate a change in the probe tip position data with a settling time lower than 0.1 ms.
+</P>
+<P>
+10. The method of any preceding claim wherein the probe has a spring constant less than 10pN/nm, and preferably less than 1 pN/nm.
+</P>
+<P>
+11.The method of any preceding claim wherein the probe comprises a carbon nanotube. 12. Near-field probe microscopy apparatus comprising a sample stage; a probe having a probe tip; and probe position monitoring apparatus configured to monitor an at least one dimensional position of the probe tip in a probe tip plane, the probe tip plane being a plane which contains the probe tip and which is substantially parallel to the plane of the sample surface, to generate probe tip position data whereby a change in probe tip position data is representative of a force on the probe tip; wherein the probe is sufficiently small and soft and the probe position monitoring apparatus is sufficiently sensitive to enable a force on the probe tip which is lower than 1 pN to cause the probe to bend along its length and generate a change in the probe tip position data with a settling time lower than 1 ms.
+</P>
+<P>
+13. Near-field probe microscopy apparatus comprising a sample stage; a probe having a probe tip; and probe position monitoring apparatus configured to monitor an at least one dimensional position of the probe tip in a probe tip plane, the probe tip plane being a plane which contains the probe tip and which is substantially parallel to the plane of the sample surface, to generate probe tip position data whereby a change in probe tip position data is representative of a property of the sample; wherein the probe is less than 1 [mu]m long and/or wide and/or thick and wherein the probe is configured to bend along its length when in use.
+</P>
+<P>
+14. The apparatus of claim 12 or 13 wherein the probe is sufficiently small and soft and the probe position monitoring apparatus is sufficiently sensitive to enable a force on the probe tip which is lower than 0.5 pN to generate a change in the probe tip position data with a settling time lower than 1 ms.
+</P>
+<P>
+15. The apparatus of claim 12, 13 or 14 wherein the probe is sufficiently small and soft and the probe position monitoring apparatus is sufficiently sensitive to enable a force on the probe tip which is lower than 1 pN to generate a change in the probe tip position data with a settling time lower than 0.1 ms.
+</P>
+<P>
+16. The apparatus of any of claims 12 to 15 wherein the probe is sufficiently small and soft and the probe position monitoring apparatus is sufficiently sensitive to enable a force on the probe tip which is lower than 0.5 pN to generate a change in the probe tip position data with a settling time lower than 0.1ms.
+</P>
+<P>
+17. The apparatus of any of claims 12 to 16 wherein the probe has a spring constant less than 10 pN/nm, and preferably less than 1 pN/nm.
+</P>
+<P>
+18. The apparatus of any of claims 12 to 17 wherein the probe comprises a carbon nanotube.
+</P>
+<P>
+19. The apparatus of any of claims 12 to 18 wherein the probe has a resonant frequency in air which is greater than 2OkHz, preferably greater than 1 MHz1 and more preferably greater than 10MHz.
+</P>
+</Claims>
+<Also_published_as>
+WO2008122799A1;US2010207039A1;US8051493B2;WO2008122800A1
+</Also_published_as>
+</BiblioData>

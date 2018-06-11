@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Distance control in optical near- field recording/reproducing apparatus
+</Title>
+<PublicationNumber>
+EP1939871A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KASAMA NOBUYUKI [JP]
+</Name>
+<Name>
+MITSUOKA YASUYUKI [JP]
+</Name>
+<Name>
+OUMI MANABU [JP]
+</Name>
+<Name>
+KATO KENJI [JP]
+</Name>
+<Name>
+NIWA TAKASHI [JP]
+</Name>
+<Name>
+NAKAJIMA KUNIO [JP]
+</Name>
+<Name>
+CHIBA NORIO [JP]
+</Name>
+<Name>
+KASAMA, NOBUYUKI
+</Name>
+<Name>
+MITSUOKA, YASUYUKI
+</Name>
+<Name>
+OUMI, MANABU
+</Name>
+<Name>
+KATO, KENJI
+</Name>
+<Name>
+NIWA, TAKASHI
+</Name>
+<Name>
+NAKAJIMA, KUNIO
+</Name>
+<Name>
+CHIBA, NORIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SEIKO INSTR INC [JP]
+</Name>
+<Name>
+SEIKO INSTRUMENTS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1939871
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080075135
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+1999-03-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20060076014
+</PriorityNumber>
+<PriorityDate>
+1999-03-12
+</PriorityDate>
+<PriorityNumber>
+EP19990942599
+</PriorityNumber>
+<PriorityDate>
+1999-03-12
+</PriorityDate>
+<PriorityNumber>
+JP19980072786
+</PriorityNumber>
+<PriorityDate>
+1998-03-20
+</PriorityDate>
+<PriorityNumber>
+JP19980291142
+</PriorityNumber>
+<PriorityDate>
+1998-10-13
+</PriorityDate>
+<PriorityNumber>
+JP19980302266
+</PriorityNumber>
+<PriorityDate>
+1998-10-23
+</PriorityDate>
+<PriorityNumber>
+JP19990016202
+</PriorityNumber>
+<PriorityDate>
+1999-01-25
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N13/14
+</Class>
+<Class>
+G01N37/00
+</Class>
+<Class>
+G01Q60/18
+</Class>
+<Class>
+G01Q80/00
+</Class>
+<Class>
+G11B7/00
+</Class>
+<Class>
+G11B7/005
+</Class>
+<Class>
+G11B7/09
+</Class>
+<Class>
+G11B7/125
+</Class>
+<Class>
+G11B7/135
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B7/09B
+</Class>
+<Class>
+G11B7/127
+</Class>
+<Class>
+G11B7/1275
+</Class>
+<Class>
+G11B7/1387
+</Class>
+</NCL>
+<Abstract>
+The invention concerns a recording apparatus for reproducing information recorded on a recording medium by utilising near-field light. The recording apparatus comprises: an aperture element having a microscopic aperture to scatter near-field light;  a light illuminating means for introducing illumination light to the recording medium such that near-field light is created on a surface of the recording medium, the illumination light comprising two different modulation frequencies;  a first light detecting means for detecting first propagation light caused by the microscopic aperture scattering the near-field light having one of the two modulation frequencies, and for converting the detected first propagation light into a reproduced signal;  a second light detecting means for detecting second propagation light caused by the microscopic aperture scattering the near-field light having the other of the two modulation frequencies, and for converting the detected second propagation light into a control signal;  and a control means for controlling a spacing between the aperture element and the recording medium based on the control signal.
+</Abstract>
+<Claims>
+<P>
+1. A recording apparatus for reproducing information recorded on a recording medium (10) by utilising near-field light, the recording apparatus, comprising:
+</P>
+<P>
+an aperture element (11) having a microscopic aperture (12) to scatter near-field light;
+</P>
+<P>
+a light illuminating means (53, 54) for introducing illumination light (40) to the recording medium (10) such that near-field light is created on a surface of the recording medium (10), the illumination light (40) comprising two different modulation frequencies (fl, f2);
+</P>
+<P>
+a first light detecting means (17) for detecting first propagation light caused by the microscopic aperture (12) scattering the near-field light having one of the two modulation frequencies (fl, f2), and for converting the detected first propagation light into a reproduced signal;
+</P>
+<P>
+a second light detecting means (17) for detecting second propagation light caused by the microscopic aperture (12) scattering the near-field light having the other of the two modulation frequencies (f1, f2), and for converting the detected second propagation light into a control signal; and
+</P>
+<P>
+a control means (59) for controlling a spacing between the aperture element (11) and the recording medium (10) based on the control signal.
+</P>
+<P>
+2. A recording apparatus for reproducing information recorded on a recording medium (10) or recording information on the recording medium (10) by utilising near-field light, the recording apparatus, comprising:
+</P>
+<P>
+an aperture element (11) having a microscopic aperture (12) to create near-field light;
+</P>
+<P>
+a light illuminating means (53, 54) for introducing illumination light (40) to the microscopic aperture (12) such that near-field light is created in the microscopic aperture (12), the illumination light (40) comprising two different modulation frequencies (f1, f2);
+</P>
+<P>
+a first light detecting means (17) for detecting first propagation light caused by the recording medium (10) scattering the near-field light having one of the two modulation frequencies (fl, f2), and for converting the detected first propagation light into a reproduced signal;
+</P>
+<P>
+a second light detecting means (17) for detecting second propagation light caused by the recording medium (10) scattering the near-field light having the other of the two modulation frequencies (fl, f2), and for converting the detected second propagation light into a control signal; and
+</P>
+<P>
+a control means (59) for controlling a spacing between the aperture element (11) and the recording medium (10) based on the control signal.
+</P>
+<P>
+3. A recording apparatus according to claim 1 or claim 2, further comprising:
+</P>
+<P>
+a horizontal fine vibrating means (165, 171) for causing the aperture element (161) to finely vibrate in a direction perpendicular to a direction of arrangement of information units recorded on the recording medium (10) and a direction parallel with a surface of the recording medium (10); and
+</P>
+<P>
+a position control means (19) for controlling a position of the aperture element (161) such that the reproduced signal becomes a maximum in a vibration centre of fine vibration due to horizontal fine vibrating means (165, 171).
+</P>
+</Claims>
+<Also_published_as>
+EP0984438A1;EP0984438A4;EP0984438B1;US2005105453A1;US7042829B2;US2004057370A1;US6914873B2;US6466537B1;US2006120228A1;US7301888B2;US2002181344A1;US6754163B2;WO9949459A1;JP2000195073A;EP1942501A1;EP1750258A2;EP1750258A3;DE69933629T2
+</Also_published_as>
+</BiblioData>

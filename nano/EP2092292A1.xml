@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SCANNING PROBE MICROSCOPE WITH PERIODICALLY PHASE- SHIFTED AC EXCITATION
+</Title>
+<PublicationNumber>
+EP2092292A1
+</PublicationNumber>
+<Inventor>
+<Name>
+RYCHEN JOERG [CH]
+</Name>
+<Name>
+RYCHEN, JOERG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANONIS GMBH [CH]
+</Name>
+<Name>
+NANONIS GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2092292
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060817755
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006CH00703
+</PriorityNumber>
+<PriorityDate>
+2006-12-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q60/30
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q10/06B
+</Class>
+<Class>
+G01Q60/30
+</Class>
+<Class>
+G01Q60/32
+</Class>
+</NCL>
+<Abstract>
+The scanning probe microscope applies a sum of an AC voltage (Uac) and a DC voltage (Udc) to its probe (1, 2). The frequency of the AC voltage (Uac) substantially corresponds to the mechanical oscillation frequency of the probe, but its phase in respect to the mechanical oscillation varies periodically. The phase modulation has a frequency fmod. The microscope measures the frequency (f) or the amplitude (K) of a master signal (S) applied to the probe&apos;s actuator (5), or it measures the phase of the mechanical oscillation of the cantilever (1) in respect to the master signal (S). The spectral component at frequency fmod of the measured signal is fed to a feedback loop controller (9), which strives to keep it zero by adjusting the DC voltage (Udc), thereby keeping the DC voltage at the contact voltage potential.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A scanning probe microscope for measuring properties of a sample comprising a probe (2) on a mechanical resonator (1) , an oscillator (4; 6, 34, 5, 1) generating a master signal (S) , an actuator (5) driven by said master signal (S) and applying a mechanical force to said mechanical resonator (1) at said frequency f, a DC voltage source (9) applying a DC voltage (Udc) to said probe (2), an AC voltage source (22) applying an AC voltage ([upsilon]ac) substantially at said frequency f to said probe (2) , a detector assembly (20) measuring at least one observed signal depending on the frequency (f) of the master signal, the amplitude (K) of the master signal, and/or a phase shift ([phi]) of said deflection in respect to the master signal (S) , said scanning probe microscope further comprising a phase modulator (21, 22) for generating a periodic modulation of a phase of said AC voltage in re- spect to said master signal, said periodic modulation having a frequency fmod, a voltage control loop (9,20) measuring a spectral component of said observed signal at said frequency fmod and controlling said DC voltage (Udc) to keep said spectral component zero.
+</P>
+<P>
+2. The scanning probe microscope of claim 1 further comprising a primary control loop (11, 12) controlling said actuator (5) and having a phase setpoint
+</P>
+<P>
+([phi]O) and/or amplitude setpoint (AO) for the phase and/or amplitude, respectively, of said deflection and controlling the frequency (f) and/or an amplitude (K) , respectively, of said master signal (S) for keeping the phase and/or amplitude, respectively, of said deflection at said phase setpoint ([phi]O) and/or amplitude setpoint (AO) .
+</P>
+<P>
+3. The scanning probe microscope of claim 2 further comprising an oscillator (22) for generating said AC voltage (Uac) , wherein said oscillator (22) operates at a frequency f + fmod.
+</P>
+<P>
+4. The scanning probe microscope of claim 2 further comprising an oscillator (22) for generating said AC voltage (Uac) , wherein said oscillator (22) operates at a frequency f and has a phase modulation input for modulating a phase of said AC voltage (Uac) with a signal varying at frequency fmod applied to said modulation input .
+</P>
+<P>
+5. The scanning probe microscope of any of the preceding claims further comprising a lock-in detector (7) for measuring the phase ([phi]) of said deflection in respect to said master signal (S) and/or for measuring the amplitude (A) of said deflection at the frequency of said master signal. 6. The scanning probe microscope of any of the preceding claims further comprising a feedback loop (34) feeding a signal (D) derived from said deflection back to said actuator (5) , thereby forming a self- excitatory loop . 7. The scanning probe microscope of claim 6 comprising a difference frequency generator (37, 38) determining the frequency fmod.
+</P>
+<P>
+8. The scanning probe microscope of any of the claims 6 or 7 further comprising an oscillator (22) operating at a fixed frequency and generating said AC voltage (Uac) .
+</P>
+<P>
+9. The scanning probe microscope of any of the preceding claims wherein said detector assembly (20) comprises a lock-in amplifier operating at said frequency fmod .
+</P>
+<P>
+10. The scanning probe microscope of any of the preceding claims wherein fmod &amp;lt;&amp;lt; f.
+</P>
+<P>
+11. The scanning probe microscope of any of the preceding claims further comprising a driver (11, 12; 34) controlling said actuator (5) and being adapted to keep a phase and or an amplitude of said deflection con- stant.
+</P>
+</Claims>
+<Also_published_as>
+WO2008071013A1;US2010031404A1;JP2010512518A
+</Also_published_as>
+</BiblioData>

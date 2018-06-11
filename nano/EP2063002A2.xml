@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method for depositing and patterning carbon nanotubes using chemical self- assembly process
+</Title>
+<PublicationNumber>
+EP2063002A2
+</PublicationNumber>
+<Inventor>
+<Name>
+JUNG MYUNG SUP [KR]
+</Name>
+<Name>
+JUNG SUNG OUK [KR]
+</Name>
+<Name>
+PARK JONG JIN [KR]
+</Name>
+<Name>
+SEO SEUNG JOO [KR]
+</Name>
+<Name>
+KOO BON WON [KR]
+</Name>
+<Name>
+JUNG, MYUNG SUP
+</Name>
+<Name>
+JUNG, SUNG OUK
+</Name>
+<Name>
+PARK, JONG JIN
+</Name>
+<Name>
+SEO, SEUNG JOO
+</Name>
+<Name>
+KOO, BON WON
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SAMSUNG ELECTRONICS CO LTD [KR]
+</Name>
+<Name>
+SAMSUNG ELECTRONICS CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2063002
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090155254
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-10-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030256724
+</PriorityNumber>
+<PriorityDate>
+2003-10-23
+</PriorityDate>
+<PriorityNumber>
+KR20020065647
+</PriorityNumber>
+<PriorityDate>
+2002-10-26
+</PriorityDate>
+<PriorityNumber>
+KR20030040461
+</PriorityNumber>
+<PriorityDate>
+2003-06-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+C30B29/60
+</Class>
+<Class>
+G03F1/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F7/039
+</Class>
+<Class>
+G03F7/16
+</Class>
+<Class>
+G03F7/40
+</Class>
+<Class>
+H01B13/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G03F7/039C
+</Class>
+<Class>
+G03F7/16L
+</Class>
+<Class>
+G03F7/16Z
+</Class>
+<Class>
+G03F7/40
+</Class>
+</NCL>
+<Abstract>
+Disclosed herein is a method for forming a pattern of carbon nanotubes which includes forming a pattern on a surface-treated substrate using a photolithographic process, and laminating carbon nanotubes thereon using a chemical self-assembly process so as to form the carbon nanotubes in a monolayer or multilayer structure. According to the method for forming a pattern of carbon nanotubes, a monolayer or multilayer carbon nanotube pattern can be easily formed on the substrate, e.g., glass, a silicon wafer and a plastic. Accordingly, the method can be applied to form patterned carbon nanotube layers having a high conductivity, and thus will be usefully utilized in the manufacturing processes of energy storages, for example, solar cells and batteries, flat panel displays, transistors, chemical and biological sensors, semiconductor devices and the like.
+</Abstract>
+<Claims>
+<P>
+1. A method for forming a carbon nanotube layer, comprising the steps of:
+</P>
+<P>
+(i) surface treating a substrate to expose amino groups thereon; and
+</P>
+<P>
+(ii) reacting the amino groups of the substrate with carboxylated carbon nanotubes in the presence of a coupling agent and a catalyst to form a carbon nanotube layer,wherein the coupling agent is O-(7-azabenzotriazol-1-yl)-N,N,N&apos;,N&apos;-tetramethyluronium hexafluorophosphate and the catalyst is alkyl or aryl amine.
+</P>
+<P>
+2. The method according to claim 1, wherein the following steps (iii) and (iv) are performed after step (ii) and repeated one or more times to form carbon nanotube pattern in multilayer structure:
+</P>
+<P>
+(iii) reacting terminal carboxylic groups of the carbon nanotube pattern formed on the substrate, with an organic diamine compound, to form a diamine monolayer on the carbon nanotube pattern; and
+</P>
+<P>
+(iv) reacting the diamine monolayer with additional carboxylated carbon nanotubes in the presence of a coupling agent, to form a carbon nanotube layer.
+</P>
+<P>
+3. The method according to claim 1 or 2, wherein the substrate is glass, a silicon wafer or a plastic.
+</P>
+<P>
+4. The method according to claim 1 or 2, wherein in step (i) the surface treatment of the substrate is carried out by coating an aminoalkylalkoxysilane or aminoarylalkoxysilane onto the surface of the substrate using a spin coating, a dip coating, a spray coating, a flow coating or a screen printing process, and drying under vacuum or inert atmosphere at 10 150[deg.]C.
+</P>
+<P>
+5. The method according to any of claims 1 to 4, wherein the coupling agent is used together with an alkyl or aryl amine compound as a catalyst.
+</P>
+<P>
+6. The method according to any of claims 1 to 5, wherein the group R is t-butoxycarbonyl group, trimethylsilyloxycarbonyl group, or -CHR1-O-R2 in which R1 is hydrogen, a saturated or unsaturated hydrocarbon group having from 1 to 20 carbon atoms, or an organic aromatic group having from 1 to 20 carbon atoms, and R2 is a saturated or unsaturated hydrocarbon group having from 1 to 20 carbon atoms, or an organic aromatic group having from 1 to 20 carbon atoms, the R1 and R2 capable of being bonded to each other to form a cyclic compound.
+</P>
+<P>
+7. The method according to any of claims 1 to 6, wherein in steps (ii) and (iv), the reaction of the carboxylated carbon nanotubes with the amino groups of the substrate is carried out by mixing the coupling agent in 1 500mM with a dispersion liquid containing 0.00001 1% by weight of the carboxylated carbon nanotubes, immersing the substrate in the mixture, continuing a reaction at 10 100[deg.]C for 0.5 15 hours, and washing the substrate.
+</P>
+<P>
+8. The method according to any of claims 2 to 7, wherein the diamine compound is an aromatic diamine compound selected from 1,3-diamino-4-dihydroxybenzene, 1,3-diamino-5-dihydroxybenzene, 3,3&apos;-diamino-4,4&apos;-dihydroxybiphenyl, 4,4&apos;-diamino-3,3&apos;-dihydroxybiphenyl, 2,2-bis(3-amino-4-hydroxyphenyl)propane, bis(4-amino-3-hydroxyphenyl)sulfone, bis(3-amino-4-hydroxyphenyl)sulfone, bis (3-amino-4-hydroxyphenyl)ether, bis(4-amino-3-hydroxyphenyl)ether, 2,2-bis(3-amino-4-hydroxyphenyl)hexafluoropropane, 2,2-bis(4-amino-3-hydroxyphenyl)hexafluoropropane, m-phenylenediamine, p-phenylenediamine, 4,4&apos;-diaminediphenylmethane, 4,4&apos;-diaminediphenylether, 2,2&apos;-bis(4-aminophenyl)propane, 4,4&apos;-diaminophenylsulfone, 3,3&apos;-4,4&apos;-diaminodiphenylsulfone, 4,4&apos;-diaminodiphenylsulfone, 1,4-bis(3-aminophenoxy)benzene, 1,4-bis(4-aminophenoxy)benzene, 1,4-bis(p-aminophenylsulfonyl)benzene, 1,4-bis(m-aminophenylsulfonyl)benzene, 2,2-bis[4-(4-aminophenoxy)phenyl]propane, bis[4-(4-aminophenoxy)phenyl]methane, bis[3,5-dimethyl-4-(4-aminophenoxy)phenyl]methane, bis[4-(4-aminophenoxy)phenyl]sulfone and 2,2&apos;-bis[4-(4-aminophenoxy)phenyl]perfluoropropane; or an alkyl diamine compound selected from the group consisting of N,N-dimethyl-1,3-propanediamine, 5-pentanediamine, diethylenetriamine, (2-aminoethyl)-1,3-propanediamine, 3,3&apos;-diamino-N-methyldipropylamine, (3-aminopropyl)-1,3-propanediamine, spermidine, spermidine trihydrochloride, (hexamethylene)triamine, 4,4&apos;-methylene-bis(cyclohexylamine), 4&apos;-methylene-bis(2-methylcyclohexylamine), 2,2&apos;-(ethylenedioxy)-bis-9-ethylamine, 9-dioxa-1,12-dodecanediamine, 4,7,10-trioxa-1,13-tridecanediamine and 4-diaminopiperazine hydrochloride.
+</P>
+</Claims>
+<Also_published_as>
+EP2063002A3;EP2063002B1;US2004142285A1;US6960425B2;KR20040036526A;KR100937085B1;JP2004142097A;EP1455007A2;EP1455007A3;EP1455007B1;CN1500715A;CN1284720C
+</Also_published_as>
+</BiblioData>

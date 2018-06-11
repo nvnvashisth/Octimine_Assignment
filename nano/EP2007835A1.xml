@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+UV-CURING PROTECTIVE COAT FOR THERMOPLASTIC SUBSTRATES
+</Title>
+<PublicationNumber>
+EP2007835A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BUCKEL FRANK [DE]
+</Name>
+<Name>
+MALEIKA ROBERT [DE]
+</Name>
+<Name>
+KOEHLER WALTER [DE]
+</Name>
+<Name>
+MEYER REINER [DE]
+</Name>
+<Name>
+BUCKEL, FRANK
+</Name>
+<Name>
+MALEIKA, ROBERT
+</Name>
+<Name>
+KOEHLER, WALTER
+</Name>
+<Name>
+MEYER, REINER
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+BAYER MATERIALSCIENCE AG [DE]
+</Name>
+<Name>
+BAYER MATERIALSCIENCE AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2007835
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070723623
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP02677
+</PriorityNumber>
+<PriorityDate>
+2007-03-27
+</PriorityDate>
+<PriorityNumber>
+DE200610016642
+</PriorityNumber>
+<PriorityDate>
+2006-04-08
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B32B27/08
+</Class>
+<Class>
+B32B27/30
+</Class>
+<Class>
+C08K3/00
+</Class>
+<Class>
+C08K5/00
+</Class>
+<Class>
+C09D133/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B32B27/30
+</Class>
+<Class>
+B32B27/40
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09D133/06
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to a multi-layer product, the first layer being a UV-cured protective layer which contains SiO2 nanoparticles, and the second layer containing a thermoplastic substrate. In addition, the invention relates to the composition of the UV-curable first layer, a process for the production of the multi-layer products and products, such as e.g. glazing products, which contain the named multi-layer products.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A multi-layer product comprising a first layer (S1) and a second layer (S2), the first layer being prepared from
+</P>
+<P>
+A) one or more aliphatic polymer precursors selected from the group consisting of
+</P>
+<P>
+A.1) aliphatic oligomers containing urethane bonds or ester bonds with at least two acrylate functions per molecule or mixtures of corresponding oligomers and
+</P>
+<P>
+A.2) aliphatic reactive diluents with at least two acrylate groups per molecule or mixtures of corresponding reactive diluents,
+</P>
+<P>
+B) one or more fine-particle inorganic compounds,
+</P>
+<P>
+C) at least one organic UV absorber selected from the group consisting of triazine derivatives and biphenyltriazine derivatives,
+</P>
+<P>
+D) optionally one or more radical scavengers of the hindered amine light stabilizer (HALS) class
+</P>
+<P>
+E) optionally one or more flow control agents
+</P>
+<P>
+F) optionally one or more solvents, and
+</P>
+<P>
+G) at least one special photoinitiator selected from the group consisting of acylphosphine oxide derivatives and [alpha]-aminoalkylphenone derivatives,
+</P>
+<P>
+wherein the second layer comprises a thermoplastic polymer.
+</P>
+<P>
+2. A multi-layer product according to claim 1, wherein:
+</P>
+<P>
+a) based on the amount of components A and B:
+</P>
+<P>
+to 95 wt. % component A,
+</P>
+<P>
+5 to 80 wt. % component B and
+</P>
+<P>
+0.1 to 10 wt. % component G are used, with the total weight % of component A and component B being 100%,
+</P>
+<P>
+b) an amount of component F is used such that a solids content of 20 to 50 wt. % for the mixture of components A, B and F results, and
+</P>
+<P>
+c) based on the weight of solids in the mixture of components A, B and F:
+</P>
+<P>
+0.1 to 20 wt. % component C,
+</P>
+<P>
+0 to 10 wt. % component D and
+</P>
+<P>
+0 to 5 wt. % component E are used.
+</P>
+<P>
+3. A multi-layer product according to claim 1, wherein the aliphatic reactive diluent (component A.2) is selected from the group consisting of 1,6-hexanediol diacrylate, tricyclodecane dimethanol diacrylate, trimethylol propane triacrylate, pentaerythritol tetraacrylate and the methacrylate derivatives thereof.
+</P>
+<P>
+4. A multi-layer product according to claim 1, wherein component B is silicon dioxide with a mean particle size (d50) of 1 to 200 nm.
+</P>
+<P>
+5. A multi-layer product according to claim 4, wherein the silicon dioxide has a particle size distribution with a ((d90-d10)/d50) of the distribution of less than or equal to 2.
+</P>
+<P>
+6. A multi-layer product according to claim 1, wherein component C is a compound according to the following formula (IV)
+</P>
+<P>
+EMI16.0
+</P>
+<P>
+wherein
+</P>
+<P>
+X-OR&amp;lt;6&amp;gt; , OCH2CH2OR&amp;lt;6&amp;gt; , OCH2CH(OH)CH2OR&amp;lt;6 &amp;gt; or OCH(R&amp;lt;7&amp;gt; )COOR&amp;lt;8 &amp;gt;
+</P>
+<P>
+R&amp;lt;6&amp;gt; =branched or unbranched C1-C13 alkyl, C2-C20 alkenyl, C6-C12 aryl or -CO-C1-C18 alkyl
+</P>
+<P>
+R&amp;lt;7&amp;gt; -H or branched or unbranched C1-C8 alkyl, and
+</P>
+<P>
+R&amp;lt;8&amp;gt; -C1-C12 alkyl, C2-C12 alkenyl or C5-C6 cycloalkyl.
+</P>
+<P>
+7. Multi-layer product according to one of claims 1 to 6, wherein component D is one or more compounds of the following formula (V)
+</P>
+<P>
+EMI17.0
+</P>
+<P>
+wherein
+</P>
+<P>
+Y-H; R&amp;lt;6 &amp;gt; or OR&amp;lt;6 &amp;gt;
+</P>
+<P>
+R&amp;lt;6 &amp;gt; branched or unbranched C1-C13 alkyl, C2-C20 alkenyl, C6-C12 aryl or -CO-C1-C18 alkyl, and
+</P>
+<P>
+R&amp;lt;9&amp;gt; =Z-R&amp;lt;10&amp;gt; -Z-R&amp;lt;11&amp;gt; ,
+</P>
+<P>
+EMI18.0
+</P>
+<P>
+wherein
+</P>
+<P>
+Z=a divalent functional group such as C(O)O, NH or NHCO
+</P>
+<P>
+R&amp;lt;10&amp;gt; =a divalent organic radical such as (CH2)1 with 1=0 to 12, C-CH-Ph-OCH3
+</P>
+<P>
+EMI19.0
+</P>
+<P>
+R&amp;lt;11&amp;gt; -H or C1-C20 alkyl.
+</P>
+<P>
+8. A multi-layer product according to claim 7, wherein component D is selected from the group consisting of bis(1-octyloxy-2,2,6,6-tetramethyl-4-piperidyl) sebacic acid ester, (3,5-di-tert.-butyl-4-hydroxy-benzyl)-butyl malonic acid-bis-(1,2,2,6,6-pentamethyl-4-piperidyl) ester and mixtures thereof.
+</P>
+<P>
+9. A multi-layer product according to claim 1, wherein component F is one or more compounds selected from the group consisting of alkanes, alcohols, esters and ketones.
+</P>
+<P>
+10. A multi-layer product according to claim 1, wherein component G is one or more compounds selected from the group consisting of compounds of formula VI (acylphosphine oxide) and formula VIII ([alpha]-aminoalkylphenone),
+</P>
+<P>
+EMI20.0
+</P>
+<P>
+wherein
+</P>
+<P>
+R&amp;lt;12&amp;gt; -C1-C30 alkyl, C5 to C6 cycloalkyl optionally substituted by C1 to C4 alkyl, and/or chlorine, bromine, C6 to C20 aryl, C6 to C20 aryloxy or C7 to C12 aralkyl
+</P>
+<P>
+R&amp;lt;13&amp;gt; -C1-C30 alkyl, C1-C30 alkoxy, C5 to C6 cycloalkyl, optionally substituted by C1 to C4 alkyl, C1 to C4 alkoxy, C1 to C4 acyl and/or chlorine, bromine, C6 to C20 aryl, C6 to C20 aryloxy, C7 to C21 aroyl or C7 to C12 aralkyl,
+</P>
+<P>
+R&amp;lt;14&amp;gt; -C1 to C4 alkyl, C1 to C4 alkoxy,
+</P>
+<P>
+n=0 to 5,
+</P>
+<P>
+R&amp;lt;15&amp;gt; , R&amp;lt;16&amp;gt; , R&amp;lt;17 &amp;gt; and R&amp;lt;18 &amp;gt; independently of one another C1-C30 alkyl, C5 to C6 cycloalkyl optionally substituted by C1 to C4 alkyl, and/or chlorine, bromine, C6 to C20 aryl or C7 to C12 aralkyl,
+</P>
+<P>
+and wherein the radicals R&amp;lt;17 &amp;gt; and R&amp;lt;18 &amp;gt; can also be linked to a ring so that the nitrogen N shown in formula (VII) is part of a heterocyclic ring system,
+</P>
+<P>
+R&amp;lt;19&amp;gt; -C1 to C30 alkoxy, C1 to C30 alkylthio, C1 to C30 dialkyamino, C5 to C6 cycloalkyl optionally substituted by C1 to C4 alkyl, and/or chlorine, bromine, wherein the C atoms of the ring can also be substituted by heteroatoms such as N, O or S.
+</P>
+<P>
+11. A multi-layer product according to claim 10, wherein component G is one or more compounds selected from the group consisting of bis(2,4,6-trimethylbenzoyl)-phenyl phosphine oxide, (2,4,6-trimethylbenzoyl) diphenyl phosphine oxide, bis(2,6-dimethylbenzoyl)(2,4,4-trimethyl-pentyl) phosphine oxide, bis(2,6-dimethoxybenzoyl)(2,4,4-trimethyl-pentyl) phosphine oxide, benzoyl phosphonic acid bis(2,6-dimethylphenyl) ester, 2,4,6-trimethylbenzoylethoxyphenyl phosphine oxide, 2-benzyl-2-(dimethylamino)-1-(4-morpholinophenyl)-1-butanone and 2-methyl-1-[4-(methylthio)phenyl]-2-morpholino-1-propanone (see formula VIIa, wherein Me=methyl).
+</P>
+<P>
+EMI21.0
+</P>
+<P>
+12. A multi-layer product according to claim 1, wherein component G is selected from the group consisting of a) a mixture of bis(2,6-dimethoxy-benzoyl)(2,4,4-dimethylpentyl) phosphine oxide and (1-hydroxy-cyclohexyl)phenylmethanone and b) a mixture of bis(2,6-dimethoxy-benzoyl)(2,4,4-trimethylpentyl) phosphine oxide and 2-hydroxy-2-methyl-1-phenyl-1-propanone.
+</P>
+<P>
+13. A multi-layer product according to claim 1, wherein the second layer comprises one or more compounds selected from the group consisting of polycarbonate, polyester carbonate, polyester, polyphenylene ethers and graft copolymers.
+</P>
+<P>
+14. A multi-layer product according to claim 1 further comprising UV protective layer (S3) which contains a UV stabiliser according to formula (IV)
+</P>
+<P>
+EMI22.0
+</P>
+<P>
+wherein
+</P>
+<P>
+X-OR&amp;lt;6&amp;gt; , OCH2CH2OR&amp;lt;6&amp;gt; , OCH2CH(OH)CH2OR&amp;lt;6 &amp;gt; or OCH(R&amp;lt;7&amp;gt; )COOR&amp;lt;8 &amp;gt;
+</P>
+<P>
+R&amp;lt;6&amp;gt; =branched or unbranched C1-C13 alkyl, C2-C20 alkenyl, C6-C12 aryl or -CO-C1-C18 alkyl
+</P>
+<P>
+R&amp;lt;7&amp;gt; -H or branched or unbranched C1 to C8 alkyl, and
+</P>
+<P>
+R&amp;lt;8&amp;gt; -C1-C12 alkyl; C2-C12 alkenyl or C5-C6 cycloalkyl,
+</P>
+<P>
+and wherein the layer sequence is (S1)-(S2)-(S3) and layers (S1) and (S3) have the same or different compositions.
+</P>
+<P>
+15. A coating obtained from
+</P>
+<P>
+A) one or more aliphatic polymer precursors selected from the group consisting of
+</P>
+<P>
+A.1) aliphatic oligomers containing urethane bonds or ester bonds with at least two acrylate functions per molecule or mixtures of corresponding oligomers and
+</P>
+<P>
+A.2) aliphatic reactive diluents with at least two acrylate groups per molecule or mixtures of corresponding reactive diluents,
+</P>
+<P>
+B) one or more fine-particle inorganic compounds,
+</P>
+<P>
+C) at least one organic UV absorber selected from the group consisting of triazine derivatives and biphenyltriazine derivatives,
+</P>
+<P>
+D) optionally one or more radical scavengers of the hindered amine light stabilizer (HALS) class
+</P>
+<P>
+E) optionally one or more flow control agents
+</P>
+<P>
+F) optionally one or more solvents, and
+</P>
+<P>
+G) at least one special photoinitiator selected from the group consisting of
+</P>
+<P>
+H) cylphosphine oxide derivatives and [alpha]-aminoalkylphenone derivatives which is suitable for the production of at least one layer of a multi-layer product according to claim 1.
+</P>
+<P>
+16. A process for the production of a multi-layer product according to claim 1, comprising
+</P>
+<P>
+i) applying the first layer (S1) in the form of a coating formulation to the second layer (S2), and
+</P>
+<P>
+ii) curing the coating formulation of the first layer by exposing the first layer to UV radiation.
+</P>
+<P>
+17. A multi-layer product according to claim 1, wherein the second layer comprises a plastic molding.
+</P>
+</Claims>
+<Also_published_as>
+US2007237967A1;TW200808540A;RU2008143913A;MX2008012963A;KR20090038842A;JP2009533242A;WO2007115678A1;DE102006016642A1;CN101466805A;CA2648463A1;BRPI0710646A2
+</Also_published_as>
+</BiblioData>

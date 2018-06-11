@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method and device for positioning a movable part in a test system
+</Title>
+<PublicationNumber>
+EP1929267A2
+</PublicationNumber>
+<Inventor>
+<Name>
+KNEBEL DETLEF [DE]
+</Name>
+<Name>
+JAEHNKE TORSTEN [DE]
+</Name>
+<Name>
+KNEBEL, DETLEF
+</Name>
+<Name>
+JAEHNKE, TORSTEN
+</Name>
+<Name>
+KNEBEL, DETLEF, DR
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+JPK INSTR AG [DE]
+</Name>
+<Name>
+JPK INSTRUMENTS AG
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1929267
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060818010
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006DE01722
+</PriorityNumber>
+<PriorityDate>
+2006-09-29
+</PriorityDate>
+<PriorityNumber>
+DE200510047729
+</PriorityNumber>
+<PriorityDate>
+2005-09-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N1/00
+</Class>
+<Class>
+G01Q10/04
+</Class>
+<Class>
+G01Q70/04
+</Class>
+<Class>
+G12B5/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N35/04
+</Class>
+<Class>
+G01Q10/04
+</Class>
+<Class>
+G01Q70/04
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a method and a device for positioning a movable part in a test system, particularly a measuring system or analysis system. According to said method, the movable part is displaced from a starting position into a final position with the aid of an actuating element that is coupled to the movable part by moving the actuating element by means of a driving force, and the movable part is impinged upon by a locking force that locks the movable part in the final position via a locking part connected to the movable part by dipping the locking part at least in part into a supply of a medium and fixing the locking part in the medium by converting the medium from a liquid state into a solid state, the medium being converted from the liquid state into the solid state by impinging the same with a manipulated variable.
+</Abstract>
+<Claims>
+<P>
+Ansprüche
+</P>
+<P>
+1. Verfahren zum Positionieren eines verlagerbaren Bauteils in einem Untersuchungssystem, insbesondere einem Mess- oder Analysesystem, bei dem:
+</P>
+<P>
+- das verlagerbare Bauteil (1) mit Hilfe eines an das verlagerbare Bauteil (1) gekoppelten Aktorelementes (2) aus einer Ausgangsstellung in eine Endstellung (10) verlagert wird, indem das Aktorelement (2) mittels einer Antriebskraft bewegt wird, und
+</P>
+<P>
+- das verlagerbare Bauteil (1) über ein mit dem verlagerbaren Bauteil (1) in Verbindung stehendes Feststellbauteil mit einer das verlagerbare Bauteil (1) in der Endstellung (10) feststellenden Feststellkraft beaufschlagt wird, indem das Feststellbauteil zumindest teilweise in einen Vorrat eines Mediums eintaucht und in dem Medium mittels Überführen des Mediums aus einem flüssigen Zustand in einen verfestigten Zustand fixiert wird, wobei das Medium mittels Beaufschlagen mit einer Stellgrösse aus dem flüssigen Zustand in den verfestigten Zustand überführt wird.
+</P>
+<P>
+2. Verfahren nach Anspruch 1 , dadurch g e k enn z e i c hn et, dass als Medium ein Medium wenigstens einer Materialart entsprechend ausgewählt aus der folgenden Gruppe von Materialarten verwendet wird: rheologisches Material wie elektrorheologisches Material oder magnetorheologisches Material und Bingham-Körper.
+</P>
+<P>
+3. Verfahren nach Anspruch 1 oder 2, dadurch g e k e nnz e i ch n et, dass die Feststellkraft mittels Überführen des Mediums aus dem flüssigen Zustand in den verfestigten Zustand von einer Anfangsfeststellkraft zu einer Endfeststellkraft kontinuierlich erhöht wird.
+</P>
+<P>
+4. Verfahren nach einem der vorangehenden Ansprüche, dadurch g ek e nn z e i chn e t, dass die Feststellkraft zufällige Bewegungen des veiiagerbaren Bauteils (1) in der Endstellung (10) dämpfend, wahlweise vollständig verhindernd gebildet wird.
+</P>
+<P>
+5. Verfahren nach einem der vorangehenden Ansprüche, dadurch g e k e nn z e i chn e t, dass das Feststellbauteil an das Aktorelement (2) gekoppelt ist und mittels Überführen des Mediums aus dem flüssigen Zustand in den verfestigten Zustand das Aktorelement (2) fixiert wird.
+</P>
+<P>
+6. Verfahren nach einem der Ansprüche 1 bis 4, dadurch g e k e n n z e i chn et, dass das Aktorelement (2) nach dem Feststellen des verlagerbaren Bauteils (1) in der Endstellung (10) von dem verlagerbaren Bauteil (1) gelöst und das verlagerbare Bauteil (1) nach dem Lösen des Aktorelementes (2) mit Hilfe der Feststellkraft in der Endstellung (10) gehalten wird, wahlweise ausschliesslich mittels der Feststellkraft.
+</P>
+<P>
+7. Verfahren nach einem der vorangehenden Ansprüche, dadurch g ek e nnz ei chn e t, dass das Medium aus dem flüssigen Zustand in den verfestigten Zustand überführt wird, indem beim Beaufschlagen des Mediums mit der Stellgrösse wenigstens ein Parameter ausgewählt aus der folgenden Gruppe von Parametern eingestellt wird: Temperatur, eingestrahlte elektromagnetischen Wellen, elektrische Spannung und Magnetkraft.
+</P>
+<P>
+8. Verfahren nach einem der vorangehenden Ansprüche, dadurch g e k e nn z e i chn et, dass das verlagerbare Bauteil (1) frei von einer mittels Reibung erzeugenden Führungselementen gebildeten Führung in die Endstellung (10) verlagert wird.
+</P>
+<P>
+9. Verfahren nach einem der vorangehenden Ansprüche, dadurch g e k e n n z e i chn et, dass das Feststellbauteil als Element eines Mechanismus ausgewählt aus der folgenden Gruppe von Mechanismen gebildet ist: Gelenkmechanismus und Teleskopmechanismus.
+</P>
+<P>
+10. Verfahren nach einem der vorangehenden Ansprüche, dadurch g ek ennz ei chn et, dass mit dem Verlagern des verlagerbaren Bauteils (1) zumindest eine Betriebsfunktion ausgewählt aus der folgenden Gruppe von Betriebsfunktionen ausgeführt wird: Verlagerung einer Messprobenaufnahme und Verlagerung einer Messsondenaufhahme.
+</P>
+<P>
+11. Vorrichtung zum Positionieren eines verlagerbaren Bauteils in einem Untersuchungssystem, insbesondere einem Mess- oder Analysesystem, mit:
+</P>
+<P>
+- einem verlagerbaren Bauteil (1),
+</P>
+<P>
+- einem an das verlagerbare Bauteil (1) gekoppelten Aktorelement (2), welches bewegbar ist, um das verlagerbare Bauteil (1) aus einer Ausgangstellung in eine Endstellung (10) zu verlagern, und
+</P>
+<P>
+- einer Feststelleinrichtung mit: - einem Feststellbauteil, welches mit dem verlagerbaren Bauteil (1) in Verbindung steht,
+</P>
+<P>
+- einem Vorrat eines Mediums, in welches das Feststellbauteil wenigstens teilweise eingetaucht werden kann, und
+</P>
+<P>
+- einer Steuereinrichtung, die konfiguriert ist, das Medium mit einer Stellgrösse zu beaufschlagen, um das Medium zwischen einem flüssigen Zustand und einem verfestigten Zustand, wahlweise bis hin zu einer Festkörperausprägung, zu überführen.
+</P>
+<P>
+12. Vorrichtung nach Anspruch 11, dadurch gekennzeichnet, dass das Medium ein Medium wenigstens einer Materialart ausgewählt aus der folgenden Gruppe von Materialarten entspricht: Theologisches Material wie elektrorheologisches Material oder magnetorheologisches Material und Bingham-Körper.
+</P>
+<P>
+13. Vorrichtung nach Anspruch 11 oder 12, dadurch gekennzeichnet, dass die Feststelleinrichtung konfiguriert ist, die Feststellkraft mittels Überführen des Mediums aus dem flüssigen Zustand in den verfestigten Zustand von einer Anfangsfeststellkraft zu einer Endfeststellkraft kontinuierlich zu erhöhen.
+</P>
+<P>
+14. Vorrichtung nach einem der Ansprüche 11 bis 13, dadurch gekennzeichnet, dass die Feststelleinrichtung konfiguriert ist, die Feststellkraft zufällige Bewegungen des verlagerbaren Bauteils (1) in der Endstellung (10) dämpfend, wahlweise vollständig verhindernd auszubilden.
+</P>
+<P>
+15. Vorrichtung nach einem der Ansprüche 11 bis 14, dadurch gekennzeichnet, dass das Feststellbauteil an das Aktorelement (2) gekoppelt ist, welches mittels des Überführens des Mediums aus dem flüssigen Zustand in den verfestigten Zustand das Aktorelement (2) fixierbar ist.
+</P>
+<P>
+16. Vorrichtung nach einem der Ansprüche 11 bis 14, dadurch gekennzeichnet, dass das Aktorelement (2) nach dem Feststellen des verlagerbaren Bauteils (1) in der Endstellung (10) von dem verlagerbaren Bauteil (1) lösbar und das verlagerbare Bauteil (1) nach dem Lösen des Aktorelementes (2) mit Hilfe der Feststellkraft in der Endstellung (10) haltbar ist, wahlweise ausschliesslich mittels der Feststellkraft.
+</P>
+<P>
+17. Vorrichtung nach einem der Ansprüche 11 bis 16, dadurch gekennzeichnet, dass die Steuereinrichtung konfiguriert ist, beim Beaufschlagen des Mediums mit der Stellgrösse wenigstens ein Parameter ausgewählt aus der folgenden Gruppe von Parametern einzustellen: Temperatur, eingestrahlte elektromagnetischen Wellen, elektrische Spannung und Magnetkraft.
+</P>
+<P>
+18. Vorrichtung nach einem der Ansprüche 11 bis 17, dadurch gekennzeichnet, dass das verlagerbare Bauteil (1) frei von einer mittels Reibung erzeugenden Führungselementen gebildeten Führung in die Endstellung (10) verlagerbar ist.
+</P>
+<P>
+19. Vorrichtung nach einem der Ansprüche 11 bis 18, dadurch gekennzeichnet, dass das Feststellbauteil als Element eines Mechanismus ausgewählt aus der folgenden Gruppe von Mechanismen gebildet ist: Gelenkmechanismus und Teleskopmechanismus.
+</P>
+<P>
+20. Vorrichtung nach einem der Ansprüche 11 bis 19, dadurch gekennzeichnet, dass das verlagerbare Bauteil (1) als ein Funktionsbauteil ausgewählt aus der folgenden Gruppe von Funktionsbauteilen ausgeführt ist: Messprobenaufhahme und Messsondenaufhahme.
+</P>
+<P>
+21. Vorrichtung nach einem der Ansprüche 11 bis 20, dadurch gekennzeichnet, dass das Aktorelement (2) an ein piezoelektrisch betriebenes Stellelement gekoppelt ist.
+</P>
+</Claims>
+<Also_published_as>
+EP1929267B1;WO2007036222A2;WO2007036222A3;US2009140685A1;US7934323B2;JP2009510408A;DE112006003242A5;CN101317080A
+</Also_published_as>
+</BiblioData>

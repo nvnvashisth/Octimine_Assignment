@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PARTICLE ENCAPSULATED NANOSWITCH
+</Title>
+<PublicationNumber>
+EP1991724A2
+</PublicationNumber>
+<Inventor>
+<Name>
+XIN HAO [US]
+</Name>
+<Name>
+LEONARD JON [US]
+</Name>
+<Name>
+JIANG QING [US]
+</Name>
+<Name>
+GARAY JAVIER [US]
+</Name>
+<Name>
+OZKAN CENGIZ [US]
+</Name>
+<Name>
+XIN, HAO
+</Name>
+<Name>
+LEONARD, JON
+</Name>
+<Name>
+JIANG, QING
+</Name>
+<Name>
+GARAY, JAVIER
+</Name>
+<Name>
+OZKAN, CENGIZ
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+RAYTHEON CO [US]
+</Name>
+<Name>
+RAYTHEON COMPANY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1991724
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070756969
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US62112
+</PriorityNumber>
+<PriorityDate>
+2007-02-14
+</PriorityDate>
+<PriorityNumber>
+US20060353541
+</PriorityNumber>
+<PriorityDate>
+2006-02-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+D01F9/12
+</Class>
+<Class>
+H01H3/00
+</Class>
+<Class>
+H01H50/54
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C13/02N
+</Class>
+</NCL>
+<Abstract>
+The disclosed system, device and method for molecular-scale electronic switching generally includes a carbon nanotube, an anode, a cathode and two conductive particles encapsulated within the carbon nanotube, wherein the particles are configured to move between high resistance and low resistance states. Disclosed features and specifications may be variously controlled, adapted or otherwise optionally modified to realize improved switching function.
+</Abstract>
+<Claims>
+<P>
+We claim:
+</P>
+<P>
+1. A molecular-scale electronic switch device, said switch comprising:
+</P>
+<P>
+a carbon nanotube;
+</P>
+<P>
+an anode operatively connected to a first location on said carbon nanotube;
+</P>
+<P>
+a cathode operatively connected to a second location on said carbon nanotube; and
+</P>
+<P>
+at least two at least partially conductive particles encapsulated within said carbon nanotube, wherein the particles are suitably configured to move into positions proximal to each other, said proximal positions suitably configured for completion of an electronic circuit.
+</P>
+<P>
+2. The device of claim 1, wherein at least one of said encapsulated particles comprises at least one of Cobalt, Nickel, C60, magnetic materials, semiconducting materials and ferromagnetic materials.
+</P>
+<P>
+3. The device of claim 1, wherein the carbon nanotube comprises at least one of a single-walled nanotube, a double-walled nanotube and a multi-walled nanotube.
+</P>
+<P>
+4. The device of claim 1, wherein at least one of said anode and said cathode are connected to the carbon nanotube via an at least partially conductive molecular moiety.
+</P>
+<P>
+5. The device of claim 4, wherein at least one of said anode and said cathode comprises an at least partially conductive molecular moiety.
+</P>
+<P>
+6. The device of claim 1, wherein said anode and said cathode are configured to induce movement of said particles into positions proximal to each other suitably disposed for conduction of electrons, wherein said movement of said particles is suitably configured to proceed with the application a voltage potential across said anode and cathode.
+</P>
+<P>
+7. The device of claim 6, wherein the voltage source is suitably adapted for oscillatory actuation of said switch between at least one low resistance state and at least one high resistance state at a frequency of up to about 600 GHz.
+</P>
+<P>
+8. The switch device of claim 1, wherein said carbon nanotube is at least one of metallic and semi-conducting.
+</P>
+<P>
+9. A method for molecular-scale electronic switching, said method comprising the steps of:
+</P>
+<P>
+providing a carbon nanotube;
+</P>
+<P>
+providing an anode operatively connected to a first location on said carbon nanotube;
+</P>
+<P>
+providing a cathode operatively connected to a second location on said carbon nanotube; and
+</P>
+<P>
+providing at least two at least partially conductive particles encapsulated within said carbon nanotube, wherein the particles are suitably configured to move into positions proximal to each other to complete an electronic circuit.
+</P>
+<P>
+10. The electronic switching method of claim 9, wherein said encapsulated particles are selected from the group consisting of Cobalt, Nickel, C60, magnetic materials, semiconducting materials, ferromagnetic materials and combinations thereof.
+</P>
+<P>
+11. The electronic switching method of claim 9, wherein the carbon nanotube comprises at least one of a single-walled nanotube, a double-walled nanotube and a multi-walled nanotube.
+</P>
+<P>
+12. The electronic switching method of claim 9, wherein at least one of said anode and said cathode are connected to said carbon nanotube via an at least partially conductive molecular moiety.
+</P>
+<P>
+13. The electronic switching method of claim 12, wherein at least one of said anode and said cathode comprises an at least partially conductive molecular moiety.
+</P>
+<P>
+14. The electronic switching method of claim 9, wherein said anode and said cathode are suitably configured to induce movement of said particles into positions proximal to each other disposed for conduction of electrons, wherein said movement of said particles is adapted to proceed with the application a voltage potential across said anode and said cathode.
+</P>
+<P>
+15. The electronic switching method of claim 14, wherein the voltage source is suitably adapted for oscillatory actuation between at least one low resistance state and at least one high resistance state at a frequency of up to about 600 GHz.
+</P>
+<P>
+16. The electronic switching method of claim 9, wherein said carbon nanotube is at least one of metallic and semi-conducting.
+</P>
+<P>
+17. A plurality of electronic switches according to claim 1, wherein said switches comprise at least one of a two-dimensional array and a three-dimensional array.
+</P>
+<P>
+18. The plurality of electronic switches of claim 17, wherein the two-dimensional array comprises a woven fabric of particle encapsulated carbon nanotubes.
+</P>
+<P>
+19. The plurality of electronic switches of claim 18, wherein said fabric comprises a plurality of logic junctions produces by at least one of weaving and photolithographic processes.
+</P>
+<P>
+20. The plurality of electronic switches of claim 19, wherein said logic fabric is suitably adapted for massively parallel processing of data.
+</P>
+</Claims>
+<Also_published_as>
+EP1991724A4;EP1991724B1;US2007192911A1;WO2007095564A2;WO2007095564A3;JP2009527102A
+</Also_published_as>
+</BiblioData>

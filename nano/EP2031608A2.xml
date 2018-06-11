@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Magnetoresistive element, magnetic head and magnetic recording/reproducing apparatus
+</Title>
+<PublicationNumber>
+EP2031608A2
+</PublicationNumber>
+<Inventor>
+<Name>
+FUKUZAWA HIDEAKI [JP]
+</Name>
+<Name>
+YUASA HIROMI [JP]
+</Name>
+<Name>
+HASHIMOTO SUSUMU [JP]
+</Name>
+<Name>
+IWASAKI HITOSHI [JP]
+</Name>
+<Name>
+FUKUZAWA, HIDEAKI
+</Name>
+<Name>
+YUASA, HIROMI
+</Name>
+<Name>
+HASHIMOTO, SUSUMU
+</Name>
+<Name>
+IWASAKI, HITOSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TOSHIBA KK [JP]
+</Name>
+<Name>
+KABUSHIKI KAISHA TOSHIBA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2031608
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080021804
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-07-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040254423
+</PriorityNumber>
+<PriorityDate>
+2004-07-23
+</PriorityDate>
+<PriorityNumber>
+JP20030201131
+</PriorityNumber>
+<PriorityDate>
+2003-07-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B5/00
+</Class>
+<Class>
+G11B5/39
+</Class>
+<Class>
+H01F10/16
+</Class>
+<Class>
+H01F10/30
+</Class>
+<Class>
+H01F10/32
+</Class>
+<Class>
+H01L43/08
+</Class>
+<Class>
+H01L43/10
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G11B5/39C1
+</Class>
+<Class>
+H01F10/32N
+</Class>
+</NCL>
+<Abstract>
+A magnetoresistive element comprising: a first magnetic layer (11) and a second magnetic layer (12) separate from each other, the first magnetic layer and the second magnetic layer each having a magnetization whose direction is substantially pinned;  and a non-magnetic conductive layer (3) electrically connecting the first and second magnetic layers, the non-magnetic conductive layer forming a path of spin-polarized electrons from the first magnetic layer to the second magnetic layer, and the non-magnetic conductive layer comprising a portion located between the first magnetic layer and the second magnetic layer, the portion being a sensing area, wherein the non-magnetic conductive layer is formed on an insulating layer (2) so as to be in contact with the first magnetic layer and second magnetic layer,;  the sensing area of the non-magnetic conductive layer located between the first magnetic layer and the second magnetic layer has a length of 100 nm or less, and the magnetoresistive clement has no magnetic layer in contact with the sensing area of the non-magnetic conductive layer.
+</Abstract>
+<Claims>
+<P>
+1. A magnetoresistive element comprising:
+</P>
+<P>
+a first magnetic layer and a second magnetic layer separate from each other, the first magnetic layer and the second magnetic layer each having a magnetization whose direction is substantially pinned; and
+</P>
+<P>
+a non-magnetic conductive layer electrically connecting the first and second magnetic layers, the non-magnetic conductive layer forming a path of spin-polarized electrons from the first magnetic layer to the second magnetic layer, and the non-magnetic conductive layer comprising a portion located between the first magnetic layer and the second magnetic layer, the portion being a sensing area, wherein
+</P>
+<P>
+the non-magnetic conductive layer is formed on an insulating layer so as to be in contact with the first magnetic layer and second magnetic layer,
+</P>
+<P>
+the sensing area of the non-magnetic conductive layer located between the first magnetic layer and the second magnetic layer has a length of 100 nm or less, and
+</P>
+<P>
+the magnetoresistive element has no magnetic layer in contact with the sensing area of the non-magnetic conductive layer.
+</P>
+<P>
+2. The magnetoresistive element according to claim 1, characterized in that the non-magnetic conductive layer has a thickness of 0.5 nm to 5 nm.
+</P>
+<P>
+3. The magnetoresistive element according to claim 1, characterized in that the non-magnetic conductive layer has a width of 100 nm or less, the width being perpendicular to the length of the sensing area of the non-magnetic conductive layer.
+</P>
+<P>
+4. The magnetoresistive element according to claim 1, characterized in that the non-magnetic conductive layer contains at least one element selected from the group consisting of Cu, Au, Ag, Ru, A1 and Rh.
+</P>
+<P>
+5. The magnetoresistive element according to claim 1, characterized in that the first magnetic layer and the second magnetic layer contain at least one element selected from the group consisting of Co, Fe and Ni.
+</P>
+<P>
+6. The magnetoresistive element according to claim 1, characterized by further comprising antiferromagnetic layers provided in contact with the first magnetic layer and the second magnetic layer, respectively.
+</P>
+<P>
+7. The magnetoresistive element according to claim 1, characterized in that the first magnetic layer and the second magnetic layer are formed of a hard magnetic layer containing Co or Fe.
+</P>
+<P>
+8. The magnetoresistive element according to claim 1, characterized in that the first magnetic layer and the second magnetic layer are disposed on the same surface of the non-magnetic conductive layer with a distance which defines a track width of the magnetoresistive element.
+</P>
+<P>
+9. The magnetoresistive element according to claim 1, characterized in that the magnetization of the first and second magnetic layers is pinned upward from an air-bearing surface.
+</P>
+<P>
+10. A magnetic head assembly comprising a magnetoresistive element comprising:
+</P>
+<P>
+a first magnetic layer and a second magnetic layer separate from each other, the first magnetic layer and the second magnetic layer each having a magnetization whose direction is substantially pinned; and
+</P>
+<P>
+a non-magnetic conductive layer electrically connecting the first and second magnetic layers, the non-magnetic conductive layer forming a path of spin-polarized electrons from the first magnetic layer to the second magnetic layer, and the non-magnetic conductive layer comprising a portion located between the first magnetic layer and the second magnetic layer, the portion being a sensing area, wherein
+</P>
+<P>
+the non-magnetic conductive layer is formed on an insulating layer so as to be in contact with the first magnetic layer and second magnetic layer,
+</P>
+<P>
+the sensing area of the non-magnetic conductive layer located between the first magnetic layer and the second magnetic layer has a length of 100 nm or less, and
+</P>
+<P>
+the magnetoresistive element has no magnetic layer in contact with the sensing area of the non-magnetic conductive layer.
+</P>
+<P>
+11. A magnetic reproducing apparatus comprising:
+</P>
+<P>
+a magnetic recording medium; and
+</P>
+<P>
+a magnetic head assembly comprising a magnetoresistive element comprising:
+</P>
+<P>
+a first magnetic layer and a second magnetic layer separate from each other, the first magnetic layer and the second magnetic layer each having a magnetization whose direction is substantially pinned; and a non-magnetic conductive layer electrically connecting the first and second magnetic layers, the non-magnetic conductive layer forming a path of spin-polarized electrons from the first magnetic layer to the second magnetic layer, and the non-magnetic conductive layer comprising a portion located between the first magnetic layer and the second magnetic layer, the portion being a sensing area, wherein
+</P>
+<P>
+the non-magnetic conductive layer is formed on an insulating layer so as to be in contact with the first magnetic layer and second magnetic layer,
+</P>
+<P>
+the sensing area of the non-magnetic conductive layer located between the first magnetic layer and the second magnetic layer has a length of 100 nm or less, and
+</P>
+<P>
+the magnetoresistive element has no magnetic layer in contact with the sensing area of the non-magnetic conductive layer.
+</P>
+<P>
+12. A magnetoresistive element comprising:
+</P>
+<P>
+a first magnetic layer and a second magnetic layer separated from each other, the first magnetic layer and the second magnetic layer each having a magnetization; and
+</P>
+<P>
+a non-magnetic conductive layer formed in contact with the first magnetic layer and the second magnetic layer and electrically connecting the first and second magnetic layers, the non-magnetic conductive layer comprising a portion located between the first magnetic layer and the second magnetic layer,wherein a magnetization direction of each of the first magnetic layer and the second magnetic layer is substantially pinned, and in that the non-magnetic conductive layer forms a path of spin-polarized electrons from one of the magnetic layer to the other magnetic layer, the portion thereof located between the first magnetic layer and the second magnetic layer being a sensing area, and the sensing area of the non-magnetic conductive layer located between the first magnetic layer and the second magnetic layer has a length of 100 nm or less.
+</P>
+</Claims>
+<Also_published_as>
+EP2031608A3;EP1505610A2;EP1505610A3;EP1505610B1;US2005057862A1;US7471492B2;US2009097166A1;US7719799B2;KR20050012168A;KR100776870B1;JP2005044895A;CN1577495A;CN1323386C
+</Also_published_as>
+</BiblioData>

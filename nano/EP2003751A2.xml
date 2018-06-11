@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Semiconductor optical amplifying device, system and element
+</Title>
+<PublicationNumber>
+EP2003751A2
+</PublicationNumber>
+<Inventor>
+<Name>
+TANAKA SHINSUKE [JP]
+</Name>
+<Name>
+MORITO KEN [JP]
+</Name>
+<Name>
+YAMAZAKI SUSUMU [JP]
+</Name>
+<Name>
+TANAKA, SHINSUKE
+</Name>
+<Name>
+MORITO, KEN
+</Name>
+<Name>
+YAMAZAKI, SUSUMU
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FUJITSU LTD [JP]
+</Name>
+<Name>
+FUJITSU LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2003751
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080155511
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070159447
+</PriorityNumber>
+<PriorityDate>
+2007-06-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B6/122
+</Class>
+<Class>
+H01S5/50
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B6/122T
+</Class>
+<Class>
+H01S5/50B
+</Class>
+</NCL>
+<Abstract>
+A polarization-independent SOA having an InP substrate (11) used as a semiconductor substrate, and an active layer (14) taking an MQW structure formed of a barrier layer (14a) made of GaInAs with tensile strain applied thereto and a well layer (14b) made of GaInNAs with no strain applied thereto alternately laminated in a plurality of layers, e.g. four layers of the well layer (14b) and five layers of the barrier layer (14a). The SOA may find application in a WDM system owing to its relatively linear gain independent of the polarization state of light being amplified.
+</Abstract>
+<Claims>
+<P>
+1. A semiconductor optical amplifying device, comprising:
+</P>
+<P>
+a semiconductor substrate; and
+</P>
+<P>
+an active layer provided over said semiconductor substrate,wherein an incident light signal being incident from a light incident end surface of said active layer is amplified to be radiated as a radiation light signal from a light radiation end surface of said active layer while suppressing resonances of the light caused by reflections at the light incident end surface and the light radiation end surface, and a gain that the radiation light signal achieves is kept substantially constant without depending on a polarization state of the incident light signal;
+</P>
+<P>
+said semiconductor substrate is made of InP; and
+</P>
+<P>
+said active layer takes a multiple quantum well structure formed of a barrier layer made of GaInAs with tensile strain applied thereto and a well layer made of GaInNAs alternately laminated in one or a plurality of layers.
+</P>
+<P>
+2. The semiconductor optical amplifying device according to claim 1,
+</P>
+<P>
+wherein no strain is applied to the well layer.
+</P>
+<P>
+3. The semiconductor optical amplifying device according to claim 1,
+</P>
+<P>
+wherein a compressive strain is applied to the well layer.
+</P>
+<P>
+4. The semiconductor optical amplifying device according to any preceding claim,
+</P>
+<P>
+wherein a composition ratio of nitrogen (N) in GaInNAs of the well layer is within a range of not less than 0.05% nor more than 0.5%.
+</P>
+<P>
+5. The semiconductor optical amplifying device according to any preceding claim, further comprising
+</P>
+<P>
+a pair of cladding layers vertically sandwiching said active layer.
+</P>
+<P>
+6. The semiconductor optical amplifying device according to claim 5,
+</P>
+<P>
+wherein said cladding layers are formed to cover end tip surfaces of said active layer in the light incident end surface and the light radiation end surface.
+</P>
+<P>
+7. The semiconductor optical amplifying device according to any preceding claim, further comprising
+</P>
+<P>
+a current constriction structure burying a periphery of said active layer with a multi-layered body of a p-type InP and an n-type InP.
+</P>
+<P>
+8. The semiconductor optical amplifying device according to any of claims 1 to 6, further comprising
+</P>
+<P>
+a current constriction structure burying a periphery of said active layer with a semi-insulating InP.
+</P>
+<P>
+9. The semiconductor optical amplifying device according to any preceding claim,
+</P>
+<P>
+wherein said active layer is formed such that a width thereof gradually narrows from a center portion toward the respective light incident end surface and light radiation end surface.
+</P>
+<P>
+10. The semiconductor optical amplifying device according to any preceding claim,
+</P>
+<P>
+wherein said active layer is formed to have an angle from a perpendicular with respect to cleaved surfaces of said semiconductor substrate.
+</P>
+<P>
+11. A semiconductor optical amplifying system, comprising:
+</P>
+<P>
+an input section for inputting a light signal;
+</P>
+<P>
+a semiconductor optical amplifying device for amplifying the light signal passed through said input section;
+</P>
+<P>
+an output section for outputting the light signal amplified in said semiconductor optical amplifying device; and
+</P>
+<P>
+a focusing section provided at least either between said input section and said semiconductor optical amplifying device, or between said semiconductor optical amplifying device and said output section,wherein said semiconductor optical amplifying device comprises:
+</P>
+<P>
+a semiconductor substrate; and
+</P>
+<P>
+an active layer provided over said semiconductor substrate,wherein an incident light signal emitted from a light incident end surface of said active layer is amplified to be radiated as a radiation light signal from a light radiation end surface of said active layer while suppressing resonances of the light caused by reflections at the light incident end surface and the light radiation end surface, and a gain that the radiation light signal achieves is kept substantially constant without depending on a polarization state of the incident light signal;
+</P>
+<P>
+said semiconductor substrate is made of InP; and
+</P>
+<P>
+said active layer takes a multiple quantum well structure formed of a barrier layer made of GaInAs with tensile strain applied thereto and a well layer made of GaInNAs alternately laminated in one or a plurality of layers.
+</P>
+<P>
+12. The semiconductor optical amplifying system according to claim 11,
+</P>
+<P>
+wherein no strain is applied to the well layer.
+</P>
+<P>
+13. The semiconductor optical amplifying system according to claim 11,
+</P>
+<P>
+wherein a compressive strain is applied to the well layer.
+</P>
+<P>
+14. A semiconductor optical integrated element, comprising:
+</P>
+<P>
+a semiconductor substrate made of InP; and
+</P>
+<P>
+a plurality of semiconductor optical amplifying device integrated on said semiconductor substrate and configured including said semiconductor substrate,
+</P>
+<P>
+wherein each of said semiconductor optical amplifying device comprises
+</P>
+<P>
+an active layer provided over said semiconductor substrate, and wherein
+</P>
+<P>
+an incident light signal from a light incident end surface of said active layer is amplified to be radiated as a radiation light signal from a light radiation end surface of said active layer while suppressing resonances of the light caused by reflections at the light incident end surface and the light radiation end surface, and a gain that the radiation light signal achieves is kept constant without depending on a polarization state of the incident light signal; and
+</P>
+<P>
+said active layer having a multiple quantum well structure formed of a barrier layer made of GaInAs with tensile strain applied thereto and a well layer made of GaInNAs alternately laminated in one or a plurality of layers.
+</P>
+<P>
+15. The semiconductor optical integrated element according to claim 14,
+</P>
+<P>
+wherein no strain is applied to the well layer.
+</P>
+<P>
+16. The semiconductor optical integrated element according to claim 14,
+</P>
+<P>
+wherein a compressive strain is applied to the well layer.
+</P>
+<P>
+17. The semiconductor optical integrated element according to claim 14, 15 or 16,
+</P>
+<P>
+wherein said semiconductor optical integrated element is formed by arranging a plurality of said semiconductor optical amplifying device, lined up in parallel, being input sections through which light signals freely enter, an optical coupler through which only the light signal from an arbitrary one of said semiconductor optical amplifying device among said respective semiconductor optical amplifying device passes through, and said semiconductor optical amplifying device being an output section for amplifying and thereby outputting the light signal passed through said optical coupler, on said semiconductor substrate.
+</P>
+<P>
+18. The semiconductor optical integrated element according to claim 17,
+</P>
+<P>
+wherein optical waveguides are provided between said respective semiconductor optical amplifying device being the input sections and said optical coupler, and an optical waveguide is provided between said optical coupler and said semiconductor optical amplifying device being the output section.
+</P>
+</Claims>
+<Also_published_as>
+EP2003751A3;EP2003751B1;US2008310012A1;US7859745B2;JP2008311536A
+</Also_published_as>
+</BiblioData>

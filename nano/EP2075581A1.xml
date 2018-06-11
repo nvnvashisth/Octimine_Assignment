@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SEMICONDUCTOR NANOPARTICLE AGGREGATE, PROCESS FOR PRODUCING THE SEMICONDUCTOR NANOPARTICLE AGGREGATE, AND BIOLOGICAL SUBSTANCE LABELING AGENT USING THE SEMICONDUCTOR NANOPARTICLE AGGREGATE
+</Title>
+<PublicationNumber>
+EP2075581A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FURUSAWA NAOKO [JP]
+</Name>
+<Name>
+TSUKADA KAZUYA [JP]
+</Name>
+<Name>
+OKADA HISATAKE [JP]
+</Name>
+<Name>
+FURUSAWA, NAOKO
+</Name>
+<Name>
+TSUKADA, KAZUYA
+</Name>
+<Name>
+OKADA, HISATAKE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONICA MINOLTA MED &amp; GRAPHIC [JP]
+</Name>
+<Name>
+KONICA MINOLTA MEDICAL &amp; GRAPHIC, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2075581
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070806648
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP67181
+</PriorityNumber>
+<PriorityDate>
+2007-09-04
+</PriorityDate>
+<PriorityNumber>
+JP20060249207
+</PriorityNumber>
+<PriorityDate>
+2006-09-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N21/64
+</Class>
+<Class>
+G01N21/78
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/58
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/543D6
+</Class>
+<Class>
+G01N33/58J
+</Class>
+</NCL>
+<Abstract>
+This invention provides a semiconductor nanoparticle aggregate comprising three or more types of semiconductor nanoparticles, which are different from each other in diameter, have a narrow particle size distribution, and are different from each other in maximum luminous wavelength of an emission spectrum in a wavelength region of 380 nm to 650 nm, a process for producing the semiconductor nanoparticle aggregate, and a biological substance labeling agent utilizing the semiconductor nanoparticle aggregate. The semiconductor nanoparticle aggregate comprises three or more types of semiconductor nanoparticles which have an identical chemical composition, are different from each other in particle diameter and fall within a particle diameter range of 1.8 to 4 nm and are different from each other in maximum luminous wavelength of an emission spectrum in a wavelength range of 380 to 650 nm. The semiconductor nanoparticle aggregate is characterized in that the difference in maximum luminous wavelength among three or more types of semiconductor nanoparticles constituting the semiconductor nanoparticle aggregate is in the range of 20 to 100 nm.
+</Abstract>
+<Claims>
+<P>
+1. A semiconductor nanoparticle aggregate comprising at least 3 types of semiconductor nanoparticles each having the same chemical composition, a different average particle diameter in a range of 1.8 - 4 nm, and a different maximum emission wavelength in emission spectra in a wavelength region of 380 nm - 650 nm,
+</P>
+<P>
+wherein a difference of wavelength between the maximum emission wavelengths is 20 - 100 nm.
+</P>
+<P>
+2. The semiconductor nanoparticle aggregate of claim 1,
+</P>
+<P>
+wherein at least 1 type of the semiconductor nanoparticles comprises a compound having a chemical composition exhibiting a bulk crystal band gap of 1.3 eV or less.
+</P>
+<P>
+3. The semiconductor nanoparticle aggregate of claim 1 or 2, wherein a half-value width of an emission band of the maximum emission wavelength in the emission spectrum of at least 1 type of the semiconductor nanoparticle is 50 nm or less.
+</P>
+<P>
+4. The semiconductor nanoparticle aggregate in any of claims 1 - 3, wherein the half-value width of the emission band of the maximum emission wavelength in the emission spectrum of at least 1 type of the semiconductor nanoparticle is 20 nm or less.
+</P>
+<P>
+5. The semiconductor nanoparticle aggregate in any of claims 1 - 4, wherein the semiconductor nanoparticles are classified particles.
+</P>
+<P>
+6. The semiconductor nanoparticle aggregate of claim 5,
+</P>
+<P>
+wherein the classification is carried out using a high-performance liquid chromatography method.
+</P>
+<P>
+7. A method for producing the semiconductor nanoparticle aggregate in any of claims 1 - 4, wherein a classification process of semiconductor nanoparticles is incorporated.
+</P>
+<P>
+8. The method for producing a semiconductor nanoparticle aggregate of claim 7, wherein the high-performance liquid chromatography method is used in the classification process.
+</P>
+<P>
+9. A biological substance labeling agent, wherein the semiconductor nanoparticle aggregate in any of claims 1 - 6 and a molecule labeling substance are bonded via an organic molecule.
+</P>
+</Claims>
+<Also_published_as>
+US2010038626A1;WO2008032599A1
+</Also_published_as>
+</BiblioData>

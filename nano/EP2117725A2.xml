@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHODS AND MATERIALS FOR FABRICATING LAMINATE NANOMOLDS AND NANOPARTICLES THEREFROM
+</Title>
+<PublicationNumber>
+EP2117725A2
+</PublicationNumber>
+<Inventor>
+<Name>
+ROLLAND JASON P [US]
+</Name>
+<Name>
+MAYNOR BENJAMIN [US]
+</Name>
+<Name>
+HENN ROBERT L [US]
+</Name>
+<Name>
+ROLLAND, JASON, P
+</Name>
+<Name>
+MAYNOR, BENJAMIN
+</Name>
+<Name>
+HENN, ROBERT, L
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+LIQUIDIA TECHNOLOGIES INC [US]
+</Name>
+<Name>
+LIQUIDIA TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2117725
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070874162
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US24910
+</PriorityNumber>
+<PriorityDate>
+2007-12-04
+</PriorityDate>
+<PriorityNumber>
+US20060633763
+</PriorityNumber>
+<PriorityDate>
+2006-12-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B05D3/12
+</Class>
+<Class>
+B32B1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B29C33/40
+</Class>
+<Class>
+B29L31/756
+</Class>
+<Class>
+B32B3/30
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+A laminate nanomold includes a layer of perfluoropolyether defining a cavity that has a predetermined shape and a support layer coupled with the layer of perfluoropolyether. The laminate can also include a tie-layer coupling the layer of perfluoropolyether with the support layer. The tie-layer can also include a photocurable component and a thermal curable component. The cavity can have a broadest dimension of less than 500 nanometers.
+</Abstract>
+<Claims>
+<P>
+1. A laminate nanomold; comprising:
+</P>
+<P>
+a layer of perfluoropolyether, wherein the layer of perfluoropolyether defines a cavity having a predetermined shape; and
+</P>
+<P>
+a support layer coupled with the layer of perfluoropolyether.
+</P>
+<P>
+2. The laminate of claim 1, further comprising a tie-layer coupling the layer of perfluoropolyether with the support layer.
+</P>
+<P>
+3. The laminate of claim 2, wherein the tie-layer comprises a dual cure material.
+</P>
+<P>
+4. The laminate of claim 1, further comprising a plurality of cavities defined in the perfluoropolyether layer.
+</P>
+<P>
+5. The laminate of claim 4, wherein each cavity of the plurality of cavities comprise a predetermined shape selected from the group consisting of cylindrical, 200 nm diameter cylinders, cuboidal, 200 nm cuboidal, crescent, and concave disc.
+</P>
+<P>
+6. The laminate of claim 4, wherein the plurality of cavities comprise cavities of a variety of predetermined shapes.
+</P>
+<P>
+7. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 10 micrometers in a largest dimension.
+</P>
+<P>
+8. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 5 micrometers in a largest dimension.
+</P>
+<P>
+9. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 1 micrometers in a largest dimension.
+</P>
+<P>
+10. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 750 nanometers in a largest dimension.
+</P>
+<P>
+11. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 500 nanometers in a largest dimension.
+</P>
+<P>
+12. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 300 nanometers in a largest dimension.
+</P>
+<P>
+13. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 200 nanometers in a largest dimension.
+</P>
+<P>
+14. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 100 nanometers in a largest dimension.
+</P>
+<P>
+15. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 75 nanometers in a largest dimension.
+</P>
+<P>
+16. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 50 nanometers in a largest dimension.
+</P>
+<P>
+17. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 40 nanometers in a largest dimension.
+</P>
+<P>
+18. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 30 nanometers in a largest dimension.
+</P>
+<P>
+19. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 20 nanometers in a largest dimension.
+</P>
+<P>
+20. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 10 nanometers in a largest dimension.
+</P>
+<P>
+21. The laminate of claim 1, wherein the perfluoropolyether layer is less than about 50 micrometers thick.
+</P>
+<P>
+22. The laminate of claim 1, wherein the perfluoropolyether layer is less than about 40 micrometers thick.
+</P>
+<P>
+23. The laminate of claim 1, wherein the perfluoropolyether layer is less than about 30 micrometers thick.
+</P>
+<P>
+24. The laminate of claim 1, wherein the perfluoropolyether layer is less than about 20 micrometers thick.
+</P>
+<P>
+25. The laminate of claim 1, wherein the perfluoropolyether layer is less than about 15 micrometers thick.
+</P>
+<P>
+26. The laminate of claim 1, wherein the perfluoropolyether layer is less than about 10 micrometers thick.
+</P>
+<P>
+27. The laminate of claim 1, wherein the support layer comprises a polymer.
+</P>
+<P>
+28. The laminate of claim 27, wherein the polymer of the support layer comprises polyethylene terephthalate.
+</P>
+<P>
+29. The laminate of claim 1, wherein the support layer is less than about 20 mil thick.
+</P>
+<P>
+30. The laminate of claim 1, wherein the support layer is less than about 15 mil thick.
+</P>
+<P>
+31. The laminate of claim 1, wherein the support layer is less than about 10 mil thick.
+</P>
+<P>
+32. The laminate of claim 1, wherein the support layer is less than about 5 mil thick.
+</P>
+<P>
+33. The laminate of claim 1, wherein the support layer introduces a modulus of greater than 1000 to the laminate.
+</P>
+<P>
+34. The laminate of claim 3, wherein the layer of perfluoropolyether is coupled with the support layer by photoinitiator coupling and thermalinitiator coupling.
+</P>
+<P>
+35. The laminate of claim 1, wherein the perfluoropolyether comprises a photocurable component.
+</P>
+<P>
+36. The laminate of claim 1, wherein the layer of perfluoropolyether has a footprint greater than about 25 square centimeters.
+</P>
+<P>
+37. The laminate of claim 1, wherein the layer of perfluoropolyether has a footprint greater than about 50 square centimeters.
+</P>
+<P>
+38. The laminate of claim 1, wherein the layer of perfluoropolyether has a footprint greater than about 100 square centimeters.
+</P>
+<P>
+39. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 5 micrometers from an adjacent cavity.
+</P>
+<P>
+40. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 2 micrometer from an adjacent cavity.
+</P>
+<P>
+41. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 1 micrometers from an adjacent cavity.
+</P>
+<P>
+42. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 750 nanometers from an adjacent cavity.
+</P>
+<P>
+43. The laminate of claim 4, wherein each cavity of the plurality of cavities is less than about 500 nanometers from an adjacent cavity.
+</P>
+<P>
+44. The laminate of claim 1, wherein the perfluoropolyether has less than about 10 percent sol fraction.
+</P>
+<P>
+45. A method of making a laminate nanomold; comprising:
+</P>
+<P>
+positioning a patterned master adjacent to a support layer;
+</P>
+<P>
+inserting the positioned patterned master and adjacent support layer between nips of a roll laminator;
+</P>
+<P>
+delivering a curable perfluoropolyether between the patterned master and the support layer adjacent an input side of the roll laminator;
+</P>
+<P>
+activating the roll laminator to laminate the patterned master with the support layer, wherein the curable perfluoropolyether is dispersed between the patterned master and the support layer; and
+</P>
+<P>
+treating the laminate to activate a curable component of the curable perfluoropolyether such that the perfluoropolyether is solidified.
+</P>
+<P>
+46. The method of claim 45, further comprising before positioning the patterned master adjacent the support layer, configuring a tie-layer with the support layer such that when activated the curable perfluoropolyether binds with the tie-layer.
+</P>
+<P>
+47. The method of claim 46, wherein the tie-layer comprises a dual cure material.
+</P>
+<P>
+48. The method of claim 45, wherein the patterned master includes a plurality of cavities comprising a predetermined shape selected from the group consisting of cylindrical, 200 nm diameter cylinders, cuboidal, 200 nm cuboidal, crescent, and concave disc.
+</P>
+<P>
+49. The method of claim 48, wherein the plurality of cavities comprise cavities of a variety of predetermined shapes.
+</P>
+<P>
+50. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 10 micrometers in a largest dimension.
+</P>
+<P>
+51. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 5 micrometers in a largest dimension.
+</P>
+<P>
+52. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 1 micrometers in a largest dimension.
+</P>
+<P>
+53. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 750 nanometers in a largest dimension.
+</P>
+<P>
+54. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 500 nanometers in a largest dimension.
+</P>
+<P>
+55. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 300 nanometers in a largest dimension.
+</P>
+<P>
+56. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 200 nanometers in a largest dimension.
+</P>
+<P>
+57. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 100 nanometers in a largest dimension.
+</P>
+<P>
+58. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 75 nanometers in a largest dimension.
+</P>
+<P>
+59. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 50 nanometers in a largest dimension.
+</P>
+<P>
+60. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 40 nanometers in a largest dimension.
+</P>
+<P>
+61. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 30 nanometers in a largest dimension.
+</P>
+<P>
+62. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 20 nanometers in a largest dimension.
+</P>
+<P>
+63. The method of claim 48, wherein each cavity of the plurality of cavities is less than about 10 nanometers in a largest dimension.
+</P>
+<P>
+64. The method of claim 45, wherein the perfluoropolyether layer is less than about 50 micrometers thick.
+</P>
+<P>
+65. The method of claim 45, wherein the perfluoropolyether layer is less than about 40 micrometers thick.
+</P>
+<P>
+66. The method of claim 45, wherein the perfluoropolyether layer is less than about 30 micrometers thick.
+</P>
+<P>
+67. The method of claim 45, wherein the perfluoropolyether layer is less than about 20 micrometers thick.
+</P>
+<P>
+68. The method of claim 45, wherein the perfluoropolyether layer is less than about 15 micrometers thick.
+</P>
+<P>
+69. The method of claim 45, wherein the perfluoropolyether layer is less than about 10 micrometers thick.
+</P>
+<P>
+70. The method of claim 45, wherein the support layer comprises a polymer.
+</P>
+<P>
+71. The method of claim 70, wherein the polymer of the support layer comprises polyethylene terephthalate.
+</P>
+<P>
+72. A laminate polymer mold, comprising:
+</P>
+<P>
+a first polymer layer;
+</P>
+<P>
+a second polymer layer; and
+</P>
+<P>
+a tie-layer disposed between the first polymer layer and the second polymer layer, wherein the tie-layer comprises a dual cure fluoropolymer.
+</P>
+<P>
+73. The laminate polymer mold of claim 72, wherein the polymer of the first or second layers includes a fluoropolymer.
+</P>
+<P>
+74. The laminate polymer mold of claim 73, wherein the polymer of the first or second layers includes a perfluoropolyether.
+</P>
+<P>
+75. The laminate polymer mold of claim 72, wherein the polymer of the first or second layers includes a polyethylene terephthalate.
+</P>
+<P>
+76. The laminate polymer mold of claim 72, wherein the fluoropolymer of the tie-layer includes a perfluoropolyether.
+</P>
+</Claims>
+<Also_published_as>
+US2008131692A1;US8128393B2;WO2008143650A2;WO2008143650A3;KR20090096493A;JP2010511544A;CN101668594A
+</Also_published_as>
+</BiblioData>

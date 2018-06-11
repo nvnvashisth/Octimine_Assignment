@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Carbon nanotubes, substrate and electron emission device with such carbon nanotubes and carbon nanotube synthesizing substrate as well as methods of and apparatus for making them
+</Title>
+<PublicationNumber>
+EP2014616A2
+</PublicationNumber>
+<Inventor>
+<Name>
+ANDO TOSHIHIRO [JP]
+</Name>
+<Name>
+NAKAGAWA KIYOHARU [JP]
+</Name>
+<Name>
+GAMO MIKA [JP]
+</Name>
+<Name>
+GAMO HIDENORI [JP]
+</Name>
+<Name>
+ANDO, TOSHIHIRO
+</Name>
+<Name>
+NAKAGAWA, KIYOHARU
+</Name>
+<Name>
+GAMO, MIKA
+</Name>
+<Name>
+GAMO, HIDENORI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NAT INST FOR MATERIALS SCIENCE [JP]
+</Name>
+<Name>
+TOPPAN PRINTING CO LTD [JP]
+</Name>
+<Name>
+NATIONAL INSTITUTE FOR MATERIALS SCIENCE
+</Name>
+<Name>
+TOPPAN PRINTING CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2014616
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080011321
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-24
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20060833305
+</PriorityNumber>
+<PriorityDate>
+2006-11-24
+</PriorityDate>
+<PriorityNumber>
+JP20050341181
+</PriorityNumber>
+<PriorityDate>
+2005-11-25
+</PriorityDate>
+<PriorityNumber>
+JP20060070030
+</PriorityNumber>
+<PriorityDate>
+2006-03-14
+</PriorityDate>
+<PriorityNumber>
+JP20060070031
+</PriorityNumber>
+<PriorityDate>
+2006-03-14
+</PriorityDate>
+<PriorityNumber>
+JP20060231314
+</PriorityNumber>
+<PriorityDate>
+2006-08-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/08
+</Class>
+<Class>
+B01J19/24
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+H01J1/304
+</Class>
+<Class>
+H01J9/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J35/00D
+</Class>
+<Class>
+B01J35/00D4
+</Class>
+<Class>
+B01J37/14
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+<Class>
+H01J1/304
+</Class>
+<Class>
+H01J9/02B2
+</Class>
+</NCL>
+<Abstract>
+A method of synthesizing carbon nanotubes by solid-liquid interfacial contact cracking, wherein a substrate carrying a catalyst composed of a transition metal or a transition metal oxide is heated in an organic liquid to synthesize a carbon nanotube on said substrate, comprises slowly cooling the substrate, thereby terminating the synthesizing reaction. An apparatus for synthesizing carbon nanotubes by solid-liquid interfacial contact cracking synthesis is also described.
+</Abstract>
+<Claims>
+<P>
+1. A method of synthesizing carbon nanotubes by solid-liquid interfacial contact cracking wherein a substrate carrying a catalyst composed of a transition metal or a transition metal oxide is heated in an organic liquid to synthesize a carbon nanotube on said substrate, characterized in that the method comprises the step of slowly cooling said substrate, thereby terminating the synthesizing reaction.
+</P>
+<P>
+2. A method according to claim 1, characterized in that said slow cooling step is a step in which, in terminating the synthesizing reaction, the energy for heating said substrate is switched off and in a predetermined time period thereafter said substrate is removed from said organic liquid into a gaseous atmosphere and is then held in the gaseous atmosphere.
+</P>
+<P>
+3. A method according to claim 1, characterized in that said slow cooling step comprises a step in which, in terminating the synthesizing reaction, said substrate is removed from said organic liquid into a gaseous atmosphere and in a predetermined time period thereafter the energy for heating said substrate is switched off and then said substrate is maintained in the gaseous atmosphere.
+</P>
+<P>
+4. A method according to claim 2 or claim 3, characterized in that said organic liquid is alcohol and said predetermined time period is not more than 10 seconds.
+</P>
+<P>
+5. A method according to claim 1, characterized in that said slow cooling step is a step in which, in terminating the synthesizing reaction, said substrate is removed from said organic liquid into a gaseous atmosphere and the energy for heating said substrate is decreased gradually and then switched off.
+</P>
+<P>
+6. A method according to any preceding claim, characterized in that said method of synthesis comprises,
+</P>
+<P>
+via a first step of synthesizing in organic liquid of alcohol at low substrate temperature, and
+</P>
+<P>
+a second step of synthesizing at high substrate temperature,
+</P>
+<P>
+a step of synthesizing carbon nanotubes on said substrate.
+</P>
+<P>
+7. A method according to any preceding claim, characterized in that said substrate with catalyst supported thereon is formed by forming cobalt thin film on a conductive substrate having a film thickness of not more than 10 nm, and thermally oxidizing said cobalt thin film in air at a temperature ranging between 800 deg. C and 1000 deg. C for a time period ranging between 5 minutes and 20 minutes.
+</P>
+<P>
+8. A method according to claim 7 when dependent on claim 6, characterized in that the substrate temperature of said first step of synthesis is in the range between 500 deg. Cand 700 deg. C, and the substrate temperature of said second step of synthesis is in the range between 750 deg. Cand 110 deg. C .
+</P>
+<P>
+9. A method according to any of claims 6 to 8, characterized in that said first synthesis process is carried out for a synthesis time period of not less than 10 seconds but not more than 3 minutes.
+</P>
+<P>
+10. An apparatus for synthesizing carbon nanotubes by solid-liquid interfacial contact cracking synthesis wherein a substrate carrying a catalyst composed of a transition metal or a transition metal oxide is heated in an organic liquid to synthesize carbon nanotubes onto said substrate, characterized in that it comprises
+</P>
+<P>
+a liquid tank to hold said organic liquid,
+</P>
+<P>
+a water-cooling means to hold said organic liquid at the temperature below boiling point,
+</P>
+<P>
+an introducing valve to introduce the gas as gaseous atmosphere to prevent contact of said organic liquid vapor and air,
+</P>
+<P>
+an electrode to hold said substrate and flow electric current to said substrate, and
+</P>
+<P>
+an electrode moving part to be connected to said electrode, wherein said electrode moving part takes out said substrate from said organic liquid into said gaseous atmosphere at a predetermined rate.
+</P>
+</Claims>
+<Also_published_as>
+EP2014616A3;EP1964809A1;EP1964809A4;US2010171409A1;KR20080072070A;WO2007061078A1;EP1988056A2;EP1988056A3
+</Also_published_as>
+</BiblioData>

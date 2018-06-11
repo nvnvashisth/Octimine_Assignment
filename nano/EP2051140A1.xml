@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+An extreme ultraviolet light source device and a method for generating extreme ultraviolet radiation
+</Title>
+<PublicationNumber>
+EP2051140A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HOSOKAI TOMONAO [JP]
+</Name>
+<Name>
+HORIOKA KAZUHIKO [JP]
+</Name>
+<Name>
+SEKI KYOHEI [JP]
+</Name>
+<Name>
+MIZOKOSHI HIROSHI [JP]
+</Name>
+<Name>
+HOSOKAI, TOMONAO
+</Name>
+<Name>
+HORIOKA, KAZUHIKO
+</Name>
+<Name>
+SEKI, KYOHEI
+</Name>
+<Name>
+MIZOKOSHI, HIROSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TOKYO INST TECH [JP]
+</Name>
+<Name>
+USHIO ELECTRIC INC [JP]
+</Name>
+<Name>
+TOKYO INSTITUTE OF TECHNOLOGY
+</Name>
+<Name>
+USHIODENKI KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2051140
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080018235
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-10-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070270121
+</PriorityNumber>
+<PriorityDate>
+2007-10-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/20
+</Class>
+<Class>
+H05G2/00
+</Class>
+<Class>
+G21K1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70B6
+</Class>
+<Class>
+H05G2/00P2
+</Class>
+</NCL>
+<Abstract>
+High temperature plasma raw material (21) is added drop-wise, for example, and evaporated by irradiation with a laser beam (23). The laser beam (23) passes through a discharge area between a pair of electrodes (21) and irradiates the high temperature plasma raw material (11,12). Pulsed power is applied to the space between the electrodes (11,12) in such a way that discharge current reaches a specified threshold value (Ip) at a time when at least part of the evaporated material reaches the discharge channel. As a result, discharge starts between the electrodes (11,12), plasma is heated and excited and then EUV radiation is generated. The EUV radiation thus generated passes through a foil trap (3), is collected by EUV radiation collector optics (2) and then extracted. The irradiation of the laser beam (23) allows selling of the space density of the high temperature plasma raw material (21) to a specified distribution and defining of the position of a discharge channel.
+</Abstract>
+<Claims>
+<P>
+1. An extreme ultraviolet light source device, comprising:
+</P>
+<P>
+a vessel,
+</P>
+<P>
+a raw material supply unit for supplying liquid or solid raw material for emitting extreme ultraviolet radiation inside the vessel,
+</P>
+<P>
+an energy beam irradiation means for irradiation of an energy beam to vaporize the raw material,
+</P>
+<P>
+a pair of electrodes placed with a gap therebetween for generating high temperature plasma by heating and exciting the vaporized raw material using discharge in the vessel;
+</P>
+<P>
+a pulsed power generator for supplying pulsed power to said pair of electrodes;
+</P>
+<P>
+extreme ultraviolet radiation collector optics for collecting extreme ultraviolet radiation emitted from said high temperature plasma;
+</P>
+<P>
+an extreme ultraviolet radiation extracting part for extracting collected extreme ultraviolet radiation in a discharge area formed by discharge in the pair of electrodes;wherein said energy beam irradiation means emits a laser beam via the gap between the electrodes to which power is applied for irradiating the raw material supplied to a space which is outside the discharge area and which allows the vaporized raw material to reach the discharge area, and
+</P>
+<P>
+wherein said energy beam irradiation means is adapted to start discharge inside said discharge area by said energy beam passing through the gap between the electrodes to which power is applied and defining a discharge channel at a specified position in said discharge area.
+</P>
+<P>
+2. The extreme ultraviolet light source device according to claim 1, wherein the timing of said energy beam passing through said discharge area, the timing of said energy beam being irradiated to the high temperature plasma raw material, energy of said energy beam in said discharge area, energy of said energy beam at a position at which it irradiates the high temperature plasma raw material, the direction of said energy beam to be irradiated and the position of said high temperature plasma raw material to be supplied relative to said discharge area have been set in advance in such a way that discharge current generated in said discharge area can exceed a specified threshold value at a time at least part of said vaporized raw material, which has a specified spatial density distribution, reaches said discharge area after said energy beam was irradiated from said energy beam irradiation means.
+</P>
+<P>
+3. The extreme ultraviolet light source device according to claim 1 or 2, wherein said raw material supply means is adapted to supply said material as droplets in the gravitational direction.
+</P>
+<P>
+4. The extreme ultraviolet light source device according to claim 1 or 2, wherein said raw material supply means is adapted to continuously supply a linear raw material.
+</P>
+<P>
+5. The extreme ultraviolet light source device according to claim 1 or 2, wherein said raw material supply means comprises a rotatable raw material supply disc and wherein said raw material supply means is adapted to supply said material as a liquid to a liquid raw material supply part of said raw material supply disc and wherein the liquid raw material supply part of said raw material supply disc is adapted to move the liquid material to an irradiation position of an energy beam by rotating of the raw material supply disc to which said liquid material is supplied.
+</P>
+<P>
+6. The extreme ultraviolet light source device according to claim 1 or 2, wherein said raw material supply means comprises a capillary and is adapted to supply said material as a liquid to an irradiating position of an energy beam via said capillary.
+</P>
+<P>
+7. The extreme ultraviolet light source device according to claim 1 or 2, wherein a tubular nozzle is provided at the position of an energy beam for irradiating said raw material and wherein said tubular nozzle is configured and arranged for spraying out at least part of the raw material vaporized by said energy beam.
+</P>
+<P>
+8. The extreme ultraviolet light source device according to claim 7, wherein a constricted area is provided inside of said tubular nozzle.
+</P>
+<P>
+9. The extreme ultraviolet light source device according to any one of claims 1 to 8, further comprising a magnetic field application means for applying a magnetic field to said discharge area substantially in parallel to the direction of discharge generated between said electrodes.
+</P>
+<P>
+10. The extreme ultraviolet light source device according to any one of claims 1 to 9, said electrodes are disc-shaped and rotatable in such a way that a discharge generating position on a surface of said electrodes changes.
+</P>
+<P>
+11. The extreme ultraviolet light source device according to claim 10, wherein edges of peripheral portions of said disc-shaped electrodes face each other with said gap therebetween.
+</P>
+<P>
+12. The extreme ultraviolet light source device according to any one of claims 1 to 11,
+</P>
+<P>
+wherein said energy beam is a laser beam.
+</P>
+<P>
+13. A method of generating extreme ultraviolet radiation, comprising the steps of:
+</P>
+<P>
+supplying a liquid or solid raw material for emitting extreme ultraviolet radiation to a space in a vessel in which a pair of electrodes to which power is applied are located,
+</P>
+<P>
+irradiating the raw material in said space with an energy beam so as to evaporate the raw material,
+</P>
+<P>
+delivering at least a portion of the raw material vaporized to a discharge space,
+</P>
+<P>
+generating high temperature plasma from the raw material vaporized by heating and exciting the raw material vaporized in said discharged space using discharge from said pair of electrodes to which power is applied, and
+</P>
+<P>
+then, generating extreme ultraviolet radiation from the high temperature plasma,wherein said energy beam, via the gap between the electrodes to which power is applied, irradiates the raw material supplied to a space which is outside of said discharge area and which allows the vaporized raw material to reach the discharge area, wherein by said laser beam passing through a gap between said electrodes to which power is applied, discharge is started in said discharge area and a discharge channel is fixed at a specified position in the discharge area.
+</P>
+<P>
+14. The method of generating extreme ultraviolet radiation according to claim 13,
+</P>
+<P>
+wherein the timing of said energy beam passing through said discharge area, the timing of said energy beam being irradiated to high temperature plasma raw material, the energy level of said energy beam in said discharge area, the energy level of said energy beam at a position at which it irradiates the high temperature plasma raw material, the direction of said energy beam and the position of said high temperature plasma raw material supplied relative to said discharge area are set in advance in such a way that discharge current generated in said discharge area will exceed a specified threshold value at a time at which at least part of said vaporized raw material, which has a specified spatial density distribution, reaches said discharge area after it is irradiated with said energy beam.
+</P>
+<P>
+15. The method of generating extreme ultraviolet radiation according to claim 14,
+</P>
+<P>
+wherein time data on discharge start timing is generated and wherein the irradiation timing of the energy beam is corrected based on said time data.
+</P>
+<P>
+16. The method of generating extreme ultraviolet radiation according to claim 15,
+</P>
+<P>
+wherein the energy beam irradiates said material at least once while discharge by the pair of electrodes is stopped in advance of irradiation by the energy beam for which the irradiation timing has been corrected.
+</P>
+</Claims>
+<Also_published_as>
+US2009127479A1;TW200919525A;KR20090039589A;JP2009099390A
+</Also_published_as>
+</BiblioData>

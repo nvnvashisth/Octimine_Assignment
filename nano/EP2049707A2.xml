@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CREATING LAYERS IN THIN- FILM STRUCTURES
+</Title>
+<PublicationNumber>
+EP2049707A2
+</PublicationNumber>
+<Inventor>
+<Name>
+WAITE MICHAEL STUART [GB]
+</Name>
+<Name>
+BURDEN ADRIAN PAUL [SG]
+</Name>
+<Name>
+LEE WARREN [GB]
+</Name>
+<Name>
+TUCK RICHARD ALLAN [GB]
+</Name>
+<Name>
+WAITE, MICHAEL, STUART
+</Name>
+<Name>
+BURDEN, ADRIAN, PAUL
+</Name>
+<Name>
+LEE, WARREN
+</Name>
+<Name>
+TUCK, RICHARD, ALLAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PRINTABLE FIELD EMITTERS LTD [GB]
+</Name>
+<Name>
+PRINTABLE FIELD EMITTERS LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2049707
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20030798199
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-09-24
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2003EP50656
+</PriorityNumber>
+<PriorityDate>
+2003-09-24
+</PriorityDate>
+<PriorityNumber>
+GB20020022360
+</PriorityNumber>
+<PriorityDate>
+2002-09-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C03C17/00
+</Class>
+<Class>
+C04B35/111
+</Class>
+<Class>
+C04B35/12
+</Class>
+<Class>
+C04B35/14
+</Class>
+<Class>
+C04B35/18
+</Class>
+<Class>
+C09D5/25
+</Class>
+<Class>
+C23C18/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C03C17/00D2
+</Class>
+<Class>
+C04B35/01
+</Class>
+<Class>
+C04B35/111
+</Class>
+<Class>
+C04B35/12
+</Class>
+<Class>
+C04B35/14
+</Class>
+<Class>
+C04B35/18
+</Class>
+<Class>
+C04B35/626A10M
+</Class>
+<Class>
+C04B35/63
+</Class>
+<Class>
+C04B35/632
+</Class>
+<Class>
+C23C18/12C2
+</Class>
+<Class>
+C23C18/12C2D
+</Class>
+<Class>
+C23C18/12C4
+</Class>
+<Class>
+C23C18/12J2
+</Class>
+</NCL>
+<Abstract>
+A layer of a material is created in a thin-film structure by coating a substrate (14) in one pass with an ink having a major, fugitive component (13) and at least one minor, non-fugitive component (12) and treating the ink to expel the major component (13) to leave the layer (15) of material. The layer (15) may be an electrically insulating layer having a thickness in the range 0.5 to 10 micrometres, with the ink containing non-fugitive colloidal ceramic nanoparticles having a size in the range 10 to 100 nanometres. The layer (15) may be a process control. layer, such as an etch stop layer or barrier layer. The layer (15) may be an optically emissive layer or a layer of predetermined electrical conductivity.
+</Abstract>
+<Claims>
+<P>
+CLAIMS 1. A method of creating a layer of electrically insulating material in a thin- film structure, the method comprising the steps of coating a substrate in one pass with an ink having a major, fugitive component and at least one minor, non-fugitive component and treating the ink to expel said major component to leave said layer of electrically insulating material, wherein said layer of electrically insulating material has a thickness in the range 0.5 to 10 micrometres, and said ink contains non-fugitive colloidal ceramic nanoparticles having a size in the range 10 to 100 nanometres.
+</P>
+<P>
+2. A method according to claim 1, wherein said nanoparticles comprise one or more simple or compound oxide, containing cations of one or more element.
+</P>
+<P>
+3. A method according to claim 2, wherein said one or more element is selected from the group comprising nitrides, oxynitrides, borates, silicates and phosphates.
+</P>
+<P>
+4. A method according to claim 1, 2 or 3, wherein said ink comprises an insulator precursor selected from the group comprising sols, organometallics and organic compounds containing non-metallic elements.
+</P>
+<P>
+5. A method according to claim 4, wherein said ink comprises an insulator precursor selected from the group comprising silica sol, polysiloxanes, silsequioxane polymers, (3-chloroethylsilsesquioxane, hydrogensilsequioxane, acetoxysilsesquioxane and H3BO3.
+</P>
+<P>
+6. A method of creating a process control layer of a material in a thin-film structure, the method comprising the steps of coating a substrate in one pass
+</P>
+<P>
+&amp;lt;Desc/Clms Page number 54&amp;gt;
+</P>
+<P>
+with an ink having a major, fugitive component and at least one minor, nonfugitive component and treating the ink to expel said major component to leave said layer of material.
+</P>
+<P>
+7. A method according to claim 6, wherein said process control layer is an etch stop layer.
+</P>
+<P>
+8. A method according to claim 7, wherein said etch stop layer is adapted to resist fluorine chemistry etching.
+</P>
+<P>
+9. A method according to claim 7 or 8, wherein said ink comprises a precursor for the process control layer which comprises at least one selected from the group comprising soluble compounds of the transition metals and sols of transition metal oxides.
+</P>
+<P>
+10. A method according to claim 9, wherein said transition metals have an atomic number in the range 21 to 30.
+</P>
+<P>
+11. A method according to claim 10, wherein said transition metal is chromium.
+</P>
+<P>
+12. A method according to claim 11, wherein said precursor comprises Cr (NO3) 3. 9Ha0.
+</P>
+<P>
+13. A method according to claim 6, wherein said process control layer is a barrier layer.
+</P>
+<P>
+14. A method according to claim 13, wherein said ink comprises a precursor for said layer that is selected from the group comprising silica sol, alumina sols, titania sol, alumina sol plus a soluble phosphate, alumina sol plus a soluble
+</P>
+<P>
+&amp;lt;Desc/Clms Page number 55&amp;gt;
+</P>
+<P>
+organophosphate, polysiloxanes, silsequioxane polymers, ss-chloroethylsilsesquioxane, hydrogensilsequioxane and acetoxysilsesquioxane.
+</P>
+<P>
+15. A method of creating an optically emissive layer of material in a thin- film structure, the method comprising the steps of coating a substrate in one pass with an ink having a major, fugitive component and at least one minor, non-fugitive component and treating the ink to expel said major component to leave said optically emissive layer of material.
+</P>
+<P>
+16. A method according to claim 15, wherein said optically emissive layer of material comprises a phosphor.
+</P>
+<P>
+17. A method according to claim 16, wherein said ink contains phosphor that has been added in dry, free-flowing powdered form, with a particle size in the range 1 to 10 micrometers.
+</P>
+<P>
+18. A method according to claim 17, wherein said particle size is in the range 3 to 5 micrometers.
+</P>
+<P>
+19. A method according to any of claims 15 to 18, wherein said ink comprises a soluble silica precursor comprising an oxide sol or organometallic complex soluble in the solvents used in the ink.
+</P>
+<P>
+20. A method according to any of the preceding claims, wherein the step of treating the ink comprises subjecting the ink to ultra-violet radiation.
+</P>
+<P>
+21. A method of creating a layer of a material of predetermined electrical conductivity in a thin-film structure, the method comprising the steps of coating a substrate in one pass with an ink having a major, fugitive component and at least one minor, non-fugitive component and treating the ink to expel said major
+</P>
+<P>
+&amp;lt;Desc/Clms Page number 56&amp;gt;
+</P>
+<P>
+component to leave said layer of material, wherein said minor, non-fugitive component comprises one or more soluble ceramic precursor.
+</P>
+<P>
+22. A method according to claim 21, wherein said minor, non-fugitive component comprises colloidal ceramic nanoparticles having a size in the range
+</P>
+<P>
+10 to 100 nanometres.
+</P>
+<P>
+23. A method according to claim 21, or 22, wherein said soluble ceramic precursor comprises one or more soluble compound of a metallic element that is a transition metal, rare earth element or main group element.
+</P>
+<P>
+24. A method according to claim 23, wherein said one or more soluble compound is selected from the group comprising La (NO3) 3. 6H20,
+</P>
+<P>
+Sr (NO3) 2. 2H20, Co (NO3) 2. 6H20, A1 (NO3) 3.9H 20, Co (NO3) 2. 6H 20,
+</P>
+<P>
+Ni (NO3) 2. 6H20, In (NO3) 3. 6H20, Fe (NO3) 3. 6H20 and AgNO3.
+</P>
+<P>
+25. A method according to any of claims 21 to 24, wherein said soluble ceramic precursor comprises one selected from the group comprising sols, organometallics and organic compounds containing non-metallic elements.
+</P>
+<P>
+26. A method according to any of the preceding claims, wherein the step of treating the ink comprises pyrolising the ink.
+</P>
+<P>
+27. A method according to claim 26, wherein said ink is pyrolised at a temperature that is equal to or greater than 400 C.
+</P>
+<P>
+28. A method according to any of the preceding claims, wherein the layer is a continuous layer.
+</P>
+<P>
+&amp;lt;Desc/Clms Page number 57&amp;gt;
+</P>
+<P>
+29. A method according to claim any of the preceding claims, wherein the layer is substantially crack-free.
+</P>
+<P>
+30. A method according to any of the preceding claims, wherein the layer is of uniform composition.
+</P>
+<P>
+31. A method according to any of the preceding claims, wherein the layer is of a compound material.
+</P>
+<P>
+32. A method according to any of the preceding claims, wherein the layer has a composite structure.
+</P>
+<P>
+33. A method according to any of the preceding claims, wherein said ink contains at least one additive to control the rheology of the ink.
+</P>
+<P>
+34. A method according to claim 33, wherein said at least one additive includes at least one thickening agent.
+</P>
+<P>
+35. A method according to claim 34, wherein said thickening agent comprises a fugitive soluble organic polymer.
+</P>
+<P>
+36. A method according to claim 35, wherein said fugitive soluble organic polymer is selected from the group comprising poly (vinyl) alcohol; ethyl cellulose; hydroxyethyl cellulose; carboxymethyl cellulose; methylhydroxypropyl cellulose; hydroxypropyl cellulose; xanthan gum; and guar gum.
+</P>
+<P>
+37. A method according to claim 34, wherein said thickening agent comprises a non-fugitive material.
+</P>
+<P>
+38. A method according to claim 37, wherein said non-fugitive material is selected from the group comprising fumed silica and Laponite.
+</P>
+<P>
+&amp;lt;Desc/Clms Page number 58&amp;gt;
+</P>
+<P>
+39. A method according to any of claims 33 to 38, wherein said ink comprises at least one further additive to control further properties of the ink.
+</P>
+<P>
+40. A method according to claim 39, wherein said at least one further additive comprises at least one of an anti-foaming agent; a levelling agent; a wetting agent; a preservative; an air-release agent; a retarder; and a dispersing agent.
+</P>
+<P>
+41. A method according to claim 40, wherein said anti-foaming agent is a fugitive material.
+</P>
+<P>
+42. A method according to claim 41, wherein said fugitive material is selected from the group comprising butyl cellosolve; n-octanol; emulsions of organic polymers and organic metal-compounds; and silicone-free defoaming substances in alkylbenezene.
+</P>
+<P>
+43. A method according to claim 40, wherein said anti-foaming agent is a non-fugitive material.
+</P>
+<P>
+44. A method according to claim 41, wherein said non-fugitive material comprises a silicone.
+</P>
+<P>
+45. A method according to any of claims 40 to 44, wherein said dispersing agent is selected from the group comprising poly (vinyl) alcohol; modified polyurethane in butylacetate, methoxypropylacetate and sec. butanol; modified polyacrylate in meythoxypropanol; polyethylene glycol mono (4- (1, 1,3, 3- tetramethylbutyl) phenyl) ether; and mineral oils.
+</P>
+<P>
+46. A method according to claim 45, wherein said dispersing agent comprises a silicone oil.
+</P>
+<P>
+&amp;lt;Desc/Clms Page number 59&amp;gt;
+</P>
+<P>
+47. A method according to any of claims 40 to 46, wherein said at least one further additive comprises at least one dispersing agent and at least one said minor component has an affinity for that dispersing agent.
+</P>
+<P>
+48. A method according to any of claims 40 to 47, wherein said levelling agent is selected from the group comprising poly (vinyl) alcohol; fluorocarbon modified polyacrylate in sec. butanol; organically modified polysiloxane in isobutanol; and solvent-free modified polysiloxane.
+</P>
+<P>
+49. A method according to any of claims 40 to 48, wherein said wetting agent is selected from the group comprising unsaturated polyamide and acid ester salt in xylene, n-butanol and monpropylenegylcol; and alkylol ammonium salt of a high molecular weight carboxylic acid in water.
+</P>
+<P>
+50. A method according to any of claims 40 to 49, wherein said preservative is selected from the group comprising phenols and formaldehydes.
+</P>
+<P>
+51. A method according to any of claims 40 to 50, wherein said air-release agent is selected from the group comprising silica particles and silicones.
+</P>
+<P>
+52. A method according to any of claims 40 to 51, wherein said retarder is selected from the group comprising 1,2-propanediol and terpineol.
+</P>
+<P>
+53. A method according to any of the preceding claims, wherein said coating step comprises screen printing.
+</P>
+<P>
+54. A method according to any of the preceding claims, wherein said coating step comprises ink-jet printing.
+</P>
+<P>
+&amp;lt;Desc/Clms Page number 60&amp;gt;
+</P>
+<P>
+55. A method according to any of claims 1 to 52, wherein said coating step comprises a step of printing selected from the group comprising offset lithography; pad printing; table coating and slot printing.
+</P>
+<P>
+56. A method substantially as hereinbefore described with reference to the accompanying drawings.
+</P>
+<P>
+57. A thin-film structure that has been created by a method according to any of the preceding claims.
+</P>
+<P>
+58. An optical device incorporating a thin-film structure according to claim 57.
+</P>
+<P>
+59. A sensing device incorporating a thin-film structure according to claim 57.
+</P>
+<P>
+60. An electronic device incorporating a thin-film structure according to claim 57.
+</P>
+<P>
+61. An electronic device according to claim 60, being a field emission device.
+</P>
+<P>
+62. An electronic device according to claim 61, comprising a plasma reactor, corona discharge device, silent discharge device, ozoniser, an electron source, electron gun, electron device, x-ray tube, vacuum gauge, gas filled device or ion thruster.
+</P>
+</Claims>
+<Also_published_as>
+WO2004029326A2;WO2004029326A3;US2006099328A1;GB2418874A;GB2418874A8;GB2418874B;GB2395922A;GB2395922B;AU2003299105A1
+</Also_published_as>
+</BiblioData>

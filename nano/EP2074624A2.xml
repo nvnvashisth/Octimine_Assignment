@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CROSSBAR-MEMORY SYSTEMS WITH NANOWIRE CROSSBAR JUNCTIONS
+</Title>
+<PublicationNumber>
+EP2074624A2
+</PublicationNumber>
+<Inventor>
+<Name>
+ROBINETT WARREN [US]
+</Name>
+<Name>
+KUEKES PHILIP J [US]
+</Name>
+<Name>
+ROBINETT, WARREN
+</Name>
+<Name>
+KUEKES, PHILIP J
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2074624
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070852786
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-10-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US22070
+</PriorityNumber>
+<PriorityDate>
+2007-10-16
+</PriorityDate>
+<PriorityNumber>
+US20060582208
+</PriorityNumber>
+<PriorityDate>
+2006-10-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C13/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G06F11/10M
+</Class>
+<Class>
+G06F11/10R
+</Class>
+<Class>
+G11C11/54
+</Class>
+<Class>
+G11C13/00R25A
+</Class>
+<Class>
+G11C13/00R25R
+</Class>
+<Class>
+G11C13/00R25W
+</Class>
+<Class>
+G11C13/02
+</Class>
+</NCL>
+<Abstract>
+Various embodiments of the present invention are directed to crossbar-memory systems to methods for writing information to and reading information stored in such systems. In one embodiment of the present invention, a crossbar-memory system comprises a first layer of microscale signal lines, a second layer of microscale signal lines, a first layer of nanowires configured so that each first layer nanowire overlaps each first layer microscale signal line, and a second layer of nanowires configured so that each second layer nanowire overlaps each second layer microscale signal line and overlaps each first layer nanowire. The crossbar-memory system includes nonlinear-tunneling resistors configured to selectively connect first layer nanowires to first layer microscale signal lines and to selectively connect second layer nanowires to second layer microscale signal lines.;  The crossbar-memory system also includes nonlinear tunneling-hysteretic resistors configured to connect each first layer nanowire to each second layer nanowire at each crossbar intersection.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A crossbar-memory system comprising:
+</P>
+<P>
+a first layer of microscale signal lines and a second layer of microscale signal lines;
+</P>
+<P>
+a first layer of one or more nanowires configured so that each first layer nanowire overlaps each first layer microscale signal line;
+</P>
+<P>
+a second layer of one or more nanowires configured so that each second layer nanowire overlaps each second layer microscale signal line and overlaps each first layer nanowire;
+</P>
+<P>
+nonlinear-tunneling resistors configured to selectively connect first layer nanowires to first layer microscale signal lines and to selectively connect second layer nanowires to second layer microscale signal lines; and
+</P>
+<P>
+nonlinear tunneling-hysteretic resistors configured to connect each first layer nanowire to each second layer nanowire at each crossbar intersection.
+</P>
+<P>
+2. The crossbar-memory system of claim 1 further comprising:
+</P>
+<P>
+a first multiplexer configured to multiplex the first layer of one or more nanowires; and
+</P>
+<P>
+a second multiplexer configured to multiplex the second layer of one or more nanowires.
+</P>
+<P>
+3. The crossbar-memory system of claim 2 wherein
+</P>
+<P>
+the first multiplexer further comprises a first wire that overlaps each first layer nanowire and a nonlinear tunneling-hysteretic resistor connects each first layer nanowire to the first wire, at each overlap point; and
+</P>
+<P>
+the second multiplexer further comprises a second wire that overlaps each second layer nanowire and a nonlinear tunneling-hysteretic resistor connects each first layer nanowire to the second wire, at each overlap point.
+</P>
+<P>
+4. The crossbar-memory system of claim 1, further comprising:
+</P>
+<P>
+a first encoder connected to the first set of microscale signal lines; and
+</P>
+<P>
+a second encoder connected to the second set of microscale signal lines;
+</P>
+<P>
+5. The crossbar-memory system of claim 4, wherein the encoders generate an n-bit-code codeword internal address for each different input address received on input signal lines.
+</P>
+<P>
+6. The crossbar-memory system of claim 1, wherein each microscale signal line carries a voltage corresponding to one bit of an n-bit-code codeword output from a connected encoder.
+</P>
+<P>
+7. The crossbar-memory system of claim 1, wherein each nanowire in the first layer has an address corresponding to an n-bit-code codeword, and each nanowire in the second layer of one or more nanowires also has an address corresponding to an n-bit-code codeword.
+</P>
+<P>
+8. The crossbar-memory system of claim 1, wherein each nanowire in the first layer and the second layer has a distinguishable associated n-bit-code codeword internal address, and each nanowire in the second layer has a distinguishable associated n-bit-code codeword internal address.
+</P>
+<P>
+9. The crossbar-memory system of claim 1, wherein each reconfigurable tunneling-hysteretic resistor has two or more distinguishable conductance states.
+</P>
+<P>
+10. The crossbar-memory system of claim 9, wherein the multiple conductance states correspond to storing one or more bits of information.
+</P>
+<P>
+11. A method for writing a memory state to a crossbar memory junction of a crossbar-memory array, the method comprising:
+</P>
+<P>
+providing a crossbar memory junction, wherein the crossbar memory junction comprises a first nanowire, a second nanowire, and a nonlinear tunneling-hysteretic resistor in a first conductance state connecting the first nanowire to the second nanowire;
+</P>
+<P>
+applying a first voltage to the first nanowire; and
+</P>
+<P>
+applying a second voltage to the second nanowire so that a voltage difference between the first voltage and the second voltage creates a voltage drop across the nonlinear tunneling-hysteretic resistor changing the first conductance state to a second conductance state.
+</P>
+<P>
+12. The method of claim 11, wherein the first conductance state corresponds to one of:
+</P>
+<P>
+a binary value &quot;0;&quot; and
+</P>
+<P>
+a binary value &quot;1.&quot;
+</P>
+<P>
+13. The method of claim 11, wherein the second conductance state corresponds to one of:
+</P>
+<P>
+a binary value &quot;0;&quot; and
+</P>
+<P>
+a binary value &quot;1.&quot;
+</P>
+<P>
+14. The method of claim 11, wherein each nonlinear tunneling-hysteretic resistor has two or more distinguishable conductance states.
+</P>
+<P>
+15. A method for reading a memory state stored in a crossbar memory junction of a crossbar-memory array, the method comprising:
+</P>
+<P>
+providing a crossbar memory junction, wherein the crossbar memory junction comprises a first nanowire, a second nanowire, and a nonlinear tunneling-hysteretic resistor in an unknown conductance state connecting the first nanowire to the second nanowire;
+</P>
+<P>
+measuring a first current flowing through the crossbar memory junction;
+</P>
+<P>
+writing the nonlinear tunneling-hysteretic resistor into a first conductance state;
+</P>
+<P>
+measuring a first reference current flowing through the crossbar memory junction;
+</P>
+<P>
+writing the nonlinear tunneling-hysteretic resistor into a second conductance state;
+</P>
+<P>
+measuring a second reference current flowing through the crossbar memory junction; and outputting the binary value of the crossbar memory junction based on comparing the first current with the first reference current and the second reference current.
+</P>
+<P>
+16. The method of claim 15 wherein the nonlinear tunneling-hysteretic resistor in a conductance state further comprises:
+</P>
+<P>
+applying a first voltage to the first nanowire; and
+</P>
+<P>
+applying a second voltage to the second nanowire so that a voltage difference between the first voltage and the second voltage creates a voltage drop across the nonlinear tunneling-hysteretic resistor changes the conductance state.
+</P>
+<P>
+17. The method of claim 15, wherein the conductance state corresponds to one of:
+</P>
+<P>
+a binary value &quot;0;&quot; and
+</P>
+<P>
+a binary value &quot;1.&quot;
+</P>
+<P>
+18. The method of claim 15, wherein each nonlinear tunneling-hysteretic resistor has two or more distinguishable conductance states.
+</P>
+<P>
+19. The method of claim 15, wherein outputting the binary value of the crossbar memory junction based on comparing the first current with the first reference current and the second reference current further comprises computing:
+</P>
+<P>
+IT=w0I0+w1I1
+</P>
+<P>
+where w0 and w1 are in the interval [0,1];
+</P>
+<P>
+I0 corresponds to the first reference current;
+</P>
+<P>
+I1 corresponds to the second reference current; and
+</P>
+<P>
+w0+w1=1
+</P>
+<P>
+20. The method of claim 19, wherein when the first current is greater than IT, the original memory state of the selected crossbar memory junction is &quot;1,&quot; and when the first current is less than IT, the original memory state of the selected crossbar memory junction is &quot;0.&quot;
+</P>
+</Claims>
+<Also_published_as>
+EP2074624B1;US2008089110A1;US7778061B2;WO2008048597A2;WO2008048597A3;TW200828508A;KR20090068373A;JP2010507184A;CN101529523A;AT459963T
+</Also_published_as>
+</BiblioData>

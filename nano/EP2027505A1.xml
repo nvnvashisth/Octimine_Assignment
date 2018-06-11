@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+IMPROVEMENTS RELATING TO PLASMONIC COUPLING DEVICES
+</Title>
+<PublicationNumber>
+EP2027505A1
+</PublicationNumber>
+<Inventor>
+<Name>
+POLLARD ROBERT JAMES [GB]
+</Name>
+<Name>
+HENDREN WILLIAM [GB]
+</Name>
+<Name>
+EVANS PAUL [GB]
+</Name>
+<Name>
+ZAYATS ANATOLY [GB]
+</Name>
+<Name>
+WURTZ GREGORY [US]
+</Name>
+<Name>
+POLLARD, ROBERT, JAMES
+</Name>
+<Name>
+HENDREN, WILLIAM
+</Name>
+<Name>
+EVANS, PAUL
+</Name>
+<Name>
+ZAYATS, ANATOLY
+</Name>
+<Name>
+WURTZ, GREGORY
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV BELFAST [GB]
+</Name>
+<Name>
+THE QUEENS UNIVERSITY OF BELFAST
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2027505
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070733177
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007GB02168
+</PriorityNumber>
+<PriorityDate>
+2007-06-12
+</PriorityDate>
+<PriorityNumber>
+GB20060011560
+</PriorityNumber>
+<PriorityDate>
+2006-06-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02F1/35
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G02F1/35
+</Class>
+</NCL>
+<Abstract>
+A plasmonic coupling device (1) comprising a first structure (2), and a second structure (3) comprising two or more conductive nanoparticles (7), wherein each nanoparticle is elongate and is attached to the first structure such that it is oriented with a major axis thereof substantially perpendicular to the first structure. In a plasmonic coupling device comprising such nanoparticles, radiation incident on the device can produce localised surface plasmons in the nanoparticles. The localised surface plasmons can become deiocalised along the device, due to the near-field electromagnetic interaction between the two or more nanoparticles or between the one or more nanoparticles of an assembly and a nearby assembly or assemblies. This interaction allows for electromagnetic energy, and the radiation, to be efficiently coupled between the nanoparticles or between the assemblies of one or more nanoparticles.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A plasmonic coupling device comprising a first structure, and a second structure comprising two or more conductive nanoparticles, wherein each nanoparticle is elongate and is attached to the first structure such that it is oriented with a major axis thereof substantially perpendicular to the first structure.
+</P>
+<P>
+2. A plasmonic coupling device according to claim 1 , in which at least some of the nanoparticles have a width in the region of approximately 2nm to approximately 500nm, preferably approximately 10nm to approximately 100nm.
+</P>
+<P>
+3. A plasmonic coupling device according to claim 1 or claim 2, in which at least some of the nanoparticles have a length in the region of approximately 50nm to approximately 2[mu]m, preferably approximately 50nm to approximately 500nm.
+</P>
+<P>
+4. A plasmonic coupling device according to any preceding claim, which comprises one to tens of nanoparticles.
+</P>
+<P>
+5. A plasmonic coupling device according to any preceding claim, in which the nanoparticles have a separation in the region of approximately 2nm to approximately 1500nm, preferably approximately 20nm to approximately 1.5 [mu]m.
+</P>
+<P>
+6. A plasmonic coupling device according to any preceding claim, in which the nanoparticles comprise at least one one-dimensional pattern of nanoparticles.
+</P>
+<P>
+7. A plasmonic coupling device according to claim 6 in which the nanoparticles comprise a chain of nanoparticles.
+</P>
+<P>
+8. A plasmonic coupling device according to any of claims 1 to 5, in which the nanoparticles comprise at least one two-dimensional pattern of nanoparticles.
+</P>
+<P>
+9. A plasmonic coupling device according to claim 8, in which the nanoparticles comprise at least one quasi-periodic, hexagonal, two- dimensional pattern of nanoparticles.
+</P>
+<P>
+10. A plasmonic coupling device according to any preceding claim, which comprises an electrode, patterned to address one or more nanoparticles.
+</P>
+<P>
+11. A plasmonic coupling device according to any preceding claim, in which the second structure comprises two or more assemblies each comprising one or more conductive nanoparticles.
+</P>
+<P>
+12. A plasmonic coupling device according to claim 11 , in which at least some of the assemblies of one or more nanoparticles comprise one to tens of nanoparticles.
+</P>
+<P>
+13. A plasmonic coupling device according to claim 11 or claim 12, in which at least some of the assemblies comprise a plurality of nanoparticles which have a nanoparticle to nanoparticle separation in the region of approximately 2nm to approximately 1500nm, preferably approximately 20nm to approximately 500nm.
+</P>
+<P>
+14. A plasmonic coupling device according to claim 13, in which at least some of the assemblies of a plurality of nanoparticles comprise at least one quasi-periodic, hexagonal, two-dimensional pattern of nanoparticles.
+</P>
+<P>
+15. A plasmonic coupling device according to any of claims 11 to 14, which comprises a plurality of assemblies of one or more nanoparticles, at least some of which assemblies have a separation in the region of approximately 50nm to approximately 1.5[mu]m.
+</P>
+<P>
+16. A plasmonic coupling device according to any of claims 11 to 15, which comprises a one-dimensional arrangement of assemblies of one or more nanoparticles which comprises a chain of assemblies of one or more nanoparticles, having a period in the region of approximately 50nm to approximately 1.5[mu]m.
+</P>
+<P>
+17. A plasmonic coupling device according to any of claims 11 to 16, which comprises an electrode, which is patterned to address one or more of the assemblies of one or more nanoparticles.
+</P>
+<P>
+18. A plasmonic coupling device according to any preceding claim, in which the second structure comprises insulator material which contains a plurality of pores, at least some of the pores are oriented with a major axis thereof substantially perpendicular to the first structure, and at least some of the nanoparticles of the device are contained in the pores.
+</P>
+<P>
+19. A plasmonic coupling device according to claim 18, in which the at least some of the nanoparticles are contained in the pores, with a space between at least a part of each nanoparticle and at least a part of each pore, and at least some of the spaces are at least partially filled with at least one substance.
+</P>
+<P>
+20. A plasmonic coupling device according to any preceding claim, in which the first structure has a thickness in the region of approximately 10nm to approximately 1000nm.
+</P>
+<P>
+21. A plasmonic coupling device according to any preceding claim, in which the plasmonic coupling device has a thickness in the region of approximately 50nm to approximately 2000 nm.
+</P>
+<P>
+22. A method of manufacturing a plasmonic coupling device, comprising the steps of: forming a first structure, and forming a second structure comprising two or more conductive nanoparticles, by forming insulator material comprising two or more pores on a surface of the first structure, and forming a nanoparticle in at least two of the pores, wherein the or each nanoparticle is elongate and is oriented with a major axis thereof substantially perpendicular to the first structure.
+</P>
+<P>
+23. A method of manufacturing a plasmonic coupling device, comprising the steps of: forming a first structure, and forming a second structure comprising two or more assemblies each comprising one or more conductive nanoparticles, by forming insulator material comprising two or more assemblies each comprising one or more pores on a surface of the first structure, and forming a nanoparticle in the or at least some of the pores of the two or more assemblies, wherein the or each nanoparticle is elongate and is oriented with a major axis thereof substantially perpendicular to the first structure.
+</P>
+<P>
+24. A method of manufacturing a plasmonic coupling device according to claim 22 or claim 23, in which forming the insulator material on the surface of the first structure comprises placing at least one layer of conductive material on the first structure, and treating the layer of conductive material by anodisation to form the insulator material., which treatment also causes formation of the two or more assemblies of one or more pores in the insulator material.
+</P>
+<P>
+25. A method of manufacturing a plasmonic coupling device according to claim 24, which comprises obtaining a desired arrangement of assemblies of one or more nanoparticles by allowing pores to form in the insulator material in a pattern which is at least partially dictated by one or more characteristics of the layer of conductive material forming the insulator material, and forming nanoparticles in appropriate pores so as to obtain the desired arrangement of assemblies of one or more nanoparticles.
+</P>
+<P>
+26. A method of manufacturing a plasmonic coupling device according to claim 24, which comprises obtaining a desired arrangement of assemblies of one or more nanoparticles by providing the plasmonic coupling device with an electrode which is patterned to allow growth of nanoparticles, using the patterned electrode to form arrays of assemblies of nanoparticles, and using the patterned electrode to address the desired arrangement of assemblies.
+</P>
+<P>
+27. A method of manufacturing a plasmonic coupling device according to claim 24, comprising obtaining a desired arrangement of assemblies of one or more nanoparticles by processing the layer of conductive material prior to treatment thereof to form the insulator material, to form an arrangement of assemblies of one or more pores, and forming nanoparticles in the pores to obtain the desired arrangement of assemblies of one or more nanoparticles.
+</P>
+<P>
+28. A method of manufacturing a plasmonic coupling device according to claim 24, comprising obtaining a desired arrangement of assemblies of one or more nanoparticles by processing the layer of conductive material prior to treatment thereof to form the insulator material, to form an arrangement of assemblies of one or more pores, and forming nanoparticles in appropriate pores to obtain the desired arrangement of assemblies of one or more nanoparticles.
+</P>
+<P>
+29. A method of manufacturing a plasmonic coupling device according to any of claims 22 to 28, comprising removing material from at least some of the pores containing a nanoparticle to provide a space between the insulator material and the nanoparticle, by etching insulator material surrounding a pore, by channelling an etching substance along the nanoparticle contained in the pore and etching outwards from the nanoparticle.
+</P>
+<P>
+30. A waveguide comprising one or more plasmonic coupling devices according to any of claims 1 to 21.
+</P>
+<P>
+31. A waveguide according to claim 30, in which the throughput spectrum of the waveguide is controllable, by tuning one or more properties of at least some of the nanoparticles.
+</P>
+<P>
+32. A plasmonic sensor comprising one or more plasmonic coupling devices according to any of claims 1 to 21.
+</P>
+<P>
+33. A transistor comprising one or more plasmonic coupling devices according to any of claims 1 to 21.
+</P>
+<P>
+34. A transistor according to claim 33, in which at least some of the plasmonic coupling devices of the transistor comprise a dielectric insulator material, which comprises an active plasmonic material capable of exhibiting a nonlinear response to excitation.
+</P>
+<P>
+35. A transistor according to claim 34, which operates by using near- field interactions of the assemblies of one or more nanoparticles of at least some of the plasmonic coupling devices, to excite the dielectric insulator material, to produce a nonlinear response which modulates transmittance of the or each device.
+</P>
+<P>
+36. A transistor according to claim 35, in which the dielectric insulator material exhibits a nonlinear response to excitation affecting the refractive index of the material, and the refractive index of the material is controlled by illumination with a signal, allowing control of the transmittance of the transistor.
+</P>
+<P>
+37. A laser comprising one or more plasmonic coupling devices according to any of claims 1 to 21.
+</P>
+<P>
+38. A laser according to claim 37, in which at least some of the plasmonic coupling devices of the laser comprise an insulator material, which comprises a material capable of optical gain/optical stimulation.
+</P>
+<P>
+39. A laser according to claim 38, which operates by using the plasmonic modes excited in the interacting assemblies of one or more nanoparticles of at least some of the plasmonic coupling devices, to stimulate the insulator material of the devices and generate stimulated emission from the or each device.
+</P>
+<P>
+40. A laser according to any of claims 37 to 39, in which at least some of the plasmonic coupling devices of the laser comprise hollow nanoparticles, at least some of the hollow nanoparticles are at least partially filled with at least one substance which is capable of optical stimulation, and the or each or some of the hollow nanoparticles then provide a lasing cavity.
+</P>
+<P>
+41. A laser according to claim 40, in which the or each or some of the lasing cavities are spectrally tuned by providing a substance in a space between a hollow nanoparticle and a pore of insulator material containing the nanoparticle.
+</P>
+</Claims>
+<Also_published_as>
+WO2007144596A1;US2009321712A1;JP2009539635A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+COATED METAL FINE PARTICLES AND PROCESS FOR PRODUCTION THEREOF
+</Title>
+<PublicationNumber>
+EP2065106A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TOKORO HISATO [JP]
+</Name>
+<Name>
+FUJII SHIGEO [JP]
+</Name>
+<Name>
+NAKABAYASHI TAKASHI [JP]
+</Name>
+<Name>
+TOKORO, HISATO
+</Name>
+<Name>
+FUJII, SHIGEO
+</Name>
+<Name>
+NAKABAYASHI, TAKASHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HITACHI METALS LTD [JP]
+</Name>
+<Name>
+HITACHI METALS, LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2065106
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070807491
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP68102
+</PriorityNumber>
+<PriorityDate>
+2007-09-18
+</PriorityDate>
+<PriorityNumber>
+JP20060254672
+</PriorityNumber>
+<PriorityDate>
+2006-09-20
+</PriorityDate>
+<PriorityNumber>
+JP20070111342
+</PriorityNumber>
+<PriorityDate>
+2007-04-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B22F1/02
+</Class>
+<Class>
+G11B5/712
+</Class>
+<Class>
+H01F1/33
+</Class>
+</IPC>
+<NCL>
+<Class>
+B22F1/02
+</Class>
+<Class>
+B22F9/20
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+C22C33/02B
+</Class>
+<Class>
+G01N33/553
+</Class>
+<Class>
+G11B5/712
+</Class>
+<Class>
+H01F1/00E10
+</Class>
+<Class>
+H01F1/33
+</Class>
+</NCL>
+<Abstract>
+A method for producing coated, fine metal particles comprising the steps of mixing powder comprising TiC or TiC and TiN with powder of an oxide of a metal M meeting the relation of G M-O &amp;gt; G TiO2 , wherein G M-O represents the standard free energy of formation of metal M oxide, and heat-treating the resultant mixed powder in a non-oxidizing atmosphere to reduce the oxide of the metal M with Ti, while coating the resultant metal M particles with Ti oxide, and coated, fine metal particles each comprising a metal core particle and a Ti oxide coating and having a carbon content of 0.2-1.4% by mass and a nitrogen content of 0.01-0.2% by mass.
+</Abstract>
+<Claims>
+<P>
+1. A method for producing coated, fine metal particles, comprising the steps of mixing powder comprising TiC or TiC and TiN with powder of an oxide of a metal M meeting the relation of [Delta]GM-O &amp;gt; [Delta]GTiO2, wherein [Delta]GM-O represents the standard free energy of formation of metal M oxide, and heat-treating the resultant mixed powder in a non-oxidizing atmosphere to reduce the oxide of said metal M with Ti, while coating the resultant metal M particles with Ti oxide.
+</P>
+<P>
+2. The method for producing coated, fine metal particles according to claim 1, wherein said powder comprising TiC and TiN contains 10-50% by mass of TiN.
+</P>
+<P>
+3. The method for producing coated, fine metal particles according to claim 1 or 2, wherein said Ti oxide is based on TiO2.
+</P>
+<P>
+4. The method for producing coated, fine metal particles according to any one of claims 1-3, wherein said heat treatment is conducted at 650-900[deg.]C.
+</P>
+<P>
+5. Coated, fine metal particles each comprising a metal core particle and a Ti oxide coating and having a carbon content of 0.2-1.4% by mass and a nitrogen content of 0.01-0.2% by mass.
+</P>
+<P>
+6. The coated, fine metal particles according to claim 5, wherein the carbon content is 0.2-1.1% by mass, and the nitrogen content is 0.04-0.12% by mass.
+</P>
+<P>
+7. The coated, fine metal particles according to claim 5 or 6, wherein the total content of carbon and nitrogen is 0.24-0.60% by mass.
+</P>
+<P>
+8. The coated, fine metal particles according to any one of claims 5-7, wherein said metal comprises at least one element selected from the group consisting of Fe, Co and Ni.
+</P>
+<P>
+9. The coated, fine metal particles according to any one of claims 5-8, wherein said metal comprises Fe.
+</P>
+<P>
+10. The coated, fine metal particles according to claim 9, wherein the Fe content is 14-20 atomic % in the quantitative analysis of O, Ti and Fe by X-ray photoelectron spectroscopy, the ratio of metal Fe being 7-11% of the entire Fe.
+</P>
+<P>
+11. The coated, fine metal particles according to claim 9 or 10, wherein when 25 mg of said coated, fine metal particles are immersed in 1 mL of an aqueous solution of guanidine hydrochloride having a concentration of 6 M at 25[deg.]C for 24 hours, the amount of Fe ions eluted is 50 mg/L or less.
+</P>
+<P>
+12. The coated, fine metal particles according to any one of claims 5-11, which are treated with an alkali.
+</P>
+<P>
+13. The coated, fine metal particles according to any one of claims 5-12, which are coated with silicon oxide.
+</P>
+<P>
+14. The coated, fine metal particles according to any one of claims 5-13, onto which at least one selected from the group consisting of an amino group, a carboxyl group, an aldehyde group, a thiol group, a tosic group and a hydroxyl group is fixed.
+</P>
+<P>
+15. The coated, fine metal particles according to any one of claims 5-14, onto which a ligand is fixed.
+</P>
+<P>
+16. The coated, fine metal particles according to any one of claims 5-15, which are further coated with a blocking agent.
+</P>
+<P>
+Amended claims under Art. 19.1 PCT
+</P>
+<P>
+1. (Amended) A method for producing coated, fine metal particles, comprising the steps of mixing powder comprising TiC and TiN with powder of an oxide of a metal M meeting the relation of [Delta]GM-O&amp;gt; [Delta]GTiO2, wherein [Delta]GM-O represents the standard free energy of formation of metal M oxide, and heat-treating the resultant mixed powder in a non-oxidizing atmosphere to reduce the oxide of said metal M with Ti, while coating the resultant metal M particles with Ti oxide.
+</P>
+<P>
+2. The method for producing coated, fine metal particles according to claim 1, wherein said powder comprising TiC and TiN contains 10-50% by mass of TiN.
+</P>
+<P>
+3. The method for producing coated, fine metal particles according to claim 1 or 2, wherein said Ti oxide is based on TiO2.
+</P>
+<P>
+4. The method for producing coated, fine metal particles according to any one of claims 1-3, wherein said heat treatment is conducted at 650-900[deg.]C.
+</P>
+<P>
+5. Coated, fine metal particles each comprising a metal core particle and a Ti oxide coating and having a carbon content of 0.2-1.4% by mass and a nitrogen content of 0.01-0.2% by mass.
+</P>
+<P>
+6. The coated, fine metal particles according to claim 5, wherein the carbon content is 0.2-1.1% by mass, and the nitrogen content is 0.04-0.12% by mass.
+</P>
+<P>
+7. The coated, fine metal particles according to claim 5 or 6, wherein the total content of carbon and nitrogen is 0.24-0.60% by mass.
+</P>
+<P>
+8. The coated, fine metal particles according to any one of claims 5-7, wherein said metal comprises at least one element selected from the group consisting of Fe, Co and Ni.
+</P>
+<P>
+9. The coated, fine metal particles according to any one of claims 5-8, wherein said metal comprises Fe.
+</P>
+<P>
+10. The coated, fine metal particles according to claim 9, wherein the Fe content is 14-20 atomic % in the quantitative analysis of O, Ti and Fe by X-ray photoelectron spectroscopy, the ratio of metal Fe being 7-11 % of the entire Fe.
+</P>
+<P>
+11. The coated, fine metal particles according to claim 9 or 10, wherein when 25 mg of said coated, fine metal particles are immersed in 1 mL of an aqueous solution of guanidine hydrochloride having a concentration of 6 M at 25[deg.]C for 24 hours, the amount of Fe ions eluted is 50 mg/L or less.
+</P>
+<P>
+12. The coated, fine metal particles according to any one of claims 5-11, which are treated with an alkali.
+</P>
+<P>
+13. The coated, fine metal particles according to any one of claims 5-12, which are coated with silicon oxide.
+</P>
+<P>
+14. The coated, fine metal particles according to any one of claims 5-13, onto which at least one selected from the group consisting of an amino group, a carboxyl group, an aldehyde group, a thiol group, a tosic group and a hydroxyl group is fixed.
+</P>
+<P>
+15. The coated, fine metal particles according to any one of claims 5-14, onto which a ligand is fixed.
+</P>
+<P>
+16. The coated, fine metal particles according to any one of claims 5-15, which are further coated with a blocking agent.
+</P>
+</Claims>
+<Also_published_as>
+EP2065106A4;EP2065106B1;US2010047579A1;WO2008035681A1;AT487553T
+</Also_published_as>
+</BiblioData>

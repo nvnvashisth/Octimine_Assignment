@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD OF MAKING A SEMICONDUCTOR DEVICE HAVING HIGH VOLTAGE TRANSISTORS, NON- VOLATILE MEMORY TRANSISTORS, AND LOGIC TRANSISTORS
+</Title>
+<PublicationNumber>
+EP2108189A1
+</PublicationNumber>
+<Inventor>
+<Name>
+RAO RAJESH A [US]
+</Name>
+<Name>
+MURALIDHAR RAMACHANDRAN [US]
+</Name>
+<Name>
+RAO, RAJESH, A
+</Name>
+<Name>
+MURALIDHAR, RAMACHANDRAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FREESCALE SEMICONDUCTOR INC [US]
+</Name>
+<Name>
+FREESCALE SEMICONDUCTOR, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2108189
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080727504
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-01-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US50697
+</PriorityNumber>
+<PriorityDate>
+2008-01-10
+</PriorityDate>
+<PriorityNumber>
+US20070627725
+</PriorityNumber>
+<PriorityDate>
+2007-01-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/8234
+</Class>
+<Class>
+H01L21/8247
+</Class>
+<Class>
+H01L27/105
+</Class>
+<Class>
+H01L27/115
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L21/28F
+</Class>
+<Class>
+H01L21/8234J
+</Class>
+<Class>
+H01L27/105
+</Class>
+<Class>
+H01L27/115F6
+</Class>
+<Class>
+H01L27/115F6P2
+</Class>
+<Class>
+H01L29/788C
+</Class>
+</NCL>
+<Abstract>
+A semiconductor device is made on a semiconductor substrate (12). A first insulating layer (18) is formed on the semiconductor substrate for use as a gate dielectric for a high voltage transistor (38) in a first region (14) of the semiconductor substrate (12). After the first insulating layer (18) is formed, a second insulating layer (24) is formed on the semiconductor substrate (12) for use as a gate dielectric for a non-volatile memory transistor (40) in a second region (22) of the substrate (12). After the second insulating layer (24) is formed, a third insulating layer (36) is formed on the semiconductor substrate (12) for use as a gate dielectric for a logic transistor (44) in a third region (34) of the substrate (12).
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method of making a semiconductor device on a semiconductor substrate, comprising: forming a first insulating layer on the semiconductor substrate for use as a gate dielectric for a high voltage transistor in a first region of the semiconductor substrate; forming a second insulating layer, after the step of forming first insulating layer, on the semiconductor substrate for use as a gate dielectric for a non-volatile memory transistor in a second region of the substrate; and forming a third insulating layer, after the step of forming the second insulating layer, on the semiconductor substrate for use as a gate dielectric for a logic transistor in a third region of the substrate.
+</P>
+<P>
+2. The method of claim 1 , further comprising: after the step of forming the second insulating layer, forming nanocrystals over the semiconductor substrate.
+</P>
+<P>
+3. The method of claim 2, further comprising: forming a fourth insulating layer over the first insulating layer prior to the step of forming the second insulating layer; removing the nanocrystals over the first region and the third region prior to the step of forming the third insulating layer.
+</P>
+<P>
+4. The method of claim 3, further comprising removing the first and fourth insulating layer from over the second region prior to the step of forming the second insulating layer.
+</P>
+<P>
+5. The method of claim 4, further comprising removing the first and fourth insulating layer from over the third region after the step of removing the first and fourth layer from over the second region and prior to the step of forming the third insulating layer.
+</P>
+<P>
+6. The method of claim 3, wherein the step of forming the fourth insulating layer comprises performing a step of decoupled plasma nithdation on the first layer.
+</P>
+<P>
+7. The method of claim 6, wherein the step of forming the fourth insulating layer is further characterized by the fourth insulating layer comprising nitrogen-rich oxide.
+</P>
+<P>
+8. The method of claim 7, wherein the step of forming the fourth insulating layer is further characterized by the fourth insulating layer not exceeding 10 Angstroms in thickness.
+</P>
+<P>
+9. The method of claim 8, wherein the step of forming the fourth insulating layer is further characterized by the fourth insulating layer having a nitrogen concentration not exceeding 10 atomic percent.
+</P>
+<P>
+10. The method of claim 9, wherein the step of removing the nanocrystals comprises performing a wet etch using hydrofluoric acid.
+</P>
+<P>
+11. The method of claim 10, wherein the step of forming the first insulating layer comprising growing oxide on the semiconductor substrate.
+</P>
+<P>
+12. The method of claim 1 , further comprising forming a fifth insulating layer, after the step of forming the second insulating layer, on the semiconductor substrate for use as a gate dielectric for an I/O transistor.
+</P>
+<P>
+13. A method of making a semiconductor device on a semiconductor substrate, comprising; growing a first oxide layer on the semiconductor substrate; performing decoupled plasma nitridation on the first oxide layer to form a nitrogen-rich oxide layer on the first oxide layer; selectively removing the first oxide layer and the nitrogen-rich layer to leave the first oxide layer and the nitrogen-rich oxide layer over a first region of the substrate and remove the first oxide layer and the nitrogen-rich oxide layer from over a second region of the substrate; growing a second oxide layer over the second region; forming a nanocrystal layer over the semiconductor substrate after the step of growing the second oxide layer; removing the nanocrystal layer from over the first region and a third region of the substrate; selectively removing, after the step of removing the nanocrystal layer, the first oxide layer and the nitrogen-rich oxide layer to leave the first oxide layer and the nitrogen-rich oxide layer over the first region of the substrate and remove the first oxide layer and the nitrogen-rich oxide layer from over the third region of the substrate; growing a third oxide layer over the third region; forming a first transistor of a first type in and over the first region using the first oxide layer and nitrogen-rich oxide layer as a gate dielectric of the first transistor; forming a second transistor of a second type in and over the second region using the second oxide layer as a gate dielectric of the second transistor; and forming a third transistor of a third type in and over the third region using the third oxide layer as a gate dielectric of the third transistor.
+</P>
+<P>
+14. The method of claim 13, wherein: the step of growing the first oxide layer is further characterized by the first oxide layer having a first thickness; the step of growing the second oxide layer is further characterized by the second oxide layer having a second thickness less than the first thickness; the step of growing the third oxide layer is further characterized by the third oxide layer having a third thickness less than the second thickness.
+</P>
+<P>
+15. The method of claim 13, wherein: the step of forming the first transistor is further characterized by the first transistor being a high voltage transistor; the step of forming the second transistor is further characterized by the second transistor being a non-volatile memory transistor; and the step of forming the third transistor is further characterized by the third transistor being a logic transistor.
+</P>
+<P>
+16. The method of claim 13, wherein the step of removing the nanocrystal layer further comprises removing the nanocrystal layer from over a fourth region of the substrate, further comprising: selectively removing, after the step of removing the nanocrystals, the first oxide layer and the nitrogen-rich oxide layer to leave the first oxide layer and the nitrogen-rich oxide layer over the first region of the substrate and remove the first oxide layer and the nitrogen-rich oxide layer from over the fourth region of the substrate; and growing a fourth oxide layer over the fourth region; and forming a fourth transistor of a fourth type on and over the fourth region using the fourth oxide layer as a gate dielectric of the fourth transistor.
+</P>
+<P>
+17. The method of claim 13. wherein the step of performing decoupled plasma nithdation is further characterized by the nitrogen-rich oxide layer being not more than 10 Angstroms in thickness.
+</P>
+<P>
+18. The method of claim 13. wherein the step of performing decoupled plasma nithdation is further characterized by the nitrogen-rich oxide layer having a nitrogen concentration not exceeding 10 atomic percent.
+</P>
+<P>
+19. A semiconductor device, comprising: a high voltage transistor having a gate dielectric comprising an oxide layer and a nitrogen-rich oxide layer, wherein the nitrogen-rich oxide layer is not more than 10 Angstroms thick and has a concentration of nitrogen not in excess of 10 atomic percent; wherein the oxide layer has a first thickness; a non-volatile memory transistor having a gate dielectric of a second thickness less than the first thickness; and a logic transistor having a gate dielectric of a third thickness less than the second thickness.
+</P>
+<P>
+20. The semiconductor device of claim 19, further comprising an I/O transistor having a gate dielectric of a fourth thickness greater than the third thickness and less than the first thickness.
+</P>
+</Claims>
+<Also_published_as>
+EP2108189A4;WO2008091737A1;US2008179658A1;US7816211B2;TW200847298A;JP2010517306A;CN101569006A;CN101569006B
+</Also_published_as>
+</BiblioData>

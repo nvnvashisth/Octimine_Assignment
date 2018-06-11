@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ETCHING AND HOLE ARRAYS
+</Title>
+<PublicationNumber>
+EP2044485A2
+</PublicationNumber>
+<Inventor>
+<Name>
+MIRKIN CHAD [US]
+</Name>
+<Name>
+SALAITA KHALID [US]
+</Name>
+<Name>
+MIRKIN, CHAD
+</Name>
+<Name>
+SALAITA, KHALID
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV NORTHWESTERN [US]
+</Name>
+<Name>
+NORTHWESTERN UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2044485
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070872537
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US15009
+</PriorityNumber>
+<PriorityDate>
+2007-06-28
+</PriorityDate>
+<PriorityNumber>
+US20060816948P
+</PriorityNumber>
+<PriorityDate>
+2006-06-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+Lithographic and nanolithographic methods that involve patterning a first compound on a substrate surface, exposing non-patterned areas of the substrate surface to a second compound and removing the first compound while leaving the second compound intact. The resulting hole patterns can be used as templates for either chemical etching of the patterned area of the substrate or metal deposition on the patterned area of the substrate.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method comprising providing a tip and a substrate; applying a first compound from the tip to a surface of the substrate to produce a patterned area; depositing a second compound on a non-patterned area of the surface by exposing the substrate to the second compound; selectively removing the first compound from the patterned area of the surface so that the second compound on the non-patterned area of the surface remains deposited on the non-patterned area; and then etching the patterned area of the surface.
+</P>
+<P>
+2. The method of claim 1 , wherein the surface of the substrate is a metal surface.
+</P>
+<P>
+3. The method of claim 1 , wherein the substrate comprises a semiconductor.
+</P>
+<P>
+4. The method of claim 1 , wherein the substrate comprises a semiconductor with a metal surface.
+</P>
+<P>
+5. The method claim 1 , wherein the tip is a nanoscopic tip.
+</P>
+<P>
+6. The method of claim 1 , wherein the tip is a scanning probe microscope tip.
+</P>
+<P>
+7. The method of claim 1 , wherein the tip is an atomic force microscope tip.
+</P>
+<P>
+8. The method of claim 1 , wherein the first compound is chemisorbed to the surface.
+</P>
+<P>
+9. The method of claim 1 , wherein the first compound is a sulfur-containing compound.
+</P>
+<P>
+10. The method of claim 1 , wherein the first compound forms a self-assembled monolayer on the patterned area of the surface.
+</P>
+<P>
+11. The method of claim 1 , wherein the depositing the second compound comprises immersing the substrate in a solution comprising the second compound.
+</P>
+<P>
+12. The method of claim 1 , wherein a desorption potential of the second compound is higher than a desorption potential of the first compound.
+</P>
+<P>
+13. The method of claim 1 , wherein the removing comprises desorbing the first compound from the patterned area of the surface.
+</P>
+<P>
+14. The method of claim 1 , wherein the removal is performed electrochemically.
+</P>
+<P>
+15. The method of claim 1 , wherein the patterned area forms an array.
+</P>
+<P>
+16. The method of claim 1 , wherein the patterned area comprises lines or dots.
+</P>
+<P>
+17. The method of claim 1 , wherein the patterned area after etching is characterized by gap features with lateral dimensions of about 500 nm or less.
+</P>
+<P>
+18. The method of claim 1 , wherein the first compound is an acid compound.
+</P>
+<P>
+19. The method of claim 1 , wherein the first compound is a carboxylic acid compound.
+</P>
+<P>
+20. The method of claim 1 , wherein the first compound is an acid compound, wherein the removal is performed electrochemically, wherein a desorption potential of the second compound is higher than a desorption potential of the first compound, and the first and second compounds form self-assembled monolayers on the surface.
+</P>
+<P>
+21. A method comprising providing a tip and a substrate; applying a first compound from the tip to a surface of the substrate to produce a patterned area; depositing a second compound on a non-patterned area of the surface by exposing the substrate to the second compound; selectively removing the first compound from the patterned area of the surface so that the second compound on the non-patterned area of the surface remains deposited on the non-patterned area; and depositing a material on the patterned area of the surface.
+</P>
+<P>
+22. The method of claim 21 , wherein the surface of the substrate is a metal or semiconductor surface.
+</P>
+<P>
+23. The method of claim 21 , wherein the tip is a scanning probe microscope tip.
+</P>
+<P>
+24. The method of claim 21 , wherein the tip is an atomic force microscope tip.
+</P>
+<P>
+25. The method of claim 21 , wherein the tip is a hollow tip.
+</P>
+<P>
+26. The method of claim 21 , wherein the first compound is chemisorbed on the surface.
+</P>
+<P>
+27. The method of claim 21 , wherein the first compound forms a self-assembled monolayer on the patterned area of the surface.
+</P>
+<P>
+28. The method of claim 21 , wherein the second compound is chemisorbed on the surface.
+</P>
+<P>
+29. The method of claim 21 , wherein the depositing the second compound results in forming of a self-assembled monolayer.
+</P>
+<P>
+30. The method according to claim 21 , wherein the material is a metal.
+</P>
+<P>
+31. The method according to claim 21 , wherein depositing the material results in formaing a positive pattern comprising the metal on the patterned surface.
+</P>
+<P>
+32. The method of claim 31 , wherein the positive pattern is characterized by features with lateral dimensions of about 500 nm or less.
+</P>
+<P>
+33. The method of claim 31 , further comprising disposing on the positive pattern a mixture comprising an elastomer precursor, curing the precursor to form an elastomer, wherein said disposing and curing results in forming a stamp comprising the elastomer, said stamp having a negative pattern defined by the positive pattern.
+</P>
+<P>
+34. The method of claim 31 , further comprising using the positive pattern as a master in replication of a soft material stamp.
+</P>
+<P>
+35. A method comprising providing a nanoscopic tip and a substrate; applying a first compound from the tip to a surface of the substrate to produce a patterned area; depositing a second compound on a non-patterned area of the surface by exposing the substrate to the second compound; selectively removing the first compound from the patterned area of the surface so that the second compound on the non-patterned area of the surface remains deposited on the non-patterned area; and depositing a material on the patterned area of the surface.
+</P>
+</Claims>
+<Also_published_as>
+WO2008091279A2;WO2008091279A3;US2008182079A1;US8192795B2;TW200815278A;KR20090049578A;JP2009542448A;CA2654973A1;AU2007345315A1
+</Also_published_as>
+</BiblioData>

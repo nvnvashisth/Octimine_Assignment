@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INFORMATION STORAGE DEVICE USING PROBE
+</Title>
+<PublicationNumber>
+EP2003645A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MAEDA TAKANORI [JP]
+</Name>
+<Name>
+SUZUKI JUN [JP]
+</Name>
+<Name>
+ONOE ATSUSHI [JP]
+</Name>
+<Name>
+TAKAHASHI HIROKAZU [JP]
+</Name>
+<Name>
+TATEISHI KIYOSHI [JP]
+</Name>
+<Name>
+MAEDA, TAKANORI
+</Name>
+<Name>
+SUZUKI, JUN
+</Name>
+<Name>
+ONOE, ATSUSHI
+</Name>
+<Name>
+TAKAHASHI, HIROKAZU
+</Name>
+<Name>
+TATEISHI, KIYOSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PIONEER CORP [JP]
+</Name>
+<Name>
+PIONEER CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2003645
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070740583
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP57147
+</PriorityNumber>
+<PriorityDate>
+2007-03-30
+</PriorityDate>
+<PriorityNumber>
+JP20060099541
+</PriorityNumber>
+<PriorityDate>
+2006-03-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q70/08
+</Class>
+<Class>
+G11B9/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B9/14M2B
+</Class>
+</NCL>
+<Abstract>
+Abstract: In a two-dimensional probe array, an interval between the leading ends of probes adjacent to each other in an X direction is made shorter than that between the leading ends of probes adjacent to each other in a Y direction. Thus, the leading ends of the probes are arranged to form a lattice (19) wherein many rectangles are arranged. Furthermore, the lowest resonance frequency of an actuator (21) which moves a recording medium (13) in the X direction is set higher than the lowest resonance frequency of an actuator (24) which moves the recording medium (13) in the Y direction. At the time of recording or reading information, the recording medium (13) is reciprocated in the X direction at a frequency substantially equal to the lowest resonance frequency of the actuator (21).
+</Abstract>
+<Claims>
+<P>
+1. An information memory apparatus comprising:
+</P>
+<P>
+a plate-like recording medium having a recording surface;
+</P>
+<P>
+a probe array for recording or reading information with respect to said recording medium;
+</P>
+<P>
+a first actuator for displacing said recording medium in a first direction parallel to the recording surface; and
+</P>
+<P>
+a second actuator for displacing said recording medium in a second direction, which is parallel to the recording surface and which crosses the first direction,
+</P>
+<P>
+wherein said probe array comprising a probe support device and m X n probes (each of m and n is an integer of 2 or more),
+</P>
+<P>
+in the probes, m probes being arranged at even intervals along the first direction and n probes being arranged at even intervals along the second direction on the probe support device, and
+</P>
+<P>
+an interval between tips of the probes adjacent to each other in the first direction being shorter than an interval between tips of the probes adjacent to each other in the second direction.
+</P>
+<P>
+2. The information memory apparatus according to claim 1, wherein a mechanical minimum resonance frequency of said first actuator is higher than a mechanical minimum resonance frequency of said second actuator.
+</P>
+<P>
+3. An information memory apparatus comprising:
+</P>
+<P>
+a plate-like recording medium having a recording surface;
+</P>
+<P>
+a probe array for recording or reading information with respect to said recording medium;
+</P>
+<P>
+a first actuator for displacing said recording medium in a first direction parallel to the recording surface; and
+</P>
+<P>
+a second actuator for displacing said recording medium in a second direction, which is parallel to the recording surface and which crosses the first direction,wherein a mechanical minimum resonance frequency of said first actuator being higher than a mechanical minimum resonance frequency of said second actuator.
+</P>
+<P>
+4. The information memory apparatus according to claim 3, wherein when the information is recorded or read with respect to said recording medium, said first actuator reciprocates said recording medium at a frequency substantially equal to the mechanical minimum resonance frequency of said first actuator.
+</P>
+<P>
+5. The information memory apparatus according to claim 3, wherein when the information is recorded or read with respect to said recording medium, said first actuator reciprocates said recording medium at a frequency not exceeding the mechanical minimum resonance frequency of said first actuator.
+</P>
+<P>
+6. The information memory apparatus according to claim 1, wherein
+</P>
+<P>
+said first actuator comprises a first spring structure for connecting said recording medium to a housing in such a condition that said recording medium can be displaced in the first direction,
+</P>
+<P>
+said second actuator comprises a second spring structure for connecting said recording medium to the housing in such a condition that said recording medium can be displaced in the second direction, and
+</P>
+<P>
+a spring constant of the first spring structure is greater than a spring constant of the second spring structure.
+</P>
+<P>
+7. The information memory apparatus according to claim 3, wherein
+</P>
+<P>
+said first actuator comprises a first spring structure for connecting said recording medium to a housing in such a condition that said recording medium can be displaced in the first direction,
+</P>
+<P>
+said second actuator comprises a second spring structure for connecting said recording medium to the housing in such a condition that said recording medium can be displaced in the second direction, and
+</P>
+<P>
+a spring constant of the first spring structure is greater than a spring constant of the second spring structure.
+</P>
+<P>
+8. An information memory apparatus comprising:
+</P>
+<P>
+a plate-like recording medium having a recording surface;
+</P>
+<P>
+a probe array for recording or reading information with respect to said recording medium;
+</P>
+<P>
+a first actuator for displacing said probe array in a first direction parallel to the recording surface; and
+</P>
+<P>
+a second actuator for displacing said probe array in a second direction, which is parallel to the recording surface and which crosses the first direction,
+</P>
+<P>
+wherein said probe array comprising a probe support device and m X n probes (each of m and n is an integer of 2 or more),
+</P>
+<P>
+in the probes, m probes being arranged at even intervals along the first direction and n probes being arranged at even intervals along the second direction on the probe support device, and
+</P>
+<P>
+an interval between tips of the probes adjacent to each other in the first direction being shorter than an interval between tips of the probes adjacent to each other in the second direction.
+</P>
+<P>
+9. The information memory apparatus according to claim 8, wherein a mechanical minimum resonance frequency of said first actuator is higher than a mechanical minimum resonance frequency of said second actuator.
+</P>
+<P>
+10. An information memory apparatus comprising:
+</P>
+<P>
+a plate-like recording medium having a recording surface;
+</P>
+<P>
+a probe array for recording or reading information with respect to said recording medium;
+</P>
+<P>
+a first actuator for displacing said probe array in a first direction parallel to the recording surface; and
+</P>
+<P>
+a second actuator for displacing said probe array in a second direction, which is parallel to the recording surface and which crosses the first direction,
+</P>
+<P>
+wherein a mechanical minimum resonance frequency of said first actuator being higher than a mechanical minimum resonance frequency of said second actuator.
+</P>
+<P>
+11. The information memory apparatus according to claim 10, wherein when the information is recorded or read with respect to said recording medium, said first actuator reciprocates said probe array at a frequency substantially equal to the mechanical minimum resonance frequency of said first actuator.
+</P>
+<P>
+12. The information memory apparatus according to claim 10, wherein when the information is recorded or read with respect to said recording medium, said first actuator reciprocates said probe array at a frequency not exceeding the mechanical minimum resonance frequency of said first actuator.
+</P>
+<P>
+13. The information memory apparatus according to claim 8, wherein
+</P>
+<P>
+said first actuator comprises a first spring structure for connecting said probe array to a housing in such a condition that said probe array can be displaced in the first direction,
+</P>
+<P>
+said second actuator comprises a second spring structure for connecting said probe array to the housing in such a condition that said probe array can be displaced in the second direction, and
+</P>
+<P>
+a spring constant of the first spring structure is greater than a spring constant of the second spring structure.
+</P>
+<P>
+14. The information memory apparatus according to claim 10, wherein
+</P>
+<P>
+said first actuator comprises a first spring structure for connecting said probe array to a housing in such a condition that said probe array can be displaced in the first direction,
+</P>
+<P>
+said second actuator comprises a second spring structure for connecting said probe array to the housing in such a condition that said probe array can be displaced in the second direction, and
+</P>
+<P>
+a spring constant of the first spring structure is greater than a spring constant of the second spring structure.
+</P>
+</Claims>
+<Also_published_as>
+EP2003645A4;US2009178168A1;US7945962B2;JP4402156B2;WO2007114355A1
+</Also_published_as>
+</BiblioData>

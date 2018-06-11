@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC MATERIAL FOR HIGH FREQUENCY WAVE, AND METHOD FOR PRODUCTION THEREOF
+</Title>
+<PublicationNumber>
+EP2146357A1
+</PublicationNumber>
+<Inventor>
+<Name>
+IMAOKA NOBUYOSHI [JP]
+</Name>
+<Name>
+ABE MASANORI [JP]
+</Name>
+<Name>
+NAKAGAWA TAKASHI [JP]
+</Name>
+<Name>
+TADA MASARU [JP]
+</Name>
+<Name>
+IMAOKA, NOBUYOSHI
+</Name>
+<Name>
+ABE, MASANORI
+</Name>
+<Name>
+NAKAGAWA, TAKASHI
+</Name>
+<Name>
+TADA, MASARU
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASAHI CHEMICAL IND [JP]
+</Name>
+<Name>
+TOKYO INST TECH [JP]
+</Name>
+<Name>
+ASAHI KASEI KABUSHIKI KAISHA
+</Name>
+<Name>
+TOKYO INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2146357
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080752109
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP58035
+</PriorityNumber>
+<PriorityDate>
+2008-04-25
+</PriorityDate>
+<PriorityNumber>
+JP20070119124
+</PriorityNumber>
+<PriorityDate>
+2007-04-27
+</PriorityDate>
+<PriorityNumber>
+JP20070285816
+</PriorityNumber>
+<PriorityDate>
+2007-11-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01G49/00
+</Class>
+<Class>
+C04B35/58
+</Class>
+<Class>
+C22C38/00
+</Class>
+<Class>
+H01F1/00
+</Class>
+<Class>
+H01F1/14
+</Class>
+<Class>
+H01F1/26
+</Class>
+<Class>
+H01F1/33
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B21/06B
+</Class>
+<Class>
+C01B21/082
+</Class>
+<Class>
+C01G49/00
+</Class>
+<Class>
+C01G49/00C
+</Class>
+<Class>
+C01G49/00D
+</Class>
+<Class>
+C04B35/58K
+</Class>
+<Class>
+C04B35/58R
+</Class>
+<Class>
+C04B35/626A6
+</Class>
+<Class>
+C04B35/628B2
+</Class>
+<Class>
+C04B35/628T
+</Class>
+<Class>
+C04B35/645
+</Class>
+<Class>
+C04B35/645H
+</Class>
+<Class>
+C22C45/02
+</Class>
+<Class>
+H01F1/059M
+</Class>
+<Class>
+H01F1/059R
+</Class>
+<Class>
+H01F41/02B6
+</Class>
+</NCL>
+<Abstract>
+Disclosed is a magnetic material for a high frequency wave which has high magnetic permeability and small eddy-current loss, particularly a magnetic material for a high frequency wave which can be used suitably in an information device which works in a high frequency field of 1 GHz or higher. Specifically disclosed is a composite magnetic material for a high frequency wave, which comprises a (rare earth element)-(iron)-(nitrogen)-based magnetic material and a (rare earth element)-(iron)-(nitrogen)-based magnetic material whose surface is coated with a ferrite magnetic material.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic material for a high frequency wave comprising a rare earth-iron-nitrogen based magnetic material.
+</P>
+<P>
+2. The magnetic material for a high frequency wave according to claim 1, comprising a rare earth-iron-nitrogen based magnetic material represented by the following general formula:
+</P>
+<P>
+wherein R is at least one of rare earth elements including Y; and x and y are numbers that satisfy 3&amp;lt;=x&amp;lt;=30 and 1&amp;lt;=y&amp;lt;=30 % by atom, respectively.
+</P>
+<P>
+3. The magnetic material for a high frequency wave according to claim 2, wherein the proportion of nitrogen in the rare earth-iron-nitrogen based magnetic material represented by the general formula (I) is 12&amp;lt;=y&amp;lt;=25.
+</P>
+<P>
+4. The magnetic material for a high frequency wave according to any one of claims 1 to 3, wherein 0.01 to 50% by atom of iron constituting the rare earth-iron-nitrogen based magnetic material is substituted with at least one element selected from the group consisting of Co, Ni, B, Al, Ti, V, Cr, Mn, Cu, Zn, Ga, Zr, Nb, Mo, In, Hf, Ta, W, Ru, Pd, Re, Os, Ir, Ag and Pt.
+</P>
+<P>
+5. The magnetic material for a high frequency wave according to any one of claims 1 to 4, wherein less than 50% by atom of nitrogen constituting the rare earth-iron-nitrogen based magnetic material is substituted with at least one element selected from the group consisting of H, C, P, Si and S.
+</P>
+<P>
+6. The magnetic material for a high frequency wave according to any one of claims 1 to 5, wherein a crystal structure of a main phase of the rare earth-iron-nitrogen based magnetic material is any one of hexagonal crystal, rhombohedral crystal and tetragonal crystal.
+</P>
+<P>
+7. The magnetic material for a high frequency wave according to any one of claims 1 to 6, wherein the rare earth-iron-nitrogen based magnetic material has an in-plane magnetic anisotropy as a crystal magnetic anisotropy.
+</P>
+<P>
+8. The magnetic material for a high frequency wave according to any one of claims 1 to 7, wherein the rare earth-iron-nitrogen based magnetic material has an average grain diameter of 0.1 to 2,000 [micro]m.
+</P>
+<P>
+9. The magnetic material for a high frequency wave according to any one of claims 1 to 8, wherein the high frequency field is 0.005 to 33 GHz.
+</P>
+<P>
+10. The magnetic material for a high frequency wave according to any one of claims 1 to 9, wherein a surface of the rare earth-iron-nitrogen based magnetic material is coated with a ferrite-based magnetic material.
+</P>
+<P>
+11. The magnetic material for a high frequency wave according to claim 10, wherein the ferrite-based magnetic material is a ferrite having a spinel structure.
+</P>
+<P>
+12. The magnetic material for a high frequency wave according to claim 10 or 11, wherein the ferrite-based magnetic material has a thickness of 0.8 to 10,000 nm.
+</P>
+<P>
+13. A rare earth-iron-nitrogen based magnetic material, comprising being coated with a ferrite-based magnetic material.
+</P>
+<P>
+14. A magnetic material-resin composite material for a high frequency wave, comprising 5 to 99.9% by mass of the magnetic material for a high frequency wave according to any one of claims 1 to 12 and 0.1 to 95% by mass of a resin.
+</P>
+<P>
+15. A magnetic material-resin composite material comprising:
+</P>
+<P>
+5 to 99.9% by mass of the rare earth-iron-nitrogen based magnetic material contained in the magnetic material for a high frequency wave according to any one of (1) to (8) wherein the rare earth-iron-nitrogen based magnetic material contains 50% by atom or less of Sm as a rare earth component, and/or the rare earth-iron-nitrogen based magnetic material according to claim 13; and
+</P>
+<P>
+0.1 to 95% by mass of a resin.
+</P>
+<P>
+16. The magnetic material for a high frequency wave according to any one of claims 1 to 12, wherein the magnetic material is magnetically oriented.
+</P>
+<P>
+17. The rare earth-iron-nitrogen based magnetic material according to claim 13, wherein the magnetic material is magnetically oriented.
+</P>
+<P>
+18. An electromagnetic wave absorbing material comprising the magnetic material for a high frequency wave according to any one of claims 1 to 12.
+</P>
+<P>
+19. An electromagnetic wave absorbing material comprising the rare earth-iron-nitrogen based magnetic material according to claim 13.
+</P>
+<P>
+20. An electromagnetic noise absorbing material comprising the magnetic material for a high frequency wave according to any one of claims 1 to 12.
+</P>
+<P>
+21. An electromagnetic noise absorbing material comprising the rare earth-iron-nitrogen based magnetic material according to claim 13.
+</P>
+<P>
+22. A material for an RFID tag comprising the magnetic material for a high frequency wave according to any one of claims 1 to 12.
+</P>
+<P>
+23. A material for an RFID tag comprising the rare earth-iron-nitrogen based magnetic material according to claim 13.
+</P>
+<P>
+24. A method for producing the magnetic material for a high frequency wave according to claim 1, comprising subjecting an alloy composed substantially of an R component and an Fe component to a heat treatment in an atmosphere containing ammonia gas or nitrogen gas in the range of 200 to 650[deg.]C.
+</P>
+<P>
+25. A method for producing the rare earth-iron-nitrogen based magnetic material according to claim 13, comprising subjecting a rare earth-iron-nitrogen based magnetic material to a ferrite plating treatment, wherein the rare earth-iron-nitrogen based magnetic material is produced by the method according to (24); or subjecting a rare earth-iron-nitrogen based magnetic material to a ferrite plating treatment, wherein the rare earth-iron-nitrogen based magnetic material is produced using the further process of a fine pulverization in addition to the method according to claim 24.
+</P>
+</Claims>
+<Also_published_as>
+EP2146357A4;US2010068512A1;KR20090130135A;WO2008136391A1
+</Also_published_as>
+</BiblioData>

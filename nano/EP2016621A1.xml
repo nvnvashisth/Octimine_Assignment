@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SEMICONDUCTOR DEVICE HAVING A SEMICONDUCTOR- ON-INSULATOR CONFIGURATION AND A SUPERLATTICE AND ASSOCIATED METHODS
+</Title>
+<PublicationNumber>
+EP2016621A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KREPS SCOTT A [US]
+</Name>
+<Name>
+RAO KALIPATNAM VIVEK [US]
+</Name>
+<Name>
+KREPS, SCOTT, A
+</Name>
+<Name>
+RAO, KALIPATNAM, VIVEK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MEARS TECHNOLOGIES INC [US]
+</Name>
+<Name>
+MEARS TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2016621
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070761837
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US68159
+</PriorityNumber>
+<PriorityDate>
+2007-05-03
+</PriorityDate>
+<PriorityNumber>
+US20060381835
+</PriorityNumber>
+<PriorityDate>
+2006-05-05
+</PriorityDate>
+<PriorityNumber>
+US20060381850
+</PriorityNumber>
+<PriorityDate>
+2006-05-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/84
+</Class>
+<Class>
+H01L27/12
+</Class>
+<Class>
+H01L29/10
+</Class>
+<Class>
+H01L29/15
+</Class>
+<Class>
+H01L29/786
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L29/15
+</Class>
+<Class>
+H01L29/786S
+</Class>
+</NCL>
+<Abstract>
+A semiconductor device may include an SOI substrate, an insulating layer adjacent the substrate, and a semiconductor layer adjacent a face of the insulating layer opposite the substrate. The device may further include source and drain regions on the semiconductor layer, a superlattice adjacent the semiconductor layer and extending between the source and drain regions to define a channel, and a gate overlying the superlattice. The superlattice may include a plurality of stacked groups of layers, with each group of layers including a plurality of stacked base semiconductor monolayers defining a base semiconductor portion and an energy band-modifying layer thereon. The energy band-modifying layer may include at least one non-semiconductor monolayer constrained within a crystal lattice of adjacent base semiconductor portions. The superlattice may contain Germanium.
+</Abstract>
+<Claims>
+<P>
+THAT WHICH IS CLAIMED SS:
+</P>
+<P>
+1. A semiconductor device comprising: a substrate; an insulating layer adjacent said substrate; a semiconductor layer adjacent a face of said insulating layer opposite said substrate; source and drain regions on said semiconductor layer; a superlattice adjacent said semiconductor layer and extending between said source and drain regions to define a channel; and a gate overlying said superiattice; said superlattice comprising a plurality of stacked groups of layers with each group of layers comprising a plurality of stacked base semiconductor monolayers defining a base semiconductor portion and an energy band-modifying layer thereon; said energy band-modifying layer comprising at least one non- semiconductor monolayer constrained within a crystal lattice of adjacent base semiconductor portions.
+</P>
+<P>
+2. The semiconductor device of Claim 1 further comprising a contact layer on at least one of said source and drain regions.
+</P>
+<P>
+3. The semiconductor device of Claim 1 wherein said substrate comprises silicon, and wherein said insulating layer comprises silicon oxide,
+</P>
+<P>
+4. The semiconductor device of Claim 1 wherein said superlattice has a common energy band structure therein.
+</P>
+<P>
+5. The semiconductor device of Claim 1 wherein said superlattice has a higher charge carrier mobility than would otherwise be present without said energy band-modifying layer.
+</P>
+<P>
+6. The semiconductor device of Claim 1 wherein each base semiconductor portion comprises silicon.
+</P>
+<P>
+7. The semiconductor device of Claim 1 wherein each base semiconductor portion comprises germanium.
+</P>
+<P>
+8. The semiconductor device of Claim 1 wherein each energy band-modifying layer comprises oxygen.
+</P>
+<P>
+9. The semiconductor device of Claim 1 wherein each energy band-modifying layer is a single monolayer thick.
+</P>
+<P>
+10. The semiconductor device of Claim 1 wherein each base semiconductor portion is less than eight monolayers thick.
+</P>
+<P>
+11. The semiconductor device of Claim 1 wherein said superlattice further has a substantially direct energy bandgap.
+</P>
+<P>
+12. The semiconductor device of Claim 1 wherein said superiattice further comprises a base semiconductor cap layer on an uppermost group of layers.
+</P>
+<P>
+13. The semiconductor device of Claim 1 wherein a!! of said base semiconductor portions are a same number of monolayers thick.
+</P>
+<P>
+14. The semiconductor device of Claim 1 wherein at least some of said base semiconductor portions are a different number of monolayers thick.
+</P>
+<P>
+15. The semiconductor device of Claim 1 wherein each energy band-modifying layer comprises a non-semiconductor selected from the group consisting of oxygen, nitrogen, fluorine, and carbon-oxygen.
+</P>
+<P>
+16.A method for making a semiconductor device comprising: forming an insulating layer adjacent a substrate; forming a superiattice adjacent a semiconductor layer, and positioning the semiconductor layer adjacent a face of the insulating layer opposite the substrate; forming a gate overlying the superiattice; and forming source and drain regions on the semiconductor layer so that the superiattice extends therebetween to define a channel; the superiattice comprising a plurality of stacked groups of layers with each group of layers comprising a plurality of stacked base semiconductor monolayers defining a base semiconductor portion and an energy band-modifying layer thereon; the energy band-modifying layer comprising at least one non- semiconductor monolayer constrained within a crystal lattice of adjacent base semiconductor portions.
+</P>
+<P>
+17. The method of Claim 16 further comprising forming a contact layer on at least one of the source and drain regions.
+</P>
+<P>
+18. The method of Claim 16 wherein the substrate comprises silicon, and wherein the insulating layer comprises silicon oxide.
+</P>
+<P>
+19. The method of Claim 16 wherein the superlattice has a common energy band structure therein.
+</P>
+<P>
+20. The method of Claim 16 wherein the superlattice has a higher charge carrier mobility than wou!d otherwise be present without the energy band-modifying iayer.
+</P>
+<P>
+21. The method of Claim 16 wherein each base semiconductor portion comprises silicon.
+</P>
+<P>
+22. The method of Claim 16 wherein each base semiconductor portion comprises germanium.
+</P>
+<P>
+23. The method of Claim 16 wherein each energy band- modifying iayer comprises oxygen.
+</P>
+<P>
+24. The method of Claim 16 wherein each energy band- modifying layer is a single monolayer thick.
+</P>
+<P>
+25. The method of Claim 16 wherein each base semiconductor portion is less than eight monolayers thick.
+</P>
+<P>
+26. The method of Claim 16 wherein the superlattice further has a substantially direct energy bandgap.
+</P>
+<P>
+27. The method of Claim 16 wherein the superlattice further comprises a base semiconductor cap layer on an uppermost group of layers.
+</P>
+<P>
+28. The method of Claim 16 wherein all of the base semiconductor portions are a same number of monolayers thick.
+</P>
+<P>
+29. The method of Claim 16 wherein at least some of the base semiconductor portions are a different number of monolayers thick.
+</P>
+<P>
+30. The method of Claim 16 wherein each energy band- modifying layer comprises a non-semiconductor selected from the group consisting of oxygen, nitrogen, fluorine, and carbon-oxygen.
+</P>
+</Claims>
+<Also_published_as>
+WO2007131119A1;TW200807708A;JP2009536464A;CA2650489A1;AU2007247955A1
+</Also_published_as>
+</BiblioData>

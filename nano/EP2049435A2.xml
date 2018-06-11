@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A MULTI-DIE APPARATUS INCLUDING MOVEABLE PORTIONS
+</Title>
+<PublicationNumber>
+EP2049435A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HARTWELL PETER [US]
+</Name>
+<Name>
+PICCIOTTO CARL [US]
+</Name>
+<Name>
+HARTWELL, PETER
+</Name>
+<Name>
+PICCIOTTO, CARL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2049435
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070813329
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US74292
+</PriorityNumber>
+<PriorityDate>
+2007-07-25
+</PriorityDate>
+<PriorityNumber>
+US20060495363
+</PriorityNumber>
+<PriorityDate>
+2006-07-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81C1/00
+</Class>
+<Class>
+G01P15/18
+</Class>
+<Class>
+G11B9/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B81B3/00P
+</Class>
+<Class>
+B81C1/00C12B
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G01P15/08
+</Class>
+<Class>
+G01P15/125
+</Class>
+<Class>
+G01P15/18
+</Class>
+<Class>
+G11B9/14M2B
+</Class>
+</NCL>
+<Abstract>
+An electronic apparatus includes a first die, a second die, a third die, and a fourth die (101-104), wherein a portion of the second die (50) and a portion of the third die (150) are movably connected between the first die and the fourth die (101, 104).
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An electronic apparatus, comprising: a first die (101); a second die (102); a third die (103); a fourth die (104), wherein the second die (102) and the third die (103) are interposed between the first die (101) and the fourth die (104), and a portion of the second die (50) and a portion of the third die (150) are movably coupled between the first die (101) and the fourth die (104).
+</P>
+<P>
+2. The electronic apparatus of claim 1 , wherein the portion of the second die (50) and the portion of the third die (150) are movable in any X, Y, or Z direction or combination thereof relative to the first die (101) and the fourth die
+</P>
+<P>
+(104).
+</P>
+<P>
+3. The electronic apparatus of claim 1 , wherein the portion of the second die (50) and the portion of the third die (150) are movable independently from each other.
+</P>
+<P>
+4. The electronic apparatus of claim 1 , further comprising: a capacitive sensor including passive components (70, 170) on at least two of the first, second, third and fourth dies (101-104), wherein the capacitive sensor is operable to measure a change in capacitance caused by a change in overlap between the passive components (70, 170) due to lateral movement of at least one of the portion of the second die and the portion of the third die (50, 150).
+</P>
+<P>
+5. The electronic apparatus of claim 1 , wherein the first die, the second die, the third die, and the fourth die (101-104) are bonded together in a stacked arrangement.
+</P>
+<P>
+6. The electronic apparatus of claim 1 , further comprising: an internal cavity (80) formed between the first die (101) and the fourth die (104), wherein the portion of the second die and the portion of the third die (50, 150) are located within the internal cavity (80).
+</P>
+<P>
+7. The electronic apparatus of claim 1 , further comprising: at least one actuator operable to hold a position of the portion of the third die (150) relative to the fourth die (104); and the portion of the second die (50) is operable to move while the portion of the third die (150) is held in the position, wherein the movement of the portion of the second die (50) is measured based on a change in distance or overlap between passive components (32, 70) on the first die and the portion of the second die.
+</P>
+<P>
+8. The electronic apparatus of claim 1 , further comprising: a via (72) in the second die, the via in the second die providing a path for electrical signals traveling through the second die; and a via (172) in the third die, the via in the third die providing a path for electrical signals traveling through the third die.
+</P>
+<P>
+9 The electronic apparatus of claim 1 , further comprising: at least a first electrode (70, 170, 52, 152)disposed on one of the first die, the second die, the third die, or the fourth die; and at least a second electrode (70, 170, 52, 152) disposed on an adjacent die to the die having the at least a first electrode, wherein the at least a first and the at least a second electrodes are configured to sense a position of the portion of the second die (50) or a position of the portion of the third die (150) or both relative to each other or to the first and/or fourth dies (101 , 104).
+</P>
+<P>
+10. The electronic apparatus of claim 1 , further comprising: at least a first electrode (70, 170, 52, 152) disposed on one of the first die, the second die, the third die, or the fourth die; and at least a second electrode (70, 170, 52, 152) disposed on an adjacent die to the die having the at least a first electrode, wherein the at least a first and the at least a second electrodes (70, 170, 52, 152) are configured to hold a position or to change the position of the portion of the second die (50) or to hold or change a position of the portion of the third die (150) or both relative to each other or to the first and/or fourth dies (101 , 104).
+</P>
+<P>
+11. The electronic apparatus of claim 1 , wherein the portion of the second die and the portion of the third die (50, 150) have different masses
+</P>
+<P>
+12. A microelectromechanical system (MEMS) device comprising: a first die (101); a second die (102); a third die (103); a fourth die (104), wherein a portion of the second die (50) and a portion of the third die (150) are movably connected between the first die and the fourth die (101 , 104); material (60) bonding the first die, the second die, the third die and the fourth die (101-104) together; a via (72) in the second die, the via (72) in the second die providing a path for electrical signals traveling through the second die (102); and a via (172) in the third die (103), the via (172) in the third die providing a path for electrical signals traveling through the third die (103); a first circuit (32) on the first die; a second circuit (22) on the fourth die, wherein the first circuit (32) is in electrical communication with the second circuit (22) by transmitting the electrical signals using the vias (72, 172) in the second die and the third die; and a first set of active or passive circuit components (70, 52) on at least one of an upper surface and a lower surface of the second die; and a second set of active or passive circuit components (170, 152) on at least one of an upper surface and a lower surface of the third die.
+</P>
+<P>
+13. The MEMS device of claim 12, wherein at least one of the first circuit (32) and the second circuit (22) comprises: transducer electronics and electrodes comprising capacitive plates (70, 170, 52, 152), wherein at least one of the electrodes is on one of the portion of the second die and the portion of the third die, the transducer electronics being operable to detect relative movement of the portion of the second die and the portion of the third die by detecting a change in capacitance between the capacitive plates.
+</P>
+<P>
+14. The MEMS device of claim 12, wherein the portion of the second die and the portion of the third die (50, 150) have the same mass.
+</P>
+<P>
+15. The MEMS device of claim 12, wherein the portion of the second die and the portion of the third die (50, 150) have different masses.
+</P>
+</Claims>
+<Also_published_as>
+WO2008014305A2;WO2008014305A3;US2008023813A1;US7808061B2
+</Also_published_as>
+</BiblioData>

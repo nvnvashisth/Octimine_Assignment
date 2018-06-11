@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LASER PRODUCED PLASMA EUV LIGHT SOURCE
+</Title>
+<PublicationNumber>
+EP2115406A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BYKANOV ALEXANDER N [US]
+</Name>
+<Name>
+BOWERING NORBERT R [US]
+</Name>
+<Name>
+FOMENKOV IGOR V [US]
+</Name>
+<Name>
+BRANDT DAVID C [US]
+</Name>
+<Name>
+ERSHOV ALEXANDER I [US]
+</Name>
+<Name>
+KHODYKIN OLEH V [US]
+</Name>
+<Name>
+PARTLO WILLIAM N [US]
+</Name>
+<Name>
+BYKANOV, ALEXANDER, N
+</Name>
+<Name>
+BOWERING, NORBERT, R
+</Name>
+<Name>
+FOMENKOV, IGOR, V
+</Name>
+<Name>
+BRANDT, DAVID, C
+</Name>
+<Name>
+ERSHOV, ALEXANDER, I
+</Name>
+<Name>
+KHODYKIN, OLEH, V
+</Name>
+<Name>
+PARTLO, WILLIAM, N
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CYMER INC [US]
+</Name>
+<Name>
+CYMER, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2115406
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080713374
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-02-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US01349
+</PriorityNumber>
+<PriorityDate>
+2008-02-01
+</PriorityDate>
+<PriorityNumber>
+US20070903643P
+</PriorityNumber>
+<PriorityDate>
+2007-02-26
+</PriorityDate>
+<PriorityNumber>
+US20070786145
+</PriorityNumber>
+<PriorityDate>
+2007-04-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/20
+</Class>
+<Class>
+H05G2/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/70B6
+</Class>
+<Class>
+G03F7/70P14
+</Class>
+<Class>
+G03F7/70P8
+</Class>
+<Class>
+G03F7/70P8B
+</Class>
+<Class>
+H05G2/00P2
+</Class>
+<Class>
+H05G2/00P6
+</Class>
+</NCL>
+<Abstract>
+A device is disclosed which may comprise a system generating a plasma at a plasma site, the plasma producing EUV radiation and ions exiting the plasma. The device may also include an optic, e.g., a multi-layer mirror, distanced from the site by a distance, d, and a flowing gas disposed between the plasma and optic, the gas establishing a gas pressure sufficient to operate over the distance, d, to reduce ion energy below a pre-selected value before the ions reach the optic. In one embodiment, the gas may comprise hydrogen and in a particular embodiment, the gas may comprise greater than 50 percent hydrogen by volume.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A device comprising:
+</P>
+<P>
+a system generating a plasma at a plasma site, the plasma producing EUV radiation and ions exiting the plasma;
+</P>
+<P>
+an optic distanced from the site by a distance, d; and
+</P>
+<P>
+a flowing gas disposed between the plasma and optic, the gas establishing a gas pressure sufficient to operate over the distance, d, to reduce ion energy below 100 eV before the ions reach the optic.
+</P>
+<P>
+2. A device as recited in claim 1 wherein the gas comprises hydrogen.
+</P>
+<P>
+3. A device as recited in claim 2 wherein the gas comprises greater than 50 percent hydrogen by volume.
+</P>
+<P>
+4. A device as recited in claim 1 wherein the gas comprises deuterium.
+</P>
+<P>
+5. A device as recited in claim 1 wherein the plasma comprises Sn.
+</P>
+<P>
+6. A device as recited in claim 1 wherein the optic is a multi-layer mirror.
+</P>
+<P>
+7. A device as recited in claim 1 wherein the system comprises a droplet generator providing droplets and a laser illuminating droplets to create the plasma.
+</P>
+<P>
+8. A device as recited in claim 7 wherein the laser comprises a gain media and the gain media comprises CO2.
+</P>
+<P>
+9. A device as recited in claim 1 wherein the system comprises a chamber, the optic and plasma are disposed within the chamber, and wherein the gas is introduced into the chamber and exhausted therefrom during plasma generation.
+</P>
+<P>
+10. A device as recited in claim 3 further comprising an on-demand hydrogen generation system.
+</P>
+<P>
+11. A device as recited in claim 10 wherein the gas comprises hydrogen and the device further comprises a source of diluting gas to mix with exhausted hydrogen prior to release.
+</P>
+<P>
+12. A device as recited in claim 1 wherein the gas comprises hydrogen and the pressure is greater than 100 mTorr.
+</P>
+<P>
+13. A device as recited in claim 1 wherein the gas flow rate is greater than 100 sccm.
+</P>
+<P>
+14. A device as recited in claim 1 wherein the collector mirror directs EUV light to an intermediate location and the device further comprises a multi-channel pressure-reducing structure disposed between the plasma and the intermediate location.
+</P>
+<P>
+15. A device comprising:
+</P>
+<P>
+a system generating a plasma at a plasma site, the plasma producing EUV radiation and ions exiting the plasma
+</P>
+<P>
+an optic distanced from the site by a distance, d;
+</P>
+<P>
+a gas comprising a halogen, the gas disposed between the plasma and optic, the gas establishing a gas pressure sufficient to operate over the distance, d, to reduce ion energy below 100 eV before the ions reach the optic.
+</P>
+<P>
+16. A device as recited in claim 15 wherein the halogen comprises bromine.
+</P>
+<P>
+17. A device comprising:
+</P>
+<P>
+a system generating a plasma at a plasma site, the plasma producing EUV radiation and ions exiting the plasma, the system comprising an irradiation source having a pulse shaper, the source producing a pulse-shaped beam for irradiating a target material to produce a plasma having lower initial ion energies than a corresponding unshaped beam:
+</P>
+<P>
+an optic distanced from the site by a distance, d;
+</P>
+<P>
+a gas disposed between the plasma and optic, the gas establishing a gas pressure sufficient to operate over the distance, d, to reduce ion energy below 100 eV before the ions reach the optic.
+</P>
+<P>
+18. A device as recited in claim 17 wherein the pulse-shaped beam comprises at least one pre-pulse and at least one main-pulse.
+</P>
+<P>
+19. A device as recited in claim 17 wherein the pulse shaper comprises a saturable absorber.
+</P>
+<P>
+20. A device as recited in claim 17 wherein the pulse shaper comprises an optical arrangement creating a laser spark.
+</P>
+<P>
+21. A device as recited in claim 17 wherein the pulse shaper comprises a shutter operable to trim a pulse.
+</P>
+<P>
+22. A device as recited in claim 17 wherein the pulse shaper comprises a pulse stretcher.
+</P>
+<P>
+23. A device comprising:
+</P>
+<P>
+a laser source generating a laser beam;
+</P>
+<P>
+a source material irradiated by said laser beam at an irradiation zone to form a plasma and emit EUV light;
+</P>
+<P>
+a mirror reflecting EUV light to an intermediate region, the intermediate region distanced from the irradiation zone by a distance, D1; and
+</P>
+<P>
+a receiving structure positioned to receive source material from the irradiation zone, the receiving structure formed with at least one passageway allowing EUV light to travel from the mirror to the intermediate region, the receiving structure distanced from the intermediate region by a distance, D2, with D1&amp;gt;D2.
+</P>
+<P>
+24. A device as recited in claim 23 wherein the receiving structure comprises a conical shaped shell.
+</P>
+<P>
+25. A device as recited in claim 23 wherein the conical shaped shell defines an axis and the receiving structure further comprises a plurality of radially oriented vanes.
+</P>
+<P>
+26. A device as recited in claim 23 further comprising a temperature control system for the receiving structure.
+</P>
+<P>
+27. A device as recited in claim 23 wherein the source material comprises tin and at least a portion of the receiving structure is maintained at a temperature above the melting point of tin.
+</P>
+<P>
+28. A device as recited in claim 23 wherein the mirror is distanced from the irradiation zone by a distance, d and a flowing gas is disposed between the irradiation zone and mirror, the gas establishing a gas pressure sufficient to operate over the distance, d, to reduce ion energy below 100 eV before the ions reach the optic.
+</P>
+<P>
+29. A device as recited in claim 1 wherein the gas establishes a gas pressure sufficient to operate over the distance, d, to reduce ion energy below 30 eV before the ions reach the optic.
+</P>
+<P>
+30. A device as recited in claim 15 wherein the gas establishes a gas pressure sufficient to operate over the distance, d, to reduce ion energy below 30 eV before the ions reach the optic.
+</P>
+<P>
+31. A device as recited in claim 17 wherein the gas establishes a gas pressure sufficient to operate over the distance, d, to reduce ion energy below 30 eV before the ions reach the optic.
+</P>
+<P>
+32. A device as recited in claim 28 wherein the gas establishes a gas pressure sufficient to operate over the distance, d, to reduce ion energy below 30 eV before the ions reach the optic.
+</P>
+</Claims>
+<Also_published_as>
+EP2115406A4;US2008179548A1;US7671349B2;WO2008105989A2;WO2008105989A3;US2010127186A1;US8035092B2;TW200842515A;KR20090117810A;JP2010519783A
+</Also_published_as>
+</BiblioData>

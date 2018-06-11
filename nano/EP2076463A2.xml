@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+COMPLEXES OF CARBON NANOTUBES AND FULLERENCES WITH MOLECULAR- CLIPS AND USE THEREOF
+</Title>
+<PublicationNumber>
+EP2076463A2
+</PublicationNumber>
+<Inventor>
+<Name>
+AFZALI-ARDAKANI ALI [US]
+</Name>
+<Name>
+KAGAN CHERIE R [GB]
+</Name>
+<Name>
+TROMP RUDOLF [US]
+</Name>
+<Name>
+AFZALI-ARDAKANI, ALI
+</Name>
+<Name>
+KAGAN, CHERIE, R
+</Name>
+<Name>
+TROMP, RUDOLF
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBM [US]
+</Name>
+<Name>
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2076463
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070813228
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US74118
+</PriorityNumber>
+<PriorityDate>
+2007-07-23
+</PriorityDate>
+<PriorityNumber>
+US20060490248
+</PriorityNumber>
+<PriorityDate>
+2006-07-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B2
+</Class>
+<Class>
+C01B31/02B4D6
+</Class>
+</NCL>
+<Abstract>
+Separation of carbon nanotubes or fullerenes according to diameter through non- covalent pi-pi interaction with molecular clips is provided. Molecular clips are prepared by Diels- Alder reaction of polyacenes with a variety of dienophiles. The pi-pi complexes of carbon nanotrubes with molecular clips are also used for selective placement of carbon nanotubes and fullerenes on substrates.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A pi-pi complex of a carbon nanotube or fuUerene with a molecular clip.
+</P>
+<P>
+2. The complex of claim 1 wherein the molecular clip is a Diels-Alder adduct of polyacene with a dienophile.
+</P>
+<P>
+3. The complex of claim 1 being a complex of a carbon nanotube.
+</P>
+<P>
+4. The complex of claim 2 wherein the polyacene is selected from the group consisting of:
+</P>
+<P>
+Wherein each of Ri, R2, R3, R4, R5 and R6 is individually selected from the group consisting of hydrogen, alkyl, silanyl, halo and alkoxy.
+</P>
+<P>
+5. The complex of claim 2 wherein the polyacene is selected from the group consisting of anthracene, naphthacene, pentacene, hexacene and heptacene.
+</P>
+<P>
+6. The complex of claim 2 wherein the dienophile is selected from the group consisting of
+</P>
+<P>
+11
+</P>
+<P>
+10
+</P>
+<P>
+13
+</P>
+<P>
+12
+</P>
+<P>
+14 wherein each R and R&amp;lt;1&amp;gt; is a cycloaliphatic ring or an alkyl group.
+</P>
+<P>
+7. The complex of claim 2 wherein the adduct is a Diels- Alder adduct of pentacene and maleimide.
+</P>
+<P>
+8. The complex of claim 1 wherein the molar ratio of the nanotube or fullerene to adduct is about 1: 1 to about 1 :1000.
+</P>
+<P>
+9. The complex of claim 1 wherein the carbon nanotube or fullerene has a diameter of about 0.5 to about 2.5 nanometers.
+</P>
+<P>
+10. A dispersion of the pi-pi complex according to claim 1 in water or an organic solvent.
+</P>
+<P>
+11. The dispersion according to claim 10 wherein the organic solvent is selected from the group consisting of chloroform, benzene, toluene, xylenes, dichlorobenzene, N5N- dimethylformamide, propyleneglycol and methyl ether acetate.
+</P>
+<P>
+12. The dispersion of claim 10 being a complex of a carbon nanotube.
+</P>
+<P>
+13. The dispersion of claim 10 wherein the polyacene is selected from the group consisting of:
+</P>
+<P>
+8 9
+</P>
+<P>
+Wherein each OfR1, R2, R3, R4, Rs and R^ is individually selected from the group consisting of hydrogen, alkyl, silanyl, halo and alkoxy.
+</P>
+<P>
+14. The dispersion of claim 10 wherein the polyacene is selected from the group consisting of anthracene, naphthacene, pentacene, hexacene and heptacene.
+</P>
+<P>
+15. The dispersion of claim 10 wherein the dienophile is selected from the group consisting of
+</P>
+<P>
+11 10
+</P>
+<P>
+13
+</P>
+<P>
+12
+</P>
+<P>
+R C=C R
+</P>
+<P>
+14 wherein each R and R&amp;lt;1&amp;gt; is a cycloaliphatic ring or an alkyl group.
+</P>
+<P>
+15. The dispersion of claim 10 wherein the adduct is a diels-alder adduct of pentacene and maleimide.
+</P>
+<P>
+16. The dispersion of claim 10 wherein the weight ratio of the nanotube or fullerene to adduct is about 1:1 to about 1:100.
+</P>
+<P>
+18. The dispersion of claim 10 wherein the nanotube or fullerene heis a diameter of about 0.5 to about 2.5 nanometers.
+</P>
+<P>
+19. A method for fabricating an article which comprises depositing on a substrate a layer of a pi-pi complex according to claim 1.
+</P>
+<P>
+20. The method of claim 19 which comprises selectively depositing onto a metal or metal oxide substrate.
+</P>
+<P>
+21. The method of claim 19 which comprises depositing from a dispersion of a pi-pi complex of a carbon nanotube or fullerene with a Diels- Alder adduct of a polyacene and a dienophile in water or an organic solvent.
+</P>
+<P>
+22. The method of claim 19 which comprises fabricating an electronic device by selectively depositing said complex onto a substrate and then depositing electrical contacts or by selectively depositing said complex onto a substrate that contains electrical contacts.
+</P>
+<P>
+23. The method of claim 22 wherein the device is a FET.
+</P>
+<P>
+24. The method of claim 22 being a complex of a carbon nanotube.
+</P>
+<P>
+25. The method of claim 22 wherein the polyacene is selected from the group consisting of:
+</P>
+<P>
+Wherein each of Ri, R2, R3, R4, R5 and R^ is individually selected from the group consisting of hydrogen, alkyl, silanyl, halo and alkoxy.
+</P>
+<P>
+26. The method of claim 19 wherein the polyacene is selected from the group consisting of anthracene, naphthacene, pentacene and hexacene.
+</P>
+<P>
+27. The method of claim 19 wherein the dienophile is selected from the group consisting of
+</P>
+<P>
+11 10
+</P>
+<P>
+13
+</P>
+<P>
+12
+</P>
+<P>
+14 wherein each R and R is a cycloaliphatic ring or an alkyl group.
+</P>
+<P>
+28. The method of claim 19 wherein the adduct is a Diels-Alder adduct of pentacene and maleimide.
+</P>
+<P>
+29. An article comprising a substrate and a layer of a complex of carbon-nanotube or fullerene and Diels Alder adduct of polyacene and dienophile.
+</P>
+<P>
+30. The article according to claim 29 wherein the substrate comprises a metal oxide.
+</P>
+<P>
+31. The article according to claim 29 being an electronic device which further comprises electrical contacts.
+</P>
+<P>
+32. A method of separating carbon nanotubes or fullerenes according to diameter which comprises:
+</P>
+<P>
+(a) preparing a solution of a molecular clip of claim 1 in a solvent;
+</P>
+<P>
+(b) sonicating a suspension of carbon nanotubes or fullerenes in the solution of (a);
+</P>
+<P>
+(c) centrifuging the sonicated solution of (b);
+</P>
+<P>
+(d) separating the supernatant liquid of solution of (c) from the precipitant.
+</P>
+<P>
+33. A method of separation of claim 32 where the molecular clip is a Diels-Alder adduct of a polyacene and a dienophile.
+</P>
+<P>
+34. A method of separating carbon nanotubes of claim 33 where said polyacene is selected from a group consisting of anthracene, tetracene, pentacene, hexacene and heptacene.
+</P>
+<P>
+35. A method of separating carbon nanotubes of claim 33 where said dienophile is selected from a group consisting of:
+</P>
+<P>
+-CO2R
+</P>
+<P>
+R O- -R &amp;lt;:&amp;gt;N-
+</P>
+<P>
+RO2C
+</P>
+<P>
+O O
+</P>
+<P>
+11
+</P>
+<P>
+10
+</P>
+<P>
+13
+</P>
+<P>
+12
+</P>
+<P>
+R- -R
+</P>
+<P>
+14
+</P>
+<P>
+36. A method of separating carbon nanotubes of claim 32 where said molecular clip is selected from the group consisting of
+</P>
+<P>
+where x in structures 1 ,3 and 4 are selected from -CH2-, -CHR-, -NH-, -NR- or -0-.
+</P>
+<P>
+37. A method of fabricating an article comprising:
+</P>
+<P>
+(a) depositing a monolayer of a molecular clip on a substrate, wherein said molecular clip has at least one end functionality selected from the group consisting of -SH, -NC, -PO3H2, -CONHOH and -CO2H;
+</P>
+<P>
+(b) immersing said substrate from (a) into a dispersion of carbon nanotubes in a solvent; and
+</P>
+<P>
+(c) washing the unattached carbon nanotubes from the substrate with a solvent.
+</P>
+<P>
+38. A method of fabricating an article of claim 37 wherein said molecular clip is a Diels- Alder adduct of polyacene and a dienophile with at least one end group selected from the group consisting of -SH, NC, PO3H2, -CONHOH and CO2H.
+</P>
+<P>
+39. The method of claim 38 wherein said adduct has a preselected dihedral angle and distance between its outer rings and wherein the carbon nanotubes or fullerenes having preselected diameters are anchored to said substrate by said adduct and which further comprises washing carbon nanotubes or fullerenes not of the desired diameter away from said substrate.
+</P>
+<P>
+40 The method of claim 38 wherein said adduct has a dihedral angle of about 120 [deg.] and a distance between its outer rings of about 0.5-2.5 nm.
+</P>
+</Claims>
+<Also_published_as>
+WO2008011623A2;WO2008011623A8;WO2008011623A3;WO2008048732A2;US2010297833A1;US7879307B2;US7883685B1;US2010320438A1;US7955585B2;US2010291759A1;US7867469B2;US2010170418A1;US7771695B2;TW200825023A;KR20090033869A;JP2010504899A;CN101489927A
+</Also_published_as>
+</BiblioData>

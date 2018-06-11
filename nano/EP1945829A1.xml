@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR DEPOSITING REFLECTIVE MULTILAYER FILM OF REFLECTIVE MASK BLANK FOR EUV LITHOGRAPHY AND METHOD FOR PRODUCING REFLECTIVE MASK BLANK FOR EUV LITHOGRAPHY
+</Title>
+<PublicationNumber>
+EP1945829A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SUGIYAMA TAKASHI [JP]
+</Name>
+<Name>
+SUGIYAMA, TAKASHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASAHI GLASS CO LTD [JP]
+</Name>
+<Name>
+ASAHI GLASS COMPANY, LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1945829
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060823435
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP322787
+</PriorityNumber>
+<PriorityDate>
+2006-11-09
+</PriorityDate>
+<PriorityNumber>
+JP20050325769
+</PriorityNumber>
+<PriorityDate>
+2005-11-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B24B37/04
+</Class>
+<Class>
+C23C14/02
+</Class>
+<Class>
+C23C14/34
+</Class>
+<Class>
+G03F1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B24B37/04
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C23C14/22
+</Class>
+<Class>
+G02B5/08V
+</Class>
+<Class>
+G03F1/08
+</Class>
+<Class>
+G03F1/24
+</Class>
+<Class>
+G21K1/06B
+</Class>
+</NCL>
+<Abstract>
+A method for depositing, on a substrate, a reflective multilayer film of a reflective mask blank for EUV lithography by sputtering, comprises: depositing a reflective multilayer film in such a state that a substrate has been deformed so as to be subjected to a stress, which is directed to the opposite direction to a stress applied to the substrate by deposition of the reflective multilayer film;  and returning the substrate to the shape before deformation, after deposition of the reflective multilayer film.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method for depositing a multilayer film on a substrate, comprising: depositing a multilayer film in such a state that a substrate has been deformed so as to be subjected to a stress, which is directed to the opposite direction to a stress applied to the substrate by deposition of the multilayer film; and returning the substrate to the shape before deformation, after deposition of the multilayer film.
+</P>
+<P>
+2. A method for depositing, on a substrate, a reflective multilayer film of a reflective mask blank for EUV lithography by sputtering, comprising: depositing a reflective multilayer film in such a state that a substrate has been deformed so as to be subjected to a stress, which is directed to the opposite direction to a stress applied to the substrate by deposition of the reflective multilayer film,- and returning the substrate to the shape before deformation, after deposition of the reflective multilayer film.
+</P>
+<P>
+3. The method according to Claim 2, wherein the substrate that has been returned to the shape before deformation has a flatness of 100 nm or below. 4. The method according to Claim 2 or 3 , wherein in order to deposit the reflective multilayer film in such a state that the substrate has been deformed, the substrate is held by a first electrostatic chuck, which has a contact surface with the substrate, formed in a shape corresponding to the shape of the substrate after deformation. 5. The method according to Claim 4, wherein the first electrostatic chuck has a chucking force of 0.5 kPa or above and a Young&apos;s modulus of 10 GPa or above.
+</P>
+<P>
+6. The method according to Claim 4 or 5 , wherein the contact surface of the first electrostatic chuck, on which the substrate is held, has slightly smaller dimensions than those of the substrate.
+</P>
+<P>
+7. The method according to any one of Claims 2 to 6 , wherein the substrate has a specific rigidity of 3.OxIO&amp;lt;7&amp;gt; m&amp;lt;2&amp;gt;/s&amp;lt;2&amp;gt; or above and a Poisson&apos; s ratio of 0.16 to 0.25. 8. A method for producing a reflective mask blank for EUV lithography, comprising: depositing an absorbing layer on a reflective multilayer film by sputtering after depositing the reflective multilayer film on a substrate by the method for depositing a reflective multilayer film of a reflective mask blank for EUV lithography, defined in any one of Claims 2 to 7 ; the method further comprising: depositing the absorbing layer in such a state that the substrate has been deformed so as to be subjected to a stress, which is directed to the opposite direction to a stress applied to the substrate by deposition of the absorbing layer,- and returning the substrate to the shape before deformation, after deposition of the absorbing layer.
+</P>
+<P>
+9. A method for producing a reflective mask blank for EUV lithography, comprising: depositing a buffer layer and an absorbing layer on a reflective multilayer film by sputtering after depositing the reflective multilayer film on a substrate by the method for depositing a reflective multilayer film of a reflective mask blank for EUV lithography, defined in any one of Claims 2 to 7 ; the method further comprising: depositing the buffer layer and the absorbing layer in such a state that the substrate has been deformed so as to be subjected to a stress, which is directed to the opposite direction to a stress applied to the substrate by deposition of the buffer layer and the absorbing layer; and returning the substrate to the shape before deformation, after deposition of the absorbing layer.
+</P>
+<P>
+10. The method according to Claim 8 or 9, wherein the substrate that has been returned to the shape before deformation has a flatness of 100 nm or below.
+</P>
+<P>
+11. The method according to Claim 8 or 9, wherein in order to deposit the absorbing layer in such a state that the substrate has been deformed, the substrate is held by a second electrostatic chuck, which has a contact surface with the substrate, formed in a shape corresponding to the shape of the substrate after deformation. 12. The method according to Claim 9 or 10, wherein in order to deposit the buffer layer and the absorbing layer in such a state that the substrate has been deformed, the substrate is held by a second electrostatic chuck, which has a contact surface with the substrate, formed in a shape corresponding to the shape of the substrate after deformation. 13. The method according to Claim 11 or 12, wherein the second electrostatic chuck has a chucking force of 0.5 kPa or above and a Young&apos;s modulus of 10 GPa or above.
+</P>
+</Claims>
+<Also_published_as>
+WO2007055401A1;KR20080066763A
+</Also_published_as>
+</BiblioData>

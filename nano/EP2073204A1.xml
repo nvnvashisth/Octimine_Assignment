@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Data storage medium and associated method
+</Title>
+<PublicationNumber>
+EP2073204A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DEGUET CHRYSTEL [FR]
+</Name>
+<Name>
+CLAVELIER LAURENT [FR]
+</Name>
+<Name>
+FOURNEL FRANCK [FR]
+</Name>
+<Name>
+MOULET JEAN-SEBASTIEN [FR]
+</Name>
+<Name>
+DEGUET, CHRYSTEL
+</Name>
+<Name>
+CLAVELIER, LAURENT
+</Name>
+<Name>
+FOURNEL, FRANCK
+</Name>
+<Name>
+MOULET, JEAN-SEBASTIEN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+SOITEC SILICON ON INSULATOR [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+<Name>
+S.O.I.TEC SILICON ON INSULATOR TECHNOLOGIES
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE ET AUX ENERGIESALTERNATIVES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2073204
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080291188
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-12-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+FR20070060297
+</PriorityNumber>
+<PriorityDate>
+2007-12-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B9/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B5/74A
+</Class>
+<Class>
+G11B9/02
+</Class>
+<Class>
+G11B9/14R2
+</Class>
+<Class>
+G11B9/14R4
+</Class>
+</NCL>
+<Abstract>
+The medium (10) has a host substrate (104) comprising an electrode forming layer (100&apos;) in a surface, where the support is extended by application of electrostatic field. A ferroelectric layer (101) extends along the layer (100&apos;). Conducting zones (100&apos;&apos;) are parallel to a reference plane, form a part of the layer (100&apos;) and are separated from each other by an insulating zone. The zones have dimensions of 100 nanometers in a direction parallel to the plane, where some of the zones are connected with each other. The zones define data reading or writing locations within the layer (101). An independent claim is also included for a method for manufacturing a data storage medium.
+</Abstract>
+<Claims>
+<P>
+1. Support de stockage de données comportant :
+</P>
+<P>
+- un substrat porteur comportant en surface une couche formant électrode,
+</P>
+<P>
+- une couche en matériau sensible (101, 201, 301, 401, 451, 501) longeant ladite couche formant électrode, et dont le volume est adapté à être localement modifié entre deux états électriques sous l&apos;action d&apos;un champ électrique localisé,
+</P>
+<P>
+- ce support admettant un plan de référence globalement parallèle à la couche en matériau sensible, destiné à être longé par au moins un élément d&apos;application d&apos;un champ électrostatique en combinaison avec la couche formant électrode,
+</P>
+<P>
+- caractérisé en ce que ce support comporte, parallèlement à ce plan de référence, une pluralité de portions conductrices (100&quot;, 200&quot;, 300&quot;, 400&quot;, 450&quot;, 500&quot;) faisant partie de la couche formant électrode et séparées par au moins une zone électriquement isolante, ces portions électriquement conductrices ayant, dans au moins une direction parallèle au plan de référence une dimension au plus égale à 100 nm, certaines au moins des portions conductrices étant électriquement connectées entre elles, ces portions conductrices définissant au sein de la couche en matériau sensible des emplacements d&apos;écriture/lecture de données.
+</P>
+<P>
+2. Support selon la revendication 1 caractérisé en ce que ladite dimension est au plus égale à 50 nm.
+</P>
+<P>
+3. Support selon la revendication 1 ou la revendication 2 caractérisé en ce que chacune des portions conductrices de ladite pluralité est à une distance inférieure à 100 nm d&apos;une portion conductrice voisine de ladite pluralité, mesurée parallèlement au plan de référence.
+</P>
+<P>
+4. Support selon l&apos;une des revendications 1 à 3 caractérisé en ce que la couche en matériau sensible comprend un matériau ferroélectrique.
+</P>
+<P>
+5. Support selon la revendication 4 caractérisé en ce que le matériau ferroélectrique est du tantalate de lithium LiTaO3.
+</P>
+<P>
+6. Support selon l&apos;une des revendications 1 à 5 caractérisé en ce qu&apos;il comporte en outre une couche d&apos;oxyde entre le substrat porteur et la couche formant électrode.
+</P>
+<P>
+7. Support selon l&apos;une des revendications 1 à 6 caractérisé en ce que la couche formant électrode et la couche en matériau sensible sont planes et continues.
+</P>
+<P>
+8. Support selon la revendication 7 caractérisé en ce que lesdites portions conductrices comprennent des zones de croisement de lignes d&apos;un premier ensemble de lignes parallèles les unes aux autres avec des lignes d&apos;un deuxième ensemble de lignes conductrices parallèles les unes aux autres, les lignes du deuxième ensemble rencontrant transversalement les lignes du premier ensemble, ces lignes assurant la connexion des dites portions conductrices entre elles, les lignes du premier et du deuxième ensembles de lignes étant coplanaires.
+</P>
+<P>
+9. Support selon la revendication 8 caractérisé en ce que les lignes des premiers et seconds ensembles sont formés dans des dislocations à une interface de collage entre deux structures en matériau monocristallin, selon au moins deux directions différentes, ces lignes assurant la connexion desdites portions conductrices entre elles.
+</P>
+<P>
+10. Support selon la revendication 8 ou la revendication 9 caractérisé en ce que les lignes conductrices définissent des mailles rectangulaires ou carrées.
+</P>
+<P>
+11. Support selon l&apos;une des revendications 7 à 10 caractérisé en ce que les portions conductrices comprennent des plots venant en saillie vers la couche sensible à partir d&apos;une couche sous-jacente en matériau conducteur.
+</P>
+<P>
+12. Support selon la revendication 11 caractérisé en ce que la couche sous-jacente comprend des lignes conductrices se croisant les unes avec les autres.
+</P>
+<P>
+13. Support selon la revendication 11 caractérisé en ce que la couche sous-jacente est continue.
+</P>
+<P>
+14. Support selon la revendication 7 caractérisé en ce que le plan de référence s&apos;étend entre la couche en matériau sensible et une pluralité de lignes formant des électrodes situées à l&apos;opposé de la couche formant électrode par rapport à cette couche en matériau sensible.
+</P>
+<P>
+15. Support selon l&apos;une des revendications 1 à 6 caractérisé en ce que la couche formant électrode et la couche en matériau sensible sont chacune formées de portions, chaque portion de la couche formant électrode étant située à l&apos;une ou l&apos;autre de deux profondeurs par rapport au plan de référence, et chaque portion de la couche en matériau sensible longeant une portion de la couche formant électrode.
+</P>
+<P>
+16. Support selon la revendication 15 caractérisé en ce que les portions de la couche formant électrode à une faible profondeur constituent des sommets de plots en saillie par rapport à des portions de la couche formant électrode à une deuxième profondeur.
+</P>
+<P>
+17. Support selon la revendication 15 caractérisé en ce que les portions de la couche formant électrode à une faible profondeur constituent une surface d&apos;une grille en saillie par rapport à des portions de la couche formant électrode à une deuxième profondeur.
+</P>
+<P>
+18. Procédé de fabrication d&apos;un support de stockage de données conforme à l&apos;une des revendications 1 à 17 selon lequel on forme sur une surface d&apos;un substrat porteur une couche formant électrode et une couche en matériau sensible, caractérisé en ce qu&apos;on conforme la couche formant électrode à partir d&apos;un matériau électriquement isolant en faisant délimiter par le matériau électriquement isolant une pluralité de portions conductrices.
+</P>
+<P>
+19. Procédé selon la revendication 18 caractérisé en ce qu&apos;on fabrique la couche formant électrode par une étape de collage de deux structures mono-cristallines en sorte de former à un interface de collage entre les deux sous-couches mono-cristallines un entrecroisement de dislocations, ladite étape de collage étant suivie d&apos;une étape de diffusion de matériau conducteur au travers de l&apos;une desdites sous-couches jusqu&apos;à former des lignes conductrices dans lesdites dislocations et d&apos;une étape d&apos;amincissement de l&apos;une au moins des deux structures.
+</P>
+<P>
+20. Procédé selon la revendication 18 caractérisé en ce qu&apos;on forme la couche formant électrode par dépôt d&apos;une couche en matériau conducteur sur la couche en matériau sensible et qu&apos;on délimite des portions conductrices dans ladite couche en matériau conducteur par des opérations de gravure et de dépôt d&apos;au moins le matériau électriquement isolant, et on relie ensuite par collage moléculaire la couche formant électrode audit substrat porteur.
+</P>
+<P>
+21. Procédé selon la revendication 20 caractérisé en ce qu&apos;on réalise des portions de connexion connectant lesdites portions conductrices au sein de ladite couche en matériau conducteur.
+</P>
+<P>
+22. Procédé selon la revendication 20 caractérisé en ce qu&apos;on réalise les portions conductrices sous forme de plots de matériel conducteur isolés par gravure de ladite couche en matériau conducteur, dite première couche conductrice, et qu&apos;on dépose sur ladite première couche conductrice une deuxième couche conductrice assurant la connexion entre lesdits plots de matériel conducteur.
+</P>
+<P>
+23. Procédé selon la revendication 22 caractérisé en ce que la deuxième couche conductrice est continue.
+</P>
+</Claims>
+<Also_published_as>
+EP2073204B1;US2009161405A1;JP2009217923A;FR2925748A1;AT505790T
+</Also_published_as>
+</BiblioData>

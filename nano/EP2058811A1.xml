@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DRIVE DEVICE AND RECORDING/REPRODUCING DEVICE
+</Title>
+<PublicationNumber>
+EP2058811A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FUJIMOTO KENJIRO [JP]
+</Name>
+<Name>
+MORI SHUNTARO [JP]
+</Name>
+<Name>
+ISHIMORI MASAHIRO [JP]
+</Name>
+<Name>
+MAEDA TAKANORI [JP]
+</Name>
+<Name>
+FUJIMOTO, KENJIRO
+</Name>
+<Name>
+MORI, SHUNTARO
+</Name>
+<Name>
+ISHIMORI, MASAHIRO
+</Name>
+<Name>
+MAEDA, TAKANORI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PIONEER CORP [JP]
+</Name>
+<Name>
+PIONEER CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2058811
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060797306
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP317364
+</PriorityNumber>
+<PriorityDate>
+2006-09-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+F16C29/02
+</Class>
+<Class>
+G11B17/04
+</Class>
+<Class>
+G11B33/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B9/14M2B
+</Class>
+</NCL>
+<Abstract>
+A driving apparatus (1) is provided with: a fixed part (11) having a fixed-part plane (12);  and a driven part (13) having a driven-part plane (14), which faces the fixed-part plane, and driven in a direction substantially parallel to the fixed-part plane, a liquid lubricant (30) is between the fixed-portion plane and the driven-part plane, the driven-part plane faces the fixed-part plane such that the driven-part plane is substantially parallel to the fixed-part plane.
+</Abstract>
+<Claims>
+<P>
+1. A driving apparatus comprising:
+</P>
+<P>
+a fixed part having a fixed-part plane; and
+</P>
+<P>
+a driven part having a driven-part plane, which faces the fixed-part plane, and driven in a direction substantially parallel to the fixed-part plane,
+</P>
+<P>
+a liquid lubricant being between the fixed-portion plane and the driven-part plane,
+</P>
+<P>
+the driven-part plane facing the fixed-part plane such that the driven-part plane is substantially parallel to the fixed-part plane.
+</P>
+<P>
+2. The driving apparatus according to claim 1, wherein there is a balance among (i) a surface tension that driven-part plane receives in a direction of crossing the driven-part plane from the lubricant, (ii) a repulsion that the driven-part plane receives in a direction of crossing the driven-part plane from the lubricant, and (iii) a force that the driven-part plane receives in the direction of crossing the driven-part plane from an element other than the lubricant.
+</P>
+<P>
+3. The driving apparatus according to claim 1, wherein the driven-part plane forms a depression with respect to a surface of said driven part in a surrounding of the driven-part plane.
+</P>
+<P>
+4. The driving apparatus according to claim 1, wherein the driven-part plane forms a projection with respect to a surface of said driven part in a surrounding of the driven-part plane.
+</P>
+<P>
+5. The driving apparatus according to claim 1, wherein the fixed-part plane forms a depression with respect to a surface of said fixed part in a surrounding of the fixed-part plane.
+</P>
+<P>
+6. The driving apparatus according to claim 1, wherein the fixed-part plane forms a projection with respect to a surface of said fixed part in a surrounding of the fixed-part plane.
+</P>
+<P>
+7. The driving apparatus according to claim 1, wherein
+</P>
+<P>
+the driven-part plane forms a depression with respect to a surface of said driven part in a surrounding of the driven-part plane, and
+</P>
+<P>
+the fixed-part plane forms a projection, which corresponds to the depression, with respect to a surface of said fixed part in a surrounding of the fixed-part plane.
+</P>
+<P>
+8. The driving apparatus according to claim 1, wherein
+</P>
+<P>
+the driven-part plane forms a projection with respect to a surface of said driven part in a surrounding of the driven-part plane, and
+</P>
+<P>
+the fixed-part plane forms a depression, which corresponds to the projection, with respect to a surface of said fixed part in a surrounding of the fixed-part plane.
+</P>
+<P>
+9. The driving apparatus according to claim 1, further comprising a driving mechanism for driving said fixed part in a substantially orthogonal direction to the fixed-part plane.
+</P>
+<P>
+10. The driving apparatus according to claim 1, wherein each of said fixed part and said driven part is formed of a same substrate.
+</P>
+<P>
+11. A recording / reproducing apparatus comprising:
+</P>
+<P>
+a fixed part having a fixed-part plane; and
+</P>
+<P>
+a driven part having a driven-part plane, which faces the fixed-part plane, and driven in a direction substantially parallel to the fixed-part plane,
+</P>
+<P>
+a liquid lubricant being between the fixed-portion plane and the driven-part plane,
+</P>
+<P>
+the driven-part plane facing the fixed-part plane such that the driven-part plane is substantially parallel to the fixed-part plane,
+</P>
+<P>
+said driven part being equipped with a recording medium,
+</P>
+<P>
+said fixed part being equipped with one or a plurality of recording / reproducing devices.
+</P>
+</Claims>
+<Also_published_as>
+EP2058811A4;EP2058811B1;US2009321188A1;US8089851B2;JP4402158B2;WO2008026293A1;CN101506886A;CN101506886B
+</Also_published_as>
+</BiblioData>

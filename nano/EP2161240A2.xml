@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Carbon nanotube device, method of manufacturing the same, and carbon nanotube transfer body
+</Title>
+<PublicationNumber>
+EP2161240A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HIRAKATA MASAKI [JP]
+</Name>
+<Name>
+ISOZAKI TAKASHI [JP]
+</Name>
+<Name>
+KISHI KENTARO [JP]
+</Name>
+<Name>
+SHIGEMATSU TAISHI [JP]
+</Name>
+<Name>
+MANABE CHIKARA [JP]
+</Name>
+<Name>
+ANAZAWA KAZUNORI [JP]
+</Name>
+<Name>
+WATANABE HIROYUKI [JP]
+</Name>
+<Name>
+SHIMIZU MASAAKI [JP]
+</Name>
+<Name>
+HIRAKATA, MASAKI
+</Name>
+<Name>
+ISOZAKI, TAKASHI
+</Name>
+<Name>
+KISHI, KENTARO
+</Name>
+<Name>
+SHIGEMATSU, TAISHI
+</Name>
+<Name>
+MANABE, CHIKARA
+</Name>
+<Name>
+ANAZAWA, KAZUNORI
+</Name>
+<Name>
+WATANABE, HIROYUKI
+</Name>
+<Name>
+SHIMIZU, MASAAKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FUJI XEROX CO LTD [JP]
+</Name>
+<Name>
+FUJI XEROX CO, LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2161240
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090013618
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-10-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030758950
+</PriorityNumber>
+<PriorityDate>
+2003-10-27
+</PriorityDate>
+<PriorityNumber>
+JP20030155416
+</PriorityNumber>
+<PriorityDate>
+2003-05-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B1/00
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+H01L21/28
+</Class>
+<Class>
+H01L21/3205
+</Class>
+<Class>
+H01L23/52
+</Class>
+<Class>
+H01L29/06
+</Class>
+<Class>
+H01L51/00
+</Class>
+<Class>
+H01L51/05
+</Class>
+<Class>
+H01L51/30
+</Class>
+<Class>
+H01L51/40
+</Class>
+<Class>
+H05K1/09
+</Class>
+<Class>
+H05K3/06
+</Class>
+<Class>
+H01L51/52
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4D
+</Class>
+<Class>
+C01B31/02B4D6
+</Class>
+<Class>
+H01L51/00M4D
+</Class>
+<Class>
+H01L51/00M4D2
+</Class>
+<Class>
+H01L51/05D10
+</Class>
+</NCL>
+<Abstract>
+To provide a carbon nanotube device capable of efficiently exerting various electrical or physical characteristics of a carbon nanotube, the present invention provides: a carbon nanotube device, in which a carbon nanotube structure layer (14) having a network structure in which plural carbon nanotubes mutually cross-link, is formed in an arbitrary pattern on a surface of a base body (12);  and a method of manufacturing the carbon nanotube device with which the carbon nanotube can be suitably manufactured.
+</Abstract>
+<Claims>
+<P>
+1. A method of manufacturing a carbon nanotube device, comprising:
+</P>
+<P>
+an applying step of applying to a surface of a base body a solution containing plural carbon nanotubes having functional groups and a cross-linking agent which prompts a cross-linking reaction with the functional groups;
+</P>
+<P>
+a cross-linking step of mutually cross-linking the plural carbon nanotubes to construct a network structure through curing of the solution after the application to thereby form a carbon nanotube structure layer having the network structure; and
+</P>
+<P>
+a patterning step of patterning the carbon nanotube structure layer into a pattern corresponding to a desired device, characterized in that
+</P>
+<P>
+the patterning step includes:
+</P>
+<P>
+a resin layer forming step of forming a resin layer above the carbon nanotube structure layer in a region on the surface of the base body having the pattern corresponding to the desired device; and
+</P>
+<P>
+a removing step of removing the carbon nanotube structure layer exposed in a region other than the region by subjecting a surface of the base body on which the carbon nanotube structure layer and the resin layer are laminated to dry etching.
+</P>
+<P>
+2. A method of manufacturing a carbon nanotube device according to claim 1, characterized in that, in the removing step, the surface of the base body on which the carbon nanotube structure layer and the resin layer are laminated is irradiated with an oxygen molecule radical.
+</P>
+<P>
+3. A method of manufacturing a carbon nanotube device according to claim 1, characterized in that oxygen molecules are irradiated with ultraviolet rays to generate an oxygen molecule radical, which is used as a radical with which the surface of the base body on which the carbon nanotube structure layer and the resin layer are laminated is irradiated.
+</P>
+<P>
+4. A method of manufacturing a carbon nanotube device according to claim 1, characterized in that the patterning step further includes a resin layer peeling-off step of peeling off the resin layer formed in the resin layer forming step subsequent to the removing step.
+</P>
+</Claims>
+<Also_published_as>
+EP1630128A1;EP1630128A4;EP1630128B1;US2006038299A1;US7452828B2;KR20060011824A;KR100779642B1;JP2004351602A;WO2004106223A1;CN1756716A;CN100554138C;AU2003275687A1;AT507587T
+</Also_published_as>
+</BiblioData>

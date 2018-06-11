@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MEASURING PROBE, SAMPLE SURFACE MEASURING APPARATUS AND SAMPLE SURFACE MEASURING METHOD
+</Title>
+<PublicationNumber>
+EP1985991A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FUKUZAWA KENJI [JP]
+</Name>
+<Name>
+SHIKITA MITSUHIRO [JP]
+</Name>
+<Name>
+TERADA SATOSHI [JP]
+</Name>
+<Name>
+FUKUZAWA, KENJI
+</Name>
+<Name>
+SHIKITA, MITSUHIRO
+</Name>
+<Name>
+TERADA, SATOSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+JAPAN SCIENCE &amp; TECH AGENCY [JP]
+</Name>
+<Name>
+JAPAN SCIENCE AND TECHNOLOGY AGENCY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1985991
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070714179
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP52626
+</PriorityNumber>
+<PriorityDate>
+2007-02-14
+</PriorityDate>
+<PriorityNumber>
+JP20060037030
+</PriorityNumber>
+<PriorityDate>
+2006-02-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q60/26
+</Class>
+<Class>
+G01Q60/38
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q20/02
+</Class>
+<Class>
+G01Q60/26
+</Class>
+<Class>
+G01Q60/38
+</Class>
+</NCL>
+<Abstract>
+A measurement probe 1 for measuring a surface of sample S comprises a base section 10, a head section 30 having a probe tip 31, and a support structure section 15 which supports the head section 30 with the base section 10 along a support axis substantially orthogonal to the vertical axis in the direction of protrusion of the probe tip 31. The support structure section 15 includes two spring structure sections of a first spring structure section 20 deformable in the direction of the vertical axis;  and a second spring structure section 25 deformable in the direction of the lateral axis, and a reflection surface 32 which is formed with a reflection pattern varying the reflectance within the surface is provided at the side opposite to the probe tip 31 of the head section 30.;  By using this structure, there are obtained the measurement probe, the sample surface measuring apparatus, and the sample surface measuring method, which can improve the accuracy of measurement of the sample surface without using a special measuring system.
+</Abstract>
+<Claims>
+<P>
+1. A measurement probe for measuring surface of a sample, comprising:
+</P>
+<P>
+a base section;
+</P>
+<P>
+a head section having a probe tip for measuring the surface; and
+</P>
+<P>
+a support structure section which supports the head section with the base section along a first axis as a support axis substantially orthogonal to a probe tip axis in the direction of protrusion of the probe tip,
+</P>
+<P>
+wherein the support structure section includes two spring structure sections of a first spring structure section which is deformable in the direction of the probe tip axis, and a second spring structure section which is deformable in the direction of a second axis substantially orthogonal to the probe tip axis and the first axis, and
+</P>
+<P>
+wherein the head section has a reflection surface which is provided at the side opposite to the probe tip and formed with a reflection pattern, varying the reflectance so as to include different reflectance values within the surface.
+</P>
+<P>
+2. The measurement probe according to claim 1, wherein the first spring structure section includes a torsion beam positioned so as to extend in the direction of the second axis and allowing torsion deformation thereof while connecting the rest of the support structure section with the base section.
+</P>
+<P>
+3. The measurement probe according to claim 2, wherein
+</P>
+<P>
+the base section has a pair of support sections being arranged to put the support structure section therebetween in the direction of the second axis, and
+</P>
+<P>
+the first spring structure section has a pair of torsion beams, as the torsion beam, respectively connecting the rest of the support structure section with the pair of support sections.
+</P>
+<P>
+4. The measurement probe according to any one of claims 1 to 3, wherein the second spring structure section has at least two leaf springs being arranged in parallel with each other and facing the direction of the second axis.
+</P>
+<P>
+5. The measurement probe according to any one of claims 1 to 4, wherein the reflection surface of the head section is formed with the reflection pattern which varies the reflectance within the surface in the direction of the second axis.
+</P>
+<P>
+6. The measurement probe according to any one of claims 1 to 5, wherein the reflection surface of the head section is formed with the reflection pattern which includes at least a first reflection region extending along a central axis in the direction of the first axis, and a second reflection region having a reflectance different from that of the first reflection region.
+</P>
+<P>
+7. A sample surface measuring apparatus, comprising:
+</P>
+<P>
+the measurement probe according to any one of claims 1 to 6, to measure surface of a sample;
+</P>
+<P>
+measurement light supplying means to supply measurement light for measuring a deformation of the support structure section in the measurement probe;
+</P>
+<P>
+reflected light image detecting means to detect a reflected light image formed by the measurement light reflected by the reflection surface of the head section of the measurement probe; and
+</P>
+<P>
+surface information processing means to acquire surface information of the sample based on the result of detection of the reflected light image by the reflected light image detecting means,
+</P>
+<P>
+wherein the reflected light image which is detected by the reflected light image detecting means is a two-dimensional light image formed by an irradiation pattern of the measurement light on the reflection surface and by the reflection pattern of the reflection surface, and
+</P>
+<P>
+wherein the surface information processing means acquires both the surface information in the direction of the probe tip axis and the surface information in the direction of the second axis based on the result of detection of the reflected light image.
+</P>
+<P>
+8. The sample surface measuring apparatus according to claim 7, wherein the reflected light image detecting means has a segment type photodiode with at least four segments for detecting the reflected light image.
+</P>
+<P>
+9. The sample surface measuring apparatus according to claim 8, wherein, for a plurality of photodetection segments of the segment type photodiode, the reflected light image is incident on the photodetection segments so that, with respect to a displacement direction of the reflected light image in the case that the measurement probe deforms in the direction of the probe tip axis, the reflected light image is detected respectively by at least two photodetection segments being arranged in the displacement direction.
+</P>
+<P>
+10. The sample surface measuring apparatus according to claim 8 or 9, wherein, for a plurality of photodetection segments of the segment type photodiode, the reflected light image is incident on the photodetection segments so that, with respect to a displacement direction of the reflected light image in the case that the measurement probe deforms in the direction of the second axis, the reflected light image is detected respectively by at least two photodetection segments being arranged in the displacement direction.
+</P>
+<P>
+11. The sample surface measuring apparatus according to any one of claims 7 to 10, wherein, in the surface information processing means, the surface information is acquired by referring to the variation of position of the reflected light image and to the variation of detection pattern of the reflected light within the reflected light image.
+</P>
+<P>
+12. A sample surface measuring method comprising:
+</P>
+<P>
+a measurement light supplying step of, by applying the measurement probe for measuring surface of a sample according to any one of claims 1 to 6, supplying a measurement light for measuring a deformation of the support structure section in the measurement probe;
+</P>
+<P>
+a reflected light image detecting step of detecting a reflected light image formed by the measurement light reflected by the reflection surface of the head section of the measurement probe; and
+</P>
+<P>
+a surface information processing step of acquiring surface information of the sample based on the result of detection of the reflected light image in the reflected light image detecting step,
+</P>
+<P>
+wherein the reflected light image which is detected in the reflected light image detecting step is a two-dimensional light image formed by an irradiation pattern of the measurement light on the reflection surface and by the reflection pattern of the reflection surface, and
+</P>
+<P>
+wherein the surface information processing step acquires both the surface information in the direction of the probe tip axis and the surface information in the direction of the second axis based on the result of detection of the reflected light image.
+</P>
+<P>
+13. The sample surface measuring method according to claim 12, wherein, in the reflected light image detecting step, the reflected light image is detected by using a segment type photodiode with at least four segments.
+</P>
+<P>
+14. The sample surface measuring method according to claim 13, wherein, for a plurality of photodetection segments of the segment type photodiode, the reflected light image is incident on the photodetection segments so that, with respect to a displacement direction of the reflected light image in the case that the measurement probe deforms in the direction of the probe tip axis, the reflected light image is detected respectively by at least two photodetection segments being arranged in the displacement direction.
+</P>
+<P>
+15. The sample surface measuring method according to claim 13 or 14, wherein, for a plurality of photodetection segments of the segment type photodiode, the reflected light image is incident on the photodetection segments so that, with respect to a displacement direction of the reflected light image in the case that the measurement probe deforms in the direction of the second axis, the reflected light image is detected respectively by at least two photodetection segments being arranged in the displacement direction.
+</P>
+<P>
+16. The sample surface measuring method according to any one of claims 12 to 15, wherein, in the surface information processing step, the surface information is acquired by referring to the variation of position of the reflected light image and to the variation of detection pattern of the reflected light within the reflected light image.
+</P>
+</Claims>
+<Also_published_as>
+EP1985991A4;EP1985991B1;US2009027690A1;US7557933B2;JP4546535B2;WO2007094365A1
+</Also_published_as>
+</BiblioData>

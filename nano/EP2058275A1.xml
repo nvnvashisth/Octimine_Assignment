@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Peptide nanostructures encapsulating a foreign material and method of manufacturing same
+</Title>
+<PublicationNumber>
+EP2058275A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GAZIT EHUD [IL]
+</Name>
+<Name>
+RECHES MEITAL [IL]
+</Name>
+<Name>
+GAZIT, EHUD
+</Name>
+<Name>
+RECHES, MEITAL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV RAMOT [IL]
+</Name>
+<Name>
+RAMOT AT TEL-AVIV UNIVERSITY LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2058275
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090002048
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-01-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040700494
+</PriorityNumber>
+<PriorityDate>
+2004-01-07
+</PriorityDate>
+<PriorityNumber>
+US20030438331P
+</PriorityNumber>
+<PriorityDate>
+2003-01-07
+</PriorityDate>
+<PriorityNumber>
+US20030458378P
+</PriorityNumber>
+<PriorityDate>
+2003-03-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K47/48
+</Class>
+<Class>
+B81B1/00
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C07K4/00
+</Class>
+<Class>
+C07K5/00
+</Class>
+<Class>
+C07K5/10
+</Class>
+<Class>
+A61K9/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K47/48W14B
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C07K5/10
+</Class>
+</NCL>
+<Abstract>
+A composition comprising a material enclosed by a discrete tubular or discrete spherical nanostructure composed of a plurality of homodipeptides.
+</Abstract>
+<Claims>
+<P>
+1. A composition comprising a material enclosed by a discrete tubular or a discrete spherical nanostructure composed of a plurality of homodipeptides.
+</P>
+<P>
+2. A method of encapsulating a material in a discrete tubular or discrete spherical nanostructure, the method comprising:
+</P>
+<P>
+(a) providing the discrete tubular or discrete spherical nanostructure composed of a plurality of homodipeptides the discrete tubular or discrete spherical nanostructure having an internal cavity; and
+</P>
+<P>
+(b) introducing the material into said internal cavity of the discrete tubular or discrete spherical nanostructure, thereby encapsulating the material in the discrete tubular or discrete spherical nanostructure.
+</P>
+<P>
+3. A method of encapsulating material in a discrete tubular or a discrete spherical nanostructure, the method comprising assembling the discrete tubular nanostructure composed of a plurality of homodipeptides in the presence of the material, thereby encapsulating the material in the discrete tubular or discrete spherical nanostructure.
+</P>
+<P>
+4. A method of positioning a target molecule at a predetermined location, the method comprising:
+</P>
+<P>
+(a) providing a magnetic nanowire having at least one segment associated with a functional group or ligand, said functional group or ligand being capable of binding to the target molecule;
+</P>
+<P>
+(b) binding said magnetic nanowire to the target molecule; and
+</P>
+<P>
+(c) exposing said magnetic nanowire to a magnetic field, so as to position said magnetic nanowire and the target molecule at the predetermined location;wherein said nanowire is formed of a magnetic material at least partially enclosed by a nanostructure composed of a plurality of homodipeptides.
+</P>
+<P>
+5. A device for detecting a position and/or movement of an object, the device comprising a plurality of non-intersecting nanowires, each being connected to an electronic circuitry, such that when the object contacts at least one nanowire of said plurality of non-intersecting nanowires, said at least one nanowire intersects with at least one additional nanowire of said plurality of non-intersecting nanowires, thereby allowing said electronic circuitry to generate a signal representative of the position and/or movement of an object;
+</P>
+<P>
+wherein each of said plurality of nanowires is formed of a conducting or magnetic material at least partially enclosed by a nanostructure composed of a plurality of homodipeptides.
+</P>
+<P>
+6. A thermoelectric device, comprising a first heat conducting layer and a second heat conducting layer, said first and said second heat conducting layers being interposed by a plurality of nanowires, such that when current flows through said plurality of nanowires, heat is transferred out of said first heat conducting layer and is dissipated through said second heat conducting layer;
+</P>
+<P>
+wherein each of said plurality of nanowires is formed of a thermoelectric material at least partially enclosed by a nanostructure composed of a plurality of homodipeptides.
+</P>
+<P>
+7. A composition comprising a material at least partially enclosed by a discrete tubular or a discrete spherical nanostructure composed of polyaromatic peptides.
+</P>
+<P>
+8. The composition of claim 7, wherein said polyaromatic peptides are selected from the group consisting of polyphenylalanine peptides, polytriptophane peptides, polytyrosine peptides, non-natural derivatives thereof and combinations thereof
+</P>
+<P>
+9. The composition, device or method of any one of claims 1 to 6, wherein each of said plurality of homodipeptides is selected from the group consisting of L-Phe-L-Phe and D-Phe-D-Phe.
+</P>
+<P>
+10. The composition or method of any one of claims 1-3 and 7, wherein said material is in a gaseous state.
+</P>
+<P>
+11. The composition or method of any one of claims 1-3 and 7, wherein said material is in a condensed state.
+</P>
+<P>
+12. The composition or method of claim 1-3 and 7, wherein said material is selected from the group consisting of a conducting material, a semiconducting material, a thermoelectric material, a magnetic material, a light-emitting material, a biomineral, a biomolecule, a polymer and an organic material.
+</P>
+<P>
+13. The composition;, device or method of claim 5 or 10, wherein conducting material is selected from the group consisting of silver, gold, copper, platinum, nickel and palladium.
+</P>
+<P>
+14. The composition, device or method of claim 4 or 10, wherein said magnetic material is a ferromagnetic material.
+</P>
+<P>
+15. The composition, device or method of claim 14, wherein said ferromagnetic material is selected from the group consisting of magnetite and NdFeB.
+</P>
+</Claims>
+<Also_published_as>
+WO2004060791A1;US2011266517A1;US2009121709A1;US8017586B2;US2006079455A1;US7504383B2;EP1583713A1;EP1583713B1;AT426575T
+</Also_published_as>
+</BiblioData>

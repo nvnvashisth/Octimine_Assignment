@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Imprint apparatus, imprint method, and mold for imprint
+</Title>
+<PublicationNumber>
+EP2090928A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SUEHIRA NOBUHITO [JP]
+</Name>
+<Name>
+SEKI JUNICHI [JP]
+</Name>
+<Name>
+INA HIDEKI [JP]
+</Name>
+<Name>
+SUEHIRA, NOBUHITO
+</Name>
+<Name>
+SEKI, JUNICHI
+</Name>
+<Name>
+INA, HIDEKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2090928
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090159207
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20060812158
+</PriorityNumber>
+<PriorityDate>
+2006-10-18
+</PriorityDate>
+<PriorityNumber>
+JP20050302679
+</PriorityNumber>
+<PriorityDate>
+2005-10-18
+</PriorityDate>
+<PriorityNumber>
+JP20060230222
+</PriorityNumber>
+<PriorityDate>
+2006-08-28
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+An imprint apparatus for imprinting a pattern provided to a mold onto a substrate or a member on the substrate comprises a light source for irradiating a surface of the mold disposed opposite to the substrate and a surface of the substrate with light, an optical system for guiding the light from said light source to the surface of the mold and the surface of the substrate and guiding reflected lights from these surfaces to a spectroscope and a spectroscope for dispersing the reflected lights guided by said optical system into a spectrum.;  Furthermore, it comprises an image sensor for observing the light dispersed by said spectroscope, an analyzer for analyzing a distance between the surface of the mold and the surface of the substrate on the basis of information obtained by said image sensor, characterized in that said analyzer is adapted to analyze a first distance as a distance between the surface of the mold and a surface formed at a position away from the surface of the mold on the basis of information obtained from lights emitted from said light source and reflected by the surface of the mold and the surface formed at the position away from the surface of the mold.;  In addition, said analyzer is adapted to analyze a second distance as a distance between the surface formed at the position away from the surface of the mold and the surface of the substrate on the basis of information obtained from lights emitted from said light source and reflected by the surface formed at the position away from the surface of the mold and the surface of the substrate. Moreover, said analyzer is adapted to calculate the distance between the surface of the mold and the surface of the substrate by subtracting the first distance from the second distance.
+</Abstract>
+<Claims>
+<P>
+1. An imprint apparatus for imprinting a pattern provided to a mold (113) onto a substrate (115) or a member on the substrate, said imprint apparatus comprising:
+</P>
+<P>
+a light source for irradiating a surface of the mold (302) disposed opposite to the substrate (115) and a surface of the substrate (304) with light;
+</P>
+<P>
+an optical system (106) for guiding the light from said light source to the surface of the mold (302) and the surface of the substrate (304) and guiding reflected lights from these surfaces to a spectroscope (109);
+</P>
+<P>
+a spectroscope (109) for dispersing the reflected lights guided by said optical system (106) into a spectrum; and
+</P>
+<P>
+an image sensor (110) for observing the light dispersed by said spectroscope (109);an analyzer for analyzing a distance between the surface of the mold (302) and the surface of the substrate (304) on the basis of information obtained by said image sensor;
+</P>
+<P>
+characterized in that
+</P>
+<P>
+said analyzer is adapted to analyze a first distance as a distance between the surface of the mold (302) and a surface formed at a position away from the surface of the mold (302) on the basis of information obtained from lights emitted from said light source and reflected by the surface of the mold (302) and the surface formed at the position away from the surface of the mold (302);
+</P>
+<P>
+said analyzer is adapted to analyze a second distance as a distance between the surface formed at the position away from the surface of the mold (302) and the surface of the substrate (304) on the basis of information obtained from lights emitted from said light source and reflected by the surface formed at the position away from the surface of the mold (302) and the surface of the substrate (304); and
+</P>
+<P>
+said analyzer is adapted to calculate the distance between the surface of the mold (302) and the surface of the substrate (304) by subtracting the first distance from the second distance.
+</P>
+<P>
+2. The apparatus according to Claim 1, wherein the surface formed at the position away from the surface of the mold (302) is a back surface of the mold (301).
+</P>
+<P>
+3. The apparatus according to Claim 1, wherein the surface formed at the position away from the surface of the mold (302) is provided between the surface of the mold (302) and the back surface of the mold (301).
+</P>
+<P>
+4. The apparatus according to Claim 1, wherein the surface formed at the position away from the surface of the mold (302) is an interface between a first member constituting the surface of the mold (302) and a second member comprising a material different in refractive index from a material for the first member.
+</P>
+<P>
+5. An imprint method for imprinting a pattern provided to a mold (113) onto a substrate (115) or a member on the substrate, said imprint method being characterized in:
+</P>
+<P>
+a first measuring step of measuring a distance between a surface of the mold (302) and a surface formed at a position away from the surface of the mold (302) by an optical measurement method;
+</P>
+<P>
+a second measuring step of measuring a distance between the surface formed at the position away from the surface of the mold (302) and a surface of the substrate by the optical measurement method; and
+</P>
+<P>
+a calculating step of calculating a distance between the surface of the mold (302) and the surface of the substrate (304) by subtracting the distance measured in said first measuring step from the distance measured in said second measuring step.
+</P>
+<P>
+6. The method according to Claim 5, wherein the first measuring step is conducted on the basis of information obtained from lights emitted from said light source and reflected by the surface of the mold (302) and the surface formed at the position away from the surface of the mold (302), and
+</P>
+<P>
+the second measuring step is conducted on the basis of information obtained from lights emitted from said light source and reflected by the surface formed at the position away from the surface of the mold (302) and the surface of the substrate (304).
+</P>
+<P>
+7. The method according to Claim 5 and 6, wherein the optical measurement method in said first measuring step and the optical measurement method in said second measuring step use an identical optical axis.
+</P>
+<P>
+8. The method according to any one of Claim 5 to 7, wherein the surface of the mold (302) and the surface formed at a position away from the surface of the mold (302) are opposed to each other.
+</P>
+<P>
+9. The method according to Claim 5, wherein the surface formed at the position away from the surface of the mold (302) is a back surface of the mold (301).
+</P>
+<P>
+10. The method according to Claim 5, wherein the surface formed at the position away from the surface of the mold (302) is provided between the surface of the mold (302) and the back surface of the mold (301).
+</P>
+<P>
+11. The method according to Claim 5, wherein the surface formed at the position away from the surface of the mold (302) is an interface between a first member constituting the surface of the mold (302) and a second member comprising a material different in refractive index from a material for the first member.
+</P>
+<P>
+12. The method according to Claim 5, wherein the optical measurement method in said first and second steps uses optical interferometer.
+</P>
+<P>
+13. A mold for being used in an imprint apparatus according to Claim 1, comprising:
+</P>
+<P>
+a first member constituting a surface of said mold; and
+</P>
+<P>
+a second member different in refractive index from said first member;wherein said first member has an optical thickness of 1/4 or more of a wavelength of light used in optical measurement.
+</P>
+<P>
+14. A process for producing a structure by using an imprint method, comprising:
+</P>
+<P>
+an imprint method according to Claim 5.
+</P>
+<P>
+15. An imprint apparatus for imprinting a pattern provided to a mold (302) onto a substrate (304) or a member on the substrate, said imprint apparatus comprising:
+</P>
+<P>
+a distance measuring mechanism by an optical measuring method, which measures a first distance between a surface formed at a position away from the surface of the mold (302) and a surface of the substrate (304), andwhich is capable of measuring a distance between the surface of the mold (302) and the surface of the substrate (304) on the basis of the measured first distance and a second distance between a surface of the mold (302) and the surface formed at a position away from the surface of the mold (302),
+</P>
+<P>
+wherein
+</P>
+<P>
+the surface of the mold (302) and the surface formed at a position away from the surface of the mold (302) are opposed to each other.
+</P>
+<P>
+16. The imprint apparatus according to Claim 15, wherein the second distance is measured by the optical measuring method.
+</P>
+<P>
+17. The imprint apparatus according to Claim 15, further comprising an optical system in which optical axes during the measurement of the first distance and the second distance are identical to each other.
+</P>
+</Claims>
+<Also_published_as>
+EP2090928A3;WO2007046528A2;WO2007046528A3;WO2007046528B1;US2008099941A1;US8047828B2;US2009283938A1;KR20080053503A;JP2007139752A;EP1941323A2
+</Also_published_as>
+</BiblioData>

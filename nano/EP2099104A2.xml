@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method of fabricating nitride semiconductor laser
+</Title>
+<PublicationNumber>
+EP2099104A2
+</PublicationNumber>
+<Inventor>
+<Name>
+KYONO TAKASHI [JP]
+</Name>
+<Name>
+AKITA KATSUSHI [JP]
+</Name>
+<Name>
+YOSHIZUMI YUSUKE [JP]
+</Name>
+<Name>
+KYONO, TAKASHI
+</Name>
+<Name>
+AKITA, KATSUSHI
+</Name>
+<Name>
+YOSHIZUMI, YUSUKE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SUMITOMO ELECTRIC INDUSTRIES [JP]
+</Name>
+<Name>
+SUMITOMO ELECTRIC INDUSTRIES, LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2099104
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090003236
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-03-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20080058305
+</PriorityNumber>
+<PriorityDate>
+2008-03-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/343
+</Class>
+<Class>
+H01S5/02
+</Class>
+<Class>
+H01S5/20
+</Class>
+<Class>
+H01S5/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/343G
+</Class>
+</NCL>
+<Abstract>
+A method of fabricating a nitride semiconductor laser comprises preparing a substrate having a plurality of marker structures and a crystalline mass made of a hexagonal gallium nitride semiconductor. The primary and back surfaces of the substrate intersect with a predetermined axis extending in the direction of a c-axis of the hexagonal gallium nitride semiconductor. Each marker structure extends along a reference plane defined by the c-axis and an m-axis of the hexagonal gallium nitride semiconductor. The method comprises cutting the substrate along a cutting plane to form a wafer of hexagonal gallium nitride semiconductor, and the cutting plane intersects with the plurality of the marker structures. The wafer has a plurality of first markers, each of which extends from the primary surface to the back surface of the wafer, and each of the first markers comprises part of each of the marker structures. The primary surface of the wafer is semipolar or nonpolar. The method comprises growing a number of gallium nitride based semiconductor layers for a semiconductor laser. The method comprises cleaving the substrate product at a cleavage plane of the hexagonal gallium nitride semiconductor, after forming a substrate product in an electrode forming step.
+</Abstract>
+<Claims>
+<P>
+1. A method of fabricating a nitride semiconductor laser, comprising the steps of:
+</P>
+<P>
+preparing a substrate, the substrate having a crystalline mass, a primary surface, a back surface and a plurality of marker structures, the crystalline mass being made of a hexagonal gallium nitride semiconductor, the primary surface and the back surface intersecting with a predetermined axis extending in the direction of a c-axis of the hexagonal gallium nitride semiconductor, the crystalline mass extending from the primary surface to the back surface of the substrate, each of the marker structures extending along a reference plane from the primary surface to the back surface of the substrate, and the reference plane being one of the following planes: a plane defined by the c-axis and an m-axis of the hexagonal gallium nitride semiconductor; a plane defined by the c-axis and an a-axis of the hexagonal gallium nitride semiconductor;
+</P>
+<P>
+cutting the substrate along a cutting plane to form a hexagonal gallium nitride semiconductor wafer, the cutting plane intersecting with the plurality of the marker structures, the hexagonal gallium nitride semiconductor wafer having a primary surface, a back surface and a plurality of first markers, each of the first markers extending from the primary surface to the back surface of the hexagonal gallium nitride semiconductor wafer, each of the first markers comprising part of each of the marker structures, the primary surface of the hexagonal gallium nitride semiconductor wafer being one of semipolar and nonpolar;
+</P>
+<P>
+growing a number of semiconductor layers to form a stack of semiconductor layers, the stack of semiconductor layers including a plurality of gallium nitride based semiconductor layers for a semiconductor laser, the stack of semiconductor layers having second markers, the second markers extending in the gallium nitride based semiconductor layers, the second markers being formed on the first markers, the plurality of gallium nitride based semiconductor layers being epitaxially grown on the primary surface of the hexagonal gallium nitride semiconductor wafer;
+</P>
+<P>
+forming an insulating film on the stack of semiconductor layers, the insulating film having openings, and the openings extending in the direction of the second markers;
+</P>
+<P>
+forming electrodes on the insulating film and the stack of semiconductor layers to form a substrate product, after the formation of the insulating film; and
+</P>
+<P>
+cleaving the substrate product at a cleavage plane of the hexagonal gallium nitride semiconductor, after the formation of the electrodes.
+</P>
+<P>
+2. The method according to Claim 1,
+</P>
+<P>
+wherein the reference plane for the marker structures is defined by the a-axis and the c-axis of the hexagonal gallium nitride semiconductor, and
+</P>
+<P>
+wherein the cutting plane rotates a given angle about the predetermined axis with reference to an m-plane of the hexagonal gallium nitride semiconductor.
+</P>
+<P>
+3. The method according to Claim 2,
+</P>
+<P>
+wherein the primary surface of the hexagonal gallium nitride semiconductor wafer is tilted with reference to the m-plane of the hexagonal gallium nitride semiconductor,
+</P>
+<P>
+wherein the distance between the adjacent first markers is larger than that of the adjacent marker structures, and
+</P>
+<P>
+wherein the cleavage plane of the substrate product is a c-plane of the hexagonal gallium nitride semiconductor.
+</P>
+<P>
+4. The method according to Claim 2,
+</P>
+<P>
+wherein the cutting plane extends along an a-plane of the hexagonal gallium nitride semiconductor.
+</P>
+<P>
+5. The method according to Claim 2 or 4,
+</P>
+<P>
+wherein the primary surface of the hexagonal gallium nitride semiconductor wafer has an a-plane of the hexagonal gallium nitride semiconductor, and
+</P>
+<P>
+wherein the cleavage plane of the substrate product is a c-plane of the hexagonal gallium nitride semiconductor.
+</P>
+<P>
+6. The method according to Claim 1,
+</P>
+<P>
+wherein the reference plane for the marker structures is defined by the m-axis and the c-axis of the hexagonal gallium nitride semiconductor, and
+</P>
+<P>
+wherein the cutting plane rotates a given angle about the predetermined axis with reference to an a-plane of the hexagonal gallium nitride semiconductor.
+</P>
+<P>
+7. The method according to Claim 6,
+</P>
+<P>
+wherein the primary surface of the hexagonal gallium nitride semiconductor wafer is tilted with reference to the a-plane of the hexagonal gallium nitride semiconductor,
+</P>
+<P>
+wherein a distance between the adjacent first markers is larger than that of the adjacent marker structures, and
+</P>
+<P>
+wherein the cleavage plane of the substrate product is a c-plane of the hexagonal gallium nitride semiconductor.
+</P>
+<P>
+8. The method according to Claim 6,
+</P>
+<P>
+wherein the cutting plane extends along an m-plane of the hexagonal gallium nitride semiconductor.
+</P>
+<P>
+9. The method according to Claim 6 or 8,
+</P>
+<P>
+wherein the primary surface of the hexagonal gallium nitride semiconductor wafer has an m-plane of the hexagonal gallium nitride semiconductor, and
+</P>
+<P>
+wherein the cleavage plane of the substrate product is a c-plane of the hexagonal gallium nitride semiconductor.
+</P>
+<P>
+10. The method according to any one of Claims 1 to 9,
+</P>
+<P>
+wherein the substrate has a side surface extending in the direction of the c-axis of the hexagonal gallium nitride semiconductor, and
+</P>
+<P>
+wherein the cutting plane intersects with the primary surface, the back surface and the side surface of the substrate.
+</P>
+<P>
+11. The method according to Claim 1,
+</P>
+<P>
+wherein the reference plane for the marker structures is defined by the a-axis and the c-axis of the hexagonal gallium nitride semiconductor, and
+</P>
+<P>
+wherein the cutting plane is tilted by a given angle to the m-axis of the hexagonal gallium nitride semiconductor with reference to a c-plane of the hexagonal gallium nitride semiconductor.
+</P>
+<P>
+12. The method according to Claim 1 or 11,
+</P>
+<P>
+wherein the primary surface of the hexagonal gallium nitride semiconductor wafer includes a semipolar surface, and the semipolar surface is tilted with reference to a c-plane of the hexagonal gallium nitride semiconductor,
+</P>
+<P>
+wherein a distance between the adjacent first markers is larger than that of the adjacent marker structures, and
+</P>
+<P>
+wherein the cleavage plane of the substrate product is an a-plane of the hexagonal gallium nitride semiconductor.
+</P>
+<P>
+13. The method according to Claim 1,
+</P>
+<P>
+wherein the reference plane for the marker structures is defined by the m-axis and the c-axis of the hexagonal gallium nitride semiconductor, and
+</P>
+<P>
+wherein the cutting plane is tilted by a given angle to the a-axis of the hexagonal gallium nitride semiconductor with reference to a c-plane of the hexagonal gallium nitride semiconductor.
+</P>
+<P>
+14. The method according to Claim 1 or 13,
+</P>
+<P>
+wherein the primary surface of the hexagonal gallium nitride semiconductor wafer includes a semipolar surface, and the semipolar surface is tilted with reference to a c-plane of the hexagonal gallium nitride semiconductor,
+</P>
+<P>
+wherein a distance between the adjacent first markers is larger than that of the adjacent marker structures, and
+</P>
+<P>
+wherein the cleavage plane of the substrate product is an m-plane of the hexagonal gallium nitride semiconductor.
+</P>
+<P>
+15. The method according to Claim 11 or 13, wherein the given angle ranges from 15 degrees to 70 degrees.
+</P>
+<P>
+16. The method according to any one of Claim 1 and Claims 11 to 15,
+</P>
+<P>
+wherein the substrate has a side surface extending along the c-axis of the hexagonal gallium nitride semiconductor, and
+</P>
+<P>
+wherein the cutting plane intersects with the side surface of the substrate.
+</P>
+<P>
+17. The method according to any one of Claims 1 to 16,
+</P>
+<P>
+wherein the marker structures comprises a hexagonal gallium nitride semiconductor,
+</P>
+<P>
+wherein the substrate includes first regions and second regions arranged alternately,
+</P>
+<P>
+wherein the crystal axis of the first regions is opposite to that of the second regions, and
+</P>
+<P>
+wherein the plurality of marker structures includes the plurality of first regions, respectively.
+</P>
+<P>
+18. The method according to any one of Claims 1 to 17,
+</P>
+<P>
+wherein the marker structures comprises a hexagonal gallium nitride semiconductor,
+</P>
+<P>
+wherein the substrate includes first regions and second regions arranged alternately,
+</P>
+<P>
+wherein each first region has a first average threading dislocation density, and the first average threading dislocation density is greater than a predetermined threading dislocation density,
+</P>
+<P>
+wherein each second region has a second average threading dislocation density, and the second average threading dislocation density is smaller than the predetermined threading dislocation density,
+</P>
+<P>
+wherein the first regions and the second regions extend from the primary surface to the back surface of the substrate, and
+</P>
+<P>
+wherein the plurality of marker structures include the plurality of first regions, respectively.
+</P>
+<P>
+19. The method according to any one of Claims 1 to 16,
+</P>
+<P>
+wherein the substrate has a plurality of grooves, and each groove includes a side surface extending from the primary surface to the back surface of the substrate, and
+</P>
+<P>
+wherein the plurality of marker structures include the plurality of grooves, respectively.
+</P>
+<P>
+20. The method according to any one of Claims 1 to 16,
+</P>
+<P>
+wherein the side surface of the substrate has grooves , and the grooves extend from the primary surface to the back surface of the substrate,
+</P>
+<P>
+wherein each marker structure includes a member comprising a material different from the hexagonal gallium nitride semiconductor,
+</P>
+<P>
+wherein the member is provided in each groove and extends from the primary surface to the back surface of the substrate, and
+</P>
+<P>
+wherein the member comprises one of a polycrystalline substance, metallic material and insulating material, and the polycrystalline substance is different from hexagonal gallium nitride single crystal.
+</P>
+</Claims>
+<Also_published_as>
+US2009227056A1;US7939354B2;TW200952299A;KR20090096340A;JP2009218284A;CN101527426A
+</Also_published_as>
+</BiblioData>

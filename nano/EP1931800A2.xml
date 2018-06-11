@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SYSTEMS AND METHODS FOR ENRICHMENT OF ANALYTES
+</Title>
+<PublicationNumber>
+EP1931800A2
+</PublicationNumber>
+<Inventor>
+<Name>
+KAPUR RAVI [US]
+</Name>
+<Name>
+TONER MEHMET [US]
+</Name>
+<Name>
+HUANG LOTIEN RICHARD [US]
+</Name>
+<Name>
+BARBER TOM [US]
+</Name>
+<Name>
+CARVALHO BRUCE [US]
+</Name>
+<Name>
+GRAY DARREN [US]
+</Name>
+<Name>
+BALIS ULYSSES [US]
+</Name>
+<Name>
+WALSH JOHN [US]
+</Name>
+<Name>
+GRISHAM MICHAEL [US]
+</Name>
+<Name>
+TOMPKINS RON [US]
+</Name>
+<Name>
+SCHMIDT MARTIN [US]
+</Name>
+<Name>
+KAPUR, RAVI
+</Name>
+<Name>
+TONER, MEHMET
+</Name>
+<Name>
+HUANG, LOTIEN, RICHARD
+</Name>
+<Name>
+BARBER, TOM
+</Name>
+<Name>
+CARVALHO, BRUCE
+</Name>
+<Name>
+GRAY, DARREN
+</Name>
+<Name>
+BALIS, ULYSSES
+</Name>
+<Name>
+WALSH, JOHN
+</Name>
+<Name>
+GRISHAM, MICHAEL
+</Name>
+<Name>
+TOMPKINS, RON
+</Name>
+<Name>
+SCHMIDT, MARTIN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ARTEMIS HEALTH INC [US]
+</Name>
+<Name>
+GEN HOSPITAL CORP [US]
+</Name>
+<Name>
+ARTEMIS HEALTH, INC
+</Name>
+<Name>
+THE GENERAL HOSPITAL CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1931800
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060803736
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US36202
+</PriorityNumber>
+<PriorityDate>
+2006-09-15
+</PriorityDate>
+<PriorityNumber>
+US20050229336
+</PriorityNumber>
+<PriorityDate>
+2005-09-15
+</PriorityDate>
+<PriorityNumber>
+US20050229332
+</PriorityNumber>
+<PriorityDate>
+2005-09-15
+</PriorityDate>
+<PriorityNumber>
+US20050228462
+</PriorityNumber>
+<PriorityDate>
+2005-09-15
+</PriorityDate>
+<PriorityNumber>
+US20050229328
+</PriorityNumber>
+<PriorityDate>
+2005-09-15
+</PriorityDate>
+<PriorityNumber>
+US20050228454
+</PriorityNumber>
+<PriorityDate>
+2005-09-15
+</PriorityDate>
+<PriorityNumber>
+US20050229037
+</PriorityNumber>
+<PriorityDate>
+2005-09-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G06F19/18
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01L3/5027H
+</Class>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N1/40V
+</Class>
+<Class>
+G01N33/543K
+</Class>
+<Class>
+G01N33/569
+</Class>
+<Class>
+G01N33/574
+</Class>
+<Class>
+G01N33/80
+</Class>
+</NCL>
+<Abstract>
+The invention relates to one or more size-based separation modules adapted to increase a concentration of a first analyte in a sample by at least 10,000 fold, wherein said first analyte has an initial concentration in said sample of less than 1 x 10 &amp;lt;-3&amp;gt; analytes/[mu]L, and an analyzer for analyzing said first analytes in an enriched medium. Methods of using the separation modules for identifying a characteristic associated with a condition in a patient e.g. a fetal abnormality are also provided.
+</Abstract>
+<Claims>
+<P>
+P CWlAf t[pound] (c)il[beta]Eo WB B O 2
+</P>
+<P>
+CLAIMS:-
+</P>
+<P>
+I . A system comprising: one or more size-based separation modules adapted to increase a concentration of a first analyte in a sample by at least 10,000 fold, wherein said first analyte has an initial concentration in said sample of less than 1 x 10 &amp;lt;&apos;3&amp;gt; analytes/[mu]L, and an analyzer comprising computer executable logic for analyzing said first analytes in an enriched medium. 2. The system of claim 1 wherein said analyzer further comprises a microscope, a microarray, or cell counter.
+</P>
+<P>
+3. The system of claim 1 wherein said computer executable logic detects a color change in the presence of fetal hemoglobin, globin [gamma], globin e, globin [beta], GPA, i-antigen, CD36, selectins, CD71 or a combination thereof. , 4. The system of claim 1 wherein said computer executable logic detects intensities of probes that selectively bind said first analytes.
+</P>
+<P>
+5. The system of claim 1 wherein said computer executable logic performs three-dimensional image analysis of said first analytes.
+</P>
+<P>
+6. The system of claim 1 wherein said analyzer has dual scanning capabilities. 7. The system of claim 1 wherein said computer executable logic images said first analytes.
+</P>
+<P>
+8. The system of claim 1 wherein said computer executable logic determines trisomy, sex of a fetus, genetic or chromosomal abnormalities in a cell of interest, or a combination thereof.
+</P>
+<P>
+9. The system of claim 1 wherein each of said size-based separation modules comprises a two- dimensional array of obstacles that direct said first analyte deterministically in a first direction and a second analyte having a hydrodynamic size smaller than said first analyte in a second direction.
+</P>
+<P>
+10. The system of claim 9 wherein said first analyte is a nucleated red blood cell.
+</P>
+<P>
+I 1. The system of claim 9 wherein said first analyte is a fetal nucleated red blood cell.
+</P>
+<P>
+12. The system of claim 1 wherein said system comprises two or more size-based separation modules fluidly coupled in parallel with one another. 13. The system of claim 1 adapted for high-throughput analysis of at least 10 niL of said fluid sample per hour.
+</P>
+<P>
+14. The system of claim 1 further comprising one or more capture modules fluidly coupled to said size-based separation modules, wherein said capture modules selectively capture said first analyte or a second analyte from said sample. 15. The system of claim 14 wherein each of said capture modules comprises a two-dimensional array of obstacles.
+</P>
+<P>
+16. The system of claim 14 wherein each of said capture modules comprises a two-dimensional array of obstacles coupled to one or more antibodies.
+</P>
+<P>
+17. The system of claim 16 wherein said antibodies selectively bind a red blood cell, a white blood cell, a fetal blood cell, a fetal nucleated blood cell, a cancer cell, an epithelial cell, or stem cell, a progenitor cell, a foam cell, or a platelet. P&amp;lt;1&amp;gt; C T /&quot; Ii G O lSfb&amp;lt;e&amp;gt;&apos; 9NIHiMBlSn 16 wherein said antibodies are selected from the group consisting of: anti- CD? 1, anti-CD36, anti-CD451, anti-GPA, anti-selectin, anti-carbohydrates, anti-antigen-i, and anti-EpCaM.
+</P>
+<P>
+19. The system of claim 1 wherein said fluid sample is a blood sample and said first analyte is selected from the group consisting of: an epithelial cell, an endothelial cell, a progenitor cell, a stem cell, a foam cell, or a cancer cell.
+</P>
+<P>
+20. The system of claim 1 wherein said fluid sample is a blood sample and is less than 5 mL.
+</P>
+<P>
+21. The system of claim 1 wherein said fluid sample is a blood sample derived from a female who is in less than 12 weeks of gestation.
+</P>
+<P>
+22. The system of claim 1 wherein gap between obstacles in said separation regions is less than 1000 microns.
+</P>
+<P>
+23. The system of claim 1 further comprising a reservoir containing magnetic particles fluidly coupled to said separation region or said capture regions.
+</P>
+<P>
+24. The system of claim 1 wherein said system further comprises magnetic beads adapted to preferentially bind to said first analyte or said second analyte. 25. The system of claim 24 wherein said magnetic beads are coupled to an antibody that specifically binds said first analyte.
+</P>
+<P>
+26. The system of claim 1 further comprising a reservoir fluidly coupled to said size-based separation module, wherein said reservoir contains magnetic particles adapted to preferentially bind said first analyte.
+</P>
+<P>
+27. The system of claim 2 wherein said analyzer comprises a microarray adapted to detect one or more SNPs in said first analyte.
+</P>
+<P>
+28. The system of claim 2 wherein said analyzer comprises a microarray adapted to detect levels of mRNA in said first analyte.
+</P>
+<P>
+29. The system of claim 9 wherein said obstacles are separated by gaps which direct the flow of sample unequally into subsequent gaps. 30. A system comprising a separation module adapted for removal of more than 99.5% of enucleated cells from a blood sample and retention of more than 99% of nucleated cells from a blood sample.
+</P>
+<P>
+31. The system of claim 31 further comprising an analyzer fluidly coupled to said separation module adapted to analyze one or more of said nucleated cells and a database for storing analysis data.
+</P>
+<P>
+32. A system comprising: one or more first enrichment regions, wherein said enrichment regions comprise a two dimensional plurality of obstacles defining a first fluid flow path for a first analyte and a second fluid flow path for a second analyte wherein said first analyte and said second analyte have different hydrodynamic diameters; an analyzer fluidly coupled to said one or more enrichment regions for obtaining data on said first analyte or said second analyte; and a database for storing said data.
+</P>
+<P>
+33. The system of claim 32 wherein said first analyte is selected from the group consisting of a red blood cell (RBC), a nucleated red blood cell (NRBC), a fetal RBC, a fetal nucleated RBC (fNRBC), a trophoblast, a fetal fibroblast, a white blood cell (WBCs), an infected WBC, a stem cell, an epithelial cell, an endothelial cell, a stem cell, a cancer cell, a viral cell, a bacterial cell, and protozoan. 34. The system of claim 32 wherein said cell type is found in vivo at a concentration of less than 1 x
+</P>
+<P>
+10&amp;lt;&quot;3&amp;gt; cells/[mu]L. pt iQ, ,[gamma], ^ I j^g &amp;lt;&quot;&amp;gt; gjjye!sfiii:bfll[upsilon]!b 32 wherein gaps between obstacles in said first enrichment region is at most
+</P>
+<P>
+1000 microns.
+</P>
+<P>
+36. The system of claim 32 further comprising one or more second enrichment regions comprising, wherein said second enrichment regions captures said first analyte or said second analyte, and wherein said second enrichment region is in fluid communication with said first enrichment region.
+</P>
+<P>
+37. The system of claim 32 wherein said one or more first enrichment regions are adapted to retain at least 99% of said first analyte.
+</P>
+<P>
+38. The system of claim 32 wherein said one or more first enrichment regions are adapted to increase concentration of said first analyte by at least a factor of 100,000. 39. A method for identifying a characteristic associated with a condition in a patient comprising: obtaining a plurality of control samples; obtaining a plurality of case samples; applying each of said samples to a device comprising a plurality of obstacles that deflect a first analyte from said sample in a direction away from a second analyte of said blood sample wherein said first analyte and said second analyte have a different hydrodynamic diameter; analyzing said first analyte from said samples to determine a characteristic of said first analyte; and performing an association study based on said characteristic.
+</P>
+<P>
+40. The method of claim 39 wherein said characteristic is the presence or absence of said first analyte. 41. The method of claim 39 wherein said characteristic is the number of said first analyte.
+</P>
+<P>
+42. The method of claim 39 wherein said characteristic is a morphology or phenotype of said first analyte.
+</P>
+<P>
+43. The method of claim 39 wherein said characteristic is the genotype of said first analyte.
+</P>
+<P>
+44. The method of claim 39 wherein said characteristic is the proteome of said first analyte. 45. The method of claim 39 wherein said characteristic is the RNA composition of said first analyte.
+</P>
+<P>
+46. The method of claim 39 wherein said characteristic is the level of gene expression of said first analyte.
+</P>
+<P>
+47. The method of claim 39 wherein said plurality of control samples comprises at least 100 control samples. 48. The method of claim 39 wherein said plurality of case samples comprises at least 100 case samples.
+</P>
+<P>
+49. The method of claim 39 wherein said control samples and case samples are blood samples.
+</P>
+<P>
+50. The method of claim 49 wherein each blood sample comprises less than 100 mL of blood.
+</P>
+<P>
+51. The method of claim 39 wherein said analyte is a cell type. 5 52. The method of claim 51 wherein said analyte is an epithelial cell, a cancer cell, or a fetal cell.
+</P>
+<P>
+53. The system of claim 32 wherein said obstacles deterministically direct said fluid flow for said first and second analytes.
+</P>
+<P>
+54. The system of claim 53 wherein said array of obstacles define gaps which direct the flow of sample unequally into subsequent gaps. 0 55. A method for detecting a biohazard analyte in a sample wherein said biohazard analyte is found at a concentration less than 1 x 10&amp;lt;&quot;3&amp;gt; analytes/[mu]L of a sample comprising: &quot;T V U S 111
+</P>
+<P>
+a flow-through concentrator adapted to increase the concentration of said analyte by at least 10,000 fold, and analyzed said concentrated biohazard analyte.
+</P>
+<P>
+56. The method of claim 55 wherein said concentrator is adapted to retain at least 99% of said biohazard analyte.
+</P>
+<P>
+57. The method of claim 55 wherein said concentrator is adapted to enrich said biohazard analyte by a factor of at least 100,000.
+</P>
+<P>
+58. The method of claim 55 wherein said concentrator has specificity of at least 98% and sensitivity of at least 98%. 59. The method of claim 55 wherein said biohazard analyte is a pathogen selected from the group consisting of: a bacterium, a protozoan, a virus and a chimera thereof.
+</P>
+<P>
+60. The method of claim 55 wherein said biohazard analyte is a pathogen selected from the group consisting of: Yersinia pestis, Bacillus anthracis, Clostridium botulinum, Francisella tularensis, Coxiella burnetii, Brucella spp., Burkholderia mallei, Burkholderia pseudomallei, Streptococcus, Ebola virus, Lassa virus, SARS, Variola major, Alphaviruses, Rickettsia prowazekii, Chlamydia psittaci, Salmonella spp., Escherichia coli O157:H7, Vibrio cholerae, Cryptosporidium parvum, Nipah virus, and hantavirus.
+</P>
+<P>
+61. The method of claim 55 wherein said sample is a water sample, an air sample, a food sample, a bodily fluid sample, or a soil sample.
+</P>
+<P>
+62. The method of claim 55 wherein said sample is a fluid sample. 63. The method of claim 55 further comprising the step of liquefying said sample to convert it to a fluid sample.
+</P>
+<P>
+64. The method of claim 55 wherein said concentrator removes at least 99% of a second analyte from said sample.
+</P>
+<P>
+65. The method of claim 55 wherein said biohazard analyte is a cell type. 66. The method of claim 55 wherein said biohazard analyte is a toxin.
+</P>
+<P>
+67. The method of claim 55 wherein said analyzing set is preformed by a computer executable logic.
+</P>
+<P>
+68. The method of claim 55 wherein said concentrator comprises a two dimensional array of a plurality of obstacles which deterministically direct said biohazard analyte in a first direction and a second analyte in said sample in a second direction. 69. A method of identifying fetal abnormality, comprising: delivering a maternal blood sample from a pregnant female to a flow through module_which deterministically separates fetal cells in said sample; delivering said separated fetal cells to an analyzer adapted for capturing an image of one or more fetal cell enriched from said blood sample; analyzing signals from one or more nucleic acid probes that bind fetal nucleic acids; analyzing said signals; and generating a diagnostic output according based on said analyzing step.
+</P>
+<P>
+70. The method of claim 69 wherein said probes are specific to a chromosome.
+</P>
+<P>
+71. The method of claim 70 wherein said chromosome is selected from the group consisting of: X chromosome, Y chromosome, chromosome 21, chromosome 13 and chromosome 18. 72. The method of claim 70 wherein said analyzing comprises determining number of said probe signals, determining size of said probe signals, determining shape of said probe signals, determining aspect ratio of said probe signals, or determining distribution of said probe signals. P&apos; C T/ SZlS 015 corapioniplIlrSiSi productthat detects a condition of a fetus comprising: computer code that detects nucleated red blood cells in a sample; computer code that receives probe signals from one or more nucleic acid probes that bind nucleic acids of interest; computer code that analyzes said probe signals to detect one or more fetal cells; computer code that analyzes said probe signals to detect a condition in said one or more fetal cells; and a computer readable medium that stores the computer codes.
+</P>
+<P>
+74. The computer program product of claim 73 wherein the computer readable medium is a memory, hard drive, floppy disk, CD-ROM, flash memory, or tape.
+</P>
+<P>
+75. The computer program product of claim 73 wherein said probes are specific to a chromosome.
+</P>
+<P>
+76. The computer program product of claim 75 wherein said chromosome is selected from the group consisting of: X chromosome, Y chromosome, chromosome 21, chromosome 13 and chromosome 18.
+</P>
+<P>
+77. The computer program product of claim 73 wherein said probes are colorimetric probes. 78. The computer program product of claim 73 wherein said probes are fluorescent probes.
+</P>
+<P>
+79. The method of claim 69 wherein said female is at 12 weeks or less gestation.
+</P>
+<P>
+80. The method of claim 69 wherein said flow through module comprises one or more two dimensional arrays of obstacles wherein said obstacles define gaps which direct the sample flow unequally into subsequent gaps. 81. A kit for prenatal testing comprising: a size-based flow-through separation module adapted to isolate one or more cells of a first cell type from a maternal blood sample wherein said first cell type is found in vivo in a pregnant female at a concentration of less than 1% of all blood cells, and a set of instructions for analyzing said one or more enriched cells to make a prenatal diagnosis of a fetus.
+</P>
+<P>
+82. A kit for prenatal testing comprising: a size-based flow-through separation module adapted to isolate one or more cells of a first cell type from a neonate blood sample wherein said first cell type is found in vivo at a concentration of less than 1% of all blood cells, and a set of instructions for analyzing said one or more enriched cells to make a prenatal diagnosis of a fetus.
+</P>
+<P>
+83. The kit of claim 81 or 82 further comprising one or more reagents selected from the group consisting of: a PCR reagent, a lysis reagent, a nucleic acid probe, and a labeling reagent.
+</P>
+<P>
+84. The kit of claim 81 or 82 wherein said labeling reagent is a FISH reagent. 85. The kit of claim 81 or 82 wherein said FISH reagent specifically binds a chromosome selected from the group consisting of X chromosome, Y chromosome, chromosome 13, chromosome 18, and chromosome 21.
+</P>
+<P>
+86. The kit of claim 81 or 82 further comprising a microarray.
+</P>
+<P>
+87. The kit of claim 81 or 82 wherein said size-based separation module comprises a two-dimensional array of obstacles that deterministically direct said one or more cells of a first cell type in a first direction and one or more cells of a second cell type in a second direction.
+</P>
+<P>
+88. The kit of claim 87 wherein said first cell type is a fetal cell. P C T/ tefoS Il (R)he&apos;1[alpha]idiclM!ll-l:!!wherein said second cell type is an enucleated red blood cell.
+</P>
+<P>
+90. The kit of claim 89 wherein said size-based separation module retains more than 99% of said first cell types and removes more than 99% of said enucleated red blood cells.
+</P>
+<P>
+91. The kit of claim 81 or 82 further comprising an array of obstacles, wherein said obstacles are coupled to an antibody is selected from the group consisting of an anti-CD71, anti-CD36, anti-selectin, anti-GPA, anti-CD45, and anti-antigen i.
+</P>
+<P>
+92. The kit of claim 81 or 82 wherein said prenatal diagnosis comprises determining sex of a fetus.
+</P>
+<P>
+93. The kit of claim 81 or 82 wherein said prenatal diagnosis comprises determining the existence trisomy 13, trisomy 18, trisomy 21 (Down&apos;s Syndrome), Turner Syndrome (damaged X chromosome), Klinefelter Syndrome (XXY) or another irregular number of sex or autosomal chromosomes.
+</P>
+<P>
+94. The kit of claim 81 wherein said prenatal diagnosis comprises determining a condition selected from the group consisting of: Wolf-Hirschhorn syndrome (4p-), Cri-du-chat (5[rho]-), Williams syndrome (7ql 1.23), Prader-Willi syndrome (15qll.2-ql3), Angelman syndrome (15qll.2-ql3), Miller-Dieker syndrome (17pl3.3), Smith-Magenis syndrome (17pl l.2), DiGeorge and Velo-cardio-facial syndromes (22qll.2), Kalhnan syndrome (Xp22.3), Steroid Sulfatase Deficiency (STS) (Xp22.3), X-Linked Ichthiosis (Xp22.3), and Retinoblastoma (13ql4).
+</P>
+<P>
+95. The kit of claim 81 or 82 wherein said separation module deterministically directs said first analyte in a first direction and a second analyte in a second direction.
+</P>
+<P>
+96. The kit of claim 81 or 82 wherein said separation module comprises one or more two dimensional arrays of obstacles that define a plurality of gaps that direct flow unequally into subsequent gaps. 97. The kit of claim 81 wherein said prenatal diagnosis comprises determining sex of said fetus.
+</P>
+<P>
+98. The kit of claim 81 wherein said prenatal diagnosis comprises determining the existence of trisomy 13.
+</P>
+<P>
+99. The kit of claim 82 wherein said postnatal diagnosis comprises determining the existence or number of circulating nucleated red blood cells. 100. A business method for proving a prenatal diagnostic comprising: obtaining a blood sample of a mammal who is or has been pregnant with a fetus; enriching from said blood sample one or more fetal cells; analyzing said fetal cells to determine a condition of said fetus; and providing a report on said condition in exchange for a service fee. 101. The business method of claim 100 wherein said business licenses a CLIA laboratory to perform said analyzing step.
+</P>
+<P>
+102. The business method of claim 100 wherein said enriching step is performed in a fluid system adapted to separate said fetal cell from maternal cells by directing said cells in different directions by size.
+</P>
+<P>
+103. The business method of claim 100 wherein said business conducts said service. 104. The business method of claim 100 wherein said condition is selected from the group consisting of: trisomy 13, trisomy 18, trisomy 21 (Down Syndrome), Turner Syndrome (damaged X chromosome), Klinefelter
+</P>
+<P>
+Syndrome (XXY) and other irregular number of sex or autosomal chromosomes.
+</P>
+<P>
+105. The business method of claim 100 wherein said condition is selected from the group consisting of:
+</P>
+<P>
+Wolf-Hirschhorn (4p-), Cri-du-chat (5p-), Williams syndrome (7qll.23), Prader-Willi syndrome (15qll.2-ql3), Angelman syndrome (15qll.2-ql3), Miller-Dieker syndrome (17pl3.3), Smith-Magenis syndrome (17pl l.2),
+</P>
+<P>
+DiGeorge and Velo-cardio-facial syndromes (22qll.2), Kallman syndrome (Xp22.3), Steroid Sulfatase Deficiency
+</P>
+<P>
+(STS) (Xp22.3), X-Linked Ichthiosis (Xp22.3), and Retinoblastoma (13ql4). \P&apos; C T /&amp;lt;&apos;&amp;gt;MtMl Q lllhe&apos;hlli[beta]MMMo&apos;ld of claim 100 wherein said report is performed for a health care provider or a health insurance company.
+</P>
+<P>
+107. The business method of claim 100 wherein said business licenses a CLIA laboratory to perform said enrichment step. 108. A business comprising commercializing a diagnostic product for conducting a prenatal screen for a genetic defect in a fetus, wherein said diagnostic product enriches fetal cells from a maternal blood sample.
+</P>
+<P>
+109. The business method of claim 108 wherein said business manufactures said diagnostic product.
+</P>
+<P>
+110. The business method of claim 108 wherein said diagnostic product is manufactured from a polymer material. 111. The business method of claim 108 wherein said diagnostic is disposable.
+</P>
+<P>
+112. The business method of claim 108 wherein said diagnostic product selectively directs fetal cells in a direction away from maternal enucleated red blood cells.
+</P>
+<P>
+113. The business method of claim 108 wherein said diagnostic product detects genetic abnormalities in said fetal cells. 114. The business method of claim 113 wherein said genetic abnormalities are detected using a label that binds nucleic acids.
+</P>
+<P>
+115. The business method of claim 114 wherein said label is a fluorescence label.
+</P>
+<P>
+116. The business method of claim 115 wherein said label is a colorimetric label.
+</P>
+<P>
+117. A business method for isolating fetal cells from maternal blood comprising: obtaining a blood sample of a mammal who is or has been pregnant with a fetus; and enriching from said blood sample one or more fetal cells in exchange for a fee.
+</P>
+</Claims>
+<Also_published_as>
+EP1931800A4;WO2007035585A2;WO2007035585A3;JP2009509143A;CA2622745A1;AU2006292394A1
+</Also_published_as>
+</BiblioData>

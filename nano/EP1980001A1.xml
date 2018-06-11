@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SURFACE-EMITTING LASER DEVICE AND SURFACE- EMITTING LASER ARRAY INCLUDING SAME
+</Title>
+<PublicationNumber>
+EP1980001A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SATO SHUNICHI [JP]
+</Name>
+<Name>
+HARA KEI [JP]
+</Name>
+<Name>
+JIKUTANI NAOTO [JP]
+</Name>
+<Name>
+SATO, SHUNICHI
+</Name>
+<Name>
+HARA, KEI
+</Name>
+<Name>
+JIKUTANI, NAOTO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+RICOH KK [JP]
+</Name>
+<Name>
+RICOH COMPANY, LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1980001
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070708279
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP52298
+</PriorityNumber>
+<PriorityDate>
+2007-02-02
+</PriorityDate>
+<PriorityNumber>
+JP20060027466
+</PriorityNumber>
+<PriorityDate>
+2006-02-03
+</PriorityDate>
+<PriorityNumber>
+JP20060057535
+</PriorityNumber>
+<PriorityDate>
+2006-03-03
+</PriorityDate>
+<PriorityNumber>
+JP20060250384
+</PriorityNumber>
+<PriorityDate>
+2006-09-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/183
+</Class>
+<Class>
+H01S5/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B41J2/45
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/183P
+</Class>
+</NCL>
+<Abstract>
+A surface-emitting laser device is disclosed that includes a substrate connected to a heat sink;  a first reflective layer formed of a semiconductor distributed Bragg reflector on the substrate;  a first cavity spacer layer formed in contact with the first reflective layer;  an active layer formed in contact with the first cavity spacer layer;  a second cavity spacer layer formed in contact with the active layer;  and a second reflective layer formed of a semiconductor distributed Bragg reflector in contact with the second cavity spacer layer. The first cavity spacer layer includes a semiconductor material having a thermal conductivity greater than the thermal conductivity of a semiconductor material forming the second cavity spacer layer.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A surface-emitting laser device, comprising: a substrate connected to a heat sink; a first reflective layer formed of a semiconductor distributed Bragg reflector on the substrate; a first cavity spacer layer formed in contact with the first reflective layer; an active layer formed in contact with the first cavity spacer layer; a second cavity spacer layer formed in contact with the active layer; and a second reflective layer formed of a semiconductor distributed Bragg reflector in contact with the second cavity spacer layer, wherein the first cavity spacer layer includes a semiconductor material having a thermal conductivity greater than a thermal conductivity of a semiconductor material forming the second cavity spacer layer.
+</P>
+<P>
+2. The surface-emitting laser device as claimed in claim 1, wherein the semiconductor material forming the first cavity spacer layer and the semiconductor material forming the second cavity spacer layer are asymmetrical with respect to the active layer.
+</P>
+<P>
+3. The surface-emitting laser device as claimed in claim 1, wherein the semiconductor material forming the second
+</P>
+<P>
+cavity spacer layer comprises (AldGai-d) flni-fP (0 &amp;lt; d &amp;lt; 1, 0 &amp;lt; f &amp;lt; 1).
+</P>
+<P>
+4. The surface-emitting laser device as claimed in claim 3, wherein the semiconductor material forming the first cavity spacer layer has the thermal conductivity greater than the thermal conductivity of said (AldGai_d) fIm-fP.
+</P>
+<P>
+5. The surface-emitting laser device as claimed in claim 4, wherein the first cavity spacer layer comprises
+</P>
+<P>
+(AlgGai-g) hlni-hP (0 &amp;lt; g &amp;lt;= 1, 0 &amp;lt; h &amp;lt; 1) having a band gap smaller than a band gap of said &amp;lt;&apos;&amp;gt;(AlaGai-d) flni-fP.
+</P>
+<P>
+6. The surface-emitting laser device as claimed in claim 1, wherein the first cavity spacer layer comprises AlzGai_
+</P>
+<P>
+zAs (0 &amp;lt; z &amp;lt; 1) .
+</P>
+<P>
+7. The surface-emitting laser device as claimed in claim 1, wherein the first cavity spacer layer comprises: a first spacer layer formed in contact with the first reflective layer and having a first thermal conductivity; and a second spacer layer formed in contact with the first spacer layer and the active layer and having a second thermal conductivity smaller than the first thermal conductivity.
+</P>
+<P>
+8. The surface-emitting laser device as claimed in claim 1, wherein a thermal conductivity of one of semiconductor materials of the first reflective layer which one is disposed closest to the active layer is greater than a thermal conductivity of one of &amp;lt;&apos;&amp;gt; semiconductor materials of the second reflective layer which one is disposed closest to the active layer.
+</P>
+<P>
+- &apos; 9. The surface-emitting laser device as claimed in claim 1, wherein: &amp;lt;&apos;&amp;gt; the first reflective layer comprises at least a
+</P>
+<P>
+layer formed of AlxGai-xAs (0 &amp;lt; x &amp;lt; 1) ; and the second reflective layer comprises a layer formed
+</P>
+<P>
+of (AldGai-d) flni-fP (0 &amp;lt; d &amp;lt; 1, 0 &amp;lt; f &amp;lt; 1) and disposed at a symmetric position of the layer formed of said AlxGai-xAs with respect to the active layer.
+</P>
+<P>
+10. The surface-emitting laser device as claimed in claim 9, wherein said AlxGai-xAs is AlAs.
+</P>
+<P>
+11. The surface-emitting laser device as claimed in claim 1, wherein the first reflective layer comprises a plurality of low refractive index layers each formed of AlAs.
+</P>
+<P>
+12. The surface-emitting laser device as claimed in claim 1, wherein: the second reflective layer comprises a current confinement part; and the first reflective layer comprises a first reflective part formed in contact with the substrate and including a low refractive index layer formed of AlAs; and a second reflective part formed on an active layer side of the first reflective part and including a low refractive index layer formed of AljGai-jAs (0 &amp;lt; j &amp;lt; 1) .
+</P>
+<P>
+13. A surface-emitting laser array, comprising: a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 1.
+</P>
+<P>
+14. An image forming apparatus, comprising: a surface-emitting laser array as a light source for writing, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 1.
+</P>
+<P>
+15. An optical pickup unit, comprising: the surface-emitting laser device as set forth in claim 1 as a light source.
+</P>
+<P>
+16. An optical pickup unit, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 1.
+</P>
+<P>
+17. An optical transmitter module, comprising: the surface-emitting laser device as set forth in claim 1 as a light source.
+</P>
+<P>
+18. An optical transmitter module, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 1.
+</P>
+<P>
+19. An optical transmitter receiver module, comprising: the surface-emitting laser device as set forth in claim 1 as a light source.
+</P>
+<P>
+20. An optical transmitter receiver module, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 1.
+</P>
+<P>
+21. An optical communication system, comprising: the surface-emitting laser device as set forth in claim 1 as a light source.
+</P>
+<P>
+22. An optical communication system, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 1.
+</P>
+<P>
+23. A surface-emitting laser device, comprising: a substrate connected to a heat sink; a first reflective layer formed of a semiconductor distributed Bragg reflector on the substrate; a first cavity spacer layer formed in contact with the first reflective layer; an active layer formed in contact with the first cavity spacer layer; a second cavity spacer layer formed in contact with the active layer; and &amp;lt;&apos;&amp;gt; a second reflective layer formed of a semiconductor distributed Bragg reflector in contact with the second cavity spacer layer, wherein the active layer includes
+</P>
+<P>
+a well layer formed of GaaIni-aPbAsi-b (0 &amp;lt; a &amp;lt;= I1 0 &amp;lt; b &amp;lt; 1) ; and a barrier layer formed of (GacIni-c)dPi-dAs (0 &amp;lt; c &amp;lt; 1, 0 &amp;lt; d &amp;lt;1) having a band gap greater than a band gap of the well layer; the first reflective layer includes a plurality of low refractive index layers formed of AlxGai_xAs (0 &amp;lt; x &amp;lt; 1) ; and a plurality of high refractive index layers
+</P>
+<P>
+formed of AlyGai-yAs (0 &amp;lt; y &amp;lt; x &amp;lt; 1) ; a part of at least one of the first and second cavity spacer layers is formed of AlGaInP; one of the low refractive index layers forming the second reflective layer which one is disposed closest to the
+</P>
+<P>
+active layer is formed of (AleGai-e) fIni_fP (0 &amp;lt; e &amp;lt; 1, 0 &amp;lt; f &amp;lt; 1) ; and one of the low refractive index layers forming the first reflective layer which one is disposed closest to the
+</P>
+<P>
+active layer is formed of AlxGai-xAs (0 &amp;lt; x &amp;lt; 1) having a thermal conductivity greater than a thermal conductivity of said (AleGai-e)fIni-fP.
+</P>
+<P>
+24. The surface-emitting laser device as claimed in claim 23, wherein each of the low refractive index layers included in the first reflective layer comprises AlAs.
+</P>
+<P>
+25. The surface-emitting laser device as claimed in claim 23, wherein: the second reflective layer comprises a current confinement part; and the first reflective layer comprises a first reflective part formed in contact with W
+</P>
+<P>
+-138-
+</P>
+<P>
+the substrate and including one of the low refractive index layers which one is formed of AlAs; and a second reflective part formed on an active layer side of the first reflective part and including one of the low refractive index layers which one is formed of Al3GaI- -jAs (0 &amp;lt; j &amp;lt; 1) .
+</P>
+<P>
+26. A surface-emitting laser array, comprising: a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 23.
+</P>
+<P>
+27. An image forming apparatus, comprising: a surface-emitting laser array as a light source for writing, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 23.
+</P>
+<P>
+28. An optical pickup unit, comprising: the surface-emitting laser device as set forth in claim 23 as a light source.
+</P>
+<P>
+29. An optical pickup unit, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 23.
+</P>
+<P>
+30. An optical transmitter module, comprising: the surface-emitting laser device as set forth in claim 23 as a light source.
+</P>
+<P>
+31. An optical transmitter module, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 23.
+</P>
+<P>
+32. An optical transmitter receiver module, comprising: the surface-emitting laser device as set forth in claim 23 as a light source.
+</P>
+<P>
+33. An optical transmitter receiver module, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 23.
+</P>
+<P>
+34. An optical communication system, comprising: the surface-emitting laser device as set forth in claim 23 as a light source.
+</P>
+<P>
+35. An optical communication system, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting. laser devices is formed of the surface-emitting laser device as set forth in claim 23.
+</P>
+<P>
+36. A surface-emitting laser device, comprising: a substrate connected to a heat sink; a first reflective layer formed of a semiconductor distributed Bragg reflector on the substrate; a first cavity spacer layer formed in contact with the first reflective layer; an active layer formed in contact with the first cavity spacer layer; a second cavity spacer layer formed in contact with the active layer; and a second reflective layer formed of a semiconductor distributed Bragg reflector in contact with the second cavity spacer layer, wherein the active layer includes
+</P>
+<P>
+a well layer formed of GaaIni-aPbAsi-b (0 &amp;lt; a &amp;lt;= 1, 0 &amp;lt; b &amp;lt; 1) ; and a barrier layer formed of (Gaclni-C) dPi-dAs (0 &amp;lt; c &amp;lt;= 1, 0 &amp;lt; d &amp;lt;=l) having a band gap greater than a band gap of the well layer; the first reflective layer includes a plurality of low refractive index layers
+</P>
+<P>
+formed of AlxGai_xAs (0 &amp;lt; x &amp;lt; 1) ; and a plurality of high refractive index layers
+</P>
+<P>
+formed of AIyGa1-^As (0 &amp;lt; y &amp;lt; x &amp;lt; 1) ; a part of the second cavity spacer layer is formed
+</P>
+<P>
+of (Al[beta]Gai-e) flni-fP (0 &amp;lt; e &amp;lt; 1, 0 &amp;lt; f &amp;lt; 1) ; and
+</P>
+<P>
+.the first cavity spacer layer includes a semiconductor material at a symmetric position of a position at which the second cavity spacer layer includes said (AleGai-. e)fIni-fP with respect to the active layer, the semiconductor material having a thermal conductivity greater than a thermal conductivity of said (AleGai-e)fIni_fP.
+</P>
+<P>
+37. The surface-emitting laser device as claimed in claim 36, wherein each of the low refractive index layers included in the first reflective layer comprises AlAs.
+</P>
+<P>
+38. The surface-emitting laser device as claimed in claim 36, wherein: the second reflective layer comprises a current confinement part; and the first reflective layer comprises a first reflective part formed in contact with the substrate and including one of the low refractive index layers which one is formed of AlAs; and a second reflective part formed on an active layer side of the first reflective part and including one of the low refractive index layers which one is formed of AljGai- jAs (0 &amp;lt; j &amp;lt; 1) .
+</P>
+<P>
+39. A surface-emitting laser array, comprising: a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 36.
+</P>
+<P>
+40. An image forming apparatus, comprising: a surface-emitting laser array as a light source for writing, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 36.
+</P>
+<P>
+41. An optical pickup unit, comprising: the surface-emitting laser device as set forth in claim 36 as a light source.
+</P>
+<P>
+&amp;lt;&apos;&amp;gt; 42. An optical pickup unit, comprising: . a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 36.
+</P>
+<P>
+.43. An optical transmitter module, comprising: the surface-emitting laser device as set forth in claim 36 as a light source.
+</P>
+<P>
+44. An optical transmitter module, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 36.
+</P>
+<P>
+45. An optical transmitter receiver module, comprising: the surface-emitting laser device as set forth in claim 36 as a light source.
+</P>
+<P>
+46. An optical transmitter receiver module, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 36.
+</P>
+<P>
+47. An optical communication system, comprising: the surface-emitting laser device . as set forth in claim 36 as a light source.
+</P>
+<P>
+48. An optical communication system, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 36.
+</P>
+<P>
+49. A surface-emitting laser device, comprising: a substrate connected to a heat sink; a first reflective layer formed of a semiconductor distributed Bragg reflector on the substrate; a first cavity spacer layer formed in contact with the first reflective layer; &amp;lt;&apos;&amp;gt; an active layer formed in contact with the first cavity spacer layer; a second cavity spacer layer formed in contact with the active layer; and a second reflective layer formed of a semiconductor distributed Bragg reflector in contact with the second cavity spacer layer, wherein the first reflective layer includes a plurality of low refractive index layers and the second reflective layer includes a plurality of low. refractive index layers; and a thermal conductivity of a semiconductor material of one of the low refractive index layers of the first reflective layer which one is disposed closest to the active layer is greater than a thermal conductivity of a semiconductor material of one of the low refractive index layers of the second reflective layer which one is disposed closest to the active layer.
+</P>
+<P>
+50. The surface-emitting laser device as claimed in claim 49, wherein: the one of the low refractive index layers of the second reflective layer which one is disposed closest to the
+</P>
+<P>
+active layer comprises (AleGai-e)fIni_fP (0 &amp;lt; e &amp;lt; 1, 0 &amp;lt; f &amp;lt; 1) ; and the one of the low refractive index layers of the first reflective layer which one is disposed closest to the
+</P>
+<P>
+active layer comprises AlxGai_xAs (0 &amp;lt; x &amp;lt; 1) having the thermal conductivity greater than the thermal conductivity of said (AleGai-e)flni-fP.
+</P>
+<P>
+51. The surface-emitting laser device as claimed in claim 50, wherein said AlxGai_xAs is AlAs.
+</P>
+<P>
+52. The surface-emitting laser device as claimed in claim 49, wherein a part of at least one of the first and second cavity spacer layers is formed of AlGaInP.
+</P>
+<P>
+53. A surface-emitting laser array, comprising: a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 49.
+</P>
+<P>
+54. An image forming apparatus, comprising: a surface-emitting laser array as a light source for writing, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 49.
+</P>
+<P>
+55. An optical pickup unit, comprising: the surface-emitting laser device as set forth in claim 49 as a light source.
+</P>
+<P>
+56. An optical pickup unit, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices W
+</P>
+<P>
+-148-
+</P>
+<P>
+is formed of the surface-emitting laser device as set forth in claim 49.
+</P>
+<P>
+57. An optical transmitter module, comprising: the surface-emitting laser device as set forth in claim 49 as a light source.
+</P>
+<P>
+58. An optical transmitter module, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is &apos;formed of the surface-emitting laser device as set forth in claim 49.
+</P>
+<P>
+59. An optical transmitter receiver module, comprising: the surface-emitting laser device as- set forth in claim 49 as a light source.
+</P>
+<P>
+60. An optical transmitter receiver module, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a -plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 49.
+</P>
+<P>
+61. An optical communication system, comprising: the surface-emitting laser device as set forth in claim 49 as a light source.
+</P>
+<P>
+62. An optical communication system, comprising: a surface-emitting laser array as a light source, the surface-emitting laser array including a plurality of surface-emitting laser devices, wherein each of the surface-emitting laser devices is formed of the surface-emitting laser device as set forth in claim 49.
+</P>
+<P>
+63. A surface-emitting laser device, comprising: a first reflective layer formed of a semiconductor distributed Bragg reflector on a substrate; a second reflective layer formed in contact with the first reflective layer; a cavity including an active layer, the cavity being formed in contact with the second reflective layer; a third reflective layer formed in contact with the cavity; and a fourth reflective layer formed in contact with the third reflective layer, wherein the cavity is formed of an AlGalnPAs-system material; the second reflective layer includes a layered body of n first high refractive index layers and n first low refractive index layers that are alternately stacked, where n is a positive integer; the third reflective layer includes a layered body of m second high refractive index layers and m second low refractive index layers that are alternately stacked, where m is a positive integer; each of the n first low refractive index layers and the in second low refractive index layers is formed of (AlxGai-
+</P>
+<P>
+each of the n first high refractive index layers and the m second high refractive index layers is formed of (AlyGai_
+</P>
+<P>
+y)o.5lno.5P (0 &amp;lt; y &amp;lt; x &amp;lt; 1) ; one of the n first low refractive index layers is in contact with the cavity, and one of the n first high refractive index layers is in contact with an AlGaAs-system material forming the first reflective layer; and one of the J[Omega] second low refractive index layers is in contact with the cavity, and one of the m second high refractive index layers is in contact with an AlGaAs-system material forming the fourth reflective layer.
+</P>
+<P>
+64. The surface-emitting laser device as claimed in claim 63, wherein: the second reflective layer further comprises a first intermediate layer provided between one of the n first low refractive index layers and a corresponding one of the n first high refractive index layers, the first intermediate layer having a band gap between a band gap of the n first low refractive index layers and a band gap of the n first high refractive index layers; and the third reflective layer further comprises a second intermediate layer provided between one of the m second low refractive index layers and a corresponding one of the m second high refractive index layers, the second intermediate layer having a band gap between a band gap of the m second low refractive index layers and a band gap of the m second high refractive index layers.
+</P>
+<P>
+65. The surface-emitting laser device as claimed in claim 64, wherein each of the first and second intermediate layers comprises a plurality of semiconductor materials changing stepwise in band gap.
+</P>
+<P>
+66. The surface-emitting laser device as claimed in claim 64, wherein: the second reflective layer further comprises a third intermediate layer formed in contact with the cavity, the third intermediate layer having a band gap between a band gap of the cavity and the band gap of the n first low refractive index layers; and the third reflective layer further comprises a fourth intermediate layer formed in contact with the cavity, the fourth intermediate layer having a band gap between the band gap of the cavity and the band gap of the m second low refractive index layers .
+</P>
+<P>
+67. The surface-emitting laser device as claimed in claim 66, wherein each of the third and fourth intermediate layers &amp;lt;&apos;&amp;gt; comprises a plurality of semiconductor materials changing stepwise in band gap.
+</P>
+<P>
+68. A surface-emitting laser array, comprising: a plurality of surface-emitting laser devices each being formed of the surface-emitting laser device as set forth in claim 63, wherein the surface-emitting laser devices are disposed at corresponding intersection points of a plurality of equally spaced first baselines and a plurality of equally spaced second baselines, the second baselines each forming a predetermined angle with the first baselines.
+</P>
+<P>
+69. An optical scanner, comprising: a surface-emitting laser array including a plurality of surface-emitting laser devices each being formed of the surface-emitting laser device as set forth in claim 63, wherein the surface-emitting laser devices are disposed at corresponding intersection points of a plurality of equally spaced first baselines and a plurality of equally spaced second baselines, the second baselines each forming a predetermined angle with the first baselines; a light-receiving part configured to receive laser light emitted from the surface-emitting laser array; and a movement part configured to move the light- receiving part onto an optical axis of the emitted laser light at a time other than a time of image recording.
+</P>
+<P>
+70. The optical scanner as claimed in claim 69, further comprising: a magnifying part configured to magnify the laser light and guide the magnified laser light to the light- receiving part.
+</P>
+<P>
+71. The optical scanner as claimed in claim 69, further comprising: W
+</P>
+<P>
+-154-
+</P>
+<P>
+an additional light-receiving element disposed at a terminal end of scanning by the laser light.
+</P>
+<P>
+72. An optical scanner, comprising: a surface-emitting laser array including a plurality of surface-emitting laser devices each being formed of the surface-emitting laser device as set forth in claim 63, wherein the surface-emitting laser devices are disposed at corresponding intersection points of a plurality of equally spaced first baselines and a plurality of equally spaced second baselines, the second baselines each forming a predetermined angle with the first baselines; a light-receiving part configured to receive a part of laser light emitted from the surface-emitting laser array; and a light guide part configured to guide the part of the emitted laser light to the light-receiving part.
+</P>
+<P>
+73. The optical scanner as claimed in claim 72, further comprising: a magnifying part configured to magnify the part of the laser light and guide the magnified part of the laser light to the light-receiving part.
+</P>
+<P>
+74. The optical scanner as claimed in claim 72, W
+</P>
+<P>
+-155-
+</P>
+<P>
+wherein the light-receiving part is disposed at a terminal end of scanning by the part of the laser light.
+</P>
+<P>
+75. An electrophotographic apparatus, comprising: an optical scanner, the optical scanner including a surface-emitting laser array including a plurality of surface-emitting laser devices each being formed of the surface-emitting laser device as set forth in claim 63, wherein the surface-emitting laser devices are disposed at corresponding intersection points of a plurality of equally spaced first baselines and a plurality of equally spaced second baselines, the second baselines each forming a predetermined angle with the first baselines; a light-receiving part configured to receive laser light emitted from the surface-emitting laser array; and a movement part configured to move the light- receiving part onto an optical axis of the emitted laser light at a time other than a time of image recording.
+</P>
+<P>
+76. An electrophotographic apparatus, comprising: an optical scanner, the optical scanner including a surface-emitting laser array including a plurality of surface-emitting laser devices each being formed of the surface-emitting laser device as set forth in claim 63, wherein the surface-emitting laser devices are disposed at corresponding intersection points of a plurality of equally spaced first baselines and a plurality of equally spaced second baselines, the second baselines each forming a predetermined angle with the first baselines; a light-receiving part configured to receive a part of laser light emitted from the surface-emitting laser array; and a light guide part configured to guide the part of the emitted laser light to the light-receiving part.
+</P>
+</Claims>
+<Also_published_as>
+EP1980001A4;WO2007089042A1;KR20070114202A;KR100922401B1;CN101741015A;CN101741015B;CN101322291A;CN101322291B
+</Also_published_as>
+</BiblioData>

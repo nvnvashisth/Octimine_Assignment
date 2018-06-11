@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INORGANIC OXIDE AND EXHAUST GAS PURIFICATION CATALYST MADE BY USING THE SAME
+</Title>
+<PublicationNumber>
+EP2036606A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MORIKAWA AKIRA [JP]
+</Name>
+<Name>
+TANABE TOSHITAKA [JP]
+</Name>
+<Name>
+TAKAHASHI NAOKI [JP]
+</Name>
+<Name>
+YAMAMURA KAE [JP]
+</Name>
+<Name>
+YOSHIDA TAKERU [JP]
+</Name>
+<Name>
+SATO AKEMI [JP]
+</Name>
+<Name>
+MORIKAWA, AKIRA
+</Name>
+<Name>
+TANABE, TOSHITAKA
+</Name>
+<Name>
+TAKAHASHI, NAOKI
+</Name>
+<Name>
+YAMAMURA, KAE
+</Name>
+<Name>
+YOSHIDA, TAKERU
+</Name>
+<Name>
+SATO, AKEMI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TOYOTA MOTOR CO LTD [JP]
+</Name>
+<Name>
+TOYOTA JIDOSHA KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2036606
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070767080
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP61659
+</PriorityNumber>
+<PriorityDate>
+2007-06-08
+</PriorityDate>
+<PriorityNumber>
+JP20060167111
+</PriorityNumber>
+<PriorityDate>
+2006-06-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01D53/94
+</Class>
+<Class>
+B01J23/63
+</Class>
+<Class>
+C01F7/02
+</Class>
+<Class>
+C01G25/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01D53/94L2
+</Class>
+<Class>
+B01J23/00B
+</Class>
+<Class>
+B01J23/58
+</Class>
+<Class>
+B01J23/63
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B13/36B
+</Class>
+<Class>
+C01G23/047
+</Class>
+<Class>
+C01G25/02
+</Class>
+</NCL>
+<Abstract>
+A particulate inorganic oxide contains an aluminum oxide, a metal oxide forming no composite oxide with an aluminum oxide, and at least one additional element selected from the group consisting of rare earth elements and alkaline earth elements. In the inorganic oxide, a percentage content of the aluminum oxide to a total amount of aluminum in the aluminum oxide, a metal element in the metal oxide, and the additional element is in a range from 48 at% to 92 at% in terms of element content. At least 80% of primary particles in the inorganic oxide have a particle diameter of 100 nm or smaller. At least a part of the primary particles have a surface concentrated region where a percentage content of the additional element is locally increased in a surface layer part thereof.;  The content of the additional element in the surface concentrated region to a whole amount of the inorganic oxide is in a range from 0.06 % by mass to 0.98 % by mass in terms of oxide amount.
+</Abstract>
+<Claims>
+<P>
+1. A particulate inorganic oxide, comprising:
+</P>
+<P>
+an aluminum oxide;
+</P>
+<P>
+a metal oxide forming no composite oxide with an aluminum oxide; and
+</P>
+<P>
+at least one additional element selected from the group consisting of rare earth elements and alkaline earth elements, wherein
+</P>
+<P>
+a percentage content of the aluminum oxide to a total amount of aluminum in the aluminum oxide, a metal element in the metal oxide, and the additional element is in a range from 48 at% to 92 at% in terms of element content,
+</P>
+<P>
+at least 80% of primary particles in the inorganic oxide have a particle diameter of 100 nm or smaller,
+</P>
+<P>
+at least a part of the primary particles have a surface concentrated region where a percentage content of the additional element is locally increased in a surface layer part thereof, and
+</P>
+<P>
+the content of the additional element in the surface concentrated region to a whole amount of the inorganic oxide is in a range from 0.06 % by mass to 0.98 % by mass in terms of oxide amount.
+</P>
+<P>
+2. The inorganic oxide according to claim 1, wherein the metal oxide contains at least zirconium oxide.
+</P>
+<P>
+3. The inorganic oxide according to claim 1, wherein the metal oxide contains at least one oxide selected from the group consisting of ZrO2, ZrO2-CeO2, ZrO2-Y2O3, ZrO2-La2O3, ZrO2-Nd2O3, and ZrO2-Pr2O3.
+</P>
+<P>
+4. The inorganic oxide according to claim 1, wherein the additional element is at least one element selected from the group consisting of Y, La, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu, Mg, Ca, Sr, Ba, Sc, and Ce.
+</P>
+<P>
+5. The inorganic oxide according to claim 4, wherein the additional element is at least one element selected from the group consisting of Y, La, Pr, Nd, Yb, Mg, Ca, and Ba.
+</P>
+<P>
+6. The inorganic oxide according to claim 5, wherein the additional element is at least one element selected from the group consisting of La and Nd.
+</P>
+<P>
+7. A catalyst for purification of exhaust gas, wherein rhodium is supported on the inorganic oxide according to any one of claims 1 to 6.
+</P>
+</Claims>
+<Also_published_as>
+EP2036606A4;US2009149321A1;KR20090025339A;WO2007145145A1;JP2007331992A;CN101479036A
+</Also_published_as>
+</BiblioData>

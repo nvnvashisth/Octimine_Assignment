@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Group III nitride based light emitting diode with a superlattice structure
+</Title>
+<PublicationNumber>
+EP2075855A2
+</PublicationNumber>
+<Inventor>
+<Name>
+EMERSON DAVID TODD [US]
+</Name>
+<Name>
+BERGMANN MICHAEL JOHN [US]
+</Name>
+<Name>
+DOVERSPIKE KATHLEEN MARIE [US]
+</Name>
+<Name>
+O&apos;LOUGHLIN MICHAEL JOHN [US]
+</Name>
+<Name>
+NORDBY HOWARD DEAN JR [US]
+</Name>
+<Name>
+SALTER AMBER CHRISTINE [US]
+</Name>
+<Name>
+IBBETSON JAMES [US]
+</Name>
+<Name>
+EMERSON, DAVID TODD
+</Name>
+<Name>
+BERGMANN, MICHAEL JOHN
+</Name>
+<Name>
+DOVERSPIKE, KATHLEEN MARIE
+</Name>
+<Name>
+O&apos;LOUGHLIN, MICHAEL JOHN
+</Name>
+<Name>
+NORDBY, HOWARD DEAN JR
+</Name>
+<Name>
+SALTER, AMBER CHRISTINE
+</Name>
+<Name>
+IBBETSON, JAMES
+</Name>
+<Name>
+ABARE, AMBER CHRISTINE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CREE INC [US]
+</Name>
+<Name>
+CREE, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2075855
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090157557
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2002-05-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030078515
+</PriorityNumber>
+<PriorityDate>
+2002-05-23
+</PriorityDate>
+<PriorityNumber>
+EP20020726917
+</PriorityNumber>
+<PriorityDate>
+2002-05-23
+</PriorityDate>
+<PriorityNumber>
+US20010294445P
+</PriorityNumber>
+<PriorityDate>
+2001-05-30
+</PriorityDate>
+<PriorityNumber>
+US20010294308P
+</PriorityNumber>
+<PriorityDate>
+2001-05-30
+</PriorityDate>
+<PriorityNumber>
+US20010294378P
+</PriorityNumber>
+<PriorityDate>
+2001-05-30
+</PriorityDate>
+<PriorityNumber>
+US20020140796
+</PriorityNumber>
+<PriorityDate>
+2002-05-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L33/06
+</Class>
+<Class>
+H01L33/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01L21/02K4A1
+</Class>
+<Class>
+H01L21/02K4A1A2
+</Class>
+<Class>
+H01L21/02K4B1B1
+</Class>
+<Class>
+H01L21/02K4B5L3
+</Class>
+<Class>
+H01L21/02K4B5L3A
+</Class>
+<Class>
+H01L21/02K4C1B1
+</Class>
+<Class>
+H01L33/06
+</Class>
+<Class>
+H01L33/32
+</Class>
+</NCL>
+<Abstract>
+A Group III nitride based semiconductor device is disclosed, comprising: a doped Group III nitride layer (14);  and a gallium nitride based superlattice (16) directly on the doped Group III nitride layer, the gallium nitride superlattice being doped with an n-type impurity and having at least two periods of alternating layers of InxGa 1-X N and In Y Ga 1-Y N, where 0  X&amp;lt;1 and 0  Y&amp;lt;1 and X is not equal to Y and wherein a thickness of a first of the alternating layers is less than a thickness of a second of the alternating layers.
+</Abstract>
+<Claims>
+<P>
+1. A Group III nitride based semiconductor device, comprising:
+</P>
+<P>
+a doped Group III nitride layer (14); and
+</P>
+<P>
+a gallium nitride based superlattice (16) directly on the doped Group III nitride layer, the gallium nitride superlattice being doped with an n-type impurity and having at least two periods of alternating layers of InXGa1-XN and InYGa1-YN, where 0&amp;lt;=X&amp;lt;1 and 0 &amp;lt;=Y&amp;lt;1 and X is not equal to Y and wherein a thickness of a first of the alternating layers is less than a thickness of a second of the alternating layers.
+</P>
+<P>
+2. A Group III nitride based semiconductor device, comprising:
+</P>
+<P>
+a gallium nitride based superlattice (16) having at least two periods of alternating layers of InXGa1-XN and InYGa1-YN, where 0&amp;lt;=X&amp;lt;1 and 0 &amp;lt;=Y&amp;lt;1 and X is not equal to Y and wherein a thickness of a first of the alternating layers is less than a thickness of a second of the alternating layers, wherein the gallium nitride based superlattice is doped with an n-type impurity to a level of from about 1x10&amp;lt;17&amp;gt; cm&amp;lt;-3&amp;gt; to about 5x10&amp;lt;19&amp;gt; cm&amp;lt;-3&amp;gt;, and wherein the doping level is an average doping level of layers of the alternating layers.
+</P>
+<P>
+3. The Group III nitride based semiconductor device according to Claims 1 or 2, wherein X=0, and wherein InGaN layers of the alternating layers of InXGa1-XN and InYGa1-YN have a thickness of from about 5 to about 40 A and GaN layers of the alternating layers of InXGa1-XN and InYGa1-YN have a thickness of from about 5 to about 100 A.
+</P>
+<P>
+4. The Group III nitride based semiconductor device according to Claims 1 or 2, wherein the gallium nitride based superlattice (16) comprises from about 5 to about 50 periods.
+</P>
+<P>
+5. The Group III nitride based semiconductor device according to Claims 1 or 2, wherein layers of InXGa1-XN and InYGa1-YN of the alternating layers of InXGa1-XN and InYGa1-YN have a combined thickness of less than about 70 A.
+</P>
+<P>
+6. The Group III nitride based semiconductor device according to Claim 1, wherein the doped Group III nitride layer comprises doped Group III nitride layers (14, 12) directly adjacent the superlattice (16).
+</P>
+<P>
+7. The Group III nitride based semiconductor device according to Claim 6, wherein the doped Group III nitride layers (14, 12) are doped with an n-type impurity to provide an average doping of the doped Group III nitride layers (14, 12) and the superlattice (16) of from about 1x10&amp;lt;17&amp;gt; cm&amp;lt;-3&amp;gt; to about 5x10&amp;lt;19&amp;gt; cm&amp;lt;-3&amp;gt;.
+</P>
+<P>
+8. The Group III nitride based semiconductor device according to Claims 1 or 2, wherein the semiconductor device comprises a light emitting diode, the light emitting diode further comprising a Group III nitride based active region (18, 125, 225) comprising at least one quantum well structure on the superlattice (16).
+</P>
+<P>
+9. The Group III nitride based semiconductor device according to Claim 8, further comprising an undoped Group III nitride based spacer layer between the active region (18, 125, 225) and the superlattice (16).
+</P>
+<P>
+10. The Group III nitride based semiconductor device according to Claim 8, further comprising an undoped GaN or AlGaN layer (22) on the active region (18, 125, 225) opposite the superlattice (16).
+</P>
+<P>
+11. A Group III nitride based light emitting diode, comprising:
+</P>
+<P>
+a Group III nitride based light emitting diode active region (18, 125, 225) comprising at least one quantum well structure; and
+</P>
+<P>
+a Group III nitride capping layer (22) on the light emitting diode active region (18, 125, 225), wherein the Group III nitride capping layer comprises a plurality of AlGaN sublayers having higher Al compositions in sublayers thereof distal from the active region than are present in sublayers thereof proximate the active region.
+</P>
+<P>
+12. The light emitting diode of Claim 11, wherein the Al compositions of the plurality of AlGaN sublayers are graded in a stepwise fashion from sublayers thereof distal from the active region to sublayers thereof proximate the active region.
+</P>
+<P>
+13. The light emitting diode of Claim 11, wherein the plurality of AlGaN sublayers comprise A1 compositions that continuously decrease from sublayers thereof distal from the active region to sublayers thereof proximate the active region.
+</P>
+<P>
+14. The light emitting diode of Claims 11, 12, or 13, wherein the Group III nitride capping layer comprises an undoped capping layer, and wherein the plurality of AlGaN sublayers are undoped.
+</P>
+<P>
+15. The light emitting diode of Claims 11, 12, 13, or 14, further comprising:
+</P>
+<P>
+an undoped GaN layer between the active region (18, 125, 225) and the Group III nitride capping layer (22).
+</P>
+</Claims>
+<Also_published_as>
+EP2075855A3;WO02097904A2;WO02097904A3;US2012018701A1;US2005045895A1;US7312474B2;US2008038858A1;US2010133508A1;US8044384B2;US2003006418A1;US6958497B2;TW544952B;MY137396A;KR20100114549A;KR101066760B1;KR20090117909A;KR101032847B1;KR20080098693A;JP2012070009A;JP2012070008A;JP2009260398A;JP2009260397A;JP2005507155A;EP2259347A2;EP2237334A2;EP1390990A2;EP1390990B1;CN1552104A;CN100350637C;CA2441310A1;AU2002257318A1;AT428189T;AT412253T
+</Also_published_as>
+</BiblioData>

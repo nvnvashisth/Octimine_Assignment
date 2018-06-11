@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SURFACE-EMISSION LASER DIODE, SURFACE- EMISSION LASER DIODE ARRAY, OPTICAL SCANNING APPARATUS AND IMAGE FORMING APPARATUS
+</Title>
+<PublicationNumber>
+EP2057723A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ITOH AKIHIRO [JP]
+</Name>
+<Name>
+SATO SHUNICHI [JP]
+</Name>
+<Name>
+ITOH, AKIHIRO
+</Name>
+<Name>
+SATO, SHUNICHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+RICOH KK [JP]
+</Name>
+<Name>
+RICOH COMPANY, LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2057723
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070792685
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP66069
+</PriorityNumber>
+<PriorityDate>
+2007-08-13
+</PriorityDate>
+<PriorityNumber>
+JP20060233906
+</PriorityNumber>
+<PriorityDate>
+2006-08-30
+</PriorityDate>
+<PriorityNumber>
+JP20070176356
+</PriorityNumber>
+<PriorityDate>
+2007-07-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/183
+</Class>
+<Class>
+H01S5/42
+</Class>
+<Class>
+H04N1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/183C7
+</Class>
+<Class>
+H04N1/191B8B
+</Class>
+</NCL>
+<Abstract>
+A surface-emission laser diode (100) of a vertical-cavity surface-emission laser structure includes a substrate (101) and a mesa structure formed on the substrate, the mesa structure including therein a current confinement structure, wherein the current confinement structure includes a conductive current confinement region (108A) and an insulation region surrounding the conductive current confinement region, the insulation region being an oxide of a semiconductor material forming the conductive current confinement region, and wherein a center of the current confinement region is offset from a center of the mesa structure in a plane perpendicular to a laser oscillation direction.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1 A surface-emission laser diode of a vertical-cavity surface-emission laser structure, comprising: a substrate; and a mesa structure formed over said substrate, said mesa structure including therein a current confinement structure, said current confinement structure including a conductive current confinement region and an insulation region surrounding said conductive current confinement region, said insulation region being an oxide of a semiconductor material forming said conductive current confinement region, wherein a center of said current confinement region is offset from a center of said mesa structure in a plane perpendicular to a laser oscillation direction.
+</P>
+<P>
+2. The surface-emission laser diode as claimed in claim 1, wherein said substrate is an inclined substrate. - -
+</P>
+<P>
+3. The surface-emission laser diode as claimed in claim 2, wherein said semiconductor material constituting said conductive current confinement region shows anisotropy of oxidation rate.
+</P>
+<P>
+4. The surface-emission laser diode as claimed in claim 2, wherein said inclined substrate has a mirror polished surface, a normal direction of said mirror polished surface being inclined from a [100] crystal orientation toward a direction of any of a [111] crystal orientation, a [1-1-1] crystal orientation, a [11-1] crystal orientation, and a fill] crystal orientation.
+</P>
+<P>
+5. The surface-emission laser diode as claimed in claim 4, wherein said normal direction of said mirror polished surface is inclined from said [100] crystal orientation toward a direction of any .- of said [111] crystal orientation and said [1-1-1] crystal orientation, and wherein said center of said conductive current confinement region is offset from said center of said mesa structure toward a direction of any of said [011] crystal orientation and said [0- 1-1] crystal orientation. - -
+</P>
+<P>
+6. The surface-emission laser diode as claimed in claim 4, wherein said normal direction of said mirror polished surface is inclined from said [100] crystal orientation toward a direction of any of said [11-1] crystal orientation and said [1-11] crystal orientation, and wherein said center of said conductive current confinement region is offset from said center of said mesa structure toward a direction of any of said [01-1] crystal orientation and said [0-11] crystal orientation.
+</P>
+<P>
+7. The surface-emission layer diode as claimed in any of claims 1-6, wherein there is formed an upper electrode having an aperture on said mesa structure, and wherein a center of said aperture is coincident to said center of said conductive current confinement region with regard to said laser oscillation direction.
+</P>
+<P>
+8. A surface-emission laser diode array, comprising a plurality of surface-emission laser diodes formed on a substrate, each of said surface- emission laser diodes comprising: a mesa structure formed on said substrate, said mesa structure including therein a current confinement structure, said current confinement structure including a conductive current confinement region and an insulation region surrounding said conductive current confinement region, said insulation region being an oxide of a semiconductor material forming said conductive current confinement region, wherein a center of said current confinement region is offset from a center of said mesa structure in a plane perpendicular to a laser oscillation direction.
+</P>
+<P>
+9. The surface-emission laser diode array as claimed in claim 8, wherein an offset amount and an offset direction of said center of said conductive confinement region with regard to said center of said mesa structure are common throughout said plurality of surface-emission laser diodes.
+</P>
+<P>
+10. An optical scanning apparatus scanning a surface with an optical beam, comprising: an optical source unit configured to produce said optical beam; a deflection unit configured to deflect - -
+</P>
+<P>
+said optical beam from said optical source unit; and a scanning optical system configured to cause said optical beam deflected by said deflection unit to scan over said surface, said optical source unit including a surface-emission laser diode comprising: a substrate; and a mesa structure formed on said substrate, said mesa structure including therein a current confinement structure, said current confinement structure including a conductive current confinement region and an insulation region surrounding said conductive current confinement region, said insulation region being an oxide of a semiconductor material forming said conductive current confinement region, wherein a center of said current confinement region is offset from a center of said mesa structure in a plane perpendicular to a laser oscillation direction.
+</P>
+<P>
+11. An optical scanning apparatus scanning a surface with an optical beam, comprising: an optical source unit configured to produce said optical beam; _ -
+</P>
+<P>
+a deflection unit configured to deflect said optical beam from said optical source unit; and a scanning optical system configured to cause said optical beam deflected by said deflection unit to scan over said surface, said optical source unit including a surface-emission laser diode array including therein a plurality of surface-emission laser diodes, each of said surface-emission laser diodes comprising: a substrate; and a mesa structure formed on said substrate, said mesa structure including therein a current confinement structure, said current confinement structure including a conductive current confinement region and an insulation region surrounding said conductive current confinement region, said insulation region being an oxide of a semiconductor material forming said conductive current confinement region, wherein a center of said current confinement region is offset from a center of said mesa structure in a plane perpendicular to a laser oscillation direction.
+</P>
+<P>
+12. An image forming apparatus, comprising: - -
+</P>
+<P>
+at least one image carrier body; at least one optical scanning apparatus configured to scan a surface of said at least one image carrier body with an optical beam containing image information; and image transfer unit configured to transfer an image formed on at least one image carrier body to an object of image transfer, said optical scanning apparatus comprising: an optical source unit configured to produce said optical beam; a deflection unit configured to deflect said optical beam from said optical source unit; and a scanning optical system configured to cause said optical beam deflected by said deflection unit to scan over said surface of said at least one image carrier body, said optical source unit including a surface-emission laser diode comprising: a substrate; and a mesa structure formed on said substrate, said mesa structure including therein a current confinement structure, said current confinement structure including a conductive current confinement region and - -
+</P>
+<P>
+an insulation region surrounding said conductive current confinement region, said insulation region being an oxide of a semiconductor material forming said conductive current confinement region, wherein a center of said current confinement region is offset from a center of said mesa structure in a plane perpendicular to a laser oscillation direction.
+</P>
+<P>
+13. An image forming apparatus, comprising: at least one image carrier body; at least one optical scanning apparatus configured to scan a surface of said at least one image carrier body with a plurality of optical beams containing image information; and image transfer unit configured to transfer an image formed on at least one image carrier body to an object of image transfer, said optical scanning apparatus comprising: an optical source unit configured to produce said plurality of optical beams; a deflection unit configured to deflect said plurality of optical beams from said optical source unit; and a scanning optical system configured to - -
+</P>
+<P>
+cause said plurality of optical beams deflected by said deflection unit to scan over said surface of said at least one image carrier body, said optical source unit including a surface-emission laser diode array including a plurality of said surface-emission laser diodes, each of said surface-emission laser diodes comprising: a substrate; and a mesa structure formed on said substrate,- said mesa structure including therein a current confinement structure, said current confinement structure including a conductive current confinement region and an insulation region surrounding said conductive current confinement region, said insulation region being an oxide of a semiconductor material forming said conductive current confinement region, wherein a center of said current confinement region is offset from a center of said mesa structure in a plane perpendicular to a laser oscillation direction.
+</P>
+<P>
+14. An image forming apparatus forming an image on an object with an optical beam produced by a surface-emission laser diode, said surface-emission laser diode comprising: a substrate; and a mesa structure formed on said substrate, said mesa structure including therein a current confinement structure, said current confinement structure including a conductive current confinement region and an insulation region surrounding said conductive current confinement region, said insulation region being an oxide of a semiconductor material forming said conductive current confinement region, wherein a center of said current confinement region is offset from a center of said mesa structure in a plane perpendicular to a laser oscillation direction.
+</P>
+<P>
+15. An image forming apparatus forming an image on an object with a plurality of optical beams produced by a surface-emission laser diode array, said surface-emission laser diode array including a plurality of surface-emission laser diodes each comprising: a substrate; and a mesa structure formed on said substrate, said mesa structure including therein a current confinement structure, said current confinement structure including a conductive current confinement region and an insulation region surrounding said conductive current confinement region, said insulation region being an oxide of a semiconductor material forming said conductive current confinement region, wherein a center of said current confinement region is offset from a center of said mesa structure in a plane perpendicular to a laser oscillation direction.
+</P>
+</Claims>
+<Also_published_as>
+WO2008026460A1;US2009262770A1;US7957444B2;TW200816585A;KR20080061374A;KR100987091B1;JP2008085301A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LIQUID CRYSTAL DEVICES
+</Title>
+<PublicationNumber>
+EP2016459A1
+</PublicationNumber>
+<Inventor>
+<Name>
+CROSSLAND WILLIAM ALDEN [GB]
+</Name>
+<Name>
+COLLINGS NEIL [GB]
+</Name>
+<Name>
+ROBERTSON PAUL ANDREW [GB]
+</Name>
+<Name>
+CROSSLAND, WILLIAM ALDEN
+</Name>
+<Name>
+COLLINGS, NEIL
+</Name>
+<Name>
+ROBERTSON, PAUL ANDREW
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CAMBRIDGE ENTPR LTD [GB]
+</Name>
+<Name>
+CAMBRIDGE ENTERPRISE LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2016459
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070732527
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-24
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007GB01488
+</PriorityNumber>
+<PriorityDate>
+2007-04-24
+</PriorityDate>
+<PriorityNumber>
+GB20060008055
+</PriorityNumber>
+<PriorityDate>
+2006-04-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02F1/137
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02F1/137D
+</Class>
+<Class>
+H01P1/19
+</Class>
+</NCL>
+<Abstract>
+An electrical component comprising a substrate (30) carrying a LC cell (10) wherein the LC cell (10) comprises liquid crystal material (20) containing anisotropic particles (25), at least one conductive member (36) disposed on the substrate (30) and at least one conductive member (34) disposed over the LC cell (10), and means for affecting the alignment of the anisotropic particles (25) whereby the permittivity between the conductive members (34, 36) is varied.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. An electrical component comprising a substrate carrying a LC cell wherein the LC cell comprises liquid crystal material containing anisotropic particles, at least one conductive member disposed on the substrate and at least one conductive member disposed over the LC cell, and means for affecting the alignment of the anisotropic particles whereby the permittivity between the conductive members is varied.
+</P>
+<P>
+2. A planar waveguide comprising a substrate carrying a LC cell wherein the LC cell comprises liquid crystal material containing anisotropic particles, at least one conductive member disposed on the substrate and at least one conductive member disposed over the LC cell, and means for affecting the alignment of the anisotropic particles whereby the permittivity between the conductive members is varied.
+</P>
+<P>
+3. An antenna comprising a substrate carrying a LC cell wherein the LC cell comprises liquid crystal material containing anisotropic particles, at least one conductive member disposed on the substrate and at least one conductive member disposed over the LC cell, and means for affecting the alignment of the anisotropic particles whereby the permittivity between the conductive members is varied.
+</P>
+<P>
+4. A beam shaper for free space propagation of terahertz frequency waves comprising a substrate carrying a LC cell wherein the LC cell comprises liquid crystal material containing anisotropic particles, at least one conductive member disposed on the substrate and at least one conductive member disposed over the LC cell, and means for affecting the alignment of the anisotropic particles whereby the permittivity between the conductive members is varied.
+</P>
+<P>
+5. An electrically tunable dielectric comprising a LC cell wherein the LC cell comprises liquid crystal material containing anisotropic particles, and control electrodes for affecting the alignment of the anisotropic particles.
+</P>
+<P>
+6. An electrical component according to claim 1, a planar waveguide according to claim 2, an antenna according to claim 3, or a beam shaper according to claim 4, wherein the means for affecting the alignment of the anisotropic particles comprises the conductive members.
+</P>
+<P>
+7. An electrical component according to claim 1, a planar waveguide according to claim 2, an antenna according to claim 3, a beam shaper according to claim 4, or an electrically tunable dielectric according to claim 5, wherein the LC cell comprises PDLC material.
+</P>
+<P>
+8. An electrical component according to claim 1, a planar waveguide according to claim 2, an antenna according to claim 3, a beam shaper according to claim 4, or an electrically tunable dielectric according to claim 5, wherein the anisotropic particles comprise CNT.
+</P>
+</Claims>
+<Also_published_as>
+WO2007122409A1;TW200801758A;KR20090057940A;JP2009534974A;CN101449203A;BRPI0710770A2
+</Also_published_as>
+</BiblioData>

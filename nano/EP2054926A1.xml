@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD OF MANUFACTURING A SEMICONDUCTOR DEVICE AND SEMICONDUCTOR DEVICE OBTAINED WITH SUCH A METHOD
+</Title>
+<PublicationNumber>
+EP2054926A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MADAKASIRA VIJAYARAGHAVAN [NL]
+</Name>
+<Name>
+TARLE-BORGSTROEM LARS M [NL]
+</Name>
+<Name>
+BAKKERS ERIK P A M [NL]
+</Name>
+<Name>
+VAN DEN EINDEN WILHELMUS T A J [NL]
+</Name>
+<Name>
+WUNNICKE OLAF [NL]
+</Name>
+<Name>
+MADAKASIRA, VIJAYARAGHAVAN
+</Name>
+<Name>
+TARLE-BORGSTROEM, LARS, M
+</Name>
+<Name>
+BAKKERS, ERIK, P., A., M
+</Name>
+<Name>
+VAN DEN EINDEN, WILHELMUS, T., A., J
+</Name>
+<Name>
+WUNNICKE, OLAF
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONINKL PHILIPS ELECTRONICS NV [NL]
+</Name>
+<Name>
+KONINKLIJKE PHILIPS ELECTRONICS N.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2054926
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070805393
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IB53211
+</PriorityNumber>
+<PriorityDate>
+2007-08-13
+</PriorityDate>
+<PriorityNumber>
+EP20060118967
+</PriorityNumber>
+<PriorityDate>
+2006-08-16
+</PriorityDate>
+<PriorityNumber>
+EP20070805393
+</PriorityNumber>
+<PriorityDate>
+2007-08-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/331
+</Class>
+<Class>
+H01L21/336
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+<Class>
+H01L29/66M6T2V2
+</Class>
+<Class>
+H01L29/66M6T6E3
+</Class>
+<Class>
+H01L29/66M6T6S2
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a method of manufacturing a semiconductor device (10) with a semiconductor body (1) which is provided with at least one semiconductor element, wherein on the surface of the semiconductor body (1) a mesa- shaped semiconductor region (2) is formed, a masking layer (3) is deposited over the mesa-shaped semiconductor region (2), a part (3A) of the masking layer (3) is removed that borders a side surface of the mesa-shaped semiconductor region (2) near its top and an electrically conducting connection region (4) is formed on the resulting structure forming a contact for the mesa-shaped semiconductor region (2). According to the invention after removal of said part (3A) of the masking layer (3) but before formation of the electrically conducting connection region (4) the mesa- shaped semiconductor region (2) is widened by an additional semiconductor region (5) at the side surface of the mesa- shaped semiconductor region (2) freed by removal of said part (3A) of the masking layer (3). In this way device (10) having a very low contact resistance are obtainable in a simple manner. Preferably the mesa-shaped semiconductor region (2) is formed a nano-wire by a further epitaxial growth process like VLS. The additional region (5) may be obtained e.g. by MOVPE.
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. Method of manufacturing a semiconductor device (10) with a semiconductor body (1) which is provided with at least one semiconductor element, wherein on the surface of the semiconductor body (1) a mesa-shaped semiconductor region (2) is formed, a masking layer (3) is deposited over the mesa-shaped semiconductor region (2), a part (3A) of the masking layer (3) is removed that borders a side surface of the mesa- shaped semiconductor region (2) near its top and an electrically conducting connection region (4) is formed on the resulting structure forming a contact for the mesa-shaped semiconductor region (2), characterized in that after removal of said part (3A) of the masking layer (3) but before formation of the electrically conducting connection region (4) the mesa- shaped semiconductor region (2) is widened by an additional semiconductor region (5) at the side surface of the mesa- shaped semiconductor region (2) freed by removal of said part (3A) of the masking layer (3).
+</P>
+<P>
+2. Method according to claim 1, characterized in that the mesa- shaped semiconductor region (2) is formed by a further epitaxial growth process.
+</P>
+<P>
+3. Method according to claim 2, characterized in that the epitaxial growth process is performed at a higher temperature than the further epitaxial growth process.
+</P>
+<P>
+4. Method according to claim 2 or 3, characterized in that the epitaxial growth process and the further epitaxial growth process are performed in the same growth apparatus.
+</P>
+<P>
+5. Method according to claim 1, 2, 3 or 4, characterized in that the additional semiconductor region (5) is highly doped, preferably higher than the mesa-shaped semiconductor region (2).
+</P>
+<P>
+6 Method according to any of the preceding claims, characterized in that for the additional semiconductor region (5) and the mesa-shaped semiconductor region (2) different semiconductor materials are selected.
+</P>
+<P>
+7. Method according to claim 6, characterized in that for the mesa-shaped semiconductor region (2) a high-bandgap III-V semiconductor material is chosen and for the additional semiconductor region (5) a low-bandgap III-V semiconductor material is chosen.
+</P>
+<P>
+8. Method according to any of the preceding claims, characterized in that the electrically conducting connection region (4) is formed contacting the additional semiconductor region (5).
+</P>
+<P>
+9. Method according to any of the preceding claims, characterized in that for the masking layer (3) an insulating layer is chosen.
+</P>
+<P>
+10. Method according to any of the preceding claims, characterized in that the masking layer (3) is provided with a thickness that is much smaller than the height of the mesa-shaped semiconductor region (2) and that on top of the masking layer (3) a photo resist layer (6) is deposited having a thickness that is smaller than but close to the height of the mesa-shaped semiconductor region (2), whereinafter a part (3A) of the masking layer (3) not covered by the photo resist layer (6) is removed and subsequently the photo resist layer (6) is removed.
+</P>
+<P>
+11. Method according to any of the preceding claims, characterized in that after formation of the additional semiconductor region (5) a thick isolation region (7) is deposited and the structure is planarized at least at the level below the additional semiconductor region (5).
+</P>
+<P>
+12. Method according to any of the preceding claims, characterized in that for the mesa-shaped semiconductor region (2) a nano-wire is chosen.
+</P>
+<P>
+13. Method according to any of the preceding claims, characterized in that as a starting point for the semiconductor body (1) a silicon substrate (11) is selected.
+</P>
+<P>
+14. Method according to any of the preceding claims, characterized in that for the semiconductor element a transistor is chosen.
+</P>
+<P>
+15. Method according to claim 14, characterized in that the mesa- shaped semiconductor region (2) forms the emitter or collector of a bipolar transistor or forms a contact to a source or drain of a field effect transistor.
+</P>
+<P>
+16. Semiconductor device (10) obtained by a method according to any one of the preceding claims.
+</P>
+</Claims>
+<Also_published_as>
+WO2008020394A1;US2010230821A1;TW200816369A;KR20090046830A;JP2010500773A;CN101501826A
+</Also_published_as>
+</BiblioData>

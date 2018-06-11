@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+QUANTUM COMPUTING DEVICE AND METHOD INCLUDING QUBIT ARRAYS OF ENTANGLED STATES USING NEGATIVE REFRACTIVE INDEX LENSES
+</Title>
+<PublicationNumber>
+EP2140408A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BARKER DELMAR L [US]
+</Name>
+<Name>
+OWENS WILLIAM R [US]
+</Name>
+<Name>
+ROSENWALD ROSS D [US]
+</Name>
+<Name>
+BARKER, DELMAR, L
+</Name>
+<Name>
+OWENS, WILLIAM, R
+</Name>
+<Name>
+ROSENWALD, ROSS, D
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+RAYTHEON CO [US]
+</Name>
+<Name>
+RAYTHEON COMPANY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2140408
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080744366
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US58218
+</PriorityNumber>
+<PriorityDate>
+2008-03-26
+</PriorityDate>
+<PriorityNumber>
+US20070693405
+</PriorityNumber>
+<PriorityDate>
+2007-03-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G06N99/00
+</Class>
+<Class>
+G06N1/00
+</Class>
+</IPC>
+<IPC7>
+<Class>
+G06N1/00
+</Class>
+</IPC7>
+<ICM>
+<Class>
+G06N99/00
+</Class>
+</ICM>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02B1/00M3
+</Class>
+<Class>
+G06N99/00K
+</Class>
+</NCL>
+<Abstract>
+A quantum computing device and method employs qubit arrays of entangled states using negative refractive index lenses. A qubit includes a pair of neutral atoms separated by or disposed on opposite sides of a negative refractive index lens. The neutral atoms and negative refractive index lens are selectively energized and/or activated to cause entanglement of states of the atoms. The quantum computing device enjoys a novel architecture that is workable and scalable in terms of size and wavelength.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A qubit for use in a quantum computing system, the qubit comprising:
+</P>
+<P>
+a pair of atoms; and
+</P>
+<P>
+a negative index lens disposed between the pair of atoms.
+</P>
+<P>
+2. The qubit of claim 1, wherein the negative index lens is arranged to entangle states of the pair of atoms.
+</P>
+<P>
+3. The qubit of claim 1, wherein the negative index lens is arranged to electromagnetically link the pair of atoms.
+</P>
+<P>
+4. The qubit of claim 1, wherein the negative index lens is arranged between the pair of atoms such that the optical path length between the pair of atoms is zero.
+</P>
+<P>
+5. The qubit of claim 1, wherein the pair of atoms is comprised of Cesium atoms.
+</P>
+<P>
+6. The qubit of claim 1, wherein the pair of atoms is comprised of neutral atoms.
+</P>
+<P>
+7. The qubit of claim 1, wherein the pair of atoms is comprised of alkaline atoms.
+</P>
+<P>
+8. The qubit of claim 1, wherein the negative index lens is comprised of a material having an index of refraction of n=-1.
+</P>
+<P>
+9. The qubit of claim 1, wherein the negative index lens is comprised of a metamaterial.
+</P>
+<P>
+10. The qubit of claim 1, further comprising:
+</P>
+<P>
+a first negative index mirror disposed adjacent to a first atom of the pair of atoms; and
+</P>
+<P>
+a second negative index mirror disposed adjacent to a second atom of the pair of atoms.
+</P>
+<P>
+11. The qubit of claim 10, wherein the first and second negative index mirrors are comprised of materials having an index of refraction of n=-1.
+</P>
+<P>
+12. The qubit of claim 1, wherein the negative index lens facilitates entanglement of states of the atoms.
+</P>
+<P>
+13. The qubit of claim 1, further comprising:
+</P>
+<P>
+a second negative index lens disposed adjacent to one of the pair of atoms; and
+</P>
+<P>
+a third atom disposed adjacent to the second negative index lens.
+</P>
+<P>
+14. A qubit array comprising a plurality of qubits according to claim 1.
+</P>
+<P>
+15. The qubit array of claim 14, wherein the plurality of qubits are arranged in a two-dimensional architecture.
+</P>
+<P>
+16. The qubit array of claim 14, wherein the plurality of qubits are arranged in a three-dimensional architecture.
+</P>
+<P>
+17. A quantum computing system comprising:
+</P>
+<P>
+a plurality of qubits according to claim 1;
+</P>
+<P>
+control circuitry operatively connected to the negative index lenses, the control circuitry being operable to switch the negative index lenses between a negative index state and a positive index state; and
+</P>
+<P>
+atomic state reading circuitry configured to determine atomic spin states of the atoms.
+</P>
+<P>
+18. The quantum computing system of claim 17, further comprising:
+</P>
+<P>
+an excitation source configured to excite the atoms.
+</P>
+<P>
+19. The quantum computing system of claim 18, wherein the excitation source is configured to provide 9.2 GHz signals to excite cesium atoms.
+</P>
+<P>
+20. A quantum computing method comprising:
+</P>
+<P>
+disposing pairs of neutral atoms on opposite sides of negative index lenses;
+</P>
+<P>
+selectively exciting the atoms;
+</P>
+<P>
+selectively energizing and de-energizing the negative index lenses, the selectively energizing and de-energizing facilitating entanglement of states of the atoms; and
+</P>
+<P>
+interrogating the atoms to determine the state of at least one of the neutral atoms.
+</P>
+<P>
+21. The quantum computing method of claim 20, wherein interrogating includes determining spin of the atoms, the spin being indicative of state 0, state 1 or a superposition of state 0 and state 1.
+</P>
+<P>
+22. The method of claim 20, wherein the neutral atoms are cesium atoms, and including exciting the atoms with signals having a frequency of about 9.2 GHz.
+</P>
+<P>
+23. A quantum computing device comprising:
+</P>
+<P>
+a plurality of neutral atoms, each pair of neutral atoms being separated by a negative index lens, wherein each pair of neutral atoms and negative index lens are arranged to define a quantum bit; and
+</P>
+<P>
+control circuitry operatively coupled to one or more excitation sources, wherein the control circuitry and one or more excitation sources cooperate to entangle the quantum bits.
+</P>
+<P>
+24. The quantum computing device of claim 23, wherein the quantum bits are arranged in a two-dimensional architecture.
+</P>
+<P>
+25. The quantum computing device of claim 23 wherein the quantum bits are arranged in a three-dimensional architecture.
+</P>
+<P>
+26. A quantum computing device comprising:
+</P>
+<P>
+an array of elements, each element of the array comprising:
+</P>
+<P>
+a first neutral atom;
+</P>
+<P>
+a second neutral atom; and
+</P>
+<P>
+a negative index lens disposed between the first and second neutral atoms;
+</P>
+<P>
+wherein the first and second neutral atoms are arranged to define first and second basis states of a quantum bit; and
+</P>
+<P>
+wherein the elements are arranged so as to cause entanglement of the quantum bits of the elements of the array.
+</P>
+</Claims>
+<Also_published_as>
+US2008237579A1;US7985965B2;WO2008121641A1;JP2010522939A
+</Also_published_as>
+</BiblioData>

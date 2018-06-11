@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Semiconductor optical modulator of the npin type
+</Title>
+<PublicationNumber>
+EP2081075A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ISHIBASHI TADAO [JP]
+</Name>
+<Name>
+KIKUCHI NOBUHIRO [JP]
+</Name>
+<Name>
+TSUZUKI KEN [JP]
+</Name>
+<Name>
+ISHIBASHI, TADAO
+</Name>
+<Name>
+KIKUCHI, NOBUHIRO
+</Name>
+<Name>
+TSUZUKI, KEN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NTT ELECTRONICS CORP [JP]
+</Name>
+<Name>
+NIPPON TELEGRAPH &amp; TELEPHONE [JP]
+</Name>
+<Name>
+NTT ELECTRONICS CORPORATION
+</Name>
+<Name>
+NIPPON TELEGRAPH &amp; TELEPHONE CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2081075
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070830486
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-10-24
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP70752
+</PriorityNumber>
+<PriorityDate>
+2007-10-24
+</PriorityDate>
+<PriorityNumber>
+JP20060288839
+</PriorityNumber>
+<PriorityDate>
+2006-10-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02F1/015
+</Class>
+<Class>
+G02F1/025
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G02F1/017
+</Class>
+<Class>
+G02F1/025
+</Class>
+</NCL>
+<Abstract>
+The present invention can provide an npin-type optical modulator that has a high withstand voltage and is easily fabricated. A semiconductor optical amplifier (10) according to an embodiment of the present invention is an npin-type semiconductor optical modulator in which layers are sequentially stacked, with a cathode layer (12-1) arranged on the substrate side, including at least a first n-type cladding layer (13-1), a p-type cladding layer (14), a core layer (17) and a second n-type cladding layer (13-2). In this semiconductor optical modulator, the p-type cladding layer (14) is electrically connected to an electrode (18-1) of the cathode layer. Accordingly, the accumulation of holes in the p-type cladding layer associated with light absorption in the npin-type optical modulator can be absorbed in the electrode on the negative side.;  This npin-type semiconductor optical modulator can be comparatively easily fabricated using conventional semiconductor manufacturing techniques by adopting a mesa type waveguide structure.
+</Abstract>
+<Also_published_as>
+EP2081075A4;EP2081075B1;US2010296766A1;US8031984B2;KR20090055627A;KR101045758B1;WO2008050809A1;JP2008107468A;CN101529313A;CN101529313B;AT504027T
+</Also_published_as>
+</BiblioData>

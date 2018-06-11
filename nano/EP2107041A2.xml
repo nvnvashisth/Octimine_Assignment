@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Mold having nanometric features, method for realising such a mold and corresponding use of it in a method for realising an array of carbon nanotubes
+</Title>
+<PublicationNumber>
+EP2107041A2
+</PublicationNumber>
+<Inventor>
+<Name>
+VECCHIONE RAFFAELE [IT]
+</Name>
+<Name>
+OCCHIPINTI LUIGI [IT]
+</Name>
+<Name>
+VECCHIONE, RAFFAELE
+</Name>
+<Name>
+OCCHIPINTI, LUIGI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ST MICROELECTRONICS SRL [IT]
+</Name>
+<Name>
+STMICROELECTRONICS SRL
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2107041
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090156999
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-03-31
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+IT2008MI00562
+</PriorityNumber>
+<PriorityDate>
+2008-04-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+C30B29/60
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B81C99/00R6
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+H01L51/00A2F
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a mold for obtaining, on a substrate, an array of carbon nanotubes with a high control of their positioning wherein such mold comprises a first layer of a first preset material having a surface having in relief at least one first plurality of projections having a free end portion with a substantially pointed profile, a method for obtaining the above-mentioned mold and a method for obtaining the above-mentioned array by using such mold.
+</Abstract>
+<Claims>
+<P>
+1. Method for realising a mold for obtaining an array of carbon nanotubes comprising the steps of:
+</P>
+<P>
+a) providing a substrate of a preset material having an upper surface;
+</P>
+<P>
+b) thermally growing, on said upper surface, a first layer of thermal oxide;
+</P>
+<P>
+c) depositing, on said first layer of thermal oxide, a layer of photosensitive material;
+</P>
+<P>
+d) realising, on said layer of photosensitive material, a preset pattern through lithography patterning;
+</P>
+<P>
+e) developing said layer of photosensitive material and etching said first thermal oxide layer obtaining a thermal oxide mask with geometry corresponding to said preset pattern;
+</P>
+<P>
+f) selectively etching said upper surface of said substrate obtaining on it beneath said mask a first plurality of projections having substantially sloping side walls;
+</P>
+<P>
+g) filing said first plurality of projections having substantially sloping side walls by means of plasma etching;
+</P>
+<P>
+h) thermally growing, on said upper surface of said substrate, a second oxide layer thus further filing said first plurality of projections having substantially sloping side walls;
+</P>
+<P>
+i) selectively removing said second thermal oxide layer and said mask thus freeing said upper surface of said substrate obtaining a first plurality of projections thereon having an end with a substantially pointed profile.
+</P>
+<P>
+2. Method according to claim 1, wherein said substrate is a SOI wafer comprising an upper silicon layer and a lower oxide layer, wherein said upper surface is an upper surface of said upper silicon layer and comprising the further steps of:
+</P>
+<P>
+l) selectively etching said lower oxide layer with its removal;
+</P>
+<P>
+m) coupling, by means of a photosensitive glue layer, said upper silicon layer comprising said first plurality of projections having an end with a substantially pointed profile to a layer of a preset polymer;
+</P>
+<P>
+3. Method according to claim 2, further comprising the steps of:
+</P>
+<P>
+q) making said upper silicon layer discontinuous by realizing a plurality of pads each comprising a respective projection of said first plurality of projections, said pads being separated by a distance comprised between 500 nm and 1 mm, preferably comprised between 1 micron and 100 microns.
+</P>
+<P>
+o) electrically connecting said pads to each other through a metal mask having a geometry corresponding to said preset pattern.
+</P>
+<P>
+4. Method according to claim 1, wherein said substrate is a SOI wafer comprising an upper silicon layer and a lower oxide layer, wherein said upper surface is an upper surface of said upper silicon layer, comprising the further steps of:
+</P>
+<P>
+l) selectively etching said lower oxide layer with its removal;
+</P>
+<P>
+p) coupling, by means of a photosensitive glue layer, said upper silicon layer comprising said first plurality of projections having an end with a substantially pointed profile to a metallized surface of a layer of a preset polymer;
+</P>
+<P>
+q) making said upper silicon layer discontinuous by realizing a plurality of pads each comprising a respective projection of said first plurality of projections, said pads being separated by a distance comprised between 500 nm and 1 mm, preferably comprised between 1 micron and 100 microns.
+</P>
+<P>
+5. Method according to claim 2, 3 or 4, wherein said layer of a preset polymer is supported by a third layer, preferably a silicon layer.
+</P>
+<P>
+6. Method according to any one of claims 2-5, wherein said preset pattern comprises two different types of designs and through said steps f) - h) a second plurality of projections is realised being taller than said projections of said first plurality of projections.
+</P>
+<P>
+7. Method according to claim 6, wherein at least some projections of said first plurality of projections are surrounded by respective projections of said second plurality of projections.
+</P>
+<P>
+8. Method according to any one of claims 6-7, wherein said projections of said first plurality of projections are electrically conductive and said projections of said second plurality of projections are electrically insulating.
+</P>
+<P>
+9. Mold for obtaining an array of carbon nanotubes characterised in that it comprises a first layer of a first preset material having a surface having in relief at least one first plurality of projections having a free end portion with a substantially pointed profile, said end having a width or a curvature radius comprised between 5 nm and 100 nm.
+</P>
+<P>
+10. Mold according to claim 9, further comprising a second layer of a second preset material coupled with said first layer on a surface opposite to said surface presenting said projections.
+</P>
+<P>
+11. Mold according to claim 10, wherein said first layer is a discontinuous layer comprising a plurality of pads, each pad comprising a respective projection of said first plurality of projections.
+</P>
+<P>
+12. Mold according to any one of claims 9-11, wherein said projections of said first plurality of projections are electrically connected.
+</P>
+<P>
+13. Mould according to any one of claims 9-12, further comprising a second plurality of projections having a free end portion, wherein said projections of said second plurality are taller than said projections of said first plurality.
+</P>
+<P>
+14. Mold according to claim 13, wherein at least one projection of said first plurality is substantially surrounded by a projection of said second plurality.
+</P>
+<P>
+15. Mold according to any one of claims 13-14, wherein said projections of said first plurality of projections are electrically conductive and said projections of said second plurality of projections are electrically insulating.
+</P>
+<P>
+16. Method for realising an array of horizontally arranged carbon nanotubes comprising the steps of:
+</P>
+<P>
+- providing a mold comprising a first layer of a first preset material having a surface having in relief at least one plurality of projections arranged according to a preset pattern, said projections having a free end portion with a substantially pointed profile, said end having a length comprised between 10 nm and 10 microns and a width comprised between 5 nm and 100 nm.
+</P>
+<P>
+- providing a dispersion of functionalized carbon nanotubes having dimensions comparable to said projections;
+</P>
+<P>
+- wetting said projections of said first plurality of projections in said dispersion in such a manner that to said projections adhere respective carbon nanotubes;
+</P>
+<P>
+- depositing, in an assisted manner through said mold, said carbon nanotubes on said substrate obtaining said horizontally arranged carbon nanotubes.
+</P>
+<P>
+17. Method according to claim 16 wherein said carbon nanotubes are deposited by means of contact molding.
+</P>
+<P>
+18. Method according to claim 16 or 17, wherein said substrate has an upper surface made of an oxidisable material.
+</P>
+<P>
+19. Method according to claim 18, wherein said carbon nanotubes are deposited by means of local oxidation, said method comprising the further step of growing on said substrate and on said nanotubes an oxide layer thus mechanically fixing said nanotubes on said substrate.
+</P>
+<P>
+20. Method according to claim 19, wherein said projections of said first plurality of projections are conductive and said oxide layer is obtained by applying a voltage impulse between said projections and said substrate in a highly wet environment
+</P>
+<P>
+21. Method according to any one of claims 16-20 further comprising, subsequently to the step of wetting said projections of said first plurality of projections in said dispersion, a step of removing possible carbon nanotubes not entirely adherent to the respective projections by subjecting said mold to an electric field and repeating the step of wetting said projections in said dispersion.
+</P>
+<P>
+22. Method according to claim 21, wherein said step of removing and repeating said step of wetting said projections are repeated until each one of said projections is coupled with a respective nanotube substantially entirely aligned therewith.
+</P>
+<P>
+23. Method according to any one of claims 16-22, wherein said nanotubes are functionalized using surfactants, DNA molecules or by means of covalent functionalizations.
+</P>
+<P>
+24. Method for realising an array of vertically arranged carbon nanotubes comprising the steps of:
+</P>
+<P>
+- providing a mold comprising a first layer of a first preset material having a surface having in relief at least one first plurality of projections arranged according to a preset pattern said projections being conductive and having a free end portion with a substantially pointed profile, said end having a curvature radius comprised between 5 nm and 100 nm;
+</P>
+<P>
+- providing a substrate having an upper surface oxidisable or partially oxidised with a native oxide film;
+</P>
+<P>
+- depositing, on said substrate, a uniform layer of catalytic nanoparticles essentially having the same radius substantially entirely covering at least a preset portion of said surface of said substrate;
+</P>
+<P>
+- arranging, in a highly wet environment, said mold in a preset spaced relation with said surface portion covered by said layer of catalytic nanoparticles, up to the formation of a water meniscus between each projection and an underlying respective nanoparticle;
+</P>
+<P>
+- applying a voltage impulse between said projections and said surface portion generating at each meniscus an oxide layer on each respective nanoparticle thus fixing it on said substrate;
+</P>
+<P>
+- selectively removing the portion of nanoparticles not fixed on said surface portion of said substrate, obtaining a catalytic nanoparticle pattern corresponding to the pattern of said mold;
+</P>
+<P>
+- subjecting said nanopaticles fixed on said substrate to a controlled etching thus partially removing from each nanoparticle said oxide layer with relative partial exposure of each particle;
+</P>
+<P>
+- growing carbon nanotubes from said catalytic nanoparticles of said nanoparticles pattern, through the CVD technique, obtaining said array of vertically arranged carbon nanotubes.
+</P>
+<P>
+25. Method according to claim 24, wherein said steps of forming water meniscus and oxidation of the respective nanoparticles are repeated for a preset n number of times, for each of said n times said preset spaced relation being realised with different relative positions between said mold and said surface portion covered by nanoparticles.
+</P>
+<P>
+26. Method according to claim 24 or 25, wherein said substrate is functionalized in such a manner that chemical species having an -NH2 termination are bonded to said at least one surface portion.
+</P>
+<P>
+27. Method according to any one of claims 24-26, wherein said upper surface of the substrate is functionalized, the method further comprising, before the step of depositing said nanoparticles on said substrate, the further steps of:
+</P>
+<P>
+- locally oxidising said portion of said surface realising a plurality of oxide spots according to the pattern of said mold; - selectively etching and removing said oxide spots obtaining a relative pattern of cavities cut in said surface portion of said substrate; and
+</P>
+<P>
+before or after depositing said layer of catalytic nanoparticles, the step of
+</P>
+<P>
+- aligning said pattern of said mold to said pattern of said cavities.
+</P>
+<P>
+28. Method according to claim 27, wherein the local oxidation of said surface portion is obtained by applying a voltage impulse between said projections of said mold and said surface portion of said substrate in a highly wet environment.
+</P>
+<P>
+29. Method according to any one of claims 24 to 28, wherein the deposition of said nanoparticles is performed starting from a dispersion of said nanoparticles in a preset solvent.
+</P>
+<P>
+30. Method according to any one of claims 24-29, wherein said catalytic nanoparticles are covered by a passivating layer.
+</P>
+<P>
+31. Mold for obtaining an array of vertically arranged carbon nanotubes characterised in that it comprises a first polymer layer having a surface having at least one first projection with a preset geometry, said at least one first projection being conductive and having a side wall substantially perpendicular to such surface having a plurality of corners.
+</P>
+<P>
+32. Mold according to claim 31, wherein said surface of said first polymer layer is metallized at least at said first projection.
+</P>
+<P>
+33. Mold according to claim 31 or 32, further comprising a plurality of second insulating projections taller than said at least one first projection.
+</P>
+<P>
+34. Mold according to any one of claims 31-33, further comprising a second layer coupled with said first polymer layer on one of its surfaces opposite the surface having said at least one first projection.
+</P>
+</Claims>
+<Also_published_as>
+EP2107041A3;US2009289029A1;ITMI20080562A1
+</Also_published_as>
+</BiblioData>

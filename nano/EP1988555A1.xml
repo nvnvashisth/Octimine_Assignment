@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Nanomagnet array and method of forming the same
+</Title>
+<PublicationNumber>
+EP1988555A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TEICHERT CHRISTIAN [AT]
+</Name>
+<Name>
+HOFER CHRISTIAN [AT]
+</Name>
+<Name>
+DE MIGUEL JUAN JOSE [ES]
+</Name>
+<Name>
+NINO MIGUEL ANGEL [IT]
+</Name>
+<Name>
+MIKUSZEIT NIKOLAI [DE]
+</Name>
+<Name>
+JIMENEZ ERIKA [ES]
+</Name>
+<Name>
+CAMARERO JULIO [ES]
+</Name>
+<Name>
+MIRANDA RODOLFO [ES]
+</Name>
+<Name>
+ARVANITIS DIMITRI [SE]
+</Name>
+<Name>
+GRIDNEVA LIDIA [SE]
+</Name>
+<Name>
+PERSSON ANDREAS [SE]
+</Name>
+<Name>
+BOBEK THOMAS [DE]
+</Name>
+<Name>
+KURZ HEINRICH [DE]
+</Name>
+<Name>
+TEICHERT, CHRISTIAN
+</Name>
+<Name>
+HOFER, CHRISTIAN
+</Name>
+<Name>
+DE MIGUEL, JUAN JOSE
+</Name>
+<Name>
+NINO, MIGUEL ANGEL
+</Name>
+<Name>
+MIKUSZEIT, NIKOLAI
+</Name>
+<Name>
+JIMENEZ, ERIKA
+</Name>
+<Name>
+CAMARERO, JULIO
+</Name>
+<Name>
+MIRANDA, RODOLFO
+</Name>
+<Name>
+ARVANITIS, DIMITRI
+</Name>
+<Name>
+GRIDNEVA, LIDIA
+</Name>
+<Name>
+PERSSON, ANDREAS
+</Name>
+<Name>
+BOBEK, THOMAS
+</Name>
+<Name>
+KURZ, HEINRICH
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MONTANUNIVERSITAET LEOBEN [AT]
+</Name>
+<Name>
+RWTH AACHEN [DE]
+</Name>
+<Name>
+UNIV AACHEN [DE]
+</Name>
+<Name>
+AUTONOMOUS UNIVERSITY MADRID [ES]
+</Name>
+<Name>
+MONTANUNIVERSITAET LEOBEN
+</Name>
+<Name>
+RWTH AACHEN
+</Name>
+<Name>
+UNIVERSITY AACHEN
+</Name>
+<Name>
+AUTONOMOUS UNIVERSITY MADRID
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1988555
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070008974
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070008974
+</PriorityNumber>
+<PriorityDate>
+2007-05-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C11/15
+</Class>
+<Class>
+H01F1/00
+</Class>
+<Class>
+H01F10/32
+</Class>
+<Class>
+H01F41/30
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G11C11/15
+</Class>
+<Class>
+H01F1/00E12
+</Class>
+<Class>
+H01F10/32L2P
+</Class>
+<Class>
+H01F41/30
+</Class>
+<Class>
+H01L27/22M
+</Class>
+</NCL>
+<Abstract>
+A method for forming a nanomagnet array is provided, wherein the method comprises forming an array of nanoobjects on the substrate, forming a first layer on the nanoobjects in such a way that magnetic nanodots are formed on the nanoobjects, wherein the magnetic nanodots are substantially magnetically decoupled.
+</Abstract>
+<Claims>
+<P>
+1. A method for forming a nanomagnet array, the method comprising:
+</P>
+<P>
+forming an array of nanoobjects on a substrate; and
+</P>
+<P>
+forming a first layer on the nanoobjects in such a way that magnetic nanodots are formed on the nanoobjects, wherein the magnetic nanodots are magnetically decoupled.
+</P>
+<P>
+2. The method according to claim 1,
+</P>
+<P>
+wherein the forming of the array of nanoobjects is done by using a self-organizing process.
+</P>
+<P>
+3. The method according to claim 1 or 2, further comprising:
+</P>
+<P>
+forming an intermediate layer onto the substrate before depositing the first layer.
+</P>
+<P>
+4. The method according to claim 3,
+</P>
+<P>
+wherein the intermediate layer comprises a non-magnetic metal.
+</P>
+<P>
+5. The method according to claim 4,
+</P>
+<P>
+wherein the non-magnetic metal has a high polarizability and/or spin-orbit coupling.
+</P>
+<P>
+6. The method according to claim 4,
+</P>
+<P>
+wherein the non-magnetic metal of the intermediate layer has a different atomic distance than a material of the first layer.
+</P>
+<P>
+7. The method according to any one of the claims 1 to 6,
+</P>
+<P>
+wherein the first layer comprises a ferromagnetic material.
+</P>
+<P>
+8. The method according to any one of the claims 1 to 7,
+</P>
+<P>
+wherein the forming of the first layer is done by using a grazing incidence deposition process.
+</P>
+<P>
+9. The method according to claim 8,
+</P>
+<P>
+wherein the grazing incidence deposition is performed under an incidence angle in such a way that the first layer comprises different regions having different thicknesses.
+</P>
+<P>
+10. The method according to claim 9,
+</P>
+<P>
+wherein one of the different thicknesses is above a predetermined thickness threshold.
+</P>
+<P>
+11. The method according to any one of the claims 1 to 7, further comprising
+</P>
+<P>
+forming an additional layer,
+</P>
+<P>
+wherein the first layer comprises a ferromagnetic material, and
+</P>
+<P>
+wherein the additional layer comprises an antiferromagnetic material.
+</P>
+<P>
+12. A nanomagnet array comprising:
+</P>
+<P>
+a substrate having a plurality of nanoobjects formed on one surface of the substrate; and
+</P>
+<P>
+a first layer formed on the nanoobjects;wherein the first layer is formed in such a way that an array of magnetic nanodots are formed on the plurality of nanoobjects in such a way that the magnetic nanodots are magnetically decoupled from each other.
+</P>
+<P>
+13. The nanomagnet array according to claim 12,
+</P>
+<P>
+wherein the first layer comprises a ferromagnetic material.
+</P>
+<P>
+14. The nanomagnet array according to the claim 12 or 13, further comprising:
+</P>
+<P>
+an intermediate layer, which is arranged between the substrate and the first layer.
+</P>
+<P>
+15. The nanomagnet array according to claim 14,
+</P>
+<P>
+wherein the intermediate layer comprises a non-magnetic material.
+</P>
+<P>
+16. The nanomagnet array according to any one of claims 12 to 15,
+</P>
+<P>
+wherein the first layer has a first thickness on a top-surface of the plurality of nanoobjects and a second thickness on side-faces of the plurality of nanoobjects.
+</P>
+<P>
+17. The nanomagnet array according to any one of the claims 12 to 16, further comprising:
+</P>
+<P>
+a top layer, which is formed on the first layer.
+</P>
+<P>
+18. The nanomagnet array according to claim 17,
+</P>
+<P>
+wherein the top layer is formed of a non-magnetic material.
+</P>
+<P>
+19. A Magneto-resistive Random Access Memory comprising:
+</P>
+<P>
+a nanomagnet array according to any one of the claims 12 to 18.
+</P>
+<P>
+20. The Magneto-resistive Random Access Memory according to claim 19, further comprising:
+</P>
+<P>
+a plurality of wordlines; and
+</P>
+<P>
+a plurality of bitlines,wherein the plurality of nanodots is connected to the plurality of wordlines and the bitlines.
+</P>
+</Claims>
+</BiblioData>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+HIGH DENSITY PLANAR MAGNETIC DOMAIN WALL MEMORY APPARATUS AND METHOD OF FORMING THE SAME
+</Title>
+<PublicationNumber>
+EP2140458A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GAIDIS MICHAEL C [US]
+</Name>
+<Name>
+CLEVENGER LAWRENCE A [US]
+</Name>
+<Name>
+DALTON TIMOTHY J [US]
+</Name>
+<Name>
+DEBROSSE JOHN K [US]
+</Name>
+<Name>
+HSU LOUIS L C [US]
+</Name>
+<Name>
+RADENS CARL [US]
+</Name>
+<Name>
+WONG KEITH K H [US]
+</Name>
+<Name>
+YANG CHIH-CHAO [US]
+</Name>
+<Name>
+GAIDIS, MICHAEL, C
+</Name>
+<Name>
+CLEVENGER, LAWRENCE, A
+</Name>
+<Name>
+DALTON, TIMOTHY, J
+</Name>
+<Name>
+DEBROSSE, JOHN, K
+</Name>
+<Name>
+HSU, LOUIS, L., C
+</Name>
+<Name>
+RADENS, CARL
+</Name>
+<Name>
+WONG, KEITH, K., H
+</Name>
+<Name>
+YANG, CHIH-CHAO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IBM [US]
+</Name>
+<Name>
+INTERNATIONAL BUSINESS MACHINES CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2140458
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070867608
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US24798
+</PriorityNumber>
+<PriorityDate>
+2007-12-04
+</PriorityDate>
+<PriorityNumber>
+US20070694183
+</PriorityNumber>
+<PriorityDate>
+2007-03-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B5/008
+</Class>
+<Class>
+G11C19/08
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C19/08C8
+</Class>
+</NCL>
+<Abstract>
+A magnetic domain wall memory apparatus with write/read capability includes a plurality of coplanar shift register structures each comprising an elongated track formed from a ferromagnetic material having a plurality of magnetic domains therein, the shift register structures further having a plurality of discontinuities therein to facilitate domain wall location;  a magnetic read element associated with each of the shift register structures;  and a magnetic write element associated with each of the shift register structures, the magnetic write element further comprising a single write wire having a longitudinal axis substantially orthogonal to a longitudinal axis of each of the coplanar shift register structures.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A magnetic domain wall memory apparatus with write/read capability, comprising:
+</P>
+<P>
+a plurality of coplanar shift register structures each comprising an elongated track formed from a ferromagnetic material having a plurality of magnetic domains therein, the shift register structures further having a plurality of discontinuities therein to facilitate domain wall location;
+</P>
+<P>
+a magnetic read element associated with each of the shift register structures; and
+</P>
+<P>
+a magnetic write element associated with each of the shift register structures, the magnetic write element further comprising a single write wire having a longitudinal axis substantially orthogonal to a longitudinal axis of each of the coplanar shift register structures.
+</P>
+<P>
+2. The apparatus of claim 1, wherein ends of each shift register structure are aligned with one another.
+</P>
+<P>
+3. The apparatus of claim 2, wherein the write wire includes a plurality of constrictions therein, the constrictions located at a point corresponding to the location of one of the plurality of discontinuities in the each of the associated shift register structures.
+</P>
+<P>
+4. The apparatus of claim 1, wherein:
+</P>
+<P>
+the write wire is located proximate a first end of the shift register structures, and each read element is located proximate a second end thereof; and
+</P>
+<P>
+an endmost of the read elements is substantially straight and the remaining read elements are substantially L-shaped.
+</P>
+<P>
+5. The apparatus of claim 1, further comprising:
+</P>
+<P>
+a plurality of shift current wires associated with each of the shift register structures;
+</P>
+<P>
+wherein the plurality of shift current wires are configured such that the shift current wires corresponding to unselected shift registers act as a current return path for shift current passing through a selected shift register, the current return path being in an opposite direction with respect to the direction of the shift current.
+</P>
+<P>
+6. The apparatus of claim 1, wherein each read element comprises a magnetic tunnel junction (MTJ).
+</P>
+<P>
+7. The apparatus of claim 1, wherein the plurality of discontinuities in each track are defined by a plurality of vertical notches formed within the ferromagnetic material.
+</P>
+<P>
+8. The apparatus of claim 1, wherein the plurality of discontinuities in each track are defined by physical overlapping of magnetic segments.
+</P>
+<P>
+9. The apparatus of claim 1, wherein the plurality of discontinuities in each track are defined by using alternating types of magnetic materials in the track.
+</P>
+<P>
+10. The apparatus of claim 1, wherein the plurality of discontinuities in each track are defined by different material thicknesses for adjacent domains.
+</P>
+</Claims>
+<Also_published_as>
+EP2140458A4;EP2140458B1;US2008239784A1;US8023305B2;WO2008121134A1;US2008243972A1;US7514271B2;US2008239785A1;US8009453B2;KR20100002255A;JP2010524233A;AT503252T
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Catalyst for synthesizing carbon nanocoils, synthesising method of the same and synthesizing method of carbon nanocoils
+</Title>
+<PublicationNumber>
+EP2062642A1
+</PublicationNumber>
+<Inventor>
+<Name>
+PAN LUJUN [JP]
+</Name>
+<Name>
+NOSAKA TOSHIKAZU [JP]
+</Name>
+<Name>
+SUEKANE OSAMU [JP]
+</Name>
+<Name>
+OKAZAKI NOBUHARU [JP]
+</Name>
+<Name>
+NAGASAKA TAKESHI [JP]
+</Name>
+<Name>
+GOTO TOSHIKI [JP]
+</Name>
+<Name>
+TSUCHIYA HIROYUKI [JP]
+</Name>
+<Name>
+OKAWA TAKASHI [JP]
+</Name>
+<Name>
+SHIONO KEISUKE [JP]
+</Name>
+<Name>
+PAN, LUJUN
+</Name>
+<Name>
+NOSAKA, TOSHIKAZU
+</Name>
+<Name>
+SUEKANE, OSAMU
+</Name>
+<Name>
+OKAZAKI, NOBUHARU
+</Name>
+<Name>
+NAGASAKA, TAKESHI
+</Name>
+<Name>
+GOTO, TOSHIKI
+</Name>
+<Name>
+TSUCHIYA, HIROYUKI
+</Name>
+<Name>
+OKAWA, TAKASHI
+</Name>
+<Name>
+SHIONO, KEISUKE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+JAPAN SCIENCE &amp; TECH AGENCY [JP]
+</Name>
+<Name>
+PUBLIC UNIVERSITY CORP OSAKA P [JP]
+</Name>
+<Name>
+TAIYO NIPPON SANSO CORP [JP]
+</Name>
+<Name>
+OTSUKA CHEMICAL CO LTD [JP]
+</Name>
+<Name>
+NISSIN ELECTRIC CO LTD [JP]
+</Name>
+<Name>
+JAPAN SCIENCE AND TECHNOLOGY AGENCY
+</Name>
+<Name>
+PUBLIC UNIVERSITY CORPORATION OSAKA PREFECTURE UNIVERSITY
+</Name>
+<Name>
+TAIYO NIPPON SANSO CORPORATION
+</Name>
+<Name>
+OTSUKA CHEMICAL CO., LTD
+</Name>
+<Name>
+NISSIN ELECTRIC CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2062642
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090003610
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-05-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040735390
+</PriorityNumber>
+<PriorityDate>
+2004-05-28
+</PriorityDate>
+<PriorityNumber>
+JP20030152297
+</PriorityNumber>
+<PriorityDate>
+2003-05-29
+</PriorityDate>
+<PriorityNumber>
+JP20040040736
+</PriorityNumber>
+<PriorityDate>
+2004-02-18
+</PriorityDate>
+<PriorityNumber>
+JP20040040852
+</PriorityNumber>
+<PriorityDate>
+2004-02-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J23/835
+</Class>
+<Class>
+B01J23/86
+</Class>
+<Class>
+B01J27/22
+</Class>
+<Class>
+B01J29/14
+</Class>
+<Class>
+B01J29/76
+</Class>
+<Class>
+B01J35/02
+</Class>
+<Class>
+B01J37/02
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+C01B31/30
+</Class>
+<Class>
+D01F9/127
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J27/22
+</Class>
+<Class>
+B01J29/14Y
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B6
+</Class>
+<Class>
+C01B31/30
+</Class>
+<Class>
+D01F9/127
+</Class>
+</NCL>
+<Abstract>
+A method for synthesizing carbon nanocoils with high efficiency, by determining the structure of carbon nuclei that have been attached to the ends of carbon nanocoils and thus specifying a true catalyst for synthesizing carbon nanocoils is implemented. The catalyst for synthesizing carbon nanocoils according to the present invention is a carbide catalyst that contains at least elements (a transition metal element, In, C) or (a transition metal element, Sn, C), and in particular, it is preferable for the transition metal element to be Fe, Co or Ni. In addition to this carbide catalyst, a metal catalyst of (Fe, Al, Sn) and (Fe, Cr, Sn) are effective. From among these, catalysts such as Fe 3 InC 0.5 , Fe 3 InC 0.5 Snw and Fe 3 SnC are particularly preferable. The wire diameter and the coil diameter can be controlled by using a catalyst where any of these catalysts is carried by a porous carrier.
+</Abstract>
+<Claims>
+<P>
+1. A catalyst for synthesizing carbon nanocoils having an outer diameter of no greater than 1000 nm in accordance with a chemical vapor deposition method, wherein this catalyst is a carbide catalyst that contains at least one or more types of transition metal elements, In or/and Sn and C.
+</P>
+<P>
+2. The catalyst for synthesizing carbon nanocoils according to claim 1, wherein the transition metal elements of said carbide catalyst are Fe, Co or Ni.
+</P>
+<P>
+3. The catalyst for synthesizing carbon nanocoils according to claim 2, wherein a compound formula for said carbide catalyst is represented Fe3InC0.5.
+</P>
+<P>
+4. The catalyst for synthesizing carbon nanocoils according to claim 2, wherein a compound formula for said carbide catalyst is represented by Fe3SnC.
+</P>
+<P>
+5. The catalyst for synthesizing carbon nanocoils according to claim 2, wherein a compound formula for said carbide catalyst is represented by Fe3In1-xC0.5Snw (1 &amp;gt; v &amp;gt; 0, w &amp;gt; 0).
+</P>
+<P>
+6. The catalyst for synthesizing carbon nanocoils according to any of claims 1 to 5, wherein one or more types of other elements are added to said carbide catalyst.
+</P>
+<P>
+7. The catalyst for synthesizing carbon nanocoils according to any of claims 1 to 6, wherein said catalyst is obtained as fine particles.
+</P>
+<P>
+8. The catalyst for synthesizing carbon nanocoils according to any of claims 1 to 6, wherein said catalyst is carried by a porous carrier.
+</P>
+<P>
+9. A synthesizing method of a catalyst for growing carbon nanocoils having an outer diameter of no greater than 1000 nm in accordance with a chemical vapor deposition method, wherein a thin film that contains at least one or more types of transition metal elements, In or/and Sn is formed on a substrate, a surface of the thin film on said substrate is carbonized by a carbon compound gas in a heated state so as to form fine particles of a carbide catalyst that contain at least said transition metal elements, In or/and Sn and C, the time far carbonization is adjusted within a range from several seconds to several tens of minutes, on the basis of the amount of flow of said carbon compound gas, and said carbonizing reaction is stopped at a stage where said fine particles of the carbide catalyst have grown so as to have a predetermined fine particle diameter within said time for carbonization before carbon nanocoils start growing.
+</P>
+<P>
+10. A synthesizing method of a catalyst for growing carbon nanocoils having an outer diameter of no greater than 1000 nm in accordance with a chemical vapor deposition method, wherein fine particles that contain at least one or more types of transition metal elements, In or/and Sn are formed, said fine particles are carbonized by a carbon compound gas in a heated state so as to form fine particles of a carbide catalyst that contain at least said transition metal elements, In or/and Sn and C, the time for carbonization is adjusted within a range from several seconds to several tens of minutes, on the basis of the amount of flow of said carbon compound gas, and said carbonizing reaction is stopped at a stage where said fine particles of the carbide catalyst have grown so as to have a predetermined fine particle diameter within said time for carbonization before carbon nanocoils start growing.
+</P>
+<P>
+11. A synthesizing method of a catalyst for growing carbon nanocoils having an outer diameter of no greater
+</P>
+<P>
+than 1000 nm in accordance with a chemical vapor deposition method, wherein a solution or a dispersion liquid where at least one or more types of transition metal elements, an In compound or/and an Sn and C, the time for carbonization is adjusted within a range from several seconds to several tens of minutes, on the basis of the amount of flow of said carbon compound gas, and said carbonizing reaction is stopped at a stage where said fine particles of the carbide catalyst have grown so as to have a predetermined fine particle diameter within said time for carbonization before carbon nanocoils start growing.
+</P>
+<P>
+12. A synthesizing method of a catalyst for growing carbon nanocoils having an outer diameter of no greater than 1000 nm in accordance with a chemical vapor deposition method, wherein a solution or a dispersion liquid where at least one or more types of transition metal elements, an In compound or/and an Sn compound are added to a solvent is formed, a solid component is separated from the solution or the dispersion liquid, the separated solid component is baked so as to generate fine particles that contain at least the transition metal elements, In or/and Sn, said fine particles are brought into contact with a carbon compound gas in a heated state so as to form fine particles of a carbide catalyst that contain at least said transition metal elements, In or/and Sn and C, the time for carbonization is adjusted within a range from several seconds to several tens of minutes, on the basis of the amount of flow of said carbon compound gas, and said carbonizing reaction is stopped at a stage where said fine particles of the carbide catalyst have grown so as to have a predetermined fine particle diameter within said time for carbonization before carbon nanocoils start growing.
+</P>
+<P>
+13. A synthesizing method of carbon nanocoils, wherein the catalyst for synthesizing carbon nanocoils according to any of claims 1 to 6, 11 and 12 is placed inside a reactor, the vicinity of this catalyst is heated to a temperature that is no lower than the temperature where a carbon compound gas that is utilized as a material decomposes by the working effects of the catalyst, said carbon compound gas is made to flow so as to make contact with said catalyst, and carbon nanocoils having an outer diameter of no greater than 1000 nm are grown on the surface of said catalyst while said carbon compound gas is being decomposed in the vicinity of said catalyst.
+</P>
+<P>
+14. The catalyst for synthesizing carbon nanocoils according to claim 1, in the case where powder X ray diffraction measurement is carried out with a diffraction angle of 20, the first intensity peak appears in the vicinity of approximately 40[deg.] in the diffraction intensity distribution, and the second intensity peak appears in the vicinity of approximately 46[deg.].
+</P>
+</Claims>
+<Also_published_as>
+EP1649929A1;EP1649929A4;EP1649929B1;US2007098622A1;US7829494B2;KR20070116290A;KR20060029219A;WO2004105940A1
+</Also_published_as>
+</BiblioData>

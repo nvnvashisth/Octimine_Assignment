@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR FORMING INTERPENETRATING NETWORKS OF DISTINCT MATERIALS AND DEVICES THEREFROM
+</Title>
+<PublicationNumber>
+EP1952446A1
+</PublicationNumber>
+<Inventor>
+<Name>
+RINZLER ANDREW G [US]
+</Name>
+<Name>
+RINZLER, ANDREW G
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV FLORIDA [US]
+</Name>
+<Name>
+UNIVERSITY OF FLORIDA RESEARCH FOUNDATION, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1952446
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060844482
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US45118
+</PriorityNumber>
+<PriorityDate>
+2006-11-21
+</PriorityDate>
+<PriorityNumber>
+US20050738462P
+</PriorityNumber>
+<PriorityDate>
+2005-11-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L31/00
+</Class>
+<Class>
+H01L33/18
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/26
+</Class>
+<Class>
+H01L31/0352
+</Class>
+<Class>
+H01L31/06
+</Class>
+<Class>
+H01L51/00M4D
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+H01L51/42H2B
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+An electrical or electro-optical device (100) includes a first layer (110) having a first composition. The first composition includes a plurality of electrically connected particles. A second layer (130) has a second composition, the second composition including a plurality of electrically connected particles. A composite layer (120) is disposed between the first and second layer. The composite layer is an interpenetrated network of a third and a fourth composition, wherein the third composition is different from the fourth composition. A first electrically interconnected network extends from the first composition in the first layer (110) to the third composition throughout a thickness of the composite layer (120), and a second electrically interconnected network extends from the second composition in the second layer (130) to the fourth composition throughout the thickness of the composite layer.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. An electrical or electro-optical device, comprising: a first layer comprising a first composition, said first composition comprising a plurality of electrically connected particles; a second layer comprising a second composition, said second composition comprising a plurality of electrically connected particles; a composite layer disposed between said first and said second layer, said composite layer comprising an interpenetrated network of a third and a fourth composition, said third composition being different from said fourth composition, wherein a first electrically interconnected network extends from said first composition in said first layer to said third composition throughout a thickness of said composite layer, and a second electrically interconnected network extends from said second composition in said second layer to said fourth composition throughout said thickness of said composite layer.
+</P>
+<P>
+2. The device of claim 1, wherein at least one of said compositions comprises nanotubes, nanowires, or nanoparticles.
+</P>
+<P>
+3. The device of claim 2, wherein said first layer, said second layer, and said composite layer comprise said nanowires, wherein said nanowires are preferentially oriented to generally lie along a plane.
+</P>
+<P>
+4. The device of claim 1, wherein at least one of said first, said second, and said composite layers are porous layers.
+</P>
+<P>
+5. The device of claim 4, further comprising a polymeric continuous phase infiltrating said porous layer.
+</P>
+<P>
+6. The device of claim 1, wherein a concentration of said third and said fourth composition in said composite layer is stepwise graded.
+</P>
+<P>
+7. The device of claim 1, wherein said second composition is different from said first composition.
+</P>
+<P>
+8. The device of claim 1, wherein said first composition and said third composition are the same and said second and said fourth composition are the same.
+</P>
+<P>
+9. The device of claim 1, wherein one of said third and fourth composition comprises a p-type semiconductor and the other of said third and fourth composition comprises an n-type semiconductor.
+</P>
+<P>
+10. The device of claim 1, wherein said device comprises a solar cell.
+</P>
+<P>
+11. The device of claim 1, wherein said device comprises a light emitting diode (LED).
+</P>
+<P>
+12. The device of claim 1, wherein said device comprises a multi-component heterojunction structure, wherein said first layer, said second layer, and said composite layer comprise different compositions.
+</P>
+<P>
+13. The device of claim 12, wherein said composite layer either develops a built- in potential for charge separation for photovoltaic applications or comprises a light emitting device.
+</P>
+<P>
+14. A method of forming a layer stack for an electronic or an electro-optical device, comprising the steps of:
+</P>
+<P>
+(a) providing a porous membrane;
+</P>
+<P>
+(b) dispersing a plurality of nanotubes, nanowires or nanoparticles of a first composition in a solution;
+</P>
+<P>
+(c) applying said solution to said membrane, and
+</P>
+<P>
+(d) removing said solution, wherein said nanotubes, nanowires or nanoparticles are forced onto a surface of said porous membrane to form a first composition comprising layer disposed on said membrane; repeating steps (b)-(d) using a plurality of nanotubes, nanowires or nanoparticles of a second and third composition, wherein composite layer comprising an interpenetrated network of said second and said third composition is formed on said first composition comprising layer, and repeating steps (b)-(d) using a plurality of nanotubes, nanowires or nanoparticles of a fourth composition to form a fourth composition comprising film layer formed on said composite layer.
+</P>
+<P>
+15. The method of claim 14, wherein one of said second and third composition comprises ap-type semiconductor and the other of said second and third composition comprises an n-type semiconductor.
+</P>
+<P>
+16. The method of claim 14, wherein said device includes a substrate, further comprising the steps of placing said layer stack on said substrate, and selectively removing said membrane.
+</P>
+<P>
+17. The method of claim 14, wherein said first, second and said composite layers are all porous layers.
+</P>
+<P>
+18. The method of claim 17, further comprising the step of infiltrating at least one of said porous layers with a polymeric material.
+</P>
+</Claims>
+<Also_published_as>
+WO2007062072A1;US2008236660A1;US8049106B2;KR20080075528A;JP2009516915A
+</Also_published_as>
+</BiblioData>

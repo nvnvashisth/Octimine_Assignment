@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR MAKING A SEMICONDUCTOR DEVICE INCLUDING BAND- ENGINEERED SUPERLATTICE USING INTERMEDIATE ANNEALING
+</Title>
+<PublicationNumber>
+EP1949421A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HYTHA MAREK [US]
+</Name>
+<Name>
+STEPHENSON ROBERT JOHN [US]
+</Name>
+<Name>
+KREPS SCOTT A [US]
+</Name>
+<Name>
+HYTHA, MAREK
+</Name>
+<Name>
+STEPHENSON, ROBERT, JOHN
+</Name>
+<Name>
+KREPS, SCOTT, A
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MEARS TECHNOLOGIES INC [US]
+</Name>
+<Name>
+MEARS TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1949421
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060851551
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-05-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US19290
+</PriorityNumber>
+<PriorityDate>
+2006-05-18
+</PriorityDate>
+<PriorityNumber>
+US20050136834
+</PriorityNumber>
+<PriorityDate>
+2005-05-25
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/20
+</Class>
+<Class>
+H01L21/205
+</Class>
+<Class>
+H01L21/8238
+</Class>
+<Class>
+H01L29/10
+</Class>
+<Class>
+H01L29/15
+</Class>
+<Class>
+H01L29/78
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L21/02K4A1A3
+</Class>
+<Class>
+H01L21/02K4B1A3
+</Class>
+<Class>
+H01L21/02K4B1J
+</Class>
+<Class>
+H01L21/02K4B5L3A
+</Class>
+<Class>
+H01L21/02K4C1
+</Class>
+<Class>
+H01L21/02K4C1A3
+</Class>
+<Class>
+H01L21/8238C
+</Class>
+<Class>
+H01L29/10D2B4
+</Class>
+<Class>
+H01L29/15B2
+</Class>
+<Class>
+H01L29/15B2C
+</Class>
+<Class>
+H01L29/78F
+</Class>
+</NCL>
+<Abstract>
+A method for making a semiconductor device may include forming a superlattice including a plurality of stacked groups of layers, with each group of layers comprising a plurality of stacked base semiconductor monolayers defining a base semiconductor portion and at least one non-semiconductor monolayer constrained within a crystal lattice of adjacent base semiconductor portions. The method may also include performing at least one anneal prior to completing forming of the superlattice.
+</Abstract>
+<Claims>
+<P>
+1. A method for making a semiconductor device comprising:
+</P>
+<P>
+forming a superlattice comprising a plurality of stacked groups of layers, each group of layers comprising a plurality of stacked base semiconductor monolayers defining a base semiconductor portion and at least one non-semiconductor monolayer selected from the group consisting essentially of oxygen, nitrogen, fluorine, and carbon-oxygen constrained within a crystal lattice of adjacent base semiconductor portions; and
+</P>
+<P>
+performing at least one anneal prior to completing forming of the superlattice.
+</P>
+<P>
+2. The method according to claim 1 wherein forming the superlattice comprises forming each group by successive deposition of the plurality of base semiconductor monolayers; and wherein performing the at least one anneal comprises performing the at least one anneal prior to completing the deposition of all of the plurality of base semiconductor monolayers in at least one group of layers.
+</P>
+<P>
+3. The method according to claim 2 wherein performing the at least one anneal comprises performing the at least one anneal after completing the deposition of at least one of the plurality of base semiconductor monolayers in at least one group of layers.
+</P>
+<P>
+4. The method according to claim 2 wherein performing the at least one anneal comprises performing the at least one anneal after completing the deposition of no more than eight base semiconductor monolayers.
+</P>
+<P>
+5. The method according to claim 2 wherein performing the at least one anneal comprises performing the at least one anneal after completing the deposition of no more than four base semiconductor monolayers.
+</P>
+<P>
+6. The method according to claim 1 wherein performing the at least one anneal comprises performing the at least one anneal at a temperature in a range of about 550 to 750[deg.] C.
+</P>
+<P>
+7. The method according to claim 1 wherein performing the at least one anneal comprises performing the at least one anneal at a temperature in a range of about 625 to 675[deg.] C.
+</P>
+<P>
+8. The method according to claim 1 wherein performing the at least one anneal comprises performing the at least one anneal for a time period in a range of about one to thirty minutes.
+</P>
+<P>
+9. The method according to claim 1 wherein performing the at least one anneal comprises performing the at least one anneal for a time period in a range of about five to fifteen minutes.
+</P>
+<P>
+10. The method according to claim 1 wherein each at least one non-semiconductor monolayer is a single monolayer thick.
+</P>
+<P>
+11. The method according to claim 1 wherein each base semiconductor portion is less than eight monolayers thick.
+</P>
+<P>
+12. The method according to claim 1 wherein the superlattice further comprises a base semiconductor cap layer on an uppermost group of layers.
+</P>
+<P>
+13. The method according to claim 1 wherein all of the base semiconductor portions are a same number of monolayers thick.
+</P>
+<P>
+14. The method according to claim 1 wherein at least some of the base semiconductor portions are a different number of monolayers thick.
+</P>
+<P>
+15. The method according to claim 1 wherein each base semiconductor portion comprises a base semiconductor selected from the group consisting of Group IV semiconductors, Group III-V semiconductors, and Group II-VI semiconductors.
+</P>
+<P>
+16. The method according to claim 1 wherein forming the superlattice comprises forming the superlattice on a substrate.
+</P>
+<P>
+17. The method according to claim 1 further comprising doping the superlattice with at least one type of conductivity dopant therein.
+</P>
+<P>
+18. The method according to claim 1 wherein the superlattice defines a channel for the semiconductor device and further comprising:
+</P>
+<P>
+forming source and drain regions laterally adjacent the superlattice channel; and
+</P>
+<P>
+forming a gate overlying the superlattice channel.
+</P>
+<P>
+19. A method for making a semiconductor device comprising:
+</P>
+<P>
+forming a superlattice comprising a plurality of successively deposited groups of layers, each group of layers comprising a plurality of successively deposited base silicon monolayers defining a base silicon portion and at least one non-semiconductor monolayer constrained within a crystal lattice of adjacent base silicon portions; and
+</P>
+<P>
+performing at least one anneal prior to completing the deposition of all of the plurality of base silicon monolayers in at least one group of layers.
+</P>
+<P>
+20. The method according to claim 19 wherein performing the at least one anneal comprises performing the at least one anneal after completing the deposition of no more than four base silicon monolayers.
+</P>
+<P>
+21. The method according to claim 19 wherein performing the at least one anneal comprises performing the at least one anneal at a temperature in a range of about 625 to 675[deg.] C.
+</P>
+<P>
+22. A method for making a semiconductor device comprising:
+</P>
+<P>
+forming a superlattice comprising a plurality of stacked groups of layers, each group of layers comprising a plurality of stacked base silicon monolayers defining a base silicon portion and at least one oxygen monolayer constrained within a crystal lattice of adjacent base silicon portions; and
+</P>
+<P>
+performing at least one anneal at a temperature in a range of about 550 to 750[deg.] C. and for a time period in a range of about one to thirty minutes prior to completing forming of the superlattice.
+</P>
+<P>
+23. The method according to claim 22 wherein forming the superlattice comprises forming each group by successive deposition of the plurality of base silicon monolayers; and wherein performing the at least one anneal comprises performing the at least one anneal prior to completing the deposition of all of the plurality of base silicon monolayers in at least one group of layers.
+</P>
+<P>
+24. The method according to claim 22 wherein performing the at least one anneal comprises performing the at least one anneal after completing the deposition of at least one of the plurality of base silicon monolayers in at least one group of layers.
+</P>
+<P>
+25. The method according to claim 22 wherein performing the at least one anneal comprises performing the at least one anneal after completing the deposition of no more than four base silicon monolayers.
+</P>
+<P>
+26. A method for making a semiconductor device comprising:
+</P>
+<P>
+forming a superlattice comprising a plurality of stacked groups of layers, each group of layers comprising a plurality of stacked base semiconductor monolayers defining a base semiconductor portion and at least one non-semiconductor monolayer constrained within a crystal lattice of adjacent base semiconductor portions, and opposing base semiconductor monolayers in adjacent groups of layers being chemically bound together; and
+</P>
+<P>
+performing at least one anneal prior to completing forming of the superlattice.
+</P>
+<P>
+27. The method according to claim 26 wherein forming the superlattice comprises forming each group by successive deposition of the plurality of base semiconductor monolayers; and wherein performing the at least one anneal comprises performing the at least one anneal prior to completing the deposition of all of the plurality of base semiconductor monolayers in at least one group of layers.
+</P>
+<P>
+28. The method according to claim 27 wherein performing the at least one anneal comprises performing the at least one anneal after completing the deposition of at least one of the plurality of base semiconductor monolayers in at least one group of layers.
+</P>
+<P>
+29. The method according to claim 27 wherein performing the at least one anneal comprises performing the at least one anneal after completing the deposition of no more than eight base semiconductor monolayers.
+</P>
+<P>
+30. The method according to claim 27 wherein performing the at least one anneal comprises performing the at least one anneal after completing the deposition of no than four base semiconductor monolayers.
+</P>
+<P>
+31. The method according to claim 26 wherein performing the at least one anneal comprises performing the at least one anneal at a temperature in a range of about 625 to 675[deg.] C.
+</P>
+</Claims>
+<Also_published_as>
+US2005272239A1;US7153763B2;WO2008036062A2;WO2008036062A3;TWI309085B;JP2008547241A;CN101501818A;CN101501818B;CA2611283A1;AU2006344095A1;AU2006344095B2
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD AND APPARATUS OF HIGH SPEED PROPERTY MAPPING
+</Title>
+<PublicationNumber>
+EP1938040A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SU CHANMIN [US]
+</Name>
+<Name>
+LOMBROZO PETER M [US]
+</Name>
+<Name>
+SU, CHANMIN
+</Name>
+<Name>
+LOMBROZO, PETER M
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+VEECO INSTR INC [US]
+</Name>
+<Name>
+VEECO INSTRUMENTS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1938040
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060804274
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US38211
+</PriorityNumber>
+<PriorityDate>
+2006-09-29
+</PriorityDate>
+<PriorityNumber>
+US20050721777P
+</PriorityNumber>
+<PriorityDate>
+2005-09-29
+</PriorityDate>
+<PriorityNumber>
+US20060537535
+</PriorityNumber>
+<PriorityDate>
+2006-09-29
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N13/16
+</Class>
+<Class>
+G12B21/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q10/04
+</Class>
+<Class>
+G01Q10/04B
+</Class>
+</NCL>
+<Abstract>
+A probe instrument having a probe that interacts with a sample surface to perform a mechanical property measurement at high speed includes a scanner producing relative motion between the sample and the probe. In addition, a probe actuator produces relative motion between the sample and the probe, in a generally vertical direction, and a controller that generates a scanner drive signal and an actuator drive signal. The probe actuator is responsive to the actuator drive signal and has an operable bandwidth of at least about 50-80 kHz to perform the fast force curve measurements. The probe actuator is preferably located at least partially on the cantilever. Moreover, feedback during normal operation may be interrupted to perform a force curve measurement with the integrated actuator.
+</Abstract>
+<Claims>
+<P>
+We claim:
+</P>
+<P>
+1. An instrument including a probe that interacts with a sample having a surface, the instrument including:
+</P>
+<P>
+an integrated probe actuator producing relative motion between the sample and the probe to load and unload the probe relative to the sample;
+</P>
+<P>
+a controller that generates an actuator drive signal;
+</P>
+<P>
+a scanner to provide relative motion between the sample and probe in response to the interaction between the probe and the sample; and
+</P>
+<P>
+wherein said probe actuator has an operable bandwidth of at least about 5 kHz and wherein a probe response to actuation of the probe actuator is indicative of a mechanical property of the sample.
+</P>
+<P>
+2. The instrument of claim 1, wherein the probe includes a base, a cantilever extending outwardly from said base, and a tip disposed on said cantilever opposite said base, wherein said probe actuator is located at least partially on said cantilever.
+</P>
+<P>
+3. The instrument of claim 1 , wherein said probe actuator has a resonance frequency of at least about 10 kHz and has a range of at least about 10 nm.
+</P>
+<P>
+4. The instrument of claim 3, wherein said probe actuator has a resonance frequency of at least about 100 kHz.
+</P>
+<P>
+5. The instrument of claim 4, wherein the range is at least about 100 nm.
+</P>
+<P>
+6. The instrument of claim 5, wherein the range is at least about 1 [mu]m.
+</P>
+<P>
+7. The instrument of claim 1, wherein said probe actuator provides a substantially linear response.
+</P>
+<P>
+8. The instrument of claim 1, wherein said probe actuator is formed of a layer of a material having a substantially linear deflection response to the actuator drive signal.
+</P>
+<P>
+9. The instrument of claim 8, wherein said material is a metal oxide and has an operational mechanical bandwidth higher than about 5 kHz.
+</P>
+<P>
+10. The instrument of claim 9, wherein said metal oxide is zinc oxide.
+</P>
+<P>
+11. The instrument of claim 8, wherein said material is a bi-layer consisting of materials having substantially different thermal expansivities.
+</P>
+<P>
+12. The instrument of claim I5 wherein the interaction is measured by at least one of cantilever deflection and a depth of indentation of the probe tip into the sample.
+</P>
+<P>
+13. The instrument of claim 12, wherein a sample property is derived from a force applied by the tip as a function of the indentation depth, the applied force being in response to actuation of the high speed actuator.
+</P>
+<P>
+14. The instrument of claim 1, wherein said scanner provides motion in three substantially orthogonal directions.
+</P>
+<P>
+15. The instrument of the claim 1, wherein said scanner, in response to the interaction between the probe and the sample, moves the integrated probe actuator to maintain an average position of the probe to the sample at a setpoint substantially while the probe actuator causes indentation of the sample at a frequency substantially higher than the operable bandwidth of said scanner.
+</P>
+<P>
+16. The instrument of claim 15, wherein said scanner maintains substantially a constant deflection amplitude in response to interaction between the probe and the sample substantially while the integrated actuator controls an indentation amplitude.
+</P>
+<P>
+17. The instrument of claim 1, wherein said scanner is controlled by a feedback loop operating generally continuously, and wherein the relative motion produced by said probe actuator and the interaction force as a result of the actuator motion are used to measure a property associated with at least one pixel of the sample surface, and wherein said feedback loop is interrupted when measuring the property in response to indenting to the sample.
+</P>
+<P>
+18. The instrument of claim 17, further including a detector to sense a deflection of the probe when measuring the property, wherein the deflection is displacement of the probe tip apex.
+</P>
+<P>
+19. The instrument of claim 18, wherein an output of said detector is used to generate a force curve, wherein the force curve is the applied force as a function of at least one of the actuator displacement and probe tip indentation of the sample.
+</P>
+<P>
+20. The instrument of claim 19, wherein the property is an elasticity of the sample, and a slope of the force curve is indicative of at least one of the elasticity and plasticity.
+</P>
+<P>
+21. The instrument of claim 1 , wherein a corresponding force curve is generated at a plurality of pixels at different locations of the sample, and the corresponding force curves are used to generate a force volume image.
+</P>
+<P>
+22. The instrument of claim 21, wherein the force volume image is generated in less than one hour for a 100 x 100 pixel sample.
+</P>
+<P>
+23. The instrument of claim 22, wherein the force volume image is generated in less than one minute for a 100 x 100 pixel sample.
+</P>
+<P>
+24. The instrument of claim 23, wherein the force volume image is generated in less than five seconds for a 100 x 100 pixel sample.
+</P>
+<P>
+25. A method for performing a property measurement on a sample using a probe microscope, the method including the steps of: providing a probe microscope including a probe that interacts with a sample having a surface, a scanner producing relative motion between the sample and the probe, an integrated probe actuator producing relative motion between the sample and the probe to apply a load on the sample, and a controller that generates a scanner drive signal and an actuator drive signal;
+</P>
+<P>
+operating a feedback loop with the controller so as to position the probe with respect to the sample using the scanner; and
+</P>
+<P>
+performing the property measurement by actuating the integrated actuator with an actuator drive signal, wherein the bandwidth of the performing step is at least about 5 kHz.
+</P>
+<P>
+26. The method of claim 25, further comprising interrupting the feedback loop to conduct the performing step.
+</P>
+<P>
+27. The method of claim 26, further comprising the step of positioning the probe at another location with respect to the sample using the scanner prior to interrupting the feedback loop.
+</P>
+<P>
+28. The method of claim 26, further comprising the step of waiting a user- defined delay time period prior to interrupting the feedback loop.
+</P>
+<P>
+29. The method of claim 25, wherein said performing step comprises:
+</P>
+<P>
+actuating the probe actuator to move the probe to a force measurement position; and
+</P>
+<P>
+reading and storing deflection data obtained from the probe at the force measurement position.
+</P>
+<P>
+30. The method of claim 29, further comprising the step of switching on the feedback loop after determining if all force measurement positions have been measured.
+</P>
+<P>
+31. The method of claim 30, further comprising the step of repeating said above steps at a plurality of sample surface locations, and generating a force volume image based on said repeating step.
+</P>
+<P>
+32. The method of claim 26, wherein the bandwidth associated with said performing step is at least about 5 kHz.
+</P>
+<P>
+33. The method of claim 32, wherein the bandwidth associated with said performing step is at least about 50 kHz.
+</P>
+<P>
+34. The method of claim 33, wherein said performing step includes modifying the actuator drive signal to facilitate producing a substantially linear response from the probe actuator.
+</P>
+<P>
+35. The method of claim 25, wherein said operating step is performed using an output of said performing step.
+</P>
+<P>
+36. The method of claim 35, wherein said performing step includes actuating the probe actuator to load and unload the probe relative to the sample to produce a probe response and said operating step includes using the output, wherein the output is indicative of at least one of the amplitude of the probe response and an area defined by the probe response.
+</P>
+<P>
+37. A method of obtaining a force volume image of a sample using a probe microscope, the method including the steps of:
+</P>
+<P>
+providing a probe microscope including a probe that interacts with a surface of the sample, a piezoelectric scanner producing relative motion between the sample and the probe in three substantially orthogonal directions, a probe actuator disposed on the probe producing relative motion between the sample and the probe in a generally vertical direction, and a controller that generates a scanner drive signal and an actuator drive signal; operating a feedback loop to position the probe at the location on the sample to be measured with the scanner;
+</P>
+<P>
+interrupting the operation of the feedback loop;
+</P>
+<P>
+performing a force curve measurement by operating the probe actuator to move the probe through each force measurement position of the force curve measurement; and
+</P>
+<P>
+restoring the feedback loop to move the probe using the scanner to the next location on the sample.
+</P>
+<P>
+38. The method of claim 37, further comprising,
+</P>
+<P>
+repeating the above steps; and
+</P>
+<P>
+generating a force volume image based on said repeating step, wherein the image is indicative of at least one of elasticity, hardness, viscoelasticity, and energy dissipation.
+</P>
+<P>
+39. Au instrument including a probe that interacts with a sample having a surface, the instrument including:
+</P>
+<P>
+an integrated probe actuator producing relative motion between the sample and the probe so as to perform a force spectroscopy measurement;
+</P>
+<P>
+a controller that generates an actuator drive signal applied to the probe actuator; and
+</P>
+<P>
+wherein the force spectroscopy measurement is performed in less than about 500 [mu]sec.
+</P>
+</Claims>
+<Also_published_as>
+EP1938040A4;WO2007041374A2;WO2007041374A3;US2007089498A1;US7658097B2
+</Also_published_as>
+</BiblioData>

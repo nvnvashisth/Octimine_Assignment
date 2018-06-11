@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LUMINESCENT METAL OXIDE FILMS
+</Title>
+<PublicationNumber>
+EP1974216A2
+</PublicationNumber>
+<Inventor>
+<Name>
+YING JACKIE Y [SG]
+</Name>
+<Name>
+YU HSIAO-HUA [US]
+</Name>
+<Name>
+ALI AMRIL MOHAMED [SG]
+</Name>
+<Name>
+YING, JACKIE Y
+</Name>
+<Name>
+YU, HSIAO-HUA
+</Name>
+<Name>
+ALI, AMRIL, MOHAMED
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+AGENCY SCIENCE TECH &amp; RES [SG]
+</Name>
+<Name>
+AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1974216
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060847438
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-01-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US01941
+</PriorityNumber>
+<PriorityDate>
+2006-01-20
+</PriorityDate>
+<PriorityNumber>
+US20050751881P
+</PriorityNumber>
+<PriorityDate>
+2005-12-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C09K11/77
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/542
+</Class>
+<Class>
+G01N33/551
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C09K11/54
+</Class>
+<Class>
+G01N33/533
+</Class>
+<Class>
+G01N33/542
+</Class>
+<Class>
+G01N33/551
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to articles and methods involving luminescent films which may be useful in various applications. Luminescent films of the present invention may comprise a layer of metal oxide nanoparticles and, in some cases, may interact with an analyte to generate a detectable signal, whereby the presence and/or amount of analyte can be determined. In some embodiments, fluorescence resonance energy transfer (FRET) may occur between the luminescent film and the analyte. Such articles and methods may be useful in, for example, biological assays or in sensors.
+</Abstract>
+<Claims>
+<P>
+What is claimed: - 25 -
+</P>
+<P>
+1. A method for formation of a luminescent metal oxide nanoparticle thin film, comprising: forming a layer comprising a luminescent metal oxide nanoparticle layer on a surface of a substrate; and heating the substrate at a temperature of no more than 150 &amp;lt;0&amp;gt;C for a period of time sufficient to anneal the luminescent metal oxide nanoparticle layer to the surface, wherein, prior to heating, the luminescent metal oxide nanoparticle layer has a first emission under a particular set of excitation conditions and, upon heating, the luminescent metal oxide nanoparticle layer has a second emission under the particular set of excitation conditions having at least 80% of the intensity of the first emission.
+</P>
+<P>
+2. A method as in claim 1, wherein, prior to heating, the luminescent metal oxide nanoparticle layer has a first emission under a particular set of excitation conditions and, upon heating, the luminescent metal oxide nanoparticle layer has a second emission under the particular set of excitation conditions having at least 90% of the intensity of the first emission.
+</P>
+<P>
+3. A method as in claim 1, wherein the luminescent metal oxide nanoparticle layer comprises ZnO nanoparticles.
+</P>
+<P>
+4. A method as in claim 1, wherein the luminescent metal oxide nanoparticle layer comprises a binding partner selected to preferentially bind a target analyte.
+</P>
+<P>
+5. A method as in claim 1, wherein the target analyte is a biological or chemical analyte.
+</P>
+<P>
+6. A method as in claim 1, wherein the luminescent metal oxide nanoparticle layer comprises a binding partner selected to preferentially bind a target analyte.
+</P>
+<P>
+7. A method as in claim 1, wherein the luminescent metal oxide nanoparticle layer comprises a functional group selected from among amine, carboxylic acid, phosphate, hydroxyl, and thiol.
+</P>
+<P>
+8. A method as in claim I9 wherein the functional group is an amine.
+</P>
+<P>
+9. A method as in claim 1, wherein the functional group is a carboxylic acid.
+</P>
+<P>
+10. A method as in claim 1, wherein the forming comprises spin-casting or drop- casting the layer from a solution comprising luminescent metal oxide nanoparticles.
+</P>
+<P>
+11. A method as in claim 1, wherein the forming comprises spin-casting the layer from a solution comprising luminescent metal oxide nanoparticles.
+</P>
+<P>
+12. A method as in claim 1, comprising heating the substrate at a temperature of no more than 130 [deg.]C for a period of time sufficient to anneal the luminescent metal oxide nanoparticle layer to the surface.
+</P>
+<P>
+13. A method as in claim 1, comprising heating the substrate at a temperature of no more than 110 [deg.]C for a period of time sufficient to anneal the luminescent metal oxide nanoparticle layer to the surface.
+</P>
+<P>
+14. A method as in claim I9 wherein, upon heating, the luminescent metal oxide nanoparticle layer forms a covalent bond to the surface.
+</P>
+<P>
+15. A method of binding an analyte, comprising : exposing a luminescent metal oxide nanoparticle layer to a sample suspected of containing an analyte and, if the analyte is present, allowing the analyte to become immobilized with respect to the luminescent metal oxide nanoparticle layer via interaction between the analyte and the luminescent metal oxide nanoparticle layer.
+</P>
+<P>
+16. A method as in claim 15, wherein the luminescent metal oxide nanoparticle layer comprises ZnO nanoparticles.
+</P>
+<P>
+17. A method as in claim 15, wherein the interaction between the analyte and the luminescent metal oxide nanoparticle layer comprises binding between two biological molecules.
+</P>
+<P>
+18. A method as in claim 15, wherein the interaction between the analyte and the luminescent metal oxide nanoparticle layer comprises forming a covalent bond.
+</P>
+<P>
+19. A method as in claim 15, wherein the luminescent metal oxide nanoparticle layer comprises a binding partner selected to preferentially bind the analyte.
+</P>
+<P>
+20. A method as in claim 15, wherein the binding partner is selected from among amine, carboxylic acid, phosphate, hydroxyl, and thiol.
+</P>
+<P>
+21. A method as in claim 20, wherein the binding partner is an amine.
+</P>
+<P>
+22. A method as in claim 20, wherein the binding partner is a carboxylic acid.
+</P>
+<P>
+23. An article as in claim 15, wherein the binding partner comprises a biological molecule.
+</P>
+<P>
+24. A method as in claim 15, wherein the binding partner comprises biotin.
+</P>
+<P>
+25. A method as in claim 15, wherein the analyte comprises a fluorophore.
+</P>
+<P>
+26. A method as in claim 25, wherein the fluorophore comprises a fluorescent dye.
+</P>
+<P>
+27. A method as in claim 25, further comprising: exposing the luminescent metal oxide nanoparticle layer to the sample suspected of containing the analyte, wherein the luminescent metal oxide nanoparticle layer is a fluorescence resonance energy transfer donor and the fluorophore is a fluorescence resonance energy transfer acceptor; exposing the luminescent metal oxide nanoparticle layer to a source of energy to form a luminescent metal oxide nanoparticle excitation energy; in the event that the analyte is present, allowing the excitation energy to transfer to the fluorophore, causing an emission from the fluorophore; and determining the analyte via determination of the emission.
+</P>
+<P>
+28. An article for determination of a target analyte, comprising: a substrate and a layer comprising luminescent metal oxide nanoparticles formed on and adhered to a surface of the substrate, wherein the luminescent metal oxide nanoparticles comprise a binding partner selected to preferentially bind the target analyte.
+</P>
+<P>
+29. An article as in claim 28, wherein the luminescent metal oxide nanoparticle comprises ZnO.
+</P>
+<P>
+30. An article as in claim 28, wherein the binding partner is selected from among amine, carboxylic acid, phosphate, hydroxyl, and thiol.
+</P>
+<P>
+31. A method as in claim 30, wherein the binding partner is an amine.
+</P>
+<P>
+32. A method as in claim 30, wherein the binding partner is a carboxylic acid.
+</P>
+<P>
+33. An article as in claim 28, wherein the binding partner comprises a biological molecule.
+</P>
+<P>
+34. An article as in claim 28, wherein the binding partner comprises biotin.
+</P>
+<P>
+35. An article as in claim 28, wherein the target analyte is a biological or chemical analyte.
+</P>
+<P>
+36. An article as in claim 28, wherein the target analyte comprises a fluorophore.
+</P>
+<P>
+37. An article as in claim 28, wherein the fluorophore comprises a fluorescent dye.
+</P>
+<P>
+38. An article as in claim 28, wherein the luminescent metal oxide nanoparticles are adhered to the surface of the substrate via covalent bonds.
+</P>
+<P>
+39. An article as in claim 28, wherein the target analyte is bound to the luminescent metal oxide nanoparticle layer via binding between two biological molecules.
+</P>
+<P>
+40. An article as in claim 28, wherein the target analyte is bound to the luminescent metal oxide nanoparticle layer via formation of a bond.
+</P>
+<P>
+41. An article as in claim 40, wherein the bond is a covalent, ionic, hydrogen, or dative bond.
+</P>
+<P>
+42. A fluorescence resonance energy transfer donor, comprising: a luminescent metal oxide nanoparticle comprising a binding partner selected to preferentially bind an analyte, wherein the luminescent metal oxide nanoparticle is a fluorescence resonance energy transfer donor and the analyte is a fluorescence resonance energy transfer acceptor.
+</P>
+<P>
+43. A fluorescence resonance energy transfer donor as in claim 42, further comprising a substrate and &amp;lt;&quot;&amp;gt;a layer comprising the luminescent metal oxide nanoparticles formed on and adhered to a surface of the substrate.
+</P>
+<P>
+44. A fluorescence resonance energy transfer donor as in claim 42, wherein the luminescent metal oxide nanoparticle comprises ZnO.
+</P>
+<P>
+45. A fluorescence resonance energy transfer donor as in claim 42, wherein the binding partner is selected from among aniine, carboxylic acid, phosphate, hydroxyl, and thiol.
+</P>
+<P>
+46. A fluorescence resonance energy transfer donor as in claim 42, wherein the binding partner is an amine.
+</P>
+<P>
+47. A fluorescence resonance energy transfer donor as in claim 42, wherein the binding partner is a carboxylic acid.
+</P>
+<P>
+48. A fluorescence resonance energy transfer donor as in claim 42, wherein the binding partner comprises a biological molecule.
+</P>
+<P>
+49. A fluorescence resonance energy transfer donor as in claim 42, wherein the binding partner comprises biotin.
+</P>
+<P>
+50. A fluorescence resonance energy transfer donor as in claim 42, wherein the target analyte is a biological or chemical analyte.
+</P>
+<P>
+51. A fluorescence resonance energy transfer donor as in claim 42, wherein the target analyte comprises a fluorophore.
+</P>
+<P>
+52. A fluorescence resonance energy transfer donor as in claim D7, wherein the fluorophore comprises a fluorescent dye.
+</P>
+<P>
+53. A fluorescence resonance energy transfer donor as in claim 42, wherein the luminescent metal oxide nanoparticles are adhered to the surface of the substrate via covalent bonds.
+</P>
+<P>
+54. A fluorescence resonance energy transfer donor as in claim 42, wherein the target analyte is bound to the luminescent metal oxide nanoparticle layer via binding between two biological molecules.
+</P>
+<P>
+55. A fluorescence resonance energy transfer donor as in claim 42, wherein the target analyte is bound to the luminescent metal oxide nanoparticle layer via formation of a bond.
+</P>
+<P>
+56. A fluorescence resonance energy transfer donor as in claim 55, wherein the bond is a covalent, ionic, hydrogen, or dative bond.
+</P>
+</Claims>
+<Also_published_as>
+WO2007078297A2;WO2007078297A3;WO2007078297A8;US2009186419A1;JP2009520101A;CN101416056A
+</Also_published_as>
+</BiblioData>

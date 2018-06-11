@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LOW-NOISE MAGNETIC FIELD SENSOR
+</Title>
+<PublicationNumber>
+EP2167984A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DIENY BERNARD [FR]
+</Name>
+<Name>
+BARADUC CLAIRE [FR]
+</Name>
+<Name>
+PETIT SEBASTIEN [FR]
+</Name>
+<Name>
+THIRION CHRISTOPHE [FR]
+</Name>
+<Name>
+DIENY, BERNARD
+</Name>
+<Name>
+BARADUC, CLAIRE
+</Name>
+<Name>
+PETIT, SEBASTIEN
+</Name>
+<Name>
+THIRION, CHRISTOPHE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE ET AUX ENERGIESALTERNATIVES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2167984
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080774779
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP58701
+</PriorityNumber>
+<PriorityDate>
+2008-07-04
+</PriorityDate>
+<PriorityNumber>
+FR20070056394
+</PriorityNumber>
+<PriorityDate>
+2007-07-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/09
+</Class>
+<Class>
+G11B5/39
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G11B5/39C5
+</Class>
+<Class>
+H01L43/08
+</Class>
+<Class>
+H01L43/12
+</Class>
+</NCL>
+<Abstract>
+La présente invention concerne un capteur magnétorésistif comprenant une première couche magnétique d&apos;aimantation piégée (410) et une couche magnétique d&apos;aimantation libre (430), dite couche sensible, séparées par une première couche séparatrice (420) de découplage magnétique. Le capteur comprend en outre une seconde couche magnétique d&apos;aimantation piégée (450), séparée de ladite couche sensible par une seconde couche séparatrice (440) de découplage magnétique, les première et seconde couches séparatrices étant situées de part et d&apos;autre de ladite couche sensible, et les aimantations respectives de la première couche magnétique d&apos;aimantation piégée et de la couche sensible, en absence de champ extérieur, étant sensiblement orthogonales. L&apos;orientation de l&apos;aimantation de la seconde couche piégée est choisie
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Capteur magnétorésistif comprenant une première couche magnétique d&apos;aimantation piégée (410), dite première couche piégée, et une couche magnétique d&apos;aimantation libre (430), dite couche sensible, séparées par une première couche séparatrice (420) de découplage magnétique, caractérisé en ce qu&apos;il comprend en outre une seconde couche magnétique d&apos;aimantation piégée (450), dite seconde couche piégée, séparée de ladite couche sensible par une seconde couche séparatrice (440) de découplage magnétique, les première et seconde couches séparatrices étant situées de part et d&apos;autre de ladite couche sensible, les aimantations respectives de ladite première couche piégée et de ladite couche sensible, en absence de champ extérieur, étant sensiblement orthogonales, ledit capteur étant adapté à faire circuler un courant continu de la première couche piégée à la seconde couche piégée, et l&apos;aimantation (n2) de la seconde couche piégée étant orientée dans une direction intermédiaire entre celle de l&apos;aimantation (n1) de la première couche piégée et la direction de l&apos;aimantation (M0) de ladite couche sensible, en absence de champ extérieur, les orientations extrêmes étant autorisées.
+</P>
+<P>
+2. Capteur magnétorésistif comprenant une première couche magnétique d&apos;aimantation piégée (410), dite première couche piégée, et une couche magnétique d&apos;aimantation libre (430), dite couche sensible, séparées par une première couche séparatrice (420) de découplage magnétique, caractérisé en ce qu&apos;il comprend en outre une seconde couche magnétique d&apos;aimantation piégée (450), dite seconde couche piégée, séparée de ladite couche sensible par une seconde couche séparatrice (440) de découplage magnétique, les première et seconde couches séparatrices étant situées de part et d&apos;autre de ladite couche sensible, les aimantations respectives de ladite première couche piégée et de ladite couche sensible, en absence de champ extérieur, étant sensiblement orthogonales, ledit capteur étant adapté à faire circuler un courant continu de la seconde couche piégée à la première couche piégée, l&apos;aimantation (n2) de la seconde couche piégée étant orientée dans une direction intermédiaire entre la direction de l&apos;aimantation (n1) de la première couche piégée et la direction opposée à celle de l&apos;aimantation (M0) de ladite couche sensible, en absence de champ extérieur, les orientations extrêmes étant autorisées.
+</P>
+<P>
+3. Capteur magnétorésistif comprenant une première couche magnétique d&apos;aimantation piégée (410), dite première couche piégée, et une couche magnétique d&apos;aimantation libre (430), dite couche sensible, séparées par une première couche séparatrice (420) de découplage magnétique, caractérisé en ce qu&apos;il comprend en outre une seconde couche magnétique d&apos;aimantation piégée (450), dite seconde couche piégée, séparée de ladite couche sensible par une seconde couche séparatrice (440) de découplage magnétique, lespremière et seconde couches séparatrices étant situées de part et d&apos;autre de ladite couche sensible, les aimantations respectives de ladite première couche piégée et de ladite couche sensible, en absence de champ extérieur, étant sensiblement orthogonales, ledit capteur étant adapté à faire circuler un courant continu de la première couche piégée à la seconde couche piégée, l&apos;aimantation (n2) de la seconde couche piégée étant orientée dans une direction intermédiaire entre la direction opposée à celle de l&apos;aimantation (n1) de la première couche piégée et la direction opposée à celle de l&apos;aimantation (M0) de ladite couche sensible, en absence de champ extérieur, les orientations extrêmes étant autorisées.
+</P>
+<P>
+4. Capteur magnétorésistif comprenant une première couche magnétique d&apos;aimantation piégée (410), dite première couche piégée, et une couche magnétique d&apos;aimantation libre (430), dite couche sensible, séparées par une première couche séparatrice (420) de découplage magnétique, caractérisé en ce qu&apos;il comprend en outre une seconde couche magnétique d&apos;aimantation piégée (450), dite seconde couche piégée, séparée de ladite couche sensible par une seconde couche séparatrice (440) de découplage magnétique, les première et seconde couches séparatrices étant situées de part et d&apos;autre de ladite couche sensible, les aimantations respectives de ladite première couche piégée et de ladite couche sensible, en absence de champ extérieur, étant sensiblement orthogonales, ledit capteur étant adapté à faire circuler un courantcontinu de la seconde couche piégée à la première couche piégée, l&apos;aimantation (n2) de la seconde couche piégée étant orientée dans une direction intermédiaire entre la direction opposée à celle de l&apos;aimantation (n1) de la première couche piégée et celle de l&apos;aimantation (M0) de ladite couche sensible, en absence de champ extérieur, les orientations extrêmes étant autorisées.
+</P>
+<P>
+5. Capteur magnétorésistif selon l&apos;une des revendications précédentes, caractérisé en ce que la résistance électrique de l&apos;ensemble couche sensible/première couche séparatrice/première couche piégée est sensiblement plus grande que la résistance électrique de l&apos;ensemble couche sensible/deuxième couche séparatrice/deuxième couche piégée.
+</P>
+<P>
+6. Capteur magnétorésistif selon l&apos;une des revendications précédentes, caractérisé en ce que la première couche séparatrice est une couche mince d&apos;isolant formant une barrière tunnel.
+</P>
+<P>
+7. Capteur magnétorésistif selon l&apos;une des revendications 1 à 5, caractérisé en ce que la première couche séparatrice est une couche métallique.
+</P>
+<P>
+8. Capteur magnétorésistif selon l&apos;une des revendications 1 à 5, caractérisé en ce que la première couche séparatrice est une couche composite métal- isolant, adaptée à confiner localement les lignes de courant.
+</P>
+<P>
+9. Capteur magnétorésistif selon l&apos;une des revendications précédentes, caractérisé en ce que la seconde couche séparatrice est une couche métallique.
+</P>
+<P>
+10. Capteur magnétorésistif selon les revendications 7 et 9, caractérisé en ce que la résistance surfacique de la seconde couche séparatrice est sensiblement plus faible que celle de la première couche séparatrice.
+</P>
+<P>
+11. Capteur magnétorésistif selon l&apos;une des revendications 1 à 8, caractérisé en ce que la seconde couche séparatrice est une couche composite métal- isolant, adaptée à confiner localement les lignes de courant.
+</P>
+<P>
+12. Capteur magnétorésistif selon l&apos;une des revendications précédentes, caractérisé en ce qu&apos;il comprend une première couche ferrimagnétique synthétique, constituée d&apos;une première et d&apos;une seconde sous-couches magnétiques prenant en sandwich une première sous-couche de couplage antiferromagnétique, la première sous-couche magnétique étant piégée par une première couche antiferromagnétique de piégeage, la seconde sous-couche magnétique constituant la première couche piégée.
+</P>
+<P>
+13. Capteur magnétorésistif selon la revendication 6, caractérisé en ce que la première couche séparatrice est en alumine.
+</P>
+<P>
+14. Capteur magnétorésistif selon la revendication 6, caractérisé en ce que la première couche séparatrice est en MgO.
+</P>
+<P>
+15. Capteur magnétorésistif selon la revendication 12, caractérisé en ce que la première couche ferrimagnétique synthétique est CoFe/Ru/CoFe où les première et seconde sous couches magnétiques de CoFe ont une épaisseur de 1.5 à 4 nm et la première sous-couche de couplage antiferromagnétique de Ru a une épaisseur de 0.5 à 1 nm.
+</P>
+<P>
+16. Capteur magnétorésistif selon les revendications 12 et 14, caractérisé en ce que la première couche ferrimagnétique synthétique est CoFe/Ru/CoFeB ou CoFe/Ru/CoFe où la première sous couche magnétique de CoFe a une épaisseur de 1.5 à 4nm et la première sous-couche de couplage antiferromagnétique de Ru a une épaisseur de 0.5 à 1 nm et la seconde sous-couche magnétique est en alliage CoFeB ou CoFe à structure cubique centrée d&apos;épaisseur entre 1.5 et 5nm.
+</P>
+<P>
+17. Capteur magnétorésistif selon la revendication 12, 15 ou 16 caractérisé en ce que la première couche de piégeage est en PtMn, PtPdMn, ou IrMn.
+</P>
+<P>
+18. Capteur magnétorésistif selon la revendication 17, caractérisé en ce que la premièrecouche de piégeage est en PtMn avec une épaisseur de 15 à 25 nm.
+</P>
+<P>
+19. Capteur magnétorésistif selon l&apos;une des revendications précédentes, caractérisé en ce que la couche sensible est en alliage CoFe, en particulier Co90Feu.
+</P>
+<P>
+20. Capteur magnétorésistif selon l&apos;une des revendications 1 à 18, caractérisé en ce que la couche sensible est constituée de deux sous-couches, l&apos;une de Co ou d&apos;alliages CoFe, d&apos;une épaisseur totale de 0.5 à 1.5nm, directement à l&apos;interface avec la première couche séparatrice, l&apos;autre de NiFe d&apos;épaisseur de l&apos;ordre de 2 à 4nm.
+</P>
+<P>
+21. Capteur magnétorésistif selon la revendication 9, caractérisé en ce que la seconde couche séparatrice est en Cu d&apos;épaisseur de 2 à 5 nm.
+</P>
+<P>
+22. Capteur magnétorésistif selon l&apos;une des revendications précédentes, caractérisé en ce qu&apos;il comprend une seconde couche ferrimagnétique synthétique, constituée d&apos;une troisième et quatrième sous-couches magnétiques prenant en sandwich une seconde sous-couche de couplage antiferromagnétique, la quatrième sous-couche magnétique étant piégée par une seconde couche antiferromagnétique de piégeage, la troisième sous-couche magnétique constituant la seconde couche piégée.
+</P>
+<P>
+23. Capteur magnétorésistif selon la revendication 22, caractérisé en ce que la seconde couche antiferromagnétique de piégeage est en Ir2oMn8o d&apos;épaisseur entre 5 et 10nm.
+</P>
+<P>
+24. Capteur magnétorésistif selon l&apos;une des revendications 1 à 21, caractérisé en ce qu&apos;il comprend une seconde couche ferrimagnétique synthétique, constituée d&apos;une troisième et quatrième sous-couches magnétiques prenant en sandwich une seconde sous-couche de couplage antiferromagnétique, la quatrième sous-couche magnétique étant piégée par une couche en matériau magnétique dur, la troisième sous-couche magnétique constituant la seconde couche piégée.
+</P>
+<P>
+25. Capteur magnétorésistif selon la revendication 24, caractérisé en ce que le matériau magnétique dur est un alliage à base de Co et de Cr.
+</P>
+<P>
+26. Capteur magnétorésitif selon l&apos;une des revendications précédentes, caractérisé en ce que la seconde couche piégée est en métal de transition ferromagnétique, en particulier un alliage à base de Co,Fe,Ni.
+</P>
+<P>
+27. Capteur magnétorésistif selon la revendication 26, caractérisé en ce que la seconde couche piégée est en Co Feu d&apos;épaisseur comprise entre 2 et 7 nm.30
+</P>
+<P>
+28. Capteur magnétorésistif selon l&apos;une des revendications 1 à 25, caractérisé en ce que la seconde couche piégée est en alliage CoFeCu ou CoFeAg.
+</P>
+<P>
+29. Capteur magnétorésistif selon l&apos;une des revendications 1 à 25, caractérisé en ce que la seconde couche piégée est une multicouche laminée (Co Feu lnm/ Cu 0.3nm) ou une bicouche CoFe/NiFe.
+</P>
+<P>
+30. Capteur magnétorésistif selon la revendication 1, caractérisé en ce que la première couche piégée a son aimantation piégée dans une première direction par une première couche antiferromagnétique de piégeage ayant une première température de blocage, et que la seconde couche piégée a son aimantation piégée dans une seconde direction par une seconde couche antiferromagnétique de piégeage ayant une seconde température de blocage distincte de la première.
+</P>
+<P>
+31. Procédé de fabrication d&apos;un capteur magnétorésistif selon la revendication 30, caractérisé en ce que l&apos;on dépose successivement sur une électrode la première couche antiferromagnétique de piégeage, la première couche piégée, la première couche séparatrice, la couche sensible, la seconde couche séparatrice, la seconde couche piégée, la seconde couche antiferromagnétique de piégeage, et en ce que : si la première température de blocage est supérieure à la seconde température de blocage, on effectue un recuit des couches sous un champ magnétiqueorienté selon ladite première direction, puis on descend en température jusqu&apos;à la seconde température de blocage, on oriente alors le champ magnétique selon ladite seconde direction et on descend en température jusqu&apos;à la température ambiante ; si la seconde température de blocage est supérieure à la première température de blocage, on effectue un recuit des couches sous un champ magnétique orienté selon ladite seconde direction, puis on descend en température jusqu&apos;à la première température de blocage, on oriente alors le champ magnétique selon ladite première direction et on descend en température jusqu&apos;à la température ambiante.
+</P>
+</Claims>
+<Also_published_as>
+EP2167984B1;FR2918761A1;US2009015972A1;US8068316B2;JP2010533366A;WO2009007323A1;CN101688904A;AT514096T
+</Also_published_as>
+</BiblioData>

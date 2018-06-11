@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR THE PRODUCTION OF ULTRAFINE PARTICLES
+</Title>
+<PublicationNumber>
+EP2059335A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HUNG CHENG-HUNG [US]
+</Name>
+<Name>
+VANIER NOEL R [US]
+</Name>
+<Name>
+HUNG, CHENG-HUNG
+</Name>
+<Name>
+VANIER, NOEL R
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PPG IND OHIO INC [US]
+</Name>
+<Name>
+PPG INDUSTRIES OHIO, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2059335
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070814249
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US76269
+</PriorityNumber>
+<PriorityDate>
+2007-08-20
+</PriorityDate>
+<PriorityNumber>
+US20060822781P
+</PriorityNumber>
+<PriorityDate>
+2006-08-18
+</PriorityDate>
+<PriorityNumber>
+US20070839607
+</PriorityNumber>
+<PriorityDate>
+2007-08-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/08
+</Class>
+<Class>
+B01J2/00
+</Class>
+<Class>
+B01J2/04
+</Class>
+<Class>
+C01B13/18
+</Class>
+<Class>
+C01B13/28
+</Class>
+<Class>
+C01B33/18
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/08D2
+</Class>
+<Class>
+B01J2/00B
+</Class>
+<Class>
+B01J2/04
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B13/18
+</Class>
+<Class>
+C01B13/28
+</Class>
+<Class>
+C01B33/18
+</Class>
+<Class>
+C01G41/02
+</Class>
+</NCL>
+<Abstract>
+Disclosed are methods for making ultrafine particles, apparatus for making ultrafine particles, and coating compositions comprising ultrafine particles made by such methods and/or apparatus.
+</Abstract>
+<Claims>
+<P>
+We Claim:
+</P>
+<P>
+1. A method for making ultrafine particles, comprising:
+</P>
+<P>
+(a) introducing a precursor into a high temperature chamber;
+</P>
+<P>
+(b) heating the precursor in the high temperature chamber, yielding a gaseous product stream;
+</P>
+<P>
+(c) passing the gaseous product stream through a converging member, and then
+</P>
+<P>
+(d) contacting the gaseous product stream with a plurality of quench streams injected into the plasma chamber through a plurality of quench stream injection ports, wherein the quench streams are injected at flow rates and injection angles that result in the impingement of the quench streams with each other within the gaseous product stream, thereby producing ultrafine particles.
+</P>
+<P>
+2. The method of claim 1, wherein the ultrafine particles have a B.E.T. specific surface area of 90 to 500 square meters per gram.
+</P>
+<P>
+3. The method of claim 1, wherein the ultrafine particles have an average primary particle size of no more than 30 nanometers.
+</P>
+<P>
+4. The method of claim 1, wherein the precursor comprises a solid.
+</P>
+<P>
+5. The method of claim 4, wherein the solid precursor comprises an oxide and/or a carbide.
+</P>
+<P>
+6. The method of claim 1, wherein the precursor is contacted with a carrier gas prior to heating.
+</P>
+<P>
+7. The method of claim 1, wherein the plurality of quench stream injection ports comprise at least four quench stream injection ports.
+</P>
+<P>
+8. The method of claim 1, further comprising injecting a sheath stream upstream of the converging member.
+</P>
+<P>
+9. A coating composition comprising ultrafine particles produced by the method of claim 1.
+</P>
+<P>
+10. A substrate at least partially coated with the coating composition of claim 9.
+</P>
+<P>
+11. A multi-component composite coating comprising at least one coating layer deposited from the coating composition of claim 9.
+</P>
+<P>
+12. An apparatus for making ultrafine particles, comprising:
+</P>
+<P>
+(a) a plasma chamber having axially spaced inlet and outlet ends;
+</P>
+<P>
+(b) a high temperature plasma positioned at the inlet end of the plasma chamber;
+</P>
+<P>
+(c) a precursor inlet for introducing a precursor to the plasma chamber where the precursor is heated by the plasma to produce a gaseous product stream flowing toward the outlet end of the plasma chamber;
+</P>
+<P>
+(d) a converging member located coaxially within the outlet end of the plasma chamber; and
+</P>
+<P>
+(e) a plurality of quench stream injection ports located downstream of the converging member, through which a plurality of quench streams are injected into the plasma chamber at flow rates and injection angles that result in the impingement of the quench streams with each other at or near the center of the gaseous product stream, thereby producing ultrafine particles.
+</P>
+<P>
+13. The apparatus of claim 12, wherein the ultrafine particles have a B.E.T. specific surface area of 90 to 500 square meters per gram.
+</P>
+<P>
+14. The apparatus of claim 12, wherein the precursor comprises a solid.
+</P>
+<P>
+15. The apparatus of claim 14, wherein the solid precursor comprises an oxide, a carbide, a polymer, and/or a metal.
+</P>
+<P>
+16. The apparatus of claim 12, wherein the plurality of quench stream injection ports comprise at least four quench stream injection ports.
+</P>
+<P>
+17. The apparatus of claim 12, further comprising a sheath stream inlet located upstream of the converging member through which a sheath stream is injected into the plasma chamber.
+</P>
+<P>
+18. A coating composition comprising ultrafine particles produced by the apparatus of claim 12.
+</P>
+</Claims>
+<Also_published_as>
+EP2059335B1;WO2008022343A2;WO2008022343A3;US2008044678A1;US7758838B2;ES2363383T3;CA2660749A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DEVICE AND METHOD USING ASYMMETRIC OPTICAL RESONANCES
+</Title>
+<PublicationNumber>
+EP2013655A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KILIC ONUR [US]
+</Name>
+<Name>
+DIGONNET MICHEL J F [US]
+</Name>
+<Name>
+KINO GORDON S [US]
+</Name>
+<Name>
+SOLGAARD OLAV [US]
+</Name>
+<Name>
+KILIC, ONUR
+</Name>
+<Name>
+DIGONNET, MICHEL, J.F
+</Name>
+<Name>
+KINO, GORDON, S
+</Name>
+<Name>
+SOLGAARD, OLAV
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV LELAND STANFORD JUNIOR [US]
+</Name>
+<Name>
+THE BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2013655
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060846402
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US61356
+</PriorityNumber>
+<PriorityDate>
+2006-11-29
+</PriorityDate>
+<PriorityNumber>
+US20060797714P
+</PriorityNumber>
+<PriorityDate>
+2006-05-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B26/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01H13/00
+</Class>
+<Class>
+G01H9/00C
+</Class>
+<Class>
+G02B21/00M1
+</Class>
+<Class>
+G02B26/00C
+</Class>
+<Class>
+G02B27/46
+</Class>
+<Class>
+G02B6/293I10
+</Class>
+<Class>
+G02B6/293I10F
+</Class>
+<Class>
+G02B6/293I8
+</Class>
+<Class>
+G02B6/293W10
+</Class>
+</NCL>
+<Abstract>
+An optical resonator includes a reflective element and a spatial mode filter. The spatial mode filter is positioned relative to the reflective element such that light emitted from the spatial mode filter is reflected by the reflective element. The optical resonator has an optical resonance with a resonance lineshape that is asymmetric as a function of wavelength.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. An optical resonator comprising: a reflective element; and a spatial mode filter positioned relative to the reflective element such that light emitted from the spatial mode filter is reflected by the reflective element, wherein the optical resonator has an optical resonance with a resonance lineshape that is asymmetric as a function of wavelength.
+</P>
+<P>
+2. The optical resonator of Claim 1, wherein the resonance lineshape has a minimum reflectivity at a resonance wavelength, a first side with wavelengths below the resonance wavelength, and a second side with wavelengths above the resonance wavelength.
+</P>
+<P>
+3. The optical resonator of Claim 2, wherein the second side is less steep than the first side.
+</P>
+<P>
+4. The optical resonator of Claim 1, wherein the reflective element comprises a dielectric mirror surface.
+</P>
+<P>
+5. The optical resonator of Claim 1, wherein the reflective element comprises a metallic mirror surface.
+</P>
+<P>
+6. The optical resonator of Claim 1, wherein the reflective element comprises a portion of a photonic crystal structure.
+</P>
+<P>
+7. The optical resonator of Claim 6, wherein the photonic crystal structure comprises at least one photonic crystal slab.
+</P>
+<P>
+8. The optical resonator of Claim 6, wherein the photonic crystal structure comprises a pair of photonic crystal slabs substantially parallel to one another.
+</P>
+<P>
+9. The optical resonator of Claim 1, wherein the spatial mode filter comprises an optical fiber having a first end that is partially reflective and partially transmissive to light emitted by the optical fiber, the first end of the optical fiber and the reflective element forming a Fabry-Perot optical resonator having a cavity therebetween.
+</P>
+<P>
+10. The optical resonator of Claim 9, wherein the cavity comprises a gas.
+</P>
+<P>
+11. The optical resonator of Claim 10, wherein the gas comprises air.
+</P>
+<P>
+12. The optical resonator of Claim 9, wherein the cavity comprises a liquid.
+</P>
+<P>
+13. The optical resonator of Claim 12, wherein the liquid comprises water.
+</P>
+<P>
+14. The optical resonator of Claim 9, wherein the first end of the optical fiber comprises a metal layer.
+</P>
+<P>
+15. The optical resonator of Claim 9, wherein the first end of the optical fiber comprises a dielectric mirror.
+</P>
+<P>
+16. The optical resonator of Claim 1, wherein the spatial mode filter comprises an optical fiber having a fiber Bragg grating, wherein the fiber Bragg grating and the reflective element form a Fabry-Perot optical resonator.
+</P>
+<P>
+17. The optical resonator of Claim 1, wherein the spatial mode filter comprises a single-mode optical fiber.
+</P>
+<P>
+18. The optical resonator of Claim 1, wherein at least a portion of the light reflected by the reflective element is transmitted through the spatial mode filter.
+</P>
+<P>
+19. The optical resonator of Claim 1, wherein the spatial mode filter comprises an optically transmissive portion and an optically non-transmissive portion which bounds at least a portion of the optically transmissive portion.
+</P>
+<P>
+20. The optical resonator of Claim 19, wherein the optically transmissive portion is a hole through the optically non-transmissive portion.
+</P>
+<P>
+21. An acoustic sensor comprising: an optical resonator as recited by Claim 1 ; and a housing substantially surrounding the reflective element and mechanically coupled to the reflective element, wherein the optical resonance is responsive to acoustic waves incident upon the housing.
+</P>
+<P>
+22. A method for utilizing an optical resonator, the method comprising: providing an optical resonator comprising a reflective element and a spatial mode filter positioned relative to the reflective element such that light emitted from the spatial mode filter is reflected by the reflective element, wherein the optical resonator has an optical resonance with a resonance lineshape that is asymmetric as a function of wavelength, wherein the resonance lineshape has a minimum reflectivity at a resonance wavelength, a first side with wavelengths below the resonance wavelength, and a second side with wavelengths above the resonance wavelength, the second side less steep than the first side; and emitting light from the spatial mode Filter and reflecting the light from at least a portion of the reflective element.
+</P>
+<P>
+23. The method of Claim 22, wherein emitting light from the spatial mode filter and reflecting the light from the reflective element comprises: emitting a first light signal from the spatial mode filter and reflecting the first light signal from the reflective element, the first light signal having a first wavelength on the first side of the resonance lineshape; and emitting a second light signal from the spatial mode filter and reflecting the second light signal from the reflective element, the second light signal having a second wavelength on the second side of the resonance lineshape.
+</P>
+<P>
+24. The method of Claim 23, wherein the first light signal and the second light signal are emitted from the spatial mode filter concurrently.
+</P>
+<P>
+25. The method of Claim 23, wherein the first light signal and the second light signal are emitted from the spatial mode filter sequentially.
+</P>
+<P>
+26. The method of Claim 25, wherein the first light signal is emitted from the spatial mode filter before the second light signal is emitted from the spatial mode filter.
+</P>
+<P>
+27. The method of Claim 22, further comprising: providing an acoustic sensor comprising the optical resonator and a housing substantially surrounding at least a portion of the optical resonator and mechanically coupled to the optical resonator, wherein the optical resonance is responsive to acoustic waves incident upon the housing; exposing the acoustic sensor to acoustic waves; and detecting a change of the optical resonance induced by the acoustic waves.
+</P>
+<P>
+28. The method of Claim 22, further comprising: emitting light from the spatial mode filter while the spatial mode filter is at a plurality of positions along the reflective surface, the light emitted from the spatial mode filter irradiating a corresponding plurality of portions of the reflective surface; and measuring a change of the resonance lineshape due to the irradiation of the plurality of portions of the reflective surface.
+</P>
+<P>
+30. The method of Claim 28, wherein a degree of asymmetry of the resonance lineshape is dependent on the topology of the irradiated portion of the reflective surface, and measuring the change of the resonance lineshape comprises measuring the degree of asymmetry of the resonance lineshape.
+</P>
+<P>
+31. The method of Claim 28, wherein the resonance lineshape has a magnitude dependent on the topology of the irradiated portion of the reflective surface, and measuring the change of the resonance lineshape comprises measuring the magnitude.
+</P>
+<P>
+32. The method of Claim 22, wherein the irradiated portion of the reflective surface is responsive to acceleration of the optical resonator by changing curvature, and the method further comprises measuring a change of the resonance lineshape due to acceleration of the optical resonator.
+</P>
+</Claims>
+<Also_published_as>
+WO2007130152A1;US2011088470A1;US8139227B2;US2008034866A1;US7881565B2;NO20085002A;JP2009535977A;CA2650887A1
+</Also_published_as>
+</BiblioData>

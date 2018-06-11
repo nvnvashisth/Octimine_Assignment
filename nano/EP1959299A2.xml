@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Pattern replication with intermediate stamp
+</Title>
+<PublicationNumber>
+EP1959299A2
+</PublicationNumber>
+<Inventor>
+<Name>
+HEIDARI BABAK [SE]
+</Name>
+<Name>
+BECK MARC [SE]
+</Name>
+<Name>
+BOLMSJOE ERIK [SE]
+</Name>
+<Name>
+LOEFSTRAND ANETTE [SE]
+</Name>
+<Name>
+EHRENBORG ERIK [SE]
+</Name>
+<Name>
+HEIDARI, BABAK
+</Name>
+<Name>
+BECK, MARC
+</Name>
+<Name>
+BOLMSJOE, ERIK
+</Name>
+<Name>
+LOEFSTRAND, ANETTE
+</Name>
+<Name>
+EHRENBORG, ERIK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+OBDUCAT AB [SE]
+</Name>
+<Name>
+OBDUCAT AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1959299
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080154480
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2005-11-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20050110290
+</PriorityNumber>
+<PriorityDate>
+2005-11-03
+</PriorityDate>
+<PriorityNumber>
+US20050595154P
+</PriorityNumber>
+<PriorityDate>
+2005-06-10
+</PriorityDate>
+<PriorityNumber>
+EP20050105100
+</PriorityNumber>
+<PriorityDate>
+2005-06-10
+</PriorityDate>
+<PriorityNumber>
+EP20080154480
+</PriorityNumber>
+<PriorityDate>
+2005-11-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B29C59/02
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B29C33/38M2
+</Class>
+<Class>
+B29C59/02C
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a two-step process for transferring a pattern from a template (1) to a target surface of a substrate, by creating an intermediate flexible polymer stamp (5) from the template in a primary step, and then using the polymer stamp to make an imprint in a radiation-sensitive moldable layer on the target surface in a secondary step. In the secondary step, the process steps of pressing the polymer stamp and the substrate against each other, UV exposure of the moldable layer through the polymer stamp, and postbaking of the radiated moldable layer, are all performed at a control constant temperature, in order to eliminate damages to the pattern created in the moldable layer caused by thermal expansion effects.
+</Abstract>
+<Claims>
+<P>
+1. A method of creating an intermediate polymer stamp (5; 8) for use in an imprint process, in which a patterned surface (4; 7) of the intermediate polymer stamp (5; 8) is pressed into a moldable layer (14) on a substrate (13) so as to imprint the pattern of the patterned surface (4; 7) into the moldable layer (14), said method comprising:
+</P>
+<P>
+- providing a template (1; 5) having a structured surface (2; 4),
+</P>
+<P>
+- providing a polymer foil (3; 6) having a carrier sheet of a first polymer composition and an applied surface layer of a second polymer composition adapted for imprint,
+</P>
+<P>
+- pressing the structured surface (2; 4) into said surface layer to imprint an inverse of said structured surface (2; 4) in the surface layer,
+</P>
+<P>
+- exposing the surface layer to radiation to solidify the surface layer, and
+</P>
+<P>
+- separating the patterned polymer foil (3; 6) from the template (1; 5), thereby creating the intermediate polymer stamp (5; 8).
+</P>
+<P>
+2. The method according to claim 1, wherein said exposing further comprises:
+</P>
+<P>
+- emitting said radiation to the surface layer through the polymer foil (3; 6), which polymer foil is transparent to a wavelength range of a radiation usable for solidifying said second polymer composition.
+</P>
+<P>
+3. The method according to claim 1 or 2, wherein said second polymer composition is a UV cross-linkable polymer composition.
+</P>
+<P>
+4. The method according to claim 3, wherein the polymer foil (3; 6) is pre-coated with said second polymer composition which is solid at normal room temperature.
+</P>
+<P>
+5. The method according to claim 3 or 4, further comprising:
+</P>
+<P>
+- heating the polymer foil (3; 6) to a temperature Tp, and, while maintaining said temperature Tp, performing said pressing and said exposing, wherein said second polymer composition has an initial glass transition temperature Tg, and wherein Tp exceeds Tg.
+</P>
+<P>
+6. The method according to claim 5, further comprising:
+</P>
+<P>
+- postbaking the surface layer while maintaining said temperature Tp.
+</P>
+<P>
+7. The method according to claim 1 or 2, wherein said second polymer composition is a UV curable pre-polymer.
+</P>
+<P>
+8. The method according to claim 7, wherein said step of providing a polymer foil further comprises:
+</P>
+<P>
+- dispensing the second polymer composition on the structured surface (2; 4) of the template (1; 5), and
+</P>
+<P>
+- covering the structured surface (2; 4) with the carrier sheet, wherein said exposing causes the second polymer composition to be bonded to the carrier sheet.
+</P>
+<P>
+9. The method according to claim 7 or 8, further comprising:
+</P>
+<P>
+- providing heat to post-bake the surface layer before separating the patterned polymer foil (3; 6) from the template (1; 5).
+</P>
+<P>
+10. The method according to any preceding claim, wherein the template (1; 5) is made from metal, quartz, polymer or silicon.
+</P>
+<P>
+11. The method according to any preceding claim, wherein said template is another intermediate polymer stamp (5) created by a preceding imprint step comprising:
+</P>
+<P>
+- providing a second polymer foil (3) having a carrier sheet of a third polymer composition and an applied surface layer of a fourth polymer composition adapted for imprint,
+</P>
+<P>
+- pressing a structured surface (2) of a primary template (1) into said surface layer to imprint a replica of said structured surface (2) in the surface layer,
+</P>
+<P>
+- exposing the surface layer to radiation to solidify the surface layer, and
+</P>
+<P>
+- separating the patterned second polymer foil (3) from the template, thereby creating said another intermediate polymer stamp (5).
+</P>
+<P>
+12. The method according to claim 1, further comprising:
+</P>
+<P>
+- arranging the template (1; 5) and the polymer foil (3; 6) sandwiched between a stop member and a first side of a flexible membrane (113), and wherein
+</P>
+<P>
+- said pressing involves applying an overpressure to a medium present on a second side of the membrane (113).
+</P>
+<P>
+13. The method according to claim 12, wherein said medium is selected among the group consisting of a gas, a liquid, and a gel.
+</P>
+<P>
+14. The method according to claim 12 or 13, further comprising:
+</P>
+<P>
+- emitting radiation to said surface layer through the membrane (113), which membrane is transparent to a wavelength range of a radiation usable for solidifying said second polymer composition.
+</P>
+<P>
+15. The method as recited in any one of claims 12-14, further comprising:
+</P>
+<P>
+- emitting radiation to said surface layer through said membrane (113), and through a transparent wall (112) opposing said membrane (113), defining a back wall for a cavity (115) for said medium, which back wall and membrane (113) are transparent to a wavelength range of a radiation usable for solidifying said second polymer composition.
+</P>
+<P>
+16. The method as recited in claim 12, wherein said exposing further comprises:
+</P>
+<P>
+- emitting radiation from a radiation source (110) within a wavelength range of 100-500 nm.
+</P>
+<P>
+17. A method of forming a pattern in a target surface of a substrate, comprising:
+</P>
+<P>
+a primary imprint step including a method according to any one of claims 1-16 for creating an intermediate polymer stamp having a patterned surface, and
+</P>
+<P>
+a secondary imprint step comprising:
+</P>
+<P>
+- providing a substrate (13) having a moldable layer (14), and
+</P>
+<P>
+- pressing the intermediate polymer stamp (5; 8) into the moldable layer (14) to imprint the pattern of the patterned surface (4; 7) in the moldable layer (14).
+</P>
+<P>
+18. The method according to claim 17, wherein the secondary imprint step further comprises:
+</P>
+<P>
+- heating the moldable layer (14) above its glass transition temperature Tg, and
+</P>
+<P>
+- solidifying the moldable layer (14) by cooling it below said glass transition temperature Tg.
+</P>
+<P>
+19. The method according to claim 17, wherein the secondary imprint step further comprises:
+</P>
+<P>
+- exposing the moldable layer (14) to radiation for solidifying the moldable layer (14).
+</P>
+<P>
+20. The method according to claim 17, wherein the secondary imprint step further comprises:
+</P>
+<P>
+- heating the intermediate polymer stamp (5; 8) and the substrate (13) to a temperature Tp, and
+</P>
+<P>
+- performing, while maintaining said temperature Tp, said pressing and an additional step of exposing the moldable layer (14) to radiation for solidifying the moldable layer (14).
+</P>
+<P>
+21. The method of claim 20, wherein the secondary imprint step further comprises:
+</P>
+<P>
+- postbaking the moldable layer (14) while maintaining said temperature Tp.
+</P>
+<P>
+22. The method of claim 20 or 21, wherein the secondary imprint step further comprises:
+</P>
+<P>
+- releasing the substrate (13) from the intermediate polymer stamp (5; 8) while maintaining said temperature Tp.
+</P>
+</Claims>
+<Also_published_as>
+EP1959299A3;US2006279025A1;US7704425B2;TWI313788B;KR20080023252A;JP2008542081A;HK1096162A1;ES2317159T3;WO2006131153A1;EP1731962A1;EP1731962B1;CN101198903A;CN101198903B;AT419560T
+</Also_published_as>
+</BiblioData>

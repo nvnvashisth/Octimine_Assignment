@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SYSTEMS, METHODS, AND APPARATUS FOR QUBIT STATE READOUT
+</Title>
+<PublicationNumber>
+EP2206078A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BERKLEY ANDREW J [CA]
+</Name>
+<Name>
+BERKLEY, ANDREW J
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+DWAVE SYS INC [CA]
+</Name>
+<Name>
+D-WAVE SYSTEMS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2206078
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080800375
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-09-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008CA01684
+</PriorityNumber>
+<PriorityDate>
+2008-09-23
+</PriorityDate>
+<PriorityNumber>
+US20070974743P
+</PriorityNumber>
+<PriorityDate>
+2007-09-24
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G06N99/00
+</Class>
+<Class>
+H01L39/22
+</Class>
+<Class>
+G06N1/00
+</Class>
+</IPC>
+<IPC7>
+<Class>
+G06N1/00
+</Class>
+</IPC7>
+<ICM>
+<Class>
+G06N99/00
+</Class>
+<Class>
+H01L39/22
+</Class>
+</ICM>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G06N99/00K
+</Class>
+</NCL>
+<Abstract>
+A superconducting readout system includes a computation qubit;  a measurement device to measure a state of the computation qubit;  and a latch qubit that mediates communicative coupling between the computation qubit and the measurement device. The latch qubit includes a qubit loop that includes at least two superconducting inductors coupled in series with each other;  a compound Josephson junction that interrupts the qubit loop that includes at least two Josephson junctions coupled in series with each other in the compound Josephson junction and coupled in parallel with each other with respect to the qubit loop;  and a first clock signal input structure to couple clock signals to the compound Josephson junction.
+</Abstract>
+<Claims>
+<P>
+1. A superconducting readout system comprising:
+</P>
+<P>
+a computation qubit;
+</P>
+<P>
+a measurement device to measure a state of the computation qubit;
+</P>
+<P>
+a first latch qubit comprising a qubit loop formed by a loop of superconducting material and a compound Josephson junction that interrupts the qubit loop, wherein the compound Josephson junction is formed by a closed loop of superconducting material that is interrupted by at least two Josephson junctions; and
+</P>
+<P>
+a first clock signal input structure configured to communicatively couple clock signals to the compound Josephson junction of the first latch qubit;
+</P>
+<P>
+wherein at least one of the computation qubit and the measurement device is configured to communicatively couple to the first latch qubit such that the first latch qubit mediates communicative coupling between the computation qubit and the measurement device.
+</P>
+<P>
+2. The superconducting readout system of claim 1 wherein the computation qubit is a superconducting qubit selected from the group consisting of: a superconducting flux qubit, a superconducting charge qubit, a superconducting phase qubit, and a superconducting hybrid qubit.
+</P>
+<P>
+3. The superconducting readout system of claim 1 wherein the measurement device includes a magnetometer.
+</P>
+<P>
+4. The superconducting readout system of claim 1 wherein the communicative coupling between the first latch qubit and at least one of the computation qubit and the measurement device includes inductive coupling.
+</P>
+<P>
+5. The superconducting readout system of claim 1 wherein the first clock signal input structure is configured to couple a clock signal at an approximately adiabatic frequency.
+</P>
+<P>
+6. The superconducting readout system of claim 5 wherein the adiabatic frequency is below about 20 GHz.
+</P>
+<P>
+7. The superconducting readout system of claim 1 wherein an approximately constant clock signal is applied to the compound Josephson junction of the first latch qubit and the parameters of the at least two Josephson junctions in the compound Josephson junction are selected such that a signal that is coupled to the qubit loop of the first latch qubit produces a corresponding signal of greater magnitude that is coupled from the qubit loop of the first latch qubit.
+</P>
+<P>
+8. The superconducting readout system of claim 1, further comprising at least one additional latch qubit configured to communicatively couple in series with the first latch qubit, wherein the computation qubit is configured to communicatively couple to the first latch qubit and the measurement device is configured to communicatively couple to the at least one additional latch qubit such that the first latch qubit and the at least one additional latch qubit both mediate the communicative coupling between the computation qubit and the measurement device.
+</P>
+<P>
+9. The superconducting readout system of claim 8 wherein the first latch qubit and the at least one additional latch qubit are each configured to communicatively couple to a respective adiabatic clock signal line.
+</P>
+<P>
+10. A superconducting readout system comprising:
+</P>
+<P>
+a plurality of computation qubits;
+</P>
+<P>
+a measurement device for measuring a state of at least one of the computation qubits; and
+</P>
+<P>
+a shift register comprising a plurality of individual registers, wherein at least one register is configured to communicatively couple to each computation qubit and at least one register is configured to communicatively couple to the measurement device.
+</P>
+<P>
+11. The superconducting readout system of claim 10 wherein at least one of the computation qubits is a superconducting qubit selected from the group consisting: of a superconducting flux qubit, a superconducting charge qubit, a superconducting phase qubit, and a superconducting hybrid qubit.
+</P>
+<P>
+12. The superconducting readout system of claim 10 wherein the measurement device includes a magnetometer.
+</P>
+<P>
+13. The superconducting readout system of claim 10 wherein the shift register includes a superconducting shift register.
+</P>
+<P>
+14. The superconducting readout system of claim 13 wherein the superconducting shift register includes a flux-based superconducting shift register comprising:
+</P>
+<P>
+a set of administration latch qubits, each of the administration latch qubits configured to receive administration clock signals via communicative coupling;
+</P>
+<P>
+a first set of dummy latch qubits, each of the dummy latch qubits in the first set of dummy latch qubits configured to receive first dummy clock signals via communicative coupling; and
+</P>
+<P>
+a second set of dummy latch qubits, each of the dummy latch qubits of the second set of dummy latch qubits configured to receive second dummy clock signals via communicative coupling, wherein for each pair of successive ones of the administration latch qubits in the set of administration latch qubits, a respective one of the dummy latch qubits from the first set of latch qubits and a respective one of the dummy latch qubits from the second set of dummy latch qubits are positioned to couple flux between the administration latch qubits of the pair of successive ones of the administration latch qubits;
+</P>
+<P>
+wherein a first administration latch qubit in the flux-based superconducting shift register is configured to receive a first input signal from a first computation qubit and a second administration latch qubit in the flux-based superconducting shift register is configured to receive a second input signal from a second computation qubit.
+</P>
+<P>
+15. The superconducting readout system of claim 14 wherein a third administration latch qubit in the flux-based superconducting shift register is configured to send an output signal to the measurement device.
+</P>
+<P>
+16. The superconducting readout system of claim 14 wherein the administration clock signals, the first dummy clock signals, and the second dummy clock signals are each at an approximately adiabatic frequency.
+</P>
+<P>
+17. The superconducting readout system of claim 14, further comprising at least one mediating latch qubit that is configured to communicatively couple in series between the first computation qubit and the first administration latch qubit, such that the at least one mediating latch qubit is configured to mediate a communicative coupling between the first computation qubit and the first administration latch qubit.
+</P>
+<P>
+18. The superconducting readout system of claim 17 wherein each mediating latch qubit is configured to receive an approximately adiabatic clock signal via communicative coupling.
+</P>
+<P>
+19. The superconducting readout system of claim 15, further comprising at least one mediating latch qubit that is configured to communicatively couple in series between the third administration latch qubit and the measurement device such that the at least one mediating latch qubit is configured to mediate a communicative coupling between the third administration latch qubit and the measurement device, wherein the at least one mediating latch qubit is configured to receive an approximately adiabatic clock signal via communicative coupling.
+</P>
+<P>
+20. A method of reading out a state of a computation qubit, the method comprising:
+</P>
+<P>
+coupling a state signal from the computation qubit to a first latch qubit;
+</P>
+<P>
+coupling a first clock signal to a compound Josephson junction in the first latch qubit;
+</P>
+<P>
+using the first clock signal to control the coupling of the state signal between the computation qubit and the first latch qubit;
+</P>
+<P>
+coupling the state signal from the first latch qubit to a measurement device; and
+</P>
+<P>
+using the first clock signal to control the coupling of the state signal between the first latch qubit and the measurement device.
+</P>
+<P>
+21. The method of claim 20 further comprising:
+</P>
+<P>
+coupling the state signal from the first latch qubit to a set of serially coupled latch qubits, wherein the set comprises at least one latch qubit and each latch qubit in the set is coupled to a respective clock signal line;
+</P>
+<P>
+using clock signals on the respective clock signal lines to control a propagation of the state signal through the set of latch qubits;
+</P>
+<P>
+coupling the state signal from a last latch qubit in the set of latch qubits to a measurement device; and
+</P>
+<P>
+using a clock signal that corresponds to the last latch qubit to control the coupling between the last latch qubit and the measurement device.
+</P>
+<P>
+22. A method of reading out a state of each computation qubit in a plurality of computation qubits, the method comprising:
+</P>
+<P>
+coupling a respective signal from each computation qubit into a respective register in a shift register;
+</P>
+<P>
+shifting the signals between adjacent registers within the shift register; and
+</P>
+<P>
+coupling the signals from at least one register in the shift register to at least one measurement device.
+</P>
+<P>
+23. The method of claim 22 wherein coupling a respective signal from each of the computation qubits into a respective register in a shift register includes coupling the signals into respective registers of a superconducting shift register.
+</P>
+<P>
+24. The method of claim 23 wherein coupling a respective signal from each of the computation qubits into a respective register in a superconducting shift register includes coupling the signals into respective registers of a flux-based superconducting shift register that is comprised of latch qubits.
+</P>
+<P>
+25. The method of claim 22, further comprising mediating the coupling of the signal from at least one of the computation qubits into the respective register in the shift register through at least one mediating latch qubit.
+</P>
+<P>
+26. The method of claim 25 wherein mediating the coupling includes applying a set of clock signal pulses to the at least one mediating latch qubit.
+</P>
+<P>
+27. The method of claim 22, further comprising mediating the coupling of the signal from at least one of the registers to the measurement device through at least one mediating latch qubit.
+</P>
+<P>
+28. The method of claim 27 wherein mediating the coupling includes applying a set of clock signal pulses to the at least one mediating latch qubit.
+</P>
+<P>
+29. The method of claim 22 wherein the coupling and shifting includes applying a set of clock signal pulses to the registers in the shift register.
+</P>
+</Claims>
+<Also_published_as>
+US2009078931A1;US8169231B2;JP2010541309A;CN101868802A;WO2009039634A1;CA2698132A1
+</Also_published_as>
+</BiblioData>

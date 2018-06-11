@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Mold, pattern forming method, and pattern forming apparatus
+</Title>
+<PublicationNumber>
+EP2090929A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SUEHIRA NOBUHITO [JP]
+</Name>
+<Name>
+INA HIDEKI [JP]
+</Name>
+<Name>
+TERASAKI ATSUNORI [JP]
+</Name>
+<Name>
+MAJIMA MASAO [JP]
+</Name>
+<Name>
+SEKI JUNICHI [JP]
+</Name>
+<Name>
+SUEHIRA, NOBUHITO
+</Name>
+<Name>
+INA, HIDEKI
+</Name>
+<Name>
+TERASAKI, ATSUNORI
+</Name>
+<Name>
+MAJIMA, MASAO
+</Name>
+<Name>
+SEKI, JUNICHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2090929
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090159795
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-06-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20060115087
+</PriorityNumber>
+<PriorityDate>
+2006-06-07
+</PriorityDate>
+<PriorityNumber>
+JP20050168842
+</PriorityNumber>
+<PriorityDate>
+2005-06-08
+</PriorityDate>
+<PriorityNumber>
+JP20050302225
+</PriorityNumber>
+<PriorityDate>
+2005-10-17
+</PriorityDate>
+<PriorityNumber>
+JP20050302703
+</PriorityNumber>
+<PriorityDate>
+2005-10-18
+</PriorityDate>
+<PriorityNumber>
+JP20060137319
+</PriorityNumber>
+<PriorityDate>
+2006-05-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F9/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G03F9/70K2
+</Class>
+<Class>
+G03F9/70K6
+</Class>
+</NCL>
+<Abstract>
+A pattern forming method for forming a pattern includes: preparing a mold 104 provided with a first surface including a pattern area 1000, a second surface located opposite from the first surface, and an alignment mark 2070 provided at a position at which the alignment mark 2070 is away from the second surface and is close to the first surface;  contacting the pattern area 1000 of the mold 104 with the coating material disposed on a substrate 5000;  obtaining information about positions of the mold 104 and the substrate 5000 by using the alignment mark 2070 and a mark 5300 provided to the substrate 5000 in a state in which the coating material is disposed on the substrate 5000 at a portion where the alignment mark 2070 and the substrate 5000 are opposite to each other;  and effecting alignment of the substrate 5000 with the mold 104 with high accuracy on the basis of the information.
+</Abstract>
+<Claims>
+<P>
+1. A pattern forming method for forming an imprinted pattern on a coating material disposed on a substrate with a pattern provided to a mold, comprising:
+</P>
+<P>
+preparing a mold provided with a first surface including a pattern area, a second surface located opposite from the first surface, and an alignment mark provided at a position at which the alignment mark is away from the first surface;
+</P>
+<P>
+contacting the pattern area of the mold with the coating material disposed on the substrate;
+</P>
+<P>
+obtaining information about positions of the mold and the substrate by using the alignment mark and a mark provided to the substrate in a state in which the coating material is disposed on the substrate at a portion where the alignment mark and the substrate are opposite to each other; and
+</P>
+<P>
+effecting alignment of the substrate with the mold in an in-plane direction of the pattern area on the basis of the information in a state in which the pattern area and the coating material contact each other,wherein the coating material is cured while effecting the alignment.
+</P>
+<P>
+2. A method according to Claim 1, wherein the coating material is a photocurable resin, a thermosetting resin, or a thermoplastic resin.
+</P>
+</Claims>
+<Also_published_as>
+EP2090929A3;EP1731963A2;EP1731963A3;US2011272840A1;US2010314799A1;US2006279004A1;US7794222B2;TWI329241B;KR20060128673A;KR100743289B1;JP2007140460A
+</Also_published_as>
+</BiblioData>

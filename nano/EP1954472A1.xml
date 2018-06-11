@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+TECHNIQUE FOR SEPARATING A MOLD FROM SOLIDIFIED IMPRINTING MATERIAL
+</Title>
+<PublicationNumber>
+EP1954472A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GANAPATHISUBRAMANIAN MAHADEVAN [US]
+</Name>
+<Name>
+CHOI BYUNG-JIN [US]
+</Name>
+<Name>
+MILLER MICHAEL N [US]
+</Name>
+<Name>
+STACEY NICHOLAS A [US]
+</Name>
+<Name>
+WATTS MICHAEL P C [US]
+</Name>
+<Name>
+GANAPATHISUBRAMANIAN, MAHADEVAN
+</Name>
+<Name>
+CHOI, BYUNG-JIN
+</Name>
+<Name>
+MILLER, MICHAEL, N
+</Name>
+<Name>
+STACEY, NICHOLAS, A
+</Name>
+<Name>
+WATTS, MICHAEL, P., C
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MOLECULAR IMPRINTS INC [US]
+</Name>
+<Name>
+MOLECULAR IMPRINTS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1954472
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060804074
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US37109
+</PriorityNumber>
+<PriorityDate>
+2006-09-22
+</PriorityDate>
+<PriorityNumber>
+US20050292568
+</PriorityNumber>
+<PriorityDate>
+2005-12-01
+</PriorityDate>
+<PriorityNumber>
+US20050303777
+</PriorityNumber>
+<PriorityDate>
+2005-12-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B29C43/00
+</Class>
+<Class>
+B29C59/02
+</Class>
+<Class>
+B29C69/00
+</Class>
+<Class>
+B41F1/00
+</Class>
+<Class>
+B41F19/00
+</Class>
+<Class>
+G03F1/92
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B29C33/44B2
+</Class>
+<Class>
+B29C43/00B
+</Class>
+<Class>
+B29C43/02B
+</Class>
+<Class>
+B29C43/50
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a method for separating a mold (136) from solidified imprinting material that includes creating deformation in the template (214) in which the mold is included. The deformation (P2) is sufficient to create a returning force that is greater than the adhesion force between the solidified imprinting material and the mold. For example, the deformation may result from a pressure differential created by a pump system (546) between the mold and a side of the template disposed opposite to the mold. In this manner, the distortion may be undulations in the template of sufficient magnitude to contact a substrate upon which the solidified imprinting material is disposed.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method for separating a mold, included in a template, from solidified imprinting material disposed on a substrate, said method comprising: creating deformation in said template proximate to said mold, sufficient to create a returning force that is greater than an adhesion force between said solidified imprinting material and said mold.
+</P>
+<P>
+2. The method as recited in claim 1 wherein said template includes a first side, disposed opposite to said mold, with creating further including inducing a pressure differential between said first side and said mold.
+</P>
+<P>
+3. The method as recited in claim 1 wherein creating further includes generating an undulation in said mold of sufficient magnitude to contact said substrate.
+</P>
+<P>
+4. The method as recited in claim 1 wherein said mold includes a perimeter and further including separating regions of said mold, from said solidified imprinting material, disposed concentrically with respect to said perimeter.
+</P>
+<P>
+5. The method as recited in claim 1 wherein said mold includes a perimeter and further including sequentially separating a plurality of regions of said mold, from said solidified imprinting material, disposed concentrically with respect to said perimeter.
+</P>
+<P>
+6. The method as recited in claim 1 further including separating regions of said mold, from said solidified imprinting material, that are radially symmetrically disposed about an axis passing through a center of said mold.
+</P>
+<P>
+7. The method as recited in claim 1 further including sequentially separating a plurality of regions of said mold, from said solidified imprinting material, that are radially symmetrically disposed about an axis passing through a center of said mold.
+</P>
+<P>
+8. The method as recited in claim 1 further including separating regions of said mold, from said solidified imprinting material, by rotating said mold about an axis that extends transversely to a normal of a surface of said mold.
+</P>
+<P>
+9. The method as recited in claim 1 wherein generating further includes forming a surface of said template surrounding mold to have a constant radius of curvature.
+</P>
+<P>
+10. A method for spreading a conformable material between a substrate and a template having a mold, said method comprising: positioning said mold to be in superimposition with said substrate defining a volume therebetween; charging a first sub-portion of said volume with said conformable material through capillary action between said conformable material and one of said mold and said substrate; and filling a second sub-portion of said volume by creating a deformation in said mold.
+</P>
+<P>
+11. The method as recited in claim 10 wherein said template includes a first side, disposed opposite to said mold, with filling further including creating a pressure differential between said first side and said mold.
+</P>
+<P>
+12. The method as recited in claim 10 wherein said mold includes a central portion and filling further includes contacting conformable material with said central portion and subsequently contacting the remaining portions of said mold with said conformable material.
+</P>
+<P>
+13. The method as recited in claim 10 wherein said mold includes a neutral axis and charging further includes bowing said neutral axis before contacting said conformable material.
+</P>
+<P>
+14. The method as recited in claim 10 wherein positioning further including centering said mold with respect to said substrate.
+</P>
+<P>
+15. The method as recited in claim 10 wherein said mold has an area associated therewith that is greater than an area of said substrate.
+</P>
+<P>
+16. The method as recited in claim 10 wherein said template includes a first side, disposed opposite to said mold, with charging further includes varying a distance between said mold and said substrate, while maintaining a substantially equal pressure on said first side and said mold.
+</P>
+<P>
+17. The method as recited in claim 10 wherein charging occurs before filling.
+</P>
+<P>
+18. The method as recited in claim 10 wherein said first and second sub-portions have an aggregate volume associated therewith that is less than said volume.
+</P>
+</Claims>
+<Also_published_as>
+EP1954472A4;WO2007064386A1;US2007126150A1;US7906058B2;TWI310730B;KR20080071151A;JP2009517882A;EP2413189A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INK JET DEVICE FOR PRODUCING A BIOLOGICAL ASSAY SUBSTRATE BY RELEASING A PLURALITY OF SUBSTANCES ONTO THE SUBSTRATE, AND METHOD FOR PRODUCING SUCH A SUBSTRATE
+</Title>
+<PublicationNumber>
+EP2054149A2
+</PublicationNumber>
+<Inventor>
+<Name>
+PIERIK ANKE [NL]
+</Name>
+<Name>
+DIJKSMAN JOHAN F [NL]
+</Name>
+<Name>
+VERNHOUT MARTIN M [NL]
+</Name>
+<Name>
+VAN DEN BESSELAAR LEONARDUS J C [NL]
+</Name>
+<Name>
+VAN DAM DIRKJAN B [NL]
+</Name>
+<Name>
+NISATO GIOVANNI [NL]
+</Name>
+<Name>
+IMMINK ALBERT H J [NL]
+</Name>
+<Name>
+PIERIK, ANKE
+</Name>
+<Name>
+DIJKSMAN, JOHAN, F
+</Name>
+<Name>
+VERNHOUT, MARTIN, M
+</Name>
+<Name>
+VAN DEN BESSELAAR, LEONARDUS, J., C
+</Name>
+<Name>
+VAN DAM, DIRKJAN, B
+</Name>
+<Name>
+NISATO, GIOVANNI
+</Name>
+<Name>
+IMMINK, ALBERT, H., J
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONINKL PHILIPS ELECTRONICS NV [NL]
+</Name>
+<Name>
+KONINKLIJKE PHILIPS ELECTRONICS N.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2054149
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070805371
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IB53181
+</PriorityNumber>
+<PriorityDate>
+2007-08-10
+</PriorityDate>
+<PriorityNumber>
+EP20060118915
+</PriorityNumber>
+<PriorityDate>
+2006-08-15
+</PriorityDate>
+<PriorityNumber>
+EP20070805371
+</PriorityNumber>
+<PriorityDate>
+2007-08-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B01L3/02D10
+</Class>
+<Class>
+B41J29/393
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N35/00G3C
+</Class>
+</NCL>
+<Abstract>
+The invention provides an ink jet device and method for producing a biological assay substrate by releasing a plurality of substances onto the substrate. The device comprises at least a print head and a plurality of substance containers connectable thereto, and mounting means for the containers, whereby at least part of the containers is provided with identification means. The device further comprises reading means to read information contained in the identification means.
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. Ink jet device (10) for producing a biological assay substrate (40) by releasing a plurality of substances (23, 23 a, 23b) onto the substrate (40), the device (10) comprising at least a print head (20) and a plurality of substance containers connectable thereto, and mounting means for the containers, whereby at least part of the containers is provided with identification means (25) and the device further comprises reading means to read information contained in the identification means.
+</P>
+<P>
+2. InkJet device (10) according to claim 1, wherein the identification means comprise a barcode.
+</P>
+<P>
+3. InkJet device (10) according to claim 1, wherein the identification means comprise a coded read-only chip.
+</P>
+<P>
+4. InkJet device (10) according to claim 3, wherein the coded read-only chip comprise a RF-ID chip.
+</P>
+<P>
+5. InkJet device (10) according to claim 1, wherein the identification means comprise a hardware key with electronic contact means and/or with mechanical interlocking means.
+</P>
+<P>
+6. InkJet device (10) according to any one of the preceding claims, wherein the reading means are selected from a barcode reader, a chip card reader, and/or a hardware key reader.
+</P>
+<P>
+7. InkJet device (10) according to claim 6, wherein the electronic contact means of the hardware key comprise a specific pattern of electronic contacts, which are readable by the hardware key reader, which reader comprises a plurality of counter electrodes.
+</P>
+<P>
+8. Inkjet device (10) according to claim 6, wherein the mechanical interlocking means of the hardware key comprise a plurality of protrusions (depressions) with specific shape, which are readable by the hardware key reader, which reader comprises a plurality of counter depressions (protrusions), shaped such that they can accept the protrusions (can be accepted by the depressions).
+</P>
+<P>
+9. InkJet device (10) according to any one of the preceding claims, wherein the inkjet device (10) further comprises a stage with fixture plate (55), provided with mounting means for the containers, such as holes.
+</P>
+<P>
+10. InkJet device (10) according to claim 9, wherein the inkjet device (10) further comprises a print table (50) and a printing bridge (51), wherein the stage with fixture plate (55) is movable relative to the print table (50) along a first direction (X-direction), wherein the print head (20) is mounted on a movable print head holder being mounted to the printing bridge (51) such that the print head (20) is movable relative to the printing bridge (51) along a second direction (Y-direction).
+</P>
+<P>
+11. InkJet device (10) according to any one of the preceding claims, wherein the mounting means are provided with the reading means.
+</P>
+<P>
+12. InkJet device (10) according to any one of the preceding claims, wherein the print head is provided with the reading means.
+</P>
+<P>
+13. InkJet device (10) according to any one of the preceding claims, wherein the ink jet device (10) further comprises means to provide the substrate (41) with an identification.
+</P>
+<P>
+14. InkJet device (10) according to claim 13, wherein the means to provide the substrate (41) with an identification comprise a printed code.
+</P>
+<P>
+15. Method for producing a biological assay substrate (41) by releasing a plurality of substances (23, 23a, 23b) from containers onto the substrate (41) using an inkjet device (10), whereby at least part of the containers is provided with identification means (25), and whereby the information contained therein is read by reading means.
+</P>
+<P>
+16. Method according to claim 15, wherein the identification means comprise a barcode, and the information is read by a barcode reader.
+</P>
+<P>
+17. Method according to claim 15, wherein the identification means comprise a coded read-only chip, and the information is read by a chip card reader.
+</P>
+<P>
+18. Method according to claim 17, wherein the coded read-only chip comprise a RF-ID chip, and the information is read by a wireless RF reader.
+</P>
+<P>
+19. Method according to claim 15, wherein the identification means comprise a hardware key with electronic contact means, and the information is read by a hardware key reader, which reader comprises a plurality of counter electrodes.
+</P>
+<P>
+20. Method according to claim 15, wherein the identification means comprise a hardware key with mechanical interlocking means, and the information is read by a hardware key reader, which reader comprises corresponding mechanical interlocking means.
+</P>
+<P>
+21. Method according to claim 20, wherein the mechanical interlocking means of the hardware key comprise a plurality of protrusions (depressions) with specific shape, which are read by the hardware key reader, having a plurality of counter depressions (protrusions), shaped such that they accept the protrusions (are accepted by the depressions) in case of acceptance.
+</P>
+<P>
+22. Method according to any one of claims 15-21, wherein the information is read by reading means, provided on the ink jet device (10).
+</P>
+<P>
+23. Method according to any one of claims 15-22, wherein the containers are mounted onto the ink jet device (10) by inserting them in mounting means for the containers, such as holes, provided on a stage with fixture plate (55).
+</P>
+<P>
+24. Method according to claim 23, wherein the information is read by reading means, provided on the mounting means.
+</P>
+<P>
+25. Method according to any one of claims 15-24, wherein the information is read by reading means provided on the print head.
+</P>
+<P>
+26. Method according to any one of claims 15-25, wherein after reading the information by the reading means, this information is used to derive a printing plan that at least comprises the fluids to be printed and the order in which they have to be printed.
+</P>
+<P>
+27. Method according to any one of claims 15-26, wherein the substrate (40) is provided with an identification by the ink jet device (10).
+</P>
+<P>
+28. Method according to claim 27, wherein the substrate (40) is provided with an identification by the ink jet device (10) in the form of a printed binary code.
+</P>
+<P>
+29. Use of an ink jet device (10) according to claim 1, wherein the substance (23) comprises a biochemical reactant and/or an oligonucleotide, and/or a polypeptide and/or a protein, and/or a cell, and/or (parts of) RNA/PNA/LNA.
+</P>
+<P>
+30. Assay substrate comprising a plurality of substances for biological analysis, obtainable by the method according to any one of claims 15-28.
+</P>
+</Claims>
+<Also_published_as>
+WO2008020378A2;WO2008020378A3;US2010173803A1;RU2009109221A;JP2010500171A;CN101500702A
+</Also_published_as>
+</BiblioData>

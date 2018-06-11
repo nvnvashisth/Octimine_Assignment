@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PRINTABLE REFLECTIVE FEATURES FORMED FROM MULTIPLE INKS AND PROCESSES FOR MAKING THEM
+</Title>
+<PublicationNumber>
+EP2021187A2
+</PublicationNumber>
+<Inventor>
+<Name>
+EINHORN RICHARD A [US]
+</Name>
+<Name>
+HAMPDEN-SMITH MARK J [US]
+</Name>
+<Name>
+HAUBRICH SCOTT T [US]
+</Name>
+<Name>
+BHATIA RIMPLE [US]
+</Name>
+<Name>
+EINHORN, RICHARD A
+</Name>
+<Name>
+HAMPDEN-SMITH, MARK J
+</Name>
+<Name>
+HAUBRICH, SCOTT T
+</Name>
+<Name>
+BHATIA, RIMPLE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CABOT CORP [US]
+</Name>
+<Name>
+CABOT CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2021187
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070797973
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-31
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US70162
+</PriorityNumber>
+<PriorityDate>
+2007-05-31
+</PriorityDate>
+<PriorityNumber>
+US20060443248
+</PriorityNumber>
+<PriorityDate>
+2006-05-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B42D15/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B42D15/00C
+</Class>
+<Class>
+B82Y20/00
+</Class>
+</NCL>
+<Abstract>
+The invention relates to reflective and non-reflective features formed from multiple inks. In one embodiment, the printed feature comprises a substrate having a first region and a second region, the first and second regions having different surface characteristics;  a first printed element disposed on the first region;  and a second printed element disposed on the second region, wherein the first printed element is more adherent than the second printed element to the first region. In another embodiment, the printed feature comprises multiple layers formed from different inks exhibiting enhanced durability. The invention is also to processes for forming these features, preferably through a direct write printing process.
+</Abstract>
+<Claims>
+<P>
+WE CLAIM:
+</P>
+<P>
+A reflective feature, comprising:
+</P>
+<P>
+(a) a substrate having a first region and a second region, the first and second regions having different surface characteristics;
+</P>
+<P>
+(b) a first reflective element disposed on the first region; and
+</P>
+<P>
+(c) a second reflective element disposed on the second region, wherein the first reflective element is more adherent than the second reflective element to the first
+</P>
+<P>
+2. The reflective feature of claim 1, wherein the second reflective element is more adherent than the first reflective element to the second region.
+</P>
+<P>
+3. The reflective feature of claim 1, wherein the first reflective element is disposed exclusively on the first region.
+</P>
+<P>
+4. The reflective feature of claim 1, the substrate further comprising a third region, the reflective feature further comprising a third reflective element disposed on the third region, wherein the third reflective element is more adherent than the first reflective element or the second reflective element to the third region.
+</P>
+<P>
+5. The reflective feature of claim 1, wherein the first reflective element comprises metallic nanoparticles.
+</P>
+<P>
+6. The reflective feature of claim 5, wherein the second reflective element comprises metallic nanoparticles.
+</P>
+<P>
+7. The reflective feature of claim 1, wherein the first region comprises a composition selected from the group consisting of foil, film, UV -coated lacquer, paper, coated paper, polymer, and printed paper.
+</P>
+<P>
+8. The reflective feature of claim 1, wherein the second region comprises a composition selected from the group consisting of foil, film, UV-coated lacquer, paper, coated paper, and printed paper.
+</P>
+<P>
+9. The reflective feature of claim 1, wherein the first reflective element and the second reflective element form a continuous graphical feature that spans at least a part of the first region and at least a part of the second region.
+</P>
+<P>
+10. The reflective feature of claim 1, wherein at least one of the first reflective element and/or the second reflective element comprises variable information.
+</P>
+<P>
+11. The reflective feature of claim 1, wherein the first region comprises a first undercoat.
+</P>
+<P>
+12. The reflective feature of claim 11, wherein the second region comprises a second undercoat.
+</P>
+<P>
+13. The reflective feature of claim 1, wherein comprising a first overcoat disposed on the first reflective element.
+</P>
+<P>
+14. The reflective feature of claim 13, wherein the first overcoat is further disposed on the second reflective element.
+</P>
+<P>
+15. The reflective feature of claim 13, further comprising a second overcoat disposed on the second reflective element.
+</P>
+<P>
+16. The reflective feature of claim 1, wherein the first region is more porous than the second region.
+</P>
+<P>
+17. The reflective feature of claim 1, wherein the first region is more hydrophobic than the second region.
+</P>
+<P>
+18. A process for forming a reflective feature, the process comprising the steps of: (a) providing a substrate comprising a first region and a second region;
+</P>
+<P>
+(b) direct write printing a first ink onto the first region to form a first reflective element; and
+</P>
+<P>
+(c) direct write printing a second ink onto the second region to form a second reflective element, wherein the first ink is more adherent than the second ink to the first region.
+</P>
+<P>
+19. The process of claim 18, wherein the second ink is more adherent than the first ink to the second region.
+</P>
+<P>
+20. The process of claim 18, wherein comprising the step of direct write printing a third ink onto a third substrate surface to form a third reflective element, wherein the substrate further comprises the third substrate surface, and wherein the third ink is more adherent than the first ink or the second ink to the third region.
+</P>
+<P>
+21. The process of claim 18, wherein at least one of the first ink and the second ink comprises metallic nanoparticles.
+</P>
+<P>
+22. The process of claim 18, wherein the first region comprises a composition selected from the group consisting of foil, film, UV -coated lacquer, paper, polymer, coated paper, and printed paper.
+</P>
+<P>
+23. The process of claim 22, wherein the second region comprises a composition selected from the group consisting of foil, film, UV-coated lacquer, paper, coated paper, and printed paper.
+</P>
+<P>
+24. The process of claim 18, wherein the first reflective element and the second reflective element form a continuous graphical feature that spans at least a part of the first region and at least a part of the second region.
+</P>
+<P>
+25. The process of claim 18, wherein at least one of the first reflective element and the second reflective element comprises variable information.
+</P>
+<P>
+26. The process of claim 18, wherein the first region comprises a first undercoat.
+</P>
+<P>
+27. The process of claim 26, wherein the second region comprises a second undercoat.
+</P>
+<P>
+28. The process of claim 18, wherein a first overcoat is formed on the first reflective element.
+</P>
+<P>
+29. The process of claim 28, wherein the first overcoat is further formed on the second reflective element.
+</P>
+<P>
+30. The process of claim 28, wherein a second overcoat is formed on the second reflective element.
+</P>
+<P>
+31. The process of claim 18, wherein the first region is more porous than the second region.
+</P>
+<P>
+32. The process of claim 18, wherein the first region is more hydrophobic than the second region.
+</P>
+<P>
+33. A reflective feature, comprising:
+</P>
+<P>
+(a) a substrate having a first surface;
+</P>
+<P>
+(b) a first coating disposed on the first surface and having a second surface; and (c) a reflective element having a third surface and comprising nanoparticles disposed, at least in part, on the second surface.
+</P>
+<P>
+34. The reflective feature of claim 33, wherein the first surface comprises two regions having different surface characteristics, and the first coating covers at least a portion of both regions.
+</P>
+<P>
+35. A process for forming a reflective feature, the process comprising the steps of:
+</P>
+<P>
+(a) providing a substrate having a first surface;
+</P>
+<P>
+(b) forming a first coating on the first surface, the first coating having a second surface; and (c) forming a reflective element on the second surface, the reflective element having a third surface and comprising nanoparticles.
+</P>
+<P>
+36. The process of claim 35, wherein the first surface comprises two regions having different surface characteristics, and the first coating covers at least a portion of both regions.
+</P>
+<P>
+37. A reflective feature, comprising:
+</P>
+<P>
+(a) a substrate;
+</P>
+<P>
+(b) a reflective element comprising metallic nanoparticles; and
+</P>
+<P>
+(c) an overcoat comprising a colorant.
+</P>
+<P>
+38. The reflective feature of claim 37, wherein the overcoat is transparent.
+</P>
+<P>
+39. The reflective feature of claim 37, wherein the overcoat comprises a material selected from the group consisting of: a varnish, an offset varnish, a dry offset varnish, a shellac, latex, and a polymer.
+</P>
+<P>
+40. A process for forming a reflective feature, the process comprising the steps of:
+</P>
+<P>
+(a) providing a substrate;
+</P>
+<P>
+(b) forming a reflective element on the substrate, the reflective element comprising metallic nanoparticles; and
+</P>
+<P>
+(c) forming an overcoat on the reflective element, the overcoat comprising a colorant.
+</P>
+<P>
+41. The process of claim 40, wherein the step of forming the reflective element comprising metallic nanoparticles comprises direct write printing an ink comprising the metallic nanoparticles onto the substrate.
+</P>
+<P>
+42. The process of claim 40, wherein the step of forming the overcoat comprising a colorant comprises direct write printing an ink comprising the colorant onto the substrate and/or the reflective element.
+</P>
+<P>
+43. The process of claim 40, wherein the overcoat is transparent.
+</P>
+<P>
+44. A process for forming a printed feature, the process comprising the steps of:
+</P>
+<P>
+(a) providing a substrate comprising a first region and a second region, the first and second regions having different surface characteristics;
+</P>
+<P>
+(b) printing a first ink onto the first region to form a first printed element; and
+</P>
+<P>
+(c) printing a second ink onto the second region to form a second printed element, wherein the first ink is more adherent than the second ink to the first region, and wherein at least one of the printing of the first ink and the printing of the second ink comprises direct write printing.
+</P>
+<P>
+45. The process of claim 44, wherein the first printed element and the second printed element form a continuous graphical feature that spans at least a part of the first region and at least a part of the second region.
+</P>
+<P>
+46. The process of claim 44, wherein the first printed element and the second printed element form a non-continuous feature that spans at least a part of the first region and at least a part of the second region.
+</P>
+<P>
+47. The process of claim 44, wherein both the printing of the first ink and the printing of the second ink comprise direct write printing.
+</P>
+<P>
+48. The process of claim 44, wherein at least one of the printing of the first ink and the printing of the second ink comprise ink jet printing.
+</P>
+<P>
+49. The process of claim 44, wherein both the printing of the first ink and the printing of the second ink comprise ink jet printing.
+</P>
+<P>
+50. The process of claim 44, wherein the second ink is more adherent than the first ink to the second region.
+</P>
+<P>
+51. The process of claim 44, wherein at least one of the first region and the second region is reflective.
+</P>
+<P>
+52. The process of claim 44, wherein the first region comprises a composition selected from the group consisting of foil, film, UV-coated lacquer, paper, polymer, coated paper, and printed paper.
+</P>
+<P>
+53. The process of claim 52, wherein the second region comprises a composition selected from the group consisting of foil, film, UV-coated lacquer, paper, coated paper, and printed paper.
+</P>
+<P>
+54. The process of claim 44, wherein at least one of the first region and the second region is reflective.
+</P>
+<P>
+55. The process of claim 44, wherein at least one of the first printed element and the second printed element comprises variable information.
+</P>
+<P>
+56. The process of claim 44, wherein the first region is more porous than the second region.
+</P>
+<P>
+57. The process of claim 44, wherein the first region is more hydrophobic than the second region.
+</P>
+<P>
+58. The process of claim 44, wherein at least one of the first ink and the second ink comprise a non-reflective colorant.
+</P>
+<P>
+59. The process of claim 44, wherein both the first ink and the second ink comprise a colorant.
+</P>
+<P>
+60. A security feature formed by the process of claim 44.
+</P>
+<P>
+61. A decorative feature formed by the process of claim 44.
+</P>
+<P>
+62. A security feature, comprising:
+</P>
+<P>
+(a) a substrate having a first region and a second region, the first and second regions having different surface characteristics;
+</P>
+<P>
+(b) a first printed element disposed on the first region; and
+</P>
+<P>
+(c) a second printed element disposed on the second region, wherein the first printed element and the second printed element form a continuous or non-continuous graphical feature that spans at least a part of the first region and at least a part of the second region.
+</P>
+<P>
+63. The security feature of claim 62, wherein the first printed element and the second printed element form a continuous graphical feature that spans at least a part of the first region and at least a part of the second region.
+</P>
+<P>
+64. The security feature of claim 62, wherein the first printed element and the second printed element form a non-continuous graphical feature that spans at least a part of the first region and at least a part of the second region.
+</P>
+<P>
+65. The security feature of claim 62, wherein the second printed element is more adherent than the first printed element to the second region.
+</P>
+<P>
+66. The security feature of claim 62, wherein the first printed element is disposed exclusively on the first region.
+</P>
+<P>
+67. The security feature of claim 62, wherein at least one of the first region and the second region is reflective.
+</P>
+<P>
+68. The security feature of claim 62, wherein the first region comprises a composition selected from the group consisting of foil, film, UV-coated lacquer, paper, coated paper, polymer, and printed paper.
+</P>
+<P>
+69. The security feature of claim 62, wherein the second region comprises a composition selected from the group consisting of foil, film, UV-coated lacquer, paper, coated paper, and printed paper.
+</P>
+<P>
+70. The security feature of claim 62, wherein at least one of the first region and the second re &quot;g[sigma]i*on is reflective.
+</P>
+<P>
+71. The security feature of claim 62, wherein at least one of the first printed element or the second printed element comprises variable information.
+</P>
+<P>
+72. The security feature of claim 62, wherein the first region is more porous than the second region.
+</P>
+<P>
+73. The security feature of claim 62, wherein the first region is more hydrophobic than the second region.
+</P>
+</Claims>
+<Also_published_as>
+WO2007140485A2;WO2007140485A3;US2012036702A1;US2008043085A1;US8047575B2;US2007278422A1;US8070186B2
+</Also_published_as>
+</BiblioData>

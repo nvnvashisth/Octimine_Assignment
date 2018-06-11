@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Printing method for high performance electronic devices
+</Title>
+<PublicationNumber>
+EP1936711A2
+</PublicationNumber>
+<Inventor>
+<Name>
+CHABINYC MICHAEL L [US]
+</Name>
+<Name>
+WONG WILLIAM S [US]
+</Name>
+<Name>
+CHABINYC, MICHAEL L
+</Name>
+<Name>
+WONG, WILLIAM S
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PALO ALTO RES CT INC [US]
+</Name>
+<Name>
+PALO ALTO RESEARCH CENTER INCORPORATED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1936711
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070123988
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20060644055
+</PriorityNumber>
+<PriorityDate>
+2006-12-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/00
+</Class>
+<Class>
+H01L51/05
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00A2B2B
+</Class>
+<Class>
+H01L51/00A2F
+</Class>
+</NCL>
+<Abstract>
+A method of depositing elongated nanostructures that allows accurate positioning and orientation is described. The method involves printing or otherwise depositing elongated nanostructures in a carrier solution. The deposited droplets are also elongated, usually by patterning the surface upon which the droplets are deposited. As the droplet evaporates, the fluid flow within the droplets is controlled such that the nanostructures are deposited either at the edge of the elongated droplet or the center of the elongated droplet. The described deposition technique has particular application in forming the active region of a transistor.
+</Abstract>
+<Claims>
+<P>
+1. A method of forming a transistor comprising:
+</P>
+<P>
+forming a dielectric substrate, the dielectric substrate having a first surface that includes a fluid accumulation region between an area for a source electrode and an area for a drain electrode, and,
+</P>
+<P>
+depositing a droplet of fluid, the droplet including semiconductor nanowires suspended in a carrier fluid, the droplet elongated such that upon evaporation of the carrier fluid, the nanowires are aligned to form the active region of the transistor between the area for a source electrode and the area for a drain electrode.
+</P>
+<P>
+2. The method of claim 1 further comprising:
+</P>
+<P>
+forming a metal source electrode in the area for a source electrode and forming a metal drain electrode in the area for a drain electrode.
+</P>
+<P>
+3. The method of claim 1 further comprising:
+</P>
+<P>
+forming a gate electrode, the gate electrode formed on a second surface, the second surface on an opposite side of the dielectric substrate then the first surface.
+</P>
+<P>
+4. The method of claim 1 wherein the fluid volume of the droplet is less than 1000 picoliters.
+</P>
+<P>
+5. The method of claim 1 wherein the operation of depositing a droplet of fluid uses a jet printing technique to eject a droplet of the fluid.
+</P>
+<P>
+6. The method of claim 1 wherein a distance from the area for the source electrode and the area for the drain electrode is less than the length of a nanowire in the droplet.
+</P>
+<P>
+7. The method of claim 6 wherein the transistor is one transistor in an array of transistors in a display, the distance is approximately the pixel pitch of the display.
+</P>
+<P>
+8. The method of claim 1 wherein the carrier fluid is a combination of two fluids that uses the Marangoni effect to orient and position the nanowires in the center of the droplet.
+</P>
+<P>
+9. An intermediate structure for forming a transistor comprising:
+</P>
+<P>
+a dielectric substrate, the dielectric substrate having a first surface that includes a fluid accumulation region between an area for a source electrode and an area for a drain electrode; and,
+</P>
+<P>
+a droplet of fluid in the fluid accumulation region, the droplet including semiconductor nanowires suspended in a carrier fluid, the droplet elongated such that upon evaporation of the carrier fluid, the nanowires are aligned to form the active region of the transistor between a source electrode and a drain electrode.
+</P>
+<P>
+10. A method of forming a transistor comprising:
+</P>
+<P>
+treating a dielectric such that a droplet deposited on the dielectric elongates;
+</P>
+<P>
+depositing a droplet that includes nanowires suspended in a carrier solution on the dielectric such that the droplet elongates and aligns the nanowires between a first region that will form a transistor source electrode and a second region that will forma transistor drain electrode.
+</P>
+</Claims>
+<Also_published_as>
+EP1936711A3;US2011027947A1;US8058113B2;US2008149920A1;US7838933B2;JP2008160122A
+</Also_published_as>
+</BiblioData>

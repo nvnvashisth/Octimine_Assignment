@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Magnetoresistance effect device and method of production of the same
+</Title>
+<PublicationNumber>
+EP1973178A2
+</PublicationNumber>
+<Inventor>
+<Name>
+DJAYAPRAWIRA DAVID D [JP]
+</Name>
+<Name>
+TSUNEKAWA KOJI [JP]
+</Name>
+<Name>
+NAGAI MOTONOBU [JP]
+</Name>
+<Name>
+MAEHARA HIROKI [JP]
+</Name>
+<Name>
+YAMAGATA SHINJI [JP]
+</Name>
+<Name>
+WATANABE NAOKION [JP]
+</Name>
+<Name>
+YUASA SHINJI [JP]
+</Name>
+<Name>
+DJAYAPRAWIRA, DAVID D
+</Name>
+<Name>
+TSUNEKAWA, KOJI
+</Name>
+<Name>
+NAGAI, MOTONOBU
+</Name>
+<Name>
+MAEHARA, HIROKI
+</Name>
+<Name>
+YAMAGATA, SHINJI
+</Name>
+<Name>
+WATANABE, NAOKION
+</Name>
+<Name>
+YUASA, SHINJI
+</Name>
+<Name>
+WATANABE, NAOKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON ANELVA CORP [JP]
+</Name>
+<Name>
+NAT INST OF ADVANCED IND SCIEN [JP]
+</Name>
+<Name>
+CANON ANELVA CORPORATION
+</Name>
+<Name>
+NATIONAL INSTITUTE OF ADVANCED INDUSTRIAL SCIENCEAND TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1973178
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080159511
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2005-09-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20050077020
+</PriorityNumber>
+<PriorityDate>
+2005-09-05
+</PriorityDate>
+<PriorityNumber>
+JP20040259280
+</PriorityNumber>
+<PriorityDate>
+2004-09-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+C23C14/08
+</Class>
+<Class>
+C23C14/34
+</Class>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01F41/30
+</Class>
+<Class>
+H01F41/32
+</Class>
+<Class>
+H01L43/08
+</Class>
+<Class>
+H01L43/12
+</Class>
+<Class>
+H01F10/32
+</Class>
+<Class>
+H01F41/18
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+C23C14/08D
+</Class>
+<Class>
+C23C14/34
+</Class>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01F10/32N4
+</Class>
+<Class>
+H01F41/30D4D
+</Class>
+<Class>
+H01L43/08
+</Class>
+<Class>
+H01L43/12
+</Class>
+</NCL>
+<Abstract>
+A magnetoresistance effect device (10) including a multilayer structure (12) having a pair of ferromagnetic layers and a barrier layer positioned between them, wherein at least one ferromagnetic layer has at least the part contacting the barrier layer made amorphous and the barrier layer is an MgO layer having a single crystal structure.
+</Abstract>
+<Claims>
+<P>
+1. A magnetoresistance effect device including a multilayer structure comprised of a first ferromagnetic layer, a second ferromagnetic layer and a barrier layer disposed between said first ferromagnetic layer and said second ferromagnetic layer, wherein
+</P>
+<P>
+said barrier layer has a single-crystalline magnesium oxide whose facet (001) aligned along an interface in a thickness direction of the layers and said first ferromagnetic layer contains CoFeB.
+</P>
+<P>
+2. A magnetoresistance effect device as set forth in claim 1, wherein said first ferromagnetic layer is fully or partially crystallized.
+</P>
+<P>
+3. A magnetoresistance effect device as set forth in claim 1, wherein said barrier layer is deposited by a sputtering method using a target formed by magnesium oxide.
+</P>
+<P>
+4. A magnetoresistance effect device including a multilayer structure comprised of a first ferromagnetic layer, a second ferromagnetic layer and a barrier layer disposed between said first ferromagnetic layer and said second ferromagnetic layer, formed by a production process comprising:
+</P>
+<P>
+a first step of forming said first ferromagnetic layer at least whose surface is amorphous,
+</P>
+<P>
+a second step of forming a layer of magnesium oxide an said first ferromagnetic layer, and
+</P>
+<P>
+a third step of performing an annealing process at least after said second step.
+</P>
+<P>
+5. A magnetoresistance effect device comprising,
+</P>
+<P>
+a first polycrystalline ferromagnetic layer,
+</P>
+<P>
+a second polycrystalline ferromagnetic layer, and
+</P>
+<P>
+a single-crystalline layer of magnesium, whose facet (001) aligned along an interface in a thickness direction of the layers and which is disposed between said first polycrystalline ferromagnetic layer and said second polycrystalline ferromagnetic layer.
+</P>
+<P>
+6. An MRAM comprising word lines, bit lines disposed to be orthogonal to said word lines, and magnetoresistance effect devices and transistors disposed so as to connect said word lines and said bit lines, wherein
+</P>
+<P>
+each of said magnetoresistance effect devices includes a first ferromagnetic layer containing CoFeB, a second ferromagnetic layer, and a single-crystalline layer of magnesium, whose facet (001) aligned along an interface in a thickness direction of the layers and which is disposed between said first ferromagnetic layer and said second ferromagnetic layer.
+</P>
+<P>
+7. An MRAM, comprising word lines, bit lines disposed to be orthogonal to said word lines, and magnetoresistance effect devices and transistors disposed so as to connect said word lines and said bit lines, wherein
+</P>
+<P>
+each of said magnetoresistance effect devices comprises a first polycrystalline ferromagnetic layer, a second polycrystalline ferromagnetic layer, and a single-crystalline layer of magnesium, whose facet (001) is aligned along an interface in a thickness direction of the layers and which is disposed between said first polycrystalline ferromagnetic layer and said second polycrystalline ferromagnetic layer.
+</P>
+<P>
+8. A method of production of a magnetoresistance effect device including multilayer structure comprised of a ferromagnetic layer and a barrier layer on a top of said ferromagnetic layer, comprising:
+</P>
+<P>
+a step of forming said ferromagnetic layer at least whose surface is amorphous, and
+</P>
+<P>
+a step of forming a barrier layer which has a single-crystalline magnesium oxide whose facet (001) is aligned along an interface in a thickness direction of the layers from an interface of said ferromagnetic layer through to another interface on the opposite side of said ferromagnetic layer.
+</P>
+<P>
+9. A method of producing a magnetoresistance effect device as set forth in claim 8, further comprising a crystallization step of crystallizing said ferromagnetic layer fully or partially.
+</P>
+<P>
+10. A method of producing a magnetoresistance effect device as set forth in claim 9, wherein said crystallization step includes a step of performing an annealing process.
+</P>
+<P>
+11. A magnetic multilayer film fabrication system comprising:
+</P>
+<P>
+a transport chamber provided with robot loaders,
+</P>
+<P>
+a first film-forming chamber connected to said transport chamber by a gate valve, for forming a polycrystalline ferromagnetic layer by using a sputtering method with a ferromagnetic target,
+</P>
+<P>
+a second film-forming chamber connected to said transport chamber by a gate valve, for depositing a film of an amorphous antiferromagnetic layer by using a sputtering method with antiferromagnetic target,
+</P>
+<P>
+a third film-forming chamber connected to said transport chamber by a gate valve, for depositing a single crystalline magnesium oxide whose facet (001) aligned along an interface in a thickness direction of the layers, and
+</P>
+<P>
+a transport mechanism for laminating said antireflection layer, said magnesium oxide, and said polycrystalline ferromagnetic layer on a substrate.
+</P>
+</Claims>
+<Also_published_as>
+EP1973178A3;EP1633007A2;EP1633007A3;EP1633007B1;US2011094875A1;US2008124454A1;US2008055793A1;US2006056115A1;US2008180862A1;KR20120055505A;KR20100036294A;KR20100039310A;KR20090071521A;KR20060051048A;JP2006080116A;EP2166581A2;EP2166581A8;EP2166581A3;CN101572184A;CN1755963A;CN1755963B;AT431969T
+</Also_published_as>
+</BiblioData>

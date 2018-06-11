@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+POLYMERIC CARRIERS OF THERAPEUTIC AGENTS AND RECOGNITION MOIETIES FOR ANTIBODY- BASED TARGETING OF DISEASE SITES
+</Title>
+<PublicationNumber>
+EP2121030A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GOVINDAN SERENGULAM V [US]
+</Name>
+<Name>
+MOON SUNG-JU [US]
+</Name>
+<Name>
+GOLDENBERG DAVID M [US]
+</Name>
+<Name>
+CHANG CHIEN-HSING [US]
+</Name>
+<Name>
+GOVINDAN, SERENGULAM V
+</Name>
+<Name>
+MOON, SUNG-JU
+</Name>
+<Name>
+GOLDENBERG, DAVID M
+</Name>
+<Name>
+CHANG, CHIEN-HSING
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IMMUNOMEDICS INC [US]
+</Name>
+<Name>
+IMMUNOMEDICS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2121030
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070869623
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US88308
+</PriorityNumber>
+<PriorityDate>
+2007-12-20
+</PriorityDate>
+<PriorityNumber>
+US20070885325P
+</PriorityNumber>
+<PriorityDate>
+2007-01-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+A61K47/48
+</Class>
+</IPC>
+<NCL>
+<Class>
+A61K47/48H4S4
+</Class>
+<Class>
+A61K47/48K8
+</Class>
+<Class>
+A61K47/48R2H
+</Class>
+<Class>
+A61K47/48R2T
+</Class>
+<Class>
+A61K47/48R4
+</Class>
+<Class>
+A61K47/48R6D
+</Class>
+<Class>
+A61K47/48T4
+</Class>
+<Class>
+A61K47/48T8M
+</Class>
+<Class>
+A61K47/48W18B
+</Class>
+<Class>
+B82Y5/00
+</Class>
+</NCL>
+<Abstract>
+The present invention concerns methods and compositions for delivery of therapeutic agents to target cells, tissues or organisms. In preferred embodiments, the therapeutic agents are delivered in the form of therapeutic-loaded polymers that may comprise many copies of one or more therapeutic agents. In more preferred embodiments, the polymer may be conjugated to a peptide moiety that contains one or more haptens, such as HSG. The agent-polymer-peptide complex may be delivered to target cells by, for example, a pre-targeting technique utilizing bispecific or multispecific antibodies or fragments, having at least one binding arm that recognizes the hapten and at least a second binding arm that binds specifically to a disease or pathogen associated antigen, such as a tumor associated antigen. Methods for synthesizing and using such therapeutic-loaded polymers and their conjugates are provided.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A complex comprising
+</P>
+<P>
+(a) functionalized polymer comprising multiples of one or more therapeutic moieties, or functional groups that can be chemoselectively coupled to bifunctional therapeutic moieties or non-covalently complexed with therapeutic moieties; and
+</P>
+<P>
+(b) recognition structural moieties in the range of 1-10 moieties per polymer molecule.
+</P>
+<P>
+2. The complex of claim 1, wherein the polymer is selected from dextran, polyglutamic acid, and dendrimer, each of different MW sizes.
+</P>
+<P>
+3. The complex of claim 2, wherein the polymer is dextran.
+</P>
+<P>
+4. The complex of claim 1, wherein the recognition moiety is selected from the group consisting of a peptide containing one or two molecules of a hapten such as HSG or DTPA; folate; somatostatin; VIP; biotin; antisense oligonuclide; and &apos;AD&apos; peptide of &apos;dock and lock&apos; (DNL) technology.
+</P>
+<P>
+5. The complex of claim 1, wherein the therapeutic moieties are selected from the group consisting of chemotherapeutic drugs, vinca alkaloids, anthracyclines, epidophyllotoxins, taxanes, antimetabolites, alkylating agents, antibiotics, Cox-2 inhibitors, antimitotic agents, antiangiogenic agents, proapoptotic agents, doxorubicin, methotrexate, taxol, camptothecins, nitrogen mustards, alkyl sulfonates, nitrosoureas, triazenes, folic acid analogs, pyrimidine analogs, purine analogs, platinum coordination complexes, hormones, toxins, ricin, abrin, ribonuclease (RNase), DNase I, Staphylococcal enterotoxin-A, pokeweed antiviral protein, gelonin, diphtherin toxin, Pseudomonas exotoxin, and Pseudomonas endotoxin.
+</P>
+<P>
+6. The complex of claim 1, wherein the functional group is selected from one or more of acetylene (or azide), hydrazide, cyclodextrin, vinyl sulfone, maleimide, thiol, bromoacetamide, iodoacetamide, isothiocyanate, and activated carboxyl group.
+</P>
+<P>
+7. The complex of claim 6, wherein the functional group is acetylene or azide, and the coupling is carried out with drug derivatized with azide or acetylene.
+</P>
+<P>
+8. The complex of claim 6, wherein the functional group is cyclodextrin, and the therapeutic moiety is coupled by non-covalent host-guest complexation.
+</P>
+<P>
+9. The complex of claim 1, wherein the chemotherapeutic moieties can be from a single or multiple drug types.
+</P>
+<P>
+10. The complex of claim 4, wherein the recognition moiety is &apos;AD&apos; peptide of DNL method, and the DNL assembly is done either prior to or after the attachment of drugs or therapeutic moieties to said polymer.
+</P>
+<P>
+11. The complex of claim 1, wherein the spacer linking the drug to the polymer contains an intracellularly cleavable bond.
+</P>
+<P>
+12. The complex of claim 11, wherein the cleavable bond is hydrazone, a cathepsin-B-cleavable peptide, a disulfide, or an ester bond cleavable by esterases.
+</P>
+<P>
+13. The complex according to claim 1, wherein said recognition moiety is specific for one of the arms of a bi- or multispecific antibody, and one or more of other arms of the said antibody is a disease-targeting MAb derived from a murine, chimeric, primatized, humanized, or human monoclonal antibody, and said antibody is in intact, fragment (Fab, Fab&apos;, F(ab)2, F(ab&apos;)2), or sub-fragment (single-chain constructs) form.
+</P>
+<P>
+14. The complex of claim 13, wherein said multispecific MAb is a bispecific and/or bivalent antibody construct comprising one or more antibodies selected from the group consisting of LL1, LL2, hA20, 1F5, L243, RS7, PAM-4, MN-14, MN-15, Mu-9, L19, G250, J591, CC49 and Immu 31.
+</P>
+<P>
+15. The complex of claim 13, wherein the MAb is reactive with an antigen or epitope of an antigen associated with a cancer or malignant cell, an infectious organism, an autoimmune disease, a cardiovascular disease, or a neurological disease.
+</P>
+<P>
+16. The complex of claim 15, wherein said cancer cell is a cell from a hematopoietic tumor, carcinoma, sarcoma, melanoma or a glial tumor.
+</P>
+<P>
+17. The complex of claim 13, wherein said MAb binds to a B-cell lineage antigen, a T-cell antigen, a myeloid lineage antigen or a HLA-DR antigen.
+</P>
+<P>
+18. The complex of claim 15, wherein said infectious organism is a bacterium, virus, fungus, microorganism or parasite.
+</P>
+<P>
+19. The complex of claim 18, wherein said infectious organism is selected from the group consisting of human immunodeficiency virus (HIV) causing AIDS, Mycobacterium tuberculosis, Streptococcus agalactiae, methicillin-resistant Staphylococcus aureus, Legionella pneumophilia, Streptococcus pyogenes, Escherichia coli, Neisseria gonorrhosae, Neisseria meningitidis, Pneumococcus sp., Hemophilis influenzae B, Treponema pallidum, Lyme disease spirochetes, West Nile virus, Pseudomonas aeruginosa, Mycobacterium leprae, Brucella abortus, rabies virus, influenza virus, cytomegalovirus, herpes simplex virus I, herpes simplex virus II, human serum parvo-like virus, respiratory syncytial virus, varicella-zoster virus, hepatitis B virus, measles virus, adenovirus, human T-cell leukemia viruses, Epstein-Barr virus, murine leukemia virus, mumps virus, vesicular stomatitis virus, sindbis virus, lymphocytic choriomeningitis virus, wart virus, blue tongue virus, Sendai virus, feline leukemia virus, reo virus, polio virus, simian virus 40, mouse mammary tumor virus, dengue virus, rubella virus, Plasmodium falciparum, Plasmodium vivax, Toxoplasma gondii, Trypanosoma rangeli, Trypanosoma cruzi, Trypanosoma rhodesiensei, Trypanosoma brucei, Schistosoma mansoni, Schistosoma japanicum, Babesia bovis, Elmeria tenella, Onchocerca volvulus, Leishmania tropica, Trichinella spiralis, Theileria parva, Taenia hydatigena, Taenia ovis, Taenia saginata, Echinococcus granulosus, Mesocestoides corti, Mycoplasma arthritidis, M. hyorhinis, M. orale, M. arginini, Acholeplasma laidlawii, M. salivarium, and M. pneumoniae.
+</P>
+<P>
+20. The complex of claim 15, wherein the autoimmune disease is selected from the group consisting of immune-mediated thrombocytopenias, dermatomyositis, Sjögren&apos;s syndrome, multiple sclerosis, Sydenham&apos;s chorea, myasthenia gravis, systemic lupus erythematosus, lupus nephritis, rheumatic fever, rheumatoid arthritis, polyglandular syndromes, bullous pemphigoid, diabetes mellitus, Henoch-Schonlein purpura, post-streptococcal nephritis, erythema nodosum, Takayasu&apos;s arteritis, Addison&apos;s disease, rheumatoid arthritis, sarcoidosis, ulcerative colitis, erythema multiforme, IgA nephropathy, polyarteritis nodosa, ankylosing spondylitis, Goodpasture&apos;s syndrome, thromboangitis ubiterans, primary biliary cirrhosis, Hashimoto&apos;s thyroiditis, thyrotoxicosis, scleroderma, chronic active hepatitis, polymyositis/dermatomyositis, polychondritis, pamphigus vulgaris, Wegener&apos;s granulomatosis, membranous nephropathy, amyotrophic lateral sclerosis, tabes dorsalis, giant cell arteritis/polymyalgia, pernicious anemia, rapidly progressive glomerulonephritis fibrosing alveolitis, and juvenile diabetes.
+</P>
+<P>
+21. The complex of claim 15, wherein the cardiovascular disease comprises myocardial infarction, ischemic heart disease, atherosclerotic plaques, fibrin clots, emboli, or a combination thereof.
+</P>
+<P>
+22. The complex of claim 15, wherein the antibody specifically binds an antigen associated with a neurological disease and the antigen comprises amyloid or beta-amyloid.
+</P>
+<P>
+23. The complex of claim 15, wherein the disease-targeting antibody binds to an antigen selected from the group consisting of CD74, CD22, epithelial glycoprotein-1, carcinoembryonic antigen (CEA or CD66e), colon-specific antigen-p, alpha-fetoprotein, CC49, prostate-specific membrane antigen, carbonic anhydrase IX, HER-2/neu, EGFR (ErbB1), ErbB2, ErbB3, ILGF, BrE3, CD19, CD20, CD21, CD23, CD33, CD45, CD74, CD80, VEGF, ED-B fibronectin, P1GF, other tumor angiogenesis antigens, MUC1, MUC2, MUC3, MUC4, gangliosides, HCG, EGP-2, CD37, HLA-DR, CD30, Ia, A3, A33, Ep-CAM, KS-1, Le(y), S100, PSA, tenascin, folate receptor, Thomas-Friedreich antigens, tumor necrosis antigens, Ga 733, IL-2, IL-6, T101, MAGE, migration inhibition factor (MIF), an antigen that is bound by L243, an antigen that is bound by PAM4, CD66a (BGP), CD66b (CGM6), 66CDc (NCA), 66CDd (CGM1), TAC and combinations thereof.
+</P>
+<P>
+24. The complex of claim 13, wherein said antibody is selected from the group consisting of LL1, LL2, RFB4, hA20, 1F5, L243, RS7, PAM-4, MN-14, MN-15, Mu-9, AFP-31, L19, G250, J591, CC49, L243, PAM4 and Immu 31.
+</P>
+<P>
+25. The complex of claim 1, wherein the number of recognition moieties is 1.
+</P>
+</Claims>
+<Also_published_as>
+US2008171067A1;WO2008088658A2;WO2008088658A3;JP2010516675A;CA2675014A1;AU2007343610A1
+</Also_published_as>
+</BiblioData>

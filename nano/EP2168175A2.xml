@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SURFACE PLASMON- ENHANCED PHOTOVOLTAIC DEVICE
+</Title>
+<PublicationNumber>
+EP2168175A2
+</PublicationNumber>
+<Inventor>
+<Name>
+KOSTECKI ROBERT [US]
+</Name>
+<Name>
+MAO SAMUEL S [US]
+</Name>
+<Name>
+KOSTECKI, ROBERT
+</Name>
+<Name>
+MAO, SAMUEL, S
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV CALIFORNIA [US]
+</Name>
+<Name>
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2168175
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080796251
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-17
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US70347
+</PriorityNumber>
+<PriorityDate>
+2008-07-17
+</PriorityDate>
+<PriorityNumber>
+US20070950557P
+</PriorityNumber>
+<PriorityDate>
+2007-07-18
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L31/042
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L31/0352C2
+</Class>
+<Class>
+H01L31/0352C3
+</Class>
+<Class>
+H01L31/07
+</Class>
+<Class>
+H01L31/108B
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+Photovoltaic devices are driven by intense photoemission of &quot;hot&quot; electrons from a suitable nanostructured metal. The metal should be an electron source with surface plasmon resonance within the visible and near-visible spectrum range (near IR to near UV (about 300 to 1000 nm)). Suitable metals include silver, gold, copper and alloys of silver, gold and copper with each other. Silver is particularly preferred for its advantageous opto-electronic properties in the near UV and visible spectrum range, relatively low cost, and simplicity of processing.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+What is claimed:
+</P>
+<P>
+1. An electronic device comprising:
+</P>
+<P>
+a metal electron source layer comprising a nanostructured metal surface having a surface plasmon resonance within the visible and near-visible spectrum range;
+</P>
+<P>
+a semiconductor layer in contact with the metal electron source layer, wherein the metal electron source layer and the semiconductor layer form an interface that is a Schottky barrier; and
+</P>
+<P>
+an electrode layer in contact with the semiconductor layer, wherein the electrode layer forms an ohmic contact to the semiconductor layer.
+</P>
+<P>
+2. The device of claim 1, wherein metal electron source layer is a nanostructured metal layer having a surface plasmon resonance within the visible and near-visible spectrum range.
+</P>
+<P>
+3. The device of claim 2, wherein the nanostructured metal layer comprises silver.
+</P>
+<P>
+4. The device of claim 3, wherein the nanostructured metal layer is silver.
+</P>
+<P>
+5. The device of claim 3, wherein the nanostructured metal layer is a silver alloy.
+</P>
+<P>
+6. The device of claim 5, wherein the silver alloy comprises another metal selected from the group consisting of copper, gold and a combination thereof.
+</P>
+<P>
+7. The device of claim 1, wherein the nanostructured metal layer comprises gold.
+</P>
+<P>
+8. The device of claim 1, wherein the semiconductor layer comprises n- type TiO2.
+</P>
+<P>
+9. The device of claim 1, wherein the electrode layer comprises gold.
+</P>
+<P>
+10. The device of claim 1, further comprising an electrical connection between the nanostructured metal layer and the electrode.
+</P>
+<P>
+11. A photovoltaic device comprising:
+</P>
+<P>
+a nanostructured metal layer that can absorb at least a portion of the electromagnetic spectrum of sunlight and produce hot electrons that have an energy no less than about 0.7 eV;
+</P>
+<P>
+a semiconductor layer in contact with the nanostructured metal layer to form a Schottky barrier with a barrier height of about 0.7 eV;
+</P>
+<P>
+an electrode layer in contact with the semiconductor layer to form an ohmic contact.
+</P>
+<P>
+12. The device of claim 11, wherein the nanostructured metal layer comprises silver.
+</P>
+<P>
+13. The device of claim 12, wherein the semiconductor layer comprises n-type TiO2.
+</P>
+<P>
+14. The device of claim 13, wherein the electrode layer comprises gold.
+</P>
+<P>
+15. The device of claim 11, further comprising an electrical connection between the nanostructured metal layer and the electrode.
+</P>
+<P>
+16. An electronic device, comprising:
+</P>
+<P>
+a nanostructured silver layer;
+</P>
+<P>
+an n-type TiO2 layer in contact with the silver layer; a metal electrode in contact with the TiO2layer to form an ohmic contact;
+</P>
+<P>
+an electrical connection between the silver layer and the metal electrode.
+</P>
+<P>
+17. A method of making a photovoltaic device, comprising:
+</P>
+<P>
+depositing a metal electrode layer onto a substrate;
+</P>
+<P>
+forming a semiconductor layer on the metal layer;
+</P>
+<P>
+forming a nano structured layer of a metal having a surface plasmon resonance within the visible and near-visible spectrum range on the semiconductor layer;
+</P>
+<P>
+wherein the nano structured metal layer and the semiconductor layer form an interface that is a Schottky barrier; and
+</P>
+<P>
+wherein the electrode layer forms an ohmic contact to the semiconductor layer.
+</P>
+<P>
+18. The method of claim 17, wherein the nanostructured metal layer comprises silver.
+</P>
+<P>
+19. The method of claim 18, wherein the semiconductor layer comprises n-type TiO2.
+</P>
+<P>
+20. The method of claim 17, wherein the electrode layer comprises gold.
+</P>
+<P>
+21. The method of claim 19, wherein the nanostructured silver layer is formed by bombarding a silver target with an ultrafast laser pulse to deposit a thin film of silver nanoparticles onto the layer of TiO2.
+</P>
+</Claims>
+<Also_published_as>
+WO2009012397A2;WO2009012397A3;US2010175745A1
+</Also_published_as>
+</BiblioData>

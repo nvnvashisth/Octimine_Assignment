@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Memory device
+</Title>
+<PublicationNumber>
+EP2023418A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ROSSELLI SILVIA [DE]
+</Name>
+<Name>
+MITEVA TZENKA [DE]
+</Name>
+<Name>
+KNORR NIKOLAUS [DE]
+</Name>
+<Name>
+NELLES GABRIELE [DE]
+</Name>
+<Name>
+YASUDA AKIO [DE]
+</Name>
+<Name>
+ROSSELLI, SILVIA
+</Name>
+<Name>
+MITEVA, TZENKA
+</Name>
+<Name>
+KNORR, NIKOLAUS
+</Name>
+<Name>
+NELLES, GABRIELE
+</Name>
+<Name>
+YASUDA, AKIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SONY CORP [JP]
+</Name>
+<Name>
+SONY CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2023418
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070015711
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-09
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070015711
+</PriorityNumber>
+<PriorityDate>
+2007-08-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C13/02
+</Class>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C13/00R5
+</Class>
+<Class>
+G11C13/00R5C
+</Class>
+<Class>
+G11C13/00R5C2
+</Class>
+<Class>
+H01L51/05D10
+</Class>
+</NCL>
+<Abstract>
+Memory device, comprising a storage material, a first electrode connected to the storage material;  and a second electrode associated to the storage material.
+</Abstract>
+<Claims>
+<P>
+1. Memory device, comprising:
+</P>
+<P>
+- a storage material (7),
+</P>
+<P>
+- a first electrode (3) connected to the storage material; and
+</P>
+<P>
+- a second electrode (13, 17) associated to the storage material.
+</P>
+<P>
+2. Memory device of claim 1, characterized in that it comprises a probe (17) that is movable across the storage material and that forms the second electrode.
+</P>
+<P>
+3. Memory device of claim 1, characterized in that the second electrode (13) is fixed to the storage material (7).
+</P>
+<P>
+4. Memory device of one of the preceding claims, characterized in that it comprises at least one of an interface layer (5) arranged between the first electrode and the storage material (7) and an interface layer (9) arranged on top of the storage material.
+</P>
+<P>
+5. Memory device of one of the preceding claims, characterized in that it comprises a means (19) adjusted to apply a voltage pulse to the storage material to store and erase information in the storage material.
+</P>
+<P>
+6. Memory device of one of the preceding claims, characterized in that it comprises a means (19) to read information stored in the storage material which is adapted to apply and measure an electric current flowing through the storage material or adapted to measure an electric field of said storage material.
+</P>
+<P>
+7. Memory device one of the preceding claims, characterized in that the storage material (7) is one of the group comprising a material exhibiting a change of conductivity upon application of an electric current, a material exhibiting a change of conductivity upon application of an electric field, a material exhibiting a change of polarization upon application of an electrical current, and a material exhibiting a change of polarization upon application of an electric field.
+</P>
+<P>
+8. Memory device of claim 7, characterized in that the storage material (7) exhibiting a change of conductivity upon application of an electric current comprises an electron poor molecule having one of the formulas:
+</P>
+<P>
+wherein R, R1, R2, R3, R4, R5, R6 = C=O, COOH, F, Cl, Br, I, CN, NO2, NR3&amp;lt;+&amp;gt;, O-Ar, COOR, OR, COR, SH, SR, CONH2, CONHR, CONR2, CHO, OH, SO2R, SO2OR, NO, C[identical to]CR, Ar; and
+</P>
+<P>
+wherein M = transition metal, X, Y = electron withdrawing group like C=O, COOH, F, Cl, Br, I, CN, NO2, NR3&amp;lt;+&amp;gt;, N=C, O-Ar, COOR, OR, COR, SH, SR, CONH2, CONHR, CONR2, CHO, C=N, OH, SO2R, SO2OR, NO, C[identical to]CR, Ar and R1, R2 = aromatic, allilylic; a, b = integer number.
+</P>
+<P>
+9. Memory device of claim 7 or 8, characterized in that the Storage material (7) exhibiting a change of conductivity upon application of an electric current comprises an electron poor molecule having one of the formulas:
+</P>
+<P>
+and
+</P>
+<P>
+10. Memory device of claim 7, characterized in that the storage material (7) exhibiting a change of conductivity upon application of an electric current comprises a Redox-addressable molecule having the formula:
+</P>
+<P>
+wherein R1, R2, R3, R4 = aryl or alkyl and X&amp;lt;-&amp;gt; = anion.
+</P>
+<P>
+11. Memory device of claim 7 or 10, characterized in that the storage material (7) exhibiting a change of conductivity upon application of an electric current comprises a Redox-addressable molecule of one of the formulas:
+</P>
+<P>
+and
+</P>
+<P>
+12. Memory device of claim 7, characterized in that the storage material (7) includes components undergoing a charge transfer in response to an application of an electric field or in that the storage material (7) undergoes a charge transfer with a connected electrode in response to an application of an electric field.
+</P>
+<P>
+13. Memory device of claim 12, characterized in that the storage material (7) contains one or more of the following donor groups: O&amp;lt;-&amp;gt;, S&amp;lt;-&amp;gt;, NR2, NAr2, NRH, NH2, NHCOR, OR, OH, OCOR, SR, SH, Br, I, Cl, F, R, Ar.
+</P>
+<P>
+14. Memory device of claim 12 or 13, characterized in that the storage material (7) comprises an electron donor molecule of one of the formulas comprising:
+</P>
+<P>
+and
+</P>
+<P>
+15. Memory device of one of claims 12 to 14, characterized in that the storage material (7) comprises one or more of the acceptor groups including: NO2, CN, COOH, COOR, CONH2, CONHR, CONR2, CHO, COR, SO2R, SO2OR, NO, Ar.
+</P>
+<P>
+16. Memory device of one of claims 12 to 15, characterized in that the storage material (7) comprises am electron acceptor molecule of the group comprising C60 fullerene, C61 fullerene, fullerene derivatives, semiconductor nanodots, electron poor transition metal complexes, CdSe and platinum octaethyl porphine.
+</P>
+<P>
+17. Memory device of one of claims 12 to 16, characterized in that the storage material (7) undergoing a charge transfer in response to an application of an electric field comprises a material according to one of the formulas:
+</P>
+<P>
+wherein R4 and R5 are independently at each occurrence selected from the group comprising:
+</P>
+<P>
+and H
+</P>
+<P>
+R1 and R2 being independently selected from the group comprising straight chain C1-20 alkyl, branched C1-20 alkyl, aryl, substituted aryl, alkylaryl, substituted alkylaryl, alkoxyaryl, substituted alkoxyaryl, aryloxyaryl, substituted aryloxyaryl, dialkylaminoaryl, substituted dialkylaminoaryl, diarylaminoaryl and substituted diarylaminoaryl, R3 being selected from the group comprising straight chain C1-20 alkyl, branched C1-20 alkyl, aryl, substituted aryl, alkylaryl and substituted alkylaryl,
+</P>
+<P>
+and wherein R6 and R7 are independently at each occurrence selected from the group comprising straight chain C1-20 alkyl, branched chain C1-20 alkyl, aryl, substituted aryl, alkylaryl, substituted alkylaryl, -(CH2)q-(O-CH2-CH2)r-O-CH3,
+</P>
+<P>
+q being selected from the range 1&amp;lt;=q&amp;lt;=10, r being selected from the range 0&amp;lt;=r&amp;lt;=20, and wherein L and M are independently at each occurrence selected from the group comprising thiophene, substituted thiophene, phenyl, substituted phenyl, phenanthrene, substituted phenanthrene, anthracene, substituted anthracene, any aromatic monomer that can be synthesized as a dibromo-substituted monomer, benzothiadiazole, substituted benzothiadiazole, perylene and substituted perylene,
+</P>
+<P>
+and wherein m+n+o&amp;lt;=10, each of m, n, o being independently selected from the range 1-1,000,
+</P>
+<P>
+and wherein p is selected from the range 0-15,
+</P>
+<P>
+and wherein s is selected from the range 0-15,
+</P>
+<P>
+with the proviso that, if R4 is H, R5 is not H, and if R5 is H, R4 is not H;
+</P>
+<P>
+wherein L independently at each occurrence is selected from the group consisting of thiophene, substituted thiophene, phenyl, substituted phenyl, phenanthrene, substituted phenanthrene, anthracene, substituted anthracene, any aromatic monomer that can be synthesized as a dibromo-substituted monomer, benzothiadiazole, substituted benzothiadiazole, perylene and substituted perylene, and wherein R6 and R7 are independently at each occurrence selected from the group consisting of straight chain C1-20, branched chain C1-20 alkyl, aryl, substituted aryl alkylaryl, -(CH2)q-(O-CH2_CH2)r-O-CH3, q being selected from the range 1-10, r being selected from the range 0-20 and
+</P>
+<P>
+wherein R4 and R5 are independently at each occurrence selected from the group comprising:
+</P>
+<P>
+and H
+</P>
+<P>
+18. Memory device of one of claims 12 to 17, characterized in that the storage material undergoing a charge transfer in response to an application of an electric field has one of the formulas:
+</P>
+<P>
+and
+</P>
+<P>
+19. Memory device of claim 7, characterized in that the material exhibiting a change of polarization upon application of an electrical current is one of the group comprising fluoropolymers (polytetrafluoroethylene, polyvinylidene difluoride, polyfluoroethylene-propylene, perfluoralkoxy, polychloro-trifluoroethylene, amorphous Teflon-AF, polyvinylidene chloride), cycloolefines (COC), polyamides, polyimides, polyesters (polycarbonates (PC), polyethylene terephthalate), polystyrene (PS), polymethyl methacrylate (PMMA), polypropylene, polysulfone, polyethylene, polyvinyl chloride, polyurethane.
+</P>
+<P>
+20. Memory device of claim 7 or 19, characterized in that the material exhibiting a change of polarization upon application of an electrical current is an isolating dielectric material sustaining a quasi-permanent external electric field when polarized by uncompensated monopolar charges or aligned polar charges.
+</P>
+<P>
+21. Memory device of one of claims 7, 19 and 20, characterized in that the material exhibiting a change of polarization upon application of an electrical current is one of the group including a blend of an organic electret with an acceptor or donor molecule, a blend of an isolating dielectric material with a dipole molecule or dipole complex and a molecule with intra-molecular dipoles.
+</P>
+<P>
+22. Memory device of claim 7, characterized in that the material exhibiting a change of polarization upon application of an electric field is N,N&apos;-Diphenyl-N,N&apos;-bis(4&apos;-(N,N-bis(naphtha-1-yl)-amino)-biphenyl-4-yl)benzidine with 5 wt.% of fullerene C61.
+</P>
+<P>
+23. Method of storing and reading information, comprising;
+</P>
+<P>
+- providing a memory device according to one of the preceding claims comprising a storage material (7);
+</P>
+<P>
+- applying a voltage pulse to the storage material (7) to store information; and
+</P>
+<P>
+- reading the information.
+</P>
+<P>
+24. Method of claim 23, characterized in that reading the information comprises measuring of an electric current flowing through the storage material (7) or measuring of an electric field in said storage material (7).
+</P>
+<P>
+25. Method of claim 23 or 24, characterized in that it further comprises applying a voltage pulse to the storage material (7) to erase said information.
+</P>
+<P>
+26. Method of one of claims 23 to 25, characterized in that it further comprises moving a probe as an electrode across the storage material (7) to a position where said information is stored in the storage material (7).
+</P>
+<P>
+27. Method of one of claims 23 to 26, characterized in that it further comprises positioning the probe (17) at a distance from the storage material (7) to read the information.
+</P>
+<P>
+28. Method of manufacture of a memory device comprising:
+</P>
+<P>
+- depositing a storage material (7) on a first electrode (3); and
+</P>
+<P>
+- providing a second electrode (13, 17) associated to the storage material (7).
+</P>
+<P>
+29. Method of claim 28, characterized in that it comprises arranging a probe (17) over the storage material (7) that is movable across the surface of the storage material (7).
+</P>
+<P>
+30. Method of claim 28, characterized in that it comprises depositing a fixed electrode (13) on top of the storage material (7).
+</P>
+<P>
+31. Method of one of claims 28 to 30, characterized in that it comprises arranging at least one of an interface layer (5) between the first electrode (3) and the storage material (7) and an interface layer (9) on top of the storage material (7).
+</P>
+<P>
+32. Method of one of claims 28 to 31, characterized in that it comprises providing a means (19) that is adjusted to apply a voltage pulse to the storage material (7) to store and erase information in the storage material (7).
+</P>
+<P>
+33. Method of one of claims 28 to 32, characterized in that it comprises providing a means (19) to read information stored in the storage material (7) which is adapted to apply and measure an electric current flowing through the storage material (7) or adapted to measure an electric field of said storage material (7).
+</P>
+<P>
+34. Method of one of claims 28 to 33, characterized in that the storage material (7) is one of the group comprising a material exhibiting a change of conductivity upon application of an electric current, a material exhibiting a change of conductivity upon application of an electric field, a material exhibiting a change of polarization upon application of an electrical current, and a material exhibiting a change of polarization upon application of an electric field.
+</P>
+<P>
+35. Method of claim 34, characterized in that the storage material (7) exhibiting a change of conductivity upon application of an electric current comprises an electron poor molecule having one of the formulas:
+</P>
+<P>
+wherein R, R1, R2, R3, R4, R5, R6 = C=O, COOH, F, Cl, Br, I, CN, NO2, NR3&amp;lt;+&amp;gt;, O-Ar, COOR, OR, COR, SH, SR, CONH2, CONHR, CONR2, CHO, OH, SO2R, SO2OR, NO, C[identical to]CR, Ar; and
+</P>
+<P>
+wherein M = transition metal, X, Y = electron withdrawing group like C=O, COOH, F, Cl, Br, I, CN, NO2, NR3&amp;lt;+&amp;gt;, N=C, O-Ar, COOR, OR, COR, SH, SR, CONH2, CONHR, CONR2, CHO, C=N, OH, SO2R, SO2OR, NO, C[identical to]CR, Ar and R1, R2 = aromatic, allilylic; a, b = integer number.
+</P>
+<P>
+36. Method of claim 34 or 35, characterized in that the storage material (7) exhibiting a change of conductivity upon application of an electric current comprises a molecule having one of the formulas:
+</P>
+<P>
+and
+</P>
+<P>
+37. Method of claim 34, characterized in that the storage material (7) exhibiting a change of conductivity upon application of an electric current comprises a Redox-addressable molecule having the formula:
+</P>
+<P>
+wherein R1, R2, R3, R4 = aryl or alkyl and X&amp;lt;-&amp;gt; = anion.
+</P>
+<P>
+38. Method of claim 35 or 37, characterized in that the storage material (7) exhibiting a change of conductivity upon application of an electric current comprises a Redox-addressable molecule of one of the formulas:
+</P>
+<P>
+and
+</P>
+<P>
+39. Method of claim 34, characterized in that the storage material (7) includes components undergoing a charge transfer in response to an application of an electric field or in that the storage material (7) undergoes a charge transfer with a connected electrode in response to an application of an electric field.
+</P>
+<P>
+40. Memory device of claim 34 or 39, characterized in that the storage material (7) contains one or more of the following donor groups: O&amp;lt;-&amp;gt;, S&amp;lt;-&amp;gt;, NR2, NAr2, NRH, NH2, NHCOR, OR, OH, OCOR, SR, SH, Br, I, Cl, F, R, Ar.
+</P>
+<P>
+41. Method of one of claims 34, 39 and 40, characterized in that the storage material (7) comprises a donor molecule of one of the formulas comprising:
+</P>
+<P>
+and
+</P>
+<P>
+42. Method of one of claims 34, 39 to 41, characterized in that the storage material (7) comprises one or more of the acceptor groups including: NO2, CN, COOH, COOR, CONH2, CONHR, CONR2, CHO, COR, SO2R, SO2OR, NO, Ar.
+</P>
+<P>
+43. Method of one of claims 34, 39 to 42, characterized in that the storage material (7) comprises an electron acceptor of the group comprising C60 fullerene, C61 fullerene, fullerene derivatives, semiconductor nanodots, electron poor transition metal complexes, CdSe, and platinum octaethyl porphine.
+</P>
+<P>
+44. Method of one of claims 34, 39 to 43, characterized in that the storage material (7) undergoing a charge transfer in response to an application of an electric field comprises a material according to one of the formulas:
+</P>
+<P>
+wherein R4 and R5 are independently at each occurrence selected from the group comprising:
+</P>
+<P>
+and H
+</P>
+<P>
+R1 and R2 being independently selected from the group comprising straight chain C1-20 alkyl, branched C1-20 alkyl, aryl, substituted aryl, alkylaryl, substituted alkylaryl, alkoxyaryl, substituted alkoxyaryl, aryloxyaryl, substituted aryloxyaryl, dialkylaminoaryl, substituted dialkylaminoaryl, diarylaminoaryl and substituted diarylaminoaryl, R3 being selected from the group comprising straight chain C1-20 alkyl, branched C1-20 alkyl, aryl, substituted aryl, alkylaryl and substituted alkylaryl,
+</P>
+<P>
+and wherein R6 and R7 are independently at each occurrence selected from the group comprising straight chain C1-20 alkyl, branched chain C1-20 alkyl, aryl, substituted aryl, alkylaryl, substituted alkylaryl, -(CH2)q-(O-CH2-CH2)r-O-CH3,
+</P>
+<P>
+q being selected from the range 1&amp;lt;=q&amp;lt;=10, r being selected from the range 0&amp;lt;=r&amp;lt;=20, and wherein L and M are independently at each occurrence selected from the group comprising thiophene, substituted thiophene, phenyl, substituted phenyl, phenanthrene, substituted phenanthrene, anthracene, substituted anthracene, any aromatic monomer that can be synthesized as a dibromo-substituted monomer, benzothiadiazole, substituted benzothiadiazole, perylene and substituted perylene,
+</P>
+<P>
+and wherein m+n+o&amp;lt;=10, each of m, n, o being independently selected from the range 1-1,000,
+</P>
+<P>
+and wherein p is selected from the range 0-15,
+</P>
+<P>
+and wherein s is selected from the range 0-15,
+</P>
+<P>
+with the proviso that, if R4 is H, R5 is not H, and if R5 is H, R4 is not H;
+</P>
+<P>
+wherein L independently at each occurrence is selected from the group consisting of thiophene, substituted thiophene, phenyl, substituted phenyl, phenanthrene, substituted phenanthrene, anthracene, substituted anthracene, any aromatic monomer that can be synthesized as a dibromo-substituted monomer, benzothiadiazole, substituted benzothiadiazole, perylene and substituted perylene, and wherein R6 and R7 are independently at each occurrence selected from the group consisting of straight chain C1-20, branched chain C1-20 alkyl, aryl, substituted aryl alkylaryl, -(CH2)q-(O-CH2_CH2)r-O-CH3, q being selected from the range 1-10, r being selected from the range 0-20 and
+</P>
+<P>
+wherein R4 and R5 are independently at each occurrence selected from the group comprising:
+</P>
+<P>
+and H
+</P>
+<P>
+45. Method of one of claims 34, 39 to 44, characterized in that the storage material undergoing a charge transfer in response to an application of an electric field has one of the formulas:
+</P>
+<P>
+and
+</P>
+<P>
+46. Method of claim 34, characterized in that the material exhibiting a change of polarization upon application of an electric current is a polarizable isolating organic dielectric material sustaining a quasi-permanent external electrical field in a polarized condition-including at least one of the groups comprising fluoropolymers (polytetrafluoroethylene, polyvinylidene difluoride, polyfluoroethylene-propylene, perfluoralkoxy, polychloro-trifluoroethylene, amorphous Teflon-AF, polyvinylidene chloride), cycloolefines (COC), polyamides, polyimides, polyesters (polycarbonates (PC), polyethylene terephthalate), polystyrene (PS), polymethyl methacrylate (PMMA), polypropylene, polysulfone, polyethylene, polyvinyl chloride, polyurethane.
+</P>
+<P>
+47. Method of claim 34 or 46, characterized in that the material exhibiting a change of polarization upon application of an electrical current is an isolating dielectric materials sustaining a quasi-permanent external electric field when polarized by uncompensated monopolar charges or aligned polar charges.
+</P>
+<P>
+48. Method of one of claims 34, 46 and 47, characterized in that the material exhibiting a change of polarization upon application of an electrical current is one of the group including a blend of an organic electret with an acceptor or donor molecule, a blend of an isolating dielectric material with a dipole molecule or dipole complex and a molecule with intra-molecular dipoles.
+</P>
+<P>
+49. Method of claim 34, characterized in that the material exhibiting a change of polarization upon application of an electric field is N,N&apos;-Diphenyl-N,N&apos;-bis(4&apos;-(N,N-bis(naphtha-1-yl)-amino)-biphenyl-4-yl)benzidine with 5 wt.% of fullerene C61.
+</P>
+</Claims>
+<Also_published_as>
+US2011286263A1;KR20100058497A;WO2009019000A1;CN101779306A;CN101779306B
+</Also_published_as>
+</BiblioData>

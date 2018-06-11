@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ELECTRIC-FIELD- ENHANCEMENT STRUCTURE AND DETECTION APPARATUS USING SAME
+</Title>
+<PublicationNumber>
+EP2158461A2
+</PublicationNumber>
+<Inventor>
+<Name>
+FATTAL DAVID [US]
+</Name>
+<Name>
+LI ZHIYONG [US]
+</Name>
+<Name>
+TONG WILLIAM [US]
+</Name>
+<Name>
+STEWART DUNCAN [US]
+</Name>
+<Name>
+BLACKSTOCK JASON [US]
+</Name>
+<Name>
+FATTAL, DAVID
+</Name>
+<Name>
+LI, ZHIYONG
+</Name>
+<Name>
+TONG, WILLIAM
+</Name>
+<Name>
+STEWART, DUNCAN
+</Name>
+<Name>
+BLACKSTOCK, JASON
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L. P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2158461
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080779774
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US07934
+</PriorityNumber>
+<PriorityDate>
+2008-06-25
+</PriorityDate>
+<PriorityNumber>
+US20070823281
+</PriorityNumber>
+<PriorityDate>
+2007-06-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01J3/44
+</Class>
+<Class>
+G01J4/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01N21/35
+</Class>
+<Class>
+G01N21/55B2N
+</Class>
+<Class>
+G01N21/65D
+</Class>
+<Class>
+G02B5/00P
+</Class>
+<Class>
+G02B6/122S
+</Class>
+</NCL>
+<Abstract>
+Various aspects of the present invention are directed to electric-field-enhancement structures and detection apparatuses that employ such electric-field-enhancement structures. In one aspect of the present invention, an electric-field-enhancement structure includes a substrate having a surface. The substrate is capable of supporting a planar mode having a planar-mode frequency. A plurality of nanofeatures is associated with the surface, and each of nanofeatures exhibits a localized-surface-plasmon mode having a localized-surface-plasmon frequency approximately equal to the planar-mode frequency.
+</Abstract>
+<Claims>
+<P>
+1. An electric-field-enhancement structure, comprising:
+</P>
+<P>
+a substrate including a surface, the substrate capable of supporting a planar mode having a planar-mode frequency;
+</P>
+<P>
+a plurality of nanofeatures associated with the surface of the substrate, each of the nanofeatures exhibiting a localized-surface-plasmon (&quot;LSP&quot;) mode having a LSP frequency approximately equal to the planar-mode frequency, wherein the LSP mode of each of the nanoparticles and the planar mode constructively interfere with each other when excited;
+</P>
+<P>
+a first diffraction grating configured to couple excitation electromagnetic radiation incident thereon to the planar mode; and
+</P>
+<P>
+a second diffraction grating spaced from the first diffraction grating, with the plurality of nanofeatures positioned between the first and the second diffraction gratings and configured to diffract electromagnetic radiation.
+</P>
+<P>
+2. The electric-field-enhancement structure of claim 1 wherein the plurality of nanofeatures comprises at least one of:
+</P>
+<P>
+nanoholes formed in the surface of the substrate; and
+</P>
+<P>
+nanoparticles distributed over the surface of the substrate.
+</P>
+<P>
+3. The electric-field-enhancement structure of claim 1 wherein:
+</P>
+<P>
+the surface of the substrate comprises a metallic material, with the surface positioned adjacent to a dielectric medium; and
+</P>
+<P>
+the planar mode comprises a surface-plasmon-polariton mode.
+</P>
+<P>
+4. The electric-field-enhancement structure of claim 1 wherein:
+</P>
+<P>
+the substrate comprises one or more dielectric layers; and
+</P>
+<P>
+the planar mode comprises a dielectric-surface mode or a guided mode.
+</P>
+<P>
+5. The electric-field-enhancement structure of claim 1 wherein the plurality of nanofeatures defines a diffraction grating configured to couple electromagnetic radiation incident thereon to the planar mode.
+</P>
+<P>
+6. The electric-field-enhancement structure of claim 5 wherein the diffraction grating comprises a plurality of grating components each of which includes more than one nanofeature of the plurality of nanofeatures.
+</P>
+<P>
+7. The electric-field-enhancement structure of claim 1,
+</P>
+<P>
+wherein the second diffraction grating configured to diffract electromagnetic radiation having a frequency different than that of the excitation electromagnetic radiation.
+</P>
+<P>
+8. The electric-field-enhancement structure of claim 1,
+</P>
+<P>
+wherein the second diffraction grating configured to diffract the excitation electromagnetic radiation coupled to the planar mode.
+</P>
+<P>
+9. A detection apparatus, comprising:
+</P>
+<P>
+at least one excitation source operable to emit excitation electromagnetic radiation at a first frequency;
+</P>
+<P>
+a first electric-field-enhancement structure including:
+</P>
+<P>
+a first substrate including a first surface, the first substrate capable of supporting a first planar mode having a first planar-mode frequency;
+</P>
+<P>
+a first plurality of nanofeatures associated with the first surface, each of the nanofeatures of the first plurality of nanofeatures exhibiting a first localized-surface-plasmon (&quot;LSP&quot;) mode having a first LSP frequency approximately equal to the first planar-mode frequency, wherein the first LSP mode of each of the first plurality of nanofeatures and the first planar mode are excited responsive to the excitation radiation at the first frequency;
+</P>
+<P>
+a first diffraction grating configured to couple the excitation electromagnetic radiation incident thereon to the first planar mode; and
+</P>
+<P>
+a second diffraction grating spaced from the first diffraction grating, with the first plurality of nanofeatures positioned between the first and the second diffraction gratings and configured to diffract electromagnetic radiation; and
+</P>
+<P>
+at least one detector operably coupled to the first electric-field-enhancement structure.
+</P>
+<P>
+10. The detection apparatus of claim 9 wherein the first plurality of nanofeatures comprises at least one of:
+</P>
+<P>
+nanoholes formed in the surface of the substrate; and
+</P>
+<P>
+nanoparticles distributed over the surface of the substrate.
+</P>
+<P>
+11. The detection apparatus of claim 9 wherein the first planar mode comprises one of:
+</P>
+<P>
+a surface-plasmon-polariton mode;
+</P>
+<P>
+a guided mode; and
+</P>
+<P>
+a dielectric-surface mode.
+</P>
+<P>
+12. The detection apparatus of claim 9 wherein the first plurality of nanofeatures defines a diffraction grating configured to couple the excitation electromagnetic radiation incident thereon to the first planar mode.
+</P>
+<P>
+13. The detection apparatus of claim 9,
+</P>
+<P>
+wherein the second diffraction grating configured to diffract Raman electromagnetic radiation coupled to the first planar mode from an analyte positioned adjacent to the nanofeatures.
+</P>
+<P>
+14. The detection apparatus of claim 9,
+</P>
+<P>
+wherein the second diffraction grating configured to diffract a portion of the excitation electromagnetic radiation unabsorbed by an analyte positioned adjacent to the nanofeatures and coupled to the first planar mode.
+</P>
+<P>
+15. The detection apparatus of claim 9:
+</P>
+<P>
+wherein the at least one excitation source is further operable to emit excitation electromagnetic radiation at a second frequency; and
+</P>
+<P>
+further comprising:
+</P>
+<P>
+at least a second electric field-enhancement structure including:
+</P>
+<P>
+a second substrate including a second surface, the second substrate capable of supporting a second planar mode having a second planar-mode frequency; and
+</P>
+<P>
+a second plurality of nanofeatures associated with the second surface, each of nanofeatures of the second plurality of nanofeatures exhibiting a second LSP mode having a second LSP frequency approximately equal to the second planar-mode frequency, wherein the second LSP mode of each of the second plurality of nanofeatures and the second planar mode are excited responsive to the electromagnetic radiation at the second frequency.
+</P>
+<P>
+16. A method of generating an enhanced electric field, the method comprising:
+</P>
+<P>
+irradiating a plurality of nanofeatures associated with a surface of a substrate using excitation electromagnetic radiation;
+</P>
+<P>
+responsive to irradiation of the plurality of nanofeatures, exciting a localized-surface-plasmon (&quot;LSP&quot;) mode in each of the nanofeatures;
+</P>
+<P>
+responsive to irradiation of the plurality of nanofeatures, exciting a planar mode in the surface of the substrate; and
+</P>
+<P>
+coupling the electromagnetic radiation to the planar mode by diffracting the electromagnetic radiation using a diffraction grating;
+</P>
+<P>
+constructively interfering the LSP mode excited in each of the nanofeatures and the planar mode excited in the surface to produce the enhanced electric field.
+</P>
+<P>
+17. The method of claim 16 wherein irradiating a plurality of nanofeatures comprises at least one:
+</P>
+<P>
+irradiating a plurality of nanoparticles distributed over the surface of the substrate; and
+</P>
+<P>
+irradiating a plurality of nanoholes formed in the surface of the substrate.
+</P>
+<P>
+18. The method of claim 16 wherein irradiating a plurality of nanofeatures comprises:
+</P>
+<P>
+coupling the electromagnetic radiation to the planar mode by diffracting the electromagnetic radiation using the nanofeatures.
+</P>
+<P>
+19. The method of claim 16, further comprising:
+</P>
+<P>
+disposing an analyte adjacent to the plurality of nanofeatures; and
+</P>
+<P>
+detecting a portion of the excitation electromagnetic radiation unabsorbed by the analyte and coupled to the planar mode of the surface.
+</P>
+<P>
+20. The method of claim 16, further comprising:
+</P>
+<P>
+disposing an analyte adjacent to the plurality of nanofeatures; and
+</P>
+<P>
+detecting Raman electromagnetic radiation emitted by the analyte responsive to the excitation electromagnetic radiation and coupled to planar mode.
+</P>
+</Claims>
+<Also_published_as>
+US2009002701A1;US7639355B2;WO2009002524A2;WO2009002524A3;JP2010531995A;CN101688809A;CN101688809B
+</Also_published_as>
+</BiblioData>

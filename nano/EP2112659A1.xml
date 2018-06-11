@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Increased data storage in optical data storage and retrieval systems using blue lasers and/or plasmon lenses
+</Title>
+<PublicationNumber>
+EP2112659A1
+</PublicationNumber>
+<Inventor>
+<Name>
+OVSHINSKY STANFORD R [US]
+</Name>
+<Name>
+STRAND DAVID [US]
+</Name>
+<Name>
+TSU DAVID [US]
+</Name>
+<Name>
+OVSHINSKY, STANFORD R
+</Name>
+<Name>
+STRAND, DAVID
+</Name>
+<Name>
+TSU, DAVID
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ENERGY CONVERSION DEVICES INC [US]
+</Name>
+<Name>
+ENERGY CONVERSION DEVICES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2112659
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090167597
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2002-08-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20020759498
+</PriorityNumber>
+<PriorityDate>
+2002-08-30
+</PriorityDate>
+<PriorityNumber>
+US20010316566P
+</PriorityNumber>
+<PriorityDate>
+2001-09-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B11/03
+</Class>
+<Class>
+G11B11/105
+</Class>
+<Class>
+G11B11/11
+</Class>
+<Class>
+G11B11/115
+</Class>
+<Class>
+G11B11/12
+</Class>
+<Class>
+G11B15/04
+</Class>
+<Class>
+G11B19/04
+</Class>
+<Class>
+G11B20/18
+</Class>
+<Class>
+G11B27/36
+</Class>
+<Class>
+G11B5/58
+</Class>
+<Class>
+G11B7/00
+</Class>
+<Class>
+G11B7/004
+</Class>
+<Class>
+G11B7/0045
+</Class>
+<Class>
+G11B7/0055
+</Class>
+<Class>
+G11B7/006
+</Class>
+<Class>
+G11B7/09
+</Class>
+<Class>
+G11B7/095
+</Class>
+<Class>
+G11B7/125
+</Class>
+<Class>
+G11B7/135
+</Class>
+<Class>
+G11B7/24
+</Class>
+<Class>
+G11B7/243
+</Class>
+<Class>
+G11B7/251
+</Class>
+<Class>
+G11B7/257
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B7/0045P
+</Class>
+<Class>
+G11B7/0055P
+</Class>
+<Class>
+G11B7/006
+</Class>
+<Class>
+G11B7/1275
+</Class>
+<Class>
+G11B7/1374
+</Class>
+<Class>
+G11B7/1387
+</Class>
+<Class>
+G11B7/243
+</Class>
+<Class>
+G11B7/243B
+</Class>
+<Class>
+G11B7/24R
+</Class>
+<Class>
+G11B7/24S
+</Class>
+<Class>
+G11B7/251
+</Class>
+<Class>
+G11B7/257
+</Class>
+</NCL>
+<Abstract>
+A optical recording medium (10) includes a crystallizing layer (7,8) for enhancing the crystallization of a phase change memory layer (3), an energy storage layer for aiding the state transformations of a phase change memory layer (3), and/or a modifying element for increasing absorption and contrast at short wavelengths. An optical data storage and retrieval system ( figure 3 ) containing same. A light-plasmon coupling lens including an optically transparent substrate having a light incident surface and a light-plasmon coupling surface opposite the light incident surface. The light-plasmon coupling surface including at least a set of circular concentric peaks/valleys which form a Fourier sinusoidal pattern in the radial direction of the circular concentric peaks/valleys. A conformal layer of metal is deposited on the light-plasmon coupling surface of the substrate and has aperture at the center of thereof through which plasmons are transmitted.
+</Abstract>
+<Claims>
+<P>
+1. An optical recording medium of the type used for data storage and retrieval systems based on blue lasers having a wavelength of less than 430 nm, said optical recording medium including an information recording layer comprising Ge2Sb2 Te5-xSex where 0 &amp;lt; x 5.
+</P>
+<P>
+2. The optical recording medium of claim 1, wherein the value of an optical property of said phase change material in said first detectable state, at a wavelength shorter than 430 nm, is at least about 50 % greater than the value of said optical property of said phase change material when x = 0.
+</P>
+<P>
+3. The optical recording medium of claim 1, wherein the value of an optical property of said phase change material in said first detectable state, at a wavelength shorter than 430 nm, is at least about 100 % greater than the value of said optical property of said phase change material when x = 0.
+</P>
+<P>
+4. The optical recording medium of claim 1, wherein one of said first or second detectable states is a crystalline or partially crystalline state.
+</P>
+<P>
+5. The optical recording medium of claim 1, wherein one of said first or second detectable states is an amorphous state.
+</P>
+<P>
+6. The optical recording medium of claim 1, wherein said optical property is absorption coefficient.
+</P>
+<P>
+7. The optical recording medium of claim 1, wherein said optical property is reflectivity.
+</P>
+<P>
+8. A method of using an optical recording medium of the type used for data storage and retrieval systems based on blue lasers having a wavelength of less than 430 nm, said optical recording medium including an information recording layer comprising Ge2Sb2Te5-xSex where 0 &amp;lt; x. 5, said method including at least one step of writing data to or erasing data from the information recording layer using a blue laser having a wavelength of less than 430 nm.
+</P>
+</Claims>
+<Also_published_as>
+US2003048744A1;US7113474B2;US2006245333A1;US7292521B2;US2006280043A1;US7388825B2;WO03021589A1;TWI277087B;TWI254299B;JP2008234826A;JP2005502155A;EP1428212A1;EP1428212A4
+</Also_published_as>
+</BiblioData>

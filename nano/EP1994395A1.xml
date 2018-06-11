@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD FOR DETERMINING A DOPANT CONCENTRATION IN A SEMICONDUCTOR SAMPLE
+</Title>
+<PublicationNumber>
+EP1994395A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ARNOLD WALTER [DE]
+</Name>
+<Name>
+SCHWARZ KERSTIN [DE]
+</Name>
+<Name>
+RABE UTE [DE]
+</Name>
+<Name>
+ARNOLD, WALTER
+</Name>
+<Name>
+SCHWARZ, KERSTIN
+</Name>
+<Name>
+RABE, UTE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FRAUNHOFER GES FORSCHUNG [DE]
+</Name>
+<Name>
+FRAUNHOFER-GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1994395
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070711715
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP01736
+</PriorityNumber>
+<PriorityDate>
+2007-02-28
+</PriorityDate>
+<PriorityNumber>
+DE200610011660
+</PriorityNumber>
+<PriorityDate>
+2006-03-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q60/18
+</Class>
+<Class>
+G01Q60/30
+</Class>
+<Class>
+G01Q60/32
+</Class>
+<Class>
+G01Q60/36
+</Class>
+<Class>
+G01Q60/40
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01Q10/00
+</Class>
+<Class>
+G01Q60/18
+</Class>
+<Class>
+G01Q60/30
+</Class>
+<Class>
+G01Q60/32
+</Class>
+<Class>
+G01Q60/40
+</Class>
+</NCL>
+<Abstract>
+Beschrieben wird ein Verfahren zur Ermittlung einer Dotierstoffdichte an einer Oberfläche und/oder in einem oberflächennahen Schichtbereich einer Halbleiterprobe mit einem Rasterkraftmikroskop, dessen Blattfederspitze unter Ausbildung einer Schottky-Barriere in Kontakt mit der Halbleiterprobe gebracht wird, wobei im Bereich der Schottky-Barriere zwischen der Blattfederspitze und der Halbleiterprobe ein elektrisches Wechselpotential derart angelegt wird, dass eine die räumliche Ausdehnung der Schottky-Barriere bestimmende Raumladungszone innerhalb der Halbleiterprobe bezüglich ihrer räumlichen Ausdehnung zu Schwingungen angeregt wird, die auf die Blattfeder übertragen, detektiert und der Ermittlung der Dotierstoffdichte zugrunde gelegt werden.
+</Abstract>
+<Claims>
+<P>
+1. Verfahren zur Ermittlung einer Dotierstoffdichte an einer Oberfläche und/oder in einem oberflächennahen Schichtbereich einer Halbleiterprobe mit einem Rasterkraftmikroskop, dessen Blattfederspitze unter Ausbildung einer Schottky-Barriere in Kontakt mit der Halbleiterprobe gebracht wird, wobei im Bereich der Schottky-Barriere zwischen der Blattfederspitze und der Halbleiterprobe ein elektrisches Wechselpotential derart angelegt wird, dass eine die räumliche Ausdehnung der Schottky-Barriere bestimmende Raumladungszone innerhalb der Halbleiterprobe bezüglich ihrer räumlichen Ausdehnung zu Schwingungen angeregt wird, die auf die Blattfeder übertragen, detektiert und der Ermittlung der Dotierstoffdichte zugrunde gelegt werden.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass die Schwingungsanregung derart erfolgt, dass sich zwischen der Blattfeder und der Halbleiterprobe eine Kontaktresonanz [omega]/2[pi] ausbildet.
+</P>
+<P>
+3. Verfahren nach Anspruch 1 oder 2, dadurch gekennzeichnet, dass zur Ermittlung der Dotierstoffdichte die Kontaktresonanzfrequenz [omega]/2[pi], die Amplitude und/oder die Phase der auf die Blattfeder übertragenen Schwingungen zugrunde gelegt werden.
+</P>
+<P>
+4. Verfahren nach Anspruch 3, dadurch gekennzeichnet, dass die Dotierstoffdichte im Wege einer Signalrückkopplung zur Erfassung einer Änderung der Kontaktresonanzfrequenz ermittelt wird.
+</P>
+<P>
+5. Verfahren nach Anspruch 4, dadurch gekennzeichnet, dass die Dotierstoffdichte durch Erfassen einer Änderung der Schwingungsamplitude und/oder -phase der Blattfeder als Funktion eines Ortes ermittelt wird.
+</P>
+<P>
+6. Verfahren nach einem der Ansprüche 1 bis 6, dadurch gekennzeichnet, dass an die Blattfeder ein Gleichspannungspotential angelegt wird.
+</P>
+</Claims>
+<Also_published_as>
+EP1994395B1;DE102006011660A1;US2009100554A1;US7841015B2;JP2009529794A;WO2007104432A1
+</Also_published_as>
+</BiblioData>

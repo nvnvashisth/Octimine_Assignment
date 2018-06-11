@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method and device for generating a nanostructured disc
+</Title>
+<PublicationNumber>
+EP1972996A1
+</PublicationNumber>
+<Inventor>
+<Name>
+THALLNER ERICH DIPL-ING [AT]
+</Name>
+<Name>
+THALLNER, ERICH, DIPL.-ING
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+THALLNER ERICH DIPL-ING [AT]
+</Name>
+<Name>
+THALLNER, ERICH, DIPL.-ING
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1972996
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070005791
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070005791
+</PriorityNumber>
+<PriorityDate>
+2007-03-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B81C99/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+The device has upper polydimethylsiloxane die and a lower PDMS die (5u) with a defined nanopattern transferred onto an upper side and a lower side of a nanopatterned disc. The disc is arranged between the dies in parallel manner and aligned manner. Positioning units are associated for precisely positioning the disc relative to the dies. The dies are fixed to die receiving units by a die holder (4) by applying vacuum to vacuum grooves arranged between the die receiving units and the die holder. Independent claims are also included for the following: (1) a method for producing a nanopatterned disc (2) a method for transferring a defined nanopattern of a nanopatterned die onto an uppernano side and a lower side of a disc.
+</Abstract>
+<Claims>
+<P>
+1. Vorrichtung zur Erzeugung einer nanostrukturierten Scheibe (7), insbesondere einer Speicherscheibe für Festplattenlaufwerke, mit einer Scheibenoberseite (7o) und einer Scheibenunterseite (7u),
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Vorrichtung mindestens einen nanostrukturierten Stempel (5u, 5o), vorzugsweise einen Poly-Dimethyl-Siloxan(PDMS)-Stempel, zur Übertragung einer definierten Nanostruktur des nanostrukturierten Stempels (5u, 5o) auf die Scheibenoberseite (7o) und/oder die Scheibenunterseite (7u) aufweist.
+</P>
+<P>
+2. Vorrichtung nach Anspruch 1,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Vorrichtung zwei gegenüberliegend, vorzugsweise parallel zueinander, ausgerichtete nanostrukturierte Stempel (5u, 5o) aufweist, wobei die Scheibe (7) zwischen den Stempeln (5u, 5o), vorzugsweise parallel zu den Stempeln (5u, 5o), ausgerichtet anordenbar ist.
+</P>
+<P>
+3. Vorrichtung nach Anspruch 1 oder 2,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Vorrichtung mindestens eine jedem Stempel (5u, 5o) zugeordnete Stempelaufnahmeeinheit (2, 21) aufweist, welcher/welchen jeweils Positioniereinheiten (9, 10, 11, 13, 14, 15) zur genauen Positionierung der Scheibe (7) relativ zu dem/den Stempel(n) (5u, 5o) zugeordnet ist/sind.
+</P>
+<P>
+4. Vorrichtung nach Anspruch 2,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Stempel (5u, 5o) über Stempelhalter (4, 17) an der Stempelaufnahmeeinheit (2, 21) fixierbar sind, insbesondere durch Anlegen eines Unterdrucks an zwischen der Stempelaufnahmeeinheit (2, 21) und dem Stempelhalter (4, 17) angeordneten Vakuumrillen (3, 16).
+</P>
+<P>
+5. Vorrichtung nach Anspruch 3,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Positioniereinheiten (9, 10, 11, 13, 14, 15) eine separate Scheibenpositioniereinheit (9, 10, 11) in x-Richtung (10), y-Richtung (11) und z-Richtung (9) für die genaue Positionierung der Scheibe (7) relativ zu dem der Scheibenunterseite (7u) zugeordneten Stempel (5u) und eine separate Stempelpositioniereinheit (13, 14, 15) in x-Richtung (14), y-Richtung (15) und z-Richtung (13) für die genaue Positionierung des der Scheibenoberseite (7o) zugeordneten Stempels (5o) zu dem mit der Scheibe (7) ausgerichteten Stempel (5u) umfassen.
+</P>
+<P>
+6. Vorrichtung nach Anspruch 5,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Positionierung/Ausrichtung der Scheibe (7) und der Stempel (5u, 5o) zueinander über eine zentrale, durch Steuerleitungen mit den Positioniereinheiten (9, 10, 11, 13, 14, 15) und, vorzugsweise optischen, Erfassungsmitteln (6, 18) verbundene zentrale Steuereinheit (20) gesteuert ist.
+</P>
+<P>
+7. Vorrichtung nach Anspruch 6,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass mindestens 3, vorzugsweise 4, radial zu einer vorgegebenen Scheibenaufnahmeposition definiert beabstandete Erfassungseinheiten (6) zur Erfassung der genauen Position der Scheibe (7) in x-Richtung und y-Richtung als Scheibenpositionsinformation vorgesehen sind, wobei die Scheibenpositionsinformation über eine Leitung von der Steuereinheit (20) abrufbar ist.
+</P>
+<P>
+8. Vorrichtung nach einem der Ansprüche 5 bis 7,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Scheibe (7) genau zentrisch auf einer Aufnahmeeinheit (8) aufnehmbar ist und die Aufnahmeeinheit (8) zwischen der Scheibe (7) und den Scheibenpositioniereinheiten (9, 10, 11) angeordnet ist.
+</P>
+<P>
+9. Vorrichtung nach Anspruch 8,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Aufnahmeeinheit (8) eine genau dem Zentrum der Scheibe (7) zuordenbare Markierung (19) aufweist, und eine an der Stempelaufnahmeeinheit (21) des oberen Stempels (5o) angebrachte Erfassungseinheit (18) den Versatz und/oder den Abstand des oberen Stempels (5o) zu der Scheibe (7) als Stempelpositionsinformation erfasst, wobei die Stempelpositionsinformation über eine Leitung von der Steuereinheit (20) abrufbar ist.
+</P>
+<P>
+10. Verfahren zur Erzeugung einer nanostrukturierten Scheibe (7), insbesondere einer Speicherscheibe für Festplattenlaufwerke, insbesondere mit einer Vorrichtung gemäss einem der vorhergehenden Ansprüche, mit folgenden Verfahrensschritten:
+</P>
+<P>
+a) Ablegen einer Scheibe (7) auf einer Aufnahmeeinheit (8) einer Vorrichtung zur Erzeugung einer nanostrukurierten Scheibe (7),
+</P>
+<P>
+b) genaues Ausrichten der Scheibe (7) zu mindestens einem Stempel (5u, 5o), vorzugsweise einem Poly-Dimethyl-Siloxan(PDMS)-Stempel, und
+</P>
+<P>
+c) Übertragen einer definierten Nanostruktur des nanostrukturierten Stempels (5u, 5o) auf die Scheibenunterseite (7u) und/oder die Scheibenoberseite (7o) der Scheibe (7).
+</P>
+<P>
+11. Verfahren nach Anspruch 10,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Scheibe (7) zwischen zwei gegenüberliegend, vorzugsweise parallel zueinander, ausgerichteten nanostrukturierten Stempeln (5u, 5o), vorzugsweise parallel zu den Stempeln (5u, 5o), ausgerichtet wird.
+</P>
+<P>
+12. Verfahren nach Anspruch 10 oder 11,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Ausrichtung der Scheibe (7) zu den Stempeln (5u, 5o) mittels die Relativpositionen der Scheibe (7) und der beiden Stempel (5u, 5o) erfassenden Erfassungsmitteln (6, 18) durch eine Positioniereinheiten (9, 10, 11, 13, 14, 15) steuernde zentrale Steuereinheit (20) gesteuert wird.
+</P>
+<P>
+13. Verwendung mindestens eines nanostrukturierten Stempels (5u, 5o), vorzugsweise eines Poly-Dimethyl-Siloxan(PDMS)-Stempels, zur Übertragung einer definierten Nanostruktur des nanostrukturierten Stempels (5u, 5o), insbesondere in einer Vorrichtung nach einem der Ansprüche 1 bis 9 auf eine Scheibenoberseite (7o) und/oder eine Scheibenunterseite (7u) einer Scheibe (7), insbesondere einer Speicherscheibe für Festplattenlaufwerke.
+</P>
+<P>
+14. Scheibe (7), insbesondere Speicherscheibe für Festplattenlaufwerke, mit einer, vorzugsweise durch eine Vorrichtung nach einem der Ansprüche 1 bis 9 und/oder durch ein Verfahren nach einem der Ansprüche 10 bis 12, aufgebrachten definierten Nanostruktur.
+</P>
+<P>
+15. Scheibe (7) nach Anspruch 14,
+</P>
+<P>
+dadurch gekennzeichnet,
+</P>
+<P>
+dass die Scheibe (7) beidseitig mit einer definierten, vorzugsweise exakt zueinander ausgerichteten, Nanostruktur versehen ist.
+</P>
+<P>
+16. Festplattenlaufwerk mit mindestens einer Scheibe (7) nach einem der Ansprüche 14 oder 15.
+</P>
+</Claims>
+<Also_published_as>
+EP1972996B1;US2012045575A1;US2008233331A1;US8142701B2;JP2008262676A;AT484773T
+</Also_published_as>
+</BiblioData>

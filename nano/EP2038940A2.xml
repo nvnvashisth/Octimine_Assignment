@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ORGANIC PHOTOVOLTAIC DEVICES COMPRISING FULLERENES AND DERIVATIVES THEREOF
+</Title>
+<PublicationNumber>
+EP2038940A2
+</PublicationNumber>
+<Inventor>
+<Name>
+LAIRD DARIN W [US]
+</Name>
+<Name>
+STEGAMAT REZA [US]
+</Name>
+<Name>
+RICHTER HENNING [US]
+</Name>
+<Name>
+VEJINS VIKTOR [US]
+</Name>
+<Name>
+SCOTT LARRY [US]
+</Name>
+<Name>
+LADA THOMAS A [US]
+</Name>
+<Name>
+LAIRD, DARIN, W
+</Name>
+<Name>
+STEGAMAT, REZA
+</Name>
+<Name>
+RICHTER, HENNING
+</Name>
+<Name>
+VEJINS, VIKTOR
+</Name>
+<Name>
+SCOTT, LARRY
+</Name>
+<Name>
+LADA, THOMAS, A
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PLEXTRONICS INC [US]
+</Name>
+<Name>
+NANO C INC [US]
+</Name>
+<Name>
+PLEXTRONICS, INC
+</Name>
+<Name>
+NANO-C, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2038940
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070835740
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US10533
+</PriorityNumber>
+<PriorityDate>
+2007-05-02
+</PriorityDate>
+<PriorityNumber>
+US20060812961P
+</PriorityNumber>
+<PriorityDate>
+2006-06-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/00M4B2
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+Photovoltaic cells comprising an active layer comprising, as p-type material, conjugated polymers such as polythiophene and regioregular polythiophene, and as n-type material at least one fullerene derivative. The fullerene derivative can be C60, C70, or C84. The fullerene also can be functionalized with indene groups. Improved efficiency can be achieved.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A composition comprising a mixture comprising: (i) at least one p-type material, (ii) at least
+</P>
+<P>
+one n-type material, wherein the n-type material comprises a fullerene derivative represented by:
+</P>
+<P>
+F*-(R)n
+</P>
+<P>
+and solvates, salts, and mixtures thereof, wherein n is at least one,
+</P>
+<P>
+F* comprises a fullerene having a surface which comprises six-membered and five- membered rings; and
+</P>
+<P>
+R comprises at least one optionally substituted, unsaturated or saturated, carbocyclic or heterocyclic first ring, wherein the first ring directly bonds to the fullerene.
+</P>
+<P>
+2. The composition according to claim 1, wherein the first ring is substituted.
+</P>
+<P>
+3. The composition according to claim 1, wherein the first ring is not substituted.
+</P>
+<P>
+4. The composition according to claim 1 , wherein the first ring is an unsaturated ring.
+</P>
+<P>
+5. The composition according to claim 1, wherein the first ring is a saturated ring.
+</P>
+<P>
+6. The composition according to claim 1, wherein the first ring is a carbocyclic ring.
+</P>
+<P>
+7. The composition according to claim 1, wherein the first ring is a heterocyclic ring.
+</P>
+<P>
+8. The composition according to claim 1, wherein the first ring is an optionally substituted four- membered, five-membered, or six-membered ring.
+</P>
+<P>
+9. The composition according to claim 1 , wherein the ring is an optionally substituted five-
+</P>
+<P>
+membered ring.
+</P>
+<P>
+10. The composition according to claim 1, wherein R further comprises a second ring which is bonded to or fused with the first ring.
+</P>
+<P>
+1 1. The composition according to claim 1 , wherein R further comprises an optionally substituted second ring which is fused to the first ring.
+</P>
+<P>
+12. The composition according to claim 1 , wherein R further comprises an optionally substituted second ring which is an aryl group and is fused to the first ring.
+</P>
+<P>
+13. The composition according to claim 1, wherein R is optionally substituted indene, optionally substituted naphthyl, optionally substituted phenyl, optionally substituted pyridinyl, optionally substituted quinolinyl, optionally substituted cyclohexyl, or optionally substituted cyclopentyl.
+</P>
+<P>
+14. The composition according to claim 1, wherein R is indene, napthyl, phenyl, pyridinyl, quinolinyl, cyclohexyl, or cyclopentyl.
+</P>
+<P>
+15. The composition according to claim 1, wherein R is optionally substituted indene.
+</P>
+<P>
+16. The composition according to claim 1, wherein R is indene.
+</P>
+<P>
+17. The composition according to claim 1 , wherein n is from 1 to 6.
+</P>
+<P>
+18. The composition according to claim 1, wherein n is from 1 to 3.
+</P>
+<P>
+19. The composition according to claim 1, wherein R is indene and n is 1.
+</P>
+<P>
+20. The composition according to claim 1, wherein R is indene and n is 2.
+</P>
+<P>
+21. The composition according to claim 1, wherein R is indene and n is 3.
+</P>
+<P>
+22. The composition according to claim 1, wherein R is indene, n is from 1 to 20.
+</P>
+<P>
+23. The composition according to claim 1, wherein R is indene, n is from 1 to 10.
+</P>
+<P>
+24. The composition according to claim 1 , wherein the first ring is optionally substituted with at least one substituent selected from the group consisting of hydroxy, acyl, acylamino, acyloxy, alkyl, substituted alkyl, alkoxy, substituted alkoxy, alkenyl, substituted alkenyl, alkynyl, substituted alkynyl, amino, substituted amino, aminoacyl, aryl, substituted aryl, aryloxy, substituted aryloxy, cycloalkoxy, substituted cycloalkoxy, carboxyl, carboxyl esters, cyano, thiol, thioalkyl, substituted thioalkyl, thioaryl, substituted thioaryl, thioheteroaryl, substituted thioheteroaryl, thiocycloalkyl, substituted thiocycloalkyl, thioheterocyclic, substituted thioheterocyclic, cycloalkyl, substituted cycloalkyl, halo, nitro, heteroaryl, substituted heteroaryl,
+</P>
+<P>
+heterocyclic, substituted heterocyclic, heteroaryloxy, substituted heteroaryloxy, heterocyclyloxy, or substituted heterocyclyloxy, or combination thereof.
+</P>
+<P>
+25. The composition according to claim 1, wherein R is covalently bonded to the fullerene by [4+2] cycloaddition.
+</P>
+<P>
+26. The composition according to claim 1 , wherein R is covalently bonded to the fullerene by one or two covalent bonds.
+</P>
+<P>
+27. The composition according to claim 1, wherein R is covalently bonded to the fullerene by two bonds.
+</P>
+<P>
+28. The composition according to claim 1, wherein R is covalently bonded to the fullerene by two carbon-carbon bonds.
+</P>
+<P>
+29. The composition according to claim 1 , wherein R is covalently bonded to the fullerene by two carbon-carbon bonds at a fullerene [6,6] position.
+</P>
+<P>
+30. The composition according to claim 1, wherein the fullerene comprises a C60, C70, or C84
+</P>
+<P>
+fullerene, or a combination thereof.
+</P>
+<P>
+31. The composition according to claim 1 , wherein the fullerene comprises only carbon.
+</P>
+<P>
+32. The composition according to claim 1 , wherein the fullerene comprises at least one
+</P>
+<P>
+derivative group bonded to the fullerene besides R.
+</P>
+<P>
+33. The composition according to claim 1, wherein the p-type material comprises a conjugated polymer.
+</P>
+<P>
+34. The composition according to claim 1, wherein the p-type material comprises a conjugated polymer soluble or dispersible in organic solvent or water.
+</P>
+<P>
+35. The composition according to claim 1, wherein the p-type material comprises a polythiophene.
+</P>
+<P>
+36. The composition according to claim 1, wherein the p-type material comprises a regioregular polythiophene.
+</P>
+<P>
+37. The composition according to claim 1, wherein the n-type and p-type materials are present in a ratio of from about 0.1 to 4.0 p-type to about 1 n-type, based on weight.
+</P>
+<P>
+38. The composition according to claim 1, wherein the p-type material comprises polythiophene
+</P>
+<P>
+and the R group is optionally substituted indene, and the composition is in the form of a film having a film thickness of about 10 nm to about 300 run.
+</P>
+<P>
+39. The composition according to claim 1, wherein the p-type material comprises regioregular
+</P>
+<P>
+polythiophene and the R group is indene.
+</P>
+<P>
+40. The composition according to claim 1 , wherein the p-type material comprises regioregular polythiophene and the R group is indene and the composition further comprises at least two solvents.
+</P>
+<P>
+41. A composition comprising a mixture comprising: (i) at least one p-type material, (ii) at least one n-type material, wherein the n-type material comprises at least one fullerene derivative comprising at least one [6,6] fullerene bonding site wherein both carbon atoms of the [6,6] bonding site are covalently bonded to a group R.
+</P>
+<P>
+42. The composition according to claim 41, wherein the group R comprises a first ring bonded directly to the [6,6] fullerene bonding site.
+</P>
+<P>
+43. The composition according to claim 41, wherein the group R comprises a first ring bonded directly to the [6,6] fullerene bonding site and a second ring fused to the first ring.
+</P>
+<P>
+44. The composition according to claim 41, wherein the group R comprises a first five-
+</P>
+<P>
+membered carbocyclic ring bonded directly to the [6,6] fullerene bonding site and a second six- membered carbocyclic ring fused to the first ring.
+</P>
+<P>
+45. The composition according to claim 41, wherein the group R comprises optionally
+</P>
+<P>
+substituted indene.
+</P>
+<P>
+46. The composition according to claim 41, wherein the group R comprises indene.
+</P>
+<P>
+47. The composition according to claim 41, wherein the p-type material comprises a conjugated polymer.
+</P>
+<P>
+48. The composition according to claim 41 , wherein the p-type material comprises a polythiophene.
+</P>
+<P>
+49. The composition according to claim 41 , wherein the p-type material comprises a regioregular polythiophene.
+</P>
+<P>
+50. The composition according to claim 41, wherein the p-type material comprises a regioregular polythiophene and the group R is optionally substituted indene.
+</P>
+<P>
+51. A composition comprising a mixture comprising: (i) at least one p-type material, (ii) at least one n-type material, wherein the n-type material comprises a fullerene derivative comprising at least one fullerene covalently bonded by [4+2] cycloaddition to at least one derivative moiety.
+</P>
+<P>
+52. The composition according to claim 51, wherein the derivative moiety comprises a first ring bonded directly to the fullerene.
+</P>
+<P>
+53. The composition according to claim 51 , wherein the derivative moiety comprises a first ring bonded directly to the fullerene and a second ring fused to the first ring.
+</P>
+<P>
+54. The composition according to claim 51, wherein the derivative moiety comprises a first five- membered carbocyclic ring bonded directly to the fullerene bonding site and a second six- membered carbocyclic ring fused to the first ring.
+</P>
+<P>
+55. The composition according to claim 51, wherein the derivative moiety comprises optionally substituted indene.
+</P>
+<P>
+56. The composition according to claim 51, wherein the derivative moiety comprises indene.
+</P>
+<P>
+57. The composition according to claim 51 , wherein the p-type material comprises a conjugated polymer.
+</P>
+<P>
+58. The composition according to claim 51, wherein the p-type material comprises a
+</P>
+<P>
+polythiophene.
+</P>
+<P>
+59. The composition according to claim 51, wherein the p-type material comprises a
+</P>
+<P>
+regioregular polythiophene.
+</P>
+<P>
+60. The composition according to claim 51, wherein the p-type material comprises a regioregular polythiophene and the derivative moiety is optionally substituted indene.
+</P>
+<P>
+61. A photovoltaic device comprising at least one anode, at least one cathode, and at least one active layer, wherein the active layer comprises a composition comprising a mixture comprising:
+</P>
+<P>
+(i) at least one p-type material, (ii) at least one n-type material, wherein the n-type material comprises a fullerene derivative represented by:
+</P>
+<P>
+F&amp;lt;+&amp;gt;-(R)n
+</P>
+<P>
+and solvates, salts, and mixtures thereof, wherein n is at least one,
+</P>
+<P>
+F* comprises a fullerene having a surface which comprises six-membered and five- membered rings; and
+</P>
+<P>
+R comprises at least one optionally substituted, unsaturated or saturated, carbocyclic or heterocyclic first ring, wherein the first ring directly bonds to the fullerene.
+</P>
+<P>
+62. The device according to claim 61, wherein the device demonstrates an increase of efficiency of at least 5% compared to a substantially analogous device comprising an active layer of P3HT-
+</P>
+<P>
+PCBM.
+</P>
+<P>
+63. The device according to claim 61 , wherein the device demonstrates an increase of efficiency of at least 15% compared to a substantially analogous device comprising an active layer of
+</P>
+<P>
+P3HT-PCBM.
+</P>
+<P>
+64. The device according to claim 61, wherein the device further comprises at least one hole injection layer.
+</P>
+<P>
+65. The device according to claim 61, wherein the device further comprises at least one hole injection layer comprising a polythiophene.
+</P>
+<P>
+66. The device according to claim 61, wherein the device further comprises at least one hole injection layer comprising a regioregular polythiophene.
+</P>
+<P>
+67. The device according to claim 61, wherein the R group comprises an optionally substituted indene group.
+</P>
+<P>
+68. The device according to claim 61, wherein the R group comprises an indene group.
+</P>
+<P>
+69. The device according to claim 61, wherein the R group comprises an optionally substituted indene group, the p-type material comprises at least one regioregular polythiophene.
+</P>
+<P>
+70. The device according to claim 61, wherein the R group comprises an optionally substituted indene group, the p-type material comprises at least one regioregular polythiophene, and the device further comprises a hole injection layer comprising a regioregular polythiophene.
+</P>
+<P>
+71. A method of making a composition comprising a mixture comprising: (i) providing at least one p-type material, (ii) providing at least one n-type material, wherein the n-type material comprises a fullerene derivative represented by:
+</P>
+<P>
+F&amp;lt;+&amp;gt;-(R)n
+</P>
+<P>
+and solvates, salts, and mixtures thereof, wherein n is at least one,
+</P>
+<P>
+F* comprises a fullerene having a surface which comprises six-membered and five- membered rings; and
+</P>
+<P>
+R comprises at least one optionally substituted, unsaturated or saturated, carbocyclic or heterocyclic first ring, wherein the first ring directly bonds to the fullerene.
+</P>
+<P>
+(iii) combining the p-type and n-type materials to form the mixture, wherein the mixture
+</P>
+<P>
+further comprises at least one solvent.
+</P>
+<P>
+72. The method according to claim 71, wherein the mixture comprises at least two solvents.
+</P>
+<P>
+73. The method according to claim 71, further comprising removing solvent and forming the
+</P>
+<P>
+mixture into a film.
+</P>
+<P>
+74. The mixture according to claim 71, wherein R comprises optionally substituted indene.
+</P>
+<P>
+75. The mixture according to claim 71 , wherein R comprises indene.
+</P>
+</Claims>
+<Also_published_as>
+WO2008018931A2;WO2008018931A3;US2010132782A1;US2008319207A1;TW200812128A;KR20090076887A;JP2009540099A;CN101529610A;CA2655135A1
+</Also_published_as>
+</BiblioData>

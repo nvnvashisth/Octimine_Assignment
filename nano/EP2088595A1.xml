@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+RECORDING/REPRODUCING DEVICE
+</Title>
+<PublicationNumber>
+EP2088595A1
+</PublicationNumber>
+<Inventor>
+<Name>
+MORI SHUNTARO [JP]
+</Name>
+<Name>
+MAEDA TAKANORI [JP]
+</Name>
+<Name>
+FUJIMOTO KENJIRO [JP]
+</Name>
+<Name>
+MORI, SHUNTARO
+</Name>
+<Name>
+MAEDA, TAKANORI
+</Name>
+<Name>
+FUJIMOTO, KENJIRO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PIONEER CORP [JP]
+</Name>
+<Name>
+PIONEER CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2088595
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060821821
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP319986
+</PriorityNumber>
+<PriorityDate>
+2006-10-05
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B9/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B9/14M2B
+</Class>
+</NCL>
+<Abstract>
+A recording / reproducing apparatus (100) is provided with: a first substrate (41) on which a recording medium (43) is mounted;  and a second substrate (21) to which a recording / reproducing head (23), which performs information recording and information reproduction on the recording / reproducing medium is fixed, wherein the second substrate is relatively displaced in a predetermined direction substantially parallel to the first substrate with respect to the first substrate, a particulate (30) is placed in a gap between the first substrate and the second substrate, the particulate can be displaced with displacement of the second substrate, the particulate has a substantially circular cross section in a direction that the second substrate is displaced when the second substrate is displaced.
+</Abstract>
+<Claims>
+<P>
+1. A recording / reproducing apparatus comprising:
+</P>
+<P>
+a first substrate on which a recording medium is mounted; and
+</P>
+<P>
+a second substrate which faces said first substrate and to which a recording / reproducing head, which performs at least one of information recording and information reproduction on the recording / reproducing medium and protrudes toward the recording medium, is fixed, wherein
+</P>
+<P>
+one of said first substrate and said second substrate is relatively displaced in a predetermined direction substantially parallel to the other of said first substrate and said second substrate, with respect to the other of said first substrate and said second substrate,
+</P>
+<P>
+a particulate is placed in a gap between said first substrate and said second substrate, (i) the particulate is capable of being displaced with displacement of at least one of said first substrate and said second substrate, (ii) the particulate has a substantially circular cross section in a direction that the one of said first substrate and said second substrate is displaced when the one of said first substrate and said second substrate is displaced.
+</P>
+<P>
+2. The recording / reproducing apparatus according to claim 1, wherein the particulate is not placed in a gap between the recording medium and the recording / reproducing head, out of the gap between said first substrate and said second substrate.
+</P>
+<P>
+3. The recording / reproducing apparatus according to claim 1, wherein said first substrate comprises an uneven portion which protrudes toward said second substrate and whose at least one portion is a stopper for the particulate.
+</P>
+<P>
+4. The recording / reproducing apparatus according to claim 3, wherein at least one portion of an uneven shape of the stopper is a curve.
+</P>
+<P>
+5. The recording / reproducing apparatus according to claim 3, wherein at least one portion of an uneven shape of the stopper is step-shaped
+</P>
+<P>
+6. The recording / reproducing apparatus according to claim 3, wherein the uneven portion is unified with said first substrate.
+</P>
+<P>
+7. The recording / reproducing apparatus according to claim 3, wherein the recording medium is mounted on the uneven portion.
+</P>
+<P>
+8. The recording / reproducing apparatus according to claim 3, wherein a minimum radius of the particulate is determined such that the particulate is not in contact with an edge portion of the recording / reproducing head on the uneven side even if the particulate enters in the uneven portion at most.
+</P>
+<P>
+9. The recording / reproducing apparatus according to claim 8, wherein if (i) a size of the stopper protruding from said first substrate is a, (ii) a distance between the stopper and said second substrate is b, (iii) a distance between the edge portion of the recording / reproducing head and the stopper is d, and (iv) an angle made by a line which passes through a center of the particulate and which is parallel to said first substrate or said second substrate and a line connecting a point at which the stopper is in contact with the particulate and the center of the particulate is [theta], a minimum radius r of the particulate satisfies b/2 &amp;lt; r if b &amp;lt; d/(1-cos[theta]) and satisfies b/2 &amp;lt; r&amp;lt; d/(1-cos[theta]) or b &amp;lt; r if b &amp;gt; d/(1-cos[theta]).
+</P>
+<P>
+10. The recording / reproducing apparatus according to claim 9, wherein
+</P>
+<P>
+said recording / reproducing apparatus comprises at least three particulates, and
+</P>
+<P>
+the radius of each of the at least three particulates is greater than or equal to the minimum radius r.
+</P>
+<P>
+11. The recording / reproducing apparatus according to claim 1, wherein said second substrate comprises an uneven portion which protrudes toward said first substrate and whose at least one portion is a stopper for the particulate.
+</P>
+<P>
+12. The recording / reproducing apparatus according to claim 11, wherein at least one portion of an uneven shape of the stopper is a curve.
+</P>
+<P>
+13. The recording / reproducing apparatus according to claim 11, wherein at least one portion of an uneven shape of the stopper is step-shaped
+</P>
+<P>
+14. The recording / reproducing apparatus according to claim 11, wherein the uneven portion is unified with said second substrate.
+</P>
+<P>
+15. The recording / reproducing apparatus according to claim 11, wherein the recording / reproducing head is fixed on the uneven portion.
+</P>
+<P>
+16. The recording / reproducing apparatus according to claim 11, wherein the uneven portion is placed in a gap between the recording / reproducing head and the particulate.
+</P>
+<P>
+17. The recording / reproducing apparatus according to claim 11, wherein a minimum radius of the particulate is determined such that the particulate is not in contact with an edge portion of the recording / reproducing head on the uneven side even if the particulate enters in the uneven portion at most.
+</P>
+<P>
+18. The recording / reproducing apparatus according to claim 17, wherein if (i) a size of the stopper protruding from said second substrate is a, (ii) a distance between the stopper and said first substrate is b, (iii) a distance between the edge portion of the recording / reproducing head and the stopper is d, and (iv) an angle made by a line which passes through a center of the particulate and which is parallel to said first substrate or said second substrate and a line connecting a point at which the stopper is in contact with the particulate and the center of the particulate is [theta], a minimum radius r of the particulate satisfies b/2 &amp;lt; r if b &amp;lt; d/(1-cos[theta]) and satisfies b/2 &amp;lt; r&amp;lt; d/(1-cos [theta]) or b &amp;lt; r if b &amp;gt; d/(1-cos[theta]).
+</P>
+<P>
+19. The recording / reproducing apparatus according to claim 18, wherein
+</P>
+<P>
+said recording / reproducing apparatus comprises at least three particulates, and
+</P>
+<P>
+the radius of each of the at least three particulates is greater than or equal to the minimum radius r.
+</P>
+<P>
+20. The recording / reproducing apparatus according to claim 1, wherein
+</P>
+<P>
+the recording / reproducing head performs at least one of the information recording and the information reproduction by that at least a tip of the recording / reproducing head comes into contact with the recording medium, and
+</P>
+<P>
+a lower limit of a diameter of the particulate is a distance between said first substrate and said second substrate when at least one of the recording medium and the recording / reproducing head is damaged due to a contact force of the recording medium and the recording / reproducing head.
+</P>
+<P>
+21. The recording / reproducing apparatus according to claim 1, wherein
+</P>
+<P>
+the recording / reproducing head performs at least one of the information recording and the information reproduction by that at least a tip of the recording / reproducing head comes into contact with the recording medium, and
+</P>
+<P>
+an upper limit of a diameter of the particulate is a distance between said first substrate and said second substrate when the recording medium and the recording / reproducing head come into contact until at least one of the information recording and the information reproduction can be performed.
+</P>
+<P>
+22. The recording / reproducing apparatus according to claim 1, wherein
+</P>
+<P>
+the recording / reproducing head performs at least one of the information recording and the information reproduction without coming into contact with the recording medium, and
+</P>
+<P>
+an upper limit of a diameter of the particulate is a distance between said first substrate and said second substrate when at least one of the information recording and the information reproduction can be performed and when the recording medium is farthest from the recording / reproducing head.
+</P>
+<P>
+23. The recording / reproducing apparatus according to claim 1, wherein
+</P>
+<P>
+the recording / reproducing head performs at least one of the information recording and the information reproduction without coming into contact with the recording medium, and
+</P>
+<P>
+a lower limit of a diameter of the particulate is a distance between said first substrate and said second substrate when at least one of the information recording and the information reproduction can be performed and when the recording medium is closest to the recording / reproducing head.
+</P>
+<P>
+24. The recording / reproducing apparatus according to claim 1, wherein the particulate is placed in a gap between said first substrate and a portion of the recording medium at which the recording medium does not face the recording / reproducing head.
+</P>
+</Claims>
+<Also_published_as>
+EP2088595A4;US2010046350A1;US8116190B2;JP4817465B2;WO2008044267A1
+</Also_published_as>
+</BiblioData>

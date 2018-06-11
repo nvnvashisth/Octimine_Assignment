@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Measuring probe having one or more support elements for a measuring instrument
+</Title>
+<PublicationNumber>
+EP2120036A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DANZEBRINK HANS-ULLRICH DR [DE]
+</Name>
+<Name>
+HIDAKA KAZUHIKO [NL]
+</Name>
+<Name>
+ILLERS HARTMUT [DE]
+</Name>
+<Name>
+SAITO AKINORI [JP]
+</Name>
+<Name>
+DANZEBRINK, DR. HANS-ULLRICH
+</Name>
+<Name>
+HIDAKA, KAZUHIKO
+</Name>
+<Name>
+ILLERS, HARTMUT
+</Name>
+<Name>
+SAITO, AKINORI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MITUTOYO CORP [JP]
+</Name>
+<Name>
+BUNDESREPUBLIK DEUTSCHLAND END [DE]
+</Name>
+<Name>
+MITUTOYO CORPORATION
+</Name>
+<Name>
+BUNDESREPUBLIK DEUTSCHLAND ENDVERTRETEN DURCH DENPRAESIDENTEN DER PHYSIKALISCH-TECHNISCHEN BUNDESANS
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2120036
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080009131
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20080009131
+</PriorityNumber>
+<PriorityDate>
+2008-05-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q30/02
+</Class>
+<Class>
+G01Q70/04
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q70/04
+</Class>
+</NCL>
+<Abstract>
+A measuring probe for a measuring instrument comprises a body having an elastic mode of oscillation, a measuring tip connected to the body, an actuator adapted to excite the elastic mode of oscillation of the body and at least one support element adapted for attachment of the body to another component of the measuring instrument. The at least one support element is connected to the body at one or more regions of attachment. Each of the one or more regions of attachment has a line of intersection with a plane intersecting each of the one or more regions of attachment and an extension in a direction perpendicular to the plane. The extension in the direction perpendicular to the plane is less than a length of the line of intersection. The measuring probe can be inserted between the objective lens of an optical far field microscope and an object to be investigated.
+</Abstract>
+<Claims>
+<P>
+1. A measuring probe for a measuring instrument comprising:
+</P>
+<P>
+a body having an elastic mode of oscillation;
+</P>
+<P>
+a measuring tip connected to said body;
+</P>
+<P>
+an actuator adapted to excite said elastic mode of oscillation of said body; and
+</P>
+<P>
+at least one support element adapted for attachment of said body to another component of said measuring instrument;
+</P>
+<P>
+characterized in that
+</P>
+<P>
+said at least one support element is connected to said body at one or more regions of attachment, each of said one or more regions of attachment having a line of intersection with a plane intersecting each of said one or more regions of attachment and an extension in a direction perpendicular to said plane, said extension in said direction perpendicular to said plane being less than a length of said line of intersection;
+</P>
+<P>
+wherein said body has a rotational axis of symmetry perpendicular to said plane; and
+</P>
+<P>
+wherein said measuring tip is lying on said rotational axis of symmetry.
+</P>
+<P>
+2. A measuring probe as in claim 1, wherein each of said one or more regions of attachment is a line of attachment lying in said plane.
+</P>
+<P>
+3. A measuring probe as in claim 2, wherein said one or more lines of attachment lie in a nodal plane of said elastic mode of oscillation and/or less than at least one of one half of a total height of said body, one tenth of said total height of said body and one hundredth of said total height away from said nodal plane of said elastic mode of oscillation.
+</P>
+<P>
+4. A measuring probe as in any of claims 1 to 3, further comprising a retaining element having an opening, said retaining element having a rotational symmetry, said rotational axis of symmetry of said body being also a rotational axis of symmetry of said retaining element, said at least one support element connecting said body and said retaining element.
+</P>
+<P>
+5. A measuring probe as in claim 4, wherein at least one of said retaining element and said body has a cylindrical symmetry.
+</P>
+<P>
+6. A measuring probe as in any of claims 1 to 5, wherein, in said elastic mode of oscillation, amplitudes of displacement of portions of said body in said one or more regions of attachment relative to rest positions of said portions are smaller than at least one of an amplitude of displacement of said tip relative to a rest position of said tip, one half of said amplitude of displacement of said tip and one tenth of said amplitude of displacement of said tip.
+</P>
+<P>
+7. A measuring probe as in any of claims 1 to 6, wherein said actuator is provided as a portion of said body, and wherein said at least one support element is connected to said actuator.
+</P>
+<P>
+8. A measuring probe according to any of claims 1 to 7, wherein said at least one support element comprises a damping element adapted to reduce a Q-factor of elastic modes of oscillation of said body other than said elastic mode of oscillation.
+</P>
+<P>
+9. A measuring probe according to any of claims 1 to 8, wherein at least a portion of said at least one support element is transparent.
+</P>
+<P>
+10. A measuring probe according to claim 2, wherein said at least one support element comprises:
+</P>
+<P>
+a first portion comprising a fist material;
+</P>
+<P>
+a second portion comprising a second material;wherein a vibration damping loss factor of said second material is greater than a vibration damping loss factor of said first material and wherein Young&apos;s modulus of the first material is greater Young&apos;s modulus of the second material.
+</P>
+<P>
+11. A measuring probe according to claim 10, wherein said at least one support element comprises a laminate of said first material and said second material.
+</P>
+<P>
+12. A measuring probe according to claim 10, wherein said second portion of said support element is connected between said first portion of said support element and said body.
+</P>
+<P>
+13. A measuring probe according to any of claims 1 to 12, wherein said at least one support element comprises at least one portion wherein a thickness of said at least one support element in a direction parallel to said rotational axis of symmetry increases with increasing distance from said rotational axis of symmetry.
+</P>
+<P>
+14. A measuring probe according to any of claims 1 to 13, wherein said at least one support element comprises at least one portion wherein a width of said at least one support element in a direction perpendicular to said rotational axis of symmetry increases with increasing distance from said rotational axis of symmetry.
+</P>
+<P>
+15. A microscope, comprising:
+</P>
+<P>
+a measuring probe according to claim 1;
+</P>
+<P>
+an optical far field microscope comprising an objective lens, said measuring probe being arranged between said objective lens and a focal plane of said objective lens, said rotational axis of symmetry of said body being aligned with an optical axis of said optical far field microscope; and
+</P>
+<P>
+a microscope actuator connected between said objective lens and said measuring probe for moving said measuring probe in a direction substantially parallel to said optical axis of said optical far field microscope.
+</P>
+</Claims>
+</BiblioData>

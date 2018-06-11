@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DATA STORAGE DEVICE AND METHOD
+</Title>
+<PublicationNumber>
+EP2016592A1
+</PublicationNumber>
+<Inventor>
+<Name>
+COWBURN RUSSELL PAUL [GB]
+</Name>
+<Name>
+PETIT DOROTHEE [GB]
+</Name>
+<Name>
+READ DAN [GB]
+</Name>
+<Name>
+PETRACIC OLEG [GB]
+</Name>
+<Name>
+COWBURN, RUSSELL, PAUL
+</Name>
+<Name>
+PETIT, DOROTHEE
+</Name>
+<Name>
+READ, DAN
+</Name>
+<Name>
+PETRACIC, OLEG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+INGENIA HOLDINGS UK LTD [GB]
+</Name>
+<Name>
+INGENIA HOLDINGS (UK) LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2016592
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070732679
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007GB01650
+</PriorityNumber>
+<PriorityDate>
+2007-05-04
+</PriorityDate>
+<PriorityNumber>
+GB20060009152
+</PriorityNumber>
+<PriorityDate>
+2006-05-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C19/08
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C11/14
+</Class>
+<Class>
+G11C19/08C
+</Class>
+<Class>
+G11C19/08C2
+</Class>
+<Class>
+G11C19/08C8
+</Class>
+</NCL>
+<Abstract>
+A serial magnetic mass storage device and associated data storage method of the kind in which data is encoded in single magnetic domains in nanowires. In the invention, the nanowires (10) are provided with a large number of notches (12) along their length to form domain wall pinning sites. Moreover, the notches are addressed in groups (A, B, C) by heating electrodes.;  By alternately heating the notches hosting head-to-head and tail-to-tail domain walls (16, 18) in synchrony with alignment and anti-alignment of an operating field (H) along the nanowire the magnetic domains (14) are moved along the nanowire by alternate movement of the head-to-head and tail-to-tail domain walls in caterpillar or worm-like motion in which the domains are incrementally lengthened and shortened by one inter-notch distance as they move along the nanowires under the joint coordinated action of the heating and alternating operating field. From an interconnect and fabrication standpoint, the scheme can be scaled almost without restriction out of the plane of the substrate to provide hundreds or thousands of stacked layers of nanowires, thus allowing very dense three-dimensional networks of stored information to be realised.
+</Abstract>
+<Claims>
+<P>
+&amp;lt;p&amp;gt;CLAIMS&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;What is claimed is: 1. A serial data storage device comprising: a substrate; an array of nanowires of magnetic material arranged in three-dimensions on the substrate, wherein the nanowires extend in the y-direction and are spaced apart from each other in the x-and zdirections forming a stack of nanowire layers, wherein each nanowire is formed so as to be capable of supporting single magnetic domains along its length, the magnetic domains being separated by domain walls, wherein the nanowires have a plurality of domain wall pinning sites along their length; a magnetic field source arranged to generate an operating field capable of moving the domain walls along the nanowires between the pinning sites by action of a component that alternates between alignment and antialignment with a first direction along the nanowire; and a depinning signal generator arranged to alternately apply a depinning signal to pinning sites hosting head-to-head and tail-to-tail domain walls in synchrony with the alignment and anti-alignment of the operating field component with the first direction, thereby to move magnetic domains along the nanowire in the first direction by alternate movement of the head-to-head and tail-to-tail domain walls.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;2. The device of claim 1, wherein the pinning sites are created by dimensional variations along the nanowires.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;3. The device of claim 2, wherein the dimensional variations are local narrowing or widening features in the nanowires to create inward or outward notches.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;4. The device of any preceding claim, further comprising a plurality of nucleation field generators, one for each nanowire, arranged to selectively create new magnetic domains in the nanowires by locally applying a field of at least the&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;nucleation field at a read-in location.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;5. The device of any preceding claim, further comprising a data input side formed by a plurality of terraces extending in the x direction formed by stepwise termination of each nanowire layer.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;6. The device of claim 5, wherein the nanowire layer that terminates to form each terrace is in each case the lowermost nanowire layer.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;7. The device of claim 5, wherein the nanowire layer that terminates to form each terrace is in each case the uppermost nanowire layer.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;8. The device of any preceding claim, further comprising a plurality of magnetic field detectors, one for each nanowire, arranged to measure the magnetic field of the nanowires at a read-out location.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;9. The device of any preceding claim, further comprising a data output side formed by a plurality of terraces extending in the x direction formed by stepwise termination of each nanowire layer.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;10. The device of claim 7, wherein the nanowire layer that terminates to form each terrace is in each case the lowermost nanowire layer.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;11. The device of claim 7, wherein the nanowire layer that terminates to form each terrace is in each case the uppermost nanowire layer.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;12. The device of claims 5 and 9, wherein the data input and output side terraces associated with the same nanowire layer have the same extent in the y direction.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;13. A method of serially storing data encoded in magnetic domains in a nanowire, each magnetic domain being bounded by a head-to-head domain wall and a tail-to-tail domain wall, and the nanowire having a plurality of domain wall pinning sites along its length, the method comprising: (a) applying an operating field having a component that alternates between alignment and anti-alignment with a first direction along the nanowire; and (b) alternately applying a depinning energy to pinning sites hosting head- to-head and tail-to-tail domain walls in synchrony with the alignment and anti-alignment of the operating field component with the first direction, so that the magnetic domains are moved along the nanowire in the first direction by alternate movement of the head-to-head and tail-to-tail domain walls.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;14. The method of claim 13, further comprising: (c) selectively creating new magnetic domains in the nanowire by locally applying a field of at least the nucleation field at a read-in location, while carrying out steps (a) and (b), thereby reading in data serially into the nanowire in the first direction.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;15. The method of claim 14, wherein the read-in location is at an end portion of the nanowire associated with the nanowire end away from which the domain walls are moved in the first direction.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;16. The method of claim 13, 14 or 15, further comprising: (d) repeatedly measuring the magnetic field of the nanowire at a read-out location, while carrying out steps (a) and (b), thereby reading out data serially from the nanowire in the first direction.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;17. The method of claim 16, wherein the read-out location is at an end portion of the nanowire associated with the nanowire end towards which the domain walls are moved in the first direction.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;18. The method of claim 13, 14 or 15, further comprising: (e) alternately applying a depinning energy to pinning sites hosting head-to-head and tail-to-tail domain walls in synchrony with the anti-alignment and alignment of the operating field component with the first direction, so that the magnetic domains are moved along the nanowire in a second direction, opposite to the first direction, by alternate movement of the head-to-head and tail-to-tail domain walls.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;19. The method of claim 18, further comprising: (f) repeatedly measuring the magnetic field of the nanowire at a read-out location, while carrying out steps (a) and (e), thereby reading out data serially from the nanowire in the second direction.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;20. The method of claim 19, wherein the read-out location is at a nanowire end towards which the domain walls are moved in the second direction.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;21. The method of any of claims 13 to 20, wherein the depinning energy is applied by electrically induced heating.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;22. A method of injecting, storing and reading out serial data streams using nanowires of magnetic material capable of supporting single magnetic domains along their length, wherein the nanowires have a plurality of domain wall pinning sites along their length, each nanowire being formed so that a domain wall is mobile along the nanowire under action of an operating field having a strength between the propagation field for the nanowire and a locally enhanced propagation field at the pinning sites, the method comprising: applying the operating field to render domain walls mobile in the nanowire between adjacent pinning sites, wherein the nanowire is activated while the operating&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;field is being applied;&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;selectively injecting domain walls into the nanowire at an injection location by applying a local magnetic field of at least the nucleation field at the injection location, wherein the domain walls or the magnetic domains defined by them are used to encode data; moving the injected domain walls along the nanowire away from the injection location in a stepwise fashion from one pinning site to the next by applying depinning energy to selected ones of the pinning sites while the nanowire is activated so as to temporarily lower the locally enhanced propagation field at the selected pinning sites&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;to below the operating field; and&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;measuring magnetic field of the nanowire at at least one read location on the nanowire to read the data encoded by the domains or domain walls.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;23. A memory device substantially as hereinbefore described with reference to the accompanying drawings.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;24. A nanowire data storage pipeline substantially as hereinbefore described with reference to the accompanying drawings.&amp;lt;/p&amp;gt;
+</P>
+<P>
+&amp;lt;p&amp;gt;25. A data storage method substantially as hereinbefore described with reference to the accompanying drawings.&amp;lt;/p&amp;gt;
+</P>
+</Claims>
+<Also_published_as>
+EP2016592B1;GB2438003A;GB2438003B;TW200814070A;RU2008148301A;KR20090011013A;JP2009536420A;WO2007132174A1;GB2438062A;GB2438062B;CN101438354A;AT443331T
+</Also_published_as>
+</BiblioData>

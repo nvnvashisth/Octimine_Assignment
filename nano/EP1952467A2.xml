@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOWIRE STRUCTURES COMPRISING CARBON
+</Title>
+<PublicationNumber>
+EP1952467A2
+</PublicationNumber>
+<Inventor>
+<Name>
+NIU CHUNMING [US]
+</Name>
+<Name>
+NIU, CHUNMING
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOSYS INC [US]
+</Name>
+<Name>
+NANOSYS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1952467
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060838053
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US44883
+</PriorityNumber>
+<PriorityDate>
+2006-11-20
+</PriorityDate>
+<PriorityNumber>
+US20050738100P
+</PriorityNumber>
+<PriorityDate>
+2005-11-21
+</PriorityDate>
+<PriorityNumber>
+US20060801377P
+</PriorityNumber>
+<PriorityDate>
+2006-05-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01M4/86
+</Class>
+<Class>
+H01M4/88
+</Class>
+<Class>
+H01M4/92
+</Class>
+<Class>
+H01M8/10
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+H01M10/52
+</Class>
+<Class>
+H01M4/583
+</Class>
+<Class>
+H01M4/86B
+</Class>
+<Class>
+H01M4/86K2
+</Class>
+<Class>
+H01M4/88B2
+</Class>
+<Class>
+H01M4/92
+</Class>
+<Class>
+H01M8/10B
+</Class>
+<Class>
+Y02E60/12
+</Class>
+<Class>
+Y02E60/52B2B
+</Class>
+</NCL>
+<Abstract>
+The present invention is directed to nanowire structures and interconnected nanowire networks comprising such structures, as well as methods for their production. The nanowire structures comprise a nanowire core, a carbon-based layer, and in additional embodiments, carbon-based structures such as nanographitic plates consisting of graphenes formed on the nanowire cores, interconnecting the nanowire structures in the networks. The networks are porous structures that can be formed into membranes or particles. The nanowire structures and the networks formed using them are useful in catalyst and electrode applications, including fuel cells, as well as field emission devices, support substrates and chromatographic applications.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A nanowire comprising a carbon-based layer.
+</P>
+<P>
+2. The nanowire of claim 1, wherein the carbon-based layer is substantially devoid of basal plane carbon.
+</P>
+<P>
+3. The nanowire of claim 1, further comprising a core.
+</P>
+<P>
+4. The nanowire of claim 1, wherein the core comprises semiconductor material.
+</P>
+<P>
+5. The nanowire of claim 4, wherein the semiconductor material is selected from the group consisting of Si, B, SiC and GaN.
+</P>
+<P>
+6. The nanowire of claim 4, wherein the semiconductor material is highly doped.
+</P>
+<P>
+7. The nanowire of claim 3, wherein the core and/or the carbon- based layer comprise carbon.
+</P>
+<P>
+8. The nanowire of claim 3, wherein the core and/or the carbon- based layer consist essentially of carbon.
+</P>
+<P>
+9. The nanowire of claim 3, wherein the core and/or the carbon- based layer consist of carbon.
+</P>
+<P>
+10. The nanowire of claim 3, wherein the core comprises carbide.
+</P>
+<P>
+11. The nanowire of claim 10, wherein the core comprises SiC.
+</P>
+<P>
+12. The nanowire of claim 3, wherein the core is Si and the carbon- based layer is SiC.
+</P>
+<P>
+13. The nanowire of claim 3, wherein the core is SiC and the carbon-based layer is carbon.
+</P>
+<P>
+14. The nanowire of claim 1, wherein the carbon-based layer is between about 1 nm to about 500 nm in thickness.
+</P>
+<P>
+15. A nanowire structure, comprising a core, an interracial carbide layer and a carbon-based structure formed on the interfacial carbide layer.
+</P>
+<P>
+16. The nanowire structure of claim 15, wherein the carbon-based structure comprises at least one nanographitic plate formed on the interfacial carbide layer.
+</P>
+<P>
+17. The nanowire structure of claim 15, wherein the core comprises semiconductor material.
+</P>
+<P>
+18. The nanowire structure of claim 17, wherein the semiconductor material is selected from the group consisting of Si, B, SiC and GaN.
+</P>
+<P>
+19. The nanowire structure of claim 17, wherein the core comprises an inorganic oxide selected from the group consisting of SiO2, Al2O3, TiO2, SnO2, ZrO2, HfO2 and Ta2O5; an inorganic carbide selected from the group consisting of TiC, ZrC, HfC, NbC, WC, W2C, MoC and Mo2C; or an inorganic nitride selected from the group consisting of TiN, ZrN, HfN, WN, MoN and BN.
+</P>
+<P>
+20. The nanowire structure of claim 15, wherein the interfacial carbide layer is selected from the group consisting of SiC, TiC, ZrC, HfC, NbC, WC, Mo2C and mixtures thereof.
+</P>
+<P>
+21. The nanowire structure of claim 15, wherein the core has a cross-sectional diameter of less than about 500 nm and a length of greater than about 50 nm.
+</P>
+<P>
+22. The nanowire structure of claim 16, wherein the at least one nanographitic plate extends away from the core a distance of about 1 nm to about 100 nm, comprises at least 2-15 layers of graphene, and is oriented relative the major axis of the core at an angle of between about 0[deg.] and about 90[deg.].
+</P>
+<P>
+23. A solution comprising one or more nanowire structures of claim 15.
+</P>
+<P>
+24. The solution of claim 23, further comprising one or more of a surfactant, a polymer and/or an ionomer.
+</P>
+<P>
+25. The solution of claim 23, wherein said nanowire structures comprise about 0.1% to about 20% of said solution by volume.
+</P>
+<P>
+26. A method of manufacturing a nanowire, comprising: (a) heating a nanowire core; and
+</P>
+<P>
+(b) contacting the nanowire core with one or more carbon- comprising gases to form a carbon-based layer on the nanowire core.
+</P>
+<P>
+27. The method of claim 26, wherein said heating is to a temperature of greater than about 600&amp;lt;0&amp;gt;C.
+</P>
+<P>
+28. The method of claim 26, wherein said contacting step comprises contacting with a gas comprising carbon monoxide, methane, ethane, propane, butane, ethylene or propylene and optionally further comprises contacting with a gas comprising He, Ne, Ar, Kr, Xe, or H2.
+</P>
+<P>
+29. The method of claim 26, further comprising forming a precursor coating selected from the group consisting of TiO2, ZrO2, HfO2, Nb2O3, Ta2O5, MoO3 and WO3 on the nanowire core prior to the heating step.
+</P>
+<P>
+30. A method of manufacturing a nanowire structure, comprising:
+</P>
+<P>
+(a) heating a nanowire core;
+</P>
+<P>
+(b) contacting the nanowire core with one or more carbon- comprising gases to form an interfacial carbide layer on the nanowire core; and
+</P>
+<P>
+(c) forming at least one carbon-based structure on the interfacial carbide layer.
+</P>
+<P>
+31. The method of claim 30, wherein said forming comprises forming at least one nanowire on the interfacial carbide layer.
+</P>
+<P>
+32. The method of claim 30, wherein said forming comprises forming at least one nanographitic plate on the interfacial carbide layer.
+</P>
+<P>
+33. The method of claim 30, wherein said heating is to a temperature of greater than about 600[deg.]C.
+</P>
+<P>
+34. The method of claim 33, wherein said contacting step further comprises heating the nanowire core to a second temperature of greater than about 1000&amp;lt;0&amp;gt;C to form the at least one carbon-based structure.
+</P>
+<P>
+35. The method of claim 30, wherein said contacting comprises contacting with a gas comprising carbon monoxide, methane, ethane, propane, butane, ethylene or propylene, and optionally further comprises contacting with a gas comprising He, Ne, Ar, Kr, Xe or H2.
+</P>
+<P>
+36. The method of claim 30, further comprising forming a precursor coating selected from the group consisting of TiO2, ZrO2, HfO2, Nb2O3, Ta2O5, MoO3 and WO3 on the nanowire core prior to said heating.
+</P>
+<P>
+37. An interconnected nanowire network, comprising a plurality of the nanowire structures of claim 16, wherein the nanographitic plates connect the nanowire structures.
+</P>
+<P>
+38. The interconnected nanowire network of claim 37, wherein the network forms a mesoporous membrane or particle.
+</P>
+<P>
+39. A catalyst comprising an interconnected nanowire structure of claim 37 and active catalytic nanoparticles dispersed on the surface of the interconnected nanowire structure.
+</P>
+<P>
+40. A membrane electrode assembly comprising a catalyst of claim 39.
+</P>
+<P>
+41. A fuel cell comprising a membrane electrode assembly of claim 40.
+</P>
+<P>
+42. An lithium battery comprising an anode comprising an interconnected nanowire structure of claim 37, a cathode, a separator and a lithium electrolyte.
+</P>
+<P>
+43. An electrochemical capacitor comprising two electrodes comprising the interconnected nanowire structure of claim 37, a separator and an electrolyte.
+</P>
+<P>
+44. A chromatographic medium comprising a plurality of the particles of claim 38.
+</P>
+<P>
+45. A high surface area electrode comprising the interconnected nanowire structure of claim 37.
+</P>
+<P>
+46. A method of manufacturing an interconnected nanowire network, comprising:
+</P>
+<P>
+(a) dispersing a plurality of nanowire cores in a liquid; (b) filtering the nanowire cores to create a nanowire mat;
+</P>
+<P>
+(c) heating the nanowire mat;
+</P>
+<P>
+(d) contacting the nanowire mat with one or more carbon- comprising gases to form interfacial carbide layers on the nanowire cores, and
+</P>
+<P>
+(e) forming nanographitic plates on the interfacial carbide layers, such that that nanographitic plates interconnect the nanowire cores.
+</P>
+<P>
+47. The method of claim 46, wherein said heating is to a temperature of greater than about 600[deg.]C.
+</P>
+<P>
+48. The method of claim 47, wherein said contacting further comprises heating the nanowire mat to a second temperature of greater than about 1000&amp;lt;0&amp;gt;C to form the nanographitic plates.
+</P>
+<P>
+49. The method of claim 46, wherein said contacting comprises contacting with a gas comprising carbon monoxide, methane, ethane, propane, butane, ethylene or propylene and optionally further comprises contacting with a gas comprising a He, Ne, Ar, Kr, Xe or H2.
+</P>
+<P>
+50. The method of claim 46, further comprising forming a percursor coating selected from the group consisting of TiO2, ZrO2, HfO2, Nb2O3, Ta2O5, MoO3 and WO3 on the nanowire cores prior to the heating step.
+</P>
+<P>
+51. Inorganic nanowires comprising a metal catalyst deposited on a surface of the nanowires.
+</P>
+<P>
+52. The inorganic nanowires of claim 51, wherein the metal catalyst comprises nanometer-sized catalyst particles having a diameter between about 1 and 10 nm selected from the group comprising one or more of Pt, Au, Pd, Ru, Re3 Rh, Os, Ir, Fe, Co, Ni, Cu, Ag, V, Cr, Mo, W and alloys or mixtures thereof.
+</P>
+<P>
+53. The inorganic nanowires of claim 51, wherein the nanowires are branched structures.
+</P>
+<P>
+54. The inorganic nanowires of claim 51, wherein the metal catalyst is deposited on the nanowires by using a process selected from the group comprising chemical vapor deposition, electrochemical deposition, electroless chemical plating, physical vapor deposition, solution impregnation and precipitation, colloid particle absorption and desorption, binding through a chemical linker, atomic layer deposition, and combinations thereof.
+</P>
+<P>
+55. A solution comprising one or more inorganic nanowires of claim 51.
+</P>
+<P>
+56. A fuel cell comprising the inorganic nanowires of claim 51 in which the nanowire are deposited on the surface of a proton exchange membrane.
+</P>
+<P>
+57. A fuel cell comprising the inorganic nanowires of claim 51 in which the nanowires are deposited on the surface of one or more bipolar plates of the fuel cell.
+</P>
+<P>
+58. A fuel cell comprising the inorganic nanowires of claim 51 in which, the nanowires are directly grown on one or more bipolar plates of the fuel cell.
+</P>
+<P>
+59. A fuel cell comprising the inorganic nanowires of claim 51 in which the nanowires are directly grown on a proton exchange membrane of the fuel cell.
+</P>
+<P>
+60. A nanostructured catalyst support for a membrane electrode assembly of a fuel cell comprising a network of inorganic nanowires each having a metal catalyst deposited thereon.
+</P>
+<P>
+61. The nanostructured catalyst support of claim 60, wherein the catalyst metal comprises one or more of Pt, Au, Pd, Ru, Re, Rh, Os, Ir, Fe, Co, Ni, Cu, Ag, V, Cr, Mo, W and alloys or mixtures thereof.
+</P>
+<P>
+62. The nanostructured catalyst support of claim 60, wherein the catalyst metal comprises nanoparticles having a diameter less than about 10 nm or less than about 5 nm.
+</P>
+<P>
+63. The nanostructured catalyst support of claim 60, wherein each nanowire in the network of nanowires is physically connected to at least one or more other nanowires in the nanowire network and/or a bipolar plate.
+</P>
+<P>
+64. The nanostructured catalyst support of claim 60, wherein the nanowires are selected from the group comprising RuO2, SiC, GaN, TiO2, SnO2, WCx, MoCx, ZrC, WNx, and MoNx nanowires.
+</P>
+<P>
+65. The nanostructured catalyst support of claim 60, wherein the nanowires in the network of nanowires are each functionalized with at least a first chemical binding moiety.
+</P>
+<P>
+66. The nanostructured catalyst support of claim 60, further comprising a proton conducting polymer in contact with the nanowires.
+</P>
+<P>
+67. The nanostructured catalyst support of claim 60, wherein the membrane electrode assembly is a component in a direct methanol fuel cell (DMFC).
+</P>
+<P>
+68. The nanostructured catalyst support of claim 60, wherein the amount of deposited catalyst metal is about 0.5% to 85%, or about 20% to about 40% by weight based on the total amount of catalyst metal and nanowire material.
+</P>
+<P>
+69. The nanostructured catalyst support of claim 60, wherein the plurality of nanowires comprise a semiconductor material selected from group IV, group II- VI, group III-V semiconductors and alloys and mixtures thereof.
+</P>
+<P>
+70. A membrane electrode assembly, comprising a proton exchange membrane, an anode electrode, and a cathode electrode, wherein at least one or more of the anode electrodes and cathode electrodes comprise an interconnected network of nanowires.
+</P>
+<P>
+71. The membrane electrode assembly of claim 70, wherein each of the nanowires has a metal catalyst deposited thereon.
+</P>
+<P>
+72. The membrane electrode assembly of claim 71, wherein the catalyst metal comprises one or more of Pt, Au, Pd, Ru, Re, Rh, Os, Ix, Fe, Co, Ni, Cu, Ag, V, Cr, Mo, W and alloys or mixtures thereof.
+</P>
+<P>
+73. The membrane electrode assembly of claim 71, wherein the catalyst metal comprises nanoparticles having a diameter between about 1 and 10 nm.
+</P>
+<P>
+74. The membrane electrode assembly of claim 70, wherein each nanowire in the network of nanowires is contacted by at least one other nanowire in the nanowire network and is electrically connected to one or more other nanowires in the nanowire network.
+</P>
+<P>
+75. The membrane electrode assembly of claim 70, wherein at least one or more nanowires in the network of nanowires has a branched structure.
+</P>
+<P>
+76. The membrane electrode assembly of claim 71, wherein the nanowires in the network of nanowires are each functionalized with a first chemical binding moiety which binds the metal catalyst.
+</P>
+<P>
+77. The membrane electrode assembly of claim 70, wherein the nanowires in the network of nanowires are each functionalized with a chemical binding moiety which binds a proton conducting polymer coating the nanowires.
+</P>
+<P>
+78. The membrane electrode assembly of claim 77, wherein the proton conducting polymer coating comprises a sulfonated polymer.
+</P>
+<P>
+79. A fuel cell comprising the membrane electrode assembly of claim 70.
+</P>
+<P>
+80. A direct methanol fuel cell comprising the membrane electrode assembly of claim 70.
+</P>
+<P>
+81. A hydrogen fuel cell comprising the membrane electrode assembly of claim 70.
+</P>
+<P>
+82. A method for preparing a fuel cell membrane electrode assembly, comprising (a) associating a catalyst metal selected from the group comprising one or more of chromium (Cr), molybdenum (Mo), tungsten (W), manganese (Mn), technetium (Tc), rhenium (Re), iron (Fe), ruthenium (Ru), osmium (Os), cobalt (Co), rhodium (Rh), iridium (L&quot;), nickel (Ni), palladium (Pd), platinum (Pt), copper (Cu), silver (Ag), gold (Au), zinc (Zn), tin (Sn), aluminum (Al), and combinations thereof, with a plurality of inorganic nanowires to form a plurality of inorganic nanowires with associated catalyst metal, and (b) forming a membrane electrode assembly comprising the plurality of inorganic nanowires with associated catalyst metal.
+</P>
+<P>
+83. The method of claim 82, further comprising annealing the nanowires with associated catalyst metal prior to forming the membrane electrode.
+</P>
+<P>
+84. The method of claim 83, wherein said associating comprises chemically depositing a catalyst metal precursor.
+</P>
+<P>
+85. The method of claim 82, further comprising cross-linking the plurality of nanowires together at points where such nanowires contact or are proximal to others of said nanowires.
+</P>
+<P>
+86. The method of claim 82, wherein said forming comprises forming by a method selected from the group comprising spray/brush painting, solution coating, casting, electrolytic deposition, filtering a fluid suspension of the nanowires, and combinations thereof.
+</P>
+<P>
+87. The method of claim 82, further comprising mixing an ionomeric resin comprising a perfluorosulfonic acid/PTFE copolymer with the plurality of inorganic nanowires with associated catalyst metal.
+</P>
+<P>
+88. A method of making a membrane electrode assembly for a fuel cell, comprising: forming nanowires on a growth substrate; transferring the nanowires from the growth substrate into a fluid suspension; depositing one or more catalyst metals on the nanowires to form a nanowire supported catalyst; filtering the fluid suspension of nanowires to create a porous sheet of interconnected nanowires; infiltrating the sheet of interconnected nanowires with an ionomer; and combining the sheet of interconnected nanowires with a polymer membrane to form the membrane electrode assembly.
+</P>
+<P>
+89. The method of claim 88, wherein said depositing one or more catalyst metal particles comprises depositing a metal selected from the group comprising Pt, Au5 Pd, Ru, Re, Rh, Os, Ir, Fe, Co, Ni, Cu, Ag, V, Cr, Mo, W and alloys or mixtures thereof.
+</P>
+<P>
+90. The method of claim 88, wherein said depositing comprises an electrodeposition process.
+</P>
+<P>
+91. The method of claim 88, further comprising forming a proton exchange membrane fuel cell utilizing the formed electrode, comprising: adding first and second bipolar plates on either side of the polymer membrane; and sealing the bipolar plates to form the proton exchange membrane fuel cell.
+</P>
+<P>
+92. The method of claim 88, further comprising derivatizing the nanowires with a first functional group comprising one or more of a nitric oxide/acid group, a carboxylic acid group, a hydroxyl group, an amine group, and a sulfonic acid group prior to said depositing the metal catalyst on the nanowires.
+</P>
+<P>
+93. The method of claim 88, further comprising derivatizing the nanowires with a functional group selected from the group comprising a short hydrocarbon, fluorocarbon, and branched hydrocarbon chain which binds the ionomer to the nanowires.
+</P>
+<P>
+94. The method of claim 88, wherein said forming nanowires comprises forming nanowires are selected from the group comprising RuO2, SiC, GaN, TiO2, SnO2, WCx, MoCx, ZrC, WNx, and MoNx nanowires.
+</P>
+<P>
+95. The method of claim 88, wherein said filtering comprises vacuum filtration of the nanowire fluid suspension over a polyvinylidene fluoride (PVDF) membrane.
+</P>
+<P>
+96. The method of claim 88, wherein said depositing is performed prior to said filtering.
+</P>
+<P>
+97. The method of claim 88, wherein said depositing is performed after said filtering.
+</P>
+<P>
+98. A bipolar plate for a fuel cell comprising a plurality of inorganic nanowires deposited thereon.
+</P>
+<P>
+99. A nanowire for use in a fuel cell comprising a carbon nanotube or silicon nanowire core and one or more shell layers disposed about the core, wherein the outermost shell layer comprises silicon carbide (SiC) having a catalyst metal deposited thereon.
+</P>
+<P>
+100. The nanowire of claim 99, wherein the SiC shell layer is functionalized with a proton conducting coating comprising a perfluorinated sulfonated hydrocarbon molecule.
+</P>
+<P>
+101. A fuel cell electrode comprising:
+</P>
+<P>
+an inorganic support wafer having a first surface comprising one or more channels;
+</P>
+<P>
+one or more nanowires disposed within the channels; and
+</P>
+<P>
+one or more metal catalysts deposited on a surface of the nanowires.
+</P>
+<P>
+102. The fuel cell electrode of claim 101, wherein the inorganic support wafer is a Si wafer.
+</P>
+<P>
+103. The fuel cell electrode of claim 101, wherein the wafer has a second surface comprising one or more channels opposite the first surface, one or more nanowires disposed within the channels in the second surface, and one or more metal catalysts deposited on a surface of the nanowires.
+</P>
+<P>
+104. The fuel cell electrode of claim 101, wherein the first surface and/or the nanowires are carburized.
+</P>
+<P>
+105. The fuel cell electrode of claim 103, wherein the first surface, the second surface and the nanowires are carburized.
+</P>
+<P>
+106. The fuel cell electrode of claim 101, wherein the metal catalyst is between about 1 nm and 10 nm and is selected .from the group consisting of Pt, Au, Pd, Ru, Re, Rh, Os, Lr, Fe, Co, Ni, Cu, Ag, V, Cr, Mo, W and alloys and mixtures thereof.
+</P>
+<P>
+107. The fuel cell electrode of claim 101, wherein the nanowires are selected from the group consisting of RuO2, SiC, GaN, TiO2, SnO2, WCx, MoCx, ZrC, WNx and MoNx nanowires.
+</P>
+<P>
+108. A membrane electrode assembly comprising a first fuel cell electrode of claim 101, a proton exchange membrane, and a second fuel cell electrode of claim 101.
+</P>
+<P>
+109. The membrane electrode assembly of claim 108, wherein the proton exchange membrane is sandwiched between the first surface of the first fuel cell electrode and the second surface of the second fuel cell electrode.
+</P>
+<P>
+110. The membrane electrode assembly of claim 109, wherein the first surface of the first fuel cell electrode comprises nanowires with anodic metallic catalysts and the second surface of the second fuel cell electrode comprises nanowires with cathodic metallic catalysts.
+</P>
+<P>
+111. The membrane electrode assembly of claim 110, wherein the anionic metallic catalysts are PtRu and the cationic metallic catalysts are Pt, and wherein the metallic catalysts comprise particles having a diameter of between about 1 nm and 10 nm.
+</P>
+<P>
+112. The membrane electrode assembly of claim 107, wherein the nanowires comprise SiC.
+</P>
+<P>
+113. The membrane electrode assembly of claim 108, wherein the proton exchange membrane comprises a sulfonated tetrafluorethylene copolymer.
+</P>
+<P>
+114. A direct methanol fuel cell comprising the membrane electrode assembly of claim 109.
+</P>
+<P>
+115. A method for preparing a fuel cell electrode comprising:
+</P>
+<P>
+providing a semiconductor wafer having a first surface and a second surface;
+</P>
+<P>
+forming one or more channels on the first surface and the second surface; disposing one or more nanowires in the channels in the first and second surfaces;
+</P>
+<P>
+contacting the nanowires and the first and second surfaces with one or more carbon-comprising gases to form a carbon-based layer on the nanowires and the first and second surfaces; and
+</P>
+<P>
+disposing one or more metal catalysts on the nanowires.
+</P>
+<P>
+116. The method of claim 115, wherein said forming of one or more channels comprises etching.
+</P>
+<P>
+117. The method of claim 116, wherein said etching comprises etching with NaOH.
+</P>
+<P>
+118. The method of claim 115, wherein said disposing of one or more nanowires comprises growing nanowires in the channels.
+</P>
+<P>
+119. The method of claim 115, wherein the disposing of one or more metal catalysts on the nanowires comprises depositing one or more Pt nanoparticles on nanowires on the first surface and PtRu nanoparticles on nanowires on the second surface.
+</P>
+<P>
+120. A fuel cell electrode prepared by the method of claim 115.
+</P>
+<P>
+121. A field emission element comprising a nanowire structure comprising a core, an interfacial carbide layer and a carbon-based structure formed on the interfacial carbide layer.
+</P>
+<P>
+122. The field emission element of claim 121, wherein the core has a cross-sectional diameter of less than about 500 ran and a length of greater than about 10 nm and comprises semiconductor material.
+</P>
+<P>
+123. The field emission element of claim 122, wherein the semiconductor material is selected from the group consisting of Si, B and SiC.
+</P>
+<P>
+124. The field emission element of claim 121, wherein the core comprises an inorganic oxide selected from the group consisting of SiO2, Al2O3, TiO2, SnO2, ZrO2, HfO2 and Ta2O5; an inorganic carbide selected from the group consisting of TiC, ZrC, HfC, NbC, WC, W2C, MoC and Mo2C; or an inorganic nitride selected from the group consisting of TiN, ZrN, HfN, WN, MoN and BN.
+</P>
+<P>
+125. The field emission element of claim 121, wherein the interfacial carbide layer is selected from the group consisting of SiC, TiC, ZrC, HfC, NbC, WC, Mo2C and mixtures thereof.
+</P>
+<P>
+126. The field emission element of claim 121, wherein the carbon- based structure is at least one nanographitic plate extending away from the core a distance of about 1 nm to about 100 run, comprising at least about 2-15 layers of graphene, and is oriented relative the major axis of the core at an angle of between about 0[deg.] and about 90[deg.].
+</P>
+<P>
+127. A method for preparing one or more nanowires comprising one or more catalyst metals associated with the nanowires, said method comprising:
+</P>
+<P>
+(a) dispersing one or more nanowires in a solution;
+</P>
+<P>
+(b) adding one or more catalyst metals to the solution; and
+</P>
+<P>
+(c) refluxing the solution, whereby the catalyst metals become associated with the nanowires.
+</P>
+<P>
+128. The method of claim 127, wherein said adding comprises adding a catalyst metal selected from the group comprising one or more of chromium (Cr), molybdenum (Mo), tungsten (W), manganese (Mn), technetium (Tc), rhenium (Re), iron (Fe), ruthenium (Ru), osmium (Os), cobalt (Co), rhodium (Rh), iridium (Ir), nickel (Ni), palladium (Pd), platinum (Pt), copper (Cu), silver (Ag), gold (Au), zinc (Zn), tin (Sn), aluminum (Al), and combinations thereof.
+</P>
+<P>
+129. The method of claim 127, wherein said dispersing comprises dispersing in a solution comprising ethylene glycol.
+</P>
+<P>
+130. The method of claim 127, wherein said refluxing comprises heating the solution to boiling.
+</P>
+<P>
+131. The method of claim 127, wherein said dispersing comprises dispersing nanowires that are derivatized with at least a first functional group which binds the catalyst metal.
+</P>
+<P>
+132. The method of claim 131, wherein said dispersing derivatized nanowires comprises dispersing nanowires wherein the first functional group includes a group selected from a nitric acid, a carboxylic acid group, a hydroxyl group, an amine group, and a sulfonic acid group.
+</P>
+<P>
+133. The method of claim 127, further comprising:
+</P>
+<P>
+(d) filtering the refluxed solution to generate a solid nanowire dispersion with associated catalyst metals; and
+</P>
+<P>
+(e) drying the solid nanowire dispersion.
+</P>
+<P>
+134. The method of claim 127, wherein said adding comprises adding a catalyst metal comprising platinum, or platinum and ruthenium.
+</P>
+<P>
+135. The method of claim 127, wherein said dispersing comprises dispersing an interconnected network of nanowires in which two or more nanowires in the network are physically and/or electrically coupled to each other.
+</P>
+<P>
+136. The method of claim 127, further comprising cross-linking the plurality of nanowires together at points where such nanowires contact or are proximal to others of said nanowires.
+</P>
+<P>
+137. The method of claim 127, wherein said adding comprises adding catalyst metal nanoparticles.
+</P>
+<P>
+138. A method for preparing a fuel cell membrane electrode assembly, comprising:
+</P>
+<P>
+(a) providing a gas diffusion layer;
+</P>
+<P>
+(b) disposing a first composition of catalyst metal-associated nanowires adjacent the gas diffusion layer;
+</P>
+<P>
+(c) disposing a membrane layer adjacent the first catalyst metal-associated nanowire composition; and
+</P>
+<P>
+(d) disposing a second composition of catalyst metal-associated nanowires adjacent the membrane layer.
+</P>
+<P>
+139. The method of claim 138, wherein said disposing a first and second composition of catalyst metal-associated nanowires comprises disposing a solution of catalyst-associated nanowires.
+</P>
+<P>
+140. The method of claim 139, wherein said disposing a first and second solution comprises disposing a solution of catalyst-associated nanowires and one or more ionomers.
+</P>
+<P>
+141. The method of claim 138, further comprising: disposing a masking layer adjacent the gas diffusion layer to cover at least the edges of the gas diffusion layer prior to said disposing of the first composition of catalyst metal-associated nanowires; and
+</P>
+<P>
+removing the masking layer after said disposing of said first composition, but prior to said disposing of the membrane layer.
+</P>
+<P>
+142. The method of claim 138, further comprising:
+</P>
+<P>
+disposing a masking layer on the membrane layer to cover at least the edges of the membrane layer prior to said disposing of the second composition of catalyst metal-associated nanowires.
+</P>
+<P>
+143. The method of claim 138, wherein said disposing a first composition of catalyst metal-associated nanowires comprises disposing a solution of anode catalyst-associated nanowires.
+</P>
+<P>
+144. The method of claim 141, wherein said disposing a second composition of catalyst metal-associated nanowires comprises disposing a solution of cathode catalyst-associated nanowires.
+</P>
+<P>
+145. The method of claim 138, wherein said disposing a first composition of catalyst metal-associated nanowires and said disposing a second composition of catalyst metal-associated nanowires comprise spraying a solution of the nanowires and one or more ionomers.
+</P>
+<P>
+146. The method of claim 145, wherein said spraying comprises spraying multiple layers of the nanowires and one or more ionomers.
+</P>
+<P>
+147. The method of claim 1.38, wherein said disposing a membrane layer comprises spraying the membrane layer.
+</P>
+<P>
+148. The method of claim 138, wherein said disposing a membrane layer comprises disposing a proton conducting polymer layer.
+</P>
+<P>
+149. A membrane electrode assembly prepared by the method of claim 138.
+</P>
+<P>
+150. A fuel cell comprising a membrane electrode assembly of claim 149.
+</P>
+<P>
+151. A method for preparing a fuel cell electrode stack comprising:
+</P>
+<P>
+(a) providing a first end plate;
+</P>
+<P>
+(b) disposing a first gasket adjacent the end plate;
+</P>
+<P>
+(c) disposing a membrane electrode assembly of claim 149 adjacent the first gasket;
+</P>
+<P>
+(d) disposing a gas diffusion layer adjacent the membrane electrode assembly;
+</P>
+<P>
+(e) disposing a second gasket adjacent the gas diffusion layer; and (f) disposing a second end plate adjacent the second gasket.
+</P>
+<P>
+152. The method of claim 151, further comprising, for a second through n&apos; membrane electrode assemblies, after said disposing a second gasket adjacent the gas diffusion layer in part (e), but prior to said disposing of the second end plate in part (f):
+</P>
+<P>
+(i) disposing a first bipolar plate adjacent the second gasket;
+</P>
+<P>
+(ii) disposing a third gasket adjacent the bipolar plate;
+</P>
+<P>
+(iii) disposing a second membrane electrode assembly of claim 149 adjacent the third gasket;
+</P>
+<P>
+(iv) disposing a second gas diffusion layer adjacent the second membrane electrode assembly;
+</P>
+<P>
+(v) disposing a fourth gasket adjacent the second gas diffusion layer; and
+</P>
+<P>
+repeating elements (i) through (v) until the n&amp;lt;l&amp;gt; membrane electrode assembly has been disposed.
+</P>
+<P>
+153. A conducting composite, comprising one or more nanowires comprising a core, an iiiterfacial carbide layer and a carbon-based structure formed on the interfacial carbide layer, and carbon black.
+</P>
+<P>
+154. The conducting composite of claim 153, wherein the carbon- based structure comprises at least one nanographitic plate formed on the interfacial carbide layer.
+</P>
+<P>
+155. The conducting composite of claim 153, wherein the core comprises semiconductor material.
+</P>
+<P>
+156. The conducting composite of claim 155, wherein the semiconductor material is selected from the group consisting of Si, B, SiC and GaN.
+</P>
+<P>
+157. The conducting composite of claim 153, wherein the core comprises an inorganic oxide selected from the group consisting of SiO2, Al2O3, TiO2, SnO2, ZrO2, HfO2 and Ta2O5; an inorganic carbide selected from the group consisting of TiC, ZrC, HfC, NbC, WC, W2C, MoC and Mo2C; or an inorganic nitride selected from the group consisting of TiN, ZrN, HfN, WN, MoN and BN.
+</P>
+<P>
+158. The conducting composite of claim 153, wherein the interfacial carbide layer is selected from the group consisting of SiC, TiC, ZrC, HfC, NbC, WC, Mo2C and mixtures thereof.
+</P>
+<P>
+159. The conducting composite of claim 153, wherein the core has a cross-sectional diameter of less than about 500 nm and a length of greater than about 50 nm.
+</P>
+<P>
+160. The conducting composite of claim 154, wherein the at least one nanographitic plate extends away from the core a distance of about 1 nm to about 100 nm, comprises at least 2-15 layers of graphene, and is oriented relative the major axis of the core at an angle of between about 0[deg.] and about 90[deg.].
+</P>
+<P>
+161. A porous catalyst support comprising one or more nanowires comprising a core, an interfacial carbide layer and a carbon-based structure formed on the interfacial carbide layer, and carbon black.
+</P>
+<P>
+162. The porous catalyst support of claim 161, wherein the carbon- based structure comprises at least one nanographitic plate formed on the interfacial carbide layer.
+</P>
+<P>
+163. The porous catalyst support of claim 161, wherein the core comprises semiconductor material.
+</P>
+<P>
+164. The porous catalyst support of claim 163, wherein the semiconductor material is selected from the group consisting of Si, B, SiC and GaN.
+</P>
+<P>
+165. The porous catalyst support of claim 161, wherein the core comprises an inorganic oxide selected from the group consisting of SiO2, Al2O3, TiO2, SnO2, ZrO2, HfO2 and Ta2O5; an inorganic carbide selected from the group consisting of TiC, ZrC, HfC, NbC, WC, W2C, MoC and Mo2C; or an inorganic nitride selected from the group consisting of TiN, ZrN, HfN, WN, MoN and BN.
+</P>
+<P>
+166. The porous catalyst support of claim 161, wherein the interfacial carbide layer is selected from the group consisting of SiC, TiC, ZrC, HfC, NbC, WC, Mo2C and mixtures thereof.
+</P>
+<P>
+167. The porous catalyst support of claim 161, wherein the core has a cross-sectional diameter of less than about 500 nm and a length of greater than about 50 nm.
+</P>
+<P>
+168. The porous catalyst support of claim 162, wherein the at least one nanographitic plate extends away from the core a distance of about 1 nm to about 100 nm, comprises at least 2-15 layers of graphene, and is oriented relative the major axis of the core at an angle of between about 0[deg.] and about 90[deg.].
+</P>
+<P>
+169. The porous catalyst support of claim 161, wherein the one or more nano wires are separated by a pore size of less than about 10 [mu]m.
+</P>
+<P>
+170. A catalyst comprising one or more nano wires comprising a core, an interfacial carbide layer and a carbon-based structure formed on the interfacial carbide layer, carbon black and one or more catalyst metals associated with the nanowires and the carbon black.
+</P>
+<P>
+171. The catalyst of claim 170, wherein the carbon-based structure comprises at least one nanographitic plate formed on the interfacial carbide layer.
+</P>
+<P>
+172. The catalyst of claim 170, wherein the core comprises semiconductor material.
+</P>
+<P>
+173. The catalyst of claim 171, wherein the semiconductor material is selected from the group consisting of Si, B, SiC and GaN.
+</P>
+<P>
+174. The catalyst of claim 170, wherein the core comprises an inorganic oxide selected from the group consisting of SiO2, Al2O3, TiO2, SnO2, ZrO2, HfO2 and Ta2O5; an inorganic carbide selected from the group consisting of TiC, ZrC, HfC, NbC, WC, W2C, MoC and Mo2C; or an inorganic nitride selected from the group consisting of TiN, ZrN, HfN, WN, MoN and BN.
+</P>
+<P>
+175. The catalyst of claim 170, wherein the interfacial carbide layer is selected from the group consisting of SiC, TiC, ZrC, HfC, NbC, WC, Mo2C and mixtures thereof.
+</P>
+<P>
+176. The catalyst of claim 170, wherein the core has a cross- sectional diameter of less than about 500 nm and a length of greater than about 50 nm.
+</P>
+<P>
+177. The catalyst of claim 172, wherein the at least one nanographitic plate extends away from the core a distance of about 1 nm to about 100 nm, comprises at least 2-15 layers of graphene, and is oriented relative the major axis of the core at an angle of between about 0[deg.] and about 90[deg.].
+</P>
+<P>
+178. The catalyst of claim 170, wherein the catalyst metal is selected from the group comprising one or more of chromium (Cr), molybdenum (Mo), tungsten (W), manganese (Mn), technetium (Tc), rhenium (Re), iron (Fe), ruthenium (Ru), osmium (Os), cobalt (Co), rhodium (Rh), iridium (Ir), nickel (Ni), palladium (Pd), platinum (Pt), copper (Cu), silver (Ag), gold (Au), zinc (Zn), tin (Sn), aluminum (Al), and combinations thereof.
+</P>
+</Claims>
+<Also_published_as>
+EP1952467A4;EP1952467B1;EP1952467B9;WO2007061945A2;WO2007061945A9;WO2007061945A3;KR20080070769A;JP2009524567A;EP2378597A1;CN101563801A;CA2624776A1;AU2006318658A1;AT528811T
+</Also_published_as>
+</BiblioData>

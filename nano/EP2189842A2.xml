@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Reflective mask blank, reflective mask and methods of producing the mask blank and the mask
+</Title>
+<PublicationNumber>
+EP2189842A2
+</PublicationNumber>
+<Inventor>
+<Name>
+ISHIBASHI SHINICHI [JP]
+</Name>
+<Name>
+SHOKI TSUTOMU [JP]
+</Name>
+<Name>
+HOSOYA MORIO [JP]
+</Name>
+<Name>
+SHIOTA YUKI [JP]
+</Name>
+<Name>
+KUREISHI MITSUHIRO [JP]
+</Name>
+<Name>
+ISHIBASHI, SHINICHI
+</Name>
+<Name>
+SHOKI, TSUTOMU
+</Name>
+<Name>
+HOSOYA, MORIO
+</Name>
+<Name>
+SHIOTA, YUKI
+</Name>
+<Name>
+KUREISHI, MITSUHIRO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HOYA CORP [JP]
+</Name>
+<Name>
+HOYA CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2189842
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20100155359
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-04-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030745999
+</PriorityNumber>
+<PriorityDate>
+2003-04-11
+</PriorityDate>
+<PriorityNumber>
+JP20020108808
+</PriorityNumber>
+<PriorityDate>
+2002-04-11
+</PriorityDate>
+<PriorityNumber>
+JP20020111598
+</PriorityNumber>
+<PriorityDate>
+2002-04-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L21/027
+</Class>
+<Class>
+G03F1/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F1/08
+</Class>
+<Class>
+G03F1/24
+</Class>
+</NCL>
+<Abstract>
+A reflective mask blank has a substrate (11) on which a reflective layer (12) for reflecting exposure light in a short-wavelength region including an extreme ultraviolet region and an absorber layer (16) for absorbing the exposure light are successively formed. The absorber layer (16) has an at least two-layer structure including as a lower layer an exposure light absorbing layer (14) formed by an absorber for the exposure light in the short-wavelength region including the extreme ultraviolet region and as an upper layer a low-reflectivity layer (15) formed by an absorber for inspection light used in inspection of a mask pattern. The upper layer is made of a material containing tantalum (Ta), boron (B), and nitrogen (N). The content of B is 5 at% to 30 at%. The ratio of Ta and N (Ta : N) falls within a range of 8 : 1 to 2 : 7.;  Alternatively, the reflective mask blank has a substrate on which a multilayer reflective film and an absorber layer are successively formed. In this case, the absorber layer is made of a material containing tantalum (Ta), boron (B), and nitrogen (N). The content of B is 5 at% to 25 at%. The ratio of Ta and N (Ta : N) falls within a range of 8 : 1 to 2 : 7.
+</Abstract>
+<Claims>
+<P>
+1. A reflective mask blank comprising a substrate on which a reflective layer for reflecting exposure light in a short-wavelength region including an extreme ultraviolet region and an absorber layer for absorbing the exposure light are successively formed, the absorber layer having an at least two-layer structure including as a lower layer an exposure light absorbing layer comprising an absorber for the exposure light and as an upper layer a low-reflectivity layer comprising an absorber for inspection light used in inspection of a mask pattern, the upper layer being farther from the substrate than the lower layer, wherein:
+</P>
+<P>
+the upper layer is made of a material containing tantalum (Ta), boron (B), and nitrogen (N) and having an amorphous state.
+</P>
+<P>
+2. The reflective mask blank as claimed in claim 1, wherein the upper layer contains 5-25 at% boron (B).
+</P>
+<P>
+3. The reflective mask blank as claimed in claim 1 or 2, wherein the exposure light absorbing layer as the lower layer is made of a material containing Ta.
+</P>
+<P>
+4. The mask blank as claimed in claim 3, wherein the material of the exposure light absorbing layer as the lower layer further contains B.
+</P>
+<P>
+5. The reflective mask blank as claimed in any one of claims 1 through 4, wherein an intermediate region where a composition is continuously varied from a composition of the lower layer to a composition of the upper layer is interposed between the lower layer and the upper layer.
+</P>
+<P>
+6. The reflective mask blank as claimed in any one of claims 1 through 5, comprising a buffer layer interposed between the reflective layer and the absorber layer to protect the reflective layer during pattern formation on the absorber layer.
+</P>
+<P>
+7. The reflective mask blank as claimed in claim 6, wherein the lower layer of the absorber layer is formed by a substance containing Ta, the buffer layer being formed by Cr or a substance containing Cr as a main component.
+</P>
+<P>
+8. The reflective mask blank as claimed in any one of claims 1 through 7, wherein a substance forming the upper layer of the absorber layer has a refractive index n and an extinction coefficient k at the wavelength of inspection light, where n is 1.5 to 3.5 and k is 0.7 or less.
+</P>
+<P>
+9. The reflective mask blank as claimed in any one of claims 1 through 8, wherein the thickness of the low-reflectivity layer as the upper layer is selected, with reference to the relationship between the reflectivity of the surface of the absorber layer for inspection light and the thickness of the low-reflectivity layer, so as to minimize the reflectivity of the surface of the absorber layer at the wavelength of the inspection light.
+</P>
+<P>
+10. The reflective mask blank as claimed in any one of claims 1 through 9, wherein the thickness of the low-reflectivity layer is 5 to 30 nm.
+</P>
+<P>
+11. A reflective mask blank comprising a substrate on which a multilayer reflective film for reflecting exposure light and an absorber layer for absorbing the exposure light are successively formed, the absorber layer containing tantalum (Ta), boron (B), and nitrogen (N), the absorber layer having an amorphous state.
+</P>
+<P>
+12. The reflective mask blank as claimed in claim 11, wherein the material of the absorber layer contains 5-25 at% boron (B).
+</P>
+<P>
+13. The reflective mask blank as claimed in claim 11 or 12, wherein the absorber layer has a distribution of composition in which the content of oxygen or nitrogen is gradually increased in the thickness direction towards the surface of the absorber layer.
+</P>
+<P>
+14. The reflective mask blank as claimed in any one of claims 11 through 13, further comprising a buffer layer formed between the multilayer reflective film and the absorber layer to protect the multilayer reflective film during pattern formation on the absorber layer.
+</P>
+<P>
+15. The reflective mask blank as claimed in claim 14, wherein the buffer layer is made of a material containing chromium (Cr).
+</P>
+<P>
+16. The reflective mask blank as claimed in any one of claims 1 to 15, wherein a contrast between reflected light reflected on a surface of the reflective layer (in case of claims 1 to 10) or the multilayer reflective film (in case of claims 11 to 15), respectively, and reflected light reflected on a surface of the absorber layer is 40 % or more at the wavelength of light used in inspection of a pattern formed on the absorber layer.
+</P>
+<P>
+17. The reflective mask blank as claimed in any one of claims 1 to 16, further comprising a buffer layer formed between the reflective layer or the multilayer reflective film, respectively, and the absorber layer to protect the multilayer reflective film during pattern formation on the absorber layer;
+</P>
+<P>
+a contrast between reflected light reflected on a surface of the buffer layer and reflected light reflected on a surface of the absorber layer being 40 % or more at the wavelength of light used in inspection of a pattern formed on the absorber layer.
+</P>
+<P>
+18. The reflective mask blank as claimed in any one of claims 1 to 17, wherein the reflectivity on the surface of the absorber layer is 20 % or less at the wavelength of light used in inspection of a pattern formed on the absorber layer.
+</P>
+<P>
+19. The reflective mask blank as claimed in any one of claims 1 to 18, wherein the surface of the absorber layer has a surface roughness of 0.5 nmRms or less.
+</P>
+<P>
+20. A reflective mask obtained by patterning the absorber layer of the reflective mask blank claimed in any one of claims 1 to 19.
+</P>
+<P>
+21. A method of producing a semiconductor, wherein a pattern is transferred onto a semiconductor substrate by the use of the reflective mask claimed in claim 20.
+</P>
+</Claims>
+<Also_published_as>
+EP2189842A3;EP1498936A1;EP1498936A4;US2005208389A1;US7390596B2;US2008248409A1;US7981573B2;KR20090066318A;KR100922463B1;KR20080015052A;KR100871047B1;KR20070086692A;WO03085709A1;WO03085709A9;EP2317384A2;EP2317384A3;EP2317383A2;EP2317383A3;EP2317382A2;EP2317382A3
+</Also_published_as>
+</BiblioData>

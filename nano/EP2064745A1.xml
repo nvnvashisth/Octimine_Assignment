@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD OF PRODUCING PRECISION VERTICAL AND HORIZONTAL LAYERS IN A VERTICAL SEMICONDUCTOR STRUCTURE
+</Title>
+<PublicationNumber>
+EP2064745A1
+</PublicationNumber>
+<Inventor>
+<Name>
+OHLSSON JONAS [SE]
+</Name>
+<Name>
+SAMUELSON LARS [SE]
+</Name>
+<Name>
+LIND ERIK [SE]
+</Name>
+<Name>
+WERNERSSON LARS-ERIK [SE]
+</Name>
+<Name>
+LOEWGREN TRULS [SE]
+</Name>
+<Name>
+OHLSSON, JONAS
+</Name>
+<Name>
+SAMUELSON, LARS
+</Name>
+<Name>
+LIND, ERIK
+</Name>
+<Name>
+WERNERSSON, LARS-ERIK
+</Name>
+<Name>
+LOEWGREN, TRULS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+QUNANO AB [SE]
+</Name>
+<Name>
+QUNANO AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2064745
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070803546
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP59846
+</PriorityNumber>
+<PriorityDate>
+2007-09-18
+</PriorityDate>
+<PriorityNumber>
+SE20060001997
+</PriorityNumber>
+<PriorityDate>
+2006-09-18
+</PriorityDate>
+<PriorityNumber>
+SE20070001885
+</PriorityNumber>
+<PriorityDate>
+2007-08-17
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C30B29/60
+</Class>
+<Class>
+H01L21/336
+</Class>
+<Class>
+H01L29/49
+</Class>
+<Class>
+H01L29/51
+</Class>
+<Class>
+H01L29/78
+</Class>
+<Class>
+H01L33/24
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+<Class>
+H01L29/12W2
+</Class>
+<Class>
+H01L29/66M6T6D
+</Class>
+<Class>
+H01L29/66M6T6F12
+</Class>
+<Class>
+H01L29/775
+</Class>
+<Class>
+H01L29/786C
+</Class>
+<Class>
+H01L29/78C2
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to providing layers of different thickness on vertical and horizontal surfaces (15, 20) of a vertical semiconductor device (1). In particular the invention relates to gate electrodes and the formation of precision layers (28) in semiconductor structures comprising a substrate (10) and an elongated structure (5) essentially standing up from the substrate. According to the method of the invention the vertical geometry of the device (1) is utilised in combination with either anisotropic deposition or anisotropic removal of deposited material to form vertical or horizontal layers of very high precision.
+</Abstract>
+<Claims>
+<P>
+Claims
+</P>
+<P>
+1. A method of providing layers of different thickness on vertical and horizontal surfaces ( 15, 20) of a vertical semiconductor device (1) comprising a substrate ( 10) and a structure (5) protruding from the substrate, the substrate providing horizontal surfaces (20) and the protruding structure vertical surfaces ( 15), the method characterized by a step of
+</P>
+<P>
+-depositing layer material on both the vertical surface and the horizontal surface; and -removing layer material from the vertical surface and/ or the horizontal surface, wherein either the depositing or the removing of layer material is anisotropic resulting in a deposit layer that is thinner on one of the vertical and horizontal surfaces ( 15, 20) than the other, the anisotropic depositing or removing facilitated by the vertical geometry of the device providing a vertical surface ( 15) and a horizontal surface (20).
+</P>
+<P>
+2. The method according to claim 1 , wherein the protruding structure 5 is a nanoscaled structure grown on the substrate ( 10).
+</P>
+<P>
+3. The method according to claim 1 or 2, wherein a precision layer (28) is provided in the vertical semiconductor device 1 by performing an anisotropic deposition of the material forming the precision layer (28), and during the deposition an incident angle of the material deposition direction, that deviates from zero is utilised.
+</P>
+<P>
+4. The method according to claim 3, wherein the incident angle is larger than 0 and smaller than 45[deg.].
+</P>
+<P>
+5. The method according to any of the preceding claims, wherein the depositing step is controlled to give a first thickness in the direction perpendicular to the substrate ( 10) and a second thickness in a direction perpendicular to the protruding structure (5).
+</P>
+<P>
+6. The method according to any of the preceding claims, wherein the method comprises a further step of etching to remove deposit from the protruding structure (5).
+</P>
+<P>
+7. The method according to claim 6, wherein the etching is controlled to remove all deposit from the protruding structure (5).
+</P>
+<P>
+8. The method according to claim 6 or 7, wherein the etching is controlled to leave a precision layer (28) of a first final thickness in the direction perpendicular to the substrate ( 10) and a second final thickness in a direction perpendicular to the protruding structure (5).
+</P>
+<P>
+9. The method according to any of the preceding claims, further comprising the steps, to be taken prior of the step of depositing the precision layer (28), of:
+</P>
+<P>
+-depositing of a sacrificial layer (30); -depositing a mold layer (31) on top of the sacrificial layer (30);
+</P>
+<P>
+-selectively removing at least one part of the mold layer (31); -selectively removing at least one part of the sacrificial layer (30); and wherein the deposition of the precision layer (28) is isotropic.
+</P>
+<P>
+10. The method according to any of the preceding claims, wherein the vertical semiconductor device ( 1 ) is a nanoscaled field effect transistor and the precision layer (28) is a gate electrode, and wherein controlling the deposition thickness of the gate electrode results in controlling the gate length.
+</P>
+<P>
+1 1. The method according to any of claims 3- 10, wherein the deposition comprises an anisotropic evaporation.
+</P>
+<P>
+12. The method according to any of claims 3- 10, wherein the deposition comprises an anisotropic sputtering.
+</P>
+<P>
+13. Vertical semiconductor device (1) comprising a substrate (10) and a structure (5) protruding from the substrate (10), the protruding structure (5) enclosed in a portion of its length by at least one precision layer (28), the enclosed portion of the protruding structure
+</P>
+<P>
+(5) giving a contact length, characterized in that the precision layer (28) is positioned above the substrate (10) and the contact length is limited by the thickness of the precision layer (28) in the proximity of the protruding structure (5).
+</P>
+<P>
+14. The vertical semiconductor device 1 according to claim (13), wherein the protruding structure (5) is a nanowire, the nanowire (5) forming an electrically active member of the vertical semiconductor device ( 1).
+</P>
+<P>
+15. The vertical semiconductor device ( 1) according to claim ( 14), wherein the nanowire (5) forms a current channel.
+</P>
+<P>
+16. The vertical semiconductor device ( 1) according to claim ( 14) or ( 15), wherein the device ( 1) is a field effect transistor.
+</P>
+<P>
+17. The vertical semiconductor device ( 1) according to claim ( 15) or ( 16), wherein the precision layer (28) is a gate electrode, and the contact length corresponds to a gate length and is limited by the thickness of the gate layer in the proximity of the nanowire (5).
+</P>
+<P>
+18. The vertical semiconductor device 1 according to any of claims 14- 17, wherein the precision layer (28) is a spacer layer positioned in between the substrate ( 10) and a further layer providing an accurate positioning of the further layer with regards to the nanowire.
+</P>
+<P>
+19. The vertical semiconductor device ( 1) according to any of claims (14)-( 16), wherein the precision layer (28) has been formed by the use of a sacrificial layer (30).
+</P>
+</Claims>
+<Also_published_as>
+WO2008034823A1;US2010102380A1;US8178403B2
+</Also_published_as>
+</BiblioData>

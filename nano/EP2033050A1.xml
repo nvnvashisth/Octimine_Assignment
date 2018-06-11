@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MANUFACTURING A REPLICATION TOOL
+</Title>
+<PublicationNumber>
+EP2033050A1
+</PublicationNumber>
+<Inventor>
+<Name>
+RUDMANN HARTMUT [CH]
+</Name>
+<Name>
+WESTENHOEFER SUSANNE [CH]
+</Name>
+<Name>
+HEIMGARTNER STEPHAN [CH]
+</Name>
+<Name>
+ROSSI MARKUS [CH]
+</Name>
+<Name>
+RUDMANN, HARTMUT
+</Name>
+<Name>
+WESTENHOEFER, SUSANNE
+</Name>
+<Name>
+HEIMGARTNER, STEPHAN
+</Name>
+<Name>
+ROSSI, MARKUS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEPTAGON OY [FI]
+</Name>
+<Name>
+HEPTAGON OY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2033050
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070720180
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-06-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007CH00283
+</PriorityNumber>
+<PriorityDate>
+2007-06-06
+</PriorityDate>
+<PriorityNumber>
+US20060423344
+</PriorityNumber>
+<PriorityDate>
+2006-06-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+In a process of manufacturing, by replication, a plurality of optical elements each having geometrical surface features, a method of manufacturing an element that includes a plurality of replicated structures is provided. The method comprises the steps of providing an element substrate, of replicating, by embossing, a surface of a tool element, which surface comprises a negative copy of the geometrical surface feature, into replication material disposed at a first place on a surface of the element substrate, of subsequently hardening the replication material, of replicating said surface of the tool element into replication material disposed at a second place on said substrate, of hardening said replication material, the method comprising the further step of subsequently filling a gap between replication material disposed at the first place and replication material disposed at the second place by filler material.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method of manufacturing an element that includes a plurality of replicated structures for being used in a process of manufacturing, by replication, a plurality of optical elements each having geometrical surface features, the method comprising the steps of
+</P>
+<P>
+providing an element substrate,
+</P>
+<P>
+replicating, by embossing, a surface of a tool element, which surface comprises a negative copy of the geometrical surface feature, into replication material disposed at a first place on a surface of the element substrate,
+</P>
+<P>
+- subsequently hardening the replication material,
+</P>
+<P>
+- replicating said surface of the tool element into replication material disposed at a second place on said substrate,
+</P>
+<P>
+subsequently hardening said replication material,
+</P>
+<P>
+the method comprising the further step of
+</P>
+<P>
+subsequently filling a gap between replication material disposed at the first place and replication material disposed at the second place by filler material.
+</P>
+<P>
+2. The method according to claim 1, wherein the gap between regions of material with replicated structures is filled to an extent that the thickness of the filler material is greater than a minimal thickness of material in the regions of replicated material.
+</P>
+<P>
+3. The method according to claim 2, wherein master tool has a replicating surface which comprises flat sections where the height of the replicating surface is at a maximum, so that said flat sections define a region where the minimal thickness of the material with replicated structures is attained.
+</P>
+<P>
+4. The method according to any one of the previous claims, wherein the filler material is a curable plastic material.
+</P>
+<P>
+5. The method according to claim 4, wherein the filler material is a material of the same composition as the replication material.
+</P>
+<P>
+6. The method according to any one of the previous claims, wherein the element substrate comprises an electrically conductive surface portion and wherein the filler material is applied galvanically.
+</P>
+<P>
+7. The method according to any one of the previous claims, wherein the element substrate has the size and shape of an optical wafer.
+</P>
+<P>
+8. The method according to claim 1, wherein said surface of the tool element is, in consecutive sub-steps replicated into replication material disposed at at least
+</P>
+<P>
+40 places on said substrate and wherein gaps between replication material disposed at different places are filled by the filler material in a single step.
+</P>
+<P>
+9. A process of manufacturing a plurality of optical elements each having surface features, the process comprising the steps of providing a master or a master tool and carrying out at least a first and a second replication operation to provide a final replica comprising surface portions being a positive or negative copy of a surface portion of the master or master tool, the first replication operation comprising a method of manufacturing an element including the steps of
+</P>
+<P>
+- providing an element substrate,
+</P>
+<P>
+replicating, by embossing, a surface of a tool element, which surface comprises a negative copy of the geometrical surface feature, into first replication material disposed at a first place on a surface of the element substrate,
+</P>
+<P>
+- subsequently hardening the replication material,
+</P>
+<P>
+replicating said surface of the tool element into first replication material disposed at a second place on said substrate,
+</P>
+<P>
+hardening said first replication material,
+</P>
+<P>
+subsequently filling a gap between first replication material disposed at the first place and first replication material disposed at the second place by filler material,
+</P>
+<P>
+the second replication operation including the step of providing a substrate, and a second replication material disposed between the substrate and said element, of moving the substrate and said element against each other, and of hardening the second replication material.
+</P>
+<P>
+10. A process, especially according to claim 9, of manufacturing, by replication, a plurality of optical elements each having geometrical surface features, the method comprising the steps of
+</P>
+<P>
+- providing a substrate, replicating, by embossing, a surface of a replication tool, which surface comprises a negative copy of the geometrical surface feature, into replication material disposed between said substrate and said replication tool,
+</P>
+<P>
+subsequently hardening the replication material, and
+</P>
+<P>
+removing the replication tool, the replication material remaining attached to the substrate,
+</P>
+<P>
+wherein the replication tool comprises alignment marks, and wherein said alignment marks are replicated into said replication material.
+</P>
+</Claims>
+<Also_published_as>
+WO2007140643A1;US2010072640A1;TW200817834A
+</Also_published_as>
+</BiblioData>

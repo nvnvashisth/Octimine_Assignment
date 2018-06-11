@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NOVEL ELECTRODE
+</Title>
+<PublicationNumber>
+EP2139616A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BRABEC CHRISTOPH [AT]
+</Name>
+<Name>
+GAUDIANA RUSSELL [US]
+</Name>
+<Name>
+HAUCH JENS [DE]
+</Name>
+<Name>
+HE JIN-AN [US]
+</Name>
+<Name>
+WELTE ANDREA [DE]
+</Name>
+<Name>
+ZEIRA EITAN [US]
+</Name>
+<Name>
+BRABEC, CHRISTOPH
+</Name>
+<Name>
+GAUDIANA, RUSSELL
+</Name>
+<Name>
+HAUCH, JENS
+</Name>
+<Name>
+HE, JIN-AN
+</Name>
+<Name>
+WELTE, ANDREA
+</Name>
+<Name>
+ZEIRA, EITAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONARKA TECHNOLOGIES INC [US]
+</Name>
+<Name>
+KONARKA TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2139616
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080744900
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-02
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US59083
+</PriorityNumber>
+<PriorityDate>
+2008-04-02
+</PriorityDate>
+<PriorityNumber>
+US20070909539P
+</PriorityNumber>
+<PriorityDate>
+2007-04-02
+</PriorityDate>
+<PriorityNumber>
+US20070921407P
+</PriorityNumber>
+<PriorityDate>
+2007-04-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B05D5/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L31/0224B2
+</Class>
+<Class>
+H01L31/0224C
+</Class>
+<Class>
+H01L51/44B
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+Photovoltaic cells, as well as related systems, methods, modules, and components, are disclosed.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An article, comprising:
+</P>
+<P>
+a first electrode;
+</P>
+<P>
+a second electrode comprising a material and a grid atop the material, the material comprising a first polymer and an additive, and
+</P>
+<P>
+a photoactive layer between the first and second electrodes, the photoactive layer comprising an electron donor material and an electron acceptor material,
+</P>
+<P>
+wherein the article is configured as a photovoltaic cell.
+</P>
+<P>
+2. The article of claim 1, wherein the material has a sheet resistance of at least 0.1 [Omega]/square.
+</P>
+<P>
+3. The article of claim 1, wherein the material has a sheet resistance of at most 500 [Omega]/square.
+</P>
+<P>
+4. The article of claim 1, wherein the first polymer comprises a polymer selected from the group consisting of polythiophenes, polyfluorenes, polyphenylene vinylenes, polyanilines, polyacetylenes, polyvinylcarbazoles, polyphenylenes, polysilanes, polythienylenevinylenes, polyisothianaphthanenes, and copolymers thereof.
+</P>
+<P>
+5. The article of claim 1, wherein the first polymer comprises a polythiophene.
+</P>
+<P>
+6. The article of claim 1, wherein the additive has an average length to width aspect ratio of at least 5.
+</P>
+<P>
+7. The article of claim 1, wherein the additive has an average length to width aspect ratio of at least 50.
+</P>
+<P>
+8. The article of claim 1, wherein the additive has an average length to width aspect ratio of at least 100.
+</P>
+<P>
+9. The article of claim 1, wherein the additive is in the shape selected from the group consisting of tubes, rods and needles.
+</P>
+<P>
+10. The article of claim 1, wherein the additive is in the shape of a needle.
+</P>
+<P>
+11. The article of claim 1, wherein the additive is in the shape of a rod.
+</P>
+<P>
+12. The article of claim 1, wherein the additive has a conductivity of at least 10&amp;lt;2 &amp;gt; Siemens per centimeter.
+</P>
+<P>
+13. The article of claim 1, wherein the additive has a conductivity of at least 10&amp;lt;4 &amp;gt; Siemens per centimeter.
+</P>
+<P>
+14. The article of claim 1, wherein the additive has a conductivity of at least 10&amp;lt;6 &amp;gt; Siemens per centimeter.
+</P>
+<P>
+15. The article of claim 1, wherein the additive comprises a material selected from the group consisting of metals, alloys, metal oxides, carbon allotropes, and combinations thereof.
+</P>
+<P>
+16. The article of claim 1, wherein the additive comprises a metal or an alloy.
+</P>
+<P>
+17. The article of claim 1, wherein the additive comprises a coating having a conductivity of at least 100 Siemens per centimeter.
+</P>
+<P>
+18. The article of claim 1, wherein the material has a light transmittance of at least 75% during use of the article.
+</P>
+<P>
+19. The article of claim 1, wherein the material has a light transmittance of at least 85% during use of the article.
+</P>
+<P>
+20. The article of claim 1, wherein the material has a light transmittance of at least 95% during use of the article.
+</P>
+<P>
+21. The article of claim 1, wherein the material comprises at least 50 weight percent of the first polymer.
+</P>
+<P>
+22. The article of claim 1, wherein the material comprises at least 70 weight percent of the first polymer.
+</P>
+<P>
+23. The article of claim 1, wherein the material comprises at least 85 weight percent of the first polymer.
+</P>
+<P>
+24. The article of claim 1, wherein the material comprises at most 50 weight percent of the additive.
+</P>
+<P>
+25. The article of claim 1, wherein the material comprises at most 30 weight percent of the additive.
+</P>
+<P>
+26. The article of claim 1, wherein the material comprises at most 15 weight percent of the additive.
+</P>
+<P>
+27. The article of claim 1, wherein the material further comprises a dopant for the first polymer.
+</P>
+<P>
+28. The article of claim 1, wherein the dopant comprises poly(styrene-sulfonate)s, polystyrene sulfonic acids, or sulfonated tetrafluorethylenes.
+</P>
+<P>
+29. The article of claim 1, further comprising a hole blocking layer between the first electrode and the photoactive layer.
+</P>
+<P>
+30. The article of claim 29, wherein the hole blocking layer comprises a material selected from the group consisting of LiF, metal oxides, amines, and combinations thereof.
+</P>
+<P>
+31. The article of claim 29, wherein the first electrode, when measured in combination with the hole blocking layer, has a surface resistance of at most about 50 [Omega]/square.
+</P>
+<P>
+32. The article of claim 1, wherein the electron donor material comprises a polymer.
+</P>
+<P>
+33. The article of claim 32, wherein the electron donor material comprises a polymer selected from the group consisting of polythiophenes, polyanilines, polyvinylcarbazoles, polyphenylenes, polyphenylvinylenes, polysilanes, polythienylenevinylenes, polyisothianaphthanenes, polycyclopentadithiophenes, polysilacyclopentadithiophenes, polycyclopentadithiazoles, polythiazolothiazoles, polythiazoles, polybenzothiadiazoles, poly(thiophene oxide)s, poly(cyclopentadithiophene oxide)s, polythiadiazoloquinoxaline, polybenzoisothiazole, polybenzothiazole, polythienothiophene, poly(thienothiophene oxide), polydithienothiophene, poly(dithienothiophene oxide)s, polytetrahydroisoindoles, and copolymers thereof.
+</P>
+<P>
+34. The article of claim 33, wherein the electron donor material comprises a polymer selected from the group consisting of polythiophenes, polycyclopentadithiophenes, and copolymers thereof.
+</P>
+<P>
+35. The article of claim 34, wherein the electron donor material comprises poly(3-hexylthiophene) or poly(cyclopentadithiophene-co-benzothiadiazole).
+</P>
+<P>
+36. The article of claim 1, wherein the electron acceptor material comprises a material selected from the group consisting of fullerenes, inorganic nanoparticles, oxadiazoles, discotic liquid crystals, carbon nanorods, inorganic nanorods, polymers containing CN groups, polymers containing CF3 groups, and combinations thereof.
+</P>
+<P>
+37. The article of claim 36, wherein the electron acceptor material comprises a substituted fullerene.
+</P>
+<P>
+38. The article of claim 37, wherein the substituted fullerene comprises C61-PCBM or C71-PCBM.
+</P>
+<P>
+39. The article of claim 1, further comprising a substrate, the first and second electrodes being supported by the substrate.
+</P>
+<P>
+40. The article of claim 39, further comprising an additional substrate, the first and second electrodes being between the substrates.
+</P>
+<P>
+41. The article of claim 1, wherein the grid comprises a metal or an alloy.
+</P>
+<P>
+42. The article of claim 1, wherein the material comprises one layer that includes the first polymer and the additive in the first polymer.
+</P>
+<P>
+43. The article of claim 1, wherein the material comprises first and second layers, in which the first layer comprises the first polymer, the second layer comprises the additive, and the second layer is between the first layer and the grid.
+</P>
+<P>
+44. The article of claim 43, further comprising a third layer between the second layer and the grid, the third layer comprising a second polymer.
+</P>
+<P>
+45. The article of claim 44, wherein the second polymer comprises an acrylic polymer.
+</P>
+<P>
+46. An article, comprising:
+</P>
+<P>
+a first electrode;
+</P>
+<P>
+a second electrode comprising a polymer and an additive in the polymer, the additive having an average length to width aspect ratio of at least 5; and
+</P>
+<P>
+a photoactive layer between the first and second electrodes, the photoactive layer comprising an electron donor material and an electron acceptor material,
+</P>
+<P>
+wherein the article is configured as a photovoltaic cell.
+</P>
+<P>
+47. An article, comprising:
+</P>
+<P>
+a first electrode;
+</P>
+<P>
+a second electrode comprising a polymer and an additive in the polymer, the additive having a conductivity of at least 10&amp;lt;2 &amp;gt; Siemens per centimeter; and
+</P>
+<P>
+a photoactive layer between the first and second electrodes, the photoactive layer comprising an electron donor material and an electron acceptor material,
+</P>
+<P>
+wherein the article is configured as a photovoltaic cell.
+</P>
+<P>
+48. An article, comprising:
+</P>
+<P>
+a first electrode;
+</P>
+<P>
+a second electrode comprising a polymer and an additive in the polymer, the additive having a sheet resistance of at most 100 [Omega]/square; and
+</P>
+<P>
+a photoactive layer between the first and second electrodes, the photoactive layer comprising an electron donor material and an electron acceptor material,
+</P>
+<P>
+wherein the article is configured as a photovoltaic cell.
+</P>
+<P>
+49. An article, comprising:
+</P>
+<P>
+a first electrode;
+</P>
+<P>
+a second electrode comprising a polymer and an additive in the polymer; and
+</P>
+<P>
+a photoactive layer between the first and second electrodes, the photoactive layer comprising an electron donor material and an electron acceptor material,
+</P>
+<P>
+wherein the additive comprises a material selected from the group consisting of metals, alloys, metal oxides, carbon allotropes, and combinations thereof; and the article is configured as a photovoltaic cell.
+</P>
+</Claims>
+<Also_published_as>
+US2008236657A1;WO2008122027A2;WO2008122027A3;WO2008122027A9;JP2010524240A
+</Also_published_as>
+</BiblioData>

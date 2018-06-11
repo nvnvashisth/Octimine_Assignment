@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Magnetoresistive element with a biasing layer
+</Title>
+<PublicationNumber>
+EP2023354A2
+</PublicationNumber>
+<Inventor>
+<Name>
+KATTI ROMNEY R [US]
+</Name>
+<Name>
+KATTI, ROMNEY R
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HONEYWELL INT INC [US]
+</Name>
+<Name>
+HONEYWELL INTERNATIONAL INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2023354
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080157235
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20070832416
+</PriorityNumber>
+<PriorityDate>
+2007-08-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01F10/32
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01F10/32N6A
+</Class>
+</NCL>
+<Abstract>
+An improved magnetoresistive element may include a pinned magnetic structure, a free magnetic structure, and a spacer layer coupled between the pinned magnetic structure and the free magnetic structure, where the free magnetic structure includes (i) a synthetic anti-ferromagnetic structure (SAF) including two or more anti-ferromagnetically coupled ferromagnetic layers, and (ii) a first biasing layer coupled to the SAF that impedes a decoupling of the two or more anti-ferromagnetically coupled ferromagnetic layers. The first biasing layer may be an anti-ferromagnetic layer, and may be weakly coupled to the SAF.;  The free magnetic structure may also include (i) a second biasing layer coupled to the SAF that further impedes a decoupling of the two or more anti-ferromagnetically coupled ferromagnetic layers, and/or (ii) a non-magnetic layer coupled between the first biasing layer and the SAF that controls a coupling strength between the first biasing layer and the SAF.
+</Abstract>
+<Claims>
+<P>
+1. A magnetoresistive element comprising:
+</P>
+<P>
+a pinned magnetic structure;
+</P>
+<P>
+a free magnetic structure; and
+</P>
+<P>
+a spacer layer coupled between the pinned magnetic structure and the free magnetic structure,
+</P>
+<P>
+wherein the free magnetic structure comprises:
+</P>
+<P>
+a synthetic anti-ferromagnetic structure including two or more anti-ferromagnetically coupled ferromagnetic layers; and
+</P>
+<P>
+a first biasing layer coupled to the synthetic anti-ferromagnetic structure, wherein the first biasing layer impedes a decoupling of the two or more anti-ferromagnetically coupled ferromagnetic layers.
+</P>
+<P>
+2. The magnetoresistive element of claim 1, wherein the first biasing layer comprises an anti-ferromagnetic layer.
+</P>
+<P>
+3. The magnetoresistive element of claim 1, wherein the first biasing layer is weakly coupled to the synthetic anti-ferromagnetic structure.
+</P>
+<P>
+4. The magnetoresistive element of claim 1, wherein a coupling strength between the first biasing layer and the synthetic anti-ferromagnetic structure is less than an anti-ferromagnetic coupling strength of the synthetic anti-ferromagnetic structure.
+</P>
+<P>
+5. The magnetoresistive element of claim 1, wherein the first biasing layer is selected from a group consisting of:
+</P>
+<P>
+an iron manganese layer;
+</P>
+<P>
+a nickel manganese layer; and
+</P>
+<P>
+a platinum manganese layer.
+</P>
+<P>
+6. The magnetoresistive element of claim 1, wherein the free magnetic structure further comprises:
+</P>
+<P>
+a second biasing layer coupled to the synthetic anti-ferromagnetic structure, wherein the second biasing layer further impedes a decoupling of the two or more anti-ferromagnetically coupled ferromagnetic layers.
+</P>
+<P>
+7. The magnetoresistive element of claim 1, wherein the free magnetic structure further comprises:
+</P>
+<P>
+a non-magnetic layer coupled between the first biasing layer and the synthetic anti-ferromagnetic structure, wherein the non-magnetic layer controls a coupling strength between the first biasing layer and the synthetic anti-ferromagnetic structure.
+</P>
+<P>
+8. The magnetoresistive element of claim 1, wherein the synthetic anti-ferromagnetic structure comprises:
+</P>
+<P>
+a first free ferromagnetic layer having a first magnetic moment vector;
+</P>
+<P>
+a second free ferromagnetic layer having a second magnetic moment vector; and
+</P>
+<P>
+an exchange layer coupled between the first free ferromagnetic layer and the second free ferromagnetic layer, wherein the first free ferromagnetic layer and the second free ferromagnetic layer are anti-ferromagnetically coupled through the exchange layer.
+</P>
+<P>
+9. The magnetoresistive element of claim 8, wherein the first biasing layer is coupled to the first free ferromagnetic layer, and wherein the first biasing layer impedes a rotation of the first magnetic moment vector.
+</P>
+<P>
+10. The magnetoresistive element of claim 9, wherein the free magnetic structure further comprises:
+</P>
+<P>
+a second biasing layer coupled to the second free ferromagnetic layer, wherein the second biasing layer impedes a rotation of the second magnetic moment vector; and
+</P>
+<P>
+a non-magnetic layer coupled between the first biasing layer and the first free ferromagnetic layer, wherein the non-magnetic layer controls a coupling strength between the first biasing layer and the first free ferromagnetic layer.
+</P>
+</Claims>
+<Also_published_as>
+EP2023354A3;US2009034321A1;JP2009038343A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Catalyst nanoparticles for obtaining carbon nanotubes
+</Title>
+<PublicationNumber>
+EP1946833A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ESCONJAUREGUI SANTIAGO CRUZ [BE]
+</Name>
+<Name>
+WHELAN CAROLINE [BE]
+</Name>
+<Name>
+ESCONJAUREGUI, SANTIAGO CRUZ
+</Name>
+<Name>
+WHELAN, CAROLINE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+IMEC INTER UNI MICRO ELECTR [BE]
+</Name>
+<Name>
+INTERUNIVERSITAIR MICROELEKTRONICA CENTRUM
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1946833
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070006228
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20060876234P
+</PriorityNumber>
+<PriorityDate>
+2006-12-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J21/08
+</Class>
+<Class>
+B01J23/75
+</Class>
+<Class>
+B01J23/755
+</Class>
+<Class>
+B01J35/08
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+D01F9/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J23/75
+</Class>
+<Class>
+B01J23/755
+</Class>
+<Class>
+B01J35/00C
+</Class>
+<Class>
+B01J37/08
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+<Class>
+H01L21/768C4B
+</Class>
+<Class>
+H01L23/532M3
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a method for forming catalyst nanoparticles (5) on a substrate (S) and a method for forming elongate nanostructures (9) on a substrate (S) using the nanoparticles (5) as a catalyst. The methods according to embodiments of the invention may advantageously be used in, for example, semiconductor processing. The methods according to embodiments of the present invention are scalable and fully compatible with existing semiconductor processing technology. Furthermore, the methods according to embodiments of the present invention allow forming catalyst particles (5) and elongate nanostructures (9) at predetermined locations on a substrate (S).
+</Abstract>
+<Claims>
+<P>
+1. Method for forming catalyst nanoparticles (5) on a substrate (S), the method comprising:
+</P>
+<P>
+- forming recesses (3) in the substrate (S) at predetermined locations, the recesses (3) having a bottom,
+</P>
+<P>
+- providing catalyst nanoparticles (5, 6) onto the substrate (S), and
+</P>
+<P>
+- selectively removing nanoparticles (6) provided at locations different from the bottom of the recesses (3).
+</P>
+<P>
+2. Method according to claim 1, wherein providing nanoparticles (5, 6) onto the substrate (S) is performed by:
+</P>
+<P>
+- providing at least one layer (4) of catalyst material onto the substrate (S) such that the catalyst material at least covers the bottom of the recesses (3), and
+</P>
+<P>
+- breaking up the at least one layer (4) of catalyst material into nanoparticles (5, 6).
+</P>
+<P>
+3. Method according to claim 2, wherein breaking up the at least one layer (4) of catalyst material is performed by a thermal and/or plasma assisted method.
+</P>
+<P>
+4. Method according to claim 1, wherein providing nanoparticles (5, 6) onto the substrate (S) is performed by:
+</P>
+<P>
+- depositing the nanoparticles (5, 6) onto the substrate (S) from a solution comprising the nanoparticles (5, 6) and a solvent, and
+</P>
+<P>
+- after deposition of the nanoparticles (5, 6), removing the solvent.
+</P>
+<P>
+5. Method according to claim 4, wherein removing the solvent is performed by evaporation.
+</P>
+<P>
+6. Method according to any of the previous claims, wherein selectively removing nanoparticles (6) provided at locations different from the bottom of the recesses (3) is performed by:
+</P>
+<P>
+- depositing a sacrificial material (7) onto the substrate (S) such that the sacrificial material (7) at least covers the nanoparticles (5) provided at the bottom of the recess (3),
+</P>
+<P>
+- removing the nanoparticles (6) provided at locations different from the bottom of the recesses (3), and
+</P>
+<P>
+- removing the sacrificial material (7).
+</P>
+<P>
+7. Method according to claim 6, wherein removing the sacrificial material (7) is performed by performing a wet cleaning process.
+</P>
+<P>
+8. Method according to claim 7, wherein the method furthermore comprises removing impurities (8) from edges of the recesses (3).
+</P>
+<P>
+9. Method according to claim 8, wherein removing impurities (8) from edges of the recesses (3) is performed by immersing the substrate (S) in a 1:4 H2SO4:H2O2 solution for 5 minutes.
+</P>
+<P>
+10. Method according to any of the previous claims, wherein forming recesses (3) in the substrate (S) at predetermined locations is performed by etching the recesses (3) in the substrate (S) at the predetermined locations.
+</P>
+<P>
+11. Method according to claim 10, furthermore comprising, before etching, lithographically defining the predetermined locations on the substrate (S).
+</P>
+<P>
+12. Method according to any of the previous claims, the substrate (S) comprising a base substrate (1), wherein forming recesses (3) in the substrate (S) at predetermined locations is performed by forming recesses (3) in the base substrate (1).
+</P>
+<P>
+13. Method according to any of claims 1 to 12, the substrate (S) comprising a base substrate (1) and a dielectric layer (2), wherein forming recesses (3) in the substrate (S) at predetermined locations is performed by forming recesses (3) in the dielectric layer (2).
+</P>
+<P>
+14. Use of the method according to any of the previous claims in a growth process of elongate nanostructures (9) on a substrate (S).
+</P>
+<P>
+15. Method for forming elongate nanostructures (9) on a substrate (S), the method comprising:
+</P>
+<P>
+- forming recesses (3) in the substrate (S) at predetermined locations, the recesses (3) having a bottom,
+</P>
+<P>
+- providing catalyst nanoparticles (5, 6) onto the substrate (S),
+</P>
+<P>
+- selectively removing nanoparticles (6) provided at locations different from the bottom of the recesses (3), and
+</P>
+<P>
+- growing elongate nanostructures (9) in the recesses (3) using the nanoparticles (5) provided at the bottom of the recesses (3) as a catalyst.
+</P>
+<P>
+16. Method according to claim 15, wherein providing nanoparticles (5, 6) onto the substrate (S) is performed by:
+</P>
+<P>
+- providing at least one layer (4) of catalyst material onto the substrate (S) such that the catalyst material at least covers the bottom of the recesses (3), and
+</P>
+<P>
+- breaking up the at least one layer (4) of catalyst material into nanoparticles (5, 6).
+</P>
+<P>
+17. Method according to claim 16, wherein breaking up the at least one layer (4) of catalyst material is performed by a thermal and/or plasma assisted method.
+</P>
+<P>
+18. Method according to claim 15, wherein providing nanoparticles (5, 6) onto the substrate (S) is performed by:
+</P>
+<P>
+- depositing the nanoparticles (5, 6) onto the substrate (S) from a solution comprising the nanoparticles (5, 6) and a solvent, and
+</P>
+<P>
+- after deposition, removing the solvent.
+</P>
+<P>
+19. Method according to claim 18, wherein removing the solvent is performed by evaporation.
+</P>
+<P>
+20. Method according to any of claims 15 to 19, wherein growing elongate nanostructures (9) is performed by a chemical vapour deposition process.
+</P>
+<P>
+21. Method according to claim 20, wherein growing elongate nanostructures (9) comprises:
+</P>
+<P>
+- providing a carbon source and an assistant gas, and
+</P>
+<P>
+- growing elongate nanostructures (9) by heating the substrate (S).
+</P>
+<P>
+22. Method according to claim 21, wherein growing elongate nanostructures (9) is performed by heating the substrate (S) to a temperature between 600 deg. C and 800 deg. C.
+</P>
+<P>
+23. Method according to any of claims 15 to 22, wherein selectively removing nanoparticles (6) provided at locations different from the bottom of the recesses (3) is performed by:
+</P>
+<P>
+- depositing a sacrificial material (7) onto the substrate (S) such that the sacrificial material (7) at least covers the nanoparticles (5) provided at the bottom of the recess (3),
+</P>
+<P>
+- removing the nanoparticles (6) provided at locations different from the bottom of the recesses (3), and
+</P>
+<P>
+- removing the sacrificial material (7).
+</P>
+<P>
+24. Method according to any of claims 15 to 23, the substrate (S) comprising a base substrate (1), wherein forming recesses (3) in the substrate (S) at predetermined locations is performed by forming recesses (3) in the base substrate (1).
+</P>
+<P>
+25. Method according to any of claims 15 to 23, the substrate (S) comprising a base substrate (1) and a dielectric layer (2), wherein forming recesses (3) in the substrate (S) at predetermined locations is performed by forming recesses (3) in the dielectric layer (2).
+</P>
+<P>
+26. A method according to any of claims 15 to 25, wherein the growing elongate nanostructures (9) is performed by base growth.
+</P>
+<P>
+27. A method according to any of claims 15 to 25, wherein the growing elongate nanostructures (9) is performed by tip growth.
+</P>
+<P>
+28. Use of the method according to any of claims 15 to 27 in semiconductor processing.
+</P>
+<P>
+29. Substrate provided with catalyst nanoparticles wherein the catalyst nanoparticles are selectively provided in recesses of the substrate.
+</P>
+<P>
+30. Substrate provided with elongtae nanostructures wherein the elongate nanostuctures are selectively provided in recesses of the substrate.
+</P>
+</Claims>
+<Also_published_as>
+US2009131245A1;JP2009155111A
+</Also_published_as>
+</BiblioData>

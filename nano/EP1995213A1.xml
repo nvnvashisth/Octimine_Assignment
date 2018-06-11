@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PROCESS FOR PRODUCTION OF CARBON NANOTUBE AGGREGATES, CARBON NANOTUBE AGGREGATES, CATALYST PARTICLE DISPERSION MEMBRANE, ELECTRON EMITTERS, AND FIELD EMISSION DISPLAYS
+</Title>
+<PublicationNumber>
+EP1995213A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TAKI YUSUKE [JP]
+</Name>
+<Name>
+SHINOHARA KIYOAKI [JP]
+</Name>
+<Name>
+KIKUCHI MAKIKO [JP]
+</Name>
+<Name>
+TAKI, YUSUKE
+</Name>
+<Name>
+SHINOHARA, KIYOAKI
+</Name>
+<Name>
+KIKUCHI, MAKIKO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NIPPON KOGAKU KK [JP]
+</Name>
+<Name>
+NIKON CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1995213
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070738373
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP54901
+</PriorityNumber>
+<PriorityDate>
+2007-03-13
+</PriorityDate>
+<PriorityNumber>
+JP20060067148
+</PriorityNumber>
+<PriorityDate>
+2006-03-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J21/18
+</Class>
+<Class>
+B01J23/85
+</Class>
+<Class>
+B01J35/02
+</Class>
+<Class>
+B82B1/00
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C01B31/02
+</Class>
+<Class>
+H01J1/30
+</Class>
+<Class>
+H01J31/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J21/18C
+</Class>
+<Class>
+B01J23/85
+</Class>
+<Class>
+B01J23/888
+</Class>
+<Class>
+B01J35/00D6
+</Class>
+<Class>
+B01J35/00D8D
+</Class>
+<Class>
+B01J35/02B
+</Class>
+<Class>
+B01J37/18
+</Class>
+<Class>
+B01J37/34
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4B2
+</Class>
+<Class>
+H01J9/02B2
+</Class>
+</NCL>
+<Abstract>
+A method for producing a carbon nanotube assembly, the method controlling a growth density of carbon nanotubes on a substrate, includes: a step for preparing a catalyst particle dispersed film-formed substrate including a catalyst particle dispersed film in which metal catalyst particles having a predetermined particle diameter are dispersed among barrier particles;  and a thermal CVD step for growing carbon nanotubes from the metal catalyst particles serving as starting points by heat decomposition of an organic compound vapor.
+</Abstract>
+<Claims>
+<P>
+1. A method for producing a carbon nanotube assembly, the method controlling a growth density of carbon nanotubes on a substrate, comprising:
+</P>
+<P>
+a step for preparing a catalyst particle dispersed film-formed substrate including a catalyst particle dispersed film in which metal catalyst particles having a predetermined particle diameter are dispersed among barrier particles; and
+</P>
+<P>
+a thermal CVD step for growing carbon nanotubes from the metal catalyst particles serving as starting points by heat decomposition of an organic compound vapor.
+</P>
+<P>
+2. The method for producing a carbon nanotube assembly according to claim 1, wherein the step for preparing the catalyst particle dispersed film-formed substrate is a catalyst deposition step for depositing metal catalyst particles and barrier particles on a substrate to form the catalyst particle dispersed film.
+</P>
+<P>
+3. The method for producing a carbon nanotube assembly according to claim 1, further comprising a reduction step for performing a reduction treatment on the metal catalyst particles in the catalyst particle dispersed film in a reducing atmosphere.
+</P>
+<P>
+4. The method for producing a carbon nanotube assembly according to claim 1, wherein the barrier particles are inorganic compound particles.
+</P>
+<P>
+5. The method for producing a carbon nanotube assembly according to claim 1, wherein
+</P>
+<P>
+the barrier particles are inorganic compound particles,
+</P>
+<P>
+the step for preparing the catalyst particle dispersed film-formed substrate is a catalyst deposition step for depositing metal catalyst particles and inorganic compound particles on a substrate to form the catalyst particle dispersed film, and further comprising a reduction step for performing a reduction treatment on the metal catalyst particles in the catalyst particle dispersed film in a reducing atmosphere.
+</P>
+<P>
+6. The method for producing a carbon nanotube assembly according to claim 4, wherein the catalyst particle dispersed film is formed by a simultaneous sputtering method targeting a catalytic metal and an inorganic compound.
+</P>
+<P>
+7. The method for producing a carbon nanotube assembly according to claim 1, wherein the metal catalyst particles comprise any one of an alloy of and a mixture of at least one particulate main catalyst selected from the group consisting of Fe, Co, and Ni and at least one particulate auxiliary catalyst selected from the group consisting of high-melting point metals having a melting point of 1500 deg. C or above.
+</P>
+<P>
+8. The method for producing a carbon nanotube assembly according to claim 4, wherein the inorganic compound particles comprise an oxide containing at least one selected from the group consisting of an aluminum oxide, a magnesium oxide, a titanium oxide, and a silicon oxide.
+</P>
+<P>
+9. The method for producing a carbon nanotube assembly according to claim 1, wherein
+</P>
+<P>
+the metal catalyst particles in the catalyst particle dispersed film formed on the substrate have a particle diameter of 8 nm or less, and
+</P>
+<P>
+obtained carbon nanotubes are single-walled carbon nanotubes.
+</P>
+<P>
+10. The method for producing a carbon nanotube assembly according to claim 1, wherein
+</P>
+<P>
+the metal catalyst particles in the catalyst particle dispersed film formed on the substrate have a particle diameter of from 8 nm to 11 nm, and
+</P>
+<P>
+obtained carbon nanotubes are double-walled carbon nanotubes.
+</P>
+<P>
+11. The method for producing a carbon nanotube assembly according to claim 1, wherein
+</P>
+<P>
+the metal catalyst particles in the catalyst particle dispersed film formed on the substrate have a particle diameter of from 11 nm to 15 nm, and
+</P>
+<P>
+obtained carbon nanotubes are triple-walled carbon nanotubes.
+</P>
+<P>
+12. The method for producing a carbon nanotube assembly according to claim 1, wherein
+</P>
+<P>
+the metal catalyst particles in the catalyst particle dispersed film formed on the substrate have a particle diameter of from 15 nm to 18 nm, and
+</P>
+<P>
+obtained carbon nanotubes are quad-walled carbon nanotubes.
+</P>
+<P>
+13. The method for producing a carbon nanotube assembly according to claim 1, wherein
+</P>
+<P>
+the metal catalyst particles in the catalyst particle dispersed film formed on the substrate have a particle diameter of from 18 nm to 21 nm, and
+</P>
+<P>
+obtained carbon nanotubes are quint-walled carbon nanotubes.
+</P>
+<P>
+14. The method for producing a carbon nanotube assembly according to claim 1, wherein a growth density of the carbon nanotubes is controlled by controlling a compounding ratio of the metal catalyst particles and the barrier particles in the catalyst particle dispersed film.
+</P>
+<P>
+15. The method for producing a carbon nanotube assembly according to claim 1, wherein a growth density of the carbon nanotubes is controlled in a range from 10&amp;lt;9&amp;gt; to 10&amp;lt;11&amp;gt; tubes/cm&amp;lt;2&amp;gt; .
+</P>
+<P>
+16. A catalyst particle dispersed film used for production of a carbon nanotube assembly by a thermal CVD method, wherein metal catalyst particles having a predetermined particle diameter are dispersed among barrier particles.
+</P>
+<P>
+17. The catalyst particle dispersed film according to claim 16, wherein the barrier particles are inorganic compound particles.
+</P>
+<P>
+18. The catalyst particle dispersed film according to claim 17, wherein the catalyst particle dispersed film is formed by a simultaneous sputtering method targeting a catalytic metal and an inorganic compound.
+</P>
+<P>
+19. The catalyst particle dispersed film according to claim 16, wherein the metal catalyst particles comprise any one of an alloy of and a mixture of at least one particulate main catalyst selected from the group consisting of Fe, Co, and Ni and at least one particulate auxiliary catalyst selected from the group consisting of high-melting point metals having a melting point of 1500 deg. C or above.
+</P>
+<P>
+20. The catalyst particle dispersed film according to claim 17, wherein the inorganic compound particles comprise an oxide containing at least one selected from the group consisting of an aluminum oxide, a magnesium oxide, a titanium oxide, and a silicon oxide.
+</P>
+<P>
+21. The catalyst particle dispersed film according to claim 16, wherein a compounding ratio of the metal catalyst particles and the barrier particles in the catalyst particle dispersed film is controlled according to a desired growth density of carbon nanotubes.
+</P>
+<P>
+22. A carbon nanotube assembly being an assembly of carbon nanotubes grown directly on a substrate, wherein
+</P>
+<P>
+a growth density of the carbon nanotubes is in a range from 10&amp;lt;9&amp;gt; to 10&amp;lt;11&amp;gt; tubes/cm&amp;lt;2&amp;gt; , and
+</P>
+<P>
+a proportion of double-walled carbon nanotubes among carbon nanotubes contained in the assembly is 50% or above.
+</P>
+<P>
+23. The carbon nanotube assembly according to claim 22, wherein growth directions of the carbon nanotubes are oriented uniformly in a normal line direction with respect to a surface of the substrate.
+</P>
+<P>
+24. A carbon nanotube assembly being an assembly of carbon nanotubes grown directly on a substrate, wherein
+</P>
+<P>
+a growth density of the carbon nanotubes is in a range from 10&amp;lt;9&amp;gt; to 10&amp;lt;11&amp;gt; tubes/cm&amp;lt;2&amp;gt; , and
+</P>
+<P>
+a proportion of triple-walled carbon nanotubes among carbon nanotubes contained in the assembly is 50% or above.
+</P>
+<P>
+25. The carbon nanotube assembly according to claim 24, wherein growth directions of the carbon nanotubes are oriented uniformly in a normal line direction with respect to a surface of the substrate.
+</P>
+<P>
+26. A carbon nanotube assembly being an assembly of carbon nanotubes grown directly on a substrate, wherein
+</P>
+<P>
+a growth density of the carbon nanotubes is in a range from 10&amp;lt;9&amp;gt; to 10&amp;lt;11&amp;gt; tubes/cm&amp;lt;2&amp;gt; , and
+</P>
+<P>
+a proportion of quad-walled carbon nanotubes among carbon nanotubes contained in the assembly is 50% or above.
+</P>
+<P>
+27. The carbon nanotube assembly according to claim 26, wherein growth directions of the carbon nanotubes are oriented uniformly in a normal line direction with respect to a surface of the substrate.
+</P>
+<P>
+28. A carbon nanotube assembly being an assembly of carbon nanotubes grown directly on a substrate, wherein
+</P>
+<P>
+a growth density of the carbon nanotubes is in a range from 10&amp;lt;9&amp;gt; to 10&amp;lt;11&amp;gt; tubes/cm&amp;lt;2&amp;gt; , and
+</P>
+<P>
+a proportion of quint-walled carbon nanotubes among carbon nanotubes contained in the assembly is 50% or above.
+</P>
+<P>
+29. The carbon nanotube assembly according to claim 28, wherein growth directions of the carbon nanotubes are oriented uniformly in a normal line direction with respect to a surface of the substrate.
+</P>
+<P>
+30. The carbon nanotube assembly according to any one of claims 22 to 29, further comprising catalyst particles supported on the carbon nanotube assembly.
+</P>
+<P>
+31. The carbon nanotube assembly according to claim 30, wherein the catalyst particles are photocatalyst particles.
+</P>
+<P>
+32. The carbon nanotube assembly according to claim 31, wherein
+</P>
+<P>
+the photocatalyst is titanium oxide, and
+</P>
+<P>
+the photocatalyst exhibits photocatalytic ability in response to visible light having a wavelength of 550 nm or less when the growth density of the carbon nanotubes is from 10&amp;lt;9&amp;gt; to 10&amp;lt;10&amp;gt; tubes/cm&amp;lt;2&amp;gt; .
+</P>
+<P>
+33. An electron emitting element using the carton nanotube assembly according to any one of claims 22 to 29 as an electron source.
+</P>
+<P>
+34. A field emission display, comprising:
+</P>
+<P>
+an emitter electrode;
+</P>
+<P>
+an electron source being provided on the emitter electrode and emitting electrons by a field emission phenomenon;
+</P>
+<P>
+a phosphor emitting fluorescence due to collision of electrons emitted from the electron source; and
+</P>
+<P>
+an insulator preventing discharge between the electron source and its adjacent electron source, wherein the carbon nanotube assembly according to any one of claims 22 to 29 is used as the electron source.
+</P>
+</Claims>
+<Also_published_as>
+EP1995213A4;US2009121613A1;TW200801225A;KR20080099849A;JP4853839B2;WO2007105707A1;CN101365649A
+</Also_published_as>
+</BiblioData>

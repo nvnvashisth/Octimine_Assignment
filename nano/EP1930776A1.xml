@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PROCESS FOR PRODUCING 3- DIMENSIONAL MOLD, PROCESS FOR PRODUCING MICROFABRICATION PRODUCT, PROCESS FOR PRODUCING MICROPATTERN MOLDING, 3- DIMENSIONAL MOLD, MICROFABRICATION PRODUCT, MICROPATTERN MOLDING AND OPTICAL DEVICE
+</Title>
+<PublicationNumber>
+EP1930776A1
+</PublicationNumber>
+<Inventor>
+<Name>
+TANIGUCHI JUN [JP]
+</Name>
+<Name>
+TANIGUCHI, JUN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV TOKYO SCI EDUC FOUND [JP]
+</Name>
+<Name>
+TOKYO UNIVERSITY OF SCIENCE EDUCATIONAL FOUNDATION ADMINISTRATIVE ORGANIZATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1930776
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060797710
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006JP317856
+</PriorityNumber>
+<PriorityDate>
+2006-09-08
+</PriorityDate>
+<PriorityNumber>
+JP20050262519
+</PriorityNumber>
+<PriorityDate>
+2005-09-09
+</PriorityDate>
+<PriorityNumber>
+JP20060051070
+</PriorityNumber>
+<PriorityDate>
+2006-02-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B29C33/38
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+G02B5/18
+</Class>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F7/075
+</Class>
+<Class>
+G03F7/20
+</Class>
+<Class>
+G03F7/36
+</Class>
+</IPC>
+<NCL>
+<Class>
+B81C99/00R6
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G02B5/18M
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G03F7/36
+</Class>
+</NCL>
+<Abstract>
+A process for producing a 3-dimensional mold, including irradiating a resist layer of a processing object having the resist layer made of an organopolysiloxane on a substrate with an electron beam, and developing, by thermal desorption treatment, the resist layer after the irradiation with an electron beam to form protrusions and depressions in the resist layer;  a process for producing a microfabrication product by using the 3-dimensional mold;  a process for producing a micropattern molding by using the 3-dimensional mold or the microfabrication product;  and a 3-dimensional mold, a microfabrication product and a micropattern molding which are finely formed by these production processes, as well as an optical device.
+</Abstract>
+<Claims>
+<P>
+1. A process for producing a 3-dimensional mold, comprising:
+</P>
+<P>
+irradiating a resist layer of a processing object having the resist layer made of an organopolysiloxane on a substrate with an electron beam, and
+</P>
+<P>
+developing the resist layer after the irradiation with an electron beam to form protrusions and depressions in the resist layer,wherein the development is development by thermal desorption treatment.
+</P>
+<P>
+2. The process for producing a 3-dimensional mold according to claim 1, wherein the organic group in the organopolysiloxane is a methyl group or a phenyl group.
+</P>
+<P>
+3. The process for producing a 3-dimensional mold according to claim 1, wherein the organic group in the organopolysiloxane is a methyl group.
+</P>
+<P>
+4. The process for producing a 3-dimensional mold according to any one of claims 1 to 3, wherein the heating temperature in the thermal desorption treatment is not more than the glass transition temperature of the organopolysiloxane.
+</P>
+<P>
+5. The process for producing a 3-dimensional mold according to claim 4, wherein the heating temperature in the thermal desorption treatment is 600 deg. C or less when the organic group in the organopolysiloxane is a methyl group and simultaneously the content of the organic group in the organopolysiloxane is 5 to 25% by mass.
+</P>
+<P>
+6. A 3-dimensional mold of 100 nm or less in line width produced by the process according to any one of claims 1 to 5.
+</P>
+<P>
+7. A process for producing a microfabrication product comprising a substrate having protrusions and depressions, the process comprising irradiating with an ion beam a resist layer of a 3-dimensional mold produced by the process for producing a 3-dimensional mold, in which a resist layer having protrusions and depressions is provided on a substrate, according to any one of claims 1 to 5, whereby protrusions and depressions are formed on the substrate.
+</P>
+<P>
+8. A microfabrication product having a processed portion of 100 nm or less in line width produced by the process according to claim 7.
+</P>
+<P>
+9. The microfabrication product according to claim 8, which comprises diamond, silicon, glass, sapphire, glassy carbon, or silicon carbide.
+</P>
+<P>
+10. A process for producing a micropattern molding, comprising:
+</P>
+<P>
+transferring a pattern through molding to a resin by pressing the resin against a 3-dimensional mold produced by the process according to any one of claims 1 to 5, and
+</P>
+<P>
+releasing the pressed resin from the 3-dimensional mold.
+</P>
+<P>
+11. A process for producing a micropattern molding, comprising:
+</P>
+<P>
+transferring a pattern through molding to a resin by pressing the resin against a microfabrication product produced by the process according to claim 7, which is used as a mold, and
+</P>
+<P>
+releasing the pressed resin from the microfabrication product.
+</P>
+<P>
+12. A micropattem molding having a processed portion of 100 nm or less in line width produced by the process according to claim 10 or 11.
+</P>
+<P>
+13. An optical device having a 3-dimensional mold produced by the process of any one of claims 1 to 5.
+</P>
+<P>
+14. An optical device having a microfabrication product produced by the process of claim 7.
+</P>
+<P>
+15. An optical device having a micropattern molding produced by the process of claim 10 or 11.
+</P>
+</Claims>
+<Also_published_as>
+EP1930776A4;US2009176060A1;WO2007029810A1
+</Also_published_as>
+</BiblioData>

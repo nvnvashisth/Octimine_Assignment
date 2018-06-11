@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC DETECTOR AND ELECTRONIC DEVICE
+</Title>
+<PublicationNumber>
+EP2088446A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SASAKI YOSHITO [JP]
+</Name>
+<Name>
+SATO KIYOSHI [JP]
+</Name>
+<Name>
+SASAKI, YOSHITO
+</Name>
+<Name>
+SATO, KIYOSHI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ALPS ELECTRIC CO LTD [JP]
+</Name>
+<Name>
+ALPS ELECTRIC CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2088446
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070831736
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP72006
+</PriorityNumber>
+<PriorityDate>
+2007-11-13
+</PriorityDate>
+<PriorityNumber>
+JP20060308898
+</PriorityNumber>
+<PriorityDate>
+2006-11-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/09
+</Class>
+<Class>
+H04M1/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/07
+</Class>
+<Class>
+G01R33/09A
+</Class>
+<Class>
+G01R33/09B
+</Class>
+</NCL>
+<Abstract>
+[Object] It is an object of the invention to provide a magnetic detection device and an electronic apparatus, each enabling bipolar detection to be performed with a circuit arrangement simpler than in the related art. [Solving Means] A magnetic detection device 30 of an embodiment of the present invention includes a first magnetoresistive effect element 12 based on the magnetoresistive effect that an electrical resistance of the element varies in response to an external magnetic field, and a common circuit unit connected to the magnetoresistive effect element 12 and enabled to detect both an external magnetic field in a (+) direction and an external magnetic field in a (-) direction opposite to the (+) direction in response to a change in the electrical resistance. Since the use of the common circuit unit suffices in the embodiment, a magnetic detection device enabled to perform bipolar detection with a circuit arrangement simpler than in the related art results. The magnetic detection device is also miniaturized.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic detection device comprising a magnetoresistive effect element based on the magnetoresistive effect that an electrical resistance of the element varies in response to an external magnetic field, and
+</P>
+<P>
+a common circuit unit connected to the magnetoresistive effect element and enabled to detect both an external magnetic field in a (+) direction and an external magnetic field in a (-) direction opposite to the (+) direction in response to a change in the electrical resistance.
+</P>
+<P>
+2. The magnetic detection device according to claim 1, wherein when the maximum magnetic field intensity of the external magnetic field in the (+) direction acting on the first magnetoresistive effect element is higher than the maximum magnetic field intensity of the external magnetic field in the (-) direction acting on the first magnetoresistive effect element, a detection sensitivity applied with the external magnetic field in the (+) direction operative is set to be lower than a detection sensitivity applied with the external magnetic field in the (-) direction operative.
+</P>
+<P>
+3. The magnetic detection device according to claim 1, wherein the magnetoresistive effect element is a first common magnetoresistive effect element having an electrical resistance changing in response to each of the external magnetic field in the (+) direction and the external magnetic field in the (-) direction, and
+</P>
+<P>
+wherein a threshold value level of an output needed for the magnetic detection of the external magnetic field in the (+) direction and a threshold value level of an output needed for the magnetic detection of the external magnetic field in the (-) direction are set in the circuit unit.
+</P>
+<P>
+4. The magnetic detection device according to claim 3, wherein when the maximum magnetic field intensity of the external magnetic field in the (+) direction acting on the first magnetoresistive effect element is higher than the maximum magnetic field intensity of the external magnetic field in the (-) direction acting on the first magnetoresistive effect element acting on the first magnetoresistive effect element, a level difference between a reference level of an output in response to no magnetic field state and the threshold value level of the output needed for the magnetic detection of the external magnetic field in the (+) direction is set to be larger than a level difference between the reference level and the threshold value level of the output needed for the magnetic detection of the external magnetic field in the (-) direction.
+</P>
+<P>
+5. The magnetic detection device according to claim 1, wherein the magnetoresistive effect elements comprise a second magnetoresistive effect element having an electrical resistance changing in response to the external magnetic field in the (+) direction and a third magnetoresistive effect element having an electrical resistance changing in response to the external magnetic field in the (-) direction, and
+</P>
+<P>
+wherein the circuit unit detects both the external magnetic field in the (+) direction in response to a change in an electrical resistance of the second magnetoresistive effect element and the external magnetic field in the (-) direction in response to a change in an electrical resistance of the third magnetoresistive effect element.
+</P>
+<P>
+6. The magnetic detection device according to claim 5, wherein each of the second magnetoresistive effect element and the third magnetoresistive effect element has a laminate structure comprising an antiferromagnetic layer, a pinned magnetic layer, a non-magnetic intermediate layer, and a free magnetic layer, and
+</P>
+<P>
+wherein when the maximum magnetic field intensity of the external magnetic field in the (+) direction acting on the second magnetoresistive effect element is higher than the maximum magnetic field intensity of the external magnetic field in the (-) direction acting on the third magnetoresistive effect element, the absolute value of an interlayer coupling magnetic field Hin2 acting between the pinned magnetic layer and the free magnetic layer of the second magnetoresistive effect element is set to be larger than the absolute value of an interlayer coupling magnetic field Hin3 acting between the pinned magnetic layer and the free magnetic layer of the third magnetoresistive effect element.
+</P>
+<P>
+7. An electronic apparatus comprising a first main body and a second main body, the first main body and the second main body connected to each other in a manner that allows the first and second main bodies to flip open and shut, and the second main body supported in a manner that allows the second main body to be turned around to be in a rear side front position,
+</P>
+<P>
+wherein a magnet is mounted on one of the first main body and the second main body, and the magnetic detection device according to one of claims 1 through 6 is mounted on the other of the first main body and the second main body, and
+</P>
+<P>
+wherein when the first main body and the second main body are flipped shut in a first opening detection with the second main body not turned around, the magnet and the magnetic detection device move closer in distance to each other and the external magnetic field in one of the (+) direction and the (-) direction emitted from the magnet is detected, and when the first main body and the second main body are flipped shut in a second opening detection with the second main body turned around, the magnet and the magnetic detection device move closer in distance to each other and the other external magnetic field in the direction opposite to the direction in the first opening detection emitted from the magnet is detected.
+</P>
+</Claims>
+<Also_published_as>
+WO2008059833A1
+</Also_published_as>
+</BiblioData>

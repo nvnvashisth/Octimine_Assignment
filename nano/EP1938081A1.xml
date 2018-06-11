@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MULTIFUNCTIONAL PROBE ARRAY SYSTEM
+</Title>
+<PublicationNumber>
+EP1938081A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WANG XUEFENG [US]
+</Name>
+<Name>
+LIU CHANG [US]
+</Name>
+<Name>
+WANG, XUEFENG
+</Name>
+<Name>
+LIU, CHANG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV ILLINOIS [US]
+</Name>
+<Name>
+THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1938081
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060803585
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US35826
+</PriorityNumber>
+<PriorityDate>
+2006-09-14
+</PriorityDate>
+<PriorityNumber>
+US20050719158P
+</PriorityNumber>
+<PriorityDate>
+2005-09-21
+</PriorityDate>
+<PriorityNumber>
+US20050234401
+</PriorityNumber>
+<PriorityDate>
+2005-09-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q70/14
+</Class>
+<Class>
+G01Q70/16
+</Class>
+<Class>
+G01Q80/00
+</Class>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q70/06
+</Class>
+<Class>
+G01Q70/14
+</Class>
+<Class>
+G01Q70/16
+</Class>
+<Class>
+G01Q80/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G03F7/20H
+</Class>
+</NCL>
+<Abstract>
+A probe array for includes a handle, a first probe and a second probe. The first probe has a first shank, connected to the handle, and a first tip;  and the second probe has a second shank, connected to the handle, and second tip. The first tip contains a different material from the second tip. The probe array may be used to write on a surface by contacting the first tip with a surface, where a first ink is on the first tip. This writing method may further include lifting the first tip from the surface and contacting the second tip with the surface.
+</Abstract>
+<Claims>
+<P>
+1. A probe array, comprising:
+</P>
+<P>
+a handle,
+</P>
+<P>
+a first probe, comprising
+</P>
+<P>
+a first shank, connected to the handle, and
+</P>
+<P>
+a first tip having a radius of curvature of at least 300 nm,
+</P>
+<P>
+a second probe, comprising
+</P>
+<P>
+a second shank, connected to the handle, and
+</P>
+<P>
+second tip having a radius of curvature less than 300 nm;
+</P>
+<P>
+where the first tip and the second tip are made of different materials, and
+</P>
+<P>
+the first tip comprises an elastomer.
+</P>
+<P>
+2. (canceled)
+</P>
+<P>
+3. The array of claim 1, where the first tip comprises polydimethylsiloxane.
+</P>
+<P>
+4. The array of claim 1, where the second tip comprises a material selected from the group consisting of semiconductors, metals, ceramics, polymers, and mixtures thereof.
+</P>
+<P>
+5. (canceled)
+</P>
+<P>
+6. The array of claim 4, where the first probe is a scanning probe contact printing probe, and the second probe is a dip pen nanolithography probe.
+</P>
+<P>
+7. The array of claim 4, where the first probe is a scanning probe contact printing probe, and the second probe is an atomic force microscopy probe.
+</P>
+<P>
+8. The array of claim 4, further comprising a third probe, comprising
+</P>
+<P>
+a third shank, connected to the handle, and
+</P>
+<P>
+a third tip.
+</P>
+<P>
+9. The array of claim 8, where the first probe is a scanning probe contact printing probe, the second probe is a dip pen nanolithography probe, and the third probe is an atomic force microscopy probe.
+</P>
+<P>
+10. The array of claim 8, further comprising at least two first probes, at least two second probes, and at least two third probes.
+</P>
+<P>
+11. The array of claim 1, further comprising at least two first probes and at least two second probes.
+</P>
+<P>
+12. The array of claim 1, where the first and second shanks each comprise
+</P>
+<P>
+a cantilever, and
+</P>
+<P>
+an actuator, operatively connected to the cantilever and to the handle.
+</P>
+<P>
+13. The array of claim 12, where the actuator is selected from the group consisting of a thermal actuator, an electrostatic actuator, and a piezoelectric actuator.
+</P>
+<P>
+14. The array of claim 12, where the actuator is a thermal actuator.
+</P>
+<P>
+15. A method of writing using the probe array of claim 1, comprising:
+</P>
+<P>
+contacting the first tip with a surface,
+</P>
+<P>
+where a first ink is on the first tip.
+</P>
+<P>
+16. The method of claim 15, further comprising
+</P>
+<P>
+lifting the first tip from the surface, and
+</P>
+<P>
+contacting the second tip with the surface.
+</P>
+<P>
+17. The method of claim 16, where a second ink is on the second tip.
+</P>
+<P>
+18-28. (canceled)
+</P>
+<P>
+29. A method of making the probe array of claim 1, comprising:
+</P>
+<P>
+forming at least two tip cavities in a substrate;
+</P>
+<P>
+forming a release layer on the substrate and cavities;
+</P>
+<P>
+forming a shank layer on the release layer;
+</P>
+<P>
+etching the shank layer in at least one tip cavity to form at least one etched cavity, where at least one tip cavity is not etched;
+</P>
+<P>
+forming the first tip in the at least one etched cavity;
+</P>
+<P>
+attaching the shank layer to a handle to form the probe array; and
+</P>
+<P>
+releasing the array from the substrate;
+</P>
+<P>
+where a portion of the shank layer in the at least one tip cavity that is not etched forms the second tip.
+</P>
+<P>
+30-42. (canceled)
+</P>
+<P>
+43. The method of claim 17, where the composition of the first ink is different from the composition of the second ink.
+</P>
+<P>
+44. The method of claim 17, where the first probe is a scanning probe contact printing probe, and the second probe is a dip pen nanolithography probe.
+</P>
+<P>
+45. The method of claim 17, where the surface comprises an image after being contacted with the first and second tips,
+</P>
+<P>
+the image comprising at least one feature having a minimum dimension less than 100 nanometers, and at least one feature having a minimum dimension greater than 400 nanometers.
+</P>
+<P>
+46. The method of claim 45, where the image comprises at least one feature having a minimum dimension less than 50 nanometers.
+</P>
+<P>
+47. The method of claim 45, where the image comprises at least one feature having a minimum dimension less than 25 nanometers.
+</P>
+<P>
+48. The method of claim 45, where the probe array further comprises a third probe, comprising
+</P>
+<P>
+a third shank, connected to the handle, and
+</P>
+<P>
+a third tip;
+</P>
+<P>
+the method further comprising
+</P>
+<P>
+lifting the second tip from the surface, and
+</P>
+<P>
+contacting the third tip with the surface.
+</P>
+<P>
+49. The method of claim 48, where the contacting the third tip with the surface comprises reading the image.
+</P>
+<P>
+50. The method of claim 16, where the surface comprises an image after being contacted with the first tip; and the contacting the second tip with the surface comprises reading the image.
+</P>
+<P>
+51. The method of claim 50, where the first probe is a scanning probe contact printing probe, and the second probe is an atomic force microscopy probe.
+</P>
+<P>
+52. The method of claim 16, where the contacting the first tip with the surface and the lifting the first tip from the surface comprise changing the orientation of the first shank relative to the handle.
+</P>
+<P>
+53. The method of claim 16, where the contacting the second tip with the surface comprises changing the orientation of the second shank relative to the handle.
+</P>
+<P>
+54. The array of claim 8, where the third tip has a radius of curvature less than 300 nm.
+</P>
+</Claims>
+<Also_published_as>
+US2007062264A1;US7281419B2;WO2007037998A1;US2007289369A1;US7523650B2
+</Also_published_as>
+</BiblioData>

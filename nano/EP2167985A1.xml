@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LOW-NOISE MAGNETIC FIELD SENSOR USING LATERAL SPIN TRANSFER
+</Title>
+<PublicationNumber>
+EP2167985A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DIENY BERNARD [FR]
+</Name>
+<Name>
+DIENY, BERNARD
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+CENTRE NAT RECH SCIENT [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+<Name>
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE ET AUX ENERGIESALTERNATIVES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2167985
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080774782
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008EP58704
+</PriorityNumber>
+<PriorityDate>
+2008-07-04
+</PriorityDate>
+<PriorityNumber>
+FR20070056395
+</PriorityNumber>
+<PriorityDate>
+2007-07-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/09
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G11B5/39C
+</Class>
+<Class>
+G11B5/39C5
+</Class>
+<Class>
+H01L43/08
+</Class>
+</NCL>
+<Abstract>
+La présente invention concerne un capteur magnétorésistif comprenant une première couche magnétique d&apos;aimantation piégée (410), dite couche piégée, et une couche magnétique d&apos;aimantation libre (430), dite couche sensible, dont l&apos;aimantation, en absence de champ extérieur, est sensiblement orthogonale à l&apos;aimantation de la couche piégée, lesdites couches piégée et sensible étant séparées par une première couche séparatrice (420) de découplage magnétique. Le capteur comprend en outre une couche (440), dite de couplage latéral, située du côté de la couche sensible opposé à celui de la couche séparatrice, et permettant de contrôler le transfert de spin latéral.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Capteur magnétorésistif comprenant une première couche magnétique d&apos;aimantation piégée (410), dite couche piégée, et une couche magnétique d&apos;aimantation libre (430), dite couche sensible, dont l&apos;aimantation, en absence de champ extérieur, est sensiblement orthogonale à l&apos;aimantation de la couche piégée, lesdites couches piégée et sensible étant séparées par une première couche séparatrice (420) de découplage magnétique, caractérisé en ce qu&apos;il comprend en outre une couche (440), dite de couplage latéral, située du côté de la couche sensible opposé à celui de la couche separatrice et adaptée à rétrodiffuser, avec conservation de spin, les électrons vers la couche sensible, ainsi que des moyens pour faire circuler un courant continu de la couche de couplage latéral à la couche piégée.
+</P>
+<P>
+2. Capteur magnétorésistif selon la revendication 1, caractérisé en ce que la couche séparatrice est une première couche isolante, formant une première barrière tunnel.
+</P>
+<P>
+3. Capteur magnétorésistif selon la revendication 1, caractérisé en ce que la couche séparatrice est une première couche isolante discontinue adaptée à confiner le courant qui la traverse selon une pluralité de chemins de courant.30
+</P>
+<P>
+4. Capteur magnétorésistif selon la revendication 1, caractérisé en ce que la couche séparatrice est une première couche métallique non magnétique.
+</P>
+<P>
+5. Capteur magnétorésistif selon la revendication 2 ou 3, caractérisé en ce que la couche de couplage latéral comprend une seconde couche isolante ou semiconductrice formant une seconde barrière tunnel et de résistivité surfacique inférieure à celle de la couche séparatrice.
+</P>
+<P>
+6. Capteur magnétorésistif selon la revendication 2 ou 3, caractérisé en ce que la couche de couplage latéral comprend une seconde couche isolante discontinue adaptée à confiner le courant qui la traverse et de résistivité surfacique inférieure à celle de la couche séparatrice.
+</P>
+<P>
+7. Capteur magnétorésistif selon la revendication 2,3 ou 4, caractérisé en ce qu&apos;elle comprend une seconde couche métallique (443), directement en contact avec la couche sensible, ladite seconde couche métallique incorporant ou étant adjointe à une troisième couche métallique (445) de plus forte résistivité que la seconde couche métallique.
+</P>
+<P>
+8. Capteur magnétorésistif comprenant une première couche magnétique d&apos;aimantation piégée (410), dite couche piégée, et une couche magnétique d&apos;aimantation libre (430), dite couche sensible, dont l&apos;aimantation, en absence de champ extérieur, estsensiblement orthogonale à l&apos;aimantation de la couche piégée, lesdites couches piégée et sensible étant séparées par une première couche séparatrice (420) de découplage magnétique, caractérisé en ce qu&apos;il comprend en outre une couche (440), dite de couplage latéral, située du côté de la couche sensible opposé à celui de la couche séparatrice et adaptée à réduire la diffusion latérale des électrons et/ou à produire une perte de mémoire de spin, ainsi que des moyens pour faire circuler un courant continu de la couche piégée à la couche de couplage latéral.
+</P>
+<P>
+9. Capteur magnétorésistif selon la revendication 8, caractérisé en ce que la couche séparatrice est une première couche isolante, formant une première barrière tunnel.
+</P>
+<P>
+10. Capteur magnétorésistif selon la revendication 8, caractérisé en ce que la couche séparatrice est une première couche isolante discontinue adaptée à confiner le courant qui la traverse selon une pluralité de chemins de courant.
+</P>
+<P>
+11. Capteur magnétorésistif selon la revendication 8, caractérisé en ce que la couche séparatrice est une première couche métallique non magnétique.
+</P>
+<P>
+12. Capteur magnétorésistif selon la revendication 9 ou 10, caractérisé en ce que la couche de couche de couplage latéral est de résistivitéélevée, telle que le libre parcours moyen des électrons à l&apos;intérieur de cette couche soit inférieur à la dimension latérale caractéristique des zones d&apos;aimantation uniforme de la couche sensible.
+</P>
+<P>
+13. Capteur magnétorésistif selon la revendication 9, 10 ou 11 caractérisé en ce que la couche de couplage latéral est une seconde couche métallique de faible résistivité et comprend des impuretés adaptées à provoquer un basculement de spin.
+</P>
+<P>
+14. Capteur magnétorésistif selon les revendications 11 et 13, caractérisée en ce que la seconde couche métallique présente une résistivité inférieure à celle de la première couche métallique.
+</P>
+<P>
+15. Capteur magnétorésistif selon la revendication 2 ou 9, caractérisé en ce que la première couche séparatrice est en alumine, en MgO, ou en TiOX.
+</P>
+<P>
+16. Capteur magnétorésistif selon la revendication 4 ou 11, caractérisé en ce que la première couche métallique est en Cu. 25
+</P>
+<P>
+17. Capteur magnétorésistif selon la revendication 5, caractérisé en ce que la seconde couche isolante est en alumine, en MgO, ou en TiOX.
+</P>
+<P>
+18. Capteur magnétorésistif selon les 30 revendications 5 ou 6, caractérisé en ce que la seconde couche isolante est en TiOX ou une nanocouche de TaO.20
+</P>
+<P>
+19. Capteur magnétorésistif selon la revendication 6, caractérisé en ce que la seconde couche isolante est réalisée par oxydation d&apos;un alliage ou d&apos;une bicouche AlCu.
+</P>
+<P>
+20. Capteur magnétorésistif selon la revendication 7, caractérisé en ce que la seconde couche métallique est en Cu et que la troisième couche métallique appartient au groupe constitué par Ta, Ru, Cr, Zr, Nb, Mo, Hf, W, Re.
+</P>
+<P>
+21. Capteur magnétorésistif selon la revendication 12, caractérisé en ce que la couche de couplage latéral est en Ta, Ru ou Cr.
+</P>
+<P>
+22. Capteur magnétorésistif selon la revendication 12, caractérisé en ce que la couche de couplage latéral est en alliage NiFeCr ou NiCoFeCr.
+</P>
+<P>
+23. Capteur magnétorésistif selon la revendication 12, caractérisé en ce que la couche de couplage latéral est constituée d&apos;une lamination de monocouches atomiques de Ta et Cu.
+</P>
+<P>
+24. Capteur magnétorésistif selon la revendication 13, caractérisé en ce que lesdites impuretés appartiennent au groupe constitué par Mn, Pd, Ru, Pt, Hf, Ta, W, Re, Ir, Pt, Au. 25 30
+</P>
+<P>
+25. Capteur magnétorésistif selon l&apos;une des revendications précédentes, caractérisé en ce qu&apos;il comprend en outre une couche ferrimagnétique synthétique, constituée d&apos;une première et d&apos;une seconde sous-couches magnétiques prenant en sandwich une sous-couche de couplage antiferromagnétique, la première sous-couche magnétique étant piégée par une couche antiferromagnétique de piégeage, la seconde sous-couche magnétique constituant ladite couche piégée (410).
+</P>
+<P>
+26. Capteur magnétorésistif selon la revendication 25, caractérisé en ce que la couche ferrimagnétique synthétique est CoFe/Ru/CoFe où les sous-couches magnétiques de CoFe ont une épaisseur entre 1 et 5nm et la première sous-couche de couplage antiferromagnétique de Ru a une épaisseur de 0.5 à 1 nm.
+</P>
+<P>
+27. Capteur magnétorésistif selon la revendication 25, caractérisé en ce que la couche ferrimagnétique synthétique est CoFe/Ru/CoFeB ou CoFe/Ru/CoFe où les sous-couches magnétiques de CoFe et CoFeB ont une épaisseur entre 1 et 5nm et la première sous-couche de couplage antiferromagnétique de Ru a une épaisseur de 0.5 à 1 nm et la seconde sous-couche magnétique est en alliage CoFeB ou CoFe à structure cubique centrée.
+</P>
+<P>
+28. Capteur magnétorésistif selon la revendication 25, 26 ou 27, caractérisé en ce que lacouche antiferromagnétique de piégeage est en PtMn, PtPdMn, ou IrMn.
+</P>
+<P>
+29. Capteur magnétorésistif selon la revendication 28, caractérisé en ce que la couche antiferromagnétique de piégeage est en PtMn avec une épaisseur de 15 à 25 nm.
+</P>
+<P>
+30. Capteur magnétorésistif selon l&apos;une des revendications précédentes, caractérisé en ce que la couche sensible est en alliage CoFe, en particulier Co90Feu.
+</P>
+<P>
+31. Capteur magnétorésistif selon l&apos;une des revendications 1 à 29, caractérisé en ce que la couche sensible est constituée de deux sous-couches, l&apos;une de Co ou d&apos;alliage CoFe, d&apos;une épaisseur de 0.5nm à 2nm , directement à l&apos;interface avec la couche séparatrice, l&apos;autre, de NiFe d&apos;épaisseur de 1.5 à 5nm.20
+</P>
+</Claims>
+<Also_published_as>
+EP2167985B1;FR2918762A1;US2011215801A1;US2009039879A1;JP2010533367A;WO2009007324A1;CN101688903A;AT523791T
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Assembly of nanotube encapsulated nanofibers nanostructure materials
+</Title>
+<PublicationNumber>
+EP2045213A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SU DANGSHENG [DE]
+</Name>
+<Name>
+ZHANG JIAN [DE]
+</Name>
+<Name>
+SCHLOEGL ROBERT [DE]
+</Name>
+<Name>
+MAIER JOACHIM [DE]
+</Name>
+<Name>
+SU, DANGSHENG
+</Name>
+<Name>
+ZHANG, JIAN
+</Name>
+<Name>
+SCHLOEGL, ROBERT
+</Name>
+<Name>
+MAIER, JOACHIM
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MAX PLANCK GESELLSCHAFT [DE]
+</Name>
+<Name>
+MAX-PLANCK-GESELLSCHAFT ZUR FOERDERUNG DER WISSENSCHAFTEN E.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2045213
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070019469
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-10-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070019469
+</PriorityNumber>
+<PriorityDate>
+2007-10-04
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01B31/02
+</Class>
+<Class>
+H01G9/155
+</Class>
+<Class>
+H01M10/0525
+</Class>
+<Class>
+H01M10/36
+</Class>
+<Class>
+H01M4/58
+</Class>
+<Class>
+H01M4/583
+</Class>
+<Class>
+H01M4/587
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B31/02B4D10
+</Class>
+<Class>
+C01B31/02B4D6
+</Class>
+<Class>
+H01G9/058
+</Class>
+<Class>
+H01M10/0525
+</Class>
+<Class>
+H01M4/583
+</Class>
+<Class>
+H01M4/587
+</Class>
+<Class>
+H01M4/90S2
+</Class>
+<Class>
+H01M4/92S2
+</Class>
+<Class>
+H01M4/96
+</Class>
+<Class>
+Y02E60/12B
+</Class>
+<Class>
+Y02E60/13
+</Class>
+<Class>
+Y02E60/50
+</Class>
+</NCL>
+<Abstract>
+CNT encapsulated carbon nanofibers (CNFs @ CNTs) having a one-dimensional structure are provided by selective assembling CNFs inside the channel of CNTs via impregnation of catalyst inside CNTs and subsequent chemical vapour deposition of hydrocarbon. The new structure is used as material for energy storage.
+</Abstract>
+<Claims>
+<P>
+1. A method for producing carbon nanotube encapsulated carbon nanofibers nanostructure material comprising the steps:
+</P>
+<P>
+a) providing a carbon nanotube (CNT) starting material,
+</P>
+<P>
+b) optionally subjecting the CNT material to a functionalization procedure, wherein a CNT starting material having chemically reactive groups is obtained,
+</P>
+<P>
+c) depositing at least one catalytically active substance in the interior of the CNT material from step a) or b), wherein a catalyst-modified CNT material is obtained,
+</P>
+<P>
+d) contacting the catalyst-modified CNTs from step c) with at least one carbon-containing compound, wherein carbon nanofibers are formed in the interior of the CNT material,
+</P>
+<P>
+e) optionally subjecting the material obtained in step d) to a thermal treatment and
+</P>
+<P>
+f) optionally purifying the material obtained in step d) or e).
+</P>
+<P>
+2. The method of claim 1, wherein the CNT starting material comprises nanotubes having an average inner diameter of about 10-150 nm, preferably 20-80 nm.
+</P>
+<P>
+3. The method of any of claims 1-2, wherein the CNT starting material comprises nanotubes having an average length of about 0.2-50 [micro]m, preferably of about 2-50 [micro]m.
+</P>
+<P>
+4. The method of any of claims 1-3, wherein the functionalization procedure comprises an oxidation.
+</P>
+<P>
+5. The method of any one of claims 1-4, wherein the catalytically active substance comprises metals, alloys or metal compounds.
+</P>
+<P>
+6. The method of claim 5, wherein the metal is selected from iron, cobalt, nickel or their alloys, preferably cobalt.
+</P>
+<P>
+7. The method of any one of claims 1-6, wherein the catalytically active substance is deposited in an amount of about 0.1 to 5%, preferably of about 0.5% based on the total weight of the CNT starting material.
+</P>
+<P>
+8. The method of any one of claims 1-7, wherein the catalytically active substance is deposited in form of nanoparticles having a diameter in the range of about 1-10 nm, preferably of about 2-7 nm.
+</P>
+<P>
+9. The method of any one of claims 1-8, wherein the formation of the carbon nanofibers is conducted via catalytic chemical vapour deposition (CCVD).
+</P>
+<P>
+10. The method of any one of claims 1-9, wherein the carbon-containing compound is selected from the group consisting of saturated and/or unsaturated optionally substituted hydrocarbons, preferably of ethyne, ethylene, CHCl3 and/or ethane.
+</P>
+<P>
+11. The method of any one of claims 1-10, wherein the carbon nanofibers have an average outer diameter of about 2-20 nm, more preferably of about 10 nm.
+</P>
+<P>
+12. The method of any one of claims 1-11, wherein the length of the carbon nanofiber is of about 100-1000 nm, preferably of about 150-250 nm.
+</P>
+<P>
+13. The method of any one of claims 1-12, wherein the carbon nanofibers are hollow.
+</P>
+<P>
+14. The method of any one of claims 1-13, wherein the carbon nanofibers are open and/or closed.
+</P>
+<P>
+15. The method of any one of claims 1-14, wherein the carbon nanofibers are crimped.
+</P>
+<P>
+16. The method of any one of claims 1-15, wherein at least about 10%, preferably about 20 to 70% by volume of the volume of the inner channel of the CNT are occupied by carbon nanofibers.
+</P>
+<P>
+17. The method of any one of claims 1-16, wherein the amount of carbon fibers is from about 10 to 60% by weight based on the total weight of the nanostructure material.
+</P>
+<P>
+18. The method of any one of claims 1-17, wherein the thermal treatment of step e) comprises heating the nanostrucure material to at least 800[deg.]C in an inert atmosphere.
+</P>
+<P>
+19. The method of any one of claims 1-18, wherein the purification step f) comprises treating the nanostructure materials with an agent suitable for removing the catalytically active substances of step c).
+</P>
+<P>
+20. Carbon nanotube encapsulated carbon nanofibers obtainable by the method of any one of claims 1-19.
+</P>
+<P>
+21. Carbon nanotube encapsulated carbon nanofibers, wherein the carbon nanofibers are crimped.
+</P>
+<P>
+22. The carbon nanotube encapsulated carbon nanofibers of any one of claims 20 or 21, wherein the carbon nanofibers have an average outer diameter of about 2-20 nm, more preferably of about 10 nm.
+</P>
+<P>
+23. The carbon nanotube encapsulated carbon nanofibers of any one of claims 20-22, wherein the length of the carbon nanofiber is of about 100-1000 nm, preferably of about 150-250 nm.
+</P>
+<P>
+24. The carbon nanotube encapsulated carbon nanofibers of any one of claims 20-23, wherein the carbon nanofibers are hollow.
+</P>
+<P>
+25. The carbon nanotube encapsulated carbon nanofibers of any one of claims 20-24, wherein at least about 10%, preferably 20 to 70% by volume of the volume of the inner channel of the CNT are occupied by carbon nanofibers.
+</P>
+<P>
+26. The carbon nanotube encapsulated carbon nanofibers of any one of claims 20-25, wherein the amount of carbon fibers is from about 10 to 60% by weight based on the total weight of the nanostructure material.
+</P>
+<P>
+27. The carbon nanotube encapsulated carbon nanofibers of any one of claims 20-26, wherein the specific surface area is increased by about at least 120%, preferably by about at least 400% compared to that of pristine CNTs.
+</P>
+<P>
+28. The carbon nanotube encapsulated carbon nanofibers of any one of claims 20-27, wherein the pore volume is increased by about at least about 300% compared to that of pristine CNTs, preferably by about at least 400%.
+</P>
+<P>
+29. Use of carbon nanotubes encapsulated carbon nanofibers of any one of claims 20-28 as energy storage material.
+</P>
+<P>
+30. Use of carbon nanotubes encapsulated carbon nanofibers of any of claims 20-28 as electrode material.
+</P>
+<P>
+31. Use of carbon nanotubes encapsulated carbon nanofibers of claim 30 as negative electrode in Li-ion batteries.
+</P>
+<P>
+32. Use according to 31, wherein the reversible volumetric capacity of the Li-ion battery negative electrode is increased by at least 5% compared to pristine CNT electrodes.
+</P>
+<P>
+33. Use of carbon nanotubes encapsulated carbon nanofibers of any one of claims 20-28 as electrode in supercapacitors.
+</P>
+<P>
+34. Use of carbon nanotubes encapsulated carbon nanofibers of any one of claims 20-28 as an additive in composite materials.
+</P>
+<P>
+35. Use of carbon nanotubes encapsulated carbon nanofibers of any one of claims 20-28 as hydrogen storage material.
+</P>
+<P>
+36. Use of carbon nanotubes encapsulated carbon nanofibers of any one of claims 20-28 as catalyst support.
+</P>
+<P>
+37. Use of carbon nanotubes encapsulated carbon nanofibers of any one of claims 20-28 as filter material.
+</P>
+<P>
+38. A Lithium-ion battery comprising a negative electrode comprising CNFs @ CNTs nanostructure material, an positive electrode and a Li-containing liquid electrolyte.
+</P>
+</Claims>
+<Also_published_as>
+US2010285354A1;WO2009043585A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SEMICONDUCTOR NANOPARTICLE AND METHOD FOR PRODUCING THE SAME
+</Title>
+<PublicationNumber>
+EP2062855A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GOAN KAZUYOSHI [JP]
+</Name>
+<Name>
+OKADA HISATAKE [JP]
+</Name>
+<Name>
+FURUSAWA NAOKO [JP]
+</Name>
+<Name>
+GOAN, KAZUYOSHI
+</Name>
+<Name>
+OKADA, HISATAKE
+</Name>
+<Name>
+FURUSAWA, NAOKO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONICA MINOLTA MED &amp; GRAPHIC [JP]
+</Name>
+<Name>
+KONICA MINOLTA MEDICAL &amp; GRAPHIC, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2062855
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070806723
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-09-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP67280
+</PriorityNumber>
+<PriorityDate>
+2007-09-05
+</PriorityDate>
+<PriorityNumber>
+JP20060250713
+</PriorityNumber>
+<PriorityDate>
+2006-09-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+B03B5/28
+</Class>
+<Class>
+B82B3/00
+</Class>
+<Class>
+C01B33/02
+</Class>
+<Class>
+C09K11/08
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01B33/02
+</Class>
+</NCL>
+<Abstract>
+Disclosed is a method to produce a semiconductor nanoparticle which is excellent in monodispersibility and productivity. This method is characterized in that two or more kinds of semiconductor nanoparticles having different average particle diameters are dispersed in a solvent and mixed together, and then subjected to size classification.
+</Abstract>
+<Claims>
+<P>
+1. A method of producing a semiconductor nanoparticle comprising the subsequent steps of:
+</P>
+<P>
+mixing two or more kinds of semiconductor nanoparticles each kind having an average particle diameter different from each other while each kind of the semiconductor nanoparticle is dispersed in a solvent; and
+</P>
+<P>
+carrying out size classification of the semiconductor nanoparticles.
+</P>
+<P>
+2. The method of claim 1, wherein the method includes the step of:
+</P>
+<P>
+separating the semiconductor nanoparticles dispersed in the solvent via centrifugation.
+</P>
+<P>
+3. The method of claim 1 or 2, wherein the method includes the step of:
+</P>
+<P>
+separating the semiconductor nanoparticles dispersed in the solvent via centrifugation after a dispersion liquid is concentrated.
+</P>
+<P>
+4. The method of claim 3, wherein the method includes the step of:
+</P>
+<P>
+separating the semiconductor nanoparticles dispersed in the solvent via centrifugation after the dispersion liquid is concentrated by vacuum drying.
+</P>
+<P>
+5. The semiconductor nanoparticle produced by the method of any one of claims 1 to 4, wherein the semiconductor nanoparticle has a core/shell structure.
+</P>
+</Claims>
+<Also_published_as>
+US2009263659A1;WO2008032619A1
+</Also_published_as>
+</BiblioData>

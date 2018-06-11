@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MAGNETIC NANOPARTICLES, MAGNETIC AND FLUORESCENT NANOCOMPOSITE, AND FORMATION OF MAGHEMITE BY OXIDIZING IRON STEARATE WITH METHYLMORPHOLINE N- OXIDE
+</Title>
+<PublicationNumber>
+EP2173663A1
+</PublicationNumber>
+<Inventor>
+<Name>
+YING JACKIE Y [SG]
+</Name>
+<Name>
+SELVAN SUBRAMANIAN TAMIL [SG]
+</Name>
+<Name>
+YING, JACKIE Y
+</Name>
+<Name>
+SELVAN, SUBRAMANIAN TAMIL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+AGENCY SCIENCE TECH &amp; RES [SG]
+</Name>
+<Name>
+AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2173663
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080767307
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-06-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008SG00229
+</PriorityNumber>
+<PriorityDate>
+2008-06-27
+</PriorityDate>
+<PriorityNumber>
+US20070929438P
+</PriorityNumber>
+<PriorityDate>
+2007-06-27
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C01G49/06
+</Class>
+<Class>
+C09K11/08
+</Class>
+<Class>
+C09K11/54
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C01G49/00
+</Class>
+<Class>
+C01G49/06
+</Class>
+<Class>
+C09K11/88B2
+</Class>
+</NCL>
+<Abstract>
+Maghemite (?-Fe2O3)is formed by oxidizing iron stearate with methylmorpholine N-oxide (MNO). A mixture comprising iron stearate, MNO, a surfactant, and a solvent may be heated to maintain the mixture at a temperature of about 280 to about 320  DEG C for a sufficient period to form magnetic nanoparticles comprise maghemite. After heating, the mixture may be cooled to limit growth in size of the nanoparticles. The mixture may be heated for a period of about 15 minutes to about 30 minutes, such as about 15 minutes. The process may be adapted to also form quantum dots, and to form magnetic quantum dot (MQD) nanoparticles in an integrated process.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method of forming maghemite, comprising: oxidizing iron stearate (Fe(St)2) with methylmorpholine N-oxide (MNO), to form maghemite (Y-Fe2O3).
+</P>
+<P>
+2. The method of claim 1 , wherein said oxidizing comprises heating a mixture comprising said iron stearate, said MNO, a surfactant, and a solvent to maintain said mixture at a temperature of about 280 to about 320 &amp;lt;0&amp;gt;C for a sufficient period to form magnetic nanoparticles comprising said maghemite; and wherein said method comprises, after said heating, cooling said mixture to limit growth in size of said nanoparticles.
+</P>
+<P>
+3. The method of claim 2, wherein said temperature is about 300 &amp;lt;0&amp;gt;C.
+</P>
+<P>
+4. The method of claim 2 or claim 3, wherein said period is from about 15 to about 30 minutes.
+</P>
+<P>
+5. The method of claim 4, wherein said period is about 15 minutes.
+</P>
+<P>
+6. The method of claim any one of claims 2 to 5, wherein said mixture is heated under an argon gas.
+</P>
+<P>
+7. The method of any one of claims 2 to 6, wherein said surfactant comprises octadeylamine (ODA).
+</P>
+<P>
+8. The method of any one of claims 2 to 7, wherein said solvent is octadecene (ODE).
+</P>
+<P>
+9. The method of any one of claims 2 to 8, wherein a weight ratio of said iron stearate to said MNO in said mixture is about 1 :1 to about 2:1.
+</P>
+<P>
+10. The method of claim 9, wherein said weight ratio of said iron stearate to said MNO in said mixture is about 2.3:1.
+</P>
+<P>
+11.The method of any one of claims 2 to 10, wherein a weight ratio of said iron stearate to said surfactant in said mixture is about 2.3:1.
+</P>
+<P>
+12. The method of any one of claims 2 to 11 , wherein said cooling comprises cooling said mixture to a temperature of about 30 to about 40 &amp;lt;0&amp;gt;C.
+</P>
+<P>
+13. The method of any one of claims 2 to 12, comprising, after said cooling, washing said nanoparticles with a solution comprising cyclohexane and acetone.
+</P>
+<P>
+14. The method of any one of claims 2 to 11 , wherein said mixture further comprises cadmium stearate (Cd(St)2).
+</P>
+<P>
+15. The method of claim 14, wherein said surfactant comprises trioctylphosphine oxide (TOPO).
+</P>
+<P>
+16. The method of claim 14 or claim 15, wherein said cadmium stearate is formed by reacting cadmium oxide (CdO) with a stearic acid.
+</P>
+<P>
+17. The method of claim 16, wherein said mixture initially comprises CdO and said stearic acid, and a molar ratio of CdO to Fe(St)2 in said mixture is from about 10:1 to about 2:1.
+</P>
+<P>
+18. The method of claim 17, wherein said molar ratio of CdO to Fe(St)2 in said mixture is from about 10:1 to about 5:1.
+</P>
+<P>
+19. The method of any one of claims 14 to 18, comprising, subsequent to said cooling: adding Selenium (Se) to said mixture to react said Cd(St)2 with said Se to form CdSe quantum dots (QD); dissolving said nanoparticles and said QD in a first solvent; re-precipitating said nanoparticles and said QD in a second solvent to form a nanocomposite comprising both said maghemite and said QD.
+</P>
+<P>
+20. The method of claim 19, wherein said temperature is about 300 &amp;lt;0&amp;gt;C, and said cooling comprises cooling said mixture to a temperature of about 280 &amp;lt;0&amp;gt;C.
+</P>
+<P>
+21.The method of claim 19 or claim 20, wherein said first solvent is chloroform, and said second solvent is methanol.
+</P>
+<P>
+22. The method of any one of claims 19 to 21 , wherein said Se is dissolved in trioctylphosphine (TOP) prior to being added to said mixture.
+</P>
+<P>
+23.A composite comprising:
+</P>
+<P>
+a particle comprising maghemite and a CdSe quantum dot and having an average particle size of less than 100 nm,
+</P>
+<P>
+said composite being magnetic and exhibiting a fluorescence quantum yield of above 18 %.
+</P>
+<P>
+24. The composite of claim 23, wherein said quantum yield is about 42%.
+</P>
+<P>
+25. The composite of claim 23 or claim 24, wherein said average particle size is less than about 10 nm.
+</P>
+<P>
+26. The composite of any one of claims 23 to 25, comprising a plurality of magnetic and fluorescent particles.
+</P>
+<P>
+27. The composite of any one of claims 23 to 26, wherein said particle is formed according to the method of any one of claims 19 to 22.
+</P>
+<P>
+28. Nanoparticles comprising maghemite formed according to the method of any one of claims 1 to 22.
+</P>
+</Claims>
+<Also_published_as>
+WO2009002275A1;US2010167057A1
+</Also_published_as>
+</BiblioData>

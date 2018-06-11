@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Spatially addressable oligonucleotide arrays and method of making the same
+</Title>
+<PublicationNumber>
+EP1958955A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BARANY GEORGE [US]
+</Name>
+<Name>
+BARANY FRANCIS [US]
+</Name>
+<Name>
+HAMMER ROBERT P [US]
+</Name>
+<Name>
+KEMPE MARIA [US]
+</Name>
+<Name>
+BLOK HERMAN [NL]
+</Name>
+<Name>
+ZIRVI MONIB [US]
+</Name>
+<Name>
+BARANY, GEORGE
+</Name>
+<Name>
+BARANY, FRANCIS
+</Name>
+<Name>
+HAMMER, ROBERT P
+</Name>
+<Name>
+KEMPE, MARIA
+</Name>
+<Name>
+BLOK, HERMAN
+</Name>
+<Name>
+ZIRVI, MONIB
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CORNELL RES FOUNDATION INC [US]
+</Name>
+<Name>
+UNIV MINNESOTA [US]
+</Name>
+<Name>
+UNIV LOUISIANA STATE [US]
+</Name>
+<Name>
+CORNELL RESEARCH FOUNDATION, INC
+</Name>
+<Name>
+REGENTS OF THE UNIVERSITY OF MINNESOTA
+</Name>
+<Name>
+LOUISIANA STATE UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1958955
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070075987
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+1997-02-05
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP19970922283
+</PriorityNumber>
+<PriorityDate>
+1997-02-05
+</PriorityDate>
+<PriorityNumber>
+US19960011359P
+</PriorityNumber>
+<PriorityDate>
+1996-02-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+C07H21/00
+</Class>
+<Class>
+C07H21/04
+</Class>
+<Class>
+C12M1/00
+</Class>
+<Class>
+C12N15/09
+</Class>
+<Class>
+C12P19/34
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+C40B40/06
+</Class>
+<Class>
+C40B60/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12Q1/68B10A
+</Class>
+<Class>
+C40B20/02
+</Class>
+<Class>
+C40B50/14
+</Class>
+</NCL>
+<Abstract>
+The present invention describes a method for identifying one or more of a plurality of sequences differing by one or more single base changes, insertions, deletions, or translocations in a plurality of target nucleotide sequences. The method includes a ligation phase, a capture phase, and a detection phase. The ligation phase utilizes a ligation detection reaction between one oligonucleotide probe, which has a target sequence-specific portion and an addressable array-specific portion, and a second oligonucleotide probe, having a target sequence-specific portion and a detectable label. After the ligation phase, the capture phase is carried out by hybridizing the ligated oligonucleotide probes to a solid support with an array of immobilized capture oligonucleotides at least some of which are complementary to the addressable array-specific portion. Following completion of the capture phase, a detection phase is carried out to detect the labels of ligated oligonucleotide probes hybridized to the solid support. The ligation phase can be preceded by an amplification process. The present invention also relates to a kit for practicing this method, a method of forming arrays on solid supports, and the supports themselves.
+</Abstract>
+<Claims>
+<P>
+1. A method of forming arrays of oligonucleotides on a solid support comprising:
+</P>
+<P>
+providing a solid support having an array of positions each suitable for attachment of an oligonucleotide;
+</P>
+<P>
+attaching to the solid support a surface or linker, suitable for coupling an oligonucleotide to the solid support, at each of the array positions; and
+</P>
+<P>
+forming the array of a plurality of capture oligonucleotides on the solid support by a series of cycles of activating selected array positions for attachment of multimer nucleotides and attaching multimer nucleotides at the activated array positions.
+</P>
+<P>
+2. A method according to claim 1, wherein said forming comprises:
+</P>
+<P>
+applying a multimer nucleotide along parallel rows of the solid support;
+</P>
+<P>
+turning the support 90 degrees;
+</P>
+<P>
+attaching a multimer nucleotide along parallel rows of the solid support to form oligonucleotides at row intersections having 2 sets of multimer nucleotides; and
+</P>
+<P>
+repeating said applying, turning, and attaching until the oligonucleotides at the row intersections have 6 sets of multimer nucleotides.
+</P>
+<P>
+3. A method according to claim 1, wherein the solid support is made from a material selected from the group consisting of plastic, ceramic, metal, resin, gel, glass, silicon, and composites thereof.
+</P>
+<P>
+4. A method according to claim 1, wherein the solid support is in a form selected from the group consisting of slides, discs, membranes, films, and composites thereof.
+</P>
+<P>
+5. A method according to claim 1, wherein the solid support has an array of positions with the plurality of capture oligonucleotides having different nucleotide sequences.
+</P>
+<P>
+6. A method according to claim 5, wherein the solid support has wells, raised regions, or etched trenches.
+</P>
+<P>
+7. A method according to claim 6, wherein the solid support is in the form of a microtiter plate.
+</P>
+<P>
+8. A method according to claim 1, wherein said attaching a linker comprises:
+</P>
+<P>
+silanizing a surface of the solid support.
+</P>
+<P>
+9. A method according to claim 1, wherein the solid support is functionalized with olefin, amino, hydroxyl, silanol, aldehyde, keto, halo, acyl halide, or carboxyl groups.
+</P>
+<P>
+10. A method according to claim 9, wherein the solid support is functionalized with an amino group by reaction with an amine compound selected from the group consisting of 3-aminopropyl triethoxysilane, 3-aminopropylmethyldiethoxysilane, 3-aminopropyl dimethylethoxysilane, 3-aminopropyl trimethoxysilane, N-(2-aminoethyl)-3-aminopropylmethyl dimethoxysilane, N-(2-aminoethyl-3-aminopropyl) trimethoxysilane, aminophenyl trimethoxysilane, 4-aminobutyldimethyl methoxysilane, 4-aminobutyl triethoxysilane, aminoethylaminomethylphenethyl trimethoxysilane, and mixtures thereof.
+</P>
+<P>
+11. A method according to claim 9, wherein the solid support is functionalized with an olefin-containing silane.
+</P>
+<P>
+12. A method according to claim 11, wherein the olefin-containing silane is selected from the group consisting of 3-(trimethoxysilyl)propyl methacrylate, N-[3-(trimethoxysilyl)propyl]-N&apos;-(4-vinylbenzyl)ethylenediamine, triethoxyvinylsilane, triethylvinylsilane, vinyltrichlorosilane, vinyltrimethoxysilane, vinyltrimethylsilane, and mixtures thereof.
+</P>
+<P>
+13. A method according to claim 11, wherein the silanized support is polymerized with an olefin containing monomer.
+</P>
+<P>
+14. A method according to claim 13, wherein the olefin-containing monomer contains a functional group.
+</P>
+<P>
+15. A method according to claim 14, wherein the olefin-containing monomer is selected from the group consisting of acrylic acid, methacrylic acid, vinylacetic acid, 4-vinylbenzoic acid, itaconic acid, allyl amine, allylethylamine, 4-aminostryrene, 2-aminoethyl methacrylate, acryloyl chloride, methacryloyl chloride, chlorostyrene, dichlorostyrene, 4-hydroxystyrene, hydroxymethylstyrene, vinylbenzyl alcohol, allyl alcohol, 2-hydroxyethyl methacrylate, poly(ethylene glycol) methacrylate, and mixtures thereof.
+</P>
+<P>
+16. A method according to claim 13, wherein the support is polymerized with a monomer selected from the group consisting of acrylic acid, acrylamide, methacrylic acid, vinylacetic acid, 4-vinylbenzoic acid, itaconic acid, allyl amine, allylethylamine, 4-aminostyrene, 2-aminoethyl methacrylate, acryloyl chloride, methacryloyl chloride, chlorostyrene, dischlorostyrene, 4-hydroxystyrene, hydroxymethyl styrene, vinylbenzyl alcohol, allyl alcohol, 2-hydroxyethyl methacrylate, poly(ethylene glycol) methacrylate, and mixtures thereof, together with a monomer selected from the group consisting of acrylic acid, methacrylic acid, vinylacetic acid, 4-vinylbenzoic acid, itaconic acid, allyl amine, allylethylamine, 4-aminostyrene, 2-aminoethyl methacrylate, acryloyl chloride, methacryloyl chloride, chlorostyrene, dichlorostyrene, 4-hydroxystyrene, hydroxymethyl styrene, vinylbenzyl alcohol, allyl alcohol, 2-hydroxyethyl methacrylate, poly(ethylene glycol) methacrylate, methyl acrylate, methyl methacrylate, ethyl acrylate, ethyl methacrylate, styrene, 1-vinylimidazole, 2-vinylpyridine, 4-vinylpyridine, divinylbenzene, ethylene glycol dimethacrylate, N,N&apos;-methylenediacrylamide, N,N&apos;-phenylenediacrylamide, 3,5-bis(acryloylamido) benzoic acid, pentaerythritol triacrylate, trimethylolpropane trimethacrylate, pentaerytrithol tetraacrylate, trimethylolpropane ethoxylate (14/3 EO/OH) triacrylate, trimethylolpropane ethoxylate (7/3 EO/OH) triacrylate, trimethylolpropane propoxylate (1 PO/OH) triacrylate, trimethylolpropane propoxylate (2 PO/OH) triacrylate, and mixtures thereof.
+</P>
+<P>
+17. A method according to claim 11, wherein said forming comprises:
+</P>
+<P>
+photolithographically masking the solid support;
+</P>
+<P>
+photochemically deprotecting the linker or outermost nucleotides attached to the solid support at unmasked array positions; and
+</P>
+<P>
+adding nucleotides with a photoactivatable protecting group at photochemically deprotected array positions.
+</P>
+<P>
+18. A method according to claim 105, wherein the photoactivable protecting group is selected from the group consisting of nitroveratryloxycarbonyl, o-nitrobenzyloxycarbonyl, fluorenylmethoxycarbonyl, dimethyl-dimethoxybenzyloxycarbonyl, oxymethyleneanthraquinone, and mixtures thereof.
+</P>
+<P>
+19. A method according to claim 17, wherein the protecting group protects the nucleotides at their 3&apos; or 5&apos; ends.
+</P>
+<P>
+20. A method according to claim 17 further comprising:
+</P>
+<P>
+washing the solid support after said photochemically deprotecting and said adding.
+</P>
+<P>
+21. A method according to claim 1, wherein the surface or linker is non-hydrolyzable.
+</P>
+<P>
+22. A method according to claim 1, wherein the solid support has an array of positions with the plurality of capture oligonucleotides having the same nucleotide sequences.
+</P>
+<P>
+23. A method according to claim 5, wherein each capture oligonucleotide differs from its adjacent capture oligonucleotide on the array by at least 25% of the nucleotides.
+</P>
+<P>
+24. A method according to claim 5 , wherein each capture oligonucleotide is separated from adjacent capture oligonucleotides by barrier oligonucleotides which are shorter than the capture oligonucleotides.
+</P>
+<P>
+25. A method according to claim 1, wherein said method is carried out with a device having a plurality of chambers having separate valves on separate connections to a source of the multimer nucleotides and to a source of vacuum, said method further comprising:
+</P>
+<P>
+orienting the device and the solid support for application of the multimer nucleotides to the solid support;
+</P>
+<P>
+opening the valve to the source of vacuum to seal the chambers of the device against the solid support;
+</P>
+<P>
+closing the valve to the source of vacuum;
+</P>
+<P>
+opening the valve to the source of multimer nucleotides to supply the multimer nucleotides to the chambers for the attaching of multimer nucleotides at the activated array positions; and
+</P>
+<P>
+closing the valve to the source of multimer nucleotides after the attaching.
+</P>
+<P>
+26. A method according to claim 25, wherein the device has the chambers separately along rows and columns of the array.
+</P>
+<P>
+27. A method according to claim 25, wherein the device has the chambers along rows of the array.
+</P>
+<P>
+28. A method according to claim 25, wherein the chambers are configured to deliver multimer nucleotides a precise column positions.
+</P>
+<P>
+29. A method according to claim 25, wherein said forming comprises:
+</P>
+<P>
+applying a multimer nucleotide along parallel rows of the solid support;
+</P>
+<P>
+turning the support 90 degrees;
+</P>
+<P>
+attaching a multimer nucleotide along parallel rows of the solid support to form oligonucleotides at row intersections having 2 sets of multimer nucleotides by said opening the valve to the source of vacuum, said closing the valve to the source of vacuum, said opening the valve to the source of multimer nucleotides, and said closing the valve to the source of multimer nucleotides; and
+</P>
+<P>
+repeating said applying, turning, and attaching until the oligonucleotides are formed at the row intersections.
+</P>
+<P>
+30. A method according to claim 25, wherein said device comprises a valve block assembly with plural input ports leading to sources of multimer nucleotides and plural output ports leading to chambers.
+</P>
+<P>
+31. A method according to claim 30, wherein the valve block assembly is cylindrical and has 2 adjacent rotatable portions which can be positioned relative to one another to connect selectively the input and output ports.
+</P>
+<P>
+32. An array of oligonucleotides on a solid support comprising:
+</P>
+<P>
+a solid support having an array of positions each suitable for attachment of an oligonucleotide;
+</P>
+<P>
+a linker or support suitable for coupling an oligonucleotide to the solid support attached to the solid support at each of the array positions;
+</P>
+<P>
+and an array of oligonucleotides on the solid support with at least some of the array positions being occupied by oligonucleotides having greater than sixteen nucleotides.
+</P>
+<P>
+33. An array according to claim 32, wherein different oligonucleotides are attached at different array positions on the solid support to detect different nucleic acids.
+</P>
+<P>
+34. An array according to claim 32 wherein the solid support is made from a material selected from the group consisting of plastic, ceramic, metal, resin, gel, glass, silicon, and composites thereof.
+</P>
+<P>
+35. An array according to claim 32, wherein the solid support is in a form selected from the group consisting of slides, discs, membranes, films, and composites thereof.
+</P>
+<P>
+36. An array according to claim 32, wherein the solid support has an array of positions with oligonucleotides attached to the array of positions.
+</P>
+<P>
+37. An array according to claim 36, wherein the solid support has wells, raised regions, or etched trenches.
+</P>
+<P>
+38. An array according to claim 37, wherein the solid support is in a microtiter plate.
+</P>
+<P>
+39. An array according to claim 32, wherein the linker comprises a silane on a surface of the solid support.
+</P>
+<P>
+40. An array according to claim 32, wherein the solid support is functionalized with olefin, amino, hydroxyl, silanol, aldehyde, keto, halo, acyl halide, or carboxyl groups.
+</P>
+<P>
+41. An array according to claim 40, wherein the solid support is functionalized with an amino group by reaction with an amine compound selected from the group consisting of 3-aminopropyl triethoxysilane, 3-aminopropylmethyldiethoxysilane, 3-aminopropyl dimethylethoxysilane, 3-aminopropyl trimethoxysilane, N-(2-aminoethyl)-3-aminopropylmethyl dimethoxysilane, N-(2-aminoethyl-3-aminopropyl) trimethoxysilane, aminophenyl trimethoxysilane, 4-aminobutyldimethyl methoxysilane, 4-aminobutyl triethoxysilane, aminoethylaminomethylphenethyl trimethoxysilane, and mixtures thereof.
+</P>
+<P>
+42. An array according to claim 40, wherein the solid support is functionalized with an olefin-containing silane.
+</P>
+<P>
+43. An array according to claim 42, wherein the olefin-containing silane is selected from the group consisting of 3-(trimethoxysilyl)propyl methacrylate, N-[3-(trimethoxysilyl)propyl]-N&apos;-(4-vinylbenzyl)ethylenediamine, triethoxyvinylsilane, triethylvinylsilane, vinyltrichlorosilane, vinyltrimethoxysilane, vinyltrimethylsilane, and mixtures thereof.
+</P>
+<P>
+44. An array according to claim 42, wherein the silanized support is polymerized with an olefin containing monomer.
+</P>
+<P>
+45. An array according to claim 44, wherein the olefin-containing monomer contains a functional group.
+</P>
+<P>
+46. An array according to claim 45, wherein the olefin-containing monomer is selected from the group consisting of acrylic acid, methacrylic acid, vinylacetic acid, 4-vinylbenzoic acid, itaconic acid, allyl amine, allylethylamine, 4-aminostyrene, 2-aminoethyl methacrylate, acryloyl chloride, methacryloyl chloride, chlorostyrene, dichlorostyrene, 4-hydroxystyrene, hydroxymethylstyrene, vinylbenzyl alcohol, allyl alcohol, 2-hydroxyethyl methacrylate, poly(ethylene glycol) methacrylate, and mixtures thereof.
+</P>
+<P>
+47. An array according to claim 44, wherein the support is polymerized with a monomer selected from the group consisting of acrylic acid, acrylamide, methacrylic acid, vinylacetic acid, 4-vinylbenzoic acid, itaconic acid, allyl amine, allylethylamine, 4-aminostyrene, 2-aminoethyl methacrylate, acryloyl chloride, methacryloyl chloride, chlorostyrene, dichlorostyrene, 4-hydroxystyrene, hydroxymethyl styrene, vinylbenzyl alcohol, allyl alcohol, 2-hydroxyethyl methacrylate, poly(ethylene glycol) methacrylate, and mixtures thereof, together with a monomer selected from the group consisting of acrylic acid, methacrylic acid, vinylacetic acid, 4-vinylbenzoic acid, itaconic acid, allyl amine, allylethylamine, 4-aminostyrene, 2-aminoethyl methacrylate, acryloyl chloride, methacryloyl chloride, chlorostyrene, dichlorostyrene, 4-hydroxystyrene, hydroxymethyl styrene, vinylbenzyl alcohol, allyl alcohol, 2-hydroxyethyl methacrylate, poly(ethylene glycol) methacrylate, methyl acrylate, methyl methacrylate, ethyl acrylate, ethyl methacrylate, styrene, 1-vinylimidazole, 2-vinylpyridine, 4-vinylpyridine, divinylbenzene, ethylene glycol dimethacrylate, N,N&apos;-methylenediacrylamide, N,N&apos;-phenylenediacrylamide, 3,5-bis(acryloylamido) benzoic acid, pentaerythritol triacrylate, trimethylolpropane trimethacrylate, pentaerytrithol tetraacrylate, trimethylolpropane ethoxylate (14/3 EO/OH) triacrylate, trimethylolpropane ethoxylate (7/3 EO/OH) triacrylate, trimethylolpropane propoxylate (1 PO/OH) triacrylate, trimethylolpropane propoxylate (2 PO/OH) triacrylate, and mixtures thereof.
+</P>
+<P>
+48. An array according to claim 32, wherein the linker or support is non-hydrolyzable.
+</P>
+<P>
+49. An array according to claim 32, wherein the array is reusable for repeatedly hybridizing oligonucleotides to the array of oligonucleotides on the solid support.
+</P>
+</Claims>
+<Also_published_as>
+WO9731256A2;JP2011154043A;JP2008064765A;JP2001519648A;EP0920440A2;EP0920440A4;EP2368897A1;EP2332957A1;EP2332958A1;CA2244891A1;CA2244891C;AU2799797A;AU735440B2
+</Also_published_as>
+</BiblioData>

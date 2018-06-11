@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+REFLECTIVE MASK BLANK FOR EUV LITHOGRAPHY
+</Title>
+<PublicationNumber>
+EP2010963A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HAYASHI KAZUYUKI [JP]
+</Name>
+<Name>
+KADOWAKI KAZUO [JP]
+</Name>
+<Name>
+SUGIYAMA TAKASHI [JP]
+</Name>
+<Name>
+MIKAMI MASAKI [JP]
+</Name>
+<Name>
+HAYASHI, KAZUYUKI
+</Name>
+<Name>
+KADOWAKI, KAZUO
+</Name>
+<Name>
+SUGIYAMA, TAKASHI
+</Name>
+<Name>
+MIKAMI, MASAKI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASAHI GLASS CO LTD [JP]
+</Name>
+<Name>
+ASAHI GLASS COMPANY, LIMITED
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2010963
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070742437
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-19
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP59002
+</PriorityNumber>
+<PriorityDate>
+2007-04-19
+</PriorityDate>
+<PriorityNumber>
+JP20060117992
+</PriorityNumber>
+<PriorityDate>
+2006-04-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/22
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F1/22
+</Class>
+<Class>
+G03F1/24
+</Class>
+</NCL>
+<Abstract>
+To provide a reflective mask blank for EUV lithography having an absorber layer, which presents a low reflectance to a light in the wavelength ranges of EUV light and pattern inspection light, and which is easily controlled to have desired film composition and film thickness. A reflective mask blank for EUV lithography, comprising a substrate, and a reflective layer for reflecting EUV light and an absorber layer for absorbing EUV light formed in this order on the substrate, wherein the absorber layer contains tantalum (Ta), boron (B), silicon (Si) and nitrogen (N), and in the absorber layer, the B content is at least 1 at% and less than 5 at%, the Si content is from 1 to 25 at%, and the compositional ratio of Ta to N (Ta:N) is from 8:1 to 1:1.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A reflective mask blank for EUV lithography, comprising a substrate, and a reflective layer for reflecting EUV light and an absorber layer for absorbing EUV light formed in this order on the substrate, wherein the absorber layer contains tantalum (Ta) , boron (B) , silicon (Si) and nitrogen (N) , and in the absorber layer, the B content is at least 1 at% and less than 5 at%, the Si content is from 1 to 25 at%, and the compositional ratio of Ta to N (Ta:N) is from 8:1 to 1:1.
+</P>
+<P>
+2. A reflective mask blank for EUV lithography, comprising a substrate, and a reflective layer for reflecting EUV light and an absorber layer for absorbing EUV light formed in this order on the substrate, wherein the absorber layer contains tantalum (Ta) , boron (B) , silicon (Si) and nitrogen (N) , and the absorber layer is in an amorphous state .
+</P>
+<P>
+3. The reflective mask blank for EUV lithography according to Claim 1 or 2, wherein the surface roughness on the surface of the absorber layer is at most 0.5 nm rms .
+</P>
+<P>
+4. The reflective mask blank for EUV lithography according to any one of Claims 1 to 3 , wherein a low reflective layer to inspection light to be used for inspection of a mask pattern, is formed on the absorber layer, the low reflective layer contains tantalum (Ta) , boron (B) , silicon (Si) and oxygen (O) , and in the low reflective layer, the B content is at least 1 at% and less than 5 at%, the Si content is from 1 to 25 at%, and the compositional ratio of Ta to 0 (Ta :0) is from 7:2 to 1:2. 5. The reflective mask blank for EUV lithography- according to any one of Claims 1 to 3, wherein a low reflective layer to inspection light to be used for inspection of a mask pattern, is formed on the absorber layer, the low reflective layer contains tantalum (Ta) , boron (B) , silicon (Si) , oxygen (0) and nitrogen (N) , and in the low reflective layer, the B content is at least 1 at% and less than 5 at%, the Si content is from 1 to 25 at%, and the compositional ratio of Ta to 0 and N (Ta: (0+N)) is from 7:2 to 1:2. 6. A reflective mask blank for EUV lithography comprising a substrate, and a reflective layer for reflecting EUV light, an absorber layer for absorbing EUV light and a low reflective layer to inspection light to be used for inspection of a mask pattern, are formed in this order on the substrate, wherein the low reflective layer contains tantalum (Ta) , boron (B) , silicon (Si) and oxygen (0) , and in the low reflective layer, the B content is at least 1 at% and less than 5 at%, the Si content is from 1 to 25 at%, and the compositional ratio of Ta to 0 (Ta :0) is from 7:2 to 1:2.
+</P>
+<P>
+7. A reflective mask blank for EUV lithography comprising a substrate, and a reflective layer for reflecting EUV light, an absorber layer for absorbing EUV light and a low reflective layer to inspection light to be used for inspection of a mask pattern, are formed in this order on the substrate, wherein the low reflective layer contains tantalum (Ta) , boron (B) , silicon (Si) , oxygen (0) and nitrogen (N) , and in the low reflective layer, the B content is at least 1 at% and less than 5 at%, the Si content is from 1 to 25 at%, and the compositional ratio of Ta to 0 and N (Ta: (0+N)) is from 7:2 to 1:2.
+</P>
+<P>
+8. The reflective mask blank for EUV lithography according to any one of -. Claims 4 to 7, wherein the surface roughness on the surface of the low reflective layer is at most 0.5 nm rms . 9. The reflective mask blank for EUV lithography according to any one of Claims 4 to 8, wherein the low reflective layer has a thickness of from 5 to 30 nm. 10. The reflective mask blank for UEV lithography according to any one of Claims 4 to 9, wherein a protective layer for protecting the reflective layer at the time of forming a pattern on the absorber layer is formed between the reflective layer and the absorber layer, and the contrast is at least 30% as between the reflected light on the surface of the protective layer and the reflected light on the surface of the low reflective layer at a wavelength of light to be used for inspection of a pattern to be formed on the absorber layer .
+</P>
+<P>
+11. The reflective mask blank for EUV lithography- according to Claim 10, wherein the protective layer is formed by any one of a Ru compound, SiO2 and CrN. 12. The reflective mask blank for EUV lithography according to any one of Claims 4 to 11, wherein the reflectance on the surface of the low reflective layer is at most 15% at a wavelength of light to be used for inspection of a pattern to be formed on the absorber layer.
+</P>
+<P>
+13. The reflective mask blank for EUV lithography according to any one of Claims 1 to 3 , wherein the absorber layer is formed by sputtering using a TaBSi compound target in an atmosphere containing nitrogen. 14. The reflective mask blank for EUV- lithography according to Claim 13, wherein the TaBSi compound target has a composition of Ta=50 to 94 at%, Si=5 to 30 at% and B=I to 20 at%.
+</P>
+<P>
+15. The reflective mask blank for EUV lithography &amp;lt;-&amp;gt; according to any one of Claims 4 to 7, wherein the low reflective layer is formed by sputtering using a TaBSi compound target in an atmosphere containing oxygen.
+</P>
+<P>
+16. The reflective mask blank for EUV lithography according to Claim 15, wherein the TaBSi compound target has a composition of Ta=50 to 94 at%, Si=5 to 30 at% and B=I to 20 at%.
+</P>
+</Claims>
+<Also_published_as>
+EP2010963B1;WO2007123263A1;US2009011341A1;US7906259B2;TW200807144A;KR20080113422A;AT546759T
+</Also_published_as>
+</BiblioData>

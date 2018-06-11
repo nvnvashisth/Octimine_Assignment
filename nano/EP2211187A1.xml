@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Method of actuating a system, apparatus for modifying a control signal for actuation of a system and method of tuning such an apparatus
+</Title>
+<PublicationNumber>
+EP2211187A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DANZEBRINK HANS-ULRICH DR [DE]
+</Name>
+<Name>
+HIDAKA KAZUHIKO [NL]
+</Name>
+<Name>
+ILLERS HARTMUT [DE]
+</Name>
+<Name>
+SAITO AKINORI [JP]
+</Name>
+<Name>
+ILLERS, HARTMUT
+</Name>
+<Name>
+DANZEBRINK, HANS-ULRICH DR
+</Name>
+<Name>
+HIDAKA, KAZUHIKO
+</Name>
+<Name>
+SAITO, AKINORI
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MITUTOYO CORP [JP]
+</Name>
+<Name>
+BUNDESREPUBLIK DEUTSCHLAND END [DE]
+</Name>
+<Name>
+MITUTOYO CORPORATION
+</Name>
+<Name>
+BUNDESREPUBLIK DEUTSCHLAND ENDVERTRETEN DURCH DENPRAESIDENTEN DER PHYSIKALISCH-TECHNISCHEN BUNDESANS
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2211187
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090000438
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2009-01-14
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20090000438
+</PriorityNumber>
+<PriorityDate>
+2009-01-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01D3/036
+</Class>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G11B5/55
+</Class>
+<Class>
+H02N11/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01D3/036B
+</Class>
+<Class>
+G01Q10/06
+</Class>
+</NCL>
+<Abstract>
+A method of actuating a system comprising a movable component and an actuator configured to move the movable component comprises providing a control signal representative of a desired motion of the movable component. The control signal is supplied to one or more resonators. Each of the one or more resonators has a mode of oscillation representative of at least one elastic mode of oscillation of the system. The control signal is modified by subtracting from the control signal a signal representative of a response of the one or more resonators to the control signal. The actuator is operated in accordance with the modified control signal. Thus, undesirable elastic oscillations of the system which might occur if the system were operated with the original control system can be reduced.
+</Abstract>
+<Claims>
+<P>
+1. A method of actuating a system comprising a movable component and an actuator configured to move said movable component, comprising:
+</P>
+<P>
+providing a control signal representative of a desired motion of said movable component;
+</P>
+<P>
+supplying said control signal to one or more resonators, each of said one or more resonators having a mode of oscillation representative of at least one elastic mode of oscillation of said system;
+</P>
+<P>
+modifying said control signal by subtracting from said control signal one or more signals representative of a response of said one or more resonators to said control signal; and
+</P>
+<P>
+operating said actuator in accordance with said modified control signal.
+</P>
+<P>
+2. A method as in claim 1, further comprising adjusting at least one of an amplitude and a phase of an output signal of each of said resonators to create an adjusted output signal of each of said resonators and subtracting said adjusted output signals from said control signal to create said modified control signal.
+</P>
+<P>
+3. A method as in claim 1 or 2, wherein at least one of said one or more resonators is tuned to have a resonance frequency equal to a resonance frequency of a respective one of said elastic modes of oscillation.
+</P>
+<P>
+4. A method as in claim 3, wherein said at least one of said one or more resonators is tuned to have a Q-factor equal to a Q-factor of a respective one of said elastic modes of oscillation.
+</P>
+<P>
+5. A method as in any of claims 1 to 4, wherein at least one of said one or more resonators is tuned to have a resonance frequency within a frequency band comprising two or more of said elastic modes of oscillation and to have a bandwidth equal to or greater than a width of said frequency band.
+</P>
+<P>
+6. A method as in any of claims 1 to 5, further comprising measuring at least one of a frequency and a Q-factor of one or more elastic modes of oscillation of said system.
+</P>
+<P>
+7. An apparatus for modifying a control signal for actuation of a system comprising a movable component and an actuator configured to move said movable component, said apparatus comprising:
+</P>
+<P>
+one or more resonators, each of said one or more resonators being tunable to have a mode of oscillation representative of at least one elastic mode of oscillation of said system;
+</P>
+<P>
+an input section adapted to receive said control signal and to supply said control signal to said one or more resonators;
+</P>
+<P>
+a subtractor adapted to create a modified control signal by subtracting from said control signal one or more signals representative of a response of said one or more resonators to said control signal; and
+</P>
+<P>
+an output section adapted to output said modified control signal.
+</P>
+<P>
+8. An apparatus as in claim 7, wherein each of said one or more resonators comprises an analog resonator circuit.
+</P>
+<P>
+9. An apparatus as in claim 7, wherein each of said one or more resonators comprises a virtual resonator provided by a digital filter circuit.
+</P>
+<P>
+10. An apparatus as in any of claims 7 to 9, further comprising a regulating section adapted for receiving an output signal from each of said one or more resonators, for adjusting at least one of an amplitude and a phase of said output signal and for supplying said adjusted output signals to said subtractor.
+</P>
+<P>
+11. An apparatus according to any of claims 7 to 10, wherein each of said one or more resonators comprises means for tuning at least one of a frequency of oscillation and a Q-factor of said resonator.
+</P>
+<P>
+12. A method of adjusting the one or more resonators of an apparatus according to any of claims 7 to 11, comprising:
+</P>
+<P>
+providing a system comprising a movable component and an actuator configured to move said movable component;
+</P>
+<P>
+operating said actuator in accordance with a predetermined control signal;
+</P>
+<P>
+measuring a motion of at least a portion of said movable component in response to said operation of said actuator;
+</P>
+<P>
+determining elastic modes of oscillation of said system on the basis of said measured motion;
+</P>
+<P>
+tuning said one or more resonators such that each resonator is excitable at a frequency of at least one of said elastic modes of oscillation of said system.
+</P>
+<P>
+13. A method as in claim 12, wherein at least one of said one or more resonators is tuned to have a resonance frequency equal to a resonance frequency of a respective one of said elastic modes of oscillation.
+</P>
+<P>
+14. A method as in claim 13, wherein at least one of said one or more resonators is tuned to have a Q-factor equal to a Q-factor of a respective one of said elastic modes of oscillation.
+</P>
+<P>
+15. A method as in any of claims 12 to 14, wherein at least one of said one or more resonators is tuned to have a frequency within a frequency band comprising two or more of said elastic modes of oscillation and to have a bandwidth equal to or greater than a width of said frequency band.
+</P>
+</Claims>
+<Also_published_as>
+US2011004326A1;JP2010164560A
+</Also_published_as>
+</BiblioData>

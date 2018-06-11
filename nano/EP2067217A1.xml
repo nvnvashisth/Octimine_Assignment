@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ELECTRICALLY TUNABLE TERAHERTZ LASER OSCILLATION DEVICE
+</Title>
+<PublicationNumber>
+EP2067217A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SEKIGUCHI RYOTA [JP]
+</Name>
+<Name>
+OUCHI TOSHIHIKO [JP]
+</Name>
+<Name>
+SEKIGUCHI, RYOTA
+</Name>
+<Name>
+OUCHI, TOSHIHIKO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2067217
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070851121
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP75234
+</PriorityNumber>
+<PriorityDate>
+2007-12-20
+</PriorityDate>
+<PriorityNumber>
+JP20060344565
+</PriorityNumber>
+<PriorityDate>
+2006-12-21
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S1/02
+</Class>
+<Class>
+H01S5/0625
+</Class>
+<Class>
+H01S5/227
+</Class>
+<Class>
+H01S5/30
+</Class>
+<Class>
+H01S5/34
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S1/02
+</Class>
+<Class>
+H01S5/0625F
+</Class>
+<Class>
+H01S5/34A2
+</Class>
+</NCL>
+<Abstract>
+To provide an oscillation device having a long oscillation wavelength (THz) in which wavelength variable width is relatively broad and wavelength sweep rate is relatively high. An oscillation device includes a gain medium (103) having a gain with respect to an electromagnetic wave to be oscillated, cavity structures (104, 105) for resonating the electromagnetic wave, and energy injection means (121, 122A) and for injecting pumping energy into the gain medium. The gain medium is sandwiched between a first negative permittivity medium (102, 112) and a second magnetic permittivity medium (101, 111) each of which real part of permittivity with respect to the electromagnetic wave is negative.;  Electric field application means (122B) is provided for at least one of the first negative permittivity medium and the second negative permittivity medium to apply an electric field for changing a depletion region formed at a boundary part with the gain medium.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. An oscillation device including a gain medium having a gain with respect to an electromagnetic wave to be oscillated, a cavity structure for resonating the electromagnetic wave, and energy injection means for injecting pumping energy into the gain medium, wherein the gain medium is sandwiched between a first negative permittivity medium and a second negative permittivity medium, each of the first and second permittivity media being such that real part of permittivity thereof with respect to the electromagnetic wave is negative, and electric field application means is provided for at least one of the first negative permittivity medium and the second negative permittivity medium so as to apply an electric field for changing a depletion region formed at a boundary part with the gain medium. 2. The oscillation device according to claim 1, wherein the energy injection means is a first electrode provided on the first negative permittivity medium, and a second electrode provided on the second negative permittivity medium, and the electric field application means is a third electrode provided on at least one of the first negative permittivity medium and the second negative permittivity medium.
+</P>
+<P>
+3. The oscillation device according to claim 1 or 2, wherein the cavity structure is configured so as to include a waveguide for propagating the electromagnetic wave, the gain medium extends along a propagation direction of the electromagnetic wave, and is sandwiched between a first clad of the first negative permittivity medium and a second clad of the second negative permittivity medium at upper and lower parts in a thickness direction thereof, and the waveguide is configured so as to include the gain medium, the first clad and the second clad. 4. The oscillation device according to any one of claims 1 to 3, wherein the negative permittivity medium is configured so as to include a metal, a carrier-doped semiconductor, or a metal and a carrier-doped semiconductor.
+</P>
+<P>
+5. The oscillation device according to any one of claims 1 to 4, wherein the gain medium is a resonant tunneling diode based on photon-assisted tunneling. 6. The oscillation device according to any one of claims 1 to 5, wherein the electromagnetic wave is an electromagnetic wave including a frequency within a frequency region from 30 GHz to 30 THz.
+</P>
+<P>
+7. An oscillation device for oscillating an electromagnetic wave having a frequency selected from a frequency region from 30 GHz to 30 THz, the oscillation device including: a first negative permittivity medium of which real part of permittivity with respect to the electromagnetic wave is negative; a second negative permittivity medium of which real part of permittivity with respect to the electromagnetic wave is negative; a gain medium sandwiched between the first negative permittivity medium and the second negative permittivity medium, and having a gain with respect to the electromagnetic wave; and a drive electrode for injecting carriers into the gain medium to drive the gain medium, wherein the oscillation device further includes a control electrode to change thickness of a depletion region formed between at least one of the first and second negative permittivity media and the gain medium for controlling oscillation wavelength, and the control electrode is configured to be capable of applying an electric potential independently of the drive electrode.
+</P>
+</Claims>
+<Also_published_as>
+WO2008075795A1;WO2008075795B1;US2010164636A1;US7889015B2;JP2008177551A;CN101512850A;CN101512850B
+</Also_published_as>
+</BiblioData>

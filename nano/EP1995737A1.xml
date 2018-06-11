@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Probe Module, Probe Array, and a Method of Assembling Probe Arrays
+</Title>
+<PublicationNumber>
+EP1995737A1
+</PublicationNumber>
+<Inventor>
+<Name>
+AKIYAMA TERUNOBU [CH]
+</Name>
+<Name>
+CLAVEL REYMOND [CH]
+</Name>
+<Name>
+DAFFLON MELANIE [CH]
+</Name>
+<Name>
+STAUFER URS [CH]
+</Name>
+<Name>
+AKIYAMA TERUNOBU
+</Name>
+<Name>
+CLAVEL REYMOND
+</Name>
+<Name>
+DAFFLON MELANIE
+</Name>
+<Name>
+STAUFER URS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+INST MICROTECHNIQUE DE L UNIVE [CH]
+</Name>
+<Name>
+INSTITUT DE MICROTECHNIQUE DE L&apos;UNIVERSITE DE NEUCHATEL
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1995737
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070405154
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070405154
+</PriorityNumber>
+<PriorityDate>
+2007-05-25
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G12B21/22
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+G01Q70/06
+</Class>
+</NCL>
+<Abstract>
+The invention refers to a probe array, e.g. for scanning probe microscopes, which is assembled from individual probe modules. Such a probe module comprises a spring means (cantilever) and/or an actuator and handling means and is reversibly attached to a platform carrying the array. In a preferred embodiment the array is assembled out of individual probe modules, which may individually be replaced with identical or different probe modules.
+</Abstract>
+<Claims>
+<P>
+1. A probe module comprising a spring means and/or an actuator and handling means for reversibly assembling said spring means and/or actuator, to a probe array.
+</P>
+<P>
+2. A probe module according to claim 1, wherein the handling means include attaching means for reversibly attaching the probe module to a platform.
+</P>
+<P>
+3. A probe module according to claim 1 or 2, wherein attaching means are spring clips, clamp means, magnetic elements or turn-lock fasteners, electrostatic clamps or a plasticiseable interface material.
+</P>
+<P>
+4. A probe module according to any of claims 1 to 3, comprising an actuator, a spring means with a probing tip and electrical contacts for electrically connecting the probe module to the platform.
+</P>
+<P>
+5. A probe array with a platform comprising a plurality of probes, wherein at least an individual probe or a sub-array of probes is reversibly attached to the platform.
+</P>
+<P>
+6. A probe array according to claim 5, wherein the individual probe, the sub-array of probes or the platform comprise attaching means for the reversible attaching of the probe or the sub-array and the platform to each other.
+</P>
+<P>
+7. A probe array with a platform comprising a plurality of spring means and/or actuators, wherein at least one spring means and/or actuator is a part of a probe module according to any one of claims 1 to 4.
+</P>
+<P>
+8. A probe array according to claim 7, wherein at least two spring means and/or actuators are parts of probe modules and one probe module is different to the other probe module.
+</P>
+<P>
+9. A probe array according to claim 8, wherein the difference of the probe modules is defined by one of the group of:
+</P>
+<P>
+- different material;
+</P>
+<P>
+- where applicable different actuator;
+</P>
+<P>
+- different sensor;
+</P>
+<P>
+- different physical functionality;
+</P>
+<P>
+- different surface chemistry of a probing tip;
+</P>
+<P>
+10. A probe array according to any one of claims 7 to 9, wherein all of the spring means and/or actuators are each a part of a probe module.
+</P>
+<P>
+11. A probe array according to any one of claims 7 to 10, wherein the platform comprises attaching means for reversibly attaching the probe modules to the platform.
+</P>
+<P>
+12. A probe array according to any one of claims 7-11, wherein several or all probe modules comprise at least one electrostatic comb-actuator.
+</P>
+<P>
+13. A probe array according to any one of claims 7-12, wherein the platform and/or the probe module comprise mechanical reference structures for a positioning of a probe module on the platform blocking at least one degree of freedom of the probe module, preferably blocking all six degrees of freedom.
+</P>
+<P>
+14. A method for assembling a probe array consisting of individual, exchangeable probe modules, comprising the steps of:
+</P>
+<P>
+a) taking a probe module, which comprises at least a cantilever and/or an actuator and handling means;
+</P>
+<P>
+b) attaching the probe module to a platform;
+</P>
+<P>
+c) repeating steps a) and b) until completion of a 1D or 2D probe array with a desired size.
+</P>
+<P>
+15. A method according to claim 14, wherein several probe modules are aligned into a sub-array before being attached to the platform.
+</P>
+<P>
+16. A method according to claim 14 or 15, wherein a probe module or a sub-array is replaced by another probe module or sub-array, respectively.
+</P>
+<P>
+17. A method according to any one of claims 14 to 16, comprising a first step of microfabricating the probe module.
+</P>
+<P>
+18. A method according to claim 17, wherein the probe module is microfabricated in one plane, then turned out of this plane for being attached to the platform.
+</P>
+<P>
+19. A method according to any one of claims 14 to 18, wherein different probe modules are attached to the platform to form a probe array.
+</P>
+<P>
+20. A method according to any one of claims 14 to 19, wherein electronic chips are attached to the platform.
+</P>
+</Claims>
+</BiblioData>

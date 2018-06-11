@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NONVOLATILE NANOTUBE DIODES AND NONVOLATILE NANOTUBE BLOCKS AND SYSTEMS USING SAME AND METHODS OF MAKING SAME
+</Title>
+<PublicationNumber>
+EP2057633A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BERTIN CLAUDE L [US]
+</Name>
+<Name>
+RUECKES THOMAS [US]
+</Name>
+<Name>
+HUANG X M HENRY [US]
+</Name>
+<Name>
+SIVARAJAN RAMESH [US]
+</Name>
+<Name>
+GHENCIU ELIODOR G [US]
+</Name>
+<Name>
+KONSEK STEVEN L [US]
+</Name>
+<Name>
+MEINHOLD MITCHELL [US]
+</Name>
+<Name>
+BERTIN, CLAUDE L
+</Name>
+<Name>
+RUECKES, THOMAS
+</Name>
+<Name>
+HUANG, X.M. HENRY
+</Name>
+<Name>
+SIVARAJAN, RAMESH
+</Name>
+<Name>
+GHENCIU, ELIODOR G
+</Name>
+<Name>
+KONSEK, STEVEN L
+</Name>
+<Name>
+MEINHOLD, MITCHELL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANTERO INC [US]
+</Name>
+<Name>
+NANTERO, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2057633
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070840788
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US75506
+</PriorityNumber>
+<PriorityDate>
+2007-08-08
+</PriorityDate>
+<PriorityNumber>
+US20060836343P
+</PriorityNumber>
+<PriorityDate>
+2006-08-08
+</PriorityDate>
+<PriorityNumber>
+US20060836437P
+</PriorityNumber>
+<PriorityDate>
+2006-08-08
+</PriorityDate>
+<PriorityNumber>
+US20060840586P
+</PriorityNumber>
+<PriorityDate>
+2006-08-28
+</PriorityDate>
+<PriorityNumber>
+US20060855109P
+</PriorityNumber>
+<PriorityDate>
+2006-10-27
+</PriorityDate>
+<PriorityNumber>
+US20070918388P
+</PriorityNumber>
+<PriorityDate>
+2007-03-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C13/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C11/56
+</Class>
+<Class>
+G11C13/00R25V
+</Class>
+<Class>
+G11C13/00R25W
+</Class>
+<Class>
+G11C13/02N
+</Class>
+<Class>
+G11C14/00
+</Class>
+<Class>
+G11C17/16
+</Class>
+<Class>
+G11C29/86
+</Class>
+<Class>
+H01L27/10C
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+<Class>
+H01L51/05D6
+</Class>
+</NCL>
+<Abstract>
+Under one aspect, a non-volatile nanotube diode device includes first and second terminals;  a semiconductor element including a cathode and an anode, and capable of forming a conductive pathway between the cathode and anode in response to electrical stimulus applied to the first conductive terminal;  and a nanotube switching element including a nanotube fabric article in electrical communication with the semiconductive element, the nanotube fabric article disposed between and capable of forming a conductive pathway between the semiconductor element and the second terminal, wherein electrical stimuli on the first and second terminals causes a plurality of logic states.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A non-volatile nanotube diode device comprising: first and second terminals; a semiconductor element comprising a cathode and an anode, and capable of forming a conductive pathway between the cathode and anode in response to electrical stimulus applied to the first conductive terminal; and a nanotube switching element comprising a nanotube fabric article in electrical communication with the semiconductive element, the nanotube fabric article disposed between and capable of forming a conductive pathway between the semiconductor element and the second terminal; wherein electrical stimuli on the first and second terminals causes a plurality of logic states.
+</P>
+<P>
+2. The non-volatile nanotube diode device of claim 1, wherein in a first logic state of the plurality of logic states a conductive pathway between the first and second terminals is substantially disabled and wherein in a second logic state of the plurality of logic states a conductive pathway between the first and second terminals is enabled.
+</P>
+<P>
+3. The non-volatile nanotube diode device of claim 2, wherein in the first logic state the nanotube article has a relatively high resistance and in the second logic state the nanotube article has a relatively low resistance.
+</P>
+<P>
+4. The non-volatile nanotube diode device of claim 3, wherein the nanotube fabric article comprises a no n- woven network of unaligned nanotubes.
+</P>
+<P>
+5. The non-volatile nanotube diode device of claim 4, wherein in the second logic state the non-woven network of unaligned nanotubes includes at least one electrically conductive pathway between the semiconductor element and the second terminal.
+</P>
+<P>
+6. The non-volatile nanotube diode of claim 4, wherein the nanotube fabric article comprises a multilayered fabric.
+</P>
+<P>
+7. The non-volatile nantoube diode device of claim 1, wherein above a threshold voltage between the first and second terminals, the semiconductor element is capable of flowing current from the anode to the cathode and wherein below the threshold voltage between the first and second terminals the semiconductor element is not capable of flowing current from the anode to the cathode.
+</P>
+<P>
+8. The non-volatile nanotube diode device of claim 2, wherein in the first logic state, the conductive pathway between the anode and the second terminal is disabled.
+</P>
+<P>
+9. The non-volatile nanotube diode device of claim 2, wherein in the second logic state, the conductive pathway between the anode and the second terminal is enabled.
+</P>
+<P>
+10. The non-volatile nanotube diode device of claim 2, further comprising a conductive contact interposed between and providing an electrical communication pathway between the nanotube fabric article and the semiconductor element.
+</P>
+<P>
+11. The non-volatile nanotube diode device of claim 10, wherein the first terminal is in electrical communication with the anode and the cathode is in electrical communication with the conductive contact of the nanotube switching element.
+</P>
+<P>
+12. The non-volatile nanotube diode device of claim 11, wherein when in the second logic state, the device is capable of carrying electrical current substantially flowing from the first terminal to the second terminal.
+</P>
+<P>
+13. The non-volatile nanotube diode device of claim 10, wherein the first terminal is in electrical communication with the cathode and the anode is in electrical communication with the conductive contact of the nanotube switching element.
+</P>
+<P>
+14. The non-volatile nanotube diode device of claim 13, wherein when in the second logic state, the device is capable of carrying electrical current substantially flowing from the second terminal to the first terminal.
+</P>
+<P>
+15. The non-volatile nanotube diode device of claim 1, wherein the anode comprises a conductive material and the cathode comprises an n-type semiconductor material.
+</P>
+<P>
+16. The non-volatile nanotube diode device of claim 10, wherein the anode comprises a p-type semiconductor material and the cathode comprises a n-type semiconductor material.
+</P>
+<P>
+17. A two-terminal non- volatile state device comprising: first and second terminals; a semiconductor field effect element having a source, a drain, a gate in electrical communication with one of the source and the drain, and a channel disposed between the source and the drain, the gate capable of controllably forming an electrically conductive pathway in the channel between the source and the drain; and a nanotube switching element having a nanotube fabric article and a conductive contact, the nanotube fabric article disposed between and capable of forming an electrically conductive pathway between the conductive contact and the second terminal; wherein the first terminal is in electrical communication with one of the source and the drain, the other of the source and drain is in electrical communication with the conductive contact; and wherein a first set of electrical stimuli on the first and second conductive terminals causes a first logic state and a second set of electrical stimuli on the first and second conductive terminals causes a second logic state.
+</P>
+<P>
+18. The nonvolatile state device of claim 17, wherein the first logic state corresponds to a relatively non-conductive pathway between the first and second terminals and the second logic state corresponds to a conductive pathway between the first and second terminals.
+</P>
+<P>
+19. The non-volatile state device of claim 17, wherein the first set of electrical stimuli causes a relatively high resistance state in the nanotube fabric article and the second set of electrical stimuli causes a relatively low resistance state in the nanotube fabric article.
+</P>
+<P>
+20. The non-volatile state device of claim 19, wherein the nanotube fabric article comprises a non-woven network of unaligned nanotubes.
+</P>
+<P>
+21. The non-volatile state device of claim 20, wherein the nanotube fabric article comprises a multilayered fabric.
+</P>
+<P>
+22. The non-volatile state device of claim 20, wherein in response to the second set of electrical stimuli, the non-woven network of unaligned nano tubes provides at least one electrically conductive pathway between the conductive contact and the semiconductor field-effect element.
+</P>
+<P>
+23. The non-volatile state device of claim 17, wherein in response to the second set of electrical stimuli, a conductive pathway between the source and the drain is formed in the conductive channel.
+</P>
+<P>
+24. The non-volatile state device of claim 17, wherein the semiconductor field effect element comprises a PFET.
+</P>
+<P>
+25. The non-volatile state device of claims 17, wherein the semiconductor field effect element comprises a NFET.
+</P>
+<P>
+26. The non-volatile state device of claim 17, wherein the source of the semiconductor field-effect element is in electrical communication with the first terminal and the drain is in electrical communication with the conductive contact of the nanotube switching element.
+</P>
+<P>
+27. The non-volatile state device of claim 17, wherein the drain of the semiconductor field-effect element is in electrical communication with the first terminal and the source of the is in electrical communication with the conductive contact of the nanotube switching element.
+</P>
+<P>
+28. A voltage selection circuit comprising: an input voltage source; an output voltage terminal and a reference voltage terminal; a resistive element; and a nonvolatile nanotube diode device comprising: first and second terminals; a semiconductor element in electrical communication with the first terminal; and a nanotube switching element disposed between and capable of conducting electrical stimulus between the semiconductor element and the second terminal, wherein the nonvolatile nanotube diode device is capable of conducting electrical stimulus between the first and second terminals, wherein the resistive element is disposed between the input voltage source and the output voltage terminal, the nonvolatile nanotube diode device is disposed between and in electrical communication with the output voltage terminal and the reference voltage terminal, and wherein the voltage selection circuit is capable of providing a first output voltage level when, in response to electrical stimulus at the input voltage source and the reference voltage terminal, the nonvolatile nanotube diode substantially prevents the conduction of electrical stimulus between the first and second terminals and wherein the voltage selection circuit is capable of providing a second output voltage level when, in response to electrical stimulus at the input voltage source and the reference voltage terminal, the nonvolatile nanotube diode conducts electrical stimulus between the first and second terminals.
+</P>
+<P>
+29. The voltage selection circuit of claim 28, wherein the semiconductor element comprises an anode and a cathode, the anode in electrical communication with the first terminal and the cathode in communication with the nanotube switching element.
+</P>
+<P>
+30. The voltage selection circuit of claim 28, wherein the semiconductor element comprises a field effect element having a source region in communication with the first terminal, a drain region in electrical communication with the nanotube switching element, a gate region in electrical communication with one of the source region and the drain region, and a channel region capable of controllably forming and unforming an electrically conductive pathway between the source and the drain in response to electrical stimulus on the gate region.
+</P>
+<P>
+31. The voltage selection circuit of claim 28, wherein the first output voltage level is substantially equivalent to the input voltage source.
+</P>
+<P>
+32. The voltage selection circuit of claim 28, wherein the second output voltage level is substantially equivalent to the reference voltage terminal.
+</P>
+<P>
+33. The voltage selection circuit of claim 28, wherein the nanotube switching element comprises a nanotube fabric article capable of a high resistance state and a low resistance state.
+</P>
+<P>
+34. The voltage selection circuit of claim 33, wherein the high resistance state of the nanotube fabric article is substantially higher than the resistance of the resistive element and wherein the low resistance state of the nanotube fabric article is substantially lower than the resistance of the resistive element.
+</P>
+<P>
+35. The voltage selection circuit of claim 33, wherein the first output voltage level is determined, in part, by the relative resistance of the resistive element and the high resistance state of the nanotube fabric article, and wherein the second output voltage level is determined, in part, by the relative resistance of the resistive element and the low resistance state of the nanotube fabric article.
+</P>
+<P>
+36. A nonvolatile nanotube diode comprising: a substrate; a semiconductor element disposed over the substrate, the semiconductor element having an anode and a cathode and capable of forming an electrically conductive pathway between the anode and the cathode; a nanotube switching element disposed over the semiconductor element, the nanotube switching element comprising a conductive contact and a nanotube fabric element capable of a plurality of resistance states; and a conductive terminal disposed in spaced relation to the conductive contact, wherein the nanotube fabric element is interposed between and in electrical communication with the conductive contact and the conductive contact is in electrical communication with the cathode, and wherein, in response to electrical stimuli applied to the anode and the conductive terminal, the nonvolatile nanotube diode is capable of forming an electrically conductive pathway between the anode and the conductive terminal.
+</P>
+<P>
+37. The nonvolatile nanotube diode of claim 36, wherein the anode comprises a conductor material and the cathode comprises a semiconductor material.
+</P>
+<P>
+38. The nonvolatile nanotube diode of claim 37, wherein the anode material includes at least one of Al, Ag, Au, Ca, Co, Cr, Cu, Fe, Ir, Mg, Mo Na, Ni, Os, Pb, Pd, Pt, Rb, Ru, Ti, W, Zn, CoSi2, MoSi2, Pd2Si, PtSi, RbSi2, TiSi2, WSi2 and ZrSi2.
+</P>
+<P>
+39. The nonvolatile nanotube diode of claim 37, wherein the semiconductor element comprises a Schottky barrier diode.
+</P>
+<P>
+40. The nonvolatile nanotube diode of claim 36, further comprising a second conductive terminal interposed between the substrate and the anode, the second conductive terminal in electrical communication with the anode, wherein in response to electrical stimuli at said second conductive terminal and the conductive terminal, the nonvolatile nanotube diode is capable of forming an electrically conductive pathway between said second conductive terminal and the conductive terminal.
+</P>
+<P>
+41. The nonvolatile nanotube diode of claim 40, wherein the anode comprises a semiconductor material of a first type and the cathode region comprises a semiconductor material of a second type.
+</P>
+<P>
+42. The nonvolatile nanotube diode of claim 40, wherein the semiconductor material of the first type is positively doped, the semiconductor material of the second type is negatively doped, and the semiconductor element forms a PN junction.
+</P>
+<P>
+43. The nonvolatile nanotube diode of claim 36, wherein the nanotube fabric element is substantially vertically disposed.
+</P>
+<P>
+44. The nonvolatile nanotube diode of claim 36, wherein the nanotube fabric element is substantially horizontally disposed.
+</P>
+<P>
+45. The nonvolatile nanotube diode of claim 36, wherein the nanotube fabric element comprises a nonwoven multilayered fabric.
+</P>
+<P>
+46. The nonvolatile nanotube diode of claim 45, wherein the nanotube fabric element has a thickness between approximately 20 nm and approximately 200 nm.
+</P>
+<P>
+47. The nonvolatile nanotube diode of claim 45, wherein the conductive contact is disposed substantially coplanar to a lower surface of the nanotube fabric element and the conductive terminal is disposed substantially coplanar to an upper surface of the nanotube fabric element.
+</P>
+<P>
+48. The nonvolatile nanotube diode of claim 36, wherein the semiconductor element is a field effect transistor.
+</P>
+<P>
+49. A nonvolatile nanotube diode comprising: a substrate; a conductive terminal disposed over the substrate; a semiconductor element disposed over the conductive terminal, the semiconductor element having a cathode and an anode and capable of forming an electrically conductive pathway between the cathode and the anode; and a nanotube switching element disposed over the semiconductor element, the nanotube switching element comprising a conductive contact and nanotube fabric element capable of a plurality of resistance states, wherein the nanotube fabric element is interposed between and in electrical communication with anode and the conductive contact and cathode is in electrical communication with the conductive terminal; and wherein, in response to electrical stimuli applied to the anode and the conductive terminal, the nonvolatile nanotube diode is capable of forming an electrically conductive pathway between the conductive terminal and the conductive contact.
+</P>
+<P>
+50. The nonvolatile nanotube diode of claim 49, wherein the anode comprises a conductor material and the cathode comprises a semiconductor material.
+</P>
+<P>
+51. The nonvolatile nanotube diode of claim 50, wherein the anode material includes at least one of Al, Ag, Au, Ca, Co, Cr, Cu, Fe, Ir, Mg, Mo Na, Ni, Os, Pb, Pd, Pt, Rb, Ru, Ti, W, Zn, CoSi2, MoSi2, Pd2Si, PtSi, RbSi2, TiSi2, WSi2 and ZrSi2.
+</P>
+<P>
+52. The nonvolatile nanotube diode of claim 50, wherein the semiconductor element comprises a Schottky barrier diode.
+</P>
+<P>
+53. The nonvolatile nanotube diode of claim 49, further comprising a second conductive terminal interposed between and providing an electrically conductive path between the anode and the patterned region of nonwoven nanotube fabric.
+</P>
+<P>
+54. The nonvolatile nanotube diode of claim 53, wherein the anode comprises a semiconductor material of a first type and the cathode region comprises a semiconductor material of a second type.
+</P>
+<P>
+55. The nonvolatile nanotube diode of claim 53, wherein the semiconductor material of the first type is positively doped, the semiconductor material of the second type is negatively doped, and the semiconductor element forms a PN junction.
+</P>
+<P>
+56. The nonvolatile nanotube diode of claim 49, wherein the nanotube fabric element is substantially vertically disposed.
+</P>
+<P>
+57. The nonvolatile nanotube diode of claim 49, wherein the nanotube fabric element is substantially horizontally disposed.
+</P>
+<P>
+58. The nonvolatile nanotube diode of claim 49, wherein the nanotube fabric element comprises a layer of nonwoven nanotubes having a thickness between approximately 0.5 and approximately 20 nanometers.
+</P>
+<P>
+59. The nonvolatile nanotube diode of claim 49, wherein the nanotube fabric element comprises a nonwoven multilayered fabric.
+</P>
+<P>
+60. The nonvolatile nanotube diode of claim 59, wherein the conductive contact is disposed substantially coplanar to a lower surface of the nanotube fabric element and the conductive terminal is disposed substantially coplanar to an upper surface of the nanotube fabric element.
+</P>
+<P>
+61. The nonvolatile nanotube diode of claim 49, wherein the semiconductor element comprises a field effect transistor.
+</P>
+<P>
+62. A memory array comprising: a plurality of word lines; a plurality of bit lines; a plurality of memory cells, each memory cell responsive to electrical stimulus on a word line and on a bit line, each memory cell including: a two-terminal non- volatile nanotube switching device comprising a first and a second terminal, a semiconductor diode element, and a nanotube fabric article, the semiconductor diode and a nanotube article disposed between and in electrical communication with the first and second terminals, wherein the nanotube fabric article is capable of a plurality of resistance states, and wherein the first terminal is coupled to the one word line and the second terminal is coupled to the one bit line, the electrical stimulus applied to the first and second terminals capable of changing the resistance state of the nanotube fabric article; and a memory operation circuit operably coupled to each bit line of the plurality of bit lines and each word line of the plurality of word lines, said operation circuit capable of selecting each of the cells by activating at least one of the bit line and the word line coupled to that cell to apply a selected electrical stimulus to each of the corresponding first and second terminals, and said operation circuit further capable of detecting a resistance state of the nanotube fabric article of a selected memory cell and adjusting the electrical stimulus applied to each of the corresponding first and second terminals in response to the resistance state to controllably induce a selected resistance state in the nanotube fabric article, wherein the selected resistance state of the nanotube fabric article of each memory cell corresponds to an informational state of said memory cell.
+</P>
+<P>
+63. The memory array of claim 62, wherein each memory cell nonvolatily stores the corresponding information state in response to electrical stimulus applied to each of the corresponding first and second terminals.
+</P>
+<P>
+64. The memory array of claim 62, wherein the semiconductor diode element comprises a cathode and an anode, the anode in electrical communication with the second terminal and the cathode in electrical communication with the nanotube switching element.
+</P>
+<P>
+65. The memory array of claim 64, wherein the cathode comprises a first semiconductor material and the anode comprises a second semiconductor material.
+</P>
+<P>
+66. The memory array of claim 62, wherein the semiconductor diode element comprises a cathode and an anode, the cathode in electrical communication with the first terminal and the anode in electrical communication with the nanotube switching element.
+</P>
+<P>
+67. The memory array of claim 66, wherein the cathode comprises a first semiconductor material and the anode comprises a second seminconductor material.
+</P>
+<P>
+68. The memory array of claim 66, wherein the cathode comprises a semiconductor material and the anode comprises a conductive material and forms a conductive contact to the nanotube fabric article.
+</P>
+<P>
+69. The memory array of claim 62, further comprising a conductive contact interposed between the semiconductor diode element and the nanotube fabric article.
+</P>
+<P>
+70. The memory array of claim 69, wherein the nanotube fabric article comprises a network of unaligned nano tubes capable of providing at least one electrically conductive pathway between the first conductive contact and one of the first and second terminals.
+</P>
+<P>
+71. The memory array of claim 69, wherein the nanotube fabric article comprises a multilayered nanotube fabric.
+</P>
+<P>
+72. The memory array of claim 71, wherein the multilayered nanotube article has a thickness that defines a spacing between the conductive contact and one of the first and second conductive terminals.
+</P>
+<P>
+73. The memory array of claim 62, wherein the plurality of memory cells includes multiple pairs of stacked memory cells, wherein a first memory cell in each pair of stacked memory cells is disposed above and in electrical communication with a first bit line and the word line is disposed above and in electrical communication with the first memory cell; and wherein a second memory cell in each pair of stacked memory cells is disposed above and in electrical communication with the word line and a second bit line is disposed above and in electrical communication with the second memory cell.
+</P>
+<P>
+74. The memory array of claim 73, wherein the resistance state of the nanotube article in the first memory cell is substantially unaffected by the resistance state of the nanotube article in the second memory cell and the resistance state of the nanotube article in the second memory cell is substantially unaffected by the resistance state of the nanotube article in the first memory cell.
+</P>
+<P>
+75. The memory array of claim 73, wherein the resistance state of the nanotube article in the first memory cell is substantially unaffected by said operation circuit selecting the second memory cell and the resistance state of the nanotube article in the second memory cell is substantially unaffected by the resistance state by said operation circuit selecting the first memory cell.
+</P>
+<P>
+76. The memory array of claim 73, wherein the resistance state of the nanotube article in the first memory cell is substantially unaffected by said operation circuit detecting a resistance state of the nanotube fabric article of the second memory cell and the resistance state of the nanotube article in the second memory cell is substantially unaffected by the resistance state by said operation circuit detecting a resistance state of the nanotube fabric article of the first memory cell.
+</P>
+<P>
+77. The memory array of claim 73, wherein the resistance state of the nanotube article in the first memory cell is substantially unaffected by said operation circuit adjusting the electrical stimulus applied to each of the corresponding first and second terminals of the second memory cell and the resistance state of the nanotube article in the second memory cell is substantially unaffected by the resistance state by said operation circuit adjusting the electrical stimulus applied to each of the corresponding first and second terminals of the first memory cell.
+</P>
+<P>
+78. The memory array of claim 62, further comprising an insulating region and a plurality of conductive interconnects wherein the insulating region is disposed over the memory operation circuit, the plurality of memory cells are disposed over the insulating region, and the plurality of conductive interconnects operably couple the memory operation circuit to the plurality of bit lines and plurality of word lines.
+</P>
+<P>
+79. The memory array of claim 62, wherein adjusting the electrical stimulus comprises incrementally changing the voltage applied to each of the corresponding first and second terminals.
+</P>
+<P>
+80. The memory array of claim 79, wherein incrementally changing the voltage includes applying voltage pulses.
+</P>
+<P>
+81. The memory array of claim 80, wherein the amplitude of each subsequent voltage pulse is incrementally increased by approximately 20OmV.
+</P>
+<P>
+82. The memory array of claim 62, wherein adjusting the electrical stimulus comprises changing the current supplied to at least one of the corresponding first and second terminals.
+</P>
+<P>
+83. The memory array of claim 62, further comprising substantially removing electrical stimulus from the corresponding bit line and word line after controllably inducing the selected resistance state in the nanotube fabric article to substantially preserve the selected resistance state of the nanotube fabric article.
+</P>
+<P>
+84. The memory array of claim 62, wherein detecting the resistance state of the nanotube fabric article further comprises detecting a variation over time of electrical stimulus on a corresponding bit line.
+</P>
+<P>
+85. The memory array of claim 62, wherein detecting the resistance state of the nanotube fabric article further comprises detecting a current flow though a corresponding bit line.
+</P>
+<P>
+86. The memory array of claim 62, wherein in each two terminal nonvolatile nanotube switching device, current is capable of flowing from the second terminal to the first terminal and substantially prevented from flowing from the first terminal to the second terminal.
+</P>
+<P>
+87. The memory array of claim 86, wherein current is capable of flowing from the second terminal to the first terminal when a threshold voltage is reached by applying electrical stimulus to each of the corresponding first and second terminals.
+</P>
+<P>
+88. The memory array of claim 86, wherein the selected resistance state of the nanotube fabric article of each memory cell includes one of a relatively high resistance state corresponding to a first informational state of said memory cell and a relatively low resistance state corresponding to a second informational state of said memory cell.
+</P>
+<P>
+89. The memory array of claim 88, wherein a third information state of each memory cell corresponds to a state in which current is capable of flowing from the second terminal to the first terminal and wherein a fourth information state of each memory cell corresponds to a state in which current is substantially prevented from flowing from the first terminal to the second terminal.
+</P>
+<P>
+90. The memory array of claim 62, wherein the two-terminal non-volatile nanotube switching device is operable independently of the voltage polarity between the first and second terminals.
+</P>
+<P>
+91. The memory array of claim 62, wherein the two-terminal non-volatile nanotube switching device is operable independently of the direction of current flow between the first and second terminals.
+</P>
+<P>
+92. The memory array of claim 62, wherein the plurality of memory cells includes multiple pairs of stacked memory cells, wherein a first memory cell in each pair of stacked memory cells is disposed above and in electrical communication with a first bit line and the word line is disposed above and in electrical communication with the first memory cell; wherein an insulator material is disposed over the first memory cell; wherein a second memory cell in each pair of stacked memory cells is disposed above and in electrical communication with a second word line, the second word line disposed over the insulator material and wherein a second bit line is disposed above and in electrical communication with the second memory cell.
+</P>
+<P>
+93. The memory array of claim 62, wherein the plurality of memory cells includes multiple pairs of stacked memory cells, wherein a first memory cell in each pair of stacked memory cells is disposed above and in electrical communication with a first bit line and the word line is disposed above and in electrical communication with the first memory cell; wherein an insulator material is disposed over the first memory cell; wherein a second memory cell in each pair of stacked memory cells is disposed above and in electrical communication with a second bit line, the second bit line disposed over the insulator material and wherein a second word line is disposed above and in electrical communication with the second memory cell.
+</P>
+<P>
+94. A method of making a nanotube switch, comprising: providing a substrate having a first conductive terminal; depositing a multilayer nanotube fabric over the first conductive terminal; and depositing a second conductive terminal over the multilayer nanotube fabric, the nanotube fabric having a thickness, density, and composition selected to prevent direct physical and electrical contact between the first and second conductive terminals.
+</P>
+<P>
+95. The method of claim 94, further comprising lithographically patterning the first and second conductive terminals and the multilayer nanotube fabric so as to each have substantially the same lateral dimensions.
+</P>
+<P>
+96. The method of claim 95, wherein the first and second conductive terminals and the multilayer nanotube fabric each have a substantially circular lateral shape.
+</P>
+<P>
+97. The method of claim 95, wherein the first and second conductive terminals and the multilayer nanotube fabric each have a substantially rectangular lateral shape.
+</P>
+<P>
+98. The method of claim 95, wherein the first and second conductive terminals and the multilayer nanotube fabric each have lateral dimensions of between about 200 nm x 200 nm and about 22 nm x 22 nm.
+</P>
+<P>
+99. The method of claim 95, wherein the first and second conductive terminals and the multilayer nanotube fabric each have a lateral dimension of between about 22 nm and about 10 nm.
+</P>
+<P>
+100. The method of claim 95, wherein the first and second conductive terminals and the multilayer nanotube fabric each have a lateral dimension of less than 10 nm.
+</P>
+<P>
+101. The method of claim 94, wherein the multilayer nanotube fabric has a thickness between about 10 nm and about 200 nm.
+</P>
+<P>
+102. The method of claim 94, wherein the multilayer nanotube fabric has a thickness between about 10 nm and about 50 nm.
+</P>
+<P>
+103. The method of claim 94, wherein the substrate comprises a diode under the first conductive terminal, the diode being addressable by control circuitry.
+</P>
+<P>
+104. The method of claim 103, further comprising lithographically patterning the first and second conductive terminals, the multilayer nanotube fabric, and the diode so as to each have substantially the same lateral dimensions.
+</P>
+<P>
+105. The method of claim 103, further comprising providing a second diode over the second conductive terminal, depositing a third conductive terminal over the second diode, depositing a second multilayer nanotube fabric over the third conductive terminal, and depositing a fourth conductive terminal over the second multilayer nanotube fabric.
+</P>
+<P>
+106. The method of claim 105, further comprising lithographically patterning the multilayer nanotube fabrics, the diodes, and the conductive terminals so as to each have substantially the same lateral dimensions.
+</P>
+<P>
+107. The method of claim 103, wherein the diode comprises a layer of N+ polysilicon, a layer of N polysilicon, and a layer of conductor.
+</P>
+<P>
+108. The method of claim 103, wherein the diode comprises a layer of N+ polysilicon, a layer of N polysilicon, and a layer of P polysilicon.
+</P>
+<P>
+109. The method of claim 94, further comprising providing a diode over the second conductive terminal, the diode being addressable by control circuitry.
+</P>
+<P>
+110. The method of claim 109, further comprising annealing the diode at a temperature exceeding 700 &amp;lt;0&amp;gt;C.
+</P>
+<P>
+111. The method of claim 109, further comprising lithographically patterning the first and second conductive terminals, the multilayer nanotube fabric, and the diode so as to each have substantially the same lateral dimensions.
+</P>
+<P>
+112. The method of claim 94, wherein the substrate comprises a semiconductor field effect transistor, at least a portion of which is under the first conductive terminal, the semiconductor field effect transistor being addressable by control circuitry.
+</P>
+<P>
+113. The method of claim 94, wherein depositing the multilayer nanotube fabric comprises spraying nanotubes dispersed in a solvent onto the first conductive terminal.
+</P>
+<P>
+114. The method of claim 94, wherein depositing the multilayer nanotube fabric comprises spin coating nanotubes dispersed in a solvent onto the first conductive terminal.
+</P>
+<P>
+115. The method of claim 94, wherein depositing the multilayer nanotube fabric comprises depositing a mixture of nanotubes and a matrix material dispersed in a solvent onto the first conductive terminal.
+</P>
+<P>
+116. The method of claim 115, further comprising removing the matrix material after depositing the second conductive terminal.
+</P>
+<P>
+117. The method of claim 115, wherein the matrix material comprises polypropylene carbonate.
+</P>
+<P>
+118. The method of claim 94, wherein the first and second conductive terminals each comprise a conductive material independently selected from the group consisting of Ru, Ti, Cr, Al, Al(Cu), Au, Pd, Pt, Ni, Ta, W, Cu, Mo, Ag, In, Ir, Pb, Sn, TiAu, TiCu, TiPd, PbIn, TiW, RuN, RuO, TiN, TaN, CoSix, and TiSix.
+</P>
+<P>
+119. The method of claim 94, further comprising depositing a porous dielectric material on the multilayer nanotube fabric.
+</P>
+<P>
+120. The method of claim 119, wherein the porous dielectric material comprises one of a spin-on glass and a spin-on low-[kappa] dielectric.
+</P>
+<P>
+121. The method of claim 94, further comprising depositing a nonporous dielectric material on the multilayer nanotube fabric.
+</P>
+<P>
+122. The method of claim 121, wherein the nonporous dielectric material comprises a high-[kappa] dielectric.
+</P>
+<P>
+123. The method of claim 121, wherein the nonporous dielectric material comprises hafnium oxide.
+</P>
+<P>
+124. The method of claim 94, further comprising providing a word line in electrical communication with the second conductive terminal.
+</P>
+<P>
+125. A method of making a nanotube diode, comprising: providing a substrate having a first conductive terminal; depositing a multilayer nanotube fabric over the first conductive terminal; depositing a second conductive terminal over the multilayer nanotube fabric, the nanotube fabric having a thickness, density, and composition selected to prevent direct physical and electrical contact between the first and second conductive terminals; and providing a diode in electrical contact with one of the first and second conductive terminals.
+</P>
+<P>
+126. The method of claim 125, further comprising providing the diode after depositing the multilayer nanotube fabric.
+</P>
+<P>
+127. The method of claim 126, further comprising annealing the diode at a temperature exceeding 700 &amp;lt;0&amp;gt;C.
+</P>
+<P>
+128. The method of claim 125, further comprising positioning the diode over and in electrical contact with the second conductive terminal.
+</P>
+<P>
+129. The method of claim 125, further comprising positioning the diode under and in electrical contact with the first conductive terminal.
+</P>
+<P>
+130. The method of claim 125, further comprising lithographically patterning the first and second conductive terminals, the multilayer nanotube fabric, and the diode so as to each have substantially the same lateral dimensions.
+</P>
+<P>
+131. The method of claim 130, wherein the first and second conductive terminals, the multilayer nanotube fabric, and the diode each have a substantially circular lateral shape.
+</P>
+<P>
+132. The method of claim 130, wherein the first and second conductive terminals, the multilayer nanotube fabric, and the diode each have a substantially rectangular lateral shape.
+</P>
+<P>
+133. The method of claim 130, wherein the first and second conductive terminals and the multilayer nanotube fabric each have lateral dimensions of between about 200 nm x 200 nm and about 22 nm x 22 nm.
+</P>
+<P>
+134. A non-volatile nanotube switch, comprising: a first conductive terminal; a nanotube block comprising a multilayer nanotube fabric, at least a portion of the nanotube block being positioned over and in contact with at least a portion of the first conductive terminal; a second conductive terminal, at least a portion of the second conductive terminal being positioned over and in contact with at least a portion of the nanotube block, wherein the nanotube block is constructed and arranged to prevent direct physical and electrical contact between the first and second conductive terminals; and control circuitry in electrical communication with and capable of applying electrical stimulus to the first and second conductive terminals, wherein the nanotube block is capable of switching between a plurality of electronic states in response to a corresponding plurality of electrical stimuli applied by the control circuitry to the first and second conductive terminals, and wherein, for each different electronic state of the plurality of electronic states, the nanotube block provides an electrical pathway of corresponding different resistance between the first and second conductive terminals.
+</P>
+<P>
+135. The switch of claim 134, wherein substantially the entire nanotube block is positioned over substantially the entire first conductive terminal, and wherein substantially the entire second conductive terminal is positioned over substantially the entire nanotube block.
+</P>
+<P>
+136. The switch of claim 135, wherein the first and second conductive terminals and the nanotube block each have a substantially circular lateral shape.
+</P>
+<P>
+137. The switch of claim 135, wherein the first and second conductive terminals and the nanotube block each have a substantially rectangular lateral shape.
+</P>
+<P>
+138. The switch of claim 135, wherein the first and second conductive terminals and the nanotube block each have a lateral dimension between about 200 nm and about 22 nm.
+</P>
+<P>
+139. The switch of claim 135, wherein the first and second conductive terminals and the nanotube block each have a lateral dimension between about 22 nm and about 10 nm.
+</P>
+<P>
+140. The switch of claim 135, wherein the first and second conductive terminals and the nanotube block each have lateral dimension of less than about 10 nm.
+</P>
+<P>
+141. The switch of claim 134, wherein the nanotube block has a thickness between about 10 nm and about 200 nm.
+</P>
+<P>
+142. The switch of claim 134, wherein the nanotube block has a thickness between about 10 nm and about 50 nm.
+</P>
+<P>
+143. The switch of claim 134, wherein the control circuitry includes a diode in direct physical contact with the first conductive terminal.
+</P>
+<P>
+144. The switch of claim 143, wherein the first conductive terminal is positioned over the diode.
+</P>
+<P>
+145. The switch of claim 143, wherein the diode is positioned over the second conductive terminal.
+</P>
+<P>
+146. The switch of claim 143, wherein the diode, the nanotube block, and the first and second conductive terminals have substantially the same lateral dimensions.
+</P>
+<P>
+147. The switch of claim 143, wherein the diode comprises a layer of N+ polysilicon, a layer of N polysilicon, and a layer of conductor.
+</P>
+<P>
+148. The switch of claim 143, wherein the diode comprises a layer of N+ polysilicon, a layer of N polysilicon, and a layer of P polysilicon.
+</P>
+<P>
+149. The switch of claim 134, wherein the control circuitry includes a semiconductor field effect transistor in contact with the first conductive terminal.
+</P>
+<P>
+150. The switch of claim 134, wherein the first and second conductive terminals each comprise a conductive material independently selected from the group consisting of Ru, Ti, Cr, Al, Al(Cu), Au, Pd, Pt, Ni, Ta, W, Cu, Mo, Ag, In, Ir, Pb, Sn, TiAu, TiCu, TiPd, PbIn, TiW, RuN, RuO, TiN, TaN, CoSix, and TiSix.
+</P>
+<P>
+151. The switch of claim 134, wherein the nanotube block further comprises a porous dielectric material.
+</P>
+<P>
+152. The switch of claim 151, wherein the porous dielectric material comprises one of a spin-on glass and a spin-on low-[kappa] dielectric.
+</P>
+<P>
+153. The switch of claim 134, wherein the nanotube block further comprises a nonporous dielectric material.
+</P>
+<P>
+154. The switch of claim 153, wherein the nonporous dielectric material comprises hafnium oxide.
+</P>
+<P>
+155. A high-density memory array, comprising: a plurality of word lines and a plurality of bit lines; a plurality of memory cells, each memory cell comprising: a first conductive terminal; a nanotube block over the first conductive terminal, the nanotube block comprising a multilayer nanotube fabric; a second conductive terminal over the nanotube block and in electrical communication with a word line of the plurality of word lines; and a diode in electrical communication with a bit line of the plurality of bit lines and one of the first and second conductive terminals, wherein the nanotube block has a thickness that defines a spacing between the first and second conductive terminals; and wherein a logical state of each memory cell is selectable by activation only of the bit line and the word line connected to that memory cell.
+</P>
+<P>
+156. The array of claim 155, wherein the diode is positioned under the first conductive terminal.
+</P>
+<P>
+157. The array of claim 155, wherein the diode is positioned over the second conductive terminal.
+</P>
+<P>
+158. The array of claim 155, wherein the diode, the first and second conductive terminals, and the nanotube block all have substantially the same lateral dimensions.
+</P>
+<P>
+159. The array of claim 155, wherein the diode, the first and second conductive terminals, and the nanotube block each have a substantially circular lateral shape.
+</P>
+<P>
+160. The array of claim 155, wherein the diode, the first and second conductive terminals, and the nanotube block each have a substantially rectangular lateral shape.
+</P>
+<P>
+161. The array of claim 155, wherein the diode, the first and second conductive terminals, and the nanotube block each have a lateral dimension between about 200 nm and about 22 nm.
+</P>
+<P>
+162. The array of claim 161, wherein the memory cells are spaced from each other by between about 200 nm and about 22 nm.
+</P>
+<P>
+163. The array of claim 155, wherein the diode, the first and second conductive terminals, and the nanotube block each have a lateral dimension between about 22 nm and about 10 nm.
+</P>
+<P>
+164. The array of claim 163, wherein the memory cells of the array are spaced from each other by between about 220 nm and about 10 nm.
+</P>
+<P>
+165. The array of claim 155, wherein some memory cells of the array are laterally spaced relative to each other, and wherein other memory cells of the array are stacked on top of each other.
+</P>
+<P>
+166. The array of claim 165, wherein some of the memory cells of the array that are stacked on top of each other share a bit line.
+</P>
+<P>
+167. The array of claim 166, wherein some of the memory cell of the array that are laterally spaced relative to each other share a word line.
+</P>
+<P>
+168. The array of claim 155, wherein the plurality of word lines are substantially perpendicular to the plurality of bit lines.
+</P>
+<P>
+169. The array of claim 155, wherein the thickness of the nanotube block is between about 10 nm and about 200 nm.
+</P>
+<P>
+170. The array of claim 155, wherein the thickness of the nanotube block is between about 10 nm and about 50 nm.
+</P>
+<P>
+171. A high-density memory array, comprising: a plurality of word lines and a plurality of bit lines; a plurality of memory cells, each memory cell comprising: a first conductive terminal; a nanotube block over the first conductive terminal, the nanotube block comprising a multilayer nanotube fabric; a second conductive terminal over the nanotube block and in electrical communication with a bit line of the plurality of bit lines; and a diode in electrical communication with a word line of the plurality of word lines, wherein the nanotube block has a thickness that defines a spacing between the first and second conductive terminals; wherein a logical state of each memory cell is selectable by activation only of the bit line and the word line connected to that memory cell.
+</P>
+<P>
+172. The array of claim 171, wherein the diode is positioned under the first conductive terminal.
+</P>
+<P>
+173. The array of claim 171, wherein the diode is positioned over the second conductive terminal.
+</P>
+<P>
+174. The array of claim 171, wherein the diode, the first and second conductive terminals, and the nanotube block all have substantially the same lateral dimensions.
+</P>
+<P>
+175. The array of claim 171, wherein the diode, the first and second conductive terminals, and the nanotube block each have a substantially circular lateral shape.
+</P>
+<P>
+176. The array of claim 171, wherein the diode, the first and second conductive terminals, and the nanotube block each have a substantially rectangular lateral shape.
+</P>
+<P>
+177. The array of claim 171, wherein the diode, the first and second conductive terminals, and the nanotube block each have a lateral dimension between about 200 nm and about 22 nm.
+</P>
+<P>
+178. The array of claim 171, wherein the memory cells are spaced from each other by between about 200 nm and about 22 nm.
+</P>
+<P>
+179. The array of claim 171, wherein the diode, the first and second conductive terminals, and the nanotube block each have a lateral dimension between about 22 nm and about 10 nm.
+</P>
+<P>
+180. The array of claim 179, wherein the memory cells of the array are spaced from each other by between about 220 nm and about 10 nm.
+</P>
+<P>
+181. The array of claim 171, wherein some memory cells of the array are laterally spaced relative to each other, and wherein other memory cells of the array are stacked on top of each other.
+</P>
+<P>
+182. The array of claim 181, wherein some of the memory cells of the array that are stacked on top of each other share a bit line.
+</P>
+<P>
+183. The array of claim 182, wherein some of the memory cell of the array that are laterally spaced relative to each other share a word line.
+</P>
+<P>
+184. The array of claim 171, wherein the plurality of word lines are substantially perpendicular to the plurality of bit lines.
+</P>
+<P>
+185. The array of claim 171, wherein the thickness of the nanotube block is between about 10 nm and about 200 nm.
+</P>
+<P>
+186. The array of claim 171, wherein the thickness of the nanotube block is between about 10 nm and about 50 nm.
+</P>
+<P>
+187. A high-density memory array, comprising: a plurality of word lines and a plurality of bit lines; a plurality of memory cell pairs, each memory cell pair comprising: a first memory cell comprising a first conductive terminal, a first nanotube element over the first conductive terminal, a second conductive terminal over the nanotube element, and a first diode in electrical communication with one of the first and second conductive terminals and with a first bit line of the plurality of bit lines; and a second memory cell comprising comprising a third conductive terminal, a second nanotube element over the first conductive terminal, a fourth conductive terminal over the nanotube element, and a second diode in electrical communication with one of the third and fourth conductive terminals and with a second bit line of the plurality of bit lines, wherein the second memory cell is positioned over the first memory cell, and wherein the first and second memory cell share a word line of the plurality of word lines; wherein each memory cell pair of the plurality of memory cells is capable of switching between at least four different resistance states corresponding to four different logic states in response to electrical stimuli at the first and second bit lines and the shared word line.
+</P>
+<P>
+188. A high-density memory array, comprising: a plurality of word lines and a plurality of bit lines; a plurality of memory cell pairs, each memory cell pair comprising: a first memory cell comprising a first conductive terminal, a first nanotube element over the first conductive terminal, a second conductive terminal over the nanotube element, and a first diode in electrical communication with one of the first and second conductive terminals and with a first word line of the plurality of word lines; and a second memory cell comprising comprising a third conductive terminal, a second nanotube element over the first conductive terminal, a fourth conductive terminal over the nanotube element, and a second diode in electrical communication with one of the third and fourth conductive terminals and with a second word line of the plurality of word lines, wherein the second memory cell is positioned over the first memory cell, and wherein the first and second memory cell share a bit line of the plurality of bit lines; wherein each memory cell pair of the plurality of memory cells is capable of switching between at least four different resistance states corresponding to four different logic states in response to electrical stimuli at the first and second word lines and the shared bit line.
+</P>
+<P>
+189. A nanotube diode comprising: a cathode formed of a semiconductor material; and an anode formed of nanotubes, wherein the cathode and the anode are in fixed and direct physical contact, and wherein the cathode and anode are constructed and arranged such that sufficient electrical stimulus applied to the cathode and the anode creates a conductive pathway between the cathode and the anode.
+</P>
+<P>
+190. The nanotube diode of claim 189, wherein the anode comprises a non-woven nanotube fabric having a plurality of unaligned nano tubes.
+</P>
+<P>
+191. The nanotube diode of claim 190, wherein the no n- woven nanotube fabric comprises a layer of nano tubes having a thickness between approximately 0.5 and approximately 20 nanometers.
+</P>
+<P>
+192. The nanotube diode of claim 190, wherein the no n- woven nanotube fabric comprises a block of nanotubes.
+</P>
+<P>
+193. The nanotube diode of claim 189, wherein the nanotubes include metallic nanotubes and semiconducting nanotubes.
+</P>
+<P>
+194. The nanotube diode of claim 193, wherein the cathode comprises an n-type semiconductor material.
+</P>
+<P>
+195. The nanotube diode of claim 194, wherein a Schottky barrier is formed between the n-type semiconductor material and the metallic nanotubes.
+</P>
+<P>
+196. The nanotube diode of claim 194, wherein a PN junction is formed between the n- type semiconductor material and the semiconducting nanotubes.
+</P>
+<P>
+197. The nanotube diode of claim 196, wherein a PN junction is formed between the n- type semiconductor material and the semiconducting nanotubes.
+</P>
+<P>
+198. The nanotube diode of claim 197, wherein the Schottky barrier and the PN junction provide electrically parallel communication pathways between the cathode and the anode.
+</P>
+<P>
+199. The nanotube diode of claim 189, further in electrical communication with a nonvolatile memory cell, the nanotube diode capable of controlling electrical stimulus to the nonvolatile memory cell.
+</P>
+<P>
+200. The nanotube diode of claim 189, further in electrical communication with a nonvolatile nanotube switch, the nanotube diode capable of controlling electrical stimulus to the nonvolatile nanotube switch.
+</P>
+<P>
+201. The nanotube diode of claim 189, further in electrical communication with an electrical network of switching elements, the nanotube diode capable of controlling electrical stimulus to the electrical network of switching elements.
+</P>
+<P>
+202. The nanotube diode of claim 189, further in communication with a storage element, the nanotube diode capable of selecting the storage element in response to electrical stimulus.
+</P>
+<P>
+203. The nanotube diode of claim 202, wherein the storage element is nonvolatile.
+</P>
+<P>
+204. The nanotube diode of claim 189, further in communication with an integrated circuit, the nanotube diode operable as a rectifier for the integrated circuit.
+</P>
+<P>
+205. A nanotube diode comprising: a conductive terminal; a semiconductor element disposed over and in electrical communication with the conductive terminal, wherein the semiconductor element forms a cathode; and a nanotube switching element disposed over and in fixed electrical communication with the semiconductor element, wherein the nanotube switching element forms an anode, wherein the nanotube switching element comprises a conductive contact and nanotube fabric element capable of a plurality of resistance states; and wherein the cathode and the anode are constructed and arranged such that in response to sufficient electrical stimuli applied to the conductive contact and the conductive terminal, the nonvolatile nanotube diode is capable of forming an electrically conductive pathway between the conductive terminal and the conductive contact.
+</P>
+<P>
+206. The nanotube diode of claim 205, wherein the nanotube fabric element comprises a patterned region of nano tubes and the semiconductor element comprises an n-type semiconductor material.
+</P>
+<P>
+207. The nanotube diode of claim 206, wherein the patterned region of nanotubes comprises metallic nanotubes and semiconducting nanotubes.
+</P>
+<P>
+208. The nanotube diode of claim 207, wherein a Schottky barrier is formed between the n-type semiconductor material and the metallic nanotubes comprising the patterned region of nanotubes.
+</P>
+<P>
+209. The nanotube diode of claim 208, wherein a PN junction is formed between the n- type semiconductor material and the semiconducting nanotubes comprising the patterned region of nanotubes.
+</P>
+<P>
+210. The nanotube diode of claim 209, wherein the Schottky barrier and the PN junction provide electrically parallel communication pathways between the conducting terminal and the nanotube fabric element.
+</P>
+<P>
+211. The nanotube diode of claim 205, further in electrical communication with a nonvolatile memory cell, the nanotube diode capable of controlling electrical stimulus to the nonvolatile memory cell.
+</P>
+<P>
+212. The nanotube diode of claim 205, further in electrical communication with a nonvolatile nanotube switch, the nanotube diode capable of controlling electrical stimulus to the nonvolatile nanotube switch.
+</P>
+<P>
+213. The nanotube diode of claim 205, further in electrical communication with an electrical network of switching elements, the nanotube diode capable of controlling electrical stimulus to the electrical network of switching elements.
+</P>
+<P>
+214. The nanotube diode of claim 205, further in communication with a storage element, the nanotube diode capable of selecting the storage element in response to electrical stimulus.
+</P>
+<P>
+215. The nanotube diode of claim 214, wherein the storage element is nonvolatile.
+</P>
+<P>
+216. The nanotube diode of claim 205, further in communication with an integrated circuit, the nanotube diode operable as a rectifier for the integrated circuit.
+</P>
+</Claims>
+<Also_published_as>
+EP2057633A4;WO2008021900A2;WO2008021900A3;WO2008021912A2;WO2008021912A3;WO2008021911A2;WO2008021911A3;TW200826302A;TW200832399A;TW200826102A;KR20090057375A;KR20090043552A;KR20090057239A;JP2010515285A;JP2010515241A;JP2010515240A;EP2104109A1;EP2104108A1;EP2070088A2;EP2070088A4;EP2057683A2;EP2057683A4
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Laser device
+</Title>
+<PublicationNumber>
+EP2075885A2
+</PublicationNumber>
+<Inventor>
+<Name>
+ASADA MASAHIRO [JP]
+</Name>
+<Name>
+SEKIGUCHI RYOTA [JP]
+</Name>
+<Name>
+OUCHI TOSHIHIKO [JP]
+</Name>
+<Name>
+ASADA, MASAHIRO
+</Name>
+<Name>
+SEKIGUCHI, RYOTA
+</Name>
+<Name>
+OUCHI, TOSHIHIKO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CANON KK [JP]
+</Name>
+<Name>
+TOKYO INST TECH [JP]
+</Name>
+<Name>
+CANON KABUSHIKI KAISHA
+</Name>
+<Name>
+TOKYO INSTITUTE OF TECHNOLOGY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2075885
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080172766
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-12-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070331275
+</PriorityNumber>
+<PriorityDate>
+2007-12-25
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S1/02
+</Class>
+<Class>
+H01S5/042
+</Class>
+<Class>
+H01S5/34
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S1/02
+</Class>
+<Class>
+H01S5/042
+</Class>
+<Class>
+H01S5/042C
+</Class>
+<Class>
+H01S5/34A2
+</Class>
+</NCL>
+<Abstract>
+The laser device has a gain medium (103), first and second clads (101,102) sandwiching the gain medium in the thickness direction, and a cavity structure for resonating the electromagnetic wave generated in the gain medium. The gain medium includes a plurality of active regions (140,160) for generating an electromagnetic wave and at lease one connecting region (150) sandwiched among the active regions. The first and second clads are each formed of a negative permittivity medium having a permittivity the real part of which is negative relative to the electromagnetic wave. A potential-adjusting portion is arranged between the connecting region and the first clad and between the connecting region and the second clad for adjusting the electric potential of the connecting region.
+</Abstract>
+<Claims>
+<P>
+1. A laser device comprising:
+</P>
+<P>
+a gain medium;
+</P>
+<P>
+a first clad and a second clad sandwiching the gain medium in the thickness direction thereof; and
+</P>
+<P>
+a cavity structure for resonating an electromagnetic wave generated in the gain medium,
+</P>
+<P>
+the gain medium having a plurality of active regions for generating an electromagnetic wave and at least one connecting region laid among the active regions to connect the active regions, the active regions and the connecting region each including quantum wells and barriers,
+</P>
+<P>
+the first clad and the second clad each including a negative permittivity medium, the real part of permittivity thereof being negative for the electromagnetic wave,
+</P>
+<P>
+a potential-adjusting portion being arranged between the connecting region and the first clad and between the connecting region and the second clad, for adjusting the electric potential of the connecting region.
+</P>
+<P>
+2. The device according to claim 1, wherein
+</P>
+<P>
+the voltages applied to the active regions arranged adjacent to the connecting region are equalized by adjusting the electric potential of the connecting region.
+</P>
+<P>
+3. The device according to claim 1, wherein
+</P>
+<P>
+the potential-adjusting portion is a resistor.
+</P>
+<P>
+4. The device according to claim 3, wherein
+</P>
+<P>
+the laser device is arranged on a substrate and the connecting region includes a draw-out layer drawn out in the in-plane direction of the substrate and electrically connected to the resistor.
+</P>
+<P>
+5. The device according to claim 4, wherein
+</P>
+<P>
+the draw-out layer is carrier-doped and has a finite sheet resistance.
+</P>
+<P>
+6. The device according to claim 3, wherein
+</P>
+<P>
+the resistor is a film resistor formed of an electroconductive material.
+</P>
+<P>
+7. The device according to claim 3, wherein
+</P>
+<P>
+the resistor is formed of a semimetal, a transparent electroconductive film or a semiconductor.
+</P>
+<P>
+8. The device according to claim 1, wherein
+</P>
+<P>
+the negative permittivity medium is formed by a metal, a carrier-doped semiconductor or a metal and a carrier-doped semiconductor.
+</P>
+<P>
+9. The device according to claim 1, wherein
+</P>
+<P>
+the active regions comprise a resonant tunneling diode utilizing a photon-assisted tunneling phenomenon.
+</P>
+<P>
+10. The device according to claim 1, wherein
+</P>
+<P>
+the electromagnetic wave has a frequency within a range extending from 30 GHz to 30 THz.
+</P>
+</Claims>
+<Also_published_as>
+US2011032966A1;US8089997B2;US2009161715A1;US7839910B2;JP2009152508A;CN101471535A;CN101471535B
+</Also_published_as>
+</BiblioData>

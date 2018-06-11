@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+STABILIZED PHOTOVOLTAIC DEVICE AND METHODS FOR ITS MANUFACTURE
+</Title>
+<PublicationNumber>
+EP2022098A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GUHA SUBHENDU [US]
+</Name>
+<Name>
+YANG CHI [US]
+</Name>
+<Name>
+YAN BAOJIE [US]
+</Name>
+<Name>
+YUE GUOZHEN [US]
+</Name>
+<Name>
+GUHA, SUBHENDU
+</Name>
+<Name>
+YANG, CHI
+</Name>
+<Name>
+YAN, BAOJIE
+</Name>
+<Name>
+YUE, GUOZHEN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNITED SOLAR OVONIC LLC [US]
+</Name>
+<Name>
+UNITED SOLAR OVONIC LLC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2022098
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070868270
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US68450
+</PriorityNumber>
+<PriorityDate>
+2007-05-08
+</PriorityDate>
+<PriorityNumber>
+US20060798547P
+</PriorityNumber>
+<PriorityDate>
+2006-05-08
+</PriorityDate>
+<PriorityNumber>
+US20070744918
+</PriorityNumber>
+<PriorityDate>
+2007-05-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L31/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L31/0352
+</Class>
+<Class>
+H01L31/075
+</Class>
+<Class>
+Y02E10/54N
+</Class>
+</NCL>
+<Abstract>
+A semiconductor device of p-i-n type configuration includes a p layer which is comprised of a p-doped semiconductor material, an n layer comprised of an n-doped semiconductor material and an i layer comprised of a substantially intrinsic, nanocrystalline semiconductor material interposed therebetween. The crystalline volume in the i layer decreases as the thickness of said layer increases from its interface with the n layer to its interface with the p layer. The grain size of the substantially intrinsic nanocrystalline semiconductor material may also decrease as the thickness of the i layer increases from its interface with the n layer to its interface with the p layer. The volume of regions of intermediate range order in a portion of the i layer commencing at the interface of the i layer and the p layer, and comprising no more than 50% of the thickness thereof, is greater than is the volume of regions of intermediate range order in the remainder of the i layer. Devices of this type may be used as photovoltaic devices, and may be fabricated by a plasma deposition process.
+</Abstract>
+<Claims>
+<P>
+1. A photovoltaic device having an enhanced resistance to light-induced degradation, said device comprising:
+</P>
+<P>
+a p-layer comprised of a p-doped semiconductor material;
+</P>
+<P>
+an n-layer comprised of an n-doped semiconductor material; and
+</P>
+<P>
+an i-layer comprised of a substantially intrinsic, nanocrystalline semiconductor material interposed between said p-layer and said n-layer; wherein the crystalline volume in said i-layer decreases as the thickness of said layer increases from its interface with the n-layer to its interface with the p-layer.
+</P>
+<P>
+2. The device of claim 1, wherein the grain size of the substantially intrinsic nanocrystalline semiconductor material decreases as the thickness of said i-layer increases from its interface with the n-layer to its interface with the p-layer.
+</P>
+<P>
+3. The device of claim 1, wherein in the substantially intrinsic semiconductor material, the volume of regions of intermediate range order in that portion of said i-layer commencing at the interface of said i-layer and said p-layer, and comprising no more than 50% of the thickness thereof, is greater than is the volume of regions of intermediate range order in the remainder of said i-layer.
+</P>
+<P>
+4. The device of claim 3, wherein said portion of said i-layer comprises no more than 30% of the thickness thereof.
+</P>
+<P>
+5. The device of claim 3, wherein said portion of the i-layer comprises no more than 10% of the thickness thereof.
+</P>
+<P>
+6. The device of claim 3, wherein said regions of intermediate range order have features in the range of 10-80 angstroms.
+</P>
+<P>
+7. The device of claim 3, wherein said regions of intermediate range order have features in the range of 10-50 angstroms.
+</P>
+<P>
+8. The device of claim 3, wherein said regions of intermediate range order have features in the range of 30-50 angstroms.
+</P>
+<P>
+9. The device of claim 3, wherein the regions of intermediate range order have features which are no more than 50 times the average atomic diameter of the elements comprising said substantially intrinsic semiconductor material.
+</P>
+<P>
+10. The device of claim 1, wherein said substantially intrinsic, nanocrystalline semiconductor material comprises a hydrogenated group IV semiconductor alloy.
+</P>
+<P>
+11. The device of claim 10, wherein said hydrogenated group IV semiconductor alloy comprises an alloy containing silicon and/or germanium.
+</P>
+<P>
+12. The device of claim 1, wherein the intermediate range order of said i-layer increases as its thickness increases from its interface with the n-layer to its interface with the p-layer.
+</P>
+<P>
+13. A photovoltaic device comprising:
+</P>
+<P>
+a p-layer comprised of a p-doped semiconductor material;
+</P>
+<P>
+an n-layer comprised of an n-doped semiconductor material; and
+</P>
+<P>
+an i-layer comprised of a substantially intrinsic, nanocrystalline semiconductor material interposed between said p-layer and said n-layer; wherein the intermediate range order of said i-layer increases as the thickness thereof increases from its interface with the n-layer to its interface with the p-layer.
+</P>
+<P>
+14. The device of claim 13, wherein the intermediate range order is defined by the relative volume of crystallites in said material having a size in the range of 10-80 angstroms.
+</P>
+<P>
+15. The device of claim 13, wherein the n-doped semiconductor material comprises a substantially amorphous, hydrogenated, group IV semiconductor alloy material, and the p-doped semiconductor material comprises a nanocrystalline, hydrogenated, group IV semiconductor alloy material.
+</P>
+<P>
+16. A method of making a p-i-n photovoltaic device of the type which comprises a layer of substantially intrinsic, nanocrystalline, semiconductor material interposed between a layer of a p-doped semiconductor material and a layer of an n-doped semiconductor material, said method comprising:
+</P>
+<P>
+preparing said layer of substantially intrinsic semiconductor material by a plasma deposition process wherein a process gas, which includes a precursor of said substantially intrinsic semiconductor material, is subjected to an input of electromagnetic energy which creates a plasma therefrom, which plasma deposits said substantially intrinsic semiconductor material on a substrate; wherein the concentration of a diluent in said process gas is varied during the deposition of the substantially intrinsic semiconductor material so that the diluent concentration in the process gas is greater when a portion of the thickness of the substantially intrinsic semiconductor layer which is closer to the layer of n-doped semiconductor material is being deposited, than it is when a portion of the thickness of the layer of substantially intrinsic semiconductor material which is closer to the p-doped layer of semiconductor material is being deposited.
+</P>
+<P>
+17. The method of claim 16, wherein said diluent is hydrogen.
+</P>
+<P>
+18. The method of claim 16, wherein the concentration of said diluent is varied in a stepwise manner during the time that said layer of substantially intrinsic semiconductor material is being deposited.
+</P>
+<P>
+19. The method of claim 16, wherein the concentration of said diluent is varied in a continuous manner during the time that said layer of substantially intrinsic semiconductor material is being deposited.
+</P>
+<P>
+20. The method of claim 16, wherein said layer of substantially intrinsic semiconductor material comprises a hydrogenated alloy of silicon and/or germanium.
+</P>
+</Claims>
+<Also_published_as>
+US2007256734A1;WO2008060683A2;WO2008060683A3;KR20090020590A
+</Also_published_as>
+</BiblioData>

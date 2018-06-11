@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Photon-mode recording method
+</Title>
+<PublicationNumber>
+EP2180467A1
+</PublicationNumber>
+<Inventor>
+<Name>
+AKIBA MASAHARU [JP]
+</Name>
+<Name>
+TANI TAKEHARU [JP]
+</Name>
+<Name>
+TAKIZAWA HIROO [JP]
+</Name>
+<Name>
+INAGAKI YOSHIO [JP]
+</Name>
+<Name>
+AKIBA, MASAHARU
+</Name>
+<Name>
+TANI, TAKEHARU
+</Name>
+<Name>
+TAKIZAWA, HIROO
+</Name>
+<Name>
+INAGAKI, YOSHIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FUJIFILM CORP [JP]
+</Name>
+<Name>
+FUJIFILM CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2180467
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20100001338
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-06-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040014963
+</PriorityNumber>
+<PriorityDate>
+2004-06-25
+</PriorityDate>
+<PriorityNumber>
+JP20030184932
+</PriorityNumber>
+<PriorityDate>
+2003-06-27
+</PriorityDate>
+<PriorityNumber>
+JP20030300058
+</PriorityNumber>
+<PriorityDate>
+2003-08-25
+</PriorityDate>
+<PriorityNumber>
+JP20030284959
+</PriorityNumber>
+<PriorityDate>
+2003-08-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B7/246
+</Class>
+<Class>
+G11B7/247
+</Class>
+<Class>
+G11B7/248
+</Class>
+<Class>
+G11B7/249
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B7/246
+</Class>
+</NCL>
+<Abstract>
+The invention relates to a photon-mode recording method which comprises at least a first step of forming a latent image through irradiation with light and a second step of amplifying the latent image to form a refractivity difference or an absorbance difference and in which these steps are effected in a dry mode, and to a photon-mode recording material for the recording method.
+</Abstract>
+<Claims>
+<P>
+1. A photon-mode recording method of recording on a photon-mode recording material comprising 1) a sensitizing dye and 2) a recording component, the recording component including a dye precursor capable of becoming a color-forming material having an absorption shifted to a longer wavelength than in the original state, and the recording component having: an absorption in a wavelength range differing from that of the sensitizing dye; and the ability to record the refractivity difference or the absorbance difference caused by the electron transfer or the energy transfer from the sensitizing dye or the excited-state color-forming material,
+</P>
+<P>
+the photon-mode recording method comprising: a first step of forming the color-forming material as a latent image through irradiation with light; and a second step of self-sensitizing and self-amplifying the latent image to perform a recording as the refractivity difference or the absorbance difference, wherein the first and second steps are performed with a dry treating.
+</P>
+<P>
+2. The photon-mode recording method as claimed in claim 1, wherein the sensitizing dye is a two-photon absorbing compound, and the first step comprises causing two-photon absorption through light irradiation to form the latent image.
+</P>
+<P>
+3. The photon-mode recording method as claimed in claim 1, wherein the second step comprises any of light irradiation, heat application, electric field application or magnetic field application.
+</P>
+<P>
+4. The photon-mode recording method as claimed in claim 1, wherein the second step comprises: irradiating the latent image of the color-forming material with light that has a wavelength range where the molar absorbance coefficient for linear absorption of the sensitizing dye is at most 5000, to induce linear absorption of the latent image of the color-forming material; and self-sensitizing and self-amplifying the color-formingmaterial to perform a recording as the refractivity difference or the absorbance difference.
+</P>
+<P>
+5. The photon-mode recording method as claimed in claim 4, wherein the wavelength of the light for latent image formation in the first step is the same as the wavelength of the light for amplifying the latent image to form the refractivity difference or the absorbance difference in the second step, or the wavelength of the light in the second step is shorter than that in the first step.
+</P>
+<P>
+6. An optical recording and reproducing method using a photon-mode recording material recorded according to the method of claim 1, which comprises: irradiating the recorded material with light; and detecting the reflectance difference based on the refractivity difference or the absorbance difference to perform a reproduction.
+</P>
+<P>
+7. The photon-mode recording method as claimed in claim 1, wherein the recording component contains: an acid color-forming dye precursor as a dye precursor; and an acid generator.
+</P>
+<P>
+8. The photon-mode recording method as claimed in claim 1, wherein the recording component contains: a base color-forming dye precursor as a dye precursor; and a base generator.
+</P>
+<P>
+9. The photon-mode recording method as claimed in claim 1, wherein the sensitizing dye is a methine dye or a phthalocyanine dye.
+</P>
+<P>
+10. The photon-mode recording method as claimed in claim 1, which contains an electron-donating compound having the ability to reduce the radical cation of the color-forming material generated by the sensitizing dye, the two-photon absorbing compound or a dye formed from the dye precursor.
+</P>
+<P>
+11. The photon-mode recording method as claimed in claim 1, which contains an electron-accepting compound having the ability to oxidize the radical anion of the color-forming material generated by the sensitizing dye, the two-photon absorbing compound or a dye formed from the dye precursor.
+</P>
+<P>
+12. The photon-mode recording method as claimed in claim 2, wherein, in the first step, the two-photon absorbing optical recording material is irradiated with laser light at a wavelength being longer than the linear absorption band of the two-photon absorbing compound and having no linear absorption, to thereby form a latent image by utilizing the induced two-photon absorption.
+</P>
+<P>
+13. A three-dimensional optical recoding method comprising using the photon-mode recording method of claim 1.
+</P>
+</Claims>
+<Also_published_as>
+EP1492092A2;EP1492092A3;EP1492092B1;US2005003133A1;US7771915B2;US2010239962A1;AT505787T
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+OPTICAL MEASUREMENT METHOD FOR MOLECULAR DETECTION USING RELAXATION MEASUREMENT IN OPTICALLY ANISOTROPIC NANOPARTICLES
+</Title>
+<PublicationNumber>
+EP2147314A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BRUECKL HUBERT [AT]
+</Name>
+<Name>
+SCHOTTER JOERG [AT]
+</Name>
+<Name>
+BETHGE OLE [AT]
+</Name>
+<Name>
+BRUECKL, HUBERT
+</Name>
+<Name>
+SCHOTTER, JOERG
+</Name>
+<Name>
+BETHGE, OLE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+AIT AUSTRIAN INST OF TECHNOLOG [AT]
+</Name>
+<Name>
+AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2147314
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080714306
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008AT00110
+</PriorityNumber>
+<PriorityDate>
+2008-03-27
+</PriorityDate>
+<PriorityNumber>
+AT20070000560
+</PriorityNumber>
+<PriorityDate>
+2007-04-11
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N21/17
+</Class>
+<Class>
+G01N33/543
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N21/17M
+</Class>
+<Class>
+G01N33/543D6
+</Class>
+</NCL>
+<Abstract>
+Optical measurement methods are disclosed that are suitable for determining the relaxation behavior of nanoparticles (62) dispersed in a solution, said nanoparticles having optically anisotropic properties and being alignable by an external stimulus, such as an electrical or magnetic field (61). The aim of the invention is the optical detection of certain molecules that can bind specifically to the surface of the nanoparticle, and thus modify the relaxation behavior of the nanoparticles, and devices for implementing the methods.
+</Abstract>
+<Claims>
+<P>
+Patentansprüche:
+</P>
+<P>
+1. Verfahren zur molekularen Detektion anhand der Ermittlung bzw. Messung des Relaxationsverhaltens, insbesondere der Relaxationszeit, von in einem fluiden Medium dispergierten bzw. suspendierten Mikrooder Nanopartikeln, an welche bzw. an deren Oberfläche die Ziel-Moleküle, -Molekülsequenzen, -Molekülteile oder -Organismen spezifisch oder unspezifisch angebunden sind,
+</P>
+<P>
+- wobei die genannten derart beaufschlagten Partikel in der Dispersion bzw. Suspension durch Einwirkung eines externen Stimulus, vorzugsweise eines gerichteten Feldes, insbesondere eines elektrischen und/oder magnetischen Feldes, zumindest überwiegend in einer Raum-Richtung ausrichtbar sind, und
+</P>
+<P>
+- wobei die genannten Partikel in der Dispersion bzw. Suspension entweder von einem zuerst stochastischen, statistisch ungeordneten, ungerichteten Zustand ausgehend, in einen schliesslich zumindest überwiegend einheitlich gerichteten Zustand übergeführt werden oder umgekehrt,
+</P>
+<P>
+- und das Verhalten bzw. die Eigenschaften der Dispersion bzw. Suspension in jedem der beiden Zustände und/oder zwischen diesen Zuständen, und insbesondere die Zeit zwischen den beiden Zuständen, erfasst wird und aus dem so ermittelten RelaxationsVerhalten auf die Konzentration und/oder Grösse und/oder Eigenschaft der an die Mikrooder Nanopartikel gebundenen Ziel-Moleküle, -Molekülsequenzen, -Molekülteile oder - Organismen geschlossen wird, dadurchgekennzeichnet,
+</P>
+<P>
+- dass für die Relaxationsverhaltens-Ermittlung eine Suspension bzw. Dispersion eingesetzt wird, deren Mikrooder Nanopartikel - neben ihrer geometrischen Lage
+</P>
+<P>
+Ausrichtbarkeit - optische Anisotropie aufweisen,
+</P>
+<P>
+- dass in die genannte Suspension bzw. Dispersion entweder a) , insbesondere linear, polarisiertes oder b) nicht polarisiertes Licht eingestrahlt wird, und
+</P>
+<P>
+- dass das aus der Suspension oder Dispersion
+</P>
+<P>
+- entweder direkt in Einstrahl-Richtung in bzw. durch Absorption aufgenommene oder im Winkel zu derselben als Streulicht austretende oder durch Anregung emittierte Licht entweder a) als solches direkt, oder gegebenenfalls nach Durchgang durch ein der vom Licht durchquerten Dispersion bzw. Suspension nachgeschaltetes Polarisationsfilter, und/oder b) nur erst nach zwingendem Durchgang durch ein der vom Licht durchquerten Dispersion bzw. Suspension nachgeschaltetes Polarisationsfilter einer optometrischen Analyse unterworfen wird.
+</P>
+<P>
+2. Verfahren nach Anspruch 1, dadurch gekennzeichnet, dass bei der optometrischen Analyse als Messgrösse die optische Polarisation und/oder das optische Spektrum des von den Mikrooder Nanopartikeln in der Dispersion bzw. Suspension gestreuten, emittierten oder ausgelöschten Lichtes, und insbesondere die Intensität bzw. die Änderung der Intensität desselben, herangezogen wird.
+</P>
+<P>
+3. Verfahren nach Anspruch 1 oder 2, dadurch gekennzeichnet, dass der bzw. das auf die mit dem/der an sie anbindenden Molekül, Molekülsequenz, Molekülteil bzw. Organismus beaufschlagten Mikrooder Nanopartikel wirkende Stimulus bzw. Feld im Laufe der Messung in seiner Amplitude und/oder Richtung verändert wird und die Relaxation der genannten Partikel hin zu der durch den bzw. das neue(n) veränderte(n) Stimulus bzw. Feld gegebenen Gleichgewichtsposition zeit-, frequenzoder phasenabhängig ermittelt und aufgezeichnet wird.
+</P>
+<P>
+4. Verfahren nach Anspruch 3, dadurch gekennzeichnet, dass der bzw. das auf die mit den Ziel-Molekülen beladenen Mikrobzw. Nanopartikel in der Dispersion bzw. Suspension einwirkende Stimulus bzw. Feld diskret auf einem bestimmten Wert gehalten oder aber periodisch verändert wird.
+</P>
+<P>
+5. Verfahren nach einem der Ansprüche 1 bis 4, dadurch gekennzeichnet, dass in der Dispersion bzw. Suspension als durch einen externen Stimulus, insbesondere durch ein externes Feld, ausrichtbare, lichtpolarisierende Nanopartikel organische Fluoreszenzfarbstoffe, Mesomere von Flüssigkristallen, halbleitende Nanokristalle bzw. Quantum Dots, wie z.B. CdSeoder ZnS-Nanokristalle und/oder Nanopartikel aus Edelmetallen, wie z.B. Au oder Ag eingesetzt werden.
+</P>
+<P>
+6. Verfahren nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet,
+</P>
+<P>
+- dass in der Dispersion bzw. Suspension als durch einen externen Stimulus, insbesondere durch ein externes Feld, ausrichtbare Nanopartikel halbleitende
+</P>
+<P>
+Nanokristalle bzw. Quantum Dots, wie z.B. CdSeoder ZnS-Nanokristalle mit charakteristischen Emissionsund/oder Absorptionsspektren und/oder Nanopartikel aus Edelmetallen, wie z.B. Au oder Ag, in welchen durch einfallendes Licht Plasmonenresonanzen mit charakteristische Streuund/oder Auslöschungsspektren oder Änderungen in denselben angeregt werden, eingesetzt werden.
+</P>
+<P>
+7. Verfahren nach einem der Ansprüche 1 bis 6, dadurch gekennzeichnet, dass in der Dispersion bzw. Suspension als durch ein externes Magnetfeld ausrichtbare, optisch anisotrope magnetisierbare Nanopartikel oder von vornherein selbst ein magnetisches Moment aufweisende Partikel oder mit magnetischen Komponenten versehene, Magnet-Komposit-Nanopartikel darstellende, mit Kern-Hülle-Struktur, oder ganz oder teilweise mit magnetischem Material gefüllte Carbon-Nanotubes, oder längliche bzw. elongierte Partikel, wie z.B. Nanotubes, mit magnetischen Materialien an zumindest einem von deren Polen bzw. Enden, eingesetzt werden.
+</P>
+<P>
+8. Verfahren nach einem der Ansprüche 1 bis 7, dadurch gekennzeichnet, dass in der Dispersion bzw. Suspension als durch einen externen Stimulus, insbesondere durch ein externes Feld, ausrichtbare, optisch anisotrope Nanopartikel mit kristalliner oder amorpher sphärischer oder elongierter Form, welche in zumindest einer der drei Dimensionen jeweils eine Grössenausdehnung von 1 bis 1000 nm, insbesondere von 2 bis 100 nm, aufweisen, eingesetzt werden.
+</P>
+<P>
+9. Verfahren nach einem der Ansprüche 1 bis 8, dadurch gekennzeichnet, dass die an die optisch anisotropen Nanopartikel in der Dispersion bzw. Suspension bzw. an deren Oberfläche gebundenen Ziel-Moleküle, -Molekülsequenzen, -Molekülteile oder - Organismen aus der Gruppe Viren, Bakterien, Nukleinsäuresequenzen, Antikörper, Antigene, Proteine, Moleküle und chemischer Verbindungen, insbesondere Oligomeroder Polymer-Moleküle, ausgewählt sind.
+</P>
+<P>
+10. Verfahren nach einem der Ansprüche 1 bis 9, dadurch gekennzeichnet, dass für die Dispersion bzw. Suspension für die anisotropen bzw. anisotropisierten Nanopartikel als fluides Dispersionsmedium eine Flüssigkeit eingesetzt wird, welche zumindest in jenem Wellenlängenbereich, welcher zur Ermittlung der optischen Anisotropie der in derselben verteilten Mikrooder Nanopartikel dient, zumindest optisch teiltransparent ist.
+</P>
+<P>
+11. Vorrichtung zur Durchführung des Verfahrens nach einem der Ansprüche 1 bis 10, dadurchgekennzeichnet, dass sie eine - einen, vorzugsweise parallelen, Strahl (2) nicht polarisierten, weissen Lichts oder derartigen monochromatischen Lichts mit zumindest einer individuellen Wellenlänge oder gleich von vornherein polarisierten Lichts - abstrahlende Lichtquelle (1), vorzugsweise Laser-Lichtquelle, gegebenenfalls eine von demselben zu durchsetzende Polarisations-Einrichtung (3), insbesondere ein Polarisationsfilter bzw. einen Polarisator, ein licht-transparentes Gefäss, insbesondere eine derartige Küvette (5), mit der mit einem fluiden Medium zubereiteten Dispersion bzw. Suspension von optisch anisotropen Mikrooder Nanopartikeln, an welche bzw. an deren Oberfläche spezifisch anbindbare ZielMoleküle oder -Organismen angebunden sind, eine einen zur einheitlichen Ausrichtung der Mikrooder Nanopartikel befähigten Stimulus, insbesondere einen ein derartiges magnetisches und/oder elektrisches Feld in der Partikel-Dispersion bzw. -Suspension generierenden Stimulus, aussendende insbesondere hinsichtlich Amplitude und/oder Richtung steuerbare, Feld(61)-Abstrahleinrichtung (6), eine, dem die Partikel-Suspension enthaltenden Gefäss, insbesondere der Küvette (5), nachgeordnete, gegebenenfalls in Lichtstrahlrichtung oder in einem Winkel ([alpha]) zu derselben angeordnete PolarisationsEinrichtung (4), insbesondere Polarisationsfilter bzw. Analysator, und eine die Veränderung der Polarisationsrichtung und/oder Intensität des austretenden Lichtes in Folge der durch den genannten Stimulus, insbesondere durch das Feld (61) generierten Ausrichtung bzw. Nichtausrichtung der Mikrooder Nanopartikel (62) ermittelnde und registrierende Detektions-Einrichtung (7) umfasst.
+</P>
+<P>
+12. Vorrichtung gemäss Anspruch 11 zur Durchführung des Verfahrens nach einem der Ansprüche 1 bis 10, dadurchgekennzeichnet, dass sie zumindest eine Lichtquelle (1), welche zur Abstrahlung von Licht mit zumindest zwei unterschiedlichen, definierten Wellenlängen befähigt ist, deren spektrale Intensität für die jeweilige räumliche Ausrichtung der Mikrobzw. Nanopartikel (62) charakteristisch ist und dass sie nach der, der Küvette (5) gegebenenfalls nachgeordneten PolarisationsEinrichtung (4) einen - den dort austretenden Lichtstrahl in zwei, vorzugsweise zueinander senkrecht verlaufende, Strahlen aufspaltenden - Strahlteiler (11) umfasst, von welchen Strahlen jeweils einer, vorzugsweise jeweils nach Durchquerung eines entsprechenden Farbfilters (9, 10) jeweils auf die, demselben zugeordnete optische Detektions-Einrichtung (7, 8) trifft.
+</P>
+</Claims>
+<Also_published_as>
+WO2008124853A1;US2010105026A1;CN101743475A;AT503845A1;AT503845B1
+</Also_published_as>
+</BiblioData>

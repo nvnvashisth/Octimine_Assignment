@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Non-volatile SRAM memory cell with mobile- gate transistors and piezoelectric activation
+</Title>
+<PublicationNumber>
+EP2015358A2
+</PublicationNumber>
+<Inventor>
+<Name>
+THOMAS OLIVIER [FR]
+</Name>
+<Name>
+COLLONGE MICHAEL [FR]
+</Name>
+<Name>
+VINET MAUD [FR]
+</Name>
+<Name>
+THOMAS, OLIVIER
+</Name>
+<Name>
+COLLONGE, MICHAEL
+</Name>
+<Name>
+VINET, MAUD
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE ET AUX ENERGIESALTERNATIVES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2015358
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080159884
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+FR20070056348
+</PriorityNumber>
+<PriorityDate>
+2007-07-09
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C14/00
+</Class>
+<Class>
+G11C23/00
+</Class>
+<Class>
+H01L21/8244
+</Class>
+<Class>
+H01L27/11
+</Class>
+<Class>
+H01L29/51
+</Class>
+<Class>
+B81B3/00
+</Class>
+<Class>
+B81B7/02
+</Class>
+<Class>
+H01L21/28
+</Class>
+<Class>
+H01L21/336
+</Class>
+<Class>
+H01L27/20
+</Class>
+<Class>
+H01L29/423
+</Class>
+<Class>
+H01L29/49
+</Class>
+<Class>
+H01L29/68
+</Class>
+<Class>
+H01L29/78
+</Class>
+<Class>
+H01L41/09
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C14/00F
+</Class>
+<Class>
+G11C23/00
+</Class>
+<Class>
+H01L27/11
+</Class>
+<Class>
+H01L27/11F
+</Class>
+<Class>
+H01L29/51C
+</Class>
+</NCL>
+<Abstract>
+The cell has n-type conductive transistors and p-type charging transistors for forming a flip-flop. Each transistor has a gate dielectric and a mobile gate (116) suspended above and separated from the dielectric. The transistors are surmounted from piezoelectric actuators that displace the gate relative to the dielectric and a channel (105). The actuators have a stacking (120) formed of a lower polarization electrode (122), a piezoelectric layer (125) resting on the electrode (122), and an upper polarization electrode (128) resting on the layer.
+</Abstract>
+<Claims>
+<P>
+1. Cellule de mémoire vive non-volatile à accès aléatoire, comprenant :
+</P>
+<P>
+- au moins une première pluralité de transistors (TLT, TLF, TDT, TDF) formant une bascule, les transistors de la première pluralité de transistors (TLT, TLF, TDT, TDF) comportant respectivement : un diélectrique de grille et une grille (116, 216) mobile, suspendue au-dessus et disjointe du diélectrique de grille, la grille étant située à une distance ajustable de ladite zone de diélectrique de grille, les transistors de la première pluralité de transistors étant en outre surmontés respectivement de moyens d&apos;actionnement piézoélectriques aptes à déplacer la grille par rapport à ladite zone de canal (105) les moyens d&apos;actionnement piézoélectriques comprenant un empilement (120, 220) formé d&apos;au moins une couche de matériau piézoélectrique (125, 225) reposant sur une première électrode (122, 222) de polarisation, une deuxième électrode (128, 228) de polarisation reposant sur la couche de matériau piézoélectrique.
+</P>
+<P>
+2. Cellule de mémoire vive non-volatile à accès aléatoire selon la revendication 1, la grille (116, 216) étant rattachée à ladite première électrode (128, 228).
+</P>
+<P>
+3. Cellule de mémoire vive non-volatile à accès aléatoire selon la revendication 1 ou 2, dans lequel la grille est en contact avec ladite première électrode (128, 228).
+</P>
+<P>
+4. Cellule de mémoire vive non-volatile à accès aléatoire selon l&apos;une des revendications 1 à 3, les transistors de la première pluralité de transistors ayant une zone de source (104) connectée à la deuxième électrode (128) de leurs moyens d&apos;actionnement piézoélectriques respectifs.
+</P>
+<P>
+5. Cellule de mémoire vive non-volatile à accès aléatoire selon l&apos;une des revendications 1 à 3, les transistors de la première pluralité de transistors ayant une zone de drain (106) connecté à la deuxième électrode (128) de leurs moyens d&apos;actionnement piézoélectriques respectifs.
+</P>
+<P>
+6. Cellule de mémoire vive non-volatile à accès aléatoire selon l&apos;une des revendications 1 à 5, les transistors de la première pluralité de transistors étant aptes respectivement à adopter : au moins une première position dans laquelle leur grille (116) est située à une première distance du canal, et à adopter au moins une deuxième position dans laquelle ladite grille est située à une deuxième distance du canal, différente de la première distance.
+</P>
+<P>
+7. Cellule de mémoire vive non-volatile à accès aléatoire selon la revendication 5 ou 6, comprenant en outre des moyens d&apos;alimentation aptes à alimenter les transistors de la première pluralité de transistors et leur moyens d&apos;actionnements respectifs, les transistors de la première pluralité de transistors étant aptes respectivement à adopter une position donnée parmi lesdites première position et deuxième position, et apte en outre à maintenir la grille dans ladite position donnée après arrêt ou extinction desdits moyens d&apos;alimentation.
+</P>
+<P>
+8. Cellule de mémoire vive non-volatile à accès aléatoire selon l&apos;une des revendications 6 ou 7, les transistors de la première pluralité de transistors étant aptes respectivement à adopter un état dans lequel, les moyens d&apos;actionnement piézoélectriques sont mis dans un état de polarisation donné, et dans lequel la grille (116, 216) est maintenue à l&apos;aide des moyens d&apos;actionnement piézoélectriques en contact avec le diélectrique (111, 211) de grille, les transistors de la première pluralité de transistors étant aptes en outre, respectivement, à adopter un autre état dans lequel les moyens d&apos;actionnement piézoélectriques ne sont pas polarisés, et dans lequel la grille (116, 216) est maintenue par collage électrostatique en contact avec le diélectrique (111, 211) de grille.
+</P>
+<P>
+9. Cellule de mémoire vive non-volatile à accès aléatoire selon l&apos;une des revendications 1 à 8, dans lequel les transistors de la première pluralité de transistor ont une tension de seuil variable, susceptible de varier par déplacement de la grille (116, 216) mobile à l&apos;aide des moyens d&apos;actionnement piézoélectriques.
+</P>
+<P>
+10. Cellule de mémoire vive non-volatile à accès aléatoire selon l&apos;une des revendications 1 à 9, susceptible d&apos;adopter plusieurs modes de fonctionnement dont au moins un mode de rétention d&apos;information contenue dans la cellule, au moins un mode de lecture d&apos;information contenue dans la cellule, et au moins un mode d&apos;écriture dans la cellule, les transistors de la première pluralité de transistor ayant respectivement une tension de seuil variable.
+</P>
+<P>
+11. Cellule de mémoire vive à accès aléatoire selon l&apos;une des revendications 1 à 10, ladite première pluralité de transistors comprenant :
+</P>
+<P>
+- un premier transistor de charge (TLT) et un deuxième transistor de charge (TLE),
+</P>
+<P>
+- un premier transistor de conduction (TDT) et d&apos;un deuxième transistor de conduction (TDF).
+</P>
+<P>
+12. Cellule de mémoire vive à accès aléatoire selon l&apos;une des revendications 1 à 11, comprenant au moins un premier transistor d&apos;accès (TAT) et au moins un deuxième transistor d&apos;accès (TAF) disposés respectivement entre une première ligne de bit (BLT) et un premier noeud de stockage (T), et entre une deuxième ligne de bit (BLF) et un deuxième noeud de stockage (F),
+</P>
+<P>
+13. Mémoire SRAM, comprenant une pluralité de cellules suivant l&apos;une des revendications 1 à 12.
+</P>
+<P>
+14. Dispositif microélectronique comprenant au moins une mémoire SRAM selon la revendication 13.
+</P>
+</Claims>
+<Also_published_as>
+EP2015358A3;EP2015358B1;US2009016095A1;US7768821B2;FR2918794A1;AT535938T
+</Also_published_as>
+</BiblioData>

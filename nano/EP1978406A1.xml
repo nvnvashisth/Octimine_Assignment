@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A method of preparing a substrate having a layer or pattern of metal on it
+</Title>
+<PublicationNumber>
+EP1978406A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WESSELS JURINA [DE]
+</Name>
+<Name>
+LUESSEM BJOERN [DE]
+</Name>
+<Name>
+YASUDA AKIO [DE]
+</Name>
+<Name>
+SCHWAAB DANIEL [DE]
+</Name>
+<Name>
+MAYER DIRK [DE]
+</Name>
+<Name>
+OFFENHAEUSSER ANDREAS [DE]
+</Name>
+<Name>
+GILLES SANDRA [DE]
+</Name>
+<Name>
+WESSELS, JURINA
+</Name>
+<Name>
+LUESSEM, BJOERN
+</Name>
+<Name>
+YASUDA, AKIO
+</Name>
+<Name>
+SCHWAAB, DANIEL
+</Name>
+<Name>
+MAYER, DIRK
+</Name>
+<Name>
+OFFENHAEUSSER, ANDREAS
+</Name>
+<Name>
+GILLES, SANDRA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SONY DEUTSCHLAND GMBH [DE]
+</Name>
+<Name>
+FORSCHUNGSZENTRUM JUELICH GMBH [DE]
+</Name>
+<Name>
+SONY DEUTSCHLAND GMBH
+</Name>
+<Name>
+FORSCHUNGSZENTRUM JUELICH GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1978406
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070006696
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20070006696
+</PriorityNumber>
+<PriorityDate>
+2007-03-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to a method of preparing a substrate having a layer or pattern of metal on it, to a substrate prepared by such method and to uses thereof.
+</Abstract>
+<Claims>
+<P>
+1. A method of applying a layer or pattern of metal on a substrate, said method comprising the steps
+</P>
+<P>
+a) providing a target substrate,
+</P>
+<P>
+b) immobilizing a layer of polymeric material on said target substrate,
+</P>
+<P>
+c) applying and immobilizing a layer or pattern of metal on said layer of polymeric material on said target substrate using a stamp onto which said layer or pattern of metal has previously been applied, by bringing said stamp into conformal contact with said target substrate.
+</P>
+<P>
+2. The method according to claim 1, wherein, in step b) said layer of polymeric material is immobilized on said target substrate by covalently linking said polymeric material on said target substrate.
+</P>
+<P>
+3. The method according to any of the foregoing claims, wherein the adhesion between said stamp and said layer or pattern of metal is smaller than the adhesion between said layer of polymeric material and said layer or pattern of metal.
+</P>
+<P>
+4. The method according to any of the foregoing claims, wherein said layer of polymeric material comprises a polymer that has a polymer chain which is flexible, and furthermore has a proximal end and a distal end and is covalently linked to said target substrate at said proximal end and has a functional group at said distal end, said functional group allowing an immobilization of said layer or pattern of metal on said layer of polymeric material.
+</P>
+<P>
+5. The method according to any of the foregoing claims, wherein said layer of polymeric material has a contact angle of water in the range of from 20[deg.] and 70[deg.], preferably from 20[deg.] to 50[deg.], more preferably from 30[deg.] to 50[deg.].
+</P>
+<P>
+6. The method according to any of the foregoing claims, wherein said layer of polymeric material has a Young&apos;s modulus in the range of from 0.001 GPa to 5 GPa, preferably from 0.1 GPa to 0.5 GPa.
+</P>
+<P>
+7. The method according to any of the foregoing claims, wherein said layer of polymeric material when immobilized on said target substrate has an average thickness in the range of from 1 nm to 20 [micro]m, preferably from 1 nm to 200 nm, more preferably from 1 nm to 50 nm, and even more preferably from 1 nm to 10 nm.
+</P>
+<P>
+8. The method according to any of claims 4 - 7, wherein said polymer is covalently linked to said target substrate via functional groups on the surface of said target substrate, said functional groups on the surface of said target substrate being selected from amino groups, hydroxyl groups, silanol groups, vinyl groups, carboxyl groups and thiol groups.
+</P>
+<P>
+9. The method according to any of claims 4 - 8, wherein said polymer is covalently linked to said target substrate via functional groups on said proximal end of said polymer, said functional groups on said proximal end of said polymer being selected from amino groups, hydroxyl groups, silanol groups, alkoxy groups, vinyl groups, carboxyl groups, thiol groups and succinimide ester groups.
+</P>
+<P>
+10. The method according to any of claims 4-9, wherein said functional group at said distal end of said polymer is selected from a thiol group, an amino group, a hydroxyl group, a carboxyl group, a nitrile group and a carbonyl group.
+</P>
+<P>
+11. The method according to any of claims 4-10, wherein said polymer is selected from the group comprising plastomers having a glass transition temperature lower than the temperature at which the method according to any of the foregoing claims is performed, preferably a glass transition temperature lower than 40[deg.]C, poly(ethylene glycols) (PEG), DNA, RNA, polyhydroxyalkanoates, polycarbohydrates, polypeptides and mixed self-assembled monolayers (SAMs).
+</P>
+<P>
+12. The method according to claim 11, wherein said polymer is a poly(ethylene glycol) (PEG).
+</P>
+<P>
+13. The method according to claim 12, wherein said poly(ethylene glycol) has a molecular weight in the range of from 500 Da to 10000 Da, preferably from 1000 Da to 5000 Da, more preferably from 2000 Da to 4000 Da and most preferably approximately 3000 Da.
+</P>
+<P>
+14. The method according to claim 13, wherein said poly(ethylene glycol) comprises approximately 50 - 100 ethylene glycol units, preferably 50 - 80 ethylene glycol units, more preferably 60 - 70 ethylene glycol units.
+</P>
+<P>
+15. The method according to any of the foregoing claims, wherein said target substrate is made of a material selected from Si, Si having a SiO2 layer on top of it, mica, glass, float glass, perovskites, quartz, amorphous composites, metal, metal oxide and a semiconductor, said metal being selected from the group comprising Au, Ti, Pt, Ag, Cr, Cu, Al, and alloys thereof, said metal oxide being selected from the group comprising Al2O3, AgO, TiO2, SiO2, DyScO3, YsZ, and said semiconductor is preferably selected from the group comprising Si, Ge, GaAs, GaN, In, Sb, InP, CdS, ZnSe.
+</P>
+<P>
+16. The method according to any of the foregoing claims, wherein said target substrate, prior to performing step b), comprises a structure of metal of defined dimensions, such as height, target substrate area covered by said structure, length and shape.
+</P>
+<P>
+17. The method according to claim 16, wherein said structure of metal is at least partially integrated into a surface of said target substrate.
+</P>
+<P>
+18. The method according to any of claims 16 - 17, wherein said polymer has a length equal to the height of said structure of metal above the surface of said target substrate, or said polymer has a length which is &amp;lt;= 40% longer, preferably &amp;lt;= 20% longer, more preferably &amp;lt;= 10% longer than the height of said structure of metal above the surface of said target substrate.
+</P>
+<P>
+19. The method according to any of claims 16 - 17, wherein said structure of metal is covered by a layer of molecules.
+</P>
+<P>
+20. The method according to claim 19, wherein said polymer has a length equal to the height of said structure of metal, including said layer of molecules.
+</P>
+<P>
+21. The method according to any of claims 12 - 20, wherein said poly(ethylene glycol) has a succinimide ester group on said proximal end and is covalently linked to said target substrate via amino groups on the surface of said target substrate which amino groups are linked with said succinimide ester group on said proximal end of said poly(ethylene glycol).
+</P>
+<P>
+22. The method according to any of claims 12-21, wherein said poly(ethylene glycol) has a thiol group on said distal end.
+</P>
+<P>
+23. The method according to any of claims 10 - 22, wherein, up to and including step b), said functional group at said distal end of said polymer, preferably said thiol group, is protected by a protecting group, preferably by a trityl group.
+</P>
+<P>
+24. The method according to claim 23, wherein, after step b) and prior to step c), said functional group at said distal end of said polymer, preferably said thiol group, is deprotected.
+</P>
+<P>
+25. The method according to any of the foregoing claims, wherein, in step c) said layer or pattern of metal which has previously been applied onto said stamp, is transferred onto said layer of polymeric material on said target substrate upon bringing said stamp into conformal contact with said target substrate.
+</P>
+<P>
+26. The method according to any of the foregoing claims, wherein said metal in said layer or pattern of metal is selected from the group comprising Au, Ti, Pt, Ag, Cr, Cu, Al and alloys thereof, and said metal in said structure of metal as defined in any of claims 16-20 is independently selected from the group comprising Au, Ti, Pt, Ag, Cr, Cu, Al and alloys thereof.
+</P>
+<P>
+27. The method according to any of the foregoing claims, wherein said stamp onto which a layer or pattern of metal has previously been applied is a polymeric stamp.
+</P>
+<P>
+28. The method according to claim 27, wherein said polymeric stamp is made of a polymeric material selected from the group comprising elastomers, plastomers, ionomers and resins.
+</P>
+<P>
+29. A substrate having a layer or pattern of metal on it and being prepared by the method according to any of the foregoing claims.
+</P>
+<P>
+30. Use of a substrate according to claim 29 in an electronic device.
+</P>
+<P>
+1. A method of applying a layer or pattern of metal on a substrate, said method comprising the steps
+</P>
+<P>
+a) providing a target substrate,
+</P>
+<P>
+b) immobilizing a layer of polymeric material on said target substrate,
+</P>
+<P>
+c) applying and immobilizing a layer or pattern of metal on said layer of polymeric material on said target substrate using a stamp onto which said layer or pattern of metal has previously been applied, by bringing said stamp into conformal contact with said target substrate.
+</P>
+<P>
+2. The method according to claim 1, wherein, in step b) said layer of polymeric material is immobilized on said target substrate by covalently linking said polymeric material on said target substrate.
+</P>
+<P>
+3. The method according to any of the foregoing claims, wherein the adhesion between said stamp and said layer or pattern of metal is smaller than the adhesion between said layer of polymeric material and said layer or pattern of metal.
+</P>
+<P>
+4. The method according to any of the foregoing claims, wherein said layer of polymeric material comprises a polymer that has a polymer chain which is flexible, and furthermore has a proximal end and a distal end and is covalently linked to said target substrate at said proximal end and has a functional group at said distal end, said functional group allowing an immobilization of said layer or pattern of metal on said layer of polymeric material.
+</P>
+<P>
+5. The method according to any of the foregoing claims, wherein said layer of polymeric material has a contact angle of water in the range of from 20[deg.] and 70[deg.], preferably from 20[deg.] to 50[deg.], more preferably from 30[deg.] to 50[deg.].
+</P>
+<P>
+6. The method according to any of the foregoing claims, wherein said layer of polymeric material has a Young&apos;s modulus in the range of from 0.001 GPa to 5 GPa, preferably from 0.1 GPa to 0.5 GPa.
+</P>
+<P>
+7. The method according to any of the foregoing claims, wherein said layer of polymeric material when immobilized on said target substrate has an average thickness in the range of from 1 nm to 20 [micro]m, preferably from 1 nm to 200 nm, more preferably from 1 nm to 50 nm, and even more preferably from 1 nm to 10 nm.
+</P>
+<P>
+8. The method according to any of claims 4 - 7, wherein said polymer is covalently linked to said target substrate via functional groups on the surface of said target substrate, said functional groups on the surface of said target substrate being selected from amino groups, hydroxyl groups, silanol groups, vinyl groups, carboxyl groups and thiol groups.
+</P>
+<P>
+9. The method according to any of claims 4 - 8, wherein said polymer is covalently linked to said target substrate via functional groups on said proximal end of said polymer, said functional groups on said proximal end of said polymer being selected from amino groups, hydroxyl groups, silanol groups, alkoxy groups, vinyl groups, carboxyl groups, thiol groups and succinimide ester groups.
+</P>
+<P>
+10. The method according to any of claims 4-9, wherein said functional group at said distal end of said polymer is selected from a thiol group, an amino group, a hydroxyl group, a carboxyl group, a nitrile group and a carbonyl group.
+</P>
+<P>
+11. The method according to any of claims 4-10, wherein said polymer is selected from the group comprising plastomers having a glass transition temperature lower than the temperature at which the method according to any of the foregoing claims is performed, preferably a glass transition temperature lower than 40[deg.]C, poly(ethylene glycols) (PEG), DNA, RNA, polyhydroxyalkanoates, polycarbohydrates, polypeptides and mixed self-assembled monolayers (SAMs).
+</P>
+<P>
+12. The method according to claim 11, wherein said polymer is a poly(ethylene glycol) (PEG).
+</P>
+<P>
+13. The method according to claim 12, wherein said poly(ethylene glycol) has a molecular weight in the range of from 500 Da to 10000 Da, preferably from 1000 Da to 5000 Da, more preferably from 2000 Da to 4000 Da and most preferably approximately 3000 Da.
+</P>
+<P>
+14. The method according to claim 13, wherein said poly(ethylene glycol) comprises approximately 50 - 100 ethylene glycol units, preferably 50 - 80 ethylene glycol units, more preferably 60 - 70 ethylene glycol units.
+</P>
+<P>
+15. The method according to any of the foregoing claims, wherein said target substrate is made of a material selected from Si, Si having a SiO2 layer on top of it, mica, glass, float glass, perovskites, quartz, amorphous composites, metal, metal oxide and a semiconductor, said metal being selected from the group comprising Au, Ti, Pt, Ag, Cr, Cu, Al, and alloys thereof, said metal oxide being selected from the group comprising Al2O3, AgO, TiO2, SiO2, DyScO3, YsZ, and said semiconductor is preferably selected from the group comprising Si, Ge, GaAs, GaN, In, Sb, InP, CdS, ZnSe.
+</P>
+<P>
+16. The method according to any of the foregoing claims, wherein said target substrate, prior to performing step b), comprises a structure of metal of defined dimensions, such as height, target substrate area covered by said structure, length and shape.
+</P>
+<P>
+17. The method according to claim 16, wherein said structure of metal is at least partially integrated into a surface of said target substrate.
+</P>
+<P>
+18. The method according to any of claims 16 - 17, wherein said polymer has a length equal to the height of said structure of metal above the surface of said target substrate, or said polymer has a length which is &amp;lt;= 40% longer, preferably &amp;lt;= 20% longer, more preferably &amp;lt;= 10% longer than the height of said structure of metal above the surface of said target substrate.
+</P>
+<P>
+19. The method according to any of claims 16 - 17, wherein said structure of metal is covered by a layer of molecules.
+</P>
+<P>
+20. The method according to claim 19, wherein said polymer has a length equal to the height of said structure of metal, including said layer of molecules.
+</P>
+<P>
+21. The method according to any of claims 12 - 20, wherein said poly(ethylene glycol) has a succinimide ester group on said proximal end and is covalently linked to said target substrate via amino groups on the surface of said target substrate which amino groups are linked with said succinimide ester group on said proximal end of said poly(ethylene glycol).
+</P>
+<P>
+22. The method according to any of claims 12-21, wherein said poly(ethylene glycol) has a thiol group on said distal end.
+</P>
+<P>
+23. The method according to any of claims 10 - 22, wherein, up to and including step b), said functional group at said distal end of said polymer, preferably said thiol group, is protected by a protecting group, preferably by a trityl group.
+</P>
+<P>
+24. The method according to claim 23, wherein, after step b) and prior to step c), said functional group at said distal end of said polymer, preferably said thiol group, is deprotected.
+</P>
+<P>
+25. The method according to any of the foregoing claims, wherein, in step c) said layer or pattern of metal which has previously been applied onto said stamp, is transferred onto said layer of polymeric material on said target substrate upon bringing said stamp into conformal contact with said target substrate.
+</P>
+<P>
+26. The method according to any of the foregoing claims, wherein said metal in said layer or pattern of metal is selected from the group comprising Au, Ti, Pt, Ag, Cr, Cu, Al and alloys thereof, and said metal in said structure of metal as defined in any of claims 16-20 is independently selected from the group comprising Au, Ti, Pt, Ag, Cr, Cu, Al and alloys thereof.
+</P>
+<P>
+27. The method according to any of the foregoing claims, wherein said stamp onto which a layer or pattern of metal has previously been applied is a polymeric stamp.
+</P>
+<P>
+28. The method according to claim 27, wherein said polymeric stamp is made of a polymeric material selected from the group comprising elastomers, plastomers, ionomers and resins.
+</P>
+<P>
+29. A substrate having a layer or pattern of metal on it and being prepared by the method according to any of the foregoing claims.
+</P>
+<P>
+30. Use of a substrate according to claim 29 in an electronic device.
+</P>
+</Claims>
+<Also_published_as>
+US2008241491A1;US7824734B2;CN101320210A
+</Also_published_as>
+</BiblioData>

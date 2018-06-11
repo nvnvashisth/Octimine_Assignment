@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Lithography meandering order
+</Title>
+<PublicationNumber>
+EP2026131A2
+</PublicationNumber>
+<Inventor>
+<Name>
+SCHRAM IVAR [NL]
+</Name>
+<Name>
+DIJKSMAN JOHAN FREDERIK [NL]
+</Name>
+<Name>
+WUISTER SANDER FREDERIK [NL]
+</Name>
+<Name>
+KRUIJT-STEGEMAN YVONNE WENDELA [NL]
+</Name>
+<Name>
+LAMMERS JEROEN HERMAN [NL]
+</Name>
+<Name>
+SCHROEDERS RICHARD JOSEPH MARINUS [NL]
+</Name>
+<Name>
+SCHRAM, IVAR
+</Name>
+<Name>
+DIJKSMAN, JOHAN FREDERIK
+</Name>
+<Name>
+WUISTER, SANDER FREDERIK
+</Name>
+<Name>
+KRUIJT-STEGEMAN, YVONNE WENDELA
+</Name>
+<Name>
+LAMMERS, JEROEN HERMAN
+</Name>
+<Name>
+SCHROEDERS, RICHARD JOSEPH MARINUS
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ASML NETHERLANDS BV [NL]
+</Name>
+<Name>
+ASML NETHERLANDS BV
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2026131
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080252658
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-08-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20070889585
+</PriorityNumber>
+<PriorityDate>
+2007-08-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G03F7/00
+</Class>
+<Class>
+G03F7/20
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+<Class>
+G03F7/70F26
+</Class>
+<Class>
+G03F7/70J
+</Class>
+<Class>
+G03F7/70J2
+</Class>
+</NCL>
+<Abstract>
+An imprint lithography method is disclosed, which includes imprinting a plurality of patterns in an imprintable medium provided on a substrate, wherein the order in which the patterns are imprinted in the imprintable medium is such that, for the majority of the patterns, two consecutively imprinted patterns are not imprinted adjacent to one another.
+</Abstract>
+<Claims>
+<P>
+1. An imprint lithography method, comprising:
+</P>
+<P>
+imprinting a plurality of patterns in an imprintable medium provided on a substrate,
+</P>
+<P>
+wherein the order in which the patterns are imprinted in the imprintable medium is such that, for the majority of the patterns, two consecutively imprinted patterns are not imprinted adjacent to one another.
+</P>
+<P>
+2. The method of claim 1, wherein, for the majority of patterns, consecutively imprinted patterns are spaced apart by a pattern space.
+</P>
+<P>
+3. The method of claim 2, wherein the pattern space is occupied by a pattern previously imprinted in the imprintable medium.
+</P>
+<P>
+4. The method of claim 2, wherein the pattern space is an unpatterned area of imprintable medium having an area substantially equal to that of a pattern to be imprinted.
+</P>
+<P>
+5. The method of any preceding claim, wherein the order in which the patterns are imprinted in the imprintable medium is such that, for all of the patterns, two consecutively imprinted patterns are not imprinted adjacent to one another.
+</P>
+<P>
+6. The method of any preceding claim, wherein the patterns are imprinted using an imprint template.
+</P>
+<P>
+7. The method of claim 6, wherein, prior to imprinting a plurality of patterns in an imprintable medium provided on a substrate, the imprint template is heated.
+</P>
+<P>
+8. An imprint lithography method comprising:
+</P>
+<P>
+heating an imprint template, prior to using the imprint template to imprint a pattern in an imprintable medium on a substrate.
+</P>
+<P>
+9. The method of claim 7 or claim 8, wherein the imprint template is heated such that the imprint template is at a substantially steady state temperature when the pattern is imprinted in the imprintable medium.
+</P>
+<P>
+10. The method of any of claims 7 to 9, wherein the imprint template is heated by exposing the imprint template to radiation.
+</P>
+<P>
+11. The method of claim 10, wherein the imprint template is exposed to the radiation on more than one occasion.
+</P>
+<P>
+12. The method of claim 10 or claim 11, wherein the imprint template is exposed to a substantially same dose of radiation as would be required to freeze an imprinted pattern in the imprintable medium.
+</P>
+<P>
+13. The method of any of claims 7 to 12, wherein the imprint template is heated by exposing the imprint template to a heat source.
+</P>
+<P>
+14. The method of claim 13, wherein the imprint template is exposed to the heat source on more than one occasion.
+</P>
+<P>
+15. The method of claim 13 or claim 14, wherein the imprint template is exposed to a substantially same amount of thermal energy as would be required to freeze an imprinted pattern in the imprintable medium.
+</P>
+<P>
+16. The method of any of claims 7 to 15, wherein the imprint template is heated by using the imprint template to perform a dummy imprint.
+</P>
+<P>
+17. The method of claim 16, wherein performing the dummy imprint comprises imprinting a layer of imprintable medium with a pattern and freezing the pattern in the imprintable medium, the layer of imprintable medium being provided on a surface other that of the substrate.
+</P>
+<P>
+18. The method of claim 17, wherein the imprint template is heated by using the imprint template to perform seven dummy imprints.
+</P>
+<P>
+19. A lithographic method comprising:
+</P>
+<P>
+projecting a plurality of patterns onto a substrate using a patterned radiation beam,
+</P>
+<P>
+wherein the order in which the patterns are projected onto the substrate is such that, for the majority of the patterns, two consecutively projected patterns are not projected adjacent to one another.
+</P>
+<P>
+20. An imprint lithography apparatus comprising:
+</P>
+<P>
+an imprint template holder configured to hold an imprint template;
+</P>
+<P>
+a substrate holder configured to hold a substrate; and
+</P>
+<P>
+a controller configured to control movement of the imprint template, the substrate, or both the imprint template and the substrate, in such a way that the order in which a plurality of patterns are imprinted, using the imprint template, in an imprintable medium provided on the substrate is such that, for the majority of the patterns, two consecutively imprinted patterns are not imprinted adjacent to one another.
+</P>
+<P>
+21. A lithographic apparatus comprising:
+</P>
+<P>
+a support structure configured hold a patterning device, the patterning device serving to impart a radiation beam with a pattern in its cross-section;
+</P>
+<P>
+a substrate table configured to hold a substrate;
+</P>
+<P>
+a projection system configured to project the patterned radiation beam onto the substrate; and
+</P>
+<P>
+a controller configured to control movement of (i) the substrate, (ii) the patterning device, (iii) the projection system, or (iv) any combination selected from (i)-(iii) in such a way that the order in which a plurality of patterns is projected onto the substrate is such that, for the majority of the patterns, two consecutively projected patterns are not projected adjacent to one another.
+</P>
+</Claims>
+<Also_published_as>
+EP2026131A3;US2009047606A1;US7854877B2;JP2009065135A
+</Also_published_as>
+</BiblioData>

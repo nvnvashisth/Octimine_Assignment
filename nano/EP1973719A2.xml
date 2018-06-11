@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PATTERNING SUBSTRATES EMPLOYING MULTIPLE CHUCKS
+</Title>
+<PublicationNumber>
+EP1973719A2
+</PublicationNumber>
+<Inventor>
+<Name>
+CHOI BYUNG-JIN [US]
+</Name>
+<Name>
+SREENIVASAN SIDLGATA V [US]
+</Name>
+<Name>
+CHOI, BYUNG-JIN
+</Name>
+<Name>
+SREENIVASAN, SIDLGATA V
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MOLECULAR IMPRINTS INC [US]
+</Name>
+<Name>
+MOLECULAR IMPRINTS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1973719
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070718012
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-20
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US01670
+</PriorityNumber>
+<PriorityDate>
+2007-01-20
+</PriorityDate>
+<PriorityNumber>
+US20060760738P
+</PriorityNumber>
+<PriorityDate>
+2006-01-20
+</PriorityDate>
+<PriorityNumber>
+US20060788808P
+</PriorityNumber>
+<PriorityDate>
+2006-04-03
+</PriorityDate>
+<PriorityNumber>
+US20060827125P
+</PriorityNumber>
+<PriorityDate>
+2006-09-27
+</PriorityDate>
+<PriorityNumber>
+US20060565350
+</PriorityNumber>
+<PriorityDate>
+2006-11-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B29C37/02
+</Class>
+<Class>
+G03F1/92
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G03F7/00A
+</Class>
+</NCL>
+<Abstract>
+The present invention is directed towards a method for patterning first and second substrates in a nanoimprint lithography system, the method including, inter alia, positioning the first substrate on a first substrate chuck;  positioning a nanoimprint material on the first substrate;  obtaining a spatial relationship between the first substrate and a nanoimprint mold assembly and imprinting a pattern in the nanoimprint material on the first substrate with the nanoimprint mold assembly while concurrently positioning the second substrate on a second substrate chuck;  separating the nanoimprint mold assembly from the nanoimprint material on the first substrate;  positioning a nanoimprint material on the second substrate;  removing the first substrate from the first substrate chuck while concurrently obtaining a spatial relationship between the second substrate and the nanoimprint mold assembly and imprinting a pattern in the nanoimprint material on the second substrate with the nanoimprint mold assembly;  and separating the nanoimprint mold assembly from the nanoimprint material on the second substrate, with the first and second substrates being subjected to substantially the same process conditions.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method for patterning first and second substrates in a nanoimprint lithography system, said method comprising:
+</P>
+<P>
+positioning said first substrate on a first substrate chuck;
+</P>
+<P>
+positioning a nanoimprint material on said first substrate;
+</P>
+<P>
+obtaining a spatial relationship between said first substrate and a nanoimprint mold assembly and imprinting a pattern in said nanoimprint material on said first substrate with said nanoimprint mold assembly while concurrently positioning said second substrate on a second substrate chuck;
+</P>
+<P>
+separating said nanoimprint mold assembly from said nanoimprint material on said first substrate;
+</P>
+<P>
+positioning a nanoimprint material on said second substrate;
+</P>
+<P>
+removing said first substrate from said first substrate chuck while concurrently obtaining a spatial relationship between said second substrate and said nanoimprint mold assembly and imprinting a pattern in said nanoimprint material on said second substrate with said nanoimprint mold assembly;
+</P>
+<P>
+separating said nanoimprint mold assembly from said nanoimprint material on said second substrate; and
+</P>
+<P>
+with said first and second substrates being subjected to substantially the same process conditions.
+</P>
+<P>
+2. The method as recited in claim 1 further including the step of removing said second substrate from said second substrate chuck.
+</P>
+<P>
+3. The method as recited in claim 1 wherein the step of removing said first substrate further comprises a step of flipping said first substrate 180 degrees with respect to said nanoimprint mold assembly.
+</P>
+<P>
+4. The method as recited in claim 2 wherein the step of removing said second substrate further comprises a step of flipping said second substrate 180 degrees with respect to said nanoimprint mold assembly.
+</P>
+<P>
+5. The method as recited in claim 1 wherein the step of positioning said first substrate further comprises a step of obtaining a spatial relationship between a third substrate and said nanoimprint mold assembly and forming a pattern in a nanoimprint material on said third substrate, said third substrate being positioned on said second substrate chuck.
+</P>
+<P>
+6. The method as recited in claim 1 wherein the step of obtaining a spatial relationship between said first substrate and said nanoimprint mold assembly further comprises a step of concurrently removing a third substrate from said second substrate chuck.
+</P>
+<P>
+7. The method as recited in claim 1 wherein the step of removing said first substrate from said first substrate chuck further comprises a step of concurrently positioning a third substrate on said first substrate chuck.
+</P>
+<P>
+8. The method as recited in claim 1 further including translating said first and second substrate chucks about an axis parallel to said first and second substrates.
+</P>
+<P>
+9. The method as recited in claim 1 further including rotating said first and second substrate chucks about an axis perpendicular to said first and second substrates.
+</P>
+<P>
+10. A method for processing first and second substrates in a nanoimprint lithography system, said method comprising the steps of:
+</P>
+<P>
+obtaining a first spatial relationship between a first substrate chuck and a nanoimprint mold assembly and a second spatial relationship, differing from said first spatial relationship, between a second substrate chuck and said nanoimprint mold assembly such that a pattern may be imprinted in a nanoimprint material on said first substrate, positioned on said first substrate chuck, with said nanoimprint mold assembly while concurrently obtaining a desired spatial relationship between said second substrate and said second substrate chuck.
+</P>
+<P>
+11. The method as recited in claim 10 wherein said first and second substrates are subjected to substantially the same process conditions.
+</P>
+<P>
+12. The method as recited in claim 10 wherein the step of obtaining a desired spatial relationship between said second substrate and said second substrate chuck further includes positioning said second substrate on said second substrate chuck.
+</P>
+<P>
+13. The method as recited in claim 10 wherein the step of obtaining a desired spatial relationship between said second substrate and said second substrate chuck further includes removing said second substrate from being positioned on said second substrate chuck.
+</P>
+<P>
+14. The method as recited in claim 12 wherein the step of removing said second substrate further comprises a step of flipping said second substrate 180 degrees with respect to said nanoimprint mold assembly.
+</P>
+<P>
+15. The method as recited in claim 10 further including positioning said first substrate on said first substrate chuck.
+</P>
+<P>
+16. The method as recited in claim 10 further including positioning said nanoimprint material on said first substrate.
+</P>
+<P>
+17. The method as recited in claim 10 further including separating said nanoimprint mold assembly from said nanoimprint material on said first substrate.
+</P>
+<P>
+18. A nanoimprint lithography system for patterning first and second substrates, said system comprising:
+</P>
+<P>
+a nanoimprint mold assembly;
+</P>
+<P>
+a translation stage spaced-apart from said nanoimprint mold assembly;
+</P>
+<P>
+first and second fluid dispensers to position nanoimprint fluid on said first and second substrates, respectively;
+</P>
+<P>
+a first substrate chuck coupled to said translation stage, said first substrate chuck having said first substrate positioned thereon;
+</P>
+<P>
+a second substrate chuck coupled to said translation stage, said second substrate chuck having said second substrate positioned thereon;
+</P>
+<P>
+with said translation stage alternatively placing said first and second substrate chucks in first and second positions with respect to said nanoimprint mold assembly such that said nanoimprint mold assembly may imprint a pattern on one of said first and second substrates while concurrently obtaining a desired spatial relationship between the remaining substrate of said first and second substrates and either said first or second substrate chuck; and
+</P>
+<P>
+with said system being calibrated such that said first and second substrate are subjected to substantially the same process conditions.
+</P>
+<P>
+19. The system as recited in claim 18 wherein said translation stage further comprises a theta stage that may rotate about an axis perpendicular to said theta stage.
+</P>
+<P>
+20. The system as recited in claim 18 further including a robot to position said first and second substrates upon said first and second substrate chucks, respectively, and further remove said first and second substrates from said first and second substrate chucks, respectively.
+</P>
+<P>
+21. The system as recited in claim 18 wherein said system further comprises a plurality of substrate chucks.
+</P>
+<P>
+22. The system as recited in claim 18 wherein said system further comprises a plurality of fluid dispensers.
+</P>
+<P>
+23. A nanoimprint lithography system for patterning first, second, third, and fourth substrates, said system comprising:
+</P>
+<P>
+a first module comprising:
+</P>
+<P>
+a first nanoimprint mold assembly;
+</P>
+<P>
+a first and a second substrate chuck having said first and second substrates positioned thereon, respectively;
+</P>
+<P>
+a second module comprising:
+</P>
+<P>
+a second nanoimprint mold assembly;
+</P>
+<P>
+a third and a fourth substrate chuck having said first and second substrates positioned thereon, respectively;
+</P>
+<P>
+a translation stage spaced-apart from said first and said second nanoimprint mold assemblies having said first, second, third, and fourth substrate chucks coupled thereto, with said translation stage alternatively placing said first and second modules in first and second positions with respect to said first and second nanoimprint mold assemblies, respectively, such that in said first position said first nanoimprint mold assembly may imprint a pattern on one of said first and second substrates and said second nanoimprint mold assembly may imprint a pattern on one of said third and fourth substrates while concurrently obtaining a desired spatial relationship between the remaining substrate of said first and second substrates and either said first or second substrate chuck and obtaining a desired spatial relationship between the remaining substrate of said third and fourth substrates and either said third or fourth substrate chuck; and
+</P>
+<P>
+with said system being calibrated such that said first, second, third, and fourth substrates are subjected to substantially the same process conditions
+</P>
+<P>
+24. The system as recited in claim 23 further including first and second fluid dispensers to position fluid on said first, second, third, and fourth substrates.
+</P>
+<P>
+25. The system as recited in claim 23 wherein said translation stage further comprises a theta stage that may rotate about an axis perpendicular to said theta stage.
+</P>
+<P>
+26. The system as recited in claim 23 further including a robot to position said first, second, third, and fourth substrates upon said first, second, third, and fourth substrate chucks, respectively, and further remove said first, second, third, and fourth substrates from said first, second, third, and fourth substrate chucks, respectively.
+</P>
+<P>
+27. A method for patterning first and second substrates, said method comprising:
+</P>
+<P>
+positioning said first substrate on a first substrate chuck;
+</P>
+<P>
+positioning a material on said first substrate;
+</P>
+<P>
+obtaining a spatial relationship between said first substrate and a mold assembly and forming a pattern in said material on said first substrate with said mold assembly while concurrently positioning said second substrate on a second substrate chuck;
+</P>
+<P>
+separating said mold assembly from said material on said first substrate;
+</P>
+<P>
+positioning a material on said second substrate;
+</P>
+<P>
+removing said first substrate from said first substrate chuck while concurrently obtaining a spatial relationship between said second substrate and said mold assembly and forming a pattern in said material on said second substrate with said mold assembly;
+</P>
+<P>
+separating said mold assembly from said material on said second substrate; and
+</P>
+<P>
+with said first and second substrates being subjected to substantially the same process conditions.
+</P>
+<P>
+28. The method as recited in claim 27 further including the step of removing said second substrate from said second substrate chuck.
+</P>
+<P>
+29. The method as recited in claim 28 wherein the step of removing said first substrate further comprises a step of flipping said first substrate 180 degrees with respect to said mold assembly.
+</P>
+<P>
+30. The method as recited in claim 28 wherein the step of removing said second substrate further comprises a step of flipping said second substrate 180 degrees with respect to said mold assembly.
+</P>
+<P>
+31. The method as recited in claim 27 wherein the step of positioning said first substrate further comprises a step of obtaining a spatial relationship between a third substrate and said mold assembly and forming a pattern in a material on said third substrate, said third substrate being positioned on said second substrate chuck.
+</P>
+<P>
+32. The method as recited in claim 27 wherein the step of obtaining a spatial relationship between said first substrate and said mold assembly further comprises a step of concurrently removing a third substrate from said second substrate chuck.
+</P>
+<P>
+33. The method as recited in claim 27 wherein the step of removing said first substrate from said first substrate chuck further comprises a step of concurrently positioning a third substrate on said first substrate chuck.
+</P>
+</Claims>
+<Also_published_as>
+US2007170617A1;US7670530B2;WO2007084774A2;WO2007084774A3;US2010112116A1;US8109753B2;TWI341935B;KR20080093414A;JP2009524249A
+</Also_published_as>
+</BiblioData>

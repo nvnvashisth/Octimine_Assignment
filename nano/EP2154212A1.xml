@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A method for the production of conductive and transparent nano- coatings
+</Title>
+<PublicationNumber>
+EP2154212A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GARBAR ARKADY [IL]
+</Name>
+<Name>
+DE LA VEGA FERNANDO [IL]
+</Name>
+<Name>
+MATZNER EINAT [IL]
+</Name>
+<Name>
+GARBAR, ARKADY
+</Name>
+<Name>
+DE LA VEGA, FERNANDO
+</Name>
+<Name>
+MATZNER, EINAT
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CIMA NANO TECH ISRAEL LTD [IL]
+</Name>
+<Name>
+CIMA NANO TECH ISRAEL LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2154212
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090174803
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2003-06-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20030730448
+</PriorityNumber>
+<PriorityDate>
+2003-06-12
+</PriorityDate>
+<PriorityNumber>
+US20020387919P
+</PriorityNumber>
+<PriorityDate>
+2002-06-13
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C09D101/10
+</Class>
+<Class>
+C09D11/00
+</Class>
+<Class>
+C09D175/02
+</Class>
+<Class>
+C09D201/00
+</Class>
+<Class>
+C09D5/24
+</Class>
+<Class>
+C09D5/38
+</Class>
+<Class>
+C09D7/12
+</Class>
+<Class>
+C23C24/08
+</Class>
+<Class>
+C23C30/00
+</Class>
+<Class>
+H01B1/22
+</Class>
+<Class>
+H05K1/09
+</Class>
+<Class>
+H05K3/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09D11/52
+</Class>
+<Class>
+C09D5/24
+</Class>
+<Class>
+C09D5/38
+</Class>
+<Class>
+C23C24/08
+</Class>
+<Class>
+C23C30/00
+</Class>
+<Class>
+H01B1/22
+</Class>
+</NCL>
+<Abstract>
+The present invention provides for a cost-effective method for coating a substrate by conductive and/or transparent nano-powders in either ordered or random pattern, wherein said pattern is obtained either spontaneously or as a result of a printing technique. The present invention also provides for a conductive and transparent coating layer comprising metal nano-powders, and for conductive and transparent ink characterized by self-assembled network pattern, coating a substrata without altering significantly its transparency and/or conductivity characterizations.
+</Abstract>
+<Claims>
+<P>
+1. A method for the production of transparent and conductive coatings comprising metal nanopowders, said method comprising:
+</P>
+<P>
+a. admixing the following ingredients in the manner that an emulsion is formed:
+</P>
+<P>
+(i) metal nano-powder; (ii) an organic solvent; (iii); water, water-miscible solvent, or mixture of water-miscible solvents; and (iv) at least one ingredient of the group selected from binder, surfactant, additive, polymer, buffer, dispersant, and/or coupling agent;
+</P>
+<P>
+b. applying the emulsion on a surface to be coated;
+</P>
+<P>
+c. evaporating (i) the organic solvent and (ii) the water, water-miscible solvent or mixture of water-miscible solvents from the emulsion in the manner that a self-assembled network-like pattern is developed in situ; and
+</P>
+<P>
+d. sintering the network-like pattern to form a transparent and conductive coating on the surface.
+</P>
+<P>
+2. The method according to claim 1, wherein the sintering step is conducted at a temperature in the range of 50[deg.]C to 150[deg.]C for 2 to 30 minutes.
+</P>
+<P>
+3. The method according to claim 1, wherein the concentration of the metal nano-powder in the emulsion is between 1% (wt) and 50% (wt).
+</P>
+<P>
+4. The method according to claim 1, wherein the concentration of the metal nano-powder in the emulsion is between 2% (wt) and 10% (wt).
+</P>
+<P>
+5. The method according to claim 1, wherein the concentration of water, water-miscible solvent, or mixture of water-miscible solvents in the emulsion is between 5% (wt) and 70% (wt).
+</P>
+<P>
+6. The method according to claim 1, wherein the concentration of water, water-miscible solvent, or mixture of water-miscible solvents in the emulsion is between 15% (wt) and 55% (wt).
+</P>
+<P>
+7. The method according to claim 1, wherein the surface to be coated is selected from glass, flexible polymeric films or sheets, relatively non-flexible polymeric films or sheets, polyethylene products, polypropylene products, acrylate-containing products, polymethylmethacrylate (PMMA), copolymers, and combinations thereof.
+</P>
+<P>
+8. The method according to claim 1, wherein the surface to be coated is a polymeric film selected from polyesters, polyamides, polycarbonates, polyethylene, polypropylene, copolymers thereof, and combinations thereof.
+</P>
+<P>
+9. The method according to claim 1, wherein the metal nano-powder is selected from silver, gold, platinum, palladium, nickel, cobalt, copper, or combination thereof.
+</P>
+<P>
+10. The method according to claim 1, wherein the metal nano-powder is characterized by a D90 value of less than 0.1 [micro]m.
+</P>
+<P>
+11. The method according to claim 1, wherein the additive is selected from the group consisting of a metal colloid, metal reducible salt, organic metal complex, organo-metal compounds that decompose to form conductive materials, and combinations thereof.
+</P>
+<P>
+12. The method according to claim 1, comprising applying the emulsion to the surface according to an ordered or random pattern.
+</P>
+<P>
+13. The method according to claim 1, wherein the transparent and conductive coating is characterized by a light transparency between 40% and 90% in the visible range of 400 nm to 700 nm, a resistance between 0.1 ohms/square and 9,000 ohms/square, and a haze value between 1% and 10%.
+</P>
+<P>
+14. A conductive and transparent coating produced according to the method of any one of claims 1-13.
+</P>
+</Claims>
+<Also_published_as>
+WO03106573A1;KR20110049923A;KR20060012542A;KR101043307B1;JP2005530005A;HK1083223A1;ES2336779T3;EP1521811A1;EP1521811B1;CN1668712A;CN1322075C;AU2003241128A1;AT450581T
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+THREE-DIMENSIONALLY REINFORCED MULTIFUNCTIONAL NANOCOMPOSITES
+</Title>
+<PublicationNumber>
+EP1966286A2
+</PublicationNumber>
+<Inventor>
+<Name>
+NEJHAD MOHAMMAD NAGHI GHASEMI [US]
+</Name>
+<Name>
+VEEDU VINOD P [US]
+</Name>
+<Name>
+CAO ANYUAN [US]
+</Name>
+<Name>
+AJAYAN PULICKEL [US]
+</Name>
+<Name>
+ASKARI DAVOOD [US]
+</Name>
+<Name>
+NEJHAD, MOHAMMAD, NAGHI, GHASEMI
+</Name>
+<Name>
+VEEDU, VINOD, P
+</Name>
+<Name>
+CAO, ANYUAN
+</Name>
+<Name>
+AJAYAN, PULICKEL
+</Name>
+<Name>
+ASKARI, DAVOOD
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV HAWAII [US]
+</Name>
+<Name>
+RENSSELAER POLYTECH INST [US]
+</Name>
+<Name>
+UNIVERSITY OF HAWAII
+</Name>
+<Name>
+RENSSELAER POLYTECHNIC INSTITUTE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1966286
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060851923
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-11-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US45418
+</PriorityNumber>
+<PriorityDate>
+2006-11-27
+</PriorityDate>
+<PriorityNumber>
+US20050740461P
+</PriorityNumber>
+<PriorityDate>
+2005-11-28
+</PriorityDate>
+<PriorityNumber>
+US20060523731
+</PriorityNumber>
+<PriorityDate>
+2006-09-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C08J5/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C04B35/628F8D18
+</Class>
+<Class>
+C04B35/628K
+</Class>
+<Class>
+C04B41/00V
+</Class>
+<Class>
+C04B41/52
+</Class>
+<Class>
+C08J5/00N
+</Class>
+<Class>
+C08J5/04M
+</Class>
+</NCL>
+<Abstract>
+A three-dimensional composite reinforcement, a three-dimensionally reinforced multifunctional nanocomposite, and methods of manufacture of each are disclosed. The three dimensional reinforcement comprises a two dimensional fiber cloth upon which carbon nanotubes have been grown, approximately perpendicular to the plane of the fiber cloth. The nanocomposite comprises the three-dimensional reinforcement and a surrounding matrix material. Examples illustrate improvements in the through-thickness mechanical, thermal, and electrical properties of the nanocomposite, in addition to substantial improvements in geometrical stability upon temperature changes and vibrational damping, compared to baseline composites reinforced with the two-dimensional fiber cloth alone.;  Embodiments of the nanocomposite may also be configured to perform multiple functions simultaneously, such as bearing a thermal or mechanical load simultaneously or bearing a mechanical load while also monitoring the state of damage within the nanocomposite.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A three-dimensionally reinforced composite laminate, comprising:
+</P>
+<P>
+a matrix material;
+</P>
+<P>
+a reinforcement positioned substantially within the matrix comprising a woven fiber cloth and carbon nanotubes which are connected to the woven fiber, extending outward from a surface defined by the woven cloth.
+</P>
+<P>
+2. The composite laminate of claim 1, wherein the matrix comprises a high temperature epoxy based on diglycidyl ether of bisphenol A and alkylglycidyl ether, a ceramic based on KiON CERACET(R), or polyester.
+</P>
+<P>
+3. The composite laminate of claim 1, further comprising nanoparticles or carbon nanotubes dispersed within the matrix.
+</P>
+<P>
+4. The composite laminate of claim 1, wherein the carbon nanotubes are aligned substantially perpendicular to the surface of the fiber cloth.
+</P>
+<P>
+5. The composite laminate of claim 1, wherein the 2-D fiber cloth has a plain-weave geometry.
+</P>
+<P>
+6. The composite laminate of claim 1, wherein the 2-D fiber cloth comprises SiC, C, or glass-fiber cloths.
+</P>
+<P>
+7. The composite laminate of claim 6, wherein the 2-D fiber cloth comprises C or glass-fiber cloths, and further comprise a layer of SiC upon at least the surface of the cloth.
+</P>
+<P>
+8. The composite laminate of claim 1, wherein carbon nanotubes of adjacent lamina are substantially mechanically interlocked.
+</P>
+<P>
+9. The composite laminate of claim 1, wherein the carbon nanotubes provide improvements in at least one of interlaminar fracture toughness, hardness, mechanical damping, thermal conductivity, and electrical conductivity over comparable two-dimensionally reinforced composites
+</P>
+<P>
+10. The composite laminate of claim 1, wherein the carbon nanotubes are multiple walled carbon nanotubes.
+</P>
+<P>
+11. A fabric reinforcement, comprising:
+</P>
+<P>
+a woven fiber cloth; and
+</P>
+<P>
+carbon nanotubes connected to the woven fiber cloth, wherein the nanotubes extend generally perpendicular to the woven fiber cloth.
+</P>
+<P>
+12. The fabric reinforcement of claim 11, further comprising a plurality of woven fiber cloths with carbon nanotubes connected to the woven fiber cloths, wherein the nanotubes extend generally perpendicular to the woven fiber cloths, the nanotubes from adjacent fiber cloths being interconnected with each other.
+</P>
+<P>
+13. The fabric reinforcement of claim 11, wherein the woven fiber cloth comprises SiC at least at a surface of the cloth.
+</P>
+<P>
+14. The fabric reinforcement of claim 13, wherein the woven fiber cloth comprises SiC fibers.
+</P>
+<P>
+15. The fabric reinforcement of claim 13, wherein the woven fiber cloth comprises carbon or glass coated with SiC.
+</P>
+<P>
+16. A method of fabricating a three-dimensionally reinforced composite laminate, comprising:
+</P>
+<P>
+providing a two-dimensional woven fiber cloth;
+</P>
+<P>
+growing carbon nanotubes on a surface of the woven fiber cloth so as to form a three-dimensional fiber preform;
+</P>
+<P>
+substantially infiltrating the three-dimensional fiber preform with a matrix material to form a three-dimensional composite lamina;
+</P>
+<P>
+assembling a plurality of three-dimensional composite laminae such that the nanotubes are substantially positioned between the laminae;
+</P>
+<P>
+curing the assembled laminae.
+</P>
+<P>
+17. The method of claim 16, wherein the woven fiber cloth comprises SiC, C, or glass-fiber cloths.
+</P>
+<P>
+18. The method of claim 16, wherein the carbon nanotubes are grown by chemical vapor deposition of a nanotube precursor solution on the surface of the woven fiber cloth.
+</P>
+<P>
+19. The method of claim 18, wherein the precursor solution comprises a solution of at least ferrocene and xylene.
+</P>
+<P>
+20. The method of claim 16, wherein carbon nanotubes are grown on both sides of the woven fiber cloth.
+</P>
+<P>
+21. The method of claim 16, wherein the carbon nanotubes are aligned substantially perpendicular to the surface of the fiber cloth.
+</P>
+<P>
+22. The method of claim 16, wherein the carbon nanotubes of adjacent laminae are substantially mechanically interlocked.
+</P>
+<P>
+23. The method of claim 16, wherein the matrix comprises a high temperature epoxy based on diglycidyl ether of bisphenol A and alkylglycidyl ether, a ceramic based on KiON CERACET(R), or polyester.
+</P>
+<P>
+24. The method of claim 16, where the laminae are assembled by a hand lay-up or resin transfer molding.
+</P>
+</Claims>
+<Also_published_as>
+EP1966286B1;US2007128960A1;US8148276B2;WO2008054409A2;WO2008054409A8;WO2008054409A3;RU2008126084A;MY143396A;MX2008006854A;KR20080094891A;JP2009517531A;HK1122054A1;ES2334165T3;DK1966286T3;CN101365740A;CA2632202A1;AU2006350255A1;AT444329T
+</Also_published_as>
+</BiblioData>

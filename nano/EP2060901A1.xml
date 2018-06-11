@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SCAN TYPE PROBE MICROSCOPE AND ACTIVE DAMPING DRIVE CONTROL DEVICE
+</Title>
+<PublicationNumber>
+EP2060901A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ANDO TOSHIO [JP]
+</Name>
+<Name>
+ANDO, TOSHIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV KANAZAWA NAT UNIV CORP [JP]
+</Name>
+<Name>
+NATIONAL UNIVERSITY CORPORATION KANAZAWA UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2060901
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070791425
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007JP64731
+</PriorityNumber>
+<PriorityDate>
+2007-07-27
+</PriorityDate>
+<PriorityNumber>
+JP20060241920
+</PriorityNumber>
+<PriorityDate>
+2006-09-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01Q10/06
+</Class>
+<Class>
+G01Q70/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01Q10/06B
+</Class>
+</NCL>
+<Abstract>
+There is provided a scanning probe microscope that allows active damping to be advantageously carried out. A Z scan control section functions as a driving control section to control a Z scanner that is a controlled object. Driving control is performed by supplying the controlled object with a driving signal processed by an adjustment function. The adjustment function adjusts the driving signal by using a simulated transfer function that simulates an actual transfer function indicative of an actual frequency characteristic of the controlled object so that executing processing of the simulated transfer function on the adjusted driving signal results in decrease of vibration of an output signal from the simulated transfer function.;  The adjustment function processing is configured so as to execute processing of the simulated transfer function G(s) on the driving signal, to execute processing of an inverse target transfer function K(s) corresponding to the inverse of the target transfer function on an output from the G(s), to determine the difference between the driving signal and the output of K(s), to apply a gain g to the difference, and to add the signal after the gain is applied to the driving signal. Therefore, the output from the G(s) approximates to the target transfer function which is the inverse of the K(s).
+</Abstract>
+<Claims>
+<P>
+1. A scanning probe microscope that performs relative scan between a probe and a sample to observe the sample, comprising:
+</P>
+<P>
+a controlled object that is a physical structure for driving at least one of the sample and the probe; and
+</P>
+<P>
+a driving control section for supplying a driving signal to the controlled object to control the controlled object, wherein
+</P>
+<P>
+the driving control section is configured to supply the controlled object with the driving signal processed by an adjustment function that converts the driving signal, and the adjustment function adjusts the driving signal by using a simulated transfer function that simulates an actual transfer function indicative of an actual frequency characteristic of the controlled object so that executing processing of the simulated transfer function on the adjusted driving signal results in decrease of vibration of an output signal from the simulated transfer function.
+</P>
+<P>
+2. The scanning probe microscope according to claim 1, wherein
+</P>
+<P>
+the driving control section subjects the driving signal to processing of the adjustment function so that an output obtained by executing the processing of the simulated transfer function on the adjusted driving signal approximates to an output obtained by executing a target transfer function different from the simulated transfer function on the unadjusted driving signal.
+</P>
+<P>
+3. The scanning probe microscope according to claim 2, wherein
+</P>
+<P>
+the driving control section has a driving signal adjusting section for executing the processing of the adjustment function on the driving signal, and the driving signal adjusting section has:
+</P>
+<P>
+a simulated transfer function processing section for executing the processing of the simulated transfer function on the driving signal;
+</P>
+<P>
+an inverse target transfer function processing section for executing the processing of an inverse target transfer function on an output from the simulated transfer function processing section, the inverse target transfer function corresponding to an inverse of the target transfer function;
+</P>
+<P>
+a subtraction processing section for calculating a difference between the driving signal and an output from the inverse target transfer function processing section;
+</P>
+<P>
+a gain applying section for applying a gain to an output from the subtraction processing section; and an addition processing section for adding an output from the gain applying section to the driving signal.
+</P>
+<P>
+4. The scanning probe microscope according to claim 3, comprising
+</P>
+<P>
+a driving signal generating section for generating the driving signal having a driving waveform corresponding to a driving operation required for the controlled object, wherein
+</P>
+<P>
+the driving signal adjusting section executes the processing of the adjustment function on the driving signal generated by the driving signal generating section.
+</P>
+<P>
+5. The scanning probe microscope according to claim 3, wherein
+</P>
+<P>
+the driving control section comprises a plurality of the driving signal adjusting sections arranged sequentially, and
+</P>
+<P>
+each of the driving signal adjusting sections has the simulated transfer function processing section, the inverse target transfer function processing section, the subtraction processing section, the gain applying section, and the addition processing section.
+</P>
+<P>
+6. The scanning probe microscope according to claim 5, wherein
+</P>
+<P>
+the plurality of driving signal adjusting sections have the one common simulated transfer function processing section, and an output from the one common simulated transfer function processing section is supplied to a plurality of inverse target transfer function processing sections provided in the respective driving signal adjusting sections.
+</P>
+<P>
+7. The scanning probe microscope according to claim 3, wherein
+</P>
+<P>
+the driving control section further includes an additional driving signal adjusting section which does not have the inverse target function processing section and which is configured to supply an output from the simulated transfer function processing section to the subtraction processing section.
+</P>
+<P>
+8. The scanning probe microscope according to claim 3, wherein the driving control section further includes a Q-control section which applies a Q-control gain to a differential of an output from the controlled object or the simulated transfer function processing section and adds the differential after the gain is applied to the driving signal.
+</P>
+<P>
+9. The scanning probe microscope according to claim 2, wherein
+</P>
+<P>
+the target transfer function is assumed to be a first-order low pass filter, and &quot;1 + differential&quot; is set as the inverse target transfer function.
+</P>
+<P>
+10. The scanning probe microscope according to claim 1, wherein
+</P>
+<P>
+the controlled object includes a scanner that performs the relative scan between the probe and the sample, and
+</P>
+<P>
+the driving control section controls scanning of the scanner.
+</P>
+<P>
+11. The scanning probe microscope according to claim 1, wherein
+</P>
+<P>
+the controlled object includes an exciting mechanism for a cantilever in which the probe is provided, and
+</P>
+<P>
+the driving control section controls excitation of the cantilever.
+</P>
+<P>
+12. An active damping driving control apparatus which supplies a driving signal to a controlled object and which performs active damping control on the controlled object, wherein
+</P>
+<P>
+the active damping driving control apparatus is configured to supply the controlled object with the driving signal processed by an adjustment function that converts the driving signal, and
+</P>
+<P>
+the adjustment function adjusts the driving signal by using a simulated transfer function that simulates an actual transfer function indicative of an actual frequency characteristic of the controlled object so that executing processing of the simulated transfer function on the adjusted driving signal results in decrease of vibration of an output signal from the simulated transfer function.
+</P>
+<P>
+13. A transfer function converting device provided in a driving control apparatus that supplies a driving signal to a controlled object so as to control driving of the controlled object, the device converting a driving operation in accordance with an actual transfer function indicative of an actual frequency characteristic of the controlled object when the driving signal is supplied to the controlled object, into an operation in accordance with a target driving function different from the actual transfer function, the device comprising:
+</P>
+<P>
+a simulated transfer function processing section for executing the processing of a simulated transfer function simulating the actual transfer function on the driving signal;
+</P>
+<P>
+an inverse target transfer function processing section for executing the processing of an inverse target transfer function on an output from the simulated transfer function processing section, the inverse target transfer function corresponding to an inverse of the target transfer function;
+</P>
+<P>
+a subtraction processing section for calculating a difference between the driving signal and an output from the inverse target transfer function processing section;
+</P>
+<P>
+a gain applying section for applying a gain to an output from the subtraction processing section; and
+</P>
+<P>
+an addition processing section for adding an output from the gain applying section to the driving signal.
+</P>
+<P>
+14. A driving control method for a scanning probe microscope that performs relative scan between a probe and a sample to observe the sample, the method supplying a driving signal to a controlled object that is a physical structure for driving at least one of the sample and the probe, to control the controlled object, the method comprising:
+</P>
+<P>
+supplying the controlled object with the driving signal processed by an adjustment function that converts the driving signal, the adjustment function adjusting the driving signal by using a simulated transfer function that simulates an actual transfer function indicative of an actual frequency characteristic of the controlled object so that executing processing of the simulated transfer function on the adjusted driving signal results in decrease of vibration of an output signal from the simulated transfer function.
+</P>
+<P>
+15. An active damping driving control method that supplies a driving signal to a controlled object to perform active damping control on the controlled object, the method comprising:
+</P>
+<P>
+supplying the controlled object with the driving signal processed by an adjustment function that converts the driving signal, the adjustment function adjusting the driving signal by using a simulated transfer function that simulates an actual transfer function indicative of an actual frequency characteristic of the controlled object so that executing processing of the simulated transfer function on the adjusted driving signal results in decrease of vibration of an output signal from the simulated transfer function.
+</P>
+<P>
+16. A transfer function converting method for a driving control device that supplies a driving signal to a controlled object so as to control driving of the controlled object, the method converting a driving operation in accordance with an actual transfer function indicative of an actual frequency characteristic of the controlled object when the driving signal is supplied to the controlled object, into an operation in accordance with a target driving function different from the actual transfer function, comprising: executing the processing of a simulated transfer function simulating the actual transfer function on the driving signal;
+</P>
+<P>
+executing the processing of an inverse target transfer function on an output from the simulated transfer function, the inverse target transfer function corresponding to an inverse of the target transfer function;
+</P>
+<P>
+calculating a difference between the driving signal and an output from the inverse target transfer function;
+</P>
+<P>
+applying a gain to an output from the difference processing; and
+</P>
+<P>
+adding a resultant signal after the gain is applied to the driving signal.
+</P>
+</Claims>
+<Also_published_as>
+EP2060901A4;US2009276924A1;US7975314B2;WO2008029561A1
+</Also_published_as>
+</BiblioData>

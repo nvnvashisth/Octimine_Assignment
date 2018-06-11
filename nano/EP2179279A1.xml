@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DEVICE FOR CONTROLLING FLUID MOTION INTO MICRO/NANOCHANNELS BY MEANS OF SURFACE ACOUSTIC WAVES
+</Title>
+<PublicationNumber>
+EP2179279A1
+</PublicationNumber>
+<Inventor>
+<Name>
+BELTRAM FABIO [IT]
+</Name>
+<Name>
+CINGOLANI ROBERTO [IT]
+</Name>
+<Name>
+CECCHINI MARCO [IT]
+</Name>
+<Name>
+GIRARDO SALVATORE [IT]
+</Name>
+<Name>
+PISIGNANO DARIO [IT]
+</Name>
+<Name>
+BELTRAM, FABIO
+</Name>
+<Name>
+CINGOLANI, ROBERTO
+</Name>
+<Name>
+CECCHINI, MARCO
+</Name>
+<Name>
+GIRARDO, SALVATORE
+</Name>
+<Name>
+PISIGNANO, DARIO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FOND ISTITUTO ITALIANO DI TECN [IT]
+</Name>
+<Name>
+FONDAZIONE ISTITUTO ITALIANO DI TECNOLOGIA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2179279
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080789388
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-21
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008IB52925
+</PriorityNumber>
+<PriorityDate>
+2008-07-21
+</PriorityDate>
+<PriorityNumber>
+IT2007TO00554
+</PriorityNumber>
+<PriorityDate>
+2007-07-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01L3/00
+</Class>
+<Class>
+F04B17/00
+</Class>
+<Class>
+G01N29/22
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01L3/5027A
+</Class>
+<Class>
+B01L3/5027D
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+F04B43/04M2
+</Class>
+<Class>
+G01N29/22F
+</Class>
+</NCL>
+<Abstract>
+Herein described is a device for controlling fluid motion in a micro/nanofluidic structure of channels, comprising: - a structured volume of material (30), bearing a predetermined configuration of micro/nanofluidic channels (C) for holding and transferring amounts of fluids, adapted to define at least one fluid inlet (IN) and at least one fluid outlet (OUT);  and - a substrate (31) made of material with piezoelectric properties, coupled to the abovementioned configuration of micro/nanofluidic channels, bearing means for active control of the motion of an amount of fluid, including transducer means (T1-T6) which comprise at least one pair of interdigitated electrodes applied on the substrate (31), which are arranged to selectively generate a surface acoustic wave adapted to propagate on the substrate (31) and interact with the amount of fluid. The transducer devices (T1-T6) are arranged in proximity to a fluid outlet (OUT) of the configuration of channels in such a manner to generate a surface acoustic wave propagating from the fluid outlet (OUT) to a fluid inlet (IN) of the abovementioned configuration and is adapted to determine a pressure gradient along at least one section of the channel (C) in which an amount of fluid is localised, whereby the motion of the amount of fluid is induced towards the direction opposite to the surface acoustic wave propagation direction.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A device for controlling fluid motion in a micro/nanofluidic channels structure, comprising:
+</P>
+<P>
+- a structured volume of material (30), bearing a predetermined configuration of micro/nanofluidic channels (C) for holding and transferring amounts of fluids, adapted to define at least one fluid inlet (IN) and at least one fluid outlet (OUT); and
+</P>
+<P>
+- a substrate (31) made of material with piezoelectric properties, coupled to said configuration of micro/nanofluidic channels (C), bearing means for active control of the motion of an amount of fluid including transducer means (Ti-T6) which comprise at least one pair of inter digitated electrodes applied on said substrate (31), which are arranged to selectively generate a surface acoustic wave adapted to propagate on the substrate (31) and interact with said amount of fluid; characterised in that said transducer means (Ti-T6) are arranged in proximity to a fluid outlet (OUT) of said configuration of channels (C) in such a manner to generate a surface acoustic wave propagating from the fluid outlet (OUT) to a fluid inlet (IN) of the configuration and it is adapted to determine a pressure gradient along at least one section of the channel (C) where said amount of fluid is localised, whereby the motion of said amount of fluid is induced towards the direction opposite to the surface acoustic wave propagation direction.
+</P>
+<P>
+2. Device according to claim 1, wherein said transducer means (Ti-T6) are arranged to generate surface acoustic waves whose propagation wavelength is smaller with respect to the characteristic dimension of the fluid channel (C).
+</P>
+<P>
+3. Device according to claim 2, wherein said transducer means (Ti-T6) are arranged in proximity to said fluid outlet (OUT) directed in such a manner to have interposed interdigi- tated electrodes extending orthogonally with respect to the direction of development of the walls defining the channels (C).
+</P>
+<P>
+4. Device according to any one of claims 1 - 3, comprising an electronic circuit (P) for controlling said transducer means (Ti-T6), arranged for selective activation of a plurality of transducer devices (Ti-T6) associated to different channels (C), in such a manner to control the excitation of surface acoustic waves separately to induce the motion of the amount of fluid in the different channels (C).
+</P>
+<P>
+5. Device according to claim 4, wherein said electronic control circuit (P) is arranged to induce the motion of an amount of fluid in confluent channels (C), to determine the mixture of fluids in the cross region of the channels (C).
+</P>
+<P>
+6. Device according to claim 4, wherein said electronic control circuit (P) is arranged to induce the motion of an amount of fluid in diverging channels (C) for splitting an amount of fluid from the intersection region of channels (C).
+</P>
+<P>
+7. Device according to claim 4, wherein said electronic control circuit (P) is arranged to induce the motion of an amount of fluid from reagent collection chambers and/or towards reaction chambers, provided in said structured volume of material (30).
+</P>
+<P>
+8. Device according to any one of claims 1 - 3, comprising an electronic circuit (P) for controlling said transducer means (Ti-T6), arranged for adjusting the intensity of the electrical signal at the electrodes, in such a manner to control the power of the excited surface acoustic waves and adjust the travel velocity of the channel (C) by the amount of fluid.
+</P>
+<P>
+9. Device according to claim 4 or 8, wherein said electronic control circuit (P) is arranged to localise the position of a fluid element in a channel (C) through techniques for analysing the echo signals of a surface acoustic wave.
+</P>
+<P>
+10. Device according to any one of the preceding claims, wherein said channels (C) are configured in a volume (30) of hydrophobic material.
+</P>
+<P>
+11. Device according to any one of the preceding claims, wherein said structured volume (30) bearing the channels (C) is fabricated using replica molding techniques applied to a polymer material. 12. Device according to claim 11, wherein said material is polydimethylsiloxane (PDMS).
+</P>
+<P>
+13. Device according to any one of claims 1 - 10, wherein said structured volume (30) bearing the channels (C) is fabricated using nano -imprinting or hot-embossing techniques applied to a polymer material.
+</P>
+<P>
+14. Device according to claim 11 or 13, wherein the piezoelectric substrate surface (31) is coated with a thin film made of inert material, whose thickness is substantially smaller with respect to the length of the surface acoustic wave, adapted to form a base layer suitable for biological or biochemical applications.
+</P>
+<P>
+15. Chip comprising a device for controlling fluid motion in a micro/nanofluidic structure of channels (C), according to any one of claims 1 - 14.
+</P>
+</Claims>
+<Also_published_as>
+WO2009013705A1;US2010200092A1;ITTO20070554A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+HIGH EFFICIENCY INTERSUBBAND SEMICONDUCTOR LASERS
+</Title>
+<PublicationNumber>
+EP2002518A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BOTEZ DAN [US]
+</Name>
+<Name>
+XU DAPENG P [US]
+</Name>
+<Name>
+MAWST LUKE J [US]
+</Name>
+<Name>
+BOTEZ, DAN
+</Name>
+<Name>
+XU, DAPENG, P
+</Name>
+<Name>
+MAWST, LUKE, J
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+WISCONSIN ALUMNI RES FOUND [US]
+</Name>
+<Name>
+WISCONSIN ALUMNI RESEARCH FOUNDATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2002518
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070757323
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US62569
+</PriorityNumber>
+<PriorityDate>
+2007-02-22
+</PriorityDate>
+<PriorityNumber>
+US20060276712
+</PriorityNumber>
+<PriorityDate>
+2006-03-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01S5/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01S5/34A2
+</Class>
+</NCL>
+<Abstract>
+An intersubband quantum cascade laser structure includes multiple coupled laser stages, wherein each stage has a multilayer structure including an electron injector, an active region with at least one quantum well, and an electron reflector. Electrons injected from the injector into the active region at a high energy level relax to a lower energy level with the emission of a photon at, for example, mid-infrared wavelengths. The reflector reflects electrons at the higher energy level at which they were injected and transmits electrons from the lower energy level after emission of a photon. Multiple layers of semiconductor are formed on each side of the multistage structure to provide conduction across the device and to provide optical confinement of the photons emitted.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A semiconductor laser comprising a plurality of coupled laser stages, each stage comprising a multiple semiconductor layer structure including an electron injector, an active region coupled to the electron injector and an electron reflector coupled to the active region opposite the electron injector, wherein:
+</P>
+<P>
+(a) the electron injector has an upper miniband, a lower miniband, and a minigap;
+</P>
+<P>
+(b) the active region comprises at least one quantum well having associated therewith an upper energy level and a lower energy level, characterized in that electrons injected into the upper energy level of the active region from the lower miniband of the electron injector undergo a radiative transition to emit a photon as they decay from the upper energy level to the lower energy level; and
+</P>
+<P>
+(c) the electron reflector comprises an upper miniband, a lower minband, and a minigap, characterized in that the minigap acts as a reflector for electrons in the upper energy level of the active region and the lower miniband acts as a transmitter of the electrons that have decayed to the lower energy level of the active region to the lower miniband of the injector in the adjacent laser stage.
+</P>
+<P>
+2. The semiconductor laser of claim 1 , wherein the semiconductor laser comprises at least ten coupled laser stages.
+</P>
+<P>
+3. The semiconductor laser of claim 1 , wherein the active region comprises at least two coupled quantum wells.
+</P>
+<P>
+4. The semiconductor laser of claim 3, wherein the at least two coupled quantum wells of the active region are deep quantum wells.
+</P>
+<P>
+5. The semiconductor laser of claim 4, wherein the quantum wells comprise layers of InGaAs separated by barrier layers of AlGaAs.
+</P>
+<P>
+6. The semiconductor laser of claim 1 , wherein the active region comprises at least three coupled quantum wells.
+</P>
+<P>
+7. The semiconductor laser of claim 6, wherein two quantum wells of the at least three coupled quantum wells of the active region are deep quantum wells.
+</P>
+<P>
+8. The semiconductor laser of claim 7, wherein the at least three quantum wells comprise a well layer of GaAs and two well layers of InGaAs separated by barrier layers of AlGaAs.
+</P>
+<P>
+9. The semiconductor laser of claim 6, wherein the at least three coupled quantum wells of the active region are deep quantum wells.
+</P>
+<P>
+10. The semiconductor laser of claim 9, wherein one of the at least three quantum wells comprise a composite quantum well comprising a layer of GaAsP and a layer of InGaAs and the other two quantum wells comprise layers of InGaAs separated by barrier layers of AlGaAs.
+</P>
+<P>
+11. The semiconductor laser of claim 1 , wherein the electron injector is a superlattice comprising alternating layers of GaAs and AlGaAs, the active region comprises alternating layers of InGaAs and AlGaAs and the electron reflector is a superlattice comprising alternating layers of InGaAs and GaAsP.
+</P>
+<P>
+12. The semiconductor laser of claim 1 , wherein the combined length of the electron reflector of a first laser stage and the coupled electron injector of a second laser stage is at least about 40 nm.
+</P>
+<P>
+13. The semiconductor laser of claim 1 , wherein the plurality of coupled laser stages provide a laser core, the semiconductor laser further comprising a first optical confinement layer and a first cladding layer disposed above the laser core and a second optical confinement layer and a second cladding layer disposed below the laser core.
+</P>
+<P>
+14. The semiconductor laser of claim 13, further comprising a substrate disposed below the second cladding layer.
+</P>
+<P>
+15. The semiconductor laser of claim 14, wherein the first optical confinement layer, the first cladding layer, the second optical confinement layer, the second cladding layer and the substrate comprise n-type GaAs.
+</P>
+<P>
+16. The semiconductor laser of claim 14, wherein the first optical confinement layer, the second optical confinement layer, and the substrate comprise n-type GaAs, and the first cladding layer and the second cladding layer comprise n-type AlGaAs.
+</P>
+<P>
+17. The semiconductor laser of claim 1, wherein the photons emitted in the radiative transition have a wavelength of at least 3 [mu]m.
+</P>
+<P>
+18. The semiconductor laser of claim 1 , wherein the photons emitted in the radiative transition have a wavelength of at least 6 [mu]m.
+</P>
+<P>
+19. The semiconductor laser of claim 1 , wherein the at least one quantum well in the active region is a deep quantum well comprising a semiconductor well layer comprising at least 30 atomic percent indium.
+</P>
+<P>
+20. The semiconductor laser of claim 19, wherein the semiconductor well layer comprises about 50 to about 60 atomic percent indium.
+</P>
+<P>
+21. The semiconductor laser of claim 19, wherein the semiconductor well layer is a layer of InGaAs.
+</P>
+<P>
+22. The semiconductor laser of claim 21, wherein the at least one deep quantum well comprises a layer of InGaAs sandwiched between two layers of AlGaAs.
+</P>
+<P>
+23. The semiconductor laser of claim 21 , wherein the at least one deep quantum well comprises a layer of InGaAs sandwiched between two layers of GaAsP.
+</P>
+<P>
+24. The semiconductor laser of claim 22, wherein the electron reflector comprises alternating layers of AlGaAs and GaAsN or alternating layers of GaAsP and InGaAs.
+</P>
+<P>
+25. The semiconductor laser of claim 23, wherein the electron reflector comprises alternating layers of AlGaAs and GaAsN or alternating layers of GaAsP and InGaAs.
+</P>
+<P>
+26. The semiconductor laser of claim 1, wherein the at least one quantum well in the active region is a deep quantum well comprising a nitrogen-containing semiconductor.
+</P>
+<P>
+27. The semiconductor laser of claim 26, wherein the nitrogen-containing semiconductor is InGaAsN.
+</P>
+<P>
+28. The semiconductor laser of claim 27, wherein the at least one deep quantum well comprises a layer of InGaAsN sandwiched between two barrier layers of AlGaAs or a layer of InGaAsN sandwiched between two barrier layers of GaAsP.
+</P>
+<P>
+29. The semiconductor laser of claim 26, further comprising an electron reflector adjacent to and down-stream from the active region, the electron reflector comprising alternating layers of AlGaAs and GaAsN.
+</P>
+<P>
+30. A semiconductor structure comprising a multiple semiconductor layer structure including an electron injector and an active region coupled to the electron injector, the active region comprising:
+</P>
+<P>
+(a) a composite quantum well comprising a first well layer and a second well layer adjacent to the first well layer, wherein the second well layer provides a deeper well bottom than the first well layer; and
+</P>
+<P>
+(b) a composite electron injector barrier adjacent to the composite quantum well and comprising a first barrier layer and a second barrier layer adjacent to the first barrier layer, wherein the second barrier layer has a higher bandgap than the first barrier layer .
+</P>
+<P>
+31. The semiconductor structure of claim 30, wherein the first well layer comprises GaAs and the second well layer comprises InGaAs.
+</P>
+<P>
+32. The semiconductor structure of claim 30, wherein the first well layer comprises GaAsP and the second well layer comprises InGaAs
+</P>
+<P>
+33. The semiconductor structure of claim 30, wherein the first and second barrier layers comprise AlGaAs and further wherein the AlGaAs of the first barrier layer has a higher Ga content than the second barrier layer.
+</P>
+<P>
+34. The semiconductor structure of claim 30, wherein the first barrier layer of the injection barrier comprises GaAsP and the second barrier layer of the injection barrier comprises AlGaAs, and further wherein the GaAsP of the first barrier layer has a lower energy bandgap than the AlGaAs of the second barrier layer.
+</P>
+<P>
+35. A semiconductor structure comprising a multiple semiconductor layer structure including an electron injector and an active region coupled to the electron injector, wherein:
+</P>
+<P>
+(a) the active region includes at least one quantum well under compressive strain; and
+</P>
+<P>
+(b) the electron injector comprises a superlattice comprising a plurality of alternating well layers and barrier layers, at least one of the well layers being separated from a barrier layer by a strain-compensating layer comprising a semiconductor under tensile strain.
+</P>
+<P>
+36. A buried heterostructure semiconductor laser comprising:
+</P>
+<P>
+(a) a multiple semiconductor layer structure grown on a GaAs substrate, the multiple semiconductor layer structure comprising:
+</P>
+<P>
+(i) a laser core comprising at least one laser stage comprising an active region, the active region comprising at least one quantum well;
+</P>
+<P>
+(ii) an upper cladding layer disposed above the laser core; (iii) a lower cladding layer disposed below the laser core;
+</P>
+<P>
+(b) semi-insulating semiconductor material disposed around the multiple semiconductor layer structure.
+</P>
+<P>
+37. The semiconductor laser of claim 36, wherein the semi-insulating semiconductor material is AlGaAs.
+</P>
+<P>
+38. A semiconductor laser comprising an active region comprising at least one quantum well having associated therewith an upper energy level and a lower energy level, characterized in that electrons in the upper energy level of the active region undergo a radiative transition to emit a photon as they decay from the upper energy level to the lower energy level, wherein the active region comprises a composite exit barrier layer comprising a layer of indirect bandgap semiconductor and a layer of direct bandgap semiconductor adjacent to the layer of indirect bandgap semiconductor.
+</P>
+<P>
+39. The semiconductor laser of claim 38, wherein the at least one quantum well comprises a well layer comprising InGaAs disposed between a barrier layer comprising AlGaAs and a composite exit barrier comprising a layer of AlGaAs and a layer of AlAs.
+</P>
+<P>
+40. A semiconductor laser comprising an active region comprising at least one quantum well having associated therewith an upper energy level and a lower energy level, characterized in that electrons in the upper energy level of the active region undergo a radiative transition to emit a photon as they decay from the upper energy level to the lower energy level, wherein the active region comprises a composite exit barrier layer comprising a layer of indirect bandgap semiconductor disposed between two layers of direct bandgap semiconductor.
+</P>
+<P>
+41. The semiconductor laser of claim 40, wherein the at least one quantum well comprises a well layer comprising InGaAs disposed between a barrier layer comprising AlGaAs and a composite exit barrier comprising a layer of AlAs sandwiched between two layers of AlGaAs.
+</P>
+</Claims>
+<Also_published_as>
+WO2007112164A2;WO2007112164A3;US2007248131A1;US7403552B2;US2009022196A1;US7856042B2
+</Also_published_as>
+</BiblioData>

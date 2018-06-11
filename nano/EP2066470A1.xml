@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PARTICLES AND INKS AND FILMS USING THEM
+</Title>
+<PublicationNumber>
+EP2066470A1
+</PublicationNumber>
+<Inventor>
+<Name>
+PARASHAR SACHIN [IN]
+</Name>
+<Name>
+SARKAR SIULI [IN]
+</Name>
+<Name>
+KHASELEV OSCAR [US]
+</Name>
+<Name>
+LEWIS BRIAN G [US]
+</Name>
+<Name>
+MARCZI MICHAEL T [US]
+</Name>
+<Name>
+SINGH BAWA [US]
+</Name>
+<Name>
+DESAI NITIN [US]
+</Name>
+<Name>
+LIBERATORE MICHAEL [US]
+</Name>
+<Name>
+PARASHAR, SACHIN
+</Name>
+<Name>
+SARKAR, SIULI
+</Name>
+<Name>
+KHASELEV, OSCAR
+</Name>
+<Name>
+LEWIS, BRIAN, G
+</Name>
+<Name>
+MARCZI, MICHAEL, T
+</Name>
+<Name>
+SINGH, BAWA
+</Name>
+<Name>
+DESAI, NITIN
+</Name>
+<Name>
+LIBERATORE, MICHAEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FRY METALS INC [US]
+</Name>
+<Name>
+FRY&apos;S METALS, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2066470
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070813754
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-08-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US75174
+</PriorityNumber>
+<PriorityDate>
+2007-08-03
+</PriorityDate>
+<PriorityNumber>
+US20060462089
+</PriorityNumber>
+<PriorityDate>
+2006-08-03
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B22F1/00
+</Class>
+<Class>
+B22F9/24
+</Class>
+<Class>
+C09D11/00
+</Class>
+<Class>
+H01B1/02
+</Class>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B22F1/00A2B4
+</Class>
+<Class>
+B22F1/00A4C
+</Class>
+<Class>
+B22F9/24
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C09D11/03
+</Class>
+<Class>
+C09D11/38
+</Class>
+<Class>
+C09D7/12D2B
+</Class>
+<Class>
+C09D7/12N1
+</Class>
+<Class>
+C23C24/08
+</Class>
+<Class>
+C23C26/00
+</Class>
+<Class>
+H05K1/09D4
+</Class>
+</NCL>
+<Abstract>
+Particles and particle films are provided. In certain examples, particles produced from a single phase process may be used to provide industrial scale synthesis of particles for use in devices such as printed wiring boards. The particles, in particular silver particles are produced by a process comprising: mixing a metal or a metal salt with a capping agent in a single phase solution;  and adding a reducing agent to the single phase solution to produce capped nanoparticles.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method of producing particles in a single phase solution, the method comprising: mixing a metal or a metal salt with a capping agent in a single phase solution; adding a reducing agent to the single phase solution; and isolating capped metal particles from the single phase solution.
+</P>
+<P>
+2. The method of claim 1 further comprising removing the capping agent from the capped metal particles to provide uncapped particles.
+</P>
+<P>
+3. The method of claim 2 further comprising dispersing the uncapped particles in a solvent.
+</P>
+<P>
+4. The method of claim 3 further comprising mixing the dispersed uncapped particles with an additional metal to provide an alloy.
+</P>
+<P>
+5. The method of claim 4 in which the additional metal is one or more metals selected from the group consisting of silver, gold, palladium, platinum, copper, and tin.
+</P>
+<P>
+6. The method of claim 3 further comprising disposing the dispersed uncapped particles on a substrate.
+</P>
+<P>
+7. The method of claim 6 in which the disposing step comprises spin coating, inkjet printing, paste printing or combinations thereof.
+</P>
+<P>
+8. The method of claim 2 in which the step of removing the capping agent comprises dispersing the capped particles in a solvent and heating the dispersed capped particles.
+</P>
+<P>
+9. The method of claim 1 in which the metal particles are nanoparticles.
+</P>
+<P>
+10. The method of claim 1 comprising configuring the capping agent to be at least about 18% by weight.
+</P>
+<P>
+11. The method of claim 10 further comprising selecting the capping agent to be hexadecylamine.
+</P>
+<P>
+12. A method of producing a printed wiring board comprising: producing capped metal particles from a process comprising: mixing a metal or a metal salt with a capping agent in a single phase solution; and adding a reducing agent to the single phase solution to produce capped nanoparticles; dispersing the capped nanoparticles in a carrier; disposing the dispersed capped nanoparticles on a substrate; and heating the substrate.
+</P>
+<P>
+13. The method of claim 12 further comprising disposing the dispersed capped particles on a substrate in a selected pattern to provide the printed wiring board.
+</P>
+<P>
+14. The method of claim 12 further comprising masking the substrate prior to disposing the dispersed capped particles on the substrate.
+</P>
+<P>
+15. A composition comprising a carrier and capped metal particles selected to provide a conductivity of at least about 30* 10&amp;lt;4&amp;gt; S/cm for a film produced using the composition.
+</P>
+<P>
+16. The composition of claim 15 in which the capped particles are one or more members selected from the group consisting of silver, gold, copper, nickel, platinum, palladium, and iron.
+</P>
+<P>
+17. The composition of claim 15 in which the carrier is one or more solvents selected from the group consisting of toluene, saturated hydrocarbons having 4 to 10 carbon atoms, and unsaturated hydrocarbons having 4 to 10 carbon atoms.
+</P>
+<P>
+18. A film made from capped metal particles and having a conductivity of at least about 30* 10&amp;lt;4&amp;gt; S/cm.
+</P>
+<P>
+19. The film of claim 18 in which the capped metal particles are capped silver nanoparticles.
+</P>
+<P>
+20. The film of claim 18 in which the capped metal particles comprise one or more metals selected from the group consisting of gold, copper, nickel, platinum, palladium, and iron.
+</P>
+</Claims>
+<Also_published_as>
+WO2008017062A1;US2011318478A1;US2008032047A1;US7968008B2;KR20090069162A;JP2009545657A;EP2380688A1;CA2659028A1
+</Also_published_as>
+</BiblioData>

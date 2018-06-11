@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SEMICONDUCTOR SENSOR DEVICE, DIAGNOSTIC INSTRUMENT COMPRISING SUCH A DEVICE AND METHOD OF MANUFACTURING SUCH A DEVICE
+</Title>
+<PublicationNumber>
+EP2092307A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KAHYA NERIMAN N [NL]
+</Name>
+<Name>
+BAKKERS ERIK P A M [NL]
+</Name>
+<Name>
+STEFFEN THOMAS [NL]
+</Name>
+<Name>
+BORGSTROM LARS M [NL]
+</Name>
+<Name>
+KAHYA, NERIMAN N
+</Name>
+<Name>
+BAKKERS, ERIK P. A. M
+</Name>
+<Name>
+STEFFEN, THOMAS
+</Name>
+<Name>
+BORGSTROM, LARS M
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONINKL PHILIPS ELECTRONICS NV [NL]
+</Name>
+<Name>
+KONINKLIJKE PHILIPS ELECTRONICS N.V
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2092307
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070849347
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-06
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IB54937
+</PriorityNumber>
+<PriorityDate>
+2007-12-06
+</PriorityDate>
+<PriorityNumber>
+EP20060125723
+</PriorityNumber>
+<PriorityDate>
+2006-12-08
+</PriorityDate>
+<PriorityNumber>
+EP20070849347
+</PriorityNumber>
+<PriorityDate>
+2007-12-06
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N21/47
+</Class>
+<Class>
+G01N33/551
+</Class>
+<Class>
+G01N33/552
+</Class>
+<Class>
+H01L29/06
+</Class>
+<Class>
+H01L31/105
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01N21/47F
+</Class>
+</NCL>
+<Abstract>
+Semiconductor sensor device (10) for sensing a substance (30) comprising a mesa- shaped semiconductor region (11,11&apos;) which is formed on a surface of a semiconductor body (12) while a fluid (20) comprising the substance (30) to be sensed can flow along the mesa-shaped semiconductor region (11), wherein the mesa- shaped semiconductor region (11) comprises viewed in a longitudinal direction subsequently a first semiconductor subregion (1) comprising a first semiconductor material, a second semiconductor subregion (2) comprising a second semiconductor material different from the first semiconductor material and a third subregion (3) comprising a third semiconductor material different from the second semiconductor material. According to the invention the first and third semiconductor material comprise an optically passive material and the second semiconductor material comprises an optically active material, the substance (30) to be sensed can change a property of electromagnetic radiation (E) coming from the second subregion (2) and the semiconductor sensor device (10) is formed such that the electromagnetic radiation (E) of which the property has been changed can reach a detector (50). The sensor device (10) according to the invention can be very sensitive, relatively compact and easy to manufacture. The radiation (E) can originate from an external source (40) or can be generated in the device (10).
+</Abstract>
+<Claims>
+<P>
+CLAIMS:
+</P>
+<P>
+1. Semiconductor sensor device (10) for sensing a substance (30) comprising a mesa- shaped semiconductor region (11,11&apos;) which is formed on a surface of a semiconductor body (12) while a fluid (20) comprising the substance (30) to be sensed can flow along the mesa-shaped semiconductor region (11), wherein the mesa- shaped semiconductor region (11) comprises, viewed in a longitudinal direction, subsequently a first semiconductor subregion (1) comprising a first semiconductor material, a second semiconductor subregion (2) comprising a second semiconductor material different from the first semiconductor material and a third subregion (3) comprising a third semiconductor material different from the second semiconductor material, characterized in that the first and third semiconductor material comprise an optically passive material and the second semiconductor material comprises an optically active material, the substance (30) to be sensed can change a property of electromagnetic radiation (E) coming from the second subregion (2) and the semiconductor sensor device (10) is formed such that the electromagnetic radiation (E) of which the property has been changed can reach a detector (50).
+</P>
+<P>
+2. Semiconductor sensor device (10) according to claim 1, characterized in that the second subregion (2) forms a quantum dot.
+</P>
+<P>
+3. Semiconductor sensor device (10) according to claim 1 or 2, characterized in that first and third subregions (1,3) comprise a group IV element of the periodic system, preferably silicon or germanium or a mixed crystal of these elements, and the second subregion (2) comprises a III-V compound.
+</P>
+<P>
+4. Semiconductor sensor device (10) according to claim 3, characterized in that the III-V compound has an effective bandgap in the visible part of the spectrum.
+</P>
+<P>
+5. Semiconductor sensor device (10) according to claim 4, characterized in that the sensor device (10) comprises a mesa-shaped semiconductor (11,11&apos;) region with between optically inactive other subregions a further optical active subregion with different optically properties than the second subregion such that two different substances (30) can be detected by the sensor device (10).
+</P>
+<P>
+6. Semiconductor sensor device (10) according to any of the preceding claims, characterized in that the mesa- shaped semiconductor region (11) comprises a pn-junction close to the second subregion (2) and is connected at a first end to a first electrically conducting connection region (13) and at a second end to a second electrically conducting connection region (14).
+</P>
+<P>
+7. Semiconductor sensor device according to claim 3, 4 or 5, characterized in that the group IV element material of the first and third semiconductor regions (1,3) is selectively oxidized to form optically passive material comprising a group IV element oxide.
+</P>
+<P>
+8. Semiconductor sensor device (10) according to any of the preceding claims, characterized in that a free outer surface of the second subregion (2) is functionalized so as to increase the probability that the substance (30) to be detected sticks to said free outer surface.
+</P>
+<P>
+9. Semiconductor sensor device (10) according to any of the preceding claims, characterized in that a free outer surface of the first and third subregions (1,3) is functionalized so as to decrease the probability that the substance (30) to be detected sticks to said free outer surface.
+</P>
+<P>
+10. Semiconductor sensor device (10) according to any of the preceding claims, characterized in that the mesa-shaped semiconductor region (11) comprises a nano-wire (11), preferably a plurality of mutually parallel nano-wires (11,11&apos;).
+</P>
+<P>
+11. Semiconductor sensor device (10) according to claim 10, characterized in that the nano-wire(s) (11,11&apos;) are positioned on the surface of the semiconductor body (12) with their length direction running perpendicular to said surface.
+</P>
+<P>
+12. Semiconductor sensor device (10) according to any of the preceding claims, characterized in that the device (10) is suitable for detecting a bio molecule such as a protein binding to an antibody.
+</P>
+<P>
+13. Diagnostic instrument comprising a semiconductor sensor device (10) according to any of the preceding claims.
+</P>
+<P>
+14. Diagnostic instrument according to claim 13, characterized in that the instrument comprises a source (40) for directing electromagnetic radiation to the second subregion (2) and a detector (50) for detecting electromagnetic radiation coming from the second subregion (2).
+</P>
+<P>
+15. Method of manufacturing a semiconductor sensor device (10) for sensing a substance (30) comprising at least one mesa- shaped semiconductor region (11,11&apos;) which is formed at a surface of a semiconductor body (12), while a fluid (20) comprising a substance (30) to be sensed can flow along the mesa-shaped semiconductor region (11), wherein the mesa- shaped semiconductor region (11) is formed with, viewed in a longitudinal direction, subsequently a first semiconductor subregion (1) comprising a first semiconductor material and a second semiconductor subregion (2) comprising a second semiconductor material different from the first semiconductor material, characterized in that the first and third semiconductor material are formed of an optically passive material and the second semiconductor material is formed of an optically active material, the substance (30) to be sensed can change a property of electromagnetic radiation (E) coming from the second subregion (2) and the semiconductor sensor device (10) is formed such that the electromagnetic radiation (E) of which the property has been changed can reach a detector (50).
+</P>
+</Claims>
+<Also_published_as>
+WO2008068721A1;JP2010511886A;CN101558290A
+</Also_published_as>
+</BiblioData>

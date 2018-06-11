@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+INTERMEDIATE-BAND PHOTOSENSITIVE DEVICE WITH QUANTUM DOTS HAVING TUNNELING BARRIER EMBEDDED IN ORGANIC MATRIX
+</Title>
+<PublicationNumber>
+EP1969652A1
+</PublicationNumber>
+<Inventor>
+<Name>
+FORREST STEPHEN R [US]
+</Name>
+<Name>
+FORREST, STEPHEN, R
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV PRINCETON [US]
+</Name>
+<Name>
+THE TRUSTEES OF PRINCETON UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1969652
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060845056
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-12-07
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US46946
+</PriorityNumber>
+<PriorityDate>
+2006-12-07
+</PriorityDate>
+<PriorityNumber>
+US20050304687
+</PriorityNumber>
+<PriorityDate>
+2005-12-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L29/12W4
+</Class>
+<Class>
+H01L51/42H2
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+A plurality of quantum dots each have a shell . The quantum dots are embedded in an organic matrix. At least the quantum dots and the organic matrix are photoconductive semiconductors. The shell of each quantum dot is arranged as a tunneling barrier to require a charge carrier (an electron or a hole) at a base of the tunneling barrier in the organic matrix to perform quantum mechanical tunneling to reach the respective quantum dot. A first quantum state in each quantum dot is between a lowest unoccupied molecular orbital (LUMO) and a highest occupied molecular orbital (HOMO) of the organic matrix. Wave functions of the first quantum state of the plurality of quantum dots may overlap to form an intermediate band.
+</Abstract>
+<Claims>
+<P>
+CLAIMS &amp;lt;-&amp;gt;
+</P>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A photosensitive device comprising: a plurality of quantum dots, each quantum dot having a shell; and an organic matrix, the quantum dots being embedded in the organic matrix, at least the quantum dots and the organic matrix being photoconductive semiconductors, the shell around each quantum dot being arranged as a tunneling barrier to require an electron in a lowest unoccupied molecular orbital (LUMO) of the organic matrix to perform quantum mechanical tunneling to reach the respective quantum dot, and a first quantum state above the band gap in each quantum dot being between the LUMO and a highest occupied molecular orbital (HOMO) of the organic matrix, wave functions of the first quantum state of the plurality of quantum dots to overlap as an intermediate band.
+</P>
+<P>
+2. The photosensitive device of claim 1, each quantum dot further having a second quantum state, wherein the second quantum state is above the first quantum state and within +-0.16 eV of the LUMO of the organic matrix.
+</P>
+<P>
+3. The photosensitive device of claim 1 , a height of the tunneling barrier being an absolute value of an energy level difference between a peak of the tunneling barrier and the LUMO of the organic matrix, wherein a combination of the height and potential profile of the tunneling barrier and a thickness of the shell around each quantum dot corresponds to a tunneling probability between 0.1 and 0.9 that the electron will tunnel into the respective quantum dot from the organic matrix.
+</P>
+<P>
+4. The photosensitive device of claim 3, wherein for each quantum dot, the thickness of the shell is in a range of 0.1 to 10 nanometers.
+</P>
+<P>
+5. The photosensitive device of claim 3, wherein the combination of the height and potential profile of the tunneling barrier and the thickness of the shell around each quantum dot corresponds to a tunneling probability between 0.2 and 0.5 that the electron will tunnel into the respective quantum dot from the organic matrix.
+</P>
+<P>
+6. The photosensitive device of claim 5, wherein for each quantum dot, the thickness of the shell is in a range of 0.1 to 10 nanometers.
+</P>
+<P>
+7. The photosensitive device of claim 1, wherein the organic matrix is composed of a photoconductive small molecule semiconductor.
+</P>
+<P>
+8. The photosensitive device of claim 1 , wherein the organic matrix is composed of a photoconductive polymer semiconductor.
+</P>
+<P>
+9. The photosensitive device of claim 1, wherein each quantum dot is composed of an inorganic semiconductor.
+</P>
+<P>
+10. The photosensitive device of claim 9, wherein each quantum dot is composed of a compound semiconductor selected from the group consisting of III- V compound semiconductors, TI-VI compound semiconductors, PbS, PbSe, PbTe, SiC, and ternary and quaternary alloys thereof.
+</P>
+<P>
+11. The photosensitive device of claim 9, wherein the shell around each quantum dot is composed of an inorganic semiconductor or an inorganic electrical insulator.
+</P>
+<P>
+12. The photosensitive device of claim 11 , wherein the shell around each quantum dot is composed of a compound semiconductor selected from the group consisting of III- V compound semiconductors, II- VI compound semiconductors, PbS, PbSe, PbTe, SiC, and ternary and quaternary alloys thereof.
+</P>
+<P>
+13. The photosensitive device of claim 11, wherein the shell around each quantum dot is composed of an inorganic electrical insulator selected from the group consisting of oxides, nitrides, and oxynitrides.
+</P>
+<P>
+14. The photosensitive device of claim 9, wherein the shell around each quantum dot is composed of an organic semiconductor or an organic electrical insulator.
+</P>
+<P>
+15. The photosensitive device of claim 14, wherein the shell around each quantum dot is composed of&amp;lt;&quot;&amp;gt; an organic material selected from the group consisting of polymers, thiols, dendrimers, alkane chains, and organic oxides.
+</P>
+<P>
+16. The photosensitive device of claim 9, further comprising an organic donor layer and an organic acceptor layer in superposed relationship, the quantum dots embedded in the organic matrix being disposed between the donor layer and the acceptor layer, wherein a lowest unoccupied molecular orbital (LUMO) of the donor layer is higher than a peak of the tunneling barriers provided by the shells around the quantum dots.
+</P>
+<P>
+17. The photosensitive device of claim 1, wherein: each quantum dot is composed of an organic semiconductor, and the shell around each quantum dot is composed of an organic semiconductor or an organic electrical insulator.
+</P>
+<P>
+18. The photosensitive device of claim 17, wherein: each quantum dot is composed of a first organic material selected from the group consisting of a photoconductive small molecule, a photoconductive dendrimer molecule, and a photoconductive polymer molecule; and the shell around each quantum dot is composed of a second organic material selected from the group consisting of polymers, thiols, dendrimers, alkane chains, and organic oxides.
+</P>
+<P>
+19. The photosensitive device of claim 17, further comprising an organic donor layer and an organic acceptor layer in superposed relationship, the quantum dots embedded in the organic matrix being disposed between the donor layer and the acceptor layer, wherein a lowest unoccupied molecular orbital (LUMO) of the donor layer is higher than a peak of the tunneling barriers provided by the shells around the quantum dots.
+</P>
+<P>
+20. The photosensitive device of claim 1 , wherein a quantum dot of the plurality of quantum dots and the shell around said quantum dot are integrated as a single dendrimer molecule.
+</P>
+<P>
+21. The photosensitive device of claim 1, wherein for each quantum dot, a thickness of the shell.around each quantum dot is in a range of 0.1 to 10 nanometers.
+</P>
+<P>
+22. The photosensitive device of claim 21, wherein for each quantum dot, the thickness of the shell is equal to no more than 10% of an average cross-sectional thickness through a center of the respective quantum dot.
+</P>
+<P>
+23. The photosensitive device of claim 1, wherein the photosensitive device is a solar cell.
+</P>
+<P>
+24. A photosensitive device comprising: a plurality of quantum dots, each quantum dot having a shell; and an organic matrix, the quantum dots being embedded in the organic matrix, at least the quantum dots and the organic matrix being photoconductive semiconductors, the shell around each quantum dot being arranged as a tunneling barrier to require hole in a highest occupied molecular orbital (HOMO) of the organic matrix to perform quantum mechanical tunneling to reach the respective quantum dot, and a first quantum state below the band gap in each quantum dot being between a lowest unoccupied molecular orbital (LUMO) and the HOMO of the organic matrix, wave functions of the first quantum state of the plurality of quantum dots to overlap as an intermediate band.
+</P>
+<P>
+25. The photosensitive device of claim 24, each quantum dot further having a second quantum state, wherein the second quantum state is below the first quantum state and within +-0.16 eV of the HOMO of the organic matrix.
+</P>
+<P>
+26. The photosensitive device of claim 24, a height of the tunneling barrier being an absolute value of an energy level difference between a peak of the tunneling barrier and the HOMO of the organic matrix, wherein a combination of the height and potential profile of the tunneling barrier and a thickness of the shell around each quantum dot corresponds to a tunneling probability between 0.1 and 0.9 that the hole will tunnel into the respective quantum dot from the organic matrix. W
+</P>
+<P>
+27. The photosensitive device of claim 26, wherein for each quantum dot, the thickness of the shell is in a range of 0.1 to 10 nanometers.
+</P>
+<P>
+28. The photosensitive device of claim 26, wherein the combination of the height and potential profile of the tunneling barrier and the thickness of the shell around each quantum dot corresponds to a tunneling probability between 0.2 and 0.5 that the hole will tunnel into the respective quantum dot from the organic matrix.
+</P>
+<P>
+29. The photosensitive device of claim 28, wherein for each quantum dot, the thickness of the shell is in a range of 0.1 to 10 nanometers.
+</P>
+<P>
+30. The photosensitive device of claim 24, wherein the organic matrix is composed of a photoconductive small molecule semiconductor.
+</P>
+<P>
+31. The photosensitive device of claim 24, wherein the organic matrix is composed of a photoconductive polymer semiconductor.
+</P>
+<P>
+32. The photosensitive device of claim 24, wherein each quantum dot is composed of an inorganic semiconductor.
+</P>
+<P>
+33. The photosensitive device of claim 32, wherein each quantum dot is composed of a compound semiconductor selected from the group consisting of HI-V compound semiconductors, II- VI compound semiconductors, PbS, PbSe, PbTe, SiC, and ternary and quaternary alloys thereof.
+</P>
+<P>
+34. The photosensitive device of claim 32, wherein the shell around each quantum dot is composed of an inorganic semiconductor or an inorganic electrical insulator.
+</P>
+<P>
+35. The photosensitive device of claim 34, wherein the shell around each quantum dot is composed of a compound semiconductor selected from the group consisting of III- V compound semiconductors, II- VI compound semiconductors, PbS, PbSe, PbTe, SiC, and ternary and quaternary alloys thereof.
+</P>
+<P>
+36. The photosensitive device of claim 34, wherein the shell around each quantum dot is composed of an inorganic electrical insulator selected from the group consisting of oxides, nitrides, and oxynitrides,
+</P>
+<P>
+37. The photosensitive device of claim 32, wherein the shell around each quantum dot is composed of an organic semiconductor or an organic electrical insulator.
+</P>
+<P>
+38. The photosensitive device of claim 37, wherein the shell around each quantum dot is composed of an organic material selected from the group consisting of polymers, thiols, dendrimers, alkane chains, and organic oxides.
+</P>
+<P>
+39. The photosensitive device of claim 32, further comprising an organic donor layer and an organic acceptor layer in superposed relationship, the quantum dots embedded in the organic matrix being disposed between the donor layer and the acceptor layer, wherein a highest occupied molecular orbital (HOMO) of the acceptor layer is lower than a peak of the tunneling barriers provided by the shells around the quantum dots.
+</P>
+<P>
+40. The photosensitive device of claim 24, wherein: each quantum dot is composed of an organic semi conductor, and the shell around each quantum dot is composed of an organic semiconductor or an organic electrical insulator.
+</P>
+<P>
+41. The photosensitive device of claim 40, wherein: each quantum dot is composed of a first organic material selected from the group consisting of a photoconductive small molecule, a photoconductive dendrimer molecule, and a photoconductive polymer molecule; and the shell around each quantum dot is composed of a second organic material selected . from the group consisting of polymers, thiols, dendrimers, alkane chains, and organic oxides.
+</P>
+<P>
+42. The photosensitive device of claim 40, further comprising an organic donor layer and an organic acceptor layer in superposed relationship, the quantum dots embedded in the organic matrix being disposed between the donor layer and the acceptor layer, wherein a highest occupied molecular orbital (HOMO) of the acceptor layer is lower than a peak of the tunneling barriers provided by the shells around the quantum dots.
+</P>
+<P>
+43. The photosensitive device of claim 24, wherein a quantum dot of the plurality of quantum dots and the shell around said quantum dot are integrated as a single deridr[iota]rner molecule.
+</P>
+<P>
+44. The photosensitive device of claim 24, wherein for each quantum dot, a thickness of the shell around each quantum dot is in a range of 0.1 to 10 nanometers.
+</P>
+<P>
+45. The photosensitive device of claim 44, wherein for each quantum dot, the thickness of the shell is equal to no more than 10% of an average cross-sectional thickness through a center of the respective quantum dot.
+</P>
+<P>
+46. The photosensitive device of claim 24, wherein the photosensitive device is a solar cell.
+</P>
+</Claims>
+<Also_published_as>
+WO2007073467A1;US2007162263A1;US7414294B2;KR20080080374A;JP2009520358A;CN101375425A;CN101375425B;AR057250A1
+</Also_published_as>
+</BiblioData>

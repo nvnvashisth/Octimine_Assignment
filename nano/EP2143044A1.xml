@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+SYSTEMS, METHODS, AND APPARATUS FOR AUTOMATIC IMAGE RECOGNITION
+</Title>
+<PublicationNumber>
+EP2143044A1
+</PublicationNumber>
+<Inventor>
+<Name>
+ROSE GEORDIE [CA]
+</Name>
+<Name>
+ROSE, GEORDIE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+DWAVE SYS INC [CA]
+</Name>
+<Name>
+D-WAVE SYSTEMS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2143044
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080733763
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-18
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008CA00726
+</PriorityNumber>
+<PriorityDate>
+2008-04-18
+</PriorityDate>
+<PriorityNumber>
+US20070912904P
+</PriorityNumber>
+<PriorityDate>
+2007-04-19
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G06K9/68
+</Class>
+<Class>
+G06N99/00
+</Class>
+<Class>
+G06N1/00
+</Class>
+</IPC>
+<IPC7>
+<Class>
+G06N1/00
+</Class>
+</IPC7>
+<ICM>
+<Class>
+G06K9/68
+</Class>
+<Class>
+G06N99/00
+</Class>
+</ICM>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G06K9/00Y
+</Class>
+<Class>
+G06K9/68C2
+</Class>
+<Class>
+G06N99/00K
+</Class>
+</NCL>
+<Abstract>
+A method of improving the accuracy and computation time of automatic image recognition by the implementation of association graphs and a quantum processor.
+</Abstract>
+<Claims>
+<P>
+1. A computer-implemented method of identifying features of query images in a database of images, the method comprising:
+</P>
+<P>
+comparing a graph representation of at least one feature of a query image to a respective graph representation of at least a portion of each of at least some of a plurality of database images of a database of images, wherein each comparison includes generating a respective association graph; and
+</P>
+<P>
+determining at least one characteristic of each association graph via a quantum processor, wherein the at least one characteristic of each association graph is representative of a similarity between the at least one feature of the query image and at least the portion of the respective database image to which the association graph corresponds.
+</P>
+<P>
+2. The method of claim 1, further comprising:
+</P>
+<P>
+storing a result from the determining at least one characteristic of each association graph; and
+</P>
+<P>
+ranking the results such that the highest ranking result represents the most likely match between the feature of the query image and at least one of the database images.
+</P>
+<P>
+3. The method of claim 1 wherein at least some of the plurality of database images each include data representative of at least one human face, and wherein the feature of the query image includes data representative of at least one human face.
+</P>
+<P>
+4. The method of claim 1, further comprising:
+</P>
+<P>
+generating the respective graph representation of at least the portion of each of at least some of the database images of the database of images; and
+</P>
+<P>
+generating the graph representation of the at least one feature of the query image.
+</P>
+<P>
+5. The method of claim 4 wherein generating graph representations of at least the portion of each of at least some of the database image and of the at least one feature of the query image includes performing Elastic Bunch Graph Matching.
+</P>
+<P>
+6. The method of claim 4 wherein generating the respective graph representations of at least the portion of each database image includes generating the respective graph representations using a classical digital processor.
+</P>
+<P>
+7. The method of claim 4, and wherein generating the graph representation of the at least one feature of the query image includes generating the graph representation using a classical digital processor.
+</P>
+<P>
+8. The method of claim 1 wherein determining at least one characteristic of each association graph includes determining a maximum independent set of each association graph.
+</P>
+<P>
+9. The method of claim 1 wherein determining at least one characteristic of each association graph includes determining a maximum clique of each association graph.
+</P>
+<P>
+10. The method of claim 1 wherein determining at least one characteristic of each association graph via a quantum processor includes determining at least one characteristic of each association graph via a superconducting quantum processor that comprises a plurality of superconducting qubits.
+</P>
+<P>
+11. The method of claim 1, further comprising:
+</P>
+<P>
+accessing the database of images via a classical digital processor.
+</P>
+<P>
+12. The method of claim 1 wherein generating the respective association graphs includes generating the respective associating graphs using a classical digital processor.
+</P>
+<P>
+13. The method of claim 10, further comprising:
+</P>
+<P>
+transmitting the respective association graphs from the classical digital processor to the quantum processor.
+</P>
+<P>
+14. The method of claim 13, further comprising:
+</P>
+<P>
+transmitting the at least one characteristic of each association graph that is determined by the quantum processor from the quantum processor to the classical digital processor.
+</P>
+<P>
+15. The method of claim 1, further comprising:
+</P>
+<P>
+examining at least a portion of the query image prior to comparing the graph representation of the query image with the graph representations of the database images; and
+</P>
+<P>
+identifying an aspect of the query image that is common to a subset of the database images, and wherein comparing a graph representation of the at least one feature of a query image to a respective graph representation of each of at least some of a plurality of database images includes comparing the graph representation of the at least one feature of the query image to only the graph representation of the databases images in the subset of the database images, with corresponding association graphs being produced therefor.
+</P>
+<P>
+16. The method of claim 1 wherein the at least one feature of the query image represents a majority of the query image.
+</P>
+<P>
+17. The method of claim 1 wherein the similarity between the feature of the query image and the at least a portion of the respective database image to which the association graph corresponds is indicative of whether or not the at least one feature of the query image occurs within the respective database image to which the association graph corresponds.
+</P>
+<P>
+18. A computer-implemented method of solving image matching problems, the method comprising:
+</P>
+<P>
+casting an image matching problem as a quadratic unconstrained binary optimization problem;
+</P>
+<P>
+mapping the quadratic unconstrained binary optimization problem to a quantum processor; and
+</P>
+<P>
+evolving the quantum processor to produce a solution to the quadratic unconstrained binary optimization problem.
+</P>
+<P>
+19. A computer-implemented method of comparing two objects, the method comprising:
+</P>
+<P>
+comparing a graph representation of at least a portion of a first object to a graph representation of at least a portion of a second object, wherein the comparison includes generating an association graph; and
+</P>
+<P>
+determining at least one characteristic of the association graph via a quantum processor, wherein the at least one characteristic of the association graph is representative of a similarity between the at least a portion of the first object and the at least a portion of the second object.
+</P>
+<P>
+20. The method of claim 19 wherein the first object and the second object are both images.
+</P>
+<P>
+21. The method of claim 19 wherein determining at least one characteristic of the association graph includes determining a maximum independent set of the association graph.
+</P>
+<P>
+22. The method of claim 19 wherein determining at least one characteristic of the association graph includes determining a maximum clique of the association graph.
+</P>
+<P>
+23. The method of claim 19 determining at least one characteristic of the association graph results in the quantum processor returning a value that is representative of a measure of similarity between the at least a portion of the first object and the at least a portion of the second object.
+</P>
+</Claims>
+<Also_published_as>
+US2008260257A1;US8073808B2;US2012045136A1;JP2010525431A;CN101657827A;WO2008128338A1;CA2681147A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Organic solar cell with an intermediary layer with asymmetric transport characteristics
+</Title>
+<PublicationNumber>
+EP2063472A2
+</PublicationNumber>
+<Inventor>
+<Name>
+BRABEC CHRISTOPH [AT]
+</Name>
+<Name>
+WALDAUF CHRISTOPH [AT]
+</Name>
+<Name>
+BRABEC, CHRISTOPH
+</Name>
+<Name>
+WALDAUF, CHRISTOPH
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+KONARKA TECHNOLOGIES INC [US]
+</Name>
+<Name>
+KONARKA TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2063472
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20090153801
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2004-05-26
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20040734848
+</PriorityNumber>
+<PriorityDate>
+2004-05-26
+</PriorityDate>
+<PriorityNumber>
+DE20031026546
+</PriorityNumber>
+<PriorityDate>
+2003-06-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L31/042
+</Class>
+<Class>
+H01L51/30
+</Class>
+<Class>
+H01L51/42
+</Class>
+<Class>
+H01L51/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L51/42D2
+</Class>
+<Class>
+H01L51/42F2
+</Class>
+<Class>
+H01L51/42H
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+The solar cell has an antireflection layer (2) on the outside of a transparent plastics, glass or crystalline substrate (4). A first layer on the inner side of the substrate is an electrode (8). It may act either as the cathode or the anode and may be made of aluminum, copper or ITO (Indium Tin Oxide). A first intermediate layer (10) has an asymmetrical conductivity and acts as an electron acceptor. It also acts as an optical antireflection layer. The next active layer (12) has an electron acceptor side (14) contacting the first intermediate layer and an electron donor side (16) contacting a second intermediate layer (18) and an electrode layer (20).
+</Abstract>
+<Claims>
+<P>
+1. Photovoltaische Zelle mit einer photoaktiven Schicht (12) und zwei Elektroden (8, 20), wobei zwischen zumindest einer der Elektroden und der photoaktiven Schicht (12) eine Zwischenschicht (10, 18) mit asymmetrischer Leitfähigkeit angeordnet ist,
+</P>
+<P>
+dadurch gekennzeichnet, dass die Zwischenschicht (10, 18) semitransparent ist.
+</P>
+<P>
+2. Photovoltaische Zelle gemäss Anspruch 1, dadurch gekennzeichnet, dass zwischen jeder der beiden Elektroden und der photoaktiven Schicht eine Zwischenschicht mit asymmetrischer Leitfähigkeit angeordnet ist.
+</P>
+<P>
+3. Photovoltaische Zelle gemäss Anspruch 1 oder 2, dadurch gekennzeichnet, dass die Zwischenschicht eine Bandlücke aufweist, die grösser als oder gleich der Bandlücke der photoaktiven Schicht ist.
+</P>
+<P>
+4. Photovoltaische Zelle gemäss einem der vorstehenden Ansprüche, wobei die photoaktive Schicht einen Bereich mit Elektronendonatoren und einen Bereich mit Elektronenakzeptoren aufweist, wobei dem Bereich der Elektronenakzeptoren eine Kathode zugeordnet ist, dadurch gekennzeichnet, dass die Zwischenschicht zwischen dem Bereich der Elektronenakzeptoren und der Kathode angeordnet ist und ein Material aufweist, das Strom hauptsächlich über Elektronen leitet.
+</P>
+<P>
+5. Photovoltaische Zelle gemäss Anspruch 4, dadurch gekennzeichnet, dass die elektronenleitende Zwischenschicht TiO2 oder C60 umfasst.
+</P>
+<P>
+6. Photovoltaische Zelle gemäss Anspruch 4 oder 5, dadurch gekennzeichnet, dass das Leitungsband der elektronen-leitenden Zwischenschicht auf das höchste besetzte Molekülorbital des Elektronenakzeptors abgestimmt ist.
+</P>
+<P>
+7. Photovoltaische Zelle gemäss einem der vorstehenden Ansprüche, wobei die photoaktive Schicht einen Bereich mit Elektronendonatoren und einen Bereich mit Elektronenakzeptoren aufweist, wobei dem Bereich der Elektronendonatoren eine Anode zugeordnet ist, dadurch gekennzeichnet, dass die Zwischenschicht zwischen dem Bereich der Elektronendonatoren und der Anode angeordnet ist und ein Material aufweist, das Strom hauptsächlich über Defektelektronen leitet.
+</P>
+<P>
+8. Photovoltaische Zelle gemäss einem der vorstehenden Ansprüche, dadurch gekennzeichnet, dass die Defektelektronen-leitende Zwischenschicht PDOT umfasst.
+</P>
+<P>
+9. Photovoltaische Zelle gemäss Anspruch 7 oder8, dadurch gekennzeichnet, dass das Valenzband der Defektelektronen-leitenden Zwischenschicht auf das niedrigste unbesetzte Molekülorbital des Elektronendonators abgestimmt ist.
+</P>
+<P>
+10. Photovoltaische Zelle gemäss einem der vorstehenden Ansprüche, dadurch gekennzeichnet, dass die Photovoltaische Zelle eine organische Photovoltaische Zelle ist.
+</P>
+</Claims>
+<Also_published_as>
+EP2063472A3;DE10326546A1;US2006278890A1;KR20110028664A;KR20060018884A;JP2006527491A;ES2323372T3;WO2004112162A1;EP1631996A1;EP1631996B1;CN1806349A;CN1806349B;AT425559T
+</Also_published_as>
+</BiblioData>

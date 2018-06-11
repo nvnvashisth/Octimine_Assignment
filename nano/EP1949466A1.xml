@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A MAGNETORESISTIVE TUNNEL JUNCTION MAGNETIC DEVICE AND ITS APPLICATION TO MRAM
+</Title>
+<PublicationNumber>
+EP1949466A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DIENY BERNARD [FR]
+</Name>
+<Name>
+VEDYAEV ANATOLY [RU]
+</Name>
+<Name>
+FAURE-VINCENT JEROME [FR]
+</Name>
+<Name>
+WARIN PATRICK [FR]
+</Name>
+<Name>
+JAMET MATTHIEU [FR]
+</Name>
+<Name>
+SAMSON YVES [FR]
+</Name>
+<Name>
+DIENY, BERNARD
+</Name>
+<Name>
+VEDYAEV, ANATOLY
+</Name>
+<Name>
+FAURE-VINCENT, JEROME
+</Name>
+<Name>
+WARIN, PATRICK
+</Name>
+<Name>
+JAMET, MATTHIEU
+</Name>
+<Name>
+SAMSON, YVES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+CENTRE NAT RECH SCIENT [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+<Name>
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE ET AUX ENERGIESALTERNATIVES
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1949466
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060807238
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-10-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006EP67374
+</PriorityNumber>
+<PriorityDate>
+2006-10-13
+</PriorityDate>
+<PriorityNumber>
+FR20050010533
+</PriorityNumber>
+<PriorityDate>
+2005-10-14
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C11/15
+</Class>
+<Class>
+G11C11/16
+</Class>
+<Class>
+H01F10/32
+</Class>
+<Class>
+H01L27/22
+</Class>
+<Class>
+H01L43/08
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G11C11/15
+</Class>
+<Class>
+H01F10/32N4
+</Class>
+<Class>
+H01F41/30D4
+</Class>
+<Class>
+H01L27/22M
+</Class>
+<Class>
+H01L43/08
+</Class>
+</NCL>
+<Abstract>
+The magnetic device comprises a magnetic device comprising a magnetoresistive tunnel junction (100), itself comprising: a reference magnetic layer (120) having magnetization in a direction that is fixed;  a storage magnetic layer (110) having magnetization in a direction that is variable;  and an intermediate layer (130) acting as a tunnel barrier that is essentially semiconductor or electrically insulating and that separates the reference magnetic layer (120) from the storage magnetic layer (110). The potential profile of the intermediate layer (130) is asymmetrical across the thickness of said layer (130) so as to produce a current response that is asymmetrical as a function of the applied voltage. The device is applicable to magnetic random access memories.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A magnetic device comprising a magnetoresistive tunnel junction (100), itself comprising:
+</P>
+<P>
+- a reference magnetic layer (120) having magnetization in a direction that is fixed;
+</P>
+<P>
+- a storage magnetic layer (110) having magnetization in a direction that is variable; and
+</P>
+<P>
+- an intermediate layer (130) acting as a tunnel barrier that is essentially semiconductor or electrically insulating and that separates the reference magnetic layer (120) from the storage magnetic layer (110); the device being characterized in that the potential profile of the intermediate layer (130) is asymmetrical across the thickness of said layer (130) so as to produce a current response that is asymmetrical as a function of the applied voltage.
+</P>
+<P>
+2. A device according to claim 1, characterized in that the intermediate layer (130) acting as a tunnel barrier includes in its thickness, at a first distance (ex) from the storage magnetic layer (110) and at a second distance (e2) from the reference magnetic layer (120) , a very thin layer (133, 134) of a metallic or semiconductive material other than that or those constituting the remainder of the intermediate layer (131, 132) so as to create a potential well that is localized and asymmetrical within the tunnel barrier.
+</P>
+<P>
+3. A device according to claim 2, characterized in that said very thin layer (133) presents a thickness of one to two planes of atoms .
+</P>
+<P>
+4. A device according to claim 12, characterized in that said very thin layer (134) presents a thickness of a fraction of a plane of atoms.
+</P>
+<P>
+5. A device according to any one of claims 2 to 4, characterized in that the second distance (e2) presents a value that is different from that of the first distance Ie1).
+</P>
+<P>
+6. A device according to any one of claims 2 to 5, characterized in that the remainder of the intermediate layer (131, 132) comprises different insulating or semiconductive materials on either side of the very thin layer (133, 134) .
+</P>
+<P>
+7. A device according to claim 1, characterized in that said intermediate layer (130) acting as a tunnel barrier includes a doped region (135, 136) within its thickness at a first distance (ex) from the storage magnetic layer (110) and at a second distance (e2) from the reference magnetic layer (120) , where the second distance presents a value different from that of the first distance (dx) , the doped region (135, 136) being doped by inserting a material other than that constituting the remainder of the intermediate layer (131, 132) so as to create in the doped region a potential well that is localized and asymmetrical within the tunnel barrier.
+</P>
+<P>
+8. A device according to claim 7, characterized in that one of the first and second distances (e1# e2) is zero such that the doped region (136) is in contact with one of the two outer interfaces of said intermediate layer (131) with the reference magnetic layer (120) and with the storage magnetic layer (210).
+</P>
+<P>
+9. A device according to claim 1, characterized in that said intermediate layer (130) acting as a tunnel barrier comprises a stack of at least a first layer (131) of a first insulating or semiconductive material and presenting a first thickness (e1; e2) , and of at least one second layer (132) of a second insulating or semiconductive material different from said first material and presenting a second thickness (e2) .
+</P>
+<P>
+10. A device according to claim 9, characterized in that the second thickness (e2) presents a value different from the first thickness Ce1) .
+</P>
+<P>
+11. A device according to any one of claims 1 to 10, characterized in that said intermediate layer (130) comprises alumina.
+</P>
+<P>
+12. A device according to claim 11 and any one of claims 2 to 6 , characterized in that said very thin layer (133, 134) is made of a material selected from aluminum, gold, silver, silicon, and germanium.
+</P>
+<P>
+13. A device according to any one of claims 1 to 10, characterized in that said intermediate layer comprises magnesium oxide.
+</P>
+<P>
+14. A device according to claim 13 and any one of claims 2 to 6 , characterized in that said very thin layer (133, 134) is made of a material selected from chromium, ruthenium, tantalum, gold, silver, silicon, and germanium.
+</P>
+<P>
+15. A device according to any one of claims 1 to 14, characterized in that the intermediate layer (130) acting as a tunnel barrier presents a thickness lying in the range 1 nm to 3 nm.
+</P>
+<P>
+16. A device according to claim 7 or claim 8, characterized in that the intermediate layer (130) acting as a tunnel barrier presents thickness lying in the range 2 nm to 3 nm, and in that the doped region (136) presents thickness lying in the range 0.5 nm to 1 nm.
+</P>
+<P>
+17. A device according to any one of claims 7, 8, and 16, characterized in that the intermediate layer (130) is made of alumina or of magnesium oxide, and in that the doped region (135, 136) comprises metallic or semiconductor doping elements comprising at least one of the materials constituted by aluminum, gold, silver, chromium, ruthenium, tantalum, and silicon.
+</P>
+<P>
+18. A memory comprising an array of memory cells addressable by a set of bit lines (106) and of word lines (108), said memory being characterized in that each memory cell comprises a magnetic device (100) according to any one of claims 1 to 17, and in that each magnetic device (100) is connected to one bit line (106) and to one word line (108) without interposing any additional switch element.
+</P>
+<P>
+19. A memory according to claim 18, characterized in that it comprises N*N memory cells distributed in a two- dimensional architecture, where N is an integer, each bit line (106) serving N memory cells, and each word line (108) serving N memory cells.
+</P>
+<P>
+20. A memory according to claim 18, characterized in that it presents three-dimensional architecture comprising a set of P superposed layers, each of N*N memory cells (100) , each connected to one bit line (106) and to one word line (108), where P and N are integers, and in that each bit line (106) and each word line (108) serving memory cells (100) other than the memory cells of the outer layers is associated with memory cells (100) belonging to two different adjacent layers (P1, P1+1) .
+</P>
+<P>
+21. A memory according to claim 18, characterized in that it presents three-dimensional architecture comprising a stack of P superposed layers of N*N memory cells (100) , memory cells (100) of each layer (P1, P1+1) being distributed in a two-dimensional architecture, P and N being integers, each bit line (106) serving N memory cells (100) and each word line (108) serving N memory cells (100) within one two-dimensional architecture layer, and in that an insulating separator layer (160) is interposed between two successive two-dimensional architecture layers (P1, P1+1) in periodic manner in the stack of P superposed layers.
+</P>
+</Claims>
+<Also_published_as>
+EP1949466B1;WO2007042563A1;US2009231909A1;US7821818B2;KR20080063767A;JP2009512204A;FR2892231A1;CN101288186A;CN101288186B;AT497259T
+</Also_published_as>
+</BiblioData>

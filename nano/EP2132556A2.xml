@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+DEVICE FOR SORTING AND CONCENTRATING ELECTROMAGNETIC ENERGY AND APPARATUS COMPRISING AT LEAST ONE SUCH DEVICE
+</Title>
+<PublicationNumber>
+EP2132556A2
+</PublicationNumber>
+<Inventor>
+<Name>
+EBBESEN THOMAS [FR]
+</Name>
+<Name>
+SKAULI TORBJORN [NO]
+</Name>
+<Name>
+EBBESEN, THOMAS
+</Name>
+<Name>
+SKAULI, TORBJORN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+UNIV STRASBOURG ETABLISSEMENT [FR]
+</Name>
+<Name>
+CENTRE NAT RECH SCIENT [FR]
+</Name>
+<Name>
+FORSVARETS FORSKNINGS [NO]
+</Name>
+<Name>
+UNIVERSITE DE STRASBOURG (ETABLISSEMENT PUBLIC A CARACTERE SCIENTIFIQUE, CULTUREL ET PROFESSIONEL)
+</Name>
+<Name>
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE
+</Name>
+<Name>
+FORSVARETS FORSKNINGSINSTITUTT
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2132556
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080776261
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-03-25
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008IB01285
+</PriorityNumber>
+<PriorityDate>
+2008-03-25
+</PriorityDate>
+<PriorityNumber>
+US20070907136P
+</PriorityNumber>
+<PriorityDate>
+2007-03-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01N21/55
+</Class>
+<Class>
+G02B27/00
+</Class>
+<Class>
+G02B5/18
+</Class>
+<Class>
+G02B6/122
+</Class>
+<Class>
+G03F1/00
+</Class>
+<Class>
+G03F7/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01J3/02
+</Class>
+<Class>
+G01J3/18
+</Class>
+<Class>
+G01J4/00
+</Class>
+<Class>
+G01N21/21
+</Class>
+<Class>
+G01N21/55B2N
+</Class>
+<Class>
+G02B5/00P
+</Class>
+<Class>
+G02B6/122S
+</Class>
+</NCL>
+<Abstract>
+The present invention concerns a device for sorting and concentrating electromagnetic energy impinging a surface of said device, said surface comprising at least one plasmonics-based surface structure or similar structure of periodic or quasi-periodic surface topography. Device characterised in that said surface (V) is provided with at least two such surface structures (2), acting as individual concentrator structures, which are at least partially spatially overlapped or superposed.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1) Device for sorting and collecting electromagnetic energy impinging a surface of said device, said surface comprising at least one plasmonics-based surface structure or a similar surface structure having one or more specific resonance(s), characterised in that said surface (V) is provided with at least two such surface structures (2), acting as individual collector structures, which are at least partially spatially overlapped or superposed.
+</P>
+<P>
+2) Device according to claim 1, characterised in that each surface structure forms a periodic or quasi-periodic surface topography. 3) Device according to claim 1 or 2, characterised in that each one among said at least two different collector structures (2) which are partially or totally overlapped has specific dimensional and/or structural features adapted to concentrate electromagnetic energy having corresponding specific properties, in particular specific wavelength, angle of incidence and/or polarisation.
+</P>
+<P>
+4) Device according to claim 1 to 3, characterised in that the said at least two collector structures (2) which are partially or totally overlapped have different spatial periods, structurings and/or arrangements, adapted to sort, collect and concentrate separately electromagnetic energy having either respectively corresponding different wavelengths or wavelengths within corresponding different wavelength ranges, respectively corresponding different polarisation directions and/or respectively corresponding different angles of incidence.
+</P>
+<P>
+5) Device according to claim 4, characterised in that the said at least two concentrator structures (2) which are partially or totally overlapped are scaled to sort, collect and concentrate electromagnetic energy having wavelengths comprised within a range of values between 500 Angstroms and 1 m, preferably between 0,4 [mu]m and 1 mm.
+</P>
+<P>
+6) Device according to anyone of claims 1 to 4, characterised in that each concentrator structure (2) is arranged so as to collect and/or to concentrate the electromagnetic, preferably optical, energy it is sorting out from the surface impinging energy, at a corresponding specific region (3) situated within or outside said concentrator structure (2), whereby electromagnetic energy of radiation components with different properties is concentrated at different localised regions.
+</P>
+<P>
+7) Device according to claim 6, characterised in that each localised region (3) of energy concentration corresponds to an aperture in the impinged surface (I&amp;lt;1&amp;gt;), said latter corresponding to the surface of a thin plate or film-like body (4), possibly mounted on a support body made of a material which does not interact with the concerned radiation type.
+</P>
+<P>
+8) Device according to anyone of claims 6 and 7, characterised in that each localised region (3) of energy concentration consists of a circular aperture in the impinged surface, the associated concentrator structure (2) being arranged in a concentric circular pattern around said aperture.
+</P>
+<P>
+9) Device according to anyone of claim 6 and 7, characterised in that each localised region (3) consists of an elongated slot-like or slit-like aperture in the impinged surface, the associated concentrator structure (2) being arranged in a linear pattern parallel to said aperture, on one or both side(s) of said aperture on said impinged surface, preferably in a symmetric arrangement.
+</P>
+<P>
+10) Device according to claim 9, characterised in that the at least two slot or slit-like apertures (3), of linear or non linear shape, are mutually arranged in a parallel or a non parallel disposition, the concentrator structures (2) associated with said apertures having identical spatial periods and/or shapes or not.
+</P>
+<P>
+11) Device according to anyone of claims 7 to 10, characterised in that said thin plate or film-like body (4) is also provided with plasmonics-based concentrator structures or similar structures of periodic or quasi-periodic surface topography (2) on its surface (1&quot;) opposite the impinged surface (V), said structures being each arranged around the exit opening of an aperture (3) of said body (4). 12) Device according to claim 11, characterised in that the concentrator structures (2) around the exit openings of the apertures (3) are dimensioned, structured and arranged in order to focus and/or direct in a given direction the respectively corresponding emerging electromagnetic radiation component, said exit concentrator structures (2) being possibly also partially or fully overlapped.
+</P>
+<P>
+13) Device according to anyone of claims 1 to 12, characterised in that said impinged and/or exit surface(s) (V, V) comprise(s) several groups (5) of at least two partially overlapped concentrator structures (2), covering at least partially said surface(s).
+</P>
+<P>
+14) Device according to claim 13, characterised in that the concentrator structures (2) belonging to neighbouring groups (5) partially overlap themselves.
+</P>
+<P>
+15) Device according to claim 13 or 14, characterised in that concentrator structures belonging to neighbouring groups are delineated by gaps, projections or similar surface structuring features provided in or on said plate or film-like body, able to restrict the flow of electromagnetic energy from one group to another and possibly truncating one or more of the concentrator structures within the groups.
+</P>
+<P>
+16) Device according to anyone of claims 1 to 15, characterised in that the impinged surface is provided with at least one group (5) of three partially overlapped concentrator structures (2) featured to sort, collect and concentrate at associated corresponding regions the optical energy of light with different properties, in particular different wavelengths and/or polarisations.
+</P>
+<P>
+17) Device according to claim 16, characterised in that the impinged surface is provided with several adjacent groups of three partially overlapped concentrator structures, the localised energy concentration regions in the form of circular or slot-like apertures being mutually arranged in a discontinuous or continuous triangular pattern, possibly forming an homogeneous pattern over at least a part of the surface.
+</P>
+<P>
+18) Device according to anyone of claims 1 to 17, consisting of a thin plate or film-like body (4) provided with at least two partially overlapped concentrator structures (2) on its impinged face (V), which concentrate electromagnetic energy of radiations with different properties at the entry openings of corresponding different apertures (3), wherein the opposite face ( 1 &quot;) comprising the exit openings of said apertures are also provided with concentrator structures (2) arranged around said exit openings, which focus and direct the radiations exiting said openings, said latter concentrator structures being possibly overlapped.
+</P>
+<P>
+19) Device according to claim 18, characterised in that the concentrator structures (3) on the impinged and exited surfaces (V and 1&quot;) are arranged in groups of at least two different concentrator structures, covering at least partially each surface.
+</P>
+<P>
+20) Device according to claim 18 or 19, characterised in that the film like body is made of metal, for example gold or silver, the features forming the concentrator structures consisting of grooves engraved or milled into said body or of protruding structures formed or deposited on the corresponding surface and made of metal or dielectric material.
+</P>
+<P>
+21) Device according to anyone of claims 1 to 20, characterised in that the impinged surface (V) is a plane surface.
+</P>
+<P>
+22) Device according to anyone of claims 1 to 20, characterised in that the impinged surface (V) is a curved surface, for example of spherical or parabolic shape.
+</P>
+<P>
+23) Apparatus for separating and characterising an electromagnetic radiation impinging the surface(s) of at least one thin plate or film like body, characterised in that said body or each of said bodies (4) consists of a device (1) according to anyone of claims 1 to 22, wherein each radiation component sorted by one of the concentrator structures (2) is concentrated at an entry opening of a corresponding aperture (3) and wherein a sensor or a group of sensors (7) is arranged on the side of the body opposite the impinging surface (V) to collect information of the separated radiation components emanating from the exit opening(s) of one or several apertures (3).
+</P>
+<P>
+24) Apparatus for combining electromagnetic radiations having different properties and delivered by different sources into a single electromagnetic radiation, characterised in that it comprises at least one device according to anyone of claims 1 to 22, wherein the radiation emitted by each source is fed into a corresponding aperture of said body through its exit opening, said different radiations being combined as constitutive components into a single radiation emitted from the surface provided with the concentrator structures.
+</P>
+<P>
+25) Use of a device according to anyone of claims 1 to 22 to perform spectroscopy.
+</P>
+<P>
+26) Use of a device according to anyone of claims 1 to 22 to perform polarimetry.
+</P>
+<P>
+27) Use of an apparatus according to claim 23 to perform spectral imaging. 28) Use of an apparatus according to claim 23 to perform polarimetric imaging.
+</P>
+<P>
+29) Use of an apparatus according to claim 23 to perform colour imaging.
+</P>
+<P>
+30) Use of an apparatus according to claim 24 to perform image projection or display.
+</P>
+</Claims>
+<Also_published_as>
+EP2132556B1;WO2008114148A2;WO2008114148A3;US2010110430A1;US8174696B2;JP2010524012A;AT509265T
+</Also_published_as>
+</BiblioData>

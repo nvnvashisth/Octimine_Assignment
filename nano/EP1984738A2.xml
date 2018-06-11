@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MICROFLUIDIC DEVICES AND METHODS OF USE IN THE FORMATION AND CONTROL OF NANOREACTORS
+</Title>
+<PublicationNumber>
+EP1984738A2
+</PublicationNumber>
+<Inventor>
+<Name>
+LINK DARREN R [US]
+</Name>
+<Name>
+BOITARD LAURENT [US]
+</Name>
+<Name>
+BRANCIFORTE JEFFREY [US]
+</Name>
+<Name>
+CHARLES YVES [US]
+</Name>
+<Name>
+FEKE GILBERT [US]
+</Name>
+<Name>
+LU JOHN Q [US]
+</Name>
+<Name>
+MARRAN DAVID [US]
+</Name>
+<Name>
+TABATABAI AHMADALI [US]
+</Name>
+<Name>
+WEINER MICHAEL [US]
+</Name>
+<Name>
+HINZ WOLFGANG [US]
+</Name>
+<Name>
+ROTHBERG JONATHAN M [US]
+</Name>
+<Name>
+LINK, DARREN, R
+</Name>
+<Name>
+BOITARD, LAURENT
+</Name>
+<Name>
+BRANCIFORTE, JEFFREY
+</Name>
+<Name>
+CHARLES, YVES
+</Name>
+<Name>
+FEKE, GILBERT
+</Name>
+<Name>
+LU, JOHN, Q
+</Name>
+<Name>
+MARRAN, DAVID
+</Name>
+<Name>
+TABATABAI, AHMADALI
+</Name>
+<Name>
+WEINER, MICHAEL
+</Name>
+<Name>
+HINZ, WOLFGANG
+</Name>
+<Name>
+ROTHBERG, JONATHAN, M
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+RAINDANCE TECHNOLOGIES INC [US]
+</Name>
+<Name>
+RAINDANCE TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1984738
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060844121
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-06-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US21280
+</PriorityNumber>
+<PriorityDate>
+2006-06-01
+</PriorityDate>
+<PriorityNumber>
+WO2006US00931
+</PriorityNumber>
+<PriorityDate>
+2006-01-11
+</PriorityDate>
+<PriorityNumber>
+US20060763524P
+</PriorityNumber>
+<PriorityDate>
+2006-01-30
+</PriorityDate>
+<PriorityNumber>
+US20060771286P
+</PriorityNumber>
+<PriorityDate>
+2006-02-07
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+C07B61/00
+</Class>
+<Class>
+C07K1/04
+</Class>
+<Class>
+C12Q1/68
+</Class>
+<Class>
+G01N33/536
+</Class>
+<Class>
+G01N33/68
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01F13/00M4A
+</Class>
+<Class>
+B01F13/00M6A
+</Class>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B01L3/5027J4
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+B82Y5/00
+</Class>
+<Class>
+C07K1/04C
+</Class>
+<Class>
+C40B30/04
+</Class>
+<Class>
+C40B40/04
+</Class>
+<Class>
+C40B50/08
+</Class>
+<Class>
+C40B60/08
+</Class>
+<Class>
+C40B60/12
+</Class>
+<Class>
+C40B70/00
+</Class>
+<Class>
+G01N33/536
+</Class>
+<Class>
+G01N33/68A10
+</Class>
+<Class>
+G01N33/68B
+</Class>
+</NCL>
+<Abstract>
+The present invention provides novel microfluidic devices, kits, and methods that are useful for performing high-throughput screening assays and diagnostics. Such diagnostic methods can include emulsifying an aqueous library of compounds with a set of uniquely dyecoded-labeled droplets in an inert fluorocarbon medium, thereby forming an interactor library, emulsifying an aqueous sample from a subject in an inert fluorocarbon medium, wherein said sample contains a compound that will react with at least one interactor molecule from the interactor library, coalescing the emulsions to form a nanoreactor, and screening the nanoreactors for a desirable reaction between the contents of the nanoreactor, herein one or more steps are performed on a microfluidic device, which can include a plurality of electrically addressable, channel bearing fluidic modules integrally arranged on a microfabricated substrate such that a continuous channel is provided for flow of immiscible fluids.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+What is claimed is:
+</P>
+<P>
+L A method for performing a diagnostic, the method comprising: a) emulsifying an aqueous library of compounds with a set of uniquely dyecoded- labeled droplets in an inert fluorocarbon medium, thereby forming an interactor library; b) emulsifying an aqueous sample from a subject in an inert fluorocarbon medium, wherein said sample contains a compound that will react with at least one interactor molecule from the interactor library; c) coalescing the emulsions prepared in steps (a) and (b) to form a nanoreactor; and d) screening the nanoreactors for a desirable reaction between the contents of the nanoreactor, wherein one or more steps of (a) - (d) are performed on a microfluidic device.
+</P>
+<P>
+2. The method of claim 1, wherein the library of compounds comprises antigens to various human allergens.
+</P>
+<P>
+3. The method of claim 1, wherein the sample from a subject is serum.
+</P>
+<P>
+4. The method of claim 1, wherein said screening step is performed by fluorescent polarization.
+</P>
+<P>
+5. The method of claim 1 further comprising quantifying the amount of the compound in the nanoreactor.
+</P>
+<P>
+6. A kit for performing the method of claim 1 , the kit comprising an emulsion library of compounds, wherein each emulsion has been uniquely labeled.
+</P>
+<P>
+7. The kit of claim 6, wherein the library of compounds comprises antigens to various human allergens.
+</P>
+<P>
+8. The kit of claim 6, wherein the label is a liquid label.
+</P>
+<P>
+9. The kit of claim 8, wherein the liquid label is a quantum dot.
+</P>
+<P>
+10. A kit for synthesizing a compound from two or more reactive substructures, the kit comprising an emulsion library of reactive substructures, wherein each emulsion has been uniquely labeled.
+</P>
+<P>
+11. A kit for liquid labeling a library of compounds, the kit comprising an emulsionof unique liquid labels.
+</P>
+<P>
+12. A kit for sequencing individual exons from individual chromosomes, the kit comprising: a) an emulsion library of specific primer-pairs to an exon and beads that can bind to said primer-pairs; and b) a chromosomal DNA emulsion.
+</P>
+</Claims>
+<Also_published_as>
+WO2007081387A1;WO2007081386A2;WO2007081386A3;WO2007081385A2;WO2007081385A3;WO2007081385A8;US2010137163A1;JP2009536313A;EP2363205A2;EP2364774A2;CA2636855A1;AU2006335290A1
+</Also_published_as>
+</BiblioData>

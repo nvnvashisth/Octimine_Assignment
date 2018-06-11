@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+PHOTOELECTRIC CONVERTER AND SOLAR CELL USING THE SAME
+</Title>
+<PublicationNumber>
+EP2175502A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SATO YOSHIHARU [JP]
+</Name>
+<Name>
+NAKAMURA EIICHI [JP]
+</Name>
+<Name>
+NIINOMI TAKAAKI [JP]
+</Name>
+<Name>
+MATSUO YUTAKA [JP]
+</Name>
+<Name>
+HASHIGUCHI MASAHIKO [JP]
+</Name>
+<Name>
+SATO, YOSHIHARU
+</Name>
+<Name>
+NAKAMURA, EIICHI
+</Name>
+<Name>
+NIINOMI, TAKAAKI
+</Name>
+<Name>
+MATSUO, YUTAKA
+</Name>
+<Name>
+HASHIGUCHI, MASAHIKO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MITSUBISHI CHEM CORP [JP]
+</Name>
+<Name>
+MITSUBISHI CHEMICAL CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2175502
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080777806
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-07-03
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008JP62054
+</PriorityNumber>
+<PriorityDate>
+2008-07-03
+</PriorityDate>
+<PriorityNumber>
+JP20070179271
+</PriorityNumber>
+<PriorityDate>
+2007-07-09
+</PriorityDate>
+<PriorityNumber>
+JP20080022919
+</PriorityNumber>
+<PriorityDate>
+2008-02-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C07F7/08
+</Class>
+<Class>
+H01L51/42
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+C07F7/08C4D
+</Class>
+<Class>
+H01L51/00M16
+</Class>
+<Class>
+H01L51/00M2B2
+</Class>
+<Class>
+H01L51/00M4B2
+</Class>
+<Class>
+Y02E10/50
+</Class>
+</NCL>
+<Abstract>
+The present invention provides a photoelectric conversion device having at least a fullerene derivative as an electron acceptor and a compound as an electron donor between a pair of electrodes, wherein the fullerene derivative has 2 to 4 organic groups which each independently have 1 to 50 carbon atoms, and wherein when the fullerene derivative has two organic groups, these organic groups do not bind to each other to form a ring.
+</Abstract>
+<Claims>
+<P>
+1. A photoelectric conversion device having at least a fullerene derivative as an electron acceptor and a compound as an electron donor between a pair of electrodes, wherein the fullerene derivative has 2 to 4 organic groups which each independently have 1 to 50 carbon atoms, and wherein when the fullerene derivative has two organic groups, these organic groups do not bind to each other to form a ring.
+</P>
+<P>
+2. The photoelectric conversion device according to claim 1, wherein the fullerene derivative has 2 or 3 organic groups which each independently have 1 to 50 carbon atoms.
+</P>
+<P>
+3. The photoelectric conversion device according to claim 1 or 2, wherein the fullerene is at least one selected from the group consisting of fullerene C60 and fullerene C70.
+</P>
+<P>
+4. A photoelectric conversion device having at least a fullerene derivative as an electron acceptor represented by the following formula (1):
+</P>
+<P>
+C60(R&amp;lt;1&amp;gt;)(R&amp;lt;2&amp;gt;) (1)
+</P>
+<P>
+(wherein in formula (1): R&amp;lt;1&amp;gt; and R&amp;lt;2&amp;gt; are each independently an organic group having 1 to 50 carbon atoms; and R&amp;lt;1&amp;gt; and R&amp;lt;2&amp;gt; do not bind to each other to form a ring), and a compound as an electron donor between a pair of electrodes.
+</P>
+<P>
+5. A photoelectric conversion device having at least a fullerene derivative as an electron acceptor represented by any one of the following formulae (1A) to (1G):
+</P>
+<P>
+(wherein in the formulae (1A) to (1G): R&amp;lt;1&amp;gt; and R&amp;lt;2&amp;gt; are each independently an organic group having 1 to 50 carbon atoms; and R&amp;lt;1&amp;gt; and R&amp;lt;2&amp;gt; do not bind to each other to form a ring), and a compound as an electron donor between a pair of electrodes.
+</P>
+<P>
+6. A photoelectric conversion device having at least a fullerene derivative as an electron acceptor represented by the following formula (1A):
+</P>
+<P>
+(wherein in the formula (1A): R&amp;lt;1&amp;gt; and R&amp;lt;2&amp;gt; are each independently an organic group having 1 to 50 carbon atoms; and R&amp;lt;1&amp;gt; and R&amp;lt;2&amp;gt; do not bind to each other to form a ring), and a compound as an electron donor between a pair of electrodes.
+</P>
+<P>
+7. The photoelectric conversion device according to any one of claims 1 to 6, wherein one or more of the organic groups having 1 to 50 carbon atoms are each independently a group comprising an aromatic ring.
+</P>
+<P>
+8. The photoelectric conversion device according to any one of claims 1 to 7, wherein one or more of the organic groups having 1 to 50 carbon atoms are each independently a group represented by the following formula (3):
+</P>
+<P>
+(wherein in the formula (3): W is an atom belonging to group 4B of the periodic table; R&amp;lt;3&amp;gt;, R&amp;lt;4&amp;gt; and R&amp;lt;5&amp;gt; are each independently an hydrogen atom, a hydrocarbon group having 1 to 50 carbon atoms, alkoxy or amino; and n is an integer from 1 to 10).
+</P>
+<P>
+9. The photoelectric conversion device according to claim 8, wherein R&amp;lt;3&amp;gt;, R&amp;lt;4&amp;gt; and R&amp;lt;5&amp;gt; are each independently a hydrocarbon group having 1 to 20 carbon atoms.
+</P>
+<P>
+10. The photoelectric conversion device according to claim 8, wherein: R&amp;lt;3&amp;gt; and R&amp;lt;4&amp;gt; are an alkyl group having 1 to 3 carbon atoms; and R&amp;lt;5&amp;gt; is a hydrocarbon group having 1 to 20 carbon atoms.
+</P>
+<P>
+11. The photoelectric conversion device according to any one of claims 8 to 10, wherein: n is an integer from 1 to 5; and W is Si.
+</P>
+<P>
+12. The photoelectric conversion device according to any one of claims 4 to 6, wherein in the formula (1) or in the formulae (1A) to (1G): R&amp;lt;1&amp;gt; is a group represented by the following formula (31):
+</P>
+<P>
+(wherein in the formula (31), R&amp;lt;5&amp;gt; is an alkyl group having 1 to 20 carbon atoms or phenyl); and R&amp;lt;2&amp;gt; is a group represented by the following formula (32):
+</P>
+<P>
+(wherein in the formula (32), R&amp;lt;5&amp;gt; is methyl or phenyl).
+</P>
+<P>
+13. The photoelectric conversion device according to any one of claims 1 to 12, wherein the compound as the electron donor is a polymer compound.
+</P>
+<P>
+14. The photoelectric conversion device according to any one of claims 1 to 12, wherein the compound as the electron donor is a heterocyclic polymer compound.
+</P>
+<P>
+15. The photoelectric conversion device according to any one of claims 1 to 12, wherein the compound as the electron donor is a porphyrin compound or phthalocyanine compound.
+</P>
+<P>
+16. The photoelectric conversion device according to any one of claims 1 to 12, wherein the compound as the electron donor is polythiophene or a copper phthalocyanine complex.
+</P>
+<P>
+17. The photoelectric conversion device according to any one of claims 1 to 12, wherein the compound as the electron donor is tetrabenzoporphyrin.
+</P>
+<P>
+18. The photoelectric conversion device according to any one of claims 1 to 17, which has a mixture layer comprising at least a fullerene derivative as an electron acceptor and a compound as an electron donor between a pair of electrodes.
+</P>
+<P>
+19. The photoelectric conversion device according to claim 18, wherein the mixture layer is formed by applying a solution in which a mixture comprising a fullerene derivative as an electron acceptor and a compound as an electron donor is dissolved.
+</P>
+<P>
+20. The photoelectric conversion device according to claim 18, wherein the mixture layer is formed by evaporating a fullerene derivative as an electron acceptor and a compound as an electron donor.
+</P>
+<P>
+21. The photoelectric conversion device according to any one of claims 1 to 20, wherein a p-type semiconductor layer is formed between the mixture layer, which comprises the fullerene derivative as the electron acceptor and the electron donor, and a positive electrode.
+</P>
+<P>
+22. The photoelectric conversion device according to any one of claims 1 to 21, wherein an n-type semiconductor layer is formed between the mixture layer, which comprises the fullerene derivative as the electron acceptor and the electron donor, and a negative electrode.
+</P>
+<P>
+23. A solar cell comprising the photoelectric conversion device according to any one of claims 1 to 22.
+</P>
+</Claims>
+<Also_published_as>
+EP2175502A4;US2011005597A1;TW200919797A;JP2009206470A;WO2009008323A1;CN101689611A;CN101689611B
+</Also_published_as>
+</BiblioData>

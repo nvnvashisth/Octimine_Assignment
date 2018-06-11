@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Tunnel magnetoresistance effect film and magnetic device
+</Title>
+<PublicationNumber>
+EP1953740A2
+</PublicationNumber>
+<Inventor>
+<Name>
+TAKAHASHI MIGAKU [JP]
+</Name>
+<Name>
+TSUNODA MASAKIYO [JP]
+</Name>
+<Name>
+KOMAGAKI KOJIRO [JP]
+</Name>
+<Name>
+TAKAHASHI, MIGAKU
+</Name>
+<Name>
+TSUNODA, MASAKIYO
+</Name>
+<Name>
+KOMAGAKI, KOJIRO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+FUJITSU LTD [JP]
+</Name>
+<Name>
+UNIV TOHOKU [JP]
+</Name>
+<Name>
+FUJITSU LTD
+</Name>
+<Name>
+TOHOKU UNIVERSITY
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1953740
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070122015
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-30
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20070022160
+</PriorityNumber>
+<PriorityDate>
+2007-01-31
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B5/39
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G01R33/09T
+</Class>
+<Class>
+G11B5/39C1
+</Class>
+<Class>
+G11B5/39C1C
+</Class>
+<Class>
+G11C11/16
+</Class>
+</NCL>
+<Abstract>
+The tunnel magnetoresistance effect film is a highly practical tunnel magnetoresistance effect film having a characteristic of serviceable negative MR ratio, which can be used at room temperature. The tunnel magnetoresistance effect film comprises: a tunnel barrier layer (13);  and magnetic layers sandwiching the tunnel barrier layer (13). One of the magnetic layers is composed of FeN (12).
+</Abstract>
+<Claims>
+<P>
+1. A tunnel magnetoresistance effect film,
+</P>
+<P>
+comprising:
+</P>
+<P>
+a tunnel barrier layer (13); and
+</P>
+<P>
+magnetic layers sandwiching said tunnel barrier layer (13),wherein one of said magnetic layers is a FeN layer (12).
+</P>
+<P>
+2. The tunnel magnetoresistance effect film according to claim 1,
+</P>
+<P>
+wherein the other magnetic layer is a pinned magnetic layer (14) whose magnetization direction is fixed.
+</P>
+<P>
+3. The tunnel magnetoresistance effect film according to claim 2,
+</P>
+<P>
+wherein the pinned magnetic layer (14) is constituted by a first pinned magnetic layer (14a) and a second pinned magnetic layer (14b), which are coupled by an antiferromagnetic coupling layer (15).
+</P>
+<P>
+4. The tunnel magnetoresistance effect film according to claim 2 or 3,
+</P>
+<P>
+wherein an antiferromagnetic layer (16) is adjacently formed to the pinned magnetic layer (14), and
+</P>
+<P>
+the antiferromagnetic layer (16) switch-connects the pinned magnetic layer (14) so as to fix magnetization of the pinned magnetic layer (14).
+</P>
+<P>
+5. A magnetic device,
+</P>
+<P>
+comprising:
+</P>
+<P>
+a tunnel magnetoresistance effect film,wherein said tunnel magnetoresistance effect film comprises: a tunnel barrier layer (13); and magnetic layers sandwiching said tunnel barrier layer (13), and
+</P>
+<P>
+one of said magnetic layers is a FeN layer (12).
+</P>
+<P>
+6. A magnetic device,
+</P>
+<P>
+comprising:
+</P>
+<P>
+a first tunnel magnetoresistance effect film section (51) including a pinned magnetic layer (40), a tunnel barrier layer (42) and a magnetic layer (44) having a characteristic of positive MR ratio; and
+</P>
+<P>
+a second tunnel magnetoresistance effect film section (52) including a pinned magnetic layer (40), a tunnel barrier layer (42) and a magnetic layer (40) having a characteristic of negative MR ratio,wherein the magnetic layer (46) of said second tunnel magnetoresistance effect film section (52), which has the characteristic of negative MR ratio, is a FeN layer.
+</P>
+<P>
+7. The magnetic device according to claim 6,
+</P>
+<P>
+wherein each of the pinned magnetic layer (40) is constituted by a first pinned magnetic layer (14a) and a second pinned magnetic layer (14b), which are coupled by an antiferromagnetic coupling layer (15)
+</P>
+<P>
+8. The magnetic device according to claim 6 or 7,
+</P>
+<P>
+wherein an antiferromagnetic layer (16) is adjacently formed to each of the pinned magnetic layers (14a, 14b), and
+</P>
+<P>
+the antiferromagnetic layer (16) switch-connects each of the pinned magnetic layers (14a, 14b) so as to fix magnetization of the pinned magnetic layers.
+</P>
+<P>
+9. The magnetic device according to claim 6, 7 or 8,
+</P>
+<P>
+wherein a common pinned magnetic layer (40) acts as the pinned magnetic layers of said first tunnel magnetoresistance effect film section (51) and said second tunnel magnetoresistance effect film section (52), and
+</P>
+<P>
+the tunnel barrier layer (42) and the magnetic layer of said first tunnel magnetoresistance effect film section (51) and those of said second tunnel magnetoresistance effect film section (52) are separately formed on the common pinned magnetic layer (40).
+</P>
+<P>
+10. The magnetic device according to claim 9,
+</P>
+<P>
+wherein said first tunnel magnetoresistance effect film section (51) and said second tunnel magnetoresistance effect film section (52) are serially connected between an earth and a source,
+</P>
+<P>
+the pinned magnetic layer (40) is connected to a gate, and
+</P>
+<P>
+inversion of an input signal, which is caused by an external magnetic field, is detected as an inverted output signal of the gate.
+</P>
+</Claims>
+<Also_published_as>
+EP1953740A3;US2008180857A1;KR20080071885A;JP2008192634A;CN101237023A;CN100583482C
+</Also_published_as>
+</BiblioData>

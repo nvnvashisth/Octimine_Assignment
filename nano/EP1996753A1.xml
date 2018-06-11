@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METAL NANOWIRES WITH AN OXIDE SHEATH AND PRODUCTION METHOD FOR SAME
+</Title>
+<PublicationNumber>
+EP1996753A1
+</PublicationNumber>
+<Inventor>
+<Name>
+VEITH MICHAEL [DE]
+</Name>
+<Name>
+PETERSEN CHRISTIAN [DE]
+</Name>
+<Name>
+SOW EVE AWA [NL]
+</Name>
+<Name>
+VEITH, MICHAEL
+</Name>
+<Name>
+PETERSEN, CHRISTIAN
+</Name>
+<Name>
+SOW, EVE, AWA
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+LEIBNIZ INST NEUE MATERIALIEN [DE]
+</Name>
+<Name>
+LEIBNIZ-INSTITUT FUER NEUE MATERIALIEN GEMEINNUETZIGE GMBH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1996753
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070817995
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP02564
+</PriorityNumber>
+<PriorityDate>
+2007-03-22
+</PriorityDate>
+<PriorityNumber>
+DE200610013484
+</PriorityNumber>
+<PriorityDate>
+2006-03-23
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+D01F8/18
+</Class>
+<Class>
+D01F9/10
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+D01F8/18
+</Class>
+<Class>
+D01F9/10
+</Class>
+</NCL>
+<Abstract>
+Es werden eindimensionale Kompositstrukturen beschrieben, die mindestens einen Nanodraht, umfassend einen metallischen Kern, der mit einem Metalloxid ummantelt ist, oder mindestens eine verzweigte Struktur, die aus solchen Nanodrähten aufgebaut ist, umfassen. Die Erfindung betrifft weiterhin ein katalysatorfreies MO-CVD-Verfahren, bei dem metallorganische Verbindungen in diesen Strukturen zersetzt werden können. Die Kompositstrukturen eignen sich als nanoelektronische, optische oder magnetische Bauteile oder Materialien.
+</Abstract>
+<Claims>
+<P>
+1. Eindimensionale Kompositstruktur, die mindestens einen Nanodraht umfassend einen metallischen Kern, der mit einem Metalloxid ummantelt ist, oder mindestens eine verzweigte Struktur, die aus solchen Nanodrähten aufgebaut ist, umfasst.
+</P>
+<P>
+2. Eindimensionale Kompositstruktur nach Anspruch 1, dadurch gekennzeichnet, dass die Metalloxid-Hülle eine Keramik ist.
+</P>
+<P>
+3. Eindimensionale Kompositstruktur nach Anspruch 1 oder Anspruch 2, dadurch gekennzeichnet, dass das Metall des Kerns ein Metall der III. Hauptgruppe ist.
+</P>
+<P>
+4. Eindimensionale Kompositstruktur nach einem der Ansprüche 1 bis 3, dadurch gekennzeichnet, dass das Metall des Metalloxids ein Metall der III. Hauptgruppe ist.
+</P>
+<P>
+5. Eindimensionale Kompositstruktur nach einem der Ansprüche 1 bis 4, dadurch gekennzeichnet, dass das Metall des Metalloxids und das Metall des Kerns das gleiche Metall der III. Hauptgruppe sind.
+</P>
+<P>
+6. Eindimensionale Kompositstruktur nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass das Metall Aluminium ist und das Metalloxid Aluminiumoxid ist.
+</P>
+<P>
+7. Eindimensionale Kompositstruktur nach einem der Ansprüche 1 bis 5, dadurch gekennzeichnet, dass das Metall Gallium ist und das Metalloxid ein Galliumoxid ist.
+</P>
+<P>
+8. Eindimensionale Kompositstruktur nach einem der Ansprüche 1 bis 7, dadurch gekennzeichnet, dass der Nanodraht zwei Dimensionen im Bereich von 10 bis 100 nm aufweist.
+</P>
+<P>
+9. Eindimensionale Kompositstruktur nach einem der Ansprüche 1 bis 8, dadurch gekennzeichnet, dass sie sich auf einem Substrat befindet.
+</P>
+<P>
+10. Verwendung der eindimensionalen Kompositstruktur nach einem der Ansprüche 1 bis 9 für elektronische, optische oder magnetische Bauteile oder Materialien.
+</P>
+<P>
+11. Verwendung der eindimensionalen Kompositstruktur nach einem der Ansprüche 1 bis 9 als Sensor zum Nachweis von geringen Konzentrationen biologischer oder chemischer Spezies.
+</P>
+<P>
+12. Verwendung der eindimensionalen Kompositstruktur nach einem der Ansprüche 1 bis 9 zur Beeinflussung und Steuerung von Zellen in biologischen Systemen.
+</P>
+<P>
+13. Verwendung der eindimensionalen Kompositstruktur nach einem der Ansprüche 1 bis 9 zur Erzeugung von selbstreinigenden Oberflächen.
+</P>
+<P>
+14. Verfahren zur Herstellung einer eindimensionalen Kompositstruktur nach einem der Ansprüche 1 bis 9, bei dem mindestens eine metallorganische Verbindung der allgemeinen Formel El(OR)H2 worin El Al, Ga, In oder Tl bedeutet und R für einen aliphatischen oder alicyclischen Kohlenwasserstoffrest steht,
+</P>
+<P>
+bei einer Temperatur von mehr als 400 deg. C unter Bildung der Kompositstruktur thermolytisch zersetzt wird.
+</P>
+<P>
+15. Verfahren nach Anspruch 14, dadurch gekennzeichnet, dass El Al oder Ga ist.
+</P>
+<P>
+16. Verfahren nach Anspruch 14 oder 15, dadurch gekennzeichnet, dass Aluminium-tert.-butoxydihydrid oder Gallium-tert.-butoxydihydrid als metallorganische Verbindung verwendet werden.
+</P>
+<P>
+17. Verfahren nach einem der Ansprüche 14 bis 16, dadurch gekennzeichnet, dass die thermolytische Zersetzung auf oder an einem Substrat stattfindet.
+</P>
+<P>
+18. Verfahren nach Anspruch 17, dadurch gekennzeichnet, dass das Substrat ein halbleitendes oder nichtleitendes Material ist.
+</P>
+<P>
+19. Verfahren nach einem der Ansprüche 14 bis 18, dadurch gekennzeichnet, dass die thermolytische Zersetzung an einem elektrisch leitenden, induktiv geheizten Substrat, an einer in einem Ofen befindlichen Oberfläche oder an einer auf einem induktiv geheizten, elektrisch leitenden Substrathalter befindlichen Oberfläche stattfindet.
+</P>
+<P>
+20. Verfahren nach Anspruch 19, dadurch gekennzeichnet, dass das elektrisch leitende, induktiv geheizte Substrat ein Metall ist.
+</P>
+<P>
+21. Verfahren nach einem der Ansprüche 14 bis 20, dadurch gekennzeichnet, dass die thermolytische Zersetzung unter Abwesenheit von Katalysatoren und Templaten durchgeführt wird.
+</P>
+<P>
+22. Verfahren nach einem der Ansprüche 14 bis 21, dadurch gekennzeichnet, dass die metallorganische Verbindung in einem Gasstrom unter einem Druck von 10&amp;lt;-6&amp;gt; bis 1 mbar und bei einer Temperatur von 450 deg. C bis 1200 deg. C zersetzt wird.
+</P>
+<P>
+23. Verfahren nach einem der Ansprüche 14 bis 22, dadurch gekennzeichnet, dass die morphologische Ausprägung der erfindungsgemässen Struktur durch Variation eines oder mehrerer Prozessparameter ausgewählt aus Substrattemperatur, Gasdruck, Precursorvorlagentemperatur und Precursorfluss gesteuert wird.
+</P>
+<P>
+24. Verfahren nach einem der Ansprüche 14 bis 23, dadurch gekennzeichnet, dass die eindimensionale Kompositstruktur von dem Substrat abgelöst wird.
+</P>
+</Claims>
+<Also_published_as>
+DE102006013484A1;US2009233349A1;US8197889B2;JP2009533547A;WO2008011920A1
+</Also_published_as>
+</BiblioData>

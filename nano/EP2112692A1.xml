@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Junctions comprising molecular bilayers for the use in electronic devices
+</Title>
+<PublicationNumber>
+EP2112692A1
+</PublicationNumber>
+<Inventor>
+<Name>
+WESSELS JURINA [DE]
+</Name>
+<Name>
+VON WROCHEM FLORIAN [DE]
+</Name>
+<Name>
+LUESSEM BJOERN [DE]
+</Name>
+<Name>
+GAO DEQING [DE]
+</Name>
+<Name>
+NOTHOFER HEINZ-GEORG [DE]
+</Name>
+<Name>
+FORD WILLIAM E [DE]
+</Name>
+<Name>
+WESSELS, JURINA
+</Name>
+<Name>
+VON WROCHEM, FLORIAN
+</Name>
+<Name>
+LUESSEM, BJOERN
+</Name>
+<Name>
+GAO, DEQING
+</Name>
+<Name>
+NOTHOFER, HEINZ-GEORG
+</Name>
+<Name>
+FORD, WILLIAM E
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SONY CORP [JP]
+</Name>
+<Name>
+SONY CORPORATION
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2112692
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080007772
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-22
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20080007772
+</PriorityNumber>
+<PriorityDate>
+2008-04-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+H01L27/28
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L27/28F
+</Class>
+<Class>
+H01L51/00A10
+</Class>
+<Class>
+H01L51/05D10
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to asymmetric molecular bilayers for the use in the junctions of electronic devices, such as crossbar junctions, comprising the general structure E T -M T ()M B -E B , wherein E T and E B denote a top and a bottom electrode, M T and M B represent functional molecules both forming a self-assembled monolayer (SAM) on said top or bottom electrode, and the symbol 0 denotes a non-covalent interaction between the two monolayers, resulting in a molecular bilayer, sandwiched between the two electrodes. The electrodes are solid state electrodes and stationary with respect to each other. The present invention also relates to a method of producing such assemblies.
+</Abstract>
+<Claims>
+<P>
+1. A junction comprising a bilayer of two different functional molecules MB and MT, sandwiched between a bottom electrode (EB) and a top electrode (ET), wherein
+</P>
+<P>
+at least one of said functional molecules MB and MT contains a conjugated ([pi]) system; said electrodes EB and ET are solid state electrodes and stationary with respect to each other; and
+</P>
+<P>
+said junction is formed by depositing a self-assembled monolayer of said functional molecule MB on said electrode EB, depositing a self-assembled monolayer of said functional molecule MT on said electrode ET, and bringing said two self-assembled monolayers in contact with each other.
+</P>
+<P>
+2. Junction according to claim 1, wherein said junction is a crossbar junction.
+</P>
+<P>
+3. Junction according to claim 1 or 2, wherein said bottom electrode and said top electrode are made of a material, for each electrode being independently selected from a metal and/or a semiconductor, said metal being preferably selected from the group comprising the transition metals, Mg, Ca, Zn, Cd, Al, Ga, In, and Sn as well as alloys thereof, and said semiconductor being preferably selected from the group comprising C, Si, Ge, and metal compounds, preferably compounds of transition metals, selected from Zn, Cd, Al, Ga, In, and Sn, with elements from the periodic table groups 15 (N-family) and 16 (O-family).
+</P>
+<P>
+4. Junction according to any of claims 1 to 3, wherein the material for said bottom electrode and the material for said top electrode are the same or different.
+</P>
+<P>
+5. Junction according to any of claims 1 to 4, wherein said first functional molecule (MB) and said second functional molecule (MT) have the general structure:
+</P>
+<P>
+CON-ROD,
+</P>
+<P>
+wherein the segment denoted CON- is a connecting group bound to said bottom electrode (EB) or said top electrode (ET), and
+</P>
+<P>
+the segment denoted -ROD comprises a non-conjugated ([sigma]) group, a conjugated ([pi]) group, or a combination of one or more non-conjugated group(s) ([sigma]) and one or more conjugated group(s) ([pi]).
+</P>
+<P>
+6. Junction according to claim 5, wherein said connecting group CON- of CON-ROD is selected from the group comprising S2CNH- or S2CNR- (dithiocarbamate, -1 charge), S- (thiolate, -1 charge), Se- (selenate, -1 charge), Te- (tellurate, -1 charge), S(SR)-(disulfide, 0 charge), S2C- (dithiocarboxylate, -1 charge), S2C=C(CN)-(ethylenedithiolate, -2 charge); S2C=C(CN)C(O)O- (ethylenedithiolate, -2 charge); S2C=C[C(O)-]2 (ethylenedithiolate, -2 charge), S2C2R- (1,2-dithiolate, -2 charge), S2CO- (xanthate, -1 charge), S3P- (trithiophosphonate, -2 charge), S2PR-(phosphinodithioate, -1 charge), S2P(OR)- or S2P(R)O- (phosphonodithioate, -1 charge), S2P(OR)O- (phosphorodithioate, -1 charge), SOC- (thiocarboxylate, -1 charge), SC(NH2)NH- or SC(NHR)NH- (thiourea, 0 charge), SC4H3- (thiophene, 0 charge), S(R)- (thioether, 0 charge), CN- (isonitrile, 0 charge), NC5H4- (pyridine, 0 charge), P(R)(R&apos;)- (phosphine, 0 charge), O2C- (carboxylate, -1 charge), O2P(O)-(phosphonate, -2 charge), O2P(O)O- (phosphate, -2 charge), OS(O)2- (sulfonate, -1 charge), OS(O)2O- (sulfate, -1 charge), wherein R and R&apos; denote alkyl, aryl, or alkaryl substituents.
+</P>
+<P>
+7. Junction according to any of claims 5 to 6, wherein said non-conjugated group(s) ([sigma]) of the segment -ROD of CON-ROD are selected from the group of straight alkane chains, cyclic or polycyclic aliphatic carbon skeletons, having the general structure:
+</P>
+<P>
+wherein &quot;l&quot; is selected from integers between and including 1 to 18, preferably between and including 1 to 8, &quot;m&quot; is selected from integers 1 and 2, and &quot;n&quot; is selected from integers between and including 1 to 3, and further derivatives thereof, wherein one or more of the CH2 groups is substituted by NH, O, or S.
+</P>
+<P>
+8. Junction according to any of claims 5 to 7, wherein the combined length of said non-conjugated group(s) ([sigma]) of the segment -ROD of CON-ROD is less than 3 nm.
+</P>
+<P>
+9. Junction according to any of claims 5 to 8, wherein said functional molecule (CON-ROD) has the general structure
+</P>
+<P>
+CON-[sigma],
+</P>
+<P>
+CON-[pi],
+</P>
+<P>
+CON-[pi]D,
+</P>
+<P>
+CON-[pi]A,
+</P>
+<P>
+CON-[sigma]-[pi],
+</P>
+<P>
+CON-[sigma]-[pi]D,
+</P>
+<P>
+CON-[sigma]-[pi]A,
+</P>
+<P>
+CON-[pi]-[sigma],
+</P>
+<P>
+CON-[pi]D-[sigma],
+</P>
+<P>
+CON-[pi]A-[sigma],
+</P>
+<P>
+CON-[sigma]-[pi]-[sigma],
+</P>
+<P>
+CON-[sigma]-[pi]D-[sigma],
+</P>
+<P>
+CON-[sigma]-[pi]A-[sigma],
+</P>
+<P>
+CON-[pi]D-[sigma]-[pi]A,
+</P>
+<P>
+CON-[pi]A-[sigma]-[pi]D,
+</P>
+<P>
+CON-[sigma]-[pi]-[sigma]-[pi]A,
+</P>
+<P>
+CON-[sigma]-[pi]D-[sigma]-[pi]A,
+</P>
+<P>
+CON-[sigma]-[pi]A-[sigma]-[pi]D,
+</P>
+<P>
+CON-[pi]D-[sigma]-[pi]A-[sigma],
+</P>
+<P>
+CON-[pi]A-[sigma]-[pi]D-[sigma],
+</P>
+<P>
+CON-[sigma]-[pi]-[sigma]-[pi]A-[sigma],
+</P>
+<P>
+CON-[sigma]-[pi]D-[sigma]-[pi]A-[sigma] or
+</P>
+<P>
+CON-[sigma]-[pi]A-[sigma]-[pi]D-[sigma],
+</P>
+<P>
+wherein [sigma] denotes a non-conjugated group, [pi] denotes a conjugated group, [pi]A denotes a conjugated group with electron acceptor character, and [pi]D denotes a group with electron donor character.
+</P>
+<P>
+10. Junction according to any of claims 5 to 9, wherein said non-conjugated groups ([sigma]) are selected from the group comprising aliphatic and alicyclic systems and heteroatom substituted derivatives thereof, and wherein said conjugated groups ([pi]) are selected from the group comprising aromatic, heterocyclic, and organometallic systems.
+</P>
+<P>
+11. Junction according to any of claims 1 to 10, wherein combinations of said functional molecules MB and MT forming said molecular bilayer are selected from the group comprising
+</P>
+<P>
+CON-[pi] and CON-[sigma],
+</P>
+<P>
+CON-[pi]-[sigma] and CON-[sigma],
+</P>
+<P>
+CON-[sigma]-[pi] and CON-[sigma],
+</P>
+<P>
+CON-[sigma]-[pi]-[sigma] and CON-[sigma],
+</P>
+<P>
+CON-[pi]D and CON-[sigma]-[pi]A-[sigma],
+</P>
+<P>
+CON-[pi]A and CON-[sigma]-[pi]D-[sigma],
+</P>
+<P>
+CON-[pi]D-[sigma]-[pi]A and CON-[sigma],
+</P>
+<P>
+CON-[pi]A-[sigma]-[pi]D and CON-[sigma],
+</P>
+<P>
+CON-[pi]D-[sigma] and CON-[sigma]-[pi]A-[sigma],
+</P>
+<P>
+CON-[pi]A-[sigma] and CON-[sigma]-[pi]D-[sigma],
+</P>
+<P>
+CON-[pi]D-[sigma]-[pi]A-[sigma] and CON-[sigma],
+</P>
+<P>
+CON-[pi]A-[sigma]-[pi]D-[sigma] and CON-[sigma],
+</P>
+<P>
+CON-[sigma]-[pi]D and CON-[sigma]-[pi]A-[sigma],
+</P>
+<P>
+CON-[sigma]-[pi]A and CON-[sigma]-[pi]D-[sigma],
+</P>
+<P>
+CON-[sigma]-[pi]D-[sigma]-[pi]A and CON-[sigma],
+</P>
+<P>
+CON-[sigma]-[pi]A-[sigma]-[pi]D and CON-[sigma],
+</P>
+<P>
+CON-[sigma]-[pi]D-[sigma]-[pi]A-[sigma] and CON-[sigma],
+</P>
+<P>
+and
+</P>
+<P>
+CON-[sigma]-[pi]A-[sigma]-[pi]D-[sigma] and CON-[sigma].
+</P>
+<P>
+12. A method of producing the junction according to any of claims 1 to 11 using a non-invasive deposition technique, preferably selected from the group comprising lift-off float-on (LOFO), nanotransfer printing (nTP), polymer-assisted lift-off (PALO) or shuttle-transfer printing (STP).
+</P>
+<P>
+13. Use of a junction according to any of claims 1 to 11 for the production of an electronic device, a photonic device, or an electro-optical device.
+</P>
+</Claims>
+<Also_published_as>
+US2011108793A1;KR20110006690A;WO2009130017A1;EP2283521A1;CN102067317A
+</Also_published_as>
+</BiblioData>

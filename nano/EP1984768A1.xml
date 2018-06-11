@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+COMPOSITE EVANESCENT WAVEGUIDES AND ASSOCIATED METHODS
+</Title>
+<PublicationNumber>
+EP1984768A1
+</PublicationNumber>
+<Inventor>
+<Name>
+KORNILOVICH PAVEL [US]
+</Name>
+<Name>
+KORNILOVICH, PAVEL
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+HEWLETT PACKARD DEVELOPMENT CO [US]
+</Name>
+<Name>
+HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1984768
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070750745
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-15
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US03926
+</PriorityNumber>
+<PriorityDate>
+2007-02-15
+</PriorityDate>
+<PriorityNumber>
+US20060357587
+</PriorityNumber>
+<PriorityDate>
+2006-02-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G02B6/122
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+G01N21/77B3
+</Class>
+<Class>
+G02B6/10
+</Class>
+<Class>
+G02B6/122P
+</Class>
+</NCL>
+<Abstract>
+A composite evanescent waveguide can include a first structured dielectric layer and a second dielectric material oriented adjacent one another to form a wave propagation interface between the first structured dielectric layer and second dielectric material. Each of the first structured dielectric layer and second dielectric material are formed of materials such that the wave propagation interface can be capable of propagating an all-evanescent surface wave. The resulting propagating surface waves tend to have low losses and can be suitable for optical communications, surface analysis, sensors, and a variety of other applications.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A composite evanescent waveguide, comprising a first structured dielectric layer having a first effective dielectric constant and a second dielectric material oriented adjacent one another to form a wave propagation interface between the first structured dielectric layer and second dielectric material, said wave propagation interface capable of propagating an all-evanescent surface wave at a frequency.
+</P>
+<P>
+2. The waveguide of claim 1, wherein the first structured dielectric layer comprises a material selected from the group consisting of silicon, glass, sapphire, diamond, quartz, silicon oxide, germanium oxide, tantalum oxide, magnesium fluoride, titanium oxide, transparent polymers, and combinations or composites thereof.
+</P>
+<P>
+3. The waveguide of claim 2, wherein the first structured dielectric layer comprises silicon and free space in the form of cylindrical holes.
+</P>
+<P>
+4. The waveguide of claim 1, wherein the second dielectric material is a uniform dielectric.
+</P>
+<P>
+5. The waveguide of claim 4, wherein the uniform dielectric is air.
+</P>
+<P>
+6. The waveguide of claim 1, wherein the second dielectric material is a structured dielectric.
+</P>
+<P>
+7. The waveguide of claim 1, wherein at least one of the first structured dielectric layer and second dielectric material is a two-dimensional or three-dimensional periodic structured dielectric.
+</P>
+<P>
+8. The waveguide of claim 1, wherein the wavelength is about 1.55 [mu]m.
+</P>
+<P>
+9. The waveguide of claim 1, wherein the wavelength is in the visible range from about 0.38 [mu]m and 0.78 [mu]m.
+</P>
+<P>
+10. The waveguide of claim 1, wherein the first dielectric structured layer is at least substantially non-absorbing at the frequency.
+</P>
+<P>
+11. The waveguide of claim 1, wherein the waveguide consists essentially of the first structured dielectric layer and the second dielectric material.
+</P>
+<P>
+12. The waveguide of claim 1, further comprising a coupling for external coupling of waves.
+</P>
+<P>
+13. The waveguide of claim 1, further comprising a target material surface on the wave propagation interface for adsorbing a target material, wherein the second dielectric material is a uniform dielectric, and a detector is operatively associated with the wave propagation interface subsequent to the target material surface along a wave propagation direction.
+</P>
+<P>
+14. The waveguide of claim 13, wherein the target material surface is a selectively adsorbing material which selectively adsorbs the target material.
+</P>
+<P>
+15. A chemical-optical sensor, comprising:
+</P>
+<P>
+a) a first structured dielectric layer having a first effective dielectric constant;
+</P>
+<P>
+b) a second dielectric material oriented adjacent the first structured dielectric layer to form a wave propagation interface between the first structured dielectric layer and second dielectric material, said wave propagation interface capable of propagating an all-evanescent surface wave at a frequency and the wave propagation interface including a target material surface for adsorbing a target material; and
+</P>
+<P>
+c) a detector operatively associated with the wave propagation interface subsequent to the target material surface along a wave propagation direction.
+</P>
+<P>
+16. The sensor of claim 15, further comprising a coupling for external coupling of waves.
+</P>
+<P>
+17. The sensor of claim 15, wherein the target material surface is a selectively adsorbing material which selectively adsorbs the target material.
+</P>
+<P>
+18. A method of propagating evanescent waves comprising the step of introducing a surface wave along a wave propagation interface between a first structured dielectric layer and a second dielectric material such that the surface wave is index guided and all-evanescent.
+</P>
+<P>
+19. The method of claim 18, wherein the second dielectric material is also a structured dielectric.
+</P>
+<P>
+20. The method of claim 18, wherein the second dielectric material is a uniform dielectric.
+</P>
+<P>
+21. The. method of claim 18, wherein at least one of the first structured dielectric layer and second dielectric material is a two-dimensional periodic structured dielectric.
+</P>
+<P>
+22. The method of claim 18, wherein at least one of the first structured dielectric layer and second dielectric material is a three-dimensional periodic structured dielectric.
+</P>
+<P>
+23. The method of claim 18, further comprising the steps of:
+</P>
+<P>
+a) placing a target material in contact with the wave propagation interface;
+</P>
+<P>
+b) detecting a property change in the surface wave due to the presence of the target material; and
+</P>
+<P>
+c) correlating the property change with a known reference material.
+</P>
+<P>
+24. The method of claim 18, further comprising the step of coupling a second wave with the surface wave to form a modified evanescent surface wave.
+</P>
+<P>
+25. A method of designing a composite evanescent waveguide, comprising:
+</P>
+<P>
+a) choosing a first structured dielectric, a desired surface wave frequency, and a wave momentum of a wave propagation interface of the first structured dielectric;
+</P>
+<P>
+b) solving Maxwell&apos;s equations for the first dielectric resulting in a finite number of propagation modes and an infinite number of evanescent modes;
+</P>
+<P>
+c) repeating the steps of choosing a first structured dielectric and a surface wave frequency and solving Maxwell&apos;s equations until the finite number of propagation modes is zero;
+</P>
+<P>
+d) choosing a second dielectric material and solving Maxwell&apos;s equations for the second dielectric material resulting in a second finite number of propagation modes and a second infinite number of evanescent modes;
+</P>
+<P>
+e) repeating the step of choosing a second dielectric material until said second finite number is zero resulting in no propagation modes on either side of the wave propagation interface; and
+</P>
+<P>
+f) verifying continuity of boundary conditions of electric and magnetic fields of the evanescent modes.
+</P>
+<P>
+26. A method of forming a composite evanescent waveguide, comprising:
+</P>
+<P>
+a) forming a first structured dielectric layer having a first effective dielectric constant; and
+</P>
+<P>
+b) forming a second dielectric material oriented adjacent the first structured dielectric layer to form a wave propagation interface between the first structured dielectric layer and second dielectric material, said wave propagation interface capable of propagating an all-evanescent surface wave at a frequency.
+</P>
+<P>
+27. The method of claim 26, wherein the second dielectric material is a uniform dielectric.
+</P>
+<P>
+28. The method of claim 26, wherein the second dielectric material is a structured dielectric.
+</P>
+<P>
+29. The method of claim 26, wherein at least one of the first structured dielectric layer and second dielectric material is a two-dimensional or three-dimensional periodic structured dielectric.
+</P>
+<P>
+30. The method of claim 26, wherein at least one of the first structured dielectric layer and the second dielectric material are formed using a vapor deposition process.
+</P>
+</Claims>
+<Also_published_as>
+US2007189666A1;US7406222B2;WO2007097971A1;US2008260325A1;US7499611B2;JP2009527025A
+</Also_published_as>
+</BiblioData>

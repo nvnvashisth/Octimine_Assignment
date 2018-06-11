@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Ceramics composite member and method of producing the same
+</Title>
+<PublicationNumber>
+EP1930306A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SUYAMA SHOKO [JP]
+</Name>
+<Name>
+ITO YOSHIYASU [JP]
+</Name>
+<Name>
+MARUYAMA SHIGEKI [JP]
+</Name>
+<Name>
+HANDA NORIHIKO [JP]
+</Name>
+<Name>
+SUYAMA, SHOKO
+</Name>
+<Name>
+ITO, YOSHIYASU
+</Name>
+<Name>
+MARUYAMA, SHIGEKI
+</Name>
+<Name>
+HANDA, NORIHIKO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+TOSHIBA KK [JP]
+</Name>
+<Name>
+KABUSHIKI KAISHA TOSHIBA
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1930306
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070023038
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-11-28
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+JP20060324306
+</PriorityNumber>
+<PriorityDate>
+2006-11-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C04B35/56
+</Class>
+<Class>
+C04B35/573
+</Class>
+<Class>
+C04B37/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C04B35/573
+</Class>
+<Class>
+C04B37/00D2
+</Class>
+<Class>
+C04B37/00D4
+</Class>
+<Class>
+C04B37/00K
+</Class>
+</NCL>
+<Abstract>
+A ceramics composite member includes a structure in which a first ceramic member and a second ceramic member are integrated with a joint portion. The joint portion has a texture in which a silicon phase having an average diameter of 0.05 [mu]m or more and 10 [mu]m or less is continuously provided in a network form in interstices of silicon carbide particles having an average particle diameter of 0.1 [mu]m or more and 0.1 mm or less.
+</Abstract>
+<Claims>
+<P>
+1. A ceramics composite member, comprising:
+</P>
+<P>
+a first ceramic member;
+</P>
+<P>
+a second ceramic member; and
+</P>
+<P>
+a joint portion which couples the first ceramic member and the second ceramic member and has a texture including silicon carbide particles, which have an average particle diameter of 0.1 m or more and 0.1 mm or less, and a silicon phase, which is continuously provided in network form in interstices of the silicon carbide particles and has an average diameter of 0.05 m or more and 10 m or less.
+</P>
+<P>
+2. The ceramics composite member according to claim 1,
+</P>
+<P>
+wherein the first and second ceramic members are composed of the same or different kinds of ceramics sintered bodies selected from carbide, nitride, oxide, boride, silicide and their composites.
+</P>
+<P>
+3. The ceramics composite member according to claim 1,
+</P>
+<P>
+wherein at least one of the first and second ceramic members is composed of a silicon carbide sintered body or a silicon-silicon carbide composite sintered body.
+</P>
+<P>
+4. The ceramics composite member according to claim 1,
+</P>
+<P>
+wherein the joint portion contains the silicon phase in a range of 5 mass% or more and 85 mass% or less.
+</P>
+<P>
+5. The ceramics composite member according to claim 1,
+</P>
+<P>
+wherein the joint portion has an average thickness in a range of 5 m or more and 5 mm or less.
+</P>
+<P>
+6. The ceramics composite member according to claim 1,
+</P>
+<P>
+wherein the joint portion has a porosity of 5% or less.
+</P>
+<P>
+7. The ceramics composite member according to claim 1,
+</P>
+<P>
+wherein the joint portion is composed of a reaction-sintering layer which is formed by impregnating an adhesive layer containing at least silicon carbide powder and an organic resin with melted silicon.
+</P>
+<P>
+8. The ceramics composite member according to claim 7,
+</P>
+<P>
+wherein the adhesive layer further contains carbon powder.
+</P>
+<P>
+9. The ceramics composite member according to claim 8,
+</P>
+<P>
+wherein the silicon carbide particles configuring the joint portion include first silicon carbide particles, which are based on the silicon carbide powder blended as an aggregate into the adhesive layer, and second silicon carbide particles, which are produced by a reaction between the melted silicon and carbon derived from the carbon powder and the organic resin blended into the adhesive layer.
+</P>
+<P>
+10. The ceramics composite member according to claim 1,
+</P>
+<P>
+wherein the joint portion has a structure in which plural layers each having the Si phase in a different content are laminated.
+</P>
+<P>
+11. The ceramics composite member according to claim 10,
+</P>
+<P>
+wherein the joint portion includes a first side layer which is in contact with the first ceramic member, a second side layer which is in contact with the second ceramic member, and an intermediate layer which is disposed between the first side layer and the second side layer and contains the Si phase in an amount larger than in the first and second side layers.
+</P>
+<P>
+12. The ceramics composite member according to claim 1,
+</P>
+<P>
+wherein the joint portion has hardness of Hv900 or more and Hv2200 or less in terms of a Vickers hardness.
+</P>
+<P>
+13. The ceramics composite member according to claim 1,
+</P>
+<P>
+wherein the ceramics composite member has a four-point bending strength of 250 MPa or more and 1400 MPa or less.
+</P>
+<P>
+14. A method of producing a ceramics composite member, comprising:
+</P>
+<P>
+adhering a first ceramic member and a second ceramic member with an adhesive containing at least silicon carbide powder and an organic resin;
+</P>
+<P>
+heat-treating a bonding portion based on the adhesive to carbonize the adhesive; and
+</P>
+<P>
+impregnating the bonding portion with melted silicon to couple the first ceramic member and the second ceramic member with a joint portion which is formed by reaction-sintering the bonding portion.
+</P>
+<P>
+15. The method of producing the ceramics composite member according to claim 14,
+</P>
+<P>
+wherein the adhesive further contains carbon powder.
+</P>
+<P>
+16. The method of producing the ceramics composite member according to claim 15,
+</P>
+<P>
+wherein a mass ratio of the silicon carbide powder and carbon derived from the carbon powder and the organic resin in the adhesive is in a range of SiC:C=5 to 80:95 to 20.
+</P>
+<P>
+17. The method of producing the ceramics composite member according to claim 15,
+</P>
+<P>
+wherein the joint portion has a texture including silicon carbide particles, which have an average particle diameter in a range of 0.1 m or more and 0.1 mm or less, and a silicon phase, which is continuously provided in a network form in interstices of the silicon carbide particles and has an average diameter of 0.05 m or more and 10 m or less.
+</P>
+<P>
+18. The method of producing the ceramics composite member according to claim 17,
+</P>
+<P>
+wherein the silicon carbide particles configuring the joint portion include first silicon carbide particles, which are based on the silicon carbide powder contained in the adhesive, and second silicon carbide particles, which are produced by a reaction between the melted silicon and carbon derived from the carbon powder and the organic resin contained in the adhesive.
+</P>
+<P>
+19. The method of producing the ceramics composite member according to claim 14,
+</P>
+<P>
+wherein the first and second ceramic members are composed of the same or different kinds of ceramics sintered bodies selected from carbide, nitride, oxide, boride, silicide and their composites.
+</P>
+<P>
+20. The method of producing the ceramics composite member according to claim 14, further comprising:
+</P>
+<P>
+performing a blast treatment or an etching treatment on the adhered surfaces of the ceramic members.
+</P>
+<P>
+21. A method of producing a ceramics composite member, comprising:
+</P>
+<P>
+adhering shaped bodies each containing silicon carbide powder and carbon powder or the shaped body and a ceramics sintered body with an adhesive containing at least silicon carbide powder and an organic resin;
+</P>
+<P>
+heat-treating a bonding portion based on the adhesive to carbonize the adhesive; and
+</P>
+<P>
+impregnating the shaped bodies and the bonding portion with melted silicon to couple silicon-silicon carbide composite sintered bodies which are formed by reaction-sintering the shaped bodies or the silicon-silicon carbide composite sintered body and the ceramics sintered body with a joint portion which is formed by reaction-sintering the bonding portion.
+</P>
+<P>
+22. The method of producing the ceramics composite member according to claim 21,
+</P>
+<P>
+wherein the adhesive further contains carbon powder.
+</P>
+<P>
+23. The method of producing the ceramics composite member according to claim 22,
+</P>
+<P>
+wherein a mass ratio of the silicon carbide powder and carbon derived from the carbon powder and the organic resin in the adhesive is in a range of SiC:C=5 to 80:95 to 20.
+</P>
+<P>
+24. The method of producing the ceramics composite member according to claim 22,
+</P>
+<P>
+wherein the joint portion has a texture including silicon carbide particles, which have an average particle diameter in a range of 0.1 m or more and 0.1 mm or less, and a silicon phase, which is continuously provided in a network form in interstices of the silicon carbide particles and has an average diameter of 0.05 m or more and 10 m or less.
+</P>
+<P>
+25. The method of producing the ceramics composite member according to claim 24,
+</P>
+<P>
+wherein the silicon carbide particles configuring the joint portion include first silicon carbide particles, which are based on the silicon carbide powder contained in the adhesive, and second silicon carbide particles, which are produced by a reaction between the melted silicon and carbon derived from the carbon powder and the organic resin contained in the adhesive.
+</P>
+<P>
+26. The method of producing the ceramics composite member according to claim 21,
+</P>
+<P>
+wherein the ceramics sintered body is composed of carbide, nitride, oxide, boride, silicide or their composites.
+</P>
+</Claims>
+<Also_published_as>
+US2008131665A1;JP2008137830A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Arrangements for an integrated sensor
+</Title>
+<PublicationNumber>
+EP1974223A2
+</PublicationNumber>
+<Inventor>
+<Name>
+DOOGUE MICHAEL C [US]
+</Name>
+<Name>
+TAYLOR WILLIAM P [US]
+</Name>
+<Name>
+MANGTANI VIJAY [US]
+</Name>
+<Name>
+DOOGUE, MICHAEL, C
+</Name>
+<Name>
+TAYLOR, WILLIAM, P
+</Name>
+<Name>
+MANGTANI, VIJAY
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ALLEGRO MICROSYSTEMS INC [US]
+</Name>
+<Name>
+ALLEGRO MICROSYSTEMS INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1974223
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070716253
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-01-04
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US00093
+</PriorityNumber>
+<PriorityDate>
+2007-01-04
+</PriorityDate>
+<PriorityNumber>
+US20060335944
+</PriorityNumber>
+<PriorityDate>
+2006-01-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R15/20
+</Class>
+<Class>
+G01R33/02
+</Class>
+<Class>
+G01R33/06
+</Class>
+<Class>
+G01R33/07
+</Class>
+<Class>
+G01R33/09
+</Class>
+<Class>
+H01L43/06
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R15/20D
+</Class>
+<Class>
+G01R33/02
+</Class>
+<Class>
+G01R33/07
+</Class>
+<Class>
+G01R33/09
+</Class>
+<Class>
+G01R33/09B
+</Class>
+</NCL>
+<Abstract>
+An integrated circuit can have a first substrate supporting a magnetic field sensing element and a second substrate supporting another magnetic field sensing element. The first and second substrates can be arranged in a variety of configurations. Another integrated circuit can have a first magnetic field sensing element and second different magnetic field sensing element disposed on surfaces thereof.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. An integrated circuit, comprising:
+</P>
+<P>
+a lead frame;
+</P>
+<P>
+a first substrate having first and second opposing surfaces, wherein the first substrate is coupled to the lead frame;
+</P>
+<P>
+a second substrate having first and second opposing surfaces, wherein the first substrate and the second substrate are coupled such that the first surface of the second substrate is proximate to the first surface of the first substrate and the second surface of the second substrate is distal from the second surface of the second substrate;
+</P>
+<P>
+an electronic component disposed on the first surface of the first substrate; and
+</P>
+<P>
+a magnetic field sensing element disposed on the first surface of the second substrate.
+</P>
+<P>
+2. The integrated circuit of claim 1, where the first substrate is coupled to the lead frame such that the second surface of the first substrate is proximate to the lead frame and the first surface of the first substrate is distal from the lead frame.
+</P>
+<P>
+3. The integrated circuit of claim 1, further including a flux concentrator disposed proximate to the magnetic field sensing element.
+</P>
+<P>
+4. The integrated circuit of claim 1, wherein the first substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAs, InGaAsP, SiGe, ceramic, or glass and the second substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAs, InGaAsP, SiGe, ceramic, or glass.
+</P>
+<P>
+5. The integrated circuit of claim 1, wherein the second substrate is coupled to the first substrate with a selected one of a solder ball, a gold bump, a eutectic or high lead solder bump, a no-lead solder bump, a gold stud bump, a polymeric conductive bump, or anisotropic conductive paste, or a conductive film. (Why would we not just claim: The integrated circuit of claim 1, wherein the second substrate is electrically coupled to the first substrate with a conductive element. My idea is that is a bit broader and we can always fall back to the above list type of claim.)
+</P>
+<P>
+6. The integrated circuit of claim 1, further comprising a second magnetic field sensing element disposed on the first surface of the first substrate.
+</P>
+<P>
+7. The integrated circuit of claim 6, further including at least one flux concentrator disposed proximate to at least one of the magnetic field sensing element or the second magnetic field sensing element.
+</P>
+<P>
+8. The integrated circuit of claim 1, wherein the lead frame further comprises a plurality of leads, wherein at least two of the plurality of leads are coupled to form a current conductor portion, wherein the current conductor portion is disposed proximate to the second substrate, and wherein the integrated circuit is responsive to a current flowing through the current conductor portion.
+</P>
+<P>
+9. The integrated circuit of claim 1, wherein the integrated circuit is adapted to be responsive to a current passing through a wire.
+</P>
+<P>
+10. The integrated circuit of claim 1, further comprising:
+</P>
+<P>
+a current conductor disposed proximate to the second substrate; and
+</P>
+<P>
+a flux concentrator shaped so that a first portion of the flux concentrator is disposed under the lead frame and a second portion of the flux concentrator is disposed above the second surface of the second substrate.
+</P>
+<P>
+11. An integrated circuit, comprising:
+</P>
+<P>
+a lead frame;
+</P>
+<P>
+a first substrate having first and second opposing surfaces, wherein the first substrate is coupled to the lead frame such that the second surface of the first substrate is above the lead frame and the first surface of the first substrate is above the second surface of the first substrate;
+</P>
+<P>
+a second substrate having first and second opposing surfaces, wherein the first substrate and the second substrate are coupled such that the second surface of the second substrate is above the first surface of the first substrate and the first surface of the second substrate is above the second surface of the second substrate;
+</P>
+<P>
+an electronic component disposed on the first surface of the first substrate; and
+</P>
+<P>
+a magnetic field sensing element disposed on the first surface of the second substrate.
+</P>
+<P>
+12. The integrated circuit of claim 11, further including a flux concentrator disposed proximate to the magnetic field sensing element.
+</P>
+<P>
+13. The integrated circuit of claim 11, wherein the first substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAs, InGaAsP, SiGe, ceramic, or glass and the second substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAs, InGaAsP, SiGe, ceramic, or glass.
+</P>
+<P>
+14. The integrated circuit of claim 11, wherein the first surface of the second substrate is coupled to the first surface of the first substrate with a wire bond.
+</P>
+<P>
+15. The integrated circuit of claim 11, further comprising a second magnetic field sensing element disposed on the first surface of the first substrate.
+</P>
+<P>
+16. The integrated circuit of claim 15, further including at least one flux concentrator disposed proximate to at least one of the magnetic field sensing element or the second magnetic field sensing element.
+</P>
+<P>
+17. The integrated circuit of claim 11, wherein the lead frame further comprises a plurality of leads, wherein at least two of the plurality leads are coupled to form a current conductor portion, wherein the current conductor portion is disposed proximate to the second substrate, and wherein the integrated circuit is responsive to a current flowing through the current conductor portion.
+</P>
+<P>
+18. The integrated circuit of claim 11, wherein the integrated circuit is adapted to be responsive to a current passing through a wire.
+</P>
+<P>
+19. The integrated circuit of claim 11, further comprising:
+</P>
+<P>
+a current conductor disposed proximate to the second substrate; and
+</P>
+<P>
+a flux concentrator shaped so that a first portion of the flux concentrator is disposed under the lead frame and a second portion of the flux concentrator is disposed above the first surface of the second substrate.
+</P>
+<P>
+20. An integrated circuit, comprising:
+</P>
+<P>
+a lead frame;
+</P>
+<P>
+a first substrate having first and second opposing surfaces, wherein the first substrate is coupled to the lead frame such that the second surface of the first substrate is above the lead frame and the first surface of the first substrate is above the second surface of the first substrate;
+</P>
+<P>
+a second substrate having first and second opposing surfaces, wherein the second substrate is coupled to the lead frame such that the second surface of the second substrate is above the lead frame and the first surface of the second substrate is above the second surface of the second substrate;
+</P>
+<P>
+an electronic component disposed on the first surface of the first substrate;
+</P>
+<P>
+a first magnetic field sensing element disposed on the first surface of the second substrate; and
+</P>
+<P>
+a second magnetic field sensing element disposed on the first surface of the first substrate.
+</P>
+<P>
+21. The integrated circuit of claim 20, further including a flux concentrator disposed proximate to the magnetic field sensing element.
+</P>
+<P>
+22. The integrated circuit of claim 20, wherein the first substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAs, InGaAsP, SiGe, ceramic, or glass and the second substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAs, InGaAsP, SiGe, ceramic, or glass.
+</P>
+<P>
+23. The integrated circuit of claim 20, wherein the first surface of the second substrate is coupled to the first surface of the first substrate with a wire bond.
+</P>
+<P>
+24. The integrated circuit of claim 23, further including at least one flux concentrator disposed proximate to at least one of the magnetic field sensing element or the second magnetic field sensing element.
+</P>
+<P>
+25. The integrated circuit of claim 20, wherein the lead frame further comprises a plurality of leads, wherein at least two of the plurality of leads are coupled to form a current conductor portion, wherein the current conductor portion is disposed proximate to the second substrate, and wherein the integrated circuit is responsive to a current flowing through the current conductor portion.
+</P>
+<P>
+26. The integrated circuit of claim 20, wherein the integrated circuit is adapted to be responsive to a current passing through a wire.
+</P>
+<P>
+27. The integrated circuit of claim 20, further comprising:
+</P>
+<P>
+a current conductor disposed proximate to the second substrate; and
+</P>
+<P>
+a flux concentrator shaped so that a first portion of the flux concentrator is disposed under the lead frame and a second portion of the flux concentrator is disposed above the first surface of the second substrate.
+</P>
+<P>
+28. An integrated circuit, comprising:
+</P>
+<P>
+a lead frame;
+</P>
+<P>
+a base substrate having first and second opposing surfaces, wherein the base substrate is coupled to the lead frame such that the second surface of the base substrate is above the lead frame and the first surface of the base substrate is above the second surface of the base substrate;
+</P>
+<P>
+a first substrate having first and second opposing surfaces, wherein the first substrate is coupled to the base substrate such that the first surface of the first substrate is above the first surface of the base substrate and the second surface of the first substrate is above the first surface of the first substrate;
+</P>
+<P>
+a second substrate having first and second opposing surfaces, wherein the second substrate is coupled to the base substrate such that the first surface of the second substrate is above the first surface of the base substrate and the second surface of the second substrate is above the first surface of the second substrate;
+</P>
+<P>
+an electronic component disposed on the first surface of the first substrate; and
+</P>
+<P>
+a magnetic field sensing element disposed on the first surface of the second substrate.
+</P>
+<P>
+29. The integrated circuit of claim 28, further including a flux concentrator disposed proximate to the magnetic field sensing element.
+</P>
+<P>
+30. The integrated circuit of claim 28, wherein the first substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAs, InGaAsP, SiGe, ceramic, or glass and the second substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAs, InGaAsP, SiGe, ceramic, or glass.
+</P>
+<P>
+31. The integrated circuit of claim 28, wherein the first surface of the second substrate is coupled to the first surface of the base substrate with a selected one of a solder ball, a gold bump, a eutectic or high lead solder bump, a no-lead solder bump, a gold stud bump, a polymeric conductive bump, an anisotropic conductive paste, or a conductive film, and the first surface of the first substrate is coupled to the first surface of the base substrate with a selected one of a solder ball, a gold bump, a eutectic or high lead solder bump, a no-lead solder bump, a gold stud bump, a polymeric conductive bump, an anisotropic conductive paste, or a conductive film.
+</P>
+<P>
+32. The integrated circuit of claim 28, further comprising a second magnetic field sensing element disposed on the first surface of the first substrate.
+</P>
+<P>
+33. The integrated circuit of claim 32, further including at least one flux concentrator disposed proximate to at least one of the magnetic field sensing element or the second magnetic field sensing element.
+</P>
+<P>
+34. The integrated circuit of claim 28, wherein the lead frame further comprises a plurality of leads, wherein at least two of the plurality of leads are coupled to form a current conductor portion, wherein the current conductor portion is disposed proximate to the second substrate, and wherein the integrated circuit is responsive to a current flowing through the current conductor portion.
+</P>
+<P>
+35. The integrated circuit of claim 28, wherein the integrated circuit is adapted to be responsive to a current passing through a wire.
+</P>
+<P>
+36. The integrated circuit of claim 28, further comprising:
+</P>
+<P>
+a current conductor disposed proximate to the second substrate; and
+</P>
+<P>
+a flux concentrator shaped so that a first portion of the flux concentrator is disposed under the lead frame and a second portion of the flux concentrator is disposed above the second surface of the second substrate.
+</P>
+<P>
+37. An integrated circuit, comprising:
+</P>
+<P>
+a lead frame;
+</P>
+<P>
+a base substrate having first and second opposing surfaces, wherein the base substrate is coupled to the lead frame such that the second surface of the base substrate is above the lead frame and the first surface of the base substrate is above the second surface of the base substrate;
+</P>
+<P>
+a first substrate having first and second opposing surfaces, wherein the first substrate is coupled to the base substrate such that the second surface of the first substrate is above the first surface of the base substrate and the first surface of the first substrate is above the second surface of the first substrate;
+</P>
+<P>
+a second substrate having first and second opposing surfaces, wherein the second substrate is coupled to the base substrate such that the second surface of the second substrate is above the first surface of the base substrate and the first surface of the second substrate is above the second surface of the second substrate;
+</P>
+<P>
+an electronic component disposed on the first surface of the first substrate; and
+</P>
+<P>
+a magnetic field sensing element disposed on the first surface of the second substrate.
+</P>
+<P>
+38. The integrated circuit of claim 37, further including a flux concentrator disposed proximate to the magnetic field sensing element.
+</P>
+<P>
+39. The integrated circuit of claim 37, wherein the first substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAs, InGaAsP, SiGe, ceramic, or glass and the second substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAs, InGaAsP, SiGe, ceramic, or glass.
+</P>
+<P>
+40. The integrated circuit of claim 37, wherein the first surface of the second substrate is coupled with a wire bond to at least one of the first surface of the first substrate or the first surface of the base substrate.
+</P>
+<P>
+41. The integrated circuit of claim 37, further comprising a second magnetic field sensing element disposed on the first surface of the first substrate.
+</P>
+<P>
+42. The integrated circuit of claim 41, further including at least one flux concentrator disposed proximate to at least one of the magnetic field sensing element or the second magnetic field sensing element.
+</P>
+<P>
+43. The integrated circuit of claim 37, wherein the lead frame further comprises a plurality of leads, wherein at least two of the plurality of leads are coupled to form a current conductor portion, wherein the current conductor portion is disposed proximate to the second substrate, and wherein the integrated circuit is responsive to a current flowing through the current conductor portion.
+</P>
+<P>
+44. The integrated circuit of claim 37, wherein the integrated circuit is adapted to be responsive to a current passing through a wire.
+</P>
+<P>
+45. The integrated circuit of claim 37, further comprising:
+</P>
+<P>
+a current conductor disposed proximate to the second substrate; and
+</P>
+<P>
+a flux concentrator shaped so that a first portion of the flux concentrator is disposed under the lead frame and a second portion of the flux concentrator is disposed above the first surface of the second substrate.
+</P>
+<P>
+46. An integrated circuit, comprising:
+</P>
+<P>
+a first magnetic field sensing element having a first sensitivity to a magnetic field;
+</P>
+<P>
+a second magnetic field sensing element having a second different sensitivity to the magnetic field; and
+</P>
+<P>
+a circuit coupled to the first and second magnetic field sensing elements, operable to provide the integrated circuit with a first sensitivity range and a second different sensitivity range in response to the magnetic field.
+</P>
+<P>
+47. The integrated circuit of claim 46, wherein the first magnetic field sensing element and the second magnetic field sensing element are Hall effect elements.
+</P>
+<P>
+48. The integrated circuit of claim 46, wherein the first magnetic field sensing element and the second magnetic field sensing element are magnetoresistance elements.
+</P>
+<P>
+49. The integrated circuit of claim 46, wherein the first magnetic field sensing element is a Hall effect element and the second magnetic field sensing element is a magnetoresistance element.
+</P>
+<P>
+50. The integrated circuit of claim 46, further comprising a lead frame having a plurality of leads, wherein at least two of the plurality of leads are coupled to form a current conductor portion, wherein the current conductor portion is disposed proximate to the first and second magnetic field sensing elements, and wherein the integrated circuit is responsive to a current flowing through the current conductor portion.
+</P>
+<P>
+51. An integrated circuit, comprising:
+</P>
+<P>
+a first substrate;
+</P>
+<P>
+a circuit element disposed on a surface of the first substrate;
+</P>
+<P>
+a second substrate coupled to the first substrate; and
+</P>
+<P>
+a Hall effect element disposed on a surface of the second substrate.
+</P>
+<P>
+52. The integrated circuit of claim 51, further comprising a Hall effect element disposed on a surface of the first substrate.
+</P>
+<P>
+53. The integrated circuit of claim 51, further comprising a magnetoresistance element disposed on a surface of the first substrate.
+</P>
+<P>
+54. The integrated circuit of claim 51, wherein the first substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAs, InGaAsP, SiGe, ceramic, or glass and the second substrate is comprised of a selected one of Si, GaAs, InP, InGaAs, InSb, InGaAsP, SiGe, ceramic, or glass.
+</P>
+<P>
+55. An integrated circuit, comprising:
+</P>
+<P>
+a first substrate;
+</P>
+<P>
+a circuit element disposed on a surface of the first substrate;
+</P>
+<P>
+a Hall effect element disposed on a surface of the first substrate;
+</P>
+<P>
+a second substrate coupled to the first substrate, and
+</P>
+<P>
+a magnetoresistance element disposed on a surface of the second substrate.
+</P>
+<P>
+56. The integrated circuit of claim 55, wherein the first substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAs, InGaAsP, SiGe, ceramic, or glass and the second substrate is comprised of a selected one of Si, GaAs, InP, InSb, InGaAsP, SiGe, ceramic, or glass.
+</P>
+<P>
+57. An integrated circuit, comprising:
+</P>
+<P>
+a substrate;
+</P>
+<P>
+a first magnetic field sensing element disposed on a surface of the substrate; and
+</P>
+<P>
+a second magnetic field sensing element disposed on a surface of the substrate, wherein the second magnetic field sensing element has a different structure than the first magnetic field sensing element.
+</P>
+<P>
+58. The integrated circuit of claim 57, wherein the first magnetic field sensing element comprises a Hall effect element and the second magnetic field sensing element comprises a magnetoresisance element.
+</P>
+<P>
+59. The integrated circuit of claim 57, wherein the first magnetic field sensing element comprises a Hall effect element and the second magnetic field sensing element comprises a Hall effect element having a different sensitivity than the first Hall effect element.
+</P>
+<P>
+60. The integrated circuit of claim 57, further comprising a circuit element disposed on a surface of the substrate.
+</P>
+</Claims>
+<Also_published_as>
+EP1974223B1;US2007170533A1;US7768083B2;WO2007087121A2;WO2007087121A3;US2010237450A1;KR20080086919A;JP2012088325A;JP2009524053A;EP2290381A1;EP2290381B1;EP2290380A1;EP2290380B1;EP2290379A1;EP2290379B1;AT550673T;AT551609T;AT550672T;AT550671T
+</Also_published_as>
+</BiblioData>

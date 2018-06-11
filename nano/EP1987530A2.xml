@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOFABRICATION INSTALLATION AND PROCESS
+</Title>
+<PublicationNumber>
+EP1987530A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GIERAK JACQUES [FR]
+</Name>
+<Name>
+GIERAK, JACQUES
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+CENTRE NAT RECH SCIENT [FR]
+</Name>
+<Name>
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1987530
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070730998
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-02-16
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007FR00287
+</PriorityNumber>
+<PriorityDate>
+2007-02-16
+</PriorityDate>
+<PriorityNumber>
+FR20060001483
+</PriorityNumber>
+<PriorityDate>
+2006-02-20
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B3/00
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y15/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+G01Q80/00
+</Class>
+<Class>
+H01J37/20
+</Class>
+<Class>
+H01J37/317B
+</Class>
+</NCL>
+<Abstract>
+The installation has a mask (8) provided for formation of a sample (4). The mask comprises an electrode placed on a lower side of the mask and provided at the level of a traversing opening (10), for electrical interaction with nanoclusters e.g. gold clusters, passing through a surface (4a) of the sample. The electrode is provided close to the opening, so that electrons are emitted on arrival of the clusters on the surface of the sample, if the clusters are positively charged. A generator applies an adjustable electric voltage to the electrode. An independent claim is also included for a nanofabrication method.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Installation de nano-fabrication comprenant : - un porte-échantillon (3) adapté pour recevoir un échantillon (4) présentant une surface (4a), un masque (8) de formation de l&apos;échantillon comprenant &amp;#8226; une face inférieure (8b) orientée vers le porte-échantillon, ^ une face supérieure (8a) opposée à la face inférieure et adaptée pour recevoir un faisceau de particules (2) émis par une source (1) en direction du porte-échantillon pour former l&apos;échantillon, ^ et au moins une ouverture traversante (10) entre les faces supérieure et inférieure, adaptée pour laisser passer à travers elle une partie desdites particules en direction du porte-échantillon, un dispositif de détection en champ proche (6) adapté pour détecter une position relative souhaitée dudit 20 masque (8) et dudit échantillon (3); - un dispositif de déplacement (9) adapté pour générer un mouvement relatif dudit masque (8) et dudit porte-échantillon (3) pour placer le masque et l&apos;échantillon dans ladite position relative souhaitée, 25 indépendamment de la position relative de la source et du masque, caractérisé en ce que le masque (8) comprend au moins une première électrode (11) au niveau de l&apos;ouverture traversante adaptée pour interagir électriquement avec les 30 particules chargées électriquement passant à travers l&apos;ouverture.
+</P>
+<P>
+2. Installation selon la revendication 1 dans laquelle ledit masque (8) comprend en outre au moins une deuxième électrode (12), la première électrode (11) étant 35 située entre la deuxième électrode (12) et le porte- 24 échantillon (3), ladite deuxième électrode étant située au niveau de l&apos;ouverture traversante (10), lesdites électrodes (11 ; 12) et la surface (4a) de l&apos;échantillon formant ensemble une lentille électrostatique adaptée pour influer électriquement sur le déplacement desdites particules chargées électriquement passant à travers l&apos;ouverture (10), lors de =_&apos;application d&apos;un potentiel électrique auxdites électrodes.
+</P>
+<P>
+3. Installation selon la revendication 2 comprenant en outre un générateur (13 ; 14) adapté pour générer un potentiel électrique dans au moins une structure choisie parmi la première électrode, la deuxième électrode et la surface (4a) de l&apos;échantillon.
+</P>
+<P>
+4. Installation selon l&apos;une des revendications précédentes dans laquelle ladite première électrode (11) est située sur la face inférieure (8b) dudit masque.
+</P>
+<P>
+5. Installation selon la revendication 4 comprenant en outre un détecteur (19) relié à ladite électrode inférieure, adapté pour détecter des particules électriques élémentaires détachées de l&apos;échantillon (4) par l&apos;arrivée sur la surface des particules passant à travers l&apos;ouverture (10).
+</P>
+<P>
+6. Installation selon l&apos;une des revendications précédentes comprenant en outre un générateur (13 ; 14) adapté pour générer un potentiel électrique entre ladite première électrode et l&apos;échantillon, pour influer sur l&apos;énergie cinétique des particules entre le masque (8) et l&apos;échantillon (4).
+</P>
+<P>
+7. Installation selon l&apos;une des revendications précédentes dans laquelle le dispositif de détection en champ proche (6) comprend une tête (37) déplaçable par rapport au porte-échantillon au voisinage de la surface de l&apos;échantillon, ladite tête (37) étant positionnée en une position relative connue par rapport audit masque (8).
+</P>
+<P>
+8. Installation selon la revendication 7, danslaquelle ladite tête (37) et ledit masque (8) sont solidaires en déplacement dans un plan sensiblement parallèle à la surface de l&apos;échantillon.
+</P>
+<P>
+9. Installation selon la revendication 7 dans laquelle la tête (37) comprend une pointe (7) et un cantilever flexible (36), ledit masque (8) étant formé dans une portion amincie du cantilever. 1C),Installation selon l&apos;une des revendications précédentes dans laquelle l&apos;ouverture traversante (10) comprend une fente étroite s&apos;étendant transversalement au trajet des particules vers le porte-échantillon. 11. Installation selon l&apos;une des revendications précédentes comprenant en outre au moins une source (1) adaptée pour émettre ledit faisceau de particules chargées électriquement en direction du porte-échantillon (3) pour former l&apos;échantillon. 12.Installation selon la revendication 11 comprenant en outre un dispositif de formation de faisceau (5) disposé entre ladite source (1) et ledit porte- échantillon (3), ledit dispositif de formation étant adapté pour mettre en oeuvre au moins l&apos;une des dispositions suivantes : -concentration des particules émises par la source en amas, - filtrage des amas présentant au moins une caractéristique souhaitée parmi la charge électrique, la masse, et le rapport de la charge électrique à la masse, -déflection des amas en direction du masque (8). 13.Installation selon la revendication 11 ou 12 comprenant une pluralité de sources (1) adaptées chacune pour émettre des particules d&apos;un matériau différent en direction dudit porte-échantillon (3). 14.Installation selon la revendication 11 ou 12 dans laquelle le masque comprend une pluralité d&apos;ouvertures traversantes (10), et une première électrode (11) au niveaude chaque ouverture traversante respective, chaque première électrode (11) étant adaptée pour interagir électriquement avec les particules chargées électriquement passant à travers l&apos;ouverture (10) correspondante. 15.Installation selon la revendication 14 comprenant une pluralité de sources (1) adaptées chacune pour émettre des particules en direction dudit porte-échantillon à travers une ouverture (10) correspondante. 16.Installation selon l&apos;une quelconque des revendications 11 à 15 comprenant en outre un système de positionnement de source (20) adapté pour détecter la position relative de la source (1) et du masque (8). 17. Installation selon la revendication 16 dans laquelle ledit système de positionnement comprend la source (1) elle-même, configurée sous la forme d&apos;une pointe (21) de microscopie en champ proche, et présentant en surface extérieure (26a) le matériau formant lesdites particules, ladite pcinte étant adaptée pour dans un premier mode opératoire, détecter la position relative de la pointe (1) et du masque (8) et, dans un deuxième mode opératoire, pour émettre lesdites particules. 18.Installation selon la revendication 17, dans laquelle la source comprend un réservoir (31) dudit matériau, et un dispositif de chauffage (30) adapté pour liquéfier le matériau contenu dans le réservoir pour faire s&apos;écouler celui-ci le long de la pointe (21) de la source. 19.Installation selon l&apos;une des revendications 11 à 18 dans laquelle la source est adaptée pour former ladite ouverture (10). 20.Procédé de nano-fabrication dans lequel : a) un dispositif de détection en champ proche détecte une position relative souhaitée d&apos;un masque de formation (8) et d&apos;une surface (4a) d&apos;un échantillon disposé sur un porte-échantillon (3), b) un dispositif de déplacement (9) génère unmouvement relatif dudit masque (8) et dudit porte-échantillon (3) pour placer le masque et l&apos;échantillon dans ladite position relative souhaitée, indépendamment de la position relative d&apos;une source (1) et du masque (8), ledit masque de formation (8) de l&apos;échantillon comprenant une face inférieure (8b) orientée vers le porte-échantillon, une face supérieure (8a) opposée à la face 10 inférieure, et au moins une ouverture traversante (10) entre les faces supérieure et inférieure, c) on forme l&apos;échantillon en faisant émettre à la source (1; un faisceau de particules en direction du porteéchantillon, une partie desdites particules passant à travers l&apos;ouverture traversante (10) en direction du porte-échantillon, caractérisé en ce que au cours de l&apos;étape c), la source émet des particules chargées électriquement, 20 et en ce que d) on interagit électriquement avec les particules par au moins une première électrode (11 ; 12) du masque disposée au niveau de l&apos;ouverture traversante (10). 21..Procédé de nano-fabrication selon la 25 revendication 20, dans lequel, au cours de l&apos;étape c), une particule atteint ladite surface (4a) de l&apos;échantillon, pour former ladite surface, et détache de ladite surface une particule élémentaire chargée électriquement, et. dans lequel, au cours de l&apos;étape d), on 30 interagit avec les particules passant à travers l&apos;ouverture en détectant ladite particule élémentaire chargée électriquement avec ladite première électrode (11). 22.Procédé de nano-fabrication selon la revendication 20 ou la revendication 21, dans lequel, au 35 cours de l&apos;étape d), on interagit avec la particule passant 28 à travers l&apos;ouverture en générant une différence de potentiel entre ladite première électrode (11 ; 12) et la surface (4a), pour influer sur l&apos;énergie cinétique de ladite particule au moment où elle atteint ladite surface. 23.Procédé de nano-fabrication selon l&apos;une des revendications 20 à 22, dans lequel ledit masque (8) comprend en outre au moins une deuxième électrode (12), la première électrode (11) étant située entre la deuxième électrode et le porte-échantillon, ladite deuxième électrode étant située au niveau de l&apos;ouverture traversante (10), et dans lequel, au cours de l&apos;étape d), on interagit électriquement avec la particule passant à travers l&apos;ouverture par lesdites électrodes (11, 12) et la surface (4a) formant ensemble une lentille électrostatique influant électriquement sur la trajectoire desdites particules. 24.Procédé de nano-fabrication selon l&apos;une des revendications 20 à 23, dans lequel e) on détecte la position relative de la source (1) et de l&apos;ouverture (10), et on génère un mouvement relatif de la source et de l&apos;ouverture pour positionner la source et l&apos;ouverture en des positions respectives adaptées pour qu&apos;une partie du faisceau passe par l&apos;ouverture. 25. Procédé de nano-fabrication selon l&apos;une des revendications 20 à 24, dans lequel on répète au moins les étapes a) à d) en une position relative souhaitée ultérieure. 26.Procédé de nano-fabrication selon l&apos;une des revendications 20 à 25, dans lequel on met en &amp;#339;uvre en outre au moins l&apos;une des étapes suivantes : on concentre les particules émises par la source (1) en amas, - on filtre les amas présentant au moins une caractéristique souhaitée parmi la charge électrique, la masse et le rapport de la charge électrique à la masse (8), - on dévie les amas en direction du masque. 29 27.Procédé de nano-fabrication selon l&apos;une des revendications 20 à 26, dans lequel au moins les étapes c) et d) sont mises en &amp;#339;uvre successivement pour une pluralité de sources (1) émettant des particules à travers une même ouverture du masque. 28.Procédé de nano-fabrication selon l&apos;une des revendications 20 à 27, dans lequel au moins les étapes c) et d) sont mises en oeuvre parallèlement pour une pluralité de sources (1) émettant chacune des particules à travers chacune une ouverture respective. 29.Procédé de nano-fabrication selon l&apos;une des revendications 20 à 28, dans lequel la source (1) forme l&apos;ouverture traversante (10) dans le masque.
+</P>
+</Claims>
+<Also_published_as>
+EP1987530B1;FR2897719A1;US2009095923A1;US8101925B2;JP2009527916A;WO2007096505A2;WO2007096505A3;CA2642874A1;AT553064T
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Microfluidic devices and methods
+</Title>
+<PublicationNumber>
+EP2202001A2
+</PublicationNumber>
+<Inventor>
+<Name>
+JEDRZEJEWSKI PAUL [US]
+</Name>
+<Name>
+NOCK STEFFEN [US]
+</Name>
+<Name>
+WAGNER PETER [US]
+</Name>
+<Name>
+INDERMUHLE PIERRE F [US]
+</Name>
+<Name>
+ZAUGG FRANK G [US]
+</Name>
+<Name>
+JEDRZEJEWSKI, PAUL
+</Name>
+<Name>
+NOCK, STEFFEN
+</Name>
+<Name>
+WAGNER, PETER
+</Name>
+<Name>
+INDERMUHLE, PIERRE, F
+</Name>
+<Name>
+ZAUGG, FRANK, G
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ZYOMYX INC [US]
+</Name>
+<Name>
+ZYOMYX, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2202001
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20100002998
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2001-02-23
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+EP20010916215
+</PriorityNumber>
+<PriorityDate>
+2001-02-23
+</PriorityDate>
+<PriorityNumber>
+US20000184381P
+</PriorityNumber>
+<PriorityDate>
+2000-02-23
+</PriorityDate>
+<PriorityNumber>
+US20000225999P
+</PriorityNumber>
+<PriorityDate>
+2000-08-16
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B01J19/00
+</Class>
+<Class>
+B01L3/00
+</Class>
+<Class>
+B01L3/02
+</Class>
+<Class>
+G01N33/53
+</Class>
+<Class>
+G01N35/04
+</Class>
+<Class>
+G01N35/10
+</Class>
+<Class>
+G01N37/00
+</Class>
+<Class>
+B81B1/00
+</Class>
+<Class>
+C40B40/10
+</Class>
+<Class>
+C40B60/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B01L3/02D2
+</Class>
+<Class>
+B01L3/02D2P
+</Class>
+<Class>
+B01L3/02D6
+</Class>
+<Class>
+B01L3/5085
+</Class>
+<Class>
+B01L3/5088
+</Class>
+<Class>
+B82Y30/00
+</Class>
+</NCL>
+<Abstract>
+A test device is disclosed having a base (22) that is a non-sample surface and sample structures (25 (a,b)) comprising pillars (20 (a,b)), wherein each pillar comprises a sample surface (24 (a,b)) and side surfaces (18 (a,b)), and wherein the sample surface (24 (a,b,)) of each pillar and the surface of the substrate (23) have the same coating.
+</Abstract>
+<Claims>
+<P>
+1. An analyte detection device comprising a substrate and a plurality of pillars attached to the surface of the substrate, wherein each pillar comprises a sample surface and side surfaces, and wherein the sample surface of each pillar and the surface of the substrate have the same coating.
+</P>
+<P>
+2. The device of claim 1, wherein the side surfaces of each pillar, the sample surface of each pillar, and the surface of the substrate have the same coating.
+</P>
+<P>
+3. The device of claim 1, further comprising an interlayer between the sample surfaces and the coating on the sample surfaces.
+</P>
+<P>
+4. The device of claim 1, further comprising an interlayer between the substrate surface and the coating on the substrate surface.
+</P>
+<P>
+5. The device of claim 3 or 4, wherein the interlayer comprises silicon oxide.
+</P>
+<P>
+6. The device of claim 1 or 2, wherein the coating further comprises an affinity structure.
+</P>
+<P>
+7. The device of claim 6, wherein the affinity structure comprises a monolayer of an organic molecule.
+</P>
+<P>
+8. The device of claim 6, wherein the organic molecule comprises polylysine or polyethylene glycol.
+</P>
+<P>
+9. The device of claim 6, wherein the affinity structure comprises a capture agent.
+</P>
+<P>
+10. The device of claim 6, wherein the capture agent comprises an antibody, antibody fragment, polypeptide, receptor, DNA strand or fragment, RNA strand or fragment, or aptamer.
+</P>
+<P>
+11. The device of claim 6, wherein the affinity structure comprises biotin, avidin, or streptavidan.
+</P>
+<P>
+12. The device of claim 1, wherein the substrate and plurality of pillars are made of the same material.
+</P>
+<P>
+13. The device of claim 1, wherein the substrate and plurality of pillars are made of different materials.
+</P>
+<P>
+14. The device of claim 1, wherein the plurality of pillars are made of a porous material.
+</P>
+<P>
+15. The device of claim 1, wherein the sample surface of each pillar is located distal to the substrate surface.
+</P>
+<P>
+16. The device of claim 1, wherein the plurality of pillars are substantially perpendicular with respect to the surface of the substrate.
+</P>
+<P>
+17. The device of claim 1, wherein the plurality of pillars range in height from about 1 to 200 microns.
+</P>
+<P>
+18. The device of claim 1, wherein the plurality of pillars are arranged in a regular array.
+</P>
+<P>
+19. The device of claim 1, wherein the plurality of pillars are arranged in an irregular array.
+</P>
+<P>
+20. The device of claim 1, wherein the density of the plurality of pillars is about 25 pillars/cm&amp;lt;2&amp;gt; or greater.
+</P>
+<P>
+21. The device of claim 1, wherein the number of pillars per device is greater than 10, 100, or 1000 pillars.
+</P>
+<P>
+22. The device of claim 1, wherein the pillar pitch is 500 microns or less.
+</P>
+<P>
+23. The device of claim 1, wherein the sample surface of each pillar or coating of each pillar binds an analyte.
+</P>
+<P>
+24. The device of claim 1, wherein the analyte is selected from the group consisting of pharmaceuticals, metabolites, pesticides, polypeptides, proteins, DNA, and RNA.
+</P>
+</Claims>
+<Also_published_as>
+EP2202001A3;WO0162887A1;US2001036669A1;US6454924B2;US2001036674A1;US6720157B2;US2004142491A1;US2004053403A1;US7438856B2;US2003013203A1;US6730516B2;WO0163241A2;WO0163241A3;WO0163241A9;JP2003524193A;EP1272768A2;EP1272768A4;EP1261689A1;EP1261689A4;CN1444646A;CA2401118A1;CA2400159A1;AU2001239865B2;AU4326901A;AU3986501A
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+TUNABLE WAVELENGTH LIGHT EMITTING DIODE
+</Title>
+<PublicationNumber>
+EP2074666A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SOH CHEW BENG [SG]
+</Name>
+<Name>
+CHUA SOO JIN [SG]
+</Name>
+<Name>
+HARTONO HARYONO [SG]
+</Name>
+<Name>
+SOH, CHEW BENG
+</Name>
+<Name>
+CHUA, SOO JIN
+</Name>
+<Name>
+HARTONO, HARYONO
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+AGENCY SCIENCE TECH &amp; RES [SG]
+</Name>
+<Name>
+AGENCY FOR SCIENCE, TECHNOLOGY AND RESEARCH
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2074666
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060784275
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-08
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006SG00263
+</PriorityNumber>
+<PriorityDate>
+2006-09-08
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01L21/205
+</Class>
+<Class>
+H01L33/06
+</Class>
+<Class>
+H01L33/08
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+H01L21/02K4B1B1
+</Class>
+<Class>
+H01L21/02K4C1B1
+</Class>
+<Class>
+H01L21/02K4E3C
+</Class>
+<Class>
+H01L33/06
+</Class>
+<Class>
+H01L33/08
+</Class>
+</NCL>
+<Abstract>
+A light emitting diode and a method of fabricating a light emitting diode. the diode comprises a first set of multiple quantum wells (MQWs), each of the MQWs of the first set comprising a wetting layer providing nucleation sites for quantum dots (QDs) or QD-like structures in a well layer of said each MQW;  and a second set of MQWs, each of the MQWs of the second set formed so as to exhibit a photoluminescence (PL) peak wavelength shifted compared to the MQWs of the first set.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A light emitting diode comprising: a first set of multiple quantum wells (MQWs), each of the MQWs of the first set comprising a wetting layer providing nucleation sites for quantum dots (QDs) or QD-like structures in a well layer of said each MQW; and a second set of MQWs, each of the MQWs of the second set formed so as to exhibit a photoluminescence (PL) peak wavelength shifted compared to the MQWs of the first set.
+</P>
+<P>
+2. The light emitting diode as claimed in claim 1, wherein the QDs or QD-like structures comprise In atoms.
+</P>
+<P>
+3. The light emitting diode as claimed in claims 1 or 2, wherein the first set of MQWs comprises about 3 to 5 MQWs.
+</P>
+<P>
+4. The light emitting diode as claimed in any one of the preceding claims, wherein the second set of MQWs comprises about 2 to 5 MQWs. 5. The light emitting diode as claimed in any one of the preceding claims, wherein each of the MQWs of the second set comprises a Ga-based barrier layer and an Ga-based well layer formed on the Ga-based barrier layer.
+</P>
+<P>
+6. The light emitting diode as claimed in any one of the preceding claims, wherein each of the MQWs of the first set comprises a Ga-based barrier layer, an InGa-based wetting layer formed on the Ga-based barrier layer, and a Ga-based well layer formed on the InGa-wetting layer.
+</P>
+<P>
+7. The light emitting diode as claimed in claim 6, wherein the first set of MQWs are formed on an n-type doped Ga-based layer, the second set of MQWs is formed on the first set of MQWs, a Ga-based capped layer is formed on the second set of MQWs, and a p-type doped Ga-based layer is formed on the Ga-based capped layer.
+</P>
+<P>
+8. The light emitting diode as claimed in claim 7, further comprising electrical contacts for contacting the n-type doped Ga-based layer and the p-type doped Ga-based layer respectively. 9. The light emitting diode as claimed in any one of the preceding claims, wherein the first and second sets of MQWs are supported on a substrate.
+</P>
+<P>
+10. The light emitting diode as claimed in any one of the preceding claims, wherein the MQWs comprise one material system of a group consisting of InGa/Ga, InGa/AIGa, Ga/AIGa and InGa/AllnGa.
+</P>
+<P>
+11. The light emitting diode as claimed in claim 10, wherein the MQWs comprise the nitride or phosphide of the material system.
+</P>
+<P>
+12. The light emitting diode as claimed in any one of the preceding claims, wherein a combined PL spectrum of the diode covers a tunable wavelength range of about 400-800nm.
+</P>
+<P>
+13. A method of fabricating a light emitting diode, the method comprising the steps of: forming a first set of multiple quantum wells (MQWs), each of the MQWs of the first set comprising a wetting layer providing nucleation sites for quantum dots (QDs) or QD-like structures in a well layer of said each MQW; and forming a second set of MQWs, each of the MQWs of the second set formed so as to exhibit a photoluminescence (PL) peak wavelength shifted compared to the MQWs of the first set.
+</P>
+<P>
+14. The method as claimed in claim 13, wherein the QDs or QD-like structures comprise In atoms.
+</P>
+<P>
+15. The method as claimed in claims 13 or 14, wherein the first set of MQWs comprises about 3 to 5 MQWs.
+</P>
+<P>
+16. The method as claimed in any one of claims 13 to 15, wherein the second set of MQWs comprises about 2 to 5 MQWs. 17. The method as claimed in any one of claims 13 to 16, wherein each of the MQWs of the second set comprises a Ga-based barrier layer and an InGa-based well layer formed on the Ga-based barrier layer.
+</P>
+<P>
+18. The method as claimed in any one of claims 13 to 17, wherein each of the MQWs of the first set comprises a Ga-based barrier layer, an InGa-based wetting layer formed on the Ga-based barrier layer, and a Ga-based well layer formed on the InGa-wetting layer.
+</P>
+<P>
+19. The method as claimed in claim 18, wherein the first set of MQWs are formed on an n-type doped Ga-based layer, the second set of MQWs is formed on the first set of MQWs, a Ga-based capped layer is formed on the second set of MQWs, and a p-type doped Ga-based layer is formed on the Ga-based capped layer.
+</P>
+<P>
+20. The method as claimed in claim 19, further comprising forming electrical contacts for contacting the n-type doped Ga-based layer and the p-type doped Ga-based layer respectively.
+</P>
+<P>
+21. The method as claimed in any one of claims 13 to 20, wherein the first and second sets of MQWs are supported on a substrate.
+</P>
+<P>
+22. The method as claimed in any one of claims 13 to 21 , wherein the first set of MQWs is formed at a lower temperature than the second set of MQWs. 23. The method as claimed in any one of claims 13 to 22, wherein the first set of MQWs is formed with a higher In precursor flow than the second set of MQWs.
+</P>
+<P>
+24. The method as claimed in any one of claims 13 to 23, wherein the MQWs comprise one material system of a group consisting of InGa/Ga, InGa/AIGa, Ga/AIGa and InGa/AllnGa.
+</P>
+<P>
+25. The method as claimed in claim 24, wherein the MQWs comprise the nitride or phosphide of the material system.
+</P>
+</Claims>
+<Also_published_as>
+EP2074666A4;WO2008030183A1;US2010025653A1;TW200824153A;JP2010503228A;CN101589478A
+</Also_published_as>
+</BiblioData>

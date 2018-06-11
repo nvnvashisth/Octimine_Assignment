@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+METHOD AND APPARATUS FOR THIN FILM/LAYER FABRICATION AND DEPOSITION
+</Title>
+<PublicationNumber>
+EP2043848A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SCHNEIDER JUAN [CA]
+</Name>
+<Name>
+SCHNEIDER, JUAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+NANOMETRIX INC [CA]
+</Name>
+<Name>
+NANOMETRIX INC
+</Name>
+<Name>
+VERSATILIS LLC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2043848
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070763892
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-07-12
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007CA01232
+</PriorityNumber>
+<PriorityDate>
+2007-07-12
+</PriorityDate>
+<PriorityNumber>
+US20060830102P
+</PriorityNumber>
+<PriorityDate>
+2006-07-12
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B05D1/20
+</Class>
+<Class>
+B05D3/04
+</Class>
+<Class>
+B29D7/01
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C08J5/18
+</Class>
+</IPC>
+<NCL>
+<Class>
+B05D1/20
+</Class>
+<Class>
+B05D3/04T
+</Class>
+<Class>
+B82Y30/00
+</Class>
+</NCL>
+<Abstract>
+A method and apparatus for controlling the thickness of a thin film or thin layer of discrete particles or of an heterogeneous mixture characterized in that the interfacial tension forces between the solution or suspension and its environment are used as the driving forces to evenly spread the solution, suspension or mixture while the solvent evaporates and/or dilutes.
+</Abstract>
+<Claims>
+<P>
+WHAT IS CLAIMED IS:
+</P>
+<P>
+1. A method for forming a thin film or a thin layer of discrete particles, the method comprising: providing a film forming substance on a carrier fluid, the film forming substance including a solution, a suspension or an heterogeneous mixture; and dynamically controlling the interfacial tensions between the film forming substance, the fluid carrier and a surrounding atmosphere in accordance with a desired film or layer thickness.
+</P>
+<P>
+2. The method defined in claim 1, wherein controlling the interfacial tensions includes acting on the thermodynamical and physicochemical conditions at the interface between the film forming substance, the carrier fluid and the surrounding atmosphere.
+</P>
+<P>
+3. The method defined in claim 2, wherein the film forming substance comprises a solvent and particles, and wherein acting on the thermodynamical and physicochemical conditions includes controlling at least one of the following parameters: the relative concentration of particles and solvent in the film forming substance, a rate of injection of the film forming substance on the carrier fluid, a rate of evaporation of the solvent from the film forming substance and/or a rate of dilution of the solvent in the fluid carrier, and the retrieval speed of the film from the carrier fluid.
+</P>
+<P>
+4. The method defined in claim 1, wherein providing a film forming substance on a carrier fluid comprises injecting the film forming substance at an interface between the carrier fluid and the surrounding atmosphere.
+</P>
+<P>
+5. The method defined in claim 1, wherein the carrier fluid and the surrounding atmosphere define a liquid-gas interface, and wherein providing a film forming substance on said carrier fluid comprises injecting the film forming substance at said liquid-gas interface.
+</P>
+<P>
+6. The method defined in claim 5, wherein the film forming substance comprises a solvent and particles, and wherein the carrier fluid is a liquid having a surface tension greater than that of the solvent contained in the film forming substance.
+</P>
+<P>
+7. The method defined in claim 1, wherein the film forming substance comprises a solvent and particles, and wherein controlling the interfacial tensions includes controlling the evaporation or immersion rate of the solvent from the film forming surface.
+</P>
+<P>
+8. The method defined in claim 1, wherein the film forming substance and the surrounding atmosphere have a first interface, the film forming substance and the carrier fluid having a second interface, the first and second interface providing first and second reflective surfaces, and wherein the method further comprises monitoring the thickness of the film or layer being formed by analysing the interferential light pattern reflected by said first and second reflective surfaces.
+</P>
+<P>
+9. The method defined in claim 1, wherein the film forming substance comprises a solvent and particles, the surrounding atmosphere being a gaseous environment having a gas phase, and wherein controlling the interfacial tensions includes using solvent content and saturation in the gas phase to control solvent evaporation from the film forming substance.
+</P>
+<P>
+10. The method defined in claim 9, further comprising controlling the miscibility of the solvent contained in the film forming substance in the carrier fluid.
+</P>
+<P>
+11. The method defined in claim 10, comprising adjusting the solvent evaporation and miscibility in relation of the rate at which the film or layer is retrieved.
+</P>
+<P>
+12. A method of producing a three dimensional assembly of particles, comprising: injecting feedstock, including particles in a solvent, at a gas-liquid interface between a carrier liquid and a gas contained in an enclosure, controlling the interfacial tensions between the feedstock, the gas and the carrier liquid while the solvent dissipates from the feedstock; at the time of injection, the solvent making the surface tension F3 between the gas and carrier liquid greater than the sum of the surface tension Fl between the gas and the feedstock and the surface tension F2 between the liquid carrier and the feedstock, thereby causing the feedstock to spread out at the surface of the carrier liquid, and once an equilibrium point is substantially reached removing the three dimensional assembly of particles from the enclosure.
+</P>
+<P>
+13. The method defined in claim 12, comprising controlling the dissipation rate of the solvent in the gas and the carrier liquid.
+</P>
+</Claims>
+<Also_published_as>
+EP2043848A4;WO2008006211A1;US2009181162A1;US7763310B2;CA2691117A1
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+CONDUCTIVE CARBON NANOTUBE- POLYMER COMPOSITE
+</Title>
+<PublicationNumber>
+EP2013266A2
+</PublicationNumber>
+<Inventor>
+<Name>
+EL BOUNIA NOUR-EDDINE [FR]
+</Name>
+<Name>
+EL BOUNIA, NOUR-EDDINE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ARKEMA FRANCE [FR]
+</Name>
+<Name>
+ARKEMA FRANCE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2013266
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070734841
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-04-10
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007IB01609
+</PriorityNumber>
+<PriorityDate>
+2007-04-10
+</PriorityDate>
+<PriorityNumber>
+EP20060290612
+</PriorityNumber>
+<PriorityDate>
+2006-04-14
+</PriorityDate>
+<PriorityNumber>
+US20060812194P
+</PriorityNumber>
+<PriorityDate>
+2006-06-09
+</PriorityDate>
+<PriorityNumber>
+EP20070734841
+</PriorityNumber>
+<PriorityDate>
+2007-04-10
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C08J3/215
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C08J3/215
+</Class>
+<Class>
+C08J5/00N
+</Class>
+<Class>
+H01B1/24
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to a conductive carbon nanotube-polymer composite, comprising carbon nanotubes, and a mixture of polymers in a form of coalesced polymer particles, wherein the mixture of polymer particles in their non coalesced form is defined by the presence of at least two populations of polymer particles having a size distribution which is at least bimodal.
+</Abstract>
+<Claims>
+<P>
+1. A conductive carbon nanotube-polymer composite, comprising:
+</P>
+<P>
+(a) carbon nanotubes, and
+</P>
+<P>
+(b) a mixture of polymers in a form of coalesced polymer particles, wherein the mixture of polymer particles in their non coalesced form is defined by the presence of at least two population of polymer particles having a size distribution which is at least bimodal.
+</P>
+<P>
+2. A conductive composite according to claim 1 wherein each particle is made with a polymer mixture.
+</P>
+<P>
+3. The composite according to claim 2 wherein the polymer is a core/shell polymer.
+</P>
+<P>
+4. A conductive composite according to claim 1 wherein each population of polymer particles is made with a different polymer.
+</P>
+<P>
+5. The composite according to any one of the claims 1 to 4 wherein the polymer is selected from acrylate polymers, acrylic acid polymers, polyacrylic esters, polyacrylamides, polyacrylonitriles, chlorinated polymers, fluorinated polymers, styrenic polymers, polyurethanes, natural rubber, synthetic rubber polymers, vinylchloride-acrylate polymers, and copolymers thereof.
+</P>
+<P>
+6. The composite according to any one of the claims 1 to 5 wherein the polymer is selected from the group consisting of polystyrene-b-polyisoprene-b-polystyrene (SIS), polystyrene-b-polybutadiene-b-polystyrene (SBS), polymethylmethacrylate-b-polybutylacrylate-b- polymethylmethacrylate, polystyrene-b-polybutadiene-b-polymethylmethacrylate (SBM), poly (vinyl acetate), poly (acrylic acid), poly (methyl methacrylate), polyacrylamide, polyacrylonitrile, polyvinylpropionate, polystyrene, polytetrafluoroethylene, poly (vinyl chloride), poly (vinylidene chloride), poly (vinyl chloride-ethylene), poly (vinyl chloride-propylene), poly (styrene- co-butadiene), styrene-acrylate copolymers, vinyl ethylene-vinyl chloride copolymer, poly (vinyl acetate-acrylate), poly (vinyl acetate-ethylene).
+</P>
+<P>
+7. The composite according to claim 3 wherein the polymer core is a cross linked elastomeric composition selected from the group comprising styrene butadiene, styrenebutylacrylate and the polymer shell is a long chain of (co)polymer selected from the group comprising polyacrylamide, polymethylmethacrylate and copolymer thereof.
+</P>
+<P>
+8. A conductive composite according to any one of the claims 1 to 7 wherein the size distribution is bimodal.
+</P>
+<P>
+9. A conductive composite according to claim 8 wherein the number average polymer particle size of the small particles (Dns) is in the range of 20 to 100 nm and the number average polymer particle size of the large particles (Dnl) is in the range of 200 to 500 nm.
+</P>
+<P>
+10. A conductive composite according to any one of the claims 1 to 6 wherein the size distribution is trimodal and wherein the number average polymer particle size of the small particles (Dns) is below 120 nm, the number average polymer particle size of the medium particles (Dnm) is from 120 to 200 nm and the number average polymer particle size of the large particles (Dnl) is more than 200 nm.
+</P>
+<P>
+11. A conductive composite according to any one of the claims 1 to 10 wherein the packing volume fraction of the small particles is from 10 to 15%, the packing volume fraction of the medium particles is from 0 to 10% and the packing volume fraction of the large particles in their non coalescent form is from 75 to 85%.
+</P>
+<P>
+12. A conductive composite according to any one of the claims 1 to 11 wherein the particle size ratio defined by the number average polymer particle size of the large particles over the number average polymer particle size of the small particles, Dnl/Dns is from 15 to 3, preferably 5 to 10, more preferably 6 to 9.
+</P>
+<P>
+13. A conductive composite according to claim 12 wherein the particle size ratio defined by the number average polymer particle size of the large particles over the number average polymer particle size of the medium particles, Dnl/Dnm is 3 to 1,2 preferably 1,8.
+</P>
+<P>
+14. A conductive composite according to any one of the claims 1 to 13 wherein the difference between the maximum of two end peaks of the size distribution profile is in the range of 50 to 500 nm, preferably 150 to 300 nm.
+</P>
+<P>
+15. A conductive composite according to any one of the claims 1 to 14 wherein the ratio of Dnl/Dns expressed in weight% is in the range of 95/5 to 5/95, preferably 90/10 to 50/50.
+</P>
+<P>
+16. A conductive composite according to any one of the claims I to 15 wherein the polymer particles size are less than 1000 nm.
+</P>
+<P>
+17. The composite according to any one of the claims 1 to 16 wherein the nanotube-polymer composite has a percolation threshold of less than 0,5% carbon nanotubes in the composite.
+</P>
+<P>
+18. The composite according to any one of the claims 1 to 17 wherein the carbon nanotube-polymer composite comprises nanotubes in an amount less than about 10 wt% of the composite, preferably less than about 5 wt% of the composite, more preferably less than about 1 wt% of the composite, and particularly less than about 0,1 wt% of the composite.
+</P>
+<P>
+19. A method for making a conductive carbon nanotube composite comprising:
+</P>
+<P>
+(a) forming a polymer particles suspension which comprises the mixing in a solvent, preferably water, of at least two populations of particles having a size distribution which is at least bimodal;
+</P>
+<P>
+(b) forming a carbon nanotube suspension comprising carbon nanotubes and a solvent;
+</P>
+<P>
+(c) adding the carbon nanotube suspension in the polymer particles suspension, to form a carbon nanotube-polymer mixture suspension,
+</P>
+<P>
+(d) optionally mixing the resulting suspension with optional heating and
+</P>
+<P>
+(e) removing the solvent from the carbon nanotube-polymer suspension to form a carbon nanotube- polymer composite.
+</P>
+<P>
+20. The method of claim 19 for making the conductive carbon nanotube-composite as defined in claims 1 to 18.
+</P>
+<P>
+21. Use of a composite according to any one of the claims 1 to 18 in the preparation of a transparent composite material, with a light transmission level over 80%.
+</P>
+<P>
+Amended claims in accordance with Rule 86(2) EPC.
+</P>
+<P>
+1. A method for making a conductive carbon nanotube composite comprising:
+</P>
+<P>
+(a) forming a polymer particles suspension which comprises the mixing in a solvent, preferably water, of at least two populations of particles having a size distribution which is at least bimodal;
+</P>
+<P>
+(b) forming a carbon nanotube suspension comprising carbon nanotubes and a solvent;
+</P>
+<P>
+(c) adding the carbon nanotube suspension in the polymer particles suspension, to form a carbon nanotube-polymer mixture suspension,
+</P>
+<P>
+(d) optionally mixing the resulting suspension with optional heating and
+</P>
+<P>
+(e) removing the solvent from the carbon nanotube-polymer suspension to form a carbon nanotube- polymer composite.
+</P>
+<P>
+2. The method of claim 1 wherein in step a) the mixture at least two populations of particles having a size distribution which is at least bimodal is in a form of non coalesced polymer particles.
+</P>
+<P>
+3. The method of claim 1 or 2 wherein each particle is made with a polymer mixture.
+</P>
+<P>
+4. The method of claim 3 wherein the polymer is a core/shell polymer.
+</P>
+<P>
+5. The method of claim 1 or 2 wherein each population of polymer particles is made with a different polymer.
+</P>
+<P>
+6. The method according to any one of the claims 1 to 5 wherein the polymer is selected from acrylate polymers, acrylic acid polymers, polyacrylic esters, polyacrylamides, polyacrylonitriles, chlorinated polymers, fluorinated polymers, styrenic polymers, polyurethanes, natural rubber, synthetic rubber polymers, vinylchloride-acrylate polymers, and copolymers thereof.
+</P>
+<P>
+7. The method according to any one of the claims 1 to 6 wherein the polymer is selected from the group consisting of polystyrene-b-polyisoprene-b-polystyrene (SIS), polystyrene-b-polybutadiene-b-polystyrene (SBS), polymethylmethacrylate-b-polybutylacrylate-b- polymethylmethacrylate, polystyrene-b-polybutadiene-b-polymethylmethacrylate (SBM), poly (vinyl acetate), poly (acrylic acid), poly (methyl methacrylate), polyacrylamide, polyacrylonitrile, polyvinylpropionate, polystyrene, polytetrafluoroethylene, poly (vinyl chloride), poly (vinylidene chloride), poly (vinyl chloride-ethylene), poly (vinyl chloride-propylene), poly (styrene- co-butadiene), styrene-acrylate copolymers, vinyl ethylene-vinyl chloride copolymer, poly (vinyl acetate-acrylate), poly (vinyl acetate-ethylene).
+</P>
+<P>
+8. The method according to claim 4 wherein the polymer core is a cross linked elastomeric composition selected from the group comprising styrene butadiene, styrenebutylacrylate and the polymer shell is a long chain of (co)polymer selected from the group comprising polyacrylamide, polymethylmethacrylate and copolymer thereof.
+</P>
+<P>
+9. The method according to any one of the claims 1 to 8 wherein the size distribution is bimodal.
+</P>
+<P>
+10. The method according to claim 9 wherein the number average polymer particle size of the small particles (Dns) is in the range of 20 to 100 nm and the number average polymer particle size of the large particles (Dnl) is in the range of 200 to 500 nm.
+</P>
+<P>
+11. The method according to any one of the claims 1 to 7 wherein the size distribution is trimodal and wherein the number average polymer particle size of the small particles (Dns) is below 120 nm, the number average polymer particle size of the medium particles (Dnm) is from 120 to 200 nm and the number average polymer particle size of the large particles (Dnl) is more than 200 nm.
+</P>
+<P>
+12. The method according to any one of the claims 1 to 11 wherein the packing volume fraction of the small particles is from 10 to 15%, the packing volume fraction of the medium particles is from 0 to 10% and the packing volume fraction of the large particles in their non coalescent form is from 75 to 85%.
+</P>
+<P>
+13. The method according to any one of the claims 1 to 12 wherein the particle size ratio defined by the number average polymer particle size of the large particles over the number average polymer particle size of the small particles, Dnl/Dns is from 15 to 3, preferably 5 to 10, more preferably 6 to 9.
+</P>
+<P>
+14. The method according to claim 13 wherein the particle size ratio defined by the number average polymer particle size of the large particles over the number average polymer particle size of the medium particles, Dnl/Dnm is 3 to 1,2 preferably 1,8.
+</P>
+<P>
+15. The method according to any one of the claims 1 to 14 wherein the difference between the maximum of two end peaks of the size distribution profile is in the range of 50 to 500 nm, preferably 150 to 300 nm.
+</P>
+<P>
+16. The method according to any one of the claims 1 to 15 wherein the ratio of Dnl/Dns expressed in weight% is in the range of 95/5 to 5/95, preferably 90/10 to 50/50.
+</P>
+<P>
+17. The method according to any one of the claims 1 to 16 wherein the polymer particles size are less than 1000 nm.
+</P>
+<P>
+18. The method to any one of the claims 1 to 17 wherein the nanotube-polymer composite has a percolation threshold of less than 0,5% carbon nanotubes in the composite.
+</P>
+<P>
+19. The method according to any one of the claims 1 to 18 wherein the carbon nanotube-polymer composite comprises nanotubes in an amount less than about 10 wt% of the composite, preferably less than about 5 wt% of the composite, more preferably less than about 1 wt% of the composite, and particularly less than about 0,1 wt% of the composite.
+</P>
+<P>
+20. Use of a composite obtained according to any one of the claims 1 to 19 in the preparation of a transparent composite material, with a light transmission level over 80%.
+</P>
+<P>
+21. A conductive carbon nanotube-polymer composite, comprising:
+</P>
+<P>
+(a) carbon nanotubes, and
+</P>
+<P>
+(b) a mixture of a core/shell polymer in a form of coalesced polymer particles, wherein the mixture of polymer particles in their non coalesced form is defined by the presence of at least two population of polymer particles having a size distribution which is at least bimodal.
+</P>
+<P>
+22. The composite according to claim 21 wherein the polymer core is a cross linked elastomeric composition selected from the group comprising styrene butadiene, styrenebutylacrylate and the polymer shell is a long chain of (co)polymer selected from the group comprising polyacrylamide, polymethylmethacrylate and copolymer thereof.
+</P>
+<P>
+23. A conductive composite according to any one of the claims 21 to 22 wherein the size distribution is bimodal.
+</P>
+<P>
+24. A conductive composite according to claim 23 wherein the number average polymer particle size of the small particles (Dns) is in the range of 20 to 100 nm and the number average polymer particle size of the large particles (Dnl) is in the range of 200 to 500 nm.
+</P>
+<P>
+25. A conductive composite according to any one of the claims 21 to 24 wherein the size distribution is trimodal and wherein the number average polymer particle size of the small particles (Dns) is below 120 nm, the number average polymer particle size of the medium particles (Dnm) is from 120 to 200 nm and the number average polymer particle size of the large particles (Dnl) is more than 200 nm.
+</P>
+<P>
+26. A conductive composite according to any one of the claims 21 to 25 wherein the packing volume fraction of the small particles is from 10 to 15%, the packing volume fraction of the medium particles is from 0 to 10% and the packing volume fraction of the large particles in their non coalescent form is from 75 to 85%.
+</P>
+<P>
+27. A conductive composite according to any one of the claims 21 to 26 wherein the particle size ratio defined by the number average polymer particle size of the large particles over the number average polymer particle size of the small particles, Dnl/Dns is from 15 to 3, preferably 5 to 10, more preferably 6 to 9.
+</P>
+<P>
+28. A conductive composite according to claim 27 wherein the particle size ratio defined by the number average polymer particle size of the large particles over the number average polymer particle size of the medium particles, Dnl/Dnm is 3 to 1,2 preferably 1,8.
+</P>
+<P>
+29. A conductive composite according to any one of the claims 21 to 28 wherein the difference between the maximum of two end peaks of the size distribution profile is in the range of 50 to 500 nm, preferably 150 to 300 nm.
+</P>
+<P>
+30. A conductive composite according to any one of the claims 21 to 29 wherein the ratio of Dnl/Dns expressed in weight% is in the range of 95/5 to 5/95, preferably 90/10 to 50/50.
+</P>
+<P>
+31. A conductive composite according to any one of the claims 21 to 30 wherein the polymer particles size are less than 1000 nm.
+</P>
+<P>
+32. The composite according to any one of the claims 21 to 31 wherein the nanotube-polymer composite has a percolation threshold of less than 0,5% carbon nanotubes in the composite.
+</P>
+<P>
+33. The composite according to any one of the claims 21 to 32 wherein the carbon nanotube-polymer composite comprises nanotubes in an amount less than about 10 wt% of the composite, preferably less than about 5 wt% of the composite, more preferably less than about 1 wt% of the composite, and particularly less than about 0,1 wt% of the composite.
+</P>
+</Claims>
+<Also_published_as>
+EP1845124A1;US2009200517A1;US7943065B2;JP2009533518A;WO2007119172A2;WO2007119172A3;CN101421338A
+</Also_published_as>
+</BiblioData>

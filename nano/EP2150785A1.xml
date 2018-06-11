@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+HIGH FREQUENCY DEFLECTION MEASUREMENT OF IR ABSORPTION
+</Title>
+<PublicationNumber>
+EP2150785A1
+</PublicationNumber>
+<Inventor>
+<Name>
+DAZZI A [FR]
+</Name>
+<Name>
+READING MICHAEL [GB]
+</Name>
+<Name>
+RUI PRAZERES [FR]
+</Name>
+<Name>
+KJOLLER KEVIN [US]
+</Name>
+<Name>
+DAZZI, A
+</Name>
+<Name>
+READING, MICHAEL
+</Name>
+<Name>
+RUI, PRAZERES
+</Name>
+<Name>
+KJOLLER, KEVIN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+ANASYS INSTR [US]
+</Name>
+<Name>
+DAZZI A [FR]
+</Name>
+<Name>
+READING MICHAEL [GB]
+</Name>
+<Name>
+RUI PRAZERES [FR]
+</Name>
+<Name>
+KJOLLER KEVIN [US]
+</Name>
+<Name>
+ANASYS INSTRUMENTS
+</Name>
+<Name>
+DAZZI, A
+</Name>
+<Name>
+READING, MICHAEL
+</Name>
+<Name>
+RUI, PRAZERES
+</Name>
+<Name>
+KJOLLER, KEVIN
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2150785
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080767670
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-05-13
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008US06051
+</PriorityNumber>
+<PriorityDate>
+2008-05-13
+</PriorityDate>
+<PriorityNumber>
+US20070803421
+</PriorityNumber>
+<PriorityDate>
+2007-05-15
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01J3/10
+</Class>
+<Class>
+G01J3/30
+</Class>
+<Class>
+G01N21/35
+</Class>
+<Class>
+G01Q30/00
+</Class>
+<Class>
+G01Q60/32
+</Class>
+<Class>
+G01Q60/38
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y35/00
+</Class>
+<Class>
+G01N21/35
+</Class>
+<Class>
+G01Q30/02
+</Class>
+<Class>
+G01Q60/32
+</Class>
+<Class>
+G01Q60/38
+</Class>
+</NCL>
+<Abstract>
+An AFM based technique has been demonstrated for performing highly localized IR spectroscopy on a sample surface. Such a technique implemented in a commercially viable analytical instrument would be extremely useful. Various aspects of the experimental set-up have to be changed to create a commercial version. The invention addresses many of these issues thereby producing a version of the analytical technique that cab be made generally available to the scientific community.
+</Abstract>
+<Claims>
+<P>
+We claim:
+</P>
+<P>
+1. A method of measuring a localized IR spectra of a sample, comprising;
+</P>
+<P>
+illuminating the sample surface with a pulsed variable wavelength IR source,
+</P>
+<P>
+placing an AFM probe at a point on the illuminated surface,
+</P>
+<P>
+collecting lateral and vertical deflection data from the probe due to stimulation of resonant oscillation of the probe in response to a rapid expansion of the surface due to absorption of the illumination in the region of the sample surface under the probe,
+</P>
+<P>
+performing a power spectrum of the deflection data,
+</P>
+<P>
+integrating over a frequency band of the power spectrum; and,
+</P>
+<P>
+plotting the integrated data vs wavelength to create a spectra.
+</P>
+<P>
+2. The method of claim 1 further comprising moving the probe to one or more other points on the sample surface and repeating the spectra measurement.
+</P>
+<P>
+3. A method of mapping localized thermal absorption data at a optical wavelength of interest on a sample, comprising;
+</P>
+<P>
+illuminating the sample surface with a pulsed IR source at the wavelength of interest,
+</P>
+<P>
+placing an AFM probe at a point on the illuminated surface,
+</P>
+<P>
+collecting lateral and vertical deflection data from the probe due to stimulation of resonant oscillation of the probe in response to a rapid expansion of the surface due to absorption of the illumination in the region of the sample surface under the probe,
+</P>
+<P>
+performing a power spectrum of the deflection data,
+</P>
+<P>
+integrating over a frequency band of the power spectrum,
+</P>
+<P>
+moving the probe to one or more other points on the sample surface and repeating power spectrum acquisition; and,
+</P>
+<P>
+plotting the integrated data vs position.
+</P>
+<P>
+4. The method of claim 4 further comprising;
+</P>
+<P>
+adding a sign to the integrated frequency data that is dependent on if the initial change in the lateral deflection signal is up or down; and,
+</P>
+<P>
+plotting the integrated data vs wavelength to create a spectra.
+</P>
+<P>
+5. The method of claim 3, further comprising;
+</P>
+<P>
+selecting the center frequency and bandwidth of the frequency band of the power spectrum and integrating over that band; and,
+</P>
+<P>
+repeating the band selection process until desired to better observe the vertical or lateral fundamental or higher mode of the cantilever improve the resolution and discrimination of the spectra or different components of the sample.
+</P>
+<P>
+6. A system for measuring a localized IR spectra on a sample surface comprising;
+</P>
+<P>
+a pulsed variable wavelength IR source disposed to illuminate the sample surface; and,
+</P>
+<P>
+an AFM, including a scanner, provision for mounting of the sample,
+</P>
+<P>
+a cantilever probe with a probe tip, and a cantilever deflection measurement capability, wherein at least a part of the cantilever probe is transparent to the IR energy from the source.
+</P>
+<P>
+7. The system of claim 6 wherein at least one of the cantilever arm or tip are made from sapphire.
+</P>
+<P>
+8. The system of claim 6 wherein at least one of the cantilever arm or tip are made from one of the group including, silver halides, heavy metal fluoride glasses and chalcogenide glasses.
+</P>
+<P>
+9. A system for measuring a localized IR spectra on a sample surface comprising;
+</P>
+<P>
+a pulsed variable wavelength IR source disposed to illuminate the sample surface from above the plane of the sample; and,
+</P>
+<P>
+an AFM, including a scanner, provision for mounting of the sample,
+</P>
+<P>
+a cantilever probe with a probe tip, and a cantilever deflection measurement capability, wherein at least a part of the cantilever probe is reflective of the IR energy from the source.
+</P>
+<P>
+10. The system of claim 9 wherein at least one of the cantilever arm or tip are coated with, or constructed of, gold or other IR reflective materials.
+</P>
+<P>
+11. A system for measuring a localized IR spectra on a sample surface comprising;
+</P>
+<P>
+a pulsed variable wavelength IR source,
+</P>
+<P>
+an AFM, including a scanner, provision for mounting of the sample,
+</P>
+<P>
+a cantilever probe with a probe tip, and a cantilever deflection measurement capability; and,
+</P>
+<P>
+an IR waveguide disposed to direct energy from the source directly to the sample surface and substantially avoiding illumination of the probe.
+</P>
+<P>
+12. A method of measuring a localized IR spectra of a sample, comprising;
+</P>
+<P>
+placing an AFM probe at a point on the sample surface,
+</P>
+<P>
+illuminating the sample surface with a pulsed variable wavelength IR source, wherein the pulse frequency is chosen to be at or near the contact resonant frequency of the AFM probe,
+</P>
+<P>
+collecting lateral and vertical deflection data from the probe due to stimulation of resonant oscillation of the probe in response to a rapid expansion of the surface due to absorption of the illumination in the region of the sample surface under the probe.
+</P>
+<P>
+13. A method of measuring a localized IR spectra of a sample, comprising;
+</P>
+<P>
+placing an AFM probe at a point on the sample surface,
+</P>
+<P>
+illuminating the sample surface with a pulsed variable wavelength IR source,
+</P>
+<P>
+oscillating the probe at a selected frequency in order to collect force distance curves; and,
+</P>
+<P>
+identifying how the absorption of radiation influences a characteristic behavior or shape of the force distance curve.
+</P>
+<P>
+14. The method of claim 13 further including causing the repetition rate of the pulsed illumination to be rapid with respect to the imposed oscillation of the probe so that the characteristic behavior is continuously changed,
+</P>
+<P>
+15. The method of claim 13 further causing the repetition rate of the pulsed illumination to be slow with respect to the imposed movement of the probe so that the changes in characteristic behavior at the frequency of the pulses can be measured.
+</P>
+<P>
+16. The method of claim 13 including causing the repetition rate of the pulsed illumination and the frequency of the imposed modulation to be set to create a periodic interference at the beat frequency, thereby observing the effect on the characteristic behavior.
+</P>
+<P>
+17. A method of measuring a localized IR spectra of a sample, comprising;
+</P>
+<P>
+illuminating the sample surface with a pulsed variable wavelength IR source,
+</P>
+<P>
+placing an AFM probe which includes thermal control capability at a point on the illuminated surface,
+</P>
+<P>
+collecting lateral and vertical deflection data from the probe due to stimulation of resonant oscillation of the probe in response to a rapid expansion of the surface due to absorption of the illumination in the region of the sample surface under the probe,
+</P>
+<P>
+quantifying to an approximation the thermal expansion coefficient by;
+</P>
+<P>
+varying the probe&apos;s temperature as a pulse or a smooth oscillation; and,
+</P>
+<P>
+observing at least one of the deflection due to thermal expansion or the temperature due to thermal diffusivity,
+</P>
+<P>
+wherein the data thus acquired can then be used to adjust the relative intensity of the absorption to more accurately reflect the amount of energy absorbed by the sample.
+</P>
+<P>
+18. The method of claim 17 further comprising moving the probe to at least one other point on the sample and repeating at least one of the absorption and thermal expansion measurements.
+</P>
+<P>
+19. A method of measuring a localized IR absorption data for a sample, comprising;
+</P>
+<P>
+illuminating the sample surface with a pulsed variable wavelength IR source,
+</P>
+<P>
+placing an AFM probe at a point on the illuminated surface,
+</P>
+<P>
+collecting lateral and vertical deflection data from the probe due to stimulation of resonant oscillation of the probe in response to a rapid expansion of the surface due to absorption of the illumination in the region of the sample surface under the probe; and,
+</P>
+<P>
+fit a sine wave to the deflection data to determine the amplitude of the oscillation in the deflection data.
+</P>
+<P>
+20. The method of claim 19 further comprising moving the probe to one or more other points on the sample surface and repeating the deflection data measurement.
+</P>
+<P>
+21. A method of measuring a localized IR absorption data for a sample, comprising;
+</P>
+<P>
+illuminating the sample surface with a pulsed variable wavelength IR source,
+</P>
+<P>
+placing an AFM probe at a point on the illuminated surface,
+</P>
+<P>
+collecting lateral and vertical deflection data from the probe due to stimulation of resonant oscillation of the probe in response to a rapid expansion of the surface due to absorption of the illumination in the region of the sample surface under the probe; and,
+</P>
+<P>
+measuring the baseline-to-peak and baseline-to-valley information for the deflection data.
+</P>
+<P>
+22. The method of claim 21 further comprising moving the probe to one or more other points on the sample surface and repeating the deflection data measurement.
+</P>
+</Claims>
+<Also_published_as>
+EP2150785A4;US2008283755A1;US8001830B2;US2011283428A1;WO2008143817A1
+</Also_published_as>
+</BiblioData>

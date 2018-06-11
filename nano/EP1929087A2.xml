@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+LARGE SCALE MANUFACTURING OF NANOSTRUCTURED MATERIAL
+</Title>
+<PublicationNumber>
+EP1929087A2
+</PublicationNumber>
+<Inventor>
+<Name>
+COOPER CHRISTOPHER H [US]
+</Name>
+<Name>
+CUMMINGS ALAN G [US]
+</Name>
+<Name>
+STAROSTIN MIKHAIL Y [US]
+</Name>
+<Name>
+COOPER, CHRISTOPHER H
+</Name>
+<Name>
+CUMMINGS, ALAN G
+</Name>
+<Name>
+STAROSTIN, MIKHAIL Y
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SELDON TECHNOLOGIES INC [US]
+</Name>
+<Name>
+SELDON TECHNOLOGIES, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1929087
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20060851536
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2006-09-01
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2006US34225
+</PriorityNumber>
+<PriorityDate>
+2006-09-01
+</PriorityDate>
+<PriorityNumber>
+US20050712847P
+</PriorityNumber>
+<PriorityDate>
+2005-09-01
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B3/00
+</Class>
+<Class>
+D21H13/40
+</Class>
+<Class>
+D21H13/50
+</Class>
+<Class>
+D21H15/02
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01D39/20F2
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+D21H13/40
+</Class>
+<Class>
+D21H13/50
+</Class>
+<Class>
+D21H15/02
+</Class>
+</NCL>
+<Abstract>
+The present disclosure relates to methods for producing large scale nanostructured material comprising carbon nanotubes. Therefore, there is disclosed a method for making nanostructured materials comprising depositing carbon nanotubes onto at least one substrate via a deposition station, wherein depositing comprises transporting molecules to the substrate from a deposition fluid, such as liquid or gas. By using a substrate that is permeable to the carrier fluid, and allowing the carrier fluid to flow through the substrate by differential pressure filtration, a nanostructured material can be formed on the substrate, which may be removed, or may act as a part of the final component.
+</Abstract>
+<Claims>
+<P>
+What is claimed is:
+</P>
+<P>
+1. A method of making a nanostructured material comprising carbon nanotubes, said method comprising: suspending carbon nanotubes in a carrier fluid to form a mixture, inducing said mixture to flow through a substrate that is permeable to the carrier fluid by differential pressure filtration, depositing said carbon nanotubes from said mixture onto said substrate to form a nanostructured material.
+</P>
+<P>
+2. The method of claim 1 , wherein said carrier fluid comprises components other than carbon nanotubes.
+</P>
+<P>
+3. The method of claim 1 , wherein said substrate forms a part of said nanostructured material.
+</P>
+<P>
+4. The method of claim 1 , further comprising removing said substrate from said nanostructured material.
+</P>
+<P>
+5. The method of claim 1 , wherein said substrate is comprised of fibrous or non-fibrous materials.
+</P>
+<P>
+6. The method of claim 1 , said fibrous or non-fibrous materials comprising metals, polymers, ceramic, natural fibers, and combinations thereof, wherein said materials are optionally heat and/or pressure treated prior to said depositing of the carbon nanotubes.
+</P>
+<P>
+7. The method of claim 1 , wherein said carrier fluid is comprised at least one liquid, or gas, or combinations thereof.
+</P>
+<P>
+8. The method of claim 7, wherein said carrier fluid is a dispersant chosen from aqueous and non-aqueous liquids.
+</P>
+<P>
+9. The method of claim 8, wherein said carrier fluid is an aqueous liquid having a pH ranging from 1 to 8.9.
+</P>
+<P>
+10. The method of claim 1 , wherein said carrier fluid further comprises at least one aqueous or non-aqueous solvent or combinations thereof.
+</P>
+<P>
+11. The method of claim 10, wherein said non-aqueous solvent comprises an organic or inorganic solvents, wherein said organic solvents are chosen from methanol, iso-propanol, ethanol, toluene, xylene, dimethylformamide, carbon tetrachloride, 1 ,2-dichlorobenzene, and combinations thereof.
+</P>
+<P>
+12. The method of claim 2, wherein said other components comprise fibers, clusters, and/or particulates composed of metals, polymers, ceramics, natural materials, and combinations thereof.
+</P>
+<P>
+13. The method of claim 12, wherein said other components have at least one dimension ranging from 1 nm to 100nm.
+</P>
+<P>
+14. The method of claim 2, wherein said other components are comprised of molecules containing atoms chosen from antimony, aluminum, barium, boron, bromine, calcium, carbon, cerium, chlorine, chromium, cobalt, copper, fluorine, gallium, germanium, gold, hafnium, hydrogen, indium, iodine, iridium, iron, lanthanum, lead, magnesium, manganese, molybdenum, nickel, niobium, nitrogen, osmium, oxygen, palladium, phosphorus, platinum, rhenium, rhodium, ruthenium, scandium, selenium, silicon, silver, sulfur, tantalum, tin, titanium, tungsten, vanadium, yttrium, zinc, zirconium, or combination thereof.
+</P>
+<P>
+15. The method of claim 2, wherein said other components are pre- assembled and attached onto the carbon nanotubes, to other components, or to any combination thereof prior to said deposition.
+</P>
+<P>
+16. The method of claim 1 , wherein said carrier fluid further comprises chemical binding agents, surfactants, buffering agents, poly-electrolytes, and combinations thereof.
+</P>
+<P>
+17. The method of claim 16, wherein said chemical binding agents comprise polyvinyl alcohol.
+</P>
+<P>
+18. The method of claim 1 , wherein said carrier fluid further comprises biomaterials chosen from proteins, DNA, RNA, and combinations thereof.
+</P>
+<P>
+19. The method of claim 1 , further comprising forming a multilayered structured by the sequential deposition of at least one nanostructured material comprising carbon nanotubes, and at least one additional layer that may or may not be nanostructured.
+</P>
+<P>
+20. The method of claim 1 , wherein said carrier fluid is a gas comprised of air, nitrogen, oxygen, argon, carbon dioxide, water vapor, helium, neon, or any combination thereof.
+</P>
+<P>
+21. The method of claim 1 , further comprising applying an acoustic field having a frequency ranging from 10 kHz to 50 kHz to obtain or maintain dispersion of the carbon nanotubes in the carrier fluid prior to said depositing.
+</P>
+<P>
+22. The method of claim 1 , further comprising applying a high-shear flow field to said carrier fluid to disperse and or mix the carbon nanotubes in the carrier fluid prior to depositing.
+</P>
+<P>
+23. The method of claim 1 , further comprising applying an acoustic field having a frequency ranging from 10 kHz to 50 kHz and a high-shear flow field, either sequentially or in combination, to obtain or maintain dispersion of the carbon nanotubes in the carrier fluid prior to depositing.
+</P>
+<P>
+24. The method of claim 1 , further comprising treating the nanostructured material with at least one post-deposition treatment chosen from chemical treatment, irradiation, or combinations thereof.
+</P>
+<P>
+25. The method of claim 24, wherein said chemical treatment comprises (a) adding a functional group, (b) coating with a polymeric or metallic material, or a combination of (a) and (b).
+</P>
+<P>
+26. The method of claim 24, wherein said irradiation comprises exposing the nanostructured material to radiation chosen from infrared radiation, electron- beams, ion beams, x-rays, photons, or any combination thereof.
+</P>
+<P>
+27. The method of claim 1 , further comprising finishing said nanostructured material with at least one method chosen from cutting, laminating, sealing, pressing, wrapping, or combinations thereof.
+</P>
+<P>
+28. The method of claim 1 , wherein said nanostructured material has a tubular shape.
+</P>
+<P>
+29. The method of claim 1 , wherein said nanostructured material is a sheet having at least two dimensions greater than 1 cm
+</P>
+<P>
+30. The method of claim 1 , wherein said nanostructured material is a sheet having at least two dimensions greater than 10 cm.
+</P>
+<P>
+31. The method of claim 29, wherein said sheet has at least two dimensions greater than 100 cm.
+</P>
+<P>
+32. The method of claim 30, wherein said sheet has at least two dimensions ranging from 100 cm to 2 meters.
+</P>
+<P>
+33. The method of claim 1 , wherein said method is a batch method.
+</P>
+<P>
+34. The method of claim 1 , wherein said inducing comprises applying a vacuum to the opposite side of the substrate on which the nanostructured material is deposited.
+</P>
+<P>
+35. A continuous or semi-continuous method of making a nanostructured material comprising carbon nanotubes, said method comprising: suspending carbon nanotubes in a carrier fluid to form a mixture, inducing said mixture to flow through a moving substrate that is permeable to the carrier fluid by differential pressure filtration, depositing said carbon nanotubes from said mixture onto said moving substrate to form a nanostructured material having a length greater than 1 meter.
+</P>
+<P>
+36. The method of claim 35, wherein said nanostructured material has a length ranging from greater than 1 meter up to 10,000 meters.
+</P>
+<P>
+37. The method of claim 35, further comprising gathering the nanostructured material on a take-up reel.
+</P>
+<P>
+38. The method of claim 35, wherein said inducing comprises applying a vacuum to the opposite side of the substrate on which the nanostructured material is deposited.
+</P>
+<P>
+39. A method of making a nanostructured material for filtering at least one contaminated fluid, said method comprising: suspending carbon nanotubes and glass fibers in a carrier fluid to form a mixture, inducing said mixture to flow through a substrate that is permeable to said carrier fluid and said contaminated fluid by differential pressure filtration, and depositing said carbon nanotubes from said mixture onto said substrate to form a nanostructured material.
+</P>
+<P>
+40. The method of claim 39, wherein said glass fibers are coated with metal-oxygen compounds chosen from metal hydroxide Mx(OH)y, oxyhydroxides MxOy(O H )z, oxide MxOy, oxy-, hydroxy-, oxyhydroxy salts MxOy(OH)2An.
+</P>
+<P>
+41. The method of claim 40, wherein M is at least one cation chosen from Magnesium, Aluminum, Calcium, Titanium, Manganese, Iron, Cobalt, Nickel, Copper, Zinc or combination of thereof.
+</P>
+<P>
+42. The method of claim 40, wherein A is at least one anion chosen from Hydride, Fluoride, Chloride, Bromide, Iodide, Oxide, Sulfide, Nitride, Sulfate, Thiosulfate, Sulfite, Perchlorate, Chlorate, Chlorite, Hypochlorite, Carbonate, Phosphate, Nitrate, Nitrite, lodate, Bromate, Hypobromite, Boron, or combination of thereof.
+</P>
+<P>
+43. The method of claim 39, wherein said method is operated in a continuous or semi-continuous manner to form a nanostructured material having a length ranging from 1 meter to 1000 meters.
+</P>
+<P>
+44. The method of claim 39, wherein said method is operated in a batch manner to form a nanostructured material that is a sheet and has at least one dimension ranging from 1 cm to 1 meter.
+</P>
+<P>
+45. The method of claim 39, wherein said method is operated in a batch manner to form a nanostructured material having a tubular shape.
+</P>
+<P>
+46. The method of claim 39, wherein said inducing comprises applying a vacuum to the opposite side of the substrate on which the nanostructured material is deposited.
+</P>
+<P>
+47. The method of claim 39, wherein said fluid comprises:
+</P>
+<P>
+(a) a liquid chosen from water, petroleum and its byproducts, biological fluids, foodstuffs, alcoholic beverages, and pharmaceuticals,
+</P>
+<P>
+(b) a gas chosen from air, industrial gases, and exhaust from a vehicle, smoke stack, chimney, or cigarette, wherein said industrial gases comprise argon, nitrogen, helium, ammonia, and carbon dioxide; or combinations of (a) and (b).
+</P>
+</Claims>
+<Also_published_as>
+WO2007149109A2;WO2007149109A3;SG165338A1;KR20080065270A;JP2009506973A;CN101351594A
+</Also_published_as>
+</BiblioData>

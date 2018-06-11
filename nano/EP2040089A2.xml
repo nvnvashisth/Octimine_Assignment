@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+A magnetic tunnel junction (MTJ) based magnetic field angle sensor
+</Title>
+<PublicationNumber>
+EP2040089A2
+</PublicationNumber>
+<Inventor>
+<Name>
+GUO YIMIN [US]
+</Name>
+<Name>
+WANG PO-KANG [US]
+</Name>
+<Name>
+GUO, YIMIN
+</Name>
+<Name>
+WANG, PO-KANG
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+MAGIC TECHNOLOGIES INC [US]
+</Name>
+<Name>
+MAGIC TECHNOLOGIES INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2040089
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080392004
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-04-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+US20070799706
+</PriorityNumber>
+<PriorityDate>
+2007-05-02
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G01R33/09
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y25/00
+</Class>
+<Class>
+G01R33/09B
+</Class>
+<Class>
+G01R33/09T
+</Class>
+</NCL>
+<Abstract>
+A magnetic field angle sensor for measurement of a magnetic field angle over a 360 DEG  range has magnetic tunnel junction elements oriented at multiple angles. The magnetic field angle sensor includes multiple magnetic tunnel junction elements formed on a substrate that have an anti-ferromagnetic layer and pinned synthetic multiple layer. The magnetic tunnel junction elements are patterned to have a large dimensional aspect ratio and large anisotropies the pinned synthetic multiple layer of the magnetic tunnel junction elements.;  The magnetic tunnel junction elements are annealed in the presence of a strong magnetic field in a direction of the reference axis and the annealed for a second time with no external magnetic field so that exchange pinning is reduced and strong stress induced anisotropies of the pinned synthetic multiple layer align magnetization of the pinned synthetic multiple layer align a long axis of each of the magnetic tunnel junction elements.
+</Abstract>
+<Claims>
+<P>
+1. A magnetic field angle sensor for measurement of a magnetic field angle over a 360[deg.] range of measurement, said magnetic field angle sensor comprising:
+</P>
+<P>
+a plurality of magnetic tunnel junction elements formed on a substrate, each magnetic tunnel junction element comprising:
+</P>
+<P>
+an anti-ferromagnetic material deposited on a bottom electrode formed on said substrate; and
+</P>
+<P>
+a pinned synthetic multiple layer formed on said antiferromagnetic material;wherein said plurality of magnetic tunnel junction elements are annealed for a first time in the presence of a strong magnetic field in a direction of the reference axis;
+</P>
+<P>
+wherein said plurality of magnetic tunnel junction elements are then patterned such that each magnetic tunnel junction element has a large dimensional aspect ratio and has large anisotropies in each of said pinned synthetic multiple layer of said plurality of magnetic tunnel junction elements; and
+</P>
+<P>
+said plurality of magnetic tunnel junction elements is annealed for a second time with no external magnetic field so that exchange pinning is reduced during said annealing and strong stress induced anisotropies of said pinned synthetic multiple layer align magnetization of said pinned synthetic multiple layer align a long axis of each of said plurality of magnetic tunnel junction elements.
+</P>
+<P>
+2. The magnetic field angle sensor of claim 1 wherein a first type of said plurality of magnetic tunnel junction elements are oriented to have their long axis placed at a first angle from said direction of the reference axis, a second type of said plurality of magnetic tunnel junction elements are oriented to have their long axis placed at parallel to said direction of the reference axis, and a third type of said plurality of magnetic tunnel junction elements are oriented to have their long axis placed at a second angle from said direction of the reference axis.
+</P>
+<P>
+3. The magnetic field angle sensor of claim 2 wherein said first angle has an absolute value equal to said second angle and has an opposite sign to said second angle.
+</P>
+<P>
+4. The magnetic field angle sensor of claim 1 wherein said long axis of each of said plurality of magnetic tunnel junction elements are perpendicular to a top electrode and a bottom electrode connected to each of the plurality of magnetic tunnel junction elements.
+</P>
+<P>
+5. The magnetic field angle sensor of claim 1 wherein a grouping of said plurality of said magnetic tunnel junction elements are connected in parallel between a top electrode and said bottom electrode such that said top electrode and said bottom electrode are patterned to have a large dimensional aspect ratio such that said top electrode and said bottom electrode have length dimensions oriented perpendicular to a long dimension of each of said grouping of said plurality of said magnetic tunnel junction elements.
+</P>
+<P>
+6. The magnetic field angle sensor of claim 1 wherein said long axis of each of said plurality of magnetic tunnel junction elements are parallel to said top electrode and said bottom electrode connected to each of the plurality of magnetic tunnel junction elements.
+</P>
+<P>
+7. The magnetic field angle sensor of claim 2 wherein said plurality of magnetic tunnel junction elements are connected to form a first Wheatstone bridge and a second Wheatstone bridge such that in the presence of no external magnetic field a first differential measurement voltage level developed between a first pair of opposing terminals of said first Wheatstone bridge and a second differential measurement voltage level developed between a first pair of opposing terminals of said second Wheatstone bridge are zero volts.
+</P>
+<P>
+8. The magnetic field angle sensor of claim 8 wherein a first branch and a diagonally opposing fourth branch of said first Wheatstone bridge comprises at least one of said first type of magnetic tunnel junction elements and a second branch and a third branch of said first Wheatstone bridge connected to said first branch and said fourth branch comprises at least one of said third type of magnetic tunnel junction elements.
+</P>
+<P>
+9. The magnetic field angle sensor of claim 12 wherein a first branch and a diagonally opposing fourth branch of said second Wheatstone bridge comprises at least one of said first type of magnetic tunnel junction elements serially connected with at least one of said third type of magnetic tunnel junction elements and a second branch and a third branch of said second Wheatstone bridge connected to said first branch and said fourth branch comprises at least one of said second type of magnetic tunnel junction elements.
+</P>
+<P>
+10. The magnetic field angle sensor of claim 7 wherein a power supply voltage source is connected between a second pair of opposing terminals of each Wheatstone bridge to provide a biasing voltage for said two Wheatstone bridges.
+</P>
+<P>
+11. The magnetic field angle sensor of claim 7 wherein said first differential measurement voltage level and said second differential measurement voltage level are equalized to have approximately equivalent amplitude and said magnetic field angle is determined by the equation:
+</P>
+<P>
+where:
+</P>
+<P>
+[theta] is the magnetic field angle, and
+</P>
+<P>
+A is said equalized equivalent amplitude of the first and second differential measurement voltage levels.
+</P>
+<P>
+12. The magnetic field angle sensor of claim 1 wherein said anti-ferromagnetic material is selected from the group of anti-ferromagnetic materials consisting of IrMn, PtMn, FeMn, NiO, or any material having magnetically oriented anti-parallel sub-lattices.
+</P>
+<P>
+13. The magnetic field angle sensor of claim 1 wherein said pinned synthetic multiple layer comprises:
+</P>
+<P>
+a pinned magnetic layer of a soft magnetic material placed directly on said anti-ferromagnetic material,
+</P>
+<P>
+a nonmagnetic spacer layer placed on said pinned magnetic layer, and
+</P>
+<P>
+a reference layer having a large magnetostriction constant with a zero level or a positive magnitude and placed on said spacer layer.
+</P>
+<P>
+14. The magnetic field angle sensor of claim 1 wherein plurality of magnetic tunnel junction elements are annealed for said first time in the presence of a strong magnetic field in said direction of said reference axis is at a temperature of from approximately 200[deg.]C to approximately 300[deg.]C for a period of between 5 minutes and 100 minutes in the presence of a very large magnetic field of greater than approximately 1000 Gauss oriented in the direction of the reference axis.
+</P>
+<P>
+15. The magnetic field angle sensor of claim 1 wherein said magnetic tunnel junction elements are annealed a second time at a temperature of from approximately 200[deg.]C to approximately 250[deg.]C for a period of between 5 minutes and 100 minutes in the presence of no magnetic field.
+</P>
+<P>
+16. A magnetic tunnel junction element formed on a substrate responsive to a magnetic field angle perpendicular to a sensing current passing through said magnetic tunnel junction, comprising:
+</P>
+<P>
+- a plurality of magnetic tunnel junction elements formed on a substrate, each magnetic tunnel junction element comprising:
+</P>
+<P>
+- an anti-ferromagnetic material deposited on a bottom electrode formed on said substrate; and
+</P>
+<P>
+- a pinned synthetic multiple layer formed on said antiferromagnetic material;wherein said plurality of magnetic tunnel junction elements are annealed for a first time in the presence of a strong magnetic field in a direction of the reference axis;
+</P>
+<P>
+wherein said plurality of magnetic tunnel junction elements are then patterned such that each magnetic tunnel junction element has a large dimensional aspect ratio and has large anisotropies in each of said pinned synthetic multiple layer of said plurality of magnetic tunnel junction elements; and
+</P>
+<P>
+said plurality of magnetic tunnel junction elements is annealed for a second time with no external magnetic field so that exchange pinning is reduced during said annealing and strong stress induced anisotropies of said pinned synthetic multiple layer align magnetization of said pinned synthetic multiple layer align a long axis of each of said plurality of magnetic tunnel junctions.
+</P>
+<P>
+17. The magnetic tunnel junction element of claim 16 wherein a plurality of said magnetic tunnel junction elements are joined to form a magnetic field angle sensor for measurement of said magnetic field angle over a 360[deg.] range of measurement, wherein each of said plurality of magnetic tunnel junction elements is selectively oriented as:
+</P>
+<P>
+- a first type magnetic tunnel junction element having its long axis placed at a first angle from said direction of the reference axis; - a second type magnetic tunnel junction element having its long axis placed at a 0[deg.] from said direction of the reference axis; or
+</P>
+<P>
+- a third type magnetic tunnel junction element having its long axis placed at a second angle from said direction of the reference axis.
+</P>
+<P>
+18. The magnetic tunnel junction element of claim 17 wherein said first angle has an absolute value equal to said second angle and has an opposite sign to said second angle.
+</P>
+<P>
+19. The magnetic tunnel junction element of claim 16 wherein said absolute values for said first and second angles are from approximately 15[deg.] to approximately 65[deg.].
+</P>
+<P>
+20. The magnetic tunnel junction element of claim 17 wherein said long axis is perpendicular to a top electrode and a bottom electrode joining one grouping of said plurality of said magnetic tunnel junction elements to form a magnetic field angle sensor for measurement of a magnetic field angle over a 360[deg.] range of measurement.
+</P>
+<P>
+21. The magnetic tunnel junction element of claim 16 wherein a grouping of said plurality of said magnetic tunnel junction elements are connected in parallel between a top electrode and said bottom electrode such that said top electrode and said bottom electrode are patterned to have a large dimensional aspect ratio such that said top electrode and said bottom electrode have length dimensions oriented perpendicular to a long dimension of each of said grouping of said plurality of said magnetic tunnel junction elements.
+</P>
+<P>
+22. The magnetic tunnel junction element of claim 17 wherein said long axis is parallel to a top electrode and a bottom electrode joining one grouping said plurality of said magnetic tunnel junction elements to form a magnetic field angle sensor for measurement of a magnetic field angle over a 360[deg.] range of measurement.
+</P>
+<P>
+23. The magnetic tunnel junction element of claim 17 wherein said plurality of magnetic tunnel junction elements are connected to form a first Wheatstone bridge and a second Wheatstone bridge such that in the presence of no external magnetic field a first differential measurement voltage level developed between a first pair of opposing terminals of said first Wheatstone bridge and a second differential measurement voltage level developed between a first pair of opposing terminals of said second Wheatstone bridge are zero volts.
+</P>
+<P>
+24. The magnetic tunnel junction element of claim 23 wherein a first branch of said first Wheatstone bridge comprises at least one of said first type of magnetic tunnel junction elements.
+</P>
+<P>
+25. The magnetic tunnel junction element of claim 24 wherein a second branch of said first Wheatstone bridge connected to said first branch comprises at least one of said third type of magnetic tunnel junction elements.
+</P>
+<P>
+26. The magnetic tunnel junction element of claim 25 wherein a third branch of said first Wheatstone bridge comprises at least one of said third type of magnetic tunnel junction elements.
+</P>
+<P>
+27. The magnetic tunnel junction element of claim 26 wherein a fourth branch of said first Wheatstone bridge connected to said third branch comprises at least one of said first type of magnetic tunnel junction elements.
+</P>
+<P>
+28. The magnetic tunnel junction element of claim 27 wherein a first branch of said second Wheatstone bridge comprises at least one of said first type of magnetic tunnel junction elements serially connected with at least one of said third type of magnetic tunnel junction elements.
+</P>
+<P>
+29. The magnetic tunnel junction element of claim 28 wherein a second branch of said second Wheatstone bridge connected to said first branch comprises at least one of said second type of magnetic tunnel junction elements.
+</P>
+<P>
+30. The magnetic tunnel junction element of claim 29 wherein a third branch of said second Wheatstone bridge comprises at least one of said second type of magnetic tunnel junction elements.
+</P>
+<P>
+31. The magnetic tunnel junction element of claim 30 wherein a fourth branch of said second Wheatstone bridge connected to said third branch comprises at least one of said first type of magnetic tunnel junction elements serially connected with at least one of said third type of magnetic tunnel junction elements.
+</P>
+<P>
+32. The magnetic tunnel junction element of claim 23 wherein a power supply voltage source is connected between a second pair of opposing terminals of each Wheatstone bridge to provide a biasing voltage for said two Wheatstone bridges.
+</P>
+<P>
+33. The magnetic tunnel junction element of claim 23 wherein said first differential measurement voltage level and said second differential measurement voltage level are equalized to have approximately equivalent amplitude and said magnetic field angle is determined by the equation:
+</P>
+<P>
+where:
+</P>
+<P>
+[theta] is the magnetic field angle, and
+</P>
+<P>
+A is said equalized equivalent amplitude of the first and second differential measurement voltage levels.
+</P>
+<P>
+34. The magnetic tunnel junction element of claim 16 wherein said anti-ferromagnetic material is selected from the group of anti-ferromagnetic materials consisting of IrMn, PtMn, FeMn, NiO, and any material having magnetically oriented anti-parallel sub-lattices.
+</P>
+<P>
+35. The magnetic tunnel junction element of claim 16 wherein said pinned synthetic multiple layer comprises:
+</P>
+<P>
+a pinned magnetic layer placed directly on said anti-ferromagnetic material,
+</P>
+<P>
+a spacer layer placed on said pinned magnetic layer, and
+</P>
+<P>
+a reference layer placed on said spacer layer.
+</P>
+<P>
+36. The magnetic tunnel junction element of claim 33 wherein said pinned magnetic layer is a soft magnetic material with a first magnetostriction constant selected from a group of magnetostriction constants consisting of a magnetostriction constant approaching a zero level and a magnetostriction constant having a positive magnitude.
+</P>
+<P>
+37. The magnetic tunnel junction element of claim 36 wherein said soft magnetic material is selected from the group of soft magnetic materials consisting of Ni, Fe, Co, and B.
+</P>
+<P>
+38. The magnetic tunnel junction element of claim 35 wherein said spacer layer comprises a non-magnetic material.
+</P>
+<P>
+39. The magnetic tunnel junction element of claim 38 wherein said non-magnetic material is selected from the group of non-magnetic materials consisting of Ru, Rh, and Cr.
+</P>
+<P>
+40. The magnetic tunnel junction element of claim 35 wherein said reference layer comprises a material with a large magnetostriction constant.
+</P>
+<P>
+41. The magnetic tunnel junction element of claim 40 wherein said material with a large magnetostriction constant is selected from a group of materials consisting of CoFeB, CoFe and multiple layered structures of CoFeB and CoFe.
+</P>
+<P>
+42. The magnetic tunnel junction element of claim 16 wherein said plurality of magnetic tunnel junction elements are annealed for said first time is at a temperature of from approximately 200[deg.]C to approximately 300[deg.]C for a period of between 5 minutes and 100 minutes in the presence of a very large magnetic field of greater than approximately 1000 Gauss oriented in the direction of the reference axis (X).
+</P>
+<P>
+43. The magnetic tunnel junction element of claim 16 wherein said magnetic tunnel junction elements are annealed a second time at a temperature of from approximately 200[deg.]C to approximately 250[deg.]C for a period of between 5 minutes and 100 minutes in the presence of no magnetic field.
+</P>
+<P>
+44. A method for forming a magnetic field angle sensor for measurement of a magnetic field angle over a 360[deg.] range of measurement, said method comprising the steps of:
+</P>
+<P>
+forming a plurality of magnetic tunnel junction elements on a substrate by the steps of:
+</P>
+<P>
+depositing an anti-ferromagnetic material on a bottom electrode formed on said substrate;
+</P>
+<P>
+forming a pinned synthetic multiple layer formed on said antiferromagnetic material;
+</P>
+<P>
+annealing for a first time said anti-ferromagnetic in the presence of a strong magnetic field in a direction of the reference axis; and
+</P>
+<P>
+patterning said plurality of magnetic tunnel junction elements such that each magnetic tunnel junction element has a large dimensional aspect ratio and has large anisotropies in each of said pinned synthetic multiple layer of said plurality of magnetic tunnel junction elements; and
+</P>
+<P>
+annealing said plurality of magnetic tunnel junction elements for a second time with no external magnetic field so that exchange pinning is reduced during said annealing and strong stress induced anisotropies of said pinned synthetic multiple layer align magnetization of said pinned synthetic multiple layer align a long axis of each of said plurality of magnetic tunnel junction elements.
+</P>
+<P>
+45. The method of forming said magnetic field angle sensor of claim 44 further comprising the steps of:
+</P>
+<P>
+forming a first type of said plurality of magnetic tunnel junction elements by orienting a first grouping of said plurality of said magnetic tunnel junction elements to have their long axis placed at a first angle from said direction of the reference axis;
+</P>
+<P>
+forming a second type of said plurality of magnetic tunnel junction elements by orienting a second grouping of said plurality of said magnetic tunnel junction elements to have their long axis placed at a 0[deg.] from said direction of the reference axis, and
+</P>
+<P>
+forming a third type of said plurality of magnetic tunnel junction elements by orienting a third grouping of said plurality of said magnetic tunnel junction elements to have their long axis placed at a second angle from said direction of the reference axis.
+</P>
+<P>
+46. The method of forming said magnetic field angle sensor of claim 45 wherein said reference angle has an absolute value equal to said second angel and has an opposite sign to said second angle.
+</P>
+<P>
+47. The method of forming said magnetic field angle sensor of claim 46 wherein said absolute values for said first and second angles are from approximately 15[deg.] to approximately 65[deg.].
+</P>
+<P>
+48. The method of forming said magnetic field angle sensor of claim 44 wherein said long axis of each of said plurality of magnetic tunnel junction elements are perpendicular to a top electrode and a bottom electrode connected to each of the plurality of magnetic tunnel junction elements.
+</P>
+<P>
+49. The method of forming said magnetic field angle sensor of claim 44 wherein said long axis of each of said plurality of magnetic tunnel junction elements are parallel to said top electrode and said bottom electrode connected to each of the plurality of magnetic tunnel junction elements.
+</P>
+<P>
+50. The method of forming said magnetic field angle sensor of claim 45 further comprising the steps of:
+</P>
+<P>
+connecting a grouping of said plurality of said magnetic tunnel junction elements in parallel between a top electrode and said bottom electrode; and
+</P>
+<P>
+patterning said top electrode and said bottom electrode to have a large dimensional aspect ratio such that said top electrode and said bottom electrode have length dimensions oriented perpendicular to a long dimension of each of said grouping of said plurality of said magnetic tunnel junction elements.
+</P>
+<P>
+51. The method of forming said magnetic field angle sensor of claim 45 further comprising the step of connecting said plurality of magnetic tunnel junction elements to form a first Wheatstone bridge and a second Wheatstone bridge such that in a presence of no external magnetic field a first differential measurement voltage level developed between a first pair of opposing terminals of said first Wheatstone bridge and a second differential measurement voltage level developed between a first pair of opposing terminals of said second Wheatstone bridge are zero volts.
+</P>
+<P>
+52. The method of forming said magnetic field angle sensor of claim 51 wherein a first branch of said first Wheatstone bridge comprises at least one of said first type of magnetic tunnel junction elements.
+</P>
+<P>
+53. The method of forming said magnetic field angle sensor of claim 52 wherein a second branch of said first Wheatstone bridge connected to said first branch comprises at least one of said third type of magnetic tunnel junction elements.
+</P>
+<P>
+54. The method of forming said magnetic field angle sensor of claim 53 wherein a third branch of said first Wheatstone bridge comprises at least one of said third type of magnetic tunnel junction elements.
+</P>
+<P>
+55. The method of forming said magnetic field angle sensor of claim 54 wherein a fourth branch of said first Wheatstone bridge connected to said third branch comprises at least one of said first type of magnetic tunnel junction elements.
+</P>
+<P>
+56. The method of forming said magnetic field angle sensor of claim 54 wherein a first branch of said second Wheatstone bridge comprises at least one of said first type of magnetic tunnel junction elements serially connected with at least one of said third type of magnetic tunnel junction elements.
+</P>
+<P>
+57. The method of forming said magnetic field angle sensor of claim 56 wherein a second branch of said second Wheatstone bridge connected to said first branch comprises at least one of said second type of magnetic tunnel junction elements.
+</P>
+<P>
+58. The method of forming said magnetic field angle sensor of claim 57 wherein a third branch of said second Wheatstone bridge comprises at least one of said second type of magnetic tunnel junction elements.
+</P>
+<P>
+59. The method of forming said magnetic field angle sensor of claim 58 wherein a fourth branch of said second Wheatstone bridge connected to said third branch comprises at least one of said first type of magnetic tunnel junction elements serially connected with at least one of said third type of magnetic tunnel junction elements.
+</P>
+<P>
+60. The method of forming said magnetic field angle sensor of claim 51 further comprising the step of connecting a power supply voltage source between a second pair of opposing terminals of each Wheatstone bridge to provide a biasing voltage for said two Wheatstone bridges.
+</P>
+<P>
+61. The method of forming said magnetic field angle sensor of claim 51 further comprising the steps of:
+</P>
+<P>
+equalizing said first differential measurement voltage level and said second differential measurement voltage level to have approximately equivalent amplitude; and
+</P>
+<P>
+determining said magnetic field angle by the equation:
+</P>
+<P>
+where:
+</P>
+<P>
+[theta] is the magnetic field angle, and
+</P>
+<P>
+A is said equalized equivalent amplitude of the first and second differential measurement voltage levels.
+</P>
+<P>
+62. The method of forming said magnetic field angle sensor of claim 44 wherein said anti-ferromagnetic material is selected from the group of anti-ferromagnetic materials consisting of IrMn, PtMn, FeMn, NiO, and any material having magnetically oriented anti-parallel sub-lattices.
+</P>
+<P>
+63. The method of forming said magnetic field angle sensor of claim 44 wherein forming said pinned synthetic multiple layer comprises the steps of:
+</P>
+<P>
+depositing a pinned magnetic layer directly on said anti-ferromagnetic material,
+</P>
+<P>
+depositing a spacer layer on said pinned magnetic layer, and
+</P>
+<P>
+depositing a reference layer on said spacer layer.
+</P>
+<P>
+64. The method of forming said magnetic field angle sensor of claim 63 wherein said pinned magnetic layer is a soft magnetic material with a first magnetostriction constant selected from a group of magnetostriction constants consisting of a magnetostriction constant approaching a zero level and a magnetostriction constant having a positive magnitude.
+</P>
+<P>
+65. The method of forming said magnetic field angle sensor of claim 64 wherein said soft magnetic material is selected from the group of soft magnetic materials consisting of Ni, Fe, Co, and B.
+</P>
+<P>
+66. The method of forming said magnetic field angle sensor of claim 63 wherein said spacer layer comprises a non-magnetic material.
+</P>
+<P>
+67. The method of forming said magnetic field angle sensor of claim 66 wherein said non-magnetic material is selected from the group of non-magnetic materials consisting of Ru, Rh, and Cr.
+</P>
+<P>
+68. The method of forming said magnetic field angle sensor of claim 63 wherein said reference layer comprises a material with a large magnetostriction constant.
+</P>
+<P>
+69. The method of forming said magnetic field angle sensor of claim 68 wherein said material with a large magnetostriction constant is selected from a group of materials consisting of CoFeB, CoFe and multiple layered structures of CoFeB and CoFe.
+</P>
+<P>
+70. The method of forming said magnetic field angle sensor of claim 43 wherein annealing said plurality of magnetic tunnel junction elements for said first time comprises the steps of:
+</P>
+<P>
+setting said plurality of magnetic tunnel junction elements at a temperature of from approximately 200[deg.]C to approximately 300[deg.]C for a period of between 5 minutes and 100 minutes; and
+</P>
+<P>
+placing said plurality of magnetic tunnel junction elements in the presence of a very large magnetic field of greater than approximately 100 Gauss oriented in the direction of the reference axis (X).
+</P>
+<P>
+71. The method of forming said magnetic field angle sensor of claim 42 wherein annealing said plurality of said magnetic tunnel junction elements a second time comprises the steps of:
+</P>
+<P>
+setting said plurality of said magnetic tunnel junction elements at a temperature of from approximately 200[deg.]C to approximately 250[deg.]C for a period of between 5 minutes and 1000 minutes in the presence of no magnetic field.
+</P>
+</Claims>
+<Also_published_as>
+EP2040089A3;EP2040089B1;US2008272771A1;US7635974B2;JP2008277834A;EP2458395A1;AT543104T
+</Also_published_as>
+</BiblioData>

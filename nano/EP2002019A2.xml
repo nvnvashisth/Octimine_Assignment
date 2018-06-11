@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+ARTICLES HAVING LOCALIZED MOLECULES DISPOSED THEREON AND METHODS OF PRODUCING SAME
+</Title>
+<PublicationNumber>
+EP2002019A2
+</PublicationNumber>
+<Inventor>
+<Name>
+RANK DAVID R [US]
+</Name>
+<Name>
+WEGENER JEFFERY [US]
+</Name>
+<Name>
+KORLACH JONAS [US]
+</Name>
+<Name>
+ROITMAN DANIEL [US]
+</Name>
+<Name>
+XU YUE [US]
+</Name>
+<Name>
+LYLE JOHN [US]
+</Name>
+<Name>
+TURNER STEPHEN [US]
+</Name>
+<Name>
+PELUSO PAUL [US]
+</Name>
+<Name>
+OTTO GEOFF [US]
+</Name>
+<Name>
+CICERO RONALD L [US]
+</Name>
+<Name>
+RANK, DAVID, R
+</Name>
+<Name>
+WEGENER, JEFFERY
+</Name>
+<Name>
+KORLACH, JONAS
+</Name>
+<Name>
+ROITMAN, DANIEL
+</Name>
+<Name>
+XU, YUE
+</Name>
+<Name>
+LYLE, JOHN
+</Name>
+<Name>
+TURNER, STEPHEN
+</Name>
+<Name>
+PELUSO, PAUL
+</Name>
+<Name>
+OTTO, GEOFF
+</Name>
+<Name>
+CICERO, RONALD, L
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+PACIFIC BIOSCIENCES CALIFORNIA [US]
+</Name>
+<Name>
+PACIFIC BIOSCIENCES OF CALIFORNIA, INC
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2002019
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070754529
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-03-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007US08019
+</PriorityNumber>
+<PriorityDate>
+2007-03-29
+</PriorityDate>
+<PriorityNumber>
+US20060394352
+</PriorityNumber>
+<PriorityDate>
+2006-03-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+C12N11/00
+</Class>
+<Class>
+C40B40/04
+</Class>
+</IPC>
+<NCL>
+<Class>
+B01J19/00C
+</Class>
+<Class>
+B82Y20/00
+</Class>
+<Class>
+B82Y30/00
+</Class>
+<Class>
+C12Q1/68B10A
+</Class>
+</NCL>
+<Abstract>
+Methods of producing substrates having selected active chemical regions by employing elements of the substrates in assisting the localization of active chemical groups in desired regions of the substrate. The methods may include optical, chemical and/or mechanical processes for the deposition, removal, activation and/or deactivation of chemical groups in selected regions of the substrate to provide selective active regions of the substrate.
+</Abstract>
+<Claims>
+<P>
+What is claimed:
+</P>
+<P>
+1. A method of producing a substrate having selectively active regions thereon, comprising:
+</P>
+<P>
+providing a substrate having a plurality of nanostructures defined thereon, wherein each of the nanostructures limits an ability of a first activation controlling agent to provide active chemical groups on selected portions of a surface of the substrate; and
+</P>
+<P>
+exposing the substrate to at least the first activation controlling agent to selectively provide active chemical groups on the selected portions of a surface of the substrate.
+</P>
+<P>
+2. The method of claim 1, wherein the nanostructures substantially prevent the selected portions of the surface of the substrate from being exposed to the first activation controlling agent.
+</P>
+<P>
+3. The method of claim 1, wherein the nanostructures substantially prevent portions of the substrate surface other than the selected portions from being exposed to the first activation controlling agent.
+</P>
+<P>
+4. The method of claim 3, wherein the providing step comprises providing activatable chemical functional groups on the surface of the substrate, and the first activation controlling agent activates the chemical functional groups on the selected portions of the surface of the substrate.
+</P>
+<P>
+5. The method of claim 2, wherein the providing step comprises providing deactivatable chemical functional groups on the surface of the substrate, and the first activation controlling agent deactivates the chemical functional groups on portions of the surface of the substrate other than on the selected portions.
+</P>
+<P>
+6. The method of claim 1, wherein the nanostructures comprise nanoscale wells disposed in the surface of the substrate.
+</P>
+<P>
+7. The method of claim 1, wherein the nanostructures comprise nanoscale optical apertures disposed in an otherwise opaque substrate.
+</P>
+<P>
+8. The method of claim 1, wherein the providing step comprises providing chemical functional groups on the surface of the substrate, wherein the chemical functional groups are activated or deactivated upon exposure to the activation controlling agent.
+</P>
+<P>
+9. The method of claim 1, wherein:
+</P>
+<P>
+the nanostructures comprise nanoscale wells, where the selected regions comprise bottom surfaces of the nanoscale wells;
+</P>
+<P>
+the activation controlling agent comprises an entraining matrix that entrains chemical functional groups and does not substantially diffuse into the nanoscale wells; and
+</P>
+<P>
+further comprising the step of removing the entraining matrix to remove chemical functional groups from portions of the surface of the substrate other than within the selected regions.
+</P>
+<P>
+10. The method of claim 1, wherein the first activation controlling agent comprises light at a wavelength selected to activate or deactivate the chemical functional groups.
+</P>
+<P>
+11. The method of claim 10, wherein the light is selected to activate the chemical functional groups, and the nanostructures substantially prevent portions of the substrate surface other than the selected portions from being exposed to the first activation controlling agent.
+</P>
+<P>
+12. The method of claim 10, wherein the chemical functional groups comprise photoactivatable groups selected from nitroveratryl, 1-pyrenylmethyl, 6-nitroveratryloxycarbonyl, dimethyldimethoxybenzyloxycarbonyl, 2-nitrobenzyloxycarbonyl, methyl, methyl-6-nitropiperonyloxycarbonyl, 2-oxymethylene anthraquinone, dimethoxybenzyloxy carbonyl, 5-bromo-7-nitroindolinyl, o-hydroxy-alpha-methyl cinnamoyl, and mixtures thereof.
+</P>
+<P>
+13. The method of claim 10, wherein the light is selected to deactivate the chemical functional groups, and the nanostructures substantially prevent the selected portions of the surface of the substrate from being exposed to the first activation controlling agent.
+</P>
+<P>
+14. The method of claim 13, wherein the chemical functional groups are coupled to the surface of the substrate through a photocleavable linking group.
+</P>
+<P>
+15. The method of claim 10, wherein:
+</P>
+<P>
+the chemical functional groups comprise first activatable chemical functional groups;
+</P>
+<P>
+the first activation controlling agent comprises light at a wavelength selected to activate the first activatable chemical functional groups;
+</P>
+<P>
+the substrate comprises an opaque layer and a transparent layer;
+</P>
+<P>
+the nanostructures comprise zero mode waveguides disposed through the opaque layer to the transparent layer; and
+</P>
+<P>
+the exposing step comprises directing the light at the transparent layer of the substrate to activate the first activatable chemical functional groups to provide first active chemical functional groups within the zero mode waveguides that are on or proximal to the transparent layer.
+</P>
+<P>
+16. The method of claim 15, further comprising:
+</P>
+<P>
+capping the first active chemical functional groups provided in the exposing step, to provide a second activatable chemical functional groups that are activatable by light of a different wavelength than the light in the exposing step; and
+</P>
+<P>
+directing light at the transparent layer of the substrate, wherein the light is at a wavelength selected to activate the second activatable chemical functional groups but not the first activatable chemical functional groups;
+</P>
+<P>
+wherein the directing step is carried out under conditions to activate a portion of the chemical functional groups activated in the first exposing step.
+</P>
+<P>
+17. The method of claim 10, wherein:
+</P>
+<P>
+the chemical functional groups comprise deactivatable chemical functional groups;
+</P>
+<P>
+the first activation controlling agent comprises light at a wavelength selected to deactivate the deactivatable chemical functional groups;
+</P>
+<P>
+the substrate comprises an opaque layer and a transparent layer;
+</P>
+<P>
+the nanostructures comprise zero mode waveguides disposed through the opaque layer to the transparent layer; and
+</P>
+<P>
+the exposing step comprises directing the light at the opaque layer of the substrate to deactivate chemical functional groups on the opaque layer.
+</P>
+<P>
+18. The method of claim 17, wherein the deactivatable chemical functional groups comprise active chemical functional groups coupled to the surface of the substrate through a photocleavable linking group.
+</P>
+<P>
+19. The method of claim 17, wherein the deactivatable chemical functional groups comprise proteins that are at least partially inactivated by exposure to the light in the exposing step.
+</P>
+<P>
+20. The method of claim 19, wherein the deactivatable chemical functional groups comprise fluorophore binding proteins, and the exposing step is carried out in the presence of the fluorophore.
+</P>
+<P>
+21. The method of claim 20, wherein the fluorophore binding protein comprises a nucleic acid polymerase.
+</P>
+<P>
+22. The method of claim 1, wherein the first activation controlling agent comprises a chemical agent that activates or deactivates the chemical functional groups.
+</P>
+<P>
+23. The method of claim 22, wherein:
+</P>
+<P>
+the first activation controlling agent comprises a chemical agent that deactivates the chemical functional groups;
+</P>
+<P>
+the nanostructures comprise nanoscale wells defined in the surface of the substrate that limit diffusion of the chemical agent into the nanoscale wells; and
+</P>
+<P>
+the exposing step comprises exposing the substrate to the chemical agent under conditions to deactivate chemical functional groups on surfaces of the substrate other than a portion of the surfaces at or proximal to a bottom surface of the nanoscale wells.
+</P>
+<P>
+24. The method of claim 22, wherein the chemical agent comprises a capping group that binds to chemical functional groups to render them inactive.
+</P>
+<P>
+25. The method of claim 22, wherein the chemical agent is coupled to an exclusionary component that is at least partially excluded from entering into the nanoscale wells.
+</P>
+<P>
+26. The method of claim 25, wherein the exclusionary component is selected from a large particle, and a macromolecule.
+</P>
+<P>
+27. The method of claim 26, wherein the particle comprises a bead.
+</P>
+<P>
+28. The method of claim 26, wherein the chemical agent comprises a deactivation component.
+</P>
+<P>
+29. The method of claim 28, wherein the deactivation component comprises an enzyme.
+</P>
+<P>
+30. The method of claim 29, wherein the enzyme is selected from a protease, a nuclease, and a carbohydrase.
+</P>
+<P>
+31. A method of preparing an analytical substrate having selected active regions thereon, comprising:
+</P>
+<P>
+providing a substrate having an optical analysis structure disposed thereon, the optical analysis structure providing enhanced optical access to selected regions of the substrate;
+</P>
+<P>
+providing surface functional groups capable of being activated or deactivated by a first electromagnetic radiation;
+</P>
+<P>
+directing the first electromagnetic radiation at the substrate whereby the optical analysis structure directs the electromagnetic radiation to selectively activate or deactivate the surface functional groups in the selected regions of the substrate to provide selectively active regions of the substrate.
+</P>
+<P>
+32. A method of providing a zero mode waveguide having an active chemical surface substantially at a bottom portion of the waveguide, comprising:
+</P>
+<P>
+providing a zero mode waveguide disposed in a substrate;
+</P>
+<P>
+providing functional chemical groups on surfaces of the zero mode waveguide; and
+</P>
+<P>
+exposing first portions, but not second portions of the surfaces of the zero mode waveguide to an activation controlling agent that selectively activates or deactivates the functional chemical groups on the first portions to provide an active chemical surface substantially at a bottom portion of the zero mode waveguide.
+</P>
+<P>
+33. A zero mode waveguide array, comprising:
+</P>
+<P>
+a plurality of zero mode waveguide cores disposed in a cladding layer, each core having a bottom surface; and
+</P>
+<P>
+a chemically active surface substantially only within the cores.
+</P>
+<P>
+34. The array of claim 33, wherein the chemically active surface is preferentially localized on the bottom surface of the cores.
+</P>
+<P>
+35. A method of providing a substrate having selected active regions disposed thereon, comprising:
+</P>
+<P>
+providing a substrate having an optical enhancement structure defined thereon, the optical enhancement structure being capable of directing electromagnetic radiation to provide an enhanced electromagnetic field proximal to a selected region of the substrate surface sufficient to create a trapping force proximal to the selected region;
+</P>
+<P>
+directing electromagnetic radiation at the substrate to provide the enhanced electromagnetic field at the selected region sufficient to create a trapping force upon an active molecule proximal to the selected region; and
+</P>
+<P>
+coupling the active molecule to the selected region.
+</P>
+<P>
+36. A method of producing a substrate having selected active regions disposed thereon, comprising:
+</P>
+<P>
+providing a substrate having a surface comprised of chemical functional groups, and a plurality of discrete nanoscale reaction regions defined thereon; and
+</P>
+<P>
+patterning one or more of a chemical functional group or an activation controlling agent onto the surface in selected regions to provide active chemical functional regions substantially only in the discrete nanoscale reaction regions.
+</P>
+<P>
+37. The method of claim 36, wherein the patterning comprises directing an activation controlling agent through a mask to yield active chemical functional groups substantially only in the discrete nanoscale reaction regions.
+</P>
+<P>
+38. The method of claim 37, wherein the activation controlling agent comprises light at a wavelength selected to activate or deactivate functional chemical groups on the surface of the substrate.
+</P>
+<P>
+39. The method of claim 36, wherein the patterning comprises applying the activation controlling agent through a printing process.
+</P>
+<P>
+40. A method of identifying a sequence of a nucleic acid molecule, comprising:
+</P>
+<P>
+providing a plurality of nucleic acid polymerase/template/primer complexes within discrete observation regions on a substrate, and detecting sequential addition of nucleotides or nucleotide analogs in a template dependent manner to identify a sequence of incorporation of the nucleotides or nucleotide analogs in the plurality of observation regions;
+</P>
+<P>
+wherein the substrate has been prepared to substantially reduce one or more of polymerase activity, polymerase presence, template presence and primer presence in regions outside of the observation regions.
+</P>
+<P>
+41. A method of identifying a sequence of a nucleic acid molecule, comprising:
+</P>
+<P>
+providing a plurality of nucleic acid polymerase/template/primer complexes within discrete observation regions on a substrate surface, and detecting sequential addition of nucleotides or nucleotide analogs in a template dependent manner to identify a sequence of incorporation of the nucleotides or nucleotide analogs in the plurality of observation regions;
+</P>
+<P>
+providing an intra-observation region barrier upon the substrate surface between at least first and second discrete observation regions to substantially prevent intra-observation region diffusion of one or more reactants or products.
+</P>
+<P>
+42. The method of claim 41, wherein the barrier comprises a first fluid and sufficient distance between the first and second observation regions to substantially prevent one or more products or reactants from the first observation region from reaching the second observation region.
+</P>
+<P>
+43. The method of claim 42, wherein the substrate surface is planar.
+</P>
+<P>
+44. The method of claim 42, wherein the substrate surface is structured.
+</P>
+<P>
+45. The method of claim 44, wherein the barrier further comprises at least first and second nanoscale wells disposed in the substrate surface, wherein the first and second observation regions are disposed within the first and second nanoscale wells, respectively.
+</P>
+<P>
+46. A method of preferentially localizing desired molecules within an optical confinement disposed upon a substrate, comprising:
+</P>
+<P>
+depositing the desired molecules over the surface of the substrate; and
+</P>
+<P>
+selectively removing the desired molecules from the surface of the substrate that is not within the optical confinement.
+</P>
+<P>
+47. A method of localizing a molecule within an optical confinement disposed on a substrate, comprising:
+</P>
+<P>
+providing a light activated coupling group on the surface of the substrate, including within the optical confinement;
+</P>
+<P>
+directing activating radiation at the substrate, wherein the optical confinement permits activation radiation to be incident only within the optical confinement; and
+</P>
+<P>
+coupling the molecule to the light activated coupling group.
+</P>
+<P>
+48. A method of selectively immobilizing a molecule of interest on a substrate, comprising:
+</P>
+<P>
+providing a substrate having a first surface component and a second surface component where the first and second surface component have different surface characteristics; and
+</P>
+<P>
+selectively coupling the molecule of interest to the first surface component, based upon a difference between the surface characteristics of the first surface component and the surface characteristics of the second surface component.
+</P>
+<P>
+49. The method of claim 48, wherein first surface comprises a SiO2 and the second surface comprises a metal or metal oxide.
+</P>
+<P>
+50. The method of claim 48, wherein the differing surface characteristics comprise surface charge.
+</P>
+<P>
+51. The method of claim 48, wherein the molecule of interest associates preferentially to the first surface component.
+</P>
+<P>
+52. The method of claim 48, wherein the substrate is contacted with an intermediate coupling group that is selective for associating with a surface having the surface characteristics of the first surface component.
+</P>
+<P>
+53. The method of claim 52, wherein the intermediate binding molecule comprises a phospholipid.
+</P>
+<P>
+54. A method of selectively depositing a molecule of interest on selected regions of a substrate, comprising:
+</P>
+<P>
+providing a substrate having first and second components, the first component comprising a conductive material and the second component comprising an insulator; and
+</P>
+<P>
+applying an electrical potential to the first component so as to increase or decrease association of a molecule of interest with a surface of the first component.
+</P>
+</Claims>
+<Also_published_as>
+EP2002019A4;EP2002019B1;US2007238679A1;WO2007123763A2;WO2007123763A3;US2008153100A1;US2008176769A1;US8193123B2;US2008032301A1;JP2009532032A;DK2002019T3;CN102212515A;CN101426910A;CA2645758A1;AU2007241049A1;AT546522T
+</Also_published_as>
+</BiblioData>

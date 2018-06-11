@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+NANOWIRE GROWTH ON DISSIMILAR MATERIAL
+</Title>
+<PublicationNumber>
+EP2200934A1
+</PublicationNumber>
+<Inventor>
+<Name>
+SAMUELSON LARS [SE]
+</Name>
+<Name>
+OHLSSON JONAS [SE]
+</Name>
+<Name>
+MAARTENSSON THOMAS [SE]
+</Name>
+<Name>
+SVENSSON PATRIK [SE]
+</Name>
+<Name>
+SAMUELSON, LARS
+</Name>
+<Name>
+OHLSSON, JONAS
+</Name>
+<Name>
+MAARTENSSON, THOMAS
+</Name>
+<Name>
+SVENSSON, PATRIK
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+QUNANO AB [SE]
+</Name>
+<Name>
+QUNANO AB
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2200934
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20080843214
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2008-10-27
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2008SE51213
+</PriorityNumber>
+<PriorityDate>
+2008-10-27
+</PriorityDate>
+<PriorityNumber>
+SE20070002402
+</PriorityNumber>
+<PriorityDate>
+2007-10-26
+</PriorityDate>
+<PriorityNumber>
+SE20070002404
+</PriorityNumber>
+<PriorityDate>
+2007-10-26
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+B82B3/00
+</Class>
+<Class>
+H01L21/18
+</Class>
+<Class>
+H01L21/20
+</Class>
+<Class>
+H01L21/205
+</Class>
+<Class>
+H01L29/06
+</Class>
+<Class>
+H01L29/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B81C1/00C2T
+</Class>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+H01L21/02K4A1A3
+</Class>
+<Class>
+H01L21/02K4A7
+</Class>
+<Class>
+H01L21/02K4C1B
+</Class>
+<Class>
+H01L21/02K4C7
+</Class>
+<Class>
+H01L21/02K4E3S3S
+</Class>
+<Class>
+H01L21/02K4E3S8
+</Class>
+<Class>
+H01L29/06C6
+</Class>
+<Class>
+H01L29/06C6W2
+</Class>
+<Class>
+H01L29/06C6W4
+</Class>
+<Class>
+H01L29/06C6W6
+</Class>
+</NCL>
+<Abstract>
+The present invention relates to growth of III-V semiconductor nanowires (2) on a Si substrate(3). Controlled vertical nanowire growth is achieved by a step,to be taken prior of the growing of the nanowire, of providing group III or group V atoms to a (111) surface of the Si substrate to provide a groupIII or group V 5 surface termination (4).A nanostructured device comprising a plurality of aligned III-V semiconductor nanowires (2) grown on,and protruding from, a (111) surface of a Si substrate(3) in an ordered pattern in compliance with a predetermined device layoutis also presented.
+</Abstract>
+<Claims>
+<P>
+CLAIMS
+</P>
+<P>
+1. A method of producing a nanostructured device comprising the step of (1 10) growing at least one III-V semiconductor nanowire (2) from a surface of a Si substrate, the method characterized by a step of (100) providing group III or group V atoms to a (1 1 1) surface of the Si substrate (3) in order to provide a group III or group V surface termination (4), wherein the step of providing group III or group V atoms is to be taken prior to the step of growing of the III-V semiconductor nanowire (2) . 2. The method according to claim 1 , wherein the step of providing group III or group V atoms comprises the step of:
+</P>
+<P>
+-(120) providing a group III or group V material pre-flow at a predetermined elevated temperature to provide a group III or group V material-terminated Si(1 1 1) surface giving diffusion of the group III or group V material into a growth catalyst particle (10) /Si interface, and formation of a group III or group V material layer in the growth catalyst particle (510) /Si interface; and the method further comprises
+</P>
+<P>
+- (130) a short growth step at a high temperature to form a thin nucleation layer; and the step of - (140) lowering of the temperature to the temperature regime normally used for nanowire growth and performing axial nanowire growth. 3. The method according to claim 1 , wherein the method comprises the steps of:
+</P>
+<P>
+- providing Ga pre-flow at elevated temperature to provide a Ga-terminated Si(1 11) surface giving diffusion of the Ga (Ill-element) into a growth catalyst particle (10) /Si interface, and formation of a Ga layer in the growth catalyst particle (10) /Si interface;
+</P>
+<P>
+- a short growth step at a high temperature to form a thin GaP (11 1)B nucleation layer; and - lowering of the temperature to the temperature regime normally used for nanowire growth and performing axial nanowire growth. 4. The method according to claim 1 , wherein the method comprises the steps of:
+</P>
+<P>
+- providing In pre-flow at a predetermined elevated temperature to provide a In-terminated Si(1 1 1) surface giving diffusion of the In (Ill-element) into a growth catalyst particle (10) /Si interface, and formation of a In layer in the growth catalyst particle (10) /Si interface;
+</P>
+<P>
+- a short growth step at a high temperature to form a thin GaAs (11 1)B nucleation layer; and
+</P>
+<P>
+- lowering of the temperature to the temperature regime normally used for nanowire growth and performing axial nanowire growth.
+</P>
+<P>
+5. The method according to claim 1 or 2, further comprising the step of (150) growing a semiconductor coalescence layer (20) from III-V semiconductor nanowires.
+</P>
+<P>
+6. The method according to any of claims 1 to 5, wherein a plurality of nanowires (2) are grown on the (1 11) surface in an ordered pattern in compliance with a predetermined device layout.
+</P>
+<P>
+7. A nanostructured device comprising a plurality of semiconductor nanowires (2) grown on a (1 1 1) surface of a Si substrate (3), characterized in that substantially all nanowires (2) protrude perpendicular to the (1 1 1) surface. 8. The nanostructured device according to claim 7, wherein said substantially all nanowires (2) are grown in a (1 11)B direction.
+</P>
+<P>
+9. The nanostructured device according to claim 7 or 8, wherein the nanowires (2) are of III-V material.
+</P>
+<P>
+10. The nanostructured device according to any of claims 7 to 9, wherein the nanowires (2) are grown on the (1 11) surface in an ordered pattern in compliance with a predetermined device layout.
+</P>
+<P>
+1 1. The nanostructured device according to any of claims 7 to 10, wherein each nanowire (2) is positioned at a predetermined position on the (11 1) surface of the Si substrate (3). 12. The nanostructured device according to claim 1 1, wherein a positional deviation from the predetermined position is no more than half the diameter of the nanowire (2), preferably no more than 20% of the diameter of the nanowire (2), more preferably no more than 5% of the diameter of the nanowire (2), still more preferably no more than 1 % of the diameter (2).
+</P>
+<P>
+13. The nanostructured device according to any of the preceding claims, wherein at least 90%, preferably at least 95%, more preferably 99%, still more preferably 100% of the nanowires (2) protrude perpendicular to the
+</P>
+<P>
+(1 1 1) surface.
+</P>
+<P>
+14. The nanostructured device according to any of the preceding claims, wherein at least 90%, preferably at least 95%, more preferably 100% of said substantially all nanowires (2) have an angle a to the (1 1 1) surface of the Si substrate of 90[deg.]+-5[deg.].
+</P>
+<P>
+15. The nanostructured device according to any of the claims 1-13, wherein at least 90%, preferably at least 95%, more preferably 100% of said substantially all nanowires 2 have an angle a to the (1 1 1) surface of the Si substrate (3) of 90[deg.]+-2.5[deg.]. 16. The nanostructured device according to any of the preceding claims, wherein the nanowires (2) are grown on the (1 1 1) surface in a periodic pattern.
+</P>
+<P>
+17. The nanostructured device according to any of the preceding claims, further comprising a coalescence layer grown from the nanowires (2), wherein the coalescence layer is substantially single domain.
+</P>
+<P>
+18. An electronic or optoelectronic device comprising the nanostructured device according to any of the preceding claims.
+</P>
+<P>
+19. A photonic device comprising the nanostructured device according to any of claims 7 to 17. 20. A LED device comprising the nanostructured device according to any of claims 7 to 17, wherein the nanowire (2) is part of a LED structure comprising a pn or pin junction in order to produce light.
+</P>
+</Claims>
+<Also_published_as>
+WO2009054804A1;US2012145990A1;US2010252808A1;US8084337B2;KR20100087727A;CN101910050A
+</Also_published_as>
+</BiblioData>

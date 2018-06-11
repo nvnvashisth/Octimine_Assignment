@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+Non-volatile memory device and method of operating the same
+</Title>
+<PublicationNumber>
+EP1936681A1
+</PublicationNumber>
+<Inventor>
+<Name>
+HYUN JAE-WOONG [KR]
+</Name>
+<Name>
+PARK KYU-CHARN [KR]
+</Name>
+<Name>
+PARK YOON-DONG [KR]
+</Name>
+<Name>
+KIM WON-JOO [KR]
+</Name>
+<Name>
+JIN YOUNG-GU [KR]
+</Name>
+<Name>
+KIM SUK-PIL [KR]
+</Name>
+<Name>
+CHO KYOUNG-LAE [KR]
+</Name>
+<Name>
+LEE YUNG-HOON [KR]
+</Name>
+<Name>
+SONG SEUNG-HWAN [KR]
+</Name>
+<Name>
+HYUN, JAE-WOONG
+</Name>
+<Name>
+PARK, KYU-CHARN
+</Name>
+<Name>
+PARK, YOON-DONG
+</Name>
+<Name>
+KIM, WON-JOO
+</Name>
+<Name>
+JIN, YOUNG-GU
+</Name>
+<Name>
+KIM, SUK-PIL
+</Name>
+<Name>
+CHO, KYOUNG-LAE
+</Name>
+<Name>
+LEE, YUNG-HOON
+</Name>
+<Name>
+SONG, SEUNG-HWAN
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+SAMSUNG ELECTRONICS CO LTD [KR]
+</Name>
+<Name>
+SAMSUNG ELECTRONICS CO., LTD
+</Name>
+</Applicant>
+<RequestedPatent>
+EP1936681
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070122917
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-12-11
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+KR20060133093
+</PriorityNumber>
+<PriorityDate>
+2006-12-22
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11C16/04
+</Class>
+<Class>
+H01L21/8247
+</Class>
+<Class>
+H01L27/115
+</Class>
+<Class>
+H01L27/12
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11C16/04N
+</Class>
+<Class>
+H01L27/115
+</Class>
+<Class>
+H01L27/115F4
+</Class>
+<Class>
+H01L27/115F4N
+</Class>
+<Class>
+H01L27/115G4
+</Class>
+<Class>
+H01L27/12B
+</Class>
+</NCL>
+<Abstract>
+A highly integrated non-volatile memory device and a method of operating the non-volatile memory device are provided. The non-volatile memory device includes a semiconductor layer (110). A plurality of upper control gate electrodes (130a) are arranged above the semiconductor layer. A plurality of lower control gate electrodes (130b) are arranged below the semiconductor layer, and the plurality of upper control gate electrodes and the plurality of lower control gate electrodes are disposed alternately. A plurality of upper charge storage layers (120a) are interposed between the semiconductor layer and the upper control gate electrodes. A plurality of lower charge storage layers (120b) are interposed between the semiconductor layer and the lower control gate electrodes. The device can be used as a NAND structure.
+</Abstract>
+<Claims>
+<P>
+1. A non-volatile memory device comprising:
+</P>
+<P>
+at least one semiconductor layer;
+</P>
+<P>
+a plurality of upper control gate electrodes arranged above the at least one semiconductor layer;
+</P>
+<P>
+a plurality of lower control gate electrodes arranged below the at least one semiconductor layer, the plurality of upper control gate electrodes and the plurality of lower control gate electrodes being disposed alternately;
+</P>
+<P>
+a plurality of upper charge storage layers interposed between the at least one semiconductor layer and the upper control gate electrodes; and
+</P>
+<P>
+a plurality of lower charge storage layers interposed between the at least one semiconductor layer and the lower control gate electrodes.
+</P>
+<P>
+2. The non-volatile memory device of claim 1, further comprising:
+</P>
+<P>
+at least one string erase electrode electrically connected to the at least one semiconductor layer.
+</P>
+<P>
+3. The non-volatile memory device of claim 2, wherein the at least one string erase electrode is arranged on an outer side of one of the plurality of upper control gate electrodes and the plurality of lower control gate electrodes.
+</P>
+<P>
+4. The non-volatile memory device of any preceding claim, further comprising:
+</P>
+<P>
+at least one string selection electrode and at least one source selection electrode formed one of above and below the at least one semiconductor layer and arranged on both outer sides of the plurality of upper control gate electrodes and the plurality of lower control gate electrodes.
+</P>
+<P>
+5. The non-volatile memory device of claim 4, further comprising:
+</P>
+<P>
+at least one source and drain region defined in the at least one semiconductor layer on both sides of the at least one string selection electrode and the at least one source selection electrode.
+</P>
+<P>
+6. The non-volatile memory device of claim 5, wherein the at least one source and drain region is defined at a portion of the at least one semiconductor layer on the outer side of the plurality of upper control gate electrodes and the plurality of lower control gate electrodes.
+</P>
+<P>
+7. The non-volatile memory device of claim 5 or 6, wherein the at least one semiconductor layer is doped with impurities of a first conduction type and the at least one source and drain region is doped with impurities of a second conduction type opposite to the first conduction type.
+</P>
+<P>
+8. The non-volatile memory device of any preceding claim, wherein widths of each of the plurality of upper control gate electrodes and each of the plurality of lower control gate electrodes are equal.
+</P>
+<P>
+9. The non-volatile memory device of any preceding claim, wherein widths of each of the plurality of upper control gate electrodes and each of the plurality of lower control gate electrodes are equal to intervals between the upper control gate electrodes and the lower control gate electrodes.
+</P>
+<P>
+10. The non-volatile memory device of any preceding claim, further comprising:
+</P>
+<P>
+a plurality of upper tunneling insulation films interposed between the at least one semiconductor layer and the plurality of upper charge storage layers;
+</P>
+<P>
+a plurality of lower tunneling insulation films interposed between the at least one semiconductor layer and the plurality of lower charge storage layers;
+</P>
+<P>
+a plurality of upper blocking insulation films interposed between the plurality of upper charge storage layers and the plurality of upper control gate electrodes; and
+</P>
+<P>
+a plurality of lower blocking insulation films interposed between the plurality of lower charge storage layers and the plurality of lower control gate electrodes.
+</P>
+<P>
+11. The non-volatile memory device of any preceding claim, wherein the at least one semiconductor layer is used as a portion of at least one bit line and the plurality of upper control gate electrodes and the plurality of lower control gate electrodes are arranged in NAND structures.
+</P>
+<P>
+12. The non-volatile memory device of any preceding claim, wherein
+</P>
+<P>
+the at least one semiconductor layer is a plurality of semiconductor layers arranged in rows;
+</P>
+<P>
+the plurality of upper control gate electrodes are arranged in columns above the plurality of semiconductor layers;
+</P>
+<P>
+the plurality of lower control gate electrodes are arranged in columns below the plurality of semiconductor layers, and the plurality of upper control gate electrodes and the plurality of lower control gate electrode are disposed alternately;
+</P>
+<P>
+the plurality of upper charge storage layers are interposed between each of the plurality of semiconductor layers and the upper control gate electrodes; and
+</P>
+<P>
+the plurality of lower charge storage layers are interposed between each of the plurality of semiconductor layers and the lower control gate electrodes.
+</P>
+<P>
+13. The non-volatile memory device of claim 12, further comprising:
+</P>
+<P>
+a plurality of upper word lines connecting the plurality of upper control gate electrodes arranged in a same row; and
+</P>
+<P>
+a plurality of lower word lines connecting the plurality of lower control gate electrodes arranged in a same row.
+</P>
+<P>
+14. The non-volatile memory device of claim 12 or 13, further comprising:
+</P>
+<P>
+a plurality of string erase electrodes electrically connected to the plurality of semiconductor layers.
+</P>
+<P>
+15. The non-volatile memory device of claim 14, further comprising:
+</P>
+<P>
+a string erase line connecting the plurality of string erase electrodes.
+</P>
+<P>
+16. The non-volatile memory device of claim 14 or 15, further comprising:
+</P>
+<P>
+a common source line connecting ends of the plurality of semiconductor layers.
+</P>
+<P>
+17. A method of operating the non-volatile memory device of claim 1, the method comprising:
+</P>
+<P>
+selecting one of the plurality of upper and lower control gate electrodes for programming and programming data in one of the upper and lower charge storage layer corresponding to the one of the plurality of upper and lower control gate electrodes selected for programming by applying a program voltage to the selected one of the plurality of upper and lower control gate electrode; and
+</P>
+<P>
+selecting one of the plurality of upper and lower control gate electrodes for reading and reading the data from one of the upper and lower charge storage layer corresponding to the one of the plurality of upper and lower control gate electrodes selected for reading by applying a read voltage to the selected upper or lower control gate electrode.
+</P>
+<P>
+18. The method of claim 17, further comprising:
+</P>
+<P>
+applying a pass voltage to the plurality of upper and lower control gate electrodes not selected for programming during the programming of the data.
+</P>
+<P>
+19. The method of claim 17 or 18, further comprising:
+</P>
+<P>
+grounding a string erase electrode electrically connected to the semiconductor layer during the programming of the data.
+</P>
+<P>
+20. The method of claim 17, 18, or 19 further comprising:
+</P>
+<P>
+applying a pass voltage to the plurality of upper and lower control gate electrodes not selected for reading during the reading of the data; and
+</P>
+<P>
+measuring a current flowing through the semiconductor layer.
+</P>
+<P>
+21. The method of any of claims 17 to 20, further comprising:
+</P>
+<P>
+erasing data stored in the upper and lower charge storage layers substantially simultaneously by applying an erase voltage to a string erase electrode electrically connected to the semiconductor layer.
+</P>
+<P>
+22. The method of claim 21, further comprising:
+</P>
+<P>
+grounding the upper and lower control gate electrodes during the erasing.
+</P>
+</Claims>
+<Also_published_as>
+EP1936681B1;US2008151631A1;US7679960B2;KR20080058896A;JP2008160113A;CN101207136A;CN101207136B
+</Also_published_as>
+</BiblioData>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BiblioData DataBase="ESPACENET" Version="221" Datum="2012-07-14">
+<SubDatabase>
+espacenet
+</SubDatabase>
+<Title>
+MEMORY DATA WRITABLE AND READABLE BY MICROPOINTS, BOX STRUCTURES AND THE MANUFACTURING METHOD
+</Title>
+<PublicationNumber>
+EP2022050A1
+</PublicationNumber>
+<Inventor>
+<Name>
+GIDON SERGE [FR]
+</Name>
+<Name>
+GIDON, SERGE
+</Name>
+</Inventor>
+<Applicant>
+<Name>
+COMMISSARIAT ENERGIE ATOMIQUE [FR]
+</Name>
+<Name>
+COMMISSARIAT A L&apos;ENERGIE ATOMIQUE
+</Name>
+</Applicant>
+<RequestedPatent>
+EP2022050
+</RequestedPatent>
+<ApplicationElem>
+<Number>
+EP20070729586
+</Number>
+</ApplicationElem>
+<ApplicationDate>
+2007-05-29
+</ApplicationDate>
+<PriorityElem>
+<PriorityNumber>
+WO2007EP55163
+</PriorityNumber>
+<PriorityDate>
+2007-05-29
+</PriorityDate>
+<PriorityNumber>
+FR20060004809
+</PriorityNumber>
+<PriorityDate>
+2006-05-30
+</PriorityDate>
+</PriorityElem>
+<IPC>
+<Class>
+G11B9/04
+</Class>
+<Class>
+G11B9/14
+</Class>
+</IPC>
+<NCL>
+<Class>
+B82Y10/00
+</Class>
+<Class>
+G11B9/04
+</Class>
+<Class>
+G11B9/14R2
+</Class>
+<Class>
+G11B9/14R4
+</Class>
+<Class>
+H01L27/24
+</Class>
+<Class>
+H01L45/04
+</Class>
+</NCL>
+<Abstract>
+L&apos;invention concerne les mémoires de stockage de données, inscriptibles et lisibles par l&apos;intermédiaire d&apos;au moins une micropointe d&apos;écriture ou de lecture qui vient en contact avec une zone ponctuelle à inscrire ou à lire sur la surface d&apos;un substrat, soit pour changer l&apos;état physique de cette zone, en écriture ou effacement, soit pour déterminer l&apos;état physique de la zone, en lecture, la donnée stockée dans la zone étant définie par l&apos;état physique de la zone.;  Selon l&apos;invention, la surface du substrat est subdivisée en un ensemble d&apos;îlots individuels (75) d&apos;une couche d&apos;un premier matériau sensible susceptible de changer d&apos;état sous l&apos;action de la micropointe d&apos;écriture, chaque îlot (75) étant entouré d&apos;un caisson (80) formé par un deuxième matériau peu ou pas sensible à l&apos;action de la micropointe d&apos;écriture, ce deuxième matériau séparant complètement les îlots individuels les uns des autres. L&apos;organisation en îlots et en caissons peut être obtenue par photolithographie ou par une étape d&apos;auto-organisation de matériaux susceptibles de s&apos;agglomérer spontanément en îlots.
+</Abstract>
+<Claims>
+<P>
+REVENDICATIONS
+</P>
+<P>
+1. Mémoire de stockage de données, inscriptible et lisible par l&apos;intermédiaire d&apos;au moins une micropointe d&apos;écriture ou de lecture qui vient à proximité d&apos;une zone ponctuelle à inscrire ou à lire sur la surface d&apos;un substrat, soit pour changer l&apos;état physique de cette zone, en écriture ou effacement, soit pour déterminer l&apos;état physique de la zone, en lecture, la donnée stockée dans la zone étant définie par l&apos;état physique de la zone, caractérisée en ce que la surface du substrat est subdivisée en un ensemble d&apos;îlots individuels (75) d&apos;une couche d&apos;un premier matériau sensible susceptible de changer d&apos;état sous l&apos;action de la micropointe d&apos;écriture, chaque îlot (75) étant entouré d&apos;un caisson (80) formé par un deuxième matériau peu ou pas sensible à l&apos;action de la micropointe d&apos;écriture, ce deuxième matériau séparant complètement les îlots individuels les uns des autres.
+</P>
+<P>
+2. Mémoire selon la revendication 1, caractérisée en ce que le premier matériau sensible est constitué par un matériau à changement de phase contrôlable, notamment un composé à base de tellure Te ou d&apos;antimoine Sb ou de germanium Ge, tel que GeTe ou SbTe ou un chalcogénure, et notamment un composé de GeSbTe ou AgInSbTe, apte à passer d&apos;un état amorphe à un état cristallin de manière réversible.
+</P>
+<P>
+3. Mémoire selon l&apos;une des revendications 1 et 2, caractérisée en ce que le matériau des caissons qui entourent les îlots de couche sensible est un matériau isolant électriquement.
+</P>
+<P>
+4. Mémoire selon la revendication 3, caractérisée en ce que le matériau des caissons a une faible conductivité thermique.
+</P>
+<P>
+5. Mémoire selon la revendication 4, caractérisée en ce que le 30 matériau des caissons est un composé de sulfure de zinc ZnS et de silice SiO2.25
+</P>
+<P>
+6. Mémoire selon l&apos;une des revendications 1 à 5, caractérisée en ce que le substrat (10) est recouvert d&apos;une couche (20) formant barrière thermique, en matériau peu conducteur de la chaleur, et d&apos;une électrode continue (30) qui recouvre la couche barrière, l&apos;électrode continue étant recouverte d&apos;îlots (75) de la couche de matériau sensible entourés par des caissons (80) formés par le deuxième matériau.
+</P>
+<P>
+7. Mémoire selon l&apos;une des revendications 1 à 5, caractérisée en ce que le substrat est recouvert d&apos;une couche (20) formant barrière io thermique, en matériau peu conducteur de la chaleur, recouverte d&apos;îlots (75) du matériau de la couche sensible, et les îlots sont entourés de caissons constitués par la superposition de la deuxième couche (82), d&apos;une électrode (30), et d&apos;une troisième couche (84) isolante électriquement et isolante thermiquement, la liaison électrique entre un îlot et l&apos;électrode se faisant par 15 la tranche de l&apos;électrode autour de la périphérie de l&apos;îlot.
+</P>
+<P>
+8. Mémoire selon l&apos;une des revendications 6 et 7, caractérisée en ce que l&apos;ensemble des îlots et des caissons est recouvert par une couche (50) de réduction des frottements de la micropointe, de préférence en 20 carbone.
+</P>
+<P>
+9. Mémoire selon l&apos;une des revendications 6 à 8, caractérisée en ce que le substrat est en silicium, en verre, ou en matière organique. 25
+</P>
+<P>
+10. Mémoire selon l&apos;une des revendications 6 à 9, caractérisée en ce que la couche formant barrière est en silice, en nitrure de silicium, ou de préférence en composé de sulfure de zinc ZnS et de silice SiO2.
+</P>
+<P>
+11. Mémoire selon l&apos;une des revendications 1 à 10, caractérisée 30 en ce que le matériau des caissons est formé essentiellement par le même matériau que le matériau des îlots, des impuretés de différentiation étant contenues dans l&apos;un ou l&apos;autre des deux matériaux, ces impuretés étant choisies de telle sorte qu&apos;elles facilitent le changement d&apos;état pour le premier matériau ou qu&apos;elles rendent plus difficile le changement d&apos;état pour le 35 deuxième matériau.
+</P>
+<P>
+12. Mémoire selon l&apos;une des revendications 1 à 10, caractérisée en ce que le matériau des caissons est formé essentiellement par le même matériau que le matériau des îlots, des impuretés de différentiation étant contenues dans l&apos;un ou l&apos;autre des deux matériaux, ces impuretés étant choisies pour diminuer la conduction électrique (exemple : oxygène, hafnium).
+</P>
+<P>
+13. Procédé de fabrication d&apos;une mémoire inscriptible et lisible par io l&apos;intermédiaire d&apos;au moins une micropointe d&apos;écriture ou de lecture qui vient à proximité d&apos;une zone élémentaire à inscrire ou à lire sur la surface d&apos;un substrat, caractérisé en ce que les zones élémentaires sont des îlots individuels d&apos;un premier matériau, entourés par des caissons d&apos;un matériau différent, et en ce que les îlots sont définis en utilisant une étape d&apos;auto- 15 organisation d&apos;au moins une substance qui, lors de son dépôt sur une surface d&apos;un substrat, est apte à s&apos;auto-organiser en un motif d&apos;îlots individuels séparés les uns des autres.
+</P>
+<P>
+14. Procédé selon la revendication 13, caractérisé en ce que la 20 substance qui s&apos;auto-organise est une impureté destinée à être diffusée dans une couche sous-jacente pour définir les îlots individuels.
+</P>
+<P>
+15. Procédé selon la revendication 13, caractérisé en ce que la substance qui s&apos;auto-organise est une substance servant de masque pour le 25 traitement d&apos;une couche sous-jacente.
+</P>
+<P>
+16. Procédé selon la revendication 15, caractérisé en ce que la substance qui s&apos;auto-organise est un polymère, et en ce que ce polymère est déposé en même temps qu&apos;un deuxième polymère ayant des affinités avec le 30 premier, les forces de liaison entre les deux polymères engendrant une auto-organisation dans laquelle le premier polymère s&apos;agglomère en îlots individuels entourés par une matrice du deuxième polymère.
+</P>
+</Claims>
+<Also_published_as>
+FR2901909A1;US2009173929A1;JP2009539198A;WO2007138035A1
+</Also_published_as>
+</BiblioData>
